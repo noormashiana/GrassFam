@@ -21,4 +21,4 @@ The files within this repo are organized broadly into three subdirectories: `sof
 
 - `GrassFam-data/`: This subdirectory contains the GrassFam HMM binaries, cluster information, multiple sequence alignments, consensus sequences, and more. 
 
-- `Supplementary-data/`: This subdirectory contains supplementary data. It also includes data files used in GrassFam not avaiable in other public databases.
+- `Supplementary-data/`: This subdirectory contains large supplementary data, including data files used to create GrassFam not avaiable in other public databases.
