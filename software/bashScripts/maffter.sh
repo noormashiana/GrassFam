@@ -16,4 +16,6 @@ mafft_file() {
 export -f mafft_file
 export output_dir
 
-find "$input_dir" -type f -name '*.fasta' | parallel --gnu -j 16 mafft_file {} {/}
+while IFS= read -r file; do
+    mafft_file "$file"
+done < <(find "$input_dir" -type f -name '*.fasta')

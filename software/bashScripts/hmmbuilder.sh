@@ -20,7 +20,7 @@ for file in "$input_dir"*.fasta; do
         # Define the output file name
         output_file="${output_dir}${hog_id}.hmm"
         # Generate the hmm command and run it in background
-        hmmbuild -n "$hog_id" --cpu "$(nproc)" "$output_file" "$file" &
+        hmmbuild -n "$hog_id" --cpu "$(nproc)" "$output_file" "$file"
         # Store the PID of the background process
         pid=$!
         echo "pid: ${pid}, hog_id: ${hog_id}"

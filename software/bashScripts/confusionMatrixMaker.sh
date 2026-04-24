@@ -25,6 +25,8 @@ export destination_directory
 export grassfam_path
 export confusion_directory
 
-find "$source_directory" -type f -name '*.fasta' | parallel --gnu -j 16 process_file {} {/}
+while IFS= read -r file; do
+    process_file "$file"
+done < <(find "$source_directory" -type f -name '*.fasta')
 
 cat "$confusion_directory"/* >> "$confusion_path"
