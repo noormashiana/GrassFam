@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM006161
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             326.0 aa
+Family Size (Extended Family Size): 39 (42) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43329:SF144
+Panther Family ID:               PTHR43329
+Modal Panther ID:                PTHR43329:SF144
+Modal Panther Description:       AB HYDROLASE-1 DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR43329
+Modal Panther Fam Desc:          EPOXIDE HYDROLASE
+Interpro Signature Accession:    G3DSA:3.40.50.1820:FF:000161; G3DSA:3.40.50.1820; PTHR43329; PR00412; PF00561; SSF53474
+Interpro Signature Description:  Epoxide hydrolase; alpha/beta hydrolase; EPOXIDE HYDROLASE; Epoxide hydrolase signature; alpha/beta hydrolase fold; alpha/beta-Hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: epoxide hydrolase A
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu05H
+  Gene Products: epoxide hydrolase A; epoxide hydrolase A-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata05D
+  Gene Products: epoxide hydrolase A
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: epoxide hydrolase A-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl12
+  Gene Products: uncharacterized LOC127756720
+  Gene Descriptions: uncharacterized LOC127756720
+Osa
+  Gene count: 1
+  Modal chromosome: Osa12
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4352891
+Ecu
+  Gene count: 6
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 2
+  Modal chromosome: Pau22
+  Gene Products: uncharacterized LOC133905180; uncharacterized LOC133906551
+  Gene Descriptions: uncharacterized LOC133905180; uncharacterized LOC133906551
+Svi
+  Gene count: 2
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi03K
+  Gene Products: epoxide hydrolase A-like; epoxide hydrolase A-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: epoxide hydrolase A-like
+Msi
+  Gene count: 5
+  Modal chromosome: Msi15
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: uncharacterized LOC8071538
+Zma
+  Gene count: 3
+  Modal chromosome: Zma01
+  Gene Products: epoxide hydrolase A; uncharacterized LOC100281378; uncharacterized LOC100286370
+  Gene Synonyms: AY111333,GRMZM2G018793; GRMZM2G093755,GRMZM2G392791,pco066796
+  Gene Descriptions: uncharacterized LOC100281378; uncharacterized LOC100286370
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 326 aa
+
+MeAgGAGEVRHWNADVNGVSLHVAEQGPADGPAVLLLHGFPELWLSWRHQMAALAARGFR
+ALAPDLRGYGDSSAPADPAAYTIFHIVGDvVALLDHLRLPKVFVVGHDWGAQVAWHLCLF
+RPDRVRAVVaLGVPYFPRgPRPmTEsFAArGDGFYItQFQEPGRAERAFARYDVATVLKK
+FYSIEIDDLtAPPGVEIIDFLEApSSPLPWMTEEELGQYAEKFQKSGFTGPLNYYRMmDT
+NWRLTAPWnGAKITVPAKFIaGDKDiGvQSFGTEhYIKSGGFKSNVPDLEVaIIEGHHFL
+QQEQAERVNSEILSYLDKFTSEEaSa
+
+
+BOP CONSENSUS:
+Length: 324 aa
+
+MesgGAGEVRHWNADVNGVSLHVAEQGPAAGPAVLLLHGFPELWLSWRHQMAALAARGFR
+ALAPDLRGYGDSdAPADPAAYTvLHVVGDvVALLDHLRLPKVvVVGHDWGAQVAWHLCLF
+RPDRVRAVVALGVPFFPRSPRPmAEmFAARGDGFYITQFQEPGRAERAFARYDVATVLKK
+FYSIELDDLTAPPGVEIIDFLEASSSPLPWMTEEELGQYAEKFQKSGFTGPLNYYRMMDT
+NWRLTAPWHGAKITVPAKFIgGEKDTGVESFGTKHYIESGgFKSNVPDLEVaIIEGHHFL
+QQEQAERVNSEILSFLDKFtGEEa
+
+
+PACMAD CONSENSUS:
+Length: 326 aa
+
+MeAgGAGEVRHWNADVNGISLHVAERGPADGPAVLLLHGFPELWLSWRHQMAALAARGFR
+ALAPDLRGYGDSSAPADPAAYSIFHIVGDvVALLDHLqLTKVFVVGHDWGAQVAWHLCLF
+RPDRVRAAVvLGVPYFPRgPRPmTEsFAAlGDGFYINQFQEPGRAERAFARYDVATVLKK
+FYSIEIDeLtAPPGVEIIDFLEAPSSPLPWITEEELGQYAEKFQKSGFTGPLNYYRMldT
+NWRLTAPWNGAKITVPAKFIlGDKDIGlQSFGTEkYIKSGGFKSNVPDLEVsIIEGHHFL
+QQEQAERVNSEILSYLdKFTSEEaSA
+
+================================================================================

@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM014009
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             443.0 aa
+Family Size (Extended Family Size): 22 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45768:SF23
+Panther Family ID:               PTHR45768
+Modal Panther ID:                PTHR45768:SF23
+Modal Panther Description:       OS02G0790600 PROTEIN
+Modal Panther Family ID:         PTHR45768
+Modal Panther Fam Desc:          E3 UBIQUITIN-PROTEIN LIGASE RNF13-LIKE
+Interpro Signature Accession:    G3DSA:3.30.40.10:FF:000231; PTHR45768
+Interpro Signature Description:  RING-H2 finger protein ATL46; E3 UBIQUITIN-PROTEIN LIGASE RNF13-LIKE
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: RING-H2 finger protein ATL13
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: RING-H2 finger protein ATL13-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: RING-H2 finger protein ATL13
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: RING-H2 finger protein ATL13-like; RING-H2 finger protein ATL13-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: RING-H2 finger protein ATL13-like
+  Gene Descriptions: RING-H2 finger protein ATL13-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: RING-H2 finger protein ATL13
+  Gene Descriptions: RING-H2 finger protein ATL13
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: RING-H2 finger protein ATL13-like
+  Gene Descriptions: RING-H2 finger protein ATL13-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: RING-H2 finger protein ATL13-like; putative RING-H2 finger protein ATL49
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: RING-H2 finger protein ATL13-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: RING-H2 finger protein ATL13
+Zma
+  Gene count: 2
+  Modal chromosome: Zma04
+  Gene Products: RING-H2 finger protein ATL13; RING-H2 finger protein ATL2C
+  Gene Synonyms: GRMZM2G122284
+  Gene Descriptions: RING-H2 finger protein ATL2C
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 442 aa
+
+MSNSSWLMPPPPPqPpASALDNVETKISPSILFIVAILAIVFFVCGLLHLLVRHLLRLRR
+RRRAREDAESVTAFQGQLQQLFHLHDAGVDQAFIDALPVFLYRNVVGGdGgGeGKDPFDC
+AVCLCEFSPDDQLRLLPKCSHAFHLECIDTWLLSHSTCPLCRRSLLAELSPTCSPVVMVL
+ESESSRDMAASAtRATDDADGEPSGvGvRalGQeGAEEVVEVKLGKFMCVEGNsNANAtA
+nAGDGAGTSSDGNGDAnAKAGLGQRRCHSMGSYEYVMDERASLRVAIKPPKKKPAvSKSR
+RRGAMSECEFGASKRGEsSLRLPFPATvqKQQQqPpsDaAaAKLAKDSFSVSKIWMVPpS
+KKDPdAAGERRAVSFRWPVsSgEEEeGkeRKSGSEADWDVEAGSCGGNSVVSSLAEERPS
+FARRTLLWVVGGRQQSRVGsCS
+
+
+BOP CONSENSUS:
+Length: 446 aa
+
+MSNSSWtAPPASGSSALETVETKISPSILFIVAVLAIVFFVCGLLHLLARHLLRLRRRRR
+AARDDAESVTAFQGQLQQLFHLHDAGVDQAFIDALPVFLYRNVVVGGGGGGKDPFDCAVC
+LCEFAPDDQLRLLPKCSHAFHLECIDTWLLSHSTCPLCRRSLLAAGELSPTCSPVVMVLE
+SESSRDLAgSARRADgEPSGVAVRVPGLDGAEEVVEVKLGKFMCVEGNvnAvAgAgAGDG
+AGTSSNANADAnAGLGQRRCHSMGSYEYVMEEQASLRVAIAKPPPKKKRPAFSRARRGGG
+AMSECEFGASKRRGESSLRYPVIPATTaRKQQPPPdLPAAAKLTKDSFSVSKIWMVPPSS
+RKGDPaAGGRRTVSFRWPMRSGKDEEEGGGERKSGSEADWGDVETGSGGGNSVVSSLAEE
+RPSFARRTLLWVVGGRQQSNRVGDCS
+
+
+PACMAD CONSENSUS:
+Length: 443 aa
+
+MSGGNSSWLMPPPSPPQPPASALDNVEAKISPSILFIVAILAIVFFVCGLLHLLVRHLLR
+LRRRRRAREDAESVTAFQGQLQQLFHLHDAGVDQAFIDALPVFLYRNVVGgGaGqGEGKD
+PFDCAVCLCEFSPDDQLRLLPKCSHAFHLECIDTWLLSHSTCPLCRRSLLAELSPTCSPV
+VMVLESESSRDMAASATRATDDADGEPSGlgGAALaQEGAEEVVEVKLGKFMCVEGNsNA
+NATANAGDGAGTSsDGNGDANAKAGLGQRRCHSMGSYEYVMDERASLRVAIKPPKKKPAV
+SKSRRRGAMSECEFGASKRGETSLRLPFPATVQKQQQQSDAAMAKLAKDSFSVSKIWMVP
+SSKKDPDAAGERRAVSFRWPVSKkEEEGKdKKSGSEADWDVEAGSCGGNSVVSSLAEERP
+SFARRTLLWVVGGRQQSRVGaCS
+
+================================================================================

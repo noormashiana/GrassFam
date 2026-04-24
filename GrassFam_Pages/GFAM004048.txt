@@ -1,0 +1,127 @@
+================================================================================
+GrassFam ID: GFAM004048
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             443.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47985:SF55
+Panther Family ID:               PTHR47985
+Modal Panther ID:                PTHR47985:SF55
+Modal Panther Description:       OS05G0125300 PROTEIN
+Modal Panther Family ID:         PTHR47985
+Modal Panther Fam Desc:          OS07G0668900 PROTEIN
+Interpro Signature Accession:    cd14066; G3DSA:3.30.200.20:FF:000244; G3DSA:1.10.510.10:FF:000032; G3DSA:3.30.200.20; G3DSA:1.10.510.10; PTHR47985; PF00069; SM00220; SSF56112
+Interpro Signature Description:  STKc_IRAK; Serine/threonine-protein kinase CDL1-like; Serine/threonine-protein kinase PBS1; Phosphorylase Kinase; domain 1; Transferase(Phosphotransferase) domain 1; OS07G0668900 PROTEIN; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: probable serine/threonine-protein kinase PBL25
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: probable serine/threonine-protein kinase PBL26%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: probable serine/threonine-protein kinase PBL25
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: probable serine/threonine-protein kinase PBL25
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: probable serine/threonine-protein kinase PBL26
+  Gene Descriptions: probable serine/threonine-protein kinase PBL26
+Osa
+  Gene count: 2
+  Modal chromosome: Osa05
+  Gene Products: probable serine/threonine-protein kinase PBL25; probable serine/threonine-protein kinase PBL26
+  Gene Descriptions: probable serine/threonine-protein kinase PBL25; probable serine/threonine-protein kinase PBL26
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: probable serine/threonine-protein kinase PBL25; probable serine/threonine-protein kinase PBL7
+  Gene Descriptions: probable serine/threonine-protein kinase PBL25; probable serine/threonine-protein kinase PBL7
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: probable serine/threonine-protein kinase PBL25
+Zma
+  Gene count: 2
+  Modal chromosome: Zma06
+  Gene Products: uncharacterized LOC100285889; uncharacterized LOC103635937
+  Gene Synonyms: GRMZM2G381076,GRMZM2G381086
+  Gene Descriptions: uncharacterized LOC100285889
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 445 aa
+
+MSCFSCFKPEKKmPPRRtESREVTvVktvSSQsGAPLrESESnrPSsVsSHKHKPSSETr
+ANiEPPKGSSSVAKTAKAFTFRELATATKNFRSDCLLGEGGFGRVYKGQLENGQLVAVKQ
+LDLNGFQGNREFLVEVLMLSLLHHPNLVSLVGYCADGDQRLLVYEYMALGSLADHLLDtT
+PDQVPLSWHiRMKIAHGTAKGLEYLHEKANPPVIYRDLKSPNILLDEEYNPKLSDFGLAK
+LGPVGEKTHISTRVMGTYGYCAPEYIRTGQLTVKTDVYSFGVFLLELITGRRAVDTSRPA
+SEQILVNWAKPMLRDRKRYHELVDPLLRGEYPEKDLSQAVGVAAMCLQEEASVRPYMSDA
+VVALGFLAEVPAGYEEKPSpiPQKKQVEDPSLTsStKQDKSTYDRQRAVAEAIEWGSLRQ
+KQKAQsQgKKtQSQGITSPPEANRL
+
+
+BOP CONSENSUS:
+Length: 447 aa
+
+MHWGIRTVKCFSCFRPEKKTSPRRTgSGEVATSPVANAAVSTRSGAPLMESEspKHGQSS
+EvRANGEPAERSSMAKNAKAFTYRELATATKNFRSDYLLGEGGFGRVYKGQLENGQIVAV
+KQLDLNGFQGNREFLVEVLMLSLLHHPNLVSLVGYCADGDQRLLVYEYMALGSLADHLLD
+tTTDQIPLSWHRRMKIAHGTAKGLEYLHEKANPPVIYRDLKSPNILLDEEYNPKLSDFGL
+AKLGPVGEKTHVSTRVMGTYGYCAPEYIKTGQLTIKTDVYSFGIFLLELITGRKAVDStK
+PASDQILVNWAMPIIRDRRRYHELVDPLLRGEYPEKDLSQAVAVAAMCLHEEDSVRPYMS
+DAVVALGFLAEVPAGCEEKPSvAPQKKQAEDPPLSNGTQQDKSTFDRQRVVAEAIEWGAM
+RQKQKAQTQGKTTDSQCITDPTEANRV
+
+
+PACMAD CONSENSUS:
+Length: 446 aa
+
+MSCFGCFKPEKKMPPRRlESREVTVVKTAPSQNEAPPRESGSvRPSpVtSKHKHKPSSET
+AASIEPPKGSCSVAKTAKAFTFRELATATKNFRSDCLLGEGGFGRVYKGKLENGQLVAVK
+QLDLNGYQGNREFLVEVLMLSLLHHPNLVNLVGYCADGDQRLLVYEYMALGSLADHLLDS
+TPDQVPLSWYLRMKIAHGTAKGLEYLHEKANPPVIYRDLKSPNILLDEKYNPKLSDFGLA
+KLGPVGGKTHISTRVMGTYGYCAPEYIRTGQLTVKTDVYSFGVFLLELITGRRAVDTSRP
+ASEQILVNWVKPMLRDRKRYNELVDPlLRGEYPEKDLSQAVGVAAMCLQEEASVRPYMSD
+AVVALGFLAEMPAGYKHKSGPILQMKQVgDPSLTGSAKQDKDAYNRQKAVAEAIEWGSLR
+QKQKAQSPEKKAQSQGitSPPEASRL
+
+================================================================================

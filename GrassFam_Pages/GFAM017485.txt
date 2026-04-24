@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM017485
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             537.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10682:SF45
+Panther Family ID:               PTHR10682
+Modal Panther ID:                PTHR10682:SF45
+Modal Panther Description:       POLYNUCLEOTIDE ADENYLYLTRANSFERASE
+Modal Panther Family ID:         PTHR10682
+Modal Panther Fam Desc:          POLY A  POLYMERASE
+Interpro Signature Accession:    G3DSA:3.30.460.10:FF:000002; G3DSA:1.10.1410.10:FF:000019; G3DSA:3.30.70.590:FF:000005; G3DSA:1.10.1410.10; G3DSA:3.30.460.10; PTHR10682; PF20750; SSF81301; SSF55003; SSF81631
+Interpro Signature Description:  Poly(A) polymerase alpha, putative; Nuclear poly(A) polymerase 3; -; Beta Polymerase, domain 2; POLY A  POLYMERASE; Poly(A) polymerase nucleotidyltransferase domain; Nucleotidyltransferase; PAP/Archaeal CCA-adding enzyme, C-terminal domain; PAP/OAS1 substrate-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: nuclear poly(A) polymerase 3%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: nuclear poly(A) polymerase 3-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: nuclear poly(A) polymerase 3
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: nuclear poly(A) polymerase 3-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: nuclear poly(A) polymerase 3-like
+  Gene Descriptions: nuclear poly(A) polymerase 3-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: nuclear poly(A) polymerase 3
+  Gene Descriptions: nuclear poly(A) polymerase 3
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau04
+  Gene Products: nuclear poly(A) polymerase 3-like
+  Gene Descriptions: nuclear poly(A) polymerase 3-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: nuclear poly(A) polymerase 3-like; nuclear poly(A) polymerase 3-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: nuclear poly(A) polymerase 3-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: nuclear poly(A) polymerase 3
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: Nuclear poly(A) polymerase 3%2C transcript variant X1; nuclear poly(A) polymerase 3
+  Gene Synonyms: GRMZM5G835810,umc2741
+  Gene Descriptions: Nuclear poly(A) polymerase 3
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 534 aa
+
+MALDLaVGGSAaRKaErQTLAPVllMGPPPPPPIPPTPGMYLPGPPPPGvLLPRPIvvcL
+DrAvikhMDECRSRSLLKFISDaGVVPSlEDErRRERVVRELgKIVMDWAKRVAYEQGkQ
+HWITSATVLTFGSYALGAYGPESDIDAVCVGPCIASLQHHFFVVLRQMLEGRPEVSELHS
+IEGAKVPLMRFKFNGILVDFPYVQLPVINAAEAIHAFDPRLLEkVDGASWRCLSGVRVNR
+QIMQLVPNMKKFQyLLRCLKLWARKRGLHCHLLGFFAGIHLAILAAYVCRRHPNASINTL
+LSLFFDIFsHWPWPLPVSLLDQPpLCgPDGCSLMPIMMPCiPPEFCSSSvTeSTFNKIKE
+ELrRGyALTKDTRSTDiDWSWLFAPFPYGARYKHFLRIVLSAPmaEELRDWVGWVKSRFR
+NLILKLESLGVyCDPDPSEQVDHTItEPNVVFFWGLMYRRNTQICTSSLKEDFMKSVtNN
+IYGKEKCAHSDITMSIVGPPQLPKSvfDHSVYSqNLPPhMMGhQLMKQgcNAVg
+
+
+BOP CONSENSUS:
+Length: 540 aa
+
+MVLDRPVGRPAFRKPERRTLAPPRGTGPPPPPPIPPTPGMYLRGPPPLPPPGaIPPRPIV
+VCLDPARMKQMDSSRSsSLMKFLEDTGVSPSEEEERRRERVVLELHKIVMDWAKmVAFDQ
+GGKPWITSGTVLTFGSYDLGAYGPESDIDAVCVGPCIASLQHHFFVVLRQMLEARPEVSD
+LHSIESARVPLMRFKFNGVSVDFPYVQLPVINAAEAIHANDPRLLEKVDEASWRCLSGVR
+VNRQIMQLVPNMKKFQvLLRCLKLWARKRGIHCHLVGFFAGIHLAVLGAYVCRRHPNATA
+NTLLCRFFEIFSHWPWPLPVSLHDQTPLWSPDGCSLMPIVMPCYPPEFCASNVTKSTFNK
+IKEELWRGLSLTKDTSSVDIDWtWIFAPFPYaAKYKHFLRIVLSAPTTEELRDWVGWVKS
+RFRNLILKLESLNVGCDPNPSEQVDHTIGEPNVVFLWGLIYYSNTQICTTSLKEDFMRSV
+TNNIYGKEKCAHSDITMSVVGMPQVPKSMSDHSAYLQKLPNLPPrMLGYQPMRQGCNAVG
+
+
+PACMAD CONSENSUS:
+Length: 535 aa
+
+MALDLAVgGSAARKAEvQTLAPVLLMGPPPPPPIPPTtGMYLPGPPPPGVLLPRPIPmpL
+tREVIvHMDECRSRSLLKFISDAGIVPSLEDErRRERVVRELGKIVMDWAKRVAYEQGKQ
+HWITSATVLTFGSYALGAYGPESDIDVLCVGPYIASLQHHFFVVLRQMLEGRPEVSELHS
+IEGAKVPLMRFKFNGILVDFPYVQLPVINAAEAIHAFDPrVLENVDGASWRCLSGVRVNR
+QIIQLVPNMKKFQYLLRCLKLWARKRGLHCHLLGFFAGIHLAILAAYVCRRHPNASINTL
+LSLFFDIFVHWPWPLPVSLLDPPvLCRGPDGCSLMPIMLPCIPPEFCSSSTTESTFSKIK
+EELRRGYALTKDTRSTDFDWSWLFAPFPYGARYKCFLRIVLSAPMAEELRDWVGWVKSRF
+RNLLLKLESLGVYCDPDPSEQVDHTITEPNVVFFWGLMYRRNIQICTSSLKEDFMKSVcN
+NIYGKEKCAHSDITMSIVGPPQLPKSVFDHSVYSEKLPPHMMGHQLMKQsYNAVS
+
+================================================================================

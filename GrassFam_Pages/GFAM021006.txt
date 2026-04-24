@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM021006
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             424.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10571:SF1
+Panther Family ID:               PTHR10571
+Modal Panther ID:                PTHR10571:SF1
+Modal Panther Description:       UDP-N-ACETYLGLUCOSAMINE--DOLICHYL-PHOSPHATE N-ACETYLGLUCOSAMINEPHOSPHOTRANSFERASE
+Modal Panther Family ID:         PTHR10571
+Modal Panther Fam Desc:          UDP-N-ACETYLGLUCOSAMINE--DOLICHYL-PHOSPHATE N-ACETYLGLUCOSAMINEPHOSPHOTRANSFERASE
+Interpro Signature Accession:    cd06855; PTHR10571; PF00953
+Interpro Signature Description:  GT_GPT_euk; UDP-N-ACETYLGLUCOSAMINE--DOLICHYL-PHOSPHATE N-ACETYLGLUCOSAMINEPHOSPHOTRANSFERASE; Glycosyl transferase family 4
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: uncharacterized LOC127779647
+  Gene Descriptions: uncharacterized LOC127779647
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4344180
+Pau
+  Gene count: 2
+  Modal chromosome: Pau14
+  Gene Products: uncharacterized LOC133890629; uncharacterized LOC133892693%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133890629; uncharacterized LOC133892693
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase; uncharacterized LOC100274497
+  Gene Synonyms: GRMZM2G137707; GRMZM5G827205
+  Gene Descriptions: UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase; uncharacterized LOC100274497
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 423 aa
+
+MDVRRRPAAAAAgdPPrQrPPAAAAAAAAAPgELVLRPPNLRVVAAAMALFLAPFSYLAF
+VHYPLDADLRRSILICGAMSLGGFFVVLRLIPVAARYLLRRRMFGYDINKKGLPMGEIkV
+PEALGLVVGIVYLVIAILFQHFNFAADSIWLVEYNAALASVCFMILLGFIDDVLDIPWRV
+KLLLPTIAALPLLMAYAGGTSIIIPKPLTsYVGVtVLELGwfYKLFMLLLAVFCTNSINI
+HAGLNGLEVGQTVVISAAVLIHNVMRIGSSTDIETQQAHEFSIYLVLPFLTTSLALLAFN
+WYPSSVFVGDTYTYFAGMALAVVGILGHFSETLLLFFLPQVLNFLCSVPQLFHFVPCPRH
+RLPRFDPQTGLLTGTKDGNLVNIFLRLFGKCSEKaLCIRLLIFQALSCLFCFWLRYMLTG
+WYK
+
+
+BOP CONSENSUS:
+Length: 424 aa
+
+MDVRRRPGAAAADRPTKSRPAAAAAAAPAAAPGDLVLRPPNLRVVLAAMALFLAPFSYLA
+FVHYPLDADLRRSILICGAISLGGFFVVLRLIPVAARYLLRRGMFGKDINKKGLPMGEIT
+VPESLGIVVGIVYLVIAILFQHFNFTADSIWLVEYNAALASVCFMILLGFIDDVLDIPWR
+VKLLLPTIAALPLLMAYAGGTSIIIPKPLASYVGVEVLELGWMYKLFMLLLAVFCTNSIN
+IHAGLNGLEVGQTVVISAAVLIHNVMRIGSSKDLETQQAHAFSIYLVLPFLTTSLALLGF
+NWYPSSVFVGDTYTYFAGMTLAVVGILGHFSETLLLFFLPQVLNFLCSVPQLFHFVPCPR
+HRLPRFDTQTGLLTGTKDGNLVNIFLRLFGKCSEKSLCIRLLIFQALSCLFCFWLRYMLT
+GWYK
+
+
+PACMAD CONSENSUS:
+Length: 422 aa
+
+MAVRRRPAAAAAGDPPPQPPPADAAAAPAPkEPVLRPPNLRVAAVAAVLFLAPFSYLAFV
+HYPLgADLRRSILKCGAMSLGGFFVALKLIPVAARYHLRRRMFGYDINKKGLPTGQIKVP
+EALGLVVGIVYLVIAIIFQQFHYAPDSIWLVEYNAALASVCFMILLGFVDDVLDVPWRVK
+LALPTIAALPLLMAYAGGTSIIIPKPLTPYVGLTVLELGLFYKLFMLLLAVFCTNSINIH
+AGLNGLEVGQTVVISAAVLIHNVMRIGSSTDIETQQAHEFSIYLVLPFLTTSLALLAFNW
+YPSIVFVGDTYTYFAGMALAVVGILGHFSETLLLFFLPQVLNFLCSVPQLFHFVPCPRHR
+LPRFDPETGLLTGTKDGNLVNIFLRLFGKCSEKALCIRLLIFQALCCVFCFWLRYMLTGW
+YK
+
+================================================================================

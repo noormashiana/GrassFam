@@ -1,0 +1,131 @@
+================================================================================
+GrassFam ID: GFAM018941
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             421.0 aa
+Family Size (Extended Family Size): 29 (29) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23105:SF31
+Panther Family ID:               PTHR23105
+Modal Panther ID:                PTHR23105:SF31
+Modal Panther Description:       RIBOSOMAL L1 DOMAIN-CONTAINING PROTEIN 1
+Modal Panther Family ID:         PTHR23105
+Modal Panther Fam Desc:          RIBOSOMAL PROTEIN L7AE FAMILY MEMBER
+Interpro Signature Accession:    cd00403; G3DSA:3.30.190.20:FF:000005; G3DSA:3.40.50.790:FF:000007; PTHR23105; PF00687; SSF56808
+Interpro Signature Description:  Ribosomal_L1; Ribosomal L1 domain-containing protein 1; Ribosomal protein L1p/L10e family; RIBOSOMAL PROTEIN L7AE FAMILY MEMBER; Ribosomal protein L1
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: ribosomal L1 domain-containing protein 1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: ribosomal L1 domain-containing protein 1-like%2C transcript variant X1
+Ata
+  Gene count: 3
+  Modal chromosome: Ata05D
+  Gene Products: ribosomal L1 domain-containing protein 1; ribosomal L1 domain-containing protein 1-like
+Tae
+  Gene count: 7
+  Modal chromosome: Tae05D
+  Gene Products: ribosomal L1 domain-containing protein 1-like
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: uncharacterized LOC127775137
+  Gene Descriptions: uncharacterized LOC127775137
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4339582
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN570
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: uncharacterized LOC133884826; uncharacterized LOC133929394
+  Gene Descriptions: uncharacterized LOC133884826; uncharacterized LOC133929394
+Svi
+  Gene count: 2
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: ribosomal L1 domain-containing protein 1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: ribosomal L1 domain-containing protein 1-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi17
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: ribosomal L1 domain-containing protein 1-like
+Zma
+  Gene count: 2
+  Modal chromosome: Zma06
+  Gene Products: uncharacterized LOC100191559; uncharacterized LOC100279960
+  Gene Synonyms: GRMZM2G083738,GRMZM2G153863
+  Gene Descriptions: uncharacterized LOC100191559; uncharacterized LOC100279960
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 424 aa
+
+MSpkpqppHeVPRATVASAVASLTKWMrkRAAEAPPNLLADERDDLVVLQLSLRRVPASP
+TTKPrLLPLPHPVVAHsgASVCVISDDRPgSRSPaASdLLDASRSLHLPVSEVIPLSTLR
+TDYRPYESRRRLAASHDLFlADRAiLPLLPRVLGKAFYSTKKAPIAVDFTRvGWPEQVRK
+VLGSTFLYLRSGTCSGIKVGRLDMEEEEIVENVMAAVEAAVEKVPKKWANVRALHLKAVD
+SVALPIYQVVPELGMKIEVPvAReVGSGEVIDAAEVETggKkkDKKMKALKNADANGGav
+VAneSgKRKRNKKEQiEDVVMQEEVQvETEKKKKRKSivVSADEgQKVGKKGKdKGKRAL
+EnEVEEASpDnKKGKKGKtEEgsKKKKSMKGDGEVlvDedkEDKKSKGKKSDGKmKKtRT
+RVRV
+
+
+BOP CONSENSUS:
+Length: 428 aa
+
+MSPPPQPQlKdKaeHEVPRATVASAVASLTKWMRERAAEAPPNLLADERDDLVVLQLSLR
+RVPPKPTTKPHLLPLPHPVVAHSAASVCVISDDRAGSGSPAAAAILDAARSLkLPVSEVI
+PFSALRTDYRPYESRRRFAASYDLFLADRALLPMLPRLLGKSFYSTKKAPlAVDFTRAGW
+PEQVRKVLSSTFLYLRTGTCSGIKVGRLDMEEEEIVENVMAAVEAAVEKVPKKWANVRAL
+HLKAVDSVALPIYQVVPELGMKIEVpVARLEGVGAGEVIDAAEVGTGSKRKDKKMKALKD
+ANGGAEGvKYKRKRNKKDQTEDVVMEEAQEVTEKRRKKEAAPSVELSAGEDLKTPKKGKD
+KKRALDKEVEDASPAEKReSKEASNKKSKGEEVEDVGSKKNKGAAKEEKKSRGKKSSGDK
+MKRSRARV
+
+
+PACMAD CONSENSUS:
+Length: 418 aa
+
+MSPPQPPHPVPRETVAGAVASLTKWMKKRAAEArPNLLADERDDLVVLQLSLRRVPASPT
+TRPRLLPLPHPVVGHDGASVCVISDDRPKSRSPPASDLLDASKSLHRLPVSEVIPLSTLR
+TDYRPYESRRRLAASHDLFIADRAILPLLPRVLGKAFYSTKKAPIGVDFTRVGWPEQVRK
+VLGSAFLYLRSGTCSGIKVGRLDMEEEEIVENVMAAVEAAVEKVPKKWANVRALHLKAVD
+SVALPIYQVVPELGMKIEVPEiVGSGEVIDAAEvETrGKKTDKKKkNAGAnGrevVANES
+GKRKRNKKEQIEDVVMQEEVQVETEKKKRKSIVVSVDesQKVGKKGKeKGKRgLENEVEE
+ASlDNKKsKKGKtEEGKKKKKSMKGDGEVgtDESQEDKKSKGEKSDGKIKKTRTRVRV
+
+================================================================================

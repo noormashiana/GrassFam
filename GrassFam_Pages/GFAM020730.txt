@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM020730
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             407.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11586:SF45
+Panther Family ID:               PTHR11586
+Modal Panther ID:                PTHR11586:SF45
+Modal Panther Description:       TRNA-BINDING DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR11586
+Modal Panther Fam Desc:          TRNA-AMINOACYLATION COFACTOR ARC1 FAMILY MEMBER
+Interpro Signature Accession:    cd10304; cd02799; G3DSA:1.20.1050.10:FF:000075; G3DSA:2.40.50.140:FF:000047; G3DSA:2.40.50.140; PTHR11586; SSF50249
+Interpro Signature Description:  GST_C_Arc1p_N_like; tRNA_bind_EMAP-II_like; Methionyl-tRNA synthetase; tyrosine--tRNA ligase, cytoplasmic isoform X2; -; TRNA-AMINOACYLATION COFACTOR ARC1 FAMILY MEMBER; Nucleic acid-binding proteins
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: aminoacyl tRNA synthase complex-interacting multifunctional protein 1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: methionine--tRNA ligase%2C cytoplasmic%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: methionine--tRNA ligase%2C cytoplasmic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: methionine--tRNA ligase%2C cytoplasmic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: uncharacterized LOC127774254%2C transcript variant X2
+  Gene Descriptions: uncharacterized LOC127774254
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4327613
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: methionine--tRNA ligase%2C cytoplasmic-like
+  Gene Descriptions: methionine--tRNA ligase%2C cytoplasmic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: aminoacyl tRNA synthase complex-interacting multifunctional protein 1-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: methionine--tRNA ligase%2C cytoplasmic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: aminoacyl tRNA synthase complex-interacting multifunctional protein 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: uncharacterized LOC100282083
+  Gene Synonyms: cl12627_1,GRMZM2G166345,mars
+  Gene Descriptions: uncharacterized LOC100282083
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 408 aa
+
+MAAAADFTQSKRAMAYALCKHLNLDPNTISSTsIEESDIASLFSHIVkSSQDEVkKWVeF
+SSNFVGSDGKQHALLGNLNQDLSQKSVLLGDGFKPSVADIVVFATVQVFMsHLSDSELQK
+YPHVLRWMDYIQNvVDFGTTLQKINLTKSVFnPPSHPKKADKGDtDPSSKKAVSGQKIAD
+KSNGSADSKKAAGENKAPEDKENPTsAKNNKPSGDKKKVQEKSAGKTTEkAAEKAPQKTA
+EKDSECNVSILNIQVGLIRKAWKHPSADSLLVEEIDLGDGNVRQVVSGLAKYFSPDELVN
+RHVVLITNVKPGKLRDVMSAGLVLCASNkDHTVVEPLIPPEGAKlGERISFAGFDGKPED
+VLNPKKKQLDKITPHLRTDENGIATFRGIPFTTSAGPCRSSVPNAnVK
+
+
+BOP CONSENSUS:
+Length: 411 aa
+
+MAAAADFTQSKQAMSYALCKHLNLDPNSISSTLIKENDIASLFSHIVTSPQDEVKKWVEF
+SSNFVlSDGEQHALLGNLNQHLSQMSVLLAGFKPSAADIIVFATVHVFMCHLSDSELQKY
+PNILRWMDYIQNVVDFGTTLQKINLTKSIFNPPAPAPSHPKKADKGDGDPNSKKAVSGQK
+vADKSDGAADSKKAAGENKVPGDKANPTSAKNNKPSGDKKKVQEKTAGKaTEAAAEKAPQ
+KSAEKDSECSVSILNIQVGVIRKAWKHPSADSLLVEEIDLGDGNVRQVVSGLAKFFSPDE
+LVNRHVVLITNVKPGKLRDVMSAGLVLCASNKDHTVVEPLIPPEGAKLGERISFAGFDGK
+PEDVLNPKKKQLDKITPHLRTDENGIATFRGVPFTTSAGPCRSSVPNADVK
+
+
+PACMAD CONSENSUS:
+Length: 406 aa
+
+MAAAADLTGTKRAMAYALCKHLNIDPSTVSNTSIEESDIASLFSHIVKSSQDEVMKWVKF
+SSDFAGSDGKQHALLDNLNQDLSQKSVLLGDGLKPSVADIVVFATVQAFVSRVSDSELQK
+FPHVLRWMDYIQNIVDFGTTLQKINVAKSVFdPPSHPKKADKGDTESSSKKAVSGQKIAD
+KSNGSADSKKPAGETKAPEDKETPtAAKDNKTSGEKKKDKSAGKTAEKASEKAPEKTADK
+DSECNISILNIQVGLIRKAWKHPSADSLLVEEIDLGDGNVRQVVSGLAKYCSPDDLTNRH
+VVLITNVKPGKLRDVMSAGLVLCASTEDHTAVEPLIPPEGAKIGERISFAGFDGKPEDVL
+NPKKKQLDKITPHLRTDENGIATFKGIPFTTSAGPCRSSIRNGNVK
+
+================================================================================

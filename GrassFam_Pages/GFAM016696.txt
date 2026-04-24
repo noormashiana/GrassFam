@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM016696
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             462.5 aa
+Family Size (Extended Family Size): 22 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10972:SF164
+Panther Family ID:               PTHR10972
+Modal Panther ID:                PTHR10972:SF164
+Modal Panther Description:       OXYSTEROL-BINDING PROTEIN-RELATED PROTEIN 3B
+Modal Panther Family ID:         PTHR10972
+Modal Panther Fam Desc:          OXYSTEROL-BINDING PROTEIN-RELATED
+Interpro Signature Accession:    G3DSA:2.40.160.120:FF:000009; G3DSA:3.30.70.3490:FF:000008; G3DSA:2.40.160.120; PTHR10972; PF01237; SSF144000
+Interpro Signature Description:  oxysterol-binding protein-related protein 3C; Oxysterol-binding protein-related protein 3C; -; OXYSTEROL-BINDING PROTEIN-RELATED; Oxysterol-binding protein; Oxysterol-binding protein-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: oxysterol-binding protein-related protein 3B
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: oxysterol-binding protein-related protein 3A-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: oxysterol-binding protein-related protein 3A
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: oxysterol-binding protein-related protein 3A-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: oxysterol-binding protein-related protein 3C-like
+  Gene Descriptions: oxysterol-binding protein-related protein 3C-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: oxysterol-binding protein-related protein 3C
+  Gene Descriptions: oxysterol-binding protein-related protein 3C
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: oxysterol-binding protein-related protein 3C-like; oxysterol-binding protein-related protein 3C-like%2C transcript variant X2
+  Gene Descriptions: oxysterol-binding protein-related protein 3C-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: oxysterol-binding protein-related protein 3C-like; oxysterol-binding protein-related protein 3C-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: oxysterol-binding protein-related protein 3B-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: oxysterol-binding protein-related protein 3A
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: putative oxysterol binding domain family protein; uncharacterized LOC100285774
+  Gene Synonyms: GRMZM2G114126; GRMZM2G174644,pco077793
+  Gene Descriptions: putative oxysterol binding domain family protein; uncharacterized LOC100285774
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 462 aa
+
+MGSKDQgGGAASGGGGGFFSSIAAGMRSWGTAVHKSVNGLLGYEGLEVINPDGGTDDAEE
+EALRGRWKQEDRDSYWKMMHKYIGSDVTSLVTLPVIIFEPMTMLQKMAELMEYCELLDKA
+DECEDPYMRMVYASTWAVSVYFAYQRTWKPFNPILGETYEMVNHQGITFLAEQVSHHPPM
+GVAHCENEHFTYDITSKLKTKFLGNSVEVYPVGRTRVTLKKSGVVLDLVPPLTKVNNLIF
+GRTWVDSPGEMVMTNLTTGDKVVLYFQPCGWFGAGRYEVDGYVYSAAEEPKIMITGKWNK
+SMSCQPCDQEGDPLPGTELKEIWRVAPTPpNDKYQYTHFAHKINSFDTAPKKLLPSDSRL
+RPDRYALEKGDMSKSGAEKSRLEEQQRAEKRTREAKGEQFTPRWFNMTDeVsPTPWGDLE
+VYEYNGKYTEHRAAIDSSSVADETDVTSIEFNPWQYGSSSSQ
+
+
+BOP CONSENSUS:
+Length: 462 aa
+
+MGSKDQDLAASSGGGGGFFSSIAAGVRSWGTAVHKSVNGLVGYEGLEVINPDGGTEDAEA
+EAMKGRWKQEDRDSYWKMMNKYIGSDVTSLVTLPVIIFEPMTMLQKMAELMEYCELLDKA
+DECEDPYMRMVYASTWAVSVYLAYQRTWKPFNPILGETYEMVNHQGITFIAEQVSHHPPM
+GVAHCENDHFTYDITSKLKTKFLGNSVEVYPVGRTRVTLKKSGVVLELVPPLTKVNNLIF
+GRTWVDSFGEMVLTNLTTGDKAVLYFQPCGWFGAGRYEVDGYVYTAAEEPKIMMTGKWNK
+SMSYQPCDQEGDPLPGTELKEVWKVAPTPPNDKYQYTYFAHKINSFDTAPKKLLPSDSRL
+RPDRYALEKGDMSKSGAHKSRLEEQQRAEKRTRDTKGEQFTPKWFKMTEDISPTPWGDLE
+VYEYNGRYTEHRAAIDSSSVAEETDVSSIEFNPWQYGDSPSQ
+
+
+PACMAD CONSENSUS:
+Length: 461 aa
+
+MGSKDQGGGAASSGGGFFSSFAAGMRSWGTAVHKSVNGLLGYEGLEVINPDGGTDDAEEE
+ALRGRWKQEDRDSYWKMMHKYIGSDVTSLVTLPVIIFEPMTMLQKMAELMEYCELLDKAD
+ECEDPYMRMVYASTWAVSVYFAYQRTWKPFNPILGETYEMVNHQGITFLAEQVSHHPPMG
+VAHCENEHFTYDITSKLKTKFLGNSVEIYPVGRTRVTLKKSGVVLDLVPPLTKVNNLIFG
+RTWVDSPGEMVMTNLTTGDKVVLYFQPCGWFGAGRYEVDGYVYSAAEEPKIMITGKWNKS
+LSCQPCDQEGDPLPGTELKEIWRVAPTPQNDKYQYTHFAHKINSFDTAPKKLLASDSRLR
+PDRYALEKGDMSKSGAEKSRLEEQQRAEKRTREAKGEQFTPRWFNmTDvVAPTPWGDLEI
+YEYNGKYTEHRAAIDSSNVtDETDVTSIEFNPWQYGSSSSQ
+
+================================================================================

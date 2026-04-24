@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM017607
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             506.0 aa
+Family Size (Extended Family Size): 35 (35) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR43382
+Modal Panther ID:                PTHR43382:SF8
+Modal Panther Description:       PROLINE--TRNA LIGASE
+Modal Panther Family ID:         PTHR43382
+Modal Panther Fam Desc:          PROLYL-TRNA SYNTHETASE
+Interpro Signature Accession:    cd00778; cd00862; G3DSA:3.40.50.800:FF:000005; G3DSA:3.30.930.10:FF:000007; G3DSA:3.30.110.30:FF:000003; G3DSA:3.30.930.10; G3DSA:3.40.50.800; G3DSA:3.30.110.30; TIGR00408; PTHR43382; SM00946; SSF52954; SSF55681
+Interpro Signature Description:  ProRS_core_arch_euk; ProRS_anticodon_zinc; bifunctional glutamate/proline--tRNA ligase; Bifunctional glutamate/proline--tRNA ligase; Proline--tRNA ligase, cytoplasmic; Bira Bifunctional Protein; Domain 2; -; proline--tRNA ligase; PROLYL-TRNA SYNTHETASE; ProRS_C_1_2; Class II aaRS ABD-related; Class II aaRS and biotin synthetases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: proline--tRNA ligase%2C cytoplasmic
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu03H
+  Gene Products: proline--tRNA ligase%2C cytoplasmic-like%2C transcript variant X1
+Ata
+  Gene count: 3
+  Modal chromosome: Ata01D
+  Gene Products: proline--tRNA ligase%2C cytoplasmic%2C transcript variant X1; proline--tRNA ligase%2C cytoplasmic%2C transcript variant X2; proline--tRNA ligase%2C cytoplasmic%2C transcript variant X3
+Tae
+  Gene count: 8
+  Modal chromosome: Tae01B
+  Gene Products: proline--tRNA ligase%2C cytoplasmic-like; proline--tRNA ligase%2C cytoplasmic-like%2C transcript variant X1
+Ola
+  Gene count: 2
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl12
+  Gene Products: proline--tRNA ligase%2C cytoplasmic
+  Gene Descriptions: proline--tRNA ligase%2C cytoplasmic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa12
+  Gene Products: proline--tRNA ligase%2C cytoplasmic
+  Gene Descriptions: proline--tRNA ligase%2C cytoplasmic
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau22
+  Gene Products: proline--tRNA ligase%2C cytoplasmic%2C transcript variant X1
+  Gene Descriptions: proline--tRNA ligase%2C cytoplasmic
+Svi
+  Gene count: 2
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: proline--tRNA ligase%2C cytoplasmic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: proline--tRNA ligase%2C cytoplasmic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi07
+  Gene Products: proline--tRNA ligase%2C cytoplasmic; proline--tRNA ligase%2C cytoplasmic%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: Proline--tRNA ligase cytoplasmic; proline--tRNA ligase%2C cytoplasmic%2C transcript variant X4
+  Gene Synonyms: GRMZM2G094123
+  Gene Descriptions: Proline--tRNA ligase cytoplasmic
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 508 aa
+
+MSTnKGGGgGGGGGKKKEVKKETKLGMAYKKDDNFGEWYSEVVVNSEMIEYYDISGCYIL
+RPWAMEIWELLKEFFDAEIKKLKLKPYYFPLFVTENVLQKEKDHIEGFAPEVAWVTKSGK
+SDLEAPIAIRPTSETVMYPYFSKWIRSHRDLPLRCNQWCNVVRWEFSNPTPFIRSREFLW
+QEGHTAFATKEEADEEVLQILELYRRIYEEFLAVPVSKGRKSEMEKFAGGLYTTSVEAFI
+PNTGRGIQGATSHCLGQNFAKMFDITFENEKGeRSMVWQNSWAYTTRSIGVMVMTHGDDK
+GLVLPPKVAPIQVIVIPVPYKDADTTAIKGACESAVYTLNQAGIRADLDTRENYSPGWKY
+SHWEMKGVPLRIEIGPKDLANKQVRIVRRDNGAKVDIPsTDLVEqVrVLLDGIQaNLFET
+AKeKRDACIkVIsTWDEFttALNnKKLILAPWCDEEEVEKDVKARTKGELGAAKTLCTPF
+DQPDLPEGTlCFASGKPAKKWSFWGRSY
+
+
+BOP CONSENSUS:
+Length: 505 aa
+
+MSTNKGGGGGKKKKEVKKETKLGMAYKKDDNFGEWYSEVVVNSEMIEYYDISGCYILRPW
+AMEIWELLKEFFDAEIKKLKLKPYYFPLFVTENVLQKEKDHIEGFAPEVAWVTKSGKSDL
+EAPIAIRPTSETVMYPYFSKWIRSHRDLPLKCNQWCNVVRWEFSNPTPFIRSREFLWQEG
+HTVFATKEEADEEVLQILELYRRIYEEFLAVPVSKGRKSEMEKFAGGLYTTSVEAFIPNT
+GRGIQGATSHCLGQNFAKMFDITFENEKGERSMVWQNSWAYTTRSIGVMVMTHGDDKGLV
+LPPKVAPIQVIVIPVPFKDADTTAIKGACESAVYTLNQAGIRADLDARENYSPGWKYSQW
+EMKGVPLRIEIGPKDLANKQVRIVRRDNGTKVDIPSTDLVEQVRVLLDGIQaNLLETAKA
+KRDACIviISTWDEFIAALNDKKLILAPWCDEEEVEKDVKARTKGELGAAKTLCTPFDQP
+DLPSGTVCFASGKPAQKWSFWGRSY
+
+
+PACMAD CONSENSUS:
+Length: 508 aa
+
+MSTGKGGAkKGGGGKKKEVKKETKLGMAYKKDDNFGEWYSEVVVNSEMIEYYDISGCYIL
+RPWAMEIWELLKEFFDAEIKKLKLKPYYFPLFVTENVLQKEKDHIEGFAPEVAWVTKSGK
+SELEAPIAIRPTSETVMYPYFSKWIRSHRDLPLRCNQWCNVVRWEFSNPTPFIRSREFLW
+QEGHTAFATKEEADEEVLQILELYRRIYEEFLAVPVSKGRKSEMEKFAGGLYTTSVEAFI
+PNTGRGIQGATSHCLGQNFAKMFDITFENEKGvREMVWQNSWAYTTRSIGVMVMTHGDDK
+GLVLPPRVAPIQVIVIPVPYKDADTTAIKGACESTVYTLNQSGIRADLDTRENYSPGWKY
+SHWEMKGVPLRIEIGPKDLANKQVRvVRRDNGAKVDIPVTNLVEEVKVLLDEIQkNLFKT
+AKEKRDACIEVIkTWDEFTTALNNKRLILAPWCDEEEVEKDVKARTKGELGAAKTLCTPF
+DQPELPEGTLCFASGKPAKKWSFWGRSY
+
+================================================================================

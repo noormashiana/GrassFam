@@ -1,0 +1,120 @@
+================================================================================
+GrassFam ID: GFAM008725
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             273.0 aa
+Family Size (Extended Family Size): 30 (34) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR21528:SF6
+Panther Family ID:               PTHR21528
+Modal Panther ID:                PTHR21528:SF6
+Modal Panther Description:       DITRANS,POLYCIS-POLYPRENYL DIPHOSPHATE SYNTHASE [(2E,6E)-FARNESYLDIPHOSPHATE SPECIFIC]
+Modal Panther Family ID:         PTHR21528
+Modal Panther Fam Desc:          DEHYDRODOLICHYL DIPHOSPHATE SYNTHASE COMPLEX SUBUNIT NUS1
+Interpro Signature Accession:    PTHR21528
+Interpro Signature Description:  DEHYDRODOLICHYL DIPHOSPHATE SYNTHASE COMPLEX SUBUNIT NUS1
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: dehydrodolichyl diphosphate synthase complex subunit NUS1%2C transcript variant X4; dehydrodolichyl diphosphate synthase complex subunit nus1%2C transcript variant X1
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu04H
+  Gene Products: dehydrodolichyl diphosphate synthase complex subunit NUS1%2C transcript variant X1; dehydrodolichyl diphosphate synthase complex subunit NUS1-like%2C transcript variant X1
+Ata
+  Gene count: 2
+  Modal chromosome: Ata04D
+  Gene Products: dehydrodolichyl diphosphate synthase complex subunit NUS1%2C transcript variant X1; dehydrodolichyl diphosphate synthase complex subunit NUS1%2C transcript variant X3
+Tae
+  Gene count: 4
+  Modal chromosome: Tae04A
+  Gene Products: dehydrodolichyl diphosphate synthase complex subunit NUS1-like%2C transcript variant X2; dehydrodolichyl diphosphate synthase complex subunit NUS1-like%2C transcript variant X3; uncharacterized LOC123084949%2C transcript variant X1
+Ola
+  Gene count: 2
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl02
+  Gene Products: uncharacterized LOC127761667; uncharacterized LOC127768764%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127761667; uncharacterized LOC127768764
+Osa
+  Gene count: 2
+  Modal chromosome: Osa02
+  Gene Products: uncharacterized protein; uncharacterized protein%2C transcript variant X2
+  Gene Descriptions: uncharacterized LOC4328624; uncharacterized LOC4331944
+Pau
+  Gene count: 1
+  Modal chromosome: Pau03
+  Gene Products: uncharacterized LOC133911818%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133911818
+Svi
+  Gene count: 2
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi01K
+  Gene Products: dehydrodolichyl diphosphate synthase complex subunit NUS1-like%2C transcript variant X1; dehydrodolichyl diphosphate synthase complex subunit NUS1-like%2C transcript variant X4
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: dehydrodolichyl diphosphate synthase complex subunit NUS1%2C transcript variant X1
+Msi
+  Gene count: 4
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi01
+  Gene Products: dehydrodolichyl diphosphate synthase complex subunit NUS1; dehydrodolichyl diphosphate synthase complex subunit NUS1-like%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100276550%2C transcript variant X1
+  Gene Synonyms: GRMZM2G002492
+  Gene Descriptions: uncharacterized LOC100276550
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 273 aa
+
+MDsKpMEAFVAsEaplFMNQPPPHMSRPSIIIKLILGLLWcIIHLAISLLSLWSHLIYNL
+ECYLISSGLLRKYRNLQLgRLKYLAIVVDSREAKNTVKInQLLCWLSTmGVKYVCLYDID
+GVLKKSFEPAMNGSRDgnaGEYLDiGANIKALHCsQKeMtIECISGSDGKEGIAKAASLL
+CSTYLNGDTHGNGKrEPVFTEADMASALKAIGCGGPEPDLLLVYGPARCHLGFPAWRLRY
+TEIMHMGPLKSMKYGAIVKALYNFSKKYQNYGK
+
+
+BOP CONSENSUS:
+Length: 281 aa
+
+MREAFVANEttLFMNKpPPHVFKLMSLPSMIIKLTLGLLWCIIHLAISLLSLCSHLIFNL
+ECyLISSGLLWKYRNLQLgRLKYLAIVVDSREAKNTVKINQLLCWLKTLGVKYVCLYDID
+GVLKKLFEPGMNGSRDNNPGDYLDVSANIKALdCCQKQMTIECISGSDGKEGIAKAANLL
+CSTYLNGDSYTQENVKSEENVKnEPVFTETDMASALKSIGCAGPEPDLLLVYGPARCHLG
+FPTWRLRYTEIMHMGPLKSMKYGAIVKAFHNFSKKYQNYGK
+
+
+PACMAD CONSENSUS:
+Length: 273 aa
+
+MDSKpMEAFVASEASVFMNQPPPHMSRPSIIlKLILGLLWtIIHLAISlFNLWShLIYsL
+ECYLISSGLLRKYQyLHLDRLKYLAIVVDSKEAKsTVKIrQLLCWLStMGVKYVCLYDIE
+GVLKKSFEPAMngSRDrtAGEYLGIGANIkDsHsSHReMVIDCLSGSDGKEGIAKAASLL
+CSTYLNGDTHGDGKREPtFTEADMASALKAVGCGGPEPDLLLMYGPARCHLGFPAWRLRY
+TEIMHMGPLKSMKYGAIVKALYNFSKKYQNYGK
+
+================================================================================

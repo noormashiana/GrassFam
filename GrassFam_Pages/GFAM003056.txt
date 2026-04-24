@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM003056
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             439.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10457:SF6
+Panther Family ID:               PTHR10457
+Modal Panther ID:                PTHR10457:SF6
+Modal Panther Description:       GALACTURONOKINASE
+Modal Panther Family ID:         PTHR10457
+Modal Panther Fam Desc:          MEVALONATE KINASE/GALACTOKINASE
+Interpro Signature Accession:    G3DSA:3.30.230.10:FF:000061; G3DSA:3.30.70.890:FF:000001; G3DSA:3.30.230.10; G3DSA:3.30.70.890; PTHR10457; PIRSF000530; SSF55060; SSF54211
+Interpro Signature Description:  Galactokinase; -; MEVALONATE KINASE/GALACTOKINASE; GHMP Kinase, C-terminal domain; Ribosomal protein S5 domain 2-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: galacturonokinase
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: galacturonokinase%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: galacturonokinase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: galacturonokinase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: galacturonokinase
+  Gene Descriptions: galacturonokinase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: galacturonokinase
+  Gene Descriptions: galacturonokinase
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: galacturonokinase-like; galacturonokinase-like%2C transcript variant X1
+  Gene Descriptions: galacturonokinase-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: galacturonokinase-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: galacturonokinase%2C transcript variant X2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: galacturonokinase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: uncharacterized LOC100272872
+  Gene Synonyms: BG266188,GRMZM6G208469
+  Gene Descriptions: uncharacterized LOC100272872
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 436 aa
+
+MVAPGGGGGPSRWPSeEELDIVRKKVVEISGRDEREVRVVACPYRICPLGAHIDHQGGIV
+TAMTINYGVLLGFVPSnDSEVvLQSGQFKGVIRFRVDDLQKPIDNPENINWESYARGAVY
+ALQNSGYDLRKGIIGYISGVKGLDSSGLSSSAAVGIAYLLALENVNDLVvSPVDNIQLDK
+SIENKYLGLENGILDPSAILLSRYGYLTFMDCKTASPSYVYFSELSKSQQPQGqLPFKIL
+LAFSGLQHNLPKKRGYNTRVFECKEAARALLCASGCEDASNILRNVDPaVYEAQKCILEE
+NLSRRAEHYFSEMKRVvKGRDAWARGNLQELGQLISASGRSSILNYECGSKEMIQLYEIL
+LKAPGVLGARFSGAGFRGCCLAIVESDRAEEAAAYVRAEYEKAQPELVSKIPADRRVLVC
+EPGDSARVILPDpHrS
+
+
+BOP CONSENSUS:
+Length: 431 aa
+
+MVAPAGGGSPSRWPSEEELDIVRKNVVEISGRDAREVRVVACPYRICPLGAHIDHQGGIV
+TAMTINYGVLLGFVPSDDAEVVLQSGQFKGVTRFRVDDLQKPIENRGNITWESYARGAVY
+ALQNSGYDLRKGIIGYISGVNGLDSSGLSSSAAVGIAYLLALENVNDLVLSPVDNIQLDK
+SIENKYLGLENGILDPSAILLSRYGYLTFMDCKTASPSYVYFSELSKSQQPQGRLPFKIL
+LAFSGLQHNLPKSRGYNMRVFECKEAARALLCASGCEDASILRNVDPGVYEAQKCILDEN
+LARRAEHYFSEMKRVVKGRDAWARGDLQEFGQLISASGRSSIVNYECGSKEMIQLYEILL
+KAPGVLGARFSGAGFRGCCLAIVESDRAEEAAAYVGAEYERAQPELVSKIPADRRVLVCE
+PGDSARVILQS
+
+
+PACMAD CONSENSUS:
+Length: 441 aa
+
+MktMVAPGGGGGGPSRWPAAEELDIVRKKVVEISGRDErEVRVAACPYRICPLGAHIDHQ
+GGIVTAMTINYGVLLGFVPSNDSEVLLQSGQFEGVIRFRVDDLQKPIDNPENINWESYAR
+GAVYALQNSGYDLRKGIIGYISGVKGLDSSGLSSSAAVGIAYLLALENVNDLVISPVDNI
+QLDKSIENKYLGLENGILDPSAILLSRYGYLTFMDCKTASPSYVYFSELSKSQQPQGQLP
+FKILLAFSGLQHNLPKKRGYNTRVFECKEAARALLHASGCEDtSNILRNVDPVVYEAQKC
+VLEENLSRRAEHYFSEMKRVAKGRDAWARGNLQELGQLISASGRSSILNYECGSKEMIQL
+YEILLKAPGVLGARFSGAGFRGCCLAIVESDRAEeAAAYVRAEYEKAQPELVSRIPADRR
+VLVCEPGDSARVILPDpRLRS
+
+================================================================================

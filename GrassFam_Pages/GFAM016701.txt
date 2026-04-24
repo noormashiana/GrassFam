@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM016701
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             593.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23073:SF162
+Panther Family ID:               PTHR23073
+Modal Panther ID:                PTHR23073:SF162
+Modal Panther Description:       P-LOOP CONTAINING NUCLEOSIDE TRIPHOSPHATE HYDROLASES SUPERFAMILY PROTEIN
+Modal Panther Family ID:         PTHR23073
+Modal Panther Fam Desc:          26S PROTEASOME REGULATORY SUBUNIT
+Interpro Signature Accession:    cd19481; G3DSA:3.40.50.300; PTHR23073; PF00004; SSF52540
+Interpro Signature Description:  RecA-like_protease; -; 26S PROTEASOME REGULATORY SUBUNIT; ATPase family associated with various cellular activities (AAA); P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: katanin p60 ATPase-containing subunit A-like 1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: fidgetin-like protein 1%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: cell division control protein 48 homolog C
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: cell division control protein 48 homolog C-like; katanin p60 ATPase-containing subunit A-like 1; spastin-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: uncharacterized LOC127763662%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127763662
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC4330676
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau05
+  Gene Products: uncharacterized LOC133919762%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133919762
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: uncharacterized LOC120641254%2C transcript variant X1; uncharacterized LOC120657191
+Pha
+  Gene count: 2
+  Modal chromosome: Pha01
+  Gene Products: proteasome-associated ATPase-like; protein MSP1%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: katanin p60 ATPase-containing subunit A1%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: katanin p60 ATPase-containing subunit A1%2C transcript variant X1
+  Gene Synonyms: GRMZM5G856201
+  Gene Descriptions: katanin p60 ATPase-containing subunit A1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 590 aa
+
+MAMLLRRRLPLlRLLRpLQTEAAASTSSSSsPPPPPLQKPhAAASPSVALGSRLGFPNAt
+PrASaRGASsSSssAAFLAAGAAAALASLPVAYADANEQGvVDtAVSTDaAeGEDLARKE
+RKRIMELIQSRGMQRGSYPQFDVAVKGQKVVVKFNvPSTCNiShLIVDLVTHIGLEAEQh
+GGGSEvLvRAWDSAAARQITLNPPKKTSTGDnNEDgLCVLIFEPLVGSeYSEIEFIKrGS
+FSLKELEALISALKIAGQKDVKgSSGKNTsRKGnGQRSKHvPSmEKTVSDLEAMGVRVYG
+FDETSSVPMDGTVMWENIAGYEPQKREIEDTILLALQSPEVYDDIARGTRCKFETNRPRA
+VLFEGPPGTGKTSSARVIAKQAGVPLLYVPLEIIMSKYYGESERLLGSVFSLANDLPDGG
+IIFLDEVDSFAIARDSEMHEATRRILSVILRQIDGFEQDRRVVVIAATNRKEDLDPALIS
+RFDSIICFGLPDQQTRAEIAAQYAKHLTKSELVQFSLATEEMSGRDIRDVCQQAERHWAS
+KLIRGQVPKDEKGEPSLPPIDEYVACAEQRRKSLPDRTRpTSRSPALKLA
+
+
+BOP CONSENSUS:
+Length: 591 aa
+
+MAMLLRRRLPlTRLLRQLQAGAAASTTTSSPPPPPPLQKPIAASASPSTALGSRLGFPNA
+KSRASSSrSAAFLAAGAAAALASLPVVAYADANEEGVVDgAVSTDAAPVEDLARKERKRI
+MELIESRGMQPGSYPKFEVAIKGQKVVVKFNVPSTCNISRLIVDLVTHIGLEAEQCVGGS
+EMLLRAWDSAAARQITLNPPKTTAStGENNEDSLCVLIFEPLVGSEYAVSPYEIEFIKPD
+SFSSKELEGLVSALKIAGQKDVKTSSGKASTKGsGQRSKHLPSIEKTVSDLEDMGVRVYG
+FDETSSVPMDGTVMWENIAGYEHQKREIEDTVLLALQNPQIYDDIARGTRCKFETNRPRA
+VLFEGPPGTGKTSSARVIAKQAGVPLLYVPLEIIMSKYYGESERLLGSVFSLANNLPDGG
+IIFLDEVDSFAISRDSEMHEATRRILSVILRQIDGFEQDRRVVVIAATNRKEDLDPALIS
+RFDSmICFGLPDQQSRAEIAAQYAKHLTKSELVQFSLATEEMAGRDIRDICMQAERHWAS
+KFIRGQIPKDEKGEPPLPPIDEYVACAEQRRKSLPDRTRPASRSGPPLKLA
+
+
+PACMAD CONSENSUS:
+Length: 593 aa
+
+MAMLLRRRLPLLRLLRPLHTESAASASSSSTPPPPLQKPHAAASPSVgPGSRRLGFLNAT
+PLASARGASkSSSAAAYLAIGAAAALASLPVAYADGNEQGAVDtAVSTDPTEGEDLARKE
+RKRIMELvQSRGMQRGSYPQFDVAVKGQKVVVKFNMPSTCNVSHLIVDLVTHIGLEAEQH
+GGGSEVLVRAWDSPAARQITLNPPKKTSTGDHNEDGLCVLIFEPLIGSDYSEIEFIKRGS
+FSLKELEALISALKIAGEKDVKGSSGKGNKNTPRKGNGQRSKHVPSMEKIVSDLEAMGVR
+VYGFDETSSVPMDGTVIWENLAGYEPQKREIEDTILLALQSPEVYDDIARGTRCKFETNR
+PRAVLFEGPPGTGKTSSARVIAKQAGVPLLYVPLEVVMSKYYGESERLLGSVFSLANDLP
+DGGIIFLDEVDSFAIARDSEMHEATRRILSVILRQIDGFEQDRRVVVIAATNRKEDLDPA
+LISRFDSIICFGLPDQQTRVEIAAQYAKHLTKSELVQFSLATEEMSGRDIRDVCQQAERH
+WASKLIRGQVPKDEKGEPSLPPIDEYLSCAEQRRKSLPDRTRwTSRSPALKLA
+
+================================================================================

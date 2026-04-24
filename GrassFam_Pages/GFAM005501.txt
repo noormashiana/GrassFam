@@ -1,0 +1,148 @@
+================================================================================
+GrassFam ID: GFAM005501
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             728.5 aa
+Family Size (Extended Family Size): 22 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23315:SF266
+Panther Family ID:               PTHR23315
+Modal Panther ID:                PTHR23315:SF266
+Modal Panther Description:       U-BOX DOMAIN-CONTAINING PROTEIN 17
+Modal Panther Family ID:         PTHR23315
+Modal Panther Fam Desc:          U BOX DOMAIN-CONTAINING
+Interpro Signature Accession:    cd16664; G3DSA:1.25.10.10:FF:000423; G3DSA:3.30.40.10:FF:000455; G3DSA:1.25.10.10; G3DSA:3.30.40.10; PTHR23315; SM00504; SSF57850; SSF48371
+Interpro Signature Description:  RING-Ubox_PUB; RING-type E3 ubiquitin transferase; -; Zinc/RING finger domain, C3HC4 (zinc finger); U BOX DOMAIN-CONTAINING; Ubox_2; RING/U-box; ARM repeat
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: U-box domain-containing protein 4
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: U-box domain-containing protein 4
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: U-box domain-containing protein 4
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: U-box domain-containing protein 4-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: U-box domain-containing protein 4
+  Gene Descriptions: U-box domain-containing protein 4
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: U-box domain-containing protein 4-like
+  Gene Synonyms: OJ1145_E05.4,OsJ_06003,OsPUB4,PUB4
+  Gene Descriptions: U-box domain-containing protein 4-like
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: U-box domain-containing protein 4-like
+  Gene Descriptions: U-box domain-containing protein 4-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: U-box domain-containing protein 4-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: U-box domain-containing protein 4%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: U-box domain-containing protein 4
+Zma
+  Gene count: 2
+  Modal chromosome: Zma04
+  Gene Products: U-box domain-containing protein 4; uncharacterized LOC100381946
+  Gene Synonyms: GRMZM2G160370
+  Gene Descriptions: uncharacterized LOC100381946
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 729 aa
+
+MdAAASASSPVEFLLRRPpPRRRRLPLAGAFFAPTGLAGAPLLRALASLAAdLLAtPRPP
+SQRRNLDALmRRLALLSALLDSLLLlLDegegAFSDAANLCFRELYVVLFRADLLVSYVA
+SAGRAWALLRGPHLAASFRDLDAELAVVLDVLPAASLRLShDAAgHLDLLRArCRRRAPA
+QYHDPAEAALRDRLLAALRqFELGQPPDPSpLkSLLaqIGISDAASCRAEIEYLEEQILS
+QEEDTDLPLVGGVVALLRYCLFSLFDPGNTKAlRVWPSAGNRQRLLSWSgSDDSSFSVPK
+EFSCPISLDLMRDPVVVSTGQTYDRPSIIQWIEEGHSTCPNSGQALADNRLVPNRALRSL
+ISQWCGVHGFQYDSPESNEGMiECVAASCSSKAAIEANKATARILVRMLvEGSDSsKAVA
+AREIRLLAKTGKQNRAFIAELGAIPLLCRLLLSSDWMAQENAVTALLNLSIYEPNKTRIM
+EQEGCLrLIVSVLKNGWTTEAKENAAATLFSLSVVHDYKKmIMNEPGAVEELASMLTKGT
+PRGKKDAVMALFNLSTHPESSgRMLESSAVVALIESLRNDTVSEEAAGALALLMKQPSIV
+HLVGSSETVITSLVGLMRRGTPKGKENAVSALYEICRRGGSTLVQRVAKIPGLNTVIQNI
+TLTGTKRAKKKASLIVKMCQRSQMPSAMALGSTLTVVDHSLVGNSTLRRAASFGSGELSN
+PVSISVPVP
+
+
+BOP CONSENSUS:
+Length: 728 aa
+
+MDAPASASSPVEFLLRRPTPRRRRLPLAGAFFAPTGLAGASLLRALASLAAGLLAaPRPP
+SQPRNlAALARRLALLSALLDSLLLDAPDRFSDAANLCFRELYVVLFRAELLVSYVASAG
+RAWALLRGAHLAASFRDLDAELAVVLDVLPAASLRLSHDAAGHLDLLRSQCRRRAPAQYH
+DPDEAALRDRLLAAVQQFELGQPPDtsPLKSLLSDIGISDAASCQAEIDYLEEQILSQEE
+DTDLLLVGGVLALLRYSLFSQFDPGNAKAARYWPSAGNLQRLPSWGGGGCDDTSFSVPKE
+FSCPISLDLMRDPVVASTGQTYDRPSIIQWIGEGHSTCPNSGQALADNRLVPNRALRSLI
+SQWCGMYCFQYDSPESNEGMAECVATACSSKAAIEANKATARILVRMLVESSDSSKAVAA
+KEIRLLAKAGKQNRAFIAELGAIPLLCRLLLSSDQMAQENAVTALLNLSIYEPNKTRIME
+QEGCLWLIVSVLQNGWTTEARENAAATLFSLSVVHDYKKMIMNEPGALEKLACMLKKGTP
+RGRKDAVMALFNLSTHPESSARMLESSAVVALIESLRNDTVSEEAAGALALLMKQPSVVH
+LVGSSETVITSLVGLMRRGTPKGKENAVSALYEICRRGGSTLVRRVAKIPGLNTVIQNIM
+LTGTKRAKKKASLIVKMCQRSQMPSAMSLGTSLRVVDHSLVGNSSLRRAASFGSGELSNP
+VSISVHVP
+
+
+PACMAD CONSENSUS:
+Length: 730 aa
+
+MAAAPASSPVEFLLRRPPPRQRRRPPLAGAFFAPTGLSGAPLLRALASLAADLLGtPRPP
+SQRRNLDALMRRLALLSALLDSLLLLLADEGEAAFSDAANLCFRELYVVLFRADLLVSYV
+ASAGRAWALLRGPHLAASFRDLDAELAVVLDVLPAASLRLSWDAAEyLDLLRARCRRRAP
+GQYHDPAEAALRDRLLAALRHFELGQPPDPSkLrSLLaQIGISDAASCRsEIEYLEEQIL
+SQEEDTDLPLIGGVVALLRYCLFSLFDPGNTKALRVWpSAGNRQRLLSWSCSDDSSFSVP
+KEFSCPISLDLMRDPVVVSTGQTYDRPSIIQWIEEGHSTCPNSGQALADNRLVPNRALRS
+LISQWCGVHGFQFDSPESNEGMIECVAASCSSKAAIEANKATARILVRMLMEGSDSeKPV
+AAREIRLLAKTGKQNRAFIAELGAIPLLCRLLLSSDWMAQENAVTALLNLSIYEPNKTRI
+MEQEGCLrLIVSVLKNGWTTEAKENAAATLFSLSVVHDYKKKIMNEPGAVEELASMLTKG
+TPRGKKDAVMALFNLSTHPESSGRMLESSAVVALIESLRNDTVSEEAAGALALLMKQPTI
+VHLVGSSETVITSLVGLMRRGTPKGKENAVSALYEICRRGGSTLAQRVARIPGLNTVIQN
+ITLTGTKRAKKKASLIVKMCQRSQMPSALALGSTLTVVDHSLVGNSTLRRAASFGSGELS
+NPVSISVPVP
+
+================================================================================

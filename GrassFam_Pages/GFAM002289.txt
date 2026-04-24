@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM002289
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             478.0 aa
+Family Size (Extended Family Size): 31 (33) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR48017
+Modal Panther ID:                PTHR48017:SF137
+Modal Panther Description:       ACID TRANSPORTER, PUTATIVE, EXPRESSED-RELATED
+Modal Panther Family ID:         PTHR48017
+Modal Panther Fam Desc:          OS05G0424000 PROTEIN-RELATED
+Interpro Signature Accession:    G3DSA:1.20.1740.10:FF:000055; PTHR48017; PF01490
+Interpro Signature Description:  Amino acid permease 6; OS05G0424000 PROTEIN-RELATED; Transmembrane amino acid transporter protein
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: amino acid permease 3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: amino acid permease 3-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata04D
+  Gene Products: amino acid permease 3; amino acid permease 4-like
+Tae
+  Gene count: 4
+  Modal chromosome: Tae04A
+  Gene Products: amino acid permease 3-like; amino acid permease 4-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl02
+  Gene Products: amino acid permease 3-like
+  Gene Descriptions: amino acid permease 3-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa02
+  Gene Products: amino acid permease 3; amino acid permease 3%2C transcript variant X3
+  Gene Descriptions: amino acid permease 3
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 2
+  Modal chromosome: Pau12
+  Gene Products: amino acid permease 3-like
+  Gene Descriptions: amino acid permease 3-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi08K
+  Gene Products: amino acid permease 3-like; amino acid permease 3-like%2C transcript variant X2
+Pha
+  Gene count: 2
+  Modal chromosome: Pha08
+  Gene Products: amino acid permease 3-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi05
+  Gene Products: amino acid permease 3
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: amino acid permease 3; uncharacterized LOC100383966
+  Gene Synonyms: GRMZM2G082434
+  Gene Descriptions: uncharacterized LOC100383966
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 474 aa
+
+MvaaKsgApmEVSVEAGNrGDAAWLDDDGRPRRTGTVWTASAHIITAVIGSGVLSLAWAI
+AQLGWAAGPAVMLLFAgVIYYTSTLLAECYRSGDPVAGKRNYTYMDAVRAsLGGAKVRLC
+GVIQYANLVGVAIGYTIAASISMLAIKRADCFHvKGHKNPCRSSSNPYMILFGAVEIVFS
+QIPDFDQIWWLSIVAAVMSFTYSTIGLsLGIAQTVANGGFkGSLTGVSVGAGVTPTQKVW
+RSLQAFGDIAFAYSYSIILIEIQDTIKAPPPSEAkVMKRATMVSVATTTVFYMLCGCMGY
+AAFGDaAPDNLLTGFGFYEPFWLLDVANAAIVVHLVGAYQVFCQPLFAFVEKWAAARWPD
+SrFIAREVRVGPFaLSVFRLTWRTAFVCLTTVVAMLLPFFGDVVGLLGAVSFWPLTVYFP
+VEMYIVQRGVRRGSTRWVCLQtLSAACLLVSVAAAAGSIADVIDALKVYRPFSG
+
+
+BOP CONSENSUS:
+Length: 476 aa
+
+MGKAAAMEVSASAAAEAGMMVGHGEWRDDDGRARRTGTVWTASAHIITAVIGSGVLSLAW
+AIAQLGWVAGPAVMLLFAFVIYYTSTLLAECYRSGDPCTGKRNYTYMDAVRANLGGAKVR
+LCGVIQYANLFGVAIGYTIAASISMLAIKRADCFHEKGHKNPCRSSSNPYMILFGVVQIV
+FSQIPDFDQIWWLSIVAAIMSFTYSTIGLSLGIAQTVANGGFMGSLTGISVGAGVTSMQK
+VWRSLQAFGDIAFAYSYSIILIEIQDTIKAPPPSEAKVMKRATMVSVATTTVFYMLCGCM
+GYAAFGDKSPDNLLTGFGFYEPFWLLDVANAAIVVHLVGAYQVFVQPIFAFVERWAAARW
+PDGGFISRELRVGPFSLSVFRLTWRTAFVCATTVVSMLLPFFGDVVGLLGAVSFWPLTVY
+FPVEMYIAQRGVRRGSARWLCLKVLSAACLVVSVAAAAGSIADVVDALKVYRPFSG
+
+
+PACMAD CONSENSUS:
+Length: 476 aa
+
+MVAkKHLSgAPfEVSVEAGNrGDAAWLDDDGRPRRTGTVWTASAHIITAVIGSGVLSLAW
+AIAQLGWAAGPAVMLLFAgVIYYTSTLLAECYRSGDPVAGKRNYTYMDAVRASLGGAKVk
+LCGVIQYANLVGVAIGYTIAASISMLAIKRADCFHvKGHRNPCRSSSNPYMILFGAVEIV
+FSQIPDFDQIWWLSIVAAVMSFTYATIGLaLGIaQTVANGGFkGSLTGVSIGAGVTPTQK
+VWRSLQAFGNIAFAYSYSIILIEIQDTIKAPPPSEAtVMKKATMVSVATTTVFYMLCGCM
+GYAAFGDAAPDNLLTGFGFYEPFWLLDVANAAIVVHLVGAYQVFCQPLFAFVEKRAAArW
+PDSrFiAREVRvGPFaLSVFRLTWRTAFVCLTTVVAMLLPFFGDVVGLLGAVSFWPLTVY
+FPVEMYIVQRGVRRWSTRWVCLQTLSAACLLVSVAAAAGSIADVIdALKVYRPFSG
+
+================================================================================

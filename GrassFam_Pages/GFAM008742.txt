@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM008742
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             391.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12749:SF0
+Panther Family ID:               PTHR12749
+Modal Panther ID:                PTHR12749:SF0
+Modal Panther Description:       DNA EXCISION REPAIR PROTEIN ERCC-1
+Modal Panther Family ID:         PTHR12749
+Modal Panther Fam Desc:          EXCISION REPAIR CROSS-COMPLEMENTING 1 ERCC1
+Interpro Signature Accession:    cd22325; G3DSA:3.40.50.10130:FF:000001; G3DSA:1.10.150.20:FF:000017; G3DSA:1.10.150.20; G3DSA:3.40.50.10130; TIGR00597; PTHR12749; PF03834; SSF52980
+Interpro Signature Description:  ERCC1_C-like; DNA excision repair protein ERCC-1; -; nucleotide excision repair endonuclease ERCC1/Rad10; EXCISION REPAIR CROSS-COMPLEMENTING 1 ERCC1; Binding domain of DNA repair protein Ercc1 (rad10/Swi10); Restriction endonuclease-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                4.76%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: DNA excision repair protein ERCC-1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: DNA excision repair protein ERCC-1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: DNA excision repair protein ERCC-1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: DNA excision repair protein ERCC-1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: DNA excision repair protein ERCC-1
+  Gene Descriptions: DNA excision repair protein ERCC-1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: DNA excision repair protein ERCC-1
+  Gene Descriptions: DNA excision repair protein ERCC-1
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau21
+  Gene Products: DNA excision repair protein ERCC-1; DNA excision repair protein ERCC-1-like%2C transcript variant X1
+  Gene Descriptions: DNA excision repair protein ERCC-1; DNA excision repair protein ERCC-1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: DNA excision repair protein ERCC-1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: DNA excision repair protein ERCC-1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: DNA excision repair protein ERCC-1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: DNA excision repair protein ERCC-1
+  Gene Synonyms: GRMZM2G073510
+  Gene Descriptions: DNA excision repair protein ERCC-1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 392 aa
+
+MDGgrERQrPPErqPGKNLIKIPSYQEVFGtGASSSSStPPSYNPPLpSsGAAAASSSSS
+SSSSFSQAFSFLKSSEFYSPPPPPPQPTTTPRPPQASsSAPapQSKNAILVSHRQKGNPL
+LKHIRNARWTFADIVPDYVLGQSSCALYISLRYHLLHPDYLYYRIRELQKNFRLRVILCH
+IDVEDVVKPLHEITRTALLHDCTLLCGWSLEECGRYLETIKVYENKPADSIREHMDNDYL
+SRLTHALTSIRHVNKTDVVTLGSSFGSLSRIMNASMEELARCPGIGERKVKRLYDTFHEP
+FKRVSpRPNLVVPDTPDREKASGQPSSTNDGtqDAAEKPDASKNKKGSDVRSALTAAFAK
+YSEKIRSQGRDAANEAGEGtSSSTMEDDKTKd
+
+
+BOP CONSENSUS:
+Length: 387 aa
+
+MDGEQGRQRPDSGKNLIKIPSYQEVFGNGAAASSSSSTPPSYNPPLPSAAAAAASSSSSS
+FSEAFSFLKSSEFYSPPPPPPQPSTAPRPPLAGATTTPSQSKNAILVSNRQKGNPLLKHI
+RNARWTFADIVPDYVIGQSSCALYISLRYHLLHPDYLYYRIRELQKNFKLRVILCHIDIE
+DVVKPLHEVTRTSLLHDCTLLCGWSLEECGRYLETIKVFENKPADSIREHTDNDYLSRFT
+HALTSIRRVNKTDVITLGSSFGSLSRIMDASMEELARCPGIGERKVKRLHDTFHEPFKRV
+TPRPNLVVPDTPDREKASGQPSSTNDGTPEKPGTSKNKKGSDVKSALTAAFAKYSEKIRS
+QGRDAAHEAGEGPSSSTMEGDKTKQLD
+
+
+PACMAD CONSENSUS:
+Length: 392 aa
+
+MDGGREQQGPPERQPGKNLIKIPSYQEVFGTGASSSSStPPSYNPPLASSGAAAASSSSS
+SSGSFSQAFSFLKSSEFYSPPPPPPQPTTTPRPPQASSSAPVPQSKNAILVSHRQRGNPL
+LKHIRNARWTFADVVPDYVLGQSSCALYLSIRYHLLHPDYLYYRIRELQKNFRLRVILCH
+VDVEDVVKPLHEITRTALLHDCTLLCGWSLEECGRYLETIKVYENKPADsIREHMDNDYL
+SRLTHALTSIRHVNKTDVVTLGSSFGSLSQIMNASMEELARCPGIGERKVKRLYDTFHEP
+FKRVSARPNLVVPDTPDREKASGQPSSTNDSSQDAAEKPDASKKKKGSDVRSALTAAFAK
+YSEKIRSQGRDAANEAGEGTSSSTMEDDrTKD
+
+================================================================================

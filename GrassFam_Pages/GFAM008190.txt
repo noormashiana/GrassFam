@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM008190
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             392.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10755:SF10
+Panther Family ID:               PTHR10755
+Modal Panther ID:                PTHR10755:SF10
+Modal Panther Description:       COPROPORPHYRINOGEN OXIDASE
+Modal Panther Family ID:         PTHR10755
+Modal Panther Fam Desc:          COPROPORPHYRINOGEN III OXIDASE, MITOCHONDRIAL
+Interpro Signature Accession:    G3DSA:3.40.1500.10:FF:000003; G3DSA:3.40.1500.10; NF003727; PTHR10755; PIRSF000166; PR00073; PF01218; SSF102886
+Interpro Signature Description:  oxygen-dependent coproporphyrinogen-III oxidase, chloroplastic; Coproporphyrinogen III oxidase, aerobic; oxygen-dependent coproporphyrinogen oxidase; COPROPORPHYRINOGEN III OXIDASE, MITOCHONDRIAL; Coproporphyri_ox; Coprogen oxidase signature; Coproporphyrinogen III oxidase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: oxygen-dependent coproporphyrinogen-III oxidase%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: oxygen-dependent coproporphyrinogen-III oxidase%2C chloroplastic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: oxygen-dependent coproporphyrinogen-III oxidase%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: oxygen-dependent coproporphyrinogen-III oxidase%2C chloroplastic; oxygen-dependent coproporphyrinogen-III oxidase%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: oxygen-dependent coproporphyrinogen-III oxidase%2C chloroplastic
+  Gene Descriptions: oxygen-dependent coproporphyrinogen-III oxidase%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: oxygen-dependent coproporphyrinogen-III oxidase%2C chloroplastic-like
+  Gene Synonyms: CPX
+  Gene Descriptions: oxygen-dependent coproporphyrinogen-III oxidase%2C chloroplastic-like
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: oxygen-dependent coproporphyrinogen-III oxidase%2C chloroplastic; oxygen-dependent coproporphyrinogen-III oxidase%2C chloroplastic-like
+  Gene Descriptions: oxygen-dependent coproporphyrinogen-III oxidase%2C chloroplastic; oxygen-dependent coproporphyrinogen-III oxidase%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: oxygen-dependent coproporphyrinogen-III oxidase%2C chloroplastic; oxygen-dependent coproporphyrinogen-III oxidase%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: oxygen-dependent coproporphyrinogen-III oxidase%2C chloroplastic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: oxygen-dependent coproporphyrinogen-III oxidase%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: necrotic4
+  Gene Synonyms: GRMZM5G870342
+  Gene Descriptions: necrotic4
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 391 aa
+
+MASSLLSTPSQTLAPAPApARLRGrsPAQVsFPRPgLPRRSRALRVRASVAIEKETPESE
+PPPTFLREDGsGAGSGSVRERFEAMIRRVQGEVCAALEEADGSGARFVEDVWSRPGGGGG
+ISRVLQDGRVFEKAGVNVSVVYGVMPPDAYRAAKGEAGKNGAADGhKAGPVPFFAAGISS
+VLHPKNPFAPTLHFNYRYFETDAPKDAPGAPRQWWFGGGTDLTPSYIIEEDVKHFHSVQK
+QACDKFDPSFYPRFKKWCDDYFYIKHRNERRGLGGIFFDDLNDYDQEMLLNFATECADSV
+LPAYIPIIERRKDTPFNEEHKAWQQLRRGRYVEFNLVYDRGTTFGLKTGGRIESILVSLP
+LTARWQYDHKPEEGTEEWKLLDACINPKEWL
+
+
+BOP CONSENSUS:
+Length: 391 aa
+
+MASSLLTTPSQTLALTPAAARARGSSPAAAQVSFSSPRLPsRRALRVRASVAIEKEVPEN
+EAPTTFLREDGSGAGSGSVRERFEGMIRRVQGEICAALEEADGSGKRFVEDVWSRPGGGG
+GISRVLQDGNVFEKAGVNVSVVYGVMPPDAYRAAKGAAKNGAADGHKAGPVPFFAAGISS
+VLHPKNPFAPTLHFNYRYFETDAPKDVPGAPRSWWFGGGTDLTPSYLIEEDVKHFHSVQK
+QACDKFDPSFYPRFKKWCDDYFYIKHRNERRGLGGIFFDDLNDYDQDMLLNFATECAGSV
+IPAYIPIIERRKDTPFNEEQKAWQQVRRGRYVEFNLVYDRGTTFGLKTGGRIESILVSLP
+LTARWEYDHKPEEGSEEWKLLDACINPKEWL
+
+
+PACMAD CONSENSUS:
+Length: 392 aa
+
+MASSLLSTPSRTLAPAPAPAGLRGRAPAQAHLPRGcpAPRRSRALRVRASVAIEKETPES
+EPPPTFLREDGRGAGSGSVRERFEAMIRRVQGEVCAALEEADGSGARFVEDVWSRPGGGG
+GISRVLQDGRVFEKAGVNVSVVYGVMPPDAYRAAKGEAGKNGAADGQKAGPVPFFAAGIS
+SVLHPKNPFAPTLHFNYRYFETDAPKDAPGAPRQWWFGGGTDLTPSYIIEEDVKHFHSVQ
+KQACDKFDPSFHPRFKKWCDDYFYIKHRNERRGLGGIFFDDLNDYDQEMLLNFATECADS
+VLPAYIPIIERRKDTPFNEEHKAWQQLRRGRYVEFNLVYDRGTTFGLKTGGRIESILVSL
+PLTARWQYDHKPEEGTEEWKLLDACINPKDWI
+
+================================================================================

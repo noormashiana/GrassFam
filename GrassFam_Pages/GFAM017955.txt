@@ -1,0 +1,124 @@
+================================================================================
+GrassFam ID: GFAM017955
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             613.0 aa
+Family Size (Extended Family Size): 31 (33) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR27007:SF300
+Panther Family ID:               PTHR27007
+Modal Panther ID:                PTHR27007:SF300
+Modal Panther Description:       PROTEIN KINASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR27007
+Modal Panther Fam Desc:          FAMILY NOT NAMED
+Interpro Signature Accession:    cd14066; cd23509; G3DSA:3.30.200.20:FF:000015; G3DSA:1.10.510.10:FF:000240; G3DSA:3.30.430.20; G3DSA:3.30.200.20; G3DSA:1.10.510.10; PTHR47973; PF00069; SM00220; SSF56112
+Interpro Signature Description:  STKc_IRAK; Gnk2-like; Somatic embryogenesis receptor kinase 1; Lectin-domain containing receptor kinase A4.3; -; Phosphorylase Kinase; domain 1; Transferase(Phosphotransferase) domain 1; CYSTEINE-RICH RECEPTOR-LIKE PROTEIN KINASE 3; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi03
+  Gene Products: cysteine-rich repeat secretory protein 57-like%2C transcript variant X1; putative receptor-like protein kinase At4g00960
+Lpe
+  Gene count: 5
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu06H
+  Gene Products: receptor like protein kinase S.2-like%2C transcript variant X1; wall-associated receptor kinase 4-like
+Ata
+  Gene count: 3
+  Modal chromosome: Ata02D
+  Gene Products: L-type lectin-domain containing receptor kinase IX.2-like; cysteine-rich receptor-like protein kinase 10; cysteine-rich receptor-like protein kinase 15%2C transcript variant X1
+Tae
+  Gene count: 9
+  Modal chromosome: Tae02B
+  Gene Products: L-type lectin-domain containing receptor kinase IX.1-like; cysteine-rich receptor-like protein kinase 10; cysteine-rich receptor-like protein kinase 6; cysteine-rich receptor-like protein kinase 8; probable L-type lectin-domain containing receptor kinase S.5; putative cysteine-rich receptor-like protein kinase 12; putative cysteine-rich receptor-like protein kinase 32; serine/threonine-protein kinase 10-like%2C transcript variant X1
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: cysteine-rich receptor-like protein kinase 14
+  Gene Descriptions: cysteine-rich receptor-like protein kinase 14
+Osa
+  Gene count: 2
+  Modal chromosome: Osa10
+  Gene Products: L-type lectin-domain containing receptor kinase IX.2; antimicrobial ginkbilobin-2-like protein
+  Gene Descriptions: L-type lectin-domain containing receptor kinase IX.2; antimicrobial ginkbilobin-2-like protein
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau04
+  Gene Products: cysteine-rich receptor-like protein kinase 25%2C transcript variant X1; cysteine-rich receptor-like protein kinase 29
+  Gene Descriptions: cysteine-rich receptor-like protein kinase 25; cysteine-rich receptor-like protein kinase 29
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi03N
+  Gene Products: uncharacterized LOC120666253%2C transcript variant X2
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: cysteine-rich repeat secretory protein 38
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 595 aa
+
+MtLpRpsFSsLLlLCFHLLAaLhTTSDAASShvLQAlnCSTSGNYTstSAYAANLNQFLA
+sLPEnTVSKNGGFFNGTVGeGtdTVYGLAMCsADYSRADCgDCLAAAgSNAnGLpNRCPG
+STTVLAmFDqCLVRYSDtnFFGTAEigiiYalnGpraepmqYsddVeqnLneltgaAvaS
+PQRFAASStdPYtLVQCTWDLPPDKCKQCLDVLsANASDwtSmtvdGkRRSYSCtVRYSN
+TSFvVVPFggaAAPtPQSVDQkGSlTigVVGsVVGlivlAcLaalvwylcrdssvqighl
+rkFTYrELatATsnFsdtrkLGqGAFGvVYKGtLmeveVAIKKitrtvSdEaRkaFkNEv
+eIMSPLnHrNIIRLVGWCdernNLLLVYELvEDGNLEdRLYgrGGGSsLvLDWrkRYNIL
+lGIASGLeYLHneCpktvLHRDIKPgNVMLDrdFNAKLCDFGLVTQltHakTSRsTnniI
+GTqgYMDPaYmetGkvtkeSDVYSFGvLLLEVVCGEkPkLignpyKNSLIEkVReCyerN
+AILdAADqRLRGkFDeEIkrvLlIGLrCVetdRgdRPtIqiVLsrLvSltaklps
+
+
+BOP CONSENSUS:
+Length: 611 aa
+
+MtLqRpsFSslLFLCFHLLAaLhtTSdAAlSShllQAlnCSTSGNYTstSAYAANLNQFL
+AsLPEnTVSKNGGFFNGTVGeGtdTVYGLAMCsADYSRADCGDCLaAAAgSNAnGLPNRC
+PGSTTVLAmFDrCLVRYSDtNFFGTAEIGvIYalnGpraePmqYrdDVeRNLnestgaAv
+ASPQRFAASStdPYtLVQCTWDLPPDkCKQCLDVLtDWTStvdGkRRSYSCtVRYsNTSF
+mVVPFggAsAPTPQSVDQAGSlTiGVVGsVVglillaCLAgLiWylcrsknahgharkFT
+YreLAtATrdFsdtRKLGQGAFGvVYKGaLmGkEveVAIKKItltvSDEaRkaFkNEieI
+MSPLnHRNIIRLVGWCDErnNLLLVYELVENRNLEarLYpkGarvDAvRapGSsLvLDWr
+KRYNILlGIASGLeYLHneCkKtVLHRDIKPgNVMLDrDFNAKLCDFGLVTQLtHAiTSR
+STnNIIGTqgYMDPaYqqTGkVtkeSDVYSFGVLLLEVVCGEkPiLinptKNSLIEKVRE
+CykRNAILDAADQRLRGeFDEEIKrVLlIGLrCVEtrRGDRPtIqIVLsrLvSlTAklps
+yNrspsAasls
+
+
+PACMAD CONSENSUS:
+Length: 621 aa
+
+FPLLLLvSwLLAGHsyTwCDAAGTAVLQAINCSTvGNYTPtDAYAANLNQLLATLPDTTV
+SKNGGFFNGTAGQGAPGTAYVLALCAADFtRpDCRDCLAMATSNSSGLvKQCPGSSTVVA
+MYDQCvVRYSDAGFFGTAyTDIVYSwtsSErVqvQNtYSvALKQGLvYLSAQAASSPQRF
+AASKASPFALVQCTWDLPsDKCKACLDLLAtNvSsFsyvrsTGEARTYSCRVRySNDSFD
+VFPFADvtnTNGTsSsvsisGttHssRKvIvAvASVGTVVAvsLvAVVVACCVRGRRARR
+rGSITMGDTSVQIDLLQEYTYEELKKATGNFSKDAELGRGAFGVVYKGTLENKKVIAVKK
+LQRKEKVEVEQFMNEVSIMSGLKHKNLVKLEGFCVQGQQEGLLCYEYLPDGTLEDRLYGR
+RGARLTWKERCHILKGICSGLQYLHNESPNDISIIHMDLKTDNILLHVQEDKRNGGIVIT
+PKISDFGISRNHDTDKQHEYVDKVVGNMTCMPREFMERGKASPKVDIYSFGLIILEMVTG
+KSRRSSSTSSSSLDNSNHYGEGLIKQVRDHWEKKDIENIKDAVMDTKCDDEIERCIEIAL
+ECVHEDPAMRPDIATITRQLN
+
+================================================================================

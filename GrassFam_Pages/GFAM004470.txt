@@ -1,0 +1,122 @@
+================================================================================
+GrassFam ID: GFAM004470
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             589.0 aa
+Family Size (Extended Family Size): 35 (42) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR27007:SF320
+Panther Family ID:               PTHR27007
+Modal Panther ID:                PTHR27007:SF320
+Modal Panther Description:       OS09G0339000 PROTEIN
+Modal Panther Family ID:         PTHR27007
+Modal Panther Fam Desc:          FAMILY NOT NAMED
+Interpro Signature Accession:    cd14066; G3DSA:1.10.510.10:FF:000522; G3DSA:3.30.200.20:FF:000168; G3DSA:1.10.510.10; G3DSA:3.30.200.20; PTHR27007; PF00069; SM00220; SSF56112
+Interpro Signature Description:  STKc_IRAK; L-type lectin-domain containing receptor kinase IX.1; Transferase(Phosphotransferase) domain 1; Phosphorylase Kinase; domain 1; -; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu03H
+  Gene Products: probable kinase CHARK
+Ata
+  Gene count: 4
+  Modal chromosome: Ata02D
+  Gene Products: L-type lectin-domain containing receptor kinase IX.2%2C transcript variant X1; probable kinase CHARK
+Tae
+  Gene count: 7
+  Modal chromosome: Tae05D
+  Gene Products: L-type lectin-domain containing receptor kinase IX.1-like; probable kinase CHARK
+Ola
+  Gene count: 2
+  Modal chromosome: Ola09
+Osa
+  Gene count: 1
+  Modal chromosome: Osa12
+  Gene Products: probable kinase CHARK
+  Gene Synonyms: CHARK,OsCRL4,OsHKL1,OsJ_36000
+  Gene Descriptions: probable kinase CHARK
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau17
+  Gene Products: probable kinase CHARK
+  Gene Descriptions: probable kinase CHARK
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi02K
+  Gene Products: L-type lectin-domain containing receptor kinase IX.1-like; probable kinase CHARK
+Pha
+  Gene count: 3
+  Modal chromosome: Pha02
+  Gene Products: L-type lectin-domain containing receptor kinase S.4-like; probable kinase CHARK; probable kinase CHARK%2C transcript variant X1
+Msi
+  Gene count: 3
+  Modal chromosome: Msi04
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi05
+  Gene Products: probable kinase CHARK
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 534 aa
+
+MaaiSSrvhiFLvgaiSSrdtrlaaNtTvgrmDvnsspgELVsSysFgtNKSLvslfpnN
+cndrllsilssleEshirthLseSmsdPvRynyspgrhRrlprvIfghRklLsghysstk
+kqqpvrhRgrrVlVasswlaqaAaAGSALlGLlCtVAGLLLCCiRnkrlrQStsaIDEei
+IqqpELCrgsGPRrFrYrELAAATdNFAEerKIGRGGFGPVYRGYLsDQDRHVAIKVLSq
+EsSvQGrKEFeAEVkVMTrLRHRNIVQLVGWCDgrrGLlLVYELMPgGSLDKHLYdPdRL
+LTWpERYKIALGLGSALLYLHTECdQCVVHGDIKPANVMLDASrNAKLGDFGLARLVDHG
+AEPRTTQVVAGTlGYIDPEFVssrRPSAESDVYSFGVVLLEIACGRRPTSrQpngAPALL
+NWVRDMYhRNsILdAADRRLDGEFDeqQMeRVLVTGLWCAHHDqsQRPSIAQAMDVLRsE
+DAeLPVLPeMhgageVRSLEErAYGDLSaEdSayenSSaETAYHTSkDSaYLLa
+
+
+BOP CONSENSUS:
+Length: 557 aa
+
+MAAcnsRIHIFLvLsgASYLASHAAALSNCsSDhPgLISrHDtfLAlNtTVAsvLdLvwC
+ssSAWPPYGGSVNPGVlrRGSTFPRPVmllsTDlGSLrertDYnNCsaRFlShllsAFEE
+qivtGLSeSmssRPtPhRLPDqPRyRRLLSGTYGRRAatQpVAiHGkvASSWLkQAAVAg
+SALlGLICAVpALLLCCIRgKRLRQSTSaIITEPELRRGLGPRQFRYrELAAATDNFAEe
+RKIGRGGFGPVYRGYLSDQDRHVAIKTLSeEtSVQGLKEFeAEVtVMSQLRHRNIVQLVG
+WyRRRRrLALVYELMPGGSLDTHLYSPDRlLTWPERYeIALGLGSALRYLHTECDQCIVH
+GDIKPANVMLDASRNAKLGDFGLARLVDHGAEPRTTQVVAGTLGYIDPEFVSSrRPSAES
+DVYSFGVVLLEIACGRRPTsALLASVRDMYHRNQIVDAADRRLNGEFDRLQMERLLVTGL
+WCAHHDPMRRPSVAQAMDVLRSEDAKLPVLaEMRGAGEIRSLEaQAYGDVSdEnSAYlST
+ETAYLTTdDSAYSQIIc
+
+
+PACMAD CONSENSUS:
+Length: 517 aa
+
+MpqiSDgnsPWPpLPLGELVsSYSFGTNKSLDVGLFsYGsLPNIQEPrtnDHpvRAvfvr
+rnyNhSSrReLFrsRsndrRhrrLhrVifsghRKLLashgSsttrnrplRrRrRqVLLse
+hrVivTgaAaviAvGlALlgLLCTVAGLLLWCvRnrsEeeEapiqQtELCPSGPRRYSyR
+ELAAATggFAEEEKIGRGGFGPVYRGFLaDQDRHVAIKVLSQgSSaQGmKEFqAEVKVMT
+RLRHRNIVQLLGWCDGpkGLLLVYEFmPNGSLDKHLHDPqRLLTWSDRYKIALGVGSAiL
+YLHTECEQCVVHGDIKPANIMLDAScNAKLGDFGLARLVDHGADSRTTQVVAGTpGYIDP
+EFVNsrRPSAESDVYSFGVVLLEIACGRRPTSrQsNgAPaLLNWVRDMYrqnSILgAADR
+RLDGEFDeQQMrRVLVTGLWCAHhDQSQRPSIAQAMDVLRREDAELPVLDPeMHssqsVR
+SLEEiAYGDLSGEdSsfEnSsAeTaYHTSKDStYLLA
+
+================================================================================

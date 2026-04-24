@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM001882
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             618.0 aa
+Family Size (Extended Family Size): 33 (41) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR27009
+Modal Panther ID:                PTHR27009:SF287
+Modal Panther Description:       PROTEIN KINASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR27009
+Modal Panther Fam Desc:          RUST RESISTANCE KINASE LR10-RELATED
+Interpro Signature Accession:    cd14066; G3DSA:1.10.510.10:FF:000590; G3DSA:3.30.200.20:FF:000296; G3DSA:3.30.200.20; G3DSA:1.10.510.10; PTHR27009; PF00069; SM00220; SSF56112
+Interpro Signature Description:  STKc_IRAK; PR5-like receptor kinase; Receptor-like kinase LRK10; Phosphorylase Kinase; domain 1; Transferase(Phosphotransferase) domain 1; RUST RESISTANCE KINASE LR10-RELATED; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: rust resistance kinase Lr10%2C transcript variant X1
+Hvu
+  Gene count: 6
+  Modal chromosome: Hvu03H
+  Gene Products: rust resistance kinase Lr10-like
+Ata
+  Gene count: 3
+  Modal chromosome: Ata03D
+  Gene Products: rust resistance kinase Lr10; rust resistance kinase Lr10%2C transcript variant X1
+Tae
+  Gene count: 9
+  Modal chromosome: Tae03A
+  Gene Products: rust resistance kinase Lr10-like; rust resistance kinase Lr10-like%2C transcript variant X1; rust resistance kinase Lr10-like%2C transcript variant X3
+Osa
+  Gene count: 3
+  Modal chromosome: Osa01
+  Gene Products: rust resistance kinase Lr10
+  Gene Descriptions: rust resistance kinase Lr10
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 1
+  Modal chromosome: Pau01
+  Gene Products: rust resistance kinase Lr10-like%2C transcript variant X1
+  Gene Descriptions: rust resistance kinase Lr10-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi05K
+  Gene Products: rust resistance kinase Lr10-like; rust resistance kinase Lr10-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: rust resistance kinase Lr10-like%2C transcript variant X2
+Msi
+  Gene count: 1
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: rust resistance kinase Lr10
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: Ser/Thr receptor-like kinase 1
+  Gene Synonyms: GRMZM2G064750,lrk1
+  Gene Descriptions: Ser/Thr receptor-like kinase 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 620 aa
+
+MDLpKFLvTlLLLsLLtYeSYVaaASeDEDFLKTCSSHRCSKHGPEIRFPFRLSThPPSC
+GAPGMQLSCSGHDTILDHPVLGSCKVTAIYYRHRVINVIPLVESSsQCPLQKLIStNLsT
+DVYkQPQSSqvTTLVRCSRDFIPtDQYSIVGPASCLSNNASQFWYLAspyAYMSDLPrDC
+evVSKGIPIPYTYDKnGPNfDeslFkEKANrVINFGETTFtWhLNNITsvCQQCEhEGRH
+CGFSSqRrQAFCQHHGshVIlIAAASSVAAFVVLSLmVATALYLSLKSRYNEEINmKVEM
+FLKAYGTSKPTRYTFPEVKKIARRFKDKLGQGGFGSVYKGELPNGVPVAVKMLEsSTGEG
+EEFINEVATIGLIHHANIVRLLGFCSEGTRRALIYEFMPNESLEKYIFsHvSNISRQLLa
+PnKMLDIALGIARGMEYLHQGCNQRILHFDIKPHNILLDYNFNPKISDFGLAKLCARDQS
+IVTLTAARGTMGYIAPELYSRNFGGVSYKSDVYSFGMLVLEMVSGRRNSDPsVENQnEVY
+LPEWIYERVIsGQEleLtlEMTaEDKEKmRQLTIVALWCIQWNPKNRPSMTKVVNMLTGR
+LQNLQIPPKPFVSSENHPMP
+
+
+BOP CONSENSUS:
+Length: 626 aa
+
+MDFpKFLVTLLLlCLLTYESYVgAASDDEDFlKTCSSHRCSKHGPEIRFPFRLSTqPPSC
+GAPGMQLSCSGdDTILDHHVLGSCKVTEIYYRHRVINVIPLVEPSmQCPLQKLIStNLAT
+DVYKQPQSSQvTTLVRCSRDFIPaDQYSIVGPAsCLSNNASQFWYLAsAsAYMSDLPrDC
+vAVSKGIPIPFtYDKhGPNsDestFnEKANrVINFGETTFTWHLNNITDVCQQCEHEGRH
+CGFSSQRrQAFCQhHGthVIPIAAASSVAAFVVLSLmVATvIYLSLKSRYNEEINMKVEM
+FLKAYGTSKPTRYTFPEVKKIARRFKDKLGQGGFGSVYKGELPNGVPVAVKMLESSTGEG
+EEFINEVATIGLIHHANIVRLLGFCSEGMRRALIYEFMPNESLEKYIFSHVSNISRQLLA
+PNKMLDIALGIARGMEYLHQGCNQRILHFDIKPHNILLDYNFNPKISDFGLAKLCARDQS
+IVTLTAARGTMGYIAPELYSRNFGGVSYKSDVYSFGMLVLEMVSGRRNSDPSVENQDEVY
+LPEWIYErVISGQEWELTLEMTAEDKEKMRQLTIVALWCIQWNPKNRPSMTKVVNMLTGR
+LQNLQIPPKPFVSSENhPMPQNTTNT
+
+
+PACMAD CONSENSUS:
+Length: 617 aa
+
+MDLHKFLLTALLLSLLNYASYAATSWEEDDFLKTCSSHRCSKHHGPEIRFPFRLSTHPPS
+CGAPGMQLSCSGHDTILDHPVLGSCKVTAIYYRHRVMNVIPLVDSSShCPLQKLISTNQS
+TDVYrPVQldssDSVLVGCSRDSVATNQEGIVGPSSCLSLSNNASQFWYLVlPqTDMSTL
+PMGCEVVAKSIPIPYTYDKNGPKFqTFFGKSLFKDRAKrAINLGETpLNWsLNsITSICQ
+RCEQEGRHCGFSSNRGQAFCQHHGSHVKLIAATTSVATFVVLVATALYLSLKKRYNEAIH
+LKVEMFLKTYGTSKPTRYTFSEVKKIARRFKEKVGQGGFGSVYKGQLPNGVPVAVKMLEN
+STGEGEDFINEVATIGQIHHANIVRLLGFCSEGTRRALIYEFMPNESLERYIFLHDSNIS
+QELLVPHKMLEIATGIARGMEYLHQGCNQRILHFDIKPHNILLDYSFNPKISDFGLAKLC
+ARDQSIVTLTAARGTMGYIAPEIYSRNFGGISYKSDVYSFGMLVLEMVSGRRNSDPGIEN
+QNEVYLPQWIYERVIAGQDLVLNREITEEEKEKVKQLAIVALWCIQWNPKNRPSMTKVVN
+MLTGRLQNLQIPPKPYI
+
+================================================================================

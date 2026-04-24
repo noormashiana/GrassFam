@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM011733
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             462.0 aa
+Family Size (Extended Family Size): 33 (35) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43144:SF1
+Panther Family ID:               PTHR43144
+Modal Panther ID:                PTHR43144:SF1
+Modal Panther Description:       LL-DIAMINOPIMELATE AMINOTRANSFERASE, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR43144
+Modal Panther Fam Desc:          AMINOTRANSFERASE
+Interpro Signature Accession:    cd00609; G3DSA:3.40.640.10:FF:000099; G3DSA:3.40.640.10; G3DSA:3.90.1150.10; TIGR03542; PTHR43144; PF00155; SSF53383
+Interpro Signature Description:  AAT_like; LL-diaminopimelate aminotransferase, chloroplastic; -; Aspartate Aminotransferase, domain 1; LL-diaminopimelate aminotransferase; AMINOTRANSFERASE; Aminotransferase class I and II; PLP-dependent transferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 3
+  Modal chromosome: Bdi01
+  Gene Products: probable LL-diaminopimelate aminotransferase%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu04H
+  Gene Products: probable LL-diaminopimelate aminotransferase%2C chloroplastic
+Ata
+  Gene count: 2
+  Modal chromosome: Ata04D
+  Gene Products: probable LL-diaminopimelate aminotransferase%2C chloroplastic
+Tae
+  Gene count: 6
+  Modal chromosome: Tae04A
+  Gene Products: probable LL-diaminopimelate aminotransferase%2C chloroplastic; probable LL-diaminopimelate aminotransferase%2C chloroplastic%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: probable LL-diaminopimelate aminotransferase%2C chloroplastic
+  Gene Descriptions: probable LL-diaminopimelate aminotransferase%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: probable LL-diaminopimelate aminotransferase%2C chloroplastic
+  Gene Synonyms: AGD2,DAP-AT,OsJ_27598
+  Gene Descriptions: probable LL-diaminopimelate aminotransferase%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: probable LL-diaminopimelate aminotransferase%2C chloroplastic
+  Gene Descriptions: probable LL-diaminopimelate aminotransferase%2C chloroplastic
+Svi
+  Gene count: 2
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi02K
+  Gene Products: probable LL-diaminopimelate aminotransferase%2C chloroplastic%2C transcript variant X1
+Pha
+  Gene count: 2
+  Modal chromosome: Pha02
+  Gene Products: probable LL-diaminopimelate aminotransferase%2C chloroplastic; probable LL-diaminopimelate aminotransferase%2C chloroplastic%2C transcript variant X1
+Msi
+  Gene count: 3
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: probable LL-diaminopimelate aminotransferase%2C chloroplastic
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: probable LL-diaminopimelate aminotransferase%2C chloroplastic; transaminase/ transferase%2C transferring nitrogenous groups
+  Gene Synonyms: GRMZM2G010328
+  Gene Descriptions: transaminase/ transferase%2C transferring nitrogenous groups
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 463 aa
+
+MAaAttAAPAITATsSSFLSSSsFSLRASKtSHLRPtRRvpVNVRCVSSPPAADTSYKTK
+VPRNANMAKLQAGYLFPEIARRRAAHLLKyPDAKIISLGIGDTTEPIPeVITNAMAERAH
+ALSTvDGYSGYGAEQGEKKLRAAIAATYYADLGIEETDIFVSDGAKCDISRLQVLFGSNV
+KIAVQDPSYPAYVDSSVIMGQTDLYQQDVQKYGNIEYMRCSPENGFFPDLStVPRTDIIF
+FCSPNNPTGAAASRDQLTqLVKFAKDNGSIIVYDSAYAMYISDDSPKSIFEIPGAKEVAI
+ETASFSKYAGFTGVRLGWTVVPKELLFSDGHPVAKDFNRIVCTCFNGASNISQAGGLGCL
+SPEGLKAMqDVVGFYKENTKIIVDTFTSLGFNVYGAKNAPYVWVHFPGRNSWDVFAEILE
+KANVVTTPGSGFGPGGEGFVRVSAFGHRENIIEAARRLKQLYK
+
+
+BOP CONSENSUS:
+Length: 461 aa
+
+mATTASPaTtATPrSFLSSSSFSLRASKSSHLRPTRRLPVNVRCVSSSPAADTSYTTKVS
+RNANIAKLQAGYLFPEIARRRAAHLLKHPDAKIISLGIGDTTEPIPEVITNAMAERAHAL
+STVDGYSGYGAEQGEKKLRAAIAATYYADLGIEETDIFVSDGAKCDISRLQVLFGSNVKI
+AVQDPSYPAYVDSSVIMGQTDLYQQDVQKYGNIEYMRCSPENGFFPDLSSVPRTDIIFFC
+SPNNPTGAAASRDQLTQLVKFAKDNGSIIVYDSAYAMYISDDSPKSIFEIPGAKEVAmET
+ASFSKYAGFTGVRLGWTVVPKELLFSDGHPVAKDFNRIVCTSFNGASTISQAGGLGCLSP
+EGLKAMQDVVGFYKENTKIIVDTFTSLGFNVYGAKNAPYVWVHFPGRNSWDVFAEILEKA
+HVVTTPGSGFGPGGEGFVRVSAFGHRENIIEAARRLKQLYK
+
+
+PACMAD CONSENSUS:
+Length: 462 aa
+
+MAAAPAGAPAITASSSFLSSSPFSLKASkTSHRRPAGRVSVnIRCVSSPPAVDTSYKTNV
+PRNANMAKLQAGYLFPEIARRRAAHLLKYPDAKIISLGIGDTTEPIPDVITNAMAERAHA
+LSTIDGYSGYGAEQGEKKLRAAIAATYYADLGIEDSDIFVSDGAKCDISRLQVLFGSNVT
+IAVQDPSYPAYVDSSVIMGQTDLYQQDVQKYGNIEYMRCsPENGFFPDLSTVPRTDIIFF
+CSPNNPTGAAASRDQLTKLVKFAKDNGSIIVYDSAYAMYISDDSPKSIFEIPGAKEVAIE
+TASFSKYAGFTGVRLGWTVVPKELLFSDGHPVAKDFNRIVCTCFNGASNIAQAGGLACLS
+PEGLKAMHDVVGFYKENTEIIVDTFTSLGFNVYGAKNAPYVWVHFPGRNSWDVFAEILEK
+ANVVTTPGSGFGPGGEGFVRVSAFGHRDNIIEAARRLKQLYK
+
+================================================================================

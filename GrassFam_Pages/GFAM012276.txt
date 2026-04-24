@@ -1,0 +1,125 @@
+================================================================================
+GrassFam ID: GFAM012276
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             494.0 aa
+Family Size (Extended Family Size): 15 (18) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43557:SF19
+Panther Family ID:               PTHR43557
+Modal Panther ID:                PTHR43557:SF19
+Modal Panther Description:       MONODEHYDROASCORBATE REDUCTASE 1, PEROXISOMAL
+Modal Panther Family ID:         PTHR43557
+Modal Panther Fam Desc:          APOPTOSIS-INDUCING FACTOR 1
+Interpro Signature Accession:    G3DSA:3.30.390.30; G3DSA:3.50.50.60; PTHR43557; PR00368; PF07992; PF21791; SSF51905
+Interpro Signature Description:  -; APOPTOSIS-INDUCING FACTOR 1; FAD-dependent pyridine nucleotide reductase signature; Pyridine nucleotide-disulphide oxidoreductase; Monodehydroascorbate reductase 3-like, C-terminal domain; FAD/NAD(P)-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: monodehydroascorbate reductase 1%2C peroxisomal
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: monodehydroascorbate reductase 1%2C peroxisomal-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: monodehydroascorbate reductase 1%2C peroxisomal%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: monodehydroascorbate reductase 1%2C peroxisomal-like; monodehydroascorbate reductase 1%2C peroxisomal-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: monodehydroascorbate reductase (NADH)
+  Gene Synonyms: 49D11.20b,MDAR1,MDHAR1,OsJ_35955,OsMDAR1,OsMDHAR1
+  Gene Descriptions: monodehydroascorbate reductase (NADH)
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi01N
+  Gene Products: monodehydroascorbate reductase 1%2C peroxisomal-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: monodehydroascorbate reductase 1%2C peroxisomal-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi07
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: putidaredoxin reductase homolog1
+  Gene Synonyms: GRMZM2G320307
+  Gene Descriptions: putidaredoxin reductase homolog1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 490 aa
+
+MGRAFAYVILGGGVAAGYAALEFVRRRaGASPGELCIISDEAVAPYERPALSKGYLLPqG
+AARLPAFHTCVGANDELLTEqWYKEHGIELVLGTRVISADVRRKTLLTstGETISYKTLI
+VATGARAlKLEEFGVrGSDAeNVCYLRsLEDADKmVGVMRSCPGGNAVVIGGGYIGMECA
+AALVANeIKVTMVFPGKHCMgRLFTPKIAEFYENYYASKGVTFIKGTAVsSLEVSDGKVT
+AAILRDGRRLPADMVVVGIGARANTGLFDGQLAMEKGGIKVNGRMQTSDASVYAVGDVAA
+FPVaLLGGDVRRFEHVDCARRTARHAVAAILEPSGaAgEdiDYLPFFYSRVFALSWQFYG
+DNAGEAVHFGDFSPSGAgskPKFGAcWVSgGRVAGAFLEGGSPEEyEAmAsAVRRGAAVA
+DVAAELeRrGLAFAvqEsRskaaRRgGllAgGDkPTYAWHATVGVAAAVSIAAFAYWYGW
+KAPYVVKRDF
+
+
+BOP CONSENSUS:
+Length: 492 aa
+
+MGRAFAYVILGGGVAAGYAALEFVRRRAGASPGELCIISDEAVAPYERPALSKGYLLPQG
+AARLPAFHTCAGANDEVLTEQWYKDHGIELVLATRVISADVRRKTLLTDtGETISYKTLI
+VATGARAsELEEFGVRGSDAANVCYLRSLEDADKMVGVMRSCHGGNAVVIGGGYIGMECA
+AALVANEIKVTMVFPGKHCMGRLFTPKIAEFYEKYYAAKGVVFVKGTAVKSLEVSDGKVA
+AAILRDGRRLPADMVVVGIGARANTGLFDGQLAMERGGIKVNGRMQTSDAAVYAVGDVAA
+FPVALLGGDVRRFEHVDCARRTARRAvEAILEPSGGAAEEGKgFGYLPYFYSRVFALSWQ
+FYGDNAGEAVHFGDFSPPGAGGKPKFGACWVSGGRVAGAFIEGGSREENEAMASAVRRGA
+AIADVAAELESRGLgFADqESRRKGVRRGgLAAGDRPTYARHATVGVAAAVSIAAFAYWY
+GWMAPYVVKRDF
+
+
+PACMAD CONSENSUS:
+Length: 491 aa
+
+MGRAFTYVILGGGVAAGYAALEFVRRRGDAAPGELCIISEEAVAPYERPALSKGYLlPEG
+GARLPAFHTCVGANDQLLTADWYKEHGIELILGTKVISADVRRKTLLTStGETISYKTLI
+VATGARALKLEEFGVSGSDAENVCYLRNIEDADKLVRVMRSCPGGNAVVIGGGYIGMECA
+AALVANKIKVTIVFPGKHCMdRLFTQKIAEFYENYYTSKGVTFIKGTAVSSLEISSGKVT
+TAILRDGRRLPADMVVVGIGARANTALFEGQLVMEKGGIKVNGQMQTSDASVYAVGDVAA
+FPVKLLGGDVRRLEHVDCARRTARHAVAAALDPSGAAGDIDYLPFFYSRVFALSWRFYGD
+NAGEAVHFGDLgFSASStPKFGAFWVSAGRIAGAFLEGGSPEEYEAIAHAVRRGAAVPDV
+AQLAREGLAFVVREGRSGAARPRPGGLSGGGGGDKPSYAWHATVGVAAAVSIAALAYWYG
+WKAPYLVKRsF
+
+================================================================================

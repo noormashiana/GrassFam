@@ -1,0 +1,118 @@
+================================================================================
+GrassFam ID: GFAM006414
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             323.0 aa
+Family Size (Extended Family Size): 16 (17) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46220
+Panther Family ID:               PTHR46220
+Modal Panther ID:                PTHR46220
+Modal Panther Description:       ADP-RIBOSYLATION FACTOR GTPASE-ACTIVATING PROTEIN AGD12
+Modal Panther Family ID:         PTHR46220
+Modal Panther Fam Desc:          ADP-RIBOSYLATION FACTOR GTPASE-ACTIVATING PROTEIN AGD12
+Interpro Signature Accession:    cd08204; cd04038; G3DSA:1.10.220.150:FF:000011; G3DSA:2.60.40.150:FF:000190; G3DSA:1.10.220.150; G3DSA:2.60.40.150; PTHR46220; PF01412; SM00105; SSF49562; SSF57863
+Interpro Signature Description:  ArfGap; C2_ArfGAP; Arf-GAP with dual PH domain-containing protein 1; ADP-ribosylation factor GTPase-activating protein AGD12; Arf GTPase activating protein; C2 domain; ADP-RIBOSYLATION FACTOR GTPASE-ACTIVATING PROTEIN AGD12; Putative GTPase activating protein for Arf; arf_gap_3; C2 domain (Calcium/lipid-binding domain, CaLB); ArfGap/RecO-like zinc finger
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: ADP-ribosylation factor GTPase-activating protein AGD12%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: ADP-ribosylation factor GTPase-activating protein AGD12-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: ADP-ribosylation factor GTPase-activating protein AGD12
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: ADP-ribosylation factor GTPase-activating protein AGD12-like; ADP-ribosylation factor GTPase-activating protein AGD12-like%2C transcript variant X1; ADP-ribosylation factor GTPase-activating protein AGD12-like%2C transcript variant X2
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: ADP-ribosylation factor GTPase-activating protein AGD12-like%2C transcript variant X2
+  Gene Descriptions: ADP-ribosylation factor GTPase-activating protein AGD12-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: ADP-ribosylation factor GTPase-activating protein AGD12%2C transcript variant X3
+  Gene Descriptions: ADP-ribosylation factor GTPase-activating protein AGD12
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau06
+  Gene Products: ADP-ribosylation factor GTPase-activating protein AGD12-like%2C transcript variant X2
+  Gene Descriptions: ADP-ribosylation factor GTPase-activating protein AGD12-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: ADP-ribosylation factor GTPase-activating protein AGD12-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: putative calcium-dependent lipid-binding (CaLB domain) family protein%2C transcript variant X1
+  Gene Synonyms: GRMZM2G138349
+  Gene Descriptions: putative calcium-dependent lipid-binding (CaLB domain) family protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 323 aa
+
+MSGGHGDAGASAKMAKLKELLHRSENRICADCSAPDPKWASANIGVFICVKCSGVHRSLG
+THISKVLSVTLDKWSDdEIDSMVEVGGNSqANAIYEAFLPEGYrKPHPDSaQEEREKFIR
+SKYELQEFLEPSLRIVSNHPSDsGKHAGNASHSdSSKSEIGMVEFIGILNVKVIGGTNLA
+IRDMSSSDPYVVLTLGQQKAQTSVIKGNLNPVWNEELKLSVPQqYGPLKLQVFDHDMVSK
+DDLMGEAEIDLQPMINAAAAFGDPELLGDIQIGRWLKSGDNALVRDSAVVVtGGKVKQEV
+sLKLQHTESGEVELEMEWMPLNM
+
+
+BOP CONSENSUS:
+Length: 323 aa
+
+MSGGHGDAGMASGKMAKLKELLqRSENRICADCSAPDPKWASANIGVFICVKCSGVHRSL
+GTHISKVLSVTLDKWSDDEIDSMVEVGGNSQANAIYEAFLPEGYRKPHPDSAQEERQKFI
+KSKYELQEFLEPSLRIVSNHPSDAGKQASNSHSgSSKSEIGMVEFIGILNVKVIGGTKLA
+IRDMSSSDPYVVLTLGQQKAQTSVIKGNLNPVWNEELKLSVPQKYGPLKLQVLDHDMVSK
+DDLMGEAEIDLQPMINAAASFGDPELLGDIQIGRWLKSGDNALTADSAVMVTGGKVKQEV
+SLKLQHTESGEVTVEMEWMALNM
+
+
+PACMAD CONSENSUS:
+Length: 323 aa
+
+MSgGHGDTGtSAKMAKLKELLHRSENRICADCSAPDPKWASANIGVFICVKCSGVHRSLG
+THISKVLSVTLDKWTDsEVDSMIEVGGNSnANAIYEAFLPEGYQKPHPDSSQEEREKFIR
+SKYELQEFLKPSLRIVSHQtSDSGKHAGnASHSDGSKSEIGMIEFIGILNVKVIGGTNLA
+IRDMSSSDPYVVLTLGQQKAQTSVIKGNLNPVWNEELKLSVPRqYGPLKLQVFDHDMVSK
+DDLMGEAEIDLQTMINAAAAFGDPELLGDMQIGRWLKSeDNALVRDSAVVVAGGKVKQGV
+sLKLQHTESGELELEMEWMPLNM
+
+================================================================================

@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM013962
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             378.0 aa
+Family Size (Extended Family Size): 23 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45669:SF65
+Panther Family ID:               PTHR45669
+Modal Panther ID:                PTHR45669:SF65
+Modal Panther Description:       OS02G0748800 PROTEIN
+Modal Panther Family ID:         PTHR45669
+Modal Panther Fam Desc:          GLUTAREDOXIN DOMAIN-CONTAINING CYSTEINE-RICH PROTEIN CG12206-RELATED
+Interpro Signature Accession:    cd03031; PTHR45669
+Interpro Signature Description:  GRX_GRX_like; GLUTAREDOXIN DOMAIN-CONTAINING CYSTEINE-RICH PROTEIN CG12206-RELATED
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: uncharacterized protein At3g28850
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: uncharacterized protein At5g39865-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: uncharacterized protein At5g39865
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: uncharacterized protein At5g39865-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: uncharacterized protein At3g28850-like
+  Gene Descriptions: uncharacterized protein At3g28850-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: uncharacterized protein At3g28850
+  Gene Descriptions: uncharacterized protein At3g28850
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: uncharacterized protein At3g28850-like; uncharacterized protein At5g39865-like
+  Gene Descriptions: uncharacterized protein At3g28850-like; uncharacterized protein At5g39865-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: uncharacterized protein At3g28850-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: uncharacterized protein At3g28850-like%2C transcript variant X1
+Msi
+  Gene count: 3
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: uncharacterized protein At5g39865
+Zma
+  Gene count: 2
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100272492; uncharacterized LOC100279402
+  Gene Synonyms: GRMZM2G041809; GRMZM2G118366,umc1375
+  Gene Descriptions: uncharacterized LOC100272492; uncharacterized LOC100279402
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 377 aa
+
+MGCTGSRHALRGGVRGGRSPYARSRSGPAAGaVHHTVALKSSTLGSLSLDRDEEMMKWRD
+DGGvGAAKTPPPPpQqQLaRRQRQVpGSPAKTPVREPEVINVWELMDGLDDKDEEGDAdG
+EERREKSAPGSPEFDPDVIAAFRKALDEiSPPpDdPGNeECiKKPDGPGDEvGVKKREIQ
+RFPGIVRARVSAFQQRIDAKLAKLAPPpPqPPaLPPPPDSARKVVLYLTSLRGIRKTYED
+CWSTKSILHGYGVRVDERDLSMHaGFKDELHAALGSAGRLPQVFADGRHLGGAEEVRRMH
+EAGELSKALEACEMAPPPSaGGKGIALEACSGCGGVRFVPCEECSGSCKVFLEEVGTFRR
+CPECNENGLVRCPLCSL
+
+
+BOP CONSENSUS:
+Length: 377 aa
+
+MGCTGSRHALRGGVRKSFGRSRSGPAAAGAAHHTVALKSSTLGSLSLDRDEEMMKWRADS
+FGGAAKSKATTPAPPPQPQLARRQRQVVGTPTKTPVREPEVINVWELMEGLDDKnEErDa
+AEDERREQSPPGSPEFDPEVISEFRKALGEASPPRDYqGDGECVKKREIQRFPGIVRARV
+SAFQQRIDAKLAKMARPPTPTSPPPSPPPPPQPQLPPPPDSqRKVVLYLTSLRGIRKTFE
+DCWATKSILHGYGVRIDERDLSLHGGFKDELHASLGSAGRLPQVFVDGEHLGGAEDVRRL
+HEAGELSKALEACEMAPPSvGGKGAALEACSGCGGVRFVPCEECSGSCKVFLEELDSFRR
+CPDCNENGLVRCPLCCL
+
+
+PACMAD CONSENSUS:
+Length: 376 aa
+
+MGCTGSRHALRGGVRGGGRSPYARSCSGPVTGGVHHTVALKSSTLGSLSLDRDEEMMKWR
+DDGGVGAAKTPPLKQQLVRRQKQVPGSPAKTPVREPEVINVWELMDGLDDKDEEGDADGE
+ERREKSAPGSPEFDPDVIAAFRKALDEIPPPPDDPGNEECiKKPDGPgGDEvGVKKREIQ
+RFPGIVRARVSAFQQRIDAKLAKLAPPQPPAPPPPPDSARKVVLYLTSLRGIRKTYEDCW
+STKSILqGYGVRVDERDLSMHAGFKDELHAALGSpAGRLPQVFADGRHLGGAEEIRRMHE
+AGELSKALEACEMAPPPSsGGKGIALEACSGCGGVRFVPCEECSGSCKVFLEEVGTFRRC
+PECNENGLVRCPLCSL
+
+================================================================================

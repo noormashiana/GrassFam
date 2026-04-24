@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM006314
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             405.0 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45686:SF25
+Panther Family ID:               PTHR45686
+Modal Panther ID:                PTHR45686:SF25
+Modal Panther Description:       ACTIVATING PROTEIN, PUTATIVE, EXPRESSED-RELATED
+Modal Panther Family ID:         PTHR45686
+Modal Panther Fam Desc:          ADP-RIBOSYLATION FACTOR GTPASE ACTIVATING PROTEIN 3, ISOFORM H-RELATED
+Interpro Signature Accession:    cd08831; G3DSA:1.10.220.150:FF:000012; G3DSA:1.10.220.150; PTHR45686; PR00405; PF01412; SM00105; SSF57863
+Interpro Signature Description:  ArfGap_ArfGap2_3_like; ADP-ribosylation factor GTPase-activating protein AGD10; Arf GTPase activating protein; ADP-RIBOSYLATION FACTOR GTPASE ACTIVATING PROTEIN 3, ISOFORM H-RELATED; HIV Rev interacting protein signature; Putative GTPase activating protein for Arf; arf_gap_3; ArfGap/RecO-like zinc finger
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: probable ADP-ribosylation factor GTPase-activating protein AGD8
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: probable ADP-ribosylation factor GTPase-activating protein AGD8
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: probable ADP-ribosylation factor GTPase-activating protein AGD8
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: probable ADP-ribosylation factor GTPase-activating protein AGD8
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: probable ADP-ribosylation factor GTPase-activating protein AGD8
+  Gene Descriptions: probable ADP-ribosylation factor GTPase-activating protein AGD8
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: probable ADP-ribosylation factor GTPase-activating protein AGD8
+  Gene Descriptions: probable ADP-ribosylation factor GTPase-activating protein AGD8
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau21
+  Gene Products: probable ADP-ribosylation factor GTPase-activating protein AGD8; probable ADP-ribosylation factor GTPase-activating protein AGD8%2C transcript variant X3
+  Gene Descriptions: probable ADP-ribosylation factor GTPase-activating protein AGD8
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: probable ADP-ribosylation factor GTPase-activating protein AGD8
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: probable ADP-ribosylation factor GTPase-activating protein AGD8
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: probable ADP-ribosylation factor GTPase-activating protein AGD9
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: probable ADP-ribosylation factor GTPase-activating protein AGD8; uncharacterized LOC100283451%2C transcript variant X1
+  Gene Synonyms: GRMZM2G134045
+  Gene Descriptions: uncharacterized LOC100283451
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 404 aa
+
+MATDeAAADKNAVFRKLRAKSDNKMCFDCNAKNPTWASVTYGVFLCIDCSAVHRSLGVHV
+SFVRSTNLDSWTPEQLKMMVYGGNNRAQAFFKQHGWTDGGKIEAKYTSRAADLYRQLLAK
+EVAKSSTEDGNNSWPSSPVAASQaSNQAAAFPDLKLtEASKEVVNEKnESEIVRSPRAPT
+HSFKKPIGAKKPGNKTGGLGARKLTSKPNESLYEQKPEEPAPALPSVTESTTARSKSHTS
+RFEYVENAPSAGSSSEeNQMsGHVAPPKSSNFFGEFGMDSGYHKKSTSSSSKVQVEESSE
+ARQKFSNAKSISSSQFFGDQASFEKEAQVSLQKFSGSSAISSADLFGHPANNSNVDLSAS
+DLINRISFQATQDLSSLKNMAGETGKKLTSMASNIITDLQDRIL
+
+
+BOP CONSENSUS:
+Length: 403 aa
+
+MATDAGAADRSSVFRKLRAKSDNKMCFDCNAKNPTWASVTYGVFLCIDCSAVHRSLGVHV
+SFVRSTNLDSWTPEQLKMMVYGGNNRAQAFFKQHGWTDGGKIEAKYTSRAADLYRQLLLK
+EVSKSSTEDGNNSWPSSPVAASQTSsQAAAFPDLKLAEVSKEVVNEKNESEVIRSPKAPT
+HSFKKPIGGKKPGSKTGGLGARKLTTKPSESLYEQKPEEPAPALPSVAESTTARSKSHTS
+RFEYVENVPSAGSSSEENQAFGHVAPPKSSNFFGEYGMDSGYHKKSTSGsSKVQVEESSE
+ARQKFSNAKSISSSQFFGDQANLEKEGQISLQKFSGSSAISSADLFGQQANNSNADLSAS
+DLINRISFQATQDLTSLKSMAGQTGKKLTSMASNIISDLDRIL
+
+
+PACMAD CONSENSUS:
+Length: 406 aa
+
+MAATEAFADKNAVFRKLRAKSDNKMCFDCNAKNPTWASVTYGVFLCIDCSAVHRSLGVHV
+SFVRSTNLDSWTPEQLKMMVYGGNNRAQAFFKQHGWTDGGKIEAKYTSRAADLYRQLLAK
+EVAKSSTEDGNNSWPSSPVAASQAPNQAAAFPDLKLTEASKENVSEKtEPEIVRSPRAPT
+HSFKKPIGAKKPGNKTGGLGARKLTSKPNESLYEQKPEEPAPVLPSVTESTTTRSKSHTS
+RFEYVENAPAArTGSSSEDNQMSGHVAPPKSSNFFAEFGMDSGYHKKSTSSSSKVQVEES
+SEARQKFSNAKSISSSQFFGDQASFEKEAQVSLQKFSGSSAISSADLFGHPANNSSVDLS
+ASDLINRISFQATQDLSSLKNMAGETGKKLTSMASNIITDLQDRIL
+
+================================================================================

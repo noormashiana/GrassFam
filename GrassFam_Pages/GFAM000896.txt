@@ -1,0 +1,119 @@
+================================================================================
+GrassFam ID: GFAM000896
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             360.0 aa
+Family Size (Extended Family Size): 41 (42) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR26379:SF381
+Panther Family ID:               PTHR26379
+Modal Panther ID:                PTHR26379:SF381
+Modal Panther Description:       OS10G0429300 PROTEIN
+Modal Panther Family ID:         PTHR26379
+Modal Panther Fam Desc:          BTB/POZ AND MATH DOMAIN-CONTAINING PROTEIN 1
+Interpro Signature Accession:    cd18280; cd00121; G3DSA:3.30.710.10; G3DSA:2.60.210.10; PTHR26379; PF22486; SSF54695; SSF49599
+Interpro Signature Description:  BTB_POZ_BPM_plant; MATH; Potassium Channel Kv1.1; Chain A; Apoptosis, Tumor Necrosis Factor Receptor Associated Protein 2; Chain A; BTB/POZ AND MATH DOMAIN-CONTAINING PROTEIN 1; MATH domain; POZ domain; TRAF domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu07H
+  Gene Products: BTB/POZ and MATH domain-containing protein 1-like%2C transcript variant X1; BTB/POZ and MATH domain-containing protein 2-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata03D
+  Gene Products: BTB/POZ and MATH domain-containing protein 2-like
+Tae
+  Gene count: 14
+  Modal chromosome: Tae07B
+  Gene Products: BTB/POZ and MATH domain-containing protein 1-like; BTB/POZ and MATH domain-containing protein 2-like; BTB/POZ and MATH domain-containing protein 2-like%2C transcript variant X2
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl10
+  Gene Products: BTB/POZ and MATH domain-containing protein 2-like; BTB/POZ and MATH domain-containing protein 3-like
+  Gene Descriptions: BTB/POZ and MATH domain-containing protein 2-like; BTB/POZ and MATH domain-containing protein 3-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa10
+  Gene Products: BTB/POZ and MATH domain-containing protein 2
+  Gene Descriptions: BTB/POZ and MATH domain-containing protein 2
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau21
+  Gene Products: BTB/POZ and MATH domain-containing protein 2-like
+  Gene Descriptions: BTB/POZ and MATH domain-containing protein 2-like
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: BTB/POZ and MATH domain-containing protein 1-like%2C transcript variant X2; BTB/POZ and MATH domain-containing protein 2-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha09
+  Gene Products: BTB/POZ and MATH domain-containing protein 2-like
+Msi
+  Gene count: 5
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi01
+  Gene Products: BTB and MATH domain-containing protein 40-like; BTB/POZ and MATH domain-containing protein 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: BTB/POZ and MATH domain-containing protein 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 368 aa
+
+MsFtGVSFVGDSrlPPSSSPttpvtSSGYHLLVVNGYSRTKsDTPNGkCIRSrPFKvGGY
+RWcIEYYPNGYEsENADyISFYLVLDEgNvVEPVvAQYvFSFvGQVQssESSLLvGeRGA
+HrFSSTDAySFgClMkRQtFEKSKHLKNDSFTIRCDIvvvKDVNiGDAgAAvrFVvVPPp
+DIQQHLGnLLLSqEGTDVTFQVGgEtFAAHRCVLAARSAVFKAELFGtMKEGaTttViHV
+DDMDAqVFRlLLGFIYSDSVPEIEEEEEEDVMWQHLLVAADRYDLPRLRLICEqkLCeYI
+NTdTVaTILeLAEQHHCrGLKDACLDFLNSPANLQeVMAAGGLDsLaiSCPSVLIELIAK
+LtSLKLDK
+
+
+BOP CONSENSUS:
+Length: 315 aa
+
+MPFTGVSVITDgRAPRSSSPTtSSNTSSGYHLLIVEGYSRTKSSTHTGECIRSCPFMVGG
+YLWCIQYYPNGAKSENADFISLYLVnrRDTLERSKYLKDDSFTLRCDIVVVGDAYNSrDT
+ATtsPSIKVPsSDMQQHFSDLLLAEEGTDVTFKVGGETIAAHRCVLAARSAVFKAELFGT
+MKEGMMTTSVIQVDDMDAQVFRAMLGFIYSDSPSEIEEEEDADVMWQHLLIAADRYDLRR
+LRLMCEEKLSEYVDVTTATTILTLAEQHNCRGLKETCLEFLNSPANLQKVMASGGLDSLA
+ACCPSVLKDLIAKLN
+
+
+PACMAD CONSENSUS:
+Length: 365 aa
+
+MSFtGVSFVGDScLPPSSAtTPVlVSGYHLLVVNGYSRTKDTPNGKCIRSNyFKIGGHRW
+iIEYYPNGYEQENtDYISFYLVLDEgNvVEPVvAQYVFSFvGQVQsPESSLLVGeRGAHr
+FSSTDAySfaClMKRQsFEKSKHLRNDSFTIRCDvsIvKNVNIGEAGAAvRFVvVPPPDI
+QHHLGNLLLSQEGTDVTFQVGDEKFMAHRCVLAARSAVFKAELFGPMKEGTTDTVVHIdD
+MDAKVFRLLLGFMYTDsVPEFEEEEEEyMWQHLLVAADRYDVPRLRLICEQMLCsYINTD
+TVATMLELAEKHHCNGLKDACLDFLNSPANLQEVTAAGGLDDLTISCPSVLIELIAKLSS
+LKLDK
+
+================================================================================

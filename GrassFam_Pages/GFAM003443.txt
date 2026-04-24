@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM003443
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             499.0 aa
+Family Size (Extended Family Size): 19 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43557:SF6
+Panther Family ID:               PTHR43557
+Modal Panther ID:                PTHR43557:SF6
+Modal Panther Description:       MONODEHYDROASCORBATE REDUCTASE, CHLOROPLASTIC_MITOCHONDRIAL
+Modal Panther Family ID:         PTHR43557
+Modal Panther Fam Desc:          APOPTOSIS-INDUCING FACTOR 1
+Interpro Signature Accession:    G3DSA:3.50.50.60; G3DSA:3.30.390.30; PTHR43557; PR00368; PF07992; SSF51905
+Interpro Signature Description:  -; APOPTOSIS-INDUCING FACTOR 1; FAD-dependent pyridine nucleotide reductase signature; Pyridine nucleotide-disulphide oxidoreductase; FAD/NAD(P)-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: monodehydroascorbate reductase 5%2C chlorplastic%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: monodehydroascorbate reductase 5%2C chlorplastic%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: monodehydroascorbate reductase 5%2C chlorplastic%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: monodehydroascorbate reductase 5%2C chlorplastic; monodehydroascorbate reductase 5%2C chlorplastic-like; monodehydroascorbate reductase 5%2C chlorplastic-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Osa
+  Gene count: 1
+  Modal chromosome: Osa08
+  Gene Products: monodehydroascorbate reductase 5%2C chlorplastic-like%2C transcript variant 3
+  Gene Synonyms: MDAR5,MDHAR5,OJ1349_D05.106,OsMADR5,OsMDHAR5
+  Gene Descriptions: monodehydroascorbate reductase 5%2C chlorplastic-like
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN4
+Pau
+  Gene count: 1
+  Modal chromosome: Pau16
+  Gene Products: monodehydroascorbate reductase 5%2C chlorplastic%2C transcript variant X2
+  Gene Descriptions: monodehydroascorbate reductase 5%2C chlorplastic
+Svi
+  Gene count: 1
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: monodehydroascorbate reductase 5%2C chlorplastic; monodehydroascorbate reductase 5%2C chlorplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: monodehydroascorbate reductase 5%2C chlorplastic%2C transcript variant X2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: monodehydroascorbate reductase 5%2C mitochondrial%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: uncharacterized LOC100272772
+  Gene Synonyms: GRMZM5G828229,IDP52
+  Gene Descriptions: uncharacterized LOC100272772
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 503 aa
+
+MTSALRRKAAQMASAAAAAQCFSySSSPAtWALRQRGgGGGArVlalssRRsFSVSAAAG
+FDNQNREYVIVGGGNAAGYAARTFVEHGMADGRLCIVSKEAVPPYERPALTKGYLFPPEK
+KPARLPGFHTCVGSGGQRQTAEWYKENGIEVLYEDPVVAFDGKTQTLKTSSGKILKYGSL
+IISTGCEASRLPEKIGGkLPGVHYIRDVADADSLVSSLGsAKKVVVIGGGYIGMEVAAAA
+CGWNLDTTIIFPEDHIMPRLFTPSLAKKYEELYQQNGVKFIKGALIDKLEAGSDGRVSSA
+VLKDGSVVEADTVIVGIGAKPVVSPFEAVGVNpEVGGIEVDSLFRTSVPGIFAIGDVAAF
+PLKMYNRIARVEHVDHARKSAHHCVETLLTSQTKAYDYLPYFYSRVFEYEGSSRKIWWQF
+YGDNVGETVEVGNFDPKIATFWIDSDSRLKGVFLESGTSEEFSLLPQLAKSQPIVDKAKL
+KSATSVEDALEIARSSLQSgASV
+
+
+BOP CONSENSUS:
+Length: 497 aa
+
+MTSALRRKAAQMASTAAAAAAGtGCYSQTSWALRRLGAGGGALASAATRRRNFSVSAAAV
+FDNQNREYVIVGGGNAAGYAARTFVEHGMADGRLCIVSKEAVPPYERPALTKGYLFPPEK
+KPARLPGFHTCVGSGGQRQTAEWYKENGIEVLYEDPVEAFDGKTQTLKTSSGKILKYGSL
+IISTGCAAARLPEKIGGNLPGVHYIRDVADADSLVSSLGKAKKIVVIGGGYIGMEVAAAA
+CGWNLDTTIIFPEDHIMPRLFTPSLAKKYEELYEQNGVKFVKGALIDKLDAGSDGRVSSA
+ILKDGSVVEADTVIVGIGAKPSVSPFEAVGVNiEVGGIEVDSMFRTSIPSIFAIGDVAAF
+PLKMYDRIARVEHVDHARKSAQHCIETLLTSQAKAYDYLPYFYSRVFEYEGSSRKIWWQF
+YGDNVGETIEVGNFDPKIATFWIDSDSRLKGVFLESGTSEEFSLLPKLARSQPIVDKAKL
+KSATSVEDALEIARSSL
+
+
+PACMAD CONSENSUS:
+Length: 500 aa
+
+MTSALRRKAAQMASAAAAAQCFSYSSSPATWALRQRGGARVLRLSSRRSFSVSAAAGFDN
+QNREYVIVGGGNAAGYAARTFVEHGMADGRLCIVSKEPVPPYERPALTKGYLFPPDKKPA
+RLPGFHTCVGSGGQRQTAEWYKENGIEVLYEDPVVAFDGKTQTLKTSSGKILKYGSLIIS
+TGCEASRLPEKIGGKLPGVHYIRDVADADSLVSSLGSAKKVVVIGGGYIGMEVAAAACGW
+NLDTTIIFPEDHIMPRLFTPSLAKKYEELYQQNGVKFIKGALIDKLEAGSDGRVSSAVLK
+DGSVVEADTVIVGIGAKPVVSPFEAVGVNPEVGGIEVDSLFRTSVPGIFAIGDVAAFPLK
+MYNRIARVEHVDHARKSAHHCVETLLTSQTKAYDYLPYFYSRVFEYEGSSRKVWWQFYGD
+NVGETVEVGNFDPKIATFWIDSDSRLKGVFLESGTSEEFSLLPQLAKSQPIVDKSKLQAA
+TSVEDALEIARSSLQSSASV
+
+================================================================================

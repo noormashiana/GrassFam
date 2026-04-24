@@ -1,0 +1,126 @@
+================================================================================
+GrassFam ID: GFAM010801
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             300.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46193:SF9
+Panther Family ID:               PTHR46193
+Modal Panther ID:                PTHR46193:SF9
+Modal Panther Description:       HALOACID DEHALOGENASE-LIKE HYDROLASE DOMAIN-CONTAINING PROTEIN SGPP
+Modal Panther Family ID:         PTHR46193
+Modal Panther Fam Desc:          6-PHOSPHOGLUCONATE PHOSPHATASE
+Interpro Signature Accession:    cd07505; G3DSA:3.40.50.1000; G3DSA:1.10.150.240; PTHR46193; PF13419; SFLDG01135; SFLDG01129; SSF56784
+Interpro Signature Description:  HAD_BPGM-like; -; Putative phosphatase; domain 2; 6-PHOSPHOGLUCONATE PHOSPHATASE; Haloacid dehalogenase-like hydrolase; C1.5.6: HAD, Beta-PGM, Phosphatase Like; C1.5: HAD, Beta-PGM, Phosphatase Like; HAD-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: haloacid dehalogenase-like hydrolase domain-containing protein Sgpp%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: haloacid dehalogenase-like hydrolase domain-containing protein Sgpp
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: haloacid dehalogenase-like hydrolase domain-containing protein Sgpp
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: haloacid dehalogenase-like hydrolase domain-containing protein Sgpp
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: haloacid dehalogenase-like hydrolase domain-containing protein Sgpp%2C transcript variant X1
+  Gene Descriptions: haloacid dehalogenase-like hydrolase domain-containing protein Sgpp
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: haloacid dehalogenase-like hydrolase domain-containing protein Sgpp%2C transcript variant X1
+  Gene Descriptions: haloacid dehalogenase-like hydrolase domain-containing protein Sgpp
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau24
+  Gene Products: haloacid dehalogenase-like hydrolase domain-containing protein Sgpp%2C transcript variant X3
+  Gene Descriptions: haloacid dehalogenase-like hydrolase domain-containing protein Sgpp
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: haloacid dehalogenase-like hydrolase domain-containing protein Sgpp%2C transcript variant X1; haloacid dehalogenase-like hydrolase domain-containing protein Sgpp%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: haloacid dehalogenase-like hydrolase domain-containing protein Sgpp%2C transcript variant X2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: haloacid dehalogenase-like hydrolase domain-containing protein Sgpp%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100501636%2C transcript variant X1
+  Gene Synonyms: GRMZM2G086869
+  Gene Descriptions: uncharacterized LOC100501636
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 287 aa
+
+MlSaRGSAPhvRrlllSiSlPssprIfSRgRyKRhtiSRSAatpADMAtdSALtKLAPLE
+AILFDIDGTLCDSDPIHFCAFRELLQQVGFNnGVPITEEFYSANISGGHNDDLARALFPD
+MDHaKAMqFMDDKEALFRKLAPGQLKALDGLHELCrWIEGRNLKRAAVTNAPRANAELML
+SLLGLTDFFPVLVIGSECDRAKPFPDPYLKALELIGASPDHTFIFEDSASGIRAGVAAGV
+PVVGLTTRNPEKVLrDAGASLLIkDFQDPKLLSVLQELdPAaAnkQG
+
+
+BOP CONSENSUS:
+Length: 300 aa
+
+MYASARGSQPHVCPVSPPTvHHSTASLPRSPCITSARsSRYKNHTARAYRRGTGApDMSA
+AGDRDLRKLAPLEAILFDIDGTLCDSDPFHFLAFRELLQQVGFNNGVPITEEFYSANISG
+WHNDALAGALFPELDHAKGMEFMDRKEALFRKLAAGELKGLDGLQELCTWIEGRNLKRAA
+VTNAPRANAELVLSLLGLTSFFPVLVIGSECERAKPSPDPYLKALELIGASPDHTFIFED
+SASGIRAGVAAGVAVVGLTTGNPEKVLRDAGASLLIEDFRDPKLMAMLQELDPAaADKQG
+
+
+PACMAD CONSENSUS:
+Length: 291 aa
+
+MLSAPlPRRRLLSISAPSPGRISIGtSnSiSFSRGEKKRGRISSAATPADMATnSALTKL
+APLEAILFDIDGTLCDSDPIHFCAFRELLQQIGFNDGVPITEEFYSANISGGHNDDLARS
+LFPDMDHQKAMQFMDDKEALFRKLAPGQLKAVDGLHELCRWIEGRNLKRAAVTNAPRANA
+ELMLSLLGLTDFFPVLVIGSECDRAKPFPDPYLKALQLIGASPeHTFIFEDSASGVRAGV
+AAGVPVVGLTTRNPGKVLsDAGASLLIKDFQDPKLLSVLEELEPAtANGQv
+
+================================================================================

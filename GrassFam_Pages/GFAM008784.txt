@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM008784
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             451.0 aa
+Family Size (Extended Family Size): 29 (30) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10536:SF1
+Panther Family ID:               PTHR10536
+Modal Panther ID:                PTHR10536:SF1
+Modal Panther Description:       DNA PRIMASE
+Modal Panther Family ID:         PTHR10536
+Modal Panther Fam Desc:          DNA PRIMASE SMALL SUBUNIT
+Interpro Signature Accession:    cd04860; G3DSA:3.90.920.10:FF:000001; G3DSA:3.90.920.10; TIGR00335; PTHR10536; PF01896; SSF56747
+Interpro Signature Description:  AE_Prim_S; DNA primase; DNA primase, PRIM domain; eukaryotic-type DNA primase catalytic subunit PriS; DNA PRIMASE SMALL SUBUNIT; DNA primase small subunit; Prim-pol domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi03
+  Gene Products: DNA primase small subunit; DNA primase small subunit-like%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu01H
+  Gene Products: DNA primase small subunit-like; DNA primase small subunit-like%2C transcript variant X3
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: DNA primase small subunit
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: DNA primase small subunit-like; DNA primase small subunit-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: uncharacterized LOC127772748%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127772748
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC9267485
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau11
+  Gene Products: uncharacterized LOC133884538
+  Gene Descriptions: uncharacterized LOC133884538
+Svi
+  Gene count: 2
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: DNA primase small subunit-like; DNA primase small subunit-like%2C transcript variant X2
+Pha
+  Gene count: 3
+  Modal chromosome: Pha03
+  Gene Products: DNA primase small subunit-like; DNA primase small subunit-like%2C transcript variant X1; DNA primase small subunit-like%2C transcript variant X2
+Msi
+  Gene count: 5
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: DNA primase small subunit
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: DNA primase small subunit%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 455 aa
+
+MGRdDErVDsMEIDGQQQQQVEapAAVPEGFNADYLRVYYGKLFPYGDFFKWLCYGNDGK
+HPGCDQSYVGRREFSFTLENDIYLRFQSFDSAAELESSIKEKCPFKIDIGPVYSVDPAKR
+HAYAQSGNNVFVPVERELIFDIDISDYDDVRYCCSGADVCLDCWPLMTIAIKILDTSLRD
+DFGFNHILWVYSGRRGVHCWVCDSRARKLSNEQRAAIADYFRVYKGGENaLKKVSLAGPV
+LHPFLARSYTDVLKcFFEDKLLLSQQLFASEERCQKILDLIPDENVASELHDKWQGNRRS
+SISKEDVNAARWEQLKTTLQSGKHKAQGLRRCVEEIVFSYTYPRLDMEVSKHMNHLLKAP
+FCIHPKTGRVCVPIDPNNCDDFDPTAVPTLSQLLGELNAAGFQTDSENNWERTSLEKSIR
+FFRTSFLQPLLKACKEELESAYNAKLQQSKNSLNW
+
+
+BOP CONSENSUS:
+Length: 451 aa
+
+MEDERVEAMEIDGQQrQEVAAAVPDGFNADYLRIYYGKLFPYGDFFKWLSYGNDAKHPGC
+DQSYIGRRELSFTLENDIYLRFQSFDSAAELEtSIKEKCPFKIDIGPVYSVDPAKRHAYA
+QSGNNVFVPVERELIFDIDISDYDDVRYCCSGADTCLDCWPLMTIVIKILDTSLRGDFGF
+NHILWVYSGRRGVHCWVCDSRARKLSNEQRSAIADYFRVYKGGENsLKKVSLTGPVLHPF
+LARSYTDVLKCFFEDKLLHSQQLFASEERCQKILELIPDENVASELHDKWQGNRRSSISK
+EDVNAARWEQLKTTLQSGKHKTQGLRRCVEEIVFSYTYPRLDMEVSKHMNHLLKAPFCIH
+PKTGRVCVPIDPNNCDDFDPTAVPTLSQLLGELNAAGMQIDSENDWERTSLEKSIRFFRT
+SFLQPMLKACKEELEtAYSAKLQQSKNTLsW
+
+
+PACMAD CONSENSUS:
+Length: 455 aa
+
+MGRDDEPVDSMEIDGQQQLQVEAPAAVPEGFNADYLRVYYGKLFPYGDFFKWLCYGNDGK
+HPGCDQSYVGRREFSFTLENDIYLRFQSFDSAAELESSIKEKCPFKIDIGPVYSVDPAKR
+HAYAQSGNNVFVPVERELIFDIDISDYDDVRYCCSGADVCsDCWPLMTIAIKILDTSLRD
+DFGFNHILWVYSGRRGVHCWVCDSRARKLSNEQRAAIADYFRVYKGGENALKKVSLAGPV
+LHPFLARSYMDVLESFFEDKLLLSQQLFASEERCQKILDLIPDENVASELHDKWQGNRRS
+SISKEDVNAARWKQLKTTLQSGKHKAQGLRRCVEEIVFSYTYPRLDMEVSKHMNHLLKAP
+FCIHPKTGRVCVPIDPNNCDDFDPTAVPTLSQLLGELNAAGFQTDSENNWERTSLEKSIr
+FFRTSFLQPLLKACKEELESAYNAKLQQSKNSLNW
+
+================================================================================

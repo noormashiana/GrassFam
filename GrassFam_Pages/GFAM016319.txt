@@ -1,0 +1,120 @@
+================================================================================
+GrassFam ID: GFAM016319
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             381.5 aa
+Family Size (Extended Family Size): 24 (32) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22835:SF544
+Panther Family ID:               PTHR22835
+Modal Panther ID:                PTHR22835:SF544
+Modal Panther Description:       OS10G0393700 PROTEIN
+Modal Panther Family ID:         PTHR22835
+Modal Panther Fam Desc:          ZINC FINGER FYVE DOMAIN CONTAINING PROTEIN
+Interpro Signature Accession:    cd01837; G3DSA:3.40.50.1110; PTHR22835; PF00657
+Interpro Signature Description:  SGNH_plant_lipase_like; SGNH hydrolase; ZINC FINGER FYVE DOMAIN CONTAINING PROTEIN; GDSL-like Lipase/Acylhydrolase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: GDSL esterase/lipase At1g28600-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata06D
+  Gene Products: GDSL esterase/lipase At1g28600; GDSL esterase/lipase At2g27360
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06D
+  Gene Products: GDSL esterase/lipase At1g28600-like; GDSL esterase/lipase At1g28600-like%2C transcript variant X1; GDSL esterase/lipase At2g27360-like
+Ogl
+  Gene count: 3
+  Modal chromosome: Ogl10
+  Gene Products: GDSL esterase/lipase At1g28590-like; GDSL esterase/lipase At1g28600-like; GDSL esterase/lipase At2g27360-like
+  Gene Descriptions: GDSL esterase/lipase At1g28590-like; GDSL esterase/lipase At1g28600-like; GDSL esterase/lipase At2g27360-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa10
+  Gene Products: GDSL esterase/lipase At1g28590; GDSL esterase/lipase At2g27360
+  Gene Descriptions: GDSL esterase/lipase At1g28590; GDSL esterase/lipase At2g27360
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Svi
+  Gene count: 2
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi09N
+  Gene Products: GDSL esterase/lipase At1g28590-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: GDSL esterase/lipase At1g28600-like%2C transcript variant X1
+Msi
+  Gene count: 3
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi01
+  Gene Products: GDSL esterase/lipase At1g28600%2C transcript variant X1; GDSL esterase/lipase At1g28650
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: GDSL esterase/lipase
+  Gene Synonyms: GRMZM2G070825
+  Gene Descriptions: GDSL esterase/lipase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 373 aa
+
+MApfsRLLpAVPLLlvLLVAavAaADAadtaGGgGpgraRYsRVFaFGNSLTDTGNsAIL
+PvTAGGPFTrPPYGqTyFGhPsGRASDGRLvIDFLVEeLkvPePTPYLAGKTAADFLnGa
+NFAVGGATALDPAFLASrGITSFVPVSLSNETSWFQnVLQLLdSSdneQRKIMASSvFYv
+GEIGvNDYFfALsnNgTVDvAaSLVPHIIGaIRSALTamIaAGARTVVVTGMIPIGCEPq
+qLALFPGGpGDYDPaTGCIARFNqLAElHNRaLrRMLrELRRahPGrallYADlYRPVtA
+AVASPakYGFGDtPLAACCGGGGGPYNFNFTaFCGTPASTtCADPSKSVSWDGIHYTEAA
+NRFVARaMLrGLL
+
+
+BOP CONSENSUS:
+Length: 368 aa
+
+MALLPRLLLALLGVLLVAVTGEASAGGGGHgqARYDRVFSFGDSLTDTGNSAILPATAGG
+PFTNPPYGQTHFHRPtGRASDGRLVIDFIVESLGLPpPTPYLAGKTAADFLhGANFAVGG
+ATALDPAFLqSRGITSFVPVSLSNQTRWFNGVLQLLdSTgNgqRkIMASSLFYFGEIGFN
+DYSFALvfGNGTVGLAASLVPDIVGVIRSAVTDAIgAGARTVVVAGMIPMGCEPELLALL
+PGGAGDYYDPASGCIARFNqLAQLHNRELkRMLcQLRRAHPGAAVHYADLYRPVTAvVSS
+PrKYGFGDsPLAACCGGGGGPYNFNFTFFCGTPASTaCADPSsSVSWDGIHYTEAANKFV
+ARAILRRL
+
+
+PACMAD CONSENSUS:
+Length: 378 aa
+
+MAPsSRLppAVPLLLvLLGAAeApAyADTDGGNRrRYtRLFAFGNSLTDTGNaAIFPVTA
+GGPFTRPPYGETYFGHPSGRASNGRLILDFLVEELKVPePTPYLAGRTAADFLNGtNFAL
+GGATALDQAFLASKGItSFVPISLSNETSWFQNVLQLLdSSDYEQRKIMASSVFYVGEIG
+VNDYFfALSNNSVDVAVSLVPHIIGAIRSALTAMIAAGARTVVVTGMLPIGCEPQQLALF
+PGGPGDYDPTTGCITRFNeLAEhHNraLRmMLrELRrsYPGRSLTLLYADIYrPVvKAVA
+SPAlYGFGDrPLAACCGGGGGPNNFNFTAFCGTPaSTTCADPSKFVSWDGIHFTEAANRF
+IARnMLKGLLSRAAyvAT
+
+================================================================================

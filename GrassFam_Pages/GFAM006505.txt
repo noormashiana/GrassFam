@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM006505
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             472.0 aa
+Family Size (Extended Family Size): 23 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR32494:SF19
+Panther Family ID:               PTHR32494
+Modal Panther ID:                PTHR32494:SF19
+Modal Panther Description:       ALLANTOATE DEIMINASE-RELATED
+Modal Panther Family ID:         PTHR32494
+Modal Panther Fam Desc:          ALLANTOATE DEIMINASE-RELATED
+Interpro Signature Accession:    cd03884; G3DSA:3.40.630.10:FF:000044; G3DSA:3.30.70.360:FF:000012; G3DSA:3.30.70.360; G3DSA:3.40.630.10; TIGR01879; PTHR32494; PIRSF001235; SSF53187
+Interpro Signature Description:  M20_bAS; Allantoate amidohydrolase; Putative ureidoglycolate hydrolase; -; Zn peptidases; hydantoinase/carbamoylase family amidase; ALLANTOATE DEIMINASE-RELATED; Amidase_hyd_carb; Zn-dependent exopeptidases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi02
+  Gene Products: probable ureidoglycolate hydrolase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: ureidoglycolate hydrolase
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: ureidoglycolate hydrolase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: ureidoglycolate hydrolase; ureidoglycolate hydrolase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl12
+  Gene Products: ureidoglycolate hydrolase
+  Gene Descriptions: ureidoglycolate hydrolase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa12
+  Gene Products: probable ureidoglycolate hydrolase%2C transcript variant 1
+  Gene Synonyms: OsJ_36749,OsUAH,UAH
+  Gene Descriptions: probable ureidoglycolate hydrolase
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu06
+Pau
+  Gene count: 2
+  Modal chromosome: Pau22
+  Gene Products: ureidoglycolate hydrolase; ureidoglycolate hydrolase-like%2C transcript variant X1
+  Gene Descriptions: ureidoglycolate hydrolase; ureidoglycolate hydrolase-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: ureidoglycolate hydrolase; ureidoglycolate hydrolase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: probable ureidoglycolate hydrolase%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi14
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: probable ureidoglycolate hydrolase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100279195%2C transcript variant 1
+  Gene Synonyms: GRMZM2G130034
+  Gene Descriptions: uncharacterized LOC100279195
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 469 aa
+
+MpPsaASRLLLLlLLvGAAAAAaGHDDAAARRTMEEFAGFPASDDGEGGpSSPFRVDSEG
+LQRQIDELASFSDSPAPSVTRVLYSDKDVQARRYIKGIMNQLGLAVREDAVGNIFGRWEG
+SEAGLGAVATGSHVDAIPFSGKYDGVVGVLGALEAISlLKRSGFQPKRSLEVIMFTSEEP
+TRFGISCLGSRLMAGIEELAQSLrkVVDNQNVSFLDAAdSAGYKMHPEDLHSVFLKKDsY
+SAFIELHIEQGPILEKEGIPIGIVTAIAAPASIKVEFEGNGGHAGAVLMPARNDAGLAAA
+ELALAVEKHVLESGSIDTVGTVGILQLHPGAINSIPSKSHLEIDVRDIDEKRRNDVIEKV
+rQSAtEISKNRGVeLSEFKIINQDPPALSDKSVIdAMEFAAKQLNLEYKLMISRAYHDSL
+FMARISPMGMIFIPCYKGYSHKPEEYASPEDMANGVKVLALTMAKLSLE
+
+
+BOP CONSENSUS:
+Length: 465 aa
+
+MLPsLLLLVLLvGAAAGVQGHDDAAARRTMEEFAGFPASDDGEGGRASPLRVDSESLQRQ
+IDELASFSDSPAPSVTRVLYSDKDVQARRYIKGIMKQLGLSVREDAVGNIFGRWVGSEAE
+LGAVATGSHVDAIPFSGKYDGVVGVLGALEAISVLQRSGFQPKRSLEVIMFTSEEPTRFG
+ISCLGSRLMAGSEELARSLKRTVDNQNVSFVDAADSAGYKIHPEDLHNVFLNQDaYFAFI
+ELHIEQGPILEKEGIPIGIVTAIAAPASIKVEFEGNGGHAGAVLMPARNDAGLAAAELAL
+AVEKHVLESGSIDTVGTVGILQLHPGAINSIPSKSHLEIDVRDIDEKRRNnVIEKVHQSA
+IEISKIRGVELSEFKIINQDPPALSDKSVINAMEFAAKQLGLEYKLMISRAYHDSLFMAR
+ISPMGMIFIPCYKGYSHKPEEYASPEDMANGVQVLALTMAKLSLE
+
+
+PACMAD CONSENSUS:
+Length: 469 aa
+
+MPSPtaASRLVLLAfLLVGASAAAGHDDAAARRTMEeFAGFPASDDGEGPSSdFRVDSEG
+LQRQIDELASFSDSPAPSVTRVLYSDKDVQARRYIKGIMNQLGLAVREDAVGNIFGRWEG
+SEAGLGAVATGSHVDAIPFSGKYDGVVGVLGALEAISLLKRSGFQPKRSLEVIMFTSEEP
+TRFGISCLGSRLMAGIEELAQSLRKVVDNQNVSFLDAAESAGYKMHPEDLHSVFLKKDSY
+SAFIELHIEQGPILEKEGIPIGIVTAIAAPASIKVEFEGNGGHAGAVLMPARNDAGLAAA
+ELALAVEKHVLESGSIDTVGTVGILQLHPGAINSIPSKSHLEIDVRDIDEKRRNDVIEKI
+RRSATEISKNRGVVLSEFKIINQDPPALSDKSVVDAMEFAAKQLNLEYKKMISRAYHDSL
+FMARVSPMGMIFIPCYKGYSHKPEEYASPEDMANGVKVLALTMAKLSLE
+
+================================================================================

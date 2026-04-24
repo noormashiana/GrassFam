@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM019892
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             540.0 aa
+Family Size (Extended Family Size): 30 (30) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR30618:SF14
+Panther Family ID:               PTHR30618
+Modal Panther ID:                PTHR30618:SF14
+Modal Panther Description:       SUBFAMILY NOT NAMED
+Modal Panther Family ID:         PTHR30618
+Modal Panther Fam Desc:          NCS1 FAMILY PURINE/PYRIMIDINE TRANSPORTER
+Interpro Signature Accession:    cd11485; G3DSA:1.10.4160.10:FF:000001; G3DSA:1.10.4160.10; PTHR30618; PF02133
+Interpro Signature Description:  SLC-NCS1sbd_YbbW-like; Uracil permease, putative; Hydantoin permease; NCS1 FAMILY PURINE/PYRIMIDINE TRANSPORTER; Permease for cytosine/purines, uracil, thiamine, allantoin
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi03
+  Gene Products: purine-uracil permease NCS1
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu06H
+  Gene Products: purine-uracil permease NCS1-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata06D
+  Gene Products: purine-uracil permease NCS1; purine-uracil permease NCS1-like
+Tae
+  Gene count: 6
+  Modal chromosome: Tae06A
+  Gene Products: purine-uracil permease NCS1-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: purine-uracil permease NCS1
+  Gene Descriptions: purine-uracil permease NCS1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: purine-uracil permease NCS1
+  Gene Descriptions: purine-uracil permease NCS1
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau06
+  Gene Products: purine-uracil permease NCS1-like
+  Gene Descriptions: purine-uracil permease NCS1-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi01N
+  Gene Products: purine-uracil permease NCS1-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha01
+  Gene Products: purine-uracil permease NCS1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: purine-uracil permease NCS1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: Purine-uracil permease NCS1
+  Gene Synonyms: GRMZM2G362848
+  Gene Descriptions: Purine-uracil permease NCS1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 539 aa
+
+MAMSMAMSKALAARHpnHLrHRLVAtSSQqAapPRLPLLPRrPSLTLASRPRmLPASPRs
+SSSESDLSPTPPSERTMTAWDLASLWVGLVVGVPSYYLAGSLVDLGMSALQGVATVAFAN
+LVVLVTLVLTAAPAVTHGLPFPVLARAAFGVRGAHVPAVIRALVGCGWFGIESWIGGRAI
+FLLLPSRLKSYQPLLTPVPGLGAAPLEFACFLAFWAAQLGVIMNGMEGIRKLEKYSAPVL
+IVLTSALLAWAYVSAGGFGRILSLPPRLTGAEFWKVFFPSLTANISFWATVAINIPDFAR
+YARSQADQVLGQAGLPVFMGMFTFAGLAVTSATEAIFGHVISDPIELLGRIGGPATTVLA
+IFGISLATITTNIAANVVAPANALVSMSPRRFTFAKGALVTALLGIAFQPWRLLSSSESF
+VYTWLLGYSALMGPIGGVILADHYIVRRTALDVDALYSEDRgSPYYFQGGFNVAAMVAMA
+AGVAPIVPGFLHKVGVLPSVSkAFVTAYNNAWFVSFFVAGAVYCLLCRRRGgQvKyQss
+
+
+BOP CONSENSUS:
+Length: 539 aa
+
+MAVSMAMSRALAVRqPNHFRHRLVsTSSQQASPPRLPLLPRGPSLTLAsRPRMLPARPRL
+SSSESDLSPTPPSERTMTAWDLASLWIGLVVGVPSYYLAGSLVDLGMSALQGVATVAFAN
+LVVLVCLVLTAAPAVTHGLPFPVLARATFGVRGAHVPAVIRALVGCGWFGIESWIGGRAV
+FLLLPSALKSYQPLLTPVPGLGAAPLEFACFLAFWAAQLGVIMNGMEGIRKLERYSAPVL
+IVLTSALLtWAYVSAGGFGRILSLPPRLTGAEFWKVFFPALTANIGFWATVAINIPDFAR
+YARSQADQVLGQAGLPVFMGMFTFAGLAVTSSTEAIFGHIISDPIELLGRIGGPATTVLA
+IFGISLATITTNIAANVVAPANAFVSMSPRRFTFAQGALITALLGIACQPWRLLSSSESF
+VYTWLLGYSALMGPIGGVILADHYIVRRTALDVDALYSEeRESPYYFQGGFNVAAMVAMA
+AGVAPIVPGFLHKVGVLPSVSkAFVAAYNNAWFVSFFVAGTVYCLLCRRRGGEVKYQsS
+
+
+PACMAD CONSENSUS:
+Length: 540 aa
+
+MAMSMAMSKAFTARHSEHLHHRLVAASSQAAPRLPLLPRRPSLATVTVASRPRLLPASPR
+SSSSESDLSPTPPSERTMTAWDLASLWVGLVVGVPSYYLAGSLVDLGMSALQGVATVAFA
+NLIVLVTLVLTAAPAVTHGLPFPVLARAAFGVRGAHVPAVIRALVGCGWFGIESWIGGRA
+IFLLLPSRLKSYQPLLTPVPGLGAAPLEFACFLAFWAAQLGVIMnGMEGIRKLEKFSAPV
+LIVLTSALLAWAYTSAGGFGRILSLPPRLTGAEFWKVFFPSLTANISFWATVAINIPDFA
+RYARSQADQVLGQAGLPVFMGMFTFAGLAITSATEAIFGHVISDPIELLGRIGGPATTFL
+AIFGIGLATITTNIAANVVAPANALVSMSPRRFTFAKGALVTALLGIAFQPWRLLSSSES
+FVYTWLLGYSALMGPIGGVVLADHYIVRRTALDVDALYSEDSGSPYYFQGGFNVAAMVAM
+AAGVAPIVPGFLHKVGVLPSVSSAFVTAYNNAWFVSFFVAGAVYCLLCsRRGvQAKqqYN
+
+================================================================================

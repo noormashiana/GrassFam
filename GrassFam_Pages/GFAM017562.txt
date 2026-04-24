@@ -1,0 +1,140 @@
+================================================================================
+GrassFam ID: GFAM017562
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             571.5 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43979:SF1
+Panther Family ID:               PTHR43979
+Modal Panther ID:                PTHR43979:SF1
+Modal Panther Description:       PRE-MRNA-PROCESSING FACTOR 17
+Modal Panther Family ID:         PTHR43979
+Modal Panther Fam Desc:          PRE-MRNA-PROCESSING FACTOR 17
+Interpro Signature Accession:    cd00200; G3DSA:2.130.10.10:FF:000034; G3DSA:2.130.10.10; PTHR43979; SSF50978
+Interpro Signature Description:  WD40; Pre-mRNA-processing factor 17, putative; -; PRE-MRNA-PROCESSING FACTOR 17; WD40 repeat-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: pre-mRNA-processing factor 17%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: pre-mRNA-processing factor 17
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: pre-mRNA-processing factor 17
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: pre-mRNA-processing factor 17-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: uncharacterized LOC127768172
+  Gene Descriptions: uncharacterized LOC127768172
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4333045
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: uncharacterized LOC133912647; uncharacterized LOC133915978
+  Gene Descriptions: uncharacterized LOC133912647; uncharacterized LOC133915978
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: pre-mRNA-processing factor 17-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: pre-mRNA-processing factor 17
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: pre-mRNA-processing factor 17
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: pre-mRNA-processing factor 17; pre-mRNA-splicing factor PRP17
+  Gene Descriptions: pre-mRNA-splicing factor PRP17
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 572 aa
+
+MDLLQSSYAPDDASSPEDSAAlSSPDSSPLRLPSKSAAPAVDDTALALSAAASTSRPLDP
+SLHLVAFNPTADQLWAPVLGPQHPHAPISSASGNRNHKLGHVEDAAVLPFLFDEQYNTFH
+RFGYAADPSGLHIVGDAQPQAPEPDTVYNLAPSEHKRRRLQSKaDNQEEPLPPEAKNPAS
+DEWILHNKQSPWAGKKEAPPAELTDEQRQYAEAHAAKKAEKEARGEGKGEKTEVVVKSTF
+HGKEEKDYQGRSWITPPKDAKATNDHCYIPKRCVHEWVGHTKGVSAIRFFPKYGHLLLSA
+SMDCKIKIWDVLESRTCMRTYMGHSKAVRDISFSNDGTKFLSAGYDRNIQYWDTETGQVI
+STFSTGKVPYVVKLNPDEDKQHILLAGMSDKKIVQWDMKSGQITQEYDQHLGAVNTITFV
+DNNRRFVTSSDDKSLRVWEFGIPVVIKYISEPHMHSMPSIALHPNSNWLAAQSLDNQILI
+YSTKERFQLNKKKRFAGHIVAGYACQVNFSPDGRFVMSGDGEGSCWFWDWKSCRRFKTLK
+CHNGVCIGCEWHPLETSKVATCGWDGVIKYWD
+
+
+BOP CONSENSUS:
+Length: 570 aa
+
+MDLLQSSYAPGDASSPEDESLSSPDTSPLRLPSKSAAPAVDETALALSAAAASTSRPLDP
+SLHLVPFNPTADQLWAPVLGPQHPHAPISSASGHRNHKLGHVEDAALLPFLFDEQYNTFH
+RFGYASDPSGLHIIGDAQPQAPDPDTVYNLPPSEHKRRRIQSREENQEPLPPEAQNPASD
+EWVVHNKQSPWAGNREGPPVELTDEQRQYAEAHAAKKAEKEARGEGKEKTEVVVKSTFHG
+KEEKDYQGRSWITPPKDAKATNERCYIPKRCVHEWVGHTKGVSAIRFFPKYGHLLLSASM
+DCKIKIWDVLESKTCMRTYMGHSKAVRDISFSNDGSKFLSAGYDRNIQYWDTETGQVIST
+FSTGKVPYVVKLNPDEDKQHILLAGMSDKKIVQWDMKSGQITQEYDQHLGAVNTITFVDN
+NRRFVTSSDDKSLRVWEFGIPVVIKYISEPHMHSMPSIAVHPNSNWLAAQSLDNQILIYS
+TKERFQLNKKKRFAGHIVAGYACQVSFSPDGRFVMSGDGEGSCWFWDWKSCRRFKTLKCH
+NGVCIGCEWHPLETSKVATCGWDGVIKYWD
+
+
+PACMAD CONSENSUS:
+Length: 572 aa
+
+MDLLQSSYAPDDASSPEESAAASSPDSSPLRLPSKSAAPAVDDTALALSAAASASRPLDP
+SLHLVAFNPTADQLWAPILGPQHPHAPISSASGNRNHKLGHVEDAAVLPFLFDEQYNTFH
+RFGYAADPSGLHIVGDAQPQAPEPDTVYNLAPSEHKRRRLLAKADNQEEPLPPEAKNPAS
+EEWILHNKQSPWAGKKEAPPAELTEEQKQYAEAHAAKKAEKEARGEGKGERAEVVVKSTF
+HGKEERDYQGRSWITPPKDAKATNDHCYIPKRCVHEWVGHTKGVSAIRFFPKYGHLLLSA
+SMDCKIKIWDVLGSRTCMRTYMGHSKAVRDISFSNDGTKFLSAGYDRNIQYWDTETGQVI
+STFSTGKVPYVVKLNPDEDKQHILLAGMSDKKIVQWDMKSGQITQEYDQHLGAVNTITFV
+DNNRRFVTSSDDKSLRVWEFGIPVVIKYISEPHMHSMPSIALHPNSNWLAAQSLDNQILI
+YSTKERFQLNKKKRFAGHIVAGYACQVNFSPDGRFVMSGDGEGSCWFWDWKSCRRFKTLK
+CHNGVCIGCEWHPLETSKVATCGWDGVIKYWD
+
+================================================================================

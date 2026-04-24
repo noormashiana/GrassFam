@@ -1,0 +1,144 @@
+================================================================================
+GrassFam ID: GFAM012203
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             646.0 aa
+Family Size (Extended Family Size): 24 (28) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24072:SF313
+Panther Family ID:               PTHR24072
+Modal Panther ID:                PTHR24072:SF313
+Modal Panther Description:       MITOCHONDRIAL RHO GTPASE 2
+Modal Panther Family ID:         PTHR24072
+Modal Panther Fam Desc:          RHO FAMILY GTPASE
+Interpro Signature Accession:    cd01893; cd01892; G3DSA:3.40.50.300:FF:000935; G3DSA:1.10.238.10:FF:000212; G3DSA:1.10.238.10:FF:000011; G3DSA:3.40.50.300:FF:000553; G3DSA:1.10.238.10; G3DSA:3.40.50.300; PTHR46819; PIRSF037488; PF08356; SSF52540
+Interpro Signature Description:  Miro1; Miro2; Mitochondrial Rho GTPase; -; EF-HAND CALCIUM-BINDING DOMAIN-CONTAINING PROTEIN 7; Miro; EF hand associated; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: mitochondrial Rho GTPase 1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: mitochondrial Rho GTPase 1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: mitochondrial Rho GTPase 1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: mitochondrial Rho GTPase 1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: mitochondrial Rho GTPase 1-like%2C transcript variant X2
+  Gene Descriptions: mitochondrial Rho GTPase 1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: mitochondrial Rho GTPase 1
+  Gene Descriptions: mitochondrial Rho GTPase 1
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: mitochondrial Rho GTPase 1-like
+  Gene Descriptions: mitochondrial Rho GTPase 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: mitochondrial Rho GTPase 1-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: mitochondrial Rho GTPase 1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: mitochondrial Rho GTPase 1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: mitochondrial Rho GTPase 1; uncharacterized LOC100278140%2C transcript variant X1
+  Gene Synonyms: GRMZM2G071071,pco143347
+  Gene Descriptions: uncharacterized LOC100278140
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 647 aa
+
+MAGATsPAAAANLAGKSGVRVVVIGDPGTGKSSLVVALATEQFPENVPRVMPPTRLPADY
+FPDRVPITIIDTSSSPEQKPKLIAECQAADAVVLTYACDRPATLERLSSFWLPELRRLQL
+KAPVIVVGCKLDLRDEQQVSLEQVMAPIMQSFREIETCIECSALRQIQVPEVFYYAQKAV
+LHPTAPLFDQEAQSLKPRCVRALKRIFILCDHDKDGALSDVELNEFQVRCFSAPLQPTEI
+SGVKRVVQEKMPEGVNDNGLTLTGFLFLHALFIEKGRLETTWTVLRKFGYDNDIKLRDDL
+IATPIKRAPDQTLELTnEVVDFLRGIFNMFDIDNDGALLPsELEDLFSTAPENPWSSDPY
+KDCAEKNVLGGLSLEGFLSKWALMTLLDPANSFANLVYVGYPGDFsSAFTvTRKRRVDRK
+KQQTQRNVFQCYVFGARGSGKTALLQSFIGRQPSDALPsNSERFATNTVELsDGTRKTLI
+LREIPEGDVRSLLsDKESLAPCDVAVFVYDSCDEYSWQRARDLLVQVATHGENTGYEVPC
+LIVAAKDDLDQSPQALQESTRVSQDMGIETPIPISVKLRDLNNIFCRIVHAAQQPHLSIP
+ETEAGKTRRQYRQLLNRSLMVVSVGAAVAVVGiAAYRVYAARKNSSS
+
+
+BOP CONSENSUS:
+Length: 642 aa
+
+MAAAAANLAGRPGVRVVVIGDPGTGKSSLVVAVATEQFPENVPKVMPHTRLPADYFPDRV
+PITIVDTSSSPEQKPKLIAECQAADAVVLTYACDRLSTLDRLSSYWLPELRRIQLKAPVI
+VVGCKLDLRDDQQNSLEQTMAPIMQSFREIETCIECSALRQIQVPEVFYYAQKAVLHPTA
+PLFDQEAQSLKPRCVRALKRIFILCDHDRDGALSDVELNDFQVRCFSAPLQPTEISGVKR
+VVQEKMPEGVNDSGLTLTGFLFLHALFIEKGRLETTWTVLRKFGYDNEIKLRDDFIPTSV
+KRAPDQTVELTNEVIDYLKGIFNMFDIDNDEALLPSELDDLFSTAPENPWTSDLYKDCAE
+RNVLGGLSLEGFLSKWALMTLLDPANSFANLVYVGYSGDFNSAFTITRKRRVDRKKQQTQ
+RNVFQCYVFGPKGAGKTALLQSFLGRQPSDALPTNSDRFAANTVELSDGTRKTLVLREIP
+EGDVRSLLNNKESLAPCDAAVFVYDSCDEFSWQRARDLLVQVATHGENTGYEVPCLIVAA
+KDDLDQSPVALQESTRVSQDMGIETPIPISVKLKDLNNIFCRIVHAAQRPHLSIPETEAG
+KTRRQYRQLLNRSLMVVSVGAAIGVVGVAAYRVYAARRNSSS
+
+
+PACMAD CONSENSUS:
+Length: 647 aa
+
+MAGATSPAAAANLAGKSGVRVVVIGDPGTGKSSLIVALATEQFPENVPRVMPPTRLPADY
+FPDRVPITIIDTSSSPEQKPKLIAECQAADAVVLTYACDRPATLERLSSFWLPELRRLQL
+KAPVIVVGCKLDLRDEQQVSLEQVMAPIMQSFREIETCIECSALRQIQVPEVFYYAQKAV
+LHPTAPLFDQELQSLKPRCVRALKRIFIICDNDKDGALSDVELNEFQVRCFSAPLQPTEI
+SGVKRVVQEKMPEGVNENGLTLTGFLFLHALFIEKGRLETTWTVLRKFGYDNDIKLRDDL
+IAMPIKRAPDQTLEMTSEVVDFLRGIFNMFDIDNDGALLPTELEDLFSTAPENPWSSDPY
+KDCAEKNVLGGLSLEGFLSKWALMTLLDPTNSYANLVYVGYPGEFSSAFTVTRKRRVDRK
+KQQTQRNVFQCYVFGARGSGKTSLLQSFIGRQPSDALPSNSERFATNSVELPDGTRKTLI
+LREIPEGDVRSLLSDRESLAPCDVAVFVYDSCDEYSWQRARDLLVQVATHGENTGYEVPC
+LIVAAKDDLDQSSQALQESTRVSQDMGIETPIPISVKLRDLNNIFCRIVHAAQQPHLSIP
+ETEAGKTRRQYRQLLNRSLMVVSVGAAVAVVGIAAYRVYAARKNSSS
+
+================================================================================

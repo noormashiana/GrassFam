@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM018458
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             404.0 aa
+Family Size (Extended Family Size): 23 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR32285:SF12
+Panther Family ID:               PTHR32285
+Modal Panther ID:                PTHR32285:SF12
+Modal Panther Description:       PROTEIN TRICHOME BIREFRINGENCE-LIKE 13
+Modal Panther Family ID:         PTHR32285
+Modal Panther Fam Desc:          PROTEIN TRICHOME BIREFRINGENCE-LIKE 9-RELATED
+Interpro Signature Accession:    PTHR32285; PF13839
+Interpro Signature Description:  PROTEIN TRICHOME BIREFRINGENCE-LIKE 9-RELATED; GDSL/SGNH-like Acyl-Esterase family found in Pmr5 and Cas1p
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: protein trichome birefringence-like 13
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: protein trichome birefringence-like 13
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: peroxidase 7%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: protein trichome birefringence-like 13%2C transcript variant X1; uncharacterized LOC123052601
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: protein trichome birefringence-like 13
+  Gene Descriptions: protein trichome birefringence-like 13
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: protein trichome birefringence-like 13%2C transcript variant X1
+  Gene Descriptions: protein trichome birefringence-like 13
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 2
+  Modal chromosome: Pau14
+  Gene Products: protein trichome birefringence-like 13; protein trichome birefringence-like 13%2C transcript variant X1
+  Gene Descriptions: protein trichome birefringence-like 13
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: protein trichome birefringence-like 13; protein trichome birefringence-like 13%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: protein trichome birefringence-like 13
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: protein trichome birefringence-like 13
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: protein trichome birefringence-like 13%2C transcript variant X1; putative DUF231 domain containing family protein
+  Gene Synonyms: GRMZM2G010714
+  Gene Descriptions: putative DUF231 domain containing family protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 404 aa
+
+MMPPARSPAAGpRRRallLPLLLLLPLLLLLLHLiSSpRSlPALRkPasRsQaCDYSAGE
+WVPDpSAGSsLRYDHTCKEIFKGWNCIANGKrNGRdLLRWRWkPaGGCELPRLDPLRFLE
+RHRNTNIGFVGDSLNRNMFVSLVCMLRGVSGEVRKWRPAGADRGFTFLRYNLTVAYHRTN
+LLVRYGRWSASPNGGPLESLGYKQGYRVDVDIPDQTWAEApSFHDVLIFNTGHWWWAPSK
+FDPIQSPMLFFEKGKPIIPPLLPPAGLDLALQHMITFVNKAMRPNGVKFFRTQSPRHFEG
+GDWNEGGSCQRnQPLSSEEVEEFFSLDNNGTNVEARLVNQHLMKALEQSTFRVLDITRMS
+EFRADAHPSTTGGKKHDDCMHWCLPGPTDTWNDLLAaNLEAvES
+
+
+BOP CONSENSUS:
+Length: 404 aa
+
+MPPARSPAAGLRRRKvlLPLVLLLPLILLtLILIFPsRSIPALRDAAlRsQQTCDYAAGG
+WVPDsSAESHLRYDHTCKEIFKGWNCiANGKRNGRALLRWRWKPaGCELLPRLDPLRFLE
+RHRNTNIGFVGDSLNRNMFVSLVCMLRGVSGEVRKWRPAGADRGFTFLRYNLTLAYHRTN
+LLVRYGRWSASPNGGPLESLGYKQGYRIDVDIPDQTWAEAPSFHDVLIFNTGHWWWAPSK
+FDPIQSPMLFFEKGkPIIPPLLPPeGLDLALKHMITFVNKAMRPNGvKFFRTQSPRHFEG
+GDWNEGGSCQRDQPLSSEEVkElFSLDNNGTNvEVRLVNQHLMKALEQSTFRVLNVTHMS
+EFRADAHPSTTGGKKHDDCMHWCLPGPTDTWNDLLAANLaAIES
+
+
+PACMAD CONSENSUS:
+Length: 403 aa
+
+MPPPARSPAaGPRRRALvLPLLLLPLLLLLLHLaSSPSPRPLPAPRKPSQACDYSAGEWV
+RDPSAGSSLRYDHTCKEIFKGWNCIANGKANGRDLLrWRWrPaGPGCELPRLDPRRFLER
+HRDTSIGFVGDSLNRNMFVSLVCMLRGVSGEVRKWRPAGADRGFTFLRYNLTVAYHRTNL
+LVRYGRWSASPNGGPLESLGYKQGYRVDVDIPDQTWVEACSFHDVLIFNTGHWWWAPSKF
+DPIQSPMLFFEKGKPIVPPLLPPAGLDLALQNMITFVNKAMRPNTVKFFRTQSPRHFEGG
+DWNEGGSCQRNQPLSSEEVEEFFSLDNNSTNVEARLVNQHLMKALEQSTFRVLDITRMSE
+FRADAHPSTTGGKKHDDCMHWCLPGPTDTWNDLLAvNLEAVES
+
+================================================================================

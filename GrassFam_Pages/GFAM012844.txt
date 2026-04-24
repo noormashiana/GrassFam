@@ -1,0 +1,131 @@
+================================================================================
+GrassFam ID: GFAM012844
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             380.0 aa
+Family Size (Extended Family Size): 21 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11875:SF153
+Panther Family ID:               PTHR11875
+Modal Panther ID:                PTHR11875:SF153
+Modal Panther Description:       NUCLEOSOME ASSEMBLY PROTEIN 1_4
+Modal Panther Family ID:         PTHR11875
+Modal Panther Fam Desc:          TESTIS-SPECIFIC Y-ENCODED PROTEIN
+Interpro Signature Accession:    G3DSA:3.30.1120.90:FF:000005; G3DSA:1.20.5.1500; G3DSA:3.30.1120.90; PTHR11875; PF00956; SSF143113
+Interpro Signature Description:  Nucleosome assembly protein11; -; Nucleosome assembly protein; TESTIS-SPECIFIC Y-ENCODED PROTEIN; Nucleosome assembly protein (NAP); NAP-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: nucleosome assembly protein 1%3B1%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: nucleosome assembly protein 1%3B1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: nucleosome assembly protein 1%3B1%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: nucleosome assembly protein 1%3B1; nucleosome assembly protein 1%3B1%2C transcript variant X1; nucleosome assembly protein 1%3B1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: nucleosome assembly protein 1%3B1%2C transcript variant X1
+  Gene Descriptions: nucleosome assembly protein 1%3B1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: nucleosome assembly protein 1-1%2C transcript variant X1
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: nucleosome assembly protein 1%3B1; nucleosome assembly protein 1%3B1-like%2C transcript variant X1
+  Gene Descriptions: nucleosome assembly protein 1%3B1; nucleosome assembly protein 1%3B1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi04K
+  Gene Products: nucleosome assembly protein 1%3B1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: nucleosome assembly protein 1%3B1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: nucleosome assembly protein 1%3B1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma06
+  Gene Products: nucleosome/chromatin assembly factor group A; uncharacterized LOC100501318%2C transcript variant X1
+  Gene Synonyms: GRMZM2G140051,nfa101; GRMZM5G878913,GRMZM6G790713
+  Gene Descriptions: nucleosome/chromatin assembly factor group A; uncharacterized LOC100501318
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 378 aa
+
+MGGEKETLDLSDLNASLPAAAAALSAEDRAGLVNALKDKLQSLAGQHADVLEtLSPNVRK
+RVEFLREIQSQHDEIEAKFFEERAALEAKYQKLYEPLYTKRYDIVNGVVEVDGVSDEPTS
+ENAAEGKESDAKGVPDFWLTAMKTNEVLSEEIQERDEPALKYLKDIKWSRIeDPKGFKLE
+FFFDTNPFFKNSVLTKTYHMVDEDDPILEKAIGTEIEWYPGKNLTQKILKKKPKKGSKNT
+KPITKTEdCESFFNFFSPPQVPDDDEDIDEETADELQGQMEHDYDIGTTIRDKIIPHAVS
+WFTGEAVQAEDFdDMGDDDEDDDDDDDDDEDEDEDEDEDEEDEEEESKPaKKSGsKpKvP
+QKVGAQGNAEQPAECKQQ
+
+
+BOP CONSENSUS:
+Length: 380 aa
+
+MGGEKENLDLSDLNsSLPAAAAALSAEDRVGLVNALKDKLQSLAGQHADVLESLSPNVRT
+RVEFLRGIQSQHDEIEtKFFEERAALEAKYQKLYEPLYAKRYDIVNGVVEVDGVAKEPTS
+ENAAEGGDSDAKGVPDFWLTALKTNEVLTEEIQERDEPVLKYLKDIKWSRIDDPKGFKLE
+FFFDTNPFFKNSVLTKTYHMVDEDDPILEKAIGTEIEWYPGKNVTQKILKKKPKKGSKNT
+KPITKTEECESFFNFFSPPQVPDDDEDIDEEAADELQGQMEHDYDIGSTIRDKIIPHAVS
+WFTGEAVQAEDFDDMEDGDEDDDDEDDDEEDEEDEDEDEDDDEDEEELSKPTKKVAGKPK
+GPAKGGAQGNAEQPTECKQQ
+
+
+PACMAD CONSENSUS:
+Length: 379 aa
+
+MGGEKETFDLSDLNASLPAAAAALSAEDRAGLVNALKDKLQSLAGQHADVLETLSPNVRK
+RVEFLREIQGQHDEIEAKFFEERAALEAKYQKLYEPLYTKRYEIVNGVVEVDGVSDEPTS
+ENAAEGKESDAKGVPDFWLTAMKTNEVLSEEIQERDEAALKYLKDIKWSRIEDPKGFKLE
+FFFDTNPFFKNSVLTKTYHMVDEDDPILEKAIGTEIEWYPGKNLTQKILKKKPKKGSKNA
+KPITKTEDCESFFNFFNPPQVPDDDEDIDEETADELQGQMEHDYDIGTTIRDKIIPHAVS
+WFTGEAVQAEDFEDmGDDDEDDDEDDDDDEDEDEEEDEDEEDEEEESKPARKSGSGRKQK
+VPQKVSQGNAEQPAECKQQ
+
+================================================================================

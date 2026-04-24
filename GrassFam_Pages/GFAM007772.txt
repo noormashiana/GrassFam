@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM007772
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             554.0 aa
+Family Size (Extended Family Size): 21 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24291:SF134
+Panther Family ID:               PTHR24291
+Modal Panther ID:                PTHR24291:SF134
+Modal Panther Description:       CAROTENE EPSILON-MONOOXYGENASE, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR24291
+Modal Panther Fam Desc:          CYTOCHROME P450 FAMILY 4
+Interpro Signature Accession:    cd11046; G3DSA:1.10.630.10; PTHR24291; PR00463; PF00067; SSF48264
+Interpro Signature Description:  CYP97; Cytochrome P450; CYTOCHROME P450 FAMILY 4; E-class P450 group I signature
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: carotene epsilon-monooxygenase%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: carotene epsilon-monooxygenase%2C chloroplastic%2C transcript variant X6
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: carotene epsilon-monooxygenase%2C chloroplastic%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: carotene epsilon-monooxygenase%2C chloroplastic-like; carotene epsilon-monooxygenase%2C chloroplastic-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: carotene epsilon-monooxygenase%2C chloroplastic%2C transcript variant X2
+  Gene Descriptions: carotene epsilon-monooxygenase%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: carotene epsilon-monooxygenase%2C chloroplastic%2C transcript variant X3
+  Gene Descriptions: carotene epsilon-monooxygenase%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau21
+  Gene Products: carotene epsilon-monooxygenase%2C chloroplastic
+  Gene Descriptions: carotene epsilon-monooxygenase%2C chloroplastic
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: carotene epsilon-monooxygenase%2C chloroplastic-like; carotene epsilon-monooxygenase%2C chloroplastic-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: carotene epsilon-monooxygenase%2C chloroplastic
+Msi
+  Gene count: 3
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: carotene epsilon-monooxygenase%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: carotene epsilon-monooxygenase%2C chloroplastic
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 551 aa
+
+MPATAFAsASaASPPPWsPRPPPRRARVRLPPPRSGSSsGGGGGDEPTTATPWVSPDWLT
+SLSRAVGRGGGDDSGIPVASAKLDDVRDLLGGALFLPLFKWFREEGPVYRLAAGPRDFVI
+VSDPAVAKHVLRGYGSRYEKGLVAEVSEFLFGSGFAIAEGALWTVRRRAVVPSLHKRFLS
+VMVEKVFCKCAERLVEKLEpYALSGEPVNMEARFSQMTLDVIGLSLFNYNFDSLTTDSPV
+IDAVYTALKEAELRSTDLLPYWKIDLLCKIIPRQIKAENAVNIIRNTVEELImKCKEIVE
+AENEQIEGEEYVNEGDPSILRFLLASRDEVSSVQLRDDLLSMLVAGHETTGSVLTWTIYL
+LSKDPaALRRAQDEVDRVLQGRLPRYEDVKELKYLMRCINESMRLYPHPPVLIRRAIVDD
+VLPGNYKVKAGQDIMISVYNIHRSPEVWDRADEFIPERFDLEGPVPNESNTDFRFIPFSG
+GPRKCVGDQFALLEAIVALAIVLQKMDIQLVPDQKINMTTGATIHTTNGLYMNVSLRKVQ
+QEAELALSeSk
+
+
+BOP CONSENSUS:
+Length: 550 aa
+
+MPAAAfASAfASPPPPWAPRPPPRHASLRLPPPRSSSNnSGGGGGDKPTTSWVSPDWLTS
+LSRSVLGRGNDDSGIPVASAKLDDVQDLLGGALFLPLFKWFREEGPVYRLAAGPRDFVIV
+SDPAVAKHVLRGYGTRYEKGLVAEVSEFLFGSGFAIAEGALWTVRRRAVVPSLHKRFLSV
+MVDKVFCKCAERLVEKLETYALSGEPVNMEARFSQMTLDVIGLSLFNYNFDSLTSDSPVI
+DAVYTALKEAEARSTDLLPYWQIDLLCKIVPRQIKAEKAVNTIRNTVEDLITKCKAIVDA
+ENEQIEGEEYVNEADPSILRFLLASREEVSSLQLRDDLLSMLVAGHETTGSVLTWTIYLL
+SKDPVALRRAQDEVDRVLQGRLPRYEDVKELKYLMRCINESMRLYPHPPVLIRRALVDDV
+LPGNYKVKTGQDIMISVYNIHRSPEVWDRADEFIPERFDLEGPIPNESNTDFRFIPFSGG
+PRKCVGDQFALLEAIVALAIVIQKMDIQLVADQKISMTTGATIHTTNGLYMNVSLRKVEQ
+EADLALSpSR
+
+
+PACMAD CONSENSUS:
+Length: 550 aa
+
+MPATAFApASASPSPWSPRPPPRRARVRLPPPRSGSSSGGGGGDEPTTATPWASPDWLTS
+LSRAVGRsGGDDSGIPVASAKLDDVRDLLGGALFLPLFKWFREEGPVYRLAAGPRDFVIV
+SDPAVAKHVLRGYGSRYEKGLVAEVSEFLFGSGFAIAEGALWTVRRRAVVPSLHKRFLSI
+MVEKVFCKCAERLIEKLEPYALSGEPVNMEARFSQLTLDVIGLSLFNYNFDSLTTDSPVI
+DAVYTALKEAELRSTDLLPYWKIDFLCKIIPRQIKAENAVrIIRNTVEELIMKCKEIVEA
+ENEQIEGEEYVNEGDPSILRFLLASRDEVSSVQLRDDLLSMLVAGHETTGSVLTWTIYLL
+SKDPTALRRAQDEVDRVLQGRLPRYEDVKELKYLMRCINESMRLYPHPPVLLRRAIVDDV
+LPGNYKVKAGQDIMISVYNIHRSPEVWDRADEFIPERFDLEGPVPNESNTDFRFIPFSGG
+PRKCVGDQFALLEAIVALAIVLQKMDIQLVPDQKINMTTGATIHTTNGLYMNVSLRKVQQ
+EAELALSESK
+
+================================================================================

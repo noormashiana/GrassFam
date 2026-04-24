@@ -1,0 +1,131 @@
+================================================================================
+GrassFam ID: GFAM007587
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             346.5 aa
+Family Size (Extended Family Size): 26 (28) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR12547
+Modal Panther ID:                PTHR12547:SF181
+Modal Panther Description:       C3H1-TYPE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR12547
+Modal Panther Fam Desc:          CCCH ZINC FINGER/TIS11-RELATED
+Interpro Signature Accession:    PTHR12547
+Interpro Signature Description:  CCCH ZINC FINGER/TIS11-RELATED
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: zinc finger CCCH domain-containing protein 39%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu01H
+  Gene Products: zinc finger CCCH domain-containing protein 39-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata01D
+  Gene Products: zinc finger CCCH domain-containing protein 39-like
+Tae
+  Gene count: 6
+  Modal chromosome: Tae01A
+  Gene Products: zinc finger CCCH domain-containing protein 39-like; zinc finger CCCH domain-containing protein 39-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: zinc finger CCCH domain-containing protein 39%2C transcript variant X1
+  Gene Descriptions: zinc finger CCCH domain-containing protein 39
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: zinc finger CCCH domain-containing protein 39-like
+  Gene Synonyms: OJ1126_B10.1,OJ1268_B08.22,OsC3H39,OsJ_19647
+  Gene Descriptions: zinc finger CCCH domain-containing protein 39-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau11
+  Gene Products: zinc finger CCCH domain-containing protein 39-like%2C transcript variant X1
+  Gene Descriptions: zinc finger CCCH domain-containing protein 39-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: zinc finger CCCH domain-containing protein 39-like; zinc finger CCCH domain-containing protein 39-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: zinc finger CCCH domain-containing protein 39-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi17
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: zinc finger CCCH domain-containing protein 39%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma06
+  Gene Products: nucleic acid binding f%2C transcript variant X1; zinc finger CCCH domain-containing protein 39
+  Gene Synonyms: GRMZM2G149347
+  Gene Descriptions: nucleic acid binding f
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 341 aa
+
+MMEAvLaPAQPDGLHaaFGPKPfGFGDrRFSSPNLLTnGGDLFYGYsSPsSPSGrgrvLS
+TPSPRAASLSRgSSsSGSVVDDGDDAAAAAEHRLRLARLALQYQEvANRYELCLSHLADA
+snEAAALRrENdELRVANnDLArRIAMVGGkQSSAIALADELrRLrLaeEQAvPAPPpPp
+SPmPmmrPAsPAEKHAvlPKSISIRSpGYLKMNQNGKHRVSKPTNVGSQRVFVGMDGAvk
+GEGEeKGGkEeqlnGGLEFEVYNQGMFKTELCNKWEETGACPYGDQCQFAHGIAELRPVI
+RHPRYKTEVCRMVLAGvvCPYGHRCHFRHSITPADlfLLHP
+
+
+BOP CONSENSUS:
+Length: 382 aa
+
+MQEAPLHPAHPgrFyvpFGPRPpGFrDRRLCSPTGDGpLFYGGCSPFvPSPRPSPLGRGS
+PPFTPSPRSSspgtPWSSSaSSSSGSRVDDGDDAAATEHRLRMARLALQYQDfANRYqLC
+LSHLADAAREAAALRheNsGLRvANNDLAGRvAMLGGNQaSAIALADQLRRLHLGqMQAV
+PAPPVlPMPMPRLASSvEKLRPLHPGQMQAQVVPAPPPMPMARPASPAEKHAvLPKSISI
+RStGYLKMnRNGKHRVTKPVNVGSQRVFVGVDGAKAEEHQGGGGEKGGQvaTaaGGLEFE
+VYSQGMFKTELCNKWEETGACPYGDQCQFAHGIAELRPIIRHPRYKTQVCRMVlGGALCP
+YGHRCHFRHSITPADyipLLHP
+
+
+PACMAD CONSENSUS:
+Length: 328 aa
+
+MEVVLAPAQPDGLHAAFGPKPFCGFGDGRFSSPSLLTNGGDLFYGYSSpSSPFGnSRgLS
+TPSPRAASLSRGSSDSGSVVDDGDDAAAAAAAERRlRLARLALQYQEVVtRFELCLSYLA
+DTSNEAAALRRENDELRVANEDLARRIkMVGGKLVDEFSGLrLAEEHAtPPPLPPLtPLP
+ApPvlPKSISVRSPGYLKMNQNGKHRpSKPTKLGSQRVFVGMDGGVKGEGErKGGEEkQL
+NGGLEFEVYNQGMLKTELCNKWEETGACPYGDQCQFAHGIAELRPVIRHPRYKTEVCRMV
+LAGVVCPYGHRCHFRHSITPADLFLLHP
+
+================================================================================

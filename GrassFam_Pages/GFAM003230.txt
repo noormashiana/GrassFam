@@ -1,0 +1,126 @@
+================================================================================
+GrassFam ID: GFAM003230
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             351.0 aa
+Family Size (Extended Family Size): 27 (29) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22884:SF511
+Panther Family ID:               PTHR22884
+Modal Panther ID:                PTHR22884:SF511
+Modal Panther Description:       HISTONE-LYSINE N-METHYLTRANSFERASE
+Modal Panther Family ID:         PTHR22884
+Modal Panther Fam Desc:          SET DOMAIN PROTEINS
+Interpro Signature Accession:    cd19175; G3DSA:2.170.270.10:FF:000034; G3DSA:2.170.270.10; PTHR22884; PF00856; SM00317; SSF82199
+Interpro Signature Description:  SET_ASHR3-like; Histone-lysine N-methyltransferase; SET domain; SET DOMAIN PROTEINS; set_7
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: histone-lysine N-methyltransferase ASHH3%2C transcript variant X1
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu05H
+  Gene Products: histone-lysine N-methyltransferase ASHH3-like%2C transcript variant X1; histone-lysine N-methyltransferase ASHH3-like%2C transcript variant X4
+Ata
+  Gene count: 2
+  Modal chromosome: Ata05D
+  Gene Products: histone-lysine N-methyltransferase ASHH3%2C transcript variant X1; histone-lysine N-methyltransferase ASHH3-like
+Tae
+  Gene count: 5
+  Modal chromosome: Tae05A
+  Gene Products: histone-lysine N-methyltransferase ASHH3-like; histone-lysine N-methyltransferase ASHH3-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: histone-lysine N-methyltransferase ASHH3-like
+  Gene Descriptions: histone-lysine N-methyltransferase ASHH3-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: histone-lysine N-methyltransferase ASHH3
+  Gene Descriptions: histone-lysine N-methyltransferase ASHH3
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: histone-lysine N-methyltransferase ASHH3-like; histone-lysine N-methyltransferase ASHH3-like%2C transcript variant X1
+  Gene Descriptions: histone-lysine N-methyltransferase ASHH3-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: histone-lysine N-methyltransferase ASHH3-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: histone-lysine N-methyltransferase ASHH3-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: histone-lysine N-methyltransferase ASHH3
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: histone-lysine N-methyltransferase%2C H3 lysine-36 and H4 lysine-20specific%2C transcript variant X2; uncharacterized LOC542662%2C transcript variant X2
+  Gene Synonyms: GRMZM2G033694; GRMZM2G130910,sdg110,sdg110a
+  Gene Descriptions: histone-lysine N-methyltransferase%2C H3 lysine-36 and H4 lysine-20specific; uncharacterized LOC542662
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 351 aa
+
+MvRvGSSSSarpVnlsmqpEnVFDqLIKKIkdPVDFDLPPaLKEWKLGYYiPIKRNVYLT
+KRRVEDDGIFCSCsPSSGSSVtCGKDCQCGMLFSCCSSNCKCENkCANKSFQHRPLKKTK
+LIKTEKCGFGLVAEDEIKKGEFVIEYVGEVIDDRTCEERLWKMKRQRDTNFYLCEVSSNM
+VIDATNKGNkSRFINHSCEPNTEMQKWTVDGETRVGIFALRDIKkGEELTYDYKFVQFGA
+DQDCHCGSSNCRKMLGTtKSVNSiVLHNGNSGSSQDQHdkKKRKTtSENCIGEIiRLWHR
+RdKMYVpAVIhDFDEyTkMHTLLFdDeTTEKFDLrEEDWdFLPrPeDPEED
+
+
+BOP CONSENSUS:
+Length: 338 aa
+
+MGPEhVFDELTKALKDPADFVDFDLPSALKEWKLGYYIPIKRNVYLTKKRVEDDGIFCSC
+SLSSGSSVTCGKDCQCGMLFSCCSSNCKCENKCANKSFQLRPLFKTKLIKTEKCGFGLIA
+EDEIKKGEFVIEYVGEVIDDRTCEERLWKMKRQRYTNFYLCEVSSNMVIDATNKGNKSRF
+INHSCEPNTEMQKWTVDGETRVGIFALRDIERGEELTYDYKFVQFGADQDCHCGSSNCRK
+MVGTSKSVNSFVLHNGNSGSSQDQHDiKKRKTTSDNCIGEIIRLWDRRDKMYVPAVVHDY
+DEYTGMHTLLLDEETTEKFDMREEDWDFLPRPEDPEED
+
+
+PACMAD CONSENSUS:
+Length: 351 aa
+
+MVRVGSSSSARGVNlteQvENVFEQLISKIEPADFDPRPfLKQLNVLGRYEPIKRNVYcT
+KRRiEDYGISCSCKPSSGSSVVCGKDCHCGMLFSCCSSqCECDNTCANKSFQHRPLKKTK
+LIKTEKCGFGLVAEDEIKKGEFVIEYVGEVIDDRTCENRLWtMKRLsDTNFYLCEVSSNM
+VIDATNKGNMSRFINHSCEPNTEMQKWTVDGETRVGIFALRDIKKGEELTYDYKFVQFGA
+aQVCHCGSSNCRKMLGTTKSvNSIvLRNGYSGSSQNQyVKKKKRKTkCENCIQQFLRLWH
+PRQKMYVGCWIiDFDQETKmHTLQFtDLHTEKFNLKEEEWHFLeVDssDEE
+
+================================================================================

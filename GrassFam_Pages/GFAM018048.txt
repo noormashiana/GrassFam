@@ -1,0 +1,131 @@
+================================================================================
+GrassFam ID: GFAM018048
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             424.0 aa
+Family Size (Extended Family Size): 19 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47634:SF22
+Panther Family ID:               PTHR47634
+Modal Panther ID:                PTHR47634:SF22
+Modal Panther Description:       PROTEIN KINASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR47634
+Modal Panther Fam Desc:          PROTEIN KINASE DOMAIN-CONTAINING PROTEIN-RELATED
+Interpro Signature Accession:    cd14136; G3DSA:3.30.200.20:FF:000303; G3DSA:1.10.510.10:FF:000425; G3DSA:1.10.510.10; G3DSA:3.30.200.20; PTHR47634; SM00220; SSF56112
+Interpro Signature Description:  STKc_SRPK; Protein kinase superfamily protein; Serine/threonine-protein kinase SRPK; Transferase(Phosphotransferase) domain 1; Phosphorylase Kinase; domain 1; PROTEIN KINASE DOMAIN-CONTAINING PROTEIN-RELATED; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: SRSF protein kinase 1
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: SRSF protein kinase 1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: SRSF protein kinase 1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: SRSF protein kinase 1-like; SRSF protein kinase 2-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: uncharacterized LOC127783623
+  Gene Descriptions: uncharacterized LOC127783623
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: protein kinase dsk1
+  Gene Descriptions: protein kinase dsk1
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: uncharacterized LOC133897562%2C transcript variant X1; uncharacterized LOC133902022
+  Gene Descriptions: uncharacterized LOC133897562; uncharacterized LOC133902022
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: SRSF protein kinase 1-like%2C transcript variant X1; SRSF protein kinase 1-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: SRSF protein kinase 1-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: SRSF protein kinase 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: putative protein kinase superfamily protein%2C transcript variant X1
+  Gene Descriptions: putative protein kinase superfamily protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 424 aa
+
+MASLFGNGGYsYSSGSEGEDEDEGTEGYRKGGYHAARPGDRFAGGRFVAQRKLGWGNFST
+VWLAYDTLHSRFVALKIQKSARDYAHAALHEIELLSAVAKGDPTNSKCVVQLLDHFKHAG
+PNGkHVCLVTEFLGDSLLRLIRYNRNKGIGLSRVKEICRSVLVGLDYLHRELGIIHTDLK
+PENVLLVSTINPSKDPVRSGFTPILDRPVGNQYGGTVISFSEKMLKMRARRAVAKISQRR
+VSLGGVAAEvEKERSLDGISLKCKIVDFGNACWADQQLAGEIQTRQYRAPEVIIGSGYSY
+SADMWSFACMAFELATGDLLFAPKnCQGCSEDEDHLALMMETLGKMPRKIATSGTRSKDY
+FDRHGDLKRIRRLKFWPLDRVLVERYNFTEPDAqGFADFLRPILDFTPENRPTAAqCLKH
+PWLN
+
+
+BOP CONSENSUS:
+Length: 423 aa
+
+MAAFGGNGyCYSSGSEDEEEEEGAEGYRKGGYHAARPGDRFAGGRFVAQRKLGWGNFSTV
+WLAYDTLLSRFVALKIQKSARDYAHAALHEIELLSAAAKGDPTNSKCVIQLLDHFKHAGP
+NGKHICLVTEFLGDSLLRLIRYNRNKGIGLSRVREICRSVLTGLDYMHRELGIIHTDLKP
+ENVLLVSTINPSKDPVRSRLTPILKRPEGNQYRtpvISFSEKMLKTRARRAVAKILQRRV
+SLGGFTADMVKERSLDGISMKCKIVDFGNACWADQQGDGVIQTRQYRAPEVIIGSGYSYS
+ADMWSFACMAFELATGDMLFAPkTCQGCSEDEDHLALMMETLGKMPKKIAtSGTRSKDYF
+NRYGDLKRVrRLRFWPLERVLVERYNFTEPDAKGLADFLRPILDFDPENRPTAAECLKHA
+WLN
+
+
+PACMAD CONSENSUS:
+Length: 424 aa
+
+MASLFGNGGYSYSSGSEGEDEDEGTEGYRKGGYHAARPGDRFAGGRFVAQRKLGWGNFST
+VWLAYDTLHSRFVALKIQKSARDYAHAALHEIELLSAVAKGDPTNSKCVVRLLDHFKHvG
+PNGhHVCLVTEFLGDSLLRLIRYNRNKGIGLSRVKEICRSVLVGLDYLHSELGIIHTDLK
+PENVLLVSTINPAKDPVRSGFTPILDRPVGNQYGGTVISFSEKMLKMRARRAVAKISQRR
+VSLGGVAAEVEKERnLDGISLKCKIVDFGNACWADQQLAGEIQTRQYRAPEVIIGSGYSY
+SADMWSFACIAFELATGDLLFAPKNCQGCSEDEDHLALMMETLGKMPRKIATSGTRSKDY
+FDRHGDLKRIRRLKFWPLDRVLVERYNFTEpDAQGFADFLRPILDFTPENRPSAAQCLKH
+PWLN
+
+================================================================================

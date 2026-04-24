@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM021133
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             480.0 aa
+Family Size (Extended Family Size): 22 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31351:SF18
+Panther Family ID:               PTHR31351
+Modal Panther ID:                PTHR31351:SF18
+Modal Panther Description:       VAN3-BINDING PROTEIN
+Modal Panther Family ID:         PTHR31351
+Modal Panther Fam Desc:          EXPRESSED PROTEIN
+Interpro Signature Accession:    PTHR31351; PF05703; PF08458
+Interpro Signature Description:  EXPRESSED PROTEIN; Auxin canalisation; Plant pleckstrin homology-like region
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: VAN3-binding protein
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: VAN3-binding protein-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: VAN3-binding protein%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: VAN3-binding protein-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl12
+  Gene Products: VAN3-binding protein-like%2C transcript variant X1
+  Gene Descriptions: VAN3-binding protein-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa12
+  Gene Products: VAN3-binding protein%2C transcript variant X1
+  Gene Descriptions: VAN3-binding protein
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN436
+Pau
+  Gene count: 2
+  Modal chromosome: Pau22
+  Gene Products: VAN3-binding protein-like%2C transcript variant X1
+  Gene Descriptions: VAN3-binding protein-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: VAN3-binding protein-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: VAN3-binding protein-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi14
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: VAN3-binding protein
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: VAN3-binding protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 475 aa
+
+MndAGrArARGGGDLPLRPPEPPRDPLEFLSRSWSASAADVSRALAAAPAPALGAAaAIA
+EDVAGELDdDGSAGPASGSSFSFASAATSQLIMDRIMsqSQEVSPLTSGRLSHSSGPLNG
+GGSLSDSPPVSPEiDDSKFCRAVSTPKPQPYaRGGSKTVGRWLKDRKEKrKEETRAHNAQ
+VHAAVSVAAVAAAVAAVAAATAAASGSGKDDRAARTDMAVASAATLVAAQCVEAAEAMGA
+EREHLAAAVGSAVNVRTPGDVVTITAAAATALRGAATLRARvLKEVWNVAAVIPVEKGaM
+GGGGgGGHHQHGHKHnaQqQqHHkqREleSSNSSSSFSDELVlqEENNFLGICtQELLAR
+GTELLKRTRKGSLHWKVVSVYINRtGVVMLKMKSRHVGGTITKKKKSVVVDVCRDVAAWP
+GRHLLEGGEHRRYFGLRTAEHRVIEFECASQREHEMWTKGVARLLAIVDGRKRFA
+
+
+BOP CONSENSUS:
+Length: 462 aa
+
+MNGSGRASARGGGERRPPEPQRDPLEFLSRSWSASAADVSRALAAAPAAGAIAEDIAGEL
+DDAASAGTGTGSSFSFASAATSQLIMDRIMSHSQEVSPLTSGRLSHSSGPLNGGGSLSDS
+PPVSPDVDDSRFCRAVSTPKAQPPRGGSKTVGRWLKDRKEKRKEETRAHNAQVHAAVTVA
+AVAAAVAAAAAATAGSGGKDDRAARTDMAVASAATLVAAQCVEAAESMGAEREHLAAAVG
+SAVNARTPGDIVTITAAAATALRGAATLRARVQKEAWNVAAVIPVEKGSMGMGGHGHGHK
+HGAQQQQHHKVQEMGSSNSSSFSDDLPAvDQDENNFLGICCQELLARGTELLKRTRKGSL
+HWKVVSVYINRTGVVMLKMKSRHVAGTITKKKKSVVVDVCRDLAAWPGRHLLEGGEHRRY
+FGLRTAEHRVIEFECASQREHDMWTKGVARLLAIVDGRKRFA
+
+
+PACMAD CONSENSUS:
+Length: 484 aa
+
+MTDAGAARpRRAGGGGGDLPLRPPEPPRDPLEFLSRSWSASAADVSRALAAAPAPALGAG
+AAIAEDVAgELDgDGAGGGPASGSSFSFASAATSQLVMDRIMAPSQEVSPLTSGRLSHSS
+GPLNGGGSLSDSPPVSPEIDDTKFCRAASTPKPQPYARGGSKTVGRWLKDRREKKKEETR
+AHNAQVHAAVSVAAVAAAVAAVAAATAAASGSGKDgRGARTDMAVASAATLVAAQCVEAA
+EALGAEREHLAAAVGSAVNVRTPGDVVTITAAAATALRGAATLKARALKEVWNVAAVIPV
+EKGAVGGGGGGqHHQHGHKHNGQlKHHHqQQqQRELESSNSSSSCFSDELVLAEENNFLG
+ICTQELLARGTELLKRTRKGSLHWKVVSVYINRmGLVMLKMKSRHVGGTITKKKKSVVVD
+VCRDVAAWPGRHLLEGGEHRRYFGLRTAEqRVIEFECGSQREYEMWTKGVARLLSIVDGR
+KRAv
+
+================================================================================

@@ -1,0 +1,127 @@
+================================================================================
+GrassFam ID: GFAM020687
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             403.0 aa
+Family Size (Extended Family Size): 19 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11132:SF269
+Panther Family ID:               PTHR11132
+Modal Panther ID:                PTHR11132:SF269
+Modal Panther Description:       TRIOSE PHOSPHATE_PHOSPHATE TRANSLOCATOR TPT, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR11132
+Modal Panther Fam Desc:          SOLUTE CARRIER FAMILY 35
+Interpro Signature Accession:    TIGR00817; PTHR11132; PF03151
+Interpro Signature Description:  Tpt phosphate/phosphoenolpyruvate translocator; SOLUTE CARRIER FAMILY 35; Triose-phosphate Transporter family
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: triose phosphate/phosphate translocator TPT%2C chloroplastic%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: triose phosphate/phosphate translocator TPT%2C chloroplastic-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: triose phosphate/phosphate translocator%2C chloroplastic%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: triose phosphate/phosphate translocator%2C chloroplastic-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: triose phosphate/phosphate translocator TPT%2C chloroplastic-like
+  Gene Descriptions: triose phosphate/phosphate translocator TPT%2C chloroplastic-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: triose phosphate/phosphate translocator TPT%2C chloroplastic-like
+  Gene Descriptions: triose phosphate/phosphate translocator TPT%2C chloroplastic-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: triose phosphate/phosphate translocator TPT%2C chloroplastic-like; triose phosphate/phosphate translocator%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: triose phosphate/phosphate translocator%2C chloroplastic-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: triose phosphate/phosphate translocator%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: triose phosphate/phosphate translocator
+  Gene Synonyms: GRMZM2G083344
+  Gene Descriptions: triose phosphate/phosphate translocator
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 400 aa
+
+MAAvGTLPGGGAAAAAVPQRqRRRgAPSLargAyVSdGARLVCGRQLRPAPVLASSfgtL
+SsPARRRLLRtaAAAASSDSAGEAKPqGFAERYPALVTGFFFFMWYFLNVIFNILNKKIF
+DYFPYPYFVSVSHLfVGVLYCLIGWSFGLPKRAPINSTLLKLLlPVAVCHAIGHVTSTVS
+FAAVAVSFAHTIKALEPFFNAAASQFILGQPVPLTLWLSLAPVVIGVSVASLTELSFNWT
+GFINAMISNISFTYRSIYSKKAMTDMDSTNLYAYISIIALIVCIPPALIIEGPQLVQHGF
+KDAIAKVGLTKLVSNFFVVGLFYHLYNQVATNTLERVAPLTHAVGNVLKRVFVIGFSIIV
+FGNKITTQTGIGTSIAIsGVALYSFIKAKIEEEKKQIKSA
+
+
+BOP CONSENSUS:
+Length: 404 aa
+
+MAAvATiLCGGGAAVAGhQRsRRRAAPSLharGGsVSDGAHLVCGRQLRPALFPASSFGt
+LPLsSPgSRrLLRTPASAsSSDSqGQAKPvGFlERYPALVTGFFFFMWYFLNVIFNILNK
+KIFDYFPYPYFVSVTHLSVGVLYCLISWSTGLLKRAPINSTLLKLLLPVAVCHAIGHVTS
+TVSFAAVSVSFAHTIKALEPFFNAAASQFILGQQVPFTLWLSLAPVVIGVSiASLTELSF
+NWTGFINAMISNISFTYRSIYSKKAMTDMDSTNLYAYISIIALIVCIPPALIIEGPQLVQ
+HGFKDAIAKVGLTKLVSNIFLAGLFYHLYNQVATNTLQRVAPLTHAVGNVLKRVFVIGFS
+IIIFGNKITTQTGIGTCIAISGVALYSVIKAKIEEEKKCLCPAQ
+
+
+PACMAD CONSENSUS:
+Length: 400 aa
+
+MAAvGTLPGAAAAgASVPQRQRRrGAPSLAAAYVPEGtRLVCGRQLRPAPVLASSSaTLS
+gPARRRFLrAAPAAAASSGSAGEAKPQGFAERYPTLVTGFFFFLWYFLNVIFNILNKKIF
+DYFPYPYFVSVSHLFIGVLYCLIGWSFGiPKRAPINSTlLKQLvPVAVCHAIGHVTSTVS
+FAAVAVSFAHTIKALEPFFNAAASQFILGQPVPLTLWLSLVPVVVGVSVASLTELSFNWT
+GFINAMISNISFTYRSIYSKKAMTDMDSTNLYAYISIIALFVCIPPALIIEGPQLvQHGF
+KDAIAKVGLTKLISNFFVVGLFYHLYNQVATNTLERVAPLSHAIGNVLKRVFVIGFSIIV
+FGNKITTQTGIGTSIAIAGVALYSFMKAKIEEEKRQIKSA
+
+================================================================================

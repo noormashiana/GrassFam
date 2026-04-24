@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM008800
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             410.0 aa
+Family Size (Extended Family Size): 25 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45900:SF4
+Panther Family ID:               PTHR45900
+Modal Panther ID:                PTHR45900:SF4
+Modal Panther Description:       DNA REPAIR PROTEIN RECA HOMOLOG 2, MITOCHONDRIAL
+Modal Panther Family ID:         PTHR45900
+Modal Panther Fam Desc:          RECA
+Interpro Signature Accession:    G3DSA:3.40.50.300; PTHR45900; PR00142; PF00154; SSF52540
+Interpro Signature Description:  -; RECA; RecA protein signature; recA bacterial DNA recombination protein; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi02
+  Gene Products: DNA repair protein recA homolog 2%2C mitochondrial; DNA repair protein recA homolog 2%2C mitochondrial%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: DNA repair protein recA homolog 2%2C mitochondrial
+Ata
+  Gene count: 2
+  Modal chromosome: Ata03D
+  Gene Products: DNA repair protein recA homolog 2%2C mitochondrial
+Tae
+  Gene count: 4
+  Modal chromosome: Tae03D
+  Gene Products: DNA repair protein recA homolog 2%2C mitochondrial-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: DNA repair protein recA homolog 2%2C mitochondrial
+  Gene Descriptions: DNA repair protein recA homolog 2%2C mitochondrial
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: DNA repair protein recA homolog 2%2C mitochondrial
+  Gene Descriptions: DNA repair protein recA homolog 2%2C mitochondrial
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau01
+  Gene Products: DNA repair protein recA homolog 2%2C mitochondrial
+  Gene Descriptions: DNA repair protein recA homolog 2%2C mitochondrial
+Svi
+  Gene count: 2
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: DNA repair protein recA homolog 2%2C mitochondrial%2C transcript variant X1; DNA repair protein recA homolog 2%2C mitochondrial-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: DNA repair protein recA homolog 2%2C mitochondrial
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: DNA repair protein recA homolog 2%2C mitochondrial
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: uncharacterized LOC100276540%2C transcript variant X2
+  Gene Synonyms: GRMZM2G363801,TIDP3078
+  Gene Descriptions: uncharacterized LOC100276540
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 411 aa
+
+MRGLLSSSSALLRRAAAAAlLSrAGrsnaTpSAPSPLRRfPLQNGKretFCsFWSKGCSM
+STTVDMQLDYESDPPLDDAKALEKESTLNVAVSQLASDFDRESNLCLERFSRTRRASVIS
+TGSLKLDLALGIGGLPKGRMVEIFGKEASGKTTLALHVVKEAQKNGGYCAYIDAENAFNP
+SFAEAIGVDsEKLLIAQPDSAENSLSIVNTLVGGSIDVVVVDSVAALIPKCELEGEIYMN
+SEDIQSRLMTRALRKIQYTLSRSETLIIFVNQVRTKRSSNpfPGIYKEVpCGGNALGFYA
+AVRMRTSRRELRYSEDQATGIGISVQIIKNKLAPAsLKEAGIDIRFGKGICHESEILEMA
+SSvGVIVKDGSGYWINGEFLPGKaEAEKFLlENAAVADEICSTMRsQFFER
+
+
+BOP CONSENSUS:
+Length: 408 aa
+
+MGVLSSPPALLRRAAALlSGAGRRYSTPsVPSHLRRLPLQgGRSDaYcRFwSQGCFMSTT
+VDMQLDYESDPPLDDAKSLEKVSTLNGAVSQLASDFDRDSNLCLERFSRTRRASVISTGS
+LKLDLALGIGGLPKGRMVEIFGKESSGKTTLALHVIKEAQKNGGYCAYIDAENAFNTSFA
+EEIGVDIDKLLIAQPDSAENSLSIVNTLVGGSIDVVVVDSVAALIPKCELEGEIYMKFKD
+aQSRLMTRALRKIQYTLSRSETLIIFVNQVRTKRSSDPSSGLYKEVTCGGNALGFYSAIR
+MRTSRRKLrYSkDEATGISIAVQIIKNKLVPAALKEAGLNIGFGKGICHESEILEMASSH
+GVIVKEGSGYWINGeFLPGKEEAEKFLLENDAVADDICSTMRSQLFET
+
+
+PACMAD CONSENSUS:
+Length: 412 aa
+
+MRGLLSSSSTLLRRAAGAAAQLSRAGwSNAtASAPSPLRRFPLQNGKRETFCSFWSKGCS
+MSTTVDMQLDYESDPPLDDAKALEKESSLNVAVSQLASDFDRESNLCLERFSRTRRASVI
+STGSLKLDLALGvGGLPKGRMVEIFGKEASGKTTLALHVVKEAQKNGGYCAYIDAENAFN
+PSFAEAIGVDSERLLIAQPDSAENSLSIVNTLVGGSVAVVVVDSVAALIPKCEIEGEIYT
+NSEDIQSRLMTRALRKIQYTLCRSEtLIIFVNQVRTKLSSNqFPGIYKEVPCGGNALGFY
+AAVRMRTSRRELRYSEDQATGIGISVQIIKNKLAPASLKEAGIDIRFGKGICHESEILEM
+ASSVGVIvKDGCGYWINGEFLpGKAEAEKFLHENAgVADEICNTVRNQFLQR
+
+================================================================================

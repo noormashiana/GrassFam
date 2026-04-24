@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM009657
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             436.0 aa
+Family Size (Extended Family Size): 21 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47942:SF97
+Panther Family ID:               PTHR47942
+Modal Panther ID:                PTHR47942:SF97
+Modal Panther Description:       EXPRESSED PROTEIN
+Modal Panther Family ID:         PTHR47942
+Modal Panther Fam Desc:          TETRATRICOPEPTIDE REPEAT (TPR)-LIKE SUPERFAMILY PROTEIN-RELATED
+Interpro Signature Accession:    G3DSA:1.25.40.10; PTHR47936
+Interpro Signature Description:  Tetratricopeptide repeat domain; PPR_LONG DOMAIN-CONTAINING PROTEIN
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: pentatricopeptide repeat-containing protein At1g61870%2C mitochondrial
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: pentatricopeptide repeat-containing protein At1g61870%2C mitochondrial-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: pentatricopeptide repeat-containing protein At1g61870%2C mitochondrial
+Tae
+  Gene count: 2
+  Modal chromosome: Tae01B
+  Gene Products: pentatricopeptide repeat-containing protein At1g61870%2C mitochondrial-like; pentatricopeptide repeat-containing protein At3g22470%2C mitochondrial-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: pentatricopeptide repeat-containing protein At1g61870%2C mitochondrial-like
+  Gene Descriptions: pentatricopeptide repeat-containing protein At1g61870%2C mitochondrial-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: small ribosomal subunit protein mS86 (rPPR1)
+  Gene Descriptions: small ribosomal subunit protein mS86 (rPPR1)
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau21
+  Gene Products: small ribosomal subunit protein mS86 (rPPR1)-like
+  Gene Descriptions: small ribosomal subunit protein mS86 (rPPR1)-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: pentatricopeptide repeat-containing protein At1g09820-like; pentatricopeptide repeat-containing protein At1g61870%2C mitochondrial-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: pentatricopeptide repeat-containing protein At1g09820-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: pentatricopeptide repeat-containing protein At3g22470%2C mitochondrial
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: Pentatricopeptide repeat-containing protein mitochondrial
+  Gene Synonyms: GRMZM2G380665
+  Gene Descriptions: Pentatricopeptide repeat-containing protein mitochondrial
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 436 aa
+
+MASLLRRRRHAAHPsAAAASArLLRAFSALPDVDPSassAaTPTPAAPTSSaRASVLDLQ
+LAVRAETDPARIHSLVASALSSpDyPRLHTSRpLFSLAASRLtRLRRPDLAASLLDlLLA
+SAPPSPGLLARALSLFPGPDDALRAFSSSAPAARSDVSLSALLSALLRAGRLDDLKSTFA
+SAESSLGVAPGRASHNVLLHALVKNSELAAARKLLDEMANKKLKHRPAPDIISYNTVLAG
+YSaQDDEEGFEKLLKEISasKLEPNVVTYNCRIQWFAKKGETFKGEELLDVMESKeVAPN
+YLTYNALVQGYCKEGNVGAAMRVFKRMKVMKRREGRSDLGVSAHSQTYVVLFRSLVEKEK
+LDDALWICKSCFAMKAAPPFEAVKGLVEGLVKGGRSaEAKDVVAKMnFLVKGDAKlAWEK
+IVGELSLEEGAPSSNP
+
+
+BOP CONSENSUS:
+Length: 434 aa
+
+MASLLRRRHPHPSAVSAHLLRRFSALPDVDPSPAsAPAPPAsTPTAPAAaRASIIDLQLA
+VRAETDPDRVHSLVASALSSPDYHRLHTSRpLFSLAASRLDRLRRPDLAASLLDQLLASA
+PvSPGLLARALSLFPGPDDAVRAFSSSAPAARSDVSLSALLSALLRAGRiDDLKSTFKSA
+ESSLGVAPGRASHNVLLHALVKsSELpAARKLLNEMAKKKFKHRPPPDIISYNTLLAGFS
+eQDDaEEFEKLLKEINENKLEPNVVTYNCRmQWFAKKGETFKGEELLDVMESKGVLPNYV
+TYNALVQGYCKEGNVGAAMRVFKRMKVMKRREGRSDLGVSVHSQTYVVLFRSLVEKERLD
+DALWICNSCFAMKAAPSFEAVKGLVEGLVKGGRSAEAKdVVAKMNFLVKGDAKVAWEKIA
+GELSLEEGAPSSNP
+
+
+PACMAD CONSENSUS:
+Length: 438 aa
+
+MASLLLRRRHAAHPRAAAAAsARLLRAFSALPDVDPSASStATPTPAAPTSTSARAsVLD
+LQLAVRAEtDPARIHSLVASALSSHDLPRLHTSRQLFSLATSRLTRLRRPDLAASLLDLL
+LASAPPSPGLLARALSLFPGPDDALRAFSSSPPAARSDVSLSALLSALLRAGRLDDLKST
+FASAESSLGVAPGRASHNVLLHALVKNSELAAARKLLDEMANKKLKHRPAPDIISYNTVL
+AGYSVQDDEEGFEKLLKEISASKLEPNVVTYNCRIQWFAKKGETVKGEELLDVMESKEVA
+PNYLTYNALVQGYCKEGNVGAAMRVFKRMKVMKRREGRSDLGVSAHSQTYVVLFRSLVEK
+EKLDDALWICKSCFAMKAAPPFEAVKGLVEGLVKaGRSTEAKDVVAKMELLVKGDAKLAW
+GKVVGELSLEEGAPSSNP
+
+================================================================================

@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM007398
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             591.0 aa
+Family Size (Extended Family Size): 25 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12083:SF9
+Panther Family ID:               PTHR12083
+Modal Panther ID:                PTHR12083:SF9
+Modal Panther Description:       BIFUNCTIONAL POLYNUCLEOTIDE PHOSPHATASE_KINASE
+Modal Panther Family ID:         PTHR12083
+Modal Panther Fam Desc:          BIFUNCTIONAL POLYNUCLEOTIDE PHOSPHATASE/KINASE
+Interpro Signature Accession:    cd01625; G3DSA:3.30.1740.10:FF:000006; G3DSA:3.40.50.1000:FF:000198; G3DSA:3.30.1740.10; G3DSA:3.40.50.1000; TIGR01662; TIGR01664; PTHR12083; PF08645; SM01336; SSF56784
+Interpro Signature Description:  HAD_PNP; Poly [ADP-ribose] polymerase; Bifunctional polynucleotide phosphatase/kinase; -; HAD-IIIA family hydrolase; DNA 3'-phosphatase; BIFUNCTIONAL POLYNUCLEOTIDE PHOSPHATASE/KINASE; Polynucleotide kinase 3 phosphatase; zf_PARP_3; HAD-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi02
+  Gene Products: polynucleotide 3'-phosphatase ZDP%2C transcript variant X1
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: polynucleotide 3'-phosphatase ZDP%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: polynucleotide 3'-phosphatase ZDP
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: polynucleotide 3'-phosphatase ZDP-like; polynucleotide 3'-phosphatase ZDP-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: polynucleotide 3'-phosphatase ZDP
+  Gene Descriptions: polynucleotide 3'-phosphatase ZDP
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: polynucleotide 3'-phosphatase ZDP
+  Gene Descriptions: polynucleotide 3'-phosphatase ZDP
+Ecu
+  Gene count: 3
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau02
+  Gene Products: polynucleotide 3'-phosphatase ZDP-like
+  Gene Descriptions: polynucleotide 3'-phosphatase ZDP-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi05N
+  Gene Products: polynucleotide 3'-phosphatase ZDP-like; polynucleotide 3'-phosphatase ZDP-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: polynucleotide 3'-phosphatase ZDP%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: polynucleotide 3'-phosphatase ZDP%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: diphosphonucleotide phosphatase 2
+  Gene Synonyms: dnp2,DP2,GRMZM2G111510
+  Gene Descriptions: diphosphonucleotide phosphatase 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 594 aa
+
+MLVvlliARNPSRLLLPSAARvARlAMSTSPaAaATVSVEYAKSGRStCKGCSaAIAKGA
+LRLGASARDPRGFDSTKWYHVACFPSSSHPLGPVEsvkGFDSIKDdDREELRELEKNnKR
+DQTAVSPLEEPSPKKAKtQMSSPaeGVsDKaSVSVEYAKSGRSTCKGCNeNIAKGALRLG
+ASfHDPRGFDNTKWYHVACFPTSSYPLFPVENLKGFDSIKDHDREKLQELEENNKVsPLE
+EPSPKKVKPmkgVaEKaSVSVEYAKSGRSTCKGCSEsIAKGALRLGASAHDPRGFDSTKW
+YHVACFPTSSYPLFPVEkLKGFDSIKDdDREKLRELEENyKRDGNAADqlnEPSLKKEmv
+HSmldSKEGAENNLEEVKLSAGNKriGPvISFSvSDIKKtYKDATLPtHWKAFDTVIFRE
+QEDGLHASAKIAAFDFDGCLAKTSVRIIGADKWSLQHKSIPeKLQSLYNDGYKLVIFTNE
+SNIERWKNKRQQAVDSKVGRLDNFIECVKVPIQVFIACGLGKGKGTPDDPYRKPNPGMWW
+LMAQHFNSGIeIDMDQSFYVGDAAGRENDHSDADIEFAKAIGLKFHVPEEYFGP
+
+
+BOP CONSENSUS:
+Length: 481 aa
+
+MLAPLFSRNPSLLFLPAvVRIARGAMSASPAASAaKATVSVEYAKSGRSSCKGCSAaIAK
+GALRLGASARDPRGYDSTKWYHVACFPASSHPLGPVEKVkGFDSIKDDDREELRELEKNN
+KRDQTAVSPLEVPSPKKAKvSPKAGVAEKGSVSVEYAKSARSTCKGCNASIAKGALRLGV
+SAHDPRGFDSTKWYHVACFPTSSHPLGPVEKLKGFDSIKDDDREELRELEKNkKRDQAAV
+GPvElsSPKKgNsHISlPEVEVAEKSSPGNKtVGTAIPFSpSDIKKTYKDATLPTHWKAF
+DTVIFREQDDGLHASAKIAAFDFDGCLAKTSVKIIGADKWSLQHKSIPDKLQSLYNDGYK
+LVIFTNESNIERWKNKRQQAVDSKVGRLDNFIECVKVPIQVFIACGTGKGKGTPDDPFRK
+PNSGMWWLMAEHFNSGIAIDMDQSFYVGDAAGRENDHSDADIEFAKAIGLKFHVPEEfFG
+P
+
+
+PACMAD CONSENSUS:
+Length: 635 aa
+
+MLVVPFSsLsIARNPiRLRLLLPASAARVARLAMSTtPQAAATVSVEYAKSGRSTCKGCS
+GAIASGALRLGASARDPRGFDATKWYHVACFPSASHPLGPVESINGFDSIKEaDREELRE
+LEKNRKRDqTAVSPLEEPSPKKAKTQMSSPAEGVSDKASVSVEYAKSGRSTCKGCSENIA
+KGALRLGASFHDPRGFENTKWYHVACFPTSSYPVFPVENLKGFDSIEDHDREKLrELVEN
+HKSDGNAADqSiGDSKEVTEKNPEEVKNrnKvhKTVnPLDEPSPKKVKTSMKGVSEKASV
+LVEYAKSGRSTCKGCSENIAKGALRLGASAHDPRGYDSTKWYHVACFPTSSYPlFPVENL
+KGFDSIKNnDREKLLELGENYKRDGNAADQSNEPNLKkEMVDSMgDSKEGAENNLEEVKL
+SAGNnrIGPsISFSVSDIKKdYKgATLPAHWKvFETVIFREQEDGLHASAKIAAFDFDGC
+LAKTSVRiIGADKWSLQHKSIPEKLQsLYNDGYKLVIFTNESNIERWKNKRQeAVDSKVG
+RLDNFIECVKVPIQVFIACGLGKGKGTPDDPYRKPNPGMWWLMAQHFNSGIEIDMDkSFY
+VGDAAGRENDHSDADIKFAKAIGLKFHVPEEYFGp
+
+================================================================================

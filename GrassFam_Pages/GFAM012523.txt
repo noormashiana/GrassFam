@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM012523
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             316.0 aa
+Family Size (Extended Family Size): 31 (37) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11732:SF209
+Panther Family ID:               PTHR11732
+Modal Panther ID:                PTHR11732:SF209
+Modal Panther Description:       NAD(P)-LINKED OXIDOREDUCTASE SUPERFAMILY PROTEIN
+Modal Panther Family ID:         PTHR11732
+Modal Panther Fam Desc:          ALDO/KETO REDUCTASE
+Interpro Signature Accession:    cd19112; G3DSA:3.20.20.100:FF:000019; G3DSA:3.20.20.100; PTHR43827; PIRSF000097; PR00069; PF00248; SSF51430
+Interpro Signature Description:  AKR_AKR2A1-2; NADP-dependent D-sorbitol-6-phosphate dehydrogenase; -; 2,5-DIKETO-D-GLUCONIC ACID REDUCTASE; AKR; Aldo-keto reductase signature; Aldo/keto reductase family; NAD(P)-linked oxidoreductase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: NADP-dependent D-sorbitol-6-phosphate dehydrogenase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: NADP-dependent D-sorbitol-6-phosphate dehydrogenase-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: NADP-dependent D-sorbitol-6-phosphate dehydrogenase
+Tae
+  Gene count: 6
+  Modal chromosome: Tae03A
+  Gene Products: NADP-dependent D-sorbitol-6-phosphate dehydrogenase-like; NADP-dependent D-sorbitol-6-phosphate dehydrogenase-like%2C transcript variant X1
+Ola
+  Gene count: 3
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: NADP-dependent D-sorbitol-6-phosphate dehydrogenase-like
+  Gene Descriptions: NADP-dependent D-sorbitol-6-phosphate dehydrogenase-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: NADP-dependent D-sorbitol-6-phosphate dehydrogenase
+  Gene Descriptions: NADP-dependent D-sorbitol-6-phosphate dehydrogenase
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: NADP-dependent D-sorbitol-6-phosphate dehydrogenase-like
+  Gene Descriptions: NADP-dependent D-sorbitol-6-phosphate dehydrogenase-like
+Svi
+  Gene count: 3
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi01K
+  Gene Products: NADP-dependent D-sorbitol-6-phosphate dehydrogenase-like; NADP-dependent D-sorbitol-6-phosphate dehydrogenase-like%2C transcript variant X1; NADP-dependent D-sorbitol-6-phosphate dehydrogenase-like%2C transcript variant X2
+Pha
+  Gene count: 2
+  Modal chromosome: Pha01
+  Gene Products: NADP-dependent D-sorbitol-6-phosphate dehydrogenase-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi08
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: NADP-dependent D-sorbitol-6-phosphate dehydrogenase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: NADP-dependent D-sorbitol-6-phosphate dehydrogenase
+  Gene Synonyms: GRMZM2G174481,pco086901a
+  Gene Descriptions: NADP-dependent D-sorbitol-6-phosphate dehydrogenase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 316 aa
+
+MAAKGvApAVALSSGHRMPAVGLGVWRMEKPAIRgLIHSALRIGYRHLDCAADYQNEAEV
+GDALAEAFQTGLVKREDLFITTKLWNSDHGHVvEACKDSLKKLQLDYLDLYLVHFPVATR
+HTGVGTTSSALGDDGVLDIDTTISLETTWHAMEELVSMGLVRSIGISNYDIFLTRDCLAY
+AKIKPAVNQIETHPYFQRDSLVKFCQKHGICVTAHTPLGGSTANTEWFGSVSCLDDPVIK
+SLAEKYGKTPAQLVLRWGLQRNTVVIPKTSKvERLQENFEVFDFeISGEDMEKMKAIDRN
+YRTNQPAKFWGIDLYA
+
+
+BOP CONSENSUS:
+Length: 320 aa
+
+MMAAAQGSGVPAALALSSGHTMPSVGLGVWRMDSPAIRDLIHSALRIGYRHFDCAADYQN
+EAEVGDALAEAFQTGLVKREDLFITTKLWNSDHGHVVEACKDSLKKLRLDYLDLYLIHFP
+VATRHTGVGTTASALGDDGVLDIDTTISLETTWHAMEDLVSMGLVRSIGISNYDIFLTRD
+CLAYAKIKPAVNQIETHPYFQRDCLVKFCQKHGILVTAHTPLGGSTANTEWFGSVSCLDD
+PVIKSLAEKYGKTPAQLVLRWGLQRNTVVIPKTSKEERLQENFAVFDFAISDEDMEKMRS
+IDRKYRTNQPAKFWGIDLFA
+
+
+PACMAD CONSENSUS:
+Length: 316 aa
+
+MAAKGvAPAVALSSGHRMPAVGLGVWRMEKPAIRgLIHSALRIGYRHLDCAADYQNEAEV
+GDALAEAFQTGLVKREDLFITTKLWNSDHGHVlEACKDSLKKLQLDYLDLYLVHFPVATR
+HTGVGTTSSALGDDGVLDIDTTISLETTWHAMEELVSMGLVRSIGISNYDIFLTRDCLAY
+AKIKPAVNQIETHPYFQRDSLVKFCQKHGICVTAHTPLGGSTANTEWFGSVSCLDDPVIK
+SLAEKYGKTPAQLVLRWGLQRNTVVIPKTSKVERLQENFEVFDFEISGEDMEKMKAIDRN
+YRTNQPAKFWGIDLYA
+
+================================================================================

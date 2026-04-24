@@ -1,0 +1,145 @@
+================================================================================
+GrassFam ID: GFAM009254
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             620.0 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR22298
+Modal Panther ID:                PTHR22298:SF187
+Modal Panther Description:       ENDOGLUCANASE
+Modal Panther Family ID:         PTHR22298
+Modal Panther Fam Desc:          ENDO-1,4-BETA-GLUCANASE
+Interpro Signature Accession:    G3DSA:1.50.10.10:FF:000020; G3DSA:1.50.10.10; PTHR22298; PF00759; SSF48208
+Interpro Signature Description:  Endoglucanase; -; ENDO-1,4-BETA-GLUCANASE; Glycosyl hydrolase family 9; Six-hairpin glycosidases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: endoglucanase 9
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: endoglucanase 9-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: endoglucanase 9
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: endoglucanase 9-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: endoglucanase 9
+  Gene Descriptions: endoglucanase 9
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: endoglucanase 9-like
+  Gene Synonyms: GLU1,OsCel9D,OsGLU1
+  Gene Descriptions: endoglucanase 9-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: endoglucanase 9; endoglucanase 9-like
+  Gene Descriptions: endoglucanase 9; endoglucanase 9-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: endoglucanase 9; endoglucanase 9-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: endoglucanase 9
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: endoglucanase 9
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: Endoglucanase 25; endo-1%2C4-beta-glucanase
+  Gene Synonyms: GRMZM2G003379; GRMZM2G099101
+  Gene Descriptions: Endoglucanase 25; endo-1%2C4-beta-glucanase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 619 aa
+
+MSMYGRDPWGGPLEICHDSATDDDRSRNLDLDRGALSRTLDETQQSWLLAGPGDQGRKKK
+KYVDIGCLVVSRKLFVWTLGVLLAAAVFAGVVAGIAKAIPRHHRPPPPPDDYTVALHKAL
+MFFNAQRSGKLPKHNNVPWRGNSCMKDGLSDPAVRRSLVGGYYDAGDAVKFNFPAAFSMT
+LLSWSVIEYSAKYEAVGELGHVRDIIKWGADYFLKTFNSTADSIDRVVAQVGSAATSPGS
+TQPNDHYCWMRPEDIDYPRPVVECHACSDLAAEMAAALAAASIVFKDNKAYSQKLVHGAT
+TLFQFARdRRGRYSAGGSDAAKFYNSTSYWDEFVWGSSWMYLATGNSSYLTLATHPKLAK
+HAGAFWGGPDYGVFSWDNKLTGAQVLLSRLRLFLSPGYPYEEMLRTFHNQTSIIMCSYLP
+IFKSFNRTKGGLIQLNHGKPQPLQYVVNAAFLASVFSDYLEAADTPGWYCGPHFYSIEVL
+RSFARTQIEYILGKNPLKMSYVVGFGNHYPKHVHHRGASIPKNGVHYGCKGGWKWRDTKK
+PNPNIIVGAMVAGPDRHDGFKDVRKNYNYTEATLAGNAGLVAALVALSGEGHGVDKNTMF
+SAVPPMFPSPPPPPAPWKP
+
+
+BOP CONSENSUS:
+Length: 622 aa
+
+MSMYGRDPWGGPLEICHDSATDDDRSRNLDLDRAALSRTLDETQQSWLLAGPGDQGRKKK
+RYVDLGCLLVSRKLFLWTVGVLLAAAALAGIAAGIAKAIPRHHaPPPPPDQFTVALRKAL
+MFFNAQKSGKLPKHNNVPWRGDSCLKDGRSDQtvRRDLSGGYYDGGdAVKFNFPAAFSMT
+LLSWSVIEYSAKYEAAGELGHVRDTIKWGADYLLKTFNSTADTIDRLVAQVGSAAtSPGS
+TQPNDHYCWMRPEDIDYPRPVTECHtCPDLAAEMAAALAAASIVFKDNRAYSHKLLHGAT
+TVWKFARkGGsRGtYSAgrSDAAKFYNSTsYWDEyVWGGSWMYLATGNSSYLQlATdPKL
+AKNAGAYSrpPNYGVFSWDNKLPGAQVLLSRLRLFLSPGYPYEEMLRTFHNQTSIIMCSY
+LPiFKSFNRTKGGLIQLNHGqPQPLQYVVNAAFLASLFSDYLEAADTPGWYCGPHFYSIE
+VLRSFARTQIEYILGKNPLKMSYVVGYGKHYPKRVHHRGASIPKKKGVHyGCKGGWtWRD
+TKKPNPHIIVGAMVAGPDRHDGFKDVRKNRNYTEATLAGNAGLVAALVALSGEGHGVDKN
+TMFSAVPPMFPSPPPPPAPWKP
+
+
+PACMAD CONSENSUS:
+Length: 619 aa
+
+MSMYGRDPWGGPLEICHDSATDDDRSRNLDIDRGALSRTLDETQQSWLLAGPGDQGRKKK
+KYVDIGCLVVSRKLFVWTLGVLLAAAVFAGVVAGIAKAIPRRHRPPPPPDDYTVALHKAL
+MFFNAQRSGKLPKHNNVPWRGNSCMKDGLSDPAVRRSLVGGYYDAGDAVKFNFPAAFSMT
+LLSWSVIEYSAKYEAVGELGHVRDIIKWGADYFLKTFNSTADSIDRVVAQVGSAATSPGS
+TQPNDHYCWMRPEDIDYPRPVVECHACSDLAAEMAAALAAASIVFKDNKAYSQKLVHGAT
+TLFQFARDRRGRYSAGGSDAAKFYNSTSYWDEFVWGSSWMYLATGNSSYLTLATHPKLAK
+HAGAFWGGPDYGVFSWDNKLTGAQVLLSRLRLFLSPGYPYEEMLRTFHNQTSIIMCSYLP
+IFKSFNRTKGGLIQLNHGKPQPLQYVVNAAFLASVFSDYLEAADTPGWYCGPHFYSIEVL
+RSFARTQIEYILGKNPLKMSYVVGFGNHYPKHVHHRGASIPKNGVHYGCKGGWKWRDTKK
+PNPNIIVGAMVAGPDRHDGFKDVRKNYNYTEATLAGNAGLVAALVALSGEGHGVDKNTMF
+SAVPPMFPSPPPPPAPWKP
+
+================================================================================

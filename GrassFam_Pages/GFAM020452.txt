@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM020452
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             397.0 aa
+Family Size (Extended Family Size): 22 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45693:SF36
+Panther Family ID:               PTHR45693
+Modal Panther ID:                PTHR45693:SF36
+Modal Panther Description:       TRANSCRIPTION FACTOR TGA4
+Modal Panther Family ID:         PTHR45693
+Modal Panther Fam Desc:          TRANSCRIPTION FACTOR TGA9
+Interpro Signature Accession:    G3DSA:1.20.5.170:FF:000019; PTHR45693; PF14144
+Interpro Signature Description:  BZIP family transcription factor; TRANSCRIPTION FACTOR TGA9; Seed dormancy control
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: transcription factor TGAL6
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: transcription factor TGAL6-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: transcription factor TGAL6%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: transcription factor TGAL6-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: transcription factor TGAL6%2C transcript variant X3
+  Gene Descriptions: transcription factor TGAL6
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: transcription factor TGAL6-like%2C transcript variant X1
+  Gene Synonyms: OsbZIP37,OsJ_16330,TGAL6
+  Gene Descriptions: transcription factor TGAL6-like
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: transcription factor TGAL6-like%2C transcript variant X2
+  Gene Descriptions: transcription factor TGAL6-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: transcription factor TGAL6-like%2C transcript variant X4; transcription factor TGAL6-like%2C transcript variant X5
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: transcription factor TGAL6-like%2C transcript variant X3
+Msi
+  Gene count: 3
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: transcription factor TGAL6-like%2C transcript variant X2
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: uncharacterized LOC100192007%2C transcript variant X1; uncharacterized LOC100502433%2C transcript variant X4
+  Gene Synonyms: GRMZM2G131961; bZIP113,GRMZM2G445575
+  Gene Descriptions: uncharacterized LOC100192007; uncharacterized LOC100502433
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 405 aa
+
+MELYPGYLEDHFNIHKLSGGGASPPEYMTSASAAQFAAAPLRMGvYERPpPqppAPVmGM
+WSSEPFKVDSGGQATSGSTIMEADTKFDtRLEDVPQVALEPARStDQETSKPPEKVLRRL
+AQNREAARKSRLRKKAYIQQLETSRmKLAQLEQELQRARQQGvYANGNlGDSnLGFtGsM
+DPGVAAFEIdYSHWVDEQnRHTAELRSALQGQQTSELELRmLVETGLsNYEHLFRIKaaA
+ANADVFyVMSGMWKTPAERFFLWIGGFRPSEVLKILSPQLEPLTEpQrmAVGGLQhTSTQ
+AEDALSQGMEKLQQTLAEtLTAeADPFGpPDAYMLQMAtAVEKLKeLVGFVtQADHLRqT
+TLQqMHKILTTRQAARGLLALGDYFQRLRALSsLWAARPRESAIS
+
+
+BOP CONSENSUS:
+Length: 419 aa
+
+MELYPGYLEDHFNIHKLSGTGGASPPEYMTSASTQYAPAPLRMGMYERPPPQQQQQQPQL
+QPALGMWSSEPYKVDSGGQATSGSTIMEPDAKFDHAGLEEDPQMDELETAGDADQEASKP
+pEKVLRRLAQNREAARKSRLRKKAYIQQLETSRIKLAQLEQELQRTRQQQGVYGGSNPGT
+SLQRGGSAGFGFAAAGQMMDPGVAAFEIkYGHWVDEQKRHTEELRnALQPGQaTSELELe
+vMVETGLANYDnLFRIKGAAAQADVFCVMSGLWRSPAERFFLWIGGFRPSEVLKILSPQL
+EPMTDpQSVAVYaLQQTSAQAEDALSQGMQKLQQTLAESLTDPFAAPDAYMvGAVEKLKG
+LVGFVQQADHLRQETLQNMHRILTTRQAARGLLVLGDYFQRLRALSTLWAARPRESAIS
+
+
+PACMAD CONSENSUS:
+Length: 373 aa
+
+MTSASPAQFAAAPlRMGVYERPAPAPVMGMWSSEPFKVDSGqATSASTVMEADTKFDTRL
+EDVPQVALEPARSTDQETSRPPERVLRRLAQNREAARKSRLRKKAYIQQLETSRMKLAQL
+EQELQRARQQGAYANGNMGDSaLGFTGSIDPGVAAFEIDYSHWVDEQNRHTAELRSALQG
+QTSELELRlLVETGLSNYEHLFRIKAlAANaDVFYVMSGMWKTPAERFFLWIGGFRPSEV
+LKILSPQLEPLTEpQRMAVGGLQHTSTQAEDALSQGMEKLQQNLAETLTAEADPFGPPDA
+YMLQMATAVEKLKELVGFVTQADHLRqTTLQQMHKILTTRQAARGLLALGDYFQRLRALS
+sLWAARPREAAIS
+
+================================================================================

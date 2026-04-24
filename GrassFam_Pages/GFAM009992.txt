@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM009992
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             348.0 aa
+Family Size (Extended Family Size): 37 (39) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10209:SF870
+Panther Family ID:               PTHR10209
+Modal Panther ID:                PTHR10209:SF870
+Modal Panther Description:       FE2OG DIOXYGENASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR10209
+Modal Panther Fam Desc:          OXIDOREDUCTASE, 2OG-FE II  OXYGENASE FAMILY PROTEIN
+Interpro Signature Accession:    G3DSA:2.60.120.330:FF:000012; G3DSA:2.60.120.330; PTHR47990; PF14226; PF03171; SSF51197
+Interpro Signature Description:  Gibberellin 20 oxidase 1; -; 2-OXOGLUTARATE (2OG) AND FE(II)-DEPENDENT OXYGENASE SUPERFAMILY PROTEIN-RELATED; non-haem dioxygenase in morphine synthesis N-terminal; 2OG-Fe(II) oxygenase superfamily; Clavaminate synthase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: probable 2-oxoglutarate-dependent dioxygenase At5g05600
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: jasmonate-induced oxygenase 2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: jasmonate-induced oxygenase 2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: jasmonate-induced oxygenase 2-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: jasmonate-induced oxygenase 2
+  Gene Descriptions: jasmonate-induced oxygenase 2
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: jasmonate-induced oxygenase 2
+  Gene Descriptions: jasmonate-induced oxygenase 2
+Ecu
+  Gene count: 8
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau03
+  Gene Products: jasmonate-induced oxygenase 2
+  Gene Descriptions: jasmonate-induced oxygenase 2
+Svi
+  Gene count: 2
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi09N
+  Gene Products: flavanone 3-dioxygenase 2-like; probable 2-oxoglutarate-dependent dioxygenase At5g05600; probable 2-oxoglutarate-dependent dioxygenase At5g05600%2C transcript variant X1
+Pha
+  Gene count: 2
+  Modal chromosome: Pha09
+  Gene Products: probable 2-oxoglutarate-dependent dioxygenase At5g05600
+Msi
+  Gene count: 3
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi01
+  Gene Products: probable 2-oxoglutarate-dependent dioxygenase At5g05600; probable 2-oxoglutarate-dependent dioxygenase At5g05600%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100283169%2C transcript variant X1; uncharacterized LOC103643735
+  Gene Synonyms: GRMZM2G060940,umc2388
+  Gene Descriptions: uncharacterized LOC100283169
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 349 aa
+
+MGGLSMDQAFVQAPEHRPKPTVtEAtGIPVIDLSPLAAGDAAGVDALAAEVGAASRDWGF
+FVVVGHGVPAETVARAtEAQRAFFALPAERKAAVRRSEAaPLGYYESEHTKNVRDWKEVF
+DLVPREPPPPAAVADGELVFeNKWPqDLPGFREALEEYakAMEELAFKLLELIARSLnLR
+PDRLHGFFKDQTTFIRLNHYPPCPSPDLALGVGRHKDAGALTILYQDDVGGLDVRRRSDG
+EWVRVrPVPdSFIINVGDIIQVWSNDRYESAEHRVSVNSaKERFSMPYFFNPASyTMVEP
+LEELVSEEnPPRYdAYNWGdFFSTRKNSNFKKLDVENvQIAHFRKsLaA
+
+
+BOP CONSENSUS:
+Length: 349 aa
+
+MGGLSMDQAFVQAPEHRPKAvLAEAAGIPVIDLSPLAAGDeAGVDALAAEVGRASRDWGF
+FVVVRHGVPAETVARALEAQRAFFALPAERKAAVRRDEAAPLGYYESEHTKNVRDWKEVF
+DLVPREPPPPAAVADGELVFENKWPEDLPGFREALEEYaeAMEELAFKLLELIARSLGLR
+PDRLHGFFKDDQTTFIRLNHYPPCPSPDLALGVGRHKDAGALTVLYQDDVGGLDVRRRSD
+GEWVRVRPVPDSFVINVGDIIQVWSNDRYESAEHRVSVNSeKERFSMPYFFNPGSdAMVE
+PLEEmVSDEsPARYdAYNWGnFFSTRKNSNFKKLDVENVQIAHFRKDlp
+
+
+PACMAD CONSENSUS:
+Length: 349 aa
+
+MGGLSMDQAFVQAPEHRPKPTVTEATGIPvIDLSPLaAGDAAAVDALAAEVGAASRDWGF
+FVVVGHGVPAETVARATEAQRAFFALPAERKAAVRRSEAEPLGYYESEHTKNVRDWKEVF
+DLVPREPPPPAAVADGELVFeNKWPQDLPGFREALEEYakAMEELAFKLLELIARSLNLR
+PDRLHGFFKDQTTFIRLNHYPPCPSPDLALGVGRHKDAGALTILYQDDVGGLDVRRRSDG
+EWVRVKPVPNSFIINVGDlIQVWSNDRYESAEHRVSVNSAKERFSMPYFFNPASYTMVEP
+LEELVSEEnPPRYdAYNWGDFFSTRKNSNFKKLDVENiQIAHFRKSLvA
+
+================================================================================

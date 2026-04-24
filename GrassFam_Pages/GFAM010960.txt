@@ -1,0 +1,145 @@
+================================================================================
+GrassFam ID: GFAM010960
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             634.0 aa
+Family Size (Extended Family Size): 29 (34) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24423:SF619
+Panther Family ID:               PTHR24423
+Modal Panther ID:                PTHR24423:SF619
+Modal Panther Description:       HISTIDINE KINASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR24423
+Modal Panther Fam Desc:          TWO-COMPONENT SENSOR HISTIDINE KINASE
+Interpro Signature Accession:    cd16922; G3DSA:3.30.565.10:FF:000030; G3DSA:1.10.287.130:FF:000004; G3DSA:3.30.450.40:FF:000026; G3DSA:1.10.287.130; G3DSA:3.30.565.10; PTHR24423; PF25487; SM00387; SSF55874
+Interpro Signature Description:  HATPase_EvgS-ArcB-TorS-like; Ethylene receptor 1; Ethylene response sensor; -; TWO-COMPONENT SENSOR HISTIDINE KINASE; Ethylene receptor 1-like, N-terminal domain; HKATPase_4; ATPase domain of HSP90 chaperone/DNA topoisomerase II/histidine kinase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: probable ethylene response sensor 1
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu04H
+  Gene Products: probable ethylene response sensor 1; probable ethylene response sensor 1%2C transcript variant X1
+Ata
+  Gene count: 2
+  Modal chromosome: Ata04D
+  Gene Products: probable ethylene response sensor 1; probable ethylene response sensor 1%2C transcript variant X2
+Tae
+  Gene count: 5
+  Modal chromosome: Tae04A
+  Gene Products: probable ethylene response sensor 1; probable ethylene response sensor 1%2C transcript variant X1; probable ethylene response sensor 1%2C transcript variant X2
+Ola
+  Gene count: 2
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: probable ethylene response sensor 1
+  Gene Descriptions: probable ethylene response sensor 1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: probable ethylene response sensor 1
+  Gene Synonyms: ERS1,OsERS1,OsJ_12251
+  Gene Descriptions: probable ethylene response sensor 1
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: probable ethylene response sensor 1
+  Gene Descriptions: probable ethylene response sensor 1
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: probable ethylene response sensor 1%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: probable ethylene response sensor 1%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: probable ethylene response sensor 1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: ethylene receptor%2C transcript variant X1; ethylene receptor1-25%2C transcript variant X1
+  Gene Synonyms: ERS14,ers25,GRMZM2G102601; GRMZM2G073668
+  Gene Descriptions: ethylene receptor; ethylene receptor1-25
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 634 aa
+
+MEGCDCIEPLWPTDELLIKYQYISDFFIALAYFSIPLELIYFVKKSSFFPYRWVLIQFGA
+FIVLCGATHLINLWTFTTHTKTVAMVMTVAKVSTAVVSCATALMLVHIIPDLLSVKTREL
+FLKNKAEELDREMGLIRTQEETGRHVRMLTHEIRSTLDRHTILKTTLVELGRTLGLEECA
+LWMPSRSGSSLQLSHTLRHQITVGSSVpINLPVVNQVFSSNRAIIIPHTSPLARIRPLAG
+RYVPPEVAAVRVPLLHLSNFQINDWPELSAKSYAIMVLMLPSDSARKWHVHELELVEVVA
+DQVAVALSHAAILEESMRARDLLMEQNVALDLARREAEMAIRARNDFLAVMNHEMRTPMN
+AIIALSSLLLETELTPEQRLMVETVLKSSNLLATLINDVLDLSKLEDGSLELEIkAFNLH
+AVFKEVMSFIKPIAAIKRLSVSVMLAPDLPLCAIGDEKRLMQTILNISGNAVKFTKEGHI
+TLVASVVKaDSLREFRTPDFHPaASDDHFYLKVQVKDTGCGISPQDLPHVFTKFAHTQSG
+GNRGYNGSGLGLAICKRFVSLMGGHIWLDSEGTGRGCTATFVIKLGVCDNTNTYQQQLIP
+LVWPSSADSDsSGPKALpEErGssSLKSRYQRSV
+
+
+BOP CONSENSUS:
+Length: 634 aa
+
+MEGCDCIEPLWPTDELLIKYQYISDFFIALAYFSIPLELIYFVKKSSFFPYRWVLIQFGA
+FIVLCGATHLINLWTFTTHTKTVAMVMTVAKVSTAVVSCATALMLVHIIPDLLSVKTREL
+FLKNKAEELDREMGLIRTQEETGRHVRMLTHEIRSTLDRHTILKTTLVELGRTLGLEECA
+LWMPSRSGSSLQLSHTLRHQITVGSSVsINLPVVNQVFSSNRAIIIPHTSPLARIRPLAG
+RYVPPEVAAVRVPLLHLSNFQINDWPELSAKSYAIMVLMLPSDSARKWHVHELELVEVVA
+DQVAVALSHAAILEESMRARDLLMEQNVALDLARREAEMAIRARNDFLAVMNHEMRTPMN
+AIIALSSLLLETELTPEQRLMVETVLKSSNLLATLINDVLDLSKLEDGSLELEIRAFNLH
+AVFKEVMSFIKPIAAIKrLSVSVMLAPDLPLCAIGDEKRLMQTILNISGNAVKFTKEGHI
+TLLASVVKPDSLREFRTpDFHPAASDDHFYLKVQvKDTGCGISPQDLPHVFTKFAQTQPG
+GNQGYNGSGLGLAICKRFVTLMGGHIWLDSEGAGRGCTATFVIkLGVCDNTNAYQQqLvP
+LVWPSSAnsDSsGPkALhEERGpSSLKPRYQRSV
+
+
+PACMAD CONSENSUS:
+Length: 634 aa
+
+MDGCDCIEPLWPTDDLLVKYQYISDFFIALAYFSIPLELIYFVKKSSFFPYRWVLIQFGA
+FIVLCGATHLINLWTFTTHTKTVAMVMTIAKVSTAVVSCATALMLVHIIPDLLSVKTREL
+FLKNKAEELDREMGLIRTQEETGRHVRMLTHEIRSTLDRHTILKTTLVELGRTLGLEECA
+LWMPSRSGSSLQLSHTLRHQITVGSSVPINLPVVNQVFSSNRAIIIPHTSPLARIRPLAG
+RYVPPEVAAVRVPLLHLSNFQINDWPELSAKSFAIMVLMLPSDSARKWHVHELELVEVVA
+DQVAVALSHAAILEESMRARDLLMEQNVALDLARREAEMAIRARNDFLAVMNHEMRTPMN
+AIIALSSLLLETELTPEQRLMVETVLKSSNLLATLINDVLDLSKLEDGSLELEIKAFNLH
+AVFKEVMSFIKPIASIKRLSVSVMLAPDLPLCAIGDEKRLMQTILNISGNAVKFTKEGHI
+TLVASIVKADSLREFRTPEFHPTASDDHFYLKVQVKDTGCGISPQDLPHVFTKFAHPQSG
+GNRGFNGSGLGLAICKRFVSLMGGHIWLDSEGTGRGCTATFVIKLGVCDNTNTYQQQLIP
+LVWPSSADSDLSGPKaLPDGKGStSLKSRYQRSV
+
+================================================================================

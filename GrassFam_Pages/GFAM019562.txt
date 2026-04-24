@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM019562
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             512.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11778:SF17
+Panther Family ID:               PTHR11778
+Modal Panther ID:                PTHR11778:SF17
+Modal Panther Description:       SERINE--TRNA LIGASE
+Modal Panther Family ID:         PTHR11778
+Modal Panther Fam Desc:          SERYL-TRNA SYNTHETASE
+Interpro Signature Accession:    cd00770; G3DSA:3.30.930.10:FF:000055; G3DSA:1.10.287.40:FF:000006; G3DSA:3.30.930.10; TIGR00414; PTHR11778; PIRSF001529; PR00981; PF00587; SSF55681
+Interpro Signature Description:  SerRS_core; Serine--tRNA ligase; Seryl-tRNA synthetase; Bira Bifunctional Protein; Domain 2; serine--tRNA ligase; SERYL-TRNA SYNTHETASE; Ser-tRNA_ligase; Seryl-tRNA synthetase signature; tRNA synthetase class II core domain (G, H, P, S and T); Class II aaRS and biotin synthetases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: serine--tRNA ligase%2C chloroplastic/mitochondrial%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: serine--tRNA ligase%2C chloroplastic/mitochondrial%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: serine--tRNA ligase%2C chloroplastic/mitochondrial
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: serine--tRNA ligase%2C chloroplastic/mitochondrial-like; serine--tRNA ligase%2C chloroplastic/mitochondrial-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola11
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: serine--tRNA ligase%2C chloroplastic/mitochondrial
+  Gene Descriptions: serine--tRNA ligase%2C chloroplastic/mitochondrial
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: serine--tRNA ligase%2C chloroplastic/mitochondrial%2C transcript variant X2
+  Gene Descriptions: serine--tRNA ligase%2C chloroplastic/mitochondrial
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau19
+  Gene Products: serine--tRNA ligase%2C chloroplastic/mitochondrial%2C transcript variant X1
+  Gene Descriptions: serine--tRNA ligase%2C chloroplastic/mitochondrial
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi08K
+  Gene Products: serine--tRNA ligase%2C chloroplastic/mitochondrial-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: serine--tRNA ligase%2C chloroplastic/mitochondrial%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: serine--tRNA ligase%2C chloroplastic/mitochondrial%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: seryl-tRNA synthetase%2C transcript variant X3
+  Gene Synonyms: GRMZM2G169160,siy13053
+  Gene Descriptions: seryl-tRNA synthetase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 513 aa
+
+MLTCGRFLSSSAATTTASFSPLRTLTRSLLRRPPPRLLSSSSAAATTAVEPDTKGGGGAG
+GGGGGAvRPQWKAAIDFKWIRDNRDAVAtNIRSRNSAANLDLVLQLYDQYLALQKEVERL
+RAERNAVANKMKGKLDPSVRQALVEEGKNLKEsLIALEEDLVQLTDKLQLEAQSIPNTTH
+PDVPVGGEESSVVRKEVGSQRSFNFTIKDHLQLGKELDLFDFDAAAEVSGSKFYYLKNEA
+VLLEMALVNWAIsEVSKKGFTPLITPEIVRSSVVEKCGFQPRAQNTQVYSIDNSDQCLIG
+TAEIPVGGIHMDSILlDSDLPLKYVAYSHCFRTEAGAAGAATRGLYRVHQFSKVEMFIFC
+RPEESDKyHEELITIEEDLYASLGLHFKTLDMATGDLGAPAYRKFDIEAWMPGLDRYGEI
+SSASNCTDYQSRRLGIRYRPAPSEPPPTNAKKGKGASSGPTQFVHTLNATAVAVPRLIVC
+ILENFQQEDGSVVIPEPLRPFMGGLEVLSPKtK
+
+
+BOP CONSENSUS:
+Length: 511 aa
+
+MLTCGRYLSSAAATTPSFSPLRTLTFSLLRYHPIRFLSFSSAAATTAVEPETISGGGGAG
+GGATRPQWKAAIDFKWIRDNRDVVATNIRNRNSAANLDVVLQLYDQYLALQKEVERLRAE
+RNAVANKMKGKLDPSLRQALVDEGKNLKESLIALEEDLVQLTDKLQLEAQSIPNTTHPDV
+PVGDEESSVTRKEVGSQRSFSFTIKDHLQLGKDLDLFDFDAASEVSGSKFYYLKNEAVLL
+EMALVNWGIAEVSKKGFTPLITPEIVRSSVVERCGFQPRAQNTQVYSIDNSDQCLIGTAE
+IPVGGIHMNSILpDSDLPLKYVAYSHCFRTEAGAAGAATRGLYRVHQFSKVEMFIFCRPE
+ESDKYHEELITIEENLYASLGLHFKTLDMATGDLGAPAYRKYDIEAWMPGLDRYGEISSA
+SNCTDYQSRRLGIRFRPAPLEPPPSTNSKKGKGGSSGPTQFVHTLNATAVAVPRLIISIL
+ENFQQEDGTVVIPEPLRPFMGGLGVLTPKTK
+
+
+PACMAD CONSENSUS:
+Length: 512 aa
+
+MLTCGRFLSSSAATTTASFSPLRTLTRSLLRRPHPRLLSSASAAATTAVEPDTKGGGGAG
+GGGGGAVRPQWKAAIDFKWIRDNRDAVADNIRSRNSAANLDLVLELYDQYLALQKEVERL
+RAERNAVANKMKGKLDPSVRQALVEEGKNLKEaLIGLEEDLVELTDKLQLEAQSIPNATH
+PDVPVGGEESSVVRKEVGSQRSFNFTIKDHLQLGKELDLFDFDAAAEVSGSKFYYLKNEA
+VLLEMALVNWAISEVSKKGFTPLITPEIVRSSVVEKCGFQPRAQNTQVYSIENSDQCLIG
+TAEIPVGGIHMDSILLESALPLKYVAYSHCFRTEAGAAGAATRGLYRVHQFSKVEMFIFC
+RPEESDKWHEELITIEEDLYASLGLHFKTLDMATGDLGAPAYRKFDIEAWMPGLERYGEI
+SSASNCTDYQSRRLGIRYRPTPSEPPPTNAKKGKAAGGPTQFVHTLNATAVAVPRLIVCI
+LENFQQDDGSIVIPEPLRPFMGGLEVLSPKSK
+
+================================================================================

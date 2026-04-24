@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM007231
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             463.0 aa
+Family Size (Extended Family Size): 67 (83) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31642:SF320
+Panther Family ID:               PTHR31642
+Modal Panther ID:                PTHR31642:SF320
+Modal Panther Description:       BENZYL ALCOHOL O-BENZOYLTRANSFERASE
+Modal Panther Family ID:         PTHR31642
+Modal Panther Fam Desc:          TRICHOTHECENE 3-O-ACETYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:3.30.559.10; PTHR31147; PF02458
+Interpro Signature Description:  -; ACYL TRANSFERASE 4; Transferase family
+
+
+REXdb Match:                     False
+REXdb Percentage:                2.99%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: benzyl alcohol O-benzoyltransferase
+Lpe
+  Gene count: 6
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu01H
+  Gene Products: benzyl alcohol O-benzoyltransferase-like
+Ata
+  Gene count: 5
+  Modal chromosome: Ata01D
+  Gene Products: benzyl alcohol O-benzoyltransferase; benzyl alcohol O-benzoyltransferase-like
+Tae
+  Gene count: 13
+  Modal chromosome: Tae04A
+  Gene Products: benzyl alcohol O-benzoyltransferase-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: benzyl alcohol O-benzoyltransferase-like
+  Gene Descriptions: benzyl alcohol O-benzoyltransferase-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: benzyl alcohol O-benzoyltransferase
+  Gene Descriptions: benzyl alcohol O-benzoyltransferase
+Ecu
+  Gene count: 7
+  Modal chromosome: EcuUN50
+Pau
+  Gene count: 2
+  Modal chromosome: Pau21
+  Gene Products: benzyl alcohol O-benzoyltransferase-like
+  Gene Descriptions: benzyl alcohol O-benzoyltransferase-like
+Svi
+  Gene count: 3
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 13
+  Modal chromosome: Pvi08K
+  Gene Products: benzyl alcohol O-benzoyltransferase-like; benzyl alcohol O-benzoyltransferase-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: benzyl alcohol O-benzoyltransferase-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi01
+  Gene Products: benzyl alcohol O-benzoyltransferase
+Zma
+  Gene count: 4
+  Modal chromosome: Zma04
+  Gene Products: 10-deacetylbaccatin III 10-O-acetyltransferase; benzyl alcohol O-benzoyltransferase
+  Gene Synonyms: GRMZM2G005046; GRMZM2G129266
+  Gene Descriptions: 10-deacetylbaccatin III 10-O-acetyltransferase; benzyl alcohol O-benzoyltransferase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 464 aa
+
+MAGmAASLKFTVRRKPAELVAPAGPTPRELKRLSDIDDQDGLRFHIPVIQFYRRsAsMGG
+RDPAPVIRDAVARALVHYYPFAGRLRELEGRKLAVDCTGEGVLFIEADADVRLEHFGDAL
+QPPFPCLEELIFDVPGSSEVLGtPLLLFQVTRLACGGFILAVRLHHTMADAQGLVQFLGA
+VAELARGAAAPSVRPVWGRELLEARdPPRPGFAHREYDEVPDTKGTIIPLDDMAHRSFFF
+GAREVAAIRSHLpPGLRkRATTFEVLTGlLWKCRTVALAPDADEVMRMICIVNARGGKSG
+GAsAIPeGYYGNAFAFPVAVATAGDLCArPLGYAVELVKeAKGEVDVEYMRSVADLMVQR
+GRPHFTVVRAYLASDVTKAGFGDLDFGWGRPVYGGPAKGGVGAIPGVASFLIPFKNAKGE
+DGIVVPMCLPGPAMDKFVEEMGKLLrPAADVQQpDmFaMIKSAL
+
+
+BOP CONSENSUS:
+Length: 463 aa
+
+MAGsAASLRFTVRRKAAELVTPAGPTPRELKRLSDIDDQDGLRFHIPVIQFYRRDASMGG
+RDPAAVVRDAVARALVHYYPFAGRLRELEGRKLAVDCTGEGVLFIEADADVRLEHFGDAL
+QPPFPGLEELVFDVPGSSEVLGTPLLLFQVTRLACGGFILAVRLMHTMADAQGLVQFLAA
+VAELARGAAAPSVRPVWERELLEARNPPRPGFAHREYDEVPDTKGTIVPLDDMAHRSFFF
+GAREVAAIRSHLAPGLRKRATTFEVLTGSLWKCRTVALAPDADEVMRMICIVNARGGKQG
+GASAIPaGYYGNAFAFPVAVSASGDLCAnPLSYAVKLVKEAKSEVDVEYMRSVADLMVQR
+GRPHFTVVRAYLASDVTKAGFGDLDFGWGRPVYGGPAKGGVGAIPGVASFLIPFKNAKGE
+DGIVIPMCLPGPAMDKFVEEMGKLLRPAVDVPDMFPAMIKSAL
+
+
+PACMAD CONSENSUS:
+Length: 460 aa
+
+MAASLKFTVRRRPAVLVAPASPTPRELKRLSDIDDQDGLRFHIPVIQFYRRSALMGGRDP
+APVIRDAVARALVHYYPFAGRLRELEGRKLAVECTGEGVLFIEADADVRLDHFGDALQPP
+FPCLDELIFDVPGSSEVLGSPLLLFQVTRLACGGFILGVRLHHTMADAQGLVQFLGAVAE
+LARGAAAPTVRPVWGRELLEARDPPRPAFAHREYDEVPDTKGTIIPLDDMVHRSFFFGRR
+EVAAIRAHLPPhLRSRASTFDLLTGLLWKCRTAALAPDADEVMRMICIVNARGGKSGaAI
+PEGYYGNAFAFPVAVATAGDLAArPLGYAVELVKRAKGEVDVEYMRSVADLMVLRGRPHF
+TVVRAYLASDVTKAGFGDLDFGWGKPVYGGPAKGGVGAIPGVASFLIPFKNAKGEDGIVV
+PMCLPGPAMETFVrEMGKLLSPPAeqQQQQDAFPVIRSAL
+
+================================================================================

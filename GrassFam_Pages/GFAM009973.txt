@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM009973
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             387.0 aa
+Family Size (Extended Family Size): 57 (60) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR32100
+Modal Panther ID:                PTHR32100:SF48
+Modal Panther Description:       FATTY ACID DESATURASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR32100
+Modal Panther Fam Desc:          OMEGA-6 FATTY ACID DESATURASE, CHLOROPLASTIC
+Interpro Signature Accession:    cd03507; PTHR32100; PF00487
+Interpro Signature Description:  Delta12-FADS-like; OMEGA-6 FATTY ACID DESATURASE, CHLOROPLASTIC; Fatty acid desaturase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi02
+  Gene Products: fatty acid desaturase DES2%2C transcript variant X1; fatty acid desaturase DES2%2C transcript variant X3
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu06H
+  Gene Products: fatty acid desaturase DES2%2C transcript variant X2; fatty acid desaturase DES2-like
+Ata
+  Gene count: 4
+  Modal chromosome: Ata06D
+  Gene Products: fatty acid desaturase DES2%2C transcript variant X1; fatty acid desaturase DES2-like
+Tae
+  Gene count: 10
+  Modal chromosome: Tae06D
+  Gene Products: fatty acid desaturase DES2-like; fatty acid desaturase DES2-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 3
+  Modal chromosome: Ogl07
+  Gene Products: fatty acid desaturase DES2-like; fatty acid desaturase DES2-like%2C transcript variant X2
+  Gene Descriptions: fatty acid desaturase DES2-like
+Osa
+  Gene count: 3
+  Modal chromosome: Osa07
+  Gene Products: fatty acid desaturase DES2; fatty acid desaturase DES2%2C transcript variant X2
+  Gene Descriptions: fatty acid desaturase DES2
+Ecu
+  Gene count: 3
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: fatty acid desaturase DES2%2C transcript variant X2; fatty acid desaturase DES2-like%2C transcript variant X2
+  Gene Descriptions: fatty acid desaturase DES2; fatty acid desaturase DES2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi01K
+  Gene Products: fatty acid desaturase DES2; fatty acid desaturase DES2-like
+Pha
+  Gene count: 3
+  Modal chromosome: Pha01
+  Gene Products: fatty acid desaturase DES2; fatty acid desaturase DES2-like
+Msi
+  Gene count: 5
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi04
+  Gene Products: fatty acid desaturase DES2; fatty acid desaturase DES2%2C transcript variant X1; fatty acid desaturase DES2-like
+Zma
+  Gene count: 7
+  Modal chromosome: Zma05
+  Gene Products: Delta(12)-fatty-acid desaturase; delta-12 fatty acid desaturaseFAD2%2C transcript variant X1; fatty acid desaturase DES2; fatty acid desaturase DES2-like; omega-6 fatty acid desaturase%2C endoplasmic reticulum isozyme 2
+  Gene Synonyms: FAD2,GRMZM2G056252; GRMZM2G161792; GRMZM2G169261; fad2,GRMZM2G064701
+  Gene Descriptions: Delta(12)-fatty-acid desaturase; delta-12 fatty acid desaturaseFAD2; omega-6 fatty acid desaturase%2C endoplasmic reticulum isozyme 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 387 aa
+
+MGAGGRMTEKEREKQElLGRAGGGAAMQRSPVDKPPFTLGQIKKAIPPHCFERSVIKSFS
+YVVHDLVIVAALLYFALVIIPALPSPLHyAAWPLYWIAQGCVCTGVWVIAHECGHHAFSD
+YsLLDDIVGLVLHSSLMVPYFSWKYSHRRHHSNTGSLERDEVFVPKKKEALPWYTPYVYN
+NPVGRLVHIVVQLTLGWPLYLATNASGRPYPRFACHFDPYGPIYNDRERAQIFISDAGVv
+AVSFGLYKLAAAFGFWWVVRVYAVPLLIVNAWLVLITYLQHTHPALPHYDSSEWDWLRGA
+LATMDRDYGILNRVFHNITDTHVAHHLFSTMPHYHAMEATKAIKPILGEYYQFDPTPVAK
+ATWREARECIYVEPEDRKGVFWYNNKF
+
+
+BOP CONSENSUS:
+Length: 388 aa
+
+MGAGGRMTEKEREEQQKLLGRAGNGAAVQRSPTDKPPFTLGQIKKAIPPHCFQRSVIKSF
+SYVVHDLVIVAALLYFALVMIPVLPSGMEFAAWPLYWIAQGCVLTGVWVIAHECGHHAFS
+DYSVLDDIVGLVLHSSLLVPYFSWKYSHRRHHSNTGSLERDEVFVPKQKSAMAWYTPYVY
+HNPIGRLVHIFVQLTLGWPLYLAFNVSGRPYPRFACHFDPYGPIYNDRERVQIFISDVGV
+VSAGLALFKLSSAFGFWWVVRVYGVPLLIVNAWLVLITYLQHTHPALPHYDSSEWDWLRG
+ALATVDRDYGILNKVFHNITDTHVAHHLFSTMPHYHAMEATKAIRPILGEYYQFDPTPVA
+KATWREAKECIYVEPEDNKGVFWYNNKF
+
+
+PACMAD CONSENSUS:
+Length: 387 aa
+
+MGAGGRMTEKEREKQEQLGRAGGGAAMQRSPVEKPPFTLGQIKKAIPPHCFERSVLKSFS
+YVVHDLVIAAALLYFALAIIPALPSPLHYAAWPLYWIAQGCVCTGVWVIAHECGHHAFSD
+YqLLDDIVGLVLHSSLMVPYFSWKYSHRRHHSNTGSLERDEVFVPKKKEALPWYTPYVYN
+NPVGRLVHIVVQLTLGWPLYLATNASGRPYPRFACHYDPYGPIYNDRERAQIFISDAGVm
+AVSFGLYKLAAAFGFWWVVRVYAVPLLIVNAWLVLITYLQHTHPALPHYDSSEWDWLRGA
+LATMDRDYGILNRVFHNITDTHVAHHLFSTMPHYHAMEATKAIKPILGEYYQFDPTPVAK
+ATWREARECIYVEPEDRKGVFWYNNKF
+
+================================================================================

@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM004997
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             436.0 aa
+Family Size (Extended Family Size): 18 (18) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12802:SF175
+Panther Family ID:               PTHR12802
+Modal Panther ID:                PTHR12802:SF175
+Modal Panther Description:       PROTEIN REVEILLE 2
+Modal Panther Family ID:         PTHR12802
+Modal Panther Fam Desc:          SWI/SNF COMPLEX-RELATED
+Interpro Signature Accession:    G3DSA:1.10.10.60:FF:000023; PTHR12802
+Interpro Signature Description:  protein REVEILLE 6 isoform X1; SWI/SNF COMPLEX-RELATED
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: protein REVEILLE 2%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: protein LHY-like%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: protein LHY%2C transcript variant X1
+Tae
+  Gene count: 2
+  Modal chromosome: Tae07B
+  Gene Products: protein LHY-like; protein REVEILLE 1%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: protein REVEILLE 1-like%2C transcript variant X2
+  Gene Descriptions: protein REVEILLE 1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: protein REVEILLE 1%2C transcript variant X2
+  Gene Descriptions: protein REVEILLE 1
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: protein CCA1-like; uncharacterized LOC133927444
+  Gene Descriptions: protein CCA1-like; uncharacterized LOC133927444
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: protein LATE ELONGATED HYPOCOTYL-like; protein REVEILLE 2-like%2C transcript variant X4
+Msi
+  Gene count: 1
+  Modal chromosome: Msi19
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: uncharacterized LOC110431210%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: uncharacterized LOC100280442
+  Gene Synonyms: GRMZM2G145041,MYBE1,si606002e05
+  Gene Descriptions: uncharacterized LOC100280442
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 436 aa
+
+MASMAQvEERDGLDSSgLPIDKRLsvDVvKSPLMDDAMQPKEGMDGyPVKVRKPYTITKQ
+REKWTEEEHEKFLEALKLYGRSWRQIQEHIGTKTAVQIRSHAQKFFSKVVREPGAsNAIE
+IPPPRPKRKPLHPYPRKCANSStgANPAmGQPKLAPiSSSSGSDQENGSPVSVLSAMQSD
+AFGSSVSNPSTgCTSPASSDDGNNVPplVNGEENlPTQQTeIDQSHKEikQDNKDgdlSE
+EDSSDEVQETSLKLFGKTVVIPDPRKRCSSDgGHEdGEQiSQSSnQETSQAsSVGEVAAY
+tAPNGWlLPYNSFPfHfGESADARIaPLHvWWPYYGFPigHPRGfstglHNEGTdESDtg
+KSPSVESSSDsmgNvQTTAPknwKVVESLGtIQvPESasSFELKPSaNSAFVRVKPsSSG
+DQPvRGFVPYKRCKVE
+
+
+BOP CONSENSUS:
+Length: 419 aa
+
+mPIstGLSVDMMDDAVAMQPNEEGMGEHPVKpRKPYTITKQREKWTEEEHEKFLEALKLY
+GRSWRQIQEHIGTKTAVQIRSHAQKFFSKVVREPGAKIEIEIPPPRPKRKPLHPYPRKRA
+NSCNGANpAnGQsKLAPmSSSSGSDQENGSPVSVLSAMQSDAFGSSMSNPSTRCTSPESS
+DDENNVPPMvSGEENVPCQQTGIDQSHKEiDQDNKDTGtSEEDSSDEVQETSLKLFGKTV
+VIPDPRKRCSPDSGHENGEQISQSSNKATSQAPlVGEVIpAYAAPSGWVLPYNSFPLHFG
+ESAEARIAPLHMWWPYYGFPIvHPRGPSvVaHNEATDESDAaKSPPVESSSDsvDNtQqT
+ASKqWKVLESLGTiQvPpSvSNFELKPStNSAFVRVKPiiSSGDEPVRGFvPYKRCRVE
+
+
+PACMAD CONSENSUS:
+Length: 436 aa
+
+MASMAQVEERDGLDSsgLpIDKRLpLDAVKSPLmDDAMQPKEGMDGYPVKVRKPYTITKQ
+REKWTEEEHEKFLEALKLYGRSWRQIQEHIGTKTAVQIRSHAQKFFSKVVREPGASNAIE
+IPPPRPKRKPLHPYPRKCADSSTvANPAMGQPKLAPISSSSGSDQENGSPVSVLSAMQSD
+AFGSSVSNPSTGCTSPASSDDGNNVPeLVNGEENLLTQQIEDDQSrQElKQDNSDGDLSE
+EDSSGVQETSLKLFGKTVIIPDPKKVCSSDGGcGDGEKsSQSStQEvLQASSVGGVAAYP
+AHNGWLLPYHSFPFHMGESGDARISPLHvWWPYYGFPVGHPRGFGTGLHNEGTcESDTgK
+SPSVESSSDCMGNVQTTTPTNCKVVKESLGAIQvPESALSFELKPSANSAFVRVKPSSSR
+DQSVRGFVPYKRCKVE
+
+================================================================================

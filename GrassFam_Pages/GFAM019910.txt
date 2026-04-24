@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM019910
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             402.0 aa
+Family Size (Extended Family Size): 25 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR19854:SF22
+Panther Family ID:               PTHR19854
+Modal Panther ID:                PTHR19854:SF22
+Modal Panther Description:       SUBFAMILY NOT NAMED
+Modal Panther Family ID:         PTHR19854
+Modal Panther Fam Desc:          TRANSDUCIN BETA-LIKE 3
+Interpro Signature Accession:    G3DSA:2.130.10.10; PTHR19854; SSF50978
+Interpro Signature Description:  -; TRANSDUCIN BETA-LIKE 3; WD40 repeat-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: protein DECREASED SIZE EXCLUSION LIMIT 1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu03H
+  Gene Products: protein DECREASED SIZE EXCLUSION LIMIT 1-like%2C transcript variant X1; protein DECREASED SIZE EXCLUSION LIMIT 1-like%2C transcript variant X2
+Ata
+  Gene count: 2
+  Modal chromosome: Ata03D
+  Gene Products: protein DECREASED SIZE EXCLUSION LIMIT 1; protein DECREASED SIZE EXCLUSION LIMIT 1%2C transcript variant X2
+Tae
+  Gene count: 6
+  Modal chromosome: Tae03A
+  Gene Products: protein DECREASED SIZE EXCLUSION LIMIT 1-like; protein DECREASED SIZE EXCLUSION LIMIT 1-like%2C transcript variant X1; protein DECREASED SIZE EXCLUSION LIMIT 1-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: protein DECREASED SIZE EXCLUSION LIMIT 1%2C transcript variant X1
+  Gene Descriptions: protein DECREASED SIZE EXCLUSION LIMIT 1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: protein DECREASED SIZE EXCLUSION LIMIT 1%2C transcript variant X1
+  Gene Descriptions: protein DECREASED SIZE EXCLUSION LIMIT 1
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau08
+  Gene Products: protein DECREASED SIZE EXCLUSION LIMIT 1%2C transcript variant X1
+  Gene Descriptions: protein DECREASED SIZE EXCLUSION LIMIT 1
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: protein DECREASED SIZE EXCLUSION LIMIT 1-like%2C transcript variant X1; protein DECREASED SIZE EXCLUSION LIMIT 1-like%2C transcript variant X3
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: protein DECREASED SIZE EXCLUSION LIMIT 1%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: protein DECREASED SIZE EXCLUSION LIMIT 1%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: uncharacterized LOC100281713%2C transcript variant X1
+  Gene Synonyms: GRMZM2G396562,pco061776
+  Gene Descriptions: uncharacterized LOC100281713
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 404 aa
+
+MMAdrERPRRRPSPDPVAVLRGHRAAVNDACFHPSLPLLFSGAADGELRVWDTASHRTVS
+SVWAHGGAAGVYSVAAGAGLGNKIISQGRDGLCKCWAIEEAGLSRRPIFTIKTSTYHFCK
+MSLVKsPCSaHgTQsGLScSnSDtEPQRVptEENTGSDGVNPAEGTQEYEQGsssdGQNI
+LAIAGQESSQVELWDItSSRKIMCLPQrCSANMTdHPTKQKGLCMAVQAFIPCESGGYVN
+ILSSYEDGSTLWWDVRKPGSPLSSVKYHSESALSIAIDGLCNGGISGGADNKVaMFtLDH
+QKGTFsLRKEIELERPGIAGTAIRPDNKIAATAGWDHRIRVYNYNKGNALAVLKYHSASC
+NAVTFSsDCKLMASCSADTTVALWELYPPKtpSKVDItTeDeeS
+
+
+BOP CONSENSUS:
+Length: 404 aa
+
+MaSDrERPRRRPSPDPVAVLRGHRAAVSDACFHPALPLLFSGAADGELRVWDTASHRTVS
+SIWAHGGAAGVYSIAAGsGLGNtIISQGRDGLCKGWAIEEAGLSRRPIFTIKTSTYHFCK
+MSLVKVPCSAHGTQTgLSGSNSGTEPQRVPiEDNTGSDGvNPAEGTQEYEQGSSLDGQNI
+LAIAGQESSEVELWDIkNSRKIMCLPQRCSANMTGHPTKQKGLCMAVQAFIPCESGGYVN
+ILSSYEDGSTLWWDVRKPGSPLSSVKYHSESALSIAIDGLCTGGISGGADNKIAMFALDH
+QKGTFSLRNEIEIERPGIAGTAIRPDNKIAATAGWDHRIRVYNYNKGNALAVLKYHSATC
+AAVTFSHDCKLLASCSADTTVALWELYPPKTPSKVlIATEeVEr
+
+
+PACMAD CONSENSUS:
+Length: 404 aa
+
+MAgLERPRRRPPPDPVAVLRGHRAAVNDACFHPSLPLLFSGAADGELRAWDTASHRTASS
+VWAHAGSAGVYSVAAGAGLGNKIISQGRDGTCKCWVIEEAGLSRRPLFTVKTSTYHFCKM
+SLVKSPSFTHAtrSGSSCSTSDVEPQRVAtEENTESHvVNPTEGPQEHgQGITSNGQNMM
+AIAGQESSQVELWDITSARKIvtLPQTCSANTTDHPTKQKGLCMAVQAFIPyESAGYVNI
+LSSYEDGSTLWWDVRKPGLPLSSVKYHSESALSIAIDGsCNGGISGGADDKVVMFTLDHP
+KGAFTLRKEIELERPGIAGTAIRPDNKIAATAGWDHRIRVYNYNKGNALAVLKYHSDSCN
+AVTFSSDCKLMASCSADTTVALWELYPPKPQSKaDITKTDEaSC
+
+================================================================================

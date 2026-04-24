@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM020394
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             392.5 aa
+Family Size (Extended Family Size): 28 (34) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12694:SF14
+Panther Family ID:               PTHR12694
+Modal Panther ID:                PTHR12694:SF14
+Modal Panther Description:       TRANSCRIPTION FACTOR IIA ALPHA_BETA SUBUNIT
+Modal Panther Family ID:         PTHR12694
+Modal Panther Fam Desc:          TRANSCRIPTION INITIATION FACTOR IIA SUBUNIT 1
+Interpro Signature Accession:    cd07976; G3DSA:2.30.18.10:FF:000005; G3DSA:2.30.18.10; PTHR12694; PF03153; SM01371
+Interpro Signature Description:  TFIIA_alpha_beta_like; transcription initiation factor IIA large subunit; -; TRANSCRIPTION INITIATION FACTOR IIA SUBUNIT 1; Transcription factor IIA, alpha/beta subunit; TFIIA_2
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: transcription initiation factor IIA subunit 1%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu01H
+  Gene Products: transcription initiation factor IIA large subunit-like; transcription initiation factor IIA subunit 1-like
+Ata
+  Gene count: 3
+  Modal chromosome: Ata05D
+  Gene Products: transcription initiation factor IIA subunit 1-like
+Tae
+  Gene count: 6
+  Modal chromosome: Tae05A
+  Gene Products: transcription initiation factor IIA large subunit-like%2C transcript variant X1; transcription initiation factor IIA subunit 1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: uncharacterized LOC127774522
+  Gene Descriptions: uncharacterized LOC127774522
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC4338303
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: uncharacterized LOC133884801; uncharacterized LOC133928647%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133884801; uncharacterized LOC133928647
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: transcription initiation factor IIA subunit 1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: transcription initiation factor IIA subunit 1-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: transcription initiation factor IIA subunit 1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma06
+  Gene Products: Transcription factor IIA alpha/beta subunit; transcription factor/ transcription initiation factor%2C transcript variant X1
+  Gene Synonyms: GRMZM2G132633; GRMZM2G329033,pco117051
+  Gene Descriptions: Transcription factor IIA alpha/beta subunit; transcription factor/ transcription initiation factor
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 396 aa
+
+MASSNVSTVYISVIDDVISKVREDFITYGVGDAVLNELQALWEMKMLHCGAISGNIDRTK
+AaAASAGGTAGTTPPVHDLNVPYEATSEEYATPTADMLFPPTPLQTPIQTPLPGTDAGMY
+NIPTGPSDYAPSPISDVRNGMAMNGADPKTGRPSPYMPPPSPWMNQRPLGVDVNVAYVEG
+REDPDRGVQPQPLTQDFLMMSSGKRKRDEYPGQLPSGSFVPQQDGSADQIVEFVVSKENA
+QQLWSSIINKQETpTKTSSIKEtTiTPVIPQRDGIQDDYNDQFFFPGVPTEDYNTPGESa
+EYRAPTPAVgTPKPRNDAGDDDDDDEPPLNEDDDDDDELDDLEQGEDEPNTQHLVLAQFD
+KVTRTKNRWKCTLKDGIMHLNGRDVLFNKATGEFDF
+
+
+BOP CONSENSUS:
+Length: 397 aa
+
+MASSNVSTVYISVIDDVVAKVREDFITYGVGDAVLNELQALWEMKMLHCGAISGNIDRsR
+APPASAGGAPGAGATPPVHDLNVPYEATSEEYATPTADMLFPPTPLQTPIQTPLPGTDAG
+MYNIPTGPSDYAPSPISDMRNGMAMNGSDPKTGRPSPYMQPPSPWMNQRPLGVDVNVAYE
+ESREDPDRmvQPQPLTKDFLMMSSGKRKRDEYPGQLPSGSFVPQQDGSADQVVEFVVSKD
+NAQQVWNSIMNKQESATKTSSIKETTIpPVLPQRDGIQDDYNDQFFFPGVPTEDYNTPGE
+SSEYRTPTPAVATPKPRNDTGDDDDDEPPLNEDDDDDDELDDLEqGeDEPNTQHLVLAQF
+DKVTRTKNRWKCTLKDGIMHLNGRDVLFNKASGEFDF
+
+
+PACMAD CONSENSUS:
+Length: 390 aa
+
+MASSNVSTVYISVIDDVISKVREDFITYGVGDAVLNELQALWEMKMLHCGAISGNIDRTK
+AAAASAGGTTGTTPPVHDLNVPYEATSEEYATPTADMLFPPTPLQTPIQTPLPGTDTGMY
+NIPTGPSDYAPSPISDVRNGMAINGADPKTGRPSPYMPPPSPWMNQRPLGVDVNVAYVEG
+REDPDRGVQPQPLTQDFLMMSSGKRKRDEYPGQLPSGSFVPQQDGSADQIVEFVVSKENA
+nQLWSSIINKQETpTKTVTPVIPQrDGIQDDYNDQFFFPGVPTEDYNTPGESAEYRAPTP
+AVGTPKPRNDAGDDDDDDDEPPLNEDDDDDDELDDLEQGEDEPNTQHLVLAQFDKVTRTK
+NRWKCTLKDGIMHLNGRDVLFNKATGEFDF
+
+================================================================================

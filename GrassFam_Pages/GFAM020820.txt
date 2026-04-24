@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM020820
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             414.0 aa
+Family Size (Extended Family Size): 19 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11877:SF10
+Panther Family ID:               PTHR11877
+Modal Panther ID:                PTHR11877:SF10
+Modal Panther Description:       TYPE III POLYKETIDE SYNTHASE B
+Modal Panther Family ID:         PTHR11877
+Modal Panther Fam Desc:          HYDROXYMETHYLGLUTARYL-COA SYNTHASE
+Interpro Signature Accession:    cd00831; G3DSA:3.40.47.10:FF:000025; G3DSA:3.40.47.10:FF:000014; G3DSA:3.40.47.10; PTHR11877; PIRSF000451; PF02797; PF00195; SSF53901
+Interpro Signature Description:  CHS_like; Chalcone synthase 2; Chalcone synthase 1; -; HYDROXYMETHYLGLUTARYL-COA SYNTHASE; PKS_III; Chalcone and stilbene synthases, C-terminal domain; Chalcone and stilbene synthases, N-terminal domain; Thiolase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: type III polyketide synthase B
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: type III polyketide synthase B
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: type III polyketide synthase B
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: type III polyketide synthase B-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: type III polyketide synthase B-like
+  Gene Descriptions: type III polyketide synthase B-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: type III polyketide synthase B
+  Gene Descriptions: type III polyketide synthase B
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 1
+  Modal chromosome: Pau15
+  Gene Products: type III polyketide synthase B
+  Gene Descriptions: type III polyketide synthase B
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: type III polyketide synthase B-like; type III polyketide synthase B-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: type III polyketide synthase B-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: type III polyketide synthase B%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: chalcone synthase
+  Gene Synonyms: GRMZM2G108894
+  Gene Descriptions: chalcone synthase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 413 aa
+
+MVStdvDTTkqKQASsLAPNPGKATILALGHAFPQQLVMQDYVVDGFMRNTNCDDPELKE
+KLTRLCKTTTVKTRYVVMSEEILKSYPELAQEGLPTMKQRLDISNKAVTQMATEASLACV
+RSWGGALSAITHLVYVSSSEARFPGGDLHLARALGLSPDVRRVMLAFTGCSGGVAGLRVA
+KGLAESCPGARVLLATSETTIVGFRPPSPDRPYDLVGVALFGDGAGAAVVGTDPTPvERP
+LFELHSALQRFLPDTEKTIDGRLTEEGIKFQLGRELPHIIEAHVEdFCQKLMKERpqAAg
+aeGdeeLtYDDMFWAVHPGGPAILTKMEGRLGLDGGKLRASRSALRDFGNASSNTIVYVL
+ENMVEETRRRrEAaApEAegGEDCEWGLILAFGPGITFEGILARNLQARARAn
+
+
+BOP CONSENSUS:
+Length: 412 aa
+
+MVSTtaaankQQQAsCLAPNPGKATILALGHAFPQQLVMQDYVVEGFMRNTNCnDPELKE
+KLTRLCKTTTVKTRYVVMSDEILKSYPELAQEGLPTMKQRLDISNKAVTQMATEASLACV
+rAWGGDLSAITHLVYVSSSEARFPGGDLHLARALGLSPDVRRVMLAFTGCSGGVAGLRVA
+KGLAESCPGARVLLATSETTVAGFRPPSPDRPYDLVGVALFGDGAGAAVVGTDPTPvERP
+LFELHSALQRFLPDTEKTIDGRLTEEGIKFQLGRELPHIIEAHVESFCQKLIKEHPqAAA
+AEGDnqLTYDKMFWAVHPGGPAILTKMEGRLGLDGGKLRASRSALRDFGNASSNTIVYVL
+ENMVEESRQRREAEPEPEGgqECEWGLILAFGPGITFEGILARNLQARLGAN
+
+
+PACMAD CONSENSUS:
+Length: 412 aa
+
+MVSsdmDTTsnKQASSLAPNPGKATILALGHAFPQQLVMQDYVVDGFMKNTNCDDPELKE
+KLTRLCKTTTVKTRYVVMSEEILKsYPELAQEGLPTMKQRLDISNKAVTQMATEASLACV
+RSWGGALSSITHLVYVSSSEARFPGGDLHLARALGLSPDVRRVMLAFTGCSGGVAGLRVA
+KGLAESCPGARVLLATSETTIVGFRPPSPDRPYDLVGVALFGDGAGAAVIGADPAPgERP
+LFELHSALQRFLPDTEKTIEGRLTEEGIKFQLGRELPHIIEAHVEDFCrKLMKEREggaG
+GEeMsYDDMFWAVHPGGPAILTKMEGRLGLGADKLRASRCALRDFGNASSNTIVYVLENM
+VEETRRRKaAAAAEAGDGEDCEWGLILAFGPGITFEGILARNLQATARASQL
+
+================================================================================

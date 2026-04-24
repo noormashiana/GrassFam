@@ -1,0 +1,112 @@
+================================================================================
+GrassFam ID: GFAM006255
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             543.0 aa
+Family Size (Extended Family Size): 12 (12) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43178:SF10
+Panther Family ID:               PTHR43178
+Modal Panther ID:                PTHR43178:SF10
+Modal Panther Description:       ACETYLTRANSFERASE COMPONENT OF PYRUVATE DEHYDROGENASE COMPLEX
+Modal Panther Family ID:         PTHR43178
+Modal Panther Fam Desc:          DIHYDROLIPOAMIDE ACETYLTRANSFERASE COMPONENT OF PYRUVATE DEHYDROGENASE COMPLEX
+Interpro Signature Accession:    cd06849; G3DSA:4.10.320.10:FF:000006; G3DSA:2.40.50.100:FF:000010; G3DSA:3.30.559.10:FF:000003; G3DSA:2.40.50.100; G3DSA:3.30.559.10; TIGR01349; PTHR23151; PF00198; SSF51230; SSF52777
+Interpro Signature Description:  lipoyl_domain; Acetyltransferase component of pyruvate dehydrogenase complex; -; pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase; DIHYDROLIPOAMIDE ACETYL/SUCCINYL-TRANSFERASE-RELATED; 2-oxoacid dehydrogenases acyltransferase (catalytic domain); Single hybrid motif; CoA-dependent acyltransferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: dihydrolipoyllysine-residue acetyltransferase component 2 of pyruvate dehydrogenase complex%2C mitochondrial%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: dihydrolipoyllysine-residue acetyltransferase component 2 of pyruvate dehydrogenase complex%2C mitochondrial-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: dihydrolipoyllysine-residue acetyltransferase component 2 of pyruvate dehydrogenase complex%2C mitochondrial%2C transcript variant X2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: dihydrolipoyllysine-residue acetyltransferase component 2 of pyruvate dehydrogenase complex%2C mitochondrial-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: dihydrolipoyllysine-residue acetyltransferase component 3 of pyruvate dehydrogenase complex%2C mitochondrial-like
+  Gene Descriptions: dihydrolipoyllysine-residue acetyltransferase component 3 of pyruvate dehydrogenase complex%2C mitochondrial-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: dihydrolipoyllysine-residue acetyltransferase component 3 of pyruvate dehydrogenase complex%2C mitochondrial
+  Gene Descriptions: dihydrolipoyllysine-residue acetyltransferase component 3 of pyruvate dehydrogenase complex%2C mitochondrial
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 544 aa
+
+MALLLRHSRKLRRVHGVLDCERGSIARHFSvSACSAAAKEDAVSSSSVHGEYGKKVGrSS
+IFlDRQSGKDLHTFKVSSREARGSYSSKRMPIAATGVNSLFSCGQVVSARHFSSGADLPP
+HEEIGMPSLSPTMTEGNIARWVKKEGDKVSPGEVLCEVETDKATVEMECMEEGYLAKIVC
+GDGAKEIKVGEIIAITVEEEGDIEKFKDYKASSSAAAPAESKPQSEPVEPKEEKKEVSKA
+PEPTATKTEESSQSGDRLFSSPVARKLAEDNNVPLSSLKGTGPDGRILKADIEDYLSSAA
+KGSKKEAAAAPGLGYVDLPNTQIRKVTANRLLQSKQTIPHYYLTVDSRVDKLIKLRSELN
+PMQDASGGKKISINDLVIKAAALALRKVPACNSSWMNDFIRQYHNVNINVAVQTEHGLFV
+PVVRDADKKGLATIADEVKQLAqRARDNSLKPEDYEGGTFTVSNLGGPFGIKQFCAIVNP
+PQSAILAIGSAEKRVIPGAEGQFEVGSFMSATLSCDHRVIDGAMGAEWLKAFKGYLENPT
+TMLL
+
+
+BOP CONSENSUS:
+Length: 544 aa
+
+MALLLRHSRKLRRVHGVLDCERGSIARHFSvSACSAAAKEDAVSSSSVHGEYGKKVGrSS
+IFlDRQSGKDLHTFKVSSREARGSYSSKRMPIAATGVNSLFSCGQVVSARHFSSGADLPP
+HEAIGMPSLSPTMTEGNIARWVKKEGDKVSPGEVLCEVETDKATVEMECMEEGYLAKIVC
+GDGAKEIKVGEIIAITVEEEGDIEKFKDYKASSSAAAPAESKPQSEPVEPKEEKKEVSKA
+PEPTATKTEESSQSGDRLFSSPVARKLAEDNNVPLSSLKGTGPDGRILKADIEDYLSSAA
+KGSKKEAAAAPGLGYVDLPNTQIRKVTANRLLQSKQTIPHYYLTVDSRVDKLIKLRSELN
+PMQDASGGKKISINDLVIKAAALALRKVPACNSSWMNDFIRQYHNVNINVAVQTEHGLFV
+PVVRDADKKGLATIADEVKQLAsRARDNSLKPEDYEGGTFTVSNLGGPFGIKQFCAIVNP
+PQSAILAIGSAEKRVIPGAEGQFEVGSFMSATLSCDHRVIDGAMGAEWLKAFKGYLENPT
+TMLL
+
+
+PACMAD CONSENSUS:
+Length: 582 aa
+
+MARASQLLLRHSRKSNQKEGLQGSNWWPGFHHSHPKCETRSYLAQKRNLQRVHAVLDSPH
+GSIARHFSATASSIPKEGGGVPSSNICGEYGKGVRKSRFFHDRQSRVELPTFMVSLTETS
+RNYICKRLSSYRTTIAVTRVNSLFLRGQVVLARPFSSGADLPPHQEIGMPSLSPTMTEGN
+IAKWLKKEGDKVAPGEVLCEVETDKATVEMESMEEGYLAKIIHGDGAKEIKVGEIIAVTV
+EEEGDIAKFKDYKATTSSASDGPAEPKSQSEPAEAKEEKAASKAPEPNAAKAEDSGDRVF
+SSPVAKNLAEDNNVLLSSIKGTGPDGRILKADIEDYLAKDAKKEAAPAPGLGYVDLPNTQ
+IRKVTANRLLQSKQTIPHYYLTVDTRVDKLIKLRSQLNPLQDISGGKKISINDLVIKAAA
+LALRKVPECNSSWMDDFIRQYHNVNINVAVQTDHGLFVPVIRDADKKGLATIADEVKQLA
+QRARDNSLKPEDYEGGTFTVSNLGGPFGVKQFCAIVNPPQSAILAIGSAEKRLIPGAESE
+LEVGSFMSATLSCDHRVIDGAIGAEWLKAFKGYIENPTSMLL
+
+================================================================================

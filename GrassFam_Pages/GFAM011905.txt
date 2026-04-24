@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM011905
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             490.0 aa
+Family Size (Extended Family Size): 29 (30) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23504:SF109
+Panther Family ID:               PTHR23504
+Modal Panther ID:                PTHR23504:SF109
+Modal Panther Description:       MAJOR FACILITATOR SUPERFAMILY ANTIPORTER
+Modal Panther Family ID:         PTHR23504
+Modal Panther Fam Desc:          MAJOR FACILITATOR SUPERFAMILY DOMAIN-CONTAINING PROTEIN 10
+Interpro Signature Accession:    cd17330; G3DSA:1.20.1250.20; PTHR23504; PF07690; SSF103473
+Interpro Signature Description:  MFS_SLC46_TetA_like; MFS general substrate transporter like domains; MAJOR FACILITATOR SUPERFAMILY DOMAIN-CONTAINING PROTEIN 10; Major Facilitator Superfamily; MFS general substrate transporter
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi02
+  Gene Products: probable peptide/nitrate transporter At3g43790; probable peptide/nitrate transporter At3g43790%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: probable peptide/nitrate transporter At3g43790%2C transcript variant X1
+Ata
+  Gene count: 2
+  Modal chromosome: Ata03D
+  Gene Products: probable peptide/nitrate transporter At3g43790; probable peptide/nitrate transporter At3g43790%2C transcript variant X2
+Tae
+  Gene count: 6
+  Modal chromosome: Tae03A
+  Gene Products: probable peptide/nitrate transporter At3g43790; probable peptide/nitrate transporter At3g43790%2C transcript variant X1; probable peptide/nitrate transporter At3g43790%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: probable peptide/nitrate transporter At3g43790%2C transcript variant X1
+  Gene Descriptions: probable peptide/nitrate transporter At3g43790
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: probable peptide/nitrate transporter At3g43790%2C transcript variant X4
+  Gene Descriptions: probable peptide/nitrate transporter At3g43790
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: probable peptide/nitrate transporter At3g43790%2C transcript variant X1
+  Gene Descriptions: probable peptide/nitrate transporter At3g43790
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi05K
+  Gene Products: probable peptide/nitrate transporter At3g43790; probable peptide/nitrate transporter At3g43790%2C transcript variant X1
+Pha
+  Gene count: 2
+  Modal chromosome: Pha05
+  Gene Products: probable peptide/nitrate transporter At3g43790
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: probable peptide/nitrate transporter At3g43790
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: carbohydrate transporter/ sugar porter/ transporter%2C transcript variant X1
+  Gene Synonyms: GRMZM2G029219
+  Gene Descriptions: carbohydrate transporter/ sugar porter/ transporter
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 487 aa
+
+MGdDgGGGggLgEPLLKrarYhPnCPGCRVDRRneEREGFPyTELfLIWLVTiCSTLPIQ
+SLFPFLYFMIRDLHIAKQeEDIGFYAGFVGASYMlGRALSSVIWGIVADKYGRKPVIVIT
+LiSIIIFNTLFGLSSSYWMALTTRGLLGLLSGMLGPIKAYATEVCRKEYSHLALSLVSSS
+RGIGLIVGPAIGGYLAQPADKYPGIFSQtSIFGRFPYFLPCLCISILAvaALIACFWLPE
+TLHKHnEDTVsNNSIEAVEESLSgTnAEENGGGCLsLFTNWPLMSAITVYCIFSLQDVAY
+AEVFSLWAVSDRKYGGLSFSSTDVGNVLAiSGLFLLIYQILIYPSVAKSVEPITLVRAvA
+ILTiPLLSSYPFMPaLSGFiLQLVVNCASFLKNsFSVTTITVFNILMNDAVsQDVRASAN
+GlAVTLMSIFKAIAPAVAGvIFSWAQRRQTASFLPGDHLVFFMLNVFTVIGLvfTFRPFF
+ARgSTKH
+
+
+BOP CONSENSUS:
+Length: 487 aa
+
+MGKDAgGGgGleEPLLKRtrYHpNCPGCRVDRRKEEREGvPyTELaCMWLVTvCSTLPIQ
+SLFPFLYFMIRDLHIAKQEEDIGFYAGFVGASYMLGRALTSVIWGIVADKYGRKPVLVIT
+LISVIIFNTLFGLSSSYWMALTTRGLLGLLSGMLGPIKAYATEVCRKEHSHLALSLISSS
+RGIGLIVGPAIGGYLAQPADKYPGIFSQnSIFGRFPYFLPCLCISLLAIAALIACFWLPE
+TLHKHTEDTdSNNSIEAVEESLSDpNAEESgGGCLSLFTNWPLMSAITVYCIFSLQDVAY
+AEVFSLWAVSDRKYGGLSFSSQDVGSVLAlSGLFLLIYQILIYPSVAKSIEPITLVRAtA
+ILTIPLLSSYPFMpALSGFiLQLVVNCASFLKNSFsVTTITVFNILMNDAVSQDLRASAN
+GLSVTLMSIFKAIAPAVAGVIFSWAQRRQTASFLPGDHLVFFMLNVfTVIGLMlTFRPFF
+ARnsTKH
+
+
+PACMAD CONSENSUS:
+Length: 487 aa
+
+MGGGATTALGEPLLaKKgAYRPRCPGCRVDRLNAEREGVFPLKDLFLIWLVTiTCTLPIQ
+SLFPFLYFMIRDLHIAKQTQDIGFYAGFVGASYMfGRALSSTIWGIVADKHGRKPVIVLT
+LVAIVIFNTLFGLSSNYWMALiTRCLLGvMCGYLGPIKAYATEVCRKEYNHLALAVVSSS
+RGIGLIIGPAIGGYLAQPADKYPSIFSQTSIFGRFPYFLPCLCISILAViALIACiWFPE
+TLHKHNEDTVDNSVETVEESLAGTDtEENGsGGCLqLFKNWPLMSAITLYCIFSLQDVAY
+AEVFSLWAVSDRSYGGLSFTTTDVGNVLAiSGLFLFLYQMLIYPsLAKsVDHITLVRaVA
+ILTvPLLASYPFFPSLSGFvLMLVVNCASFLKNTFSVTTITVFNILMNEAVTQDVRAAAN
+GIAVTLMSISKAVAPAVAGIIFSWAQRRQTASFLPGDHLVFFiLNVFTVTGLVFTFRPFF
+VRGSAKH
+
+================================================================================

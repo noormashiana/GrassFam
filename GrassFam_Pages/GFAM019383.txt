@@ -1,0 +1,126 @@
+================================================================================
+GrassFam ID: GFAM019383
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             293.0 aa
+Family Size (Extended Family Size): 51 (55) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR45824
+Modal Panther ID:                PTHR45824:SF14
+Modal Panther Description:       SEC14P-LIKE PHOSPHATIDYLINOSITOL TRANSFER FAMILY PROTEIN
+Modal Panther Family ID:         PTHR45824
+Modal Panther Fam Desc:          GH16843P
+Interpro Signature Accession:    cd00170; G3DSA:3.40.525.10:FF:000008; G3DSA:3.40.525.10; PTHR45824; PF00650; SM00516; SSF52087
+Interpro Signature Description:  SEC14; Phosphatidylinositol transfer protein 3; -; GH16843P; CRAL/TRIO domain; sec14_4
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: phosphatidylinositol transfer protein PDR17
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu04H
+  Gene Products: phosphatidylinositol transfer protein PDR17-like
+Ata
+  Gene count: 4
+  Modal chromosome: Ata04D
+  Gene Products: phosphatidylinositol transfer protein PDR17; phosphatidylinositol transfer protein PDR17-like
+Tae
+  Gene count: 10
+  Modal chromosome: Tae04A
+  Gene Products: phosphatidylinositol transfer protein 3-like; phosphatidylinositol transfer protein PDR17-like; phosphatidylinositol transfer protein PDR17-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: phosphatidylinositol transfer protein PDR17%2C transcript variant X2
+  Gene Descriptions: phosphatidylinositol transfer protein PDR17
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: phosphatidylinositol transfer protein PDR17%2C transcript variant X2
+  Gene Descriptions: phosphatidylinositol transfer protein PDR17
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: phosphatidylinositol transfer protein PDR16-like%2C transcript variant X2; phosphatidylinositol transfer protein PDR17-like%2C transcript variant X2
+  Gene Descriptions: phosphatidylinositol transfer protein PDR16-like; phosphatidylinositol transfer protein PDR17-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 6
+  Modal chromosome: Pvi09K
+  Gene Products: CRAL-TRIO domain-containing protein C23B6.04c-like; phosphatidylinositol transfer protein 3-like; phosphatidylinositol transfer protein 3-like%2C transcript variant X2; phosphatidylinositol transfer protein 3-like%2C transcript variant X4
+Pha
+  Gene count: 3
+  Modal chromosome: Pha09
+  Gene Products: phosphatidylinositol transfer protein 3-like; phosphatidylinositol transfer protein 3-like%2C transcript variant X2; phosphatidylinositol transfer protein PDR16-like%2C transcript variant X2
+Msi
+  Gene count: 5
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi01
+  Gene Products: random slug protein 5; random slug protein 5%2C transcript variant X3; random slug protein 5-like
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: Sec14p-like phosphatidylinositol transfer family protein; uncharacterized LOC100279110%2C transcript variant X1
+  Gene Synonyms: GRMZM2G443453,IDP738; GRMZM2G704053,SEC14p
+  Gene Descriptions: Sec14p-like phosphatidylinositol transfer family protein; uncharacterized LOC100279110
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 295 aa
+
+MFRRKHASHFNSdDAEQRqAKINELKAALGPLSARGEKYCSEACLaRYLEARNWNVdKSR
+KMLEESLKWRAAYRPEDIRWPDVSVEAETGKMYRASFrDREGRTVVVMRPAKQNTSSHEG
+QIRFLVYTLENAILSLPEGQEKMVWLIDFTGWTmAHATPIKTAREsaNILQNHYPERLAI
+AFLFNPPKVFEAFfKVvKvFLDPKSIEKVNFVYlKDEESMKvMYKyIDPEVLPVEFGGKN
+NVVYNHEeYSKLMtKDDIKTASFWAaDAKTVNHViNGtLVPEVtPQSSLiAAKAS
+
+
+BOP CONSENSUS:
+Length: 292 aa
+
+MFRRKQASHFdSDDAEQRQAKInELRAALGPLSARGEKYCsEACLaRYLEARNWNVDKSR
+KMLEESLKWRAasRPEDIRWPDVSVEAETGKMYRATFTDREGRTVVVMRPAKQNTSSHEG
+QLRYLIYTLENAVLSLPEGQDKMVWLIDFTGWTLANATPIKTARDSaNiLQNHYPERLSv
+AFLFNPPKVFEAFFKVlKVFLDPKSiQKLNFVYKENEESMKTMYkHIDPEVLPVEFGGKN
+NVVYNHEDYSKLMTKDDIKTASFWAADVNHvvNGHSVPEVkPQSSLIVAKAS
+
+
+PACMAD CONSENSUS:
+Length: 297 aa
+
+MFRRKHASHFNSNDAEQREAKINELKsALGPLSARGEKYCSEACLtRYLEARNWNVAKSR
+KMLEESLKWRAAYRPEDIRWPDVSVEAETGKMYRASFRDREGRTVVVMRPTKQNTSSHEG
+QIRFLVYtLENAILsLPEGQEKMVWLIDFTGWTMAHATPIKTARETtNILQNHYPERLAI
+AFLFNPPKVFEAFYKVVKYFLDPrSIEKVNFVYLKDEESMKVmYKYIDPEVLPVEFGGKN
+nVVYNHEEYSELMlKDDIKTASFWADDAKTDHVNHVINGTLVPEVTPQSSLlAAKAS
+
+================================================================================

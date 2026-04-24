@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM017307
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             424.0 aa
+Family Size (Extended Family Size): 21 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43247:SF3
+Panther Family ID:               PTHR43247
+Modal Panther ID:                PTHR43247:SF3
+Modal Panther Description:       PHOSPHOSERINE AMINOTRANSFERASE 1, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR43247
+Modal Panther Fam Desc:          PHOSPHOSERINE AMINOTRANSFERASE
+Interpro Signature Accession:    cd00611; G3DSA:3.40.640.10:FF:000010; G3DSA:3.90.1150.10:FF:000006; G3DSA:3.40.640.10; G3DSA:3.90.1150.10; NF003764; TIGR01364; PTHR43247; PIRSF000525; PF00266; SSF53383
+Interpro Signature Description:  PSAT_like; Phosphoserine aminotransferase; -; Aspartate Aminotransferase, domain 1; 3-phosphoserine/phosphohydroxythreonine transaminase; phosphoserine transaminase; PHOSPHOSERINE AMINOTRANSFERASE; SerC; Aminotransferase class-V; PLP-dependent transferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: phosphoserine aminotransferase 1%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: phosphoserine aminotransferase 1%2C chloroplastic-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: phosphoserine aminotransferase 2%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: phosphoserine aminotransferase 1%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: phosphoserine aminotransferase 1%2C chloroplastic-like
+  Gene Descriptions: phosphoserine aminotransferase 1%2C chloroplastic-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: phosphoserine aminotransferase 1%2C chloroplastic
+  Gene Descriptions: phosphoserine aminotransferase 1%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: phosphoserine aminotransferase 1%2C chloroplastic-like; phosphoserine aminotransferase 2%2C chloroplastic-like
+  Gene Descriptions: phosphoserine aminotransferase 1%2C chloroplastic-like; phosphoserine aminotransferase 2%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: phosphoserine aminotransferase 2%2C chloroplastic-like; phosphoserine aminotransferase%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: phosphoserine aminotransferase 1%2C chloroplastic-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: phosphoserine aminotransferase 2%2C chloroplastic-like
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100284817
+  Gene Synonyms: gpm584,GRMZM2G300801,psat1
+  Gene Descriptions: uncharacterized LOC100284817
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 424 aa
+
+MAAAAAaTPHSLLLQRPsPAAPraAAAAASSLRLPARAARISCAAVAAPSAsSPlAAAGE
+RGVYNFAAGPATLPLSVLqRAQAELVDYRGSGMSIMEMSHRGKEFDAAIKKAEADLRALL
+AVPDTHEVLFLQGGATTQFAAVPLNLCAGPSDPADFVVSGSWSDKAFKEAKKFSAASVAW
+SGKDGKYTSLPPFDAIKQNPEARFLHICSNETIHGVEFKDYPEPrNKSGILVADMSSNFC
+SKPVDVSRFGVIYAGAQKNVGPSGVTIAIVRKDLIGnAQPITPVMLDYKTHADNASLYNT
+PPCFAIYICGLVFEDLLAQGGLAEVEKKNAHKAGILYDTIDASGGYYICPVEKSVRSLMN
+VPFTLAKGpDFEKQFIAEAAKEGMVQLKGHRSVGGVRASIYNAMPLAGVEKLVAFMKDFQ
+ARNP
+
+
+BOP CONSENSUS:
+Length: 421 aa
+
+MAAAAAAATPNSMLLHRPSPKAPAAAPSaRVPARAARISCAAVAAPSAPSPLAAAGERGV
+YNFAAGPATLPLSVLQRAQAELVDYRGSGMSIMEMSHRGKEFDAAIKKAEADLRALLAVP
+DTHEVLFLQGGATTQFAAAPLNLCASPSDPADFVVSGSWSDKAFKEAKKYSAASVAWSGK
+DGKYTSLPpFGAIsQNPEARFLHICSNETIHGVEFKDYPEPKNKSGlLVADMSSNFCSKP
+VDVSRFGLIYAGAQKNVGPSGVTIAIVRKDLVGsAQPITPVMLDYKTHADNASLYNTPPC
+FAIYICGLVFEDLLAQGGLAEVEKKNQHKAGILYDTIDASGGYFICPVEKSVRSLMNVPF
+TLAKGADFEKQFIAEAAKEGMLQLKGHRSVGGVRASIYNAMPLSGVEKLVAFMKDFQARN
+P
+
+
+PACMAD CONSENSUS:
+Length: 425 aa
+
+MAAAAAtTPHSLLLQRPatPAAPsRAAAaASSLRLPARAARISCAAVAAPSPSSPvtGAG
+ERGVYNFAAGPATLPLSVLKRAQAELVDYHGSGMSIMEMSHRGKEFDAAIKKAEADLRAL
+LAVPDTHAVLFLQGGATTQFAAVPLNLCAGPSDPADFVVSGSWSDKAFKEAKKFSAASVA
+WSGKDGKYTALPPFDAIKQNPEARFLHICSNETIHGVEFKDYPEPRNKSGILVADMSSNF
+CSKPVDVSRFGVIYAGAQKNVGPSGVTIAIVRKDLIGNAQPITPVMLDFKTHADNASLYN
+TPPCFAIYICGLVFEDLLAQGGLAEVEKKNAHKAGILYDTIDASGGYYICPVEKSVRSLM
+NVPFTLAKGPDFEKQFIAEAAKEGMVQLKGHRSVGGVRASIYNAMPLAGVEKLVAFMKDF
+QARNP
+
+================================================================================

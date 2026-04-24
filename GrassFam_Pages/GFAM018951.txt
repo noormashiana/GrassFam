@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM018951
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             410.0 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR36427:SF4
+Panther Family ID:               PTHR36427
+Modal Panther ID:                PTHR36427:SF4
+Modal Panther Description:       RIBOSOMAL PROTEIN L1P_L10E FAMILY
+Modal Panther Family ID:         PTHR36427
+Modal Panther Fam Desc:          54S RIBOSOMAL PROTEIN L1, MITOCHONDRIAL
+Interpro Signature Accession:    cd00403; G3DSA:3.40.50.790:FF:000001; G3DSA:3.40.50.790; G3DSA:3.30.190.20; TIGR01169; PTHR36427; PF00687; SSF56808
+Interpro Signature Description:  Ribosomal_L1; 50S ribosomal protein L1; -; 54S RIBOSOMAL PROTEIN L1, MITOCHONDRIAL; Ribosomal protein L1p/L10e family; Ribosomal protein L1
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: 50S ribosomal protein L1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: 50S ribosomal protein L1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: 50S ribosomal protein L1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: 50S ribosomal protein L1-like; 50S ribosomal protein L1-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: uncharacterized LOC127777736
+  Gene Descriptions: uncharacterized LOC127777736
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4341246
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: large ribosomal subunit protein uL1c-like%2C transcript variant X1; uncharacterized LOC133926857%2C transcript variant X2
+  Gene Descriptions: large ribosomal subunit protein uL1c-like; uncharacterized LOC133926857
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: 50S ribosomal protein L1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: 50S ribosomal protein L1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: 50S ribosomal protein L1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: Ribosomal protein L1p/L10e family-like
+  Gene Synonyms: cl8500_1a,GRMZM2G122290
+  Gene Descriptions: Ribosomal protein L1p/L10e family-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 407 aa
+
+MAHLRLLLSHSRRHPQPHRLLPLFHFSSDAsSSSAPPPPPIKPVSYAPKPQAPPEEaAAP
+pAPsAgPGsQsPLPRRPQQPMPPRQWTRQEMRFVKDAAPAISPVSYPSRVAPLPEDRPAg
+GegEGvpEEGLRGEGERIEMDAARATRSIFGvPVEEEQVPYPTLIPVvKRPQKVAIDLVD
+AIRlvKTSANEKKRNFtETVEAHVMLGVDPRRGDQMVRGALTLPHGTGKTVRVAVFAEGP
+AAeEARAAGADVVGGDELIEEIRTGGGKLSFDKCIATPMFMPRLSKVARILGPRGLMPNP
+KLGSVTNDVSGAVKAAKSGRVDFKIDKTAIVHVGLGKVNFSEESLRENIGAFVHALLLAK
+PVGLKKTSKYVGYVKKFTLSSTMGPGFPVTIPSLSVAADHYNKVQVS
+
+
+BOP CONSENSUS:
+Length: 408 aa
+
+MAHLRLLLSHSRCHPQPHRLLPLFRFSTSNSGsPPPPPIKPVSYAPKPQAPPEEAsspDA
+PSASPGWQDpPPRRFeQQPPNPPRQFTRQEVRFVKDAGPAIAPVSYPSRVAPLPEDRPAE
+EGAGEGvNEQDLRGEAERIEMNAERARRSIFGVPVEEETVPYPTLIPVAKRPQKVAIDLV
+DALREIKTSANEKKRNFTETVEAHVMLGVDPRRGDQMVRGAITLPHGTGKTVRVAVFAEG
+PAAEEARAAGADVVGGDELIEEIRKGGGKLSFDKCIATPMFMPRLSKVARILGPRGLMPN
+PKLGSVTNDVSGAVKAAKSGRVDFKIDKTAIVHVGLGKINFSEESLRENIGAFVNALLLA
+KPVGLKKTSKYVGYVKKFTLSSTMGPGFPVTIPSLSAAADDYSKVHVS
+
+
+PACMAD CONSENSUS:
+Length: 410 aa
+
+MAHLRLLLSHSRRHPQPHRLLPLFHFSSDANSSSAsPPPPPIKPVSYAPKPQQEAPPEES
+AAPPTPDAGpGsQSPLPRRPQQPMPPREWTRQDMRFVKDAAPAISPVSYPSRVAPLPEDR
+PAGGEAEAvpEEGLRGEGERIQMDAARATRSIFGMPVEEEQVPYPTIIPVVKRPQKVAID
+LVDAIRLVKTSANEKKRNFVETVEAHVmLGVDPRRGDQMVRGALTLPHGTGKTVRVAVFA
+EGPAADEARAAGADVVGGDELIEEIRTGGGKLSFDKCIATPMFMPRLSKVARILGPRGLM
+PNPKLGSVTNDVSGAVKAAKSGRVDFKIDKTAIVHVGLGKVNFSEESLRENIGAFVHALL
+LAKPVGLKKTSKYVGYVKKFTLSSTMGPGFPVTIPSLSVAADHYNKVQVS
+
+================================================================================

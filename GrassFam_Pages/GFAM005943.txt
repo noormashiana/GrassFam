@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM005943
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             439.0 aa
+Family Size (Extended Family Size): 23 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43622:SF7
+Panther Family ID:               PTHR43622
+Modal Panther ID:                PTHR43622:SF7
+Modal Panther Description:       3-DEHYDROQUINATE SYNTHASE, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR43622
+Modal Panther Fam Desc:          3-DEHYDROQUINATE SYNTHASE
+Interpro Signature Accession:    cd08195; G3DSA:3.40.50.1970:FF:000001; G3DSA:1.20.1090.10:FF:000002; G3DSA:1.20.1090.10; G3DSA:3.40.50.1970; TIGR01357; PTHR43622; PF01761; PF24621; SSF56796
+Interpro Signature Description:  DHQS; 3-dehydroquinate synthase; -; 3-DEHYDROQUINATE SYNTHASE; 3-dehydroquinate synthase N-terminal; 3-dehydroquinate synthase C-terminal; Dehydroquinate synthase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi04
+  Gene Products: 3-dehydroquinate synthase%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: 3-dehydroquinate synthase%2C chloroplastic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: 3-dehydroquinate synthase%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: 3-dehydroquinate synthase%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: 3-dehydroquinate synthase%2C chloroplastic
+  Gene Descriptions: 3-dehydroquinate synthase%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: 3-dehydroquinate synthase%2C chloroplastic
+  Gene Descriptions: 3-dehydroquinate synthase%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: 3-dehydroquinate synthase%2C chloroplastic-like
+  Gene Descriptions: 3-dehydroquinate synthase%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: 3-dehydroquinate synthase%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: 3-dehydroquinate synthase%2C chloroplastic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: 3-dehydroquinate synthase%2C chloroplastic
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: 3-dehydroquinate synthase; 3-dehydroquinate synthase%2C transcript variant X1
+  Gene Synonyms: GRMZM2G051129; GRMZM2G573867
+  Gene Descriptions: 3-dehydroquinate synthase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 438 aa
+
+MAASASSLLAAAASSSCAAISPRlPRAAPAAASVPSPSRhSCPPLRASPARrHRSRVVAS
+AAPTMQPPAeSRVSTVVDVDLGDRSYPIYIGaGLLDEPDLLQRHVHGKRVLVVTNTTVAP
+LYLEKVTWALTHNNPNVSVESVILPDGEKYKDMDTLMKVFDKAVESRLDRRCTFVALGGG
+VIGDMCGFAAAAFLRGVNFIQIPTTLMAQVDSSVGGKTGINHPLGKNLIGAFYQPQCVLI
+DTDTLNTLPDRELASGIAEVVKYGLIRDAPFFEWQEKNMaALLAREPSALAYAIKRSCEN
+KAEVVAQDEKESGLRATLNLGHTFGHAIETGLGYGAWLHGEAVAAGTVMAADMSYRLGWI
+DESIKKRtvDILEQAKLPITPPEgMTVEKFKNIMAVDKKVADGLLRLILLKGPLGsCVFT
+GDYDRKALDETLRAFCDN
+
+
+BOP CONSENSUS:
+Length: 440 aa
+
+MAAAASSLLAAAASSSSRAAISvRRPRAAPAAAASiPSSSRsSFTPLRASPARALRSRVV
+ASAAPAMQPPAVSRVSTVVDVDLGDRSYPIYIGPGLLDEPDLLQRHVIGKRVLVVTNTTV
+APLYLEKVTWALTHQNPNVSVESVILPDGEKYKDMDTLMKVFDKAVESRLDRRCTFVALG
+GGVIGDMCGFAAAAFLRGVNFIQIPTTLMAQVDSSVGGKTGINHPLGKNLIGAFYQPQCV
+LIDTETLNTLPDRELASGVAEVVKYGLIRDAPFFEWQEKNMAAILAREPSALTYAIKRSC
+ENKAEVVAQDEKESGLRATLNLGHTFGHAIETGLGYGEWLHGEAVAAGTVMAADMSYRLG
+WIDESIKKRTFDILEQAKLPVTPPKGMTVEKFKNIMAVDKKVADGLLRLILLKGPLGGCV
+FTGEYDRKALDETLRAFCDN
+
+
+PACMAD CONSENSUS:
+Length: 438 aa
+
+MAASASSLLAAAASSSCAAISPRLPRGAPAAASVPSPSRHSCPSLRASPARRHRSRFVAS
+AAPTMQPPAESRVSTVVDVDLGDRSYPIYIGAGLLDEPDLLQRHVHGKRVLVVTNTTVAP
+LYLEKVTWALTHNNPNVSVESVILPDGEKYKDMDTLMKVFDKAVESRLDRRCTFVALGGG
+VIGDMCGFAAAAFLRGVNFIQIPTTLMAQVDSSVGGKTGINHPLGKNLIGAFYQPQCVLI
+DTDTLNTLPDRELASGIAEVVKYGLIRDAPFFEWQEKNMSALLAREPSALAYAIKRSCEN
+KAEVVAQDEKESGLRATLNLGHTFGHAIETGLGYGAWLHGEAVAAGTVMAADMSHRLGWI
+DESIKKRVVDILEQAKLPIAPPETMTVEKFKNIMAVDKKVADGLLRLILLKGPLGSCVFT
+GDYDRKALDETLHAFCDN
+
+================================================================================

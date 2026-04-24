@@ -1,0 +1,128 @@
+================================================================================
+GrassFam ID: GFAM016677
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             532.0 aa
+Family Size (Extended Family Size): 16 (18) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12815:SF34
+Panther Family ID:               PTHR12815
+Modal Panther ID:                PTHR12815:SF34
+Modal Panther Description:       OUTER MEMBRANE OMP85 FAMILY PROTEIN
+Modal Panther Family ID:         PTHR12815
+Modal Panther Fam Desc:          SORTING AND ASSEMBLY MACHINERY SAMM50 PROTEIN FAMILY MEMBER
+Interpro Signature Accession:    G3DSA:2.40.160.50:FF:000005; G3DSA:3.10.20.310:FF:000016; G3DSA:2.40.160.50; PTHR12815; PF01103
+Interpro Signature Description:  Outer membrane OMP85 family protein; membrane protein fhac: a member of the omp85/tpsb transporter family; SORTING AND ASSEMBLY MACHINERY SAMM50 PROTEIN FAMILY MEMBER; Omp85 superfamily domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: sorting and assembly machinery component 50 homolog B%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: SAM50-like protein SPAC17C9.06
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: SAM50-like protein SPAC17C9.06
+Tae
+  Gene count: 2
+  Modal chromosome: Tae03A
+  Gene Products: SAM50-like protein SPAC17C9.06
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN334
+Pau
+  Gene count: 1
+  Modal chromosome: Pau01
+  Gene Products: uncharacterized LOC133923734
+  Gene Descriptions: uncharacterized LOC133923734
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi05N
+  Gene Products: sorting and assembly machinery component 50 homolog A-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: sorting and assembly machinery component 50 homolog
+Msi
+  Gene count: 1
+  Modal chromosome: Msi06
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: sorting and assembly machinery component 50 homolog
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: Outer membrane OMP85 family protein
+  Gene Synonyms: GRMZM5G832582
+  Gene Descriptions: Outer membrane OMP85 family protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 533 aa
+
+MAIAADSTADQAPNPaPDEaAGEsVEAPahPDHGEPNADAADEEYEEEEEELDGPAAEAA
+EREKVeAVFRRLSsAPVGIRVHDVIIKGNTKTRDALIEAEVVDLIRSAATVQDLVRAASl
+ANARLRRLDVFDSVHITLDAGPPELPGTTNVVIEVVEAANPIdGSVGCFSKPEARSWSVE
+GSLRLKNIFGYGDIWDASGAYGWDQSSEIGIGVSLPRFRSIPTPLTARASLLSHDWLKFS
+SYKERLLGLSFGLLSTmHHDLSYNLTWRTLTDPSQMASKSIRRQLGHNLLSALRYTYTID
+QRDSHLRPTKGYAFVSTSQVGGLWGSKGLRFFRQEFDIRGAVPFGFYNAALNAGISAGVI
+LPLGRGFMeSPSSVPDRFFLGGHSSPVCSLGGLTSLLGFKTRGVGPTELRRFVPSESVMD
+DSAASPGrDYLGGDFAVSAFADLSFDLPLKLFRDAGIHGHAFLTAGNLAKLSESEFRNFS
+FSEFGRTFRSSAGVGIILPTKLLRVEINYCYILKQFEHDRGKTGIQFSFSSPM
+
+
+BOP CONSENSUS:
+Length: 529 aa
+
+MAVTANSTAERSSNPVPHERSEKSRKDTGQPDRGEGNEGESDEEYDAEELHGPTAEAAER
+EMVQAVFRRLSSEPVSIRVHDVTIMGNSKTRDTLIEAEVADLLRSASTVQDLVRASSLAS
+SRLRRLQVFDSVTITLDAGPPELPGTTNVVIEVVEAASPIIGSVGYFSKPEARSWSLEGS
+LKLKNPFGYGDIWDASGAYGWDQSSEVGVGVSLPRFKSVTTPLVARASLLSQDWLRFSSY
+KERLLGLSFGLLSTRHHDLSYNLTWRTLTDPTQMASNSIRRQLGHNLLSALTYTYKVDQR
+DSQLRPTKGYAFVSTSQVGGLWGSNGLRFFRQEFDVRGAVPFSFYNTALNVGVSAGVILP
+LGRGFMELSSPVTNRFFLGGHSSPVCSLGGLSSLVGFRTRGVGPTEPRRFVPSESDNSNV
+SPGRDYVGGDLAVSVFADLSFDLPLKLFRDAGIYGHAFLSAGNLAKLSESEYRNFSISEF
+QRTFRSSAGVGMVLPTKLLRVEINYLYILKKFEHDRVKTGIQFSFSSPL
+
+
+PACMAD CONSENSUS:
+Length: 533 aa
+
+MAIAADSTADQAPNPaPDEAAGEsVEAPahPDHGEPNADAADEEYEEEEEELDGPAAEAA
+EREKvEAVFRRLSeAPVGIRVHDVIIKGNTKTRDALIEAEVVDLIRSAATVQDLVRAASI
+ANARLRrLDVFDSVHITLDAGPPELPGTTNVVIEVVEAANPIdGSVGCFSKPEARSWSVE
+GSLRlKNIFGYGDIWDASGAYGWDQSSEIGIGVSLPRFRSIPTPLTARASLLSHDWLKFS
+SYKERLLGLSFGLLSTMHHDLSYNLTWRTLTDPSQMASKSIRRQLGHNLLSALRYTYTID
+QRDSHLRPTKGYAFVSTSQVGGLWGSKGLRFFRQEFDIRGAVPFGFYNAALNAGISAGVI
+LPLGRGFMgSPSSVPDRFFLGGHSSPVCSLGGLTSLLGFKTRGVGPTELRRFVPSESVmD
+DSAASPGwDYLGGDFAVSAFADLSFDLPLKLFRDAGIHGHAFLTAGNLAKLSESEFRNFS
+FSEFGRTFRSSAGVGIILPTKLLRVEINYCyILKQFEHDRGKTGIQFSFSSPM
+
+================================================================================

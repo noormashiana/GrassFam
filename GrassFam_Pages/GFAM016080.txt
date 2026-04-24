@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM016080
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             346.5 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10366:SF661
+Panther Family ID:               PTHR10366
+Modal Panther ID:                PTHR10366:SF661
+Modal Panther Description:       OS09G0127300 PROTEIN
+Modal Panther Family ID:         PTHR10366
+Modal Panther Fam Desc:          NAD DEPENDENT EPIMERASE/DEHYDRATASE
+Interpro Signature Accession:    cd08958; G3DSA:3.40.50.720:FF:000199; G3DSA:3.40.50.720; PTHR10366; PF01370; SSF51735
+Interpro Signature Description:  FR_SDR_e; Cinnamoyl-CoA reductase 1; -; NAD DEPENDENT EPIMERASE/DEHYDRATASE; NAD dependent epimerase/dehydratase family; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: cinnamoyl-CoA reductase 2
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: cinnamoyl-CoA reductase 1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: cinnamoyl-CoA reductase 1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: cinnamoyl-CoA reductase 1; cinnamoyl-CoA reductase 1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: cinnamoyl-CoA reductase 1-like
+  Gene Descriptions: cinnamoyl-CoA reductase 1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: cinnamoyl-CoA reductase 1
+  Gene Descriptions: cinnamoyl-CoA reductase 1
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: cinnamoyl-CoA reductase 1-like; cinnamoyl-CoA reductase 1-like%2C transcript variant X1
+  Gene Descriptions: cinnamoyl-CoA reductase 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi02K
+  Gene Products: cinnamoyl-CoA reductase 1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: cinnamoyl-CoA reductase 2-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi10
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: cinnamoyl-CoA reductase 2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: cinnamoyl CoA reductase 2
+  Gene Synonyms: ccr2,cncr2,GRMZM2G131836
+  Gene Descriptions: cinnamoyl CoA reductase 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 344 aa
+
+MPiETtTpVPAALPGHGRTVCVTGAGGFIASWLVKRLLEKGYTVRGTVRNPVDPKNDHLR
+ALDGAADRLVLLRADLLDPESLVAAFSGCEGVFHAASPVTDDPEKMIEPAIRGTRYVITA
+AADtGIKRVVFTSSIGTVYMNPYRDPNKPVDDTCWSDLEYCKKTeNWYCYAKTVAEQGAW
+EVARkRGvDLIVVNPVLVLGPLLQPTVNASTeHVMKYLTGSAKTYVNAAQAYVHVKDVAE
+AHVRVYEAPgAHGRYICAESTLHRGELCRvLAKLFPEYPVPTKCKDEVNPPVKGYKFTNQ
+RLKDLGMEFVPVLQCLYETVKSLQEKGMLPVLPPnDDdrnLhtS
+
+
+BOP CONSENSUS:
+Length: 357 aa
+
+MPIEeTDnVPAdLPGHGRTVCVTGAGGFIASWLVKRLLQKGYTVRGTVRNPVDPKNDHLR
+AFDGAADRLVLLRADLMEPETLVAAFTGCEGIFHAASPVTDDPEKMIEPAIRGTkYVITA
+AADMGIKRVVFTSTIGTVYMNPyRDPSKPVDDTCWSDLEYCKKTANWYCYAKTVAEQdAl
+EtARQRGIeLIVVNPVLVLGPLLQPTVNASTEHVMKYLTGSAKTYVNAAQAYVHVKDVAE
+AHVRVYEAPGAHGRYICAEGTTLHRGELCRVLGKLFPEYPVPTKCKDEVNPPVKGYKFTN
+QRLKDLGMEFVPVLQSIYETVKSLQEKGMLPVLPPgDDVRDNLHEQLMMKPAQLLRN
+
+
+PACMAD CONSENSUS:
+Length: 341 aa
+
+MPTETPMPALSGHGRTVCVTGAGGFIASWLVKRLLEKGYTVRGTVRNPVDPKNDHLRALD
+GAADRLvLLRADLLDPDSLvAAFSGCEGVFHAASPVTDDPEKMIEPAIRGTRYVITAAAD
+TGVKRVVFTSSIGTVYMNPYRDPNKPVDDTCWSDLEYCKKTENWYCYAKTVAEQGAWEVA
+RKRGLDLIVVNPVLVLGPLLQPTVNASTDHVMKYLTGSAKTYVNAAQAYVHVKDVAEAHV
+RVYEAPDAHGRYICAESTLHRGELCRILAKLFPEYPIPTKCKDEVNPPVkGYKFSNQRLK
+DLGMEFVPVLQCLYETVKSLQEKGMLPVLPPNDddhQLiTS
+
+================================================================================

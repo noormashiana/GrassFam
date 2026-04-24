@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM011997
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             385.0 aa
+Family Size (Extended Family Size): 19 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10848:SF0
+Panther Family ID:               PTHR10848
+Modal Panther ID:                PTHR10848:SF0
+Modal Panther Description:       MEIOTIC RECOMBINATION PROTEIN SPO11
+Modal Panther Family ID:         PTHR10848
+Modal Panther Fam Desc:          MEIOTIC RECOMBINATION PROTEIN SPO11
+Interpro Signature Accession:    cd00223; G3DSA:1.10.10.10:FF:000487; G3DSA:3.40.1360.10:FF:000009; G3DSA:3.40.1360.10; G3DSA:1.10.10.10; PTHR10848; PR01550; PF21180; SSF56726
+Interpro Signature Description:  TOPRIM_TopoIIB_SPO; Meiotic recombination protein SPO11-2; -; MEIOTIC RECOMBINATION PROTEIN SPO11; DNA topoisomerase VI subunit A family signature; Topoisomerase 6 subunit A/Spo11, Toprim domain; DNA topoisomerase IV, alpha subunit
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: meiotic recombination protein SPO11-2%2C transcript variant X1
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: meiotic recombination protein SPO11-2%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: meiotic recombination protein SPO11-2
+Tae
+  Gene count: 2
+  Modal chromosome: Tae07B
+  Gene Products: meiotic recombination protein SPO11-2-like; meiotic recombination protein SPO11-2-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl08
+  Gene Products: meiotic recombination protein SPO11-2%2C transcript variant X1
+  Gene Descriptions: meiotic recombination protein SPO11-2
+Osa
+  Gene count: 1
+  Modal chromosome: Osa08
+  Gene Products: meiotic recombination protein SPO11-2-like
+  Gene Synonyms: OsSPO11-2,OsTOP6A2,SPO11-2
+  Gene Descriptions: meiotic recombination protein SPO11-2-like
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN4
+Pau
+  Gene count: 1
+  Modal chromosome: Pau18
+  Gene Products: meiotic recombination protein SPO11-2%2C transcript variant X4
+  Gene Descriptions: meiotic recombination protein SPO11-2
+Svi
+  Gene count: 1
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: meiotic recombination protein SPO11-2%2C transcript variant X1; meiotic recombination protein SPO11-2-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: meiotic recombination protein SPO11-2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: meiotic recombination protein SPO11-2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100216726%2C transcript variant X1
+  Gene Synonyms: GRMZM5G890820,Spo11-2
+  Gene Descriptions: uncharacterized LOC100216726
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 384 aa
+
+MAEADVAAASLFGADRRLCSADILaPaEVRARIEVAVLNFLAALASPSSPAISVLPLISR
+tSANCSLRSGLLSDVSSVYLSYAFCKRSLMRENnAKAFVRVWKVMEMCYKILGEGKLVtQ
+RELFYKLLSDSPKYFSCQRHVNQTIQDVVSLLRCTRQSLGIMASSRGALIGRLVLHEPDE
+EHIDCSILGPSGHAITGDLNlLSKLNLSSDARYIIVVEKDAIFQRLAEDRLYNQLPCILI
+TAKGYPDIATRFILHRLSQTFPNMPIFALVDWNPAGLAILCTYKYGSISMGLESYRYACN
+VKWLGLRGDDLQLIPESAFQELKPRDLQIAKSLLSSKFLQEsHRAELTLMVETGKRAEIE
+ALYSHGFDFLGKYIARKIVQGDYI
+
+
+BOP CONSENSUS:
+Length: 385 aa
+
+MqAEADVPAASLFGADRRLCSADVLSPpEVRARIEVAVLNFLAALSSPSSPAISVLPLIS
+RKSTNCSLRSGLLSDVSSVYLSYAFCKRSLMRENDAKAFVRVWKVMEMCYKILGEGKLVT
+QRELFYKLLSDSPKYFSCQRHVNQTIQDVVSLLRCTRQSLGIMASSRGALIGRLVLHEPE
+EEHIDCSILGPSGHAITGDLNQLSRLNLSSDARYLILVEKDAIFQRLAEDRLYNQLPCIL
+ITAKGYPDIATRFILHRLSQTFPNMPIFALVDWNPAGLSILCTYKYGSISMGLESYRYAC
+NVKWLGLRGDDLQLIPQSAFQELKPRDLQIAKSLLSSKFLQDKHRAELTRMVETGTRAEI
+EALYCHGFDFLGKYIARKIVQGDYI
+
+
+PACMAD CONSENSUS:
+Length: 384 aa
+
+MAEADVAAASLFGADRRLCSADILAPAEVRARIEVAVLNFLAALASPSSPAISVLPLISR
+TSANCSLRSGLLNDVSSVYLSYAFCKRSLMREsNAKAFVRVWKVMEMCYKILGEGKLVHQ
+RELFYKLLSDSPKYFSCQRHVNQAIQDVVSLLRCTRQSLGVMASSRGALIGRLVLHEPDE
+EQIDCSILGASGHAITGDLNLLSKLNLSSDARYIIVVEKDAIFQRLAEDRLYNQLPCILI
+TAKGYPDIATRFILHRLSQTFPNMPIFALVDWNPAGLAILCTYKYGSISMGLESYRYACN
+VKWLGLRGDDLQLIPESAFQELKPRDLQIAKSLLSSKFLQESHRAELTLMVEtGKRAEIE
+ALYSHGFDFLGKYIARKIVQGDYI
+
+================================================================================

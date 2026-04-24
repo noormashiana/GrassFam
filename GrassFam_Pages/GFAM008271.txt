@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM008271
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             505.0 aa
+Family Size (Extended Family Size): 43 (44) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10177:SF588
+Panther Family ID:               PTHR10177
+Modal Panther ID:                PTHR10177:SF588
+Modal Panther Description:       CYCLIN-A1-4
+Modal Panther Family ID:         PTHR10177
+Modal Panther Fam Desc:          CYCLINS
+Interpro Signature Accession:    cd20506; cd20562; G3DSA:1.10.472.10:FF:000013; G3DSA:1.10.472.10:FF:000167; G3DSA:1.10.472.10; PTHR10177; PIRSF001771; PF00134; PF02984; SM01332; SM00385; SSF47954
+Interpro Signature Description:  CYCLIN_AtCycA-like_rpt2; CYCLIN_AtCycA_like_rpt1; Cyclin A1; Mitotic cyclin 6; -; CYCLINS; Cyclin_A_B_D_E; Cyclin, N-terminal domain; Cyclin, C-terminal domain; Cyclin_C_2; cyclin_7; Cyclin-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi02
+  Gene Products: cyclin-A1-1-like
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: cyclin-A1-2-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: cyclin-A1-2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: cyclin-A1-2-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl01
+  Gene Products: cyclin-A1-1; cyclin-A1-2
+  Gene Descriptions: cyclin-A1-1; cyclin-A1-2
+Osa
+  Gene count: 4
+  Modal chromosome: Osa01
+  Gene Products: cyclin-A1-1-like; cyclin-A1-2%2C transcript variant X1; cyclin-A1-3%2C transcript variant X1; cyclin-A1-3-like%2C transcript variant X1
+  Gene Descriptions: cyclin-A1-1-like; cyclin-A1-2; cyclin-A1-3; cyclin-A1-3-like
+Ecu
+  Gene count: 5
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 4
+  Modal chromosome: Pau01
+  Gene Products: cyclin-A1-1-like; cyclin-A1-2-like; cyclin-A1-2-like%2C transcript variant X1
+  Gene Descriptions: cyclin-A1-1-like; cyclin-A1-2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi03K
+  Gene Products: cyclin-A1-2-like%2C transcript variant X2; cyclin-A1-3-like; cyclin-A1-3-like%2C transcript variant X1
+Pha
+  Gene count: 2
+  Modal chromosome: Pha03
+  Gene Products: cyclin-A1-1-like%2C transcript variant X1; cyclin-A1-3
+Msi
+  Gene count: 6
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi03
+  Gene Products: cyclin-A1-1; cyclin-A1-3
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: cyclin 2; cyclin-A1-1-like
+  Gene Synonyms: cyc2,CYCZM2W
+  Gene Descriptions: cyclin 2; cyclin-A1-1-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 506 aa
+
+MSTiAASRRSSsSsATAKRPAmAEgAGGpKAAGpaAAQAKKRVALGNITNVAAaGGRAGc
+GKVApPaGnAKLNSATSAAPVKKGSLASARNVSSnRGSAVKSAStKPAPpvSRHeStTQK
+HNVPPPKVPTiVhVPsrAPAlVPCSSFVSPGrSGDSVSvDETMSTCDSMKSPDFEYIDNG
+DSSMLASLQRRANEHLRISEDRDVEEnKWKKNAPAPMEIDrICDVDNnYEDPQLCATLAS
+DIYMHLREAETRKRPSTDFMETIQKDVNPSMRAILIDWLVEVAEEYRLVPDTLYLTVNYI
+DRYLSGNEINRQRLQLLGVACMLIAAKYEEICAPQVEEFCYITDNTYFRDEVLEMEASVL
+NYLKFEMTAPTAKCFLRRFVRAAQVCDEDPALHLEFLANYVAELSLLEYNLLSYPPSLIA
+ASAIFLAKFILQPTKyPWNSTLAHYTQYKPSELCDCVKALHRLFSVGPGSNLPAIREKYS
+QHKYKFVAKKQCPPSIPTEFFRDATC
+
+
+BOP CONSENSUS:
+Length: 511 aa
+
+MSSNaAASRRFSSAmsTATAKRPAVaEGAGGAKAAAGPAAAQQQAKKRVALGNLTNVAAA
+GGRAGCGKIAVVTAGNARLNSATSAAPVKKGSLASARNVStNRGSAVKSASTKPAPVTSR
+HESstQKESVPPPKVPTvVPIAAPAvVPCSSFVSPGHSGDSISTDETMSTCDSMKSPDFE
+YIDNGDSSvLDSLQRRANENLRISEDRDVEGTKWKKDApAPMEIDNICDVDnNYEDPQLC
+ATLASDIYMHLREAETRKRPSTDFLETIQKDVNPSMRAILIDWLVEVAEEYRLVPDTLYL
+TVNYIDRYLSGNEINRQRLQLLGVACMLIAAKYEEICAPQVEEFCYITDNTYFKDEVLEM
+EASVLNYLKFEMTAPTAKCFLRRFVRAAQVCDEDPALHLEFLANYVAELSLLEYSLLAYP
+PSLVAASAIFLSKFILQPTKHPWNSTLAHYTQYKPSELCDCVKALHRLFSVGPGSNLPAI
+REKYSQHKYKFVAKKQCPPSVPAEFFRDATC
+
+
+PACMAD CONSENSUS:
+Length: 507 aa
+
+MSTiAASRRSSSSSATAKRPAMAEgAGGPKAAGaaAAQAKKRVALGNITNVAApGGRAAA
+vGKVAPPptSAKLNSATSAAPLKKPSLASARSVSSIRGSAVKSASIKPAPPVSRHDSTTQ
+KHNVPPPKVPTtvHVPSRaPALVPCSSFVSPGRSGDSVSvDETMSTCDSMKSPDFEYIDN
+GDSSMLASLQRRANEHLRISEDRDVEENKWKKNAPAPMEIDRICDVDNDlEDPQLCATLA
+SDIYMHLREAETKKRPSTDFMETIQKDVNPSMRAILIDWLVEVAEEYRLVPDTLYLTVNY
+IDRYLSGNEINRQRLQLLGVACMLIAAKYEEICAPQVEEFCYITDNTYFRDEVLEMEASV
+LNYLKFEMTAPTAKCFLRRFARAAQACDEDPALHLEFLANYIAELSLLEYNLLSYPPSLI
+AASAIFLAKFILQPTKYPWNSTLAHYTQYKPSELCDCVKALHRLFSVGPGSNLPAIREKY
+SQHKYKFVAKKQCPPSIPTEFFRDaTC
+
+================================================================================

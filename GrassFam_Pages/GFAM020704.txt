@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM020704
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             422.0 aa
+Family Size (Extended Family Size): 20 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10631:SF9
+Panther Family ID:               PTHR10631
+Modal Panther ID:                PTHR10631:SF9
+Modal Panther Description:       TRNA (GUANINE(26)-N(2))-DIMETHYLTRANSFERASE
+Modal Panther Family ID:         PTHR10631
+Modal Panther Fam Desc:          N 2 ,N 2 -DIMETHYLGUANOSINE TRNA METHYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:3.40.50.150:FF:000243; G3DSA:3.40.50.150; PTHR10631; PF02005; SSF53335
+Interpro Signature Description:  tRNA (guanine(26)-N(2))-dimethyltransferase; Vaccinia Virus protein VP39; N 2 ,N 2 -DIMETHYLGUANOSINE TRNA METHYLTRANSFERASE; N2,N2-dimethylguanosine tRNA methyltransferase; S-adenosyl-L-methionine-dependent methyltransferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: tRNA (guanine(26)-N(2))-dimethyltransferase%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: tRNA (guanine(26)-N(2))-dimethyltransferase-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: tRNA (guanine(26)-N(2))-dimethyltransferase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: tRNA (guanine(26)-N(2))-dimethyltransferase-like; tRNA (guanine(26)-N(2))-dimethyltransferase-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: uncharacterized LOC127772892
+  Gene Descriptions: uncharacterized LOC127772892
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4338419
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau09
+  Gene Products: uncharacterized LOC133928682
+  Gene Descriptions: uncharacterized LOC133928682
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: tRNA (guanine(26)-N(2))-dimethyltransferase-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: tRNA (guanine(26)-N(2))-dimethyltransferase%2C transcript variant X22
+Msi
+  Gene count: 1
+  Modal chromosome: Msi17
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: tRNA (guanine(26)-N(2))-dimethyltransferase%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: uncharacterized LOC100276957
+  Gene Synonyms: GRMZM5G855860,si605032f04
+  Gene Descriptions: uncharacterized LOC100276957
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 421 aa
+
+MAAAAAAiSFPrSLSPPLQPtRRrPaPPaCTHSERGVSFDPGSAFYRSDSAAGRDLAVLA
+ATLHRRGRpDPSAPFLCLDAMCGCGVRALRYLAQAGADFVWANDASEALRPVIVaNLSRF
+ERpPpaGrRRWVVSHLDATRLLAERYLRREYFDVIDVDSFGGDAAYIRAALLALKIGGLL
+YLTSTDWRSARGYGSRSSLSSYGAYVRPVPYPNEVGLRMLIGGAAREAAmLGFHItPVFS
+YYAYHGPIYRVMVQLCNGKEDGISNYGFICHCKSCGQSQTFGFDELGQISCGCADRTDAD
+SITVVGPLWTGPLHDASFLTEMLsLAvEWGWAyTSENGVTLEKLLgTMIEESDPRLPPGY
+IRLDEIAsRAKVNSPPLGTLINSLRKEGYAACRSHIGANAIKTNCPISSCIdVAREIRNL
+R
+
+
+BOP CONSENSUS:
+Length: 416 aa
+
+MASASAAAPPVQFQPGRRAPLPPRCTHSERGVSFDPGSAFYRSDSAPGRDLAVLAATLHR
+RRRPDPSAPFLCLDAMCGSGVRALRYLAQAGADFVWANDASDALRPVIVGNLSRFEPVPP
+EGQRRWVVSHLDATRLLAERYLRREYFDVIDVDSFGSEAEYIRAAFLALKIGGLLYLTST
+DWRSARGYGGKCSLSSYGAYVRPVPYPNEIGLRMLLGGAAREAAMLGFHItPVFSYYAYH
+GPIFRAMVQLCHGKEDGISNYGFICHCKSCGQSQTFGFDELGQISCGCADRTDATSITVV
+GPLWTGPLHDRSSITEMLNLAVEWGWAHTSENGVTLEKLLGTMIEESDPRLPPGYIRLDE
+IASRAKVNSPPLGTLIHSLQKEGYAACRSHIGANAVKTNCPISSCIVVAREIRNLR
+
+
+PACMAD CONSENSUS:
+Length: 423 aa
+
+MAAAAISLPrSLSPPLQPTRRRPAPPACTHSERGVSFDPGSAFYRSDSAAGRDLAVLAAT
+LHRRRGRpDPSAPFLCLDAMCGCGVRALRYLAQAGADFVWANDASEALRPVILANLSRFE
+RGSPPAEAGRRRWVVSHNDATRLLAERYLRREYFDVIDVDSFGGDAAYVRAALLALKIGG
+LLYLTSTDWRSARGYGSRSSLSSYGAYVRPMPYPNEVGLRMVIGGAAREAALLGFHIRPV
+FSYFAYHGPIYRVMVQLCNGKDDGISNYGFICHCKSCGQSQTFGFDELGQISCGCTDRTD
+ADSITVVGPLWTGPLHDASFLTEMLSLAnEWGWAyTsENGVTLEKLLsTMIEESDPRLPP
+GYIRLDEISRRAKVNSPPLGTLINSLRKEGFSACRSHIGANvIKTNCPISSCIDVAREIR
+NLR
+
+================================================================================

@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM011865
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             430.0 aa
+Family Size (Extended Family Size): 21 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13890:SF26
+Panther Family ID:               PTHR13890
+Modal Panther ID:                PTHR13890:SF26
+Modal Panther Description:       MAGNESIUM TRANSPORTER MRS2-1
+Modal Panther Family ID:         PTHR13890
+Modal Panther Fam Desc:          RNA SPLICING PROTEIN MRS2, MITOCHONDRIAL
+Interpro Signature Accession:    cd12823; G3DSA:2.40.128.330:FF:000001; G3DSA:1.20.58.340:FF:000009; G3DSA:1.20.58.340; PTHR13890; PF22099
+Interpro Signature Description:  Mrs2_Mfm1p-like; Magnesium transporter MRS2-1; Magnesium transport protein CorA, transmembrane region; RNA SPLICING PROTEIN MRS2, MITOCHONDRIAL; Magnesium transporter MRS2-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: magnesium transporter MRS2-B
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: magnesium transporter MRS2-B
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: magnesium transporter MRS2-B
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: magnesium transporter MRS2-B; magnesium transporter MRS2-B-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: magnesium transporter MRS2-B
+  Gene Descriptions: magnesium transporter MRS2-B
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: magnesium transporter MRS2-B-like%2C transcript variant X1
+  Gene Synonyms: MRS2-B
+  Gene Descriptions: magnesium transporter MRS2-B-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau10
+  Gene Products: magnesium transporter MRS2-B
+  Gene Descriptions: magnesium transporter MRS2-B
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi04N
+  Gene Products: magnesium transporter MRS2-B-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: magnesium transporter MRS2-B
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: magnesium transporter MRS2-B
+Zma
+  Gene count: 2
+  Modal chromosome: Zma06
+  Gene Products: MRS2-10; uncharacterized LOC100192772
+  Gene Synonyms: GRMZM2G108477; cl34393_1(673),GRMZM2G170326
+  Gene Descriptions: MRS2-10; uncharacterized LOC100192772
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 430 aa
+
+RAAAAAaDSVKQPLLHRAYPSHVASASSPALPSVPPGGtAGGRRFPGGLDVPNLKKRGGG
+TRSWIRVEAATASVQTLEIDKATMMRRCELPARDLRLLDPLFVYPSTVLGRERAIVVNLE
+QIRCVITADEVLLLNSLDSYVLQYAAELQRRLLQRAEGDELPFEFRALELALEAACSFLD
+AQAAELEIEAYPLLDELTSKISTLNLERVRRLKSRLVALTRRVQKVRDEIEQLMDDDGDM
+AEMYLTEKKMRMESSVFGDQSLLGYNSAAAGTSVSAPVSPVSSPTESRKLEKTFSLCRSR
+HDSVKSSDNTvTEHIQELEMLLEAYFVVIDSTLNKLTSLKEYIDDTEDFINIQLDNVRNQ
+LIQFELLLTTATFVVAIFGVVAGVFGMNFETSVFSIQNAFQWVLIITGVVGAFIFCfFLW
+FFKYKRLMPL
+
+
+BOP CONSENSUS:
+Length: 446 aa
+
+MPAMADAVKQPLLHHQPYAYPSHAASASSPALPSVPHSGtTPTPGAGGGAAASFAGGRRF
+PGGLDVPNLKKRGGGTRSWIRVEAATASVQTLEVDKATMMRRCELPARDLRLLDPLFVYP
+STVLGRERAIVVNLEQIRCVITADEVLLLNSLDSYVFQYAAELQRRLLQRAEGDELPFEF
+RALELALEAACSFLDAQAAELEIEAYPLLDELTSKISTLNLERVRRLKSRLVALTRRVQK
+VRDEIEQLMDDDGDMAEMYLTEKKMRMESSSVFGDQSLATFNsAAAGTSVSAPVSPVSSP
+TESRKLEKTYSLCRSRHDSVKSSDNTVTEHIEELEMLLEAYFVVIDSTLNKLTSLKEYID
+DTEDFINIQLDNVRNQLIQFELLLTTATFVVAIFGVVAGVFGMNFETDVFSIQNAFQWVL
+IITGVVGAFIFCFFVWFFKYKRLMPL
+
+
+PACMAD CONSENSUS:
+Length: 430 aa
+
+mAAmAAAGDSVKQPLLHRAYPSHVASASSPALPSAPPGSAGRRFPGGLDVPNLKKRGGGT
+RSWIRVEAATASVQTLEIDKATMMRRCELPARDLRLLDPLFVYPSTVLGRERAIVVNLEQ
+IRCVITADEVLLLNSLDSYVLQYAAELQRRLLQRAEGDELPFEFRALELALEAACSFLDA
+QAAELEIEAYPLLDELTSKISTLNLERVRRLKSRLVALTRRVQKVRDEIEQLMDDDGDMA
+EMYLTEKKMRMESSVFGDQSLLGYNSAGAAGTSVSAPVSPVSSPTESRKLEKAFSLCRSR
+HDSTKSSDNTTTEHIQELEMLLEAYFVVIDSTLNKLTSLKEYIDDTEDFINIQLDNVRNQ
+LIQFELLLTTATFVVAIFGVVAGIFGMNFETSVFKIENAFQWVLVITSVVGVFIFCSFLW
+FFKYKRLMPL
+
+================================================================================

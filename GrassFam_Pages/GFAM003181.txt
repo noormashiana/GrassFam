@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM003181
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             403.0 aa
+Family Size (Extended Family Size): 28 (28) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR21231:SF9
+Panther Family ID:               PTHR21231
+Modal Panther ID:                PTHR21231:SF9
+Modal Panther Description:       GPN-LOOP GTPASE
+Modal Panther Family ID:         PTHR21231
+Modal Panther Fam Desc:          XPA-BINDING PROTEIN 1-RELATED
+Interpro Signature Accession:    cd17870; G3DSA:3.40.50.300:FF:000817; G3DSA:3.40.50.300; PTHR21231; PF03029; SSF52540
+Interpro Signature Description:  GPN1; GPN-loop GTPase 1; -; XPA-BINDING PROTEIN 1-RELATED; Conserved hypothetical ATP binding protein; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: GPN-loop GTPase QQT2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: GPN-loop GTPase QQT2-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata01D
+  Gene Products: GPN-loop GTPase QQT2%2C transcript variant X1
+Tae
+  Gene count: 6
+  Modal chromosome: Tae01A
+  Gene Products: GPN-loop GTPase QQT2-like; GPN-loop GTPase QQT2-like%2C transcript variant X1; GPN-loop GTPase QQT2-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: GPN-loop GTPase QQT2
+  Gene Descriptions: GPN-loop GTPase QQT2
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: GPN-loop GTPase QQT2%2C transcript variant X2
+  Gene Descriptions: GPN-loop GTPase QQT2
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: GPN-loop GTPase QQT2-like
+  Gene Descriptions: GPN-loop GTPase QQT2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi09K
+  Gene Products: GPN-loop GTPase QQT2-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha04
+  Gene Products: GPN-loop GTPase QQT2-like; GPN-loop GTPase QQT2-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: GPN-loop GTPase 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: uncharacterized LOC100282901
+  Gene Synonyms: GRMZM2G024293,si618011b01
+  Gene Descriptions: uncharacterized LOC100282901
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 401 aa
+
+MDVDSDPAAeSKPTQMDLEDQTDAKGKGKAEEGsGKGEELADSIGSLSIGPGRTNFKKKP
+VIIIVIGMAGTGKTTFMHRLVCHMQASNMRGYVlNLDPAVMTLPFGANIDIRDTVRYKEV
+MKEYGLGPNGGILTSLNLFSTKFDEVVSVIERRADQLDYVLVDTPGQIEIFTWSASGAII
+TEAFASTFPTVVAYVVDTPRSTSPVTFMSNMLYACSILYKTRLPLVLTFNKVDVAKHEFA
+IEWMQDFEAFQTALDSDSSYSSTFTRSLSLVLDEFYKNLRSVGVSAVSGTGVnaFFEAIE
+ASAKEYMETYRADLDKRIAEKERLEAERRKENMERLQRDMEKSKGQTVVLSTGLKDKNPA
+SDMMDDADEEEEEEALEDFRiSEDDEDEDEGEDEEVAHFGF
+
+
+BOP CONSENSUS:
+Length: 403 aa
+
+MDVDSEPsAESKPTQMDLEDQADAKGKGKADAEGKGKGEELADSIGSLSIGPGRTNFKKK
+PVIILVIGMAGTGKTTFMHRLVCHMQAStNMRGYVLNLDPAVMTLPFGANIDIRDTVRYK
+EVMKEYGLGPNGGILTSLNLFSTKFDEVISVIEkRADQLDYVLVDTPGQIEIFTWSASGA
+IITEAFASTFPTVVAYVVDTPRSTSPVTFMSNMMYACSILYKTRLPLVLTFNKVDVAKHE
+FALEWMQDFEAFQTALDSDSSYSSSFTRSLSLVLDEFYKNLRSVGVSAVSGTGVDAFFEA
+IEASAKEYMETYRADLDKRIAEKERLEAERRNENMERLRRDMEKSKGQTVVLSTGLKDKi
+PASEMMGDADEEEEEEALEDFRISEDDEDEDEGEDeEVTHFGl
+
+
+PACMAD CONSENSUS:
+Length: 403 aa
+
+MDVDSDPAASSKPTQMDLEeQTDAKGKGKAEEGSmKGEELADSIGGLSIGPGRTNFKKKP
+VIIIVIGMAGTGKTTLMHRLVCDMQASNKRGYVVNLDPAVMTLPFGANIDIRDTVRYKDV
+MKEYGLGPNGGILTSLNLFATKFDEVVSVIERRADQLDYVLVDTPGQIEIFTWSASGAII
+TEAFASTFPTVVAYVVDTPRSTSPVTFMSNMLYACSILYKTRLPLVLTFNKVDVAKHEFA
+IEWMQDFEAFQTALESDKSYSATYTRSLSLVLDEFYKNLRSVGVSAVSGTGVNTFYEAIE
+ASAKEYMETYRADLDKRIAEKERLEAERRKENMEKLQRDMMKSKGQTVVLSTGLKDKNPA
+SDMMDDAEEEEEEEflEDFgFSEVDDEEDEDEGEDEEVAHFGF
+
+================================================================================

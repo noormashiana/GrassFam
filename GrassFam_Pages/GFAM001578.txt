@@ -1,0 +1,117 @@
+================================================================================
+GrassFam ID: GFAM001578
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             377.5 aa
+Family Size (Extended Family Size): 42 (43) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13068:SF39
+Panther Family ID:               PTHR13068
+Modal Panther ID:                PTHR13068:SF39
+Modal Panther Description:       OS02G0749900 PROTEIN
+Modal Panther Family ID:         PTHR13068
+Modal Panther Fam Desc:          CGI-12 PROTEIN-RELATED
+Interpro Signature Accession:    G3DSA:1.25.70.10:FF:000001; G3DSA:1.25.70.10; PTHR13068
+Interpro Signature Description:  Mitochondrial transcription termination factor-like; Transcription termination factor 3, mitochondrial; CGI-12 PROTEIN-RELATED
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: uncharacterized LOC100846622
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: uncharacterized LOC127762406
+  Gene Descriptions: uncharacterized LOC127762406
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: transcription termination factor MTERF8%2C chloroplastic
+  Gene Descriptions: transcription termination factor MTERF8%2C chloroplastic
+Ecu
+  Gene count: 10
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 3
+  Modal chromosome: Pau01
+  Gene Products: uncharacterized LOC133908059; uncharacterized LOC133921225; uncharacterized LOC133924691
+  Gene Descriptions: uncharacterized LOC133908059; uncharacterized LOC133921225; uncharacterized LOC133924691
+Svi
+  Gene count: 6
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi01K
+  Gene Products: transcription termination factor MTERF8%2C chloroplastic-like; transcription termination factor MTERF8%2C chloroplastic-like%2C transcript variant X1; uncharacterized LOC120653811%2C transcript variant X1; uncharacterized LOC120675060
+Pha
+  Gene count: 3
+  Modal chromosome: Pha01
+  Gene Products: transcription termination factor MTERF8%2C chloroplastic-like; transcription termination factor MTERF8%2C chloroplastic-like%2C transcript variant X3; uncharacterized LOC112895043
+Msi
+  Gene count: 8
+  Modal chromosome: Msi08
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi04
+  Gene Products: transcription termination factor MTERF2%2C chloroplastic; transcription termination factor MTERF8%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: uncharacterized LOC100279611
+  Gene Synonyms: GRMZM2G161146,mTRF22
+  Gene Descriptions: uncharacterized LOC100279611
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 376 aa
+
+MLRLRsHLLSAvRAASPLHRlLLSSTAtATsPArFVAEDYLVtsCGLTPAQAlKASKyLa
+HLKSPsnPDAVLAFLAGiGLAKADiAAAiARyPRLLCsKVDKTLTPRiAQLRDIGLSPPQ
+ISRLIaiAPnIlvsPvkISRLAFYLSFLGSYDkVHSALrrspYLLgQdLErVVKPNiAFL
+rQCGLTdsDIAKllLstPRiLllEPeRVKEIVACAEKLGVPRNSgMFKhALwaVysigPg
+rinAKLDFLKKtLGCSEAELgiAVrKlPtILtfSEgKLsRtVEFLKvEVGLEpqYIvhRP
+AlLGYSlERRLMPRHYVLKvLKAKGLVKKDiDFYsaVCltEKKFvkKFLDPYnkSvPGLa
+DAYAAACAGQVPpEll
+
+
+BOP CONSENSUS:
+Length: 375 aa
+
+MQRLQKQLLPALRAAFPLPASHFSSRSLSASTATLSPTRFVVEDYLVASCGLTPAEALRA
+SKYLQKVPSNLDAVRAFLADFRLSKDDIASASSRYPRLLHSKVDKTLTSRVARLRDMGLS
+PPQISRLvtiAPgILSNPstISRLEFYLSLLGSYpRVEsALRnNsSLLsRNIEsVVKPNI
+AFLQQCGLTtCDIAKLlmRTsrLLTMqPEHVKEMVACAEKLGVrReSGmFryALvAVCni
+sPVRVSAKLDLLErALGCSEAqlAVSKlPlILTySEVKLsrsvEFLKtEVGLEPsYIAlR
+PAlLgYSLQRRLMPRYhVIkVLKeKGLVKKDIDFYSVFkIvEEsFVkKFLlrYHRSVPGL
+EKAYLAAREGKMPEI
+
+
+PACMAD CONSENSUS:
+Length: 377 aa
+
+MLRLRsHLLSAVRAASPLHRlLLSSTAaATsPArFvAEDYLVTtCGLTPAQArKASKyLa
+HLKSPvkPDAVLAFLAGIGLAKADVAAAvARyPRLLCaKVDKTLTPRIAQLRDIGLSPPQ
+ISRLIaiAPnIFvsPvkISRLAFYLSFLGSFDkLHSALrRspYLLgQDLErVVKPNiAFL
+rQCGLTdsDIaKlfLlaPRiLlLEPeRVKEIVaCAEKLGVPRNSaMFKhALwaVYsigPg
+rinAKLDFLKKtLGCSEAELglAVRKlPtILafSEgkLSRTVEFLKvEVGLepqYILhRP
+AlLGYSmERRLMPRHYVLKiLKAKGLVKKDiDFYnAVCltEKKFvkKFLDPYnkSvPGLA
+DAYAAACAGQVPpeLqp
+
+================================================================================

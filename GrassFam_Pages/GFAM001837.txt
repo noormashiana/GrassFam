@@ -1,0 +1,112 @@
+================================================================================
+GrassFam ID: GFAM001837
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             466.0 aa
+Family Size (Extended Family Size): 43 (44) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13683:SF790
+Panther Family ID:               PTHR13683
+Modal Panther ID:                PTHR13683:SF790
+Modal Panther Description:       PEPTIDASE A1 DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR13683
+Modal Panther Fam Desc:          ASPARTYL PROTEASES
+Interpro Signature Accession:    cd05472; G3DSA:2.40.70.10:FF:000021; G3DSA:2.40.70.10:FF:000013; G3DSA:2.40.70.10; PTHR13683; PF14543; SSF50630
+Interpro Signature Description:  cnd41_like; Aspartyl protease AED1; Acid Proteases; ASPARTYL PROTEASES; Xylanase inhibitor N-terminal; Acid proteases
+
+
+REXdb Match:                     False
+REXdb Percentage:                2.33%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: aspartyl protease family protein At5g10770%2C transcript variant X1
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu07H
+  Gene Products: aspartyl protease AED1-like; aspartyl protease family protein At5g10770-like
+Ata
+  Gene count: 4
+  Modal chromosome: Ata07D
+  Gene Products: aspartyl protease AED1-like; aspartyl protease family protein At5g10770-like
+Tae
+  Gene count: 13
+  Modal chromosome: Tae07A
+  Gene Products: aspartyl protease AED1-like; aspartyl protease family protein At5g10770-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu03
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi04N
+  Gene Products: aspartyl protease family protein At5g10770-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha04
+  Gene Products: aspartyl protease family protein At5g10770-like
+Msi
+  Gene count: 7
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi10
+  Gene Products: aspartyl protease family protein At5g10770
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: aspartyl protease family protein At5g10770
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 464 aa
+
+MASPLLLCILLcSYySIAaGGDEHgFVVVptsSFEPeAVCSTSsVtprPNRAgAsVPLVH
+RHGPCAPSqSSDKPSFAErLRRSRARAdYIMSRASrGrgtTtQdeGkVSIPTHLGtSVDS
+LEYVVTLGLGTPAVeQVLLmDTGSDLSWVQCAPCNSTdCYPQKDPLFDPsKSSTYAPIPC
+gTDaCKkLqsDHYdNGCTmNNGGgSQCGYaVEYGdGSkTRGVYSNETLTLAPGVvVKDFH
+FGCGydQrGPnDKfDGLLGLGGAPESLVVQTSSVYGGAFSYCLPPvSSgAGFLALGAPSn
+NTSGFvFTPMtrfpdyATFYvVkLTGISVGGKqLDIPpkVFeGGMIVDSGTIIThLPsTA
+YAALrSAFRaAMAAYPLiPSdDlDTCYNFTGYSNVTVPKVALTFSGGaTVDLDVPNGvLL
+DGCLAFtESGPDdyvGILGNVNQRTLEvLYDvGrGrVGFRAGAC
+
+
+BOP CONSENSUS:
+Length: 467 aa
+
+MASPLFLCILLVVFGSYLSISAAGDGHFrFVVVatSSFqpQdvCSTmtSsVtPRPNGAAV
+PLVHRHGPCAKSPSTDKPSSFAEALHRSRVRADYIMSRATmrMQeQEEGKVSIPAHLGTS
+VDSQEYVVTLGLGTPAVEQVLLlDTGSDLSWVQCAPCNSTDCYPQKDPLFDPRKSSTYAP
+IPCGSDVCKsLQSDHlDNGCSMNGNGTQSQCGYRVEYGGGlKTrGVYSNEALTLAPGVVV
+KDFHFGCGYKQhGPdDKFDGLLGLGGAPESLPVQTSAVYGGSFSYCLPPVSSGTGFLALG
+APSNTSGFSFTPMTpFMDyATFYLVKLTGISVGGKQLRIPpKVFEGGLIVDCGNIISHLP
+STPYAKLRSAFRAAMAAYPLIPSDEnDTCYNFTGYSNVTVPKVALTFTGGVTVDLDVPNG
+VLLDGCLAFTESGSDgYVGFLGNVQMRTLEMLYDVrGGRLGFRAGAC
+
+
+PACMAD CONSENSUS:
+Length: 463 aa
+
+MASPLLvcvvLCtYCYYIAHGGnEHGFVVVPRrSyEPEAVCSTSrVNLEPsSATVSVPLV
+HRHGPCAPSQsSDKPSFSERLRRSRARsNYIMSRASkGMaSTrRDDANVSIPTHLGGSVD
+SLEYVVTVGLGTPaVPQVLLMDTGSDLSWVQCAPCNSTtCYPQKDPLFDPSKSSTYAPIP
+CnTDACRKLTGDhYGNGCTSGGAQCGYAVEYGDGSqTRGVYSNETLTLAPGVTVKDFHFG
+CGHDQRGpNDKYDGLLGLGGAPESLVVQTSSVYGGAFSYCLPALNSeAGFLALGAPPsAN
+TSGFVFTPMrHLPeeATFYMVtMTGISVGGKpLDVPpSAFRGGMIIDSGTVVTELPHTAY
+NALQAAFRKAMAAYPLVPNGDLDTCYNFTGYSNVTVPRVALTFSGGATIDLDVPNGILLd
+DCLAFqESGPDvGLGIIGNVNQRTLEVLYDAGRGkVGFRAGAC
+
+================================================================================

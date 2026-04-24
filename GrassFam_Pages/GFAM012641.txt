@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM012641
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             365.0 aa
+Family Size (Extended Family Size): 19 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11746:SF90
+Panther Family ID:               PTHR11746
+Modal Panther ID:                PTHR11746:SF90
+Modal Panther Description:       NICOTINATE N-METHYLTRANSFERASE 1
+Modal Panther Family ID:         PTHR11746
+Modal Panther Fam Desc:          O-METHYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:3.40.50.150:FF:000223; G3DSA:1.10.10.10:FF:000604; G3DSA:3.40.50.150; PTHR11746; PIRSF005739; PF00891; SSF53335
+Interpro Signature Description:  Caffeic acid 3-O-methyltransferase; Vaccinia Virus protein VP39; O-METHYLTRANSFERASE; O-mtase; O-methyltransferase domain; S-adenosyl-L-methionine-dependent methyltransferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: caffeic acid 3-O-methyltransferase%2C transcript variant X1
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: nicotinate N-methyltransferase 1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: nicotinate N-methyltransferase 1
+Tae
+  Gene count: 2
+  Modal chromosome: Tae06B
+  Gene Products: nicotinate N-methyltransferase 1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: nicotinate N-methyltransferase 1
+  Gene Descriptions: nicotinate N-methyltransferase 1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: nicotinate N-methyltransferase 1-like
+  Gene Descriptions: nicotinate N-methyltransferase 1-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau06
+  Gene Products: nicotinate N-methyltransferase 1
+  Gene Descriptions: nicotinate N-methyltransferase 1
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi01K
+  Gene Products: nicotinate N-methyltransferase 1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: caffeic acid 3-O-methyltransferase%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi08
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: caffeic acid 3-O-methyltransferase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100283243
+  Gene Synonyms: GRMZM2G082007,si683005e02
+  Gene Descriptions: uncharacterized LOC100283243
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 363 aa
+
+MPAAePatAadeMSPAEARLAMMELANMISVPMALTAVIRLGVPAAvWAGGANAPLSAAE
+LLPAGHPDPSVLERLLRLLASRGVFSEHtgsSttspRRFALTAVGRTLVPsGPSGASYAD
+YVLQHHQDALVlAWPRLHEAVLDPAGPEPFARANAGVPAYAYYGKDREANEVMLRAMTGV
+SEPFMEALLDGYaGGFEGVATLVDVGGSSGACLEMIMRRVPTIREGINFDLPDVVAAAPP
+IAGVRHVGGDMFKSIPSGDAIFMKWVLTTWTNDECTAILKNCHnALPDGGKLIACEPVVP
+ETTDtSTRTRALLENDIFVMTTYRTQGRERSEEEFRQLGLAAGFTGFRAIYLDPFYAVLE
+YtK
+
+
+BOP CONSENSUS:
+Length: 370 aa
+
+MMSSPQPPAAEPATadgELSPAEARLAMMELANMISVPMALTAVIRLGVPAAvWAGGANA
+PLSAAeLLPAGHPDPSVLERLLRLLASRGVFSEHAAdSSGspERRYALTAVGRTLVPsGP
+SGASYADYVLQHHQDALVLAWPRLHEAVLDPAGPEPFARAHAGVPAYAYYGQDREANEVM
+LRAMTGVSEPFMEALLDGYgGGFEGVaTLVDVGGSSGACLEMIMRRVPTIREGVNFDLPD
+VVAAAPPIAGVRHVGGDMFKSIPSGDAIFMKWVLTTWTNDECTAILKNCHkALPEGGKLI
+ACEPVVPETTDaSTRTRALLENDIFVMTTYRTQGRERSEEEFRQLGLAAGFAGFRALYLD
+PFYAVLEYVK
+
+
+PACMAD CONSENSUS:
+Length: 365 aa
+
+MPPPSAAAAAADMSPAEARLAMMELANMISVPMALTAVIRLGVPsAVWAGGANAPLSAAE
+LLPAGHPDPSVLERLLRLLASRGVFSESTSTSTTSPRRFALTAVGRTLVPEGPSGASYAD
+YVLQHHQDALVAAWPRLHEAVLDPAGPEPFARANAGVPAYAYYGKDREANQVMLRAMTGV
+SEPFMDALLDGYGAAGGFrGVATLVDVGGSSGACLEMIMRRVPTIKEGINFDLPDVVAAA
+PPIAGVRHVGGDMFKSIPSGDAIFMKWVLTTWTNDECTAILRNCHAALPDGGKLVACEPV
+VPEETDTSTRTRALLENDIFVMTTYRTQGRERSEEEFRHLGLAAGFTGFRAIYLDPFYAV
+LEYTK
+
+================================================================================

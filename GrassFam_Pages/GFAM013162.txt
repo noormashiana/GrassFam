@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM013162
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             431.0 aa
+Family Size (Extended Family Size): 19 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR26312:SF194
+Panther Family ID:               PTHR26312
+Modal Panther ID:                PTHR26312:SF194
+Modal Panther Description:       OS01G0506200 PROTEIN
+Modal Panther Family ID:         PTHR26312
+Modal Panther Fam Desc:          TETRATRICOPEPTIDE REPEAT PROTEIN 5
+Interpro Signature Accession:    G3DSA:2.40.50.550; G3DSA:1.25.40.10; PTHR26312; PF16669
+Interpro Signature Description:  -; Tetratricopeptide repeat domain; TETRATRICOPEPTIDE REPEAT PROTEIN 5; Tetratricopeptide repeat protein 5 OB fold domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: tetratricopeptide repeat protein 5%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: tetratricopeptide repeat protein 5-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: tetratricopeptide repeat protein 5%2C transcript variant X10
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: tetratricopeptide repeat protein 5-like%2C transcript variant X14; tetratricopeptide repeat protein 5-like%2C transcript variant X5; tetratricopeptide repeat protein 5-like%2C transcript variant X6
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: uncharacterized LOC127768576
+  Gene Descriptions: uncharacterized LOC127768576
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4324040
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau01
+  Gene Products: uncharacterized LOC133912860%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133912860
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi02N
+  Gene Products: tetratricopeptide repeat protein 5-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: tetratricopeptide repeat protein 5-like%2C transcript variant X1
+Msi
+  Gene count: 1
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: tetratricopeptide repeat protein 5%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: uncharacterized LOC100194074%2C transcript variant X5
+  Gene Synonyms: GRMZM2G302405,pco087281b
+  Gene Descriptions: uncharacterized LOC100194074
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 437 aa
+
+MSaErAsGAaAssaSaPEPpRAEEAGRTPLERAADAAEELYRLRDTFFPRDPAEKAAALR
+ARADAALAlLDALPPEQRKSPQQRgVYEFLRGKILDVFPDYHKEAEDHLSKAVKLNPSLV
+DAWLCLGNCIWKKGDLASAKNCFlLALSKGsDKKILCQLSMLERSMAQGSEDQALLVEES
+IKHAKEAVMLDIKDGNSWYNLGNAYLTSFFVsGAWDHTKLHHSVKAYQNAEKDETMKLNP
+DLYYNCATADKYLENYERALRGFEAAALKDPGLGADTEVQKIISLLDKLENAMKGQLRSK
+RLASLVSSLSEVNlKSSHKKATISILSEGLNKTVAVLGKVVLLIRHDNVAPLYYLTCDLD
+QSYFILSVYGLRNEAIKEGDRVVLLEPYYRILDiSWKEQRYQFKSIRVDFPEQILINEKA
+PAPHHVaRASIHAHNKP
+
+
+BOP CONSENSUS:
+Length: 431 aa
+
+MSREASGAAASSASvPEPpRRTPLErTADAVEELYRLRDTFFPRDPvEKsAALRAcADAA
+LAVLDSLPPEQRKSPQQRVVYEFLMGKILDVFPDYCKEAEEHLSKAVKLNPSLVDAWLCL
+GNCIWKKGNLASARNCFLLALSKGADKKILCQLSMLERSMAQSSEDQALLVEESINHAKE
+AVMLDIKDGNSWYNLGNAYLTSFFVSGAWDHARLHHSVKAYQNAEKDETMKLNPDLYYNC
+ATAYKYLENYESALRGFEAAALKDPALRADTEVQKIINLLDKLENAMKGQLRPKRSASLV
+SSLNEVNFKLSHKKATISILSGGLNKTVAVVCKVVLWIRHDDDAPLYYLTCDLDQSYFIL
+SVYGLRNEAIKEGDRVALLEPYYRILDISWKEQRYKFKSIRVDFPEQIiINEKAPAAHHV
+vRASIRAHHKP
+
+
+PACMAD CONSENSUS:
+Length: 436 aa
+
+MSAQNPLTGACASSGPtPPEPEgGgRTPLeRAADAAEELYRLRDTFFPRDPAEKAAALRA
+RADAALALLDALPpEQKKSPQQRGVYEFLRGKILDVFPDYHKEAEDHLSKAVKLNPSLVD
+AWLCLGNCIWKKGDLsAAKNCFSLALSKGSDKKILCQLSMLERSMAQGSEDQALLVEESI
+KHAKEAVMLDIkDGNSWYNLGNAYLTSFFVGGAWDHTKLHHSVKAYQNAEKDKTMnLNPD
+LYYNCATADKYLENYERALRGFEAAALKDPGLGADTEVQKIISLLDKLENAMKGQLRSKR
+LASLVSSLSgVKLKSSHKKATISILSEGLNKAVAVLGKVVLLIRHDNVAPLYYLTCDLDQ
+SYFILSVYGLRNDAIKEGDRVVLFEPYYRILDTSWKDKRYQFKSIRVDFPEQILINEKAP
+APHHVARASIHAHNKP
+
+================================================================================

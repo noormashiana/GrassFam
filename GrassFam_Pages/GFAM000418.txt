@@ -1,0 +1,106 @@
+================================================================================
+GrassFam ID: GFAM000418
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             475.0 aa
+Family Size (Extended Family Size): 13 (16) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10353:SF290
+Panther Family ID:               PTHR10353
+Modal Panther ID:                PTHR10353:SF290
+Modal Panther Description:       4-HYDROXY-7-METHOXY-3-OXO-3,4-DIHYDRO-2H-1,4-BENZOXAZIN-2-YL GLUCOSIDEBETA-D-GLUCOSIDASE
+Modal Panther Family ID:         PTHR10353
+Modal Panther Fam Desc:          GLYCOSYL HYDROLASE
+Interpro Signature Accession:    G3DSA:3.20.20.80:FF:000370; G3DSA:3.20.20.80; PTHR10353; PF00232; SSF51445
+Interpro Signature Description:  Cyanidin 3-O-glucoside 5-O-glucosyltransferase (acyl-glucose); Glycosidases; GLYCOSYL HYDROLASE; Glycosyl hydrolase family 1; (Trans)glycosidases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: cyanidin 3-O-glucoside 7-O-glucosyltransferase (acyl-glucose)%2C transcript variant X6
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: beta-glucosidase 10-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: beta-glucosidase 10%2C transcript variant X3
+Tae
+  Gene count: 4
+  Modal chromosome: Tae03D
+  Gene Products: beta-glucosidase 1-like; beta-glucosidase 10-like%2C transcript variant X1; beta-glucosidase 10-like%2C transcript variant X2; beta-glucosidase 10-like%2C transcript variant X3
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 1
+  Modal chromosome: Pau02
+  Gene Products: cyanidin 3-O-glucoside 7-O-glucosyltransferase (acyl-glucose)-like%2C transcript variant X1
+  Gene Descriptions: cyanidin 3-O-glucoside 7-O-glucosyltransferase (acyl-glucose)-like
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: putative beta-glucosidase 5; putative beta-glucosidase 6%2C transcript variant X3
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: beta-glucosidase 10-like%2C transcript variant X3
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 480 aa
+
+MVALAAAvGSlSRDDFPaDFSFSTSAYQWEGAAAEDGRtPsCWDTFafcntGDDSVNGDV
+AADGYHKYKEDIKLMKETGLDAYRFSISWSRLIPNGRGEVNPKGVEYYNNLINELLDHGI
+QPHATIFQYDLPQILEDEYGGWLSPQIIDDFTAYADVCFREFGDRVTNWTTLNEPNALVS
+LGYDAGIGPPGRCSKPFGFANCSnGNSVNEPYIVAHNCLLAHSSAVSLYRRKYQeKQHGL
+IGMNIFINNIvPYTNSTEDIAAAKRAQAFYTGWFLDPLYYGDYPLVMKENTGSKLPKFSR
+sQSEQLINSMDFLGINYYTILYVKDDPHhAPSNkRDFrADMSAKSIFsSNSTTGFYVPGY
+GLQQVLEYLKQSYGNPPIYIHENGYPMHQDVVFDDGPRVEFLSEHLksLLiAVRNGSNTR
+GYFAWSLMDLYELLSVGDTYGLYYVDFADkDLKRYPRRSAIWYADFLKGRRTemGRFSDH
+
+
+BOP CONSENSUS:
+Length: 482 aa
+
+MVALaAAAGSvSrDDFPaDFSFGASTSAYQWEGAAvEdERtPsVWDTYKFantGDDSVNG
+DVAADGYHKYKEDIKLMKETGLDAYRFSISWSRLIPNGRGEINPKGVEYYNNLINELLDH
+GIQPHATIFQYDLPQILEDEYGGWLSPQIIGDFTAYADVCFREFGDRVTNWTTLNEPNAL
+VSLGYDAGIGPPGRCSKPFGFADCSCGDSVNEPYIVAHNCLLAHSSAVSLYRRKYQTKQH
+GLIGMNIFINNILPYTNSTEDIAAAKRAQAFYTGWFLDPLYYGDYPLVMKENTGSKLPKF
+SRSQSKQLINSMDFLGINYYTFLYVKDDPHHAPSNKRDFRADMAAKSIFSSNSTTGFYVP
+GYGLQQVLEHLKQSYGNPPIYIHENGYPMHQDVVFDDGPRVEFLSEHLKNLLIAVRNGSN
+TRGYFAWSLMDLYELLSVGDTYGLYYVDFADEDLKRYPRSSAIWYKDFLKGRRtETERFS
+DH
+
+
+PACMAD CONSENSUS:
+Length: 410 aa
+
+MKETGLDAFRFSISWPRLIPNGRGEVNPKGLEYYNNLINELLDHGIEPHATLFQYDLPQV
+LEDEYNGWLSPQIIDDFTAYSDVCFREFGDRVTNWTTLNEPNAAALLGYDvGlAPPGRCS
+EPFGNCPNGNSVTEPYIVGHHSLLAHSSAVSLYRKKYQEKQHGVIGMNIFIYDFVPLTNS
+TEDTtATERAmAFYTGWFLDPLYHGDYPDIMKKNAGSKLPKFSNNQSEQLINSvDFLGVN
+YYSIMYVKDDPQAASSNERDFLADISvKTtyTNTSTTrYVPPYGLQGVLEYLKQYYGNPP
+IYIHENGYPMNQDVVFDDGPRVEFLSEHLTSLlDSVRNGSNTKGYFVWSLMDLYELLGGS
+TYGLYYVDFADKELRRYPRRSAIWYADFLKGRRAAMPGRSSDSSLpvSSV
+
+================================================================================

@@ -1,0 +1,119 @@
+================================================================================
+GrassFam ID: GFAM010391
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             518.0 aa
+Family Size (Extended Family Size): 15 (15) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43523:SF1
+Panther Family ID:               PTHR43523
+Modal Panther ID:                PTHR43523:SF1
+Modal Panther Description:       GLUCOSE-1-PHOSPHATE ADENYLYLTRANSFERASE LARGE SUBUNIT 2, CYTOSOLIC
+Modal Panther Family ID:         PTHR43523
+Modal Panther Fam Desc:          GLUCOSE-1-PHOSPHATE ADENYLYLTRANSFERASE-RELATED
+Interpro Signature Accession:    cd02508; cd04651; G3DSA:3.90.550.10; G3DSA:2.160.10.10; TIGR02091; NF002772; PTHR43523; PF25247; PF00483; SSF53448; SSF51161
+Interpro Signature Description:  ADP_Glucose_PP; LbH_G1P_AT_C; Spore Coat Polysaccharide Biosynthesis Protein SpsA; Chain A; Hexapeptide repeat proteins; glucose-1-phosphate adenylyltransferase; GLUCOSE-1-PHOSPHATE ADENYLYLTRANSFERASE-RELATED; GLGC left-handed parallel beta-helix domain; Nucleotidyl transferase; Nucleotide-diphospho-sugar transferases; Trimeric LpxA-like enzymes
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: glucose-1-phosphate adenylyltransferase large subunit 2%2C cytosolic%2C transcript variant X2
+  Gene Descriptions: glucose-1-phosphate adenylyltransferase large subunit 2%2C cytosolic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: glucose-1-phosphate adenylyltransferase large subunit 2%2C cytosolic-like%2C transcript variant X1
+  Gene Descriptions: glucose-1-phosphate adenylyltransferase large subunit 2%2C cytosolic-like
+Ecu
+  Gene count: 3
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 1
+  Modal chromosome: Pau01
+  Gene Products: glucose-1-phosphate adenylyltransferase large subunit 2%2C cytosolic-like
+  Gene Descriptions: glucose-1-phosphate adenylyltransferase large subunit 2%2C cytosolic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: glucose-1-phosphate adenylyltransferase large subunit 1%2C chloroplastic/amyloplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: glucose-1-phosphate adenylyltransferase large subunit 1%2C chloroplastic/amyloplastic-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: glucose-1-phosphate adenylyltransferase large subunit 1%2C chloroplastic/amyloplastic%2C transcript variant X4
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: shrunken 2%2C transcript variant X1
+  Gene Synonyms: GRMZM2G429899,sh2,shrunken-2
+  Gene Descriptions: shrunken 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 518 aa
+
+MQFTLALDGNTsPHPMRRSGEGGGSERLMERLNIGGInQEKALRNRCFGGGVAgTTQCVL
+TSDACPETLHFQTQSSRKSYADANRVSAVILGGGTGAQLFPLTSTRATPAVPVGGCYRLI
+DIPMSNCFNSGINKIFVMTQFNSASLNRHIHRTYLGGGINFTDGSVQVLAATQMPEEPAG
+WFQGTADAIRKFIWVLEDYYNHKDIEHIVILSGDQLYRMNYMELVQKHVDDNADITISCA
+PVDESRASNYGLVKFDyTGRVLQFFEKPKGADLESMRVDTNFLSYAIGDtQKYPYIASMG
+VYVFKRDALLDLLKSKYsQLHDFGSEILPRAVLEHNVQACIFTGYWEDVGTIKSFFDANL
+ALTEQPSKFEFYDPKTPFFTAPRYLPPTQLDKCKIKDAFISDGCLLSECtIEHSVIGVCS
+RVSSGCELKDTMMMGADIYETEEETSKLLLAGKVPIGIGENTKIRNCIIDMNARIGKNVV
+IANSKGIQEADHPEEGYYIRSGIVVILKNATIKDGSVI
+
+
+BOP CONSENSUS:
+Length: 518 aa
+
+MQFMMPLDTNACAQPMRRAGEGAGTERLMERLNIGGMTQEKALRKRCFGDGVTGTARCVF
+TSDADRDTPHLRTQSSRKNYADASHVSAVILGGGTGVQLFPLTSTRATPAVPVGGCYRLI
+DIPMSNCFNSGINKIFVMTQFNSASLNRHIHHTYLGGGINFTDGSVQVLAATQMPDEPAG
+WFQGTADAIRKFMWILEDHYNQNNIEHVVILCGDQLYRMNYMELVQKHVDDNADITISCA
+PIDGSRASDYGLVKFDDSGRVIQFLEKPEGADLESMKVDTSFLSYAIDDKQKYPYIASMG
+IYVLKKDVLLDILKSKYAHLQDFGSEILPRAVLEHNVKACVFTEYWEDIGTIKSFFDANL
+ALTEQPPKFEFYDPKTPFFTSPRYLPPARLEKCKIKDAIISDGCSFSECTIEHSVIGISS
+RVSIGCELKDTMMMGADQYETEEETSKLLFEGKVPIGIGENTKIRNCIIDMNARIGRNVI
+IANTQGVQESDHPEEGYYIRSGIVVILKNATIKDGTVI
+
+
+PACMAD CONSENSUS:
+Length: 518 aa
+
+MQFTLALDGNTsPHliRRSgEGGGSERLMERLNIGVINQEKALRNRCFGGrVArTTQCVL
+TSDACPETLHFQTHSSRKSYADANRVSAVILGGGTGAQLFPLTSTRATPAVPVGGCYRLI
+DIPMSNCFNSGINKIFVMTQFNSASLNRHIHRTYLGGGINFTDGSVQVLAATQMPEEPAG
+WFQGTADAIRKFIWVLEDYYNHKDIEHIVILSGDQLYRMNYMELVQKHVDDNADITISCA
+PVDESRASNYGLVKFDyTGRVLQFFEKPKGADLESMRVDTNFLSYAIGDTQKYPYIASMG
+VYVFKRDALLDLLKSKYsQLHDFGSEILPRAVLEHNVQAyIFTGYWEDVGTIKSFFDANL
+ALTEQPSKFEFYDPKTPFFTAPRYLPPTQLDKCKIKDAFISDGCLLSECsIKHSVIGVCS
+RVSSGCELMDTMMMGADIYETEEEtSKLLLAGKVPIGIGENTKIRNCIIDMNARIGKNVV
+IANSKGIQEADHPEEGYYIRSGIVVILKNATIKDGSVI
+
+================================================================================

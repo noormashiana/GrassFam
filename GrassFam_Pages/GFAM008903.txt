@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM008903
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             419.0 aa
+Family Size (Extended Family Size): 22 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR43888
+Modal Panther ID:                PTHR43888:SF50
+Modal Panther Description:       DNAJ PROTEIN HOMOLOG
+Modal Panther Family ID:         PTHR43888
+Modal Panther Fam Desc:          DNAJ-LIKE-2, ISOFORM A-RELATED
+Interpro Signature Accession:    cd10747; G3DSA:2.60.260.20:FF:000150; G3DSA:1.10.287.110:FF:000012; G3DSA:2.60.260.20:FF:000068; G3DSA:2.60.260.20; G3DSA:1.10.287.110; PTHR43888; PF01556; SM00271; SSF46565
+Interpro Signature Description:  DnaJ_C; Chaperone protein dnaJ 3; dnaJ protein homolog; -; DnaJ domain; DNAJ-LIKE-2, ISOFORM A-RELATED; DnaJ C terminal domain; dnaj_3; Chaperone J-domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: dnaJ protein homolog
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: dnaJ protein homolog 2-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: dnaJ protein homolog 2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: dnaJ protein homolog 2-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: dnaJ protein homolog
+  Gene Descriptions: dnaJ protein homolog
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: dnaJ protein homolog
+  Gene Descriptions: dnaJ protein homolog
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: dnaJ protein homolog
+  Gene Descriptions: dnaJ protein homolog
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: dnaJ protein homolog%2C transcript variant X1; dnaJ protein homolog%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: dnaJ protein homolog
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: dnaJ protein homolog
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: chaperone DNA J2; uncharacterized LOC100280317
+  Gene Synonyms: GRMZM2G134980; cdj2,GRMZM2G364069
+  Gene Descriptions: chaperone DNA J2; uncharacterized LOC100280317
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 419 aa
+
+MFGRAPKKSDNTKYYEILGVPKsASQDDLKKAYRKAAIKNHPDKGGDPEKFKELAQAYEV
+LSDPEKREIYDQYGEDALKEGMGGGGgHVDPFDIFSSFFGPSFGGGGGSSRGRRQRRGED
+VVHPLKVSLEDLYNGTSKKLSLSRNVLCSKCKGKGSKSGASMRCPGCQGSGMKVTIRQLG
+PSMIQQMQQPCNECKGTGESINEKDRCPGCKGEKVVQEKKVLEVHVEKGMQHNQKITFPG
+EADEAPDTVTGDIVFVLQQKDHSKFKRKGDDLFYEHTLSLTEALCGFQFVLTHLDNRQLL
+IKSNPGEVVKPDQFKAINDEGMPMYQRPFMKGKLYIHFTVEFPDSLAPEQCKALEAVLPP
+KPaSKLTDMELDECEETTMHDVNNIEEEMRRKQAHAAQEAYEEDDEMPGGAQRVQCAQQ
+
+
+BOP CONSENSUS:
+Length: 420 aa
+
+MFGRAPKKSDNTKYYEVLGVPKNAAQDDLKKAYRKAAIKNHPDKGGDPEKFKELAQAYEV
+LSDPEKREIYDQYGEDALKEGMGGGGGGGVDPFDIFSSFFGPSFGGGGGSSRGRRQRRGE
+DVVHPLKASLEDLYNGTSKKLSLSRSVLCSKCKGKGSKSGASMRCPGCQGSGMKVTIRQL
+GPSMIQQMQQACNECKGTGESINDKDRCPGCKGEKVLQEKKVLEVHVEKGMQHNQKITFP
+GEADEAPDTVTGDIVFVVQQKEHPKFKRKGDDLFYEHTLSLTEALCGFQLVLTHLDNRQL
+LIKSNPGEVVKPDSFKAISDEGMPMYQRPFMKGKLYIHFTVEFPDSLAPDQCKALEAVLP
+PKPASKLTDMELDECEETTMHDVNMEEEMRRKAHAAAQEAYDEDDEMPGGGAQRVQCAQQ
+
+
+PACMAD CONSENSUS:
+Length: 419 aa
+
+MFGRAPKKSDNTKYYEILGVPKSASQDDLKKAYRKAAIKNHPDKGGDPEKFKELAQAYEV
+LSDPEKREIYDQYGEDALKEGMGGGGAHVDPFDIFSSFFGPSFGGGGGSSRGRRQRRGED
+VVHPLKVSLEDLYNGTSKKLSLSRNVICSKCKGKGSKSGASMRCPGCQGSGMKVTIRQLG
+PSMIQQMQQPCNECKGTGESINEKDRCPGCKGEKVVQEKKVLEVHVEKGMQHNQKITFPG
+EADEAPDTVTGDIVFVLQQKDHSKFKRKGDDLFYEHTLSLTEALCGFQFVLTHLDNRQLL
+IKSNPGEVVKPDQFKAINDEGMPmYQRPFMKGKLYIHFTVEFPDSLAPEQCKALEAVLPP
+KPtSKLTDMEIDECEETTMHDVNNIEEEMRRKQAHAAQEAYEEDDEMPGGAQRVQCAQQ
+
+================================================================================

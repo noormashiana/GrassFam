@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM010375
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             460.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR32227:SF62
+Panther Family ID:               PTHR32227
+Modal Panther ID:                PTHR32227:SF62
+Modal Panther Description:       GLUCAN ENDO-1,3-BETA-D-GLUCOSIDASE
+Modal Panther Family ID:         PTHR32227
+Modal Panther Fam Desc:          GLUCAN ENDO-1,3-BETA-GLUCOSIDASE BG1-RELATED-RELATED
+Interpro Signature Accession:    G3DSA:3.20.20.80:FF:000002; G3DSA:1.20.58.1040:FF:000003; G3DSA:3.20.20.80; PTHR32227; PF00332; SM00768; SSF51445
+Interpro Signature Description:  Glucan endo-1,3-beta-glucosidase 3; glucan endo-1,3-beta-glucosidase 7; Glycosidases; GLUCAN ENDO-1,3-BETA-GLUCOSIDASE BG1-RELATED-RELATED; Glycosyl hydrolases family 17; X8_cls; (Trans)glycosidases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: glucan endo-1%2C3-beta-glucosidase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: glucan endo-1%2C3-beta-glucosidase-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: glucan endo-1%2C3-beta-glucosidase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: glucan endo-1%2C3-beta-glucosidase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: glucan endo-1%2C3-beta-glucosidase-like
+  Gene Descriptions: glucan endo-1%2C3-beta-glucosidase-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: glucan endo-1%2C3-beta-glucosidase-like
+  Gene Descriptions: glucan endo-1%2C3-beta-glucosidase-like
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 1
+  Modal chromosome: Pau07
+  Gene Products: glucan endo-1%2C3-beta-glucosidase-like
+  Gene Descriptions: glucan endo-1%2C3-beta-glucosidase-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: glucan endo-1%2C3-beta-glucosidase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: glucan endo-1%2C3-beta-glucosidase-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: glucan endo-1%2C3-beta-glucosidase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: uncharacterized LOC100285163
+  Gene Synonyms: GRMZM2G064202,umc1419
+  Gene Descriptions: uncharacterized LOC100285163
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 456 aa
+
+LLQiLLPmLLLLSsIaGADAGGIGVTYGtRGTTLPPPADVARFLARDTiVDRVRLLDADP
+lALRAFAGTGLAVDVTVPNGVVPRLASLAFARRWVRdNVAPYAaATNISRiLVGrEVISQ
+ANRTLLLaLVPAMQNLHTALvAaSLHRRIKVSTtHSLGVLAtSTPPSAARFRDGYDAAVV
+KPLLrFLRATGAPFMVNAYPFYGLTnDAtLDFALFRVNAGVmDaGTGLVYtNMLDAQLDA
+VHSAMRRLGFGDVDVVVsETGWPSAGEDWEVGVGADLARDYNrNAIRHLGSGVGTPLMPN
+RTFEVSIFSLFDENLKPGPVSERNFGLFRADMTPVYDAGILTAPEtVgPVSAKVTPAAAP
+dAgAAsGrRQWCVPKPAADEmVLQENIDFVCGQgGvDCgAIRPGGvCYEPDTVQAHAAYA
+MNLYFQSNGQHAFDCDFGQTGVVTTvDPSYGsCKFT
+
+
+BOP CONSENSUS:
+Length: 460 aa
+
+MHAPMLILLLSSIAAADAAGIGVTYGRRATSLPPPADVARFLARGTVLDRVRLLNADPLA
+LRAFAGMGLAVDVTVPNALVPRlADSVAFARQWVRdSVAPHAAAGTNVSRILVGRDVISQ
+ANRTLLLCLVPAMQNLHAALLATSLHRRIKVSAAHSLGVLAVSTPPSAGRFREGYDAAVV
+KPLLGFLRATGAPFMVNAYPFYGLTSDAELDFALFRVGAEGVTDAGTGLVYTNALDAQLD
+AVHSAMkRLGFGDVDVVVAETGWPWAGEDWEVGAGADHAGDYNRNAIRHLGSGVGTPLMP
+NRTFEVSIFSLFDENLKPGPMSEHHFGLFHADMTPIYDAGILTAPEsVGPVSAKVTPAAP
+APAPDAGAADSGGRQWCVPTPAADAAVLQENIDFVCGGGMDCGPIRPGGRCYEPDTVQAH
+AAYAMNLYFRSNGQHAFDCDFGRTGVVTTVDPSFGSCNFT
+
+
+PACMAD CONSENSUS:
+Length: 456 aa
+
+MTLPTVLVQILLPtLLLVSAItGADAGGIGVNYGTRGTTLPPPADVARFLARDTIVDRVR
+LLDADPvLLQAFAGTGLAVDVTVPNGVVPRLVSLAFARRWVRENVAPYARATNISRLLVG
+DEVTTEANRTLLLALVPAMQNLHTALVAASLHGRVKVSTTHSLGVLTTTEQPSAARFRDG
+YDTAIVKPLLRFLRATGAPFMVNAYPFYGLTNDTLDFALFRVNdGVMDqGSGLVYSNMLD
+AQLDAVHSAIRRLGFGDVDIAVSETGWPSAGEDWEVGVGADLARDYNKNAIRHLGSGVGT
+PLMPNRTFEVSIFSLFDENLKPGPVSERNFGLFRGDMTPVYDVGIFTDPETVEPVSTKVT
+PAPGAAGRRQWCVPKPAADEMVLQENIDFACGQEGVDCAAIRPGGVCYEPDTVQGHAAYA
+MNLYFQSNGQHAFDCDFGQTGVVTTADPSYGGCKFM
+
+================================================================================

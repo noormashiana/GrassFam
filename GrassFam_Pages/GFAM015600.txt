@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM015600
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             463.0 aa
+Family Size (Extended Family Size): 21 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR33101:SF5
+Panther Family ID:               PTHR33101
+Modal Panther ID:                PTHR33101:SF5
+Modal Panther Description:       OS07G0481100 PROTEIN
+Modal Panther Family ID:         PTHR33101
+Modal Panther Fam Desc:          ROP GUANINE NUCLEOTIDE EXCHANGE FACTOR 1
+Interpro Signature Accession:    G3DSA:1.20.58.2010:FF:000001; G3DSA:1.20.58.2010:FF:000003; G3DSA:1.20.58.2010; PTHR33101; PF03759
+Interpro Signature Description:  Rop guanine nucleotide exchange factor 14; PRONE domain, subdomain 1; ROP GUANINE NUCLEOTIDE EXCHANGE FACTOR 1; PRONE (Plant-specific Rop nucleotide exchanger)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: rop guanine nucleotide exchange factor 3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: rop guanine nucleotide exchange factor 3-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: rop guanine nucleotide exchange factor 3
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: rop guanine nucleotide exchange factor 3-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: rop guanine nucleotide exchange factor 3-like%2C transcript variant X2
+  Gene Descriptions: rop guanine nucleotide exchange factor 3-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: rop guanine nucleotide exchange factor 3
+  Gene Descriptions: rop guanine nucleotide exchange factor 3
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 2
+  Modal chromosome: Pau14
+  Gene Products: rop guanine nucleotide exchange factor 3-like
+  Gene Descriptions: rop guanine nucleotide exchange factor 3-like
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: rop guanine nucleotide exchange factor 3-like; rop guanine nucleotide exchange factor 3-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: rop guanine nucleotide exchange factor 3-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: rop guanine nucleotide exchange factor 3
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: rop guanine nucleotide exchange factor 3
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 463 aa
+
+MGDSSGFPGFHSHSYDRDYARPLFRVASFSDSGDEQEHHasSPRGRGhSMSRTASsKVAA
+PSRLSpSvSKLSMKKLQQVVDEKSmEDEEMELMKEKYTKLLLGEDMSGSGKGVCTAVAIS
+NAITNLYATVFGTCHRLqPLPPEKRSMWNREMDCLLSICEYIVEFSPTVQAMPDGSTHDV
+MATSPRSDILMNLPALEKLETMLLGILDSFDKaEFWYADQRKQSFnESKKSFQRSEDKWW
+LPEPCVPDSGLSDRMHRELQQKRDQASQIHKMAMEINSsILSEMQVPLSYLETLPKSGKV
+GVGDAIYRYMSSGDQFSPDHLLNFLNLSSEHEALEIADRVEAAMYVWRRKASmTHVVSKW
+ENVTELNADGDKNLILASRARSLLLCLKQRFPGLSQTTLDTSKIQYNKDIGQAILESYSR
+VLESLAYNIVSWIDDVLIADENAKKGHkIRMQKQVFSQISPQR
+
+
+BOP CONSENSUS:
+Length: 463 aa
+
+MGDSSAFPGFHSHSYDRDYARPLFRVASFSsERGGDEHEHhpSSPRGRSMsRTASFKVAA
+PSRLSQAMSKLSMKKLQQAVDEKSVEDEEMELMKEKYTKLLLGEDMSGGGKGVCTAVAIS
+NAITNLYATVFGTCHRLQSLPPEKRSMWNREMDCLLSICEYIVEFAPTVQARPDGSTHDV
+MATSPRSDILMNLPALEKLETMLLGILDSFDKAEFWYADQRKQSFSETKKSFKRNEDKWW
+LPEPCVPESGLSDSLHRELQHKRDQASQIHKMAMEINNAILSEMQIPSSYIETLPKTGKV
+GTGDAIYRYMSSGDQFSPDHLLDFLNLSSEHEALEIADRVEAAMYVWRRKASMTHVVTKW
+ENVTELNADGDKNLILASRARSLLLCLKQRFPGLSQTTLDTSKIQYNKDIGQAILESYSR
+VLESLAYSIVSWIDDVLLADENAKQGNSTRIQKQVFSQVSPQR
+
+
+PACMAD CONSENSUS:
+Length: 463 aa
+
+MSDGSGFPGFHSHSYDRDYsRPLFRVASFSDSGDEQERHvSSPrGRSHStSRTASSKAAA
+PSRLSPSVSRmSMKKmQQVVDEKSMEDEEMELMKEKYTKLLLGEDMSGSGKGVCTAVAIS
+NAITNLYATVFGTCHRLEPLSPEKRSMWNREMDCLLSICEYIVEFSPTVQAMPDGSTHDV
+MATSPRSDILMNLPALEKLETMLLGILDSFhKPEFWYADQRNQSFNESKKSFQRSEDKWW
+LPEPCVPDSGLSDRMHRELQQKRDQASQIHKMAMEINSSILSEMQVPLSYLETLPKSGRV
+GVGDAIYRYMSSGDQFSPEHLLNFLNLSSEHEALEIADRVEAAMYVWRRKASTTHVVSKW
+ENVTELNADGDKNLVLASRARSLLLCLKQRFPGLSQTTLDTSKIQYNKDIGQAILESYSR
+VLESLAHNIVSWIDDILIADENAKKGHKIRMQKQVFSQISPQR
+
+================================================================================

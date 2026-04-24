@@ -1,0 +1,151 @@
+================================================================================
+GrassFam ID: GFAM010784
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             798.5 aa
+Family Size (Extended Family Size): 20 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11689:SF136
+Panther Family ID:               PTHR11689
+Modal Panther ID:                PTHR11689:SF136
+Modal Panther Description:       H(+)_CL(-) EXCHANGE TRANSPORTER 7
+Modal Panther Family ID:         PTHR11689
+Modal Panther Fam Desc:          CHLORIDE CHANNEL PROTEIN CLC FAMILY MEMBER
+Interpro Signature Accession:    cd03685; cd04591; G3DSA:1.10.3080.10:FF:000004; G3DSA:3.10.580.10:FF:000047; G3DSA:1.10.3080.10; PTHR11689; PR00762; PF00654; SSF81340; SSF54631
+Interpro Signature Description:  ClC_6_like; CBS_pair_voltage-gated_CLC_euk_bac; Chloride channel ClC3; Chloride channel protein; Clc chloride channel; CHLORIDE CHANNEL PROTEIN CLC FAMILY MEMBER; Chloride channel signature; Voltage gated chloride channel; CBS-domain pair
+
+
+REXdb Match:                     False
+REXdb Percentage:                5.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: chloride channel protein CLC-d%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: chloride channel protein CLC-d%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: chloride channel protein CLC-d%2C transcript variant X2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: chloride channel protein CLC-d%2C transcript variant X1; chloride channel protein CLC-d-like%2C transcript variant X1; chloride channel protein CLC-d-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: chloride channel protein CLC-d%2C transcript variant X1
+  Gene Descriptions: chloride channel protein CLC-d
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: chloride channel protein CLC-d%2C transcript variant X1
+  Gene Descriptions: chloride channel protein CLC-d
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: chloride channel protein CLC-d-like; chloride channel protein CLC-d-like%2C transcript variant X1
+  Gene Descriptions: chloride channel protein CLC-d-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi09K
+  Gene Products: chloride channel protein CLC-d%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: chloride channel protein CLC-d%2C transcript variant X2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: chloride channel protein CLC-d%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: chloride channel protein CLC-d%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 796 aa
+
+MLSGDQDVPDGIGMARLAWTRLPTADGEgAGPSTSAAAdDELFSGAVESLDYEVIENYAY
+REEQAQRSKFWVPYYVMLKWLFALLIGVGTGLAAIFINLAVENFSGWKYTATFAIIQHSY
+FVGFLVYTLFNLALVFSSVYIVTNFAPAAAGSGIPEIKGYLNGVDTHGILLFRTLVGKIF
+GSIGSVGGGLALGKEGPLVHTGACIASLLGQGGSAKYHLSSRWVRIFESDRDRRDLVTCG
+CAAGVAAAFRAPVGGVLFALEEVTSWWRSHLMWRVFFTSAVVAVVVRSAMNWCNSGKCGH
+FGAGGFIIWDISGGQEDYSYQELLPMAIIGVIGGLLGALFNQLTLYITKWRRTYLHKKGK
+RVQIFEACLISLVTSTISFVLPLLRKCSPCPqLETNSGIECPHPPGTDGNFVNFYCSKDn
+EYNDLATIFFNTQDDAIRNLFSAKTFHEYSAQSLITFLVMFYSLAVVTFGTAVPAGQFVP
+GIMIGSTYGRLVGMFVVKFYKKLNVEEGTYALLGAASFLGGSMRMTVSLCVIMVEITNNL
+QLLPLIMLVLLISKAVGDFFNEGLYEEQARLRGIPLLDSRPKQVMRNMNAKDACKNQKVV
+CLPRVSRVVDIVSVLRTNKHNGFPVVDRGQNGESLVIGLILRSHLLVLLQSKVDFQNSPF
+PCGPGVLNRHNFSDFVKPASSKGKSIDDIHLTEDELGLYLDLAPFLNPSPYIVPEDMSLA
+KVYNLFRQLGLRHIFVVPRPSRVVGLITRKDLLLEEDGNTVTTELQSTSVRgLLNGKmLG
+GNaHLERPLLDNLVIE
+
+
+BOP CONSENSUS:
+Length: 803 aa
+
+MLSGDQDLPDGIGMARLAWTRLPTADGAAPLPEGPAASASsAAAQDELFVGAVESLDYEV
+IENYAYREEQAQRSKFWVPYYIMLKWFFALLIGVGTGLAAIFINLAVENFSGWKFTLTFA
+IIQHSYFVGFLVYILLNLALVFSSVYIVTQFAPAAAGSGIPEIKGYLNGVDTHGILLFRT
+LVGKIFGSIGSVGGGLALGKEGPLVHTGACIASLLGQGGSAKYHLNSRWVQIFESDRDRR
+DLVTCGCAAGVAAAFRAPVGGVLFALEEVTSWWRSHLMWRVFFTSAVVAVVVRSAMNWCN
+SGKCGHFGAGGFIIWDISGGQEDYSYQELLPVAIIGVIGGLLGALFNQLTLYITKWRRTY
+LHKKGKRVQIFEACLISLITSTVSFVLPLLRKCSPCPELETNSGIQCPHPPGTDGNFVNF
+YCSKDNEYNDLATIFFNSQDDAIRNLFSAKTFHEYSAQSLITFLVMFYSLAVVTFGTAVP
+AGQFVPGIMIGSTYGRLVGMSVVKFYKKLNVDEGTYALLGAASFLGGSMRMTVSLCVIMV
+EITNNLQLLPLIMLVLLISKAVGDFFNEGLYEEQARLKGIPLLDSRPKQVMRNMNAKDAC
+KNQKVVCLPRVSRVVDIVSVLQSNKHNGFPIVERGQNGESLVIGLILRSHLLVLLQSKVD
+FQNTPFPCGPGILNRHNFSDFVKPASSKGKSIDDIHLTDDELGLYLDLAPFLNPSPYIVP
+EDMSLAKVYNLFRQLGLRHIFVVPRPSRVVGLITRKDLLLEEDGNTATTELQSTSVRgyL
+NGKtlgGStHLeRPLLDSLMvEg
+
+
+PACMAD CONSENSUS:
+Length: 798 aa
+
+MLSGGDhDVPDGIGMARLAWTRLPTADAEGAGPSTSAAADDELFSAAAVESLDYEVIENY
+AYREEQAQRSKFWVPYYVMLKWLFSLLIGVGTGLAAIFINLAVENFSGWKYTATFAIIKH
+SYFVGFFVYTVFNLALVFSSVYIVTNFAPAAAGSGIPEIKGYLNGVDTHGILLFRTLVGK
+IFGSIGSVGGGLALGKEGPLVHTGACIASLLGQGGSAKYHLSSRWVRIFESDRDRRDLVT
+CGCAAGVAAAFRAPVGGVLFALEEVTSWWRSHLMWRVFFTSAVVAVVVRSAMNWCNSGKC
+GHFGAGGFIIWDISGGQEDYSYQELFPMAIIGVIGGLLGALFNQLTLYITKWRRTYLHKK
+GKRVQIFEACLISLVTSTISFVLPLLRKCSPCPQLETNSGIECPHPPGTDGNFVNFYCSK
+DKEYNDLATIFFNTQDDAIRNLFSAKTFHEYSAQSLITFLVMFYSLAVVTFGTAVPAGQF
+VPGIMIGSTYGRLVGMFVVKFYKKLNIEEGTYALLGAASFLGGSMRMTVSLCVIMVEITN
+NLKLLPLIMLVLLVSKAVGDFFNEGLYEEQARLRGIPLLDSRPKQVMRNMNAKDACKNQK
+VVCLPRVSRVVDIVSVLRTNKHNGFPVVDRGQNGESLVIGLILRSHLLVLLQAKVDFQNS
+PFPCGPGVLNRHNFSDFVKPASSKGKSIDDIHLTEDELGLYLDLAPFLNPSPYIVPEDMS
+LAKVYNLFRQLGLRHIFVVPRPSRVVGLITRKDLLLEEDgNTVMAELQSTSVRGLLNGKM
+LGGNAHLERPLLDNLVIE
+
+================================================================================

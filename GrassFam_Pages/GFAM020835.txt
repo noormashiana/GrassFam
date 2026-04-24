@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM020835
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             454.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22849:SF157
+Panther Family ID:               PTHR22849
+Modal Panther ID:                PTHR22849:SF157
+Modal Panther Description:       U-BOX DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR22849
+Modal Panther Fam Desc:          WDSAM1 PROTEIN
+Interpro Signature Accession:    cd16664; G3DSA:3.30.40.10:FF:000442; G3DSA:3.30.40.10; PTHR22849; PF25598; SM00504; SSF57850
+Interpro Signature Description:  RING-Ubox_PUB; RING-type E3 ubiquitin transferase; Zinc/RING finger domain, C3HC4 (zinc finger); WDSAM1 PROTEIN; Plant U-box protein ARM repeat region; Ubox_2; RING/U-box
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: U-box domain-containing protein 21
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: U-box domain-containing protein 21-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: U-box domain-containing protein 21
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: U-box domain-containing protein 21-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: U-box domain-containing protein 21-like
+  Gene Descriptions: U-box domain-containing protein 21-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: U-box domain-containing protein 21
+  Gene Descriptions: U-box domain-containing protein 21
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: U-box domain-containing protein 20-like; U-box domain-containing protein 21-like
+  Gene Descriptions: U-box domain-containing protein 20-like; U-box domain-containing protein 21-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: U-box domain-containing protein 21-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: U-box domain-containing protein 21-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: U-box domain-containing protein 21
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: U-box domain-containing protein 21
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 456 aa
+
+MVTPVSRsRaRpRAARVAVAEIPLAvRRTwqQPmLVAAAaaEPAVPsHFLCPISLDMMRD
+PVTAPTGITYDRDSVEGWLERGHATCPVTGRPLRlEELVPNHATRRMIQEWCVANRALGV
+ERVPTPRVPVSAADAsELLAAVSAAARRGDGPACRQLAARARALGKESERNRRCLAAAGA
+ARALSSAFshLVdQrAvpALTasGALEEILAALVVFFPLDEESRRHIASPASLdAVVSIL
+SHGEttARVSAVVVLREIASSSDsQCLEAMSKTnGIYDALVKLLEKPVSPQATKAALVTA
+YYLVtnTeLAASRLVDLGMVqLLVELLVDADKGTTEKALAVLDSLLLTEEGRGkAYAHAL
+AVPVLVKKMQHVSDMATEFAVSALWRLCKNFsgEGgCKAEALQVGAFQKLLLLLQVGCMG
+VTKERASELLRLLNGSRDGVECIETVDFKGLKRPFs
+
+
+BOP CONSENSUS:
+Length: 454 aa
+
+MVTPLPRfRARAFRGAARGAPAEIPLAVRRTWQQPMLVAAAesEPAVPTHFLCPISLDMM
+RDPVTAPTGITYDRESVEGWLERGHATCPVTGRPLRLEELVPNHATRRVIQEWCVANRGL
+GVERVPTPRVPVSAFDASELLEAVsAAARRGDGPRCRELVARARALGKESERNRRCFVSA
+sAARALSSAFCHLAGQRVVPATALEEILAALVVFLPLDEESRRHIASPASLeSVVSILSH
+GEplARVSAVVVLREIASSSDRQCLEAMSKTTGIYAALVKLLEKPVSPQATKAALVTAYY
+LVmHTELAASRLVDLGAVrLLLELLVDADKGTTEKALALLDSLLLTcKGRDEAYAQALAV
+PVIVKKMQHVSDMATEFAVSALWRLCKNSPADGGGCKAEALQVGAFQKLLLLLQVGCEGA
+TKERASELLRLLNGSRDGAECIDTLDFKALKRPF
+
+
+PACMAD CONSENSUS:
+Length: 457 aa
+
+MVTPVSRyRlRPRAVRVAVSEIPLATRRTRrQPQPVPAaaAAEPAVPSHFLCPISLEMMR
+DPVTAPTGITYDRDSVEGWLERGHATCPVTGRPLRAEDLIPNHATRRMIQEWCVANRALG
+VERVPTPRVPVSAADAAELLAAVSAAARRGDGPACRQLAARARALGKESDRNRRCLAAgG
+AARALSSAFSQLVDQPAlAALTAsGALEEILAALVVFFPLDEESRRHIASPASLNAVVSI
+LSHGEtTARASAAVVLREIASSSDaQCLDAMSETsGIHDALIKLLqKPVSPQATKAALVT
+AYYLVtNtgRAASRLVDLGMVQLLVELLVDADKGTTEKALAVLDSLLLTEEGRGKAYAHA
+LAVPVLVKKMQHVSDMATEFAVSALWRLCKNFSGEGPCKAEALQVGAFQKLLLLLQVGCM
+GVTKERASELLRLLNGSRGGVECIETVDFKGLKRPFs
+
+================================================================================

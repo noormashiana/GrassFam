@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM003510
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             487.5 aa
+Family Size (Extended Family Size): 28 (28) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45852:SF2
+Panther Family ID:               PTHR45852
+Modal Panther ID:                PTHR45852:SF2
+Modal Panther Description:       NON-SPECIFIC SERINE_THREONINE PROTEIN KINASE
+Modal Panther Family ID:         PTHR45852
+Modal Panther Fam Desc:          SER/THR-PROTEIN KINASE RIO2
+Interpro Signature Accession:    cd05144; G3DSA:3.30.200.20:FF:000052; G3DSA:1.10.510.10:FF:000506; G3DSA:1.10.10.10:FF:000053; G3DSA:1.10.10.10; G3DSA:3.30.200.20; G3DSA:1.10.510.10; PTHR45852; PF09202; PF01163; SM00090; SSF46785; SSF56112
+Interpro Signature Description:  RIO2_C; Serine/threonine-protein kinase RIO2; Serine/threonine-protein kinase rio2; -; Phosphorylase Kinase; domain 1; Transferase(Phosphotransferase) domain 1; SER/THR-PROTEIN KINASE RIO2; Rio2, N-terminal; RIO domain; rio_2; Winged helix DNA-binding domain; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: serine/threonine-protein kinase rio2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: serine/threonine-protein kinase rio2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: serine/threonine-protein kinase rio2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: serine/threonine-protein kinase rio2-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: uncharacterized LOC127777805
+  Gene Descriptions: uncharacterized LOC127777805
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: serine/threonine-protein kinase rio2
+  Gene Descriptions: serine/threonine-protein kinase rio2
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: uncharacterized LOC133908270; uncharacterized LOC133926219
+  Gene Descriptions: uncharacterized LOC133908270; uncharacterized LOC133926219
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: serine/threonine-protein kinase rio2-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha04
+  Gene Products: serine/threonine-protein kinase rio2-like; serine/threonine-protein kinase rio2-like%2C transcript variant X1
+Msi
+  Gene count: 5
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi03
+  Gene Products: serine/threonine-protein kinase rio2%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: serine/threonine-protein kinase RIO2; uncharacterized LOC100217272%2C transcript variant X1
+  Gene Synonyms: GRMZM2G038309; GRMZM2G472991,IDP27,PCO103931,PCO103931(641)
+  Gene Descriptions: serine/threonine-protein kinase RIO2; uncharacterized LOC100217272
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 492 aa
+
+MKLDVNALRYLSKDDFRVLTAVEMGMRNHEIVPAELVDRIAGLKHGGTYKVLRNLLKNKL
+VHHDATKYDGYRLTYLGYDFLAIKTLVNRGVFASVGRQIGVGKESDIFEVATEDGTVLAM
+KLHRLGRTSFRAVKSKRDYLrHRRSFNWLYLSRLAALKEFAFMKALGDHGFPVPTAVDCN
+RHCVIMSLVQGYPLVQVKELQNPDDVFDTILGLIVRLAEHGLIHCDFNEFNIMIDDDEKI
+TVIDFPQMVSVSHRNAQMFFDRDIECIYKFFNKRFNLTSEKNEEQDGSEtDDEGNSRPSF
+LSVKKaAGSLDKELAASGFTRKEQVEMEKyIEEDAEgHDSSSDDDDSTSEQsEvGDAVPI
+dSLKIdDQDhsdEPDCNLASRDSDvPGTFSEEHGTSCSGENrlEsPPSdgNGDAKePLES
+GGSQEDDDNDDDSSEDtDDEDDAeLTKQLNKQRKKAIAAAHGRRRPvSSRNAYKDKGKGT
+MNSKIQRQACKW
+
+
+BOP CONSENSUS:
+Length: 487 aa
+
+MKLDVNALRYLSKDDFRVLTACEMGMRNHEIVPAELVDRIAGLKHGGTYKVLRNLLKNKL
+VHHDCKKYDGYRLTYLGYDFLAIKTLVNRGVFASVGRQIGVGKESDIFEVATEDGTVLAM
+KLHRLGRTSFRAVKSKRDYLAHRRSFNWLYLSRLAALKEFAFMKALGDHGFPVPTAVDCN
+RHCVIMSLVPGYPLVQIRELQNPDDVFDKILGLVIRLAEHGLIHCDFNEFNIMIDDDETV
+TMIDFPQMVSVSHRNAQMYFDRDIGCIYKFFNKRFNLTEKGGQDGSETDDDDSGRPSFLS
+IQKSSGALDKELAASGFTKKEQVEIEKFIDENAEEHDSGSDDDDSTSEQDSEGGDAVSVK
+ISSLKIVDQDPAGVPDLVVMDSDKHETLSKEHATSTSPSGENKSTDPtdDGIGDPKGaES
+GGDDDDDSSEDTEDEDDALLTKQLNKQRKRAMAAALGRRRPLNSRNAYKDKGKGTMNSKI
+QRQACQW
+
+
+PACMAD CONSENSUS:
+Length: 491 aa
+
+MKLDVNALRYLSKDDFRVLTAVEMGMRNHEIVPAELVDRIAGLKHGGTYKVLRNLLKNKL
+VHHDATKYDGYRLTYLGYDFLAIKTLVNRGVFASVGRQIGVGKESDIFEVATEDGTVLAM
+KLHRLGRTSFRAVKSKRDYLRHRRSFNWLYLSRLAALKEFAFMKALGDHGFPVPTAVDCN
+RHCVIMSLVQGYPLVQVKELQNPDDVFDTILGLIVRLAEHGLIHCDFNEFNIMIDDDEKI
+TVIDFPQMVSVSHRNAQMFFDRDIECIYKFFNKRFNLTSEKNEEQdGSESDgEGNSRPSF
+LSVKKAAGSLDKELAASGFTRKEQVEMEKYIEEDAEGHDSSSDDDDDDDEVGDAVPIDSL
+KIDQDhSDEPDCNLASRDSDVPGTFSEEHGTSCSGENRLESPPSGsNGDAMEPLESGGKM
+LSQEDDDNDDdSSEDdDEEEDAELTKQLNKQRKKAIAAAHGRRRPVSSRNAYKDKGKGTM
+NSKIQRQACKW
+
+================================================================================

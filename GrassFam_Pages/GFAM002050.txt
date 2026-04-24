@@ -1,0 +1,109 @@
+================================================================================
+GrassFam ID: GFAM002050
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             401.0 aa
+Family Size (Extended Family Size): 28 (40) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11877:SF29
+Panther Family ID:               PTHR11877
+Modal Panther ID:                PTHR11877:SF29
+Modal Panther Description:       TYPE III POLYKETIDE SYNTHASE B
+Modal Panther Family ID:         PTHR11877
+Modal Panther Fam Desc:          HYDROXYMETHYLGLUTARYL-COA SYNTHASE
+Interpro Signature Accession:    cd00831; G3DSA:3.40.47.10:FF:000014; G3DSA:3.40.47.10:FF:000025; G3DSA:3.40.47.10; PTHR11877; PIRSF000451; PF00195; PF02797; SSF53901
+Interpro Signature Description:  CHS_like; Chalcone synthase 1; Chalcone synthase 2; -; HYDROXYMETHYLGLUTARYL-COA SYNTHASE; PKS_III; Chalcone and stilbene synthases, N-terminal domain; Chalcone and stilbene synthases, C-terminal domain; Thiolase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: bisdemethoxycurcumin synthase
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu04H
+  Gene Products: bisdemethoxycurcumin synthase-like
+Tae
+  Gene count: 5
+  Modal chromosome: Tae04A
+  Gene Products: bisdemethoxycurcumin synthase-like; stilbene synthase 2-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola11
+Ecu
+  Gene count: 5
+  Modal chromosome: Ecu02
+Svi
+  Gene count: 3
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi01N
+  Gene Products: chalcone synthase 8-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha08
+  Gene Products: bisdemethoxycurcumin synthase-like%2C transcript variant X1
+Msi
+  Gene count: 1
+  Modal chromosome: Msi09
+Zma
+  Gene count: 5
+  Modal chromosome: Zma03
+  Gene Products: bisdemethoxycurcumin synthase; bisdemethoxycurcumin synthase-like
+  Gene Synonyms: GRMZM2G009348
+  Gene Descriptions: bisdemethoxycurcumin synthase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 400 aa
+
+tmlLLGNqtASPAAtaisdiRqAQRADGPAsVLAIGTANPaNCVRQdEYADYYFRVTkSE
+HLTkLKsKLkRIChKSAIKKRYFHHTEELLRgHPEFIDRtLPSLDARQDIaATAVPELAA
+AAAvKAIAEWGRPATDITHLVVsTYSGAHMPGADLRLASLLGLRPSVRRTMLYlNGCSSG
+SAALRVAKDIAENNRGARVLVACAELTLIlFRAPhEAhvDTLIMQALFGDGAGAVIVGAD
+PdvSVERPlFEMVSASQTVIPESeHaAAGRLgEDGLvFnPSrEMPsLVRENIEQCmVDAL
+aPLGLSGGWNDLFWAVHPGGRAILDSVEAGLRLEPeKLAASRHVLSEYGNMSGPSVIFVL
+DELRRRqeEGrkGmGVmLGLGPGVsVETMVLrATgsqKKi
+
+
+BOP CONSENSUS:
+Length: 399 aa
+
+MALLGNLTASPAATvIRQIRQAQRADGPASVLAIGTANPANCVRQDEYADYYFRVTNaEH
+LTKLKSKLNRICksSAIKKRYFHHTEEMLQdHPELIDRTLPSLDTRMDIAATAVPELAAA
+AAtKAIAEWGRPATDITHLVVSTYSGAHMPGADLRLASLLGLDPSVRRTMLYLNGCNSGS
+TALRVAKDIAENNRGARVLVVCAELTLILLRAPDEAHkDTIIMQALFGDGAGAVIVGADP
+nGSVERPIFEMVAASQTVIPESEHAAVGRLGEDGLVFRPSVEMPALIRENVEQCLVDALG
+PLGLSGGWNDLFWAVHPGGRAILDGVEAVLRLEPEKLAASRHVLSEYGNMSGPTVIFVLD
+EIRRRrGEHgVGRHGLGVLLGLGPGISVETMVLHATGNy
+
+
+PACMAD CONSENSUS:
+Length: 397 aa
+
+MTSLLLGNQIACsVGLcSDrRReLRADGPATVLAIGTANPPNCVRQEEYADYYFRVTKSE
+HLTsLKAKLKRICHKSAIKKRYFHHTEELLRGHPEFIDRSmPSLhARQDImASAVPELAA
+AAAVDAIAEWGRPATEITHLVVtTYSGAHMPGvDwlLASLLGLRPTVRRTMLYMNGCSSG
+SAALRVAKDIAENNRGARVLVACAELTLilFRAPHEArVDTLIMQSLFGDGAGAVIVGAD
+PVSVErPDFEMVSASQTtIPETKhvAAGQLcEDGLvFnPSREmPSLVRENIEQCvVDALS
+PLGIGGSWNDLFWAVHPGGRAILDSVEAGLrLEPhKLEASRRVLREYGNMSGPSVIFVLD
+ELRRQQErkGMGVMVGLGPGVtVETMVLRATDSQKKI
+
+================================================================================

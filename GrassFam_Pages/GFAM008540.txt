@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM008540
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             373.0 aa
+Family Size (Extended Family Size): 22 (27) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45782:SF1
+Panther Family ID:               PTHR45782
+Modal Panther ID:                PTHR45782:SF1
+Modal Panther Description:       DAR GTPASE 2, MITOCHONDRIAL
+Modal Panther Family ID:         PTHR45782
+Modal Panther Fam Desc:          MITOCHONDRIAL RIBOSOME-ASSOCIATED GTPASE 1
+Interpro Signature Accession:    cd01856; G3DSA:3.40.50.300:FF:001008; G3DSA:3.40.50.300; PTHR45782; SSF52540
+Interpro Signature Description:  YlqF; Mitochondrial GTPase 1; -; MITOCHONDRIAL RIBOSOME-ASSOCIATED GTPASE 1; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: DAR GTPase 2%2C mitochondrial
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: DAR GTPase 2%2C mitochondrial%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: DAR GTPase 2%2C mitochondrial%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: DAR GTPase 2%2C mitochondrial-like; DAR GTPase 2%2C mitochondrial-like%2C transcript variant X1; DAR GTPase 2%2C mitochondrial-like%2C transcript variant X7
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: DAR GTPase 2%2C mitochondrial
+  Gene Descriptions: DAR GTPase 2%2C mitochondrial
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: DAR GTPase 2%2C mitochondrial%2C transcript variant X1
+  Gene Descriptions: DAR GTPase 2%2C mitochondrial
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau21
+  Gene Products: DAR GTPase 2%2C mitochondrial-like
+  Gene Descriptions: DAR GTPase 2%2C mitochondrial-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: DAR GTPase 2%2C mitochondrial; DAR GTPase 2%2C mitochondrial-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: DAR GTPase 2%2C mitochondrial%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: DAR GTPase 2%2C mitochondrial
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: uncharacterized LOC100191522
+  Gene Synonyms: GRMZM2G556522,GRMZM6G445841
+  Gene Descriptions: uncharacterized LOC100191522
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 372 aa
+
+ArAAAAEAFSRRLGAAVRGLSGAWYGRHMAAADRAIRARLPLVDLVLEVRDARVPASSAF
+EPLRRRSPLEPDvRRvVVLNKADLADPSETEKWVAYMKQRsCSCVAVNSHSRESIKELLN
+AVRsRIREIKLGESDCTGTVLLVGIPNVGKSAIVNAMHQIGRIGAAEKGKLKHAIVSSHP
+GETRDISGYKVASHPNIYVLDTPGVLSPrFANDeSGPRLALTGAIKDSLLEEYDIAQFLL
+AILNSReEYRkWENLNqaGDkSSfgnAitSRSHhkKRQYsSDHTQDFIVKAVRQVLFETI
+SSFKGDLGnEDELRRLIEcQFvSLQEAFRVSTESSEDmnKpVAmKLLNLYRTGRLGHYTL
+DHVPDVRQEVAA
+
+
+BOP CONSENSUS:
+Length: 373 aa
+
+MARAAAAEAFSRRLGAAVRGLSGAWYGRHMAAADRAIRARLPLVDLVLEVRDARVPATSA
+FELLRRRSPEEPDVRRLVALNKADLADPSETEKWVAFMKQRGCSCVAVNSHSRESINELL
+NAVRGRIREIKLGVSDCTGTVLLVGIPNVGKSAIINAMHQIGRIGAAEKGKLKHAIVSSH
+PGETRDISGYKVASHPNIYVLDTPGVLSPIFANDESGPRLVLTGAIKDSLLEEYEIAQFL
+LAILNSRkEYREWENLNLdGDKSSFADAmPTRSCHTKRQYSSDHTQDFIVRAVRQALFET
+IASFQGDLGNENDLRRLVEIQFThLQNAFRiSAETSEDrNKRVAvKLLNLYRTGRLGHYT
+LDHVPDVRQEVAA
+
+
+PACMAD CONSENSUS:
+Length: 373 aa
+
+MtAAAAEAlSRRLGAAVRGLSGAWYGRHMAAAERAIRTRLPLVDLVLEVRDARVPASSAF
+EPLRRRGPLEPDGRRVVVLNKADLADPSETEKWVAYMKKQRSCPCVAVNSHSRESIKELL
+NVVRSRIREIKHGESNCTGTVLLVGIPNVGKSAIVNAMHQIGRIGAAEKGKLKHAIVSSH
+PGETRDISGYKVASHPNIYVLDTPGVLSPRFANDDSGPRLALTGAIKDSLLEEYDIAQFL
+LAVVNSREEYRKWENLNQAGDtFSCGNAITSRSHNKKRQYVSDHTQDFIVKAVRQVLFET
+ISSFKGDLGKEDELRRLIDcQFVSLQEAFKVSTESSEDMhKPIALKLLNLYRTGRLGHYT
+LDHVPDVRQEVvA
+
+================================================================================

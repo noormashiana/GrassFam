@@ -1,0 +1,126 @@
+================================================================================
+GrassFam ID: GFAM007888
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             317.0 aa
+Family Size (Extended Family Size): 21 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR14269:SF55
+Panther Family ID:               PTHR14269
+Modal Panther ID:                PTHR14269:SF55
+Modal Panther Description:       CDP-ALCOHOL PHOSPHATIDYLTRANSFERASE-RELATED
+Modal Panther Family ID:         PTHR14269
+Modal Panther Fam Desc:          CDP-DIACYLGLYCEROL--GLYCEROL-3-PHOSPHATE 3-PHOSPHATIDYLTRANSFERASE-RELATED
+Interpro Signature Accession:    G3DSA:1.20.120.1760:FF:000008; G3DSA:1.20.120.1760; TIGR00560; PTHR14269; PF01066
+Interpro Signature Description:  CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase 2; -; CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase; CDP-DIACYLGLYCEROL--GLYCEROL-3-PHOSPHATE 3-PHOSPHATIDYLTRANSFERASE-RELATED; CDP-alcohol phosphatidyltransferase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: cardiolipin synthase (CMP-forming)%2C mitochondrial
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: cardiolipin synthase (CMP-forming)%2C mitochondrial-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: cardiolipin synthase (CMP-forming)%2C mitochondrial
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: cardiolipin synthase (CMP-forming)%2C mitochondrial-like; cardiolipin synthase (CMP-forming)%2C mitochondrial-like%2C transcript variant X1
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: cardiolipin synthase (CMP-forming)%2C mitochondrial
+  Gene Descriptions: cardiolipin synthase (CMP-forming)%2C mitochondrial
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: cardiolipin synthase (CMP-forming)%2C mitochondrial-like
+  Gene Synonyms: CLS
+  Gene Descriptions: cardiolipin synthase (CMP-forming)%2C mitochondrial-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: cardiolipin synthase (CMP-forming)%2C mitochondrial-like
+  Gene Descriptions: cardiolipin synthase (CMP-forming)%2C mitochondrial-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: cardiolipin synthase (CMP-forming)%2C mitochondrial-like; cardiolipin synthase (CMP-forming)%2C mitochondrial-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: cardiolipin synthase (CMP-forming)%2C mitochondrial-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: cardiolipin synthase (CMP-forming)%2C mitochondrial
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase; uncharacterized LOC100281305
+  Gene Synonyms: GRMZM2G109967,pco115659; GRMZM2G124313
+  Gene Descriptions: CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase; uncharacterized LOC100281305
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 314 aa
+
+MPtSVATHASLLLKAAAAKPFFSPRAAARIPAPrPPaPpAGRRpPTTAaAAAAcRWFRWP
+SASARGLCAAPHSGGGGEGMGSDGvGARRRAVGLAKDVPAVNGMSKEgAPqPaPaPPRLL
+TLPTVLTIGRVAAVPLLISTFYMEGPWAATATTGIFLAAAVTDWLDGYIARKMQLGTPFG
+AFLDPVADKLMVAATLVLLCTKPLETSLLrDGPWLLTVPSIAIIGREITMSAVREWAASQ
+NSKVLEAVAVNNLGKWKTATQMTALTLLLASRDPSLPAQGALVaPGVALLYVSAGLAIWS
+LVVYMRKIWRILLK
+
+
+BOP CONSENSUS:
+Length: 298 aa
+
+MPSSIATHLLKAAAAKPLFSPRAAQIPsLPRPPAARRPPAPAtAACRWFRWPSPARGLCS
+SPHSGGpAEGMGSDGTGrRRRVPPVNGVSKEGAPQPQPVPPRLLTLPTVLTIGRVAAVPF
+LISTFYMEGPWAATATTGIFLAAAITDWLDGYIARKMHLGTPFGAFLDPVADKLMVAATL
+VLLCTKPLETSLLTNGPWLLTVPSIAIIGREITMSAVREWAASQNTQVLEAVAVNNLGKW
+KTATQMTALTLLLASRDPSLPVQGALVPPGVALLYASAGLAIWSLVVYIRNIWRILLK
+
+
+PACMAD CONSENSUS:
+Length: 316 aa
+
+MPTSVATHASLLLKAAAAKPFFSPRAAARIPAPsPhPPpPPAGRRLPTTAAAAAAAsRWF
+RWPSAASARGLCAAPHSGGEGMGSDAGVGARRRPAVNGLAKDVPAVNGMSKEePAtAPPR
+LLTLPTVLTIGRVAAVPLLISTFYMEGPWAATATTGIFLAAAVTDWLDGYIARKMQLGTP
+FGAFLDPVADKLMVAATLVLLCTKPLETSLLRDGPWLLTVPSIAIIGREITMSAVREWAA
+SQNSKVLEAVAVNNLGKWKTATQMTALTLLLASRDPSLPAQGALVAPGVALLYVSAGLAI
+WSLVVYMRKIWRILLK
+
+================================================================================

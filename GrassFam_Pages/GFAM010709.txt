@@ -1,0 +1,142 @@
+================================================================================
+GrassFam ID: GFAM010709
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             645.0 aa
+Family Size (Extended Family Size): 25 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12959:SF13
+Panther Family ID:               PTHR12959
+Modal Panther ID:                PTHR12959:SF13
+Modal Panther Description:       GPI TRANSAMIDASE COMPONENT PIG-T
+Modal Panther Family ID:         PTHR12959
+Modal Panther Fam Desc:          GPI TRANSAMIDASE COMPONENT PIG-T-RELATED
+Interpro Signature Accession:    PTHR12959; PF04113
+Interpro Signature Description:  GPI TRANSAMIDASE COMPONENT PIG-T-RELATED; Gpi16 subunit, GPI transamidase component
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: GPI transamidase component PIG-T
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu04H
+  Gene Products: GPI transamidase component PIG-T-like; GPI transamidase component PIG-T-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: GPI transamidase component PIG-T
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: GPI transamidase component PIG-T-like; GPI transamidase component PIG-T-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola11
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: uncharacterized LOC127755215
+  Gene Descriptions: uncharacterized LOC127755215
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC9271607
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau12
+  Gene Products: uncharacterized LOC133887066; uncharacterized LOC133900482
+  Gene Descriptions: uncharacterized LOC133887066; uncharacterized LOC133900482
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: GPI transamidase component PIG-T-like; GPI transamidase component PIG-T-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: GPI transamidase component PIG-T%2C transcript variant X2
+Msi
+  Gene count: 5
+  Modal chromosome: Msi06
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: GPI transamidase component PIG-T
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: GPI transamidase component PIG-T%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 645 aa
+
+MAPPpPpArRlLFLSLLLLLLlaAAAAsAAAAeEEEFTEELLLRPLPDRKALAHFHFRSS
+APPAAAAGRHHHLFPKAISQLVQKFHISELELSFTQGRWNYEQWGGyDPMSTNNAKPPGV
+ELWAVFDLPLsEIDATWKNLTHTLSGLFCASINFLESSTAFSAPRWGFKLNEGNLRYGAL
+PREAVCTENLTPWLKLLPCRDKAGIASLLYRPSIYKGYYHSQKLKLRSSQSLGIILDQTL
+TVVLQPNTVSGKQLHSThGQLQPSWSMrHLFNRKLSGKCLVSKSSRVFiEIEKGIVDKVN
+KSGSDvSWNNEFFVLSTaPDRvLKELNNLEVQSSSLYEYDVSNYneDKPLDVGITWKLPL
+IWSCTPSPYHASRFLMGSGNERGSIALSFLSTNLHKQLfGSSNDCSIKAVVFQVVPWYVK
+VYYHSLEIFIDGNsKAISEVVDKIHVTPSEDKLLPGTLEMLLRFPCSMQSATLTLDFDKG
+FLHIDEYPPDANQGFDIPSALVSFPEFNSSRSYPEiDPLLVSPLLENFQEDgVVKSYTEV
+LLVPLTTPDFSMPYNVITFTCTVLALYFGSLLNALRRRIGEEERELKKAATRRGLIPLLl
+AKLRGQKVDPsESGSSPeStgSkKLLLKVVFVAVVAVlFHYLSNS
+
+
+BOP CONSENSUS:
+Length: 641 aa
+
+MaPPSTARRLcfLSLLLLLLaAAASATADAAAEEEFTEELLLRPLPDRKALAHFHFRSSA
+PPASAAGRHHHLFPKAISQLVQKFHISELELSFTQGRWNYEQWGGYDPMSTNNAKPPGVE
+LWAvFDLPLAEIDATWKNLTHTLSGLFCASINFLESSTAFSAPRWGFKLNEGNLRYGALP
+REAVCTENLTPWLKLLPCRDKAGIASLLYRPSIYKGYYHSQKLKLTSSQSLGIILDQTLT
+VVLQPNTvSGKQLHSTGGQLQPSWSMEHLFNRKLSGKCLVSKSSRVFVEIEKGIVDKSGS
+EVSWnNeLFVLSTAPDRVLKELDNLEVQSSSLYEYDVsNYNnDKPLDVGITWKLPLIWSC
+TPAPYHASRFLMGSGNERGSIAMSFLSTgLdKQLvgSSNDCSIKAVVFQVVPWYVKVYYH
+SLEIFIDGNSKAISEVVDKIHVTPSEDKLLPGTLEMLLRFPCSMQSATLTLDFDKGFLHI
+DEYPPDANQGFDIPSALVSFPEFNSSRSYPEaDPLFVSPLLENFKEDGVVKSYTEVLLVP
+LTTPDFSMPYNVITFTCTVLALYFGSLLNALRRRIGEEERgLKKAAkKRGLIPLLIAKLR
+GQKVDPSESESSPASLprSKLLLKVVFVAVVAVVFHYLSNS
+
+
+PACMAD CONSENSUS:
+Length: 652 aa
+
+HRERGFMAPPsPPpGpILFLSLvLLFLLtAAAASAAAAeEEEFTEELLLRPLPDRKALAH
+FHFRSSAPPAASVGRHHHLFPKAISQLVKKYHISELELSFTQGRWNYEQWGGFDPMSTSN
+AKPPGVELWAVFDLPLSEIDATWKNLTHTLSGLFCASINFLESSTAFSAPRWGFKLNEGN
+LRYGALPREAVCTENLTPWLKLLPCRDKAGIASLLYRPSIYKGYYHSQKLKLRSSQSLGI
+ILDQTLTVVLQPNTVsGKQLHSNHGQLQPSWSMRHLFNRKLSGKCLVSKSSRIFIEVDKG
+IVDKVNKSGSDLSWNNEFFVLSNGPDRLIKgLNNLEVQSSSLYEYDVSNYSEEKPFDVGI
+TWKLPLIWSCTPSPFHaSRFLMGSGNERGSIALSFtSTNLHKQIsGSPNDCSIKAVIFQV
+VPWYVKVYYHSLEIFIDGNRKTVSEVVDKIHVTPSEDKLLPGTLEMLLRFPCSMQSATLT
+LDFDKGFLHIDEYPPDANQGFDIPSALVSFPEFsSARSYPEIDPvLGSPLLENFQEDSVV
+KSYTEVLLVPLTTPDFSMPYNVITFTCTVLALYFGSLLNALRRRIGEEERELKKTATRHG
+LIPLLLAKLRGQKVDPTESGSSSESTGSKKLLFKVVFVAVAAVLFHYFSNNS
+
+================================================================================

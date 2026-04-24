@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM012033
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             543.0 aa
+Family Size (Extended Family Size): 16 (17) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11706:SF47
+Panther Family ID:               PTHR11706
+Modal Panther ID:                PTHR11706:SF47
+Modal Panther Description:       METAL TRANSPORTER NRAMP4
+Modal Panther Family ID:         PTHR11706
+Modal Panther Fam Desc:          SOLUTE CARRIER PROTEIN FAMILY 11 MEMBER
+Interpro Signature Accession:    TIGR01197; PTHR11706; PR00447; PF01566
+Interpro Signature Description:  metal ion transporter, metal ion (Mn2+/Fe2+) transporter (Nramp) family; SOLUTE CARRIER PROTEIN FAMILY 11 MEMBER; Natural resistance-associated macrophage protein signature; Natural resistance-associated macrophage protein-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: metal transporter Nramp4%2C transcript variant X6
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: metal transporter Nramp4-like%2C transcript variant X5
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: metal transporter Nramp4%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: metal transporter Nramp4-like%2C transcript variant X1; metal transporter Nramp4-like%2C transcript variant X3; metal transporter Nramp4-like%2C transcript variant X4
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: metal transporter Nramp4
+  Gene Descriptions: metal transporter Nramp4
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: metal transporter Nramp4-like%2C transcript variant X3
+  Gene Synonyms: NRAMP4,OsJ_01931
+  Gene Descriptions: metal transporter Nramp4-like
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau02
+  Gene Products: metal transporter Nramp4-like
+  Gene Descriptions: metal transporter Nramp4-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi07K
+  Gene Products: metal transporter Nramp4-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: metal transporter Nramp4-like%2C transcript variant X1
+Msi
+  Gene count: 1
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: metal transporter Nramp4%2C transcript variant X6
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: metal transporter Nramp4%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 540 aa
+
+MEEAGRirERGqQQrGSGRVAAIGGGgEIEIEmAAAsGASSSGQQGDDaegGLvQrPTWK
+RFLAHAGPGFLISLAYLDPSNVQTDLQAGSSHrYELLWVLlFGFIFVLIIQSLAAKLGII
+TGRHLAELCMsEYPKYVKYGLWLLAEvGVIAATIPGVLGTALAYNMLLHIPFWAGVLICG
+ASTfLLLGLQsYGVRKMEFiIvVFMLiMAsCFFvELShVNPPMGEVIEGLFIPRLkGhYA
+tSDAVALFSALVVPHNLFLHSSLVlSRKlPSSSKgVKDAStFFLlENAFALFLALLVNVA
+IVSiSGTICAnNLSvDDtNTCSSLTLNSTSVLLKNiLGRSRSkiYGLALLASGQSCaVvT
+SYSGQYIMQGFSGMRKCIIYLIAPCFTmiPSLIICSIGGALRVRQLINIAAIILSFVLPF
+ALVPLLKFSSCCsMIGPYKNSTwIvRiaWILSlVImGINIYFFCTSFvSWLVHSELPRiV
+NAIISTLVFPFMAAYIAALIYLAFRKVSvngpLPSsSVSCEIEVeEVqRQDdKdDDLaVH
+
+
+BOP CONSENSUS:
+Length: 540 aa
+
+MEERGSIGRDrGQQQDGNGRAVAIADGDVIEMEAAAASTVaSSgQQGDDAGGVQGPRWKR
+FLAYVGPGFLISMAYLDPSNLQTDLQAGYSHRYELLWVLLFGFIFVLIIQSLAAKLGIVT
+GRHLAELCMSEYPKyVRYgLWFFAELGVIAATIPGVLGTALAYNMVLDLPFWAGVLICAA
+TVILLLGLQSYGVRKLEFMIAVFMLIMASCFFIELSHVNPPMNELIEGLFIPRLKGHYAI
+SDAVALISALVVPHNLFLHSSLVSSRKLPSSSEAVKDASVFFLLENAFALFLALVINVAI
+VSLSGTICADNLSLDDTNTCSSLTLKSASVLFKNILGRSRSIVYGLALLASGQSCAVVTT
+YSGQYIMQGFSGMRVFIIYLFAPCLTMVPTLIICSIGGALRVRQLINIAAVILSFVLPFA
+LVPLLKFSSCCSMIGPYKNSTWITRISWILSLVIIGINTYFFCTSFVSWLVYSDLPRFAK
+AIISTLVFPFMAAYIAAVIYLAFRKVSTNAVLPSSSVSCEIEVaEVPRQDNKDEVLALHC
+
+
+PACMAD CONSENSUS:
+Length: 553 aa
+
+AaMEEAGRKvEREEQQRGTRGSGRVAAVAggGGGGEIEIEMEAAAAGGAAGASSSGQQHD
+DDaEdGLrQRPTWKRFLAHAGPGFLISLAYLDPSNVQTDLQAGSSHKYELLWVLFFGFIF
+VLIIQSLAAKLGIITGRHLAELCMyEYPKYVKYGLWLLIEVGVIAATIPGVLGTALAYNI
+LLHIPFWAGVLICGASTFLLLgLQcYGVRKMELIGVIFMLlMAACFFVELSSVNPPMGEV
+IQGLFIPRLRGVYATSDAIALFSvLIVPHNLFLHSSLVLSRKISsSPKGVKDTSTFFLIE
+NAFALFLVLLVNVAIVSITGTICANNQLVDDINTCSGLTLNSTSVLLKNMFGRSTSKIYG
+LALLASGQSNTVTTSYSGQYIMQGFSGMRKCIIYiIAPCFTIIPSLIICSIGGAPhVRQL
+INISAIILAFVLPFALVPLLKFSSSCAMIGPYKNStsIVrVAWILSTVIMGINIYFFCNS
+FISWLVHSELPRIVNAIISTLVFPFMAAYIAALIYLvFRKVNVAGPFPSvSVSsgTEVEv
+wRQDDKvDDIgVR
+
+================================================================================

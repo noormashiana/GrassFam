@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM008654
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             500.0 aa
+Family Size (Extended Family Size): 21 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11255:SF47
+Panther Family ID:               PTHR11255
+Modal Panther ID:                PTHR11255:SF47
+Modal Panther Description:       DIACYLGLYCEROL KINASE
+Modal Panther Family ID:         PTHR11255
+Modal Panther Fam Desc:          DIACYLGLYCEROL KINASE
+Interpro Signature Accession:    G3DSA:2.60.200.40:FF:000007; G3DSA:3.40.50.10330:FF:000016; PTHR11255; PIRSF030829; PF00609; SSF111331
+Interpro Signature Description:  diacylglycerol kinase; Diacylglycerol kinase; DIACYLGLYCEROL KINASE; DAG_kinase_plant; Diacylglycerol kinase accessory domain; NAD kinase/diacylglycerol kinase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: diacylglycerol kinase 5%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: diacylglycerol kinase 5-like%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: diacylglycerol kinase 5-like
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: diacylglycerol kinase 5-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl08
+  Gene Products: diacylglycerol kinase 1-like
+  Gene Descriptions: diacylglycerol kinase 1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa08
+  Gene Products: diacylglycerol kinase 1-like
+  Gene Descriptions: diacylglycerol kinase 1-like
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN4
+Pau
+  Gene count: 1
+  Modal chromosome: Pau18
+  Gene Products: diacylglycerol kinase 1-like%2C transcript variant X3
+  Gene Descriptions: diacylglycerol kinase 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi06K
+  Gene Products: diacylglycerol kinase 5-like; diacylglycerol kinase 5-like%2C transcript variant X1; diacylglycerol kinase 5-like%2C transcript variant X2; diacylglycerol kinase 5-like%2C transcript variant X6
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: diacylglycerol kinase 5-like%2C transcript variant X2
+Msi
+  Gene count: 1
+  Modal chromosome: Msi13
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: diacylglycerol kinase 5
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: Diacylglycerol kinase 2
+  Gene Synonyms: GRMZM2G094452,pco106687
+  Gene Descriptions: Diacylglycerol kinase 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 499 aa
+
+MEGEaDTVVGSCSKPCGPLEEYrIPDYILKPDAQQVLVDHAPpCPVVVFINSRSGGQLGS
+SLIKTYRELLNEAQVFDLSEEAPDKVLHRLYVNLERLKMEGDILAVQIWRTLRLIVAGGD
+GTASWLLGVVSDLKLSHPPPVATVPLGTGNNLPFSFGWGKKNPSTDQEAVKSFLGLVKHA
+KEIKIDSWHIILRMRAPKEGPCDPIAPLELPHSLHAFHRVSSGDSLNMEGYHTFRGGFWN
+YFSMGMDAEVSYAFHSERKRNPEKFKNQLTNQGTYAKLGLKQGWFCASLSHPSSRNIAQL
+AKVKVMKRPGGHWEELQIHHSIRSIVCLNLPSFSGGLNPWGTPGTRRaADREFTAPFVDD
+GLIEVVGFRDAWHGLVLLAPNGHGTRLAQAHRIRFEFHKGAADHTFMRVDGEPWKQPLPK
+DDDTVVVEISHLGQVTMLANEPCRSKSVSDPSSshpAHdsHGDdKDdvEDEDEWEDGRRK
+FGAADTFKLPDEIDIAHLS
+
+
+BOP CONSENSUS:
+Length: 502 aa
+
+MEEEIDTPRDSSSKPCGPLEEYRIPDYILRPDAQQVLVDHAPQCPVLVFINSKSGGQLGS
+SLIKTYRELLNEAQVIDLSEEAPDKVLHRLYVNVERLKMEGDILAVQIWRTMRLIVAGGD
+GTASWLLGVVSDLKLSHPPPIATVPLGTGNNLPFSFGWGKKNPSTDQEAVKSFLGLVKHA
+KEIKIDSWHLILRMRAPKEGPCEPIAPLELPHSLHAFHRVSSGDSHDVEGYHTFRGGFWN
+YFSMGMDAEISYAFHSERKRNPEKFKNQLTNQGTYAKLGLKQGWFCASLSHPSSRNIPQF
+AKVKVMKRPGGHWEELQIHHSIRSIVCVNLPSFSGGLNPWGTPGTRRINTEFTLPYVDDG
+LIEVVGFRDAWHGLVLLAPNGHGHRLAQAHRIRFEFHKGVVDHTFMRVDGEPWKQPLPKD
+DDTIVVEISHQGQVTMLANEPCKSKSfSDPLSSHGQDSHHnDHSDEHKNDVDDEDEWEDG
+RRKFGAADTFKLPDEIDIAHLS
+
+
+PACMAD CONSENSUS:
+Length: 500 aa
+
+MEGEAEIVVGSCSKPCGPLEEYhIPDYILKPDAQQVLVDHAPPCPVVVFINSRSGGQLGS
+SLIKTYRELLNEAQVFDLSEEAPDKVLHRLYVNLERLKMEGDILAVQIWRTLRLIVAGGD
+GTASWLLGVVSDLKLAHPPPVATVPLGTGNNLPFSFGWGKKNPSTDQEAVKSFLGLVKHA
+REIKIDSWHIILRMRVPKEGPCDPIAPLELPHSLHAFHRVSSSDSLNMEGYHTFRGGFWN
+YFSMGMDAEVSYAFHSERKRNPEKFKNQLTNQGTYAKLGLKQGWFCASLSQPSSRNLAQL
+AKVKVMKRPGSqWEELQVHHSIRSIVCLNLPSFSGGLNPWGTPGTRRAADREFTAPFVDD
+GLIEVVGFRDAWHGLVLLAPNGHGTRIAQAHRIRFEFHKGAADHTFMRVDGEPWKQPLPK
+DDDTVVVEISHLRQVTMLANEPCRSKSVNDPSSPSPAHDSHGDdKDaAEEDEDEWEDGRR
+KFGAADTFKLPDEIDIAHLS
+
+================================================================================

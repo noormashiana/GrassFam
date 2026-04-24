@@ -1,0 +1,142 @@
+================================================================================
+GrassFam ID: GFAM008234
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             578.5 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11455:SF22
+Panther Family ID:               PTHR11455
+Modal Panther ID:                PTHR11455:SF22
+Modal Panther Description:       CRYPTOCHROME DASH
+Modal Panther Family ID:         PTHR11455
+Modal Panther Fam Desc:          CRYPTOCHROME
+Interpro Signature Accession:    G3DSA:1.10.579.10; G3DSA:3.40.50.620; G3DSA:1.25.40.80; TIGR02765; PTHR11455; PF00875; PF03441; SSF48173; SSF52425
+Interpro Signature Description:  DNA Cyclobutane Dipyrimidine Photolyase, subunit A, domain 3; HUPs; -; DASH family cryptochrome; CRYPTOCHROME; DNA photolyase; FAD binding domain of DNA photolyase; Cryptochrome/photolyase FAD-binding domain; Cryptochrome/photolyase, N-terminal domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: cryptochrome DASH%2C chloroplastic/mitochondrial%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: cryptochrome DASH%2C chloroplastic/mitochondrial
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: cryptochrome DASH%2C chloroplastic/mitochondrial
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: cryptochrome DASH%2C chloroplastic/mitochondrial-like; cryptochrome DASH%2C chloroplastic/mitochondrial-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: cryptochrome DASH%2C chloroplastic/mitochondrial
+  Gene Descriptions: cryptochrome DASH%2C chloroplastic/mitochondrial
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: cryptochrome DASH%2C chloroplastic/mitochondrial-like
+  Gene Synonyms: CRYD
+  Gene Descriptions: cryptochrome DASH%2C chloroplastic/mitochondrial-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau08
+  Gene Products: cryptochrome DASH%2C chloroplastic/mitochondrial%2C transcript variant X1
+  Gene Descriptions: cryptochrome DASH%2C chloroplastic/mitochondrial
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: cryptochrome DASH%2C chloroplastic/mitochondrial; cryptochrome DASH%2C chloroplastic/mitochondrial-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: cryptochrome DASH%2C chloroplastic/mitochondrial
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: cryptochrome DASH%2C chloroplastic/mitochondrial
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: uncharacterized LOC100280309
+  Gene Synonyms: GRMZM2G103897
+  Gene Descriptions: uncharacterized LOC100280309
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 577 aa
+
+MLHfLSSSSPLaPrFLLLPrPpAnLRfLlMSAAASSSSSRPVRGAAVaVPSLGADETgAv
+ADEAFrRHTSPSLRRGGaGVAVVWFRNDLRVLDNEALvRAWAASEAVLPVYCVDPRVFAG
+STHYFGFPKTGALRAQFLIECLGDLKQNLrKKGLDLLVRHGKPEEILPSIAKAVSAHTVY
+AHKETCSEELLVERLVRKGLEQVvIpQGGASgQKKPLNPKLQLIWGATMYHIDDLPFPVS
+NLPDVYTQFRKAVESKSSVRNCsKLPPSLGPPPSSGLDEIGGWGtIPTLESLGLSVTKSE
+KGMHFvGGESAALGRVHEYFWKKDQLKVYKETRNGMLGPDYSTKFSPWLASGSLSPRYIC
+EEVKRYEKQRVANDSTYWVLFELIWRDYFRFLSAKYGNSIFHLGGPRKVVSKWSQDQALF
+ESWRDGRTGYPLIDANMrELSATGFMSNRGRQIVCSFLVRDMGIDWRMGAEWFETCLLDY
+DPASNYGNWTYGAGVGNDPREDRYFSIPKQAKTYDPDGEYVAYWLPELRSLAKERRNFPG
+ASYIRQIVPLKFDGGHQKKDQQFNRQRRPNNMYRRQK
+
+
+BOP CONSENSUS:
+Length: 587 aa
+
+MLHLLSSSSFPPlAAQSLLLLPRPAArLRVLLSMavAASTSTSSSsRPPRAVLAAAVPSL
+GADETAAAADEAFRRHTSPGLRRsGGGGVAVVWFRSDLRVLDNEALARAWAASGAVLPVY
+CVDPRILAGATHRFGFPKTGALRAQFLIECLGDLKQNLQKRGLDLLVRHGKPEDILPAIA
+KAVSAHTVYAHKETCSEELLVERLVRRGLEQVVIPQGGGASGQNKPLSPKLQLIWGATMY
+HVDDLPFPVSNLPDVYTQFRKAVESKSSVRSCGKLPPSLGPAPSSGLDEIGGWGSIPTLE
+SLGLSVTKSEKGMRFVGGESAALGRVHEYFWKNDQLKVYKETRNGMLGPDYSTKFSPWLA
+SGSLSPRYVCEEVKRYEKQRVANDSTYWVLFELIWRDYFRFLSAKYGNSIFHLGGPRKVa
+SKWSQDQALFESWRDGRTGYPLIDANMKELLATGFMSNRGRQIVCSFLVRDMGIDWRMGA
+EWFETCLLDYDPASNYGNWTYGAGVGNDPREDRYFSIPKQAKTYDPDGEYVAYWLPELRS
+LAKERRNFPGASYIKQVVPLKFDGGHQRKDQQFNRQTRPKNIYRRQK
+
+
+PACMAD CONSENSUS:
+Length: 575 aa
+
+MLHFLSSSPLRPRFLLLPNPPANLRFLAMSAAASSSSSRsVRGAAVPVPSLGADEAGAVA
+DEAFQRHTSPSLRRGGAGVAVVWFRNDLRVLDNEALLRAWAASEAVLPVYCVDPRVFAGS
+THYFGFPKTGALRAQFLIECLGDLKQNLRKKGLDLLVRHGKPEEILPSIAKAVSAHTVYA
+HKETCSEELLVERLVSKGLEQVQITQGGASvQKKPLNPRLQLIWGATMYHIDDLPFtVNN
+LPDVYTQFRKAVESKSSVRNCSKLPPSLGPPPSSGLDEIGGWGTIPTLESLGLSVTKSEK
+GMHFIGGENAALGRVHEYFWKKDQLKvYKETRNGMLGPDYSTKFSPWLASGSLSPRYICE
+EVKRYEKQRVANDSTYWVLFELIWRDYFRFLSAKYGNSIFHLGGPRKVVSKWSQDQALFE
+SWRDGRTGYPLIDANMRELSATGFMSNRGRQIVCSFLVRDMGIDWRMGAEWFETCLLDYD
+PASNYGNWTYGAGVGNDPREDRYFSIPKQAKTYDPEGEYVAYWLPELRSLAKERRNFPGA
+SYIRQIVPLKFDGGNQKKDQQFNRQRRPNNMYRRQ
+
+================================================================================

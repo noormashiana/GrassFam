@@ -1,0 +1,144 @@
+================================================================================
+GrassFam ID: GFAM009315
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             634.0 aa
+Family Size (Extended Family Size): 22 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43677:SF10
+Panther Family ID:               PTHR43677
+Modal Panther ID:                PTHR43677:SF10
+Modal Panther Description:       ENOYL REDUCTASE (ER) DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR43677
+Modal Panther Fam Desc:          SHORT-CHAIN DEHYDROGENASE/REDUCTASE
+Interpro Signature Accession:    cd05323; cd08250; G3DSA:3.40.50.720:FF:000121; G3DSA:3.40.50.720; G3DSA:3.90.180.10; PTHR43677; PF00106; SSF50129; SSF51735
+Interpro Signature Description:  ADH_SDR_c_like; Mgc45594_like; Prostaglandin reductase 2; -; SHORT-CHAIN DEHYDROGENASE/REDUCTASE; short chain dehydrogenase; GroES-like; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: prostaglandin reductase-3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: prostaglandin reductase-3
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: prostaglandin reductase-3
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: prostaglandin reductase-3-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: uncharacterized LOC127784340
+  Gene Descriptions: uncharacterized LOC127784340
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: prostaglandin reductase-3
+  Gene Descriptions: prostaglandin reductase-3
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: uncharacterized LOC133896737; uncharacterized LOC133902475
+  Gene Descriptions: uncharacterized LOC133896737; uncharacterized LOC133902475
+Svi
+  Gene count: 2
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: prostaglandin reductase-3-like%2C transcript variant X1; prostaglandin reductase-3-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: prostaglandin reductase-3-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: prostaglandin reductase-3
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: ARP protein (REF)
+  Gene Synonyms: GRMZM2G147191
+  Gene Descriptions: ARP protein (REF)
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 634 aa
+
+MELKPGMSALVTGGASGIGKALCIAFAQKGLFVTVVDFSEENGREVASLVQKENkKFHGD
+LRVPSAIFVKCDVSNADDLAAAFEKHVdTYGGLDICINCAGIANKTLVYDDTSDGTRTWR
+HAVNVNLVAVIDGTRIASQIMRSQKKPGVIINIGSAAGLYPMFfDPIYSGTKGGVVMFTR
+SLAPLKRHGVRVNVLCPEFVQTNMAEQiNRKIVDATGGYLKMEDVVNGAFELIqDESKAG
+ACLWITKRRGMEYWPTPEEQRKYmLNPtKSKRTLTkNIYPSIQTPEFFEKIVVHTLSHNF
+RNATRLERVRLRLPIEPHSALVKIIYAGVNASDVNFSSGRYFSGNAKETAARLPFDAGFE
+GVGIVASVGDSVsHIKVGTPVALMTFGSYAEFTqVPAKHLLPVPRPDPEVVAMLTSGLTA
+SIsLEKAGQMTSGQVVLVTAAAGGTGQFAVQLAKLAGNKVVATCGGESKAALLASLGVDR
+VINYRNEKIKDVLKKEFPRGVDIIYESVGGEMFDLCLNALAVHGRLIVIGMISQYQGEeG
+WKPKNYTGLCEKILAKSQTVAGFFLVQYAHLWQDHLDKLFDLYASGKLKVSLDPKKFLGV
+ASVPDAVEYLHSGKSVGKVVVCIDPSYSQTLAKL
+
+
+BOP CONSENSUS:
+Length: 634 aa
+
+MELKPGMSALVTGGASGIGKALCIAFAQKGLFVTVVDFSEQNGREVTSLVQKENKKFHGD
+LGVPSAIFVKCDVSNEGDLAAAFAKHVDTYGGLDICINCAGIANKTLVYDDISDGTRTWR
+HAINVNLVAVIDGTRIASQIMRSrKKPGVIINIGSAAGLYPMFADPIYTGTKGGVVMFTR
+SLAPLKRHGVRVNVLCPEFVQTNMAEQINRKIVDATGGFLKMEEVVNGAFELIKDESKAG
+ACLWITKRRGMEYWPTAEEQRKYLLNYTKSKRTVTKNVFPSIQTPEFYEKIVVHTLSHNF
+RNATRLDRVRLRLPIEPQSALVKIIYAGVNASDVNFSSGRYFSGSAKETAARLPFDAGFE
+AVGIVASVGDAVSHIKVGSPVALMTFGSYAEFTMVPAKHLLPVPRPDPEVVAMLTSGLTA
+SISLEKAGQMTSGQVVLVTAAAGGTGQFAVQLAKLAGNKVVATCGGESKAAFLASLGVDR
+VINYQHEKIKDVLKKEFPKGVDIIYESVGGEMFDLCLNALAVHGRLIVIGMISQYQGEEG
+WKPKNYTGLCEKILAKSQTVAGFFLVQHAHMWQDHLDKLFELYASGKLKVSLDPKKFLGV
+ASAVDAVEYLHSGKSVGKVVVCIDPAYSQTLAKL
+
+
+PACMAD CONSENSUS:
+Length: 634 aa
+
+MELKPGMSALVTGGASGIGKALCIAFAQKGLFVTVVDFSEENGREVATLVQKENSKFHRD
+LRVPSSIFVKCDVSNADNLAAsFEKHVQTYGGLDICINCAGIANKTLVYDDTSDGTRTWR
+HAVNVNLVAVIDGTRIASQIMRSQKKPGVIINIGSAAGLYPMFFDPIYSATKGGVVMFTR
+SLaPLKRHGVRVNVLCPEFVQTNMAEQMSRKIIDSTGGYLKMEDVVNGAFELIQDESKAG
+ACLWITKRRGMEYWPTPEEQRKYMVNPSKSKRMLTNNIYPSIQMPEFFEKIVVHTLSHNF
+RNATRLERVRLRLPVEPHSALVKIIYAGVNASDVNFSSGRYFSGNPKETASRLPFDAGFE
+GVGIVAAVGDSVNHIKVGTPVALMTFGSYAEFTQVPAKHLLPVPRPDPEVVAMLTSGLTA
+SIGLEKAGQMTSGQVVLVTAAAGGTGQFAVQLAKLAGNKVVATCGGESKAELLASLGVDR
+VINYRNESIKDVLKKEFPRGVDIIYESVGGEMFDLCLNALAVHGHLIVIGMISQYQGEDG
+WKPKNYTGLCEKILAKSQTVAGFFLVQYAHLWQDHLDKLFDLYASGKLKVSLDPKKFLGV
+ASVPDAVEYLHSGKSVGKVVVCIDPSYSQIVAKL
+
+================================================================================

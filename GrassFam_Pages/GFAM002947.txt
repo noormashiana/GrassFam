@@ -1,0 +1,110 @@
+================================================================================
+GrassFam ID: GFAM002947
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             382.5 aa
+Family Size (Extended Family Size): 44 (65) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR32133:SF335
+Panther Family ID:               PTHR32133
+Modal Panther ID:                PTHR32133:SF335
+Modal Panther Description:       F-BOX ASSOCIATED DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR32133
+Modal Panther Fam Desc:          OS07G0120400 PROTEIN
+Interpro Signature Accession:    PTHR32133
+Interpro Signature Description:  OS07G0120400 PROTEIN
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: uncharacterized LOC112270150
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: uncharacterized LOC123394992%2C transcript variant X1
+Ata
+  Gene count: 8
+  Modal chromosome: Ata05D
+  Gene Products: putative F-box protein At3g16210; uncharacterized LOC109741235; uncharacterized LOC109745731; uncharacterized LOC109745756%2C transcript variant X1; uncharacterized LOC109750276; uncharacterized LOC109750279; uncharacterized LOC109771359%2C transcript variant X4; uncharacterized LOC109780940
+Tae
+  Gene count: 21
+  Modal chromosome: Tae05B
+  Gene Products: F-box/kelch-repeat protein At5g15710-like; uncharacterized LOC123082729%2C transcript variant X1; uncharacterized LOC123082730; uncharacterized LOC123082731; uncharacterized LOC123082732; uncharacterized LOC123082733; uncharacterized LOC123087712%2C transcript variant X1; uncharacterized LOC123114229; uncharacterized LOC123114231; uncharacterized LOC123115286; uncharacterized LOC123117654%2C transcript variant X2; uncharacterized LOC123117655; uncharacterized LOC123117656; uncharacterized LOC123117669; uncharacterized LOC123121173; uncharacterized LOC123123720; uncharacterized LOC123126117; uncharacterized LOC123126121%2C transcript variant X1; uncharacterized LOC123129853; uncharacterized LOC123146330%2C transcript variant X1; uncharacterized LOC123156415%2C transcript variant X1
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl10
+  Gene Products: uncharacterized LOC127752730%2C transcript variant X1; uncharacterized LOC127785718%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127752730; uncharacterized LOC127785718
+Osa
+  Gene count: 2
+  Modal chromosome: Osa10
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC4348097; uncharacterized LOC4348098
+Ecu
+  Gene count: 3
+  Modal chromosome: Ecu01
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: F-box protein At5g03970-like; uncharacterized LOC120651373%2C transcript variant X2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 378 aa
+
+MdAgtsspAapPAPLPPDDLLlEILLRLPPEPIHLFRASFVCKHWRGLVHDARFLRRFRe
+FHGGTPPVLGFFnNqpgpPlFVPTSGGFAlSTATMShDDWWALDCRHGRALLescRTGtL
+LVWDLMTGDkRYLPlPtqahgcseYNGAVLCAAGHaDHgDCHSCPFLVAFVFSddrDFIT
+SACVYSSETGVWGEITSIviPdslVlpkPTALVGNTLYWLLDNnsIIEFDLDKHsLDLiE
+EVPysYdgQIiIMPAEDGcLGlAGVegFSLHLWSRVASIDGVVTWTHqRVIDLEKlLAPE
+vVAACMvigveaVGyAEDADVIFIyVyPsIYMIHLKSMqIEEVSEkgiyayIFPYTSFYt
+PGITiGGGDDQAELLNns
+
+
+BOP CONSENSUS:
+Length: 377 aa
+
+MDAgtSspAAsPaPLPPDDLLrEILLRLPPEPIHLFRASFVSKHWRGLVHDARFLRRFRe
+FHGGTPPVLGFFnNQpgpPLFVPTSGGFALSTATMShDDWWALDCRHGRALLescRTGTL
+LVWDLVTGDKRYLPLPtQAlgcseYNGAVLCAAGHADHGDCHSCPFLVAFVFSddrDFIT
+SACVYSSETGVWGEITSIviPdalVlpKPTALVGNTLYwLLDNnsIIEFDLDKHsLDLvE
+EVPysYdgQIIIMPTEDGcLGLAGVegFNLHLWSrVASIDGVVTWTHqRVIDLEKlLAPE
+vVaACmvgveAVGYAEDADVIFIyVyPSiYMIHLKSMkIEEVSEKGiywsIFPYTSFYAP
+GITiGGGdDQAELLNnS
+
+
+PACMAD CONSENSUS:
+Length: 389 aa
+
+MSvPhcCSPPADLPPDDvLLeIFLRLPPEPgHLFAASLVCrRWRRLIRsPAFLRRFRAFH
+RTPPVLGFFQNIWtlTRPtsQRIRFVPTAtPstRLSPPtGFQnWVLDCrHGRVLLYsyvD
+rELLVWDPMAGetHYVsAPPdlsGeDiAAALVCAAGHDDHTDCHSSPFQIVFLDnsdDDe
+ywVSACVYSSETeaWGDWtaITtPSLVSSdSSALVGNSVYWmLdldEEdSNHILEFELhg
+QRLgLIELPkgVREnYMSDIHVMPAEDGGIGFAGVNcSSIHFWSRRIDSEGVAGWALLRI
+IDMDKLTLSGvPAGDMLLWSSVVAFARDSDDLFLQSEAGIFMINLRSMQLRKVLEASGSA
+IYPYASFYTRGcDIvGIDDRDeGLKYryK
+
+================================================================================

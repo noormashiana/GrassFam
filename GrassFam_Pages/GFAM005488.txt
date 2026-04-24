@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM005488
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             520.0 aa
+Family Size (Extended Family Size): 23 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43874:SF1
+Panther Family ID:               PTHR43874
+Modal Panther ID:                PTHR43874:SF1
+Modal Panther Description:       TWO-COMPONENT RESPONSE REGULATOR-LIKE APRR1
+Modal Panther Family ID:         PTHR43874
+Modal Panther Fam Desc:          TWO-COMPONENT RESPONSE REGULATOR
+Interpro Signature Accession:    G3DSA:3.40.50.2300:FF:000316; G3DSA:3.40.50.2300; PTHR43874; SSF52172
+Interpro Signature Description:  Two-component response regulator-like APRR1; -; TWO-COMPONENT RESPONSE REGULATOR; CheY-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: two-component response regulator-like PRR1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: two-component response regulator-like PRR1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: two-component response regulator-like PRR1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: two-component response regulator-like PRR1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: two-component response regulator-like PRR1
+  Gene Descriptions: two-component response regulator-like PRR1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: two-component response regulator-like PRR1
+  Gene Synonyms: OJ1014_H03.23,OJ1212_C01.9,OsJ_07546,OsPRR1,PRR1
+  Gene Descriptions: two-component response regulator-like PRR1
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau05
+  Gene Products: two-component response regulator-like PRR1
+  Gene Descriptions: two-component response regulator-like PRR1
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: two-component response regulator-like PRR1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: two-component response regulator-like PRR1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: two-component response regulator-like PRR1
+Zma
+  Gene count: 4
+  Modal chromosome: Zma02
+  Gene Products: two-component response regulator-like PRR1; uncharacterized LOC100281433; uncharacterized LOC103644048
+  Gene Synonyms: GRMZM2G020081,TIDP3407
+  Gene Descriptions: uncharacterized LOC100281433
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 521 aa
+
+MVGAGEGDRVGGSGgGvGVGGGQQFVDRSKVRILLCDSDPTSSREVLRLLCNCSYQVTCA
+KSPRQVINILNYEGaEIDIILAEVDLPVSKCFKMLKYIARNKELRHIPIIMMSNRDEVSV
+VVKCLRLGAAEYLVKPLRTNELLNLWTHVWRRRRMLGLPEKNFFNDNFELVLSEPSDANT
+NSTTLLSDETDDRPKENmNQETGTSNQhEYESNPSvAEPpQrDKmEGVPGSvEDaDQASS
+PGrMFSRPIKTNLRVAESSAFLAYVKSSTPTTSSFDSELQRGGSRLDSlDHQGNCSSATD
+RSDTGTDVNIRDKEAFEMPVQYPMVCFSSSNLHMERSNEGQNDTSGTPPVYHFPFYYPGM
+VEHGMALsSVQNFQGNINNAQAHTPPTMLPQYNVYPQCHGvSMMPSFQYNPAGMsMHSSH
+LPTQNVWSSVSSTPvPEETCSRSERRAAALAKFRQKRKERCFDKKVRYVNRKKLAETRPR
+VRGQFVRQASNTDIISTGDDISEDEDDDPSSREVEMVSSPE
+
+
+BOP CONSENSUS:
+Length: 518 aa
+
+MVGAGEGvRAGGSGAGVVGGGQPFVDRSKVRILLCDSDPDSSRDVLRLLCNCSYQVTCAK
+SPRQVINVLNCEGAEIDIILAEVDLPVSKCFKMLKYIGRNKELRHIPIIMMSNRDEVSVV
+VKCLRLGAAEYLVKPLRMNELLNLWTHVWRRRRMLGLAEKNFFIDNLELVLSEPSDANTN
+STTLLSDETDDKPKGNRNHETNTSSQHEYESPAaDPPKTDQlENLPSIAEDDDkASSPGG
+MFSRPIKTNLRIAESSAFLAYVKSSTPANSsLDnELQRGGNqLDvMDHQGNFSGATDRID
+TNtsINIQDEKAFETPvQYPLVCFSSSNLHLEQRNEGQQDVSGNPPVYHYPFYYPGMVEH
+GMTLHSVQSFQGNINTAQAHTPPTMLHQYNVYHQSHGASMMPSYQYNPAGMNVHSSHLST
+QNVWSSVSSTPIPEERHSRSGRRAAALAKFRQKRKDRCFDKKVRYVNRKKLAETRPRVRG
+QFVRQASNTDIISTGDDISEYEDDDPSSRDVELVSSPE
+
+
+PACMAD CONSENSUS:
+Length: 522 aa
+
+MVGGGEGDRVGGSGGAGVGVGGGQQFVDRSKVRILLCDGDATSSREVLRLLCNCSYQVTC
+AKSPRQVINILNYEGSEIDIILAEVDLPVSKCFKMLKYIARNKDLRHIPIIMMSNRDEVS
+VVVKCLRLGAAEYLVKPLRTNELLNLWTHVWRRRRMLGLPEKNFFNDNFELVLSEPSDAN
+TNSTTLLSDETDDRPKENMNQETGTSNQREYESNPSVAEPeQRgKMEGVPGSVVDADQAS
+SPGRMFSRPIKTNLRVAESSAFLAYVKsSTPTTSSFDSELQRGGSRLDSLDNQGNCSSAT
+DRSDTGTDVNIRDKEAFEMPVQYPMVCFSSSNiHMERSNEGHNDTSGTPPVYHFPFYYPG
+MVEHNMALSSVQNFQANINNAQaHTPPTMLPQYNVYPQCHGvPMMsSFQFNPaGMsMHSS
+HLPTQNVWSSaSSTPVPEETCSRSERRAAALAKFRQKRKERCFDKKVRYVNRKKLAETRP
+RVRGQFVRQASNTDIiSTGDDISEDEDDDPSSREVEMVSSPE
+
+================================================================================

@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM012708
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             380.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47982:SF4
+Panther Family ID:               PTHR47982
+Modal Panther ID:                PTHR47982:SF4
+Modal Panther Description:       NON-SPECIFIC SERINE_THREONINE PROTEIN KINASE
+Modal Panther Family ID:         PTHR47982
+Modal Panther Fam Desc:          PROLINE-RICH RECEPTOR-LIKE PROTEIN KINASE PERK4
+Interpro Signature Accession:    G3DSA:1.10.510.10:FF:000430; G3DSA:3.30.200.20:FF:000452; G3DSA:3.30.200.20; G3DSA:1.10.510.10; PTHR47982; PIRSF000654; PF07714; SSF56112
+Interpro Signature Description:  Protein kinase superfamily protein; Receptor-like protein kinase THESEUS 1; Phosphorylase Kinase; domain 1; Transferase(Phosphotransferase) domain 1; PROLINE-RICH RECEPTOR-LIKE PROTEIN KINASE PERK4; ILK; Protein tyrosine and serine/threonine kinase; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: probable receptor-like protein kinase At2g39360
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: probable leucine-rich repeat receptor-like protein kinase At5g49770
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: leucine-rich repeat receptor protein kinase HPCA1%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: leucine-rich repeat receptor protein kinase HPCA1-like%2C transcript variant X1; leucine-rich repeat receptor protein kinase HPCA1-like%2C transcript variant X2; leucine-rich repeat receptor protein kinase HPCA1-like%2C transcript variant X3
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: probable receptor-like protein kinase At2g39360
+  Gene Descriptions: probable receptor-like protein kinase At2g39360
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: probable receptor-like protein kinase At2g39360%2C transcript variant X1
+  Gene Descriptions: probable receptor-like protein kinase At2g39360
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: leucine-rich repeat receptor protein kinase HPCA1-like%2C transcript variant X1; probable serine/threonine-protein kinase PBL22
+  Gene Descriptions: leucine-rich repeat receptor protein kinase HPCA1-like; probable serine/threonine-protein kinase PBL22
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: probable serine/threonine-protein kinase PBL28%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: probable leucine-rich repeat receptor-like protein kinase At5g49770
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: probable leucine-rich repeat receptor-like protein kinase At5g49770%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: uncharacterized LOC100272541%2C transcript variant X1
+  Gene Synonyms: GRMZM5G835629,si946073e11
+  Gene Descriptions: uncharacterized LOC100272541
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 380 aa
+
+MSLPIAlVVGIAAGGAALLAAVAVVIALWCAARRRARRNRNSDTGSSDPSTLVEWGKGGR
+SSSAPEHQGARQFSLEELAQATKNFSEANLVGAGSFGLVYMGLLLDGTVVAIKRRvGAPR
+QEFADEVRrLSEIrHRNIVTLIGYCQEGGLQMLVYEYLPNGSVCGHLYDTGKGSMTRLEF
+KQRLSIAIGAAKGLNHLHSLvPPLIHKNFKTSNVLVDENFIAKVADAGLVRLLRGsEDVG
+PSHGFSSSVYQDPEVHSVAQFSESSDVYSFGVFLLELITGREAASLiPPESRESLAHWME
+AHFSSNELIDPRLGGNFTSEGMKEFVGLAFQCLNPSSRRRPKMRLVATELDRILETEMSM
+TTIMGDGTAIITLGSQLFTS
+
+
+BOP CONSENSUS:
+Length: 378 aa
+
+MSLPIAAIAGIAAGGAALLVAVAVVIALWCRARARRNRTSETGSSDPSTLVEWGKGGRSS
+SAPERQGARQFSLEELAQATNNFSEANLVGAGSFGLVYKGLLLDGSVVAIKRRMGAPRLE
+FADEVRRLSEICHRNIVTLIGYCQEGGLQMLVFEYSPNGNVCSHLYDSGKGSMTRLEFKQ
+RLAIAIGAAKGLNHLHSLMPPLIHKNFKTSNVLVDENFIAKVADAGLVRLLRGYEDVGSS
+HGFSSSVYQDPEAHSVAQFSESSDVYSFGVFLLELITGREAASLQPPESRESLAHWLEAH
+FSSNELIDPRLGGGFTTEGMKEFVGLAFQCLNPSSRRRPKMRLVAAELDRILETEMSLTT
+IMGDGTAIITLGSQLFTS
+
+
+PACMAD CONSENSUS:
+Length: 382 aa
+
+MSLPIALVVGIAAGGATLLAAAAVLLALWCAARRRARRNRNSDTGSSDPSTLVEWGKGGR
+SSLAPEPEHQVARQFSLEELVQATKNFSDANIVGAGSFGLVYMGLLLDGTVVAIKRRVGA
+ARQvFADEVRWLSEIRHRNIVTLIGYCQEGGLQMLVYEYLPNGSVCGHLYDTGKGSTTRL
+EFKQRLSIAIGAAKGLNHLHSLDPPLIHKDFKTNNVLVDENFIAKVADAGLVRLLRGSDD
+AGPSHGFSSSVYQDPEVQSVtQFSESSDVYSFGVFLLELITGREAASLIPPESREYLAHW
+MEAHFSSNELIDPRLGGNFTSEGMKELVGLAFQCLNPSSRRRPRMRLVATELDRILETEM
+SMTTFMGDGTAIVTLGSQLFTS
+
+================================================================================

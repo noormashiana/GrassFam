@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM010447
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             497.0 aa
+Family Size (Extended Family Size): 31 (34) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR34378:SF6
+Panther Family ID:               PTHR34378
+Modal Panther ID:                PTHR34378:SF6
+Modal Panther Description:       GLUTAMATE--CYSTEINE LIGASE
+Modal Panther Family ID:         PTHR34378
+Modal Panther Fam Desc:          GLUTAMATE--CYSTEINE LIGASE, CHLOROPLASTIC
+Interpro Signature Accession:    G3DSA:3.30.590.20:FF:000003; G3DSA:3.30.590.20; TIGR01436; PTHR34378; PIRSF017901; PF04107; SSF55931
+Interpro Signature Description:  Glutamate--cysteine ligase; -; glutamate--cysteine ligase; GLUTAMATE--CYSTEINE LIGASE, CHLOROPLASTIC; GCL; Glutamate-cysteine ligase family 2(GCS2); Glutamine synthetase/guanido kinase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: glutamate--cysteine ligase B%2C chloroplastic
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: glutamate--cysteine ligase B%2C chloroplastic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: glutamate--cysteine ligase B%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: glutamate--cysteine ligase B%2C chloroplastic; glutamate--cysteine ligase B%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl05
+  Gene Products: glutamate--cysteine ligase A%2C chloroplastic; glutamate--cysteine ligase B%2C chloroplastic
+  Gene Descriptions: glutamate--cysteine ligase A%2C chloroplastic; glutamate--cysteine ligase B%2C chloroplastic
+Osa
+  Gene count: 2
+  Modal chromosome: Osa05
+  Gene Products: glutamate--cysteine ligase A%2C chloroplastic-like; glutamate--cysteine ligase B%2C chloroplastic-like
+  Gene Synonyms: GSH1-2; gcs,GSH1-1
+  Gene Descriptions: glutamate--cysteine ligase A%2C chloroplastic-like; glutamate--cysteine ligase B%2C chloroplastic-like
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: glutamate--cysteine ligase A%2C chloroplastic; glutamate--cysteine ligase B%2C chloroplastic-like
+  Gene Descriptions: glutamate--cysteine ligase A%2C chloroplastic; glutamate--cysteine ligase B%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi03K
+  Gene Products: glutamate--cysteine ligase A%2C chloroplastic; glutamate--cysteine ligase A%2C chloroplastic-like; glutamate--cysteine ligase B%2C chloroplastic-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha03
+  Gene Products: glutamate--cysteine ligase A%2C chloroplastic%2C transcript variant X1; glutamate--cysteine ligase A%2C chloroplastic-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: glutamate--cysteine ligase A%2C chloroplastic
+Zma
+  Gene count: 2
+  Modal chromosome: Zma06
+  Gene Products: gamma-glutamylcysteine synthetase 1%2C transcript variant X1; uncharacterized LOC100381846
+  Gene Synonyms: GRMZM2G020096; GRMZM2G111579,gsh1
+  Gene Descriptions: gamma-glutamylcysteine synthetase 1; uncharacterized LOC100381846
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 498 aa
+
+MAVASRLAVARVSPDGArPAAGGRRGRpGFAVVGLPaAARRGRRRGGAVAASPPTEEAVQ
+MTEPLTKEDLVAYLVSGCKPKENWRIGTEHEKFGFEVDTLRPIKYDQIRDILNGLAERFD
+WDKIMEENNVIGLKQGKQSISLEPGGQFELSGAPLETLHQTCAEVNSHLYQVKAVGEEMG
+IGFLGLGFQPKWALSDIPIMPKGRYEIMRNYMPKVGTLGLDMMFRTCTVQVNLDFSSEQD
+MIRKFRAGLALQPIATAIFANSPFKEGKPNGFLSLRSHIWTDTDNNRSGMLPFVFDDSFG
+FEQYVDYALDVPMYFVYRNKKYIDCTGMSFRDFMqGKLPQAPGELPTLNDWENHLTTIFP
+EVRLKRYLEMRGADGGPWRRLCALPAFWVGLLYDEESLQSIlDMTFDWTKEEREMLRRKV
+PVTGLKTPFRDGYVRDLAEEVLKLAKNGLERRGYKEVGFLREVDEVVRTGVTPAERLLNL
+YETKWQRSVDPVFEELLY
+
+
+BOP CONSENSUS:
+Length: 497 aa
+
+MAVASRLAVARVVQPDGGAAGGRRGRrGFAVVGVPAAARRGRRRGGAVAASPPTEEAAQM
+TEPLTKEDLVAYLASGCKPKENWRIGTEHEKFGFDVETLRPITYDQISaILNGLSERFEW
+DKIMEENHVIGLKQGKQNISLEPGGQFELSGAPLETLHQTCAEVNSHLYQVKAVGEEMGV
+GFLGmGFQPKWALSDIPIMPKGRYEIMRNYMPKVGSLGLDMMFRTCTVQVNLDFSSEQDM
+IRKFRASLALQPIATAIFANSPFKEGKPNGFLSLRSHIWTDTDNNRSGMLPFVFDDSFGF
+EQYVDYALDVPMYFVYRNKkYIDCTGMSFRDFMAGKLPQVPGELPTLNDWENHLTTIFPE
+VRLKRYmEMRGADGGPWRRLCALPAFWVGLLYDEESLQSIiDMTSDWTKEEREMLRRKVP
+VTGLKTPFRDGYVRDLAEDVLQLAKNGLERRGYKEVGFLREVDEVVRTGVTPAEKLLNLY
+ETKWQRSVDPVFEELLY
+
+
+PACMAD CONSENSUS:
+Length: 499 aa
+
+MAVASRLAVARVSPDGArPAAAgRRGRPaGLAVVGLPpAARRGRRRGGAVAASPPTEEAV
+QMTEPLTKEDLVAYLVSGCKPKENWRIGTEHEKFGFEVDTLRPIKYDQIRDILNGLAERF
+DWDKIMEGNNVIGLKQGKQSISLEPGGQFELSGAPLETLHQTCAEVNSHLYQVKAVGEEM
+GIGFLGLGFQPKWALSDIPIMPKGRYEIMRNYMPKVGTLGLDMMFRTCTVQVNLDFSSEQ
+DMIRKFRAGLALQPIATAIFANSPFKEGKPNGFLSLRSHIWTDTDNNRAGMLPFVFDDSF
+GFEQYVDYALDVPMYFVYRNKKYIDCTGMSFRDFMQGKLPQAPGELPTLNDWENHLTTIF
+PEVRLKRYLEMRGADGGPWRRLCALPAFWVGLLYDEESLQSILDMTFDWTKEEREMLRRK
+VPVTGLKTPFRDGYVRDLAEEVLKLAKSGLERRGYKEVGFLREVDEVVRTGVTPAERLLN
+LYETKWQRNVDHVFEHLLY
+
+================================================================================

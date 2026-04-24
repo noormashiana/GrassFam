@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM020269
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             528.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10314:SF239
+Panther Family ID:               PTHR10314
+Modal Panther ID:                PTHR10314:SF239
+Modal Panther Description:       THREONINE SYNTHASE
+Modal Panther Family ID:         PTHR10314
+Modal Panther Fam Desc:          CYSTATHIONINE BETA-SYNTHASE
+Interpro Signature Accession:    cd01563; G3DSA:3.40.50.1100:FF:000030; G3DSA:3.40.50.1100; TIGR00260; PTHR10314; PF00291; SSF53686
+Interpro Signature Description:  Thr-synth_1; Threonine synthase 1, chloroplastic; -; threonine synthase; CYSTATHIONINE BETA-SYNTHASE; Pyridoxal-phosphate dependent enzyme; Tryptophan synthase beta subunit-like PLP-dependent enzymes
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: threonine synthase%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: threonine synthase%2C chloroplastic-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: threonine synthase%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: threonine synthase%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: threonine synthase%2C chloroplastic-like
+  Gene Descriptions: threonine synthase%2C chloroplastic-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: threonine synthase%2C chloroplastic
+  Gene Synonyms: P0431H09.7
+  Gene Descriptions: threonine synthase%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: threonine synthase%2C chloroplastic-like; threonine synthase%2C chloroplastic-like%2C transcript variant X3
+  Gene Descriptions: threonine synthase%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: threonine synthase%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: threonine synthase%2C chloroplastic-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: threonine synthase%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: threonine synthase
+  Gene Synonyms: GRMZM2G050570
+  Gene Descriptions: threonine synthase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 530 aa
+
+MAatAAAASSLSLLFsHPHSRHSSaprRfgGSHLRLPpRAAPsRARCASSDAaTTATKHR
+RPAEENIREEAARLRGPAqgFSAWYEPFPPAPgGDPNERYSLDEVVYRSSSGGLLDVRHD
+MEALARFPGSYWRDLFDSRVGRTAWPYGSGVWSKKEFVLPEIDSDHIVSLFEGNSNLFWA
+ERLGREHLGGMNDLWVKHCGISHTGSFKDLGMTVLVSQVNRLRRAPLSRPINGVGCASTG
+DTSAALSAYCAAAGIPAIVFLPADRISLQQLIQPIANGATVLSLDTDFDGCMRLIREVTA
+ELPIYLANSLNSLRLEGQKTAAIEILQQFNWQVPDWVIVPGGNLGNIYAFYKGFEMCRVL
+GLVDRVPRLVCAQAANANPLYRYYKSGWTEFQPLVAETTFASAIQIGDPVSVDRAVVALK
+ATDGIVEEATEEELMDATALADRTGMFACPHTGVALAALFKLRDQRIIGPNDRTVVVSTA
+HGLKFTQSKIDYHDKNIKDMLCQYANPPISVKADFGSVMDVLQKKLNGKI
+
+
+BOP CONSENSUS:
+Length: 532 aa
+
+MATPAAATTSSLSLLFAHPHSHHSStPQRFDRSHLRLPLRAAPHRTRCASEGASATTATK
+HRRPAEENIREEAARLRGPATTFSAWYEPFPPASDGDPNERYSLDEVVYRSTSGGLLDVR
+HDMEALARFPGSYWRDLFDSRVGRTTWPYGSGVWSKKEFVLPEIDSDHIVSLFEGNSNLF
+WAERLGREHLGGMNDLWVKQCGISHTGSFKDLGMTALVSQVNRLRRAPLSRPINGVGCAS
+TGDTSAALSAYCAAAGIPAIVFLPADRISLQQLIQPIANGATVLSLDTDFDGCMRLIREV
+TAELPIYLANSLNSLRLEGQKTAAIEILQQFNWQVPDWVIIPGGNLGNIYAFYKGFEMCR
+VLGLVDRVPRLVCAQAANANPLYRYYKSGWTDFQSLVAGTTFASAIQIGDPVSIDRAVVA
+LKATDGIVEEATEEELMDATALADLTGMFACPHTGVALAALFKLRDQGIIGTNDRTVVVS
+TAHGLKFTQSKIDYHDKNIKDMLCQYANPPISVKPDFGSVMDVLQKKLNGKI
+
+
+PACMAD CONSENSUS:
+Length: 527 aa
+
+MAtaAAASSLSLLFSHPHSRhSSAHRPAaGSHLRLPPRASRARCASSDAPTTATKHRRPA
+EENIREEAARLRGPAQGFSAWYEPFPPAPGGDPNERYSLDEVVYRSSSGGLLDVRHDMEA
+LARYPGSYWRDLFDSRVGRTAWPYGSGVWSKKEFVLPEIDSDHIVSLFEGNSNLFWAERL
+GREHLGGMNDLWVKHCGISHTGSFKDLGMTVLVSQVNRLRRAPLSRPIAGVGCASTGDTS
+AALSAYCAAAGIPAIVFLPADRISLQQLIQPIANGATVLSLDTDFDGCMRLIREVTAELP
+IYLANSLNSLRLEGQKTAAIEILQQFNWQVPDWVIVPGGNLGNIYAFYKGFEMCRVLGLV
+DRVPRLVCAQAANANPLYRYYKSGWTEFQPQVAETTFASAIQIGDPVSVDRAVVALKATD
+GIVEEATEEELMDATALADRTGMFACPHTGVALAALFKLRDQRIIGPNDRTVVVSTAHGL
+KFTQSKIDYHDKNIKDMLCQYANPPISVKADFGSVMDVLQKNLNGKI
+
+================================================================================

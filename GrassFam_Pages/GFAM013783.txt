@@ -1,0 +1,147 @@
+================================================================================
+GrassFam ID: GFAM013783
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             698.0 aa
+Family Size (Extended Family Size): 22 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11455:SF58
+Panther Family ID:               PTHR11455
+Modal Panther ID:                PTHR11455:SF58
+Modal Panther Description:       OS02G0573200 PROTEIN
+Modal Panther Family ID:         PTHR11455
+Modal Panther Fam Desc:          CRYPTOCHROME
+Interpro Signature Accession:    G3DSA:1.10.579.10:FF:000003; G3DSA:1.10.579.10; G3DSA:1.25.40.80; G3DSA:3.40.50.620; TIGR02766; PTHR11455; PF12546; PF00875; PF03441; SSF52425; SSF48173
+Interpro Signature Description:  Deoxyribodipyrimidine photo-lyase; DNA Cyclobutane Dipyrimidine Photolyase, subunit A, domain 3; -; HUPs; cryptochrome photoreceptor; CRYPTOCHROME; Blue/Ultraviolet sensing protein C terminal; DNA photolyase; FAD binding domain of DNA photolyase; Cryptochrome/photolyase, N-terminal domain; Cryptochrome/photolyase FAD-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: cryptochrome-1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: cryptochrome-1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: cryptochrome-1%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: cryptochrome-1%2C transcript variant X1; cryptochrome-1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: cryptochrome-1-like%2C transcript variant X2
+  Gene Descriptions: cryptochrome-1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: cryptochrome-1%2C transcript variant X2
+  Gene Descriptions: cryptochrome-1
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: cryptochrome-1-like%2C transcript variant X2
+  Gene Descriptions: cryptochrome-1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: cryptochrome-1-like%2C transcript variant X1; cryptochrome-1-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: cryptochrome-1-like%2C transcript variant X2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: cryptochrome-1-like%2C transcript variant X2
+Zma
+  Gene count: 2
+  Modal chromosome: Zma04
+  Gene Products: cryptochrome 2%2C transcript variant X2; uncharacterized LOC100384475%2C transcript variant X2
+  Gene Synonyms: GRMZM2G024739,siu50817b; GRMZM2G104262
+  Gene Descriptions: cryptochrome 2; uncharacterized LOC100384475
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 698 aa
+
+MSASQSSMSGAGEAGVRTVVWFRRDLRVEDNPALAAAARTAGEVVPAYVWAPEEDGPYYP
+GRVSRWWLSQSLKHLDASLRRLGASRLVTRRSaDAVVALLDLVRSTGATHLFFNHLYDPL
+SLVRDHRVKELLTAEGITVQSFNSDLLYEPWEVLDDDGCPFTMFAPFWNRCLCMPDPAAP
+LLPPKRINSGDLSRCPSDELIFEDESERGSNALLARAWSPGWQNADKALTAFLNGPLIDY
+SVNRKKADSASTSLLSPYLHFGELSVRKVFHQVRMKQLMWSNEGNHAGEESCTLFLRSIG
+LREYSRYLTFNHPCSHEKPLLSHLRFFPWVVNEVYFKVWRQGRTGYPLVDAGMRELWATG
+WLHDRIRVVVSSFFVKVLQLPWRWGMKYFWDTLLDADLESDALGWQYISGSLPDGRELDR
+IDNPQFEGYKFDPHGEYVRRWLPELARLPTEWIHHPWDAPESVLQAAGVELGSNYPRPIV
+ELDAANSRLQDALSEMWELEAASRAAMENGMEEGLGDSSDVPPIDFPQELQMEVDRqPVR
+PAIHTPttAGRRREDQMVPSMTSSLVRAETELTADFGNtSEDSRPEVPSNvHLQPRMERE
+ETVDGGTGNAVRMNGnHQQqNLQNNlHRVrGIAPSTSEASSSWTGREGGVVPVWSPPAAS
+GHSDPYAADEADISSRSYLDRHPQSHTMMNWSQLSQSL
+
+
+BOP CONSENSUS:
+Length: 700 aa
+
+MSASPSSMSGGAGEAgvRTVVWFRRDLRVEDNPALAAAARTAGEVVPAYVWAPEEDGPYY
+PGRVSRWWLSQSLKHLDASLRRLGASRLVTRRSTDTVAALLELVRSTGATHLFFNHLYDP
+LSLVRDHRVKqVLtAEGITVQSFNSDLLYEPWEVLDDHGCPFTMFTPFWNKCLCMVDPPA
+PLLPPKRINSGDLSRCPSDDLIFEDESERGSNALLARAWSPGWQNADKAFTAFLNGPLID
+YSVNRKKADSANTSLLSPYLHFGELSVRKVFHQVRMKQLTWSNESNRDGEEGCSLFLRSI
+GLREYSRYLAFNHPCSHEKPLLAHLRFFPWVVNEVYFKVWRQGRTGYPLVDAGMRELWAT
+GWLHDRIRVVVSSFFVKVLQLPWRWGMKYFWDTLLDADLESDALGWQYISGSLPDGRELD
+RIDNPQFEGYKFDPYGEYVRRWLPELARLPTEWIHHPWDAPESVLQAAGIELGSNYPLPI
+VELDEAKSRLQDALSEMWELEAASRAEMENGMEEGLGDSSDVPPIAFPQELQHMEVDRAP
+ArPTIHTPTTAGRRRADQMVPSMTSSLVRAETELSADFGNSEVSRPEVPSQVHFQPRMEv
+REEVvsGGTAARsNGVQQQQYNlQyTLHRVRGGIAPSTSEASSSWTGREGGVVPVWSPPA
+ASGHSDPYAADEADISSRSYLDRHPQSHRLMNWNQLSQSS
+
+
+PACMAD CONSENSUS:
+Length: 698 aa
+
+MSASQSSMSGAGEAGVRTVVWFRRDLRVEDNPALAAAARTAGEVVPAYVWAPEEDGPYYP
+GRVSRWWLSQSLKHLDASLRRLGAgRLVTRRSADAVVALLDLVRSTGATHLFFNHLYDPL
+SLVRDHRVKELLTAEGITVQSFNADLLYEPWEVLDDDGCPFTMFAPFWNRCLCMPDPAAP
+LLPPKRINSGDLSRCPSDELIFEDESERGSNALLARAWSPGWQNADKALTAFLNGPLIDY
+SVNRKKADSASTSLLSPYLHFGELSVRKVFHQVRMKQLMWSNEGNHAGEESCTLFLRSIG
+LREYSRYLTFNHPCSHEKPLLSHLRFFPWVVNEVYFKVWRQGRTGYPLVDAGMRELWATG
+WLHDRIRVVVSSFFVKVLQLPWRWGMKYFWDTLLDADLESDALGWQYISGSLPDGRELDR
+IDNPQFEGYKFDPHGEYVRRWLPELARLPTEWIHHPWDAPESVLQAAGVELGSNYPRPIV
+ELDAANSRLQDALSEMWELEAASRAAMENGMEEGLGDSSDVPPIDFPQELqMEVDRQPVR
+PAIQTPmMAGRRREDQMVPSMTSSFIRAETELTADFGNtSEDSRPEVPSNiHLQPRtERE
+ETVDGGTGNtVRMNGNHQQQNLQNNmHRVLGvAPSVSEASSSWTGREGGVVPVWSPPAAS
+GHSDPYAADEADISSRSYLDRHPQSHTMMNWSQLSQSL
+
+================================================================================

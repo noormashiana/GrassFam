@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM007096
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             432.0 aa
+Family Size (Extended Family Size): 29 (30) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31419:SF9
+Panther Family ID:               PTHR31419
+Modal Panther ID:                PTHR31419:SF9
+Modal Panther Description:       AUXIN EFFLUX CARRIER FAMILY PROTEIN
+Modal Panther Family ID:         PTHR31419
+Modal Panther Fam Desc:          PROTEIN PIN-LIKES 2
+Interpro Signature Accession:    PTHR31419; PF03547
+Interpro Signature Description:  PROTEIN PIN-LIKES 2; Membrane transport protein
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: protein PIN-LIKES 6%2C transcript variant X5; protein PIN-LIKES 6-like
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu03H
+  Gene Products: protein PIN-LIKES 6-like; protein PIN-LIKES 6-like%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: protein PIN-LIKES 6%2C transcript variant X3
+Tae
+  Gene count: 6
+  Modal chromosome: Tae03A
+  Gene Products: protein PIN-LIKES 6-like; protein PIN-LIKES 6-like%2C transcript variant X1; protein PIN-LIKES 6-like%2C transcript variant X3
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl01
+  Gene Products: protein PIN-LIKES 6-like; protein PIN-LIKES 6-like%2C transcript variant X1
+  Gene Descriptions: protein PIN-LIKES 6-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa01
+  Gene Products: protein PIN-LIKES 6; protein PIN-LIKES 6%2C transcript variant X1
+  Gene Descriptions: protein PIN-LIKES 6
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: protein PIN-LIKES 6-like; protein PIN-LIKES 6-like%2C transcript variant X2
+  Gene Descriptions: protein PIN-LIKES 6-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: protein PIN-LIKES 6-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: protein PIN-LIKES 6
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: protein PIN-LIKES 6%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: uncharacterized LOC103651075
+  Gene Synonyms: cl19040_1,GRMZM2G050089,PINY
+  Gene Descriptions: uncharacterized LOC103651075
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 433 aa
+
+MMERSLMEALATAAQGGTtGTSVLSMLKYAVLPIAKVFTVCFMGFLMASKYVNILQPNGR
+KLLNGLVFSLLLPCLIFSQLGRAITIEKMiQWWYIPVNIVVGAVSGSLIGFVVASIIRPP
+YPYFKFTVIHIGIGNIGNIPLVLIAALCRDPSNPFGDSDKCNQDGNAYISFGQWVGAIIV
+YTYVFKMLAPPPGeTFDGSEEDeLPVKASGENaVPELGKYPTsTHTSTVPEDEPLLSAEG
+VQKegATSLGSKIMGhVKCVVKFLKDKQLLQPPIIASvFAIvIGVVPFLKNFVLTDDAPL
+FFFTDSCLILGEAMIPCILLAVGGNLVDGPGEGSKRLGVRTTVAIIFARLILVPLAGVGI
+vmLVDKLGFIPKDDKMFKFVLLLQHSMPTSVLSGAVANLRGCGKESAAILFWVHIFAVFS
+MAGWIIFYLSLLF
+
+
+BOP CONSENSUS:
+Length: 432 aa
+
+MMERRSLMEALVTAAQGGSTDTSVLSMLKYAVLPIAKVFTVCFMGFLMATKYVNILQPNG
+RKLLNGLVFSLLLPCLIFSQLGSAITLEKLLQWWYIPVNIVVGAVSGSLIGFVVASIIRP
+PYPYFKFTVIHIGIGNIGNIPLVLIAALCRDPSNPFGDSEKCSQDGNAYISFGQWVGAII
+VYTYVFKMLSPPPGETFDGEEEKLPVLASGENAMPELGKYPTSTRTSTVPEDEPLLSlEG
+NQKGsTSLGSKILSCVRCVVKFLKDKQLLQPPIIASVFAIGIGVVPFLKGLIFTDDAPLF
+FFTDSCLILGEAMIPCILLAVGGNLVDGPGEGSKRLGVRTTVAIIFARLILVPIAGVGIV
+MLVDKLGFIPKDDKMFKFVLLLQHSMPTSVLSGAVANLRGCGKESAAILFWVHIFAVFSM
+AGWIIFYLTLLF
+
+
+PACMAD CONSENSUS:
+Length: 433 aa
+
+MMERSLLEALATAAQGGTsGTSVLSMLKYAVLPIAKVFTVCFMGFLMASKYINILQPNGR
+KLLNGLVFSLLLPCLIFSQLGRAITIEKMIQWWYIPVNIVVGAVSGSLIGFVVASIIRPP
+YPYFKFTIIHIGIGNIGNIPLVLIAALCRDPSNPFGDSDKCNQDGNAYISFGQWVGAIIV
+YTYVFKMLAPPPGQTFDGSEEDELPIKASGENtVPQLGKYPtNTHTSTVPEDEPLLSAGE
+VQKErATSVGSKIMGHVKCVVKFLKDKQLLQPPIIASAFAIVIGVVPFLKNFVLTDDAPL
+FFFTDSCLILGEAMIPCILLAVGGNLVDGPGEGSKRLGVRTTVAIIFARLVLVPLAGVGI
+ILLVDKLGFIPKDDKMFKFVLLLQHSMPTSVLSGAVANLRGCGKESAAILFWVHIFAVFS
+MAGWIIFYLSLLF
+
+================================================================================

@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM016423
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             457.5 aa
+Family Size (Extended Family Size): 32 (37) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23504:SF108
+Panther Family ID:               PTHR23504
+Modal Panther ID:                PTHR23504:SF108
+Modal Panther Description:       OS11G0151500 PROTEIN
+Modal Panther Family ID:         PTHR23504
+Modal Panther Fam Desc:          MAJOR FACILITATOR SUPERFAMILY DOMAIN-CONTAINING PROTEIN 10
+Interpro Signature Accession:    cd17330; G3DSA:1.20.1250.20; PTHR23504; SSF103473
+Interpro Signature Description:  MFS_SLC46_TetA_like; MFS general substrate transporter like domains; MAJOR FACILITATOR SUPERFAMILY DOMAIN-CONTAINING PROTEIN 10; MFS general substrate transporter
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi04
+  Gene Products: tetracycline resistance protein%2C class A; tetracycline resistance protein%2C class H%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: tetracycline resistance protein%2C class D-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: tetracycline resistance protein%2C class D
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: multidrug resistance protein MdtL-like%2C transcript variant X3; tetracycline resistance protein%2C class D-like; uncharacterized LOC123124560
+Ola
+  Gene count: 2
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: uncharacterized LOC127754989
+  Gene Descriptions: uncharacterized LOC127754989
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4349793
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu06
+Pau
+  Gene count: 1
+  Modal chromosome: Pau23
+  Gene Products: uncharacterized LOC133906345
+  Gene Descriptions: uncharacterized LOC133906345
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi08K
+  Gene Products: hippocampus abundant transcript-like protein 1; hippocampus abundant transcript-like protein 1%2C transcript variant X1; tetracycline resistance protein%2C class H-like%2C transcript variant X1; uncharacterized LOC120686575
+Pha
+  Gene count: 2
+  Modal chromosome: Pha08
+  Gene Products: hippocampus abundant transcript-like protein 1%2C transcript variant X1; tetracycline resistance protein%2C class H-like%2C transcript variant X1
+Msi
+  Gene count: 6
+  Modal chromosome: Msi14
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: tetracycline resistance protein%2C class H
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100272739
+  Gene Synonyms: GRMZM6G654251
+  Gene Descriptions: uncharacterized LOC100272739
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 456 aa
+
+MGVLggggdsrvmRPLLHLLVGLVLYgVAEEMTVPALVDKVTAALCPADgrSCPEAIYLT
+GLQsSVGGIFRTIGFTLMGQLADEYGRKPLLLLTASTSIIPFAVLAWNnSRTAVYVYLvL
+RTLSFMIGQGTIFCLAiAYTADvVEPSKRAaAFGfMTGIlSASHaLGnVFSRFLPErWIF
+QVSVVLLICSVLYMKIYLVETvQRAPSaPCQHLSLSSLVvrLPQQRWESIKENISIiKNS
+ETLRRIsYVsFFYKLGMIGISDVLMYYLKSVFGFDKNQFSEILMVVGIGSIFSQILVLPv
+lSHiIGEKGVLCISILASIAYALLYGVAWAWWVPYFSSSLGIIYVLAKPAIYAIISGEVL
+STDQGKAQGFIATVQSvAILLAPLFMSPLTSYFISEEAPFNCKGFSFLVAGFFLAISLCF
+AWMLNPESKDKCTkVAVSDQpDEEAvQAPLLAqrPr
+
+
+BOP CONSENSUS:
+Length: 458 aa
+
+MVGAAEGKLVlGDvRVLKPLaHLLVGLVLYWVAEEMTVPVLVDVTTAALCPGDGtSCPEA
+IYLTGLHQTVGGIFRAVGFTLMGQLADEYGRKPLLLLAASTSIIPYSVLALSSTKVAVYV
+YLVLRTLSFMIGQGTITCLALAYTADLVEPSKRAFAFGCMTGILSASHALGNVFSRFLPE
+QWIFQVSVLLLICSVLYMKICLVETLQKAPSGSCQRLSLSSLVLGLPQQRWESIKENISM
+IKiNnTLRRITYISFFYELGMIGISDVLLYYLKSVFGFDKNQFSEILMVVGIGSIFSQIL
+VLPViIHAIGEKGVLCISILASVAYAlLYGLAWSWWVPYFASSLGIIYVLVKPATYAIIS
+REVVSADQGKAQGFIATVKSTAILMAPLFMSPLTSYFISEEAPFNCKGFSFLVAGFFLAI
+SLgFAWMLDPESKDKCTGVAvsDQLDQEAVQAPLLAQP
+
+
+PACMAD CONSENSUS:
+Length: 457 aa
+
+MGVlGGDamSAMMRPVLHLMVGLVLYGVAEEMTVPALVDKVTAALCPADdRSCPEAIYLT
+GLQSSVGGIFRTIGFTLMGQLADEYGRKPLLLLTASTSIIPFAVLAWNNSRTAVYVYLvL
+RTlSFMIGQGTIFCLSIAYTADaVEPSKRAAAFGFmTGIFSASHTLGSVFSRFLPEkWIF
+QVSIVLLICSILYMKIYLVETVQRAPStPSQHLSLSSLVvkLPQQRWESIKENISIvKNS
+ETLRRISYVAFFYKLGMIGISDVLMYYLKSVFGFDKNQFSEILMVVGVGSIFSQILVLPl
+lSHIIGEKGVLCISILASIAYALLYGVAWASWVPYFSSSLGVIYVLAKPAIYAIISGEVL
+STDQGKAQGFIATVQSVAILLAPLFMSPLTSYFISeEAPFNCKGFSFLVASFFLAISLCF
+AWTLNPeSKDKcTkvaVSDkPDEEAlQAPLLAkRPkP
+
+================================================================================

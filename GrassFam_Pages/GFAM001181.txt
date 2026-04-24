@@ -1,0 +1,128 @@
+================================================================================
+GrassFam ID: GFAM001181
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             338.0 aa
+Family Size (Extended Family Size): 82 (92) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10366:SF353
+Panther Family ID:               PTHR10366
+Modal Panther ID:                PTHR10366:SF353
+Modal Panther Description:       CINNAMOYL-COA REDUCTASE 1
+Modal Panther Family ID:         PTHR10366
+Modal Panther Fam Desc:          NAD DEPENDENT EPIMERASE/DEHYDRATASE
+Interpro Signature Accession:    cd08958; G3DSA:3.40.50.720:FF:000219; G3DSA:3.40.50.720; PTHR10366; PF01370; SSF51735
+Interpro Signature Description:  FR_SDR_e; Cinnamoyl-CoA reductase 1; -; NAD DEPENDENT EPIMERASE/DEHYDRATASE; NAD dependent epimerase/dehydratase family; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 3
+  Modal chromosome: Bdi03
+  Gene Products: cinnamoyl-CoA reductase 1; cinnamoyl-CoA reductase 1%2C transcript variant X1; cinnamoyl-CoA reductase 1-like%2C transcript variant X2
+Lpe
+  Gene count: 5
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu06H
+  Gene Products: cinnamoyl-CoA reductase 1-like
+Ata
+  Gene count: 6
+  Modal chromosome: Ata06D
+  Gene Products: cinnamoyl-CoA reductase 1; cinnamoyl-CoA reductase 1-like
+Tae
+  Gene count: 18
+  Modal chromosome: Tae06A
+  Gene Products: cinnamoyl-CoA reductase 1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 8
+  Modal chromosome: Ogl02
+  Gene Products: cinnamoyl-CoA reductase 1; cinnamoyl-CoA reductase 1-like; cinnamoyl-CoA reductase 1-like%2C transcript variant X1
+  Gene Descriptions: cinnamoyl-CoA reductase 1; cinnamoyl-CoA reductase 1-like
+Osa
+  Gene count: 8
+  Modal chromosome: Osa02
+  Gene Products: cinnamoyl-CoA reductase 1-like; uncharacterized protein
+  Gene Synonyms: CCR1,OJ1112_G06.14,OJ1520_C09.26,OsCCR1,OsJ_08807
+  Gene Descriptions: cinnamoyl-CoA reductase 1-like; uncharacterized LOC4331103
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: cinnamoyl-CoA reductase 1; cinnamoyl-CoA reductase 1-like
+  Gene Descriptions: cinnamoyl-CoA reductase 1; cinnamoyl-CoA reductase 1-like
+Svi
+  Gene count: 5
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi01N
+  Gene Products: cinnamoyl-CoA reductase 1-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha01
+  Gene Products: cinnamoyl-CoA reductase 1-like; cinnamoyl-CoA reductase 1-like%2C transcript variant X1
+Msi
+  Gene count: 6
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 4
+  Modal chromosome: Sbi03
+  Gene Products: cinnamoyl-CoA reductase 1; cinnamoyl-CoA reductase 1-like
+Zma
+  Gene count: 3
+  Modal chromosome: Zma08
+  Gene Products: cinnamoyl-CoA reductase 1; cinnamoyl-CoA reductase 1%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 336 aa
+
+MSSySkASNGGEEkQLVCVTGAGGFIGSWVVKELLqRGYRVRGTARDPADSKNAHLLALE
+GAkERLTLCRADVLDydSLRAAFsGCHGVFHVASPVSNDPELVPVAVEGTRNVINAAADE
+GVRRVVFTSSYGAVHMDPNRSPDAVLDETCWSDYEFCKQTDNLYCCAKMMAEITATEEAA
+ARGLQLAVVVPCMTMGPMLQQTLNFSSNHVARYLMGTKRSYPNAVAAYVDVRDVARAHVL
+AYERPgARGRYLCIGTVLHRAQLvAMLRELFPQYPVTAKCEDDGKPMAKPYKFSNQRLRD
+LGLEFTPLRKSLYEAVVCMQQKGHLPVIqQQQRAYL
+
+
+BOP CONSENSUS:
+Length: 337 aa
+
+MSSNFEANNNNGEKQLVCVTGAGGFIGSWVVKELLIRGYHVRGTARDPADSKNAHLLELE
+GADERLSLCRADVLDAASLRAAFSGCHGVFHVASPVSNDPDLVPVAVEGTRNVINAAADM
+GVRRVVFTSSYGAVHMNPSRSPDAVLDETCWSDYEFCKQTDNLYCCAKMMAEMTATEEAA
+KRGLELAVVVPSMTMGPMLQQTLNFSSNHVARYLMGTKKSYPNAVAAYVDVRDVARAHVL
+VYERPEARGRYLCIGTVLHRAELLRMLRDLFPQYPATAKCEDDGKPMAKPYKFSNQRLKD
+LGLEFTPLRKSLHEAVLCMQQKGHLPLIYPVPKRAYL
+
+
+PACMAD CONSENSUS:
+Length: 336 aa
+
+MSSYSKASNGGEQqQLVCVTGAGGFIGSWVVKELLqRGYRVRGTARDPADSKNAHLLALE
+GAkERLTLCRADVLDYDSLRAAFtGCHGVFHVASPVSNDPELVPVAVEGTRNVINAAADE
+GVRRVVFTSSYGAVHMDPNRSPDAVLDETCWSDYDFCKrTdNLYCCAKMMAEITATEEAA
+ARGLQLAVVVPCmTmGPMLQQTLNFSSNHVARYLMGTKRSYPNAVAAYVDVRDVARAHVL
+AYERPgARGRYLCIGTVLHRAQLVAMLRELFPQYPVTAKCEDDGKPMAKPYKFSNQRLRD
+LGLEFTPLrKSLYEAVVCMQQKGHLPVIqQQQRAYL
+
+================================================================================

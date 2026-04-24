@@ -1,0 +1,124 @@
+================================================================================
+GrassFam ID: GFAM012718
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             462.0 aa
+Family Size (Extended Family Size): 17 (18) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43895:SF158
+Panther Family ID:               PTHR43895
+Modal Panther ID:                PTHR43895:SF158
+Modal Panther Description:       NON-SPECIFIC SERINE_THREONINE PROTEIN KINASE
+Modal Panther Family ID:         PTHR43895
+Modal Panther Fam Desc:          CALCIUM/CALMODULIN-DEPENDENT PROTEIN KINASE KINASE-RELATED
+Interpro Signature Accession:    cd12195; G3DSA:3.30.200.20:FF:000096; G3DSA:3.30.310.80:FF:000005; G3DSA:1.10.510.10:FF:000279; G3DSA:3.30.310.80; G3DSA:1.10.510.10; PTHR43895; PF00069; SM00220; SSF56112
+Interpro Signature Description:  CIPK_C; Non-specific serine/threonine protein kinase; Kinase associated domain 1, KA1; Transferase(Phosphotransferase) domain 1; CALCIUM/CALMODULIN-DEPENDENT PROTEIN KINASE KINASE-RELATED; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: CBL-interacting protein kinase 1%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: CBL-interacting protein kinase 1
+  Gene Descriptions: CBL-interacting protein kinase 1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: CBL-interacting protein kinase 1-like
+  Gene Synonyms: CIPK1,OsCIPK01
+  Gene Descriptions: CBL-interacting protein kinase 1-like
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: CBL-interacting protein kinase 1%2C transcript variant X1; CBL-interacting protein kinase 1-like%2C transcript variant X1
+  Gene Descriptions: CBL-interacting protein kinase 1; CBL-interacting protein kinase 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: CBL-interacting protein kinase 1%2C transcript variant X1; CBL-interacting protein kinase 1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: CBL-interacting protein kinase 1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: CBL-interacting protein kinase 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: protein kinase-like
+  Gene Synonyms: GRMZM2G170120
+  Gene Descriptions: protein kinase-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 461 aa
+
+MVNGEAEAECTRASLLGRYEIGRTLGEGNFGKVKYARHlATGGHFAIKILDRSKILSLRI
+DDQIRREIGTLKLLKHPNVVRLHEVAASKTKIYMVLEFVNGGELFDKIAIKGKLSEHEGR
+RLFQQLIDGVSYCHDKGVYHRDLKPENVLVDRKGNIKISDFGLSALPQHLGNDGLLHTTC
+GSPNYIAPEVLQNRGYDGSLSDIWSCGVILYVMLVGYLPFDDRNLVVLYQKIFKGDCQIP
+KWLSPAAQDLLRRILEPNPMKRINItGIKEHEWFQKDYVPAVPYDDDEDVLPgSVLPIKE
+QIDEpAQEKPTHINAFQLIGMASSLDLSGFFEEEDVAQRKIRFTSTHSPKDLFDKIENVV
+TEMGFQVQRGpSKLKVLKNCKgSKNsRNPSSFLVCTEVFELGPSLYVVELKKSHGDSTLY
+RQLCERLSDELGVCKTEQImRTESLdDDLSSFDGEAPLSGF
+
+
+BOP CONSENSUS:
+Length: 459 aa
+
+MVNGEEECTRASLLGRYEIGRTLGEGNFGKVKYARHLATGAHFAIKILDRNKILSLRFDD
+QIRREIGTLKLLKHPNVVRLHEVAASKTKIYMVLEYVNGGELFDKIAVKGKLSEHEGRRL
+FQQLIDGVSYCHDKGVYHRDLKPENVLVDRRGNIKISDFGLSALPQHLGNDGLLHTTCGS
+PNYIAPEVLQNRGYDGSLSDIWSCGVILYVMLVGYLPFDDRNLVVLYQKIFKGDTQIPKW
+LSPSARDLLRRILEPNPMKRINIAGIKEHEWFQKDYTPVVPYDDDEDVYLDSVLPIKEQI
+DEAKQEKPTHINAFQLIGMASALDLSGFFEEEDVSQRKIRFTSTHSPKDLFDKIENVVTE
+MGFQVQRGNSKLKVMKNGKNSKNPRNPSSFLVCTEVVELGPSLYVVELKKSHGDPILYRQ
+LCERLSDELGVCKTEQIQRTESLEDDLESFDSGSSLSGF
+
+
+PACMAD CONSENSUS:
+Length: 462 aa
+
+MVNGEAEAECTRASLLGRYEIGRTLGEGNFGKVKYARHiATGGHFAIKILDRSKILSLRI
+DDQIRREIGTLKLLKHPNVVRLHEVAASKTKIYMVLEFVNGGELFDKIAIKGKLSEHEGR
+RLFQQLIDGVSYCHDKGVYHRDLKPENVLVDRKGNIKISDFGLSALPQHLGNDGLLHTTC
+GSPNYIAPEVLQNRGYDGSLSDIWSCGVILYVMLVGYLPFDDRNLVVLYQKIFKGDCQIP
+KWLSPAAQDLLRRILEPNPMKRINItGIKEHEWFQKDYVPAVPYDDDEDVLPGSVLPIKE
+QIDEPAQEKPTHINAFQLIGMASSLDLSGFFEEEDVAQRKIRFTSTHSPKDLFDKIENVV
+TEMGFkVHRGpSKLKVLKNCKcSKNSRNPSSFLVCTEVFELGPSLYVVELKKSHGDSTLY
+RQLCERLSDELGVCKTEQIMRTESLsDDLSSLDGEALPLSGF
+
+================================================================================

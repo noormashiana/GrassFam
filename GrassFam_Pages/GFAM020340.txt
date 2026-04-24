@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM020340
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             367.0 aa
+Family Size (Extended Family Size): 27 (28) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43981:SF7
+Panther Family ID:               PTHR43981
+Modal Panther ID:                PTHR43981:SF7
+Modal Panther Description:       TRANS-2-ENOYL-COA REDUCTASE, MITOCHONDRIAL-RELATED
+Modal Panther Family ID:         PTHR43981
+Modal Panther Fam Desc:          ENOYL-[ACYL-CARRIER-PROTEIN] REDUCTASE, MITOCHONDRIAL
+Interpro Signature Accession:    cd08290; G3DSA:3.40.50.720:FF:000112; G3DSA:3.90.180.10:FF:000010; G3DSA:3.40.50.720; G3DSA:3.90.180.10; PTHR43981; SSF51735; SSF50129
+Interpro Signature Description:  ETR; Enoyl-[acyl-carrier-protein] reductase 1, mitochondrial; Enoyl-[acyl-carrier-protein] reductase, mitochondrial; -; ENOYL-[ACYL-CARRIER-PROTEIN] REDUCTASE, MITOCHONDRIAL; NAD(P)-binding Rossmann-fold domains; GroES-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: enoyl-[acyl-carrier-protein] reductase%2C mitochondrial; enoyl-[acyl-carrier-protein] reductase%2C mitochondrial%2C transcript variant X2
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: enoyl-[acyl-carrier-protein] reductase%2C mitochondrial
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: enoyl-[acyl-carrier-protein] reductase%2C mitochondrial
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: enoyl-[acyl-carrier-protein] reductase%2C mitochondrial-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl11
+  Gene Products: enoyl-[acyl-carrier-protein] reductase%2C mitochondrial-like%2C transcript variant X1; enoyl-[acyl-carrier-protein] reductase%2C mitochondrial-like%2C transcript variant X3
+  Gene Descriptions: enoyl-[acyl-carrier-protein] reductase%2C mitochondrial-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa11
+  Gene Products: enoyl-[acyl-carrier-protein] reductase%2C mitochondrial%2C transcript variant X3
+  Gene Descriptions: enoyl-[acyl-carrier-protein] reductase%2C mitochondrial
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 1
+  Modal chromosome: Pau23
+  Gene Products: enoyl-[acyl-carrier-protein] reductase%2C mitochondrial
+  Gene Descriptions: enoyl-[acyl-carrier-protein] reductase%2C mitochondrial
+Svi
+  Gene count: 2
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi05N
+  Gene Products: enoyl-[acyl-carrier-protein] reductase%2C mitochondrial-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: enoyl-[acyl-carrier-protein] reductase%2C mitochondrial%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: enoyl-[acyl-carrier-protein] reductase%2C mitochondrial%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: putative alcohol dehydrogenase superfamily protein%2C transcript variant X2
+  Gene Synonyms: GRMZM2G003814
+  Gene Descriptions: putative alcohol dehydrogenase superfamily protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 366 aa
+
+MApAsRLLPpTAqrLRrasRlsFSTAaSLfSPPSKAVLYDQHGPPDQVLRVADVPPVELG
+ERDVCVRMLAAPINPSDINRVEGVYPVRPPLPAAVAGYEGVGQVHALGPAVTaPLSPGDW
+VIPSPPSFGTWQTYIVKPEsVWHKVRSDVPMEYAATVTVNPLTALRMLQDFVKLNPGDAI
+VQNGATSIVGQCVIQLAKVHGIHTINIIRDRPGSEEAKdKLKQLGADEVFTESQLDiKNV
+KSLLGALPEPALGFNCVGGNAASLILKLLRQGGTMVTYGGMSKKPVTVSTSSFIFKDLSL
+RGFWLQKWMNSDKAEDCRTMIDYLLGLVHEGKLKYEMELtPFSEFSLALDKALGKHGSQP
+KQVLRF
+
+
+BOP CONSENSUS:
+Length: 366 aa
+
+MASALRLLPSTAtRLRFTPRLsLSTAASLFSPPSKAVLYDQHGPPDQVLRVADVPPVELG
+ERDVCVKMLAAPINPSDINRVQGVYPVRPPLPAAVAGYEGVGQVHAVGPAVTRPLSPGDW
+VIPSPPSFGTWQTYIVKPEDVWHKVRDDVPVEYAATVTVNPLTALRMLQDFVKLkPGDAl
+VQNGATSIVGQCVIQLAKVQGIRTINIIRDRPGSEEAKEKLKQLGADEVFTESQLDVKNV
+KSLLGALPEPALGFNCVGGNAASLILKLLRQGGTMVTYGGMSKKPVTVSTSSFIFKDLSL
+RGFWLQKWMNSDKAEECRTMIDYLLGLVHEGKLKYEMELTPFSDFhLALDKALGKHGSQP
+KQVLRF
+
+
+PACMAD CONSENSUS:
+Length: 368 aa
+
+MAPPSRLLPPTLQiLRRCrASRSHFSTAPSLVSPPSKAVlYDEHGAPDQVLRVADVPPVE
+LGDRDVCVRMLAAPINPSDINRIEGVYPVRPPLPAAVGGYEGVGQVHALGPAVTAPLSPG
+DWVIPSPPSFGTWQTYIVKHESVWHKVRSDVPMEYAATVTVNPLTALRMLQDFVKLNPGD
+AIVQNGATSIVGQCVIQLAKVHGIHTINIIRDRPGSEEAKDKLKQLGADEVFTESQLDMK
+NVKSLLGALPEPALGFNCVGGNAASLvLKFLRQGGTMVTYGGMSKRPVTVPTSYFIFKDI
+SLRGFWLQKWMNSDKAEDCRTMIDYLLGLVHEGKLKYEMEsIPFGEFSLALEKALGKHGS
+QPKQViRF
+
+================================================================================

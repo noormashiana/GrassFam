@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM003368
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             509.0 aa
+Family Size (Extended Family Size): 116 (117) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23515:SF43
+Panther Family ID:               PTHR23515
+Modal Panther ID:                PTHR23515:SF43
+Modal Panther Description:       MAJOR FACILITATOR SUPERFAMILY (MFS) PROFILE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR23515
+Modal Panther Fam Desc:          HIGH-AFFINITY NITRATE TRANSPORTER 2.3
+Interpro Signature Accession:    cd17341; G3DSA:1.20.1250.20:FF:000048; G3DSA:1.20.1250.20:FF:000053; G3DSA:1.20.1250.20; PTHR23515; SSF103473
+Interpro Signature Description:  MFS_NRT2_like; High affinity nitrate transporter; Nitrate transporter 2.1; MFS general substrate transporter like domains; HIGH-AFFINITY NITRATE TRANSPORTER 2.3; MFS general substrate transporter
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.86%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 4
+  Modal chromosome: Bdi03
+  Gene Products: high-affinity nitrate transporter 2.1
+Lpe
+  Gene count: 11
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 9
+  Modal chromosome: Hvu06H
+  Gene Products: high-affinity nitrate transporter 2.1-like
+Ata
+  Gene count: 15
+  Modal chromosome: Ata06D
+  Gene Products: high-affinity nitrate transporter 2.1; high-affinity nitrate transporter 2.1-like
+Tae
+  Gene count: 38
+  Modal chromosome: Tae06A
+  Gene Products: high-affinity nitrate transporter 2.1; high-affinity nitrate transporter 2.1-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl02
+  Gene Products: high-affinity nitrate transporter 2.1
+  Gene Descriptions: high-affinity nitrate transporter 2.1
+Osa
+  Gene count: 2
+  Modal chromosome: Osa02
+  Gene Products: high-affinity nitrate transporter 2.1; high-affinity nitrate transporter 2.1-like
+  Gene Synonyms: NRT2.1,OJ1399_H05.5,OsNRT2.1; NRT2.2,OJ1399_H05.7,OsJ_05080,OsNRT2.2
+  Gene Descriptions: high-affinity nitrate transporter 2.1; high-affinity nitrate transporter 2.1-like
+Ecu
+  Gene count: 6
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 4
+  Modal chromosome: Pau05
+  Gene Products: high-affinity nitrate transporter 2.1; high-affinity nitrate transporter 2.1-like
+  Gene Descriptions: high-affinity nitrate transporter 2.1; high-affinity nitrate transporter 2.1-like
+Svi
+  Gene count: 5
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi01K
+  Gene Products: high-affinity nitrate transporter 2.1; high-affinity nitrate transporter 2.1-like
+Pha
+  Gene count: 5
+  Modal chromosome: Pha01
+  Gene Products: high-affinity nitrate transporter 2.1; high-affinity nitrate transporter 2.1-like
+Msi
+  Gene count: 4
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi04
+  Gene Products: high-affinity nitrate transporter 2.1
+Zma
+  Gene count: 3
+  Modal chromosome: Zma04
+  Gene Products: high-affinity nitrate transporter 2.1; nitrate transport 2; putative high affinity nitrate transporter
+  Gene Synonyms: GRMZM2G010251,GRMZM2G010280,nrt2.2; GRMZM2G010280,nrt2,nrt2.1
+  Gene Descriptions: nitrate transport 2; putative high affinity nitrate transporter
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 529 aa
+
+MAdmEvGAPGSSLHGVTGREPAFAFSTEApDDAAASKFDLPVDSEHKAKTIRLFSFANPH
+MRTFHLSWISFFTCFVSTFAAAPLVPIIRDNLNLTKADIGNAGVASVSGSIFSRLAMGAV
+CDLLGPRYGCAFLIMLAAPTVFCMSLIDDAAGYIVVRFLIGFSLATFVSCQYWMSTMFNS
+KIIGTVNGLAAGWGNMGGGATQLIMPLVYDVIRKCGATPFTAWRLAYFVPGlLHVVMGVL
+VLTLGQDLPDGNLRSLQKKGDVNKDKFSKVMWYAVTNYRTWIFVLLYGYCMGVELTTDNV
+IAEYYYDRFDLDLRVAGIIAACFGMANIVARPLGGILSDvGARYWGMRARLWNIWILQTA
+GGAFCLWLGRASTLPaSITAMVLFSFCAQAACGAIFGVTPFVSRRSLGIISGMTGAGGNF
+GAGLTQLLFFTSSkYSTGTGLEYMGIMIMACTLPVVFVHFPQWGSMLFPPNAGAdEEHYY
+sSEWNEEEKSKGLHSASLKFAENSRSERGKRNVIqAtAATPPNNTPEHV
+
+
+BOP CONSENSUS:
+Length: 533 aa
+
+MDSSTVGAPGSSLHGVTGREPAFAFSTEVGGEDAAAASKFDLPVDSEHKAKTIRLLSFAN
+PHMRTFHLSWISFFSCFVSTFAAAPLVPIIRDNLNLTKADIGNAGVASVSGSIFSRLAMG
+AVCDMLGPRYGCAFLIMLAAPTVFCMSLIDSAAGYIAVRFLIGFSLATFVSCQYWMSTMF
+NSKIIGLVNGLAAGWGNMGGGATQLIMPLVYDVIRKCGATPFTAWRLAYFVPGTLHVVMG
+VLVLTLGQDLPDGNLRSLQKKGDVNRDSFSRVLWYAVTNYRTWIFVLLYGYSMGVELTTD
+NVIAEYFYDRFDLDLRVAGIIAASFGMANIVARPTGGLLSDLGARYFGMRARLWNIWILQ
+TAGGAFCLLLGRASTLPTSVVCMVLFSFCAQAACGAIFGVIPFVSRRSLGIISGMTGAGG
+NFGAGLTQLLFFTSSRYSTGTGLEYMGIMIMACTLPVVLVHFPQWGSMFLPPNAGAEEEH
+YYGSEWSEQEKSKGLHGASLKFAENSRSERGRRNVINAAAAAATPPNNSPEHA
+
+
+PACMAD CONSENSUS:
+Length: 528 aa
+
+ADMEvGAPGSSLHGMTGREPAFAFSTEApDDaAASKFDLPVDSEHKAKTIRLFSFANPHM
+RTFHLSWISFFTCFVSTFAAAPLVPIIRDNLNLTKADIGNAGVASVSGSIFSRLAMGAVC
+DLLGPRYGCAFLIMLAAPTVFCMSLIDDAAGYIVVRFLIGFSLATFVSCQYWMSTMFNSK
+IIGTVNGLAAGWGNMGGGATQLIMPLVYDVIRKCGATPFTAWRLAYFVPGlLHVVMGVLV
+LTLGQDLPDGNLRSLQKKGDVNKDKFSKVMWYAVTNYRTWIFVLLYGYCMGVELTTDNVI
+AEYYYDHFDLDLRVAGIIAACFGMANIVARPLGGILSDvGARYWGMRARLWNIWILQTAG
+GAFCLWLGRASTLPASITAMVLFSFCAQAACGAIFGVTPFVSRRSLGIISGMTGAGGNFG
+AGLTQLLFFTSSKYSTGtGLEYMGIMIMACTLPVVFVHFPQWGSMLFPASAGAdEEHYYS
+SEWNEEEKSKGLHSASLKFAENSRSERGKRNVIQAtAATPPNNTPEHV
+
+================================================================================

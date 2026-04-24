@@ -1,0 +1,131 @@
+================================================================================
+GrassFam ID: GFAM000890
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             519.5 aa
+Family Size (Extended Family Size): 18 (18) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23070:SF43
+Panther Family ID:               PTHR23070
+Modal Panther ID:                PTHR23070:SF43
+Modal Panther Description:       OS09G0445700 PROTEIN
+Modal Panther Family ID:         PTHR23070
+Modal Panther Fam Desc:          BCS1 AAA-TYPE ATPASE
+Interpro Signature Accession:    cd19510; G3DSA:3.40.50.300; PTHR23070; SSF52540
+Interpro Signature Description:  RecA-like_BCS1; -; BCS1 AAA-TYPE ATPASE; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: AAA-ATPase At5g57480-like
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: AAA-ATPase At4g25835-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: AAA-ATPase At4g25835-like
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: AAA-ATPase At4g25835-like; AAA-ATPase At5g57480-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: uncharacterized LOC127783795
+  Gene Descriptions: uncharacterized LOC127783795
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4347199
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: AAA-ATPase At5g57480-like
+  Gene Descriptions: AAA-ATPase At5g57480-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi02K
+  Gene Products: uncharacterized LOC120695373
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: AAA-ATPase At5g57480
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: AAA-ATPase
+  Gene Synonyms: GRMZM2G095254
+  Gene Descriptions: AAA-ATPase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 518 aa
+
+MEFLSQMWSLLGLLTILQNVLPTQLLSLLHSLWQSLQDSLTPYSYFDVPEFLGSAAVEPN
+ALYRHVQLYLHRSLLLSSPPPPRLTLSLPRSsAVSGGhAAGAAAAPPSVSLSPNHSVADt
+FNGHRAVWTHHADTLQDSLEERRSFSLRLPKRHAAAVLPAYLAHLAAAADHLERSSRARR
+LHTNAASPRGAAAWSSVPFCHPSTFDTLALDPgLKARLLADLTAFADGREFYRRTGRPWK
+RGYLLHGPPGSGKSSLIAAMANHLRYDVFDLELTRVATNADLRALLIQTTNRSLIVIEDI
+DCSLHLTGDRGLASeRrHKRRkLHAAAysDDSSDSDDDAnGADNHRGKVTLSGLLNFTDG
+LWSCCGEERIIVFTTNHVDGIDPALLRPGRMDVHVRLGACGAHAMRELVqRYVGVGDHEM
+LDAAEgCIRgGAEMTPAEVGEVLLRNRDEPEAAVTELAAELKARrnAADDLQWEDSAAEL
+SDGSPTKKGRKGLGWEGKVRILGRLRSLTKSESGRRGV
+
+
+BOP CONSENSUS:
+Length: 514 aa
+
+MEFLSQMWSLLGLLTILQNVLPTQLLSLLHSLWQSLQDSLTPYSYFDVPEFLGSAAVEPN
+ALYRHVQLYLHRSLLLSSPSPPRLTLSLPRSVsGNAGAAAAPPSVSLSPNHSVPDAFNGH
+RAVWTHHADTLQDSLEERRSFSLRLPKRHAAAVLPAYLAHLAAAADSLERSSRARRLHTN
+AASPRGSASWSSVPFCHPSTFETLALDPDLKARLLADLTAFADGREFYRRTGRPWKRGYL
+LHGPPGSGKSSLIAAMANHLRYDVFDLELTRVTTNADLRALLIQTTNRSLIVIEDIDCSL
+HLTGDRGLAStRRHKRRRAAASDDSSDSDDDVMGADNHRGKVTLSGLLNFTDGLWSCCGE
+ERIIVFTTNHVDGIDPALLRPGRMDVHVRLGPCGAHAMRELVERYVGAGVGDQDMLDAAE
+GCIRDGAEMTPAEVGEVLLRNRDEPETAVTELAAELKARVNAADDLQWEDSAAELSDESP
+TKKGRKGFGGWEGKVRILGRLRSLTKSDSGRRGV
+
+
+PACMAD CONSENSUS:
+Length: 519 aa
+
+MEFLSQMWSLLGLLTILQNVLPTQLLSLLHSLWQSLQDSLTPYSYFDVPEFLGSAAVEPN
+ALYRHVQLYLHRSLLLSSPPPPRLTLSLPRSSAVSGGHAAgAAPSPPSVSLSPNHSVADT
+FNGHRAVWTHHADTLQDSLEERRSFSLRLPKRHAAAVLPAYLAHLADAADHLERSSRARR
+LHTNAASPRGAAAWASVPFCHPATFDTLALDPGLKARLLADLTAFSEGREFYRRTGRPWK
+RGYLLHGPPGSGKSSLIAAMANHLRYDVFDLELTRVATNADLRALLIQTTNRSLIVIEDI
+DCSLHLTGDRGLASERMHKRRKLHATsYNDDSSDSDDDAGGNGDDNHRGKVTLSGLLNFT
+DGLWSCCGEERIIVFTTNHVDGIDPALLRPGRMDVHVRLDACGTHAMRELVQRYVGVGDH
+EMLDAAEDSIRGGAEMTPAEVGEVLLRNRDEPEAAVTELAAELKARRSAADDLHQWEDSA
+AELSDGSPTKKGRKGLGWEGKVRILGRLRSLTKSESGRR
+
+================================================================================

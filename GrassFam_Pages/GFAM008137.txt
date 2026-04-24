@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM008137
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             447.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13748:SF60
+Panther Family ID:               PTHR13748
+Modal Panther ID:                PTHR13748:SF60
+Modal Panther Description:       COBW C-TERMINAL DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR13748
+Modal Panther Fam Desc:          COBW-RELATED
+Interpro Signature Accession:    cd03112; G3DSA:3.40.50.300:FF:000778; G3DSA:3.30.1220.10; G3DSA:3.40.50.300; PTHR13748; PF02492; SSF90002; SSF52540
+Interpro Signature Description:  CobW-like; GTP-binding protein YjiA; -; COBW-RELATED; CobW/HypB/UreG, nucleotide-binding domain; Hypothetical protein YjiA, C-terminal domain; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: uncharacterized GTP-binding protein YjiA
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: P-loop guanosine triphosphatase YjiA-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: P-loop guanosine triphosphatase YjiA
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: P-loop guanosine triphosphatase YjiA-like; P-loop guanosine triphosphatase YjiA-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: uncharacterized LOC127761814
+  Gene Descriptions: uncharacterized LOC127761814
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4331034
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: uncharacterized LOC133920013; uncharacterized LOC133920999
+  Gene Descriptions: uncharacterized LOC133920013; uncharacterized LOC133920999
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: P-loop guanosine triphosphatase YjiA-like; P-loop guanosine triphosphatase YjiA-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: P-loop guanosine triphosphatase YjiA-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: COBW domain-containing protein 1-like
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: P-loop guanosine triphosphatase YjiA
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 446 aa
+
+MAALCSASPAIStAAaLGlPARRvASLLRLRLRAAsRSYSAAAAPRAAAAGAPSWRARRR
+FAASAASTTEEgSGVETMIPPDNRIPATIITGFLGSGKTTLLNHILTAHHGKRIAVIENE
+FGEVDIDGSLVAAQTAGAEDIMMLNNGCLCCTVRGDLVRMIGELVDKKKGKFDHIVIETT
+GLANPAPIIQTFYAEDVVFNDVKLDGVVTLVDAKHARLHLDEVKPKGIVNEAVQQIAYAD
+RIIVNKIDLVnEPEVSSLVERIRGINRMANLKRAEYGKVDLDYVLGIGGFDLERIESAVs
+EeSHEDHAEHEHEHHHEHEHHHHDHHHHHHDHDHgHDHHAHDHTHDPGVSSVSIVCEGEM
+DLEKADMWLGNLLLEHSDDIYRMKGLLSVSGMPQRFVFQGVHDIFQGSPERMWEPNEPRI
+NKIVFIGRNLNkEELEKGFKDCLLKK
+
+
+BOP CONSENSUS:
+Length: 444 aa
+
+MAALCSAASPAISRAAALGLSARGpASLLRLRLRRAASRSCYAAPRAAAGApSWRARRRF
+AASAASTTEEGADVDTVIPPDNRIPATIITGFLGSGKTTLLNHILTAHHGKRIAVIENEY
+GEVDIDGSLVAAQTAGAEDIMMLNNGCLCCTVRGDLVRMIGELVDKKKGKFDHLVIETTG
+LANPAPIIQTFYAEDTVFNDVKLDGVVTLVDSKHARLHLDEVKPKGIVNEAVQQIAYADR
+IIVNKTDLVSEPEVSSLVERIRSINRMANLKRAQYGKVDLDYVLGIGGFDLERIESAVTE
+EPHDeHEHHEHkHEHEHHHDHDHDHHHHDHDHKHDHHAHDHTHDPGVSSVSIVCEGEMDL
+EKADMWLGNLLLERSDDIYRMKGLLSVSGMPQRFVFQGVHDIFQGSPDRMWEPNEPRINK
+IVFIGRNLNREELEtGFKDCLLKK
+
+
+PACMAD CONSENSUS:
+Length: 449 aa
+
+MAALCSASPAISAAASLGsPARRVASLLRLRLRAAARSYSAAAAPRAAAAGAPSWRARRR
+FAASAASTTEECSGVETMIPPDNRIPATIITGFLGSGKTTLLNHILTAHHGKRIAVIENE
+FGEVDIDGSLVAAQTAGAEDIMMLNNGCLCCTVRGDLVRMIGELVNKKKGKFDHIVIETT
+GLANPAPIIQTFYAEDVVFNDVKLDGVVTLVDAKHARLHLDEVKPKGIVNEAVQQIAYAD
+RIIVNKIDLVNEPEVSSLVERIRGINRMANLKRAEYGKVDLDYVLGIGGFDLERIESAVS
+EKSHEDHAEHDHEHHHHEHEHDHDHDHDHHHHHDHDHGHDHHAHDHTHDPGVSSVSIVCE
+GEMDLEKADMWLGNLLLEHSEDIYRMKGLLSVSGMPQRFVFQGVHDIFQGSPERMWEPNE
+PRINKIVFIGRNLNKEELEKGFKDCLLKK
+
+================================================================================

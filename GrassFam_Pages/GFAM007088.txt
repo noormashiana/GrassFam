@@ -1,0 +1,142 @@
+================================================================================
+GrassFam ID: GFAM007088
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             560.0 aa
+Family Size (Extended Family Size): 31 (33) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31752:SF66
+Panther Family ID:               PTHR31752
+Modal Panther ID:                PTHR31752:SF66
+Modal Panther Description:       AUXIN EFFLUX CARRIER COMPONENT 1B-RELATED
+Modal Panther Family ID:         PTHR31752
+Modal Panther Fam Desc:          AUXIN EFFLUX CARRIER COMPONENT 1B-RELATED
+Interpro Signature Accession:    TIGR00946; PTHR31752; PF03547
+Interpro Signature Description:  auxin efflux carrier; AUXIN EFFLUX CARRIER COMPONENT 1B-RELATED; Membrane transport protein
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: probable auxin efflux carrier component 1b
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: probable auxin efflux carrier component 1b
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: probable auxin efflux carrier component 1b
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: probable auxin efflux carrier component 1b
+Ola
+  Gene count: 2
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl11
+  Gene Products: probable auxin efflux carrier component 1b; probable auxin efflux carrier component 1d
+  Gene Descriptions: probable auxin efflux carrier component 1b; probable auxin efflux carrier component 1d
+Osa
+  Gene count: 2
+  Modal chromosome: Osa11
+  Gene Products: probable auxin efflux carrier component 1b; probable auxin efflux carrier component 1d
+  Gene Synonyms: OsJ_32878,OsPIN1b,OsPIN1c,PIN1B
+  Gene Descriptions: probable auxin efflux carrier component 1b; probable auxin efflux carrier component 1d
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 2
+  Modal chromosome: Pau19
+  Gene Products: probable auxin efflux carrier component 1b; probable auxin efflux carrier component 1d
+  Gene Descriptions: probable auxin efflux carrier component 1b; probable auxin efflux carrier component 1d
+Svi
+  Gene count: 2
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi03K
+  Gene Products: probable auxin efflux carrier component 1b; probable auxin efflux carrier component 1d%2C transcript variant X1
+Pha
+  Gene count: 2
+  Modal chromosome: Pha03
+  Gene Products: probable auxin efflux carrier component 1b; probable auxin efflux carrier component 1d
+Msi
+  Gene count: 2
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: probable auxin efflux carrier component 1b
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100285745
+  Gene Synonyms: cl464_-1,GRMZM2G171702,PIN1d
+  Gene Descriptions: uncharacterized LOC100285745
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 554 aa
+
+MITAlDLYHVLTAVVPLYVAMTLAYGSVRWWRIFTPDQCSGINRFVALFAVPLLSFHFIS
+TNNPFAMNLRFLAADTLQKLIVLALLaLAsRLPSRrLSLDWlITLFSLSTLPNTLVMGIP
+LLRGMYGpdSAGTLMVQVVVLQCIIWYTLMLFLFEYRAARaLVMDQFPDGAAASIVSFRV
+DSDVVSLAaGDLQAEAEVGdDGRMRVTVRKSTSSRSEAACSHSHSHSQSMQPRVSNLSGV
+EIYSLQSSRNPTPRGSSFNHAEFFNIVGGKGAaGDEEKGAAGGHSPQPQAvAAKRKDLHM
+FVWSSSASPVSERAAGGAVHVFGAGADHGDVLAKGAQAYDEYGRDDFSRTKNGNGAeKGG
+PTLSKLGSNSTAQLyPKDDGEGRPAAMPPASVMTRLILIMVWRKLIRNPNTYSSLIGVIW
+SLVSYRWGIEMPAIIARSISILSDAGLGMAMFSLGLFMALQPRIIACGNKLAAfAMAVRF
+LVGPAVMAAASIAVGLRGVLLHIAIVQAALPQGIVPFVFAKEYNVHPDILSTAVIFGMLI
+ALPITLVYYILLGL
+
+
+BOP CONSENSUS:
+Length: 558 aa
+
+MITAADLYHVLTAVVPLYVAMTLAYGSVRWWRIFTPDQCSGINRFVALFAVPLLSFHFIS
+SNDPFAMNLRFLAADTLQKLAVLALLaLWCRLsARGSLDWLITLFSLSTLPNTLVMGIPL
+LRGMYGAADAGTLMVQIVVLQCIIWYTLMLFLFEYRGAKMLVMEQFPDTAAsIVSFRVDS
+DVVSLAGGGGADLQAEAEVGEDGRMRVTVRKSTSSRSEAACSHSHSHSQSMQPRVSNLSG
+VEIYSLQSSRNPTPRGSSFNHAEFFNIVGGKkGDEEKGSAGAGTGGHSPQPLPQAVAGKR
+KDLHMFVWSSSASPVSERAAGGAVHVFGGGADHGDVLAKGAQAYDEYGRDDFSFRNKNGA
+nkDGPTLSKLGSNSTAQLHPKDDGEERAAAMPPASVMTRLILIMVWRKLIRNPNTYSSLI
+GVVWSLVSYRWGIEMPAIIARSISILSDAGLGMAMFSLGLFMALQPRIIACGNSLASYAM
+AVRFLVGPAVMAAASLAVGLRGVLLHIAIVQAALPQGIVPFVFAKEYNVHPNILSTAVIF
+GMLIALPITLVYYILLGL
+
+
+PACMAD CONSENSUS:
+Length: 558 aa
+
+MITALDLYHVLTAVVPLYVAMTLAYGSVRWWRIFTPDQCSGINRFVALFAVPLLSFHFIS
+TNNPFAMNLRFLAADTLQKLIVLALLfLASRLSPLRRfLsLDWSITLFSLSTLPNTLVMG
+IPLLRGMYGPDSAGTLMVQVVVLQCIIWYTLMLFLFEYRAARALVmDQFPDGAAASIVSF
+RVDSDVVSLAKGDLEAEAeVADDGRvRVTVRKSTSSRSEAACSHSHSHSqSMQQPRVSNL
+SGVEIYSLQSSRNPTPRGSSFNHAEFFNIVGGAKGAAgDEEKGAAGGHSPQPQAqAAKRK
+DLHMFVWSSSASPVSERAGGGAVHVFGAGADHGDVLAKGTQAYDEYGRDDFSRTKNGNGA
+DKGGPTLSKLGSNSTAQLYPKDDGEGRPAAMPPASVMTRLILIMVWRKLIRNPNTYSSLI
+GVIWSLVSYRWGIEMPAIIARSISILSDAGLGMAMFSLGLFMALQPRIIACGNKLAAFAM
+AVRFLmGPAVMAAASIAVGLRGVLLHIAIVQAALPQGIVPFVFAKEYNVHPDILSTAVIF
+GMLIALPITLVYYILLGL
+
+================================================================================

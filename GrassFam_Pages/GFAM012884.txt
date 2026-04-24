@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM012884
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             499.0 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31741:SF22
+Panther Family ID:               PTHR31741
+Modal Panther ID:                PTHR31741:SF22
+Modal Panther Description:       O-FUCOSYLTRANSFERASE FAMILY PROTEIN
+Modal Panther Family ID:         PTHR31741
+Modal Panther Fam Desc:          OS02G0726500 PROTEIN-RELATED
+Interpro Signature Accession:    cd11299; G3DSA:3.40.50.11350:FF:000011; PTHR31741; PIRSF009360; PF10250
+Interpro Signature Description:  O-FucT_plant; O-fucosyltransferase 28; OS02G0726500 PROTEIN-RELATED; UCP009360; GDP-fucose protein O-fucosyltransferase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: rhamnogalacturonan I rhamnosyltransferase 4-like
+Ata
+  Gene count: 1
+  Modal chromosome: AtaUN001099
+  Gene Products: rhamnogalacturonan I rhamnosyltransferase 4
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: rhamnogalacturonan I rhamnosyltransferase 4-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: rhamnogalacturonan I rhamnosyltransferase 4-like
+  Gene Descriptions: rhamnogalacturonan I rhamnosyltransferase 4-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: rhamnogalacturonan I rhamnosyltransferase 4%2C transcript variant X1
+  Gene Descriptions: rhamnogalacturonan I rhamnosyltransferase 4
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau04
+  Gene Products: rhamnogalacturonan I rhamnosyltransferase 4-like%2C transcript variant X1
+  Gene Descriptions: rhamnogalacturonan I rhamnosyltransferase 4-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: rhamnogalacturonan I rhamnosyltransferase 4-like; rhamnogalacturonan I rhamnosyltransferase 4-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: O-fucosyltransferase 18-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: uncharacterized protein At1g04910
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: O-fucosyltransferase family protein
+  Gene Synonyms: GRMZM2G423851
+  Gene Descriptions: O-fucosyltransferase family protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 498 aa
+
+MAKQKASPPAIRRRIGGaGLLRWAvRVASSIVlWTLLLHLsTFLGlPRPPLpiARPSCLG
+GRNNSTAASAVtVVAADEVGhLAPPALPpRRLYKSNGYLLVSCNGGLNQMRAAICDMVTV
+ARYLNLTMVvPELDKQSFWADPSDFGDIFDVNHFIdSLRDEVKIIKELPQKFSGKVPLSM
+QPISWSSEKYYLRQILPLVRKHKVVRFSKTDSRLANNGLPLKLQKLRCHVNYNALRFTPS
+IEALGNKMISsLRkTGSFVVLHLRYEMDMLAFSGCTHGCSDEETeELTRMRYAYPWWKEK
+EIDSEKKRLEGLCPLTPGETTLVLKALGFPRDTRIYIASGEIYGGEKRLAALKtEFPNIV
+RKEMLLSDDELRPFQKHSTQMAALDYLVSVASDVFIPSNDGNMAKVVEGHRRFtGFHRTI
+QLDRKKLVELIDLFEDQELSWeEFSVAVKELHEGRMSQPTRRRVIPGQPKEEDYFYANPH
+ECLGPARKRRERLKHtEI
+
+
+BOP CONSENSUS:
+Length: 498 aa
+
+MAKQKASLPVIRRRIGGVGLLRWAVRVASSIVLWTALLQLSTFFGLPLSPLRAARPSCIG
+NRNASATASAVTAVASDDVGDLAPPALPTRRSYRSNGYLLISCNGGLNQMRAAICDMVTV
+ARYLNLTMVVPELDKQSFWADPSDFGDIFDVNHFIYSLRDEVKVIRELPQKFNGKVPLSM
+QPVSWSSEKYYLRQILPLVRKHKVIRFSRTDSRLANNGLPLKLQKLRCRVNYNALRFTPS
+IEALGNKMISSLRKTGSFVVLHLRYEMDMLAFSGCTHGCSGQETAELTRMRYAYPWWKEK
+EIDSEKKRLEGLCPLTPGETTLVLKALGFPRDTRIYIASGEIYGGEKRLAALKAEFPNIV
+RKEMLLSEDELHLFQKHSTQMAALDYLVSVASDVFIPSNDGNMAKVVEGHRRFMGFHRTI
+QLDRKKLVELIDLFEDQELSWNEFCTAVKELHEGRMSQPTRRKVIAGQPKEEDYFYANPY
+ECLGPARKRREKLKHTET
+
+
+PACMAD CONSENSUS:
+Length: 499 aa
+
+MAKQKASPPAAVRRRIGGAGASAiRWALRVATSIVAWTLLLHLFTFLGIPRPPLPIARPS
+CLGGRSNSTAAsSVVAAGEAaHLAPPALPPRRLYKSNGYLLVSCNGGLNQMRAAICDMVT
+VARYLNLTMVIPELDKQSFWADPSDFGDIFDVNHFIDSLRNEVKIVKELPQKFSEKVPLS
+MQPISWSSEKYYLRQILPLVRKHKVVRFSKTDSRLANNGLPLKLQKLRCHVNYNALRFTP
+SIEALGNKMIStLRRTGSFIVLHLRYEMDMLAFSGCTHGCSDEETEELTRMRYAYPWWKE
+KEIDSEKKRLEGLCPLTPGETTLVLKALGFPRDTRIYIASGEIYGGEKRLAVLKTEFPNI
+VRKEMLLSDDELRPFQKHSTQMAALDYLVSVASDVFIPSNDGNMAKVVEGHRRFTGFHKT
+IQLDRKKLVELIDLFEDQELSWEEFSVAVKELHgGRMSQPTRRRVIPGQPKEEDYFYANP
+HECLGPAkKRRERLKHIEI
+
+================================================================================

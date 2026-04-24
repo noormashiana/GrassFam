@@ -1,0 +1,128 @@
+================================================================================
+GrassFam ID: GFAM019457
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             502.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24343:SF553
+Panther Family ID:               PTHR24343
+Modal Panther ID:                PTHR24343:SF553
+Modal Panther Description:       SERINE_THREONINE PROTEIN KINASE OSK1
+Modal Panther Family ID:         PTHR24343
+Modal Panther Fam Desc:          SERINE/THREONINE KINASE
+Interpro Signature Accession:    cd12122; cd14079; G3DSA:1.10.510.10:FF:000204; G3DSA:3.30.310.80:FF:000006; G3DSA:3.30.200.20:FF:000236; G3DSA:1.10.510.10; G3DSA:3.30.310.80; PTHR24346; PF00069; SM00220; SSF56112; SSF103243
+Interpro Signature Description:  AMPKA_C; STKc_AMPK_alpha; Non-specific serine/threonine protein kinase; Transferase(Phosphotransferase) domain 1; Kinase associated domain 1, KA1; MAP/MICROTUBULE AFFINITY-REGULATING KINASE; Protein kinase domain; serkin_6; Protein kinase-like (PK-like); KA1-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: serine/threonine protein kinase OSK1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: serine/threonine protein kinase OSK1-like%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: serine/threonine protein kinase OSK1%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: serine/threonine protein kinase OSK1-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN415
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: serine/threonine protein kinase OSK1-like
+  Gene Descriptions: serine/threonine protein kinase OSK1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: serine/threonine protein kinase OSK1-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: serine/threonine protein kinase OSK1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: serine/threonine protein kinase OSK1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: SNF1-related protein kinase catalytic subunit alpha KIN10-like%2C transcript variant X2
+  Gene Synonyms: GRMZM2G180704,kin2
+  Gene Descriptions: SNF1-related protein kinase catalytic subunit alpha KIN10-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 502 aa
+
+MEGAGKDGNPLRNYRIGKTLGIGSFGKVKIAEHISTGHKVAIKILNRRKIRGMEMEEKVK
+REIKILRLFMHPHIIRLYEVIDTPADIYVVMEYVKSGELFDYIVEKGRLQEEEARRFFQQ
+IISGVEYCHRNMVVHRDLKPENLLLDSKCNVKIADFGLSNVMRDGHFLKTSCGSPNYAAP
+EVISGKLYAGPEVDVWSCGVILYALLCGTLPFDDENIPNLFKKIKGGIYTLPSHLSGAAR
+DLIPRMLVVDPMKRITIREIREHDWFKIHLPRYLTVPPPDSAQQVKKIDEETLREVISMG
+YDKNLLVESIQNRLQNEATVAYYLLLDNRLRTTSGYLGAECQEAMDSSFSNITSSETPSS
+ARGNRQQIFMESPVGLRPHFPAERKWALGLQSRAHPREIMTEVLKALQELNVYWKKIGHY
+NMKCRWSPGFPGQENMIHNNHNFSAESIETDDLSEKLNLIKFEIQLYKTRDEKYLLDLQR
+VSGPQLLFLDLCAAFLAQLRVL
+
+
+BOP CONSENSUS:
+Length: 503 aa
+
+MEAGGKDGNPLKNYRIGKTLGIGSFGKVKIAEHIKTGHKVAVKILNRRKIKNMEMEEKVK
+REIKILRLFMHPHIIRLYEVIEAPADIYVVMEYVKSGELFDYIVEKGRLQEEEARRFFQQ
+IISGVQYCHRNMVVHRDLKPENLLLDNNCDVKIADFGLSNVMRDGHFLKTSCGSPNYAAP
+EVISGKLYAGPEVDVWSCGVILYALLCGTLPFDDENIPNLFKKIKGGIYTLPSHLSGPAR
+DLIPRMLVVDPMKRITIREIREHPWFEAQLPRYLAVPPPDTAQQVKKIDEESLVKVISLG
+FDKNLLVESIHNRLQNEATVAYYLFLDNKSRTTTGYLGAGYQEAMESSFSPITPSETQSP
+AHGNRQQPYMESPVGLRPHFPADRKWALGLQSRAHPREVMTEVLKALQELNVYWKKIGHY
+NMKCRWSPPGFPGQENMNHTNYNFSAEPIETDDLGDKLNLIKFELQLYKTRDEKYLLDLQ
+RASGPHLLFLDLCAAFLAQLRVL
+
+
+PACMAD CONSENSUS:
+Length: 499 aa
+
+MEGAGKDGNPLRNYRIGKTLGIGSFGKVKIAEHISTGHKVAIKILNRRKIRGMEMEEKVK
+REIKILRLFMHPHIIRLYEVIDTPADIYVVMEYVKSGELFDYIVEKGRLQEEEARRFFQQ
+IISGVEYCHRNMVVHRDLKPENLLLDSKCNVKIADFGLSNVMRDGHFLKTSCGSPNYAAP
+EVISGKLYAGPEVDVWSCGVILYALLCGTLPFDDENIPNLFKKIKGGIYTLPSHLSGAAR
+DLIPRMLVVDPMKRITIREIREHDWFKIHLPRYLTVPPPDSAQQVKKIDEETLREVIGMG
+YDKNLLVESIQNRLQNEATVAYYLLLDNRLRTTSGYLGAECQEAMDSSFSNIASYETPSS
+ARGNRQQIFMESPVGLRPHFPAERKWALGLQSRAHPREIMTEVLKALQELNVYWKKIGHY
+NMKCRWSPGFPGQIHNNHNFSAESIETDGLSEKLNLIKFEIQLYKTRDEKYLLDLQRVSG
+PQLLFLDLCAAFLAQLRVL
+
+================================================================================

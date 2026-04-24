@@ -1,0 +1,120 @@
+================================================================================
+GrassFam ID: GFAM018651
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             626.0 aa
+Family Size (Extended Family Size): 12 (14) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43650:SF9
+Panther Family ID:               PTHR43650
+Modal Panther ID:                PTHR43650:SF9
+Modal Panther Description:       PYROPHOSPHATE--FRUCTOSE 6-PHOSPHATE 1-PHOSPHOTRANSFERASE SUBUNIT ALPHA
+Modal Panther Family ID:         PTHR43650
+Modal Panther Fam Desc:          PYROPHOSPHATE--FRUCTOSE 6-PHOSPHATE 1-PHOSPHOTRANSFERASE
+Interpro Signature Accession:    G3DSA:1.10.10.480:FF:000001; G3DSA:1.10.10.480; G3DSA:3.40.50.450; G3DSA:3.40.50.460; TIGR02477; NF005482; PTHR43650; PIRSF005677; PF00365; SSF53784
+Interpro Signature Description:  Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha; Phosphofructokinase; domain 3; -; Phosphofructokinase domain; diphosphate--fructose-6-phosphate 1-phosphotransferase; PYROPHOSPHATE--FRUCTOSE 6-PHOSPHATE 1-PHOSPHOTRANSFERASE; PPi_PFK_PfpB; Phosphofructokinase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha-like%2C transcript variant X1
+  Gene Descriptions: pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha
+  Gene Descriptions: pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau20
+  Gene Products: pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha-like
+  Gene Descriptions: pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha-like
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 620 aa
+
+MNADLGSPRELTGLQRRRALYQPELPPCLQGTRIRVEFGDSTTTIDPKCADIVAQAFPHT
+FGQKLVHFLEPNTMVSDAQVIEEHPPIRVGVVFSGRQSPGGHNVIWGTYDAMKAQNPHNV
+LLGFVGGTEGLFAKKTLEITDDVLSSYKNQGGFDLLGRTVDQIRTTEQVNAAMSTCCDLN
+LDGLIIIGGVTSNSDAAQLAETFAEHNCKTKVIGVPVTLSGDLKNQFVETTVGFDTVCKV
+NSQLISNVCLDAISAGKYYYFVRLMGGKASHVALECALQSHPNMVILGEEVAFSKLTLKE
+ITNKICDGVEARAAQGKYHGVLLIPEGLIESIPEMYALIQEINNLHSNNVPEnDIPSQLS
+PWAAALFKFLPPFIRRELlLHQESDNSAQLSQIDTEQLLAHLVEAEMNKRTKEGKYKGRK
+FSSVCHFFGSQARGSLPSNFDCNYAYVLGHICVQIiAAGLNGYMATVTNLKDSTNKWRCA
+AVPLTAMMSVRRHLRGPGAVPIGRPVIHPSPIDLKAESYAVLREKASSFLLDDFYRTPGG
+IQFEGPGADTKPITLTIEeQDYLGDIEILQDYLEKVRTILKPGCSREILKAAISSMASVN
+DVLKVMSAPLNAELPLYHFN
+
+
+BOP CONSENSUS:
+Length: 645 aa
+
+MSSQVRFLLVSSEAPGRKTRRDRREMSMNADLGKPRELTGLQrRRALYQPELPPCLQGKA
+IRVEFGDSTTTIDPTCANMVAQEFPNTFGQPLVHFLKPNKMDAQANyEHPPIRVGVVFSG
+RQSPGGHNVIWGIYDAMKTQNLQSVLLGFIGGTEGLFANQTLEITDDvLSAYRNQGGFDF
+LGRTVDQIHTTEQVNAAMSTCCDLDLDGLVIIGGVTSNSDAAQLAETFANHNCKTKVVGV
+PVSLNGDLKNQFVETTVGFDTVCKVNSQLISNVCLDAISAGKYYHFVRVMGWKASHVALE
+CALQSQPNMVILGEEVAFSKLTLKEIISKICDGVQARAAQEKYHGVLLISEGLIESIPEM
+FALIQEINILHSNKVPENNIPSQLSPWATALYNYLPPFIRRELLLHQDSDNSAQLSQIDT
+EQLLAHLVEAEMNKRMKEGKYIGRKFSSVCHFFGYQARGSLPSNFDCDYAYVLGHICMHI
+LAAGLNGYMAFATNLKEPTNKWRCAAVPLTAMMSVKRHSRSPGAVPTGKPVIHPSPVDLQ
+GKAYALLREKASSFLLDDFYRTPGGIQFDGSGADVKPITLTVEDQDYLGDIkLLQDYLEK
+VRNIVKPGCSREILKAAISSMSSVKDVLKVMSAPFYAELPLFNLN
+
+
+PACMAD CONSENSUS:
+Length: 620 aa
+
+MNADLGSPRELTGLQRRRALYQPELPPCLQGTRIRVEFGDSTTTIDPKCADIVAQAFPHT
+FGQKLVHFLEPNTVVSDAQVIEEHPPIRVGVVFSGRQSPGGHNVIWGTYDAMKAQNPHNV
+LLGFVGGTEGLFAKKTLEITDDVLSSYKNQGGFDLLGRTVDQIRTTEQVNAAMSTCCDLN
+LDGLIIIGGVTSNSDAAQLAEtFAEHNCKTKVIGVPVTLSGDLKNQFVETTVGFDTVCKV
+NSQLISNVCLDAvSAGKYYYFVRLMGGKASHVALECALQSHPNMVILGEEVAFSKLTLME
+ITNKICDGVEARAAQGKYHGVLvIPEGLIESIPEMYALIQEINNLHSNNVpEdDIPSQLS
+PWAAALFKFLPPFIRRELiLHQESDNSAQLSQIDTEQLLAHLVEAEMNKRTKEGKYKGRK
+FSSVCHFFGSQARGSLPSNFDCNYAYVLGHICVQIiAAGLNGYMATVTNLKDSTNKWRCA
+AVPLTAMMSVRRHLRGPGAVPIGRPVIHPSPIDLKAESYAVLREKASSFLLDDFYRTPGG
+IQFEGPGADTKPITLTIEEQDYLGDIEILQDYLDKVRTILKPGCSREILKAAISSIASVN
+DVLKVMSAPLNAELPLYHFN
+
+================================================================================

@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM003116
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             532.0 aa
+Family Size (Extended Family Size): 40 (41) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43120:SF19
+Panther Family ID:               PTHR43120
+Modal Panther ID:                PTHR43120:SF19
+Modal Panther Description:       GLUTAMYL-TRNA REDUCTASE
+Modal Panther Family ID:         PTHR43120
+Modal Panther Fam Desc:          GLUTAMYL-TRNA REDUCTASE 1, CHLOROPLASTIC
+Interpro Signature Accession:    cd05213; G3DSA:3.30.460.30:FF:000001; G3DSA:3.40.50.720:FF:000031; G3DSA:3.40.50.720; G3DSA:3.30.460.30; TIGR01035; PTHR43120; PF01488; PF05201; SSF69742; SSF51735
+Interpro Signature Description:  NAD_bind_Glutamyl_tRNA_reduct; Glutamyl-tRNA reductase; -; glutamyl-tRNA reductase; GLUTAMYL-TRNA REDUCTASE 1, CHLOROPLASTIC; Shikimate / quinate 5-dehydrogenase; Glutamyl-tRNAGlu reductase, N-terminal domain; Glutamyl tRNA-reductase catalytic, N-terminal domain; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi03
+  Gene Products: glutamyl-tRNA reductase 2; glutamyl-tRNA reductase%2C chloroplastic
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu01H
+  Gene Products: glutamyl-tRNA reductase 1%2C chloroplastic; glutamyl-tRNA reductase 2; glutamyl-tRNA reductase 3%2C chloroplastic
+Ata
+  Gene count: 3
+  Modal chromosome: Ata01D
+  Gene Products: glutamyl-tRNA reductase 1%2C chloroplastic; glutamyl-tRNA reductase 2%2C transcript variant X2; glutamyl-tRNA reductase 3%2C chloroplastic%2C transcript variant X1
+Tae
+  Gene count: 9
+  Modal chromosome: Tae01A
+  Gene Products: glutamyl-tRNA reductase 1%2C chloroplastic; glutamyl-tRNA reductase 1%2C chloroplastic-like; glutamyl-tRNA reductase 2%2C transcript variant X2; glutamyl-tRNA reductase 2-like; glutamyl-tRNA reductase 3%2C chloroplastic; glutamyl-tRNA reductase 3%2C chloroplastic-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: glutamyl-tRNA reductase%2C chloroplastic
+  Gene Descriptions: glutamyl-tRNA reductase%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: glutamyl-tRNA reductase%2C chloroplastic-like
+  Gene Synonyms: GluTR
+  Gene Descriptions: glutamyl-tRNA reductase%2C chloroplastic-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau21
+  Gene Products: glutamyl-tRNA reductase%2C chloroplastic; glutamyl-tRNA reductase%2C chloroplastic-like
+  Gene Descriptions: glutamyl-tRNA reductase%2C chloroplastic; glutamyl-tRNA reductase%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: glutamyl-tRNA reductase 2-like; glutamyl-tRNA reductase%2C chloroplastic
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: glutamyl-tRNA reductase%2C chloroplastic
+Msi
+  Gene count: 4
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi01
+  Gene Products: glutamyl-tRNA reductase%2C chloroplastic
+Zma
+  Gene count: 3
+  Modal chromosome: Zma01
+  Gene Products: Glutamyl-tRNA reductase 1 chloroplastic; glutamyl-tRNA reductase%2C chloroplastic; glutamyl-tRNA reductase-like protein
+  Gene Synonyms: GRMZM2G177412,gtr1
+  Gene Descriptions: Glutamyl-tRNA reductase 1 chloroplastic; glutamyl-tRNA reductase-like protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 533 aa
+
+MMASTTSATAAAGAFAAAAAAKPRGSSsAACPRVAAGGRRRSGVVRCDAGVEaQAQAVAK
+AASIAALEQFKISADRYMKERSSIAVIGLSVHTAPVEMREKLAVAEELWPRAIsELTSLN
+HIEEAAVLSTCNRMEIYVVALSWNRGIREVVDWMSKKSGIPASELREHLFMLRDSDATRH
+LFEVSAGLDSLVLGEGQILAQVKQVVRSGQNSGGLGKNIDRMFKDAITAGKRVRCETNIS
+SGAVSVSSAAVELALMKLPKSECLSARMLLIGAGKMGKLViKHLIAKGCKKVVVVNRSVE
+RVDAIREEMKDIEIVYRPLtEMYEAAAEADVVFTSTASETPLFTKEHAEALPPISDAMGG
+VRLFVDISVPRNVSACVSEVGHARVYNVDDLKEVVEANKEDRLRKAMEAQTIITQELKRF
+EAWRDSLETVPTIKKLRSYADRIRASELEKCLQKIGEDnLTKKMRRSIEELSTGIVNKLL
+HGPLQHLRCDGSDSRTLDETLENMHALNRMFSLDTEKAIiEQKIKAKVEKTQN
+
+
+BOP CONSENSUS:
+Length: 531 aa
+
+MMAGATSATAAAGAFAAAAkARGsgsAACPRVAAGGRRRSGVVRCDAGVEGDAQAAAKAA
+SIAALEQFKISADRYMKEKSSIAVIGLSVHTAPVEMREKLAVAEELWPRAISELTSLNHI
+EEAAVLSTCNRMEIYVVALSWNRGIREVVDWMSKKSGIPASELREHLFMLRDSDATRHLF
+EVSAGLDSLVLGEGQILAQVKQVVRNGQNSGGLGKNIDRMFKDAITAGKRVRCETNISAG
+AVSVSSAAVELALMKLPKSECLSARMLLIGAGKMGKLVVKHLIAKGCKKVVVVNRSVERV
+DAIREEMKDIEIVYRPLTEMYEAAADADVVFTSTASESLLFTKEHAEALPPISLAMGGVR
+LFVDISVPRNVSACVSEVeHARVYNVDDLKEVVEANKEDRLRKAMEAQTIITQELKRFEA
+WRDSLETVPTIKKLRSYADRIRASELEKCLQKIGEDNLNKKMRRSIEELSTGIVNKLLHG
+PLQHLRCDGSDSRTLDETLENMHALNRMFsLDTEKAVLEQKIKAKVEKTQS
+
+
+PACMAD CONSENSUS:
+Length: 533 aa
+
+MMASTTSATAAAAAFGAAAAAKPRGSSSALCPRVAAGGRRRSGVVRCDAGVEAQAQAVAK
+AASIAALEQFKISADRYMKERSSIAVIGLSVHTAPVEMREKLAVAEELWPRAIQELTSLN
+HIEEAAVLSTCNRMEIYVVALSWNRGIREVVDWMSKKSGIPASELREHLFMLRDSDATRH
+LFEVSAGLDSLVLGEGQILAQVKQVVRSGQNSGGLGKNIDRMFKDAITAGKRVRCETNIS
+SGAVSVSSAAVELALMKLPKSEALSARMLLIGAGKMGKLVIKHLIAKGCKKVVVVNRSVE
+RVDAIREEMKDIEIVYRPLSEMYEAAAEADVVFTSTASETPLFTKEHAEALPpISDAMGG
+VRLFVDISVPRNVSACVSEVGSARVYNVDDLKEVVEANKEDRLRKAMEAQTIITEELKRF
+EAWRDSLETVPTIKKLRSYADRIRASELEKCLQKIGEDnLTKKMRRAIEELSTGIVNKLL
+HGPLQHLRCDGSDSRTLDETLENMHALNRMFSLDTEKAIIEQKIKAKVEKTQN
+
+================================================================================

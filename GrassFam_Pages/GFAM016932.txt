@@ -1,0 +1,147 @@
+================================================================================
+GrassFam ID: GFAM016932
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             671.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR33209:SF1
+Panther Family ID:               PTHR33209
+Modal Panther ID:                PTHR33209:SF1
+Modal Panther Description:       PEPTIDASE S49 DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR33209
+Modal Panther Fam Desc:          PROTEASE 4
+Interpro Signature Accession:    cd07018; cd07023; G3DSA:3.90.226.10; TIGR00706; PTHR33209; PIRSF001217; PF01343; SSF52096
+Interpro Signature Description:  S49_SppA_67K_type; S49_Sppa_N_C; -; signal peptide peptidase SppA; PROTEASE 4; Protease_4_SppA; Peptidase family S49; ClpP/crotonase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: serine protease SPPA%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: serine protease SPPA%2C chloroplastic%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: serine protease SPPA%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: serine protease SPPA%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: serine protease SPPA%2C chloroplastic
+  Gene Descriptions: serine protease SPPA%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: serine protease SPPA%2C chloroplastic%2C transcript variant X1
+  Gene Descriptions: serine protease SPPA%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau06
+  Gene Products: serine protease SPPA%2C chloroplastic%2C transcript variant X1
+  Gene Descriptions: serine protease SPPA%2C chloroplastic
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: serine protease SPPA%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: serine protease SPPA%2C chloroplastic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: serine protease SPPA%2C chloroplastic%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: putative signal peptide peptidase family protein
+  Gene Synonyms: GRMZM2G122843
+  Gene Descriptions: putative signal peptide peptidase family protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 666 aa
+
+MARLLVLRAAPYHRSHLSAAttLVLSPSqHRHSASFPSaARRiLPSPLRVPiRAVESSPG
+PTKQEQePPAAGEAQEPPpPAAPAFEVEELGWGTQLAVKLRMLVAPPWQRVRKGSVLNMK
+LRGEISDQLKTRFSSGLSLPQICENFVKAAYDPRISGIYLHIEPLRCGWGKVDEIRRHIV
+DFKKSGKFVVGYMPVCGEKEYYLACACGELYAPPSAYVALFGLTVQQTFLRGVLEKVGVE
+PEIQRIGRYKSAGDQLARKSMSNEVREMLATLLDNIYGNWLDTISSTHGKKKEEIEEFIN
+SGVYQVARLKEEGWITDLLYDDEVMTMLKERVGQKDKKSLRMVDYSKYSRVSKsTLGLQG
+GGEQIAVIRASGSITRTRSPLSVPSSGIIAEQLIEKIRTVRESEKYKAVILRIDSPGGDA
+LASDLMWREIRLLANSKPVVASMSDVAASGGYYMAMAAPVIVAEKLTLTGSIGVVTGKFi
+LQKLYERIDFNKEILSKGRYAELNAADQRPLRPDEAELFEKSAQNAYALFRDKAAMSRSM
+SVDQMETVAQGRVWSGQDAASRGLVDSLGGFSQALAIAKQKANIPKDKKVQLVEVSKPSP
+TLPEILSGIGGSLLGVDRAVKGVLQDVTSLNGVQARMDGILFERLGDMSGENQLFLLVKD
+ItNYFD
+
+
+BOP CONSENSUS:
+Length: 661 aa
+
+MARLLVLRSAPYHRSSLSAAATALtSSRSASFPRLARRLLPSPLRVPARAVESSSGATKQ
+EEAPLAAGEAQEPLPAAPAFVVEELGWGTQLAVKLRMLVAPPWKRVRKGSVLTMTLRGEI
+SDQLKTRFSSGLSLPQICENFEKAAYDPRISGIYLHIEPLSCGWGKVEEIRRHIVDFKKS
+GKFVVGYMPVGGEKEYYLASACAELYAPPSAYVALYGLTIQQTFLRGVLEKVGVQPEIQR
+IGRYKSAGDQLGRKSMSNEVREMLGALLDNIYGNWLDTVSSTHGKKKEEIEEFVNSGVYQ
+VERLKEEGWITDLLYDDQVMTMLKERVGQNDKKSLRMVDYSKYSRVRKSTLGIGGGGDLI
+AVIRASGSITRTRSGLSVSSSGIIAEQLIKKIRTVRESEKYKAVILRIDSPGGDALASDL
+MWREIRLLADSKPVVASMSDVAASGGYYMAMAAPVIVAEKLTLTGSIGVVTGKFILQKLY
+ERIDFNKEILSRGRYAELNAADQRPLRPDEAELFEKSAQNAYASFRDKAAMSRSMSIDQM
+ETVAQGRVWSGQDAASRGLVDSLGGFSQALAIAKQRANIPQDKKVRLVEISKASPTLPEI
+LSGIGGSLLGVDRVVKGVLQDVTSLNGVQARMDGILFERLENMSGENQLFLLVKEITNYF
+G
+
+
+PACMAD CONSENSUS:
+Length: 672 aa
+
+MARLLVLRAAPYRHSSHLCAATLLVLSPSQHRHFASFPSSPPSAARRILPSPLRVPIRAV
+ESSPGPTKEEQEPSPAAGEAQEQPpPAAPAFEVEELGWGTQLAVKLRMLVAPPWQRVRKG
+SVLNMKLRGEISDQLKTRFSSGLSLPQICENFVKAAYDPRISGIYLHIEPLRCGWAKVDE
+IRRHIVDFKKSGKFVVGYMPVCGEKEYYLACACGELYAPPSAYVALFGLTVQQTFLRGVL
+EKVGVEPEIQRIGKYKSAGDQLARKSMSNEVREMLATLLDNIYGNWLDTISSTHGKKKEE
+IEEFINSGVYQVARLKEEGWITDLLYDDEVMTMLKERVGQKDKKSLRMVDYSKYSRVSKR
+TLGLQGGGEQIAIIRASGSITRTRSPLSAPSSGIIAEQLIEKIRTVRESEKYKAVILRID
+SPGGDALASDLMWREIRLLANSKPVVASMSDVAASGGYYMAMAAPVIVAEKLTLTGSIGV
+VTGKFCLQKLYERIDFNKEILSKGRYAELNAADQRPLRPDEAELFEKSAQNAYALFRDKA
+AMSRSMSVDQMETVAQGRVWSGQDAFSRGLVDSVGGLSQALAIAKQKANIPKDKKIQLVE
+VSKPSPTLPEILSGIGGSLLGVDRAVKGVLQDMTSLSGVQARMDGILFENLGDMSGENQL
+FLLIKDImNYFD
+
+================================================================================

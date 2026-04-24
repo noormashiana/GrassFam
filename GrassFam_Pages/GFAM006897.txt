@@ -1,0 +1,137 @@
+================================================================================
+GrassFam ID: GFAM006897
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             518.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11662:SF255
+Panther Family ID:               PTHR11662
+Modal Panther ID:                PTHR11662:SF255
+Modal Panther Description:       ASCORBATE TRANSPORTER, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR11662
+Modal Panther Fam Desc:          SOLUTE CARRIER FAMILY 17
+Interpro Signature Accession:    cd17380; G3DSA:1.20.1250.20:FF:000086; G3DSA:1.20.1250.20:FF:000058; G3DSA:1.20.1250.20; PTHR11662; PF07690; SSF103473
+Interpro Signature Description:  MFS_SLC17A9_like; ascorbate transporter, chloroplastic isoform X2; ascorbate transporter, chloroplastic isoform X1; MFS general substrate transporter like domains; SOLUTE CARRIER FAMILY 17; Major Facilitator Superfamily; MFS general substrate transporter
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: probable anion transporter 1%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: probable anion transporter 1%2C chloroplastic%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: probable anion transporter 1%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: probable anion transporter 1%2C chloroplastic
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: probable anion transporter 1%2C chloroplastic
+  Gene Descriptions: probable anion transporter 1%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: probable anion transporter 1%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 1
+  Modal chromosome: Pau01
+  Gene Products: probable anion transporter 1%2C chloroplastic
+  Gene Descriptions: probable anion transporter 1%2C chloroplastic
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: probable anion transporter 1%2C chloroplastic
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: probable anion transporter 1%2C chloroplastic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: probable anion transporter 1%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: sialin%2C transcript variant X1
+  Gene Synonyms: GRMZM2G092793
+  Gene Descriptions: sialin
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 519 aa
+
+MLHLLPLSlSAQCRsPPhRcFvdGGSPsQRAGPGLLGvRaRRRALRGTDVQPdTPPSRRd
+GdddlHaDhaqGeGDGGALLaSVRRLLLskeaeDAEpGEEEEQGQFPKRWAIVFLCFSAF
+LLCNMDRVNMSIAILPMSAEYGWNPQTVGLIQSSFFWGYLLTQIAGGIWADTVGGKTVLG
+FGVIWWSIATALTPVAAKLGLPFLLVVRAFMGIGEGVAMPAMNNILSKWVPVSERSRSLA
+LVYSGMYLGSVTGLAFSPLLIHKFGWPSVFYSFGSLGtVWFtTWATKAYSSPLEDPGISA
+EEKKLItSQTTaGEPVKTIPWgLILSKPPVWALIVSHFCHNWGTFILLTWMPTYYNQVLK
+FNLTESGLFCVLPWLTMAVSANVGGWIADTLVSRGvSVTTVRKIMQSIGFLGPAFFLTQL
+SHIDSPAMAVLCMACSQGTDAFSQSGLYSNHQDIGPRYAGVLLGLSNTAGVLAGVFGTAA
+TGYILQHGSWDDVFKLSVVLYLVGTLVWNVFSTGEKIID
+
+
+BOP CONSENSUS:
+Length: 522 aa
+
+MLRLLPLSLSAQCRSGGPPPHRCFVDGGSPSQRvGPGLLANNGVRVRVRRRALRGADVQP
+DTPSSRRDGDKPLHADAgQGEGsGVALLDSVRKLLLEDAEPGEEEQGQFPKRWAIVFLCF
+SAFLLCNMDRVNMSIAIMPMSAEYGWNPQTVGLIQSSFFWGYLLTQIAGGIWADKVGGKT
+VLGFGVIWWSVATALTPVAAKLGLPFLLVVRAFMGIGEGVAMPAMNNILSKWVPVSERSR
+SLALVYSGMYLGSVTGLAFSPFLIHKFGWPSVFYSFGSLGTVWFATWAaKAYSTPLEDPG
+ISAEEKKLIISQTTSGEPVTTIPWGVILSKPPVWALIACHFCHNWGTFILLTWMPTYYNQ
+VLKFNLTESSLFCVLPWLTMAISANVGGWIADTLVSRGTSVTTVRKIMQSIGFLGPAFFL
+SQLSHIDSPALAVLCMACSQGTDAFSQSGLYSNHQDIGPRYAGVLLGLSNTAGVLAGVFG
+TAATGYILQHGSWDDVFKLSVTLYLVGTVIWNLFSTGEKIID
+
+
+PACMAD CONSENSUS:
+Length: 517 aa
+
+MLLHLLPLSCPRRPAPPlRprSGAGGsPRvRAGGRARRRALRrTDVQPETPPRRRRGrDG
+HDPHAAGSGGDTGALLEtVRRLLLAkEPADAEGdEEEEEEQGQFPKRWAIVFLCFSAFLL
+CNMDRVNMSIAILPMSAEFGWNPQTVGLIQSSFFWGYLLTQIAGGIWADTVGGKTVLGFG
+VVWWSIATALTPVAAKLGLPFLLVVRAFMGIGEGVAMPAMNNILSKWVPVSERSRSLSLV
+YSGMYLGSVTGLAFSPLLIHKFGWPSVFYSFGSLGAVWvTTWATKAYSSPLEDPGISAAE
+KKLITSQSTAGEPVKTIPWRLILSKPPVWALIVSHFCHNWGTFILLTWMPTYYNQVLKFN
+LMESGLFCVLPWFTMAVSANVGGWIADTLVSRGVSVTTVRKIMQSIGFLGPAFFLTQLSH
+VNSPAMAVLCMACSQGTDAFSQSGLYSNHQDIGPRYAGVLLGLSNTAGVLAGVFGTAATG
+YILQHGSWDNVFEVSVVLYLVGTLVWNVFSTGEKILD
+
+================================================================================

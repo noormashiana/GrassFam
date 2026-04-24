@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM006012
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             558.0 aa
+Family Size (Extended Family Size): 54 (63) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR43859
+Modal Panther ID:                PTHR43859:SF29
+Modal Panther Description:       4-COUMARATE--COA LIGASE
+Modal Panther Family ID:         PTHR43859
+Modal Panther Fam Desc:          ACYL-ACTIVATING ENZYME
+Interpro Signature Accession:    cd12118; G3DSA:3.30.300.30:FF:000008; G3DSA:3.40.50.12780:FF:000003; G3DSA:3.30.300.30; G3DSA:3.40.50.12780; NF006020; PTHR43859; PF00501; SSF56801
+Interpro Signature Description:  ttLC_FACS_AEE21_like; 2,3-dihydroxybenzoate-AMP ligase; Long-chain-fatty-acid--CoA ligase FadD; -; acyl-CoA synthetase; ACYL-ACTIVATING ENZYME; AMP-binding enzyme; Acetyl-CoA synthetase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                1.85%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: probable acyl-activating enzyme 5%2C peroxisomal
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu02H
+  Gene Products: 2-methylpropanoate--CoA ligase CCL4-like
+Ata
+  Gene count: 5
+  Modal chromosome: Ata02D
+  Gene Products: 2-methylpropanoate--CoA ligase CCL4; 2-methylpropanoate--CoA ligase CCL4-like; 2-methylpropanoate--CoA ligase CCL4-like%2C transcript variant X1
+Tae
+  Gene count: 11
+  Modal chromosome: Tae02D
+  Gene Products: 2-methylpropanoate--CoA ligase CCL4-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: 2-methylpropanoate--CoA ligase CCL4-like
+  Gene Descriptions: 2-methylpropanoate--CoA ligase CCL4-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: probable acyl-activating enzyme 6
+  Gene Descriptions: probable acyl-activating enzyme 6
+Ecu
+  Gene count: 4
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 1
+  Modal chromosome: Pau13
+  Gene Products: 2-methylpropanoate--CoA ligase CCL4-like
+  Gene Descriptions: 2-methylpropanoate--CoA ligase CCL4-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi07N
+  Gene Products: probable acyl-activating enzyme 5%2C peroxisomal; probable acyl-activating enzyme 6
+Pha
+  Gene count: 3
+  Modal chromosome: Pha07
+  Gene Products: probable acyl-activating enzyme 5%2C peroxisomal; probable acyl-activating enzyme 6
+Msi
+  Gene count: 8
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi10
+  Gene Products: probable acyl-activating enzyme 5%2C peroxisomal
+Zma
+  Gene count: 3
+  Modal chromosome: Zma02
+  Gene Products: AMP-binding protein; probable acyl-activating enzyme 5%2C peroxisomal; probable acyl-activating enzyme 6
+  Gene Synonyms: GRMZM2G157113
+  Gene Descriptions: AMP-binding protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 557 aa
+
+MdkLGANPANSCPLTPLGFLERAATVFGDCPSVVYHDTVFTWSQTHRRCLRLASALVSLG
+ISRGDIVSVLLPNVPAMYEMHFGVPMSGAVLNtINTRLDARTVAVLLRHSGSKLVFVDPA
+SLPLirDALRLLPPGHPAPRVVLVEDPHEKeFPAAPAgTLTYERLLEkGDPEFaWVRPAS
+EWDPMILNYTSGTTSAPKGVVHCHRGIFLVTvDSLVeWAVPPRPTYLWTLPMFHANGWSF
+PWGMAVVGGTNVCLRRVDAAEVYATIARRGVTHLCGAPVVLNMLANAPEGVRRPLPGKVR
+ILTAGAPPPAAVLhRTEAIGFEVSHGYGLTETAGLVVSCAWKGEWNKLPASERARLKARQ
+GVRTPGMAEVDIVDGETGRSVPRDGATMGEIVLRGGCVMLGYLNDDeATkAAIRDDGWFY
+TGDVGVMHPDGYLEIRDRSKDVIISGGENISSVEVESVLYGHPAVNEAAVVARPDEFWGE
+TPCAFVSLKEGAAGAVTAADVIAWCRERMPhYMVPKTVVFRAELPKTSTGKIQKYVLRNL
+AKEMGPTRKGvSsSSKM
+
+
+BOP CONSENSUS:
+Length: 557 aa
+
+MEKLGANPANSCPLTPLGFLERAATVFGDCPSVVYHGTVFTWSQTyRRCLRLASALvSLG
+VSRRDVVSVLLPNVPAMYEAHFGVPMSGAVLNSINTRLDARTVSVLLRHSGSRLVFVDPA
+LLPVLDDALRLLPPGHPAPRVVLVEDPHEKqFPPAPAaaLTYERLLEMGDPEFkWVRPAS
+EWDPMILNYTSGTTSAPKGVVHCHRGIFLVTMDSLVDWAVPPRPTYLWTLPMFHANGWSF
+PWGMAVVGGTNVCLRRVDAaEVYDTIARrGVTHLCGAPVVLNMLANAPEGVRKPLPGKVR
+ILTAGAPPPAAVLHRTEAIGFEVSHGYGLTETAGLVvSCAWKGEWNKLPASERARLKARQ
+GVRTPGMAEVDIVDGETGRSVPRDGATMGEIVLRGGCVTLGYLKDEeATRAAIRDDGWFY
+TGDVGVMHPDGYLEIRDRSKDVIISGGENISSVEVESvLYGHPAVNEAAVVARPDEFWGE
+TPCAFVSLKEGAAGAVTAAEVIAWSRERMPGYMVPKTVVFRAELPKTSTGKIQKYVLRNL
+AKEMGPTRRGvSSSSKM
+
+
+PACMAD CONSENSUS:
+Length: 557 aa
+
+MDrLGANPANSCPLTPLGFLERAATVFGDCPSVVYHDTVFTWSQTHRRCLRLASALVSLG
+ISRGDIVSVLLPNVPAMYEMHFGVPMSGAVLNTINTRLDARTVAVLLRHSGSKLVFVDPA
+SLQLIRDALrLLPPGHPAPRVIPVEDPHEkeFPAAPAGTLTYERLLEKGDPEFAWVRPAS
+EWDPMVLNYTSGTTSAPKGVVHCHRGiFLvTVDSLVEWAVPPRPTYLWTLPMFHANGWSF
+PWGMAVVGGTNVCLRRVDAAEVYATIArRGVTHLCGAPVVLNMLANAPEGVRRPLPGKVR
+ILTAGAPPPAAVLhRTEAIGFEVSHGYGLTETAGLVVSCtWKGEWNKLPASERARLKARQ
+GVRTPGMAEVDIIDGETGRSVPRDGSTMGEIVLRGGCVMLGYLNDDeATkAAIRDDGWFY
+TGDVGVMHPDGYLEIRDRSKDVIISGGENISSVEVESVLYgHPAVNEAAVVARPDEFWGE
+TPCAFVSLKEGAAGaVTAADViAWCRERMPhYMVPRTVVFRAELPKTSTGKIQKYVLRNL
+AKEMGPTRKGaSsSsqM
+
+================================================================================

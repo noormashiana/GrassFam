@@ -1,0 +1,142 @@
+================================================================================
+GrassFam ID: GFAM017344
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             623.0 aa
+Family Size (Extended Family Size): 21 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11566:SF151
+Panther Family ID:               PTHR11566
+Modal Panther ID:                PTHR11566:SF151
+Modal Panther Description:       PHRAGMOPLASTIN DRP1E
+Modal Panther Family ID:         PTHR11566
+Modal Panther Fam Desc:          DYNAMIN
+Interpro Signature Accession:    cd08771; G3DSA:1.20.120.1240:FF:000009; G3DSA:3.40.50.300:FF:000228; G3DSA:3.40.50.300; G3DSA:1.20.120.1240; PTHR11566; PR00195; PF00350; PF01031; SM00302; SM00053; SSF52540
+Interpro Signature Description:  DLP_1; Dynamin-related protein 1C; dynamin-related protein 1E; -; Dynamin, middle domain; DYNAMIN; Dynamin signature; Dynamin family; Dynamin central region; GED_2; dynamin_3; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: dynamin-related protein 1E
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: phragmoplastin DRP1E-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: phragmoplastin DRP1E%2C transcript variant X2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: phragmoplastin DRP1E-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: phragmoplastin DRP1E-like%2C transcript variant X2
+  Gene Descriptions: phragmoplastin DRP1E-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: phragmoplastin DRP1E%2C transcript variant X2
+  Gene Descriptions: phragmoplastin DRP1E
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau24
+  Gene Products: phragmoplastin DRP1E-like%2C transcript variant X2
+  Gene Descriptions: phragmoplastin DRP1E-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: dynamin-related protein 1E-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: dynamin-related protein 1E-like%2C transcript variant X2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: dynamin-related protein 1E
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: dynamin-related protein 1E
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 623 aa
+
+MATMENVIVLVNRIQRACTVLGDHGGGDGAASLPTLWEALPSVAVVGGQSSGKSSVLESI
+VGRDFLPRGSGIVTRRPLVLQLHKTEDGVQEYAEFLHMPKRRFTDFALVRKEIQDETDRL
+TGKTKQISPVPIHLSIYSPHVVNLTLIDLPGLTKVAVEGQPESIVQDIENMVRSYVDKPN
+CIILAISPANQDIATSDAIKLARDVDPTGERTFGVLTKLDLMDKGTNALDVLEGRAYRLQ
+HPWVGIVNRSQADINRNVDMIIARRKEQEFFASSPEYSHLASRMGSEYLAKLLSQQLEAV
+IRARIPSITSLINKTIDELESEMDHLGRPIASDAGAQLYLILELCRAFDKIFKEHLDGGR
+PGGDRIYGVFDNQLPSALRKLPFDRHLSVQNVKRVVSQADGYQPHLIAPEQGYRRLIESA
+LNYFRGPAEASVDAVHsVLKELVRISIGETQELKRFPTLQAELAAACYeALERFREDGRK
+TTLRLVDMESAYLTVEFFRKLPQEVDKTGTGNPRTANPPpPSDDRYTDAHFRRIASNVSS
+YIGMVSETLKNTIPKSVVHCQVREAKRSLLNyFYTQVGRKDAKQLAVLLDEDPALMERRL
+QCFKRLELYKSARDEIDAVSWTR
+
+
+BOP CONSENSUS:
+Length: 618 aa
+
+MATMENVIVLVNRIQRACTVLGDHGGGDGTASLPTLWEALPSVAVVGGQSSGKSSVLESI
+VGRDFLPRGSGIVTRRPLVLQLHKTEDGVQEYAEFLHMPKRRFNDFALVRKEIQDETDRL
+TGKTKQISPVPIHLSIYSPHVVNLTLIDLPGLTKVAVEGQPESIVQDIENMVRSYVDKPN
+CIILAISPANQDIATSDAIKLARDVDPTGERTFGVLTKLDLMDKGTNALDVLEGRSYRLQ
+HPWVGIVNRSQADINKNIDMIIARRKEQEFFASSPEYSHLSSRMGSEYLAKLLSQHLEAV
+IRARIPSITSLINKTIDELESEMDHIGRPIASDAGAQLYLVLELCRAFEKIFREHLDGGR
+PGGDRIYGVFDNQLPSALRKLPFDRYLSLQNVKRVISEADGYQPHLIAPEQGYRRLIESA
+LNYFRGPAEASVDAVHYVLKELVRKSIGETQELKRFPTLQAELAAACFHALERFREDGRK
+TTVRLVDMESAYLTVEFFRKLPQEVDKTGTGNPSTPSVDRYADAHFRRIASNVSSYIGMV
+SDTLKNTIPKAVVHCQVREAKRSLLNYFYTQVGRKDAKQLAQLLDEDPALMERRQQCFKR
+LELYKSARDEIDAVSWSR
+
+
+PACMAD CONSENSUS:
+Length: 623 aa
+
+MATMENVIVLVNRIQRACTVLGDHGGGDgAASLPTLWEALPSVAVVGGQSSGKSSVLESI
+VGRDFLPRGSGIVTRRPLVLQLHKTEDGVQEYAEFLHMPKRRFTDFALVRKEIQDETDRL
+TGKTKQISPVPIHLSIYSPHVVNLTLIDLPGLTKVAVEGQPESIVQDIENMVRSYVDKPN
+CIILAISPANQDIATSDAIKLARDVDPTGERTFGVLTKLDLMDKGTNALDVLEGRAYRLQ
+HPWVGIVNRSQADINRNVDMIIARRKEQEFFASSPEYSHLASRMGSEYLAKLLSQQLEAA
+IRARIPSITSLINKTIDELESEMDHLGRPIASDAGAQLYLILELCRAFDKIFKEHLDGGR
+PGGDRIYGVFDNQLPSALRKLPFDRHLSVQNVKRVVSQADGYQPHLIAPEQGYRRLIESA
+LNYFRGPAEASVDAVHSVLKELVRISIGETQELKRFPTLQAELAAACYEALERFREDGRK
+TTLRLVDMESAYLTVEFFRKLPQEVDKTGTGNPRTANPPpPSDDRYTDAHFRRIASNVSS
+YIGMVSETLKNTIPKSVVHCQVREAKRSLLNhFYTQVGRKDAKQLAVLLDEDPALMERRL
+QCFKRLELYKSARDEIDAVSWTR
+
+================================================================================

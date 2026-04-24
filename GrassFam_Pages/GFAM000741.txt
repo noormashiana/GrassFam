@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM000741
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             484.0 aa
+Family Size (Extended Family Size): 44 (50) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48045:SF2
+Panther Family ID:               PTHR48045
+Modal Panther ID:                PTHR48045:SF2
+Modal Panther Description:       GLYCOSYLTRANSFERASE
+Modal Panther Family ID:         PTHR48045
+Modal Panther Fam Desc:          UDP-GLYCOSYLTRANSFERASE 72B1
+Interpro Signature Accession:    cd03784; G3DSA:3.40.50.2000:FF:000054; G3DSA:3.40.50.2000:FF:000051; G3DSA:3.40.50.2000; PTHR48046; SSF53756
+Interpro Signature Description:  GT1_Gtf-like; Glycosyltransferase; Glycogen Phosphorylase B;; UDP-GLYCOSYLTRANSFERASE 72E1; UDP-Glycosyltransferase/glycogen phosphorylase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: UDP-glycosyltransferase 72B1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: hydroquinone glucosyltransferase-like
+Ata
+  Gene count: 3
+  Modal chromosome: Ata03D
+  Gene Products: UDP-glycosyltransferase 72B1; UDP-glycosyltransferase 72B3; hydroquinone glucosyltransferase
+Tae
+  Gene count: 11
+  Modal chromosome: Tae03B
+  Gene Products: UDP-glycosyltransferase 72B1-like; UDP-glycosyltransferase 72B3-like; UDP-glycosyltransferase 72B3-like%2C transcript variant X1; hydroquinone glucosyltransferase-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola11
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: UDP-glycosyltransferase 72B3-like
+  Gene Descriptions: UDP-glycosyltransferase 72B3-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: UDP-glycosyltransferase 72B3
+  Gene Descriptions: UDP-glycosyltransferase 72B3
+Pau
+  Gene count: 2
+  Modal chromosome: Pau12
+  Gene Products: hydroquinone glucosyltransferase-like
+  Gene Descriptions: hydroquinone glucosyltransferase-like
+Svi
+  Gene count: 3
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 5
+  Modal chromosome: Pvi08K
+  Gene Products: UDP-glycosyltransferase 72B1-like; hydroquinone glucosyltransferase-like
+Pha
+  Gene count: 3
+  Modal chromosome: Pha08
+  Gene Products: UDP-glycosyltransferase 72B1-like; hydroquinone glucosyltransferase-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 4
+  Modal chromosome: Sbi05
+  Gene Products: UDP-glycosyltransferase 72B3; hydroquinone glucosyltransferase
+Zma
+  Gene count: 3
+  Modal chromosome: Zma04
+  Gene Products: hydroquinone glucosyltransferase; uncharacterized LOC100281121
+  Gene Synonyms: GRMZM2G085854; GRMZM2G372068; GRMZM2G426415,si605010h05a
+  Gene Descriptions: hydroquinone glucosyltransferase; uncharacterized LOC100281121
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 483 aa
+
+MEngnGnaggtAeAgRPPHVAMLVTPGMGHLIPLAELAKRLAARHGATATLITFASTASA
+TQRAFLASLPPAIsSLSLPPVDLSDLPrDAAIETLMSEECARSVPALTeiLsgLkeTTRL
+VAFVADLFGADSFDAARAAGVpRRYLFFPtNLHaLTLILHLPELDASvPGEFRDLAEPVR
+LPGCVPIPGPDILSPLQDKSnPCYRWMVHHGaRYREADAILVNSFDAVEPdaArVLRQPE
+PGRPPVYPIGPLIrTDaagsApdaPRAACLEWLDRQPARSVIFVSFGSGGALPTEQMREL
+ALGLELSGQRFLWVVRSPSDEGAVNaNYYDAESKKDPFAYLPEGFVERTKDVGLLVPSWA
+PQTkVLAHEATGGFLTHCGWNSVLESLVHGVPMVAWPLFAEQRQNAVMLSEGVGAAIRVP
+EtKgKEeIAAAVREVMaGEGKGAaVRAKVAELQKAAAEGLREGGAATtALDEVVeKWTgG
+End
+
+
+BOP CONSENSUS:
+Length: 482 aa
+
+MEANGiagGtAEArRPPHVAMLVTPGMGHLIPLAELAKRLAARHGVTATLITFASTASAT
+QRAFLASLPPAIsSLSLPPVDLSDLPPDAAIETLMSEECARLVPALTevLSGLrETTRLV
+AYVADLFGADSFDAAVAAGVPRRYLFFPGNLHGLTLILHLPELDVSMPGEFRDLAEPVRL
+PGCVPIPGPDILSPLQDKSsPCYRWMVHHGrRYREAeAILVNSFDAVEPDAARVLRrPEP
+GRPPVYnIGPLIRTDAApVAtdaPRAACLDWLDRQPPKSVIFVSFGSGGSLPTEQMRELA
+LGLELSGQRFLWVVRSPSDEGAVNANYYDAESKKDPLAYLPeGFVERTKDVGLLVPSWAP
+QTEVLAHEATGGFLVHCGWNSVLESLVHGVPMVAWPLFAEQRQNAVMLSEGVGAAiRVPa
+TKRKEEIAAAVREVMAGQGKGAEVRAKVAELQKAAiEGLlEGGAATtALDEVVrKWTGGE
+ha
+
+
+PACMAD CONSENSUS:
+Length: 475 aa
+
+MENGnSskaarPPHVAMLATPGMGHLIPLAELAKRLASRHGATATLITFASTASATQRAF
+LASLPPAVsSLsLPPVDLSDLPRGAAIETLMSEECARSVPALTdILleLKRTTRLVAFVA
+DLFGADSFDAARAAGVrRRCLFFPtNLHALTLiLHLPELDASVPGEFRDLAEPLRLPGCV
+PIPGPDvLsPLQDKSNPCYrWMVHHGeKYREADAILVNSFDAVEPEPAkVLRQPePGRPp
+VYPIGPLIladgggssspRAACLEWLDRQPARSVIFVSFGSGGALPaEQMRELALGLELS
+GQRFLWVVRSPSDEGAVNDNYYDAESKKDPFAYLPEGFVERTKDVGLVVPSWAPQtkVLA
+HeATGGFLTHCGWNSvLESLVHGVPMVAWPLYAEQRQNAVMLSEGVGAAIRVPEsKGREk
+IAAvVRELMaGEGKGAAVRAKVAELQKAAAEGLREGGAAATALAEVVEKWTtgEn
+
+================================================================================

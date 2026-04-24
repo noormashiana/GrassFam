@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM018322
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             534.0 aa
+Family Size (Extended Family Size): 25 (29) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13117:SF5
+Panther Family ID:               PTHR13117
+Modal Panther ID:                PTHR13117:SF5
+Modal Panther Description:       PROTEIN RFT1 HOMOLOG
+Modal Panther Family ID:         PTHR13117
+Modal Panther Fam Desc:          ENDOPLASMIC RETICULUM MULTISPAN TRANSMEMBRANE PROTEIN-RELATED
+Interpro Signature Accession:    cd13130; PTHR13117; PF04506
+Interpro Signature Description:  MATE_rft1; ENDOPLASMIC RETICULUM MULTISPAN TRANSMEMBRANE PROTEIN-RELATED; Rft protein
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: protein RFT1 homolog
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: protein RFT1 homolog
+Ata
+  Gene count: 2
+  Modal chromosome: Ata03D
+  Gene Products: protein RFT1 homolog%2C transcript variant X1; protein RFT1 homolog%2C transcript variant X4
+Tae
+  Gene count: 4
+  Modal chromosome: Tae03D
+  Gene Products: protein RFT1 homolog; protein RFT1 homolog%2C transcript variant X1; protein RFT1 homolog%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: uncharacterized LOC127779115%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127779115
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC4343254
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 2
+  Modal chromosome: Pau14
+  Gene Products: uncharacterized LOC133890704%2C transcript variant X1; uncharacterized LOC133893544%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133890704; uncharacterized LOC133893544
+Svi
+  Gene count: 2
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: protein RFT1 homolog; protein RFT1 homolog%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: protein RFT1 homolog%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: protein RFT1 homolog%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: lipid transporters%2C transcript variant X1
+  Gene Synonyms: GRMZM2G133421
+  Gene Descriptions: lipid transporters
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 534 aa
+
+MddAALLAGAGeAAAAapPdAAAGAAVMGVFKYNFAAQFLSRVIPFLYNIWFVRQLgADD
+CAAYALQLPLFINCILFLSREGFRRACLRNDSQSGDVLTDEEILKVAWMVIPFGILVTSI
+GSLFVLRVKKLKLSDPYAKATLIIGFACILELLAEPLYILSQKKKYYnIRVYTEPAATLL
+RCLTTFIFIKGHIKVEKLVvFSLSQVVYAACIFFGYWtYFLiFTDiKtfDLLPfRLSnLM
+DYDKQLLHMCMLFTGQTFRKLILQEGEKFVLVWFDTPYNQAAYGLVDKLGSLVVRIVFLP
+FEESSYATFAQLASGETPqNISNLEGSLLGALKLIMLIGLVVISFGPSYSYTLLKLLYGe
+RySDGEAtVILRYYCFYIISLAMNGTSEAFLHAVANENQLKQSNDMLLLFSAIYIvLNVV
+LIKSAGAVGLIAANSINMLLRITYSAvFIKdYFKGSFSFRRCLPAGWGILLISGLTTAFS
+ERMFLNRnRFKQTLPIHMAIGIMCLSfSSLEIYRGEKQFLrsIikTLKGHDKhQ
+
+
+BOP CONSENSUS:
+Length: 535 aa
+
+MMAMALLAGAVGTAGAVSPQPDSdAGAVMAVFKYNFAAQFLSRVIPFLYNGWFVRQLSAD
+DCAAYALQLPLFINCVLFLSREGFRRACLRNNSGSGDVLSDEEILKVAWMIIPFGLFVTF
+IGSLFVLRvKKLKLSDPYAKATLIIGFACMLELLAEPLYILSQTKKYYIIRVYTEPtATL
+LRCLTTYIFIKGHIKVEKLVVFALSQVVYAACIFIGYWTYFLLFANIRTFDLLPFRLSTL
+MVYDKQLLHMCILFTGQTIRKLILQEGEKFVLVWFDTPFNQAAYGLVDKLGSLVVRIVFL
+PFEESSYATFTQLASGQTPqNVSNLEGSLLGALKLITLIGLVVISFGPSYSYTLLNLLYG
+rRYSDGEATAVLRYYCVYIIFLAMNGTSEAFLHSVANENQLKQSNNMLLLFSAIYTVLNV
+AFIKSAGAVGLIAANSVNMLLRISYSAVFINEYFKGSFSFYRCLPAGWGVLLISGLTTAF
+SERMFLNRNRFKQTLPIHMVIGIMCLGFSLLEIYRGEKQFLMSIVKSLKGHDKHT
+
+
+PACMAD CONSENSUS:
+Length: 534 aa
+
+MDDAALLAGAGvAAAAAPPAAAAGAAVMGVFKYNFAAQFLSRVIPFVFNIWFVRQLGADD
+GAVSAFALQLPLFMNCILFLSREGFRRACLRNDSQSDVLTDEAILKVAWMVIPFaILITS
+IGSLFVLSVKKLKLSDPYAKAvLIIGFACILELLAEPLYIISQKKKYYNIRVYaEPAATL
+FRCLTTFILVKGHIKVhKLVLVSLSQVVYGAFIFFGYWSYFLIFTDTKiSDLLPLRLSNL
+MDYDKQLLHMCMLFTGQTFRKLILQEGEKFVLVSFDTPYNQAAYGLVDKLGSLVVRIVFL
+PFEESSYTTFARLAGETPqNISNLEGSLLGALKLIMLIGLVIISFGPSYSYTLLKLLYGE
+RHSDGEASVILRYYCFYIISLAMNGTSEAFLHAVANENQLKQSNDMLLLFSVIYIILNVV
+LIKSAGAVGLIAANSINMLLRITYSAMFIKDYFKGSFSFRRCVPAGWGILLISGLTTVFS
+ERVFLNRKRFKQTVPIHIAIGIMCLSISSFEIYRGEKQFLRQIFGTLKHHDKsQ
+
+================================================================================

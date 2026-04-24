@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM012801
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             557.0 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11119:SF29
+Panther Family ID:               PTHR11119
+Modal Panther ID:                PTHR11119:SF29
+Modal Panther Description:       NUCLEOBASE-ASCORBATE TRANSPORTER 3
+Modal Panther Family ID:         PTHR11119
+Modal Panther Fam Desc:          XANTHINE-URACIL / VITAMIN C PERMEASE FAMILY MEMBER
+Interpro Signature Accession:    PTHR11119; PF00860
+Interpro Signature Description:  XANTHINE-URACIL / VITAMIN C PERMEASE FAMILY MEMBER; Permease family
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: nucleobase-ascorbate transporter 3%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: nucleobase-ascorbate transporter 3%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: nucleobase-ascorbate transporter 3%2C transcript variant X2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: nucleobase-ascorbate transporter 3-like%2C transcript variant X1; nucleobase-ascorbate transporter 3-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl12
+  Gene Products: nucleobase-ascorbate transporter 3-like%2C transcript variant X1
+  Gene Descriptions: nucleobase-ascorbate transporter 3-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa12
+  Gene Products: nucleobase-ascorbate transporter 3%2C transcript variant X2
+  Gene Descriptions: nucleobase-ascorbate transporter 3
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu06
+Pau
+  Gene count: 2
+  Modal chromosome: Pau22
+  Gene Products: nucleobase-ascorbate transporter 3-like%2C transcript variant X3; nucleobase-ascorbate transporter 3-like%2C transcript variant X7
+  Gene Descriptions: nucleobase-ascorbate transporter 3-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: nucleobase-ascorbate transporter 3-like%2C transcript variant X2; nucleobase-ascorbate transporter 3-like%2C transcript variant X3
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: nucleobase-ascorbate transporter 3-like%2C transcript variant X1
+Msi
+  Gene count: 3
+  Modal chromosome: Msi13
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: nucleobase-ascorbate transporter 3%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: Nucleobase-ascorbate transporter 3%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 556 aa
+
+MGETNQPPPPPVAVPPPMGMQPMMnPPVGAGAiHPPHEQFHHLAYCVHSNPSWVQVAALA
+FLHYLVMLGSTVMLASiIVPAMGGnPGDKARVIQSFLFMSGINTLLQTLIGTRLPTVMNA
+SFAFVVPVLSIARefdsNDFtSNHqRFVHTMRTTQGALIVASILNMILGFSTIWGAYAKK
+FSPVIMTPVVCVVGLGLFqLGFPQVGKCVEIGLPMLILAVVVQQYVPhYFrHIHERtTFL
+FERYSLLLCIGIVWAFAAILTAAGAYNHVSLKTQQHCRTDKSFLMSSAPWIKIPYPFQWG
+TPIFTAGHSFGMMGAVLVSAFESTGAHFATARLAGATPPPAHVLSRSVGLQGIGMFLEGI
+FGAPAGSSVSVENIGLLGLTKVGSRRVIQISTGFMIFFSIFGKFGAFFASIPLPIFAAIY
+CILFGIVAAVGVSFMQFANKNSMRNIYIIGLSLFLGISIPQYFNEYTSSAGRGPARTNAG
+WFNDIINTVFASGPTVALIVASVLDNTLEfRGyESDRGLSWFtPFLRRRKGYSDPRNEEF
+YSFPIRVHDFIPSRFL
+
+
+BOP CONSENSUS:
+Length: 556 aa
+
+MGEMNQQPPPPVGVPPPMGMQPMMNPPVGAGAMHQPYEQFNQLNYCVHSNPSWVQVAGLA
+FLHYLVMLGSTVMLVSTIVPAMGGGPGEKARVIQSFLFVSGINTLLQTLVGTRLPTVMNA
+SFAFVVPVLSIARQFntNDFeSNHERFVHTMRATQGALIVASILNMILGYSRAWGAFAKK
+FSPVIMTPVVCVVGLGLFQIGFPQVGKCVEIGLPMLILAIVVQQYVPLYFRHIHERTTFL
+FERYSLLLCIGIVWAFAAILTAAGAYNHVSLKTQQHCRTDKSFLISSAPWIKIPYPFQWG
+PPIFTAGHSFGMMGAVLVSSFESTGAHFATARLAGATPPPAHVLTRSIGLQGIGIFLEGL
+FGAPAGSSVSVENIGLLGLTKVGSRRVIQISTGFMIFFSIFGKFGAFFASIPLPIFAAIY
+CILFGIVAAVGISFsQFANKNSMRNIYIIGLSLFLGISIPQYFAEYTASAGRGPARTNAG
+WFNDIINTVFASGPTVALIVASLLDNTLEPRANENDRGLSWFMPFLRRRKGYSDPRNEEF
+YSYPIRVHDLIPSRFL
+
+
+PACMAD CONSENSUS:
+Length: 557 aa
+
+MGETNQPPPPPVAAPPPMMPMQPMMaPPVGAGAIHPPHEQFHHLAYCVHSNPSWVQVAAL
+AFLHYLVMLGSTVMLASvIVPAMGGNAGDKARVIQSFLFMSGINTLLQTLIGTRLPTIMN
+ASFAFVVPVLSIAREiDSNDFtNNHQRFvHTMRTTQGALIVASILNMILGFSTIWGAYAK
+KFSPVIMTPVVCVVGLGLFELGFPQVGKCVEIGLPMLILAVIVQQYVPHYFSHIHERiTF
+LFERYSLLLCIGIVWAFAAILTAAGAYNHVSLKTQQHCRTDKSFLMSSAPWIKIPYPFQW
+GTPIFTAGHSFGMMGAVLVaAFESTGAHFATARLAGATPPPGHVLSRSVGLQGIGMFLEG
+IFGAPAGSSVSVENIGLLGLTKVGSRRVIQISTGFMIFFSIFGKFGAFFASIPLPIFAAI
+YCILFGIVAAVGVSFMQFANKNSMRNIYIIGLSLFLGISvPQYFNEYTSSAGRGPARTNA
+GWFNDIINTVFASGPTVALIVASVLDNTLEaRGYESDRGLSWFtPFLRRHKGYSDPRNEE
+FYSFPIRVHDFIPSRFL
+
+================================================================================

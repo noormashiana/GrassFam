@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM001207
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             525.0 aa
+Family Size (Extended Family Size): 50 (56) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24282:SF143
+Panther Family ID:               PTHR24282
+Modal Panther ID:                PTHR24282:SF143
+Modal Panther Description:       CYTOCHROME P450 FAMILY 72 SUBFAMILY A POLYPEPTIDE 8
+Modal Panther Family ID:         PTHR24282
+Modal Panther Fam Desc:          CYTOCHROME P450 FAMILY MEMBER
+Interpro Signature Accession:    cd20642; G3DSA:1.10.630.10:FF:000029; G3DSA:1.10.630.10; PTHR24282; PF00067; SSF48264
+Interpro Signature Description:  CYP72; Cytochrome P450 734A1; Cytochrome P450; CYTOCHROME P450 FAMILY MEMBER
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: cytochrome P450 72A15
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: cytochrome P450 72A15-like
+Ata
+  Gene count: 3
+  Modal chromosome: Ata07D
+  Gene Products: cytochrome P450 72A15; cytochrome P450 72A397
+Tae
+  Gene count: 9
+  Modal chromosome: Tae07A
+  Gene Products: cytochrome P450 72A15-like; cytochrome P450 72A397-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 3
+  Modal chromosome: Ogl01
+  Gene Products: cytochrome P450 CYP72A616-like
+  Gene Descriptions: cytochrome P450 CYP72A616-like
+Osa
+  Gene count: 3
+  Modal chromosome: Osa01
+  Gene Products: cytochrome P450 CYP72A616
+  Gene Descriptions: cytochrome P450 CYP72A616
+Pau
+  Gene count: 4
+  Modal chromosome: Pau02
+  Gene Products: cytochrome P450 CYP72A616-like
+  Gene Descriptions: cytochrome P450 CYP72A616-like
+Svi
+  Gene count: 3
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 7
+  Modal chromosome: Pvi05N
+  Gene Products: cytochrome P450 72A14-like; cytochrome P450 72A15-like; cytochrome P450 72A15-like%2C transcript variant X1
+Pha
+  Gene count: 3
+  Modal chromosome: Pha05
+  Gene Products: cytochrome P450 72A15-like; cytochrome P450 72A15-like%2C transcript variant X1
+Msi
+  Gene count: 7
+  Modal chromosome: Msi06
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: cytochrome P450 72A15%2C transcript variant X2
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: putative cytochrome P450 superfamily protein
+  Gene Synonyms: GRMZM2G056247; GRMZM2G129860,GRMZM2G560358
+  Gene Descriptions: putative cytochrome P450 superfamily protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 525 aa
+
+MATRaLLMLrEASPWALAGAAAAVALLWLAAWTLEWAWWTPRRLDRALRAQGLkGTRYRL
+FTGDlrENARlNREARtKPLPLGcHDIiPRVQPMlHNaiKEhGKmSFTWFGPTPRVMIPD
+PELVREILSNKFGHFGKPrSSRIGKLLANGVvNHEGEKWAKHRRILNPAFHHEKIKRMLP
+VFSTCCeEMITRWENSMSSEGSSEIDVWPEFQNLTGDVISRTAFGSNYQEGMKIFQLQGE
+LAERLIQSFQTIFIPGYWFLPTKNNRRMREIDREIRKILRGIIGKREKAIKNGEtsNDDL
+LGLLLESNMRQSNGnAkLGMSTEDiIEECKLFYFAGMETTSVLLTWTLIVLSMHPEWQEr
+AREEVLhHFGRTrPDFDsLSRLKIVTMILYEVLRLYPPvTFLTRRTYKEMELGGIKYPAG
+VNLlLPILFIHHDPdIWGKDASEFNPeRFADGISNATKHQAAFFPFGGGPRICIGQNFAL
+LEAKMALCTILQRFSFELSPSYTHAPYTVITLHPQHGAQIRLKKL
+
+
+BOP CONSENSUS:
+Length: 525 aa
+
+MATEGLMMLGDASPWSlAGAAAAVALLWLAAWvLEWAWWTPRRLGRALRAQGLRGTRYRL
+FTGDVPENARLNREARSqPLPLGSHDIiPRVlPMFCNvIKEHGKvSFTWFGPTPRVMIPD
+PELVREILSNKFGHYGKQkSSRIGKLLAdGVANHEGEKWAKHRRILNPAFHHEKIKRMLP
+VFSACCEEMITRWENSMSteGlSEIDVwPEFQNLTGDVISRTAFGSNYQEGMKIFQLQGE
+LAERLIQAFQTLFIPGYWFLPTKNNRRMRAIDREIRMILRGIIGKKERAIKNGEASSDDL
+LGLLLESNMQQSNGKAnLGMSIEDIIEECKLFYFAGMETTSVLLTWTLIVLSMHPEWQEQ
+AREEVLHHFGRTTPDFENLSRLKIVTMILYEVLRLYPPvtFLTRRTYKAMELGGIKYPAG
+VNLMLPlLFIHHDPDIWGKDAsEFNPQRFADGISNAAKHPaAFFPFGGGPRICIGQNFAL
+LEAKMALSTILQRFSFELSPSYtHAPYTVITLQPQHGAQIRLKKI
+
+
+PACMAD CONSENSUS:
+Length: 525 aa
+
+MATRALLMLREASPWALAGAAAAVALLWLVAWTLEWAWWTPRRLDRALRAQGLKGTRYRL
+FTGDLRENARiNREARTKPLPLGCHDIAPRVQPMLHnavKEYGKmSFTWFGPTPRVMIPD
+PELVREVLSNKFGHFGKPRSSRIGKLLANGVVNHEGEKWAKHRRILNPAFHHEKIKRMLP
+VFSTCCvEmITRWENSMpSEGSSEIDVWPEFQNLTGDVISRTAFGSSYQEGMKIFQLQGE
+LAERLIQSFQTIFIPGYWFLPTKNNRRMREIDREIRKILREIIGKREKAiKNGETNNDDL
+LGLLLESNMRQSNGNAKLGLtTEDVIEECKLFYFAGMETTSVLLTWTLIVLSMHPEWQER
+AREEVLNHFGRARPDFDSLSRLKTVTMILYEVLRLYPPVTFLTRRTYKEMELGGIKYPAG
+VNLLLPILFIHHDPnIWGKDASEFNPERFADGISNATKHQAAFFPFGGGPRICIGQNFAL
+LEAKMALCTILQRFSFELSPSYTHAPYTVITLHPQHGAQIRLKKL
+
+================================================================================

@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM008250
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             468.0 aa
+Family Size (Extended Family Size): 21 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31189:SF13
+Panther Family ID:               PTHR31189
+Modal Panther ID:                PTHR31189:SF13
+Modal Panther Description:       CUPINCIN
+Modal Panther Family ID:         PTHR31189
+Modal Panther Fam Desc:          OS03G0336100 PROTEIN-RELATED
+Interpro Signature Accession:    cd02245; cd02244; G3DSA:2.60.120.10:FF:000173; G3DSA:2.60.120.10; PTHR31189; SM00835; SSF51182
+Interpro Signature Description:  cupin_7S_vicilin-like_C; cupin_7S_vicilin-like_N; Vicilin-like antimicrobial peptides 2-3; Jelly Rolls; OS03G0336100 PROTEIN-RELATED; Cupin_1_3; RmlC-like cupins
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: cupincin
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: cupincin-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: cupincin-like
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: cupincin-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: cupincin
+  Gene Descriptions: cupincin
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: cupincin-like
+  Gene Descriptions: cupincin-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau04
+  Gene Products: cupincin-like
+  Gene Descriptions: cupincin-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi07K
+  Gene Products: cupincin-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: cupincin-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: cupincin
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: globulin 2
+  Gene Synonyms: glb2,Globulin-2,GRMZM2G026703,penA
+  Gene Descriptions: globulin 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 468 aa
+
+MKsMaRSPLVALALLLSLCLSLALASwDAeDvGrGsRrwqEGgDEGRsSGSGRPYHFGEE
+SFRHWtRSRHGRFrVLERFdHELLegAVGdYRVAeLEAAPRAFLQPSHYDADEVmFVKEG
+EGVvVLLRnGKRESFCVREGDVMVIPAGAIVYSANTHrSkWFRVVMLLNPVSTPGRFEEF
+FPIGGErPESFFSVFSDDVIQAAFNTRREEwEkVFEkQSKGEITTASEEQIRELSRSCSR
+GGRGGGGSGSSKWEIKPSSLTGKKPRySNnHGRhyEITGDECPHLRkLDMeVGLANITRG
+SMMAPSYsTRATKIAVVVEGsGYFEMACPHvSgSGRSERREREHGrrEwGREEEEegeGe
+gGqKSRGYRQVRArIKEGSVIVlPAGHPATlVAGnDgNLAVLCFGVGAnnDEKVFLAGrN
+SvLkQLDEpAKALAFGaQarEeADRVIGAQpEsVFLRGPQsrRrssDM
+
+
+BOP CONSENSUS:
+Length: 476 aa
+
+MKstVvRSPwLALALVLSLCLSLSFASWDAEdVGRGsRrwqEGgDEGRSGESGRPYHFGE
+ESFREWArTRHGHFKVLERFDHELLRGSVGDYRVAcLDAAPRAFLQPSHYDADEIfYVRE
+GEGVLVLLRNGKRESFCVREGDVMVIPAGSIVYSANTHRSKWFRVVMLLNPVSTPGsFqE
+FFPIGFGErPESFFSVFSDEVLQAAFNTRREEVERVFERqSrGGEIteASEEQIRELSRS
+CSRGGRGGGGGSGSEEDIKPRSLTGeKPRYSNKHGRlHqITGDECrHLRKLDMdVGLANI
+TRGSMtApRYTTRATKIAVVVEGdGYFEMACPHvSSSGRSERREREREHGhGRReEqGRQ
+EEEhGHGqEQEKSRGYRQVRAQIKvGSVIVLPAGHPATFVAGNeGNLAVLCFGVGANNDE
+EVFLTGGNSvLKQLDEAAKALvFGqQARELADRVIRAQPESVFvrGPQQQRRVsDM
+
+
+PACMAD CONSENSUS:
+Length: 449 aa
+
+MGAMKrSvLVLLLLLSLCSSLALASYtDtGGSGSGRPYHYGEESFRHWTRSRQGRFRVLE
+RFTHELLEDAVGNYRVAELEAAPRAFLQPSHYDADEVMFVKEGEGVVVLLRGGKRESFCV
+REGDVMVIPAGAVVYSANTHqSeWFRVVMLLSPVSTsGRFEEFFPIGGESPESFFSVFSD
+DVIQAAFNTRREEWEQVFEKQSKGEITTASEEQIRELSRSCSRGGRSHGGGSSKWEIKPS
+SLTGKRPtHSNSHGRHYEITGDECPHLRVLDMEVGLANITRGSMMAPSYSTRANKIAVVV
+dGSGYFEMACPHLSGGRSSsQRRERGHGRREWGREEEEEEEQEGGQKSRSYKQVRSRIRE
+GSVIVIPAGHPTALVAGEDKNLAVLCFGVNArFDEKVFLAGRNSALRQMDEPAKALAFGA
+EeEkVDRVIGAQkDAVFLRGPQSRRVSSA
+
+================================================================================

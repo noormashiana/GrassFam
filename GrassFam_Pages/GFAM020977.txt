@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM020977
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             421.0 aa
+Family Size (Extended Family Size): 21 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43725:SF51
+Panther Family ID:               PTHR43725
+Modal Panther ID:                PTHR43725:SF51
+Modal Panther Description:       UDP-ARABINOSE 4-EPIMERASE 1-RELATED
+Modal Panther Family ID:         PTHR43725
+Modal Panther Fam Desc:          UDP-GLUCOSE 4-EPIMERASE
+Interpro Signature Accession:    cd05247; G3DSA:3.90.25.10; G3DSA:3.40.50.720; TIGR01179; PTHR43725; PF16363; SSF51735
+Interpro Signature Description:  UDP_G4E_1_SDR_e; -; UDP-glucose 4-epimerase GalE; UDP-GLUCOSE 4-EPIMERASE; GDP-mannose 4,6 dehydratase; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: probable UDP-arabinose 4-epimerase 1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: probable UDP-arabinose 4-epimerase 1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: probable UDP-arabinose 4-epimerase 1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: probable UDP-arabinose 4-epimerase 1; probable UDP-arabinose 4-epimerase 1%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: probable UDP-arabinose 4-epimerase 1
+  Gene Descriptions: probable UDP-arabinose 4-epimerase 1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: probable UDP-arabinose 4-epimerase 1
+  Gene Synonyms: OJ1417_E01.121,OsJ_23039,OsUEL-1,UEL-1
+  Gene Descriptions: probable UDP-arabinose 4-epimerase 1
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 2
+  Modal chromosome: Pau14
+  Gene Products: probable UDP-arabinose 4-epimerase 1
+  Gene Descriptions: probable UDP-arabinose 4-epimerase 1
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: probable UDP-arabinose 4-epimerase 1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: probable UDP-arabinose 4-epimerase 1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: probable UDP-arabinose 4-epimerase 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 420 aa
+
+MLPTnRSRPQQRPARSWSFSEMDFSDPKRKPRYLSKIIMvALLTAMCVVMLTQPPCHRRa
+PSVFSIHEPGVTHVLVTGGAGYIGSHAALRLLKDSFRVTIVDNLSRGNIGAIKVLQNLFP
+EPGRLQFIqADLGDPKAVNRIFAENAFDAVMHFAAVAYVGESTLEPLRYYHNITANTLVV
+LEAMATHNVKTLIYSSTCATYGEPEKMPITEETPQFPINPYGKAKKMAEDIILDFSKSKK
+SDMAVMILRYFNVIGSDPEGRLGEAPRPELREHGRISGACFDAALGIIPGLKVKGTDYET
+PDGTCVRDYIDVTDLVDAHVKALNKAERGRVGIYNVGTGKGRSVKEFVEACKKATGVDIK
+VDYFPRRPGDYAEVYSDPAKINRELNWTAQHTDLHESLRVAWTWQKkHRSGYePPQAMIL
+
+
+BOP CONSENSUS:
+Length: 421 aa
+
+MLPTGRSRPQPRPAPRSWSFSDMDFSDPKRKSRYLSKIIMVALLTAMCVVMLTQPPCHRR
+APSVFSIHELGVTHVLVTGGAGYIGSHAALRLLKDSFRVTIVDNLSRGNIGAVKVLQNLF
+PEPGRLQFIYADLGDPKAVNRIFAENAFDAVMHFAAVAYVGESTLEPLRYYHNITANTLV
+VLEAMATHNVKTLIYSSTCATYGEPEKMPITEETPQFPINPYGKAKKMAEDIILDFSKSR
+KSDMSVMILRYFNVIGSDPEGRLGEAPPPELREHGRISGACFDAALGIIPGLKVKGTDYE
+TPDGTCVRDYIDVTDLVDAHVKALNKAERGKVGIYNVGTGRGRSVKEFVEACKKATGVDI
+KVDYFPRRPGDYAEVYSNPARINRELNWTAQHTELQESLRVAWTWQKKHRSGYGDSQRYI
+L
+
+
+PACMAD CONSENSUS:
+Length: 422 aa
+
+MLPTNRGRPQQRPARSWSFSEMVDFSDPKRKPRYLSKvVMAALLTAMCVVMLTQPPCHRR
+PtPSVFSIHEPGVTHVLVTGGAGYIGSHAALRLLKDSFRVTIVDNLSRGNIGAIKVLQNL
+FPEPGRLQFIQADLGDPKAVNRIFAENAFDAVMHFAAVAYVGESTLEPLRYYHNITANTL
+VVLEAMATHNVKTLIYSSTCATYGEPEKMPITEETPQFPINPYGKAKKMAEDIILDFSKS
+KKSDMAVMILRYFNVIGSDPEGRLGEAPRPELREHGRISGACFDAALGIIPGLKVKGTDY
+ETPDGTCVRDYIDVTDLVDAHVKALNKAERGRVGIYNVGTGKGRSVKEFVEACKKATGVD
+IKVDYFPRRPGDYAEVYSDPAKINRELNWTAQHTDLHESLRVAWTWQKAHRSGYEPPQAM
+IL
+
+================================================================================

@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM000529
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             318.0 aa
+Family Size (Extended Family Size): 39 (47) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31829:SF8
+Panther Family ID:               PTHR31829
+Modal Panther ID:                PTHR31829:SF8
+Modal Panther Description:       PDXS_SNZ N-TERMINAL DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR31829
+Modal Panther Fam Desc:          PYRIDOXAL 5'-PHOSPHATE SYNTHASE SUBUNIT SNZ1-RELATED
+Interpro Signature Accession:    cd04727; G3DSA:3.20.20.70:FF:000001; G3DSA:3.20.20.70; TIGR00343; NF003215; PTHR31829; PIRSF029271; PF01680; SSF51366
+Interpro Signature Description:  pdxS; Pyridoxine biosynthesis protein PDX1; Aldolase class I; pyridoxal 5'-phosphate synthase lyase subunit PdxS; PYRIDOXAL 5'-PHOSPHATE SYNTHASE SUBUNIT SNZ1-RELATED; Pdx1; SOR/SNZ family; Ribulose-phoshate binding barrel
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: probable pyridoxal 5'-phosphate synthase subunit PDX1.1
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu02H
+  Gene Products: probable pyridoxal 5'-phosphate synthase subunit PDX1.1
+Ata
+  Gene count: 2
+  Modal chromosome: Ata02D
+  Gene Products: probable pyridoxal 5'-phosphate synthase subunit PDX1.1
+Tae
+  Gene count: 6
+  Modal chromosome: Tae02A
+  Gene Products: probable pyridoxal 5'-phosphate synthase subunit PDX1.1
+Ola
+  Gene count: 4
+  Modal chromosome: Ola11
+Ogl
+  Gene count: 3
+  Modal chromosome: Ogl07
+  Gene Products: probable pyridoxal 5'-phosphate synthase subunit PDX1.1; probable pyridoxal 5'-phosphate synthase subunit PDX1.2
+  Gene Descriptions: probable pyridoxal 5'-phosphate synthase subunit PDX1.1; probable pyridoxal 5'-phosphate synthase subunit PDX1.2
+Osa
+  Gene count: 2
+  Modal chromosome: Osa07
+  Gene Products: probable pyridoxal 5'-phosphate synthase subunit PDX1.1; probable pyridoxal 5'-phosphate synthase subunit PDX1.2
+  Gene Synonyms: B1026C12.3,PDX11; OJ1136E01.11,PDX12
+  Gene Descriptions: probable pyridoxal 5'-phosphate synthase subunit PDX1.1; probable pyridoxal 5'-phosphate synthase subunit PDX1.2
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 3
+  Modal chromosome: Pau12
+  Gene Products: probable pyridoxal 5'-phosphate synthase subunit PDX1.1; probable pyridoxal 5'-phosphate synthase subunit PDX1.1%2C transcript variant X1
+  Gene Descriptions: probable pyridoxal 5'-phosphate synthase subunit PDX1.1
+Svi
+  Gene count: 2
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi02K
+  Gene Products: probable pyridoxal 5'-phosphate synthase subunit PDX1.1; probable pyridoxal 5'-phosphate synthase subunit PDX1.2
+Pha
+  Gene count: 2
+  Modal chromosome: Pha02
+  Gene Products: probable pyridoxal 5'-phosphate synthase subunit PDX1.1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: probable pyridoxal 5'-phosphate synthase subunit PDX1.1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: uncharacterized LOC100272732
+  Gene Synonyms: GRMZM2G120652
+  Gene Descriptions: uncharacterized LOC100272732
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 318 aa
+
+MASDGSGVVTVYGSGNNGAALLEPSQpKSATFSVKVGLAQMLRGGVIMDVVTPEQARIAE
+EAGACAVMALERVPADIRAQGGVARMSDPGLIRDIKRAVTIPVMAKARIGHFVEAQILEA
+IGVDYVDESEVLTLADDAHHINKHNFRVPFVCGCRDLGEALRRIREGAAMIRTKGEAGTG
+NVVEAVRHVRSVMGDVRALRNMDDDEVFaYAKRIAAPYDLVMQTKQLGRLPVVQFAAGGV
+ATPADAALMMQLGCDGVFVGSGIFKSGDPARRARAIVQAVTHYSDPNILAEVScGLGEAM
+VGINLSDPKVERFAARSE
+
+
+BOP CONSENSUS:
+Length: 315 aa
+
+MASDGSGVVTVYGSGNNGATLLEpKSSPFSVKVGLAQMLRGGVIMDVVTAEQARIAEEAG
+ACAVMALERVPADIRAQGGVARMSDPGLIRDIKRAVTIPVMAKARIGHFVEAQILEaIGV
+DYVDESEVLTLADDAHHINKHNFRVPFVCGCRNLGEALRRIREGAAMIRTKGEAGTGNVV
+EAVRHVRSVMGDIRALRSMDDDEVFSYAKSIAAPYDLVMQTKQLGRLPVVQFAAGGVATP
+ADAALMMQLGCDGVFVGSGIFKSGDPARRARAIVQAVTHYSDPNVLAEVSCDLGEAMVGI
+NLSDPKVERFAARSE
+
+
+PACMAD CONSENSUS:
+Length: 319 aa
+
+MASDGNGSGVVTVYGNNGAALLEPSKQsKSATFSVKVGLAQMLRGGVIMDVVTPEQARIA
+EEAGACAVMALERVPADIRAQGGVARMSDPGLIRDIKRAVTIPVMAKARIGHFVEAQILE
+AvGVDYVDESEVLTLADDAHHINKHNFRVPFVCGCRDLGEALRRVREGAAMIRTKGEAGT
+GNVVEAVRHVRSVMGDVRALRNMDDDEVFAYAKRIAAPYDLVMQTKQLGRLPVVQFAAGG
+VATPADAALMMQLGCDGVFVGSGIFKSGDPARRARAIVQAVTHYSDPNILADVSAGLGEA
+MVGINLNDPKVERFAARSE
+
+================================================================================

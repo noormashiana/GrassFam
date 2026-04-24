@@ -1,0 +1,110 @@
+================================================================================
+GrassFam ID: GFAM016685
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             346.0 aa
+Family Size (Extended Family Size): 28 (32) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11732:SF388
+Panther Family ID:               PTHR11732
+Modal Panther ID:                PTHR11732:SF388
+Modal Panther Description:       OXIDOREDUCTASE 2, PUTATIVE, EXPRESSED-RELATED
+Modal Panther Family ID:         PTHR11732
+Modal Panther Fam Desc:          ALDO/KETO REDUCTASE
+Interpro Signature Accession:    cd19124; G3DSA:3.20.20.100:FF:000014; G3DSA:3.20.20.100; PTHR11732; PIRSF000097; PR00069; PF00248; SSF51430
+Interpro Signature Description:  AKR_AKR4A_4B; NAD(P)-linked oxidoreductase superfamily protein; -; ALDO/KETO REDUCTASE; AKR; Aldo-keto reductase signature; Aldo/keto reductase family; NAD(P)-linked oxidoreductase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Ola
+  Gene count: 2
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl10
+  Gene Products: deoxymugineic acid synthase 1-D-like
+  Gene Descriptions: deoxymugineic acid synthase 1-D-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa10
+  Gene Products: deoxymugineic acid synthase 1-D
+  Gene Descriptions: deoxymugineic acid synthase 1-D
+Ecu
+  Gene count: 6
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau21
+  Gene Products: deoxymugineic acid synthase 1-A-like; deoxymugineic acid synthase 1-B-like%2C transcript variant X1
+  Gene Descriptions: deoxymugineic acid synthase 1-A-like; deoxymugineic acid synthase 1-B-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi09K
+  Gene Products: deoxymugineic acid synthase 1-A-like; deoxymugineic acid synthase 1-B-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha09
+  Gene Products: deoxymugineic acid synthase 1-A-like%2C transcript variant X1; deoxymugineic acid synthase 1-B-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi01
+  Gene Products: non-functional NADPH-dependent codeinone reductase 2; probable NAD(P)H-dependent oxidoreductase 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: NAD(P)H-dependent oxidoreductase
+  Gene Synonyms: GRMZM2G048121
+  Gene Descriptions: NAD(P)H-dependent oxidoreductase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 349 aa
+
+MAmAgsRGrataavaVPAVALSSGKPMPRVGfGTASfTLGqAEGrAGVtEAVLRALDAGY
+RHFDTAAVYNTEAALGDAVAEAVRAGTvASRDeLYVTSKLWIaDAHPGRVLPALrKTLQN
+LQMEYVDLYLIHfPVSMRPPeaEGgPVVVKkDLVaMDMKGVWEEMEECHRRGLAKAIGVS
+NFSCKKLEhLLSFAKIPPAANQVEVHPYCRQNKLREFCREKGIQLCAYSPLGGKGTPWAN
+NSVMDSPVLKQIAQDRGKTVAQVCIRWVYEQGDCVIVKSFNErRMRENLDIFDWELTDDD
+RRKISaLPESRGNYDFFVHESGPYKTveEFWDGEITAGQcnqTalVSsD
+
+
+BOP CONSENSUS:
+Length: 342 aa
+
+MAGRGVGSSAaArAtIPEAALSSGKPMPRVGMGTASFPLGAtDPATVRDAVLRAIDAGYR
+HFDTAAVYGTEAvLGEAVAEAVRAGMVASRDELYITSKLWvsDAHPGRVLPALRRTLRNL
+QMEYIDLYLIHFPVSMRvvEETPSPVYSKnDLVMMDMEGVWKEMEECQRLGLTKAIGVSN
+FSCKKLqTLLSFATIPPAANQVEVNPYCRQNKLREFCKEKGIQLCAYSPLGGKGTPWSNN
+AVMDCPVLKQIAMERGKTVAQVCLRWVYEQGDCIIVKSFNERRMRENLgIFDWELTDDDR
+HKIStLPEwRGvLDFFVHESGPYKTTDEFWDGEITGpQLKTP
+
+
+PACMAD CONSENSUS:
+Length: 347 aa
+
+MAAggarttaavaVPAVALSSGKPMPRVGFGTATATLGQAEGrAGVTEAVLRALDAGYRH
+FDTAAVYNTEAALGDAVAEAVRAGTIASRDDLYVTSKLWIaDAHPGRVLPALeKTLQNLQ
+MEYVDLYLIHhPVSMRPPaaEGgpVVVKKDLVAMDMKGVWEEMEECHRRGLArAIGVSNF
+SCKKLEHLLSFAKIPPAANQVEVHPYCRQNKLReFCREKGIQLCAYSPLGGKGTPWANNS
+VMDSPVLKQIAQDRGKTVAQVCIRWVYEQGDCVItKSFNErRMRENLDIFDWELTDDDRR
+KISaLPESRGNYDFFVHESGPYKTvEEFWDGEIVAGQCnqTaLVSsD
+
+================================================================================

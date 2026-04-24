@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM009459
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             401.0 aa
+Family Size (Extended Family Size): 37 (39) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31375:SF272
+Panther Family ID:               PTHR31375
+Modal Panther ID:                PTHR31375:SF272
+Modal Panther Description:       EXOPOLYGALACTURONASE
+Modal Panther Family ID:         PTHR31375
+Modal Panther Fam Desc:          FAMILY NOT NAMED
+Interpro Signature Accession:    G3DSA:2.160.20.10:FF:000004; G3DSA:2.160.20.10; PTHR31375; PF00295; SSF51126
+Interpro Signature Description:  Pectin lyase-like superfamily protein; -; Glycosyl hydrolases family 28; Pectin lyase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                2.70%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: exopolygalacturonase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu02H
+  Gene Products: exopolygalacturonase-like; exopolygalacturonase-like%2C transcript variant X2
+Ata
+  Gene count: 3
+  Modal chromosome: Ata02D
+  Gene Products: exopolygalacturonase%2C transcript variant X3; exopolygalacturonase-like
+Tae
+  Gene count: 9
+  Modal chromosome: Tae02A
+  Gene Products: exopolygalacturonase-like; exopolygalacturonase-like%2C transcript variant X2; exopolygalacturonase-like%2C transcript variant X3
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl08
+  Gene Products: exopolygalacturonase-like
+  Gene Descriptions: exopolygalacturonase-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa08
+  Gene Products: exopolygalacturonase
+  Gene Descriptions: exopolygalacturonase
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN50
+Pau
+  Gene count: 2
+  Modal chromosome: Pau16
+  Gene Products: exopolygalacturonase-like
+  Gene Descriptions: exopolygalacturonase-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi06K
+  Gene Products: exopolygalacturonase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: exopolygalacturonase-like
+Msi
+  Gene count: 4
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi07
+  Gene Products: exopolygalacturonase; exopolygalacturonase-like
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: exopolygalacturonase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 397 aa
+
+MEARPRLLvVVValLcVvSlCgavAGaaTyNVKNYGAKGNGVnDDTKALMAAWKAACGaA
+GAVTLVvPPGTYYIGPvQFHGPCKASTLTFlLQGTLKAATDLKRFGNDWIEFGWVNGLTV
+AGQNGGvIDGQGAASWPFNKCPvRKDCKVLPTSVLFVNNQNTVVRDiTSVNSKFFHIALL
+qnKNikMSGLrIsAPeNSPNTDGIHIERSaGVsIsDThIsTGDDCISIGQGNDNIDIARV
+hCGPGHGMSVGSLGRYVGEGDVTRVHVRDMTFtGTMNGVRIKTWENSPTKSlAAHMVFEN
+MVMKDVQNPIIIDQKYCPYYNCEHKYVSGVTIKDIQFKNIKGTaTTPVAVLLRCGVPCQG
+VVLQDVDLrYKGQGGTSSKCENAKAKYVGYQhPKPCp
+
+
+BOP CONSENSUS:
+Length: 409 aa
+
+MEARPRlLVVVvvaLCVVSLCggvAaAENVTVAQYHGAavTYNAKNYGAKGNGvtDDTKA
+LMAAWKAACGAaGTVTLvIPPGTYYIGPtQFHGPCKASAITFLLQGTLKAATDLKRFGND
+WIEFGWVKgLTVAGQNGAiIDGQGAASWPFNKCPIRKDCKVLPTSVLFVNNQNTVVRDIT
+SVNSKFFHIALLQNkNmKMsNLRINAPENSPNTDGIHIERsTGVvIsDTrISTGDDCISI
+GQGNDNIDIARVHCGPGHGMSVGSLGRYVGEGDVTRVHVrDMTFdGTMNGVRIKTWENSP
+TKSLAAHMLFENMVMKDVQNPIIIDQKYCPYYNCEHKYVSGVTIKDITFKNIKGTSSLPV
+AVLLRCGVPCQGVVLQDVDLKYKGqGGTSSKCENAkAKYVGYQHPKPCp
+
+
+PACMAD CONSENSUS:
+Length: 390 aa
+
+MEARPRLLLVVVALlASvSAGGAAViNVKNYGAKGNGVNDDTKPLMtAWKAACGSAGAVT
+MVVPPGTYYIGPVQFHGPCKASTLTFQLQGTLKAATDLKRFGNDWIEFGWVNGLTVAGGV
+IDGQGAASWPFNKCPVRKDCKVLPTSVLFVNNQNTVVRDVTSVNPKFFHIALLSvKNIRM
+SGLKISAPSNSPNTDGIHIERSAGVsIMDTHIATGDDCISIGQGNDNVDVARVQCGPGHG
+MSVGSLGRYAGEGDVTRVHVRDMTFTGTMNGVRIKTWENSPTKSnAAHMVFENLVMkDVQ
+NPIIIDQKYCPYYNCEHKYVSGVTIkDIQFKNIKGTATTPVAVLLRCGVPCQGLVLQDVD
+LRYKGQGGTSAKCENAKAKYVGYQFPKPCP
+
+================================================================================

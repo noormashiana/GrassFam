@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM011412
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             581.0 aa
+Family Size (Extended Family Size): 21 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR21371:SF22
+Panther Family ID:               PTHR21371
+Modal Panther ID:                PTHR21371:SF22
+Modal Panther Description:       KETOL-ACID REDUCTOISOMERASE
+Modal Panther Family ID:         PTHR21371
+Modal Panther Fam Desc:          KETOL-ACID REDUCTOISOMERASE, MITOCHONDRIAL
+Interpro Signature Accession:    G3DSA:1.10.1040.10:FF:000015; G3DSA:3.40.50.720:FF:000146; G3DSA:1.10.1040.10; G3DSA:3.40.50.720; PTHR21371; PIRSF000118; PF07991; PF01450; SSF51735; SSF48179
+Interpro Signature Description:  Ketol-acid reductoisomerase; -; KETOL-ACID REDUCTOISOMERASE, MITOCHONDRIAL; Ilv5_plant; Acetohydroxy acid isomeroreductase, NADPH-binding domain; Ketol-acid reductoisomerase, C-terminal domain; NAD(P)-binding Rossmann-fold domains; 6-phosphogluconate dehydrogenase C-terminal domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: ketol-acid reductoisomerase%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: ketol-acid reductoisomerase%2C chloroplastic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: ketol-acid reductoisomerase%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: ketol-acid reductoisomerase%2C chloroplastic; ketol-acid reductoisomerase%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: ketol-acid reductoisomerase%2C chloroplastic
+  Gene Descriptions: ketol-acid reductoisomerase%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: ketol-acid reductoisomerase%2C chloroplastic-like
+  Gene Synonyms: OJ1735_C10.18
+  Gene Descriptions: ketol-acid reductoisomerase%2C chloroplastic-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau11
+  Gene Products: ketol-acid reductoisomerase%2C chloroplastic
+  Gene Descriptions: ketol-acid reductoisomerase%2C chloroplastic
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: ketol-acid reductoisomerase%2C chloroplastic; ketol-acid reductoisomerase%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: ketol-acid reductoisomerase%2C chloroplastic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: ketol-acid reductoisomerase%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: ketol-acid reductoisomerase%2C chloroplastic-like
+  Gene Descriptions: ketol-acid reductoisomerase%2C chloroplastic-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 582 aa
+
+MAAPTSAASTLAFgHPKTLAAAAAAPKTLPAsSSVSFPAsQPAClLSASARRRDVAAMVA
+APPAVGTAMPSLDFDTSVFNKEKVSLAGHEEYIVRGGRNLFPLLPEAFKGVKQIGVIGWG
+SQGPAQAQNLRDSLAEAKSDIVVKIGLRKGSKSFEEARAAGFTEEnGTLGDIWETVSGSD
+LVLLLISDAAQADNYEKIFSHMKPNSILGLSHGFLLGHLQSlGLDFPKNISVIAVCPKGM
+GPSVRRLYVQGKEVNGAGINSSFAVHQDVDGRATDVALGWSVALGSPFTFATTLEQEYKS
+DIFGERGILLGAVHGIVEALFRRYTEQGMDEESAYKNTVEGITGIISKTISKKGMLEVYN
+SLSEEGKKEFNKAYSASFYPCMDILYECYEDVASGSEIRSVVLAGRRFYEKEGLPAFPMG
+NIDQTRMWKVGEKVRSTRPDGDLGPLHPFTAGVYIALMMAQIEVLRKKGHSYSEIINESV
+IESVDSLNPFMHARGVAFMVDNCSTTARLGSRKWAPRFDYILTQQAFVTVDKDAPINQDL
+ISNFMSDPVHGAIEVCAELRPTVDISVPANADFVRPELRQSS
+
+
+BOP CONSENSUS:
+Length: 579 aa
+
+MAAPTSSAASTLAFSHPKTLAAAAAaaPAsSSVAFSASHPACALsATRRRAVAAMVAAPA
+KVGAAMPSLDFDTAVFNKEKVSLAGHEEYIVRGGRNLFPLLPEAFKGVKQIGVIGWGSQG
+PAQAQNLRDSLVEAKSDIVVKIGLRKGSKSFEEARGAGFTEENGTLGDIWETVSGSDLVL
+LLISDSAQADNYEKIFSHMKPNSILGLSHGFLLGHLQSHGLDFPKNISVVAVCPKGMGPS
+VRRLYVQGKEVNGAGINASFAVHQDVDGRATDVALGWSVALGSPFTFATTLEQEYKSDIF
+GERGILLGAVHGIVEALFRRYTEQGMDEELAYKSTVEGITGIISKTISKKGMLEVYNSLS
+EEGKKEFNKAYSASFYPCMDILYECYEDVASGSEIRSVVLAGRRFYDKEGLPAFPMGKID
+QTRMWKVGEKVRSTRPDGDLGPLHPFTAGVYVALMMAQIEVLRKKGHSYSEIINESVIES
+VDSLNPFMHARGVAFMVDNCSTTARLGSRKWAPRFDYILTQQAFVTVDKDEPINQDLISN
+FMSDPVHGAIEVCAELRPTVDISVTADADFVRPELRQSS
+
+
+PACMAD CONSENSUS:
+Length: 583 aa
+
+MAAqTSAASTLAFGHPKTLAAAAAGPKTLPAsSSVSFPATQPACLLSASAARRRDVAAMV
+SAPPAVGTAMPSLDFETSVFKKEKVSLAGHEEYIVRGGRNLFPLLPEAFKGVKQIGVIGW
+GSQGPAQAQNLRDSLAEAKSDIVVKIGLRKGSKSFEEARAAGFTEESGTLGDIWETVSGS
+DLVLLLISDAAQADNYEKIFSHMKPNSILGLSHGFLLGHLQSLGLDFPKNISVIAVCPKG
+MGPSVRRLYVQGKEVNGAGINSSFAVHQDVDGRATDVALAWSVALGSPFTFATTLEQEYK
+SDIFGERGILLGAVHGIVEALFRRYTEQGMDEESAYKNTVEGITGIISKTISKKGMLEVY
+NSLSEEGKKEFNKAYSASFYPCMDILYECYEDVASGSEIRSVVLAGRRFYEKEGLPAFPM
+GNIDQTRMWKVGEKVRSTRPEGDLGPLHPFTAGVYIALMMAQIEILRKKGHSYSEIINES
+VIESVDSLNPFMHARGVAFMVDNCSTTARLGSRKWAPRFDYILTQQAFVTVDKDAPINQD
+LISNFMSDPVHGAIEVCAELRPTVDISVPANADFVRPELRQSS
+
+================================================================================

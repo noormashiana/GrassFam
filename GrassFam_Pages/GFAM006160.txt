@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM006160
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             328.0 aa
+Family Size (Extended Family Size): 48 (57) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43139:SF42
+Panther Family ID:               PTHR43139
+Modal Panther ID:                PTHR43139:SF42
+Modal Panther Description:       AB HYDROLASE-1 DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR43139
+Modal Panther Fam Desc:          SI:DKEY-122A22.2
+Interpro Signature Accession:    G3DSA:3.40.50.1820; PTHR43139; SSF53474
+Interpro Signature Description:  alpha/beta hydrolase; SI:DKEY-122A22.2; alpha/beta-Hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 3
+  Modal chromosome: Bdi04
+  Gene Products: 2-hydroxy-6-oxononadienedioate/2-hydroxy-6-oxononatrienedioate hydrolase; 2-hydroxy-6-oxononadienedioate/2-hydroxy-6-oxononatrienedioate hydrolase%2C transcript variant X1; putative 2-succinyl-6-hydroxy-2%2C4-cyclohexadiene-1-carboxylate synthase
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 7
+  Modal chromosome: Hvu03H
+  Gene Products: 2-hydroxy-6-oxononadienedioate/2-hydroxy-6-oxononatrienedioate hydrolase-like; epoxide hydrolase 3-like; putative 2-succinyl-6-hydroxy-2%2C4-cyclohexadiene-1-carboxylate synthase%2C transcript variant X1; uncharacterized LOC123398032; uncharacterized LOC123441183
+Ata
+  Gene count: 5
+  Modal chromosome: Ata03D
+  Gene Products: 2-hydroxy-6-oxononadienedioate/2-hydroxy-6-oxononatrienedioate hydrolase-like%2C transcript variant X1; epoxide hydrolase 3; lipase 1-like; putative aminoacrylate hydrolase RutD; uncharacterized LOC109755421
+Tae
+  Gene count: 11
+  Modal chromosome: Tae03A
+  Gene Products: 2-hydroxy-6-oxononadienedioate/2-hydroxy-6-oxononatrienedioate hydrolase-like; epoxide hydrolase 3-like; putative aminoacrylate hydrolase RutD; uncharacterized LOC123125447
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: uncharacterized LOC127753901
+  Gene Descriptions: uncharacterized LOC127753901
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4326572
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 1
+  Modal chromosome: Pau02
+  Gene Products: uncharacterized LOC133908331
+  Gene Descriptions: uncharacterized LOC133908331
+Svi
+  Gene count: 3
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: epoxide hydrolase 3-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha02
+  Gene Products: biotin biosynthesis bifunctional protein BioHC-like; epoxide hydrolase 3-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi02
+  Gene Products: epoxide hydrolase 3; epoxide hydrolase 3%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: uncharacterized LOC100283518
+  Gene Synonyms: GRMZM2G037322
+  Gene Descriptions: uncharacterized LOC100283518
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 333 aa
+
+MVNLVEAQKPLLHFLIRRAGLRQHTVDVDGAGTVITFWVPKDKVPKdKsTVRDITPEAAa
+ApaAKKqskTKAaaKkdRPAVVLVHGFAAEGIVTWQFQVGVLAKHYDVYVPDLLYFGGST
+SPSTDRSPGFQAECLAAALRKLGVerCTVVGFSYGGMVSFKMAESHPDLVRSLVVSGSVV
+AMTDSISETTLERIGVKSSAELLLPESVKGLKALLSIATHRKLWFPDRLHRDYLEVMFTN
+RKERAELLEGLVVSNKDATVPVLPQKILLLWGENDNIFNIELAKTMKEQLGEKTMLQSId
+KAGHLVHLERPCVYNRrLKEFLAYVTAEAsKEs
+
+
+BOP CONSENSUS:
+Length: 329 aa
+
+MVNLVEAQKPLLHFLIRRAGLRQHTVDVDGAGTVLTFWVPKDKVPKDKSTVREITPEAAA
+PAskKQSkTKAkarRPSVVLVHGFAAEGIVTWQFQAGVLAKHYDVYIPDLLYFGGSTSPS
+TDRSPGFQAECLAAALGKLGVERCTVVGFSYGGMVAFKMAESRPDLVRSLVVSGSVVAMT
+DSISETTLERIGVKSSAELLLPESVKGLKALLSIAAHRKLWFPERLHRDYLEVMFTNRKE
+RAELLEGLVVSNKDATVPVLPQKILLLWGHNDNIFNIELAKTMKEQLGEKTMLQSIDKAG
+HLVHLERPCVYNRRLmEFLAYVtAEASKE
+
+
+PACMAD CONSENSUS:
+Length: 335 aa
+
+MVNLVEAQKPLLHFLVRRAGLRQHTVDVDGAGTVITFWVPKDKVPKEKPTVRDITPGPAs
+AdtATNKLPPpPaAAaKKDRPAVVLVHGFAAEGIVTWQFQVGVLAKHYDVYVPDLLYFGG
+STSPSTDRSPGFQAECLATALRKLGVGpCTVVGFSYGGMVSFKMAEAHPDLVRSLVVSGS
+VVAMTDSISETTLERIGVKSSAELLLPESVKGLKALLSIATYRKLWFPDRLHRDYLEVMF
+TNRKERAELLEGLVVSNKDATVPVLPQKILLLWGENDNIFNIELAKTMKEQLGEKTMLQS
+ISKAGHLVHLERPCVYNRrLKEFLASVTAtETPkq
+
+================================================================================

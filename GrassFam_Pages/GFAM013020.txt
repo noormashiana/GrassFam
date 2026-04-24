@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM013020
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             388.0 aa
+Family Size (Extended Family Size): 21 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12755:SF20
+Panther Family ID:               PTHR12755
+Modal Panther ID:                PTHR12755:SF20
+Modal Panther Description:       OS01G0184000 PROTEIN
+Modal Panther Family ID:         PTHR12755
+Modal Panther Fam Desc:          CLEAVAGE/POLYADENYLATION FACTOR IA SUBUNIT CLP1P
+Interpro Signature Accession:    G3DSA:3.40.50.300:FF:001377; G3DSA:3.40.50.300; PTHR12755; PF25467; PF16575
+Interpro Signature Description:  Nucleolar protein 9; -; CLEAVAGE/POLYADENYLATION FACTOR IA SUBUNIT CLP1P; NOL9-like, C-terminal domain; mRNA cleavage and polyadenylation factor CLP1 P-loop
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: polynucleotide 5'-hydroxyl-kinase NOL9
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: polynucleotide 5'-hydroxyl-kinase NOL9-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: polynucleotide 5'-hydroxyl-kinase NOL9
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: polynucleotide 5'-hydroxyl-kinase NOL9-like; polynucleotide 5'-hydroxyl-kinase NOL9-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: polynucleotide 5'-hydroxyl-kinase NOL9-like
+  Gene Descriptions: polynucleotide 5'-hydroxyl-kinase NOL9-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: polynucleotide 5'-hydroxyl-kinase NOL9
+  Gene Descriptions: polynucleotide 5'-hydroxyl-kinase NOL9
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 1
+  Modal chromosome: Pau01
+  Gene Products: polynucleotide 5'-hydroxyl-kinase NOL9-like%2C transcript variant X1
+  Gene Descriptions: polynucleotide 5'-hydroxyl-kinase NOL9-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi05N
+  Gene Products: polynucleotide 5'-hydroxyl-kinase NOL9-like; polynucleotide 5'-hydroxyl-kinase NOL9-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: polynucleotide 5'-hydroxyl-kinase NOL9
+Msi
+  Gene count: 3
+  Modal chromosome: Msi06
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: polynucleotide 5'-hydroxyl-kinase NOL9%2C transcript variant X3
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: Polynucleotide 5'-hydroxyl-kinase NOL9
+  Gene Synonyms: GRMZM2G083763
+  Gene Descriptions: Polynucleotide 5'-hydroxyl-kinase NOL9
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 388 aa
+
+MAGARATPTRTPPRtSSPAPRtEVVVPPDWASAvtlVSSdpTPPVVVVCGPKNSGKSTFS
+RLLLNALLPRYGRVGYLDTDVGQPEFsPPGCLSFHVVDEAIADLLNPTLREAERCCFFGD
+ISSKRDPEaYLNCLFHLYDYFVGKYRCdeNEMLPLIVNTPGWVKGAGFDMLVEMLRYICP
+TIVVQIRITmQSKNLPDGMFWLDGGQTGPKMINIDAAFHDALNRSLLIQKDSgGMRERRL
+VEYLKQCFPSNISLSTNKELAYALASLPPYQVpFSDVTVvHLHCEVPAGEIWRSLNATIV
+GLAiSctSEAarSIPwCVGLGIVRGiDVQKGLLYVITPVPLERLQSVDLLQQGLIEIPTS
+LLQVRGCVSPYMSTNVLHKISERDLYAG
+
+
+BOP CONSENSUS:
+Length: 427 aa
+
+MKHRRRSKQQKLDSLPPPASPAtRAPCPMPSPSASPKSPAPATPPPEQAPEVVVPpDWAl
+ATavISSDLSSPVVLVCGPSNSGKSTFTRLLLNKLLPSYGRVGYLDTDVGQPEFSPPGCL
+SLHIVDEAIADMlNPVLREAERCCFYGDISSKGDPESYLNSLFLLYnYFVEKYRCPGSEV
+LPLIVNTPGWVKGTGFDMLVEMLRYICPTIVVPIRTRMQRKNLPDGMFWLTGGETEPKVI
+TIDAASRDSLSKSSLKRKDGGGMRERRLVEYFKQCFSSDISLATNKELAYALASLPPYEV
+SFSDVTVMHLHCEVPRTEIWHSLNATIVGLAsSCDTPATAHAIPWCVGLGIvRGIDVQRG
+LLYVITPVpvEHLQsVDLLLQGLIEIPRSLLQVKGCvSPYMSTNVRDKITGKDLYASNLN
+SPLSRQM
+
+
+PACMAD CONSENSUS:
+Length: 388 aa
+
+MAGARATPTRTPPRPSSPAPRTEAVVPPDWASAVTLVSSHPTPPVVVVCGPKNSGKSTFS
+RILLNALLPRHGKVGYLDTDVGQPEFGPPGCLSFHVVDEAIaDLLNPTLREAERCCFFGD
+ISSKRDPEAYLNCLFHLYDYFVGKYRCDENEMLPLIVNTPGWVKGAGFDMLVEMLRYICP
+TIVVQIRITmQSKNLPDGMFWLDGEQTGPKMININAAFHDASNRSLLIQKDSCGMRERRL
+VEYLKQCFPSNISLSTNKELAYALASLPPYQVPFSDVTVVHLHCEVPAGEIWRSLNATIV
+GLAVSNASEATRSIPYCVGLGIVRGVDVQKGLLYVITPVPLqRLQSVDLLQQGLIEIPTT
+LLQVRGCVSPYMSTNVLHKISERDLYAG
+
+================================================================================

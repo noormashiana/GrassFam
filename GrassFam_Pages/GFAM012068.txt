@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM012068
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             464.0 aa
+Family Size (Extended Family Size): 26 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11808:SF91
+Panther Family ID:               PTHR11808
+Modal Panther ID:                PTHR11808:SF91
+Modal Panther Description:       METHIONINE GAMMA-LYASE
+Modal Panther Family ID:         PTHR11808
+Modal Panther Fam Desc:          TRANS-SULFURATION ENZYME FAMILY MEMBER
+Interpro Signature Accession:    cd00614; G3DSA:3.90.1150.10:FF:000087; G3DSA:3.40.640.10:FF:000046; G3DSA:3.40.640.10; G3DSA:3.90.1150.10; PTHR11808; PIRSF001434; PF01053; SSF53383
+Interpro Signature Description:  CGS_like; Putative methionine gamma-lyase; Cystathionine gamma-lyase; -; Aspartate Aminotransferase, domain 1; TRANS-SULFURATION ENZYME FAMILY MEMBER; CGS; Cys/Met metabolism PLP-dependent enzyme; PLP-dependent transferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: methionine gamma-lyase
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: methionine gamma-lyase
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: methionine gamma-lyase
+Tae
+  Gene count: 6
+  Modal chromosome: Tae06B
+  Gene Products: methionine gamma-lyase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: methionine gamma-lyase
+  Gene Descriptions: methionine gamma-lyase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: methionine gamma-lyase
+  Gene Descriptions: methionine gamma-lyase
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau21
+  Gene Products: methionine gamma-lyase-like
+  Gene Descriptions: methionine gamma-lyase-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: methionine gamma-lyase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: methionine gamma-lyase
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: methionine gamma-lyase
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: O-succinylhomoserine sulfhydrylase; methionine gamma-lyase
+  Gene Synonyms: GRMZM2G450498
+  Gene Descriptions: O-succinylhomoserine sulfhydrylase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 468 aa
+
+MAQvMAAASELVTLKRPFqNDGFGDgNGGsADEKPKARRREADPAAALAAARHEFGEHGG
+VNMSIEASATFTVMEPDTMRRLFAGELGPDRGDMYIYSRHFNPTVLALGRQMAALEGTEA
+AYCTASGMSAISSVLMQLVGAGGHVVASRCLYGGTHALLSRFLPRTSGVRATFVDADDEA
+AVRAAVVPGETRVVYVETMSNPTLAVADIPMLARVAHEAGAKLVVDNTFTPVVVSPARLG
+ADVVVHSVSKFISGGADIIAGAICGPASLVNAMMDLQDGALMLLGPTMNAKVAFELSERL
+PHLPLRMQEHSRRAlAFAaRMQRLGLRVlYPGLPDHPHHARLAAMGNPGYGsGGMLCVDM
+GTEERANRLMHHLQNTTQFGLMAVSLGYYETLMSCSGSSTSSEMPPEDRARAGISPGLVR
+MSVGYNGTLEQRWAQFERALALMQPPtPpHHlAAAdRDgdAgNNHRKH
+
+
+BOP CONSENSUS:
+Length: 460 aa
+
+MAHVLAAAEPlTLLKRPPPQNDGFGDDNGStDEKAPKARRRESDPAAALAAARHEFGEHG
+GVNMSIEASATFTVMEPDTMRRLFAGELGPERGDLYIYSRHFNPTVLALGRQMAALEGTE
+AAYCTASGMSAISSVLMQLVGAGGHVVASRCLYGGTHALLSRFLPRTSGVsATFVDADDE
+AAVRAAVRPGETRVVYVETMSNPTLAVADIPMLARVAHEAGAKLVVDNTFTPVVVSPARL
+GADVVVHSVSKFISGGADIIAGAICGPASLVNsMMDLQDGALMLLGPTMNAKVASELAaR
+LPHLPLRMQEHSRRAAEFAARMRRLGLRVTYPGLPDHPHHARLRAMGNPGYGAGGMLCVD
+MGTEERANRLMHHLQNTTQFGLMAVSLGYYETLMSCSGSSTSSEMDPEDRARAGISPGLI
+RMSVGYNGTLEQRWAQFERALALMQQQDtpAAAAKYCKAV
+
+
+PACMAD CONSENSUS:
+Length: 473 aa
+
+MAQAMAAASELVTLKRPFGNDGFGDGNNGgvADEKPKARRREADPAAALAAARHEFGEHG
+GVNMSIEASATFTVMEPDTMRRLFAGELGPDRGDMYIYSRHFNPTVLALGRQMAALEGTE
+AAYCTASGMSAISSVLMQLVGAGGHVVASRCLYGGTHALLSRFLPRASGVRATFVDADDE
+AAVRAAVVPGETRVVYVETMSNPTLAVADIPMLARVAHEAGAKLVVDNTFTPVVVSPARL
+GADVVVHSVSKFISGGADIIAGAICGPASLVNAMMDLQEGALMLLGPTMNAKVAFELSER
+LPHLPLRMQEHSRRALAFAtRMQRLGLRVLYPGLPDHPHHARLAAMGNPGYGSGGMLCVD
+MGTEDRANRLMHHLQNTTQFGLMAVSLGYYETLMSCSGSSTSSEMPPEDRARAGISPGLV
+RMSVGYNGTLEQRWAQFERALALMQPPtPtHHKnGAAADRDgpDAGtNNHRKH
+
+================================================================================

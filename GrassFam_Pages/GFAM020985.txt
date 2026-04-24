@@ -1,0 +1,120 @@
+================================================================================
+GrassFam ID: GFAM020985
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             423.0 aa
+Family Size (Extended Family Size): 16 (18) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43725:SF43
+Panther Family ID:               PTHR43725
+Modal Panther ID:                PTHR43725:SF43
+Modal Panther Description:       UDP-GLUCOSE 4-EPIMERASE 2
+Modal Panther Family ID:         PTHR43725
+Modal Panther Fam Desc:          UDP-GLUCOSE 4-EPIMERASE
+Interpro Signature Accession:    cd05247; G3DSA:3.90.25.10:FF:000078; G3DSA:3.40.50.720:FF:000040; G3DSA:3.90.25.10:FF:000060; G3DSA:3.40.50.720; G3DSA:3.90.25.10; NF007956; TIGR01179; PTHR43725; PF16363; SSF51735
+Interpro Signature Description:  UDP_G4E_1_SDR_e; Delta-1-pyrroline-5-carboxylate synthase B; UDP-glucose 4-epimerase; UDP-glucose 4-epimerase 4; -; UDP-glucose 4-epimerase GalE; UDP-GLUCOSE 4-EPIMERASE; GDP-mannose 4,6 dehydratase; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: UDP-glucose 4-epimerase 2%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl08
+  Gene Products: UDP-glucose 4-epimerase 2%2C transcript variant X1
+  Gene Descriptions: UDP-glucose 4-epimerase 2
+Osa
+  Gene count: 1
+  Modal chromosome: Osa08
+  Gene Products: UDP-glucose 4-epimerase 2-like
+  Gene Synonyms: OsUGE-2,UGE-2
+  Gene Descriptions: UDP-glucose 4-epimerase 2-like
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN50
+Pau
+  Gene count: 2
+  Modal chromosome: Pau16
+  Gene Products: UDP-glucose 4-epimerase 2%2C transcript variant X1; UDP-glucose 4-epimerase 2-like
+  Gene Descriptions: UDP-glucose 4-epimerase 2; UDP-glucose 4-epimerase 2-like
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: UDP-glucose 4-epimerase 2; UDP-glucose 4-epimerase 2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: UDP-glucose 4-epimerase 2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: UDP-glucose 4-epimerase 2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100284107
+  Gene Synonyms: gpm440,GRMZM2G136439,GRMZM2G469523
+  Gene Descriptions: uncharacterized LOC100284107
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 424 aa
+
+MAVEKTvPGAnAAGRTVLVTGGAGYIGSHAVLQLLLAGFRAVVVDNLNNSSELAVRRVAA
+LAGDHSRNLSFHKIDLRDKGALEMVFASTRFDAVVHFAGLKAVGESVQKPLLYYDNNVIG
+TINLLEVMSAHGCKKLVFSSSAAVYGSPKNSPCTEEFPLTPNNPYGKTKLVVEDICRDIY
+RSDPEWKIILLRYFNPVGAHPSGYLGEDPCGIPNNLMPYVQQVAVGRRPALTVLGNDYAT
+RDGTGVRDYIHVVDLADGHIAALQKLFENSSIGCEAYNLGTGRGTSVLEIVKAFEKASGK
+KIPLIIGPRRPGDAEILFSeTAKAERELNWKAKYGIEEMCRDQWNWASKNPYGYGSPDST
+KQNGHQTNGSADSpKQNGHHTNGStdSPRRNGHyGYGSADSPKRNGHYvYGSSDsKQNGN
+GHLr
+
+
+BOP CONSENSUS:
+Length: 409 aa
+
+MAVEKTVPGAAVRTVLVTGGAGYIGSHAVLQLLLAGFRAVVVDNLNNSSELAVRRVAALA
+GDHSRNLSFHKIDLRDKGALEKVFASTRFDAVVHFAGLKAVGESVQKPLLYYDNNVNGTV
+NLLEVMSAHGCKKLVFSSSAAVYGSPKNSPCTEEFPLTPNNPYGKTKLVVEDICRDIYRT
+DPEWKIILLRYFNPVGAHPSGYLGEDPCGIPNNLMPYVQQVAVGRRPALTILGNDYATRD
+GTGVRDYIHVVDLADGHIAALQKLFESSSIGCEAYNLGTGKGTSVLEIVKAFEKASGKKI
+PLIIGPRRPGDAEILFSsTAKAERELNWKAKFGIDEMCRDQWNWASKNPYGYGSlDSIKQ
+NGHHGYGStDsPKQNGHHTNGFSESTRHNGHNGYGsvDSAKQNGNGHLH
+
+
+PACMAD CONSENSUS:
+Length: 424 aa
+
+MAVEKTlPGAnAAGRTVLVTGGAGYIGSHAVLQLLLAGFRAVVVDNLNNSSELAVRRVAA
+LAGDHSRNLSFHKIDLRDKGALEMVFASTRFDAVVHFAGLKAVGESVQKPLLYYDNNVIG
+TINLLEVMSAHGCKKLVFSSSAAVYGSPKNSPCTEEFPLTPNNPYGKTKLVVEDICRDIY
+RSDPEWKIILLRYFNPVGAHPSGYLGEDPCGIPNNLMPYVQQVAVGRRPALTVLGNDYAT
+RDGTGVRDYIHVVDLADGHIAALQKLFENSSIGCEAYNLGTGRGTSVLEIVKAFEKASGK
+KIPLIFGeRRPGDAEILFSeTAKAERELNWKAKYGIEEMCRDQWNWASKNPYGYGSPDST
+KQNGHQTNGSADSSKQNGHHTNGSTDSPKRNGHyAYGSADSPKRNGHYVYGSSDSKQNGN
+GHLr
+
+================================================================================

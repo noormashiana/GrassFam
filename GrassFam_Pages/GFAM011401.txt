@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM011401
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             372.5 aa
+Family Size (Extended Family Size): 34 (35) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46407:SF22
+Panther Family ID:               PTHR46407
+Modal Panther ID:                PTHR46407:SF22
+Modal Panther Description:       KELCH MOTIF FAMILY PROTEIN, EXPRESSED
+Modal Panther Family ID:         PTHR46407
+Modal Panther Fam Desc:          OS02G0208700 PROTEIN
+Interpro Signature Accession:    G3DSA:2.120.10.80; PTHR46407; SSF117281
+Interpro Signature Description:  -; OS02G0208700 PROTEIN; Kelch motif
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi04
+  Gene Products: F-box/kelch-repeat protein At2g44130
+Lpe
+  Gene count: 4
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu04H
+  Gene Products: F-box/kelch-repeat protein At2g44130-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata04D
+  Gene Products: F-box/kelch-repeat protein At2g44130
+Tae
+  Gene count: 6
+  Modal chromosome: Tae04A
+  Gene Products: F-box/kelch-repeat protein At2g44130-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: F-box/kelch-repeat protein At2g44130-like
+  Gene Descriptions: F-box/kelch-repeat protein At2g44130-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: F-box/kelch-repeat protein At2g44130
+  Gene Descriptions: F-box/kelch-repeat protein At2g44130
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 2
+  Modal chromosome: Pau12
+  Gene Products: F-box/kelch-repeat protein At2g44130-like
+  Gene Descriptions: F-box/kelch-repeat protein At2g44130-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi08K
+  Gene Products: F-box/kelch-repeat protein At2g44130-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: F-box/kelch-repeat protein At2g44130-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi10
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi05
+  Gene Products: F-box/kelch-repeat protein At2g44130
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: F-box/kelch-repeat protein At2g44130-like; F-box/kelch-repeat protein SKIP20
+  Gene Synonyms: GRMZM2G025783; GRMZM5G870077
+  Gene Descriptions: F-box/kelch-repeat protein At2g44130-like; F-box/kelch-repeat protein SKIP20
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 376 aa
+
+MRNPKSRvqECegavEHVDLIPGMPDDVAVDCLARVPHASHRAMRRVCRGWRSAAAAPAF
+AsARAEAGANEDLVYLLQFGNPsAAADDGPKDGDAPANtPAYGVAVYNVTTGEWRRErgA
+PPVPMFAQCAAVGTRLAVLGGWDPrTFEPVADVHVLDAATGVWRRGAPMRSARSFFACAE
+AGGKIYVAGGHDKHKNALKTAEAYDAgADAWDPLPDMSEERDECDGMATVAGDRFLAVSG
+YRTARQGGFERDAEWFDPAAREWRRLERVRAPPSAAHVVVRGRVWCIEGTAVMEWrGERR
+GWREVGPYPPGLKAGTARAVCVGGGERVVVTGAIEsEGGGGRHALWVFDVKSKNWTVVRP
+PPEFAGFVFSVASVRI
+
+
+BOP CONSENSUS:
+Length: 368 aa
+
+MRNPKSRVQEceVEHIDLIPGMPDDVAVDCLARVPHGSfRSMRRVCRGWRSAAAAPdFAL
+ARAEAGANEDLVFLLQFGNPAAGDdaAPENapAYGVAVYNVTTGEWHREsAAPPVPMFAQ
+CAAVGTRLAVLGGWDPKTFEPVADVHVLDAATGVWRRGAPMRSARSFFACAEAGGKIYVA
+GGHDKLKNALKTAEAYDAgADAWDPLPDMSEERDECDGMATVAGDRFLAVSGYRTGRQGG
+FERDAEWFDPATREWRRLERVRAPPSAAHVVVRGRVWCIEGTAVMEWRGERRGWREVGPY
+PPGLKAGTARAVAVGGGERVVVTGAIESEGGGGGHALWVFDVKSKNWTVVRPPPQFAGFV
+FSvASVRV
+
+
+PACMAD CONSENSUS:
+Length: 376 aa
+
+MRSPRGGGGrGGqqEHVDLIPGIPDDVAVDCLARVPHASHRALRRVCRGWRSAAAAPAFA
+SARAAAGANEDLVYLLQFGNPSAADDDGPKDDDgPANTPAYGVAVYNVTTGEWRRERGAP
+PVVPVFAQCAAVGTRLAVLGGWDPRTFEPVADVHVLDAATGrWRRGAPMRSARSFFACAE
+AGGKIYVAGGHDKHKNALKTAEAYDAgADAWDPLPDMSEERDECDGMATVAGDRFLAVSG
+YRTARQGGFERDAEWFDPAARAWRRLERVRAPPSAAHVVVRGRVWCIEGNAVMEWMGTRR
+GWREVGPYPPGLKAGTARAVCVGGGEKVVVTGALDGEGGGGRHALWVFDVKTKSWTVVRP
+PPEFAGFVFSVASVRI
+
+================================================================================

@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM017661
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             400.0 aa
+Family Size (Extended Family Size): 21 (27) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12689:SF4
+Panther Family ID:               PTHR12689
+Modal Panther ID:                PTHR12689:SF4
+Modal Panther Description:       PROTEIN AAR2 HOMOLOG
+Modal Panther Family ID:         PTHR12689
+Modal Panther Fam Desc:          A1 CISTRON SPLICING FACTOR AAR2-RELATED
+Interpro Signature Accession:    cd13778; cd13777; G3DSA:1.25.40.550:FF:000002; G3DSA:2.60.34.20:FF:000001; G3DSA:2.60.34.20; G3DSA:1.25.40.550; PTHR12689; PF20981; PF05282
+Interpro Signature Description:  Aar2_C; Aar2_N; AAR2 protein family; protein AAR2 homolog; -; A1 CISTRON SPLICING FACTOR AAR2-RELATED; AAR2 N-terminal domain; AAR2 C-terminal repeat region
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: protein AAR2 homolog%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: protein AAR2 homolog
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: protein AAR2 homolog
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: protein AAR2 homolog; protein AAR2 homolog%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: uncharacterized LOC127771730%2C transcript variant X2
+  Gene Descriptions: uncharacterized LOC127771730
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: uncharacterized protein%2C transcript variant X2
+  Gene Descriptions: uncharacterized LOC4335002
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN44
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: uncharacterized LOC133888449; uncharacterized LOC133923877%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133888449; uncharacterized LOC133923877
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: protein AAR2 homolog%2C transcript variant X2; protein AAR2 homolog%2C transcript variant X4
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: protein AAR2 homolog
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: protein AAR2 homolog
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: cePP protein
+  Gene Synonyms: GRMZM2G131597
+  Gene Descriptions: cePP protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 401 aa
+
+MASGGGGAAARMDPEAATELVRKGaTLLLLDVPQRTLFGIDTQVFSVGPKFKGIKMVPPG
+PHFVYYCSPSRHGNEFAPTVGFFLTTHPSEVIVRKWDAQEERLIKLSEEEEIRYSEAVRR
+FEFDDQLGPYNLDSFGDWKQLSSYLSQSVIERLEPIGGEITIAwESSWMDKAPQSDMERR
+LMEQLREdKFAKNAPVQSERRGCYYTtIPASVKHKNISGDELTALNLDKTSLLESVLAKN
+YQGQEDLLLGELQFAFIAFMMGQSLEAFMQWKALVSLLLSCSEAPLHTRTNMFVKFIRTi
+YYQLKHGFQRTQDSRSSEDmGNSLFLDEAWFSRDIFLYRLSKDFFTVVFEAPVVDGDLLS
+WARKLKtLLETTFGWDLENNAVNLIDEDDEFAPVVVEMDGS
+
+
+BOP CONSENSUS:
+Length: 401 aa
+
+MASSGGGAAARMDPEAATELARKGVTLLLLDVPQHTVLGLDTQVFSVGPRFRGIKMVPPG
+PHFLHYCSPSRHGNEFAPTVGFFLTTHPSQVVVRKWHAQEERLVtLSEEEEIRYSEAVKR
+FEFDDQLGPYNLDSFGDWKQLSSYLSQSVIERLEPIGGEITIALETSWMDRAPQTDMERR
+LMEQLREDKFAKKAPaQPERRGCYYTTIPASVKHrNISADELTLLNLDRTSLLETVLAKN
+YQGQEDLLLGELQFSFIAFMMGQSLEAFMQWKALVSLLLSCSEAPLHTRTQMFVKFIRVI
+YYQFKHGFQRTHDSRSSEDKGNSLFLDEAWFSRDIFLYRLSKDFLAVIFEAQVVDGDLLS
+WARKLKTLLETTFGWDLENNAANLIDEDDEFAPVVVEMDGS
+
+
+PACMAD CONSENSUS:
+Length: 399 aa
+
+MASGGGAAARMDPEAATELVRKGATLLLLDVPQRTLFGIDTQVFSVGPKFKGMKMVPPGP
+HFVYYCSSSRHGNEFAPTVGFFLTTQPSEVIVRKWDAQEERLIKLSEEEEIRYSEAVRRF
+EFDDQLGPYNLDSYGDWKQLSSYLSqSVIERLEPIGGEITIAWESSWMDKAPQSDMERRL
+MEQLREsKFAKNAPVQSERRGCYYTSIPASVKHKNISGGDLTALNLDKTSLLESVLAKNY
+QGQEDLLLGELQFAFIAFMMGQSLEAFMQWKALVSLLLSCSEAPLHTRTNMFVKFIRTFY
+YQLKHGFQRTQDSRSGDMGNSLFLDEAWFSRDIFLYRLSKDFFTVVFEAPVVDGDLLSWA
+RKLKSLLETTFGWDLEDNAVNLIDEDDEFAPVVVEMDGS
+
+================================================================================

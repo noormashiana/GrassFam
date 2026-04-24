@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM005992
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             509.0 aa
+Family Size (Extended Family Size): 25 (29) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR21090:SF31
+Panther Family ID:               PTHR21090
+Modal Panther ID:                PTHR21090:SF31
+Modal Panther Description:       3-PHOSPHOSHIKIMATE 1-CARBOXYVINYLTRANSFERASE
+Modal Panther Family ID:         PTHR21090
+Modal Panther Fam Desc:          AROM/DEHYDROQUINATE SYNTHASE
+Interpro Signature Accession:    cd01556; G3DSA:3.65.10.10:FF:000004; G3DSA:3.65.10.10:FF:000009; G3DSA:3.65.10.10; TIGR01356; PTHR21090; PF00275; SSF55205
+Interpro Signature Description:  EPSP_synthase; 3-phosphoshikimate 1-carboxyvinyltransferase; Enolpyruvate transferase domain; AROM/DEHYDROQUINATE SYNTHASE; EPSP synthase (3-phosphoshikimate 1-carboxyvinyltransferase); EPT/RTPC-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: 3-phosphoshikimate 1-carboxyvinyltransferase 2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: 3-phosphoshikimate 1-carboxyvinyltransferase 2
+Ata
+  Gene count: 2
+  Modal chromosome: Ata07D
+  Gene Products: 3-phosphoshikimate 1-carboxyvinyltransferase 2; 3-phosphoshikimate 1-carboxyvinyltransferase 2-like
+Tae
+  Gene count: 5
+  Modal chromosome: Tae07A
+  Gene Products: 3-phosphoshikimate 1-carboxyvinyltransferase 2; 3-phosphoshikimate 1-carboxyvinyltransferase 2-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: 3-phosphoshikimate 1-carboxyvinyltransferase 2-like
+  Gene Descriptions: 3-phosphoshikimate 1-carboxyvinyltransferase 2-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: 3-phosphoshikimate 1-carboxyvinyltransferase 2
+  Gene Descriptions: 3-phosphoshikimate 1-carboxyvinyltransferase 2
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: 3-phosphoshikimate 1-carboxyvinyltransferase 2-like
+  Gene Descriptions: 3-phosphoshikimate 1-carboxyvinyltransferase 2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: 3-phosphoshikimate 1-carboxyvinyltransferase 2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: 3-phosphoshikimate 1-carboxyvinyltransferase 2-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: 3-phosphoshikimate 1-carboxyvinyltransferase 2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: enolpyruvylshikimate phosphate synthase 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 510 aa
+
+MAAMATkAAAATVSLDLAAaaALSRRHRPsSARPPARPAAArrGLRlRGRGavVvAAAAA
+AAAAkAGAEEVVLQPIREISGtVKLPGSKSLSNRILLLSALSEGTTVVDNLLNSEDVHYM
+LEALKALGLSVEADKVAKRAVVVGCGGKFPVEKDAKEEVQLFLGNAGTAMRPLTAAVTAA
+GGNATYVLDGVPRMRERPIGDLVVGLKQLGADVDCFLGTDCPPVRINGIGGLPGGKVKLS
+GSISSQYLSALLMAAPLALGDVEIEIIDKLISIPYVEMTLRLMERFGVKAEHSDSWDRFY
+IKGGQKYKSPkNAYVEGDASSASYFLAGAAITGGTVTVEGCGTTSLQGDVKFAEVLEMMG
+AKVTWTDTSVTVTGPPREPFGRKHLKAIDVNMNKMPDVAMTLAVVALFADGPTAIRDVAS
+WRVKETERMVAIRTELTKLGASVEEGPDYCIITPPEKLNVTAIDTYDDHRMAMAFSLAAC
+AEVPVTIRDPGCTRKTFPNYFDVLSTFVKN
+
+
+BOP CONSENSUS:
+Length: 508 aa
+
+MAMAAAATMAASSSAVSLDRAAAAPAsSRRLRMPARPARRGAVRLWGRGAAARATSVAAP
+AAPAGAEEVVLQPIREISGAVQLPGSKSLSNRILLLSALSEGTTVVDNLLNSEDVHYMLE
+ALEALGLSVEADKVAKRAVVVGCGGRFPVEKDAKEEVKLFLGNAGTAMRPLTAAVVAAGG
+NATYVLDGVPRMRERPIGDLVVGLQQLGADVDCFLGTNCPPVRINGKGGLPGGKVKLSGS
+ISSQYLSSLLMAAPLALGDVEIEIIDKLISVPYVEMTLKLMERFGVTAEHSDSWDRFYIK
+GGQKYKSPGNAYVEGDASSASYFLAGAAITGGTVTVEGCGTTSLQGDVKFAEVLEMMGAK
+VTWTDTSVTVTGPPRQPFGRKHLKAVDVNMNKMPDVAMTLAVVALFADGPTAIRDVASWR
+VKETERMVAIRTELTKLGATVEEGPDYCIITPPEKLNVTAIDTYDDHRMAMAFSLAACAE
+VPVTIRDPGCTRKTFPNYFDVLSTFVKN
+
+
+PACMAD CONSENSUS:
+Length: 511 aa
+
+MAAMAtKAAAATVSLDLAAapRALSRHHRPsSARPSARPAAAaRGLRARGRgRVVvAAAA
+AAAPAKAGAEEVVLQPIREISGTVKLPGSKSLSNRILLLSALSEGTTVVDNLLNSEDVHY
+MLGALKTLGLSVEADKAAKRAVVVGCGGKFPVEKDAKEEVQLFLGNAGTAMRPLTAAVTA
+AGGNATYVLDGVPRMRERPIGDLVVGLKQLGADVDCFLGTDCPPVRVKGIGGLPGGKVKL
+SGSISSQYLSALLMAAPLALGDVEIEIIDKLISIPYVEMTLRLMERFGVKAEHSDSWDRF
+YIKGGQKYKSPKNAYVEGDASSASYFLAGAAITGGTVTVEGCGTTSLQGDVKFAEVLEMM
+GAKVTWTETSVTVTGPPREPFGRKHLKAIDVNMNKMPDVAMTLAVVALFADGPTAIRDVA
+SWRVKETERMVAIRTELTKLGASVEEGPDYCIITPPEKLNVTAIDTYDDHRMAMAFSLAA
+CAEVPVTIRDPGCTRKTFPDYFDVLSTFVKN
+
+================================================================================

@@ -1,0 +1,142 @@
+================================================================================
+GrassFam ID: GFAM020507
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             568.0 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12374:SF81
+Panther Family ID:               PTHR12374
+Modal Panther ID:                PTHR12374:SF81
+Modal Panther Description:       TRANSCRIPTIONAL ADAPTER ADA2B
+Modal Panther Family ID:         PTHR12374
+Modal Panther Fam Desc:          TRANSCRIPTIONAL ADAPTOR 2  ADA2 -RELATED
+Interpro Signature Accession:    cd02335; G3DSA:1.10.10.10:FF:000087; G3DSA:3.30.60.90:FF:000013; G3DSA:1.10.10.60:FF:000115; PTHR12374; PIRSF025024
+Interpro Signature Description:  ZZ_ADA2; Transcriptional adapter 2; Transcriptional adapter; TRANSCRIPTIONAL ADAPTOR 2  ADA2 -RELATED; Txn_adaptor_ADA2
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: transcriptional adapter ADA2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: transcriptional adapter ADA2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: transcriptional adapter ADA2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: transcriptional adapter ADA2; transcriptional adapter ADA2-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: transcriptional adapter ADA2
+  Gene Descriptions: transcriptional adapter ADA2
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: transcriptional adapter ADA2-like
+  Gene Synonyms: ADA2
+  Gene Descriptions: transcriptional adapter ADA2-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: transcriptional adapter ADA2; transcriptional adapter ADA2-like
+  Gene Descriptions: transcriptional adapter ADA2; transcriptional adapter ADA2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: transcriptional adapter ADA2; transcriptional adapter ADA2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: transcriptional adapter ADA2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: transcriptional adapter ADA2
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC542031; uncharacterized LOC542677
+  Gene Synonyms: ada2,GRMZM2G177974,GRMZM5G815323,hxa102; cl150_1b,GRMZM2G129817,hxa103,MYBR106
+  Gene Descriptions: uncharacterized LOC542031; uncharacterized LOC542677
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 570 aa
+
+MGRSRGVPNSGDDDTnHRSKRRRVASSGDASDSLSAACGGAGEGGGKKALYHCNYCNKDI
+SGKIRIKCSKCPDFDLCVECFSVGAEVTPHRSNHPYRVMDNLSFPLICPDWNADEEILLL
+EGIEMYGLGNWAEVAEHVGTKSKAQCIDHYTTAYMNSPCYPLPDMSHVNGKNRKELLAMA
+KVQGESKKGTSLLPGDLTPKAESPFSPSRVKVEDALGEGPAGRSPSHIAGGANKKASNVG
+QFKDGANVSKVEDGHVDRSIGVKKPRYSADEGPSLTELSGYNAKRHEFDPEYDNDAEQAL
+AEMEFKETDSETDRELKLRVLRIYLSRLDERKRRKEFILERNLLFPNPLEKDLTNEDKEV
+YHRYKVFMRFLSKEEHEALVRSVIEERKIRRRIQELQECRSAGCRTLAEAKIHIEQKRKK
+EYELNAQKAKESGQLIpNnKSVQKTNRPMKIESDGNLDPKKGGAGLDSGGRDSPKTTGpT
+SvKQWDDWDIVGLPGAELLSASEKLLCCQNRLLPSHYLRMQEVLMQEIFKGSVLKKEDAH
+VLFKVDPAKVDTVYDMVTKKLGNNEEAPTV
+
+
+BOP CONSENSUS:
+Length: 568 aa
+
+MGRSRGVPNSGDDDTNHRSKRRRVASTGDASDSLSAACGGAGDGKKALYHCNYCNKDLSG
+KIRFKCSKCPDFDLCVECFSVGAEVTPHRSNHPYRVMDNLSFPLICPDWNADEEILLLEG
+IEMYGLGNWAEVAEHVGTKSKAQCIEHYTTAYMNSPCYPLPDMSHVNGKNRKELLAMAKV
+QGESKKGIPVLSGDLTPKDESPFSPSRVKVEDALGEGPASRSPSHIPGGANKKASTVGHF
+KDSANLSKVEDGHMDRSIGVKKPRYSADEGPSLTELSGYNAKRHEFDPEYDNDAEQALAE
+MEFKETDSETDRELKLRVLRIYLSRLDERKRRKEFILERNLLYPNPLEKDLTNEDKEVYH
+RYKVFMRFLSKEEHEALVRSVIEERKIRRRIQELQECRSAGCRTLAEAKIHIEQKRRKEY
+EANALKAKESGQLISNTKSVHKTNRPMKlETDGSLDLKKGSAILDSGGRDSPKTTGPTSA
+KQWDDWDIVGLPGAELLSASEKLLCCQNRLLPSHYLRMQEVLMQEMFKGNVVKKEDAHVL
+FKVDPAKVDTVYDMVTKKLGNNEEAPTV
+
+
+PACMAD CONSENSUS:
+Length: 565 aa
+
+MGRSRGVPNSGDDDTGHRSKRRRVSSSGDATDSISAAiGGAGEGGGKKALYHCNYCNKDI
+SGKIRIKCSKCPDFDLCVECFSVGAEVTPHRSNHPYRVMDNLSFPLICPDWNADEEILLL
+EGIEMYGLGNWLEVAEHVGTKSKLQCIDHYTTAYMNSPCYPLPDMSHVNGKNRKELLAMA
+KVQGESKKGTSLLPGELTPKAESPFSPSRVKVEDALGEGPAGRSPSHIAGGANKKASNVG
+QIKDGANVSKVEDGHVDRSVGVKKPRYSADEGPSLTELSGYNAKRHEFDPEYDNDAEQAL
+AEMEFKETDSETDRELKLRVLRIYLSRLDERKRRKEFILERNLLFPNPLEKDLTNEDKEV
+YHRYKVFMRFLSKEEHEALVRSVIEERKIRRRIQELQECRSAGCRTLAEAKIHIEQKRKK
+EYELNAQKAKESGQLIPNNKSVQKMNRPMKIESDGNLDPKKGGAGLDSPKTTGLTSVKQW
+DDWDIVGLPGAELLSASEKLLCCQNRLLPSHYLRMQEVLMQEIFKGSVLKKEDAHVLFKV
+DPtKVDTVYDMVTKKLGNHEEAPTV
+
+================================================================================

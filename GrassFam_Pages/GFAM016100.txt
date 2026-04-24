@@ -1,0 +1,120 @@
+================================================================================
+GrassFam ID: GFAM016100
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             455.0 aa
+Family Size (Extended Family Size): 20 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR33432:SF2
+Panther Family ID:               PTHR33432
+Modal Panther ID:                PTHR33432:SF2
+Modal Panther Description:       OS09G0279000 PROTEIN
+Modal Panther Family ID:         PTHR33432
+Modal Panther Fam Desc:          PROTEIN EMSY-LIKE 4
+Interpro Signature Accession:    G3DSA:1.10.1240.40:FF:000003; G3DSA:2.30.30.140:FF:000105; G3DSA:1.10.1240.40; PTHR33432; PF03735; SM01191; SSF158639
+Interpro Signature Description:  Protein EMSY-LIKE 3 isoform A; R-interacting factor1; ENT domain; PROTEIN EMSY-LIKE 4; ENT_2; ENT-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: protein EMSY-LIKE 3-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: protein EMSY-LIKE 3%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: protein EMSY-LIKE 3-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: protein EMSY-LIKE 3-like%2C transcript variant X1
+  Gene Descriptions: protein EMSY-LIKE 3-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: protein EMSY-LIKE 3%2C transcript variant X2
+  Gene Descriptions: protein EMSY-LIKE 3
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: protein EMSY-LIKE 3-like; protein EMSY-LIKE 3-like%2C transcript variant X1
+  Gene Descriptions: protein EMSY-LIKE 3-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Msi
+  Gene count: 3
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi02
+  Gene Products: protein EMSY-LIKE 3%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: ENT domain containing protein; r-interacting factor 1%2C transcript variant X1
+  Gene Synonyms: GRMZM2G049155,rif1; GRMZM2G070284
+  Gene Descriptions: ENT domain containing protein; r-interacting factor 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 458 aa
+
+MdYrPSDSSGTDDDLPPPYPNSRSIRGSGRVSGNGRAIvPASSYpRAPTDMEAQIQQLEQ
+EAYCSVLRAFKAQSDAITWEKEGLITELRKELRVSDKaHRELLNRVNNDDIIRSIREWRS
+TGGLQASLPNNPQPIHDPvPSPTTSGRKRQKTSQSVPALPAPSPAMHSQQLATPTQPSSS
+TArKGVPPGPKGKKTKPGQKvPGGSAVKSMPSSAGPSGRGPHMNRNFPGGPaaEPSQAQh
+vNPLIGRKVMSRWPEDNSFYEAVISDYNAETGLYALVYDINTANETWEWVDLKEMGPEDI
+RWQEDDSGIDPVTYLrsRGAPgSGgrKSTSRGGPmPGtGRGRGFQKNvSKKDFPPPQNGV
+GKRSSDDIDILHTESLIKEVEKVFSVSNPDPLEVEKAKKALKEQEQSLIDAIARLAEASD
+GESDGHNRGRRNALYAGnQHQANYaDAMPVDGDqADAM
+
+
+BOP CONSENSUS:
+Length: 473 aa
+
+MDYGPSDSSGTDDDLPPPYPNNPNNRSIRGSGRASGNGRAIVPVSGNGRAIAPASSYPRA
+QTDMETQIQQLEQEAYCAVLRAFKAQSDALTWEKEGLITELRKELRVSDKEHREVLNRVN
+GDDIIRSIREWRSTGGLQASLPNNPQPIHHDPAPSPTTSGRKRQKTSQSVPPLPVPSPVM
+HPQQMATPTQPSSSAAKKGFLPGTKGKKTKPGQKIPGGSAVKSMPPSAGPSGRGPHMNRN
+FPGRPAAPEPSQGQHHLNPLIGRKVMSRWPEDNNFYEATITDYNAEKDVYALVYDINTAN
+ETWEWVDFKEIKPEDIIWQGEDPGLYQGGRGAPGSGGKKSTSRVMPTPGTGRGRGFPKNV
+SKKDFPRSQNGVGKRSSDDIDILHTESLIKEVERVFSVSHPDPLEVDKAKKALKEQEQSL
+IDAIARLAEASDGESDERNRGRRMGPYGGHQHQANYADAMAVDGDHMVGGAAT
+
+
+PACMAD CONSENSUS:
+Length: 451 aa
+
+MdYRPSDSSGTDDDLPPqyPNSRsiRGSGRVSGNGRAiVPASSYARAPTDMEAQIHQLEQ
+EAYCSVLRAFKAQSDAITWEKEGLITELRKELRVSDKAHRELLNRVNNDDIIRSIREWRS
+TGGLQAtLSNNPQPIHDPVPSPTTSgRKRQKTSQSVPALPAPPPAMHSQQLAAPTQPSSS
+TARKaVPPGPKGKKTKPGQKVPGGSAaKSMPSSAGPSGRGPHMNRNFPGGsAEeSQAQNV
+DPLVGRKVMSRWPEDNSFYEAVISDYNAETGLYALVYDMNTANETWEWVDLKEMGPEDIR
+WQEDDSGIDPVTYLRSRGAPTSGVRKPTgRGGPMPGPGRGRGFQKNmSKKDFPPPQNGVG
+KRSSDDIDILHTESLIKEVEKVFSVSNPDPLEVEKAKKALKEQEQSLIDAIARLAEASDG
+ESDGHNRGRRNLYAQANYvDsMPVGDQADAM
+
+================================================================================

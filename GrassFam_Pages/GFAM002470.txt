@@ -1,0 +1,110 @@
+================================================================================
+GrassFam ID: GFAM002470
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             338.5 aa
+Family Size (Extended Family Size): 82 (97) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR26379
+Modal Panther ID:                PTHR26379:SF446
+Modal Panther Description:       BTB_POZ AND MATH DOMAIN-CONTAINING PROTEIN 1
+Modal Panther Family ID:         PTHR26379
+Modal Panther Fam Desc:          BTB/POZ AND MATH DOMAIN-CONTAINING PROTEIN 1
+Interpro Signature Accession:    cd18280; G3DSA:2.60.210.10; G3DSA:3.30.710.10; PTHR26379; SM00225; SSF54695; SSF49599
+Interpro Signature Description:  BTB_POZ_BPM_plant; Apoptosis, Tumor Necrosis Factor Receptor Associated Protein 2; Chain A; Potassium Channel Kv1.1; Chain A; BTB/POZ AND MATH DOMAIN-CONTAINING PROTEIN 1; BTB_4; POZ domain; TRAF domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 5
+  Modal chromosome: Bdi03
+  Gene Products: BTB/POZ and MATH domain-containing protein 1; BTB/POZ and MATH domain-containing protein 1%2C transcript variant X1; BTB/POZ and MATH domain-containing protein 1%2C transcript variant X2; BTB/POZ and MATH domain-containing protein 1-like
+Lpe
+  Gene count: 8
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: BTB/POZ and MATH domain-containing protein 2-like
+Ata
+  Gene count: 10
+  Modal chromosome: Ata01D
+  Gene Products: BTB/POZ and MATH domain-containing protein 1-like; BTB/POZ and MATH domain-containing protein 2; BTB/POZ and MATH domain-containing protein 2-like
+Tae
+  Gene count: 22
+  Modal chromosome: Tae01D
+  Gene Products: BTB/POZ and MATH domain-containing protein 1-like; BTB/POZ and MATH domain-containing protein 2-like; BTB/POZ and MATH domain-containing protein 2-like%2C transcript variant X2
+Osa
+  Gene count: 2
+  Modal chromosome: Osa08
+  Gene Products: BTB/POZ and MATH domain-containing protein 1
+  Gene Descriptions: BTB/POZ and MATH domain-containing protein 1
+Ecu
+  Gene count: 12
+  Modal chromosome: EcuUN50
+Svi
+  Gene count: 4
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 6
+  Modal chromosome: Pvi06K
+  Gene Products: BTB/POZ and MATH domain-containing protein 1-like
+Pha
+  Gene count: 3
+  Modal chromosome: Pha06
+  Gene Products: BTB/POZ and MATH domain-containing protein 1-like
+Msi
+  Gene count: 7
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi07
+  Gene Products: BTB/POZ and MATH domain-containing protein 1%2C transcript variant X1; BTB/POZ and MATH domain-containing protein 1-like%2C transcript variant X2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 339 aa
+
+MSKmtePeaetTtvdSAvvqFrVDYEQtKhLPiGkAVhSDvvSAGGHlWRIdCYPRGvsE
+aDkGEYvSIFLeHMSKSrSVkAIFEAFLMdkDGkPSssaakRsvhtFeImgdgDeWGWsr
+FvkrTdLEkdYvteGHiTFVCtIMVidDssIPVPPSDIGkHLGrLLDsaDGTDVSFiVDG
+ETFHAHRAVLAARSPVFRAELFGSMAEATMsSITLHDItPATFKvMLRFiYTDeLPGdDE
+LGDSStEMlQdLLAAADRYALDRLKLiCAQKLWDnVSVDTVAttLACAEMYNCpELKnKC
+IDFFAvEeNFKKAvLTdGFalLVqKFPSIIAELReRVGt
+
+
+BOP CONSENSUS:
+Length: 337 aa
+
+MaePetrTTiVGSavfQFrVDYEQvKQLPiGkAVhSDVVSAGGHLWRIdCYPRGeseaDk
+GEYVSIFLrHMSKSRSVrAIFEAFlMGRDGkPSesrtrRtlhTFeImGDkDssDsWGWsr
+FVkRTtLEkdYLteGHVTFVCtIMViDDsPIpVPPSDIGtHLGrLLDhaDGTDVSFiVDG
+ETFhAHRAVLAARSPVFRAELFGSMAEATMsSITLHDITPATFKVMLRFIYTDELPgEDE
+lnDSStEMFQDLLAAADRYALDRLKlICAQKLWDkVSVDTVATILACAETYNCqELKNKC
+IDFFaVEENFKEAmFTDGYALLVLKFPsIiAELKkRV
+
+
+PACMAD CONSENSUS:
+Length: 335 aa
+
+MsKRrtsgLEgrtiDSAlvEFrVnYEQtKHLAIGkAVhSDAFSAGGHMWRinCYPrGvdE
+SDnGeYlSIFvELLSKStSVkAIFEAFLmDKdGqPsstaAkRSvHFedndewGWsqFvSr
+TDLEenYVTEGHITFVCaIMVvrDnSIPVPPSDIGKHLGtLLDStDGTDVSFvvDGETFH
+AHRAVLAARSPVFRAELLGSMAEATMPSITLHDIAPATFRvMLRFMYTDALPGDDELGDS
+PsEMmqHLLAAADRYALDRLKLmCAQKLWDnVSVDTVAaTLACAEMYSCpELKsKCIDFF
+AaEkNFKKAVLTeGFVQLVQqFPSIIdELRERvGt
+
+================================================================================

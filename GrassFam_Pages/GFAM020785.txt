@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM020785
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             422.5 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13681:SF24
+Panther Family ID:               PTHR13681
+Modal Panther ID:                PTHR13681:SF24
+Modal Panther Description:       TUDOR DOMAIN-CONTAINING PROTEIN 3
+Modal Panther Family ID:         PTHR13681
+Modal Panther Fam Desc:          SURVIVAL OF MOTOR NEURON-RELATED-SPLICING FACTOR 30-RELATED
+Interpro Signature Accession:    G3DSA:2.40.50.770; PTHR13681
+Interpro Signature Description:  -; SURVIVAL OF MOTOR NEURON-RELATED-SPLICING FACTOR 30-RELATED
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: tudor domain-containing protein 3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: tudor domain-containing protein 3
+Ata
+  Gene count: 2
+  Modal chromosome: Ata03D
+  Gene Products: tudor domain-containing protein 3%2C transcript variant X1; tudor domain-containing protein 3-like
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: tudor domain-containing protein 3-like; tudor domain-containing protein 3-like%2C transcript variant X1; tudor domain-containing protein 3-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: uncharacterized LOC127774935%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127774935
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC4323867
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 1
+  Modal chromosome: Pau02
+  Gene Products: uncharacterized LOC133897696%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133897696
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi05K
+  Gene Products: tudor domain-containing protein 3-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: tudor domain-containing protein 3%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: tudor domain-containing protein 3
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: putative DUF1767 domain containing protein%2C transcript variant X1
+  Gene Synonyms: GRMZM2G107556
+  Gene Descriptions: putative DUF1767 domain containing protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 425 aa
+
+MAAAAEAPsSSAsSeEdrLLQSLAARGWRFRDPtDEAIQALLHASPSPSPEAVEaELvDM
+DLRLFGGKSLPDRAAAAATaKRLSYLHGPIVLQVVSVRDIYsSsIDASFKNPQQRRLLRF
+GLTDGISEAVAIEFSPIPFITEEIAPGTKIRLENKIPINNGILCLSAKNVSVIGGTVQSL
+YEEWQMNQKFSGLSRPSLRLSQSDDGVGPPPFEKLDIEARPcRTtkVQAYPDqKARKLAV
+tHDHVpVNSgGKPMNEgSSDvNKEtTaSKaESKQSTsDsRPKEVSEAVPVQNQAAAQKLL
+QKMSQAmPEDRrGRGHRFKGKGKQEDTpVFTLDEWEKRKAiGSKSTAESYIQDTSRDEEL
+ARQLQEQLDLEDsHGgPESSDAERLRMSMFSFNGPEEmGGGRRDFRGRGRGRGRGRGRGR
+GRGRF
+
+
+BOP CONSENSUS:
+Length: 417 aa
+
+MAAEASSSSAFPEdDsLLRSLAARGWRFRDaADESIQALLHASPSPSPEALEADLLDTDL
+RLFGGKSLPDRAAATATKRLSYLHGPIVLQVVSVRDIYSSRVDASFKNPQQRRLLRFGLT
+DGISEAVAIEFSPIPFITEEIAPGTKIRLENKIPVNHGILCLSAKNVSIIGGTVQSLYEE
+WKMNQKFSGLSRPvLRLSQNDDGVGPPPFEKLDIEARPNRTFQLQAYPDqKARNLGVAHD
+HVSVNSSSKPTNEGSSNMNRENTASKAESKQStADIRPKEVSEAVPVQNQAAAQKLLQKM
+AmPEDRhGRGRFKGRSKQEDTPVFTLDEWERRKAgGSmSTAERHIQDTSRDEELARQLQE
+QLDLEDSHAMPVTSEAERLRMNMFSFNGPEEMGGGRRDFRGRGRGRGRGRGRGRGRF
+
+
+PACMAD CONSENSUS:
+Length: 429 aa
+
+AAAAAEAPsASASSAENRLLQSLADRGWRFRDPTDEAIQALLLASPTPSPEAVESELVDM
+DLRMFGGKSLPDRATTAATAKRLSYLHGPVVLQVVSVRDIYRSSIDASFKNPQQRRLLRF
+GLTDGICEAVAIEFSPIPFITEEIAPGTKIRLENKIPINNGILCLSAKNVSVIGGTVQSL
+YEEWQMNQKYSGLSRPSLRLSQSDDGAGPPPFEKLDIEARPCRATKVQAYPARKLAVTHD
+HAPVNSGGKPMNEDSNDVNKDTIESKvESKQITQDSRPKEVSEAVPVQNQAAAQKLLQKM
+SQAVPEDRRGRGHRFKGKGKEEDAQVFTLDEWEKRKAIGSKSAAESYVQDTSRDEELARQ
+LQEQLDLEDMHGGADVFSGGAESSDAERLRMSMFSFSGPDEAGGGRRDFRGRGRGRGRGR
+GRGRGRGRF
+
+================================================================================

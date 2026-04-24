@@ -1,0 +1,147 @@
+================================================================================
+GrassFam ID: GFAM020208
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             695.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11804:SF82
+Panther Family ID:               PTHR11804
+Modal Panther ID:                PTHR11804:SF82
+Modal Panther Description:       THIMET OLIGOPEPTIDASE-RELATED
+Modal Panther Family ID:         PTHR11804
+Modal Panther Fam Desc:          PROTEASE M3 THIMET OLIGOPEPTIDASE-RELATED
+Interpro Signature Accession:    cd06455; G3DSA:3.40.390.10:FF:000032; G3DSA:1.20.1050.40:FF:000001; G3DSA:1.10.1370.10; G3DSA:1.20.1050.40; G3DSA:3.40.390.10; PTHR11804; PF01432; SSF55486
+Interpro Signature Description:  M3A_TOP; Probable thimet oligopeptidase; Thimet oligopeptidase 1; Neurolysin, domain 3; Endopeptidase. Chain P; domain 1; Collagenase (Catalytic Domain); PROTEASE M3 THIMET OLIGOPEPTIDASE-RELATED; Peptidase family M3; Metalloproteases ("zincins"), catalytic domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: probable thimet oligopeptidase%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: probable thimet oligopeptidase%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: probable thimet oligopeptidase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: probable thimet oligopeptidase; probable thimet oligopeptidase%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: probable thimet oligopeptidase
+  Gene Descriptions: probable thimet oligopeptidase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: probable thimet oligopeptidase
+  Gene Descriptions: probable thimet oligopeptidase
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau02
+  Gene Products: probable thimet oligopeptidase
+  Gene Descriptions: probable thimet oligopeptidase
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: probable thimet oligopeptidase%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: probable thimet oligopeptidase
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: probable thimet oligopeptidase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: uncharacterized LOC100280152
+  Gene Synonyms: GRMZM5G863784,si683006e11
+  Gene Descriptions: uncharacterized LOC100280152
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 695 aa
+
+MsPRRRERRVIAVAGAAALVAVGLNLAFSAVAAHRRRKRRELPGFTAQVNLSAAEIKRLA
+DRIIAKSKETYDSVAAVPLDKVSFANVIAPLAELDAQQFPLVQACVLPRMVSPSEDVRRA
+SAEAEKRLDSHFLLCRQREDVYRVIKAFTVKGERIGPEATRFVQCLVKEFERNGVKLTQS
+KRKEMEKLKSHIDDLNLKYIQNMNDFTKFLLLSEEELAGMPLEFLKDLEKtDGKrKVLLT
+SYHVTPILEHCKVGSTRKQIAVAYGQKGGKdNvAILENLVQLRHRLARLLGYsNYSDFAI
+EPRMPRTSRKVLEFLEEMSEQLSDvANRELSILKDLKMKEEGNAQFGMEDLLYYMKRAEE
+fKVDLDIGEIKQYFPVsLVISGMLKMFQDLFALRFEEIKDVEVWHDTVRLFSVWDASSSD
+LLGYFFLDIFSREGKYAHTCVVTLQNGCLCSNGTRKVPVAVLLSQCPKEFDGNSALLRFP
+EVVRLFHEFSHVVHHISNRATFSRFSGLRLEGDFAEIPSLLLENWCYESISLKMMSGFHQ
+DITKSITSEACQSLKRRRDLFAGLKLKQEILLCLVDQIIHTSENVDIDDLIKDLHPKVML
+GIPLLEGTSPASCFPRIAVGYDAVCYSYIWSEVFAADLFVSKFKDDLLNQHAGLRFRNKV
+LAPGGSKDPLEIITDYLGREPSLQPFIQSRTRNSL
+
+
+BOP CONSENSUS:
+Length: 695 aa
+
+MSPRRKERRVVAVAGAAALVAVGLNLAFSAVAAHRRRKRQELPGFSAQVNLSAAEIKRLA
+DRIIAKSKETYDAVAAVPLDKVSFANAIAPLAELDAQQFPLVQACVLPRMVSPSEDVCRA
+SAEAEKRLDSHFLLCRQREDVYRVVKAFTERGERIGPEATRFVQCLVREFERNGAKLTQT
+KKKEMEKLKSLIDDLNLKYIQNMNDFTKFLLLSEEELAGMPLEFLKDLEETDGKRKVLLT
+SYHVTPILEHCKVGSTRKLIAVAYGQKGGKQNVAILEKLVQIRHRLARLLGYSNYSDFAI
+EPRMPMTSRKVLEFLEEMSEQLSDLANRELTVLKDLKMKEEGDAQFGMEDLLYYMKRAEQ
+HKVDLDIGEIKRYFPVKLVISGMLKMFQDLFALRFEEIKDVEVWHDTVRLFSVWDASSSD
+LLGYFFLDIFSREGKYdHTCVVALQNGCMCSNGTRKVPVAVLLSQCPKEFDGNSALLRFP
+EVVRIFHEFSHVVHHISNRATFSRFSSLRLEGDFAEIPSLLLENWCYESISLKMMSGFHQ
+DITKSVTSEACQSLKRRRDMFAGLKLKQEILLCLVDQIIHTSENVDIDDLIKDLHPKVML
+GIPLLEGTSPASCFPRIAVGYDAVCYSYIWSEVFAADLFATKFKDDLLNQHAGLRFRNKV
+LAPGGSKDPLEIITDYLGREPSLQPFIQSRTRNsL
+
+
+PACMAD CONSENSUS:
+Length: 695 aa
+
+MEPRRRERRVIAvAGAAALVAVGLNIAFSAVAAHRRRKRRELPGFTAQVNLSAAEIKRLA
+DRIIsKSKETYDSVAAVPLDKVSFANVIAPLAELDALQFPLVQACVLPRMVSPSEDVRKA
+SAEAEKRLDSHFVLCRQREDVYRVIKAFAVKGERIGPEATRFLQCLVKEFERNGVKLSQS
+KRKEMEKLKSHIDELNLKYLQNLNDFTKFLLLgEDELAGMPFEFLKDLEKADGKLKVPLT
+SYHVTPILEHCKVGSTRKQIAVAYGQKGGKDNLAILENLVQLRHKFARLLGYtNYADFAI
+EPRMPRTSRKVLEFLEEMSEQLSDVANRELSILKDLKMKEEGNAQFGMEDLLYYIKRAEE
+FKVDLDIGEIKQYFPVSLVISGMLKMFQDLFALRFDEIKDAEVWHDTVRVFSVWDASSSD
+LLGYFFLDIFAREGKYAHTCVVTLQNGCLCSNGTRKVPAAVLLSQCPKEFDGNSALLRFP
+EVVRLFHEFSHVVHHISNRATFSRFSGLRLEGDFAEIPSLLLENWCYESISLKMMSGFHQ
+DITKSITSEACQSLKRRRDLFAGLKMKQEILLCLVDQIIHSSENVDIDDLIKDLHPKVML
+GIPLLEGTSPASCFPRIAiGYDAVCYSYIWSEVFAADLFVSKFKDDLLNQHAGLRFRNKV
+LAPGGSKDPLEIITDYLGREPSLQPFIQSRTRNSL
+
+================================================================================

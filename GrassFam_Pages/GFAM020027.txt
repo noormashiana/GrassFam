@@ -1,0 +1,109 @@
+================================================================================
+GrassFam ID: GFAM020027
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             513.0 aa
+Family Size (Extended Family Size): 11 (12) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23500:SF561
+Panther Family ID:               PTHR23500
+Modal Panther ID:                PTHR23500:SF561
+Modal Panther Description:       SUGAR TRANSPORT PROTEIN 5
+Modal Panther Family ID:         PTHR23500
+Modal Panther Fam Desc:          SOLUTE CARRIER FAMILY 2, FACILITATED GLUCOSE TRANSPORTER
+Interpro Signature Accession:    cd17361; G3DSA:1.20.1250.20:FF:000002; G3DSA:1.20.1250.20; TIGR00879; PTHR23500; PR00171; PF00083; SSF103473
+Interpro Signature Description:  MFS_STP; Sugar transport protein 13; MFS general substrate transporter like domains; sugar porter family MFS transporter; SOLUTE CARRIER FAMILY 2, FACILITATED GLUCOSE TRANSPORTER; Sugar transporter signature; Sugar (and other) transporter; MFS general substrate transporter
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: sugar transport protein MST1-like
+  Gene Descriptions: sugar transport protein MST1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: sugar transport protein MST1-like; sugar transport protein MST1-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: sugar transport protein MST1-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi12
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: sugar transport protein 5
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: Sugar transport protein 5%2C transcript variant X1
+  Gene Synonyms: GRMZM2G442546
+  Gene Descriptions: Sugar transport protein 5
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 512 aa
+
+MAGGGFAAAEGGhAdDYGGGVTVSVVVTCLMAASCGLIFGYDIGVSGGVTQMESFLtKFF
+PEVSSGTKNAKHDAYCKYDDQLLTAFTSSLYIAAMLSSLVASRVTRTVGRQAVMLIGGVL
+FLVGSAINAGAVNIAMLIvGRMLLGFGVGFTTQAAPLYLAETSPARWRGAFTTAYNIFLV
+LGaLAATVTNYFTNRIPGWGWRVSLGLAAVPAAIVVLGALLVPDTPSSLVLRGdTDkARA
+SLQRLRGPGADTDAEFKDIVRAVEEARRNDEGAYERLRgKGYRHYLVMVVAIPSFFDLTG
+VIVMAVFSPVLFRTVGFSSQKAIFGSVILSLVNLASSLLSSFVMDRAGRRFLFLaGGAAM
+MICQLAMSWILAGHLGKHnAVTMPRdYAVAVLVLMCLYTFSFGVSWGPLKWVVPSEIYPV
+EIRSAGQALTVSIALCLSFAQTQVFvSLLCAMKYAIFLFYAGWVLVMTAFVAAFLPETKG
+VPLEAMRSVWARHWYWRRFVRDAKQEVQVNCL
+
+
+BOP CONSENSUS:
+Length: 490 aa
+
+MAGGGFTAPNGGVVNDYGGGVTFSVVVTCLMAASCGLIFGYDIGVAGGVTQMESFLMKFF
+PEVLIGRRSAKRDAYCKYDNQLLTAFTSSLYIAAMLSSLVASKATRTVGRQAVMLIGGAL
+FLAGAVNVAMLIVGRMLLGLGVGFTSQAAPLYLAEMSPARWRGAFTSAYSIFLVFGIMAA
+TVTNYFTNSIPGWGWRVSLGLAAVPAVIIVAGALFVPDTPSSLVLRGESDKARDSLQRIR
+GPGADSDAEFKYIVRGYQHYLVMIVAIPMFFDLSGMIIISVFSPVLLRTVGFNSQKAVFG
+SVILSLMNLAANILSSSLMDRSGRRFLFLAGGTAMMLCQMTMSWILAEHLGKHDAAATMP
+RSYAVGVLVLMCLYTFSFGVSWGPLRWVVPSEIFPVEIRSAGQALSISIALCISFAQTQV
+FLTLLCAMKYAIFLFYAGWVVTMTAFVAAFLPETKGVPLEAMRSVWAKHWYWRRFVEDGK
+QVVGGQDVCL
+
+
+PACMAD CONSENSUS:
+Length: 512 aa
+
+MAGGGFAAAEGGhAdDYGGGVTVSVVVTCLMAASCGLIFGYDIGVSGGVTQMESFLtKFF
+PEVSSGTKNAKHDAYCKYDDQLLTAFTSSLYIAAMLSSLVASRVTRTVGRQAVMLIGGVL
+FLVGSAINAGAVNIAMLIiGRMLLGFGVGFTTQAAPLYLAETSPARWRGAFTTAYNIFLV
+LGaLAATVTNYFTNRIPGWGWRVSLGLAAVPAAIVVLGALLVPDTPSSLVLRGdTDgARA
+SLQRLRGPGADTDAEFKDIVRAVEEARRNDEGAYERLRgKGYRHYLVMVVAIPSFFDLTG
+VIVMAVFSPVLFRTVGFSSQKAIFGSVILSLVNLaSSLLSSFVMDRAGRRFLFLtGGAAM
+MICQLAMSWILAGHLGKHnAVTMPRdYAvAVLVLMCLYTFSFGVSWGPLKWVVPSEIYPV
+EIRSAGQALTVSIALCLSFAQTQVFvSLLCAMKYAIFLFYAGWVLVMTAFVAAFLPETKG
+VPLEAMRsVWARHWYWRRFVRDAKQEVQVNCL
+
+================================================================================

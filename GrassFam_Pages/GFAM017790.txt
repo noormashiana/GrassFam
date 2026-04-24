@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM017790
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             506.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11206:SF391
+Panther Family ID:               PTHR11206
+Modal Panther ID:                PTHR11206:SF391
+Modal Panther Description:       PROTEIN DETOXIFICATION
+Modal Panther Family ID:         PTHR11206
+Modal Panther Fam Desc:          MULTIDRUG RESISTANCE PROTEIN
+Interpro Signature Accession:    cd13132; TIGR00797; PTHR11206; PF01554
+Interpro Signature Description:  MATE_eukaryotic; MATE family efflux transporter; MULTIDRUG RESISTANCE PROTEIN; MatE
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: protein DETOXIFICATION 33
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: protein DETOXIFICATION 33-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: protein DETOXIFICATION 33
+Tae
+  Gene count: 2
+  Modal chromosome: Tae07A
+  Gene Products: protein DETOXIFICATION 33-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl08
+  Gene Products: protein DETOXIFICATION 33-like
+  Gene Descriptions: protein DETOXIFICATION 33-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa08
+  Gene Products: protein DETOXIFICATION 33
+  Gene Descriptions: protein DETOXIFICATION 33
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN50
+Pau
+  Gene count: 2
+  Modal chromosome: Pau16
+  Gene Products: protein DETOXIFICATION 30-like; protein DETOXIFICATION 30-like%2C transcript variant X2
+  Gene Descriptions: protein DETOXIFICATION 30-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: protein DETOXIFICATION 33-like; protein DETOXIFICATION 33-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: protein DETOXIFICATION 33-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi13
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi07
+  Gene Products: protein DETOXIFICATION 33
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: putative MATE efflux family protein
+  Gene Synonyms: GRMZM2G481440
+  Gene Descriptions: putative MATE efflux family protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 505 aa
+
+MAsSGGGGDEeLREALLAaAGnGNGggkKgEeDLEEIRSVsAFLRHAAEENRRLWYLAGP
+AIFTSLAQYSLGAVTQVFAGHLTTLELDAVSTENNVIAGLAFGIMyGMGSALETLCGQAY
+GAKQLHMLGVYLQRSWIILTAMAVLMLPLYLFATPILRFFHQDAEIAvLAGRlSLYMIPQ
+LFAYALNFPIQKFLQAQSKVMAMAAVSAAALaFHVALTWLLVGPMRMGLVGLAVALNASW
+WFVVLGQLAYILMGYCPGAWNGFDWLAFSDLvSFARLSLGSAVMLCLEFWFYMFLIVIVG
+NLENAQVAVAAVSICTNLFGWQIMVFFGFNAAISVRVSNELGAGRPRAAKFAILVVLMSS
+VAIGLAFFVAVLLLRDVYGAPFTESPEVVRAVASLGVVFAFSLLLNSVQPVLSGVAVGAG
+WQWLVAYINLGCYYlVGIPVGYmIAFPLRRGVQGMWGGMLTGVGLQTVILVAITLRTNWN
+KEASEAHSRIQKWGGSAaAkvsDgi
+
+
+BOP CONSENSUS:
+Length: 501 aa
+
+MAScGGGGDEPLTEALLARAGSGDkDDLEEIHSVSAFLRCAAEENRRLWyLAGPAIFTSL
+AQYSLGAVTQVAAGHLTTLELDAVSTENSVVAGLAFGIMYGMGSALETLCGQAYGAKKLP
+MLGVYLQRSWLLLTAMSVCMLPLYLFATPILRFFHQDDQIAVMAGRFSLYMIPQLFAYAL
+NFPIQKFLQAQSKVMAMAAVSAAALLFHVALTWFLVVPMRMGLVGLAVALNASWWFVVLG
+QLAYIVMGYCPGAWNGFELDSLAFTeLFSFARLSLGSAIMICLEFWFYMFLIVIVGNLPN
+AQVAVAAVSICTNLFGWQIMVFFGFNAAISVRVSNELGAGRPRAARFAIAVVLMSSVAIG
+VAFFVAVLLLRDVYGAPFTESPEVVHAVASLGVVFAFTLLLNSVQPVLSGVAVGAGWQWL
+VAYINLGCYYGVGIPVGYMIAFPLRRGVQGMWGGMLTGVGLQTVILVAITMRTNWNKEAS
+EASSRIRQWGGGGGASPRDsI
+
+
+PACMAD CONSENSUS:
+Length: 504 aa
+
+MAvSGGGgDemLREALLAAGNGNGsggKGEEDLEEIRSVrSFLRHAAEENRKLWYLAGPA
+IFTSIAQYSLGAITLVFAGHLTTLELDAVSTENNVIAGLALGITLGMGSALETLCGQAYG
+AKQLHMLGVYLQRSWIILNAMAVLMLPLYLFATPILRFFHQDAEIAALAGRLALYMIPQL
+FAYAFNFPIQKFLQAQSKVMAMAAVSAAALVFHVALSWLLVGPMRMGLVGLAVALNASWW
+LVVLGQLAYILMGYCPGAWNGFDWLAFSDLVGFARLSLGSAVMLCLEFWFYMFLIVIVGN
+LENAQVAVAAVSICTNLFGWQIMVFFGFNAAISVRVSNELGAGRPRAAKFAILVVLMSSV
+AIGLAFFVAVLALRDVYGAPFTESPEVVRAVASLGVVFAFSLLLNSVQPVLSGVAVGAGW
+QWLVAYINLGCYYLVGIPVGYlIAFPLRGGVQGMWGGMLTGVGLQTLILVAITLRTNWDK
+EASEAHSRIQKWGGSAaAKvsegs
+
+================================================================================

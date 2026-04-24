@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM006631
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             483.0 aa
+Family Size (Extended Family Size): 24 (27) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR10742
+Modal Panther ID:                PTHR10742:SF411
+Modal Panther Description:       AMINE OXIDASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR10742
+Modal Panther Fam Desc:          FLAVIN MONOAMINE OXIDASE
+Interpro Signature Accession:    G3DSA:3.50.50.60; G3DSA:3.90.660.10; PTHR10742; PF01593; SSF54373; SSF51905
+Interpro Signature Description:  -; FLAVIN MONOAMINE OXIDASE; Flavin containing amine oxidoreductase; FAD-linked reductases, C-terminal domain; FAD/NAD(P)-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: probable polyamine oxidase 2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: polyamine oxidase 3%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: polyamine oxidase 3%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: polyamine oxidase 3%2C transcript variant X1; polyamine oxidase 3-like%2C transcript variant X1; polyamine oxidase 3-like%2C transcript variant X3
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: polyamine oxidase 3
+  Gene Descriptions: polyamine oxidase 3
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: polyamine oxidase 3-like%2C transcript variant X1
+  Gene Descriptions: polyamine oxidase 3-like
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: polyamine oxidase 3%2C transcript variant X1; polyamine oxidase 3-like
+  Gene Descriptions: polyamine oxidase 3; polyamine oxidase 3-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: polyamine oxidase 3%2C transcript variant X3; polyamine oxidase 3-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: probable polyamine oxidase 2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: probable polyamine oxidase 2%2C transcript variant X1
+Zma
+  Gene count: 3
+  Modal chromosome: Zma02
+  Gene Products: lysine-specific histone demethylase 1%2C transcript variant 1; polyamine oxidase 3; probable polyamine oxidase 2
+  Gene Synonyms: GRMZM2G000052; GRMZM2G396856
+  Gene Descriptions: lysine-specific histone demethylase 1; probable polyamine oxidase 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 483 aa
+
+MANNSSYGENVRRKSHTPSAIVIGGGFAGLAAADALRNASFQVILLESRDRIGGRVHTDY
+SFGFPVDLGASWLHGVCEENPLAPIIGRLGLPLYRTSGDDSVLFDHDLESYALYDTNGrQ
+VPQELVEKIGKVFEAILEETGKLREETnEDMSIAKAIAIVMERNPHLRQEGIAHEVLQWY
+LCRMEGWFATDADSISLQGWDQEVLLPGGHGLMVRGYRPVINTLAKGLDIRLNHRVVEIV
+RHRNRVEVTVSSGKTFVADAAVVAVPLGVLKANTIKFEPRLPEWKEEAIRELSVGVENKI
+VLHFSQVFWPNVEFLGVVSSTTYGCSYFLNLHKATGHPVLVYMPAGRLARDIEKMSDEAA
+AQFAFSQLKKILPNAAEPINYLVSHWGSDENTLGSYTFDGVGKPRDLYEKLRIPVDNLFF
+AGEATSVKYTGTVHGAFSTGvMAAEECRMRVLERFRELDMLEMCHPAMGEtSPVSVPLLI
+SRL
+
+
+BOP CONSENSUS:
+Length: 484 aa
+
+MANNNSSYGENVSRKSHTPSAIVIGGGFAGIAAANALRNASFEVVLLESRDRIGGRVHTD
+YSFGFPVDLGASWLHGVCEENPLAPIIGRLGLPLYRTSGDDSVLFDHDLESYALYDTNGS
+QVPQEFVEKIGKVFEAILEETGKLREEMKEDISIAKAIAIVLERNPHLRQEGIAHDVLQW
+YLCRMEGWFATDADAISLQCWDQEVLLPGGHGLMVRGYRPVINTLAKGLDIRLGHRVVEI
+VRHWNRVEVTVSNGKTFVADAAVITVPLGVLKSNTIKFEPRLPEWKEEAIRELSVGVENK
+IVLHFSEVFWPNVEFLGVVSSTTYGCSYFLNLHKATGHAVLVYMPAGRLACDIEKMSDEA
+AAQFAFSQLKKILPNAAEPLNYLVSHWGSDENTLGSYTFDGVGKPRDLYEKLRIPVDNLF
+FAGEATSVQYTGTVHGAFSTGEMAAEECRMRVLEKFRELDMLEMCHPMAEQTATVSVPLL
+ISRL
+
+
+PACMAD CONSENSUS:
+Length: 483 aa
+
+MANNSSYGENVRRKSHTPSAIVIGGGFAGLAAADALRNASFQVILLESRDRIGGRVHTDY
+SFGFPVDLGASWLHGVCEENPLAPIIGRLGLPLYRTSGDDSVLFDHDLESYALYDTNGRQ
+VPQELVEKIGKVFETILEETGKLREETNEDMSIAKAIAIVMDRNPHLRQEGIAHEVLQWY
+LCRMEGWFATDADSISLQGWDQEVLLPGGHGLMVRGYRPVINTLAKGLDIRLNHKVVEIV
+RHRNRVEVTVSSGKTFVADAAVVAVPLGVLKANTIKFEPRLPEWKEEAIRELTVGVENKI
+VLHFSQVFWPNVEFLGVVSSSTYGCSYFLNLHKATGHPVLVYMPAGRLARDIEKMSDEAA
+AQFAFSQLKKILPNAAEPINYLVSHWGSDENTLGSYTFDGVNKPRDLYEKLRIPVDNLFF
+AGEATSVKYTGTVHGAFSTGVMAAEECKMRVLERFRELDMLEMCHPAMGEESPVSVPLLI
+SRL
+
+================================================================================

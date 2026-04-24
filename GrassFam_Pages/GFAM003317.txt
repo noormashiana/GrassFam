@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM003317
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             509.5 aa
+Family Size (Extended Family Size): 50 (51) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR27004:SF220
+Panther Family ID:               PTHR27004
+Modal Panther ID:                PTHR27004:SF220
+Modal Panther Description:       LEUCINE RICH REPEAT FAMILY PROTEIN
+Modal Panther Family ID:         PTHR27004
+Modal Panther Fam Desc:          RECEPTOR-LIKE PROTEIN 12 ISOFORM X1
+Interpro Signature Accession:    G3DSA:3.80.10.10:FF:000111; G3DSA:3.80.10.10; PTHR48065; SSF52058
+Interpro Signature Description:  LRR receptor-like serine/threonine-protein kinase ERECTA; Ribonuclease Inhibitor; OS10G0469600 PROTEIN; L domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: receptor-like protein EIX2
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: receptor-like protein EIX2
+Ata
+  Gene count: 9
+  Modal chromosome: Ata06D
+  Gene Products: leucine-rich repeat receptor-like protein kinase PXC2; leucine-rich repeat receptor-like serine/threonine-protein kinase BAM2; probable inactive leucine-rich repeat receptor kinase XIAO; receptor-like protein 46; receptor-like protein EIX2
+Tae
+  Gene count: 20
+  Modal chromosome: Tae06B
+  Gene Products: LRR receptor-like serine/threonine-protein kinase GSO1; probable LRR receptor-like serine/threonine-protein kinase At4g36180; probable leucine-rich repeat receptor-like protein kinase At1g35710; receptor-like protein 46; receptor-like protein EIX2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 3
+  Modal chromosome: Ogl10
+  Gene Products: LRR receptor-like serine/threonine-protein kinase FLS2; probable inactive leucine-rich repeat receptor kinase XIAO; receptor-like protein EIX2
+  Gene Descriptions: LRR receptor-like serine/threonine-protein kinase FLS2; probable inactive leucine-rich repeat receptor kinase XIAO; receptor-like protein EIX2
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: receptor-like protein EIX2
+  Gene Descriptions: receptor-like protein EIX2
+Pau
+  Gene count: 2
+  Modal chromosome: Pau21
+  Gene Products: receptor-like protein EIX2
+  Gene Descriptions: receptor-like protein EIX2
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04N
+  Gene Products: receptor-like protein EIX2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: receptor-like protein EIX2
+Msi
+  Gene count: 4
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: leucine-rich repeat receptor-like protein kinase PXC2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: Leucine Rich Repeat family protein expressed
+  Gene Synonyms: GRMZM2G412373
+  Gene Descriptions: Leucine Rich Repeat family protein expressed
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 465 aa
+
+MAEHAQaSraPLlCLcLCLLLLSSaqrATSMyLDaDgnDdsFhDDSFSGetaPARRLYDE
+SFNVLNsNSSSSgSGAAFCRLLSLQILDLSNNqLTGELPDCWWNLQALQFMDLSNNSFSG
+EIPAApaSHNCSLESLHLAGNgFTGVFPSVLeGCdSLaTLDIGNNrFFGgIPPWIGsgVP
+SLKILSLRSNNFTGEIPsELSrLSQLQLLDLANNsLTGlIPveFGNLTSMKNPKIVSStG
+SLDGStYQDRIDIIWKGQELIFQRTIqLLTGIDLSGNSLSQCIPEELTNLqGLRFLNLSR
+NnLSCGIPkNIGSLKNLESLDLSwNELSGAIPpSiSsLStLSTLNLSNNHLSGKIPTGSQ
+LQTLTDPSIYSNNsGLCGpPLnIpCtNtSpASDERnGRegEDQWLYYCVIAGVVFGFWLW
+FGMLFSIeTWRyAVFFFVDGMQcKVMQKVShIDQFLSKgksDQYL
+
+
+BOP CONSENSUS:
+Length: 453 aa
+
+MAGHAQASttPLLCLpLCLLLLSSpQRATSMYLDADGnHeTFSGGTVPESFSVrSRNSSN
+SSGAGAAFCRLLSLQILDLSNNqLTGELPDCWWNLQALQFMDLSNNSFSGEIPAAkASHN
+CSLESVHLAGNgFTGVFPsVLeGCDSLvTLDIGNNrFFGAIPPWIGTgVPSLRILSLRSN
+NFTGEIPSELSRLSQLQLLDMANNsLTGsIPVAFGNLTSMRNPEIVSSqgSLDGStYQDR
+IDIIWKGQELIFQRTIRLLTGIDLSGNSLSQCIPEELTNLQGLRFLNLSRNHLSCGIPkD
+IGSLKNLESLDLScNELSGAIPQSISiLSTLSTFNISNNHLSGKIPTGSQMQTLTDPSIY
+sNNSGLCGFPLidCpNTSpASDERtGEGEDQWLYYCVtAGVVFGFWLWFGMLFSIETWRy
+AlLFSVDGMQCKVMQKVSHIDQFLSKGntDQYm
+
+
+PACMAD CONSENSUS:
+Length: 466 aa
+
+MAEHAqGSQALLICLCLCLLLLSSSeHLAMSMDLDDDGDDDSFADDSFSDEVAPARRLYD
+DSFNVLNSNSSSNrSGAAFCRLLSLQILDLSNNQLTGELPDCWWEMQALQFMDLSNNSFS
+GEIPEAPPSHNCSLESLHLAGNgFTGVFPSVVrGCqsLATLDIGNNrFFGrIPPWIGSgV
+PALKILRLRSNNFTGEIPPELSqLsQLQLLDLANNgLTGLIPrEFGnLtSMKNPKINSST
+GSLDGStYQDRIDIIWKGQELIFQRILELMTGIDLSGNSLSqCIPEELTNLqGLRFLNLS
+RNNLSCGIPKNIGSLKYLESLDLSWNELSGAIPvGMSSLvSLNTLNLSNNHLSGKIPTGS
+QLQTLtDPSIYSNNPGLCGPPLDIPCTNaSpAlDkRNGrDPsDQWLYYCVIAGIVFGFWL
+WyGMLFSIpKWRhSVFLFVDrMQYKvMQKVQPIDQFLSKEKSDPFL
+
+================================================================================

@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM002339
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             543.0 aa
+Family Size (Extended Family Size): 21 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11907:SF25
+Panther Family ID:               PTHR11907
+Modal Panther ID:                PTHR11907:SF25
+Modal Panther Description:       AMIDOPHOSPHORIBOSYLTRANSFERASE
+Modal Panther Family ID:         PTHR11907
+Modal Panther Fam Desc:          AMIDOPHOSPHORIBOSYLTRANSFERASE
+Interpro Signature Accession:    cd00715; G3DSA:3.40.50.2020; G3DSA:3.60.20.10; TIGR01134; PTHR11907; PIRSF000485; SSF53271; SSF56235
+Interpro Signature Description:  GPATase_N; -; Glutamine Phosphoribosylpyrophosphate, subunit 1, domain 1; amidophosphoribosyltransferase; AMIDOPHOSPHORIBOSYLTRANSFERASE; Pur1; PRTase-like; N-terminal nucleophile aminohydrolases (Ntn hydrolases)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: amidophosphoribosyltransferase%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: amidophosphoribosyltransferase%2C chloroplastic-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: amidophosphoribosyltransferase%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: amidophosphoribosyltransferase%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: amidophosphoribosyltransferase%2C chloroplastic-like
+  Gene Descriptions: amidophosphoribosyltransferase%2C chloroplastic-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: amidophosphoribosyltransferase%2C chloroplastic
+  Gene Descriptions: amidophosphoribosyltransferase%2C chloroplastic
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: amidophosphoribosyltransferase%2C chloroplastic-like
+  Gene Descriptions: amidophosphoribosyltransferase%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: amidophosphoribosyltransferase%2C chloroplastic-like; amidophosphoribosyltransferase%2C chloroplastic-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: amidophosphoribosyltransferase%2C chloroplastic-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: amidophosphoribosyltransferase%2C chloroplastic
+Zma
+  Gene count: 2
+  Modal chromosome: Zma06
+  Gene Products: amidophosphoribosyltransferase%2C chloroplastic-like
+  Gene Synonyms: GRMZM2G018238
+  Gene Descriptions: amidophosphoribosyltransferase%2C chloroplastic-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 543 aa
+
+MGMaAAAAAtSTSRLLLHHHAAAGSdRHhQqQLRYSAsPsPLsLRCGSGRReAAAGALLP
+DRVTPFSYGvDEDSDDHPREECGLVGVVGDPDASSLCYLGLQKLQHRGEEGAGIVAVGGD
+GKLKSVTGLGLVADVFGDPSRLASLPGPAAIGHVRYSTAGAAASLRNVQPFLAGYRFGQV
+AVAHNGNLVNYQALRNKLEARGSIFNTSSDTEVILHLIATSLSRPLLARICDACERLAGA
+YSLLFLTADKLFAVRDPHGFRPLVLGRRRNGAVVFASETCALDLIDATYEREVEPGEVVV
+VDRRDMSVSSACLVPHRPRRACVFEHIYFSLPNSVVFSHAVHERRTAFGRALAEESPAPG
+ADVVIPVPDSGFYAALGFARASGLEFQQGLIRWHYSGRSFIQPTQAIRDLAVKLKLAPVR
+GVIrGKSVVVVDDSLVRGTTSSKIVRLLRDAGAREVHMRIASPPVVGSCLYGIDTPSEGE
+LISNRMDLEGVRREIGSDSLAFLSLGKLHGIYGEEAGDYCDACFSRKYPVLPTLPEPAAE
+pEE
+
+
+BOP CONSENSUS:
+Length: 541 aa
+
+MGMAAAAAPSTSRLLHHHHTTsgSKRHHQQQRLRYSPNPSPLALRRRLSPPAGALLPDRV
+TPFSYGADDESDDHPREECGLVGVVGHPDASSLCYLGLQKLQHRGEEGAGIVAVGGDGKL
+KSVTGLGLVADVFGDPSRLASLPGPAAIGHVRYSTAGAAASLRNVQPFLAGYRFGQVAVA
+HNGNLVNYQALRSKLEARGSIFNTTSDTEVILHLISTSLSRPLLARICDACERLAGAYSL
+LFLTADKLFAVRDPHGFRPLVLGRRPNGAVAFASETCALDLIDATYEREVEPGEVVMVDR
+RDMSVSSACLVPRLPRRACVFEHIYFSLPNSVVFSHDVHERRTAFGRALAEESPAPGADV
+VIPVPDSGFYAALGFSRESGLEFQQGLIRWHYSGRSFIQPTQAIRDLAVKLKLAPVRGVI
+RGKSVVVVDDSLVRGTTSSKIVRLLRDAGAREVHMRIASPPVVGSCLYGIDTPSDGELIS
+NRMDLEGVRREIGSDSLAFLSLDKLHGIYGEEAGDYCDACFSRKYPVLPTLPEPAAEFDE
+E
+
+
+PACMAD CONSENSUS:
+Length: 544 aa
+
+MGIVAAAAAATsTSRLLLHHHAAAGSDRHHQHQLRYSASpFPLSLRCGSGRREAAAGALL
+PDRVTPFSYGVDEDADDHPREECGLVGVVGDPDASSLCYLGLQKLQHRGEEGAGIVAVGG
+DGKLKSVTGLGLVADVFGDPSRLASLPGPAAIGHVRYSTAGAAASLRNVQPFLAGYRFGQ
+VAVAHNGNLVNYQALRNKLEARGSIFNTSSDTEVILHLIATSLSRPLLARVCDACERLAG
+AYSLLFLTADKLFAVRDPHGFRPLVMGRRRNGAVVFASETCALDLIDATYEREVEPGEVV
+VVDRRDMSVASACLVPHRPRRACVFEHIYFSLPNSVVFSHAVHERRTAFGrALAEESPAP
+GADVVIPVPDSGFYAALGFARASGLEFQQGLIRWHYSGRSFIQPTQAIRDLAVKLKLAPV
+RGVItGKSVVVVDDSLVRGTTSSKIVRLLRDAGAREVHMRIASPPVVGSCLYGIDTPSEG
+ELISNRMDLEGVRREIGSDSLAFLSLGKLHGIYGEEAGDYCDACFSRKYPVLPTLADPAA
+EPEE
+
+================================================================================

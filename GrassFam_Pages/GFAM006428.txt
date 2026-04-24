@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM006428
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             608.0 aa
+Family Size (Extended Family Size): 19 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12169:SF6
+Panther Family ID:               PTHR12169
+Modal Panther ID:                PTHR12169:SF6
+Modal Panther Description:       AFG1-LIKE ATPASE
+Modal Panther Family ID:         PTHR12169
+Modal Panther Fam Desc:          ATPASE N2B
+Interpro Signature Accession:    G3DSA:3.40.50.300:FF:001040; NF040713; PTHR12169; PF03969
+Interpro Signature Description:  AFG1-like ATPase isoform C; cell division protein ZapE; ATPASE N2B; AFG1-like ATPase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: AFG1-like ATPase%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: putative ATPase N2B%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: AFG1-like ATPase%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: AFG1-like ATPase%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: uncharacterized LOC127765756%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127765756
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: uncharacterized protein%2C transcript variant X2
+  Gene Descriptions: uncharacterized LOC4334807
+Pau
+  Gene count: 1
+  Modal chromosome: Pau03
+  Gene Products: uncharacterized LOC133913799
+  Gene Descriptions: uncharacterized LOC133913799
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: AFG1-like ATPase%2C transcript variant X1; putative ATPase N2B%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: putative ATPase N2B
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: putative ATPase N2B%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: ATPase
+  Gene Synonyms: GRMZM2G115372
+  Gene Descriptions: ATPase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 615 aa
+
+MLlRLHVrVtRRSLSAALLAAAPRDdAPRaLPSAGLPRRLHDAAGGASSDHrRKPGGPLT
+LYRdLVSQGKLtHDsYQENVASELDsLLrRLErYEMEMEDYHTKLSmWENSREKERRRLL
+VEEAEDKQHDGVWIDEKRGFLDKLvSRKRRGNIEPGVGrWVSYLNREKKLDtLVGQKPVA
+PVAPKGLYLYGNVGSGKTMLMDMFYGATEGVIKHRRRFHFHEAMLEIHDHMHDVWKRRDD
+DKSihSSAFSWISSLPFDAKIKEWLIGEEKYKQdTQQKHILLAVADKFLVDRQANKcGAS
+ILCFDEIQTIDVFAVVALSGILSRLLSTGTVLVATSNKAPEDLNQDGMQREIFLELLSKL
+DEtCNKILVGTETDYRRLIPTDGSTQIHYFWPtTSDTRSMYEAMWHDITNQTGGNItAVT
+IPVMFGRSIEIPQSCNGVARFDFEYLCGRPVGAADYIAIARNYHTIFISDIPAMSMKIRD
+KARRFITLIDELYNHHCRLICLAaSSIDDLFQGTEEGPLFDLESFQFETEAEGTKLRRDV
+LAEGNVGaGPSTtGLVSmLSGQEEMFAFRRAISRLIEMQTPLYLERVQHVHsSfQQQGtP
+VLAKqSTVSQSAPlV
+
+
+BOP CONSENSUS:
+Length: 608 aa
+
+MLLRLRVGVTRRSAALLAAaPRgDPPALPsLPLPRRLHDAADHRPKPGGPLTLYRDLVSQ
+GKLRHDVYQENVASELDSLLGRLERYEMEMEDYHTKLSMWDSTREKERRRLLLEEAEDKQ
+HDGVWIDEKRGFLDKLISRKRRANIEPGVGRWVSYLNRERKLDNLVGQKPVAPVAPKGLY
+LYGNVGSGKTMLMDMFYGATEGVIKHRRRFHFHEAMLEIHDHMHDVWKRRDDGKSMESSA
+FSWISGLPFDAKIKEWLIGEEKYKQDKHQKHILLAVADKFLVDRQANKCGASILCFDEIQ
+TIDVFAIVALSGILSRLLSTGTVLVATSNKAPEDLNQDGMQREIFLELLSKLDETCNKIL
+VGTETDYRRLIPTDGSTQIHYYWPTNPDTRSMFEAMWHDITNQTGGNITAVTIPVMFGRS
+IEIPQSCSGVARFDFEYLCGRPVGAADYIAIARNYHTIFISDLPAMSMKIRDKARRFITL
+IDEMYNHHCRLICLATLPIDNLFQGTEEGPLFDLESFQFETEAEGSKLRRDVSAEGNVGA
+GPSTrGLVSMLSGQEEMFAFRRAISRLIEMQTPLYLERVQHVHSSALQQQQGTPVLAKQS
+TVSQSAPL
+
+
+PACMAD CONSENSUS:
+Length: 614 aa
+
+MILRRLHvRVSRRSLASAALLDAAPRALPSAGLFRGLHGAAGDGASSEHGRKPGPLTLYR
+NLVSQGKLTHDSYQENVASELDNLLSRLQQYEMEMEDYHnKLYIWENSREKERRRLLVEE
+AEDKQRDGVWIDEKRGFLDKLVTRRRRGSIEPGVGKWVSYLNREKKLDTLVGQRPVAPVA
+PKGLYLYGNVGSGKTMLMDMFYGATEGVIKHRRRFHFHEAMLEIHDHMHDVWKRRDDDKS
+IHSSAFSWISSLPFDAKIKEWLIGEEKYKQQTQQKHILLAVADKFLVDRQANKTGASILC
+FDEIQTIDVFAVVALSGILSRLLSTGTVLVATSNKAPEDLNQDGMQRDIFLELLSKLDEN
+CNKILVGTEKDYRRLIPTEGSTQVHYFWPVTSDTRSMYEAMWHDITNQSGGNIISVTIPV
+MFGRSIEIPQSCNGVARFDFEYLCGRPVGAADYIAIARNYHTIFISEIPAMSMKIRDKAR
+RFITLIDELYNHHCRLICLAASSIDDLFQGTEEGPLFDLESFQFETESEGTKLRRDVLAG
+GNVGLGPSTTGLVAILSGQEEMFAFRRAISRLIEMQTPLYLERVQDVHPSFRLQppPGLA
+SNNRtAVPQPAPAV
+
+================================================================================

@@ -1,0 +1,128 @@
+================================================================================
+GrassFam ID: GFAM001445
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             629.0 aa
+Family Size (Extended Family Size): 15 (17) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR10139
+Modal Panther ID:                PTHR10139:SF8
+Modal Panther Description:       MRE11 DNA-BINDING DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR10139
+Modal Panther Fam Desc:          DOUBLE-STRAND BREAK REPAIR PROTEIN MRE11
+Interpro Signature Accession:    cd00840; G3DSA:3.60.21.10:FF:000019; G3DSA:3.30.110.110:FF:000002; G3DSA:3.60.21.10; G3DSA:3.30.110.110; PTHR10139; PIRSF000882; PF04152; SM01347; SSF56300
+Interpro Signature Description:  MPP_Mre11_N; Double-strand break repair protein; -; Mre11, capping domain; DOUBLE-STRAND BREAK REPAIR PROTEIN MRE11; DSB_repair_MRE11; Mre11 DNA-binding presumed domain; Mre11_DNA_bind_2; Metallo-dependent phosphatases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: double-strand break repair protein MRE11
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: double-strand break repair protein MRE11-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: double-strand break repair protein MRE11
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: double-strand break repair protein MRE11-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN4
+Pau
+  Gene count: 1
+  Modal chromosome: Pau16
+  Gene Products: double-strand break repair protein MRE11-like
+  Gene Descriptions: double-strand break repair protein MRE11-like
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: double-strand break repair protein MRE11-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: double-strand break repair protein MRE11-like
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: double-strand break repair protein MRE11
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: Mre11B protein
+  Gene Synonyms: GRMZM2G309109,Mre11B
+  Gene Descriptions: Mre11B protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 624 aa
+
+MkaagEeGGSSTLRILVATDCHLGYLEKDElRRFDSFDTFEEICSLAEKHKVDFLLLGGN
+LFHENKPSrSTLVKTIEILRRYCLNDRPVQFQVVSDQAASLQNRFGRVNYEDqNYNVGLP
+VFTIHGDHDDPTGVDNMSAIDILSAgNFVNYFGKtDLGSSGVGkmSVHPILIKKGATSVA
+LYGLGNIRDARLSRMLQTPhAVNWMqPEStDEiPLSDWFNILVLHQNRtKGSPdNGINEr
+LLPRFLDLVIWGHEHECLIDPqEVPGMGFHITQPGSSIATSLINAEAKqKHVLLLEIKGm
+qYRPTKIPLKSVRPFEYAEVVLEDQVDVDPsDEASVhAHLHKVVSNLIEKnRETAgSGSE
+PKLPLVRIKVDYSGFSTINPKQFGQKYVGKVANPQDILvFSRSAKRrQNTQEntngSgEL
+yPNELNQqTVEALIAEsNLnMQvLpLDDLNTALHvFVNKDDkMAFHSCLQQNIEEAINKL
+TTaKVDtdIEDEdaMvHgLDQfMQArEKgrtqTatSSQSLlTsTLSaFEELKCSsDPDQD
+irdDsDEPIEsSDgEEhhsQmAGrKRRAAPgGGgGSSaASAArRRKTDLASFQRaPVKED
+DAGAkKKGRPPvVAGRYGAVIRRR
+
+
+BOP CONSENSUS:
+Length: 635 aa
+
+MKAAGEAGGSSTLRILVATDCHLGYLEKDELRRSDSFDTFEEIFSLAEKHNVDFLLLGGN
+LFHENKPSRSTLVKTIEILRRRCLHDRPVQFQVVSDHAASLQNLFGRPNFEDQNINVGLP
+VFTIHGDHDDPTGVDNMSAIDVLAATGFVNYFGKVDLGSSGVGHMSIHPILIKKGATSVA
+LYGLGNVRDARLSRMFQTPGAIGWMKHESTEDmPLSDWFNILVLHQNRIKGSPDNGINER
+LLPnFLDLVIWGHEHECLVDPKEVPGMGFHITQPGSSIATSLTSAEAKQKHVLLLEINGM
+KYRPTNIPLKTVRPFEYAEVVLEDQADVDANDEASVDAHLDKVVANLIEKNDTTAGSGSE
+PKLPLVRIKVDYtGFLTIHPQRFGQKYVGKVANPQDIIVFSRSAKRRQNTQDNtGGSrEL
+YPNELNQHTVEALVAEINLNMQVLrLDDLDTALHVFVNKDDNMAFHSCLQKNTEEAINmL
+TAsKVDTDIEDEDAMvVHdLDQFMQAREKGRTQTAtSAQSLPTSTALSAFEELKCSPDPD
+QDIRDDSNELIETSDGECHHEKMARPGKRPAPFPATAGGSASSPSSSARGRKTDLASFrR
+IPAPAVKEELDDRGTKKGRPSPHVAGRYGAVRRNR
+
+
+PACMAD CONSENSUS:
+Length: 631 aa
+
+MALvyqADDRLvwDvlseEEgGsSTLRILVATDCHLGYLEKDEVRRFDSFDTFEEICSLA
+EKNKVDFLLLGGDLFHENKPSNSTLVKTIEILRRYCMNDRPVQFQVISDQAASLQNRFGQ
+VNYEDPNYNIGLPVFTIHGsHDgPTGVDNLSvNDILSAGNFLNYFGKTDLGCTGVGKiTV
+YPiFIRKGETYVALYGLGNIRDgRLNRMLHEPHAVNWMQPEIRDETPLSDWFNILVLHQK
+RtKGSPsNGISELLLPRFLDLVIWGHEHECLIDPQEVsGMGFHITQPGSSIATSLINAEA
+KPKHVLLLEIKGtQYRtTKIPLQSVRPFEYAEVVLEDQVDVDPSDEATIHAHLHKVVSNL
+IEKSRETAASGSEPKLPLVRIKVnYSGfSTINSKQFGQKYVGKVANPQDILLFTKSgKRC
+ktTQEStNsSGELdTNDLNQQTIEALIsESNLqlEILsVnDLNSALHDFVnnDDKtAFHS
+CLqQSIEEARNKLTTATEDStNIeEQQIACsLDQyVQAqGKETITKGRTSSQNLLTdALS
+VFEsQKsSTTDDEPVESSDPEESssSQqAGRKRRAAPGGGGGGSAASAAGRRKTDLASFQ
+RAPvKEDDADAAKKRRAPVAAGRYGAVIRRR
+
+================================================================================

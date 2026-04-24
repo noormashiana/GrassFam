@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM006593
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             364.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR16557:SF11
+Panther Family ID:               PTHR16557
+Modal Panther ID:                PTHR16557:SF11
+Modal Panther Description:       ALPHA-KETOGLUTARATE-DEPENDENT DIOXYGENASE ALKB
+Modal Panther Family ID:         PTHR16557
+Modal Panther Fam Desc:          ALKYLATED DNA REPAIR PROTEIN ALKB-RELATED
+Interpro Signature Accession:    G3DSA:2.60.120.590:FF:000020; G3DSA:2.60.120.590; PTHR16557; PF13532; SSF51197
+Interpro Signature Description:  Alpha-ketoglutarate-dependent dioxygenase alkB; -; ALKYLATED DNA REPAIR PROTEIN ALKB-RELATED; 2OG-Fe(II) oxygenase superfamily; Clavaminate synthase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: alpha-ketoglutarate-dependent dioxygenase alkB
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: alpha-ketoglutarate-dependent dioxygenase alkB%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: alpha-ketoglutarate-dependent dioxygenase alkB%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: alpha-ketoglutarate-dependent dioxygenase alkB-like; alpha-ketoglutarate-dependent dioxygenase alkB-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola11
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: alpha-ketoglutarate-dependent dioxygenase alkB
+  Gene Descriptions: alpha-ketoglutarate-dependent dioxygenase alkB
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: alpha-ketoglutarate-dependent dioxygenase alkB
+  Gene Descriptions: alpha-ketoglutarate-dependent dioxygenase alkB
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 1
+  Modal chromosome: Pau12
+  Gene Products: alpha-ketoglutarate-dependent dioxygenase alkB%2C transcript variant X1
+  Gene Descriptions: alpha-ketoglutarate-dependent dioxygenase alkB
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi08K
+  Gene Products: alpha-ketoglutarate-dependent dioxygenase alkB-like%2C transcript variant X1; alpha-ketoglutarate-dependent dioxygenase alkB-like%2C transcript variant X3
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: alpha-ketoglutarate-dependent dioxygenase alkB%2C transcript variant X2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: alpha-ketoglutarate-dependent dioxygenase alkB%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100382739%2C transcript variant X1
+  Gene Synonyms: GRMZM5G844096
+  Gene Descriptions: uncharacterized LOC100382739
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 364 aa
+
+MYGeTEPAAAERTAFRRAEKQYKLYKPPNlKGRSRSRSKPaGGgGGGGGDLSAVVDFHAL
+LAAdGELPAGIGRcDCAGFDRPVFCFLDRPGFYFIPGALSTEEQCYWIRESLKTFPQPPN
+RTNLTAiYGSISDLLIAAKNQKILVEVENSDgQERNEQNNvGgKTeSKyFKFVEDSEIQK
+GEecRSTaATTLVRKLRWSTLGLQFDWSKRNYDVSLPHNKIPDALAtLAKKMAIPAMPSG
+EEFKPEAAIVNYYGPSDMLGGHVDDMEADWTKPIVSISLGCKCIFLLGGKTRDEVPTAMF
+LRSGDIVLMAGEARERFHGVPRIFTESDQQEISALVSQLSgeDDrFILDYIKNSRININI
+RQVY
+
+
+BOP CONSENSUS:
+Length: 367 aa
+
+MYGETEPGAAAERTAFRRAEKQYKLYKPPSRKGRSrSRSRGKPaGGGGGGGDLSAVVDFH
+ALLAAGgGELPAGIRRCDRAGFHLPVFCFLDRPGFYFIPGALSTEEQCYWIRESLKTFPQ
+PPNRTNLTAtYGPISDLLIAAKNQKILVEVESSnGQERdEQNNVGENAHPGKFKFVDDSE
+IQKGERPKSTtAATLVRKLRWSTLGLQFDWSKRNYDVSLPHNKIPDDLATLAKKMAVPAM
+PSGEEFtAEAAIVNYYGPSDMLGGHVDDMEADWTKPIVSISLGCKCIFLLGGKTRDEAPT
+PMFLRSGDIVLMAGEARERFHGVPRIFTESDQQEISGLVSQLSdDDDRFILDYIHNSRIN
+INIRQVY
+
+
+PACMAD CONSENSUS:
+Length: 363 aa
+
+MYGASDPAAAERTAFRRAEKQYKLYKPPNLKGRSRSRSKPsGGEGGGGDLSAVVDFHALL
+AADGELPAGIGRRDCAGFDRPVFCFLDRPGFYFIPGALSTEEQCYWIRESLKTFPQPPNR
+TNLTAIYGSISDLLIAAKNQKILVEVENPDvQERNEQNNgGGKTESKYFKFVEDSEsQKG
+EECRSTAATTLVRKLRWSTLGLQFDWSKRNYDVSLPHNKIPDALASLAKKMAIPAMPSGE
+EFKPEAAIVNYYGPSDMLGGHVDDMEADWTKPIVSISLGCKCIFLLGGKTRDEVPTAMFL
+RSGDIVLMAGEARERFHGVPRIFTESDQQEISALVSQLSGEDDcFILDYIKNSRININIR
+QVY
+
+================================================================================

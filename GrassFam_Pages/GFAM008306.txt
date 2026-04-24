@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM008306
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             372.0 aa
+Family Size (Extended Family Size): 27 (27) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10177:SF231
+Panther Family ID:               PTHR10177
+Modal Panther ID:                PTHR10177:SF231
+Modal Panther Description:       CYCLIN-F3-2-RELATED
+Modal Panther Family ID:         PTHR10177
+Modal Panther Fam Desc:          CYCLINS
+Interpro Signature Accession:    G3DSA:1.10.472.10:FF:000013; G3DSA:1.10.472.10:FF:000167; G3DSA:1.10.472.10; PTHR10177; PIRSF001771; PF00134; PF02984; SM01332; SSF47954
+Interpro Signature Description:  Cyclin A1; Mitotic cyclin 6; -; CYCLINS; Cyclin_A_B_D_E; Cyclin, N-terminal domain; Cyclin, C-terminal domain; Cyclin_C_2; Cyclin-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: cyclin-A3-2%2C transcript variant X1
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu04H
+  Gene Products: cyclin-A3-1-like; cyclin-A3-2-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata04D
+  Gene Products: cyclin-A3-1; cyclin-A3-2%2C transcript variant X1
+Tae
+  Gene count: 6
+  Modal chromosome: Tae04A
+  Gene Products: cyclin-A3-1-like; cyclin-A3-1-like%2C transcript variant X1; cyclin-A3-2-like; cyclin-A3-2-like%2C transcript variant X1
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl03
+  Gene Products: putative cyclin-F3-1; putative cyclin-F3-2
+  Gene Descriptions: putative cyclin-F3-1; putative cyclin-F3-2
+Osa
+  Gene count: 2
+  Modal chromosome: Osa03
+  Gene Products: putative cyclin-F3-1; putative cyclin-F3-2%2C transcript variant X4
+  Gene Descriptions: putative cyclin-F3-1; putative cyclin-F3-2
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau03
+  Gene Products: cyclin-A3-1-like%2C transcript variant X1
+  Gene Descriptions: cyclin-A3-1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: cyclin-A3-1-like%2C transcript variant X1; putative cyclin-A3-1%2C transcript variant X3
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: G2/mitotic-specific cyclin C13-1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: G2/mitotic-specific cyclin C13-1%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: uncharacterized LOC100280138%2C transcript variant X1
+  Gene Synonyms: GRMZM2G178215,GRMZM2G178247
+  Gene Descriptions: uncharacterized LOC100280138
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 373 aa
+
+MePRRRRkqQEAMEsKENaAhsAPPpkRPRGKRKALAELPtsPnANnASApRpSKPrTRs
+AARAeAAAApEEARkReeAaDAARPLDsrQPDAgAAQAAVAPYVGDIDRYLRSLEVEqLR
+RPrdDYfqkIQKDISPKMRAILVDWLVEVAdEFKLqADTLYLAVSYVDRFLTanVVTRDK
+LQLLGVTALlVAAKYEEIevpKVnrYSDITDgTYTkQQVVKMEADILKSLNFQMGSPTVR
+TFLRRFItSCRGGNrASAKKLElMCSYLAELSLLDYDCIrFLPSVVAAACLFVARFTIsP
+KTRPWNLTLQrNTGYKVSDLkSCILrIHeLQLgrrYPnLKAIRsKYsDRKFGCVStMASP
+eEIPaSFLeDlnK
+
+
+BOP CONSENSUS:
+Length: 374 aa
+
+MEPRGRRRKQQGAAGNkeneESAApPAkrPrTALAELPTePTANNASAePgApSEPmTra
+pAREAAAAAPeeEarrrEGSAdaARpaaSrQPDPgAAQAsVaPYVgDIDRYLRSLEVEQs
+RRPRDDYmvtiQkDINakMRGILVDWLVDVAdeFnLlADTLYLAVSYVDRFLTASVitRD
+KLQLLGVaALFVAAKYEEIhVPkVrkFSdITdnTYTtQQVVKMEADILKyLNFQMGSPTv
+RTFLRRFLTSCRGgNrASAKRLELMCsYLAELSLLDYDCIRFLPSVVAAACLFLARFTIS
+PktRPWNLTLQRNTGYKVSDLKSCILrIHDLQLGRkYsNLKAIRsKYsDRkFgcVSmMAS
+PEnIPpSFLKDLkr
+
+
+PACMAD CONSENSUS:
+Length: 369 aa
+
+MESKENAAHSAPPLrRPRGKRKALAELPaNEGrNTNhGSAPRPSKPRTRSAARAEAEAEE
+ARKRREAEDAARGADVtRLLDPKRPDAgAAQAAVAPYvGDIDRYLRSLEVEPLRRPSPDY
+FQKIQKDISPKMRAVLVDWLVEVAeEFKLQAETLYLAVSYVDRFLTvNVVTRDKLQLLGV
+TALLVAAKYEEIESSKMKVNRYTDITDhTYTKQQVVKMEADLLKSLNFqIGGPTVTTFLR
+rFIASCRGGNsISrKKLESMCSYLAELSLLDYDCISYLPSVVAAACLFVARFTIhPKTRP
+WNLTLQQNTGYKVSDLQKSIfvIHELQLSIRCPDQKAIREKYkDPKFGCVSTMASPREIP
+ASFLEDCNK
+
+================================================================================

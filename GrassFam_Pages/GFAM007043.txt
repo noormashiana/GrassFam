@@ -1,0 +1,145 @@
+================================================================================
+GrassFam ID: GFAM007043
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             644.0 aa
+Family Size (Extended Family Size): 21 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24031:SF2
+Panther Family ID:               PTHR24031
+Modal Panther ID:                PTHR24031:SF2
+Modal Panther Description:       ATP-DEPENDENT RNA HELICASE DDX55
+Modal Panther Family ID:         PTHR24031
+Modal Panther Fam Desc:          RNA HELICASE
+Interpro Signature Accession:    cd18787; cd17960; G3DSA:3.40.50.300:FF:000877; G3DSA:3.40.50.300; PTHR47959; PF00270; SM00487; SM01178; SSF52540
+Interpro Signature Description:  SF2_C_DEAD; DEADc_DDX55; RNA helicase; -; ATP-DEPENDENT RNA HELICASE RHLE-RELATED; DEAD/DEAH box helicase; ultradead3; DUF4217_3; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: DEAD-box ATP-dependent RNA helicase 18
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: DEAD-box ATP-dependent RNA helicase 18-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: DEAD-box ATP-dependent RNA helicase 18
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: DEAD-box ATP-dependent RNA helicase 18-like; DEAD-box ATP-dependent RNA helicase 18-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: DEAD-box ATP-dependent RNA helicase 18
+  Gene Descriptions: DEAD-box ATP-dependent RNA helicase 18
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: DEAD-box ATP-dependent RNA helicase 18-like
+  Gene Synonyms: bip115,OsJ_00495,P0701D05.2
+  Gene Descriptions: DEAD-box ATP-dependent RNA helicase 18-like
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 1
+  Modal chromosome: Pau01
+  Gene Products: DEAD-box ATP-dependent RNA helicase 18
+  Gene Descriptions: DEAD-box ATP-dependent RNA helicase 18
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: DEAD-box ATP-dependent RNA helicase 18; DEAD-box ATP-dependent RNA helicase 18-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: DEAD-box ATP-dependent RNA helicase 18
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: DEAD-box ATP-dependent RNA helicase 18%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: ATP-dependent rRNA helicase spb4
+  Gene Synonyms: GRMZM2G303752
+  Gene Descriptions: ATP-dependent rRNA helicase spb4
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 644 aa
+
+MASSSPAAAAARKRALTEQRFSELSPALSPEVVEALDRGGFRRCTPVQAATIPLLLSHKD
+VAVDAATGSGKTLAFVVPVVEILRRRSSPPKPHEVLAIIISPTRELSSQIYNVAQPFFAT
+LKGVSSMLLVGGLDIKAELKKVEEEGANILVGTPGKLFDIMERLDTLEYKNLEILILDEA
+DRLLDMGFQKQITSIISKLPKLRRTGLFSATQTEAVeELAKAGLRNPVRVEVKTEAKpTS
+KDAGQQELGPSKTPLGLRLEYMICEASKKSSQLVDFLVQNsGKKIMVYFATCACVDYWAV
+VLPLLNSLKGSPIIAYHGKMKQGPREKALASFSALSSGILVCTDVAARGLDIPHVDLIVQ
+YDPPQDPNVFIHRAGRTARYDQEGDAIVFLLPKEDTYVEFLKLRGVPLTERECStNIVDV
+VPQIRSAALEDRNVMEKGLRAFVSFVRAYKEHHCSYIFRWKDLEIGKLAMEYGLLQIPSM
+PEVKHHSLSLEGFIPVgDVDvTQIKYKDKAREKQRQKALKRKAEELAQNPKPEkKRAREK
+PEKPKRKKTGKQRQSIQTKEDLDELTHEYRLLKKLKRGVIDEDEYEKLTGFGDSDGEGSD
+GDASdLDkRKERGNKvQKKLKQRGKkrGGSRKFEGKSKlKSKRR
+
+
+BOP CONSENSUS:
+Length: 643 aa
+
+MASSSSPSPATAAARKRALTEQRFSELTPALSPEVVEALDRGGFRRCTPVQAATIPLLLS
+HKDVAVDAATGSGKTLAFVVPVVEMLRRLPSPPKPHQVLGIIISPTRELSSQIYNVAQPF
+FATLKGVSSILLVGGLDIKvELKKVEEEGANILVGTPGKLFDIMERLDTLEYKHLEILIL
+DEADRLLDMGFQKQVTSIISKLPKLRRTGLFSATQTEAVEELAKAGLRNPVRVQVKTEAK
+DAAQQDLGPSKTPLGLRLEYMICEPSKKSSQLVDFLVQNTGKKIMVYFATCACVDYWSVV
+LPMLNLLKGSPVIPYHGKMKQGPREKALASFSALSSGILVCTDVAARGLDIPHVDLIVQY
+DPPQDPNVFVHRAGRTARYDQEGDAIVFLLPTEDAYVEFLKLRGVPLMERECSPDIVDIV
+PQIRAAALEDRNIMEKGLRAFVSFVRSYKEHHCSYIFRWKGLEVGKLAMEYGLLQIPSMP
+EVKHNNLSLKGFFPLGNVDFSQIKFKDKTREKQRQKALKRKAEELANEPPVPEKRkPRER
+PDKPKRKQTGKQRQTIQTKEDMDELTNEYRLLKKLKRGVIDEDEYEKLTGFGGSDGEGSD
+GDAAGkGKGKERRSKEQKKLKQRGGKTGGRRFEGKSKLKSKRR
+
+
+PACMAD CONSENSUS:
+Length: 644 aa
+
+MAASTPAAAAARKGALTEQRFSELSPALSPEVVEALDRGGFrRCTPVQAATIPHLLSHKD
+VAVDAATGSGKTLAFIVPVVEILRRRSSPPKSHEVLAlIISPTRELSSQIYNVAQPFFAT
+LKGVSSMLLVGGLDIKAELKKVEEEGANILVGTPGKLcDIMhRtDALEYKNLEILILDEA
+DRLLDMGFQKQINFILSKLPKLRRTGLFSATQTKAVAELSKAGLRNPiRVEVKTEAKsTS
+KDAGQQELGPSKTPLGLRLEYMICEASKKSSQLVDFLVQNSGKKIMVYFATCACVDYWAV
+VLPLLNSLKGSPIIAYHGKMKQGPREKALASFSALSSGILVCTDVAARGLDIPSVDLIVQ
+YDPPQDPNVFIHRAGRTARYDQEGDAIVFLLPKEDTYVEFLKLRGVPLTERECPaNTEDV
+VPQIRSAALEDRNVMEKGLRAFVSFVRAYKEHHCSYIFRWKDLEIGKLAMEYGLLQIPSM
+PEVKHHSLSLEGFIPVDDVDVTQIKYKDKAREKQRKKALKRKAEEEAQNPKPEKKRAPEK
+PEKPKRKKTGKQRQSVQTKEDLDELAHEYRLLKKLKRGDIDEDEYEKLTGFGDSDGEASD
+GDASDLDERKERGNKAQKKLKQRGKgRGGSRKFEGKSKMRSKRR
+
+================================================================================

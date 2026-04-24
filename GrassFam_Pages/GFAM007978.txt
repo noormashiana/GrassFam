@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM007978
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             421.0 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43888:SF36
+Panther Family ID:               PTHR43888
+Modal Panther ID:                PTHR43888:SF36
+Modal Panther Description:       CHAPERONE PROTEIN DNAJ A6
+Modal Panther Family ID:         PTHR43888
+Modal Panther Fam Desc:          DNAJ-LIKE-2, ISOFORM A-RELATED
+Interpro Signature Accession:    cd10747; G3DSA:2.60.260.20:FF:000003; G3DSA:1.10.287.110:FF:000041; G3DSA:1.10.287.110; G3DSA:2.60.260.20; PTHR43888; PF01556; SM00271; SSF46565
+Interpro Signature Description:  DnaJ_C; DnaJ subfamily A member 2; Chaperone protein DNAj, putative; DnaJ domain; -; DNAJ-LIKE-2, ISOFORM A-RELATED; DnaJ C terminal domain; dnaj_3; Chaperone J-domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: chaperone protein dnaJ A6
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu06H
+  Gene Products: chaperone protein dnaJ A6-like; chaperone protein dnaJ A6-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: chaperone protein dnaJ A6
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: chaperone protein dnaJ A6-like; chaperone protein dnaJ A6-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: chaperone protein dnaJ A6-like
+  Gene Descriptions: chaperone protein dnaJ A6-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: chaperone protein dnaJ A6-like
+  Gene Descriptions: chaperone protein dnaJ A6-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: chaperone protein dnaJ A6-like
+  Gene Descriptions: chaperone protein dnaJ A6-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: chaperone protein dnaJ A6-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: chaperone protein dnaJ A6-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: dnaJ protein homolog
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: putative dnaJ chaperone family protein
+  Gene Synonyms: GRMZM2G118731
+  Gene Descriptions: putative dnaJ chaperone family protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 424 aa
+
+MFGRMPRKTSNNTKYYEVLGVSKTATPDELKKAYRKAAIKNHPDKGGDPEKFKELAQAYD
+VLNDPEKREIYDQYGEDALKEGMGGGGSSDMHSPFDIFEQLFGGGGGGFGGGSSRGRRQK
+RGEDVVHTMKVSLEDLYNGATKKLSLSRNVLCGKCKGKGSKSGATATCSGCRGAGMRMIT
+RQIGPGMIQQMNTVCPECRGSGEMISDKDKCPSCRGNKVvQEKKVLEVHVEKGMQHGQKI
+VFQGEADEAPDTVTGDIVFVLQLKEHPKFKRKSDDLYVEHTISLTEALCGFQFVLTHLDG
+RQLLIKSNPGEVIKPGQHKAINDEGMPQHGRPFMKGRLFVEFNVEFPEPGVLTPsQCkSL
+EKILPPRPGSQLSDMELDQCEETTMHDVNIEEEMRRRQHQRRQEAYDEEEEDEGAPRGVQ
+CAQQ
+
+
+BOP CONSENSUS:
+Length: 425 aa
+
+MFGRMPRKTSNNTKYYEVLGVSKTATPDELKKAYRKAAIKNHPDKGGDPEKFKELAQAYD
+VLNDPEKREIYDQYGEDALKEGMGGSGGADMHSPFDIFEQLFGGGGGGFGGGSSRGRRQK
+RGEDVVHTMKVSLEDLYNGATKKLSLSRNVLCGKCKGKGSKSGATATCSGCRGAGMRMIT
+RQIGPGMIQQMNTVCPECRGSGEMINDKDRCPSCRGNKVSQEKKVLEVHVEKGMQHGQKI
+VFQGEADEAPDTVTGDIVFVLQLKEHPKFKRKSDDLFVEHTISLTEALCGFQFVLTHLDG
+RQLLIKSNPGEIIKPGQHKAINDEGMPQHGRPFMKGRLFVEFSVEFPEPGVLTPSQCKSL
+EKILPPRPGSQSSDMDVDQCEETTMHDVNIEEEMRRRQHQRRQEAYDEEDEDEGGAPRGV
+QCAQQ
+
+
+PACMAD CONSENSUS:
+Length: 421 aa
+
+MFGRMPRKSSNNTKYYEVLGVSKTASQDELKKAYRKAAIKNHPDKGGDPEKFKELSQAYE
+VLSDPEKREIYDQYGEDALKEGMGGGSSSDFHSPFDIFEQLFPGSGTFGGGSSRGRRQKR
+GEDVVHTMKVSLEDLYNGTTKKLSLSRSVLCSKCKGKGSKSGASGTCHGCRGAGMRTITR
+QIGLGMIQQMNTVCPECKGTGEIISEKDKCPSCKGSKVVQEKKVLEVHVEKGMQHGQKIV
+FQGQADEAPDTVTGDIVFVLQLKDHPKFKRKYDDLYVEHTISLTEALCGFQFVLTHLDGR
+QLLIKSNPGEVIKPGQHKAINDEGMPQHGRPFMKGRLFVEFNVEFPEPGALSPAQCRSLE
+KILPPKPGSQLSDMELDQCEETTLHDVNIEEEMRRRQQQKRQEAYDEDEEEsGPRVQCAQ
+Q
+
+================================================================================

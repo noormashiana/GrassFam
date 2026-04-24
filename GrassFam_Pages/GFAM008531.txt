@@ -1,0 +1,105 @@
+================================================================================
+GrassFam ID: GFAM008531
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             528.0 aa
+Family Size (Extended Family Size): 9 (10) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR32444:SF236
+Panther Family ID:               PTHR32444
+Modal Panther ID:                PTHR32444:SF236
+Modal Panther Description:       D-MANNOSE BINDING LECTIN FAMILY PROTEIN, EXPRESSED
+Modal Panther Family ID:         PTHR32444
+Modal Panther Fam Desc:          BULB-TYPE LECTIN DOMAIN-CONTAINING PROTEIN
+Interpro Signature Accession:    cd00028; cd01098; G3DSA:2.90.10.10:FF:000005; G3DSA:2.90.10.10; PTHR32444; PIRSF002686; PF01453; PF00954; SM00108; SSF51110
+Interpro Signature Description:  B_lectin; PAN_AP_plant; G-type lectin S-receptor-like serine/threonine-protein kinase; -; BULB-TYPE LECTIN DOMAIN-CONTAINING PROTEIN; SLG; D-mannose binding lectin; S-locus glycoprotein domain; blect_4; alpha-D-mannose-specific plant lectins
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Ata
+  Gene count: 2
+  Modal chromosome: Ata02D
+  Gene Products: receptor-like serine/threonine-protein kinase SD1-8
+Tae
+  Gene count: 1
+  Modal chromosome: Tae02D
+  Gene Products: G-type lectin S-receptor-like serine/threonine-protein kinase SRK
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl12
+  Gene Products: receptor-like serine/threonine-protein kinase SD1-8
+  Gene Descriptions: receptor-like serine/threonine-protein kinase SD1-8
+Osa
+  Gene count: 1
+  Modal chromosome: Osa12
+  Gene Products: receptor-like serine/threonine-protein kinase SD1-8
+  Gene Descriptions: receptor-like serine/threonine-protein kinase SD1-8
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Msi
+  Gene count: 1
+  Modal chromosome: Msi15
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: G-type lectin S-receptor-like serine/threonine-protein kinase At4g27290
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 474 aa
+
+MrmsshLLsLLLpsLlVLtTpAaAtkaSDvLakGRNVTDGDTLVSAGGSFTLGFFSPGvp
+tKRYLGIWFSVSPDAVyWVANRDRPLsDTSGALVLTDAGSLLLLDGSGQVVWSSNTTGAT
+tSAsARLLDSGNLVVsDqsSGTALWQSFDHPSNTLLPGMKIGKNLWTGAEWYLSSWRSAa
+DPSPGSYRYvTDagEGvPENVLLDGngtKYRTGPWNGLRFSGVPEMATYSDMFTYQLTVS
+PSEVTYGYVAKPGAPFSRVlLTDDGVVRRLVWDAsTRAWKtFFQGPRDvCDsYAKCGAFG
+LCDaNAaaTSfCSCvKGFSPASPaEWSMREYSGGCRRNVtLDCGGsnSTTDGFlVlRGVK
+LPDTrNASVDmGVtLEECrtRCLANCSCVAYAAADlrGGGCImWTdsFVDLRFVDnGQDi
+YLRLAKSELgnptGhSihyqilKdATnNFSEyNkIGqGGFGvVYvveLsLsWtq
+
+
+BOP CONSENSUS:
+Length: 427 aa
+
+MRLVSSYLLSLPLLSLVVPSTRAFAvKVTDVLGSGRNVTDGEVLVSPGGSFTLGFFSPGV
+TRRRYLGIWFTVSPDVVHWVANSERPLSDTYGALVLTDMGVLLLLDSSGQVVWSSSTTGI
+TSTSVRLLESGNLVVSGQSSGTAMWQSFDYPTNTQLPGTKIGKNRWTGAEWYLTSWRSPN
+DPSPGSYRYVTDGEGVPQNVVLDGNQVKYRTGVWNGRWFSGVTEMATYSDMFTYQLTVTP
+SEVTYGYVAKPGAPFSRVVVTDDGVVRRLVWDHSTRKWKVFFQGPRDSCDSYGKCRAFGM
+CNSNAPLTSICSCVKGFSPTSPLLWSMREYSKGCRRNVMLDCGTDGFVVMRGVKLPDTRN
+ASVDPSVTLEECRTRCVANCSCVAYAAADLSGGGVIMWTKPFVDLRFIDNGQDIYQRLAK
+SEvGNLT
+
+
+PACMAD CONSENSUS:
+Length: 607 aa
+
+MIwRSrLLGVVyLSLFLTALtGTAASDMLSTGRNLTDGNTLVSAGGSFTLGFFSPGEPTK
+RYLGTWFSVSADAIYWVANRDRPLvDTSGVLVLTDSGTLLLLDGSNQVVWSSNTTGSTPP
+AGARLLDSGNLVVVQDRNSSTALWQSFDHPSNTLLPGMKIGKNLWTGDEWYLSSWRSAGD
+PSPGSYRYTTELGGGvPENVMWDGsAKRYRTGPWNGLRFSGVPEMTTYSSMFTYQVTVSS
+SEvTYSYvAKPGAPYSRLRLtDAGVVQRLVWDAGTRQWNSFLQGPRDVCDDYAHCGAFGL
+CDRNAASTSLCSCFrGFVPAvPKEWSMREYSGGCRRNVTLDCAGSNrSRTTTDGFLVVRL
+VKLPDTrNASVDtGVSLEECGLRCLANCSCVAYAPADGAGSGCIIWTDSLVDLRyVEKGQ
+DFYLRSPKSLLAVvKprRRPvwtPvVVGlvvAvypvSsrvFrRRClRPRvTApsvsPVPp
+PAGHSIHYQILKDATNNFSEyNKIGQGGFGtVYvVELsLSWTrRLVTsvAeGvyYLHVRS
+NRDVIDlTPKIADFGLAKHVPDQrCRRGqTTsKSDvYSFGVVwLEIISGStNCVtvtQRL
+LspAvDy
+
+================================================================================

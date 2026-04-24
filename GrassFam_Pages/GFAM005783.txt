@@ -1,0 +1,140 @@
+================================================================================
+GrassFam ID: GFAM005783
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             588.5 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45968:SF2
+Panther Family ID:               PTHR45968
+Modal Panther ID:                PTHR45968:SF2
+Modal Panther Description:       (R)-MANDELONITRILE LYASE-LIKE
+Modal Panther Family ID:         PTHR45968
+Modal Panther Fam Desc:          OSJNBA0019K04.7 PROTEIN
+Interpro Signature Accession:    G3DSA:3.30.410.40; G3DSA:3.50.50.60; PTHR45968; PIRSF000137; SSF54373; SSF51905
+Interpro Signature Description:  -; OSJNBA0019K04.7 PROTEIN; Alcohol_oxidase; FAD-linked reductases, C-terminal domain; FAD/NAD(P)-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: (R)-mandelonitrile lyase-like%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: (R)-mandelonitrile lyase-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: (R)-mandelonitrile lyase-like
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: (R)-mandelonitrile lyase-like; (R)-mandelonitrile lyase-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: (R)-mandelonitrile lyase-like
+  Gene Descriptions: (R)-mandelonitrile lyase-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: (R)-mandelonitrile lyase-like%2C transcript variant X1
+  Gene Descriptions: (R)-mandelonitrile lyase-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau08
+  Gene Products: (R)-mandelonitrile lyase-like
+  Gene Descriptions: (R)-mandelonitrile lyase-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: (R)-mandelonitrile lyase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: (R)-mandelonitrile lyase-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: (R)-mandelonitrile lyase-like
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: (R)-mandelonitrile lyase-like
+  Gene Descriptions: (R)-mandelonitrile lyase-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 585 aa
+
+MAAIPARLHlLLLalLLLVPSLAAAQSRpFGGAPPgYARYLVDAAATPAVElYDYIVVGG
+GTAGCPLAATLAGPGGGRVLLLERGGAPSEFPALATAGGFVRTLAMADPAPESDAPAQgF
+TSEDGVPNVRARVLGGGTAINAGFYSRAHPeWFRGHGEgAEVTNWDMRLVNASYEWVERe
+LTFQPeVHGWQAAVRAALLEANVTPWNGFTVDHVTGTKVGATTFDASGRRHSAADLLAFA
+RPGRLRVAvRATVTRIITNPIDPAARRGRSPQPtVAAiGVVYQDRLLqQHqALLRPGGEV
+ILSAGALGSPQLLLLSGIGPASDLSSLGIPVSADiPDVGKHMFDNPRNGISIIPSVPIDH
+SLIQVVGIPSANGTASYLEAASYIVPLAPmLRSAGPFIGSSSPLYVTVATIMEKVPGPLS
+EGSLWLSStNPLESPaLRFNYLSRPEDLARCVLGVRRVAeVLESRtMDGFRSAVGStSRR
+GpVRRDFRIVGAALPVDWRTNDtALADFCQQTVATLWHYHGGCVAGKVVDRDFRVIGtRA
+LRVVDASTFSETPGTNPQATVLMMGRYVGLKMIeERHSRRPVitS
+
+
+BOP CONSENSUS:
+Length: 592 aa
+
+MAAiPTRLHLLLALplLfPALAAAQSRPFGGAPPGYARYVvDAtATaAEEEYDYIVVGGG
+AAGCPLAATLAGPGGGRVLLLERGGAPAEFPALATAGGFVRTLALADPSPESDAPAQAFS
+SEDGVPNVRARVLGGGTAINAGFYSRAHPGWFhGHGEGAEVPDWDMRLVNSSYEWVEQEL
+TFQPEVHGWQAAVRAALLEANVTPWNGFTVEHVTGTKIGATTFDASGRRHSAADLLAFAR
+PGRLHVAVRATVTRVIINPIDPAARRGRSRPAVAAVGVVYQDRLLQQHHALLRPGGEVIL
+SAGtLGSPQLLLLSGIGPANDLTSLGIPVSADvPDVGKHMFDNPRNGISIIPSVPIDHSL
+IQVVGIPSANGTASYLEAASYIVPLAPMLRPAGPFISPSSPLYVTMATIMEKVPGPLSEG
+SLWLSSPNPLETPSVRFNYFSRPEDLAQCVVGVRRVAQVLqSRTMDIFRSaVGSsSQGRR
+GrARRDFRIVGATLPLDWSTNNTAVADFCRRTVATLWHYHGGCVVGRVVDKDFRVmGTRS
+LRVVDGSTFSVTPGTNPQATVMMMGRYmGLKMIaERHSRRQVNTSSysELnE
+
+
+PACMAD CONSENSUS:
+Length: 585 aa
+
+MAAISARLHHLLLvgLLLVPSLTAAQSRAFGGAPPvYARYLVDAAAMPAVELYDYIVVGG
+GTAGCPLAATLAGPGGGRVLLLERGGAPSEFPALATAGGFVRTLAMADPAPESDAPAQGF
+TSEDGVPNVRARVLGGGTAINAGFYSRAHPEWFRGHAEDAEVTNWDMRLVNASYEWVERq
+MTFQPAVHGWQAAVRAALLEANVTPWNGFTVDHVTGTKVGATTFDASGRRHSAADLLAFA
+RPSRLRVAIRATVTRIITNPIDPAARRGRSPQPTIAAIGVVYQDRLLDQHQALLRPGGEV
+ILSAGALGSPQLLLLSGIGPASDLSYLGIPVSADIPDVGKHMFDNPRNGISIIPSVPIDH
+SLIQVVGIPSANGTASYLEAASYIVPLAPALRSSGPFIGSSSPLYVTVATIMEKVPGPLS
+EGSLWLSSTNPLESPALRFNYLSRPEDLARCVLGVRRVAEVLEGRALDGFRSAVGSTNRR
+GsVRRDFRIVGTALPVDWRTNDRALANYCQQTVATLWHYHGGCVAGKVVDRDFRVIGARA
+LRVVDASTFSETPGTNPQATILMMGRYVGLKMIEERHSRRPVIPS
+
+================================================================================

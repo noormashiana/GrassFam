@@ -1,0 +1,125 @@
+================================================================================
+GrassFam ID: GFAM003184
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             343.0 aa
+Family Size (Extended Family Size): 32 (33) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45288:SF6
+Panther Family ID:               PTHR45288
+Modal Panther ID:                PTHR45288:SF6
+Modal Panther Description:       GST N-TERMINAL DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR45288
+Modal Panther Fam Desc:          THIOREDOXIN FAMILY PROTEIN
+Interpro Signature Accession:    cd03041; G3DSA:3.40.30.10:FF:000120; G3DSA:3.40.30.10:FF:000138; PTHR45288; SFLDG01181; SFLDG01202
+Interpro Signature Description:  GST_N_2GST_N; Thioredoxin family protein; THIOREDOXIN FAMILY PROTEIN; SUF2; SUF2.2
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: uncharacterized LOC100825225
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu07H
+  Gene Products: uncharacterized LOC123407844%2C transcript variant X3; uncharacterized LOC123410951
+Ata
+  Gene count: 4
+  Modal chromosome: Ata07D
+  Gene Products: uncharacterized LOC109732456; uncharacterized LOC109732457%2C transcript variant X1; uncharacterized LOC109732458; uncharacterized LOC109733742
+Tae
+  Gene count: 8
+  Modal chromosome: Tae07D
+  Gene Products: uncharacterized LOC123088268; uncharacterized LOC123153003; uncharacterized LOC123154841; uncharacterized LOC123154842%2C transcript variant X1; uncharacterized LOC123163668; uncharacterized LOC123163669; uncharacterized LOC123166250; uncharacterized LOC123168769%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl08
+  Gene Products: uncharacterized LOC127781689
+  Gene Descriptions: uncharacterized LOC127781689
+Osa
+  Gene count: 1
+  Modal chromosome: Osa08
+  Gene Products: uncharacterized protein
+  Gene Synonyms: OJ1150_A11.35,P0562A06.4
+  Gene Descriptions: uncharacterized LOC4346305
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN50
+Svi
+  Gene count: 1
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: uncharacterized LOC120678439; uncharacterized LOC120713087
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: uncharacterized LOC112896616
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: uncharacterized LOC8057981
+Zma
+  Gene count: 4
+  Modal chromosome: Zma01
+  Gene Products: Thioredoxin family protein; uncharacterized LOC100272476; uncharacterized LOC103643193
+  Gene Synonyms: GRMZM2G022866; GRMZM2G085000; GRMZM5G804772,GRMZM5G882446,IDP716
+  Gene Descriptions: Thioredoxin family protein; uncharacterized LOC100272476
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 342 aa
+
+MAAAALRlPPLLSSRRAPtTtAAAttRRArsATLRVAAQPDtTAASASTSTSeePPEFkP
+PaGFkPPEPKRFeVKpGQlgSVAGASLAIPFRLGTGVFVLGYSVSLVSAdEIPSDQYALE
+FgGwKVKETSKIGQCkRPEKPIEIYEFEGCPFCRKVREMVSVLDLDVLFYPCPQKGPTFR
+PKVLEMGGKKQFPYMVDPNTGVAMYESDDIIKYLADTYGDGTVPIMLSLGLLTTITAGLA
+miGRiGKGSSYTaSKLPPQPIEIWAYEGSPFCKLVRETLVELELPHLLHSCARGSPKRQE
+FFKKyGlFQAPYIEDPNTGVKMFESAEIIEYLRATYALYPSS
+
+
+BOP CONSENSUS:
+Length: 341 aa
+
+MAAAALRFPPLLSSRAAPTTTAAAcTRRTaSATLRVAAQPDSApASApTSTSdePPEFSP
+PAGFaPPVPKRFAVKpGQLgSIAGAALALPFRLGTGLFVLGYSVSLVSADKIPPDQYSLE
+FLGLKVKETSKIDQCRRPEKPIEIYEFEGCPFCRKVREMVSVLDLDVLFYPCPQKGPTFR
+PKVLEMGGKKQFPYMVDPNTGVAMYESDdIIKYLADTYGDGTVPIMLSLGLLTTITAGLA
+MIWRvwKGSSYTVSKLPPQPIEIWAYEGSPFCKIAREALVELELPHLLHSCARGSPKRQE
+IFKKyGLFQAPYIEDPNTGVKMFESAEIVEYLRATYsLYPQ
+
+
+PACMAD CONSENSUS:
+Length: 348 aa
+
+MAPPAAPTALHHRTPLLLPRRAAAPGATATARAARAASLAVVRAQPDTTAAAASTSAPEP
+pPEFKPPPGFKaPEPKRFEVKpGQQGSVLGASLAIPLRLGTGVFVLGYSPSLVSPSEIPS
+DQYALEFGAWKVKEESKIGQCKRPEKPIEIYEFEGCPFCRKVREMVSVLDLDVLFYPCPQ
+KGPTFRPKVLEMGGKKQFPYMVDPNTGVAMYESDDIIKYLADTYGDGTVPIMLSLGLLTA
+ITAGLATLGRIGKGNSYTASKVPPQPIEIWAYEGSPFCKLVRETLVELELPHLLHSCARG
+SPKRQEFFKKKGtFQAPYIEDPNTGVQMFESAEIIDYLKATYALYPSS
+
+================================================================================

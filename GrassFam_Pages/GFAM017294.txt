@@ -1,0 +1,110 @@
+================================================================================
+GrassFam ID: GFAM017294
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             520.0 aa
+Family Size (Extended Family Size): 12 (12) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43472:SF7
+Panther Family ID:               PTHR43472
+Modal Panther ID:                PTHR43472:SF7
+Modal Panther Description:       PHOSPHORIBOSYLAMINE--GLYCINE LIGASE
+Modal Panther Family ID:         PTHR43472
+Modal Panther Fam Desc:          PHOSPHORIBOSYLAMINE--GLYCINE LIGASE
+Interpro Signature Accession:    G3DSA:3.90.600.10:FF:000001; G3DSA:3.30.1490.20:FF:000006; G3DSA:3.30.470.20:FF:000031; G3DSA:3.30.1490.20; G3DSA:3.30.470.20; G3DSA:3.40.50.20; G3DSA:3.90.600.10; TIGR00877; PTHR43472; PF01071; PF02843; PF02844; SM01209; SM01210; SSF56059; SSF52440; SSF51246
+Interpro Signature Description:  Trifunctional purine biosynthetic protein adenosine-3; phosphoribosylamine--glycine ligase, chloroplastic-like; Phosphoribosylamine--glycine ligase; -; phosphoribosylamine--glycine ligase; PHOSPHORIBOSYLAMINE--GLYCINE LIGASE; Phosphoribosylglycinamide synthetase, ATP-grasp (A) domain; Phosphoribosylglycinamide synthetase, C domain; Phosphoribosylglycinamide synthetase, N domain; GARS_A_3; GARS_C_2; Glutathione synthetase ATP-binding domain-like; PreATP-grasp domain; Rudiment single hybrid motif
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl12
+  Gene Products: phosphoribosylamine--glycine ligase
+  Gene Descriptions: phosphoribosylamine--glycine ligase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa12
+  Gene Products: phosphoribosylamine--glycine ligase%2C transcript variant X2
+  Gene Descriptions: phosphoribosylamine--glycine ligase
+Ecu
+  Gene count: 3
+  Modal chromosome: Ecu06
+Pau
+  Gene count: 1
+  Modal chromosome: Pau22
+  Gene Products: phosphoribosylamine--glycine ligase-like%2C transcript variant X1
+  Gene Descriptions: phosphoribosylamine--glycine ligase-like
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: phosphoribosylamine--glycine ligase-like%2C transcript variant X1; phosphoribosylamine--glycine ligase-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: phosphoribosylamine--glycine ligase-like%2C transcript variant X1
+Msi
+  Gene count: 1
+  Modal chromosome: Msi15
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: phosphoribosylamine--glycine ligase-like%2C transcript variant X2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 521 aa
+
+MACASlStkASLKFGAKAFrKNcLPGYLKSVVSYPVSqalGGLSSPIRVENRAYGSNLIV
+tAsKSRgLNTtLSSTNGSlKVPEERVTVLVIGGGGREHALCYALERSPSCDAVFCAPGNS
+GIAQSGDATCIPDLDITNSDAVISFCRNWGVGLVVVGPEAPLVAGLANDLVKAGIPTFGP
+SSEAAALEGSKDFMKKLCDKYNIPTAKYQTFTNPADAKQYVKDQGAPIVVKADGLAAGKG
+VVVAMTLDEAFEAIDTMLVEGSFGSAGSRVIIEEFLEGEEASFFALVDGETALPLESAQD
+HKRVGDGDVGPNTGGMGAYSPAPIVTEELKqKVMESIILPTVKGMAAEGCKFVGVLYAGL
+MIEKKSGLPKLIEYNVRFGDPECQVLMMRLESDLAQVLLAACRGELGKVSLTWSPELATV
+VVMASEGYPGAYKKGTVIKNLDEAEQVSPAVKIFHAGTAFDRDGNFVAAGGRVLGVTAKG
+KDIEEARAKAYDALDVVDWPEGFYRHDIGWRALKHRHMvAH
+
+
+BOP CONSENSUS:
+Length: 518 aa
+
+MACAASSVKGSLNVGGAKAFSNNLFRDYLKSSVSYPVSEISSPIRAQHVAYGSNLIVRGS
+KSRDFSSKLASTNGSSKVSEERVTVLVIGGGGREHALCYALERSPSCDAVFCAPGNSGIA
+QSGDATCIPDLDISNSDAVISFCRNWGVGLVVVGPEAPLVAGLANELVKAGIPTFGPSSE
+AAALEGSKDFMKKLCDKYHIPTAKYQTFTDPSDAKKYVEEQGAPIVVKADGLAAGKGVVV
+AMTLEKAFEAIDSMLVEGSFGSAGSRVIIEEYLEGEEVSFFALVDGETALPLESAQDHKR
+VGDGDVGPNTGGMGAYSPAPIVTEKLKCKVMESIIVPTVKGMAAEGCKFVGVLYAGIMIE
+KKSGLPKLIEYNVRFGDPECQVLMMRLQSDLAQVLLAACRGELGSVSLTWSPELATVVVM
+ASEGYPGVYKKGTVIKNIDEAEQVSPAVKIFHAGTALDRDGNFVAAGGRVLGVTAKGKDI
+EEARAKAYDALDVVDWPEGFFRHDIGWRAQKYRRMVAH
+
+
+PACMAD CONSENSUS:
+Length: 521 aa
+
+MACASLsTrASLKFGAKAFrKNcLPGYLKSVVSFPVSqasGgLySPIRVENRAYGSNLIV
+TALKSRgLNTTLSSTNGsLKVPEERVTVLVIGGGGREHALCYALERSPSCDAVFCAPGNS
+GIAQSGDATCIPDLDITNSEAVISFCRNWGVGLVVVGPEAPLVAGLANDLVKAGIPTFGP
+SSEAAALEGSKDFMKKLCDKYNIPTAKYQTFTNPADAKQYVKDQGAPIVVKADGLAAGKG
+VVVAMTLDEAFEAIDTMLVEGSFGSAGSRVIIEEFLEGEEASFFALVDGETALPLESAQD
+HKRVGDGDVGPNTGGMGAYSPAPIVTEELKqKVMESIILPTVKGMAAEGCKFVGVLYAGL
+MIEKKSGLPKLIEYNVRFGDPECQVLMMRLESDLAQVLLAACRGELGKVSLTWSPELATV
+VVMASEGYPGAYKKGTVIKNLDEAEQVSPAVKIFHAGTAFDTDGNFVAAGGRVLGVTAKG
+KDIEEARAKAYDALDVVDWPEGFYRHDIGWRALKHRHMvAH
+
+================================================================================

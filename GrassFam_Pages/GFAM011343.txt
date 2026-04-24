@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM011343
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             415.0 aa
+Family Size (Extended Family Size): 23 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR11822
+Modal Panther ID:                PTHR11822:SF26
+Modal Panther Description:       ISOCITRATE DEHYDROGENASE [NADP]
+Modal Panther Family ID:         PTHR11822
+Modal Panther Fam Desc:          NADP-SPECIFIC ISOCITRATE DEHYDROGENASE
+Interpro Signature Accession:    G3DSA:3.40.718.10:FF:000007; G3DSA:3.40.718.10; NF006156; TIGR00127; PTHR11822; PIRSF000108; PF00180; SM01329; SSF53659
+Interpro Signature Description:  Isocitrate dehydrogenase [NADP]; Isopropylmalate Dehydrogenase; NADP-dependent isocitrate dehydrogenase; isocitrate dehydrogenase (NADP(+)); NADP-SPECIFIC ISOCITRATE DEHYDROGENASE; IDH_NADP; Isocitrate/isopropylmalate dehydrogenase; Iso_dh_2; Isocitrate/Isopropylmalate dehydrogenase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: cytosolic isocitrate dehydrogenase [NADP]%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: isocitrate dehydrogenase [NADP]-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: isocitrate dehydrogenase [NADP]%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: isocitrate dehydrogenase [NADP]-like; isocitrate dehydrogenase [NADP]-like%2C transcript variant X3
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl01
+  Gene Products: cytosolic isocitrate dehydrogenase [NADP]-like; isocitrate dehydrogenase [NADP]
+  Gene Descriptions: cytosolic isocitrate dehydrogenase [NADP]-like; isocitrate dehydrogenase [NADP]
+Osa
+  Gene count: 2
+  Modal chromosome: Osa01
+  Gene Products: cytosolic isocitrate dehydrogenase [NADP]; isocitrate dehydrogenase [NADP]
+  Gene Descriptions: cytosolic isocitrate dehydrogenase [NADP]; isocitrate dehydrogenase [NADP]
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau11
+  Gene Products: isocitrate dehydrogenase [NADP]
+  Gene Descriptions: isocitrate dehydrogenase [NADP]
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: isocitrate dehydrogenase [NADP]; isocitrate dehydrogenase [NADP]-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: isocitrate dehydrogenase [NADP]
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: isocitrate dehydrogenase [NADP]
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: uncharacterized LOC100272371
+  Gene Synonyms: GRMZM5G829778,idh2
+  Gene Descriptions: uncharacterized LOC100272371
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 415 aa
+
+MAFnKIkVANPVVEMDGDEMTRVFWKSIKDKLIFPFLDLDIKYFDLGLPnRDATDDKVTV
+EAAEATLKYNVAIKCATITPDEARVKEFNLKAMWKSPNGTIRNILNGTVFREPIICKNIP
+RLVPGWTKPICIGRHAFGDQYRATDAVIKGPGKLKLVFEGKEEQIELEVFNFTGAGGVAL
+SMYNTDESIhAFAEASMATAYEKKWPLYLSTKNTILKKYDGRFKDIFQEVYEAgWRsKFE
+AAGIWYEHRLIDDMVAYALKSEGGYVWACKNYDGDVQSDFLAQGFGSLGLMTSVLVCPDG
+KTIEAEAAHGTVTRHYRVHQKGGETSTNSIASIFAWTRGLAHRAKLDDNARLLDFTQKLE
+AACIGAVESGKMTKDLALLVHGSsNVTRSHYLNTEEFIDAVAEELRSRLAANSNL
+
+
+BOP CONSENSUS:
+Length: 414 aa
+
+MAFeKIqVANPIVEMDGDEMTRVIWKWIKDKLIFPFLDLDIKYFDLGLPNRDATGDKVTI
+ESAEATLKYNVAIKCATVTPDEGRVKEFNLKAMWRSPNGTIRNILNGTVFREPIICKNVP
+RLVPGWTKPICIGRHAFGDQYRATDTVIRGPGKLKLIFDGIEEQIELDVFNFSGAGGVAL
+SMYNTDESIRAFAEASMNVAYQKRWPLYLSTKNTILKKYDGRFKDIFQENYETNWRGRFE
+DAGIWYEHRLIDDMVAYALKSEGGYVWACKNYDGDVQSDLIAQGFGSLGLMTSVLVCPDG
+RTVEAEAAHGTVTRHYRVHQKGGETSTNSIASIFAWSTGLAHRAKLDDNKRLLDFTQKLE
+AACVGTVESGKMTKDLALLIHGPTVSRDKYLNTmEFIDAVAEELRTRLSAKSKL
+
+
+PACMAD CONSENSUS:
+Length: 415 aa
+
+MAFNKIKVANPVVEMDGDEMTRVFWKSIKDKLIFPFLDLDIKYFDLGLPHRDATDDKVTV
+EAAEATLKYNVAIKCATITPDEARVKEFGLKAMWKSPNGTIRNILNGTVFREPIICKNIP
+RLVPGWTKPICIGRHAFGDQYRATDAVIKGPGKLKLVFEGKEEQVELEVFNFTGAGGVAL
+SMYNTDESIHAFAEASMATAYEKKWPLYLSTKNTILKKYDGRFKDIFQEVYEAGWKSKFE
+AAGIWYEHRLIDDMVAYALKSEGGYVWACKNYDGDVQSDFLAQGFGSLGLMTSVLVCPDG
+KTIEAEAAHGTVTRHYRVHQKGGETSTNSIASIFAWTRGLAHRAKLDDNARLLDFTQKLE
+AACIGAVESGKMTKDLALLVHGSSNVTRSHYLNTEEFIDAVADELRSRLAANSNL
+
+================================================================================

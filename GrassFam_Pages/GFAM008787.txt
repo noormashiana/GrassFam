@@ -1,0 +1,142 @@
+================================================================================
+GrassFam ID: GFAM008787
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             627.0 aa
+Family Size (Extended Family Size): 19 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23240:SF31
+Panther Family ID:               PTHR23240
+Modal Panther ID:                PTHR23240:SF31
+Modal Panther Description:       DNA REPAIR METALLO-BETA-LACTAMASE FAMILY PROTEIN
+Modal Panther Family ID:         PTHR23240
+Modal Panther Fam Desc:          DNA CROSS-LINK REPAIR PROTEIN PSO2/SNM1-RELATED
+Interpro Signature Accession:    G3DSA:3.60.15.10:FF:000039; G3DSA:3.40.50.12650:FF:000005; G3DSA:3.60.15.10; G3DSA:3.40.50.12650; PTHR23240; SSF56281
+Interpro Signature Description:  DNA repair metallo-beta-lactamase family protein; -; DNA CROSS-LINK REPAIR PROTEIN PSO2/SNM1-RELATED; Metallo-hydrolase/oxidoreductase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: uncharacterized LOC100821385
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: uncharacterized LOC123445131
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: 5' exonuclease Apollo
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: 5' exonuclease Apollo-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: uncharacterized LOC127757495
+  Gene Descriptions: uncharacterized LOC127757495
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4324849
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau02
+  Gene Products: uncharacterized LOC133909310%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133909310
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi05N
+  Gene Products: 5' exonuclease Apollo-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: 5' exonuclease Apollo-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: protein artemis
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: protein artemis
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 624 aa
+
+MPIEMPRGLPFAVDTWGPSSRRRRHRFLTHAHRDHLVGAGAgADGGGGTVYATRLTLSLA
+LRHFPQLeswEFVEMEVGRTVvVDDPAGAFSVTAYDANHCPGAVMFLFEGeFGSILHTGD
+CRLTPDCVQNLPlKYIAKKGKENICRLDFVFLDCTFSKCFLKLPSKESAIQQVIACIWKH
+PHAPFVYLACDLLGHEeILVEVSRTFGSKIYVDtRRnLDCFKALSLTAPEIITDDPSSRF
+QIVGFHQLYDrASKKLEEARASLQPEPLFIRPSTQWYAsCARNQKPSLTEAEQDdFGIWH
+VCFSIHSSRDELEQALQLLQPQWVISTTPPCFAMELSYVKKHCFKTRLTADDPLWKIFRD
+PLQKSVSSPSSVLASeTQtDEDhStFVDDDHstSASEECTdLDVSTLELKFVPSPPvEEP
+DITLFGRARFGSQAIDIMKEELCnQYIAlEEARACAPtDLVHdSSEDVETYSgMDliTKQ
+APASQQDhmEAGDEvPSCQCEASPTQlEAFqVQSLPTVQhNiLVVsDQpEKSEviIESKS
+lSstEsSSLsMVRsAEtTDCQKdpLCVIGSSKCLNASLKRLYRSRNIPVPRPLPSLVGLL
+ESTKRVKMRPsSDYSSLNSRHSLP
+
+
+BOP CONSENSUS:
+Length: 624 aa
+
+MPIEMPRGLPFAVDTWGPSSRRRRHRFLTHAHRDHLVGAGAGADPGGGGAVYATRLTLSL
+ALRHFPQLDQGEFVEVEVGRTvvVDDPAGAFSVTAYDANHCPGAVMFLFEGEFGSILHTG
+DCRLTPDCVQNLPLKYIAKKGKENVCRLDFVFLDCTFSKCFLKLPSKESAIQQVIACIWK
+HPDAPFVYLACDLLGHEEILVEVSRTFGSKIYVDtRRNSDCFKALSLTAPEIITDDPSCR
+FQIVGFHHLYDNASKKLEGARASLQPEPLFIRPSTQWYACGRNQKPSLTEAQQDDFGIWH
+VCFSIHSSRDELEQAMQLLQPQWVISTTPPCFAMELSYVKKHCFKTRLTTDDPLWKIFRD
+PLQKSVSSPSSVLASCTQPDEDpSTFVDDDHPTSASEECTDFDVSTLELQFVPSPPVQEP
+DITLFGRARFGSQAIDIMKEELCHQYIAAEQTRfCAPEDLLHDSSeNVETYSGMDLITKQ
+APASQQDCvEAGDVaPSCQCKASPTLPEAFAVQPLPTVQHNISVVPDQPEKSEtIIEPIS
+iSTTESSSLRMVRNAEvTDCQtDhLCVIGSSKSLNASLKRLYRSRNVPVPRPLPSLVGLL
+ESTKRVKRRPGSDYSSLNSRHSLP
+
+
+PACMAD CONSENSUS:
+Length: 622 aa
+
+MPIDMPRGLPFAVDTWGPSSRRRRHRFLTHAHRDHLVGAGAdADGGGTVYATRLTLhLAL
+RHFPQLESWEFVEMEVGRTVVVDDPAGAFSVTAYDANHCPGAVMFLFEGQFGTILHTGDC
+RLTPDCVQNLPMKYItKKGNENICRLDFVFLDCTFSKCFLKLPSKESAIQQVIACIWKHP
+HAPFVYLACDLLGHEDILVEVSRTFGSKIYVDRKLDCFKALSLTAPEIITDDPSSRFQMV
+GFHQLYDRASKKLEEARAsLQPEPLFIRPSTQWYASCARSQKPSLTEAEQDEFGvWHICF
+SIHSSRDELEQALQLLQPQWVISTTPPCFAIELSYVKKHCFKTRLTADDPLWKIFRDPLq
+KSVSSPCSVLASETQTDEDhSnFVVDDDHSSSsSeECTYLNVSTLELKFVPSPPPEEPDI
+TLFGRARFASQAIDIMKEELCNQYIAFEEARACAPTDSVHGSSEDVETySAMDfvtKQAP
+ASQQDHMEAGDEVgSCQHEAtStQLEaFQVKSLPTVQrNmLVVsDQHEKSEAAkESKSLS
+StEDSSLSMVRSaErTDCQKEPLCIIGSSKCLNASLKRLYRSRNIPVPRPLPSLVRLLES
+SKRVKMQPSTNYSSLNSRHSLP
+
+================================================================================

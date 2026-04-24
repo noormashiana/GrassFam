@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM017202
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             432.0 aa
+Family Size (Extended Family Size): 21 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR30031:SF2
+Panther Family ID:               PTHR30031
+Modal Panther ID:                PTHR30031:SF2
+Modal Panther Description:       PHOSPHOENOLPYRUVATE CARBOXYKINASE (ATP)
+Modal Panther Family ID:         PTHR30031
+Modal Panther Fam Desc:          PHOSPHOENOLPYRUVATE CARBOXYKINASE  ATP
+Interpro Signature Accession:    G3DSA:3.90.228.20:FF:000007; G3DSA:3.40.449.10:FF:000008; PTHR30031; SSF53795
+Interpro Signature Description:  Uncharacterized protein; D111/G-patch domain-containing protein; PHOSPHOENOLPYRUVATE CARBOXYKINASE  ATP; PEP carboxykinase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: uncharacterized LOC100830278%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: uncharacterized LOC123427885
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: uncharacterized LOC109754766
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: uncharacterized LOC123046626; uncharacterized LOC123049965; uncharacterized LOC123190355%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: phosphoenolpyruvate carboxykinase (ATP)-like%2C transcript variant X2
+  Gene Descriptions: phosphoenolpyruvate carboxykinase (ATP)-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC4336831
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 1
+  Modal chromosome: Pau13
+  Gene Products: uncharacterized LOC133887966%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133887966
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: uncharacterized LOC120641617%2C transcript variant X1; uncharacterized LOC120683116%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: uncharacterized LOC112899708%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: uncharacterized LOC8060472%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma08
+  Gene Products: uncharacterized LOC103635217%2C transcript variant X1; uncharacterized LOC103642005%2C transcript variant X6
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 434 aa
+
+MLGlLRRaAlAAASSPAASLRQFQCAYHRSNERLLPcRDQEVSYGLNWAIAGRGVVVKDK
+VFYNLETSELQKgGATYaErLSGIPLHVRGNVIGGVPDVSkAQFAKLLKLVTFHLSSISS
+LYVQDGAIGSSAECDAKVRVISDNPSAVMLLSNILWKIPDRAISHDTCPLTIYVASSISt
+NVRNaLGSGTQYANGFAAADIERSSLILCGKAFADSAMVKDALTALTAPILSARGGLPVP
+GWLLSFGGSIVLLFAPVEIIkSCSEIQDvLLSTDsGVVISSKGSTVLFPTKsREPkLFTK
+PTTVIIVSSDSTDALPSVSKLSPGQAAYHFLAGYHDGKFVPAYSRAPSPaDPLALANSLF
+sHLKEDdTPTYLINAKsSGKYIDGKdFMKLIELALSNNLPDiKtEDfRVGELKGKYRSFL
+SSKFGKyLPEEFSF
+
+
+BOP CONSENSUS:
+Length: 432 aa
+
+MLGLLRRRAASSPAASLQLFQCcYHRSSERLLPCRDQEVSYGLNWAIAARGVVVKDKVFY
+NLEPSELQKSGTtYAERLSGTPLHVKGNVIGGFPDISGAQFAKLLKQVTFHLSSISSLYV
+QDGAIGSSAECDAKVRVISDNPSAIMSLSNILQKIPDRAISHDTCPLTIYVASSISTNVR
+NALGSGTQYANGVAVADIERSSLILCGKAFADSAMLKDALTALAAPILSARGGLPVPGWL
+LSSGGSIVLLFAPVEVIKSCSEIQDVLVSTDSGVVISSKQSSVLFPTKSRAPQLFTKPAT
+VVVVSSDSTDALPLVSKLSPGQAAYHFLAGYqDGKFVPAYNRAPSPFDQLALANSLFLHL
+KkDKTPTYLINAKSSGKQIDGKDLMRLIELAQSNnMPDSsKPEDtRVAELKGKYRSFLSG
+KFGKYLPEEFSF
+
+
+PACMAD CONSENSUS:
+Length: 435 aa
+
+MLGVLRRAAlAAASSPAAGLRQFQCAYHRSNERLSPiRDQEVSYGLNWAIAGRGVIVKDK
+VFHNLETSELQKgGATYPDCLSGIPLHVRGDVIGGVPDVSKAQFAKLLKLVTFHLSSISC
+LYVQDGAIGSSAECDAKVRVISDNPSAVMLLSNVLWKIPDRAISHDTSPLTIYATSSISN
+NVKTVLGSGTQYANGFAAADIERSSLILCGKAFADSAIVKDALTAMTAPILSARGGLPVP
+GWLLCFGGSIVLLFAPVEIIMSCSEIqNALLSIDCGAVISSKGSTVLFPTKArREPKLFT
+KPTTVIIVSSDSTGAIPSVSKLSPGQAAYHFLAGYHDGKFVPAYSRAPSPADPLALASSL
+FSHLKEDDTPAYLINAKHSGKYIDGKGFMKLLELALShNLPDIKTEDFRVGELKGKYRSF
+LSSKFGKCLPEEFSF
+
+================================================================================

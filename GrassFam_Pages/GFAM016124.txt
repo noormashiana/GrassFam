@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM016124
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             499.0 aa
+Family Size (Extended Family Size): 23 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45621:SF18
+Panther Family ID:               PTHR45621
+Modal Panther ID:                PTHR45621:SF18
+Modal Panther Description:       OS09G0361100 PROTEIN
+Modal Panther Family ID:         PTHR45621
+Modal Panther Fam Desc:          OS01G0588500 PROTEIN-RELATED
+Interpro Signature Accession:    cd14066; G3DSA:3.30.200.20:FF:000228; G3DSA:1.10.510.10:FF:000258; G3DSA:3.30.200.20; G3DSA:1.10.510.10; PTHR45621; PF07714; SSF56112
+Interpro Signature Description:  STKc_IRAK; Serine/threonine-protein kinase BIK1; Probable serine/threonine-protein kinase PBL8; Phosphorylase Kinase; domain 1; Transferase(Phosphotransferase) domain 1; OS01G0588500 PROTEIN-RELATED; Protein tyrosine and serine/threonine kinase; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: probable serine/threonine-protein kinase PIX7%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: serine/threonine-protein kinase PBL34-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: serine/threonine-protein kinase PBL34%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: serine/threonine-protein kinase PBL34-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: serine/threonine-protein kinase PBL34-like%2C transcript variant X2
+  Gene Descriptions: serine/threonine-protein kinase PBL34-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: serine/threonine-protein kinase PBL34%2C transcript variant X1
+  Gene Descriptions: serine/threonine-protein kinase PBL34
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: serine/threonine-protein kinase PBL34-like; serine/threonine-protein kinase PBL34-like%2C transcript variant X1
+  Gene Descriptions: serine/threonine-protein kinase PBL34-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: probable serine/threonine-protein kinase PIX7%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: probable serine/threonine-protein kinase PIX7%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: receptor-like serine/threonine-protein kinase At3g01300%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: putative protein kinase superfamily protein%2C transcript variant X1
+  Gene Synonyms: GRMZM2G132184; GRMZM2G150806
+  Gene Descriptions: putative protein kinase superfamily protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 499 aa
+
+MGLAPPELGQFDGWESSGEEERERWGWCRRSRRGSSRRRlPpKGGdDDAtVATGCCIRLW
+PVGSCPPPPRSKVDTSTSSASTHGAEKSTENGSRNQPVASVVSGSTTTSNAESSSSASKA
+GEEIKVASQLRKFAFNDLKCATRNFRPESLLGEGGFGCVFKGWIEENGTAPVKPGTGLTV
+AVKTLNHDGLQGHKEWVAEVDFLGNLHHPNLVRLIGYCVEDDQRLLVYEFMPRGSLDNHL
+FRRSLPLPWSIRMKVALGAAKGLAFLHEEAERPVIYRDFKTSNILLDAEYNAKLSDFGLA
+KDGPVGDKTHVSTRVMGTYGYAAPEYVMTGHLTSKSDVYSFGVVLLEMMSGRRSMDKNRP
+NGEHNLVEWARPLLGERQRFYKLIDPRLEGNFSVKGAQKAAQLARACLSRDPKARPLMSQ
+VVEALKPLLNLKDMASSSYFYQTMQAERMAHSSSMNGRSSHSLKvQGSFARANGQQPMRS
+LSDGPRASPFRYSPKPNVK
+
+
+BOP CONSENSUS:
+Length: 499 aa
+
+MGLAPPELGQFDGWESSGEEERERWGWCRRSRSSRRGRRLPRKGGGEDAGVATGCCIRLW
+PMGSCPPQPRSKVDTSTSSASTHGAEKSTENGSRNQPVVSVVSGSTSTSNAESSSSASKA
+GEEIKVSSKLRKFGFSDLKCATRNFRPESLLGEGGFGCVFKGWIEENGTAPVKPGTGLTV
+AVKTLNHDGLQGHKEWVAEVDFLGNLHHPNLVKLIGYCVEDDQRLLVYEFMPRGSLDNHL
+FRRSLPLPWSIRMKVALGAAQGLSFLHEEAERPVIYRDFKTSNILLDSEYNAKLSDFGLA
+KDGPVGDKTHVSTRVMGTYGYAAPEYVMTGHLTSKSDVYSFGVVLLEMMSGRRSMDKNRP
+NGEHNLVEWARPLLGERQRFYKLVDPRLEGNFSVKGAQKAAQLARACLSRDPKARPLMSQ
+VVEALKPLLNLKDMASSSYFYQTMQAERMAHSSSMNGRNSHSLKVHGSFARANGQQPMRS
+MSDGPRASPFRYSPKPNVK
+
+
+PACMAD CONSENSUS:
+Length: 500 aa
+
+MGLAPPELGQFDGWESSGEEERERERWGWCRRSRRGSSRRRAsPKGADDDTTVATGCCIR
+LWPVGSCPPPPRSKVDTSTSSASTHGAEKSTENGSRNQPVALVVSGSTTTSNAESSSSAS
+KVGEEIKVASQLRKFAFNDLKCATRNFRPESLLGEGGFGCVFKGWIEENGTAPVKPGTGL
+TVAVKTLNHDGLQGHKEWVAEVDFLGNLHHPNLVRLIGYCVEDDQRLLVYEFMPRGSLDN
+HLFRRSLPLPWAIRMKVALGAAKGLAFLHEEAERPVIYRDFKTSNILLDAEYNAKLSDFG
+LAKDGPVGDKTHVSTRVMGTYGYAAPEYVMTGHLTSKSDVYSFGVVLLEMMSGRRSMDKN
+RPNGEHNLVEWARPLLGERQRFYKLIDPRLEGNFSVKGAQKAAQLARACLSRDPKARPLM
+SQVVEVLKPLLNLKDMASSSYFYQTMQAERMAHSSSMNGRSSHGLKtQGPFARNGQQPVR
+SLSDGPRASPFRYSPKPNVK
+
+================================================================================

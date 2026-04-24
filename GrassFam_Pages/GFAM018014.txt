@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM018014
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             375.0 aa
+Family Size (Extended Family Size): 21 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR27006:SF604
+Panther Family ID:               PTHR27006
+Modal Panther ID:                PTHR27006:SF604
+Modal Panther Description:       PROTEIN KINASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR27006
+Modal Panther Fam Desc:          PROMASTIGOTE SURFACE ANTIGEN PROTEIN PSA
+Interpro Signature Accession:    G3DSA:1.10.510.10:FF:000388; G3DSA:3.30.200.20:FF:000745; G3DSA:1.10.510.10; G3DSA:3.30.200.20; PTHR48006; PF00069; SM00220; SSF56112
+Interpro Signature Description:  Leucine-rich repeat receptor-like tyrosine-protein kinase PXC3; Phytosulfokine receptor 2; Transferase(Phosphotransferase) domain 1; Phosphorylase Kinase; domain 1; LEUCINE-RICH REPEAT-CONTAINING PROTEIN DDB_G0281931-RELATED; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: proline-rich receptor-like protein kinase PERK1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: brassinosteroid LRR receptor kinase BRL2-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: leucine-rich repeat receptor protein kinase MSL1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: leucine-rich repeat receptor protein kinase MSL1-like; probable receptor-like protein kinase At3g17420
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: leucine-rich repeat receptor protein kinase MSP1-like
+  Gene Descriptions: leucine-rich repeat receptor protein kinase MSP1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: leucine-rich repeat receptor protein kinase MSP1-like
+  Gene Descriptions: leucine-rich repeat receptor protein kinase MSP1-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 1
+  Modal chromosome: Pau12
+  Gene Products: phytosulfokine receptor 1-like
+  Gene Descriptions: phytosulfokine receptor 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi08K
+  Gene Products: leucine-rich repeat receptor protein kinase MSL1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: leucine-rich repeat receptor protein kinase MSP1-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi10
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: probable receptor-like protein kinase At2g42960
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: leucine-rich repeat receptor protein kinase EMS1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 380 aa
+
+MDGvyqALIVvAGASVAIAVPCLLLAFLCRrRkrrlLKPdqRCcSsSSaSsLPVSAPaGt
+SsElSSSWSFYGsaADASLkKLSLdDLAaATGGFSPDNIIGDGSFGFVYRAVLPDGAAVA
+VKRLSaDhAAGAGNREFRAELEVLGSLSHPNLARLLGYCAAGRDRILVYELLERGSLDAW
+LHGdAAsAGGepLPWPARLRVARGAAAALAFLHHGRrPPVLHRDVKSSNVLLgEGFEAKL
+ADFGLARIVrGSPAaSHVSTQAAGTAGYVAPEIWaGVGATaKADVYSFGVLmIEiVTGrR
+PSWPVKANIGGKEVeLVDWAREKIEAGQASEILDRRMGiggqGKEMdEVKalLDIArrCT
+EespKnRPTMEEVVEMLNKl
+
+
+BOP CONSENSUS:
+Length: 375 aa
+
+MDGVYQALVVTVAAFVAISFPCLLLAFLCRHRKNRLLEPDHRCSSSSSLPVSAPvGiSSE
+LSSSWSLYGSAVDSSLKKLSLDDLARATGEFSPDNIIGDGSFGFVYRAVLPDGGPAVAVK
+RLSADHAAGAGNREFRAELEVLGSLSHRNLARLLGYCAAGRDRLLVYELLERGSLDAWLH
+GDAASAGGlLPWPARLRVTRGAAAALAFLHHDRHPPVLHRDVKSSNVLLDEGFEAKLADF
+GHARVVTGGPAASHLSTQAAGTAGYMAPEIREGVGASVKADVYSFGVLMMETVTGRRPSW
+PMKNIrGKEVELLKWAREKVEAGISSEIADHRMGLEGEKETKEVKAFLDIAQSCTEESPK
+YRPTMKEVVERLNRL
+
+
+PACMAD CONSENSUS:
+Length: 383 aa
+
+MDgPVLALIVVAGASVAVAVPCLLLAFLCRRRSSRnsLKPlIRQRCCSSsSAPaLPVSAP
+atsSDSsSWSFYGadADAsLeKLSLADLAAATGGFSPDNIIGDGSFGFVYRAVLPdGAAV
+AVKRLSGDGAAGAGNREFRAELEVLGSLSHPNLARLLGYCAAGRDRILVYELLERGSLDA
+WLHGGDAEDGGGteaLPWPARLRVARGAAAALAFLHHGRRPPVLHRDVKSSNVLLGEGFE
+AKLADFGLARIVRGSPAKSHVSTQAAGTAGYVAPEIWAGVGATAKADVYSFGVLVIEIVT
+GHRPSWPVKAsIGEKEVDLVDWAREKIGAGQASEILDRRMGIGgQGKEMDEAKGLLEIAw
+RCTDSaqKNRPTMEEVVAMLNKI
+
+================================================================================

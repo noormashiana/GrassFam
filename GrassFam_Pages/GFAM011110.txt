@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM011110
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             338.0 aa
+Family Size (Extended Family Size): 23 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46015:SF11
+Panther Family ID:               PTHR46015
+Modal Panther ID:                PTHR46015:SF11
+Modal Panther Description:       HOMOCYSTEINE S-METHYLTRANSFERASE 3
+Modal Panther Family ID:         PTHR46015
+Modal Panther Fam Desc:          ZGC:172121
+Interpro Signature Accession:    G3DSA:3.20.20.330:FF:000002; G3DSA:3.20.20.330; NF007020; PTHR46015; PF02574; SSF82282
+Interpro Signature Description:  Homocysteine S-methyltransferase; -; homocysteine S-methyltransferase; ZGC:172121
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: homocysteine S-methyltransferase 3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: homocysteine S-methyltransferase 3-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: homocysteine S-methyltransferase 3
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: homocysteine S-methyltransferase 3; homocysteine S-methyltransferase 3-like; homocysteine S-methyltransferase 3-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl12
+  Gene Products: homocysteine S-methyltransferase 2
+  Gene Descriptions: homocysteine S-methyltransferase 2
+Osa
+  Gene count: 1
+  Modal chromosome: Osa12
+  Gene Products: homocysteine S-methyltransferase 2
+  Gene Descriptions: homocysteine S-methyltransferase 2
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu06
+Pau
+  Gene count: 2
+  Modal chromosome: Pau22
+  Gene Products: homocysteine S-methyltransferase 3; homocysteine S-methyltransferase 3-like%2C transcript variant X1
+  Gene Descriptions: homocysteine S-methyltransferase 3; homocysteine S-methyltransferase 3-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: homocysteine S-methyltransferase 3; homocysteine S-methyltransferase 3-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: homocysteine S-methyltransferase 3
+Msi
+  Gene count: 2
+  Modal chromosome: Msi14
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: homocysteine S-methyltransferase 3%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: homocysteine S-methyltransferase-2; uncharacterized LOC541875
+  Gene Synonyms: GRMZM2G117240,HMT-2; GRMZM2G152470,HMT-3,TIDP2897
+  Gene Descriptions: homocysteine S-methyltransferase-2; uncharacterized LOC541875
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 338 aa
+
+MVGTSGGGAEEAVRRWVEAGGGRLVLDGGLATELEANGADLNDPLWSAKCLLSSPHLIRK
+VHLDYLEAGANIIITASYQATIQGFESKGFSKEQSENLLTKSVEIArEAREMFLKEHlDQ
+STPiQHPILVAASIGSYGAYLADGSEYSGDYGEAGTLEFLKDFHRRRLQVLAEAGPDLIA
+FETIPNKLEAQAYVELLEECNINIPAWFSFNSKDGVNIVSGDSLIECATIANkCAKVGAV
+GINCTPPRFIHGLILSIRKVTDKPILIYPNSGERYDGEKKEWVESTGVSDGDFVSYVsEW
+CKDGAALIGGCCRTTPNTIRAIsRSLNQgypApQLPVA
+
+
+BOP CONSENSUS:
+Length: 339 aa
+
+MVVKSGGGGGAEEGAAGAAVRRWVEAGGGRLVLDGGLATELEAHGADLNDPLWSAKCILS
+SPHLIRKVHLDYIEAGANIIITASYQATIQGFESKGFSKEQGENLLTKSVEIAhEAREMF
+LKEHPDQSTPLRPILVAASIGSYGAYLADGSEYSGDYGEAGTLEFLKDFHRRRLQVLAEA
+RPDLIAFETIPNKLEAQAYVELLEECNINIPSWFSFNSKDGVNVVSGDSLIECAtIANeC
+AKVGAVGINCTPPRFIHSLILSIRKVTDKPILIYPNSGERYDAEKKEWVESTGVSDGDFV
+SYVsEWCKDGAALIGGCCRTTPNTIRAISRSLNQYYPAA
+
+
+PACMAD CONSENSUS:
+Length: 338 aa
+
+MVGTAGGGAEEAVRRWVEAGGGRLVLDGGLATELEANGADLNDPLWSAKCLLsSPHLIRK
+VHMDYLEAGANIIITASYQATIQGFESKGFSKEQSENLLTKSVEIAlEAREMFLKEHLeQ
+SIPIQHPILVAASIGSYGAYLADGSEYSGDYGEAGTkEFLKDFHRRRLQVLAEAGPDLIA
+FETIPNKLEAQAYVELLEECNINIPAWFSFNSKDGVNIVSGDSLIECATIADKCAKVGAV
+GINCTPPRFIHGLILSIRKVTDKPILIYPNSGERYDGEKKEWVESTGVSDGDFVSYVNEW
+CKDGAALIGGCCRTTPNTIRAIqRTLNQGsNtqQLPVA
+
+================================================================================

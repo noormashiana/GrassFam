@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM013030
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             444.0 aa
+Family Size (Extended Family Size): 23 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31215:SF23
+Panther Family ID:               PTHR31215
+Modal Panther ID:                PTHR31215:SF23
+Modal Panther Description:       OS01G0193500 PROTEIN
+Modal Panther Family ID:         PTHR31215
+Modal Panther Fam Desc:          OS05G0510400 PROTEIN-RELATED
+Interpro Signature Accession:    PTHR31215
+Interpro Signature Description:  OS05G0510400 PROTEIN-RELATED
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: F-box/LRR-repeat protein At4g29420
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: F-box/LRR-repeat protein At4g29420-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata03D
+  Gene Products: F-box/LRR-repeat protein At4g29420; F-box/LRR-repeat protein At4g29420%2C transcript variant X1
+Tae
+  Gene count: 4
+  Modal chromosome: Tae03D
+  Gene Products: F-box/LRR-repeat protein At4g29420-like; F-box/LRR-repeat protein At4g29420-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: F-box/LRR-repeat protein At4g29420
+  Gene Descriptions: F-box/LRR-repeat protein At4g29420
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: F-box/LRR-repeat protein At4g29420
+  Gene Descriptions: F-box/LRR-repeat protein At4g29420
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 1
+  Modal chromosome: Pau02
+  Gene Products: F-box/LRR-repeat protein At4g29420
+  Gene Descriptions: F-box/LRR-repeat protein At4g29420
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: F-box/LRR-repeat protein At4g29420-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: F-box/LRR-repeat protein At4g29420%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: F-box/LRR-repeat protein At4g29420%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: uncharacterized LOC100276016
+  Gene Synonyms: GRMZM2G077981
+  Gene Descriptions: uncharacterized LOC100276016
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 446 aa
+
+MSdvGDPLDsLPAAILADVLGRVADAGDIAACRLASRALLAASYhCPRVRLsAAARARRR
+RgRGGGGGaPAFRAAAaNlASLLGPHLRSLALDASdGQGsPDDAMWVEEGEFDEADDLHL
+TSGEAVAAWAATAAGPVLREVDIADYWPQSCWRKAEALPVISHyCHNLsKLGLRNAWLSV
+DGLKkMPNLTHLTLEFIRLDDEDLsqLNECFPCLHTLNLIGVGGLKDPKIHLPQLKTChW
+EVSNVPRSLAIHAPNLVyLELKCVRPDiLILDTPSlSTLKLTIDKLGPTVQVDGLVSLtN
+LRIESLDLsSLLrVFveSRdIRTLELELPeSASqYELlEAVnPeYLLkllASiSEVKLsP
+RFSCELmRCLvLCmdSqFRSCLKKLLIHvPPSistfqLlPLFnnCAPsCEVTVLFHADSS
+DAvRQAAmSiWmLrFPdIRWQWGTWq
+
+
+BOP CONSENSUS:
+Length: 444 aa
+
+MSDVVDPLDSLPSAILADVLGRVADAGDIAASRLASRALLAASYHCPRVRLSAAARARRL
+RGRGGGDGATAFRlAAANVASLLGPHLRSLALDASQGHGCPDQAIWVKHGEFDEANDLHL
+TSGESVAAWAATAAGPALREVDIADFWPQSCWRKAEALPVISRLCHNLSTLRLRNAWLSV
+DGLRIMPNLTHLALESIRLDDENLSTLNECFPCLHTLNLIGVGGLKDPKIHLPQLKTCHW
+EVSNVPRSLAIHAPNLVYLELKCVRPEILILDTPSVSTLKLTIDKLGPTVQVDGLVSLKN
+LRIESSDLNSLLRLFSESRDVRTLDLELPASAGRyELYEAVEPELFSRATEVKLSPRFSY
+ELMRRIVFSMTSYDCRSCLRKLLVHMPPSILTTCPFIPLvNNCAPSCEVTVLFHADSSDA
+TRQAAaSSWPLRFPDITWQWGTWQ
+
+
+PACMAD CONSENSUS:
+Length: 444 aa
+
+MSASGDPLDALPAAVLADVLGRVADAGDIAACRLASRALLAASYLCPRVRLCAADCARRR
+REGgGGsPAFRATagNLASLLGpHLRSLSLDaADGQGSPDDAMWVEEGEFDEADDLHLTS
+GEAVAAWAATsAGPVLREVEIADYWPQACWRKAEALPLISHYCLNLVKLGLKNAWLSVDG
+LKKMPNLTHLTLEFIRLDDEDLNQLNECFPCLHTLNLIGVGGLKDPKIHLLQLKTCRWEV
+SNVPRSLVVhAPNLVFLELKCVRPDtLILDTPSLSTLKLTIDKLGATVQVDGLVSLTNLR
+IESLDLSSLFPVFVDsRAIRTLELELPESASQYELLEAVNPDYLLRMLASISEVKLgPRF
+SCgLtLCLALCKDSQFqSCLKKLLIHVPQSgStFQLLPLFQICAPLCEVTVLFHAESADA
+vRQGAMSICMQSFPgIRWQWGTWK
+
+================================================================================

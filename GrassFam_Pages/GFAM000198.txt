@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM000198
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             427.0 aa
+Family Size (Extended Family Size): 48 (52) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR31375
+Modal Panther ID:                PTHR31375:SF177
+Modal Panther Description:       POLYGALACTURONASE QRT2
+Modal Panther Family ID:         PTHR31375
+Modal Panther Fam Desc:          FAMILY NOT NAMED
+Interpro Signature Accession:    G3DSA:2.160.20.10:FF:000028; G3DSA:2.160.20.10; PTHR31375; PF00295; SSF51126
+Interpro Signature Description:  Polygalacturonase QRT2; -; Glycosyl hydrolases family 28; Pectin lyase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 3
+  Modal chromosome: Bdi01
+  Gene Products: polygalacturonase ADPG1
+Lpe
+  Gene count: 5
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu05H
+  Gene Products: polygalacturonase ADPG2-like; polygalacturonase-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata05D
+  Gene Products: polygalacturonase; polygalacturonase ADPG2
+Tae
+  Gene count: 7
+  Modal chromosome: Tae05B
+  Gene Products: polygalacturonase ADPG2-like; polygalacturonase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: polygalacturonase ADPG2-like
+  Gene Descriptions: polygalacturonase ADPG2-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: polygalacturonase ADPG2
+  Gene Descriptions: polygalacturonase ADPG2
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: polygalacturonase ADPG2-like
+  Gene Descriptions: polygalacturonase ADPG2-like
+Svi
+  Gene count: 3
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi09K
+  Gene Products: polygalacturonase ADPG1-like; polygalacturonase ADPG2-like; polygalacturonase-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha09
+  Gene Products: polygalacturonase ADPG2-like%2C transcript variant X2; polygalacturonase-like
+Msi
+  Gene count: 8
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi01
+  Gene Products: polygalacturonase; polygalacturonase ADPG2
+Zma
+  Gene count: 4
+  Modal chromosome: Zma01
+  Gene Products: Polygalacturonase QRT2; polygalacturonase; polygalacturonase ADPG1; polygalacturonase ADPG2
+  Gene Descriptions: Polygalacturonase QRT2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 425 aa
+
+MASsttkLVfmAPLLALLFLSGALeAAgAaNasSadgagRSLaastqqsVFSLDnYGARG
+DGkHDDTQALAkAWkAACASpRPAVLLVPkGKrYLLKlVTLSGPCKSSVvfTVKGTLVAS
+PnRSDWSDnDRRHWIVFRgVnGLTVNGGGTIDGNGekWWkNSCKINKALPCKEAPTALSF
+HyCTNLrVENLKIVNSQQIHMSVEDCtNVQLARLSITAPGTSPNTDGIHITRSKDVQVTD
+CkIKTGDDCmSIENGTHNLHVSKVVCGPGHGISIGSLGDDNSRAEVSGITIDSVQLYGTT
+NGARIKTYQGGSGYAKDITFQNMIMdNVkNPIIIDQNYCDsAKPCkeQgSAVEVSNVVFK
+NIRGTTITKDAIKLSCSKNvPCsGITLQNIDLKMEGGKGdTESTCQNAKWRKSGTVvPQP
+CTsKN
+
+
+BOP CONSENSUS:
+Length: 413 aa
+
+MASTtTkLVaApLlvLLLLSvSnASSvSSLpaeTQqNVFslDNYGARGDGKHDDTQALAK
+AWNAACSSSRPAVLLVPKGKTYLLKSiTLSGPCKSSVVFMVKGTLVAPpSRSAWSENNRR
+RWIvlQGVtGLTVtGGGTINGNGevWWkNSCKTNKALPCTgAPTALTFHLCnNLkVENLK
+lVNSQQIHlSVEDCSnVQLARLSITAPGTSPNTDGIHITRSKDVQVRDCvIKTGDDCmSI
+ENGTHNLHVTKVVCGPGHGISIGSLGDDNSRAEVSGIyIDTVQLYGTTNGARIKTWQGGS
+GYAKDIVFQNMIMDNVQNPIIIDQNYCDSAKPCKgQeSAVEVSNVVFKNIRGTTISKDAI
+KLSCSKnlsCSdIVLENIDLKMEGGKGDTESTCQNAKWRKSGTViPQPCkgkN
+
+
+PACMAD CONSENSUS:
+Length: 439 aa
+
+MASstklkLVFmAPLLALLFlSGALEAAgaaNGTSADGAssSSSsAnaAAapRGRSLsSS
+sqSVFSLDRYGARGDGRHDDTqALARAWKAACASPRPAVVLVPGGKRYLLKLVTLsGPCK
+SSVTLTVKGTLVASPNRADWSDkDRRHWIVFRSVnKLTVNGGGAIDGNGEKWWPHSCKIN
+KALPCKEAPTALSFHYCTNLRVEDLKIVNSQQIHMSVEDCTNVQLARLSITAPGTSPNTD
+GIHITRSKDVqVTNCKIKTGDDCMSIENGTHNLHVSKVVCGPGHGISIGSLGDDNSRAEV
+SGITIDSVQLYGTTNGARIKTYQGGSGYAKDITFQNMIMYnVKNPIIIDQNYCDKAKPCr
+EQrSAVEVSNVVFKNIRGTTITKDAIKMNCSKNVPCHGITLQNIDLKMQGGKGaTESTCQ
+NAKWRKSGTVlPQPCTsKn
+
+================================================================================

@@ -1,0 +1,113 @@
+================================================================================
+GrassFam ID: GFAM016262
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             538.0 aa
+Family Size (Extended Family Size): 11 (11) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10774:SF216
+Panther Family ID:               PTHR10774
+Modal Panther ID:                PTHR10774:SF216
+Modal Panther Description:       OS09G0538800 PROTEIN
+Modal Panther Family ID:         PTHR10774
+Modal Panther Fam Desc:          EXTENDED SYNAPTOTAGMIN-RELATED
+Interpro Signature Accession:    cd21677; cd00030; G3DSA:2.60.40.150:FF:000102; G3DSA:2.60.40.150:FF:000066; G3DSA:2.60.40.150; PTHR10774; PF00168; SSF49562
+Interpro Signature Description:  SMP_SYT; C2; Synaptotagmin-2 isoform A; Extended synaptotagmin-2; C2 domain; EXTENDED SYNAPTOTAGMIN-RELATED; C2 domain (Calcium/lipid-binding domain, CaLB)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: synaptotagmin-2%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: synaptotagmin-2-like
+  Gene Descriptions: synaptotagmin-2-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: synaptotagmin-2
+  Gene Descriptions: synaptotagmin-2
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: synaptotagmin-2-like; synaptotagmin-2-like%2C transcript variant X1
+  Gene Descriptions: synaptotagmin-2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi01N
+  Gene Products: synaptotagmin-2-like%2C transcript variant X3
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: synaptotagmin-2-like%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 538 aa
+
+MGFFSTVLGFFGFGVGVTLGLVIGYYLFIYFQPTDVKHPVIRPLVELDTKSLEsMLPEIP
+HWVKNPDFDRIDWLNKFVETMWPYLDKAICKTAKEIAKPIIAENTAKYKIDSVEFETLTL
+GSLPPTFQGMKVYTTDEQELIMEPSIKWAGNPNITVVVKAFGLKATAQVIDLQVFALPRI
+TLKPLVPSFPCFAKILVSLMEKPHVDFGLKLLGADLMAIPGLYvFVQETIKTQVANMYLW
+PKVLEVQIMDPAKAQKKPVGILHVNVVRAVKLTKKDLLGKSDPYVKLKLTEEKLPSKKTS
+VKRSNLNPEWNEEFKLVVKDPESQALELTVYDWEQVGKHDKIGMNVIPLKDLTPDETKSv
+TLNLLKTMDANDPANEKFRGQLTVDVTYKPFKEGDSDVDTSDESGVIEKAPDGTPEGGGL
+LVVIVHEAQDVEGKHHTNPYVRILFRGEERKTKHIKKNRDPRWEQEFQFVCEEPPINDKM
+QVEVISRPPSLGIHSKENLGYVVISLADVINNKRINEKYHLIDSKNGRIQLELQWRTS
+
+
+BOP CONSENSUS:
+Length: 538 aa
+
+MGFFSTVLGFFGFGVGVTMGLVIGYYLFIYFQPTDVKHPVIRPLVELDTKSLESMLPEVP
+HWVKNPDFDRIDWLNKFVENMWPYLDKAICKTAKEIAKPIIAENTAKYKIDSVEFETLTL
+GSLPPTFQGMKVYTTDEQELIMEPSIKWAGNPNITVVVKAFGLKATAQVIDLQVFALPRI
+TLKPLVPSFPCFAKIVVSLMEKPHVDFGLKLLGADLMAIPGLYVFVQEIIKTQVANMYLW
+PKVLEVPIMDPAKAQKKPVGILHVNVVRAVKLTKKDLLGKSDPYVKLKLTEEKLPSKKTS
+VKRSNLNPEWNEEFKLVVKDPESQALELTVYDWEQVGKHDKIGMSVIPLKELIPDETKSV
+TLDLLKTMDANDPANDKFRGQLTVDVTYKPFKEGDSDVDTSDESGTIEKAPDGTPEGGGL
+LVVIVHEAQDVEGKHHTNPYVRIVFRGEERKTKHIKKNRDPRWEQEFQFVCEEPPTNDKM
+QIEVISRPPSIGIHSKENLGYVVISLADVINNKRINEKYHLIDSKNGRIQLELQWRTS
+
+
+PACMAD CONSENSUS:
+Length: 538 aa
+
+MGFFSTVLGFFGFGVGVTLGLVIGYYLFIYFQPTDVKHPVIRPLVELDTKSLEgMLPEIP
+HWIKNPDFDRIDWLNKFvETMWPYLDKAICKTAKEIAKPIIAENTAKYKIDSVEFETLTL
+GSLPPTFQGMKVYTTDEQELIMEPSIKWAGNPNITVVVKAYGLKATAQVIDLQVFALPRI
+TLKPLVPSFPCFAKILVSLMEKPHVDFGLKLLGADLMAIPGLYgFVQETIKTQVANMYLW
+PKVLEVQIMDPAKAQKKPVGILHVNVVRAVKLTKKDLMGKSDPYVKLKLTEDKLPSKKTS
+VKRSNLNPEWNEEFKLVVKDPESQALELTVYDWEQVGKHDRIGMNVIPLKDLTPDETKSv
+TLNLLKTMDANDPANEKFRGQLTVDVTYKPFKEGDSDVDTSDESGVIEKAPDGTPEGGGL
+LVVIVHEAQDVEGKHHTNPYVRILFKGEEKKTKHIKKNRDPRWEEEFEFVCEEPPINDKM
+QVEVISRPSSLGIHSKENLGYVVISLADVINNKRINEKYHLIDSKNGRIQLELQWRTS
+
+================================================================================

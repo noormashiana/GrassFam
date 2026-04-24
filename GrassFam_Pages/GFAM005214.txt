@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM005214
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             679.0 aa
+Family Size (Extended Family Size): 24 (29) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22753:SF39
+Panther Family ID:               PTHR22753
+Modal Panther ID:                PTHR22753:SF39
+Modal Panther Description:       SERINE AMINOPEPTIDASE S33 DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR22753
+Modal Panther Fam Desc:          TRANSMEMBRANE PROTEIN 68
+Interpro Signature Accession:    cd07987; PTHR22753
+Interpro Signature Description:  LPLAT_MGAT-like; TRANSMEMBRANE PROTEIN 68
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: acyltransferase-like protein At3g26840%2C chloroplastic%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: acyltransferase-like protein At3g26840%2C chloroplastic%2C transcript variant X1
+Ata
+  Gene count: 3
+  Modal chromosome: Ata05D
+  Gene Products: acyltransferase-like protein At1g54570%2C chloroplastic; acyltransferase-like protein At1g54570%2C chloroplastic%2C transcript variant X1
+Tae
+  Gene count: 7
+  Modal chromosome: Tae05A
+  Gene Products: acyltransferase-like protein At1g54570%2C chloroplastic; acyltransferase-like protein At1g54570%2C chloroplastic%2C transcript variant X2; acyltransferase-like protein At3g26840%2C chloroplastic; acyltransferase-like protein At3g26840%2C chloroplastic%2C transcript variant X1
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl09
+  Gene Products: phytyl ester synthase 1%2C chloroplastic-like
+  Gene Descriptions: phytyl ester synthase 1%2C chloroplastic-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: phytyl ester synthase 1%2C chloroplastic%2C transcript variant X1
+  Gene Descriptions: phytyl ester synthase 1%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau20
+  Gene Products: phytyl ester synthase 1%2C chloroplastic-like
+  Gene Descriptions: phytyl ester synthase 1%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: acyltransferase-like protein At1g54570%2C chloroplastic%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: acyltransferase-like protein At1g54570%2C chloroplastic%2C transcript variant X1
+Msi
+  Gene count: 1
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: acyltransferase-like protein At1g54570%2C chloroplastic%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 670 aa
+
+MPAAaAATPSAVAPPRPrLLpRRAspRRRapPlPRWvASASSaSgAPRsSmdATAkAGRR
+rGVREYVEAAREMARRPDGGPPRWFAPLECGGAGERVPGAPTLLYLPGIDGVGLGLIRHH
+ERLAKMFDmWCLHIPVEDRTtFEGLVEYVERTVKSEsSRAPDRPVYLVGESVGACIALAV
+AARNRDIDLVLILVNPGTSFHRSQLQSLSAFLDLVPDPFHLSTPQLLNFLTGNFMKMsST
+FvGAGQALSEITSgLLPSLMyLaDILPKESIVWKLKMLRTASSFVNSRLHAVKAQTLVLA
+SGNDELLPSReEAERLRGtLEKCRiRHFRDNGHKILLEdeFDLATTIKGAGYYRRSRQTD
+FVSDYLPPTPDELEKAIDHDRlLNFATDPVMLSTLPDGKIVRGLAGLPREGPVVLVGYHM
+LMGFELGPLVTGVLrSTGIHIRGLAHPFMFdKSSEQLMPDSSyFDLHRIMGAVPVTGVNF
+YKLLSEKQFVLLYPGGAREALHRKGEEYKLFWPEQSEFVRMASRFGATIIPFGVVGEDDI
+CDmLLDYNDLmKLPFYDILDKkLNEDGLKLRTDSTGEIKNQdMHPVVLTPKVPGRFYFIF
+GKPIETRGREKELRDKEKAQHLYLHVKSEVESCIKYLKEKREEDPYRSILPRLLYQAvHG
+sDAEIPTFEP
+
+
+BOP CONSENSUS:
+Length: 674 aa
+
+MAAAAAATPSAlAPPrPRLLPrRAsRRRaaPLPRWtASASsSrSRAPRPRPASSMDATAK
+AGRRPGVREYVEAAREMARRPDGGPPRWFAPLECGGGGERVPGAPTLLYLPGIDGVGLGL
+IRHHERLAKMFDMWCLHIPVQDRTTFQGLVEYVERTVKSERSRAPDRPVYLVGESVGACI
+ALAVAARNRDVDLVLVLVNPGTSFHRSQLQSLSALLDLVPDPFHLSTPQLLNFLTGNFMK
+MSSRFDGAGQALSEVTTGLLPSLMYLADILPKESIVWKMKMLRTASSFVNSRLHAVKAQT
+LVVASGNDELLPSREEAERLRGTLKKCRIRHFRDNGHKILLEDGFDLATtIKGAGYYRRS
+RQTDFVSDYLPLTPDELEKAIDHDRLLNFATDPVMLSTLPDGKIVRGLAGLPREGPVLLV
+GYHMLMGFELGPLVTGVLRSTGIHIRGLAHPFMFNESSEQLMPDsSYYDLHRIMGAVPVT
+AVNFYKLLSEKQFVLLYPGGAREALHRKGEEYKLFWPEQSEFVRMASRFGATIIPFGVVG
+EDDICDMLLDYNDLMKLPFYDILDKKLNEgGLKLRTDSTGEIKNQDMHPVVLTPKVPGRF
+YFIFGKPIETRGREKELRDKEKAQHLYLHVKSEVESCIKYLKEKREEDPYRSILPRLLYQ
+AaHGSDAEIPTFEP
+
+
+PACMAD CONSENSUS:
+Length: 681 aa
+
+MPAtaslAAVAVAPPRSRRPLLaRApfRRRAPAAHGWEPrRCRAsASSSAsAsPPpGAAA
+ARRRGvREYVEAAREMARRKDGGPPRWFSPLECGGAGGGRVPGAPTLLYLPGIDGVGLGL
+IRHHErLAKMFELWCLHIPVEDRTSFEGLVEYVERTVKSESSRAPDRPVYLVGESVGACI
+ALAVAARNPDIDLVLILVNPGTSFHKSQLQTLSAFLDlVPEPFHLTTPQLLNFLTGNFMK
+MPSTVVGRGFSLEEAGQTLSEITSSLLdSLMFLVDILTKESIVWKLKMLKTASSFVNSRL
+HAVKAQTLVLASGNDELLPSSQEAERLRGALEKCRTRLFRDNGHKILLEAEFDLATTIKG
+AGYYRRSRKTDFVSDYLPPTPDELQQAINRDRILNFvTDPVMLSTLPDGKIVRGLAGLPR
+EGPAVLVGYHMLLGFELGPMVTGVLSSTGVHIRGLAHPFMFDKNTEQLMPDSAHFDLHRI
+MGAVPVTGANFYKLLADKEFVLLYPGGAREALHRKGEEYKLFWPEQPEFVRMASRFGATI
+IPFGVVGEDDICDLLLDYNDLQKLPFYDILDKvLNRDGLKLRTDSMGELKDQGMHPvVVA
+PKVPGRFYFvFGKPIETRGREKELRDKEEAQRLYLQVKSEVESCINYLKEKREkDPYRSI
+LPRLLYQAVHGPNAEIPTFEP
+
+================================================================================

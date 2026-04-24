@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM010422
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             497.0 aa
+Family Size (Extended Family Size): 24 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR43321
+Modal Panther ID:                PTHR43321:SF37
+Modal Panther Description:       GLUTAMATE DECARBOXYLASE
+Modal Panther Family ID:         PTHR43321
+Modal Panther Fam Desc:          GLUTAMATE DECARBOXYLASE
+Interpro Signature Accession:    cd06450; G3DSA:3.40.640.10:FF:000022; G3DSA:3.90.1150.160:FF:000001; G3DSA:4.10.280.50:FF:000002; G3DSA:3.40.640.10; G3DSA:4.10.280.50; G3DSA:3.90.1150.160; TIGR01788; PTHR43321; PF00282; SSF53383
+Interpro Signature Description:  DOPA_deC_like; Glutamate decarboxylase; -; glutamate decarboxylase; GLUTAMATE DECARBOXYLASE; Pyridoxal-dependent decarboxylase conserved domain; PLP-dependent transferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: glutamate decarboxylase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu03H
+  Gene Products: glutamate decarboxylase-like; glutamate decarboxylase-like%2C transcript variant X2
+Ata
+  Gene count: 2
+  Modal chromosome: Ata03D
+  Gene Products: glutamate decarboxylase; glutamate decarboxylase%2C transcript variant X2
+Tae
+  Gene count: 6
+  Modal chromosome: Tae03A
+  Gene Products: glutamate decarboxylase-like; glutamate decarboxylase-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl08
+  Gene Products: glutamate decarboxylase-like%2C transcript variant X3
+  Gene Descriptions: glutamate decarboxylase-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa08
+  Gene Products: glutamate decarboxylase 1%2C transcript variant X2
+  Gene Descriptions: glutamate decarboxylase 1
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN50
+Pau
+  Gene count: 1
+  Modal chromosome: Pau16
+  Gene Products: glutamate decarboxylase 1-like
+  Gene Descriptions: glutamate decarboxylase 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: glutamate decarboxylase-like; glutamate decarboxylase-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: glutamate decarboxylase-like%2C transcript variant X2
+Msi
+  Gene count: 1
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: glutamate decarboxylase-like%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: glutamate decarboxylase%2C transcript variant X1
+  Gene Synonyms: GAD,GRMZM2G017110
+  Gene Descriptions: glutamate decarboxylase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 497 aa
+
+MVLSHASSgrgeAVycTFASRYVREELPRYRMPErSIPKEAAYQIIsDELMLDGNPRLNL
+ASFVTTWMEPECDKLIMDSVNKNYVDMDEYPVTTELQNRCVNMIAHLFNAPIKEDETAIG
+VGTVGSSEAIMLAGLAFKRKWQNKRKEQGKPYDKPNIVTGANVQVCWEKFARYFEVELKE
+VKLTEGYYVMDPvKAVEMVDENTICVAAILGSTLTGEYEDVKLLNDLLVEKNKETGWDVP
+IHVDAASGGFIAPFLYPELEWDFRLPLVKSINVSGHKYGLVYPGVGWVIWRSKeDLPEEL
+IFHINYLGTDQPTFTLNFSKGSSQIIAQYYQLIRLGFEGYKHIMENCqeNAAILREGIeA
+TGRFDILSKeDGVPLVAFSLKDSTrFSVFDISENLRRFGWIVPAYTMPADAEHVAVLRVV
+IREDFSRSLAQRLvaDINKILHELDAHAvHAvKvstAtAtQsGdGDGVVAkKSVLEiErE
+vAAAWrdLVkKKKTGVC
+
+
+BOP CONSENSUS:
+Length: 499 aa
+
+MVISHASSsAGEsVYsTFSSRYVREELPRYRMPEnSIPKEAAYQIItDELMLDGNPRLNL
+ASFVTTWMEPECDKLIMDSVNKNYVDMDEYPVTTELQNRCVNMIAHLFNAPInEDETAIG
+VSTVGSSEAIMLAGLAFKRKWANKRKEQGKPCDKPNIVTGANVQVCWEKFARYFEVELKE
+VKLTEGYYVMDPlKAVEMVDENTICVAAILGSTLTGEYEDVKLLNDLLVEKNKETGWNVP
+IHVDAASGGFIAPFLqPELEWDFRLPLVKSINVSGHKYGLVYPGVGWVIWRSKDDLPEEL
+IFHINYLGTDQPTFTLNFSKGASQIIAQYYQLIRLGFEGYKHIMENCkaNAAVLREGIEA
+TGRFdILSKEDGVPLVAiSLKDSTnFSVFDISENLRRFGWIVPAYTMPADAEHVAVLRVV
+IREDFSRSLAQRLLADINKILHELDAHAVHAIKlTtAtATQnGeGAdDGvVTQKSVLDTE
+kEFvAAcmsLVKNKKTGVC
+
+
+PACMAD CONSENSUS:
+Length: 497 aa
+
+MVLSHASSIgRDDAVACTFASRYVRErLPRYRMPERSIPREAAYQIINDELMLDGNPRLN
+LASFVTTWMEPECDKLIMDSINKNYVDMDEYPVTTELQNRCVNMIAHLFNAPIKEDETAV
+GVGTVGSSEAIMLAGLAFKRKWQNKRKEQGKPYDKPNIVTGANVQVCWEKFARYFEVELK
+EVKLSEGYYVMDPVKAVEMVDENTICVAAILGSTLTGEFEDVKqLNDLLTEKNKETGWDV
+PIHVDAASGGFIAPFLYPELEWDFRLPLVKSINVSGHKYGLVYAGVGWVIWRSKEDLPEE
+LIFHINYLGTDQPTFTLNFSKGSSQIIAQYYQLIRLGFEGYKNIMENCmENAAILREGIA
+ATGRFDILSKDAGVPLVAFSLKDSSRFSVFDISENLRRFGWIVPAYTMPADAEHVAVLRV
+VIREDFSRSLsERLVsDIlKILRELDARATHAVRVASATAAQSDDGGVVAKKSVLEIERE
+VAARWRNAVNKKKTGPC
+
+================================================================================

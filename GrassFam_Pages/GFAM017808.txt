@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM017808
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             516.0 aa
+Family Size (Extended Family Size): 21 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11206:SF468
+Panther Family ID:               PTHR11206
+Modal Panther ID:                PTHR11206:SF468
+Modal Panther Description:       PROTEIN DETOXIFICATION 54
+Modal Panther Family ID:         PTHR11206
+Modal Panther Fam Desc:          MULTIDRUG RESISTANCE PROTEIN
+Interpro Signature Accession:    cd13132; TIGR00797; PTHR11206; PF01554
+Interpro Signature Description:  MATE_eukaryotic; MATE family efflux transporter; MULTIDRUG RESISTANCE PROTEIN; MatE
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: protein DETOXIFICATION 54
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: protein DETOXIFICATION 54
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: protein DETOXIFICATION 54
+Tae
+  Gene count: 2
+  Modal chromosome: Tae04A
+  Gene Products: protein DETOXIFICATION 54-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: protein DETOXIFICATION 54
+  Gene Descriptions: protein DETOXIFICATION 54
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: protein DETOXIFICATION 54
+  Gene Descriptions: protein DETOXIFICATION 54
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: protein DETOXIFICATION 54-like
+  Gene Descriptions: protein DETOXIFICATION 54-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: protein DETOXIFICATION 54-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: protein DETOXIFICATION 54-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: protein DETOXIFICATION 54
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: uncharacterized LOC100279305
+  Gene Synonyms: BIGE1,GRMZM2G148937,umc1423
+  Gene Descriptions: uncharacterized LOC100279305
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 508 aa
+
+MAIPLQGKaqqqdGGKGGGQaDdGGDDQPSVAAELRALWGMAAPITALNCVVYLRAMVSV
+LCLGRLGPLDLAGGALAIGLTNITGHSVLFGLASGLEPLCAQAFGSRNYDLLTLSLQRAV
+LLLfLAAvPIALLWLNVGPILVALGQDPTISASAAAYAAfALPDLAASAVLQPLRVYLRS
+QGITKPMAACSAIAVALHVPLNVLLVFGLGFGVRGVAAAQALTNTNMVLFLLAYIRWARA
+CEDTWRGWARPAAVASGLPGLVRLAVPSCVGVCLEWWWYEVVTVLAGYLPNPAAAVGAAG
+VLIQTTSLMYTVPMALAACVSTRVGNELGAGKPRRARMAAMVALWCALaIGVVHVAWTVA
+FSRQWVELFTTEPSVVRLASAAMPVLGLCELGNCPQTTGCGVLRGTARPAVGARINLLSF
+YLVGTPVAVYLAFGARAGFrGLWYGLLSAQAACVALVLAAVVWRTDWrVEAMRAKKLAGL
+ELtaTATEgaaEEsKRLVAaNGEPAEDV
+
+
+BOP CONSENSUS:
+Length: 513 aa
+
+MAIPLQAKKQQENGSKGGQGSvDGGDDNPSAAEELRELWRMAAPITALNCVVYLRAMVSV
+LCLGRLGPLDLAGGALAIGLTNITGHSVLFGLASGLEPLCAQAYGSRNYDLLTLSLQRAV
+LLLAIAAVPIALLWLNVGPILVALGQDPAISASAAAYAAWALPDLAALAVLQPLRVYLRS
+QGITKPMAACSAAAVALHVPLNVLLVFGMGFGVRGVAAAQALTNTNMVLFLLAYVRWARA
+CDDTWRGFARPAAVASGLGGLVRLAVPSCIGVCLEWWWYEVVTVLAGYLPNPTAAVGAAG
+VLIQTTSLMYTVPMALAACVSTRVGNELGAGKPRRARMAATVALWCAAGVGLAHVAWTAA
+FSAQWVSLFTREPSVVrLASAAMPVLGLCELGNCPQTTGCGVLRGTARPAVGARINLLSF
+YLVGTPVAVLLAFGPGPRvGFGGLWYGLLSAQAACVALVLVAVVWRTDWRVEAMRARKLT
+GTGAETTATATEGDQEEMRRLVAGNGREVDVDV
+
+
+PACMAD CONSENSUS:
+Length: 506 aa
+
+MAIPLQGKAlkRHDgGKGGGQVgGgDDQPSVAAELRALWGMAAPITALNCVVYLRAMVSV
+LCLGRLGPLDLAGGALAIGLTNITGHSVLFGLASGLEPLCAQAFGSRNYELLTLSLQRAM
+LLLFLAAvPIALLWLNVGPILVALGQDPTISAHAAAYAAFALPDLAASVVLQPLRVYLRS
+QGITRPMAACSAIAVALHVPLNVLLVFGLGLGVRGVAAAQALTNTNMLLFLLAYIRWARA
+CEDTWRGWARPAAVASGLPGLASLAVPSCVGVCLEWWWYEVVTVLAGYLPNPAAAVGAAG
+VLIQTTSLMYTVPMALAACVSTRVGNELGAGKPRRARMAAMVALWCALAIGVVHVAWTVA
+LSRQWVELFTTEPsVVRLASAAMPVvGLCELGNCPQTTGCGVLRGTARPAVGARINLLSF
+YLVGTPVAVYLAFGARAGFSGLWYGLLSAQAtCVALVLAAVVWRTDWrVEAMRAKKLAGL
+ELApTTtAAEESKRLVAANGEPAEDV
+
+================================================================================

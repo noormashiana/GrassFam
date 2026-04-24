@@ -1,0 +1,142 @@
+================================================================================
+GrassFam ID: GFAM018811
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             577.0 aa
+Family Size (Extended Family Size): 24 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46475:SF1
+Panther Family ID:               PTHR46475
+Modal Panther ID:                PTHR46475:SF1
+Modal Panther Description:       REGULATORY PROTEIN NPR2
+Modal Panther Family ID:         PTHR46475
+Modal Panther Fam Desc:          REGULATORY PROTEIN NPR3
+Interpro Signature Accession:    cd18310; G3DSA:1.25.40.20:FF:000239; G3DSA:3.30.710.10:FF:000184; PTHR46475; PF12313
+Interpro Signature Description:  BTB_POZ_NPR_plant; BTB/POZ domain and ankyrin repeat-containing protein NPR1; REGULATORY PROTEIN NPR3; NPR1/NIM1 like defence protein C terminal
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: BTB/POZ domain and ankyrin repeat-containing protein NPR1%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: BTB/POZ domain and ankyrin repeat-containing protein NPR1-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata03D
+  Gene Products: BTB/POZ domain and ankyrin repeat-containing protein NPR1; BTB/POZ domain and ankyrin repeat-containing protein NPR1%2C transcript variant X1
+Tae
+  Gene count: 4
+  Modal chromosome: Tae03D
+  Gene Products: BTB/POZ domain and ankyrin repeat-containing protein NPR1-like; BTB/POZ domain and ankyrin repeat-containing protein NPR1-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: BTB/POZ domain and ankyrin repeat-containing protein NPR1
+  Gene Descriptions: BTB/POZ domain and ankyrin repeat-containing protein NPR1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: BTB/POZ domain and ankyrin repeat-containing protein NPR1-like
+  Gene Synonyms: NH1,NPR1,NPR2,OsNH1,OsNPR1,PR2
+  Gene Descriptions: BTB/POZ domain and ankyrin repeat-containing protein NPR1-like
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: BTB/POZ domain and ankyrin repeat-containing protein NPR1-like
+  Gene Descriptions: BTB/POZ domain and ankyrin repeat-containing protein NPR1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: BTB/POZ domain and ankyrin repeat-containing protein NPR1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: BTB/POZ domain and ankyrin repeat-containing protein NPR1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: BTB/POZ domain and ankyrin repeat-containing protein NPR1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: uncharacterized LOC100285744
+  Gene Synonyms: GRMZM2G077197,umc1814
+  Gene Descriptions: uncharacterized LOC100285744
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 576 aa
+
+MEPmdSHVTAAFSDSDSVSVEGAADAADADVEALRRLSDNLAAAFRSPDDFAFLADARIA
+VPGAPDLRVHRCVLsARSPFLRAvFARRAAAAGegGGaeGdrVELRELLGEEVEVGYEAL
+rLVLDYLYSGRVgDLPKAAClCVDEDGCAHVGCRPAVAFMAQVLFAASTFQVAELTNLFQ
+RRLLDVLDKVEVDNLPLILSVANLCNKSCVKLLERCLEmVVRSNLDMITLEKALPPDViK
+QIvDARLSLGLVSPEDKGFPNKHVRRIHRALDSDDVELVRMLLKEGkTNLDDAFALHYAV
+EHCDSKITTELLDLALADVNHRNPRGYTVLHIAArRREPKIIVSLLTKGARPSDLTFDGR
+KAVQISKRLTKHGDYFGpTEEGKPSPKDRLCIEILEQAERRDPQLGEASVSLAmAGDCLR
+GkLLYLENRVALARILFPMEARVAMDIAQVDGTLEFTLGSsaNPPpEIQRTTVDLNDTPF
+kMKEEHLARMRALSKTVELGKRFFPRCSKVLDKIMDDETELASLGRDTStEKKRRFHDLQ
+DvLQKAFSEDKEENDRSArSSSSSSTTSIGAVRPRR
+
+
+BOP CONSENSUS:
+Length: 576 aa
+
+MEAPTSHVTtSFSDCDSVSMEDAAPDADVEALRRLSDNLAAAFRSPDDFAFLADARVAVP
+GAPDLRVHRCVLSARSPFLRALFKRRAAAAGSSGGAEGnRVELRELLGEEVEVGYEALeL
+VLDYLYSGRVRDLPKSACACVDEDGCAHVGCHPAVSFMAQVLFAASTFQVGELASLFQRH
+LLDVLDKVEVDNLPLILSVANLCNKSCVKLFERCLEMVVRSNLDMITLEKALPqDVIKQI
+IDSRLTLGLASPEDNGFPNKHVRRILRALDSDDVELVRMLLTEGQTNLDDAFALHYAVEH
+CDSKITTELLDIALADVNLRNPRGYTVLHIAARRRDPKIVVSLLTKGARPSDlTFDGRKA
+VQISKRLTKHGDYFGNTEEGKPSPNDKLCIEILEQAERRDPQLGEASVSLAMAGDCLRGK
+LLYLENRVALARIMFPIEARVAMDIAQVDGTLEFTLGSGTNPPPEITTVDLNETPFKMKE
+EHLARMRALSKTVELGKRFFPRCSNVLDKIMDDEPELASLGRDTSSERKRRFHDLQDvLL
+KAFSEDKEEFnRStTSSSSSSSTSTVARNLTGRPRR
+
+
+PACMAD CONSENSUS:
+Length: 577 aa
+
+MEPMDSQVTAVALSDSDSvSVEGAADAADADLQALRRLSDNLAAAFRSPDDFAFLADARI
+AVPGAPDLRVHRCVLCARSPFLRDVFARRAAgAGEGKDKDkDKVELRELLGEEVEVGYEA
+LrLVLEYLYSGRVGALPKAACLCVDEDGCAHVGCRPAVAFMAQVLFAASTFeVAELTNLF
+QRRLLDVLDKVEVDNLPLILSVANLCsKSCVKLLERCLEIVVRSNLDMITLEKALPPDVV
+KQIVDARLSLGLVSPEDKGFPNIHVRRVHRALDSDDVELVRMLLKEGKTNLDDAYALHYA
+VEHCDSKITTELLDLALADVNHRNPRGYTVLHIAAMRREPKIIVSLLTKGARPSDLTFDH
+RKAVQISKRLTKHGDYFGPTEDGKPSPKDRLCIEILEQAERRDPQLGEASVSLAIAGDSL
+RGRLLYLENRVALARILFPMEARVAMDIAQVDGTLEFTLGSSgNLPTEIQRTTVDLNDTP
+FiMKEEHLARMRALSKTVELGKRFFPRCSKVLDKIMDDETELASLGRDTSTEKKRRFHDL
+QDVLQKAFSEDKEENDRSARSSSSSSTTSIGAVRPRR
+
+================================================================================

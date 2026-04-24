@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM019491
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             572.0 aa
+Family Size (Extended Family Size): 17 (17) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45637:SF70
+Panther Family ID:               PTHR45637
+Modal Panther ID:                PTHR45637:SF70
+Modal Panther Description:       SERINE_THREONINE-PROTEIN KINASE D6PKL2
+Modal Panther Family ID:         PTHR45637
+Modal Panther Fam Desc:          FLIPPASE KINASE 1-RELATED
+Interpro Signature Accession:    cd05574; G3DSA:1.10.510.10:FF:000028; G3DSA:1.10.510.10:FF:000295; G3DSA:3.30.200.20:FF:000032; G3DSA:1.10.510.10; G3DSA:3.30.200.20; PTHR45637; PF00069; SM00220; SSF56112
+Interpro Signature Description:  STKc_phototropin_like; serine/threonine-protein kinase D6PK-like; Serine/threonine-protein kinase AGC1-7; Serine/threonine-protein kinase D6PK-like; Transferase(Phosphotransferase) domain 1; Phosphorylase Kinase; domain 1; FLIPPASE KINASE 1-RELATED; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: serine/threonine-protein kinase D6PK
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: serine/threonine-protein kinase D6PK-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: serine/threonine-protein kinase D6PK
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: serine/threonine-protein kinase D6PK-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: serine/threonine-protein kinase D6PK-like
+  Gene Descriptions: serine/threonine-protein kinase D6PK-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: serine/threonine-protein kinase D6PK
+  Gene Descriptions: serine/threonine-protein kinase D6PK
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: serine/threonine-protein kinase D6PK-like; serine/threonine-protein kinase D6PK-like%2C transcript variant X2
+  Gene Descriptions: serine/threonine-protein kinase D6PK-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: serine/threonine-protein kinase D6PK-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi03
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: protein kinase
+  Gene Synonyms: gsy199(ptk)
+  Gene Descriptions: protein kinase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 574 aa
+
+MASKAVPEiVADKKCDKtvAESSEpltSQRQSeEqiggASKLGPASPReippGDVATSSG
+VKEQDKDssSVDGSVKLDddEDAEKSSLRGSVKDSSVSAKcSDRASSLTKASGSTKVSGH
+AADLVeSGKSSVYRASAGSDVSDESTCSSICSSASKPHKSNDSRWEAIQvVRTKEGSLGL
+SHFRLLKRLGCGDIGSVYLSELSGTKCYFAMKIMDKASLAgRKKLLRAQTEREILQCLDH
+PFLPTLYTHFETDKFSCLVMEFCPGGDLHTLRQKQPGKYFPEQAAKFYVAEVLLALEYLH
+MLGIIYRDLKPENVLVREDGHIMLSDFDLSLRCAVSPTLLKSSNPGVDPNQKGNPAYCVQ
+PVCIEPACIQPSCVTTTTCFSPRFFSSKSKREKKEKKAKADlAnQVRPLPELVAEPTDAR
+SMSFVGTHEYLAPEIIKGEGHGSAVDWWTFGIFLYELLFGKTPFKGSGNRATLFNVVGQP
+LRFPESPVVSFAARDLIRGLLIKEPQHRLAYKRGATEIKQHPFFEGVNWALIRCATPPDI
+PKPVEIPRsVASTSQKATpsAEKGSDNYLEFDFF
+
+
+BOP CONSENSUS:
+Length: 573 aa
+
+MASKAVAEIVdDKQCSKSAAESSEAAPSRRQSEEQIGGAGKSGPASPRAVPPGDVATSSG
+VKEQDKDCSSVDGSVKLDEDEDAEKSSLRGSVKDSSVSAKFSDGASSLTKASGSTKVSGH
+ADLVQSGKSSVYRASAGSDVSDDSTCSSICSSASKPHKSNDSRWEAIQVIRTKEGSLGLS
+HFRLLKRLGCGDIGSVYLSELSGTKCYFAMKIMDKASLAGRKKLLRAQTEREILQCLDHP
+FLPTLYTHFETDKFSCLVMEFCPGGDLHTLRQKQPGKYFPEQAAKFYVAEVLLALEYLHM
+LGIIYRDLKPENVLVREDGHIMLSDFDLSLRCDVSPTLLKSSNPGVDPNQKGNQAYCVQP
+VCIEPACIQPACVTTTTCFSPRFFSSKSKREKKEKKAKADMATQVRPLPELVAEPTDARS
+MSFVGTHEYLAPEIIKGEGHGSAVDWWTFGIFLYELLFGKTPFKGSGNRATLFNVVGQPL
+RFPESPVVGFAARDLIRGLLIKEPQHRLAYKRGATEIKQHPFFEGVNWALIRCATPPDIP
+KPVEIPRPVASTSQKATPSAEKGPDNYLEFDFF
+
+
+PACMAD CONSENSUS:
+Length: 573 aa
+
+MASTAAPEvvAEKKCDKTVAgnAAPLTSQGQSKePTeKASKLGPASPSEItTgDvATSSG
+VKEsSKDsSNSADGSVKLDDSEDAEKSSLRGSVKDSSVSAKCSDRASSLSKASGSAKVSG
+QAADMIESGKSSLYRASGGSDVSDESTCSSICSSVSKPHKSNDSKWEAIQAVRTKEGSVG
+LGHFRLLKRLGCGDIGSVYLSELSGTKCYFAMKIMDKASLASRKKLLRAQTEREILQCLD
+HPFLPTLYTHFETDKFSCLVMEFCPGGDLHTLRQKQPGKYFPEQAAKFYVAEVLLALEYL
+HMLGIIYRDLKPENVLVREDGHIMLSDFDLSLRCAVSPTLLRSSNPSADNQKGNPAYCVQ
+PVCIEPACIQPSCVTTTTCFSPRFFSSKSKKEKKEKKAKADLANQVRPLPELVAEPTDAR
+SMSFVGTHEYLAPEIIKGEGHGSAVDWWTFGIFLYELLFGKTPFKGSGNRATLFNVVGQP
+LRFPESPVVSFAARDLIRGLLIKEPQHRLAYKRGATEIKQHPFFEGVNWALIRCATPPDI
+PKPVEIPRSVASSSQKATSAAEKGSDYLELEFF
+
+================================================================================

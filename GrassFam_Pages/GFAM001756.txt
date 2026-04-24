@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM001756
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             441.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45637:SF51
+Panther Family ID:               PTHR45637
+Modal Panther ID:                PTHR45637:SF51
+Modal Panther Description:       OS08G0504800 PROTEIN
+Modal Panther Family ID:         PTHR45637
+Modal Panther Fam Desc:          FLIPPASE KINASE 1-RELATED
+Interpro Signature Accession:    G3DSA:1.10.510.10:FF:000720; G3DSA:1.10.510.10:FF:000617; G3DSA:1.10.510.10; PTHR45637; PF00069; SM00220; SSF56112
+Interpro Signature Description:  Serine/threonine-protein kinase UCNL; Transferase(Phosphotransferase) domain 1; FLIPPASE KINASE 1-RELATED; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: serine/threonine-protein kinase UCN
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: serine/threonine-protein kinase UCN-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: serine/threonine-protein kinase UCN
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: serine/threonine-protein kinase UCN-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: serine/threonine-protein kinase UCN-like
+  Gene Descriptions: serine/threonine-protein kinase UCN-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: serine/threonine-protein kinase UCN
+  Gene Descriptions: serine/threonine-protein kinase UCN
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: serine/threonine-protein kinase UCNL-like
+  Gene Descriptions: serine/threonine-protein kinase UCNL-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: serine/threonine-protein kinase UCNL-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: serine/threonine-protein kinase UCNL-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: serine/threonine-protein kinase UCNL
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: putative protein kinase superfamily protein
+  Gene Synonyms: GRMZM2G111152; GRMZM2G134332
+  Gene Descriptions: putative protein kinase superfamily protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 443 aa
+
+qPlvgTppMEIDLdAVRAARVLGRGAMGTVFLVadGgGGEaYALKVFDKRSPAAAsRPAA
+ggDAARRARWEVSVLSRLAHPHLPSLLGrAETPDLLAWAlPYCPGGDLNELRHAQPDRVF
+SPAAIRFYVAELVSALAELHAAGIAYRDLKPENVLLRADGHVTLTDFDLSRLLPPrSPSA
+STSTSSSCSATSSPPPQAPsHGRSQYRHLKRIFKRSESAVAASTSGQEEPRNLAWYLNRS
+DGGVDQlKKAKSARVSPmdRGKKlASFCSAASGAAAGERSFSFVGTEEYVAPEVVRGDGH
+EFAVDWWALGVLVYEMAhGRTPFRGRNRKETFRNVLLREPEFSADARRRWPELTDLIsRL
+LdKDPARRLGFAGGADEVRAHPFFAGVAWDLLGEVSRPPYIPPPADDIVACEGFSVVEYF
+dKLHQPPPSPAEhSPEEELLPEF
+
+
+BOP CONSENSUS:
+Length: 441 aa
+
+MQPavGTGvMDIDLGAVRAARVLGRGAMGTVFLVAAAgDEAEAgYALKVFDKRSHAAAPG
+RAEDAARRARWEVSVLSRLAHPHLPSLLGRAETPDLLAWAMPYCAGGDLNELRRAQPDRV
+FSPAAVRFYAAELVSALADLHAAGIAYRDLKPENVLLRADGHVTLTDFDLSRLLPPKSPS
+ASTCTSASSSCSSATPSPTAPKPHGRQYRHLRRIFARSESSVAASSGQEPHNLAWYLNRS
+DGGVDKLKKAKSARASTPlSRGKNHASFRSAASGGVACERSFSFVGTEEYVAPEVVRGDG
+HEFSVDWWALGVLVYEMAFGRTPFRGRNRKETFRNVLLREPEFSADVGRRWPDLTDLIAR
+LLDKDPARRLGFSGGADEVRAHPFFAGVAWDLLGEVSRPPYIPPPADDIVACEGFGVVDY
+FQKLHQPPPQPDGSPESLPEF
+
+
+PACMAD CONSENSUS:
+Length: 438 aa
+
+MPLTPPMEIDLDAVRAARVLGRGAMGTVFLVvDGGGGEAYALKVFDKRSPAAASRPAAGA
+DAARRARWEVSVLSRLAHPHLPSLLGCAETPDLLAWALPYCPGGDLNELRHAQPDRVFSP
+AAIRFYVAEVVSALAELHAAGIAYRDLKPENVLLRADGHVTLTDFDLSRQLPPRSPSAST
+STSSSCSATSSPPPQAQSHGRSQYHHLKRIFKRSESAVTASTSGQEEPRNLAWYLnRSID
+GGvDQVKKAKSARVSPMDRGKKLsSFCSAAAGERSFSFVGTEEYVAPEVVRGDGHEFAVD
+WWALGVLVYEMSHGRTPFRGRNRKETFRNVLLREPEFSADARRRWPELTDLIsRLLEKDP
+sRRLGFAGGADEVRAHPFFAGVAWDLLGEVSRPPYIPPPADDIVSCEGFSVVEYFDKLHQ
+PPPSPAEHSPEEELLPEF
+
+================================================================================

@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM008274
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             414.0 aa
+Family Size (Extended Family Size): 22 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10177:SF552
+Panther Family ID:               PTHR10177
+Modal Panther ID:                PTHR10177:SF552
+Modal Panther Description:       CYCLIN-A3-2
+Modal Panther Family ID:         PTHR10177
+Modal Panther Fam Desc:          CYCLINS
+Interpro Signature Accession:    cd20506; G3DSA:1.10.472.10:FF:000013; G3DSA:1.10.472.10:FF:000167; G3DSA:1.10.472.10; PTHR10177; PIRSF001771; PF00134; PF02984; SM01332; SM00385; SSF47954
+Interpro Signature Description:  CYCLIN_AtCycA-like_rpt2; Cyclin A1; Mitotic cyclin 6; -; CYCLINS; Cyclin_A_B_D_E; Cyclin, N-terminal domain; Cyclin, C-terminal domain; Cyclin_C_2; cyclin_7; Cyclin-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: cyclin-A3-2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: cyclin-A3-2-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: cyclin-A3-2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: cyclin-A3-2-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl12
+  Gene Products: cyclin-A3-2
+  Gene Descriptions: cyclin-A3-2
+Osa
+  Gene count: 1
+  Modal chromosome: Osa12
+  Gene Products: cyclin-A3-2-like
+  Gene Synonyms: CYCA3-2,CycA3%3B2,OsJ_035222
+  Gene Descriptions: cyclin-A3-2-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu06
+Pau
+  Gene count: 2
+  Modal chromosome: Pau22
+  Gene Products: cyclin-A3-2-like; cyclin-A3-2-like%2C transcript variant X1
+  Gene Descriptions: cyclin-A3-2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: cyclin-A3-1-like; cyclin-A3-2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: cyclin-A3-2-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi14
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: cyclin-A3-2
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: cyclin-A2%2C transcript variant X1; cyclin-A3-2-like
+  Gene Synonyms: GRMZM2G060690; GRMZM2G180728
+  Gene Descriptions: cyclin-A2; cyclin-A3-2-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 409 aa
+
+MADKENAAPAAAAGPRLTRAAAKRAAaAaAgAspGpAKRKRVALGELPaLsNNAaVLRaP
+SrPVKPAKPSRpRvAapArGpAAAaeAeRCASsSPPrAAESSASySPPRATAaDSASSPP
+RAAvAgagApgDPQLCGSYASDIYTYLRSLEVEPrRRPRADYIEAVQtDVTANMRaILVD
+WLVEVAEEYKLVADTLYLAVSYVDRFLSANpLGRDKLQLLGVAAMLIAAKYEEISPPHVE
+DFCYITDNTYTKQELLKMESDILKLLkFELGNPTIKTFLRRFTRSaHEDKKRSiLLlEFL
+GSYLAELSLLDYGCLRFLPSVVAASVmFVARLTIDPDtNPWnKKMQKlTGYKVSELKDCI
+vAIHDLQLNRKCpSLtAIRDKYKQHKFKCVSTLLPPVVIPASYFqDLtE
+
+
+BOP CONSENSUS:
+Length: 377 aa
+
+MADKENAAPAAAAGPRLTRAAAKRAATCSAGPSGGAKRKRVALSELPIVSNAGVVLRQPS
+KPAKPAAAAeGEEEHGDlSRCASTSPtPAaEEVSGGGGGDtQLSGSYASDIYTYLRTMEV
+EAPRRPAADYIEAVQTDVTANMRAILVDWLVEVAEEYKLVADTLYLTVSYVDRFLSANPL
+GRNRLQLLGVAAMLIASKYEEISPPHVEDFCYITDNTYTRQELLTMESDILKLLNFEIGS
+PTIKTFLRRFTRSGPEDKKRSSLLLEFMGSYLAELSLLDYSCLRFLPSVVAASSvFLARL
+TIGPDTNPWSKEMQKLTGYKASELKDCIIAIHDLQLNRKGpSLPAIRDKYKQHRFKCVST
+LLPPVEIPASYFQDLTE
+
+
+PACMAD CONSENSUS:
+Length: 427 aa
+
+MADKENAAPAAAAAGPRLTRAAAKRAAAAAAgAEGpGpAKRKRVALGELPALANNAAaLR
+APSRPVKPSKPAsRpGRpARPvAsEARgPAAAAAEAERCASSSPPRAADPDaESNSASyS
+PPRATAaTADPDSSASSSPPRAAAAAAPADPQLCGSYASDIYTYLRSLEVEPrRRPRSDY
+IEAVQaDVTANMRtILVDWLVEVAEEYKLVADTLYLAISYVDRFLSANALGRDKLQLLGV
+AAMLIAAKYEEISPPHpEDFCYITDNTYTKqELLKMESDILKLLKFELGNPTIKTFLRRF
+TRSAHEDKKRSILLMEFLGSYLAELSLLDYGCLRFLPSVVAASVMFVARLTIDPnVNPWN
+kKLQKvTGYKVSELKDCIVAIHDLQLNRKCsSLMAIRDKYKQHKFKCVSTLLPPVVIPTS
+YFEDLAE
+
+================================================================================

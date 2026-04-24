@@ -1,0 +1,144 @@
+================================================================================
+GrassFam ID: GFAM021123
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             630.0 aa
+Family Size (Extended Family Size): 22 (29) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22702:SF4
+Panther Family ID:               PTHR22702
+Modal Panther ID:                PTHR22702:SF4
+Modal Panther Description:       VACUOLAR-SORTING RECEPTOR 6-LIKE
+Modal Panther Family ID:         PTHR22702
+Modal Panther Fam Desc:          PROTEASE-ASSOCIATED DOMAIN-CONTAINING PROTEIN
+Interpro Signature Accession:    cd02125; G3DSA:3.50.30.30:FF:000001; G3DSA:2.10.25.10:FF:000178; G3DSA:3.50.30.30; PTHR22702; PF25011
+Interpro Signature Description:  PA_VSR; Vacuolar-sorting receptor 1; vacuolar-sorting receptor 1; -; PROTEASE-ASSOCIATED DOMAIN-CONTAINING PROTEIN; Vacuolar sorting receptor thioredoxin-like domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: vacuolar-sorting receptor 6
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: vacuolar-sorting receptor 6-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: vacuolar-sorting receptor 6
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: vacuolar-sorting receptor 6-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: vacuolar-sorting receptor 6-like
+  Gene Descriptions: vacuolar-sorting receptor 6-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: vacuolar-sorting receptor 6
+  Gene Descriptions: vacuolar-sorting receptor 6
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: vacuolar-sorting receptor 6-like
+  Gene Descriptions: vacuolar-sorting receptor 6-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: vacuolar-sorting receptor 6-like; vacuolar-sorting receptor 6-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: vacuolar-sorting receptor 6-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: vacuolar-sorting receptor 6
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: vacuolar sorting receptor 7
+  Gene Synonyms: GRMZM2G115660
+  Gene Descriptions: vacuolar sorting receptor 7
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 629 aa
+
+MARRAPWLAGlVvVAvllLvVAVRGRFVVEKSSVRVLAPEHIRGHHDAAIGNFGVPDYGG
+TLTGVVlYPDKKATGCAEFDaKFKSKSRRPVILLLDRGECYFALKAWNAQRAGAAAVLIA
+DSVDEQLLTMDSPEASPGTEYIDKINIPSALVNRAFGESLKKMAqKVAaDGagEEVVVKL
+DWRESMPHPDERVEYELWTNSNDECGPRCDEQMAFVRGFRGHAQLLERGGYARFTPHYIT
+WYCPEAFRLTQQCkSQCINHGRYCAPDPEQDFGAGYEGKDVVVENLRQLCVHRVANESGR
+PWAWWDYVMDYKIRCSMKEKKYSKtCAEDVVTALGLpLkKVLECMGDPEADADNAVLSKE
+QEDQIGSGSRGDVTILPTLVINNVQYRGKLERTAVLKAVCAGFKEGTEPRVCLSHDIETN
+ECLHRNGGCWRDEATNVTACRDTYRGRVCECPVVNGVRYEGDGYTdCKAVGPGRCALNNG
+GCWSETRGhQTFSACSDTALTGCRCPPGFQGDGHKCEDLDECKEKLACTCPDCHCKNTWG
+NYECKCKGNQLYIRGEDVCIANSMSKLGWFITILAVSCVAGVGVAGYVFYKYRLRSYMDS
+EIMSIMSQYMPLDSQNNENQPLRQHDSEA
+
+
+BOP CONSENSUS:
+Length: 628 aa
+
+MARRARPFLALvvAVvAAAAMVAPARGRFVVEKSSVRVLAPEHIRGHHDAAIGNFGVPDY
+GGTLTGVVLYPDKKATGCAEFpAKFKSKSGRPVVLLLDRGECYFALKSWNAQQAGAAAVL
+IADtVDEQLLTMDTPEASPDTEYIDKINIPSALVNRAFGESLKRMAEKAeAEGEVVVKLD
+WRESMPHPDERVEYELWTNSNDECGPRCDEQAAFVRSFRGHAQILERGGYARFTPHYITW
+YCPEAFRLTRQCQSQCINHGRYCAPDPEQDFGEGYEGKDVVVENLRQLCVHRVANESGRP
+WAWWDYAMDYKLRCSMKEKKYSKACAEDVVaSLGLPLDKVLeCMGDPeADADNAVLSKEQ
+EDQIGRGSRGDVTILPTLVINDVQYRGKLERTAVLKAVCAGFKEGTEPrVCLSHDMETNE
+CLHRNGGCWRDEATNVTACRDTYRGRVCECPVVNGVQYeGDGYTHCKAVGPGRCALNHGG
+CWSETRGERTFSACSDTALTGCRCPPGFQGDGHKCEDLDECKEKLACTCPDCHCKNTWGS
+YECGCKGNQVYIRGEDVCIANSMSRFGWLVaiLVVSCAAGLGVAGYVFYKYRLRSYMDSE
+IMAIMSQYMPLDSQNNEHQPLRQHASDA
+
+
+PACMAD CONSENSUS:
+Length: 632 aa
+
+MMARRAPWLAGlVAVQlLIVAVRGRFVVEKSSVRVLAPEHIRGHHDAAIGNFGVPDYGGT
+LTGVVIYPDKKATGCdEFDTKFKSKSRRPVILLLDRGECYFALKAWNAQRAGAAAVLIAD
+SVDEQLLTMDSPEASPGTEYIDKINIPSALVNRAFGESLKKMAQKVAaGDGgGEEVVVKL
+DWRESMPHPDERVEYELWTNSNDECGARCDEQMAFVRGFRGHAQLLERGGYARFTPHYIT
+WYCPEAFRLTQQCKSQCINHGRYCAPDPEQDFGAGYEGKDVVVENLRQLCVHRVANESGR
+PWTWWDYVMDYKIRCSMKEKKYSKTCAEDVVTALGLDLKKVLECMGDPEADADNAVLSKE
+QEDQIGSGSRGDVTILPTLVINNVQYRGKLERTAVLKAVCAGFKEGTEPRVCLSPDIETN
+ECLHRNGGCWRDEATNVTACRDTYRGRVCECPVVNGVRYEGDGYTDCKAVGPGRCALNNG
+GCWSETRGHQTFSACSETALTGCRCPPGFHGDGHKCEDLDECREKLACTCPDCHCKNTWG
+NYECKCKGNQLYIRGEDVCIANsMSKLGWFITIvAVACVAGVGIAGYVFYKYRLRSYMDS
+EIMSIMSQYMPLDSQNNENQPLRQHDSEALRH
+
+================================================================================

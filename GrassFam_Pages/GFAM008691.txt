@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM008691
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             416.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43073:SF3
+Panther Family ID:               PTHR43073
+Modal Panther ID:                PTHR43073:SF3
+Modal Panther Description:       DIHYDROOROTATE DEHYDROGENASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR43073
+Modal Panther Fam Desc:          DIHYDROPYRIMIDINE DEHYDROGENASE [NADP(+)]
+Interpro Signature Accession:    cd02940; G3DSA:3.20.20.70:FF:000121; G3DSA:3.20.20.70; NF006183; PTHR43073; PF01180; SSF51395
+Interpro Signature Description:  DHPD_FMN; Dihydropyrimidine dehydrogenase (NADP(+)), chloroplastic; Aldolase class I; NAD-dependent dihydropyrimidine dehydrogenase subunit PreA; DIHYDROPYRIMIDINE DEHYDROGENASE [NADP(+)]; Dihydroorotate dehydrogenase; FMN-linked oxidoreductases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: dihydropyrimidine dehydrogenase (NADP(+))%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: dihydropyrimidine dehydrogenase (NADP(+))%2C chloroplastic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: dihydropyrimidine dehydrogenase (NADP(+))%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: dihydropyrimidine dehydrogenase (NADP(+))%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: dihydropyrimidine dehydrogenase (NADP(+))%2C chloroplastic
+  Gene Descriptions: dihydropyrimidine dehydrogenase (NADP(+))%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: dihydropyrimidine dehydrogenase (NADP(+))%2C chloroplastic
+  Gene Descriptions: dihydropyrimidine dehydrogenase (NADP(+))%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau06
+  Gene Products: dihydropyrimidine dehydrogenase (NADP(+))%2C chloroplastic; dihydropyrimidine dehydrogenase (NADP(+))%2C chloroplastic-like
+  Gene Descriptions: dihydropyrimidine dehydrogenase (NADP(+))%2C chloroplastic; dihydropyrimidine dehydrogenase (NADP(+))%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: dihydropyrimidine dehydrogenase (NADP(+))%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: dihydropyrimidine dehydrogenase (NADP(+))%2C chloroplastic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: dihydropyrimidine dehydrogenase (NADP(+))%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: uncharacterized LOC100274265
+  Gene Synonyms: cl32009_1b,GRMZM2G181505
+  Gene Descriptions: uncharacterized LOC100274265
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 418 aa
+
+MESLTLRASPStTASPLQRRLPGRRRATSVRASASASGAGEPDLSVRVNGLKMPNPFVIG
+SGPPGTNYTVMKRAFDEGWGGVIAKTVSLDAEKVINVTPRYARLRAePNGsAKSrIIGWQ
+NIELISDRPLETMLNEFKQLKKEYPDRILIGSIMEEYNKAAWHELIERVEESGVDALEIN
+FSCPHGMPERKMGAAVGQDCDLLEEVCGWINEKATVPVWAKMTPNITDITQPARIALKSG
+CEGVSAINTIMSVMGINLKTLRPEPCVEGYSTPGGYSARAVHPIALAKVMQIARMMKEEF
+ADGQSLSAIGGVETGNDAAEFILLGADTVQVCTGVMMHGYGLVKKLCAELQDFMREHNFS
+SIEDFRGASLPYFTTHTDLVQRQQEAIKQRKAIRKGLQSDKDWTGDGFVKETESMVSN
+
+
+BOP CONSENSUS:
+Length: 416 aa
+
+MESLTLRASPSTASPLLRLPGRRRAASVRVSASgSGAGEPDLSVTVNGLKMPNPFVIGSG
+PPGTNYTVMKRAFDEGWGGVIAKTVSLDAGKVINVTPRYARLRADPNGSTKSPIIGWQNI
+ELISDRPLETMLNEFKQLKKEYPDRILIGSIMEEYNKAAWHELIERVEESGVDALEINFS
+CPHGMPERKMGAAVGQDCALLEEVSGWINEKATVPVWSKMTPNITDITqPSRIALKSGSE
+GVAAINTIMSVMGIDLKTLRPEPCVEGYSTPGGYSARAVHPIALAKVMQIARLIKEEFPE
+GRSLSAIGGVETGNDAAEFILLGADTVQVCTGVMMHGYGLVKKLCTELQDFMRMHDFSSI
+EDFRGASLPYFTTHTDLVQRQKEAIKQRKAIRMGLQSDKDWTGDGFVKETESMVSN
+
+
+PACMAD CONSENSUS:
+Length: 417 aa
+
+MESLTLRAStAAASPLQQRRLPGRQRATyVRATASASAGEPDLSVRVNGLQMPNPFVIGS
+GPPGTNYTVMKRAFDEGWGAVIAKTVSLDAEKVINVTPRYAKLRAEPNGAAMGRIIGWQN
+IELISDRPLETMLNEFKQLKKEYPDRILIGSIMEEYNKAAWHELIERVEESGVDALEINF
+SCPHGMPERKMGAAVGQDCDLLEEVCGWINEKATVPVWAKMTPNITDITQPARIALKSGC
+EGVSAINTIMSVMGINLKTLRPEPCVEGYSTPGGYSARAVHPIALAKVMQIARMMKEEFA
+DGQSLSAIGGVETGNDAAEFILLGADTVQVCTGVMMHGYPLVKKLCAELQDFMREHNFSS
+IEEFRGASLPYFTTHTDLVHRQQEAIKQRKAIKKGLQSDKDWTGDGFVKETESMVSN
+
+================================================================================

@@ -1,0 +1,126 @@
+================================================================================
+GrassFam ID: GFAM008436
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             512.0 aa
+Family Size (Extended Family Size): 16 (16) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47956:SF133
+Panther Family ID:               PTHR47956
+Modal Panther ID:                PTHR47956:SF133
+Modal Panther Description:       CYTOCHROME P450 71D7
+Modal Panther Family ID:         PTHR47956
+Modal Panther Fam Desc:          CYTOCHROME P450 71B11-RELATED
+Interpro Signature Accession:    G3DSA:1.10.630.10:FF:000066; G3DSA:1.10.630.10; PTHR47954; PR00463; PF00067; SSF48264
+Interpro Signature Description:  Cytochrome P450 71D7; Cytochrome P450; OS09G0275400 PROTEIN-RELATED; E-class P450 group I signature
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: premnaspirodiene oxygenase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: 5-epiaristolochene 1%2C3-dihydroxylase-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: premnaspirodiene oxygenase-like
+Tae
+  Gene count: 2
+  Modal chromosome: Tae04A
+  Gene Products: premnaspirodiene oxygenase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: premnaspirodiene oxygenase-like
+  Gene Descriptions: premnaspirodiene oxygenase-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi09N
+  Gene Products: 5-epiaristolochene 1%2C3-dihydroxylase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: 5-epiaristolochene 1%2C3-dihydroxylase-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: premnaspirodiene oxygenase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: premnaspirodiene oxygenase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 510 aa
+
+MDDaTYNAILLALLAVSILyFLRPGgSRRRPPGPRTLPVIGSVHHVVNTLVHRRLRDLAA
+VHGPIMMLKIGPMPLVVVTSRELAREVLKVQDPNFANRPRLLVGGICGYGWTDIIFAPTS
+DYWRKIRKLCIHEVLSPKRILSFQfIREEEVqRQVEAIRAAAAAGAPVNVTRMVYDISSR
+TISRSSFGEVRPDMPVFQDAIKRVIGLSSGFNVPDLFPRLREVLGEvTGMKRKLREIHRT
+FDdILVDIIEkRRRVRAdRvAAGKEVVDENVVDVMLTLQKGDNsWGFPVTDNTIKAVVLD
+MFAGGTGTSGSSTEWAMSEIvRNPRVMKKLQDEIRRTFHGKETITETDLRSSDLRYLKLV
+MKEAIRLHPAAPLLVPRESIeTTELGGYVVPGKSRIVVNAWAISRDPRYWKDPEEFRPER
+FEEDGAVDFHGLHFEFTPFGAGRRMCPGYNYGLAGMELTLLQLMYHFDWRLPPGVDEVDM
+EEAMGLGVRRKNPLMLCATPYVPpPAaPvg
+
+
+BOP CONSENSUS:
+Length: 512 aa
+
+MEDATYNAILLALLAVSMIYFFKPaSGRRPPGPRTLPIIGSVHHFVNTLVHRRLRDLAGV
+HGPIMMLKIGPMPLVVVTSRELAREVLKVQDPNFANRPRLLVGGICGYGWTDIIFAPTSD
+YWRKIRKLCIHEILSPKRVLQFQFIREEEVQRQVDLIRAAAAAGEPVDVTRMVYDISSRT
+ISRSAFGEVRPDMPVFQHAIKRVVGLSSGFNVPDLFPRLREVLGEATGMKRKLREIHRTF
+DDILVDIIEGRRRVRADRIAAGKDVVDENVVDVMLSLQKGDNPWGFPVTDNTIKAVVLDM
+FAGGTGTSGSSTEWAMSEIMRTPRVMKKLQDEVRRAFHGKESISETELRSNSVRYLKLTM
+KEAIRLHPAAPLLVPRESIETTEIGGYVVPAKSRMVVNAWAISRDPRYWKDPEEFVPERF
+EEDGAVDFHGLHFEFTPFGAGRRMCPGYNYGLAGMELTLLQLMYHFDWtLPAGVEEVDMA
+ESMGLGVRRKNPLMLCATPYVVPPPAAPLAST
+
+
+PACMAD CONSENSUS:
+Length: 510 aa
+
+MDDTMYNAILLALLAVSILqFLRrGGSRRRPPGPRTLPVIGSVHHVVNTLVHRRLRDLAA
+VHGPIMMLKIGPMPLVVVTSRELAREVLKVQDPNFANRPRLLVGGICGYGWADIIFAPTS
+DYWRKIRKLCIHEVLSPKRILSFQhIREEEVrRQVEAIRAAAAAGAPVNLTRMVYDISSR
+TISRSSFGEVRPDMPVFQDAIKRVIGLSSGFNVPDLFPRLREVLGEVSGMKRKLREIHRT
+FDaILVDIIEKRRRERAaMVAAGKEVVDENVVDVMLTLQQsDnSWGFPLTDNTIKAVVLD
+MFAGGTGTSGSSTEWAMSEIVRNPRVMKKLQDEIRRTFRGKETITETDLRNSDLKYLKLV
+MKEAIRLHPAAPLLVPRESIDTAELGGYVVPGGSRIVVNAWAISRDPRYWKDPEEFRPER
+FAEDGAVDFHGLHFEFTPFGAGRRMCPGYNYGLAGMELALLQLMYHFDWRLPPGVDEVDM
+EEAMGLGVRRKNPLMLCATPYVPePAvPVG
+
+================================================================================

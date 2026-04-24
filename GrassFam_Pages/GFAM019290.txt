@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM019290
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             381.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR43880
+Modal Panther ID:                PTHR43880:SF47
+Modal Panther Description:       S-(HYDROXYMETHYL)GLUTATHIONE DEHYDROGENASE
+Modal Panther Family ID:         PTHR43880
+Modal Panther Fam Desc:          ALCOHOL DEHYDROGENASE
+Interpro Signature Accession:    cd08300; G3DSA:3.40.50.720:FF:000003; G3DSA:3.90.180.10:FF:000001; G3DSA:3.90.180.10; G3DSA:3.40.50.720; TIGR02818; PTHR43880; SSF51735; SSF50129
+Interpro Signature Description:  alcohol_DH_class_III; S-(hydroxymethyl)glutathione dehydrogenase; -; S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase; ALCOHOL DEHYDROGENASE; NAD(P)-binding Rossmann-fold domains; GroES-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: alcohol dehydrogenase class-3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: alcohol dehydrogenase class-3
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: alcohol dehydrogenase class-3
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: alcohol dehydrogenase class-3; alcohol dehydrogenase class-3-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: alcohol dehydrogenase class-3
+  Gene Descriptions: alcohol dehydrogenase class-3
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: alcohol dehydrogenase class-3-like
+  Gene Synonyms: FALDH,FDH,GSH-FDH,OJ1293_E04.31,OsJ_008550,P0643F09.4
+  Gene Descriptions: alcohol dehydrogenase class-3-like
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: alcohol dehydrogenase class-3; alcohol dehydrogenase class-3-like
+  Gene Descriptions: alcohol dehydrogenase class-3; alcohol dehydrogenase class-3-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: alcohol dehydrogenase class-3; alcohol dehydrogenase class-3-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: alcohol dehydrogenase class-3
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: alcohol dehydrogenase class-3
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: formaldehyde dehydrogenase homolog 1
+  Gene Synonyms: fdh,fdh1,GRMZM2G078118,GRMZM5G824600
+  Gene Descriptions: formaldehyde dehydrogenase homolog 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 381 aa
+
+MASSTQGQVITCKAAVAYEPNKPLVIEDVQVAPPQAGEVRIKILSTALCHTDHYTWSGKD
+PEGLFPCILGHEAAGIVESVGEGVTDVQPGDHVIPCYQAECKECKFCKSGKTNLCGKVRs
+ATGVGVMMNDRKSRFSVNGKPIYHFMGTSTFSQYTVVHDVSVAKINPQAPLDKVCLLGCG
+VSTGLGAVWNTAKVEAGSIVAVFGLGTVGLAVAEGAKSAGASRIIGIDIDsKKFDVAKNF
+GVTEFVNPKDHDKPIQQVLVDLTDGGVDYSFECIGNVSVMRAALECCHKGWGTSVIVGVA
+ASGQEIATRPFQLVTGRVWKGTAFGGFKSRSQVPWLVEKYMNKEIKVDEYITHNMNLTDI
+NKAFDLLHEGGCLRCVLAMqh
+
+
+BOP CONSENSUS:
+Length: 381 aa
+
+MASSTQGQVITCKAAVAYEANKPLVVEDVQVAPPQAGEVRIKILSTALCHTDYYTWSGKD
+PEGLFPCILGHEAAGIVESVGEGVTDVQPGDHVIPCYQAECKDCKMCKSGKTNLCGKVRG
+ATGVGVMMSDRKSRFSVNGKPIYHFMGTSTFSQYTVVHDVSVAKINPQAPLDKVCLLGCG
+VSTGLGAVWNTAKVEAGSIVAVFGLGTVGLAVAEGAKSAGASRIIGIDIDTKKFDVAKNF
+GVTEFVNPKDHDKPIQQVLVDLTDGGVDYSFECIGNVSIMRAALECCHKGWGTSVVVGVA
+ASGQEISTRPFQLVTGRVWKGTAFGGFKSRSQVPWLVEKYMNKEIKVDEYITHNMNLTDI
+NKAFDLLHEGGCLRCVLAMEH
+
+
+PACMAD CONSENSUS:
+Length: 381 aa
+
+MASSTQGQVITCKAAVAYEPNKPLVIEDVQVAPPQAGEVRVKILFTALCHTDHYTWSGKD
+PEGLFPCILGHEAAGVVESVGEGVTDVQPGDHVIPCYQAECKECKFCKSGKTNLCGKVRS
+ATGAGVMMNDlKSRFSVNGKPIYHFMGTSTFSQYTVVHDVSVAKINPQAPLDKVCLLGCG
+VSTGLGAVWNTAKVEAGSIVAVFGLGTVGLAVAEGAKAAGASRIIGIDIDSKKFDVAKNF
+GVTEFVNPKDHDKPIQQVLVDLTDGGVDYSFECIGNVSVMRAALECCHKGWGTSVIVGVA
+ASGQEIATRPFQLVTGRVWKGTAFGGFKSRTQVPWLVEKYMNKEIKVDEYITHNMNLADI
+NeAFHLLHEGGCLRCVLAvQD
+
+================================================================================

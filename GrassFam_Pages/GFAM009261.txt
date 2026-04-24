@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM009261
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             501.0 aa
+Family Size (Extended Family Size): 20 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22298:SF184
+Panther Family ID:               PTHR22298
+Modal Panther ID:                PTHR22298:SF184
+Modal Panther Description:       ENDOGLUCANASE 17
+Modal Panther Family ID:         PTHR22298
+Modal Panther Fam Desc:          ENDO-1,4-BETA-GLUCANASE
+Interpro Signature Accession:    G3DSA:1.50.10.10:FF:000020; G3DSA:1.50.10.10; PTHR22298; PF00759; SSF48208
+Interpro Signature Description:  Endoglucanase; -; ENDO-1,4-BETA-GLUCANASE; Glycosyl hydrolase family 9; Six-hairpin glycosidases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: endoglucanase 17
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: endoglucanase 17
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: endoglucanase 17
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: endoglucanase 17; endoglucanase 17-like; endoglucanase 17-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: endoglucanase 17
+  Gene Descriptions: endoglucanase 17
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: endoglucanase 17-like
+  Gene Synonyms: GLU13,OsGLU13,OsJ_020012
+  Gene Descriptions: endoglucanase 17-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: endoglucanase 17; endoglucanase 17-like
+  Gene Descriptions: endoglucanase 17; endoglucanase 17-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi04N
+  Gene Products: endoglucanase 17-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: endoglucanase 17-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi19
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: endoglucanase 17
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: uncharacterized LOC100216867%2C transcript variant X1
+  Gene Synonyms: GRMZM2G455642,pco100822
+  Gene Descriptions: uncharacterized LOC100216867
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 502 aa
+
+MASPAKAMAVAAVvLLLLAaSTAALAQHDYGDALHKSILFFEGQRSGRLPPDQRLRWRQD
+SALNDGAtAGVDLTGGYYDAGDNVKFGFPMAFTATLMSWGLIDFGRSFGAHEAEAReAVR
+WATDYLMKATATPnTVYVQVGDAFRDHSCWERPEDMDTPRTVYKVDPAHPGSDVAAETAA
+ALAAGSIVFRDADPAYSkRLLDRAIsVFEFADKYRGAYSSSLraAVCPCYCDYDGYQDEL
+LWGAAWLHKASRRREYRDYIKRNEVALGASDAINEFGWDNKHAGINVLISKEVLMGKDEY
+FqSFRVNADNFICTLLPGISNHPQIQYSPGGLLFKVGNSNMQHVTSLSFLLLAYSNYLSH
+ANARVPCGGASSASPVQLRRVAKRQVDYILGDNPLRMSYMVGYGpRFPlRIHHRGSSLPS
+VSAHPARIGCKAGAAYYASPAPNPNLLVGAVVGGPSNSTDAFPDARAVFQQSEPTTYINA
+PLLGLLAYFSAHPnLAQsDGtD
+
+
+BOP CONSENSUS:
+Length: 501 aa
+
+MASPAKAMVAAAAlLLLLSTAAVVtAQHNYGDALHKSILFFEGQRSGRLPPDQRVRWRRD
+SALNDGATAGVDLTGGYYDAGDNVKFGFPMAFTATLMSWGLIDFGRsFGSHgGEARaAVR
+WATDYLMKATATPNTVYVQVGDAFRDHSCWERPEDMDTPRTVYKVDPaHPGSDVAAETAA
+ALAAGSIVFREADPAYSKRLLDRAISVFEFADKYRGAYSSSLHSAVCPCYCDYDGYQDEL
+LWGAAWLHKASRQRVYRDYIKKNEVALGASDSINEFGWDNKHAGINILISKEVLMGKDSF
+FqSFRVNADNFICTLLPGISNHPQIqYSPGGLLFKVGNSNMQHVTSLSFLLLAYSNYLSH
+ANVRVPCGGSSASPVVLRRVAKRQVDYILGDNPLRMSYMVGYGERFPRRIHHRGSSLPSV
+SAHPARIGCKAGAAYYGSSAPNPNLLVGAVVGGPSNTSDNFPDARAVFQQSEPTTYINAP
+LLGLLAYFSAHPNLPQSDGTD
+
+
+PACMAD CONSENSUS:
+Length: 505 aa
+
+MARPVSpAKAMAVvVVVLVLLAASsAVLAVHDYGDALHKSILFFEGQRSGRLPPDQRLRW
+RQDSAIHDGAEAGVDLTGGYYDAGDNVKFGFPMAFTATLMSWGLIDFGRSFGAHEAeARk
+AVRWATDYLMKATATPGTVYVQVGDASRDHACWERPEDMDTPRTVYKVDAAHPGSDVAAE
+TAAALAAGSIVFRDADPAYSrRLLDRAvEVFeFADAHRGAYSGSLRAAVCPCYCDYSGYQ
+DELLWGAAWLHRASRRREYRDYIKRNEVALGASDAINEFGWDNKHAGINVLISKEVLMGK
+DEYFRSFRENADNFICSLLPGISGHPQIQYSPGGLLFKVGNSNMQHVTSLSFLLLAYSNY
+LSHAdARVSCGGGAAAASPVQLRRVAKRQVDYILGDNPLRMSYMVGYGPRYPLRIHHRAS
+SLPSVSAHPARIGCKAGAAYYASPAPNPNLLVGAVVGGPSNSTDAFPDARAVFQQSEPTT
+YINAPLLGLLAYFSAHPDPAQHGrD
+
+================================================================================

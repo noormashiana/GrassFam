@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM005491
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             504.0 aa
+Family Size (Extended Family Size): 19 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11766:SF0
+Panther Family ID:               PTHR11766
+Modal Panther ID:                PTHR11766:SF0
+Modal Panther Description:       TYROSINE--TRNA LIGASE, MITOCHONDRIAL
+Modal Panther Family ID:         PTHR11766
+Modal Panther Fam Desc:          TYROSYL-TRNA SYNTHETASE
+Interpro Signature Accession:    cd00805; G3DSA:3.10.290.10:FF:000014; G3DSA:3.40.50.620:FF:000158; G3DSA:1.10.240.10:FF:000001; G3DSA:3.40.50.620; G3DSA:1.10.240.10; G3DSA:3.10.290.10; TIGR00234; PTHR11766; PF00579; SSF52374
+Interpro Signature Description:  TyrRS_core; Tyrosine--tRNA ligase; HUPs; -; tyrosine--tRNA ligase; TYROSYL-TRNA SYNTHETASE; tRNA synthetases class I (W and Y); Nucleotidylyl transferase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: tyrosine--tRNA ligase%2C chloroplastic/mitochondrial; tyrosine--tRNA ligase%2C chloroplastic/mitochondrial-like
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: tyrosine--tRNA ligase%2C chloroplastic/mitochondrial
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: tyrosine--tRNA ligase%2C chloroplastic/mitochondrial
+Tae
+  Gene count: 2
+  Modal chromosome: Tae01A
+  Gene Products: tyrosine--tRNA ligase%2C chloroplastic/mitochondrial-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: tyrosine--tRNA ligase%2C chloroplastic/mitochondrial%2C transcript variant X1
+  Gene Descriptions: tyrosine--tRNA ligase%2C chloroplastic/mitochondrial
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: tyrosine--tRNA ligase%2C chloroplastic/mitochondrial-like
+  Gene Descriptions: tyrosine--tRNA ligase%2C chloroplastic/mitochondrial-like
+Pau
+  Gene count: 2
+  Modal chromosome: Pau21
+  Gene Products: tyrosine--tRNA ligase%2C chloroplastic/mitochondrial-like
+  Gene Descriptions: tyrosine--tRNA ligase%2C chloroplastic/mitochondrial-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi09K
+  Gene Products: tyrosine--tRNA ligase%2C chloroplastic/mitochondrial-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: tyrosine--tRNA ligase%2C chloroplastic/mitochondrial
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: tyrosine--tRNA ligase%2C chloroplastic/mitochondrial
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: uncharacterized LOC100273682%2C transcript variant X1
+  Gene Synonyms: GRMZM2G012404
+  Gene Descriptions: uncharacterized LOC100273682
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 503 aa
+
+MAmAsmAMAASSRAFLRPHRlLLLPhpRPlRRRLSAtAAASAAAASTAARRGVVDVLRER
+GLVEATTSEALGSArPGELKVYCGFDPTAESLHLGNLLGLVALSWFRRCGHTAVALVGGA
+TGRVGDPSGKSAERPELDlAAVEANSDAIKSLVAQILGRVPEPSHHSQSGKNAILEQNEQ
+ALANSaADLSekMGSFVILDNYDWWKDITLLDFLKEVGRFARVGTMIAKESVKKRLASED
+GMSYTEFTYQLLQGYDFLYMFKNMGVNVQIGGSDQWGNITAGTELIRKILQVEGAHGLTF
+PLLLKSDGTKFGKTEDGAIWLSSKMLSPYKFYQYFFSVPDVDVIRFMKILTFLSLDEIQE
+LEESMKKPGYVPNTVQRRLAEEVTRFVHGEEGLEEALKATEALRPGAQTQLDSQTIEGIA
+DDVPSCSLAYDQVLKSPLVDLAVSTGLLASKSAVRRLIKQGGLYLNNiRIDSEDKLVEEG
+DIVDGKVLLLSAGKKNKMVVRIS
+
+
+BOP CONSENSUS:
+Length: 512 aa
+
+MASAAMAASSRALLRPHRLLLLPDPRrRRrLSASAAASANAASTTVRRSVVDVLRERGLV
+EATTSEALGSSSAASGEQQQLKAYCGFDPTAESLHLGNLLGLVALSWFRRCGHTAVALVG
+GATGRVGDPSGKSAERPELDLAAVvANSDAIKSLIAQILsRAPEPSHHsQSGKSAILEqN
+EqALANSGQGLSEnSGNVGEKMGSFVILDNYDWWKDITLLDFLKEVGKFARVGTMIAKES
+VKKRLNSEDGMSYTEFTYQLLQGYDFLYMFKNMGVNVQIGGSDQWGNITAGTDLIRKILQ
+VEGAHGLTFPLLLKSDGTKFGKTEDGAIWLSSKMLSPYKFYQYFFSVPDVDVVRFMKILT
+FLSLDEIQELEESMKKPGYVPNTVQRRLAEEVTRFVHGQEGLEEALKATEALRPGAQTQL
+DSQTIEGIADDVPSCSLPYDQVLKSPLVDLAASTGLLASKSAVRRLIKQGGLYLNNiKID
+SEDKLVEEGDIVDGKVLLLSAGKKNKMVVRIS
+
+
+PACMAD CONSENSUS:
+Length: 497 aa
+
+MMATAAMAAAASSRAFLRPHRcLLLPHTHPLRRRLSATATASAPASTAASaGVVDVLRER
+GLVEATTSEALAAARPGELKVYCGFDPTAESLHLGNLLGLVALSWFRRCGHTAVALVGGA
+TGRVGDPSGKSAERPELDVAAVEANSDAIKSLVAQILGRVPEPAHHSQSGQNEQPLvNSA
+ADSSqkMGSFVILDNYDWWKDITLLDFLKEVGRFARVGTMIAKESVKKRLASEDGMSYTE
+FTYQLLQGYDFLYMFKNMGVNVQIGGSDQWGNITAGTELIRKILQVEGAHGLTFPLLLKS
+DGTKFGKTEDGAIWLSSKMLSPYKFYQYFFAVPDVDVIRFMKILTFLSLDEIQELEESMK
+KPGYVPNTVQKRLAEEVTRFVHGEEGLeEALKATEALRPGAQTQLDAQTIEGIADDVPSC
+SLAYDQVLKSPLVDLAVSTGLLTSKSAVKRLIKQGGLYLNNvRIDSEDKLVEEGDIVDGK
+VLLLSAGKKNKMVVRIS
+
+================================================================================

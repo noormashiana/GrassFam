@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM009940
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             485.5 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13847:SF287
+Panther Family ID:               PTHR13847
+Modal Panther ID:                PTHR13847:SF287
+Modal Panther Description:       FAD-DEPENDENT OXIDOREDUCTASE DOMAIN-CONTAINING PROTEIN 1
+Modal Panther Family ID:         PTHR13847
+Modal Panther Fam Desc:          SARCOSINE DEHYDROGENASE-RELATED
+Interpro Signature Accession:    G3DSA:3.50.50.60; G3DSA:3.30.9.10; PTHR13847; PF01266; SSF51905
+Interpro Signature Description:  -; SARCOSINE DEHYDROGENASE-RELATED; FAD dependent oxidoreductase; FAD/NAD(P)-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: glycine oxidase%2C transcript variant X4
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: glycine oxidase
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: glycine oxidase%2C transcript variant X2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: glycine oxidase-like; glycine oxidase-like%2C transcript variant X1; glycine oxidase-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: uncharacterized LOC127785497
+  Gene Descriptions: uncharacterized LOC127785497
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: glycine oxidase%2C transcript variant 2
+  Gene Descriptions: glycine oxidase
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau20
+  Gene Products: uncharacterized LOC133902338
+  Gene Descriptions: uncharacterized LOC133902338
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: glycine oxidase-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: glycine oxidase%2C transcript variant X1
+Msi
+  Gene count: 1
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: glycine oxidase%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: uncharacterized LOC100281203%2C transcript variant X2
+  Gene Synonyms: GRMZM2G081048
+  Gene Descriptions: uncharacterized LOC100281203
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 480 aa
+
+MDAiAFtSAPNPsPAPFSSSSASPSSSrpqRLSVRGPRRRRPLrALRSqSQpsAsAdASH
+HDVVVVGAGIVGLSIARHLLLHTPLSVAVADAAVPCSGATGAGQGYIWMSHRTPGSDTWE
+LAVRSKQLWEELAAEVDGQGGGGARErLGWMRTGSLLVGRTSEELATLEERTKVLSQAGI
+hAEFLSASSLHALEPALSVGKDGGAMFLPQDCQIDAFQAVSLIEKTNNSYSSEGRYMELY
+NDPAMSLIRSEVTGTVEAVQTSKNILYGRKAIVIASGAWTRSLLHSFLEPNsTLDIPVKP
+RKGHLLVLENFDKLKLNHGLMEVGYVDHQVAKSNSTHLSSESSEDEHGALSISMTATLDT
+KGNLVLGSSREFKGFSREVDKSIVKCIWERAGEFFPAmKNVHLDIDeNTQIRIGHRPYMP
+DGKPVIGFVPDLPNVLIATGHEGSGLTLALGTAEMVTDMILGNPGKVDFSPFSIKnRFSG
+
+
+BOP CONSENSUS:
+Length: 479 aa
+
+MDAvAFSsAPNPNAAPFPSASPSSRaHRFSIRGPRRRRPLPALRSSASPSApASASHHDV
+VVVGAGIVGLSIARHLLLHTPLSVAVADAAVPCSGATGAGQGYVWMSHRTPGSDTWDLAV
+RSKQLWEELAAEMDGLGAGGARESLGWMKTGSLLVGRTSKELATLEEKTKVLSQAGInAE
+CLSASSLHALEPALCVGNDGGAMFLPEDRQIDAFQAVSLIEKINRSYSPKGRYMELYNDP
+AMSLIRSEVTGRVEGVQTSKNILYGRKATVVASGAWTRSLLHSFLGPNSTLDIPVKPRKG
+HLLVLENFDmLKLNHGIMELGYVDHQGDNShSiHLSStSNEDEHDAASISMTATLNTKGH
+LVLGSSREFKGFSREVDKSILKSIWDRAGEFFPALNNVHLDIDEDKEIRIGHRPYMPDGK
+PVIGFVPDMSNVLIATGHEGSGLALALGTAEMVTDMILGDPGRVDFTPFSIENRFSGTA
+
+
+PACMAD CONSENSUS:
+Length: 487 aa
+
+MDAAIAFTSARnPSPTRFSSSsASPSSRvPQRLcVCGPWRGRGRPLRALRprSQvQAPGA
+tAADvSHHDVVVVGAGIVGLAIARHLLLHTPLSVAVADAAVPCSGATGAGQGYIWMSHRT
+PGSDTWELAlRSKQLWEELAAEVDGQGGGGARERLGWMRTGSLLVGRTSEELATLEERTK
+ALSQAGIHAEFLSASSLHALEPALSVGKDGGAMFLPQDCQIDAFQAVSLIEKTNNSYSSE
+GRYmElYNDPAMSLIRSEVTGTVEAVQTSRNILYGRKAIVIASGAWTRSLLHSFLEPALT
+LDIPVKPRKGHLLVLENFDKVKLNHALMEVGYVDHQVAKSNSTHMASESSEDEHGALSIS
+MTATvDTKGNLVLGSSREFKGFSREVDKSVVKCIWERAGEFFPAMKNVPLDIDqNTQIRI
+GHRPYMPDGKPVIGFIPDLPNVLIATGHEGNGLTLALGTAEMVTDMILGNPGKVDcSPFS
+IKHRFSG
+
+================================================================================

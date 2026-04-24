@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM020924
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             369.0 aa
+Family Size (Extended Family Size): 24 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10621:SF35
+Panther Family ID:               PTHR10621
+Modal Panther ID:                PTHR10621:SF35
+Modal Panther Description:       UBIQUITIN RECEPTOR RAD23C
+Modal Panther Family ID:         PTHR10621
+Modal Panther Fam Desc:          UV EXCISION REPAIR PROTEIN RAD23
+Interpro Signature Accession:    cd01805; G3DSA:3.10.20.90:FF:000069; G3DSA:1.10.8.10:FF:000003; G3DSA:1.10.8.10:FF:000002; G3DSA:1.10.10.540:FF:000001; G3DSA:3.10.20.90; G3DSA:1.10.10.540; TIGR00601; PTHR10621; PR01839
+Interpro Signature Description:  Ubl_Rad23; UV excision repair protein RAD23; UV excision repair protein RAD23 homolog; UV excision repair protein RAD23 B; -; UV excision repair protein Rad23; UV EXCISION REPAIR PROTEIN RAD23; DNA repair protein Rad23 signature
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: ubiquitin receptor RAD23b%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu06H
+  Gene Products: ubiquitin receptor RAD23b-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: ubiquitin receptor RAD23b
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: ubiquitin receptor RAD23b-like; ubiquitin receptor RAD23b-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: ubiquitin receptor RAD23b-like%2C transcript variant X1
+  Gene Descriptions: ubiquitin receptor RAD23b-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: ubiquitin receptor RAD23b
+  Gene Descriptions: ubiquitin receptor RAD23b
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: ubiquitin receptor RAD23b-like%2C transcript variant X1
+  Gene Descriptions: ubiquitin receptor RAD23b-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi01K
+  Gene Products: ubiquitin receptor RAD23b-like%2C transcript variant X1; ubiquitin receptor RAD23b-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: ubiquitin receptor RAD23b-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: ubiquitin receptor RAD23b%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100282427%2C transcript variant X1
+  Gene Synonyms: csu631,GRMZM2G143462
+  Gene Descriptions: uncharacterized LOC100282427
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 369 aa
+
+MKLTVKTLKGTHFEIRVQPNDTIMAVKKNIEEIQGKDSYPWGQQLLIhNGKVLKDESTLD
+ENKVSEDGFLVVMLSKSKASGSSGASSAQPSSTPATRQAPPVDaPRQAPQPpVAPTTTSQ
+PERPPAEAPSNTyDNAASNLLSGSNLDTMINQLMEMGGGSWDRDKVQRALRAAYNNPERA
+VEYLYSGIPVTAEVAVPVGGQGANTTDaAPTGEAGLSGIPNTAPLNLFPQGGSNAGGGAG
+GGPLDFLRNNQQFQALREMVHTNPQILQPMLQELSKQNPQLLRLIQENHDEFLQLLNEPF
+EGGDGDFLDQPDQDEMPHAISVTPEEQEAIGRLEAMGFDRARVIEAFFACDRNEQLAANY
+LLEHAGDED
+
+
+BOP CONSENSUS:
+Length: 367 aa
+
+MKLTVKTLKGTHFEIRVQhNDTIMAVKKNIEEIQGKDSYPWGQQLLIHNGKVLKDESTLD
+ENQVSEDGFLVVMLSKSKASASSGASSAQPSSTPVTSQAPPVAQPQAPQPQVPSTTTSQP
+ERPPAETPSSTVDlAASDLLSGSNLDTMINQIMEMGGGSWDRDKVQRALRAAYNNPERAI
+DYLYSGIPVTAEVAVPVVGQGANTTDAAPGETGLSGIPNTAPLDLFPQGASHAGGAAGGG
+SLDFLRNNQQFQALREMVHTNPQILQPMLQELSKQNPQLLRLIQENNDEFLQLLNETFEG
+GDGDFLDQpDQDEMPHAISVTPEEQEAIGRLEAMGFERARVIEAFFACDRNEQLAANYLL
+EHAGDEE
+
+
+PACMAD CONSENSUS:
+Length: 369 aa
+
+MKLTVKTLKGTHFEIRVQPNDTIMAVKKNIEEIQGKDSYPWGQQLLIFNGKVLKDESTLD
+ENKVSEDGFLVVMLSKSKTSGSSGASSAQPSSTPATRQAPPLDAPRQAPQPPVAPTTTSQ
+PEGpPAQAPSNTYDNAASNLLSGSNlDTMINQLMEMGGGSWDRDKVQRALRAAYNNPERA
+VEYLYSGIPVTAEVAVPIGvQGgNTTDrAPTGEAGLSGIPNTAPLNLFPQGGSNAGGGAG
+GGPLDFLRNNQQFQALREMVHTNPQILQPMLQELSKQNPQILRLIQENHDEFLQLLNEPF
+EGGEGDFLEQPEQDEMPHAIsVTPEEQEAIGRLESMGFDRARVIEAFFACDRNEELAANY
+LLEHAGEED
+
+================================================================================

@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM007523
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             488.5 aa
+Family Size (Extended Family Size): 22 (39) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31236:SF2
+Panther Family ID:               PTHR31236
+Modal Panther ID:                PTHR31236:SF2
+Modal Panther Description:       BURP DOMAIN PROTEIN RD22
+Modal Panther Family ID:         PTHR31236
+Modal Panther Fam Desc:          BURP DOMAIN PROTEIN USPL1-LIKE
+Interpro Signature Accession:    PTHR31236; PF03181; SM01045
+Interpro Signature Description:  BURP DOMAIN PROTEIN USPL1-LIKE; BURP domain; BURP_2
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: BURP domain-containing protein 3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: BURP domain-containing protein 3
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: BURP domain-containing protein 3%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: BURP domain-containing protein 3-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: BURP domain-containing protein 3
+  Gene Descriptions: BURP domain-containing protein 3
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: BURP domain-containing protein 3-like
+  Gene Synonyms: B1060H01.8,BURP3,OsBURP03,OsJ_03360
+  Gene Descriptions: BURP domain-containing protein 3-like
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: BURP domain-containing protein 3-like
+  Gene Descriptions: BURP domain-containing protein 3-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: BURP domain-containing protein 3; BURP domain-containing protein 3-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: BURP domain-containing protein 3
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: BURP domain-containing protein 3
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: BURP domain protein RD22; BURP domain protein RD22%2C transcript variant X1
+  Gene Synonyms: BURP10,GRMZM2G446170; BURP4,GRMZM5G800586
+  Gene Descriptions: BURP domain protein RD22
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 497 aa
+
+MDRLLAGLLGFLLIASVGSHAARAPEQYWKSALPNTPMPSSLSQLLNTPAGGTTVNVGwG
+GVHVDAGHGKPGGTTVDVGKGGVGVNVNPGSGKPGGTTVGVGKGGVGVNVKPGYGKPGGT
+TVGVGKGGVGVNVNPGYGKPGGTTVGVGKGGVGVNVKPGKPGGTTVGVGKGGVGVNVNPG
+YGKPGGTTVGVGKGGVGVNVkPGYGKPGGTGTTVGVGKGGVGVNVkPGYGKPGGTTVGVG
+KGGVGVNVkPRGKPVHVNVSPFiYNYAATETQLHDDPSVALFFQEKDLHPGKKMTVQFTn
+TtGAGeKFLPRSEADAIPFSSEKVPEILSRFSVaPDSVEAAEMaQTLRDCEAPAAKGEKK
+ACATSLESMVDFATSSLGTSHVRAVSTVVAKEGSPKQEYTMTGVKRAAGADDRLVACHAE
+PYAYAVFACHLTQATRAYsVSMvGRDGTAVEAVAVCHADTAGWNPKHVAFQVLKVKPGTV
+PVCHFLPQDHVVWTRSG
+
+
+BOP CONSENSUS:
+Length: 495 aa
+
+MDRLVAGILGFLLIASVGSHAARAPEQYWKSALPNTPMPSSLSQLLNTQAGGTSVNVGSG
+GVHVDAGHGMPGGTTVDVGKGGVGVNVKPGSAKPGGTTVGVGKGGVGVNVKPGYGKPGGT
+TVGVGKGGVGVNVKPGSGKPSGTTVGVGKGGVGVNVKPGYGKPGGTTVGVGKGGVGVNVK
+PGGGTTVGVGKGGVGVNVKPGYGKPGGTGTTVGVGKGGVGVNVKPGYGKPGGTTVGVGKG
+GVGVNVKPPRGKPVHVNVSPFIYNYAATETQLHDDPSAALFFLEKDLHAGKKMnVHFMAT
+PGAGEKFLPRSEADAIPFSSEKVPEILSRFSVAPDSAEAAEMKQTLRECEAtAAKGEKKS
+CATSLESMVDFATSSLGTSHVRAVSTVVGKEGSPEQEYTMTGVKRAAGADQLVACHAEPY
+AYAVFACHLTQATRAYTVSMVGKDGTAVEAVAVCHADTAGWNPRHVAFQVLKVKPGTVPV
+CHFLPQDHVVWTRSG
+
+
+PACMAD CONSENSUS:
+Length: 473 aa
+
+MeRLLAGLLGFLLiASVGSHAARAPDQYWKSALPNTPMPSSLSQLLNTPAGGTTVNVGWG
+GVHVDAGHGKPGGTTVDVGKGGVGVNVNPGSGKPGGTTVGVGKGGVGVNVNPGYGKPGGT
+TVGVGKGGVGVNVNPGKPGGTTVGVGKGGVGVNVNPGYGKPGGTTVGVGKGGVGVNVNPG
+KPGGTGTTVGVGKGGVGVGVNPGYGKPGGTTVGVGKGGVGVHVNPRKKPVhVNVSPFqYn
+YAATETQLHDDPSVALFFQEKDLHPGKKMTVQFTNTaAGAKFLPRSEAEAIPFSSEKVPE
+ILSRFSVsPDSVEAAEMAQTLRDCEAPAAKGEKKACATSLESMVDFATsSLGTSHVRAVS
+TVVAKEGSPKQEYTvTGVKRAAGTDDDGRLVACHAEPYAYAVFACHLTRQTRAYSVSMLG
+RDGTAVDAVAVCHADTSGWNPKHVAFQVLNVKPGTVPVCHFLPQDHVVWTRSG
+
+================================================================================

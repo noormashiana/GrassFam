@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM020917
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             429.0 aa
+Family Size (Extended Family Size): 25 (27) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31476:SF12
+Panther Family ID:               PTHR31476
+Modal Panther ID:                PTHR31476:SF12
+Modal Panther Description:       UBIQUITIN CARBOXYL-TERMINAL HYDROLASE FAMILY PROTEIN
+Modal Panther Family ID:         PTHR31476
+Modal Panther Fam Desc:          PROTEIN WHAT'S THIS FACTOR 1 HOMOLOG, CHLOROPLASTIC
+Interpro Signature Accession:    PTHR31476; PF11955
+Interpro Signature Description:  PROTEIN WHAT'S THIS FACTOR 1 HOMOLOG, CHLOROPLASTIC; Plant organelle RNA recognition domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: protein ROOT PRIMORDIUM DEFECTIVE 1%2C transcript variant X2
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: protein ROOT PRIMORDIUM DEFECTIVE 1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: protein ROOT PRIMORDIUM DEFECTIVE 1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: protein ROOT PRIMORDIUM DEFECTIVE 1-like; protein ROOT PRIMORDIUM DEFECTIVE 1-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: protein ROOT PRIMORDIUM DEFECTIVE 1-like%2C transcript variant X1
+  Gene Descriptions: protein ROOT PRIMORDIUM DEFECTIVE 1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: protein ROOT PRIMORDIUM DEFECTIVE 1%2C transcript variant X1
+  Gene Descriptions: protein ROOT PRIMORDIUM DEFECTIVE 1
+Ecu
+  Gene count: 3
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 1
+  Modal chromosome: Pau22
+  Gene Products: protein ROOT PRIMORDIUM DEFECTIVE 1-like%2C transcript variant X3
+  Gene Descriptions: protein ROOT PRIMORDIUM DEFECTIVE 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi03K
+  Gene Products: protein ROOT PRIMORDIUM DEFECTIVE 1-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha03
+  Gene Products: protein ROOT PRIMORDIUM DEFECTIVE 1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi14
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: protein ROOT PRIMORDIUM DEFECTIVE 1%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma10
+  Gene Products: protein ROOT PRIMORDIUM DEFECTIVE 1-like%2C transcript variant X3; uncharacterized LOC100502365
+  Gene Synonyms: GRMZM2G089565; brick3,GRMZM2G180150,GRMZM2G180166,GRMZM5G886363
+  Gene Descriptions: protein ROOT PRIMORDIUM DEFECTIVE 1-like; uncharacterized LOC100502365
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 429 aa
+
+MASIIFGPRNLHALSLRLrILsEtFQYGPFNRSVQRRWKKPVDSARTRLEGRTRDHRLDK
+LMVQLRNLRLALALHEVISQQRNGYASLQLLSKWRHEVGLNIEIGAFLKKYPHIFqIYVH
+PVKRNHCCKITQKMaDLIAEEDAVIRENEtdIVQRLKKLLMLStNGTLNMHALWLIRREL
+GLPDDYRSSILPNHQHDLsLESPDTLSLVSRDEeLAVAKVEEWRkKEYTEKWLAESETKY
+AFPINFPTGFKIEKGFREKLKNWQRLPYTKPYEKNDLHPIHNVERLEKRIVGILHELLSL
+TVEKMIPLERLSHFRRVFaMEVNLRELLLKHPGIFYISTKGSTQTVILRESYSKGCLvEP
+NPVYnVRRKMLDLILSGCRNIGEtESAiWlaEEYdQGSSHEsQNNtCQVDTaNSiLELEt
+DSdSygksh
+
+
+BOP CONSENSUS:
+Length: 428 aa
+
+MASKLFSPKNLRVFSPRpHMLDEAFCYGPFNRSMQRRWKKPVDSARTRLEGRTRDHRLDK
+LMIQLKNLRLALDLHAVISQQRNGYASLQLLLRWRREIGLNTEIGAFLKKYPHIFEIYVH
+PVKRNHCCRITrKMADLVAEEDAVIRENEPAVVQRLKKLLMMSTDGTLNMHALWLVRKEL
+GLPDDYRSSMLPNHQSDFSLETPDTLTLITRDENLAVAsVEEWRDKEYTEKWLAEYETKY
+AFPVNFPTGFKIEKGFREKLKNWQRLPYTKPYEKNDLHPITNaERLEKRIVGILHELLSS
+TVEKMvPLERLSHFRRPFSMEVNLRELLLKHPGIFYISTKGSTQTVLLRESYNKGCLVEP
+NPVYSVRRKMLDLILAGCRGIVQTENAISLVEEDSQGSSHGSQNHTCQVDNMNSMSQFES
+DSSVESFS
+
+
+PACMAD CONSENSUS:
+Length: 440 aa
+
+MASIIFGPRNLHALSLRLRILgETFQYGPFNRGVQRRWKKPVDSARTRLEGRTRDHRLDK
+LMVQLRNLRLALALhELISQQRNGYASLQLLSKWRHEVGLNIEIGAFLKKYPHIFQIYMH
+PVKRNHCCKITQKMtDLIAEEDAVIRENETDIVQRLKKLLMLStNGTLNMHALWLIRREL
+GLPDDYRSSILPNHqHDLyLESPDTLSLVSRDEELAVAKVEEWRKKEYTEKWLAESETKY
+AFPINFPTGFKIEKGFREKLKNWQRLPYTKPYEKNDLHPIHNVERLEKRIVGILHELLSL
+TVEKMIPLERLSHFRRVFAMEVNLRELLLKYPGIFYISTKGSAQTVILRESYSKGCLIEP
+NPVYdVRRKMLDLILSGCRNVGEqESAaWlAEEYDqGSSHElQNNmCQVDTANtiLELET
+DSDSygKNhLTEElPyQhFC
+
+================================================================================

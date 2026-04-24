@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM006511
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             465.5 aa
+Family Size (Extended Family Size): 18 (18) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46781:SF5
+Panther Family ID:               PTHR46781
+Modal Panther ID:                PTHR46781:SF5
+Modal Panther Description:       ALPHA 1,4-GLYCOSYLTRANSFERASE FAMILY PROTEIN
+Modal Panther Family ID:         PTHR46781
+Modal Panther Fam Desc:          ALPHA 1,4-GLYCOSYLTRANSFERASE FAMILY PROTEIN
+Interpro Signature Accession:    PTHR46781; PF04572; SSF53448
+Interpro Signature Description:  ALPHA 1,4-GLYCOSYLTRANSFERASE FAMILY PROTEIN; Alpha 1,4-glycosyltransferase conserved region; Nucleotide-diphospho-sugar transferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: lactosylceramide 4-alpha-galactosyltransferase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: uncharacterized protein At4g19900-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: uncharacterized protein At4g19900-like
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: uncharacterized protein At4g19900-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: uncharacterized protein At4g19900-like
+  Gene Descriptions: uncharacterized protein At4g19900-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: uncharacterized protein At4g19900
+  Gene Descriptions: uncharacterized protein At4g19900
+Pau
+  Gene count: 1
+  Modal chromosome: Pau07
+  Gene Products: uncharacterized protein At4g19900-like
+  Gene Descriptions: uncharacterized protein At4g19900-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi07K
+  Gene Products: uncharacterized protein At4g19900-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: uncharacterized protein At4g19900-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: uncharacterized protein At4g19900
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: transferase/ transferase%2C transferring glycosyl groups
+  Gene Synonyms: GRMZM2G399048
+  Gene Descriptions: transferase/ transferase%2C transferring glycosyl groups
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 459 aa
+
+AkVQQAkNsMATPPAFFSPTMAPApRKPLPLLLLSLSLPVLLLLLSLVFLLSHTTFSLLL
+CPLLPrsPSRrNATtTtsaAAgaSLDVSMDkTLqAFHASsPPPPPrNATTTSSSttPPPP
+LPPApPAKsKkSSKKASAKRNKSLLKLLLRqTPRTRRFAARAaELFApPRPCAhRFFMTW
+LSPLeQFGRRELLVLESLFRWHRDACLLvASDTMDSaGGrDRLRPFLDRGFRVAAASPDf
+AYLLnGTPAEAWLGAVQRGgVSPGSVPLGQNLSNLLRLALLYKYGGVYLDADVVVLRPLS
+gLRNAIGAQAVDAATGDWmRLNNAVMVFDRGHPLLREFIAEFAAtFDGSKWGHNGPYLVS
+RVAARLRHRSPgLDvTVLPPRAFYPVDWnKIGGLFVAPKDRKgERWVKAKVENIKGESFG
+IHLWNRESRrLEMEEGSVIGRLISDSCLFCNSSMFVKQe
+
+
+BOP CONSENSUS:
+Length: 447 aa
+
+MAATPTATHAtSLFFPPAPTMAPAPRKPLPLLLLSFSFPVLLLLLSLVFLLSHTTFSLLL
+CPLLPQSPSRSANATtTTtaAAAAASLDVSMDRTLLAFHVSASPPPPAPPPPLAPTPPVK
+SKKNSKKASTKRNKGLFKRLIRQAPRTRQFAARAAELFAPPSPQRPCAHRFFMTWLSPLE
+QFGSREALVLETLFRWHRDACLLIASDTMDSPGGSDRLRPFLDRGFRVRAASPDLAHLLR
+GTPAEpWLGAVRRGEVSPGSVPLGQNLSNLLRLALLYKYGGVYLDADVVVLRPLSGLRNA
+IGAQAVDAATGDWMRLNNAVMAFDRGHPLLREFIAEFAATFDGSKWGHNGPYLVSRVTRR
+MPELDVTVLPPRAFYPVDWNKIGGLFmAPKDRKEEKWVQAKVDNIRGgSFGIHLWNRESR
+GIEMEEGSVIRRLISDGCLFCNSSVvA
+
+
+PACMAD CONSENSUS:
+Length: 479 aa
+
+MAVAPKVQQAKSSMVTPASPTTMPAARKPLPLLLLSLSLPALLLLLSLVFLLSHTTFSLL
+ICPLLPRpSSTRNATSTSSSSGTSLGVSMDKTLQAFHASMPTtPSRRNATSSSSStsSlG
+VSvDKTLQAFHAFAAAPPPPLPAWPAAAPktsSSSKKASAKRNKSLLKLLLRKTPQTRRF
+AARADELFAAPCTDRFFMTWLSPLAQFGRRELLVLESLFRWHRGGCLLVASDTMDSAGGR
+DKLRPFLERGFRVAVASPDFAYLLNGTPAEAWLGAVQRGGVSPGSVPLGQNLSNLLRLAL
+LYRYGGIYLDADVVVLRPLSDLRNAIGAQAVDEATGDWRRLNNAVMVFDRAHPLLHEFIA
+EFAAAFDGSKWGHNGPYLVSRVAARLRHRSPGLAFTVLPPRAFYPVHWSKIGGLFVAPKD
+RKDERWVKAKVENIKGESFGIHLWNRESSRLEMEEGSVIGTLISDSCLFCNSSMFVKQG
+
+================================================================================

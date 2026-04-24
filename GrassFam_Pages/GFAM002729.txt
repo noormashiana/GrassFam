@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM002729
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             515.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12064:SF36
+Panther Family ID:               PTHR12064
+Modal Panther ID:                PTHR12064:SF36
+Modal Panther Description:       DOMAIN-CONTAINING PROTEIN, PUTATIVE, EXPRESSED-RELATED
+Modal Panther Family ID:         PTHR12064
+Modal Panther Fam Desc:          METAL TRANSPORTER CNNM
+Interpro Signature Accession:    cd04590; G3DSA:3.10.580.10:FF:000015; G3DSA:3.10.580.10; PTHR12064; PF01595
+Interpro Signature Description:  CBS_pair_CorC_HlyC_assoc; DUF21 domain-containing protein; -; METAL TRANSPORTER CNNM; Cyclin M transmembrane N-terminal domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: DUF21 domain-containing protein At2g14520%2C transcript variant X1
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: DUF21 domain-containing protein At2g14520-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: DUF21 domain-containing protein At2g14520%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04B
+  Gene Products: DUF21 domain-containing protein At2g14520-like%2C transcript variant X1; DUF21 domain-containing protein At5g52790-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: DUF21 domain-containing protein At2g14520-like
+  Gene Descriptions: DUF21 domain-containing protein At2g14520-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: DUF21 domain-containing protein At2g14520%2C transcript variant X1
+  Gene Descriptions: DUF21 domain-containing protein At2g14520
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: DUF21 domain-containing protein At2g14520-like; DUF21 domain-containing protein At2g14520-like%2C transcript variant X1
+  Gene Descriptions: DUF21 domain-containing protein At2g14520-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: DUF21 domain-containing protein At2g14520-like%2C transcript variant X1; DUF21 domain-containing protein At5g52790-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: DUF21 domain-containing protein At2g14520-like%2C transcript variant X2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: DUF21 domain-containing protein At2g14520-like
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: DUF21 domain-containing protein; uncharacterized LOC100279331
+  Gene Synonyms: GRMZM2G092281; GRMZM2G176558
+  Gene Descriptions: DUF21 domain-containing protein; uncharacterized LOC100279331
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 520 aa
+
+MPSHEACCGTMFWVYLMSCVGLVMFAGLMSGLTLGLMSLSLVDLEVLAKAGTPKDKrNAA
+RILPVVKNQHLLLCTLLIGNSLAMEALPIFLDTLVPSFVAILISVTLILAFGEIMPQAIC
+TRYGLSVGAKAAPVVRVLLIVFFPVAYPISKLLDWLLGKGHFALMRRAELKTLVDMHGNE
+AGKGGELTHDETTIITGALELTQKIAKDAMTPISETFSLDINAKLDLHTMGMIMTRGHSR
+VPIYSGsPSNIIGLILVKNLITCRpEDEVPIRNVTIRKIPRVADDLPLYDILNEFQKGHS
+HMAVVVKRTKEAGASTEKQKStTADYKINpKDAHADGSSPShVSTAGSRRNNIEKyGDGR
+SYNKKSERKReNILDFNTDPLPSYSMDEEAVGIITMEDVMEELLQEEIyDETDEYVDVHN
+KIRINMLPPGKSLSPtISPGGGPLSQGLRKTPMASPLSPYHHGSSVLRSPVSNHgQSPGT
+LPTILSPGRSPASQTPgQSSPNSSQVSRNSnGkHKKDGES
+
+
+BOP CONSENSUS:
+Length: 510 aa
+
+MSSHEACCGTMFWVYLLSCAGLVMFAGLMSGLTLGLMSLSLVDLEVLAKAGTPQDRRNAA
+RILPVVKNQHLLLCTLLIGNSLAMEALPIFLDSLVPSFGAILISVTLILAFGEIMPQAIC
+TRYGLSMGAKAAPIVRVLLVVFFPVAYPISKLLDWLLGKGHVALMRRAELKTLVDMHGDA
+AGKGGELTHDETTIIAGALEMTQKTAKDAMTPISETFSLDINAKLDVHTVGMIMTKGHSR
+IPIYSGRPSNIIGLILVKNLLTCRPEDEVPTRHVTIRKIPRVADDLPLYDILNEFQKGHS
+HMAVVVKRTKEpGASAEKNNSFTpDYKMTNGHAHADGLGLSPSHVNIPGSRRNNNDKYSK
+KIERKRDNILDFNTDPLPHYSMDEEAVGIITMEDVMEQLLQEDILDETDEYVDVHNKIKI
+NMLPPGKSLSPLISPSGGPLSQGLRKTPMASPLSPYHNGGSILRSPVtNHARSPGTLPTm
+FSPGRSPASQTPVRSSPTSSWVSRNSYRNP
+
+
+PACMAD CONSENSUS:
+Length: 520 aa
+
+MPSHEACCGTMFWVYLMSCVGLVMFAGLMSGLTLGLMSLSLVDLEVLAKAGTPKDKLNAA
+RILPVVKNQHLLLCTLLIGNSLAMEALPIFLDTLVPPYVAILISVTLILAFGEIMPQAIC
+TRYGLSVGAKAAPVVRILLILFFPVAYPISKLLDWLLGKGHFALMRRAELKTLVDMHGNE
+AGKGGELTHDETTIITGALELTQKIAKDAMTPISETFSLDINAKLDLHTMGMIMTRGHSR
+VPIYSGSPSNIIGLILVKNLITCRTEDEVPIRNVTIRKIPRVADDLPLYDILNEFQKGHS
+HMAVVVKRTKEAGASTEKQKSTTADYKINPKDAHADGSSPSYVSTAGSRRnNIEKYGDGR
+SYNKKSERKRENILDFNTDPLPSYSMDEEAVGIITMEDVMEELLQEEIYDETDEYVDVHN
+KIRINMLPPGKSLSPaISPGGGPLSQGLRRTPMASPlSPYHHGSSVLRSPVSNHGQSPGT
+LPTILSPGRSPTaQTPGQSSPNSSQVSRNSNGKHKKDGES
+
+================================================================================

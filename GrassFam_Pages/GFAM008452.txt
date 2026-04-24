@@ -1,0 +1,124 @@
+================================================================================
+GrassFam ID: GFAM008452
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             513.0 aa
+Family Size (Extended Family Size): 15 (15) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24286:SF226
+Panther Family ID:               PTHR24286
+Modal Panther ID:                PTHR24286:SF226
+Modal Panther Description:       CYTOCHROME P450 90D2
+Modal Panther Family ID:         PTHR24286
+Modal Panther Fam Desc:          CYTOCHROME P450 26
+Interpro Signature Accession:    cd11043; G3DSA:1.10.630.10:FF:000048; G3DSA:1.10.630.10; PTHR24286; PF00067; SSF48264
+Interpro Signature Description:  CYP90-like; 3-epi-6-deoxocathasterone 23-monooxygenase CYP90D1; Cytochrome P450; CYTOCHROME P450 26
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: cytochrome P450 90D2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: cytochrome P450 90D2-like
+  Gene Descriptions: cytochrome P450 90D2-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: cytochrome P450 90D2%2C transcript variant X1
+  Gene Descriptions: cytochrome P450 90D2
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau11
+  Gene Products: cytochrome P450 90D2-like
+  Gene Descriptions: cytochrome P450 90D2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi03K
+  Gene Products: cytochrome P450 90D2-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: cytochrome P450 90D2-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: cytochrome P450 90D2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: cytochrome P450 90D2%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 510 aa
+
+MwPrGGGGSWPASVASVAAALLVAAVIVRLFvPRvWSSSGtkRRgTASGGAAggARLPAG
+SLGWPLLGETLAFIsAAYSPRPESFVEKRRLLYGKVFKSHLWGSPAVVSSDPEVSRAVLQ
+ADASAFVPWYPRSLMELMGESSILVLGGGLQRRVHGLAGAFFKSPQLKARVTADMQRRVg
+RAMDAWrRRSGGGGavVRVQDEAKSIVFEILVRALIGLEeGQEMQYLRQQFqEFIAGLIS
+LPVKLPGTQLYRSLKAKKRMTKLIQKIIQEKRKKrIaEGeDLrGTHPRDMIDVLLgNGSD
+ELTDELISDNMIDFMIPAEDSVPVLITLAVKYLSECPLALQQLEEENMELKRRKSDvGET
+LEWTDYMSLTFTQHVITETLRMGNIINGIMRKAVRDVEVRGHLIPKGWRVLVYFRAVHLD
+AaVHDDPHAFNPWRWKERADVmTsgGGGGFTPFGGGQRLCPGLDLARLEASIFLHHLVTS
+FRWVAEEDTVVNFPTVRLKRGMPIaVTPRT
+
+
+BOP CONSENSUS:
+Length: 505 aa
+
+MAAMqpLAaGGGVSWPLYAATVAAALLVAAIVVRLAaRLWGKKRrSTtaAcKARLPrGSL
+GWPLVGETLAFISAAYSsRPESFVEKRCLLYGKVFKSHLWGSPAVVSADAEVSRAVLQAD
+ASAFVPWYPRSLMELMGESSILVLGGGLQRRVHGLAGAFFKSPQLKARVTADMQRRVAAA
+MDAWRrtAATGGGAVVRVQDEAKSIVFEILVRALIGLEPGQEMnYLKQQFHEFIAGLISL
+PIKLPGTQLYRSLKAKKRMTsLIQKIIQEKRRRIFEGKdLCaVPRDmIDVLMSNGSDELT
+DELISDNMIDFMIPAEDSVPVLITLAVKYLSECPLALEQLEEENMELKRRKSDVGETLEW
+TDYMSLTFTQHVITETLRIGNIISGIMRKAVKDVEVKGQLLIPKGWCVFLYFRSVHLDGn
+IYDDPYAFNPWRWKERDMMAASSGFTPFGGGQRLCPGLDLARLEASIFLHHLVTsFtWVA
+EEDTVVNFPTVRLKRGMPIkVTPKT
+
+
+PACMAD CONSENSUS:
+Length: 507 aa
+
+MWPGGGSWPASVGSVTAALLvAAVIVRLFiPRvWSSSGTRRRGTASGGAAGgARLPAGSL
+GWPLLGETPAFIrAAYSPRPESFVEKRRLLYGKVFKSHLWGSPAVVSSDPEVSRAVLQAD
+ASAFVPWYPRSLMELMGQSSILVLGGGLQRRVHGLAGAFFKSPQLKARVTADMQRRVGRA
+MDAWtRRGGGAPPVRVQDEAKSIVFEILVRALIGLEEGdEMQYLRQQFQEFIAGLISLPV
+KLPGTQLYRSLKAKKRMTKLIQKIIQEKRKKrIAEGEDpHGTHPRDMIDVLLGNGSDELT
+DELISDNMIDFMIPAEDSVPVLITLAVKYLSECPLALQQLEEENMELKRRKSDaGETLEW
+TDYMSLTFTQHVITETLRMGNIINGIMRKAVRDVEVRGHLIPKGWRVLVYFRAVHLDAAV
+HDDPHAFNPWRWKERADVvTSGGGGGFTPFGGGQRLCPGLDLARLEASIFLHHLVTSFRW
+VAEEDTVVNFPTVRLKRGMPIAVTPRT
+
+================================================================================

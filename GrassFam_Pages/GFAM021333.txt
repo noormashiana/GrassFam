@@ -1,0 +1,104 @@
+================================================================================
+GrassFam ID: GFAM021333
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             274.0 aa
+Family Size (Extended Family Size): 17 (17) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43180:SF53
+Panther Family ID:               PTHR43180
+Modal Panther ID:                PTHR43180:SF53
+Modal Panther Description:       XANTHOXIN DEHYDROGENASE
+Modal Panther Family ID:         PTHR43180
+Modal Panther Fam Desc:          3-OXOACYL-(ACYL-CARRIER-PROTEIN) REDUCTASE (AFU_ORTHOLOGUE AFUA_6G11210)
+Interpro Signature Accession:    cd05326; G3DSA:3.40.50.720:FF:000084; G3DSA:3.40.50.720; NF005559; PTHR43180; PR00081; PF13561; SSF51735
+Interpro Signature Description:  secoisolariciresinol-DH_like_SDR_c; Short-chain dehydrogenase reductase; -; glucose 1-dehydrogenase; 3-OXOACYL-(ACYL-CARRIER-PROTEIN) REDUCTASE (AFU_ORTHOLOGUE AFUA_6G11210); Glucose/ribitol dehydrogenase family signature; Enoyl-(Acyl carrier protein) reductase; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: momilactone A synthase-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: momilactone A synthase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: momilactone A synthase-like
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl04
+  Gene Products: momilactone A synthase; momilactone A synthase-like
+  Gene Descriptions: momilactone A synthase; momilactone A synthase-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa04
+  Gene Products: momilactone A synthase-like; momilactone A synthase-like%2C transcript variant X1
+  Gene Synonyms: OsJ_13988,OsMAS
+  Gene Descriptions: momilactone A synthase-like
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN4
+Pau
+  Gene count: 1
+  Modal chromosome: Pau18
+  Gene Products: momilactone A synthase-like%2C transcript variant X1
+  Gene Descriptions: momilactone A synthase-like
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi08K
+  Gene Products: momilactone A synthase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: momilactone A synthase-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 274 aa
+
+MASSSqVVPAAARKLdGKVAVITGGASGIGACTARLFVKHGARVVVADIQDELGASLCAE
+LGPeASSYVHCDVTnEeDVAAAVDHAVARFGKLDVMFNNAGIgGAPCFSIRDsTKEDFER
+VLAVNLVGPFLGTKHAARVMVPARRGCIISTSSLASAVGGaASHAYTtSKRALVGLTENA
+AtELGRHGIRVNCVSPAAVATPLATAymGglDgEAfEAaMEaaANLKGVGLKVDDIAAAv
+LFLASDDARYVSGQNLLVDGGiSVVNsSFGFFRD
+
+
+BOP CONSENSUS:
+Length: 273 aa
+
+MASSSDVVPAAARKLVGKVAVITGGASGIGECTARLFVQHGASVVLADIQDELGASLCAE
+LGPAASSYVRCDVTnEEDVAAAVDHAVARFGKLDIMFNNAGIGGAPCHSIRESTKEDFER
+VLAVNLVGPFLGTKHAARVMVPARRGCIIGTSSLASAVGGVASHAYTCAKRALVGLTENA
+ATELGRHGIRVNCISPAAAATPLATGYVGLDGEAFEMAMESFANLKGVGLRVKDIAAAVL
+FLASDDARYVSGHNLLIDGGISVSNLTFGIFKE
+
+
+PACMAD CONSENSUS:
+Length: 274 aa
+
+MASSSQEVPAAARKLEGKVAVITGGASGIGACTARLFVKHGARVVVADIQDELGASLCAE
+LGPENSSYVHCDVTDEADVAGAVDHAVARFGGLDVMFNNAGISGAPCFSIRDAAKEDLER
+VLAVNVVGPFLGTKHAARVMVPARRGCIISTSSLASAVgGAGPHAYTtSKHALVGLMeNA
+AAELGRHGIRVNCVAPAGVATPmAtAGMGGVDdqtVEAlMEAAANLKGVGLKVDDIAAAa
+LFLASDDARYVSGQNLLVDGGFSVVNPSLGFFRD
+
+================================================================================

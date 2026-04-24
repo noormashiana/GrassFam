@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM012634
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             459.0 aa
+Family Size (Extended Family Size): 31 (32) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR45744
+Modal Panther ID:                PTHR45744:SF41
+Modal Panther Description:       NICOTIANAMINE AMINOTRANSFERASE 1
+Modal Panther Family ID:         PTHR45744
+Modal Panther Fam Desc:          TYROSINE AMINOTRANSFERASE
+Interpro Signature Accession:    cd00609; G3DSA:3.90.1150.10:FF:000040; G3DSA:3.40.640.10:FF:000048; G3DSA:3.90.1150.10; G3DSA:3.40.640.10; TIGR01265; PTHR45744; PIRSF000517; PF00155; SSF53383
+Interpro Signature Description:  AAT_like; Tyrosine aminotransferase; tyrosine aminotransferase; Aspartate Aminotransferase, domain 1; -; tyrosine/nicotianamine family aminotransferase; TYROSINE AMINOTRANSFERASE; Tyr_transaminase; Aminotransferase class I and II; PLP-dependent transferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: nicotianamine aminotransferase A
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu01H
+  Gene Products: nicotianamine aminotransferase A; nicotianamine aminotransferase B
+Ata
+  Gene count: 2
+  Modal chromosome: Ata01D
+  Gene Products: nicotianamine aminotransferase A
+Tae
+  Gene count: 6
+  Modal chromosome: Tae01A
+  Gene Products: nicotianamine aminotransferase A; nicotianamine aminotransferase A-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: nicotianamine aminotransferase 1
+  Gene Descriptions: nicotianamine aminotransferase 1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: nicotianamine aminotransferase A
+  Gene Synonyms: NAAT1,OsNAAT1
+  Gene Descriptions: nicotianamine aminotransferase A
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau05
+  Gene Products: nicotianamine aminotransferase 1-like
+  Gene Descriptions: nicotianamine aminotransferase 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi01N
+  Gene Products: nicotianamine aminotransferase 1-like; nicotianamine aminotransferase 1-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: nicotianamine aminotransferase A-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi02
+  Gene Products: nicotianamine aminotransferase A; nicotianamine aminotransferase A-like
+Zma
+  Gene count: 2
+  Modal chromosome: Zma04
+  Gene Products: nicotianamine aminotransferase 1; uncharacterized LOC100191283
+  Gene Synonyms: GRMZM2G096958,naat1,ZmNAAT1; GRMZM2G412604,pco115235a
+  Gene Descriptions: nicotianamine aminotransferase 1; uncharacterized LOC100191283
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 449 aa
+
+MAThHQSNGHAAANAAngNGNGHAAAAAEWRFARAAKeGALAAAGDKMSIRAvRFKISAS
+VDeRGPRPVLPLAHGDPSVFPAFRTAAEAEDAVAAALRTGkFNCYPAGVGLPAARRALAE
+HLSqDLPYKLSaDDIFLTAGGTQAIEVVISVLAQPGTNILLPRPGYPNYEARAALNNLEV
+RHFDLIPEKGWEIDIDSLESIADKNTTAMVIINPNNPCGSVYTyEHLAKVAEVARKLGIL
+VIADEVYGNLVFGssPFIPMGVFGHIAPVLSIGSLSKRWIVPGWRLGWVAVCDPkKILQE
+TKIiTSITNFLNVSTDPATFIQGALPqILENTKEDFFKRIIGLLkETSEICYREIKDIKC
+ITCPHKPEGSMFVMVKLNLYLLEGIHDDIDFCCKLAKEESVILCPGSVLGMENWVRITFA
+IDSSSLLDGLERIKSFCQRHKKKNLLNGi
+
+
+BOP CONSENSUS:
+Length: 466 aa
+
+MATVHQSNGHGEAAgNGKSNGHgEANANGKAAANGKSNGHAAAAvDWNFAgaKDGvLAtT
+GAKmSIRAIRYKISASVeEsGPRPVLPLAHGDPSVFPAFRTAVEAEDAVAAALRTGQFNC
+YPAGVGLPAARSAVAEHLSQGVPYKLSADDIFLTAGGTQAIEVIIPVLAQTpGANILLPR
+PGYPNYEARAAFNKLEVRHFDLIPEKGWEIDlDSLESIADKNTTAMVIINPNNPCGSVYS
+YEHLAKVAEVARKLGILVIADEVYGKLVLGSAPFIPMGVFGHIAPVLSIGSLSKSWIVPG
+WRLGWVAVYDPTKILEETKISTSITNYLNVSTDPATFIQgALPQILENTKEDFFKRIIGL
+LKESSEICYREIKENKYITCPHKPEGSMFVMVKLNLHLLEEIHDDIDFCCKLAKEESVIL
+CPGSVLGMENWVRITFACVPSSLQDGLERIKSFCQRNKKKNsINGC
+
+
+PACMAD CONSENSUS:
+Length: 436 aa
+
+MATHhGENGSGHAAAEWRFARAAKEGALAAAGDKMSIRAVRFKISASVDARDPRPVLPLA
+HGDPSVFPAFRTAAEAEDAVAAALRTGKFNCYPAGVGLPDARRALAEHLSSDLPYKLSSD
+DIFLTAGGTQAIEVVVSVLAQPGTNILLPRPGYPNYEARAGLNNLEVRHFDLIPERGWEI
+DIDSLESIADKNTTAMVIINPNNPCGSVYTREHLAKVAEVARKLGILVIADEVYGNLVFG
+DTPFVPMGVFGHIAPVLSIGSLSKRWIVPGWRLGWVAVCDPNKILQETKIIASITNFLNV
+STDPATFIQGALPHILENTKEDFFKRIIGLLAETSEICYREIKDIKCITCPHKPEGSMFV
+MVKLNLYLLEGIHDDIDFCCKLAKEESVILCPGSVLGMENWVRITFAIDSSSLLDGLERI
+KSFCQRHKKKNLLNGh
+
+================================================================================

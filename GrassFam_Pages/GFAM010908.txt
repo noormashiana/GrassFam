@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM010908
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             507.0 aa
+Family Size (Extended Family Size): 22 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR19443:SF22
+Panther Family ID:               PTHR19443
+Modal Panther ID:                PTHR19443:SF22
+Modal Panther Description:       HEXOKINASE-5
+Modal Panther Family ID:         PTHR19443
+Modal Panther Fam Desc:          HEXOKINASE
+Interpro Signature Accession:    cd24020; G3DSA:3.40.367.20:FF:000003; G3DSA:3.30.420.40:FF:000034; G3DSA:3.30.420.40; G3DSA:3.40.367.20; PTHR19443; PR00475; PF00349; PF03727; SSF53067
+Interpro Signature Description:  ASKHA_NBD_HK_plant; Phosphotransferase; -; HEXOKINASE; Hexokinase family signature; Hexokinase; Actin-like ATPase domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: hexokinase-5
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: hexokinase-5
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: hexokinase-5
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: hexokinase-5; hexokinase-5-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: hexokinase-5
+  Gene Descriptions: hexokinase-5
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: hexokinase-5-like
+  Gene Synonyms: HXK5,OJ1087_C03.12,OsJ_19253
+  Gene Descriptions: hexokinase-5-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: hexokinase-5%2C transcript variant X1; hexokinase-5-like%2C transcript variant X1
+  Gene Descriptions: hexokinase-5; hexokinase-5-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: hexokinase-5; hexokinase-5-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: hexokinase-5
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: hexokinase-5
+Zma
+  Gene count: 2
+  Modal chromosome: Zma06
+  Gene Products: hexokinase 2; hexokinase3
+  Gene Synonyms: GRMZM2G058745,pco074668; GRMZM2G432801,hex2
+  Gene Descriptions: hexokinase 2; hexokinase3
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 507 aa
+
+MGKAAAVGTAVVVCAAVGVAVVLARRRRRRDAELLGSAEAERKRRAAAVIEEVERSLATP
+TALLRSIADAMVtEMERGLRGDIHSQLKMLISYVDNLPTGDEHGLFYALDLGGTNFRVLR
+VQLGGREKRVVKQQYEEVSIPPHLMVGTSMELFDFIAAALAKFVDTEGEDFHLPEGRQRE
+LGFTFSFPVNQTSISSGTLIKWTKGFSINGTVGEDVVSELSKAMERQGLDMKVTALVNDT
+VGTLAGGRYMDNDVVAAVILGTGTNAAYVEHANAIPKWTGLLPKSGNMVINTEWGSFKSD
+KLPLSEYDKAMDFESLNPGEQIYEKMISGMYLGEIVRRILLKLAHDASLFGDVVPpKLEQ
+PFVLRTPDMSAMHHDSSHDLKILGAKLKDIVGVADTSLEVRYITRHICDIVAERGARLAA
+AGIYSILKKIGRDKVPSDGSKMPRTVVALDGGLYEHYKKFSSCLEATLTDLLGEEASSSV
+VAKLANDGSGIGAALLAASHSQYAEvD
+
+
+BOP CONSENSUS:
+Length: 507 aa
+
+MGKAAAVGTAVVVCAAVGTAVVLGRRRRRRDAELLGAAEAERKRKVAAVIEDVERTLATP
+TALLRGISDALVlEMERGLRGDIHSQLKMLISYVDNLPTGDEHGLFYALDLGGTNFRVLR
+VQLGGREKRVVKQQYEEVSIPPHLMVGTSMELFDFIASVLAKFVDTEGDEFHLPEGRQRE
+LGFTFSFPVNQLSISSGTLIKWTKGFSINGAVGEDVVAELSKAMERQGLDMKVSALVNDT
+VGTLAGGRYMDNDVVAAIILGTGTNAAYVEHANAIPKWTGLLPKSGNMVINTEWGSFKSD
+KLPLSEYDKAMDFESLNPGEQIYEKLISGMYLGEIVRRILLKLAHDAALFGDVVPAKLEQ
+PFVLRTPDMSAMHHDASHDLKILGSKLKDIVGVADTSLEVRYITRHICDIVAERGARLAA
+AGIYGILKKLGRDKVPtDGSPMPRTVVALDGGLYEHYKKFSSCLEATLSDLLGDEASSSL
+VAKLANDGSGIGAALLAASHSQYAEID
+
+
+PACMAD CONSENSUS:
+Length: 507 aa
+
+MGKAAVVGTAVVVCAAVGVAVVLARRRRRRDAELLGSAEAERKRRAAAVIEEVERSLATP
+TALLRSIADAMVtEMERGLRGDIHAQLKMLISYVDNLPTGDEHGLFYALDLGGTNFRVLR
+VQLGGREKRVVKQQYEEVSIPPHLMVGTSMELFDFIAAALAKFVDTEGEDFHLPEGRQRE
+LGFTFSFPVNQTSISSGTLIKWTKGFSINGTVGEDVVSELSRAMERQGLDMKVTALVNDT
+VGTLAGGRYMDNDVVAAVILGTGTNAAYVEHANAIPKWTGLLPKSGNMVINTEWGSFKSD
+KLPLSEYDKAMDFESLNPGEQIYEKMISGMYLGEIVRRILLKLAHDASLFGDVVPPKLEQ
+PFVLRTPDMSAMHHDSSHDLKILGAKLKDIVGVADTSLEVRYITRHICDLVAERGARLAA
+AGIYSILKKIGRDKVPSsGSKMPRTVIALDGGLYEHYKKFSSCVEtTLTDLLGEEASSSV
+VAKLANDGSGIGAALLAASHSQYAEvD
+
+================================================================================

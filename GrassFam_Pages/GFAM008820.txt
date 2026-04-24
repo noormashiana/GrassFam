@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM008820
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             441.0 aa
+Family Size (Extended Family Size): 20 (30) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10848:SF4
+Panther Family ID:               PTHR10848
+Modal Panther ID:                PTHR10848:SF4
+Modal Panther Description:       DNA TOPOISOMERASE 6 SUBUNIT A
+Modal Panther Family ID:         PTHR10848
+Modal Panther Fam Desc:          MEIOTIC RECOMBINATION PROTEIN SPO11
+Interpro Signature Accession:    cd00223; G3DSA:3.40.1360.10:FF:000003; G3DSA:1.10.10.10:FF:000387; G3DSA:3.40.1360.10; G3DSA:1.10.10.10; PTHR10848; PR01550; PF21180; SSF56726
+Interpro Signature Description:  TOPRIM_TopoIIB_SPO; DNA topoisomerase 6 subunit A; -; MEIOTIC RECOMBINATION PROTEIN SPO11; DNA topoisomerase VI subunit A family signature; Topoisomerase 6 subunit A/Spo11, Toprim domain; DNA topoisomerase IV, alpha subunit
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: DNA topoisomerase 6 subunit A3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: DNA topoisomerase 6 subunit A3%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: AtaUN162388
+  Gene Products: DNA topoisomerase 6 subunit A3%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: DNA topoisomerase 6 subunit A3%2C transcript variant X1; DNA topoisomerase 6 subunit A3-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: uncharacterized LOC127765198
+  Gene Descriptions: uncharacterized LOC127765198
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: Topoisomerase 6 subunit A3
+  Gene Synonyms: OsSPO11-3,OsSPO11C,OsTOP6A,OsTOP6A3,TOP6A,TOP6A3
+  Gene Descriptions: Topoisomerase 6 subunit A3
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau03
+  Gene Products: DNA topoisomerase 6 subunit A3
+  Gene Descriptions: DNA topoisomerase 6 subunit A3
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: DNA topoisomerase 6 subunit A3; DNA topoisomerase 6 subunit A3-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: DNA topoisomerase 6 subunit A3%2C transcript variant X3
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: DNA topoisomerase 6 subunit A3
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100273699
+  Gene Synonyms: GRMZM2G052581,IDP1632,RHL2
+  Gene Descriptions: uncharacterized LOC100273699
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 438 aa
+
+MSEKKRRAGAdAAGaGSSSKKPRASAAASYAESLRSKLRPDASILASLRSLASASSKSKS
+KSSAAAKaLAEDDPADPASSYIVVADQDSTSVTSRINRLVLAAARSILSGRGFSFAVPSR
+AASNQVYLPDLDRIVLLRRESARPFANVATARKATVTARVLSLVHAVLRRGIHVTKRDLF
+YTDVKLFGDQSQSDAVLDDVSCMLGCTRSSLHVVASEKGVVVGRLvFADDGDRIDCTRMG
+VGGKAIPPNIDRVSGIESDALFILLVEKDAAFMRLAEDRFYNRFPCIILTAKGQPDVATR
+LFLRRLKVELKLPVLALVDSDPYGLKILSVYMCGSKNMSYDSANLTTPDIKWLGVRPSDL
+DKYRVPEQCRLPMTDHDIKVGKELLEEDFVKQNEGWVKELETMLRTRQKAEIQALSSFGF
+QYLTEVYLPLKLQQQDWI
+
+
+BOP CONSENSUS:
+Length: 441 aa
+
+MSERKRRAGAGAAAGGSTSKKPRGASAAASYAQSLRSKLRPDASILASLRALASAASKSK
+PAAASSAGAKALSEDDPASASSSYIVVADQDTTSVTSRINRLVLSVARSILAGRGFSFAV
+PSRASSNQVYLPDLDRIVLLRRESARPFANVATARKATVTARVLSLVHAVLRRGIHVTKR
+DLFYTDVKLFGDQSQSDAVLDDVSCMLGCTRSSLHVVASEKGVVVGRLTFADDGDVIDCT
+RMGVGGKAIPPNIDRVSGIESDALFILLVEKDAAFMRLAEDRFYNRFPCIILTAKGQPDV
+ATRLFLRRLKVELKLPVLALVDSDPYGLKILSVYMCGSKNMSYDSANLTTPDIKWLGVRP
+SDLDKYRVPEQCRLPMTDHDIKVGKEMLEEDFVKQNEGWVKELETMLRTRQKAEIQALSS
+FGFQYLTEVYLPLKLQQEDWI
+
+
+PACMAD CONSENSUS:
+Length: 436 aa
+
+MSEKKRRAGAsAAGAASSSKKPRASAAASYAESLRSKLRPDASILATLRSLASASASKSK
+AAAKSLADHDPSADPASSYIVVADQDSTSVTSRINRLVLAAARSILSGRGFSFAVPSRAA
+SNQVYLPDLDRIVLVRRESARPFANVATARKATVTARVLSLVHAVLRRGIHVTKRDLFYT
+DVKLFGDQSQSDAVLDDVSCMLGCTRSSLHVVASEKGVVVGRLVFADDGDRIDCTRMGVG
+GKAIPPNIDRVSGIESDALFILLVEKDAAFMRLAEDRFYNRFPCIILTAKGQPDVATRLF
+LRRLKVELKLPVLALVDSDPYGLKILSVYMCGSKNMSYDSANLTTPDIKWLGVRPSDLDK
+YRVPEQCRLPMTDHDIKVGKELLEEDFVKQNEGWVKELETMLRTRQKAEIQALSSFGFQY
+LTEVYLPLKLQQQDWI
+
+================================================================================

@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM011502
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             366.0 aa
+Family Size (Extended Family Size): 19 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR43161
+Modal Panther ID:                PTHR43161:SF17
+Modal Panther Description:       L-IDONATE 5-DEHYDROGENASE
+Modal Panther Family ID:         PTHR43161
+Modal Panther Fam Desc:          SORBITOL DEHYDROGENASE
+Interpro Signature Accession:    cd05285; G3DSA:3.40.50.720:FF:000068; G3DSA:3.90.180.10; G3DSA:3.40.50.720; PTHR43161; PF00107; PF08240; SSF51735; SSF50129
+Interpro Signature Description:  sorbitol_DH; Sorbitol dehydrogenase; -; SORBITOL DEHYDROGENASE; Zinc-binding dehydrogenase; Alcohol dehydrogenase GroES-like domain; NAD(P)-binding Rossmann-fold domains; GroES-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: sorbitol dehydrogenase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: sorbitol dehydrogenase
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: sorbitol dehydrogenase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: sorbitol dehydrogenase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl08
+  Gene Products: sorbitol dehydrogenase%2C transcript variant X1
+  Gene Descriptions: sorbitol dehydrogenase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa08
+  Gene Products: sorbitol dehydrogenase
+  Gene Synonyms: OJ1323_A06.4
+  Gene Descriptions: sorbitol dehydrogenase
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN50
+Pau
+  Gene count: 1
+  Modal chromosome: Pau16
+  Gene Products: sorbitol dehydrogenase
+  Gene Descriptions: sorbitol dehydrogenase
+Svi
+  Gene count: 1
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi06K
+  Gene Products: sorbitol dehydrogenase-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: sorbitol dehydrogenase
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: sorbitol dehydrogenase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: sorbitol dehydrogenase homolog 1
+  Gene Synonyms: GRMZM2G175423,sdh1,uaz152,umc1499
+  Gene Descriptions: sorbitol dehydrogenase homolog 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 365 aa
+
+MGKGGKGseAAAaAGEEENMAAWLVAKNTLKIMPFKLPPLGPYDVRVRMKAVGICGSDVH
+YLREMRIAHFVVKEPMVIGHECAGVIEEVGaGVtHLAVGDRVALEPGISCWRCRHCKGGR
+YNLCDDMKFFATPPVHGSLANQIVHPGDLCFKLPDNVSLEEGAMCEPLSVGVHACRRAdV
+GPETgVLIMGAGPIGLVTLLAARAFGAPRVVIVDVDDHRLSVAkSLGADAaVKVStRaED
+LAeEVERIQAAMGgDIDVSLDCAGFSKTMSTALEATRPGGRVCLVGMGHNEMTVPLTSAA
+IREVDVVGIFRYKDTWPLCIEFLRSGKVDVKPLITHRFGFSQrEVEEAFEVSARGRDAIK
+VMFNL
+
+
+BOP CONSENSUS:
+Length: 365 aa
+
+MGKGGKGEAAAAVAGEGENMAAWLVAKNTLKIMPFKLPPLGPYDVRVRMKAVGICGSDVH
+YLKEMRIAHFVVKEPMVIGHECAGIIEEVGdGVKHLAVGDRVALEPGISCWRCRHCKGGR
+YNLCDDMKFFATPPYHGSLADQIVHPGDLCFKLPDNVSLEEGAMCEPLSVGVHACRRADV
+GAEKSVLIMGAGPIGLVTMLSARAFGAPRIVIADVDDHRLSVAKSLGADAtVKVSGntED
+LAGEIERIQAAMGGDIDVSLDCAGFSKTMSTALEATRPGGRVCLVGMGHNEMTVPLTSAA
+IREVDVVGIFRYKDTWPLCLEFLRSGKIDVKPLITHRFGFSQGEVEEAFEVSARGRDAIK
+VMFNL
+
+
+PACMAD CONSENSUS:
+Length: 367 aa
+
+MGKGgQGSDAAAAAAGEVEENMAAWLVAKNTLKIMPFKLPPLGPHDVRVRMKAVGICGSD
+VHYLREMRIAHFVVKEPMVIGHECAGVIEEVGAGVTHLSVGDRVALEPGVSCWRCRHCKG
+GRYNLCdDMKFFATPPVHGSLANQVVHPADLCFKLPDGVSLEEGAMCEPLSVGVHACRRA
+GVGPETgVLVvGAGPIGLVtLLAARAFGAPRVVIVDVDEHRLSVAtSLGADAAVRVStRp
+EDlgEEVERIQAAMGAEIDVSLDCAGFSKTMSTALEATRPGGKVCLVGMGHNEMTVPLTS
+AAiREVDVVGVFRYKDTWPLCIEFLRSGKVDVKPLITHRFGFSQRDVEEAFEVSARGRDA
+IKVMFNL
+
+================================================================================

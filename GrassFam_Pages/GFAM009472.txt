@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM009472
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             467.0 aa
+Family Size (Extended Family Size): 23 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11062:SF60
+Panther Family ID:               PTHR11062
+Modal Panther ID:                PTHR11062:SF60
+Modal Panther Description:       EXOSTOSIN FAMILY PROTEIN
+Modal Panther Family ID:         PTHR11062
+Modal Panther Fam Desc:          EXOSTOSIN  HEPARAN SULFATE GLYCOSYLTRANSFERASE -RELATED
+Interpro Signature Accession:    PTHR11062; PF03016
+Interpro Signature Description:  EXOSTOSIN  HEPARAN SULFATE GLYCOSYLTRANSFERASE -RELATED; Exostosin GT47 domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: probable arabinosyltransferase ARAD1%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu02H
+  Gene Products: probable arabinosyltransferase ARAD1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: probable arabinosyltransferase ARAD1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: probable arabinosyltransferase ARAD1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: probable arabinosyltransferase ARAD1
+  Gene Descriptions: probable arabinosyltransferase ARAD1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: probable arabinosyltransferase ARAD1
+  Gene Descriptions: probable arabinosyltransferase ARAD1
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: probable arabinosyltransferase ARAD1
+  Gene Descriptions: probable arabinosyltransferase ARAD1
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: probable arabinosyltransferase ARAD1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: probable arabinosyltransferase ARAD1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: probable arabinosyltransferase ARAD1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: Exostosin family protein
+  Gene Synonyms: GRMZM2G149932
+  Gene Descriptions: Exostosin family protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 471 aa
+
+MPPPPISgEIwRAAMKRLALLAVPvLLLLSLSFLLLRPTSPPLLsSrQAtePDRRLRVYV
+ADLPRALNYGLLDLYWSLPAADSRIPASSDPDHPPPRdHPPYPaSPLIKQYSAEYWLLAS
+LrPAAtASAAVRVVADWREADVVFVPFFATLSAEMELGWGAKGAFRRKEGNeDYRRQREV
+VDRVTAHPAWRRSGGRDHVFVLTDPVAMWHVRAEIAPAILLVVDFGGWYKLDSKSASrNS
+SHMIQHTQVSLLKDVIVPYTHLLPTLhLSENKDRPTLLYFKGAKHRHRGGLVREKLWDLM
+vNEPDVVMEEGFPNATGREQSIKGMRTSEFCLHPAGDTPTSCRLFDAVASLCIPVIVSDE
+IELPFEGMIDYTEFSIFVSVSNAMRPKWLTNYLRNISKQQKDEFRRNLArVQPIFEYetS
+YsSSrgSAPeDGAVNHIWKKIHQKLPMIQEAVIREKRKPDGASIPLRCHCT
+
+
+BOP CONSENSUS:
+Length: 475 aa
+
+MPPPPISGEIRRAAMKRPALLAVPALLLLSLSFLLLRPSSPPLLPSArTTDPDHRRRLSV
+YVADLPRALNHGLLDLYWSLPAADARIPASSDPDHPPPRdHPPYPASPLIRQYSAEYWLL
+ASLLGPAAPASAAVRVVADWREADVVFVPFFATLSAEMELGWGATKGAFRRKEGNGDYRR
+QREVVDRVTAHPAWRRSGGRDHVFVLTDPMAMWHVRAEIAPAILLVVDFGGWYKLDSKSA
+GSNSSHMIQHTQVSLLKDVIVPYTHLLPTLHLSENMDRPTLLYFKGAKHRHRGGLVREKL
+WDLMVNEPDVVMEEGFPNATGREQSIKGMRTSEFCLHPAGDTPSSCRLFDAVASLCIPVI
+VSDDIELPFEGMIDYTEFSIFVSVGNAMRPKWLTNYLRNISKQQKDEFRRNLAgVQHIFE
+YENSHhSSkvSAPEDGAVNHIWKKIHQKLPMIQEAVTREKRKPEGASIPLRCHCT
+
+
+PACMAD CONSENSUS:
+Length: 456 aa
+
+MKRLpVLAVPILLLLLSLSFFLFRPTSPPvLSSrQAFEPDRRLRVYVADLPRALNYGLLD
+RYWSLPAADSRIPASSDPDHPAPHNHPPYPESPLIKQYSAEYWLLASLRAAATAAVRVVA
+DWREADVVFVPFFATLSAEMELGWGTKGAFRKKDGNEDYRRQREVVDRVTAHPAWRRSGG
+RDHIFVLTDPVAMWHVRAEIAPAILLVVDFGGWYKLDSKStSRNSSHMIQHTQVSLLKDV
+IVPYTHLLPTLLLSENKDRPTLLYFKGAKHRHRGGLVREKLWDLLGNEPDVVMEEGFPNA
+TGREQSIKGMRTSEFCLHPAGDTPTSCRLFDAIASLCIPVIVSDEVELPFEGMIDYTEFS
+IFVSVSNAMRPKWLTNYLRNISKQQKDEFRRNLARVQPIFEYDTSYSSSRGPtSIDGAVN
+YIWKKIHQKLPMIQEAIIREKRKPDGtSIPLRCHCT
+
+================================================================================

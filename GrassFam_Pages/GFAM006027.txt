@@ -1,0 +1,142 @@
+================================================================================
+GrassFam ID: GFAM006027
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             553.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24096:SF300
+Panther Family ID:               PTHR24096
+Modal Panther ID:                PTHR24096:SF300
+Modal Panther Description:       4-COUMARATE--COA LIGASE 3
+Modal Panther Family ID:         PTHR24096
+Modal Panther Fam Desc:          LONG-CHAIN-FATTY-ACID--COA LIGASE
+Interpro Signature Accession:    cd05904; G3DSA:3.30.300.30:FF:000007; G3DSA:3.40.50.12780:FF:000003; G3DSA:3.30.300.30; G3DSA:3.40.50.12780; PTHR24096; PF00501; SSF56801
+Interpro Signature Description:  4CL; 4-coumarate--CoA ligase 2; Long-chain-fatty-acid--CoA ligase FadD; -; LONG-CHAIN-FATTY-ACID--COA LIGASE; AMP-binding enzyme; Acetyl-CoA synthetase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: probable 4-coumarate--CoA ligase 3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: 4-coumarate--CoA ligase 3
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: 4-coumarate--CoA ligase 3
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: 4-coumarate--CoA ligase 3; 4-coumarate--CoA ligase 3-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: 4-coumarate--CoA ligase 3%2C transcript variant X1
+  Gene Descriptions: 4-coumarate--CoA ligase 3
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: probable 4-coumarate--CoA ligase 3
+  Gene Synonyms: 4CL-3,4CL3,Os4CL3,OsJ_005431
+  Gene Descriptions: probable 4-coumarate--CoA ligase 3
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: 4-coumarate--CoA ligase 3; 4-coumarate--CoA ligase 3-like
+  Gene Descriptions: 4-coumarate--CoA ligase 3; 4-coumarate--CoA ligase 3-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: probable 4-coumarate--CoA ligase 3
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: probable 4-coumarate--CoA ligase 3
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: probable 4-coumarate--CoA ligase 3
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: 4-coumarate--CoA ligase 1
+  Gene Synonyms: 4CL,GRMZM2G075333,pco063262
+  Gene Descriptions: 4-coumarate--CoA ligase 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 547 aa
+
+MGSVDEEsVAAAAEeeVVFRSKLPDIEINNSQtLQtYCFGKMAEVAsRPCLIDGQTGASY
+TYAEVESLSRRAAAGLRRMGVGKGDVVMNLLRNCPEFAFSFLGAARLGAATTTANPFYTP
+HEIHRQAEAAGAKLIVTEACAVEKVREFAAgRGiPVVTVDGRFDGCVEFaEVIAAEELEA
+DADIHPDDVVALPYSSGTTGLPKGVMLTHRSLITSVAQQVDGENPNLYFSKDDVLLCLLP
+LFHIYSLNSVLLAGLRAGSAIVIMRKFDLGALVDLVRAHGITIAPFVPPIVVEIAKSPRV
+TAdDLASIRMVMSGAAPMGKDLQDAFMAKIPNAVLGQGYGMTEAGPVLAMCLAFAKEPFK
+VKSGSCGTVVRNAELKIVDPDTGASLGRNQPGEICIRGEQIMKGYLNDPESTKNTIDKDG
+WLHTGDIGYVDDDDEIFIVDRLKEIIKYKGFQVPPAELEALLITHPEIKDAAVVSMKDDL
+AGEVPVAFIVRTEGSEITEDEIKQFVAKEVVFYKRIHKVFFTDSIPKNPSGKILRKDLRA
+RLAAGVH
+
+
+BOP CONSENSUS:
+Length: 549 aa
+
+MGSVPEESVVAAApEVVFRSRLPDIEIPNEQTLQSYCFAKMAEVGSRPCIIDGQTGASYT
+YAEVESLSRRAAAGLRRMGVGKGDVVMNLLRNCPEFAFSFLGAARLGAATTTANPFYTPH
+EIHRQADAAGAMLIVTEACAVEKVLEYAAGKGLPVVTVDGkRDGCVEFsELIAGEELPEA
+EEAGIHPDDVVALPYSSGTTGLPKGVMLTHRSLITSVAQQVDGENPNLYFSKEDVLLCLL
+PLFHIYSLNSVLLAGLRAGSAMVIMRKFDIGALVELVRAHGITIAPFVPPIVVEIAKSPR
+VTAGDLASIRMVMSGAAPMGKDLQDAFMAKIPNAVLGQGYGMTEAGPVLAMCLAFAKEPF
+KVKSGSCGTVVRNAELKIVDPDTGASLGRNQPGEICIRGEQIMKGYLNDPESTKNTIDKD
+GWLHTGDIGLVDDDDEIFIVDRLKEIIKYKGFQVAPAELEALLITHPEIKDAAVVSLKDD
+LAGEVPVAFVMRIEGSEITEDEIKKFVAKEVVFYKRIHKVFFTDSIPKNPSGKILRKDLR
+ARLAAGIPS
+
+
+PACMAD CONSENSUS:
+Length: 551 aa
+
+MGSVDESVAPVAEPAAEEKaVVFRSKLPDIEINNSQPLHTYCFGKMsEVADRPCLIDGQT
+GASYTYAEVESLSRRAASGLRRMGVGKGDVVMNLLRNCPEFAFtFLGAARLGAATTTANP
+FYTPHEIHRQAEAAGAKLIVTEACAVEKVREFAAERGIPVVTVDGRFDGCVEFAEVIAAE
+ELEADADIHPDDVVALPYSSGTTGLPKGVMLTHRSLITSVAQQVDGENPNLYFSKDDVLL
+CLLPLFHIYSLNSVLLAGLRAGSAIVIMRKFDLGALVDLVRKHGITIAPFVPPIVVEIAK
+SPRVTADDLASIRMVMSGAAPMGKELQDAFMAKIPNAVLGQGYGMTEAGPVLAMCLAFAK
+EPFQVKSGSCGTVVRNAELKIVDPDTGAALGRNQPGEICIRGEQIMKGYLNDPESTKNTI
+DKDGWLHTGDIGYVDDDDEIFIVDRLKEIIKYKGFQVPPAELEALLITHPEIKDAAVVSM
+KDDLAGEIPVAFIVRTEGSEVTEDEIKQFVAKEVVFYKKIHKVFFTDSIPKNPSGKILRK
+DLRARLAAGVH
+
+================================================================================

@@ -1,0 +1,118 @@
+================================================================================
+GrassFam ID: GFAM005340
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             341.0 aa
+Family Size (Extended Family Size): 78 (87) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR11783
+Modal Panther ID:                PTHR11783:SF344
+Modal Panther Description:       SULFOTRANSFERASE
+Modal Panther Family ID:         PTHR11783
+Modal Panther Fam Desc:          SULFOTRANSFERASE  SULT
+Interpro Signature Accession:    G3DSA:3.40.50.300; PTHR11783; PF00685; SSF52540
+Interpro Signature Description:  -; SULFOTRANSFERASE  SULT; Sulfotransferase domain; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: cytosolic sulfotransferase 5
+Lpe
+  Gene count: 4
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 4
+  Modal chromosome: Hvu02H
+  Gene Products: cytosolic sulfotransferase 8-like; flavonol 3-sulfotransferase-like
+Ata
+  Gene count: 6
+  Modal chromosome: Ata01D
+  Gene Products: cytosolic sulfotransferase 5; cytosolic sulfotransferase 8-like; flavonol 3-sulfotransferase-like
+Tae
+  Gene count: 19
+  Modal chromosome: Tae02A
+  Gene Products: cytosolic sulfotransferase 5-like; cytosolic sulfotransferase 8-like; flavonol 3-sulfotransferase-like
+Ola
+  Gene count: 7
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 11
+  Modal chromosome: Ogl07
+  Gene Products: cytosolic sulfotransferase 1-like; cytosolic sulfotransferase 12-like; cytosolic sulfotransferase 5-like; cytosolic sulfotransferase 8-like; flavonol 3-sulfotransferase-like
+  Gene Descriptions: cytosolic sulfotransferase 1-like; cytosolic sulfotransferase 12-like; cytosolic sulfotransferase 5-like; cytosolic sulfotransferase 8-like; flavonol 3-sulfotransferase-like
+Osa
+  Gene count: 8
+  Modal chromosome: Osa08
+  Gene Products: cytosolic sulfotransferase 1; cytosolic sulfotransferase 12; cytosolic sulfotransferase 3; cytosolic sulfotransferase 5; cytosolic sulfotransferase 8; flavonol 3-sulfotransferase
+  Gene Descriptions: cytosolic sulfotransferase 1; cytosolic sulfotransferase 12; cytosolic sulfotransferase 3; cytosolic sulfotransferase 5; cytosolic sulfotransferase 8; flavonol 3-sulfotransferase
+Ecu
+  Gene count: 5
+  Modal chromosome: Ecu01
+Svi
+  Gene count: 4
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: cytosolic sulfotransferase 5-like
+Pha
+  Gene count: 3
+  Modal chromosome: Pha02
+  Gene Products: cytosolic sulfotransferase 5-like; flavonol sulfotransferase-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi06
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: cytosolic sulfotransferase 8
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 339 aa
+
+MAApstScLVGPVPFKDVvgDdddipvsPPeEYAdiVSsLPtitapklkLRqYQGvWVle
+ewVPGvISmQRRFtPRPGDVLLASPPKCGTTWLKALaFATMARAAYPPasadHPLRRLNP
+HDCVPFmDrLFsAGqeAKLDALPSPRLMcTHMHHSLLPaSvAdnPDCKIVYICREPKDML
+VSmWHFlkraqpdlsFSDLFEsACEGKcpnGPiWDHILGYWRASKAsPeRVLFLRYEEML
+qDPVdsVRkLArFLGvPFSaAEEaAGlPADIVkLCSiEtLKgLeANKtGSqGvFfKFPHe
+SyFRKGVVGDWVNHMTPEMArRlDAIVEeKLrGSGLTFs
+
+
+BOP CONSENSUS:
+Length: 338 aa
+
+MAApstScLVGPVPFKDVvgddddpvsPPeEYAdIVSsLPtitasglkLRqYQGvWVlee
+wVPGvISmQRRFtPRPGDVLLASPPKCGTTWLKALaFATMARAAYPPasadHPLRRLNPH
+DCVPFmDrLFsAGqeAKLDALPSPRLMcTHMHHSLLPaSvAdnPdCKIVYICREPKDMLV
+SmWHFlkragpdfSFSDLFEsACEGKtpnGPiWDHILGYWRASKAsPeRVLFLRYEEMLq
+DPVdsVReLArFLGvPFSaAEEaAGlPADIVkLCSIEtLKgLeANKtGSsGvFfKFPHeS
+fFRKGVVGDWVNHMTPEMArRlDAIVEeKLrGSGLTFs
+
+
+PACMAD CONSENSUS:
+Length: 331 aa
+
+MAHTNQSPSAVGPVPFKDVVGDDVQEPRVKEYEAVVPGLPTNPKLRRRRYQGTWVRERWV
+PGVMAMQRSFVPRRGDVVLASPPKCGTTWLKALAFATMARRAYPPSRGDHPLVRLNPHGC
+VPSMERLFAVGWGSTVERLRSSWLMSVHVQYSLLPDSVTNNPDCKIVYVEPKDMLVSMWH
+FMTRTQPGLTFSDIFEGACGGVSVSGSVWDHVLGYWNASRTSPETVLFLRYEDMLRDPVV
+NVRKLARFVGQPFSAAEEEAGVVTDIVSLCSFDKQKNLDVNRTGSSIPVRNYIYFRKGMV
+GDWVNHMTQEMARRLDAIVEEKLRGSGLSFM
+
+================================================================================

@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM015329
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             431.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47469:SF2
+Panther Family ID:               PTHR47469
+Modal Panther ID:                PTHR47469:SF2
+Modal Panther Description:       OS06G0597600 PROTEIN
+Modal Panther Family ID:         PTHR47469
+Modal Panther Fam Desc:          MONOOXYGENASE-LIKE
+Interpro Signature Accession:    G3DSA:3.30.9.60; PTHR47469; SSF54373; SSF51905
+Interpro Signature Description:  -; MONOOXYGENASE-LIKE; FAD-linked reductases, C-terminal domain; FAD/NAD(P)-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: aurachin C monooxygenase/isomerase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: aurachin C monooxygenase/isomerase
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: aurachin C monooxygenase/isomerase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: aurachin C monooxygenase/isomerase-like; aurachin C monooxygenase/isomerase-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: uncharacterized LOC127777653
+  Gene Descriptions: uncharacterized LOC127777653
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: uncharacterized protein%2C transcript variant X2
+  Gene Descriptions: uncharacterized LOC4341436
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau10
+  Gene Products: uncharacterized LOC133883630
+  Gene Descriptions: uncharacterized LOC133883630
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: aurachin C monooxygenase/isomerase-like; aurachin C monooxygenase/isomerase-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: aurachin C monooxygenase/isomerase
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: 6-hydroxynicotinate 3-monooxygenase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: uncharacterized LOC100285158
+  Gene Synonyms: GRMZM2G004128
+  Gene Descriptions: uncharacterized LOC100285158
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 425 aa
+
+MGKRVAVVVGGSVAGLACAHAVAGAGWkAVVLEKAAAPAAGGGTGAGLGLDAQSMETLAR
+WIPGWGLDAATLPLAVDLNRATDSETKAARTLtRDEGFNFRAAHWGDLHRRLHEALPAAV
+TVLWGHQFLSFEapDDddGGVVATARVLRTGETVEVAGDLLVAADGCTSSIRRRFLPDLK
+LRYSGYCAWRGVFDFTGKESSDTMTGIRRAYPELGNCLYFDLAYKTHAVLYELPgnRLNW
+LWYINGPEPELTGSSVTMKVsDAMVARMRDEAERVWCPELARLIRETAePFVNVIYDADP
+LPRLSWAGGRVALVGDAAHPTTPHGLRSTNMSVhDARVLGeCLARWGsEPtPaRALAEYE
+AARLPVVAAQVLHARRLGRLKQGLPVDGEAEGFDvRTATAEEALQLRQRtMPYFGGAPTA
+dDGSL
+
+
+BOP CONSENSUS:
+Length: 429 aa
+
+MMGkRVAVVVGGSVAGLACAHAVAGAGWKAVVLEKAAGPAAGGGTGAGLGLDAQSMETLA
+RWIPGWGLDAATLPLAVDLNRATDSETKAARTLTRDEGFNFRAAHWGELHRRLHEALPAA
+VTVLWGHQFLSFEVSDtDGDGGKGVVATARVLGTGETVEVAGDLLVAADGCTSSIRRRFL
+PDLKLRYSGYCAWRGVFDFTGKESSDIITGIRRAYPELGSCLYFDLAEKTHAVLYELPGN
+RLNWLWYINGPEPELTGSSVTMKVSDATLAGMQEEAERVWSPELARLIRETAEPFVNVIY
+DADPLPRLSWAGGSVALVGDAAHPTTPHGLRSTNMSVHDARVLGECLGRWGeTPPPRALA
+EYEAARLPVVAAQVLHARRLGRLKQGLPVEDGDtGGFDARAATAEEALQLRQRGMPYFGG
+APTVDGGSL
+
+
+PACMAD CONSENSUS:
+Length: 424 aa
+
+MGKRVAVVVGGSVAGLACAHAVAGAGWDVVVLEKAAAPAAGGGTGAGLGLDAQSMETLAR
+WIPGWGLDAATLPLAVDLNRATDSETKAARTLARDDgFNFRAAHWGDLHRRLHEALPPAV
+TVLWGHQFLSFEAPDDTGGVVATARVLRTGETVEVTGDLLVAADGSTSSIRRRFLPDLKL
+RYSGYCAWRGVFDFaGKESSDTMtGIRRAYPELGNCLYFDLAYKTHAVLYELPRSRLNWL
+WYINGPEPELTGSSVTMEATDAMVARMRDEAERVWCPELARLVRETAAPFVNVIYDADPL
+PRLSWAGGRVVLVGDAAHPTTPHGLRSTNMSVmDARaLGRCLARWgSEPTPARALAEYEA
+VRLPVVAAQVLHARRLGRlKQGLPVDGEAEGFDVRTATAEeALQLRQRTMPFFGGAPTAd
+DGsl
+
+================================================================================

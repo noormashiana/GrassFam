@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM020778
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             469.0 aa
+Family Size (Extended Family Size): 22 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11588:SF381
+Panther Family ID:               PTHR11588
+Modal Panther ID:                PTHR11588:SF381
+Modal Panther Description:       TUBULIN GAMMA CHAIN
+Modal Panther Family ID:         PTHR11588
+Modal Panther Fam Desc:          TUBULIN
+Interpro Signature Accession:    cd02188; G3DSA:1.10.287.600:FF:000004; G3DSA:3.40.50.1440:FF:000010; G3DSA:3.30.1330.20:FF:000003; G3DSA:1.10.287.600; G3DSA:3.30.1330.20; G3DSA:3.40.50.1440; PTHR11588; PR01164; PR01161; PF03953; PF00091; SM00865; SM00864; SSF55307; SSF52490
+Interpro Signature Description:  gamma_tubulin; Tubulin gamma chain; Helix hairpin bin; -; Tubulin/FtsZ, GTPase domain; TUBULIN; Gamma-tubulin signature; Tubulin signature; Tubulin C-terminal domain; Tubulin/FtsZ family, GTPase domain; Tubulin_C_4; Tubulin_4; Tubulin C-terminal domain-like; Tubulin nucleotide-binding domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: tubulin gamma-2 chain
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: tubulin gamma-2 chain
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: tubulin gamma-2 chain
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: tubulin gamma-2 chain; tubulin gamma-2 chain-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: tubulin gamma-2 chain
+  Gene Descriptions: tubulin gamma-2 chain
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: tubulin gamma-2 chain-like
+  Gene Synonyms: P0676G05.6,TUBC,TUBG2
+  Gene Descriptions: tubulin gamma-2 chain-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu06
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: tubulin gamma-2 chain%2C transcript variant X1; tubulin gamma-2 chain-like
+  Gene Descriptions: tubulin gamma-2 chain; tubulin gamma-2 chain-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: tubulin gamma-2 chain; tubulin gamma-2 chain%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: tubulin gamma-2 chain%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: tubulin gamma-2 chain
+Zma
+  Gene count: 2
+  Modal chromosome: Zma06
+  Gene Products: gamma-tubulin 1%2C transcript variant X1; gamma-tubulin%2C transcript variant X1
+  Gene Synonyms: GRMZM2G073888,TUBC,TUBG,tubg1,TUBG3; GRMZM2G085970,TUBG2
+  Gene Descriptions: gamma-tubulin; gamma-tubulin 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 469 aa
+
+MPREIITIQVGQCGNQIGMEFWKQLCLEHGIGKDGLLEDFATQGGDRKDVFFYQADDQHY
+IPRALLiDLEPRVINGIQNSEYRNLYNHENIFVAEHGGGAGNNWASGYHQGEQVVDDIMD
+MVDREADGSDSLEGFVLCHSIAGGTGSGMGSYLLETLNDRYSKKLVQTYSVFPNQMETSD
+VVVQPYNSLLTLKRLTLNADCVVVLDNTALNRIAVERLHLSNPTFAQTNSLVSTVMSAST
+TTLRYPGYMNNDLVGLLASLIPTPRCHFLMTGYTPLTVERQVNMIRKTTVLDVMRRLLQT
+KNIMVSSYARTKEASQAKYISILNIIQGEVDPTQVHESLQRIRERKLVNFIDWAPASIQV
+ALSRKSPYVQTTHRVSGLMLANHTSIRHLFSKCLGQYEKLRKKQAFLDNYRKFPMFADND
+LSEFDESREIIESLVDEYKACESPDYIKWGMEDpGEANVAAALDSKLVV
+
+
+BOP CONSENSUS:
+Length: 469 aa
+
+MPREIITIQVGQCGNQIGMEFWKQLCLEHGIGKDGLLEDFATQGGDRKDVFFYQADDQHY
+IPRALLMDLEPRVINGIQNSEYKNLFNHENIYLSEHGGGAGNNWASGYHQGEQVVDDIMD
+MVDREADGSDSLEGFVLCHSIAGGTGSGMGSYVLETLNDRYSKKLVQTYSVFPNQMETSD
+VVVQPYNSLLTLKRLTLNADCVVVLDNTALNRIAVERLHLANPTFAQTNSLVSTVMSAST
+TTLRYPGYMNNDLAGLLASLIPTPRCHFLMTGYTPLTVERQVNMIRKTTVLDVMRRLLQT
+KNIMVSSYARTKEASQAKYISILNIIQGEVDPTQVHESLQRIRERKLVNFVEWGPASIQV
+ALSRKSPYVQTTHRVSGLMLANHTSIRHLFSKCLGQYEKLRKKQAFLDNYRKFPMFADND
+LSEFDESREIIEGLVDEYKACESPDYIKWGMEDLGDANVAAALeSKLVV
+
+
+PACMAD CONSENSUS:
+Length: 469 aa
+
+MPREIITIQVGQCGNQIGMEFWKQLCLEHGIGKDGLLEDFATQGGDRKDVFFYQADDQHF
+IPRSLLIDLEPRVINGIQNSEYRNLYNHENIFVAEHGGGAGNNWASGYHQGEQVVDDIMD
+MVDREADGSDSLEGFVLCHSIAGGTGSGMGSYLLETLNDRYSKKLVQTYSVFPNQMETSD
+VVVQPYNSLLTLKRLTLNADCVVVLDNTALNRIAVERLHLSNPTFAQTNSLVSTVMSAST
+TTLRYPGYMNNDLVGLLASLIPTPRCHFLMTGYTPLTVERQVNMIRKTTVLDVMRRLLQT
+KNIMVSSYARTKEASQAKYISILNIIQGEVDPTQVHESLQRIRERKLVNFIDWAPASIQV
+ALSRKSPYVQTTHRVSGLMLANHTSIRHLFSKCLGQYEKLRKKQAFLDNYRKFPMFADND
+LSEFDESREIIESLVDEYKACESPDYIKWGMEDPGEANVAAALDSKLVV
+
+================================================================================

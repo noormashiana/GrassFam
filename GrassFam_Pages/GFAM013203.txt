@@ -1,0 +1,117 @@
+================================================================================
+GrassFam ID: GFAM013203
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             496.0 aa
+Family Size (Extended Family Size): 13 (17) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR32141:SF169
+Panther Family ID:               PTHR32141
+Modal Panther ID:                PTHR32141:SF169
+Modal Panther Description:       OS01G0595900 PROTEIN
+Modal Panther Family ID:         PTHR32141
+Modal Panther Fam Desc:          FAMILY NOT NAMED
+Interpro Signature Accession:    PTHR32141; PF24758
+Interpro Signature Description:  -; FBD-associated F-box protein At5g56370, LRR repeats
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Tae
+  Gene count: 1
+  Modal chromosome: Tae03B
+  Gene Products: uncharacterized LOC123067515
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: F-box/FBD/LRR-repeat protein At5g53840-like%2C transcript variant X1
+  Gene Descriptions: F-box/FBD/LRR-repeat protein At5g53840-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: F-box/FBD/LRR-repeat protein At5g53840
+  Gene Descriptions: F-box/FBD/LRR-repeat protein At5g53840
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi05N
+  Gene Products: F-box/LRR-repeat protein At3g03030-like; F-box/LRR-repeat protein At3g26922-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: F-box/LRR-repeat protein At3g03030-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi06
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: F-box/FBD/LRR-repeat protein At5g22660
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: uncharacterized LOC100279285
+  Gene Descriptions: uncharacterized LOC100279285
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 495 aa
+
+MApEatvtvEeiMRVVLTCLPAPPFpTAGGSRPSpsghGGGGEDRISRLPDAVLSNIVSR
+LPAKDAARTAALSRRWRRVWASTPLVLDDSDLLalPDgGGrsarfDWfAVTDAVSRVlgs
+HRGPIRCVRLTCCsMALAARlGvLeYWLRrLAAGGVEDLVLVNRPmPtsLpLPpDVLRIA
+SLRTLYLAFWtFPDTAGLPRGPAVFPRLQEIGLCsvvIhARDIDHLLACSPVLEKLAIVA
+SfYvPsHVRIRSRSLQCLVFWmSLANELAVVVAPRLQRLILWQtfPCmPssvFRTRVRIG
+YATELKVLGYLEPsIHQLQIGGTVIESGTKMiPStMVPSVKILALKVRFGIRKEAKMLPT
+FLRCFPNVETLHVLSHEADEPtGKLNLKFWQEVGPIDCLETHITKVVFDrFRGERyELAF
+LKFVLERAQSLLKLVVVLANGDQASVDEMLaKLKSLTTAKRASECPTLLAVAREGDSAWC
+FQRASDLSVSDPFDW
+
+
+BOP CONSENSUS:
+Length: 513 aa
+
+MPTATERARHPRSSHGPRMARATDTMEGIMRVVLTCLPTPPFSTSRGSLSSSAGGGGGED
+RISRLPGALLSNIVSRLPARDAARTAVLSTRWRRVWASTPLVLDDVDLLDIPDEDLRRGH
+SHRVDWAAVASRVTRVLTSHRGPYRCVHLTCCYMATHWPMLSYWLSLLAANRVQDLVFVN
+RPYPLHVPLPVDVLRIPSLRSLYLGFWTFPGIPGLPRGPHVFPHLRELGLCFISTDAQDL
+DHLLQCSPVLETLALVSNYYSPAHVRVRSRTLRCVVFWMSLAQELAVVVAPRLERLILWQ
+TFPGFPGEIFCTRVKIGYATELRVLGYLEPSMHELEIGNTVIEAGTKMSSDKTVPSVKIL
+ALKVRFGIRNEAKLLPVFLRCFPNVETLHVMSDEAHDPTGKLNLKFWQEVGPIECLHSHV
+NKVVFHMFRGERSELAFLKFVLERAQALQKIVVVLANRDQAWVDEMRAKLRPLATAKRAS
+ENPTLLIVAREGGSAWSFHRASDLSVNDPFDYC
+
+
+PACMAD CONSENSUS:
+Length: 496 aa
+
+MAPlAvvkVEEvMRVVLTCLPAPPFPTAGGSRPSPSpHGGGGGEDRISRLPDAVLSNIVS
+RLPAKDAARTAALSRRWRRVWASAPLVLDDSDLLRALPGGGGAPFDWfGVTDAVSRVIGA
+HRGPIRCVRLTCCSMALAARLGVLeYWLRRLADGGAEDLVLVNRPMPssLHLPPDVLRIA
+SLRTLYLAFWsFPDTAGLPRGPAVFPRLQEIGLCSVgIHARDIDHLLACSPVLEKLAIVA
+SFYVPSHVRIRSRSLQCLVLWRSLTNELAVVVAPRLQRLILWQEyPCrPgSsVFRTRVRI
+GYATELKVLGYLEPGIHQLQIGGTVIESGTKMIPSTMVPSVKVLALKVRFGIRKEAKMLP
+TFLRCFPNVETLHVLSHEADEPAGKLNLKFWQEVGPIDCLETHITKVVFDRFRGERYELA
+FLKFVLERAQSLLKLVVVLANGDQASVDEMLtKLKSLTTAKRASECPTLLAVARDGDSAW
+CFQRASDLSVSDPFDW
+
+================================================================================

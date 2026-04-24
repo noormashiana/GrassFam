@@ -1,0 +1,114 @@
+================================================================================
+GrassFam ID: GFAM000710
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             411.0 aa
+Family Size (Extended Family Size): 49 (76) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47993:SF310
+Panther Family ID:               PTHR47993
+Modal Panther ID:                PTHR47993:SF310
+Modal Panther Description:       F-BOX DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR47993
+Modal Panther Fam Desc:          OS09G0372900 PROTEIN-RELATED
+Interpro Signature Accession:    PTHR31672
+Interpro Signature Description:  BNACNNG10540D PROTEIN
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: putative F-box protein At5g15660; uncharacterized LOC104585559
+Lpe
+  Gene count: 8
+  Modal chromosome: Lpe03
+Ata
+  Gene count: 4
+  Modal chromosome: Ata02D
+  Gene Products: F-box/kelch-repeat protein At3g06240-like; putative F-box protein At3g52320; putative F-box/kelch-repeat protein At1g12870; uncharacterized LOC109756784
+Tae
+  Gene count: 8
+  Modal chromosome: Tae02A
+  Gene Products: F-box protein At3g07870-like; F-box protein At5g62510-like; F-box/kelch-repeat protein At3g06240-like; putative F-box protein At1g47790; putative F-box protein At2g02030; putative F-box protein At3g52320
+Ogl
+  Gene count: 4
+  Modal chromosome: Ogl10
+  Gene Products: F-box only protein 8-like; F-box protein At3g07870-like%2C transcript variant X1; F-box protein At5g62510-like; putative F-box protein At2g02030
+  Gene Descriptions: F-box only protein 8-like; F-box protein At3g07870-like; F-box protein At5g62510-like; putative F-box protein At2g02030
+Osa
+  Gene count: 5
+  Modal chromosome: Osa01
+  Gene Products: F-box only protein 8%2C transcript variant X1; F-box/LRR-repeat/kelch-repeat protein At1g09650; putative F-box protein At2g02030; putative F-box protein At2g02030%2C transcript variant X3; putative F-box protein At3g10240%2C transcript variant X1
+  Gene Descriptions: F-box only protein 8; F-box/LRR-repeat/kelch-repeat protein At1g09650; putative F-box protein At2g02030; putative F-box protein At3g10240
+Ecu
+  Gene count: 6
+  Modal chromosome: EcuUN25
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi01K
+  Gene Products: F-box/kelch-repeat protein At3g06240-like; putative F-box protein At1g47790; putative F-box protein At3g10240
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: putative F-box protein At2g02030
+Msi
+  Gene count: 3
+  Modal chromosome: Msi08
+Sbi
+  Gene count: 4
+  Modal chromosome: Sbi04
+  Gene Products: putative F-box protein At2g02030; putative F-box protein At2g02030%2C transcript variant X1; putative F-box protein At4g38870
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 408 aa
+
+MpeLGaRtRKRKtSTPpAPvPELsDEIVvEILVRLPVKSLLRfraVCKAWRAIISDPvFI
+RAHLRcSASRwEQePSFlItPHTldrVIPgEgWPTtFSNhIRFYQWQQGAstArfMHAKD
+FggkFrrvryFAHCDGLVLAPTDTkLYLFNPATRDAITLPdShRnNLRhGgrtChCAGLG
+LDPRTGKYKVVQAFYRSmDPdtntvpMGMEVFTVGGgGgggaWREIasDPPYPvkRWQTa
+VtVkGFmFWRiDrrrypqpsPRGLLRLSLaDEeFgvTgLPdSLDPALDDsFlLDvLHGEL
+CLTARTsDvTVTIWTMpVdDdggssrWElRYsIpvsdLCHPMALLPGGggILLWsgfsLY
+RYDLATSKLttvCeMDRmRYQGRRaRKWKNLfsFNvrPYTESLVRITa
+
+
+BOP CONSENSUS:
+Length: 365 aa
+
+MEEMVTEILVRLPVKSLLRFKSVCRGWRAIISEPvFIRTQLQCSASRWQQEPSILISPHs
+rPvpSTrISFYQWQRGATSvARFMDAKDFPVgqqFLItHyTHCDGLVLAPTtTsLYLFNP
+ATRDAITLPDGHGsNHtAGLGLDPrTGrYKVVRAFYRSQSMDPPvsMGMEVFTVGEpGAG
+AGWRETAvDPPYPvTRWrTAvSVNGGYLFWYMDRRYPKDlPRGLLRFSLrDEeFgvTRLP
+ESLDTLnsFVLPDVLHGeLCVvqAntsktmLnIWTLsvsDnslvtLWEwRYCIcypsLCH
+PmgLLPDGgGILLWANRSVHRYDFSARKLAVVCNLDRIRYQGRPARWKsvFTLMPYTESL
+VRITa
+
+
+PACMAD CONSENSUS:
+Length: 410 aa
+
+MpeitLAtGdtRKRKtSTPpAPvPELSDEIVvEILVRLPVKSLLRCRAVCKAWRAIISDP
+lFiRAHLRwSASRwEQdPSFlITPHTLDrVIPgEgWPTTFSNhIRFYQWQQGaqtAtlMH
+aKDFggeFnRVRyFAHCDGLVLAPTDTkLYLFNPATRDAiTLPnShRNNLRhGgrtChCA
+GLGLDPRTGKYKVVQAFYRsvDpttniytMGMEVFTVgGgddGAWREImeDPPYPVlRWQ
+TgVtVKGFmFWRiDkaQyeQspPRGLLRLSLADEtFgVTgLPDSLDPAldDsFtLDaLHG
+ELCLTARTSDvTVTIWtMpVqDDgGysrWErRYsIplSdLCrPMALLPGGgrILLWsgfi
+LYrYDLATSKLtTvCEMDRMRYQGRRARKWKNLfsFNVrPYTESLVRITa
+
+================================================================================

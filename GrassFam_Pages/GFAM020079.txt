@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM020079
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             495.0 aa
+Family Size (Extended Family Size): 19 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12802:SF44
+Panther Family ID:               PTHR12802
+Modal Panther ID:                PTHR12802:SF44
+Modal Panther Description:       SWI_SNF COMPLEX SUBUNIT SWI3B
+Modal Panther Family ID:         PTHR12802
+Modal Panther Fam Desc:          SWI/SNF COMPLEX-RELATED
+Interpro Signature Accession:    G3DSA:1.10.10.10:FF:000020; G3DSA:1.10.10.10; PTHR12802; SSF46689
+Interpro Signature Description:  SWI/SNF complex subunit SMARCC2 isoform c; -; SWI/SNF COMPLEX-RELATED; Homeodomain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: SWI/SNF complex subunit SWI3B%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: SWI/SNF complex subunit SWI3B
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: SWI/SNF complex subunit SWI3B%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: SWI/SNF complex subunit SWI3B-like; SWI/SNF complex subunit SWI3B-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: SWI/SNF complex subunit SWI3B
+  Gene Descriptions: SWI/SNF complex subunit SWI3B
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: SWI/SNF complex subunit SWI3B
+  Gene Descriptions: SWI/SNF complex subunit SWI3B
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: SWI/SNF complex subunit SWI3B-like; SWI/SNF complex subunit SWI3B-like%2C transcript variant X1
+  Gene Descriptions: SWI/SNF complex subunit SWI3B-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: SWI/SNF complex subunit SWI3B
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: SWI/SNF complex subunit SWI3B
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100273414
+  Gene Synonyms: ATSWI3B,chb102,GRMZM2G064328,MYBR88
+  Gene Descriptions: uncharacterized LOC100273414
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 493 aa
+
+MATPPAPAPAATANsaPTPPqPPpaAPPFSQPPSTAGtVKtEAPPaPtStAaAAgVAAAA
+AgAEDPSYIITVPSYSAWFSYDSIHDTERRLLPEFFEGEAAAASGsRGPeAYKYYRDTLV
+RRFRARPGRRLTLTEARRGLVGDVGSVRRVFDFLEEWGLINYGAlPSGSKQGKDKREEAA
+TsQSSLPAGATtPRKLCTGCRTVCGLAYFaCEKADISLCaRCFVRnNYRPGLTPADFKRV
+EITEDAKSDWTDKETLHLLEAVLHYGEDWKKVSEHVGSRSEKDCIARFIRLPFGEQFMGP
+KEDKMqFENDDDvTDESGAeISKRLRLTPLADASNPIMAQVAFLSAIVGSDVAsAAAQAA
+ISAQSQVDlNDSEIDSSINSTKEEESSyTNGLSANDLLKEASANARVQLEKERKdIEQSL
+SDIVDVQMKEIQDKICRFEQKELLMEKERQQLHCLReLLFaDQLAVvQHQRRPpAVatEs
+KeDEKPKPVInmS
+
+
+BOP CONSENSUS:
+Length: 493 aa
+
+MATPPAPVPPATANSAPTPtQSPFKAPPFSQPPSTAGTLKTEIPPASTSAAtAAGVAAVG
+AAAEDSSHVITVPSYSGWFSYDSISDTERRLLPEFFEGEVAAVSGSRGPEAYKYYRNTLV
+KRFRARPARRLTLTEARRGLIGDVGSVRRVFDFLEEWGLINYGASPLGAKQGRDKREEAt
+TSQSSLPAGPTTPKKLCVGCRSVCGSAYFTCEKADISICCRCYVRGNYRPGLTPADFKKV
+EISEDAKSDWTDKETLHLLEAVLHYGEDWKKVSEHVGSRSEKDCIARLIRLPFGEQFMGS
+KEQKMQFEIDDDVnNESRAEISKRLRLTPLADASNPIMAQVAFLSAIVGSGVAAAAAQAA
+ISAQSQVDMNDSQTDSSISSTKEEESSYTNGLSANDLLKEASANAQVQLQKEQKDIEQSL
+SDIVDVQMKEIQDKISRFEQKELLMEKEREQLHHLRELLFvDQLAVVQHQRRPHAVAAEN
+KEEEKPKPVITmS
+
+
+PACMAD CONSENSUS:
+Length: 496 aa
+
+MATTTTTTATVTAPAATANFVPTPTPPHPRPAAPPApRAPSTLGPVKSEAPPTPSSSTAT
+AAAAAGAEDPSYIITVPSYSAWFSFDSIHDTERRLLPEFFEGEAAAASGCRGPhAYKYYR
+DsLIRRFRARPGRRLTLTEARRGLVGDVGSVRRVFDFLEEWGLINYGALPSGSKQAKEKR
+EEAAPQSSLPSGATvPRKLCTGCRTVCGLAYFACDKADISLCARCFVnNNYRPGLTpANF
+KRVEITEDAKSDWTDKETLHLLEAVLHYGEDWKKVSEHVGSRSEKDCIARFIRLPFGEQF
+MGPKEDRMGFENDDDnTDEPGADVSKRLRLTPLADASNPIMAQVAFLSAIVGSDAASAAA
+QAAISAQSRVDLNDGEIDSSINSTrEEESSHTNGLSVNDLLKEAAANARAQLEKERNSIE
+QSLSDIVDVQMKEIQDKICRFEQKEMLMEKERQQLhCLRDLLFADQLAVMQHQRRpPAVv
+TESKgDEKPKPViNIS
+
+================================================================================

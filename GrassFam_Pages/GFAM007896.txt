@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM007896
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             442.0 aa
+Family Size (Extended Family Size): 21 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR15237:SF0
+Panther Family ID:               PTHR15237
+Modal Panther ID:                PTHR15237:SF0
+Modal Panther Description:       CELL CYCLE CHECKPOINT CONTROL PROTEIN
+Modal Panther Family ID:         PTHR15237
+Modal Panther Fam Desc:          DNA REPAIR PROTEIN RAD9
+Interpro Signature Accession:    G3DSA:3.70.10.10:FF:000012; G3DSA:3.70.10.10; PTHR15237; PIRSF009303; PF04139
+Interpro Signature Description:  cell cycle checkpoint control protein RAD9A; -; DNA REPAIR PROTEIN RAD9; RAD9; Rad9
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: cell cycle checkpoint control protein RAD9A
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: cell cycle checkpoint control protein RAD9B
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: cell cycle checkpoint control protein RAD9B
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: cell cycle checkpoint control protein RAD9B-like; cell cycle checkpoint control protein RAD9B-like%2C transcript variant X3
+Ola
+  Gene count: 2
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: uncharacterized LOC127766863%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127766863
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC4332812
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau03
+  Gene Products: uncharacterized LOC133912496%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133912496
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: cell cycle checkpoint control protein RAD9A-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: cell cycle checkpoint control protein RAD9B%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: cell cycle checkpoint control protein RAD9A
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: auxin response factor 75%2C transcript variant X1
+  Gene Synonyms: GRMZM2G133986
+  Gene Descriptions: auxin response factor 75
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 443 aa
+
+MELSMSGGALRTFsRCVTCLARVGSELVLQAHPAKLELHTLNSSRSAYASVSLARDFFDH
+FHLsAAAsAPSSTPLQCSVLLKSVLAVLRTPTAALDRLAASLPnPDAPKLQFTLHCLNGV
+KKTYWIsCSAESEVQTLALDRGRFPSRLAIRPRDLARLLSNFQSSLQELTVIATDPAAGL
+PdVGGDvGGKAVELRSYIDPTKDDYDTRLHTQLWIDPAEEFLEYVHAGDPVDVTFGVKEL
+KAFLTFCEGCEVDILLFFEKAGEPVLLVPRFGLDDGSSSDFDATLVLATMLVSQLnDGNV
+AQQPATSAQHAEEPRAAATPSPVPENVSNHTKIWSELSGsTPKSFEANREnhAQKERNAs
+aNVLNDTSvLPNVTNAPCKPPVADNANnIMQPvQMDHLEEPPEVVSDNPRSQHHPSNWVG
+ADEDDDDnEDEELFVQTTPHYMD
+
+
+BOP CONSENSUS:
+Length: 444 aa
+
+MELSMSGGALRTFSRCVTCLARIGSDLVFQAYPDKLELHTLNSSRSAFASVSLtRDFFDH
+FHLPAdADAAPSSTPLQCSVLLKSVLAVLRTPTsAiDRLNASLPNPDASKLEFVIHCLsG
+rKKThRISCSAESEVQTLALDRNrFPSRLAIRPRDLTRLLSNFQSSLQELTVIATEPAAG
+LPGVDDgtGGKAVELLSYIDPTKDDYDsRLHTQLWIDPAEEFLEYVHAGDPVDVTFGVKE
+LKAFLTFCEGCEVDILLFYQKAGEPVLLAPRFGlDDGSSSDFDATLVLATMLVSQLNDGS
+VPQQPPTSAHHAEEPRAAAAAPSPVPENVSNHTRIWSELSGvTPKSFEANAENRAQKERN
+GrANVLNDTSvLPnTNAPCKLPVTDNANyieQPVQMDHLEEPPEVVSDNPRSQHHPSNWV
+GADEDDDDEEDEELFVQTTPHYMD
+
+
+PACMAD CONSENSUS:
+Length: 442 aa
+
+MELSMSGsSLRTFGRCVTFLARVASELVLQAHPAKLELHTLNSSRSAYASVSLARDFFDq
+YhLDAAASAPSSTPLQCSVLLKSLLAVLRTPHAALDRLAVSLPEPDAPKLQFTLHCLNGV
+RKTYWIVCSAEPEVQSLALDRGRFPSRLaIRPRELARLLSNFQSSLQELTIIATDPAAGL
+PDAGGDVGGKAVELRSYNDPTKDDCDTRLHTQLWIDPAEEFVEYVHAGDPVDVTFGVKEL
+KAFLTFCEGCEVDILLFFEKTGEPVLLVPRFGLDDGSTSDFEATLVLATMTVSQLtDSND
+AQQPATSAQHnGEPRAAATPVPENVSNHTKIWSELSGSTPKSFEANREtHAPKkRNASTS
+MLNdTSMLPNVTNAPrKPPVADNANNIMQPLQMDHLEEHPEVISAIPRSQHHPSNWVGAD
+DNDDDNEEDEELLVQTTPHYMD
+
+================================================================================

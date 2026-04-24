@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM016777
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             499.0 aa
+Family Size (Extended Family Size): 19 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31339:SF44
+Panther Family ID:               PTHR31339
+Modal Panther ID:                PTHR31339:SF44
+Modal Panther Description:       PECTIN LYASE-LIKE SUPERFAMILY PROTEIN
+Modal Panther Family ID:         PTHR31339
+Modal Panther Fam Desc:          PECTIN LYASE-RELATED
+Interpro Signature Accession:    G3DSA:2.160.20.10; PTHR31339; PF00295; SSF51126
+Interpro Signature Description:  -; PECTIN LYASE-RELATED; Glycosyl hydrolases family 28; Pectin lyase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: probable polygalacturonase%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: probable polygalacturonase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: probable polygalacturonase; probable polygalacturonase%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: probable polygalacturonase
+  Gene Descriptions: probable polygalacturonase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: probable polygalacturonase
+  Gene Descriptions: probable polygalacturonase
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau05
+  Gene Products: probable polygalacturonase
+  Gene Descriptions: probable polygalacturonase
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: probable polygalacturonase; probable polygalacturonase%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: probable polygalacturonase
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: probable polygalacturonase%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100272705
+  Gene Synonyms: cl10531_1,GRMZM2G047414,GRMZM2G348602
+  Gene Descriptions: uncharacterized LOC100272705
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 501 aa
+
+MVETSGGRLHLHGQRRGAAAFvAANKTLLAAAWVVGFALVFLWQSASiSvGgGGgGsGGG
+FLRLRSAPpPPsRPAPRLRPtAYNLTDFGGVGDGRAVNTeAFERAVEAIAALAERGGGQL
+NVPPGRWLTAPFNLTSHMTLFLAEGAEILGITDEKYWPLMPALPSYGYGRERKGPRFGSL
+IHGQNLKDVVITGHNGSINGQGEVWWMKHRRRMLNNTRPPLVQLMWSKDIIVANITLRNS
+PFWHFHPYDCTNVTVSNVTILSPVSGAPNTDGIDPDSCQDVLIENCYISVGDDAIAVKSG
+WDQYGIAYGRPSSNILIRNVTARSLVSAGISIGSEMSGGVANVTVENVRIWESRRGVRIK
+TATGRGGYIRNISYRNITFDNVRAGIVIKVDYNEHADDGYDRNAFPDITsISFKeIHGwG
+VRVPVRAHGSDvIPIKDISFQDMSVGISYKKKHIFQCSYIEGRVIGSVFPKPCENLDVYD
+EQGQLVKRAvvLNSTEVDYDI
+
+
+BOP CONSENSUS:
+Length: 495 aa
+
+MVETSGGRWRLHLHGQRRSAAAFLAANKTLLAAVWVAGFTLVFLWQSASVFVGGGGGGPR
+sAPPPSRPAPRLRPmAYNLTDFGGVGDGRAVNTRAFERAVETIAALADRGGAQLNVPPGR
+WLTGPFNLTSHMTLFLAEGAEILGITDEKyWPLMPALPSYGYGRERKGPRFGSLIHGQNL
+KDVVITGHNGSINGQGEVWWLKHRRRMLKNTRPPLVQLMWSKDIIVTNITLRNSPFWHFH
+PYDCTNVTVSNVTILAPISGAPNTDGIDPDSCQDVLIENCYISVGDDAIAIKSGWDQYGI
+AYGRPSSNILIRNVTVRSLVSAGISIGSEMSGGVANVTVENVRIWDSRRGVRIKTAIGRG
+GYIRNISYRNITFDNVRAGIVIKVDYNEHADDGYDRNAFPDITGISFKkIHGWGVRVPVR
+AHGSNyIPIKDITFQDMSVGISYKKKHIFQCSYIEGRVIGSVFPKPCENLDVYDEQGQLV
+KRAAvLNSTEVDYDI
+
+
+PACMAD CONSENSUS:
+Length: 500 aa
+
+MVETGGGRLHQRRGAAAFVAANKTLLAAAWVVGFALVFLWQSASISlGSGGAGgGSGGGF
+LRLLSAPLPPPRPAPRLRPTAYNLTDFGGVGDGRAVNTEAFERAVEAIAALAERGGGQLN
+VPPGRWLTAPFNLTSHMTLFLAEGAEILGIPDEKYWPLMPALPSYGYGRERKGPRFGSLI
+HGQNLKDVVITGHNGSINGQGEVWWMKHRRRMLNNTRPPLVQLMWSKDIIVANITLRNSP
+FWHLHPYDCTNVTVSNVTILSPVSGAPNTDGIDPDSCQDVLIENCYISVGDDAIAVKSGW
+DQYGIAYGRPSSNILIRNVTARSLVSAGISIGSEMSGGVANVTVENVRIWESRRGVRIKT
+ATGRGGYIRNISYRNITFDNVRAGIVIKVDYNEHADDGYDRTAFPDITSISFKGIHGRGV
+RVPVRAHGSDVIPIKDISFQDMSVGISYKKKHIFQCSYVEGRVIGSVFPKPCENLDVYNE
+QGQLVKRAVsLNSTELDYDI
+
+================================================================================

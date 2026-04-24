@@ -1,0 +1,121 @@
+================================================================================
+GrassFam ID: GFAM000845
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             371.5 aa
+Family Size (Extended Family Size): 64 (76) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31009:SF82
+Panther Family ID:               PTHR31009
+Modal Panther ID:                PTHR31009:SF82
+Modal Panther Description:       OS06G0244000 PROTEIN
+Modal Panther Family ID:         PTHR31009
+Modal Panther Fam Desc:          S-ADENOSYL-L-METHIONINE:CARBOXYL METHYLTRANSFERASE FAMILY PROTEIN
+Interpro Signature Accession:    G3DSA:3.40.50.150:FF:000530; G3DSA:3.40.50.150; G3DSA:1.10.1200.270; PTHR31009; PF03492; SSF53335
+Interpro Signature Description:  Os11g0256900 protein; Vaccinia Virus protein VP39; -; S-ADENOSYL-L-METHIONINE:CARBOXYL METHYLTRANSFERASE FAMILY PROTEIN; SAM dependent carboxyl methyltransferase; S-adenosyl-L-methionine-dependent methyltransferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: anthranilate O-methyltransferase 3
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu02H
+  Gene Products: anthranilate O-methyltransferase 1-like; anthranilate O-methyltransferase 2-like
+Ata
+  Gene count: 6
+  Modal chromosome: Ata07D
+  Gene Products: anthranilate O-methyltransferase 1; anthranilate O-methyltransferase 1%2C transcript variant X1; anthranilate O-methyltransferase 1-like; anthranilate O-methyltransferase 2-like
+Tae
+  Gene count: 11
+  Modal chromosome: Tae07D
+  Gene Products: anthranilate O-methyltransferase 1-like; anthranilate O-methyltransferase 2-like; anthranilate O-methyltransferase 3-like; anthranilate O-methyltransferase 3-like%2C transcript variant X1
+Ola
+  Gene count: 3
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 10
+  Modal chromosome: Ogl11
+  Gene Products: anthranilate O-methyltransferase 1-like; anthranilate O-methyltransferase 1-like%2C transcript variant X1; anthranilate O-methyltransferase 2-like; anthranilate O-methyltransferase 3-like; benzoate O-methyltransferase-like
+  Gene Descriptions: anthranilate O-methyltransferase 1-like; anthranilate O-methyltransferase 2-like; anthranilate O-methyltransferase 3-like; benzoate O-methyltransferase-like
+Osa
+  Gene count: 11
+  Modal chromosome: Osa11
+  Gene Products: anthranilate O-methyltransferase 1; anthranilate O-methyltransferase 2; anthranilate O-methyltransferase 3; benzoate O-methyltransferase-like
+  Gene Descriptions: anthranilate O-methyltransferase 1; anthranilate O-methyltransferase 2; anthranilate O-methyltransferase 3; benzoate O-methyltransferase-like
+Ecu
+  Gene count: 5
+  Modal chromosome: Ecu01
+Svi
+  Gene count: 2
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 5
+  Modal chromosome: Pvi04N
+  Gene Products: anthranilate O-methyltransferase 1-like; anthranilate O-methyltransferase 3-like; benzoate O-methyltransferase-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha04
+  Gene Products: anthranilate O-methyltransferase 1-like; anthranilate O-methyltransferase 3-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: anthranilate O-methyltransferase 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 371 aa
+
+MKMEhDFHMAKGEgETSYakNSRLQrKALlETKPVLeKAVrEVCmaLLpPTMtvVDLGCS
+SGeNTLiFVSnVIkAvsdHleKlrgnPvELQFFLNDLPGNDFNhVFqSLerFKeSIaaeH
+KGEtlPPFYIAGLPGSYYTRLFPRqSVHLFHSSYCLHWRSRLPDGLEGKkrpYLNEGNIY
+IAkTTPPSVVKLYQEQFQKDMLLFLKLRyEELVaGGQMVLTFLGRKnEDVYnGdLNHLyG
+LLAQSlQSLVeEGLVEKEKLDSFNLPiYGPSvDEVKAVVkQSeLFDINHIKLFESNWDPY
+DDSEGddVhDSvQSGINVAKSLRAVMEPLFASHFGESVLDELFkKyAyNVAeHLerEKTK
+YSVIVLSLKRr
+
+
+BOP CONSENSUS:
+Length: 371 aa
+
+MKMEhDFHMAKGEgETSYaKNSRLQeKALlETKPVLeKAVrEVCMDLLHPTMTiVDLGCS
+SGeNTLfFVSNVIEAVshHleKlrgnPVELQFFLNDLPGNDFNrVFQSLQRFKeSIavdH
+KGEplPPFYIAGLPGSYYTRLFPRqSVHLFHSSYCLHWRSRLPDGLEGKkRpYLNEGNIY
+IAkTTPPSVVKLYQEQFQKDMLLFLKLRYEELVaGGQMVLTFLGRKhEDVYnGdLNhLyG
+LLAQSvQSLVEEGLVEKEKLDSFNLPlYGPSmdEVKAVVkQSqLFdInHIKLFESNWDPY
+DDSEGNDVHDSvQSGINVAKSLRAVMEPLFASHFGESVLDELFkKFAYNVAeHLerEKTK
+YSVItLSLKRk
+
+
+PACMAD CONSENSUS:
+Length: 365 aa
+
+MKMdtDFHMAkGEgEtSYsNNSRLQRKALLETKPVLEKAVrEvCsAVLPptLVVADLGCS
+SGENTLIFVSEVInAMsDhqPLELQFFLNDLPGNDFNyIFRSLeQFKkSIaAeHKGGTtP
+PFYVAGLPGSYYTRLFPsQSVHLFHSSYCLHWRSrLPDGLDVNAKpYLNKGNIYItKTTP
+LSVVKLYQEQFqKDLlLFLKLRhEELVsGGQMVLTFLGRKNeDVYkGDLNHLyGLLAQSi
+QSLVhKGLVeEEKLDSFNLPiYGPSVDEVkAVVKQSELFDINhIkLFESNWDPYDDSeDD
+vVQDSIQSGvNVAKSIRAVMEPLFASHFGEsiLDELFrEYArNVAKHLEREKTKYSVIVL
+SLQrR
+
+================================================================================

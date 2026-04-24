@@ -1,0 +1,144 @@
+================================================================================
+GrassFam ID: GFAM011418
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             638.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR15744:SF0
+Panther Family ID:               PTHR15744
+Modal Panther ID:                PTHR15744:SF0
+Modal Panther Description:       KH HOMOLOGY DOMAIN-CONTAINING PROTEIN 4
+Modal Panther Family ID:         PTHR15744
+Modal Panther Fam Desc:          BLOM7
+Interpro Signature Accession:    cd22471; G3DSA:3.30.1370.10:FF:000037; PTHR15744; PF23469
+Interpro Signature Description:  KH-I_RIK_like_rpt1; KH domain protein; BLOM7; KH-domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: protein RIK%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: protein RIK%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: protein RIK%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: protein RIK-like%2C transcript variant X2; protein RIK-like%2C transcript variant X3
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: protein RIK
+  Gene Descriptions: protein RIK
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: protein RIK
+  Gene Descriptions: protein RIK
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau04
+  Gene Products: protein RIK
+  Gene Descriptions: protein RIK
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: protein RIK-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha09
+  Gene Products: protein RIK-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: protein RIK
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: ROUGH SHEATH2-interacting KH-domain protein
+  Gene Synonyms: GRMZM2G079823
+  Gene Descriptions: ROUGH SHEATH2-interacting KH-domain protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 653 aa
+
+MTEDRAhKVsDEPAAAgRQERKKRKWDQPAEDLVSAAAAAAAVAGLPVlNiGALPGVaLP
+GvTAYpAATLPsvVPVPYsLPPQLAPSVLQsAAAAvQKLSQAKlPDElIAREIVINDADP
+SVRYKLTKRQTQDEIQRCTsTVIITRGKYHPPNGQPDGEKPLYLHISAGSQLKDTAERIK
+AVDRAASMIEEILKQGtiPEsTSAPFSSSnGQAVHPFSASIFLGFDADPSLNIAARIRGP
+NDQYINHIMNETGVTVVLRGKDSGNLGnCHgEASQQPLHLYLSSMHLKSLEAAKVLAENL
+LDTIAAEFGASRISSSKVYGAVPPPQQLLtGVhTSGTrSDVHSTLGPNVLTGASHSFAST
+GVTAPiVAPSVTLQSGAPTYSGVPPPSNLiYPSQPANGGAFYSGYGDIYPQATPLQQVAL
+TLKHASSSTTQVVPVTSTSTSMvTKVNSSlDvEaDKRSQRRKFQELPVSKGPtTElQNSQ
+QGSKFVKTGLDdLGvmsSSSIAPPkKVQPGSNGMLPqDQaDMPSHLSiStNMPPPPPKNM
+LPPPsKnMPPPPPRSMPPPPPKFPSNEmSRNEsKtsaLKEPMAPPRDtsSVSPsQLPsKE
+PKEEKPKGAPVSDTLLKLMDYGDDDDDDDIDeTDSVPKGNPTPcSEQKPFWAV
+
+
+BOP CONSENSUS:
+Length: 621 aa
+
+MTEERISRASDEPTTATKQRKKRKWDQPAEDLVAAAAAAAAAAGLPVLNVGALSGVQFPG
+TTAYPAAPYALPPQLAPSVLQSAAAAIQKLSQAKlPDELIAREVVINDADPSVRYKLTKR
+QTQDEIQRCTCTVIITRGKYHPPNGQPDGEKPLYLHISAGSQLKDTAERIKAVDLAASMI
+EEILKQGQMPEATSANFPSIQSNRQAVPFSASIFLGFDADPSLNVAARIRGPNDQYINHI
+MNETGVTVVLRGKDSGNLGNCHAEASQQPLHMYLSSVHLKSLEAAKVLAENLLDTIAAEL
+GASRISSSKVYGAVPPPQQLLTGVHTSGTSDIcVSTGASHSFAPTGVTSPIAAPSVTLQS
+GAPTYSGIPPPSNLIYPSQAANgGAFYNGYGDIYPQATPLQQVALTLKHASSSTTQVVPV
+ASTSTSMtTsVNtStKLEADKRSQRRKFQELPTADLQNSQQgSKFVKTGLDDLGkMfSSS
+vappwKVQPGSNRMLPQDPqPSHPSVSTNMPPPPPKNMSPPPSKSMPPPPPKSMPPPPPK
+FPSNEvLRNEnRRSDLKEPMAPPRSLDVSSVSPPSKEPREEKPSGASVSDTLLKLMDYGD
+DDDDDDnSVvGGNPTPsSGQK
+
+
+PACMAD CONSENSUS:
+Length: 655 aa
+
+MTEDRAHKVTDEPAAAGRQRPERKKRKWDQPAEDLVSAAVtAAAVSGMPVMNiGALPGVA
+LPGVTAYGAATLPSVVPVPYSLPPHIAPSVLQNAAAAVQKLSQAKvPDEVIAREIVINDA
+DPSVRYKLTKRQTQEEIQRCTSTVIITRGKYHPPNGQPDGEKPLYLHISAGSQLKDTAER
+IKAVDRAASMIEEILKQGTISEStSVPFSSSsGQAVHPFSASIFLGFDADPSLNIAARIR
+GPNDQYINHIMKETGVTVVLRGKDSENLGSCHGEASQQPLHLYLTSMHLKSLEAAKVLAE
+NLLDTIAAEFGASRISSSKVYGAVPPPQQLLAGVDTSGARSDVHSTLGPNVLsGASHSFA
+STGVIAPvVAPAVTLQSGAPTYSGVPPPSNMTYPIPPVNGGTFYSGYGDIYPQATPLQQV
+AFTLKHASSSTTQvVPVTSTLTSTVTKeNStLDVEMDKRSRRKFQELPVSKGPaTESQNS
+QQGSKFVKTGLDSLGDISSSSIAPPKKVQPGSNGMLPPDQADMPSHLSISNNMPPPPPKS
+MLPPPSKNMPPPPPRSMPPPPPKFPSNEiLSRNESKTFASKELTAPPRDTRSVSPSQLPP
+KEPKEEKPKGTPVSDTLLKLMDYGDDDDDDDIDvTDSIPKGNPTPCSEQKPFWAV
+
+================================================================================

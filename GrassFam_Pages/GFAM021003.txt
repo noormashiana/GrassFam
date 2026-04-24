@@ -1,0 +1,128 @@
+================================================================================
+GrassFam ID: GFAM021003
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             698.5 aa
+Family Size (Extended Family Size): 16 (18) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46083:SF3
+Panther Family ID:               PTHR46083
+Modal Panther ID:                PTHR46083:SF3
+Modal Panther Description:       UDP-GLYCOSYLTRANSFERASE SUPERFAMILY PROTEIN
+Modal Panther Family ID:         PTHR46083
+Modal Panther Fam Desc:          FAMILY NOT NAMED
+Interpro Signature Accession:    G3DSA:3.40.50.2000; PTHR46083; PF08323; SSF53756
+Interpro Signature Description:  Glycogen Phosphorylase B;; -; Starch synthase catalytic domain; UDP-Glycosyltransferase/glycogen phosphorylase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: probable starch synthase 4%2C chloroplastic/amyloplastic%2C transcript variant X8
+  Gene Descriptions: probable starch synthase 4%2C chloroplastic/amyloplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: probable starch synthase 4%2C chloroplastic/amyloplastic%2C transcript variant X6
+  Gene Descriptions: probable starch synthase 4%2C chloroplastic/amyloplastic
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau06
+  Gene Products: uncharacterized LOC133920970%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133920970
+Svi
+  Gene count: 2
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: probable starch synthase 4%2C chloroplastic/amyloplastic%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: probable starch synthase 4%2C chloroplastic/amyloplastic%2C transcript variant X1
+Msi
+  Gene count: 1
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: probable starch synthase 4%2C chloroplastic/amyloplastic%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: starch synthase V
+  Gene Synonyms: GRMZM2G130043
+  Gene Descriptions: starch synthase V
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 698 aa
+
+METPRLVVGAALRAPPPtPQFRRRRLphPRGAAHcLPFARAtRPaLLTRCSYSRKGnGNs
+RGKPRRESSSTVRLDVEanSDQgTnLADeQRKGDIrELFSqAQRNILYLNKQRLVAMEEL
+KKLQDENKSLLQEIEVLETEvQGvPlEAAQSSSFCELLLRIDTMVISGMIsMTEASDLRK
+KVVdNRsiIqSaFSDIHHKPNTELLSELRLFLRKPIEKPLHVVHICSEMDPIASCGSLST
+YVAGLSCAvQrKGNLVEVILPKYTSINvDGIHGLRKAEAEYESYFGGiWHKNRIWTGTSS
+GVGLILIEPVQLSYFNRDMLrGYPDDFERFSYFSRASLDYIVKSGKQPDILHIHNWETAI
+VAPLFWDIFAHQGLgNTRILLTCQDLnSQCLEEPNKLELCGLDPHKLHRADRLQDPNKTH
+LVNILKGGIVYSNKVVLMSSTHSKDVLIQGLRHGLEATLTAHKEKILVASHGLDGELWDP
+SKDIYLPRRYSANDIEGKSiCREALKRRLGFhSGSSIIVGCICDGnSDIHNLKEAVHVAL
+rRSAQVIFMEnLGSVVNSTVRALKEElKGDsIaFVEvYDEALAHLIYAGSDIILCSSFqD
+PSLQIAMKAIKYGSVPVQINFPSDeSRqSEGHDCrNtaMSQYIISTYGDLSLSQALDdFK
+NDPShWDqRIKDGMAKGLSWDAECYDLHWEAYSsIRKL
+
+
+BOP CONSENSUS:
+Length: 700 aa
+
+MEAPGLVVGSALRAAVPPPPPPLRrSPRGAADRLLIFSREPRPRLAPLTRCYCSREGKGN
+ARSKPHREGSNSVRLNVKANNDQETYLADERHEGVDIWELFSEAQRNILHLNKQRLVAME
+ELKKLQDENKSLLQDIEVLETERQGFSIEIAESSRFSELLLRIDTMTISGMVGMTEASDL
+RKKVIDNRYMIHSVFSDIHHKQDTELLSELRLFLRKPAEKPLHVVHICSEMDPITSRGSL
+ATYVTGLSSALQRKGNLVEVILPKYAGINEDVIHgLRKAEADYESYYGGCWHKNRIWTGI
+SSGVSLTLIEPVQLSYFDRDMLRGYPDDFERFSYFSRASLDYIVKSGKQPDVLHVHNWET
+AIVGPLFWDIFAHQGLGNTRILLTCQDLTSQCLEVPNMLELCGLDPHKLHRPDRLQDNSE
+TNLVNVLKGGIVYSNKVLLMSSTLPRDMAIQGLGHGLEATLTTHKEKVLVASHGLDGELW
+DPSKDIYLPQRYSPNDIEGKSFCRKALKRrLGLHSGSSVVVGCICNGDSNTDGLREAVRV
+ALHGGAQVIFMENKGPVMNSTVQALKEELKGDsVMFVEIYDEALEHLIFAGSDIFLCSSF
+YDPSLQIAMRAIKYGSAPVQINFPSNGSRQTEWHDYPSTALSQYIISTYGDMSLSQALDG
+IKNNPSQWDWRIKDAMSKVLSWDAECYDLHWEAYSVIRKL
+
+
+PACMAD CONSENSUS:
+Length: 698 aa
+
+METPRLVVGAAlRAPPPTPQFRRRRLPhPRGGAHCLPFARAARPTLLTRCSYSRKGNGNS
+RGKPRRESSSTVRLDVEesSDQgTNLADvQRKGDIrELFSqAQRNILYLNKQRLvAMEEL
+KKLQDENKLLLQEIQVLETEvQGVPLEAAQSSSFCELLLRIDTMVISGMIsMtEASDLRE
+KVVdNRSIIQSAFSDIHHKPNTELLSELRLFLRKPIEKPLHVVHICSEMDPIASCGSLST
+YVAGLSCAvQgKGNLVEVILPKYTSINvDGIHGLRKAEAEYESYFGGiWHKNRIWTGTSS
+GVGLILIEPvQLSYFNRDMLrGYPDDFERFSYFSRASLDYIVKSGKQPDILHIHNWETAI
+VAPLFWDIFAHQGLENTRILLTCQDLDSQCLEEPNKLEMCGLDPhKLHRADRLQDPNKTH
+LVNILKGGIVYSNKVVLMSSTHSKDVLIQGLRHGLEATLTAHKEKILVASHGLDGELWDP
+SKDIYLPRRYSANDIEGKSICREALKRRLGFrSGSSIIVGCICDGNSDIHNLKEAVHVAL
+RRSAQVIFMEKLGSVVNSTvRALKEEllGDkIAFVEaYDEALAHLIYAGSDIILCSSFQD
+PSLQIAMKAIKYGSVPVQINFPSDESRlSEGHDCRNtvMSQYIISTYGDLSLsQALDDFK
+NDPSHWDqrIKDGMAKGLSWDAECYdLHWEAYSSIRKL
+
+================================================================================

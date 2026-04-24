@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM001116
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             423.0 aa
+Family Size (Extended Family Size): 22 (28) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR21022:SF41
+Panther Family ID:               PTHR21022
+Modal Panther ID:                PTHR21022:SF41
+Modal Panther Description:       AROGENATE DEHYDRATASE
+Modal Panther Family ID:         PTHR21022
+Modal Panther Fam Desc:          PREPHENATE DEHYDRATASE  P PROTEIN
+Interpro Signature Accession:    cd04905; cd13631; G3DSA:3.40.190.10:FF:000028; G3DSA:3.30.70.260:FF:000019; G3DSA:3.40.190.10:FF:000031; G3DSA:3.40.190.10; G3DSA:3.30.70.260; PTHR21022; PF00800; SSF53850
+Interpro Signature Description:  ACT_CM-PDT; PBP2_Ct-PDT_like; Arogenate dehydratase; -; PREPHENATE DEHYDRATASE  P PROTEIN; Prephenate dehydratase; Periplasmic binding protein-like II
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: arogenate dehydratase/prephenate dehydratase 6%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: arogenate dehydratase/prephenate dehydratase 6%2C chloroplastic-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: arogenate dehydratase/prephenate dehydratase 6%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: arogenate dehydratase 1-like; arogenate dehydratase/prephenate dehydratase 6%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola11
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl09
+  Gene Products: arogenate dehydratase 3-like; arogenate dehydratase 3-like%2C transcript variant X1
+  Gene Descriptions: arogenate dehydratase 3-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa09
+  Gene Products: arogenate dehydratase 3; arogenate dehydratase 3%2C transcript variant X2
+  Gene Descriptions: arogenate dehydratase 3
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: arogenate dehydratase/prephenate dehydratase 6%2C chloroplastic-like
+  Gene Descriptions: arogenate dehydratase/prephenate dehydratase 6%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: arogenate dehydratase 1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: arogenate dehydratase/prephenate dehydratase 6%2C chloroplastic-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: arogenate dehydratase/prephenate dehydratase 6%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: arogenate dehydratase/prephenate dehydratase 6%2C chloroplastic
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 427 aa
+
+MEAAAAIRPAvLDAFFAAPRHQlRPAGRSaRLqaQACraAaPFSRADWQTACAILaSNsd
+tSNsprQPAPRVNGQkPppaPAlaeaapaPaeLDLVPVSNLPRPLSISDLSPAPMHGSQL
+RVAYQGVPGAYSEAAAAKAYPGCDAIPCDQFEVAFQAVELWIADRAVLPVENSLGGSIHR
+NYDLLLRHRLHIVGEVQLPVHHCLLALPGVRRELLTRVISHPQALAQCELTLNAMGLNVA
+REAFDDTAGAAEHVAAgGLRDTAAIASARAAELYGLQVLADGIQDDAGNVTRFVMLAREP
+IIPRTDRPFKTSIVFAHDREGTSVLFKVLSAFAFRDISLTKIESRPHRHRPIRLVDDANV
+GTAKHFEYMFYIDFQASMADVRAQNALAEIQEFTSFLRVLGSYPMDMTPWDAAPSSsSrg
+DnSSsQq
+
+
+BOP CONSENSUS:
+Length: 420 aa
+
+MEAAAAIRsTAPAPRpRAGRRSrgsRpPCARATPfSRsDWQTACAILSSTNDTPAPPAPK
+VNGQNNssKLAAPALPGSAdaPsgLDLVPAASNLPRPLSISDLSPAPMHGSQLRVAYQGV
+PGAYSEAAAGKAYPGCEAIPCDQFEVAFQAVELWIADRAVLPVENSLGGSIHRNYDLLLR
+HRLHIVGEVQLPVHHCLLALPGVRRELLARVISHPQALAQCEHTLTRMGLNVAREAFDDT
+AGAAEHVAAhGLRDTAAIASARAAELYGLQVLADGIQDDAGNVTRFVMLAREPIIPRTDR
+PFKTSIVLAHDREGTSVLFKVLSAFAFRDISLTKIESRPHRHRPIRLVDDANVGTAKHFE
+YMFYIDFQASMADVRAQNALAEIQEFTSFLRVLGSYPMDMTPWDAAPSssSsSsSDQQQg
+
+
+PACMAD CONSENSUS:
+Length: 435 aa
+
+MEAAAVLDAFFAAPRHQLRPAAGCRSARLQAQpCRAAAPFARADWQTACAILASNStGGG
+GGHDaDsSSsnRQPAPRVNGQKPPPAPAPALEAtPtPAELDLVPVSNLPRPLSISDLSPA
+PMHGSQLRVAYQGVPGAYSEAAAAKAYPGCDAIPCDQFEVAFQAVELWIADRAVLPVENS
+LGGSIHRNYDLLLRHRLHIVGEVQLPVHHCLLALPGVRRELLTRVISHPQALAQCELTLN
+AMGLNVAREAFDDTAGAAEHVAAGGLRDTAAIASARAAELYGLQVLADGIQDDAGNVTRF
+VMLAREPIIPRTDRPFKTSIVFAHDtDGTSILFKVLSAFAFRDISLTKIESRPHRHRPIR
+LVDDANVGTAKHFEYMFYIDFQASMADVRAQNALAEIQEFTSFLRVLGSYPMDMTPWDAA
+PSSsSSRvDNSSSQy
+
+================================================================================

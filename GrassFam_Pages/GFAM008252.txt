@@ -1,0 +1,145 @@
+================================================================================
+GrassFam ID: GFAM008252
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             607.0 aa
+Family Size (Extended Family Size): 20 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12072:SF4
+Panther Family ID:               PTHR12072
+Modal Panther ID:                PTHR12072:SF4
+Modal Panther Description:       CWF19-LIKE PROTEIN 1
+Modal Panther Family ID:         PTHR12072
+Modal Panther Fam Desc:          CWF19, CELL CYCLE CONTROL PROTEIN
+Interpro Signature Accession:    cd07380; G3DSA:3.30.428.10:FF:000018; PTHR12072; PF04677
+Interpro Signature Description:  MPP_CWF19_N; Zinc finger CCCH domain-containing protein 59; CWF19, CELL CYCLE CONTROL PROTEIN; Protein similar to CwfJ C-terminus 1
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: zinc finger CCCH domain-containing protein 59%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: zinc finger CCCH domain-containing protein 59
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: zinc finger CCCH domain-containing protein 59
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: zinc finger CCCH domain-containing protein 59; zinc finger CCCH domain-containing protein 59-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: zinc finger CCCH domain-containing protein 59
+  Gene Descriptions: zinc finger CCCH domain-containing protein 59
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: zinc finger CCCH domain-containing protein 59-like%2C transcript variant X1
+  Gene Synonyms: OJ1001_G09.14,OsC3H59
+  Gene Descriptions: zinc finger CCCH domain-containing protein 59-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau17
+  Gene Products: zinc finger CCCH domain-containing protein 59
+  Gene Descriptions: zinc finger CCCH domain-containing protein 59
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: zinc finger CCCH domain-containing protein 59-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: zinc finger CCCH domain-containing protein 59
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: zinc finger CCCH domain-containing protein 59
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: uncharacterized LOC100383201
+  Gene Synonyms: gpm18,GRMZM2G306935
+  Gene Descriptions: uncharacterized LOC100383201
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 608 aa
+
+MAAtPPaPAPPRILLAGDAHGRLHQLFKRVKSVNQSTGPFHALLCVGQFFSPEGDGEGaP
+GDVADYLEGRAAVPIPTYFTGDYGPTAPRLLSKAAAgARGFAPGGIEICPNLFWLRGSNR
+FTLHGLSVVYLSGRKGPGGPGCYSQDDVDALRALAEEPGIVDLFLTNEWPAGVVNGADTS
+NVPNQVLDPHGYDPVVAELVAEIKPRYHIAGTKGVFYSREPYVNDSAAHVTRFIGLANVG
+NKEKQKFIHAISPTPASTMSSADIHARPPNATLSPYAAPAKSVPvEETPKRPAENTDlQY
+WRYDVKRQRQGEADGsRLCFKFTSSGSCPRGSKCNFRHDEEAREHYQRNVCFDFLNKGKC
+ERGPECRFAHSLSgEtAvRDARPRSERRRVESSCWFCLSSPDVESHLVISIGEGYYCALA
+KGPLVPNHVLMIPVEHCPSTLMMPVEAEAELGRYKNALGKYFEKQGKtAVYFEWVSQQSR
+HANLQAVPVPLSKADAVKKIFHLAAKRLGFEFSVVNPDGDANQGRELLRSQyDSKSGLFY
+VELPEGtILLHmIDSNEKFPAQFGREVLAGLLSMADRADWRNCKLSKEEEIqMVDDFKQG
+FREFDPAE
+
+
+BOP CONSENSUS:
+Length: 608 aa
+
+MAAAPSPAPPRILLAGDAHGRLHQLFKRVKSVNQSTGPFHALLCVGQFFPPEAAEGDSPP
+GDVADYLEGRAAVPIPTYFTGDYGPTAPRLLSKAAADARGFNPGGIEICPNLFWLRGSAL
+FNLHGLSVAYLSGRKGLGGPGCYSQDDVDALRALAEEPGIVDLFLTNEWPAGVVDGADTS
+KVPPQVLDPQGYDPVVAELVAEIKPRYHIAGTKGVFYAREPYVNDSSPHVTRFIGLANVG
+NKEKQKFIHAISPTPASTMSSADIHARPPNATLSPYAAPAKSVHVEDTPKRPAESTDLQY
+WRYDVKRQRQGQTDGSLLCFKYTSSGSCPRGSKCNFRHDEEAREHCQRNVCFDFLNKGKC
+ERGPECRFAHSLTEEAAvRDAKPRSERRRVESSCWFCLSSPDVESHLVISIGDGYYCALA
+KGPLVPDHVLVIPVEHFPTTIaMPVEPEAELRRYKDSLGKYFEKQGKAAVYFEWVSQQSR
+HANLQAVPVPLSKAaNVKKIFHLAAQRLGFEFSVVNPDGDANQGRELLRSQYDGKSGLFY
+VELPDGTLLLHIIDSGEKFPAQFGREVLAGLLSMADRADWRNCKLSKEEEVKMVDDFKQG
+FREFDPAE
+
+
+PACMAD CONSENSUS:
+Length: 608 aa
+
+MAATPPAPAPPRILLAGDAHGRLHQLFKRVKSVNQSTGPFHALLCVGQFFSPEGDAEGAP
+GDVADYLEGRAaVPIPTYFTGDYGPaAPRLLSKAAAGARGFAPGGIEICPNLFWLRGSNR
+FTLHGLSVVYLSGKKGPGGPGCYSQDDVDALRALAEEPGIVDLFLTNEWPTGVVNGADTS
+NVPNQVLDPHGYDPVVAELVAEIKPRYHIAGTKGVFYSREPYVNDSAAHVTRFIGLANVG
+NKEKQKFIHAISPTPASTMSSADIHAKPPNATLSPYvAPAKSVPIEEAPKRPAENTDAQY
+WRYDVKRQRQGEAEGGRLCFKFTSSGSCPRGSKCNFRHDEEAVEHYQRNVCFDFLNKGKC
+ERGPECKFvHSLSGETAlRDARPRSERRRVESSCWFCLSSPDVESHLVISIGEGYYCALA
+KGPLVPNHVLMIPVEHCPSTLMMPPEAEAELGRYKNALvKYFEKQGKTAVYFEWVSQrSR
+HANLQAVPVPLPKADAVNKIFHLAAKKLGFEFSVVNPDGGAKvARESLiSQCESKSSLFY
+VELPEGRILLHnIDSNEKFPAQFGREVLAGLLSMADRADWRNCKLSKEEEIQMVDDFKQG
+FREFDPAE
+
+================================================================================

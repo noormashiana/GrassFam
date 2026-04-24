@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM010721
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             497.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45947:SF16
+Panther Family ID:               PTHR45947
+Modal Panther ID:                PTHR45947:SF16
+Modal Panther Description:       GROUP 1 FAMILY GLYCOSYLTRANSFERASE
+Modal Panther Family ID:         PTHR45947
+Modal Panther Fam Desc:          SULFOQUINOVOSYL TRANSFERASE SQD2
+Interpro Signature Accession:    cd03814; G3DSA:3.40.50.2000:FF:000062; G3DSA:3.40.50.2000:FF:000044; G3DSA:3.40.50.2000; PTHR45947; PF00534; SSF53756
+Interpro Signature Description:  GT4-like; sulfoquinovosyl transferase SQD2; Sulfoquinovosyl transferase SQD2; Glycogen Phosphorylase B;; SULFOQUINOVOSYL TRANSFERASE SQD2; Glycosyl transferases group 1; UDP-Glycosyltransferase/glycogen phosphorylase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: sulfoquinovosyl transferase SQD2%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: LpeUN27
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: sulfoquinovosyl transferase SQD2-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: sulfoquinovosyl transferase SQD2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: sulfoquinovosyl transferase SQD2-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: sulfoquinovosyl transferase SQD2-like
+  Gene Descriptions: sulfoquinovosyl transferase SQD2-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: sulfoquinovosyl transferase SQD2
+  Gene Descriptions: sulfoquinovosyl transferase SQD2
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 1
+  Modal chromosome: Pau14
+  Gene Products: sulfoquinovosyl transferase SQD2-like%2C transcript variant X1
+  Gene Descriptions: sulfoquinovosyl transferase SQD2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi02K
+  Gene Products: sulfoquinovosyl transferase SQD2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: sulfoquinovosyl transferase SQD2-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: sulfoquinovosyl transferase SQD2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: uncharacterized LOC100192061%2C transcript variant X1
+  Gene Synonyms: GRMZM2G100652,pco094720a
+  Gene Descriptions: uncharacterized LOC100192061
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 499 aa
+
+MaAAsILAPkPPPPLPtrApsSspragPLhLSRRHPLRRLLPRPIPSaSstSTSASSSSS
+VLLPDPDLEPEPAseqeeaADSRPRRIALFVEPSPFAYVSGYKNRFQNFIKYLREMGDEV
+IVVTTHEGVPQEFHGAKLIGSWSFPCPWYQKVPLSLALSPRIIGEVARFKPDIIHASSPG
+IMVFGALIIAKLLCVPLVMSYHTHVPIYIPRYTFSWLVKPMWLIIKFLHRAADLTLVPSV
+AIGRDLQAARVTAANKIRLWNKGVDSESFHPRFRNqEMRSRLTNGEPEKPLIIYVGRLGV
+EKSLDFLKRVMDRLPGSRIAFIGDGPFRAELEEMFSGMPAVFTGTLQGEELSQAYASGDV
+FVMPSESETLGFVVLEAMSSGVPVVGARAGGIPDIIPEDQEGKTSFLYTPGDVDDCVGKI
+ERLLSCEELREtMGRAARKEMEKFDWRAATRKIRNEQYSAAIWFWRKKRAQLLRPlQWVl
+RRLFRPpaPgpApAitKQS
+
+
+BOP CONSENSUS:
+Length: 499 aa
+
+MARAAPILAVSKPSPLPLIAPSSRPRAGpsLHLHRRRLLPLSPSSSCSTSTSASSSSSSS
+PVLLRDDELDHQEEPPPASEADSRPRRIALFVEPSPFAYVSGYKNRFQNFIKYLREMGDE
+VIVITTHEGVPDEFHGAKLIGSWSFPCPWYQKVPLSLALSPRIIGEVARFKPDIIHASSP
+GIMVFGALIIAKLLCVPLVMSYHTHVPIYIPRYTFSWLVKPMWLVIKFLHRAADLTLVPS
+VAIGRDLQAARVTAANKIRLWNKGVDSESFHPRFRNQEMRSRLTNGEPDKPLIIYVGRLG
+VEKSLDFHKRVMDRLPGSRIAFIGDGPFRPELEEMFSGMPAVFTGTLQGEELSQAYASGD
+VFVMPSESETLGFVVLEAMSSGVPVVAARAGGIPDIIPEDQEGKTSFLYTPGDVDDCVGK
+VERLLSCEELRETMGKAARKEMEKFGWKAATRKIRNEQYSAAIWFWRKKRSQLLRPLQWV
+FRRLFRPAPAPAPAITNQS
+
+
+PACMAD CONSENSUS:
+Length: 496 aa
+
+MAAAVVVPKPPPSLPTRAFPSSSpSPSRLcLSPRHPLRRLLLRPIPCASSPSSSVLMPDP
+DLEPEPAHDrgEQdEAPESRPRRIALFVEPSPFAYVSGYKNRFQNFIKYLREMGDEVIVV
+TTHEGVPQEFHGAKLIGSWSFPCPWYQKVPLSLALSPRIIGEVARFKPDIIHASSPGIMV
+FGALIIAKLLCVPLVMSYHTHVPIYIPRYTFSWLVKPMWLIIKFLHRAADLTLVPSVAIG
+RDLQAARVTAANKIRLWNKGVDSESFHPRFRNKEMRSRLTNGEPEKPLIfYVGRLGVEKS
+LDFLKRVMDRLPGARIAFIGDGPFRAELEQMFSGMPAVFTGTLQGEELSQAYASGDVFVM
+PSESETLGFVVLEAMSSGVPVVGARAGGIPDIIPEDQEGKTSFLYTPGDVDDCVGKIERL
+LSSEELREAMGRAARKEMEKFDWRAATRKIRNEQYSAAIWFWRKKRAQLLRPlQWVLRRL
+LRPTtPGAADAVAKQS
+
+================================================================================

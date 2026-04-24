@@ -1,0 +1,126 @@
+================================================================================
+GrassFam ID: GFAM010798
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             356.0 aa
+Family Size (Extended Family Size): 19 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47858:SF2
+Panther Family ID:               PTHR47858
+Modal Panther ID:                PTHR47858:SF2
+Modal Panther Description:       HALOACID DEHALOGENASE-LIKE HYDROLASE (HAD) SUPERFAMILY PROTEIN
+Modal Panther Family ID:         PTHR47858
+Modal Panther Fam Desc:          HALOACID DEHALOGENASE-LIKE HYDROLASE (HAD) SUPERFAMILY PROTEIN
+Interpro Signature Accession:    cd07505; G3DSA:1.10.150.240; G3DSA:3.40.50.1000; PTHR47858; SSF56784
+Interpro Signature Description:  HAD_BPGM-like; Putative phosphatase; domain 2; -; HALOACID DEHALOGENASE-LIKE HYDROLASE (HAD) SUPERFAMILY PROTEIN; HAD-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase%2C chloroplastic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase%2C chloroplastic%2C transcript variant X1
+  Gene Descriptions: 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase%2C chloroplastic
+  Gene Descriptions: 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase%2C chloroplastic
+Pau
+  Gene count: 1
+  Modal chromosome: Pau11
+  Gene Products: 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase%2C chloroplastic
+  Gene Descriptions: 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase%2C chloroplastic
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase%2C chloroplastic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: uncharacterized LOC100192895
+  Gene Synonyms: GRMZM2G064001,TIDP2649
+  Gene Descriptions: uncharacterized LOC100192895
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 356 aa
+
+MESCSFRTATsPSPFPSAPSSSSSPRAPCPnLRFPRPRNGRQmRVRRRASGFDAFPPLPG
+KVFVEEAIGAEYGEGFETFRMDGPLKVDVDYLNEKLQECFLQRIRHAMKPDEAFGLIFSW
+DNVIADTDSLKLDAWRQLALEEGKDIPSAAHVrKSILHGAADHVLRKVLYWAKEEDQMEK
+LKARLIELYYENLFKLDTPVEGLREWLDAVQTAGIPCAVASSLDRRCMIEALDRMALSKY
+FKAIVTDEDDMESIAHRFLSAAMKLDRKPSKCVVFEDDPRGVTAAHNCTMMAVALIGAHP
+AYELVQADLAIAKYSELSVINLRRLFAHKGISFMDLQKQIIERSPPKRKLTVDTIF
+
+
+BOP CONSENSUS:
+Length: 356 aa
+
+MESCSFRTATSPSPFPSAPSSSSSPRAPCPSLRFARARNGRQMRMRRRASGFDAFPPLPG
+KVFVEETIGAEYGEGFETFRMDGPLNIDVDYLNEKLQECFLQRIRHAMKPDEAFGLIFSW
+DNVIADTDSLKLDAWRQLALEEGKDIPTAAHIQKSILHGAADHVLRKVLYWAKEDDQMER
+LKARLIELYYESLFKLDTPVEGLREWLDAVRTAGIPCAVASSLDRRCMVEALDRMALSKY
+FKAIVTDEDDMESIAHRFLSAAVKLDRKPSKCIVFEDDPRGVTAAHNCTMMAVSLIGAHP
+AYELEQADLAVARYSELSVINLRRMFAHKGLSFMDMQKQIIERSPPKRKLTVDTIF
+
+
+PACMAD CONSENSUS:
+Length: 357 aa
+
+MESCSFRpATAPSPFPSAPSSSSSSPRAPCPiLRFPRPRNGRQIGVRRRASGFDAFPPLP
+GKVFVDEAIGAEYGEGFETFRMDGPLKVDVDYLNEKLQECFLQRIRHAMKPDEAFGLIFS
+WDNVIADTDSLKLDAWRQLALEEGKDIPSAAHVRKSILHGAADHVLRKVLYWAKEEDKME
+KLKARLIELYYENLFKLDTPVEGLREWLDAVQTAGIPCAVASSLDRRCMIEALDRMALSK
+YFKAIVTDEDDMESIANRFLSAAMKLDRKPSKCVVFEDDPRGVTAAHNCTMMAVALIGAH
+PAYELVQADLAIAKYSELSVINLRRLFANKGISFMDLQKQIIEKSPPKRRLTVDTIF
+
+================================================================================

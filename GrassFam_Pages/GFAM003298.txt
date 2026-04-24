@@ -1,0 +1,126 @@
+================================================================================
+GrassFam ID: GFAM003298
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             347.5 aa
+Family Size (Extended Family Size): 26 (27) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46036:SF9
+Panther Family ID:               PTHR46036
+Modal Panther ID:                PTHR46036:SF9
+Modal Panther Description:       LACTOYLGLUTATHIONE LYASE
+Modal Panther Family ID:         PTHR46036
+Modal Panther Fam Desc:          LACTOYLGLUTATHIONE LYASE
+Interpro Signature Accession:    cd16358; G3DSA:3.10.180.10:FF:000004; G3DSA:3.10.180.10; TIGR00068; PTHR46036; PF00903; SSF54593
+Interpro Signature Description:  GlxI_Ni; Lactoylglutathione lyase; -; lactoylglutathione lyase; LACTOYLGLUTATHIONE LYASE; Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily; Glyoxalase/Bleomycin resistance protein/Dihydroxybiphenyl dioxygenase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: probable lactoylglutathione lyase%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: lactoylglutathione lyase GLX1-like
+Ata
+  Gene count: 3
+  Modal chromosome: Ata05D
+  Gene Products: lactoylglutathione lyase GLX1; probable lactoylglutathione lyase%2C chloroplastic
+Tae
+  Gene count: 6
+  Modal chromosome: Tae05A
+  Gene Products: lactoylglutathione lyase GLX1; lactoylglutathione lyase GLX1-like; probable lactoylglutathione lyase%2C chloroplastic; probable lactoylglutathione lyase%2C chloroplastic%2C transcript variant X1; probable lactoylglutathione lyase%2C chloroplastic%2C transcript variant X3
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: probable lactoylglutathione lyase%2C chloroplastic
+  Gene Descriptions: probable lactoylglutathione lyase%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: probable lactoylglutathione lyase%2C chloroplastic
+  Gene Descriptions: probable lactoylglutathione lyase%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau06
+  Gene Products: probable lactoylglutathione lyase%2C chloroplastic
+  Gene Descriptions: probable lactoylglutathione lyase%2C chloroplastic
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi01N
+  Gene Products: probable lactoylglutathione lyase%2C chloroplastic; probable lactoylglutathione lyase%2C chloroplastic%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: probable lactoylglutathione lyase%2C chloroplastic
+Msi
+  Gene count: 1
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: probable lactoylglutathione lyase%2C chloroplastic
+Zma
+  Gene count: 2
+  Modal chromosome: Zma05
+  Gene Products: lactoylglutathione lyase; probable lactoylglutathione lyase%2C chloroplastic
+  Gene Synonyms: GRMZM2G081268
+  Gene Descriptions: lactoylglutathione lyase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 344 aa
+
+MRALPMAAGRGAVACAAAPVPRRSLLLSTAAAGAALQSEPlRLtRnAssAAAKLRASADA
+AQAATFsStDEAFAWAKKDNRRLLHVVYRVGDIDKTIKFYTECLGMKLLRKRDIPEEKYT
+NAFLGYGPEDSHFVVELTYNYGVDKYDIGAGFGHFGIAVDDVAKTVELIRAKGGKVTREP
+GPVKGGKTVIAFVEDPDGYKFEILERPGTPEPLCQVMLRVGDLDRAISFYEKACGMELLR
+KRDNPEYKYTVAMMGYGPEDKNAVLELTYNYGVTEYDKGNAYAQIAIGTDDVYKTAEVVK
+LSGGQVVREPGPLPGIgTKITAILDPDGWKSVFVDNIDFAKELE
+
+
+BOP CONSENSUS:
+Length: 345 aa
+
+MRALPMAVSRGAVACATPAAAVPRRSMLLSTAAAGAALQSEPIRLssSPKLKLRASAGAA
+QAAATSFSSNDEAFAWAKKDNRRLLHVVYRVGDIDRTIKFYTECLGMKLLRKRDIPEEKY
+TNAFLGYGPEEtNFVVELTYNYGVDSYDIGAGFGHFGIATDDVAKTVELIRAKGGKVTRE
+PGPVKGGKTVIAFIEDPDGYKFEILERPGTPEPLCQVMLRVGDLDRAISFYEKACGMKLL
+RKRDNPEYKYTVAMMGYGPEDQNAVLELTYNYGVTEYDKGNAYAQIAIGTDDVYKTAEVV
+KLSGGQVVREAGPLPGIGTKITAILDPDGWKSVFVDNIDFAKELE
+
+
+PACMAD CONSENSUS:
+Length: 346 aa
+
+MRALPvTAGRGAVACAAAPVPRRSLLLSTAAAGAALNAEQLPLRLTRnAgGAAAKIRASA
+DAAQAATFtSTDEAlAWAKKDNRRLLHVVYRVGDLDKTIKFYTECLGMKLLRKRDIPEEK
+YTNAFLGYGPEDSHFVVELTYNYGVDKYDIGAGFGHFGIGVdDVAKTVELVRAKGGKVTR
+EPGPVKGGKTVIAFVEDPDGYKFEILERPGTPEPLCQVMLRVGDLDRAISFYEKACGMEL
+LRKRDNPEYKYTVAMMGYGPEEKNAVLELTYNYGVTEYAKGNAYAQIAIGTDDVYKTAEV
+VKLFGGQVVREPGPLPGISTKITSILDPDGWKSVFVDNIDFAKELE
+
+================================================================================

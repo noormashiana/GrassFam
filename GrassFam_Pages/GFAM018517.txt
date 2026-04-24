@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM018517
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             431.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47992:SF108
+Panther Family ID:               PTHR47992
+Modal Panther ID:                PTHR47992:SF108
+Modal Panther Description:       PROTEIN-SERINE_THREONINE PHOSPHATASE
+Modal Panther Family ID:         PTHR47992
+Modal Panther Fam Desc:          PROTEIN PHOSPHATASE
+Interpro Signature Accession:    cd00143; G3DSA:3.60.40.10:FF:000013; G3DSA:3.60.40.10; PTHR47992; PF00481; SM00332; SSF81606
+Interpro Signature Description:  PP2Cc; probable protein phosphatase 2C 5; -; PROTEIN PHOSPHATASE; Protein phosphatase 2C; PP2C_4; PP2C-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: probable protein phosphatase 2C 33
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: probable protein phosphatase 2C 33%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: probable protein phosphatase 2C 33
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: probable protein phosphatase 2C 33; probable protein phosphatase 2C 33%2C transcript variant X1; probable protein phosphatase 2C 33%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: probable protein phosphatase 2C 33
+  Gene Descriptions: probable protein phosphatase 2C 33
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: probable protein phosphatase 2C 33
+  Gene Synonyms: OsJ_10527,OsPP2C33
+  Gene Descriptions: probable protein phosphatase 2C 33
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: probable protein phosphatase 2C 33
+  Gene Descriptions: probable protein phosphatase 2C 33
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: probable protein phosphatase 2C 33
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: probable protein phosphatase 2C 33
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: probable protein phosphatase 2C 33
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: uncharacterized LOC100283184
+  Gene Synonyms: csu634,GRMZM2G006429
+  Gene Descriptions: uncharacterized LOC100283184
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 431 aa
+
+MEsAAnEGKLpPALPLATLIGRELRGDGSERPLVRYGHSGFAKRGEDYFLVKPDCLRVPG
+DPSSAFSVFAVFDGHNGVSAAVFSKEHLLEHVMSAVPQGISREDWLQALPRALVAGFVKT
+DIDFQRKGETSGTTATLVVVDGFTVTVASVGDSRCILDTQGGVVSLLTVDHRLEENAEER
+ERVTASGGEVSRLNLCGGQEVGPLRCWPGGLCLSRSIGDTDVGEFIVPIPHVKQVKLSNT
+GGRLIIASDGIWDALSSEtAAQACRGLPAELAAKLVVKQALKTSGLKDDTTCVVVDIIPS
+DHCSTPPPLSPKKNQNKLRSLLFGRRSHSSVGKLGnKSASFGSVEELFEEGSAMLEERLG
+RNFPSKANLPPFRCAICQVDQEPFEGLMTDNVGGCCSAPSTPWgGPYLCSDCRKKKDAME
+GKRSSRSTTCR
+
+
+BOP CONSENSUS:
+Length: 433 aa
+
+MESASNEEmLPPALPLATLIGRELRGGGSERPLVRYGHSGFAKRGEDYFLVKPDCLRVPG
+DPSSAFSVFAVFDGHNGVSAAVFSKEHLLDDVMSAVPQGISREDWLQVLPRALVAGFVKT
+DIDFQRKGEMSGTTATLVVIDGFTVTVASVGDSRCILDTQGGVVSLLTVDHRLEENVEER
+ERVTASGGEVSRLNLCGGQQVGPLRCWPGGLCLSRSIGDTDVGEFIVPIPHVKQVKLSNA
+GGRLIIASDGIWDAVSSEIAAQACRGLPAELAAKLVVKQALKTTGLKDDTTCVVVDIIPS
+DHCSTPPPSSPKQNQNKLRSLLFGRRSHSSVGKLGNKKKSASFGFVEELFEEGSAmLEER
+LGRNSLSKANLPPFRCAICQVDQVPFEDLiTDNGGGYCSAPSTPSsGPYLCSgCRKKKDA
+MEGKRSSRSTACT
+
+
+PACMAD CONSENSUS:
+Length: 430 aa
+
+MAGAAtEGKLSPALPLATLIGRELRGDGSERPlVRYGHSGFAKRGEDYFLVKPDCLRVPG
+DPSSAFSVFAVFDGHNGVSAAVFSKEKLLEHVMSAVPQGISREDWLQALPRALVAGFVKT
+DIDFQRKGETSGTTATLVVVDGFTVTVASVGDSRCILDTQGGEVSLLTVDHRLEENAEER
+ERVTASGGEVSRLNLCGGQEVGPLRCWPGGLCLSRSIGDTDVGEFIVPIPHVKQVKLPNT
+GGRLIIASDGIWDALSSETAAQACRGLPAELAAKLVVKQALKTSGLKDDTTCVVVDIIPS
+DHCSTPPALSPKKNQNKLKSLIFGRRSHSSVGKLSKSASLGSVEEIFEEGSAMLEERLGR
+NFPSKANLPPFRCAICQVDQEPFEGLMTDNVGGCCSAPSTPWGGPYLCSDCRKKKDAMEG
+KRSSRSTTCR
+
+================================================================================

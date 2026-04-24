@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM010241
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             353.0 aa
+Family Size (Extended Family Size): 40 (41) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45642:SF60
+Panther Family ID:               PTHR45642
+Modal Panther ID:                PTHR45642:SF60
+Modal Panther Description:       GDSL ESTERASE_LIPASE
+Modal Panther Family ID:         PTHR45642
+Modal Panther Fam Desc:          GDSL ESTERASE/LIPASE EXL3
+Interpro Signature Accession:    cd01837; G3DSA:3.40.50.1110:FF:000003; G3DSA:3.40.50.1110; PTHR45642; PF00657
+Interpro Signature Description:  SGNH_plant_lipase_like; GDSL esterase/lipase APG; SGNH hydrolase; GDSL ESTERASE/LIPASE EXL3; GDSL-like Lipase/Acylhydrolase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: GDSL esterase/lipase APG
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 8
+  Modal chromosome: Hvu07H
+  Gene Products: GDSL esterase/lipase APG; GDSL esterase/lipase APG-like; GDSL esterase/lipase APG-like%2C transcript variant X1; GDSL esterase/lipase At5g22810-like
+Ata
+  Gene count: 3
+  Modal chromosome: Ata07D
+  Gene Products: GDSL esterase/lipase APG; GDSL esterase/lipase APG%2C transcript variant X1; GDSL esterase/lipase APG-like
+Tae
+  Gene count: 11
+  Modal chromosome: Tae04A
+  Gene Products: GDSL esterase/lipase APG-like; GDSL esterase/lipase APG-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: GDSL esterase/lipase APG
+  Gene Descriptions: GDSL esterase/lipase APG
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: GDSL esterase/lipase APG
+  Gene Descriptions: GDSL esterase/lipase APG
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: GDSL esterase/lipase APG-like
+  Gene Descriptions: GDSL esterase/lipase APG-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: GDSL esterase/lipase APG-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: GDSL esterase/lipase APG
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: GDSL esterase/lipase APG
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: uncharacterized LOC100216840%2C transcript variant X1
+  Gene Synonyms: GRMZM2G158205
+  Gene Descriptions: uncharacterized LOC100216840
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 351 aa
+
+MevRCLLlLAvLLLvGtHGGEAQPLVPAVmTFGDSSVDVGNNDYLHTIIKANFPPYGRDF
+aNHVATGRFCNGKLATDITADTLGFTSYPPAYLSPQASGQNLLIGANFASAGSGYYDHTA
+LMYHAIPLSQQLEYFKEYQSKLAAVAGSSQAkSIItGSLYIISAGASDFVQNYYINPLLF
+KTQTADQFSDRLVgIFvNTVsQLYGMGARRIGVTSLPPLGCLPAAITLFGHGSnGCVSRL
+NSDSQSFNrKMNATVDSLSkRYpDLKIAVFDIYTPLYDLVTSPqsQGFTEARRGCCGTGT
+VETTVLLCNPKSVGTCPNATTYVFWDAVHPSEAANQVIADSLLTEGIiLVT
+
+
+BOP CONSENSUS:
+Length: 351 aa
+
+MEVRCLLLLAVLLLAGaHGGEAQPLVPGVFTFGDSSVDIGNNDYLHTLIKADFPPYGRDF
+PNRVATGRFCNGKLATDITADTLGFTSYPPAYLSPQASGKNLLIGANFASAGSGYYDHTA
+LMYHAIPFSQQLEYFREYQSKLAAVAGSSQAKSIISGSLYIVSFGASDFVQNYYINPLLF
+KTQTVDQFSDRLVSIFVNSATQLYGMGARRIAVTTLPPLGCLPAAITLFGHGSTGCVSRL
+NSDSQRFNGKMSAAVSSLSKRYHDLKIAVFDIYTPLYSLVTSPGSQGFTEAKRGCCGTGK
+VEFTVFLCNPKSVGTCSNATTYVFWDAVHPSEAANQVIADSLLVTGIDLVT
+
+
+PACMAD CONSENSUS:
+Length: 357 aa
+
+MmApqAvQaRsLLvAALLLVVGtrGGeAQPLVPAVMTFGDSSVDVGNNDYLHTIIKANFP
+PYGRDFANHVATGRFCNGKLATDITADTLGFTTYPAAYLSPQASGQNLLIGANFASAGSG
+YYDHTALMYHAIPLSQQLEYFKEYQSKLAAVAGAGQARSIITGALYIISAGASDFVQNYY
+INPFLFKTQTADQFSDRLVGIFSNTVSQLYGMGARRIGVTSLPPLGCLPASITLFGHGSN
+GCVSRLNRDSQSFNRKMNATVDALSRRYPDLKIAVFDIYTPLYDLATDPQAQGFTEARRG
+CCGTGTVETTVLLCNPKSVGTCPNATSYVFWDAVHPSEAANQVIADSLITEGLILVT
+
+================================================================================

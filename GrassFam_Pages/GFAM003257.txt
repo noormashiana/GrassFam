@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM003257
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             441.0 aa
+Family Size (Extended Family Size): 26 (27) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43539:SF88
+Panther Family ID:               PTHR43539
+Modal Panther ID:                PTHR43539:SF88
+Modal Panther Description:       INDOLE-3-PYRUVATE MONOOXYGENASE YUCCA4
+Modal Panther Family ID:         PTHR43539
+Modal Panther Fam Desc:          FLAVIN-BINDING MONOOXYGENASE-LIKE PROTEIN (AFU_ORTHOLOGUE AFUA_4G09220)
+Interpro Signature Accession:    G3DSA:3.50.50.60:FF:000100; G3DSA:3.50.50.60; PTHR43539; SSF51905
+Interpro Signature Description:  Flavin-containing monooxygenase; -; FLAVIN-BINDING MONOOXYGENASE-LIKE PROTEIN (AFU_ORTHOLOGUE AFUA_4G09220); FAD/NAD(P)-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: indole-3-pyruvate monooxygenase YUCCA2
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: indole-3-pyruvate monooxygenase YUCCA4-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: indole-3-pyruvate monooxygenase YUCCA4-like
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: indole-3-pyruvate monooxygenase YUCCA4-like; indole-3-pyruvate monooxygenase YUCCA4-like%2C transcript variant X1
+Ola
+  Gene count: 2
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: indole-3-pyruvate monooxygenase YUCCA4
+  Gene Descriptions: indole-3-pyruvate monooxygenase YUCCA4
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: indole-3-pyruvate monooxygenase YUCCA4-like
+  Gene Descriptions: indole-3-pyruvate monooxygenase YUCCA4-like
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: indole-3-pyruvate monooxygenase YUCCA4-like
+  Gene Descriptions: indole-3-pyruvate monooxygenase YUCCA4-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: indole-3-pyruvate monooxygenase YUCCA4-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: indole-3-pyruvate monooxygenase YUCCA2-like
+Msi
+  Gene count: 4
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi03
+  Gene Products: indole-3-pyruvate monooxygenase YUCCA2
+Zma
+  Gene count: 3
+  Modal chromosome: Zma03
+  Gene Products: indole-3-pyruvate monooxygenase YUCCA4%2C transcript variant X1; uncharacterized LOC100282977; uncharacterized LOC100283420
+  Gene Synonyms: GRMZM2G025748,Yucca12; GRMZM2G328780,Yucca10
+  Gene Descriptions: uncharacterized LOC100282977; uncharacterized LOC100283420
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 436 aa
+
+MDrFAETEGKRAHDPLYSPRrAARATATGFPVGehGEVlaGPVIVGAGPAGLAVAAlLTm
+rGVPYvLLERhgCIASLWRHRTYRRLCLHLPKRFCELPLMPFPpSYPTYPTREQFLaYLE
+eYaRtFGIRPFFRQAVVSAEfDGEFWCVRTKEVitAaIdGEEAVLsgtTtEYRSKWLVVA
+TGENAEPVVPEIDGIgrFKGQVMHSSDYRSGEGYqGKKVLVVGCGNSGMEVSLDLSNHNV
+HTSMVVRDTVHVLPREIMGlSTFGLSLWLLrwLsVQtVDRiLLLLARFVLGDTARLGIPR
+PSlGPMELKkVSGKTPVLDVGTIAKIKSGDIKVFPAIQSFqEHGVEFIDGrTEsFDVVIL
+ATGYKSNVPYWLKEKeFFSEKDGFPRKsNEWKGKNGLYAVGFSRRGLLGVSMDATKIADD
+IVQcWnDiGYERHKtK
+
+
+BOP CONSENSUS:
+Length: 441 aa
+
+MDCFAEAEGKRSHDPLYCNPHSPPATGFPVDNIPVPVVIVGAGPAGLGMAALLGEAGVPY
+KLLERCSCIGSLWRHRTYDRLCLHLPKQFCELPLMPFPKSFPTYPTRDQFLEYLESYARR
+FNIEPQFRQAVVSAEFNGDFWWIRTKEVTSLPIGGEQAvLSGKTTLYRCKWLVVATGENA
+EPAVPEIEGTGRFKGQLMHSCEYRSGaGYAGKqVLVVGCGNSGMEVSLDLANHNAiTSMV
+VRGTvHVLPREMLGrSTFGISmWLLRWFPVQTVDRlLLMMARFIMGDTTrIGITRPSLGP
+MELKGVSGKTPVLDVGTIAKIKSGsIqVFPAVRCFHEHGVEFIDGRTENFDVVILATGYK
+SNVPYWLKEKtFFSEKDGFPRKSKEWKGKNGLYAVGFSRrGLLAVYmDATKISEDIVQQW
+RDMCmEDVRETSSNRRtPCPI
+
+
+PACMAD CONSENSUS:
+Length: 437 aa
+
+MDRFAETEGKRAHDPLYSPRRAARATATGFPVGEHGEVLaGPLIVGAGPAGLAVAACLTM
+rGVPYvLLERHGCVASLWRHRTYRRLRLHLPKRYCELPLMPFPpSYPTYPTREQFLAYLE
+EYiRTFGIRPFFRQEVVSAEHDGEfWCVRTKEVITAaIDGGqEAVLSttTREYRSKWLVV
+ATGENAEPVVPEIDGIhgFKGQVMHSSDYRSGEpYQGKKVLVVGCGNSGMEVSLDLSNHN
+VHTSMVVRDSVHVLPREIMGLSTFGLSLWLLMfLSVQtVDRILLLLTrLVLGDTARLGIP
+RPSiGPMELKKVSGKTPVLDVGTIAKIKSGDIKVFPAIQSFQEHGVEFIDGKIESFDVVI
+LATGYKSNVPYWLKENEFFSEKDGFPRKPNEWKGKNGLYAAGFSRRGLLGVSMDATKIAD
+DIVQCWNDIGYERHKtK
+
+================================================================================

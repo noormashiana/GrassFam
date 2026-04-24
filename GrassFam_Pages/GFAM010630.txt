@@ -1,0 +1,118 @@
+================================================================================
+GrassFam ID: GFAM010630
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             466.0 aa
+Family Size (Extended Family Size): 20 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11926:SF1515
+Panther Family ID:               PTHR11926
+Modal Panther ID:                PTHR11926:SF1515
+Modal Panther Description:       GLYCOSYLTRANSFERASE
+Modal Panther Family ID:         PTHR11926
+Modal Panther Fam Desc:          GLUCOSYL/GLUCURONOSYL TRANSFERASES
+Interpro Signature Accession:    cd03784; G3DSA:3.40.50.2000:FF:000057; G3DSA:3.40.50.2000:FF:000019; G3DSA:3.40.50.2000; PTHR11926; SSF53756
+Interpro Signature Description:  GT1_Gtf-like; Glycosyltransferase; Glycogen Phosphorylase B;; GLUCOSYL/GLUCURONOSYL TRANSFERASES; UDP-Glycosyltransferase/glycogen phosphorylase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: UDP-glucosyltransferase UGT13248%2C transcript variant X1
+Lpe
+  Gene count: 5
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu02H
+  Gene Products: UDP-glucosyltransferase UGT13248-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: UDP-glucosyltransferase UGT13248
+Tae
+  Gene count: 2
+  Modal chromosome: Tae02A
+  Gene Products: UDP-glucosyltransferase UGT13248-like; UDP-glucosyltransferase UGT13248-like%2C transcript variant X1
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN44
+Pau
+  Gene count: 1
+  Modal chromosome: Pau07
+  Gene Products: UDP-glycosyltransferase 79-like%2C transcript variant X1
+  Gene Descriptions: UDP-glycosyltransferase 79-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi02N
+  Gene Products: UDP-glycosyltransferase 79-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: UDP-glycosyltransferase 74F2
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: UDP-glycosyltransferase 79-like; uncharacterized LOC100281067
+  Gene Synonyms: pco128943b
+  Gene Descriptions: uncharacterized LOC100281067
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 461 aa
+
+MDaatTTVQGsGGGGRVLLLPFPGMQGHANPMLQLGRRLAYHGLRPTLVVTRHVLSTTpT
+stsCPFPVAAISDGFDAGGIASCPDTAEYLRRMEAAGSDTLARLLLAEDRARPVRVLVYD
+SHLPWARRVARdAGVAAAAFMTQMCAVDVVYGEAwAGRVALPLADGsALRGRLSVELGPD
+DVPPFVAAPEWYPAFTESALSQFDGLEQADDVLVNSFRDLEPkEADYMEStWRAKTVGPT
+LPSFYLDDDRLPsNKTYGFNLVSSTAPCMAWLDKQAPCSVVLASYGTVANLDTAQLEELG
+nGLCNSGQPFLWVLRSNEAEKLPqELggKCNmKGLIVPFCPQLEVLAHRATGCFLTHCGW
+NSTTEAIVTGVPMVAIPQWADQPTTAKYVESAWGIGLRARRDgKGLVrREEVERCIKEVM
+gGEREYkRNAAkWMQKAKEAMQEGGSSDKNIADFAAKYLSk
+
+
+BOP CONSENSUS:
+Length: 458 aa
+
+MDSaDTTVQGTGGGGRVLLLPFPGMQGHANPMLQLGRRLAYHGLRPTLVLTRHVLSTTPt
+TDCPFPVAAISDGFDAGGIASCPDTAEYLRRMEAAGSDTLARLLLADDVRVLVYDSHLPW
+ARRVAREAGVAAAAFmTQMCAVDVVYGEAsAGRVALPLADGSALRRRGVLSVELGPDDVP
+PFVAAPEWYPAFTESALGQFDGLDQADDVLVNSFRDLEPtEADYMESrWRAKTVGPTLPS
+FYLDDDRLPLNKtYGFNLVSSTAPCMAWLDKQAPCSVVLASYGTVANLnTTQLEELGYGL
+CNSgQPFLWVLRSnEAEKLPqELrgKCNMKGLIVSFCPQLEVLAHRATGCFLTHCGWNST
+TEAIVTGVPMVAIPQWADQPTTAKYVESAWGIGLRARRDgKGLVRREEVERCIKEVmGGE
+EYKRNsSKWMQKAKEAMQeGGSSDKNIaDFvAKYLPNS
+
+
+PACMAD CONSENSUS:
+Length: 464 aa
+
+MDDGAtTTiVQGGGAHVLLLPFPGMQGHANPMLQLGRRLAFHGLRPTLVVSRHVLSTTAT
+tSsSCPFPVAAISDGFDAGGIASCPDTAEYVRRMEAAGSETLArLLDAEARAGRPVRVLV
+YDSHLPWARRVARaAGVAAAAFMTQMCAVDLVYGEAWAGRVALPLADGgALRGRLAVELG
+PDDVPPFVAAPEWYPAFTESALSQFDGLEhADDVLVNSFRDLEPkEADYLESTWRAKTIG
+PTLPSFYLDDGRLPSNKTYGvDLFSSTDAAPCMAWLDKQEPCSVVLASYGTVANLDtAQL
+EELGNGLCDSGKPFvWVLRSNEAEKLSrELGGkCKERGLIVPFCPQLEVLAHKATGCFLT
+HCGWNSTIESIATGVPMVAMPQWADQPTTAKYVESAWGIGLRMRKGLVkREEVERCIREV
+MEGERKhEYRRNAArWMqKAKEAMQEGGSSDKNIAEFAAKYLSK
+
+================================================================================

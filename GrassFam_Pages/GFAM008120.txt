@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM008120
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             523.0 aa
+Family Size (Extended Family Size): 27 (27) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10121:SF3
+Panther Family ID:               PTHR10121
+Modal Panther ID:                PTHR10121:SF3
+Modal Panther Description:       COATOMER SUBUNIT DELTA-3
+Modal Panther Family ID:         PTHR10121
+Modal Panther Fam Desc:          COATOMER SUBUNIT DELTA
+Interpro Signature Accession:    cd09254; cd14830; G3DSA:3.30.450.60:FF:000003; G3DSA:2.60.40.1170:FF:000015; PTHR10121; PF00928; SSF64356; SSF49447
+Interpro Signature Description:  AP_delta-COPI_MHD; Delta_COP_N; Coatomer subunit delta; COATOMER SUBUNIT DELTA; Adaptor complexes medium subunit family; SNARE-like; Second domain of Mu2 adaptin subunit (ap50) of ap2 adaptor
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: coatomer subunit delta-1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: coatomer subunit delta-1%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: coatomer subunit delta-1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: coatomer subunit delta-1; coatomer subunit delta-1-like; coatomer subunit delta-1-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 3
+  Modal chromosome: Ogl05
+  Gene Products: coatomer subunit delta-1; coatomer subunit delta-2%2C transcript variant X2; coatomer subunit delta-4
+  Gene Descriptions: coatomer subunit delta-1; coatomer subunit delta-2; coatomer subunit delta-4
+Osa
+  Gene count: 3
+  Modal chromosome: Osa05
+  Gene Products: coatomer subunit delta-1-like; coatomer subunit delta-2-like%2C transcript variant X1; coatomer subunit delta-4-like
+  Gene Descriptions: coatomer subunit delta-1-like; coatomer subunit delta-2-like; coatomer subunit delta-4-like
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN50
+Pau
+  Gene count: 2
+  Modal chromosome: Pau16
+  Gene Products: coatomer subunit delta-1; coatomer subunit delta-1-like%2C transcript variant X1
+  Gene Descriptions: coatomer subunit delta-1; coatomer subunit delta-1-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: coatomer subunit delta-1; coatomer subunit delta-1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: coatomer subunit delta-1%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi14
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: coatomer subunit delta-2
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: coatomer subunit delta; delta-COP
+  Gene Synonyms: GRMZM2G042089; GRMZM2G143354
+  Gene Descriptions: coatomer subunit delta; delta-COP
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 523 aa
+
+MVVLAASIISKSGKALVSRQFVDMSRIRIEGLLAAFPKLVGTGKQHTYVETENVRYVYQP
+IEGLYLLLITNKQSNILEDLDTLRLLSKLVPEYSPSLDEEGICKTAFELIFAFDEAISLG
+NKENVTVQQVKQYCEMESHEEKAHKLMMQsKINETKDVMKKKANELDKMRMERGKLDKGG
+YSSISGPRVIEKTFSDMSISGSGFGSGSGLGGLSTDMDSFASKPKGRPSAAATAPGKGFG
+MKLGKTQKTNQFLESLKAEGEVILEDVQPSSVsSRSSPLPPSDPVTVTIEEKLNVvVKRD
+GGVNNFDVQGTLALQVLNDADGFIQLQIENQDIPGLSFKTHPNINKDLFNSQQILGAKDP
+NRPFPSGQNETPLVKWRIQGMDESSLPLSVNCWPSVSGNETYVNIEYEASEMFDLHNVVI
+SIPLPALREAPSVRQIDGEWKYDSRNSVLEWSILLIDQSNRSGSMEFVVPPADPSTFFPI
+SVGFSASSTFSDLKVTGIhPLKEGNPPKYSQRARLVTANYQVV
+
+
+BOP CONSENSUS:
+Length: 523 aa
+
+MVVLAASIISKSGKALVSRQYVDMSRIRIEGLLAAFPKLVGTGKQHTYvETENVRYVYQP
+IEGLYLLLITNKQSNILEDLDTLRLLSKLVPEYSPSLDEDGVCKTAFELIFAFDEAISLG
+NKENVTVQQVKQYCEMESHEEKAHKLMMQSKINETKDVMKKKASELDKIRMEKGKLDKGG
+YSSISGPRVIEKTFsDMSISGTGFGSGSGLGGLGaDMDSFASKPKGRPSAAATAPGKGFG
+MKLGKTQKTNQFLESLKAEGEVILEDVQPSSVQSRSSPLPPSDPVTVTIEEKLNViVKRD
+GGVNNFDVQGTLALQVLNDADGFIQLQIENQDVPGLSFKTHPNINKDLFNSQQIVGAKDP
+NRPFPSGQNETPLVKWRIQGMNESSLPLSVNCWPSVSGNETYVNIEYEASEMFDLHNVVI
+SIPLPALREAPtVKQIDGEWKYDSRNSVLEWSIILIDQSNRSGSMEFVVPPADPSTFFPI
+SIGFSASNTFSDLKVTGIRPLKEGNPPKYSQRVRLVAANYQVV
+
+
+PACMAD CONSENSUS:
+Length: 523 aa
+
+MVVLAASIVSKSGKALVSRQFVDMSRIRIEGLLAAFPKLVGTGKQHTYVETENVRYVYQP
+IEGLYLLLITNKQSNILEDLDTLRLLSKLVPEYSPSLDEEGICKTAFELIFAFDEAISLG
+NKENVTVQQVKQYCEMESHEEKAHKLMMQAKINETKDvMKKKANELDKMRMERGKLDKGG
+YSSISGPRVIEKTFSDMSISGSGFGSGSGLGGLSTDMDSFASKPKGRPSTAATAPGKGFG
+MKLGKTQKTNQFLESLKAEGEVILEDVQPSaVPSRSSALPPSDPVTVTIEEKLNVVVKRD
+GGINNFDVQGTLALQVLNDADGFIQLQIESQDIPGLSFKTHPNINKDLFNSQQILGAKDP
+NRPFPSGQNETPLVKWRIQGMDESSLPLSVNCWPSVSGNETYVNIEYEASEMFDLHNVVI
+SIPLPALREAPSVRQIDGEWKFDSRNSVLEWSILLIDQSNRSGSMEFVVPPADPSSFFPI
+SVGFSASSTFSDLKVTGILPLKEGNPPKFSQRARLLTANYQVV
+
+================================================================================

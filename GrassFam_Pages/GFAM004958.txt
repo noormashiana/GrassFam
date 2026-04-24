@@ -1,0 +1,107 @@
+================================================================================
+GrassFam ID: GFAM004958
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             472.0 aa
+Family Size (Extended Family Size): 9 (9) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48011:SF24
+Panther Family ID:               PTHR48011
+Modal Panther ID:                PTHR48011:SF24
+Modal Panther Description:       PROTEIN KINASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR48011
+Modal Panther Fam Desc:          CCR4-NOT TRANSCRIPTIONAL COMPLEX SUBUNIT CAF120-RELATED
+Interpro Signature Accession:    cd06606; G3DSA:1.10.510.10:FF:000466; G3DSA:1.10.510.10; PTHR48011; PF00069; SM00220; SSF56112
+Interpro Signature Description:  STKc_MAPKKK; MAP kinase kinase kinase18; Transferase(Phosphotransferase) domain 1; CCR4-NOT TRANSCRIPTIONAL COMPLEX SUBUNIT CAF120-RELATED; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: mitogen-activated protein kinase kinase kinase 18
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: mitogen-activated protein kinase kinase kinase 18-like
+  Gene Descriptions: mitogen-activated protein kinase kinase kinase 18-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: mitogen-activated protein kinase kinase kinase 18
+  Gene Descriptions: mitogen-activated protein kinase kinase kinase 18
+Pau
+  Gene count: 1
+  Modal chromosome: Pau06
+  Gene Products: mitogen-activated protein kinase kinase kinase 18-like
+  Gene Descriptions: mitogen-activated protein kinase kinase kinase 18-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi01K
+  Gene Products: mitogen-activated protein kinase kinase kinase 18-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: mitogen-activated protein kinase kinase kinase 18-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 465 aa
+
+MGvtGEWQRGPVIGRGASATVSIATDRRTGDVFAVKSVEiARAGVLRREQSVLSALSSPY
+VVSCVGSgVSAAADGSGrMCYDLFLEYAPGGSLADEIKRCGGRCEEAvIRSRAGDVLRGL
+AYVHGAGIAHCDVKGRNVLLGADGRAMLADFGCARWMAaEDGNAGGvtIRGTPMFLSPEA
+ARGEAQGtAADIWALGCTVIEMATGGAPWPRFADPVAALHHVAHSGDVPEAPAWLSDEGK
+DFLsRCLIRDPAKRWTAEQLLEHPFVASSsApPstSKAAPIEqRVSPKSVLDQgFWEDSS
+TDSDTTVALTPADRVRALAadvAPDWTWSGEhWITVCGHTGiaDNdnDTTaSPkpDADTt
+ffAGSSsvSEEqvPGGGGEHmaVDAPRGHaSSHGHHhGSSAvHDADassGSsSSsCRcNS
+VISGcNNDrnstsSNFastknwKRCCiSvVnpsGlVhFRPSWQqm
+
+
+BOP CONSENSUS:
+Length: 451 aa
+
+MGvIGEWRRGPVIGRGASATVSIATDRrTGgVFAVKSVgvARAGALRREQSMLSALSSPY
+VVSCVGSGVSAAvDGSGGACYDLFLEYAPGGSLADEIKRCGGRCEEPLIRSRVGDVLRGL
+AYVHGAGIAHCDVKGRNVLVGADGRAKLADFGCARWTaAEDgNAGGvTIRGTPMFLsPEA
+ARGEAQGTAADIWALGCTVIEMATGGAPWPRFsDPVAALHHVAHSvDVPEAPAWFSaEGK
+DFLARCLvRDPAqRWTAEQLLEHPFVASaaSNSTSKAAPIEQWVSPKSILDQgLWEstST
+DSDtTVALAPADRVRALAAGeSVAPDWTWSGEDWIAVCGGRADDHDTTpSPqPDAtTtfF
+AGsSnsDDEvVPGGGeLdAAvDGPRGHgsSDddddhGvSSSpCSWRRsNSVISgCNSRNn
+NrCcNFTqtKqwSIkLvkSvSPSPRPSWQQI
+
+
+PACMAD CONSENSUS:
+Length: 472 aa
+
+MGVTGEWQRGPVIGRGASATVSIATDRRTGDVFAVKSVEIARAGVLQREQSVLSALSSPY
+VVSCLGADVSVAADGSGRMCYDLFLEYAPGGSLADEIKRCGGRCEEAVIRSRAADVLRGL
+AYVHGAGVTHCDVKGRNVLLGADGRAMLADFGCARWMADEDGNAGvGAIVRGTPMFMSPE
+AARGEMQGAAADIWALGCTVIEMATGGAPWQQRFADPVAALHHVAHSGDVPQPPAWLSDE
+AKDFLSRCLIRDPAKRWTAEQLLQHPFVASSSAPMDPAAAKASPIELRVSPKSVLDQAFW
+EDSDSDTTVALTPADRVRALAYDVAADWTWSGEHWITVCAHTGIGDNNNDTAASPGFEAG
+AGSSSTGVSEEQIGSGGGGEHMRVDAPRGHASSHGHHHGSSAvHGASSGSGSSSSRCNSV
+ISGSNNDRCCSHSSNFASSGNKRCCCSVVNDAGLVtFRPSPytrAAvyFPqt
+
+================================================================================

@@ -1,0 +1,140 @@
+================================================================================
+GrassFam ID: GFAM001171
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             606.0 aa
+Family Size (Extended Family Size): 33 (34) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR10507
+Modal Panther ID:                PTHR10507:SF1
+Modal Panther Description:       CDC45-LIKE PROTEIN
+Modal Panther Family ID:         PTHR10507
+Modal Panther Fam Desc:          CDC45-RELATED PROTEIN
+Interpro Signature Accession:    PTHR10507; PF02724
+Interpro Signature Description:  CDC45-RELATED PROTEIN; CDC45
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: cell division control protein 45 homolog
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu04H
+  Gene Products: cell division control protein 45 homolog
+Ata
+  Gene count: 2
+  Modal chromosome: Ata04D
+  Gene Products: cell division control protein 45 homolog
+Tae
+  Gene count: 6
+  Modal chromosome: Tae04A
+  Gene Products: cell division control protein 45 homolog; cell division control protein 45 homolog%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl11
+  Gene Products: uncharacterized LOC127755268; uncharacterized LOC127756695
+  Gene Descriptions: uncharacterized LOC127755268; uncharacterized LOC127756695
+Osa
+  Gene count: 2
+  Modal chromosome: Osa11
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4349656; uncharacterized LOC4351377
+Pau
+  Gene count: 2
+  Modal chromosome: Pau19
+  Gene Products: uncharacterized LOC133900041; uncharacterized LOC133906368
+  Gene Descriptions: uncharacterized LOC133900041; uncharacterized LOC133906368
+Svi
+  Gene count: 2
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi03K
+  Gene Products: cell division control protein 45 homolog; cell division control protein 45 homolog%2C transcript variant X1
+Pha
+  Gene count: 2
+  Modal chromosome: Pha03
+  Gene Products: cell division control protein 45 homolog
+Msi
+  Gene count: 2
+  Modal chromosome: Msi14
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi05
+  Gene Products: cell division control protein 45 homolog
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: cell division cycle 45
+  Gene Descriptions: cell division cycle 45
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 605 aa
+
+MVRELRVDSFYARLRAAAAAAAAgSSSPLLILPSAADADSLCALKVLAHVLSADSIRFSI
+YPVASAAAAAdLLASFSASqPLCLLLINWGAHRDLRavLPPAATAFVVDSHRPVHLHNLC
+AaNDRVVVLFTADDEHTADLSYDFDVSSLADASDLAAeGDADDHLRVpeEDEDSDASDSD
+SDAEDGGRRKRRRLSDDAEADGDPVRLFGKLRREYYRLGTFHGKPSGCLMYDLAHALRKN
+TNELLWLACVSLTDQFVHERITNERYQAAVMELEQHINGSGNLDPSGvGSVVTLKDGTKI
+RAPEASRIAYEDEPRLMLLREWSLFDSMLCSSYVATKLKTWSDNGLKKLKLLLARMGFPL
+ADCQKNFQYMSMEVKRKMRDEFDRFLPEYGLTEFYYRSFLRVHGYRSKVSAADVVYGVTA
+LLESLNAESKDSKESSAAEQFWVAYSALSLSNVDQLRKGMQSAIEIQRAILRQGSSAITK
+TGFIRSAKKFRWVKLDDPVDTNKLCHPQALTKFCFFLMDALKERGARMKPLICACLAKEP
+EKVLVVGVCGKPRLGAVQGNAFGNAFRSAAEEIGADYFHDMFESSWIVLDVVAVSSFMIR
+LTEKL
+
+
+BOP CONSENSUS:
+Length: 604 aa
+
+MVRELRADSFYARLRAAAAAAAAAASSPLLILPSAADADSLCALKVLAHVLSADSIRFSI
+YPVASAAAAATLLASFSASQPLCLLLINWGAHRDLRGILPPASTAFVVDSHRPVHLHNLA
+AANDRVVVLFTTDDEHTADLSYDFDVSSLADASDLTADGDADEHLRVSEEDEDSDASDSD
+SDAEGGRRKRRRLSDDGEADGDPERLFGKLRREYYRLGTFHGKPSGCLMYELAHALRRNT
+NELLWLACVSLTDQFVHERITNERYQAAVMELEQHINGSGNLDPSGLGSVVTLKDGTKIR
+APEASRIAYEDEPRLMLLREWSLFDSMLCSSYVATKLKTWSDNGLKKLKLLLARMGFPLA
+DCQKRFQYMSMEVKRKMRDEFDRFLPEYGLTEFYYRSFLRVHGYRSKVSAADVVYGVTAL
+LESLNAESKDSKESCAAEQFWVAYSALSLSNVDQLRKGMQSAIEIQRAILRQGSSAITKT
+GFIRSAKKFRWVKLDDPVDTAKLCHPQALTKFCFFLMDALKERGARMKPLICACLAREPE
+KVLVIGVCGKPRLGAVQGNAFGNAFRSAAEEIGADYFHDMFESSWIVLDVVAVSSFMIRL
+TEKL
+
+
+PACMAD CONSENSUS:
+Length: 607 aa
+
+MVRELRVDSFYARLRAAAAAAGSSSPLLILPSAADADSLCAVRVLAHVLSADSIRFSIYP
+VASAARARDLLASFSAAtAPLCCLLVNWGAHRDLRrlLPPAATAFVVDSHRPVHLHNLCA
+HNDRVVVLFTADDEHTADLSYDFDLSSLADASDLAAEGDADDHLRVPdEDDEDSDASESD
+SDAEDGGGRRKRRRLSDDAEAEGGDPVRLFAKLRREYYRLGTFHGKPSGCLMYDLAHALR
+KNTNELLWLACVALTDQFVHDRITNERYQAAVMELEQHINGSGNLDPSGvGSVVTLKDGT
+KIRAPETSRIAYEDEPRLMLLREWSLFDSMLCSSYVATKLKTWSDNGLKKLKLLLARMGF
+PLADCQKNFQYMSMEVKRKMRDEFDRFLPEYGLTEFYYRSFLRVHGYRSKVSAADVVYGV
+TALLESLNSESKDSKESSAAEQFWVAYSALSLSNVDQLRKGMQSAIEIQRAILRQGSSAI
+TKTGFIRSAKKFRWVKLDDPVDTNKLCHPQALTKFCFFLMDALKERGARMKPLICACLAK
+EPEKVLVVGVCGKPRLGAVQGNAFGNAFRSAAEEIGADYFHDMFESSWIVLDVVAVSSFM
+IRLTEKL
+
+================================================================================

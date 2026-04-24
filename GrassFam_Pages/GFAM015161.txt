@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM015161
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             429.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45768:SF17
+Panther Family ID:               PTHR45768
+Modal Panther ID:                PTHR45768:SF17
+Modal Panther Description:       OS06G0187300 PROTEIN
+Modal Panther Family ID:         PTHR45768
+Modal Panther Fam Desc:          E3 UBIQUITIN-PROTEIN LIGASE RNF13-LIKE
+Interpro Signature Accession:    G3DSA:3.30.40.10:FF:000231; PTHR45768
+Interpro Signature Description:  RING-H2 finger protein ATL46; E3 UBIQUITIN-PROTEIN LIGASE RNF13-LIKE
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: RING-H2 finger protein ATL13
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: putative RING-H2 finger protein ATL49
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: putative RING-H2 finger protein ATL49
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: RING-H2 finger protein ATL13-like; putative RING-H2 finger protein ATL49
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: putative RING-H2 finger protein ATL49
+  Gene Descriptions: putative RING-H2 finger protein ATL49
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: RING-H2 finger protein ATL13
+  Gene Descriptions: RING-H2 finger protein ATL13
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: RING-H2 finger protein ATL13-like; putative RING-H2 finger protein ATL49
+  Gene Descriptions: RING-H2 finger protein ATL13-like; putative RING-H2 finger protein ATL49
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: RING-H2 finger protein ATL13-like; RING-H2 finger protein ATL46-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: RING-H2 finger protein ATL13-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: RING-H2 finger protein ATL13
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: RING-H2 finger protein ATL46
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 427 aa
+
+MDASpAPPPPPPtgSVLsTIERKLSPGVLLLVAILAMVFFIFGLLNLLVQNLLRLRRARR
+RRRRVGDAvgDGSSPTAFQGQLQQLFHLHDAGVDQAFIDALPVFvYRAVAGAGrRgGgDP
+FDCAVCLCEFAMDDKLRLLPTCGHAFHVPCIDAWLLSHSTCPLCRGSILAeADySPASSP
+avLVLESEGLaETaArDGGDPGdRDsEeSPKdAEEIVEVKLGKLRCVDGNgsAgDLAVDG
+TgSSNGNGRGSLGQRRCLSMGSYEYVMDDHAALRVAIKtTPKRRPASSRSRRRHALSECD
+FGgsKKGAWEtAVTEAAApaDAGRCGDGARLNKDSFSvSKIWMVsAAKREDGRrlAElAG
+eRRAVSFRWPAMAeAsKkHRGgdEErrDVEAsGGfGDNGAPSLAEERPSLARTApLWVAG
+GRQGSHS
+
+
+BOP CONSENSUS:
+Length: 426 aa
+
+MDASSSSTPAAPPPTHSVLDTIQNKLSPGVLLIVAILAMVFFIFGLLNLLVQNILRLRRA
+RRRRLRVAAGDVDGSSPTALQGQLQQLFHLHDAGVDQAFIDALPVFVYRAILGAGkRKGG
+GDPFDCAVCLCEFAMDDALRLLPTCGHAFHVPCIDAWLLSHSTCPLCRGSVLAADLSPAS
+SPVVLVLESEGRaDTAaEAPGGRDdEGSPKAEEVVEVKLGKLRCMDGNGGSGHLAADQTA
+sRgDLGRRRCLSMGSYEYVMDDHAALRVAIKTPAKKRPRSRRRHALSECDFGSDVAKKGA
+WEAAVKEAAAPePAGARRGDDARLNKDSFSVSKIWMVRGAKKEDGRTLAGgRRSVSFRWP
+AMAEASRNeGADDRERRDVESQSGSFGSSGAPSLAEERLPLARTRTAPLWAAGGWQaNSS
+SAGSHS
+
+
+PACMAD CONSENSUS:
+Length: 423 aa
+
+MDASPAPPPPPgPSVASAIERKLSPGVLLLIAILAMVFFIFGLLNLLVQNLLRLRRARRR
+RRRVGDAAAAAGDGSPTAFQGQLQQLFHLHDAGVDQAFIDALPVFPYRAVAgRRRGKDPF
+DCAVCLCEFADDDKLRLLPTCGHAFHVPCIDAWLLSHSTCPLCRGSILAEADYSPssSPl
+LLVLESEGLaETVARDGGDPGDRDsEESPKDAEEIVEVKLGKLRCVDGNVSARDLAVDGT
+GSSNGNGRGSLGQRRCLSMGSYEYVMDEHAALRVAIKATPKRRPASSRSRRRHALSACDL
+GGSKKGAWETAVTEAAAGRCGDGtASLNRDSFSTSKIWMVSAARREEDGRRTAESAGERR
+AASFRWPAMAAGCKKHRGdEEswDVEAAGGsGDNGVPSPAEERPSvARAAMLWVAGGRQG
+SHS
+
+================================================================================

@@ -1,0 +1,113 @@
+================================================================================
+GrassFam ID: GFAM011919
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             392.0 aa
+Family Size (Extended Family Size): 13 (13) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11540:SF62
+Panther Family ID:               PTHR11540
+Modal Panther ID:                PTHR11540:SF62
+Modal Panther Description:       MALATE DEHYDROGENASE
+Modal Panther Family ID:         PTHR11540
+Modal Panther Fam Desc:          MALATE AND LACTATE DEHYDROGENASE
+Interpro Signature Accession:    cd01337; G3DSA:3.40.50.720:FF:000017; G3DSA:3.90.110.10:FF:000001; G3DSA:3.40.50.720; G3DSA:3.90.110.10; TIGR01772; PTHR11540; PF02866; PF00056; SSF56327; SSF51735
+Interpro Signature Description:  MDH_glyoxysomal_mitochondrial; Malate dehydrogenase; -; malate dehydrogenase; MALATE AND LACTATE DEHYDROGENASE; lactate/malate dehydrogenase, alpha/beta C-terminal domain; lactate/malate dehydrogenase, NAD binding domain; LDH C-terminal domain-like; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: malate dehydrogenase%2C chloroplastic-like
+  Gene Descriptions: malate dehydrogenase%2C chloroplastic-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: malate dehydrogenase%2C chloroplastic%2C transcript variant 2
+  Gene Descriptions: malate dehydrogenase%2C chloroplastic
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 1
+  Modal chromosome: Pau15
+  Gene Products: malate dehydrogenase%2C chloroplastic-like
+  Gene Descriptions: malate dehydrogenase%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: malate dehydrogenase%2C chloroplastic-like; malate dehydrogenase%2C chloroplastic-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: malate dehydrogenase%2C chloroplastic-like%2C transcript variant X2
+Msi
+  Gene count: 1
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: malate dehydrogenase%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: Malate dehydrogenase chloroplastic
+  Gene Synonyms: GRMZM2G141289
+  Gene Descriptions: Malate dehydrogenase chloroplastic
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 387 aa
+
+MAAAAiATLSLaSVPCkKQLRlGASTFNAQQFSnSSSHWHSvtLRsRvPRPRAAnRVIVA
+QAGGsYKVAILGAAGGIGQPLSLLIKMSPLVSALHLYDIANVkGVTADLSHCNTPAqVAG
+FTGKDELAGSLAGADVVVIPAGVPRKPGMTRDDLFsvNAGIVKELVEAVADHAPGALVHV
+ISNPVNSTVPIAAEVLKrKGAYDPRKLFGVTTLDVVRANAFVAArKGLPLADVDVPVVGG
+HAgATILPLLSKARPKAAFTDEEVEELTARIQNAGTEVVEAKAGAGSATLSMAYAAARFL
+EASLRGLDGDgDVYECAYVQSQVVPELPFFASRVKLGRDGVEEVVGSELRGLTDYEARAL
+EALKPQLKASIDKGVAYVQQQQEAALN
+
+
+BOP CONSENSUS:
+Length: 404 aa
+
+MASAAMSTLNLSSSPLTKQQLRFGASTLSAEHVSGFSSARPAPSLCCSSSHWRAVKLRPR
+RRPWRRAGNRVVAQAvGYKVAILGAAGGIGQPLSLLVKMSPLVSALHLYDIANVDGVTAD
+LGHCNTPAKVAGFTGKEELAGCLAGVDVVVIPAGVPRKPGMTRDDLFGINAGIVRELVEA
+VADsAPAALVHVISNPVNSTVPIAAEVLKRKGVYDPRKLFGVTTLDVVRANTFVAEMKGL
+PLADVDVPVVGGHAAATILPLLSKARPKTAFTDEEVEALTRRIQNAGTEVVEAKAKAGGG
+SATLSMAYAAARFLEASLRGLDGDADVYECSYVQCQAVPELPFFACRVKLGRDGVEEVAA
+AGAELRGLTEFEARALEALKPQLKKSIDKGVAYAQQQPATVAMG
+
+
+PACMAD CONSENSUS:
+Length: 389 aa
+
+MAAaAIATLSLASVPCRKHQLRhGAStFNAQQFSnSSSHWHSlTLRsRVPRPRAAkRVIV
+AQAGAGSYKVAILGAAGGIGQPLSLLIKMSPLVSALHLYDIANVkGVTADLSHCNTPAQV
+AGFTGKDELAGSLsGADVVVIPAGVPRKPGMTRDDLFSvNAGIVKELVEAVADHAPGALV
+HVISNPVNSTVPIAAEVLKrKGAYDPRRLFGVTTLDVVRANAFVAARKGLPLADVDVPVV
+GGHAGATILPLLSKARPKAAFTDEEVEELTARVRNAGTEVVEAKAGAGSATLSMAYAAAR
+FLEASLRGLDGDgDVYECAYVQSQVVPELPFFASRVKLGRDGVEEVVGSELRGLTDYEAR
+ALEALKPQLKASIDKGIAYVQQQQEAALN
+
+================================================================================

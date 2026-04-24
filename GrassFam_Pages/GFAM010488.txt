@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM010488
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             496.0 aa
+Family Size (Extended Family Size): 21 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48105:SF8
+Panther Family ID:               PTHR48105
+Modal Panther ID:                PTHR48105:SF8
+Modal Panther Description:       GLUTATHIONE REDUCTASE, CYTOSOLIC
+Modal Panther Family ID:         PTHR48105
+Modal Panther Fam Desc:          THIOREDOXIN REDUCTASE 1-RELATED-RELATED
+Interpro Signature Accession:    G3DSA:3.50.50.60:FF:000051; G3DSA:3.30.390.30:FF:000008; G3DSA:3.50.50.60; G3DSA:3.30.390.30; NF004776; TIGR01424; PTHR42737; PIRSF000350; PR00411; PR00368; PF07992; PF02852; SSF51905; SSF55424
+Interpro Signature Description:  Glutathione reductase; -; glutathione-disulfide reductase; GLUTATHIONE REDUCTASE; Hg-II_reductase_MerA; Pyridine nucleotide disulphide reductase class-I signature; FAD-dependent pyridine nucleotide reductase signature; Pyridine nucleotide-disulphide oxidoreductase; Pyridine nucleotide-disulphide oxidoreductase, dimerisation domain; FAD/NAD(P)-binding domain; FAD/NAD-linked reductases, dimerisation (C-terminal) domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: glutathione reductase%2C cytosolic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: glutathione reductase%2C cytosolic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: glutathione reductase%2C cytosolic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: glutathione reductase%2C cytosolic; glutathione reductase%2C cytosolic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: glutathione reductase%2C cytosolic%2C transcript variant X1
+  Gene Descriptions: glutathione reductase%2C cytosolic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: glutathione reductase%2C cytosolic-like%2C transcript variant 2
+  Gene Synonyms: GR,GRase,GRC2,OJ1293_E04.4-1,OsJ_08842,RGRC2
+  Gene Descriptions: glutathione reductase%2C cytosolic-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: glutathione reductase%2C cytosolic%2C transcript variant X3; glutathione reductase%2C cytosolic-like%2C transcript variant X2
+  Gene Descriptions: glutathione reductase%2C cytosolic; glutathione reductase%2C cytosolic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: glutathione reductase%2C cytosolic; glutathione reductase%2C cytosolic-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: glutathione reductase%2C cytosolic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: glutathione reductase%2C cytosolic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: uncharacterized LOC100273659
+  Gene Synonyms: gpm745b,GRMZM5G806449
+  Gene Descriptions: uncharacterized LOC100273659
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 494 aa
+
+MARKMLKDGEVAVADGGsYDYDLFVIGAGSGGVRGSRTAASFGAKVAICELPFHPISSEW
+LGGHGGTCVIRGCVPKKILVYGASFRGEFEDSKNFGWEINGDINFNWKKLLENKTqEIVR
+LNGVYQRILGNSGVTMIEGAGSLVDAHTVEVTQPDGSKQRYTAKHILIATGSRAQRVNIP
+GKELAITSDEALSLEELPKRAVILGGGYIAVEFASIWRGMGAEVDLFYRKELPLRGFDDE
+MRtVVASNLEGRGIRLHPGTNLSELSKTADGIKVVTDKGEELIADVVLFATGRTPNSQRL
+NLEAAGVEVDQIGAIKVDEYSRTSVPSVWAVGDVTNRINLTPVALMEATCFSKTVFGGQp
+VKPDYRDVPCAVFSIPPLSVVGLSEQQALEEAKgDILVFTSSFNPMKNSISKRQEKTiMK
+LVVDAETDRVLGASMCGPDAPEIIQGIAVALKCGATKATFDSTVGIHPSAAEEFVTMRTL
+TRRVSPtSKPKTNL
+
+
+BOP CONSENSUS:
+Length: 496 aa
+
+MARKMLKDGEvPVaAdDGGSYDYDLFVIGAGSGGVRGSRTAAGFGAKVAICELPFHPISS
+EWLGGHGGTCVIRGCVPKKILVYGASFRGEFEDAKNFGWEINGDINYNWKKLLENKTQEI
+VRLNGVYKRILGNSGVTMIEGAGSIVDAHTVEVTQPDGSKQRHTTKHILIATGSRATLVN
+IPGKELAITSDEALSLEELPKRAVILGGGYIAVEFASIWKGLGAEVDLFYRKELPLRGFD
+DEMRTVVASNLEGRGIRLHPGTNLTELSKTADGIKVVTDKGDELIADVVLFATGRAPNSN
+RLNLEAVGVEVDQIGAIKVDEYSRTSVPSIWAVGDVTNRINLTPVALMEATCFAKTVFGG
+QPVKPDYKDVPCAVFCIPPLSVVGLSEQEALAEAKNDlLVYTSSFNPMKNSISKRQEKSv
+MKLVVDAETDKVLGAAMCGPDAAEIMQGIAVALKAGATKATFDSTVGIHPSAAEEFVTMR
+TLTRRVSPaSKPKTNL
+
+
+PACMAD CONSENSUS:
+Length: 494 aa
+
+MARKMLVDGEVAVADGEQYDYDLFVIGAGSGGVRGSRTAASFGAKVAICELPFHPISSDW
+LGGHGGTCVIRGCVPKKILVYGASFRGEFEDSKNFGWEINGDINFNWKKLLENKTKEIVR
+LNGVYQRILTNAGVTMIEGAGSLVDAHTVEVSQPDGSKQRYTAKHILIATGSRAQRVNIP
+GKELAITSDEALSLEELPKRAVILGGGYIAVEFASIWRGMGAEVDLFYRRELPLRGFDDE
+MReVVASNLEGRGIKLHPGTNLSELSKTADGIKVVTDKGEELIADVVLFATGRTPNSQRL
+NLQAAGVEVDQIGAIKVDEYSRTSAPSVWAVGDVTNRINLTPVALMEATCFSKTVFGGQQ
+VKPDYRDVPCAVFSIPPLSVVGLSEQQALEEAKGDILVFTSSFNPMKNSISKRQEKTIMK
+LVVDAETDRVLGASMCGPDAPEIIQGIAVALKCGATKAnFDSTVGIHPSAAEEFVTMRTL
+TRRVSPTSKPKTNL
+
+================================================================================

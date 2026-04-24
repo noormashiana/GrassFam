@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM012886
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             435.5 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               Conflicted
+Modal Panther ID:                PTHR31818:SF12
+Modal Panther Description:       O-FUCOSYLTRANSFERASE FAMILY PROTEIN
+Modal Panther Family ID:         PTHR31818
+Modal Panther Fam Desc:          O-FUCOSYLTRANSFERASE 16
+Interpro Signature Accession:    PTHR21220
+Interpro Signature Description:  DNA-DEPENDENT METALLOPROTEASE SPRTN
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: uncharacterized LOC100842008
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: DNA-dependent metalloprotease dvc-1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: DNA-dependent metalloprotease SPRTN
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: DNA-dependent metalloprotease SPRTN-like; DNA-dependent metalloprotease dvc-1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: uncharacterized LOC127768793%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127768793
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC9270711
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: uncharacterized LOC133911923%2C transcript variant X2; uncharacterized LOC133924037%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133911923; uncharacterized LOC133924037
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi09N
+  Gene Products: DNA-dependent metalloprotease SPRTN-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: uncharacterized LOC112874000
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: uncharacterized LOC8056876
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC103632821
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 453 aa
+
+MVGSDPDRSGGEPDIsELFCHYNALYFhDSLGACAVSWAEDPLPyrDVSgCDYYPGGGGC
+IILLSKSLYEcHtdSDLKNVLLHEMIHAYiCIKDNNtNHSDHGAKFQKLMNTINLSSVAD
+PHRPVGGYSITlLHEIRKKyYqYKCeSCGDLVKSTKIRGPSHDDCIERMGANDSCqNSkC
+HWHRHKKRCSGSYyRVQESsPGCvELKGSsAEEALDEgKAeESAcGSWHatHTSNKsGtS
+NKHELEDASAEFLHpTDDAIGcSGLdSSSRDRSNKKIKLSKDVsFDLlTaeTVQEAPKRP
+RTavLKrNQECSRRKKRKtSKWDGSYSVIIEWLNYYCVDeSDEDEVPLINKRTERRKRQK
+LLknSlARESNnGVEgaSSTSHTRKDvCVGSCSLgPGDNnKsEsVPASQvEERSLPdHpV
+sSrGVAGnQtGHEtvSSPLDSPIRGEIVDISDG
+
+
+BOP CONSENSUS:
+Length: 436 aa
+
+MVGSDPEPDIAELFCHYNALYFQDSLGACAVSWAEEPLPYGDTSGCEYYPGGGGCIVLLS
+KSLYEhHTYSDLKNVLLHEMIHAYVCIKDNNTNHSNHGANFQKLMNTINSSSVPDrHRPL
+GGYNIIvLHDIRKKCYQYKCEsCGDFVRSTKIRGPSHDDCIERMGANSSCPNSACQWHRH
+KKRCSGSYYRVGKSaPGCVELGGSvASaEETLDErKAAKSASGSWHAKHTSNKsGTSNKH
+ELEDASAEFLHPTDDAIDKSGLGSSSGDRcNKKIKLSKDIrFGNLTgTTVQEAPKRPRTD
+TLKRNQECSRQKKRKTSKWDGSYSVIVEwLNYYCVDDSDEDEVPLINKRTERRKRQRLLK
+NSQATESNnGRKDVCFDSCSQGsGDKNISESaPASQVEErSLPDHLVsNRVAAPGQTGHE
+TLvSPiiGEIVDISDG
+
+
+PACMAD CONSENSUS:
+Length: 447 aa
+
+MVgSDPDGSGGAPDVSELFCHYNSLYFrDSLGSCAVSWAEDPLPDRDVSTCDYYPGGGGC
+IILLSKSLCECHNgSDLKNALLHEMIHAYICIKDNNSNHSDHGAKFQKLMNTINLSSVAD
+PHRPVDGYSITLLHEIRKKYYHYKCQSCGDLIKSIKMRGPSGDDCIERKGvDDPCQNSKC
+HWHRHKQRCSGSYCRVQESSPGGLELKCSKAEEALDEGKAEEPACtSWHPTHTSNKSRRS
+NKNEREDAStEFLHVADNAVGCSGLDSSSRDRSNKKIKlSKDVSsDLqTtETVQEAPKRP
+RTAVLqNQECSRRKKRKQSKwDGSYSVIIEWLNYYCvSESDEDEVPLINKRTERRRRQKL
+HEMSLARESSNvVEfgSSTSHTVGSCSLDPGDNSKLEIVPASQPEERSlsnHPVGSNGVA
+GNQAGHESvSSPLDSPIRGEIVDISDG
+
+================================================================================

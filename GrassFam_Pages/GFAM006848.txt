@@ -1,0 +1,145 @@
+================================================================================
+GrassFam ID: GFAM006848
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             701.0 aa
+Family Size (Extended Family Size): 21 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43295:SF1
+Panther Family ID:               PTHR43295
+Modal Panther ID:                PTHR43295:SF1
+Modal Panther Description:       ARGININE DECARBOXYLASE 1, CHLOROPLASTIC-RELATED
+Modal Panther Family ID:         PTHR43295
+Modal Panther Fam Desc:          ARGININE DECARBOXYLASE
+Interpro Signature Accession:    cd06830; G3DSA:3.20.20.10:FF:000001; G3DSA:1.20.58.930:FF:000003; G3DSA:2.40.37.10; G3DSA:1.20.58.930; G3DSA:3.20.20.10; TIGR01273; NF003763; PTHR43295; PIRSF001336; PR01180; PF02784; SSF51419
+Interpro Signature Description:  PLPDE_III_ADC; Biosynthetic arginine decarboxylase; Arginine decarboxylase; Lyase, Ornithine Decarboxylase; Chain A, domain 1; -; Alanine racemase; arginine decarboxylase; biosynthetic arginine decarboxylase; ARGININE DECARBOXYLASE; ARGDC; Arginine decarboxylase signature; Pyridoxal-dependent decarboxylase, pyridoxal binding domain; PLP-binding barrel
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: arginine decarboxylase 1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: arginine decarboxylase 1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: arginine decarboxylase 1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: arginine decarboxylase 1; arginine decarboxylase 1-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: arginine decarboxylase 1
+  Gene Descriptions: arginine decarboxylase 1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: arginine decarboxylase 1-like
+  Gene Synonyms: ADC1,ARGDC1,OsADC1
+  Gene Descriptions: arginine decarboxylase 1-like
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: arginine decarboxylase 1; arginine decarboxylase 1-like
+  Gene Descriptions: arginine decarboxylase 1; arginine decarboxylase 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: arginine decarboxylase 1; arginine decarboxylase 1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: arginine decarboxylase 1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: arginine decarboxylase 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: arginine decarboxylase 1
+  Gene Synonyms: GRMZM2G396553
+  Gene Descriptions: arginine decarboxylase 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 700 aa
+
+MPALAVDAAAPVAHAFASCDAARFPAAPLlGPAAAAdKPEAAAWSADLSAALYNVDGWGA
+PYFFVNDDGDVAVRPHGAATLPGQEIDLAKVVAKAAGPRAGGGLGLPLPLLVRFPDVLRH
+RVETLNAAFDYAVRSTGYGGRYQGVYPVKCNQDRYVVEDIVEFGAPFGFGLEAGSKPELL
+LAMSCLvARGNPDALLICNGYKDDEYVSLALmARTMGLNTVIVLEQEEELDIVVEASRRL
+GVRPVVGMRAKLRTKHAGHFGSTSGEKGKFGLNAAQILSVVtKLKALGMLDCLQLLHFHI
+GSQIPTTALLsDGVGEAAQIYCELARLGAAMRVIDVGGGLGIDYDGTHSAQTDMSVAYSL
+EEYAAAVVAAVGRVCDRKGVQHPIICSESGRALVSHHSVLVFEAFSATAPGrlDpATAYL
+LDELTDDCRADYRNLMAAAVRGDFDTCGLYADQLKRRCAEQFKEGVLGLEHLAAVDGLCE
+IVARGMGAAEpPRTYHINLSVFTSLPDMWAIGQQFPIIPIQRLQERPAVDGVLSDLTCDS
+DGKVdeFIGGRHSLPLHELPTHGTRGYYLGMFLGGAYQEALGGLHNLFGGPSVVRVSQSD
+GPHCFAVTRAAAGPSCADVLRAMQHEPEVMFEVLKQRTDGATAAALARAFGAMPYLvFDP
+EAAVMSSGESSGMSSDSEGSAAGAAEEDDEEWEFMRGLTV
+
+
+BOP CONSENSUS:
+Length: 709 aa
+
+MPALAVDAAAPVAHAFAACDAAPRFAAPLLGPAAAVVAAAAAEKPEAAAWSADLSSALYN
+VDGWGAPYFFVNDDGDVAVRPHGAATLPGQEIDLAKVVARAAGARAGGGLGLPLPLLVRF
+PDVLRHRVETLNAAFDYAVRSTGYaGRYQGVYPVKCNQDRYVVEDIVEFGAPFGFGLEAG
+SKPELLLTMSCLVARGSPDALLICNGYKDLEYVSLALIARTMGLNTVIVLEQEEELDIVV
+EASRRLnIRPVVGMRAKLRTKHAGHFGATSGEKGKFGLNAAQILSVVAKLKALGMLDCLQ
+LLHFHIGSQIPTTALLADGVGEAAQIYCELARLGAAMRVIDVGGGLGIDYDGTHSAQTDM
+SVAYSLEEYAAAVVAAVGRVCDRKGVQHPVICSESGRALVSHHSVLVFEAFSASAPAsNI
+DPATAYLLDELTDDCRsDYRNLMAAAVRGDFDTCALYADQLKRRCAEQFKEGVLGLEHLA
+AVDGLCEIVARGMGAAEgPRTYHINLSVFTSLPDMWAIEQLFPIIPIQRLQERPAVDGVL
+SDLTCDSDGKVDQFIGGRHSLPLHELPsHGTRGYYLGMFLGGAYQEALGGLHNLFGGPSV
+VRVSQSDGPHCFAVTRAAPGPSCADVLRAMQHEPEVMFEVLKQRTTDDGATAAALARAFG
+AMPYLSFDaEEAAMSSaESSGMSSDSEGSAAGAAEDDDEEWEFMRGLTV
+
+
+PACMAD CONSENSUS:
+Length: 699 aa
+
+MPALAVDAATPVAHAFASCDAARFPAAPLMGPAAADKPEAAAWSADLSAALYNVDGWGAP
+YFFVNDDGDVAVRPHGAATLPGQEIDLAKVVAKAAGPRAGGGLGLPLPLLVRFPDVLRHR
+VETLNAAFDYAVRSTGYGSRYQGVYPVKCNQDRYVVEDIVEFGAPFRFGLEAGSKPELLL
+AMSCLAARGNPDALLVCNGYKDDGYVSLALMARTMGLNTVIVLEQEEELDIVVEASRRLG
+VRPVVGMRAKLRTKHAGHFGSTSGEKGKFGLNAAQILSVVTKLKAIGMLDCLQLLHFHIG
+SQIPTTALLSDGVGEAAQIYCELARLGADMRVIDVGGGLGIDYDGTHSAQTDMSVAYSLE
+EYAvAVVAAVGRVCDRKGVQHPIICSESGRALVSHHSVLVFEAFSATAPGRLDAATAYLL
+DELTDDCRADYRNVMAAAVRGDYDTCGLYADQLKRRSAEQFKEGVLGLEHLAAVDAFCEI
+VARGMGAPEPPRTYHINLSVFTSLPDMWAIGQQFPIIPIQRLQERPAVDGVLSDLTCDSD
+GKVsEFIGGRHSLPLHELPTHATRGYYLGMFLGGAYQEALGGLHNLFGGPSVVRVSQSDG
+PHCFAVTRAAAGPSCADVLRAMQHEPEVMFEVLKQRTDGATAAALARAFGAMPYLVFDPE
+AAVMSSGESSGMSSDSEGSAAGAAEEDDEEWEFMRGLTV
+
+================================================================================

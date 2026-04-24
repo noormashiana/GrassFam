@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM007669
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             556.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24349:SF519
+Panther Family ID:               PTHR24349
+Modal Panther ID:                PTHR24349:SF519
+Modal Panther Description:       CALCIUM-DEPENDENT PROTEIN KINASE 6
+Modal Panther Family ID:         PTHR24349
+Modal Panther Fam Desc:          SERINE/THREONINE-PROTEIN KINASE
+Interpro Signature Accession:    cd05117; G3DSA:1.10.238.10:FF:000015; G3DSA:3.30.200.20:FF:000004; G3DSA:1.10.510.10:FF:000178; G3DSA:1.10.510.10; G3DSA:1.10.238.10; PTHR24349; PF00069; SM00220; SSF56112; SSF47473
+Interpro Signature Description:  STKc_CAMK; Calcium-dependent protein kinase 1; Calcium-dependent protein kinase 5; Transferase(Phosphotransferase) domain 1; -; SERINE/THREONINE-PROTEIN KINASE; Protein kinase domain; serkin_6; Protein kinase-like (PK-like); EF-hand
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: calcium-dependent protein kinase 6
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: calcium-dependent protein kinase 26-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: calcium-dependent protein kinase 26
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: calcium-dependent protein kinase 26-like; calcium-dependent protein kinase 26-like%2C transcript variant X1; calcium-dependent protein kinase 6-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: calcium-dependent protein kinase 6
+  Gene Descriptions: calcium-dependent protein kinase 6
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: calcium-dependent protein kinase 6-like
+  Gene Synonyms: CPK6,OJ1149_C12.18,OsCDPK6,OsCPK6
+  Gene Descriptions: calcium-dependent protein kinase 6-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau06
+  Gene Products: calcium-dependent protein kinase 6-like
+  Gene Descriptions: calcium-dependent protein kinase 6-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: calcium-dependent protein kinase 6-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: calcium-dependent protein kinase 6
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: calcium-dependent protein kinase 6
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100384477
+  Gene Synonyms: CK2,GRMZM2G347047
+  Gene Descriptions: uncharacterized LOC100384477
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 546 aa
+
+MGNSCRGSStPtAgDYrYyHyRSScSSSDwsdssssvldRaPhRNTiMRGGGHQQqLSSP
+TAVLGHvTPpLRDLYAVGRKLGQGQFGTTYLCTELSTGaAFACKSIAKRKLLTPEDVDDV
+RREIQIMHHLAGHaSVVTIKGAYEDPLYVHIVMELCEGGELFDRIVdRGYFSERKAAEIA
+RVIVGVVEACHSLGVMHRDLKPENFLLKDkegnrGhdnsvasLKAIDFGLSVFFKPGQVF
+TDVVGSPYYVAPEVLCKHYGPEADVWTAGVIVYILLSGVPPFWAETQQGIFDAVLKGAID
+FDSEPWPtISDSAKDLIRrMLRSPPAERLTAHQVLCHPWICENGVAPDRPLDPAVLSRLK
+QFSAMNRLKKMALRVIAQsLSEEELAGLKEMFKAMDTDGSGAITFEELKEGLRRYGSNLR
+ESEIRDLMDAADVDnSGTIDYDEFIAATVHMSKLEREEHLLAAFAYFDKDGSGYITVDEL
+EQACREHNMADVGIDDIIREVDQDNDGRIDYGEFVAMMKKGIIGNGRLTMRHTSDGSVLH
+GAGsLS
+
+
+BOP CONSENSUS:
+Length: 553 aa
+
+MGNSCHGSIVPAAGDGRHHYRTSCSSSDWDDSSSpVLDRAPHRNTIMGRGAGHQHQLSSP
+TAVLGHqTPpLRDLYtVGRKLGQGQFGTTYLCTEISTGvAFACKSIAKRKLLTPEDVEDV
+RREIQIMHHLAGHdSVVTIKGAYEDAQYVHIVMELCEGGELFDRIVQRGYFSERRAAEIA
+RVIVGVVEACHSLGVMHRDLKPENFLLKDKEgNNNNNNGSGPGDKvNLKAIDFGLSVFFK
+PGQIFTDVVGSPYYVAPEVLCKHYGPEADVWTAGVIVYILLSGVPPFWAETQQGIFDAVL
+KGAIDFDSDPWPNISDSAKDLIRKMLKSPPAERLTAHQVLCHPWIIENGVAPDAPLDPAV
+LSRLKQFSAMNRLKKMALRVIARGLSEEELAGLKEMFKTMDTDGSGAITFEELREGLRRY
+GSTLRESEVRDLMEAADVDNSGTIDYDEFIAATVHMNKLEREEHLMAAFSYFDKDGSGYI
+TVDELEVACREHNMADVGIDDIIREVDQDNDGRIDYGEFVAMMKKGIIGNGRLTMRHTSD
+GSILHGAGSgLSS
+
+
+PACMAD CONSENSUS:
+Length: 539 aa
+
+MGNSCRGSStPTdyYcYGshrssalSSSlSaCSSSsSSsSsrnqyRRRCStMRGGHQQHL
+SSPTAVLGHVTPpLRDLYAVGRKLGQGQFGTTYLCTELSTGAALACKSIAKRKLLTPEDV
+DDVRREIQIMHHLAGHaSVVTIKGAYEDPLYVHIVMELCEGGELFDRIVDRGYFSERKAA
+EIARVIVGVVEACHSLGVMHRDLKPENFLLKDRGHDASLKAIDFGLSVFFKPGQVFTDVV
+GSPYYVAPEVLCKHYGPEADVWTAGVIIYILLSGVPPFWAETQQGIFDAVLKGAIDFDSE
+PWPSISDSAKDLIRRMLRSPPADRLTAHQVLCHPWICENGVAPDRALDPAVLSRLKQFSA
+MNRLKKMALRVIAQSLSEEELAGLKEMFKAMDTDGSGAITFDELKEGLRRHGSNLRESEI
+RDLMDAADVDrSGTIDYDEFIAATVHMSKLEREEHLLAAFAYFDKDGSGYITVDELEQAC
+RDHNMaDVGIDDIIREVDQDNDGRIDYGEFVAMMKKGIIGHGRLTMRHTSDGSVLHGAG
+
+================================================================================

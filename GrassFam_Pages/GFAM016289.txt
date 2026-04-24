@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM016289
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             435.0 aa
+Family Size (Extended Family Size): 34 (35) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31147:SF54
+Panther Family ID:               PTHR31147
+Modal Panther ID:                PTHR31147:SF54
+Modal Panther Description:       OS10G0105900 PROTEIN
+Modal Panther Family ID:         PTHR31147
+Modal Panther Fam Desc:          ACYL TRANSFERASE 4
+Interpro Signature Accession:    G3DSA:3.30.559.10; PTHR31147; PF02458
+Interpro Signature Description:  -; ACYL TRANSFERASE 4; Transferase family
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: 3'-N-debenzoyl-2'-deoxytaxol N-benzoyltransferase-like
+  Gene Synonyms: pmt
+  Gene Descriptions: 3'-N-debenzoyl-2'-deoxytaxol N-benzoyltransferase-like
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: acyl transferase 4-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: acyl transferase 4
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: acyl transferase 4-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl01
+  Gene Products: acyl transferase 4; acyl transferase 4-like
+  Gene Descriptions: acyl transferase 4; acyl transferase 4-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa01
+  Gene Products: acyl transferase 4-like
+  Gene Synonyms: AT4,OsAT4,OsJ_01392,OsPMT,PMT
+  Gene Descriptions: acyl transferase 4-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 3
+  Modal chromosome: Pau02
+  Gene Products: acyl transferase 4-like
+  Gene Descriptions: acyl transferase 4-like
+Svi
+  Gene count: 4
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 6
+  Modal chromosome: Pvi05K
+  Gene Products: acyl transferase 4-like; acyl transferase 4-like%2C transcript variant X2
+Pha
+  Gene count: 2
+  Modal chromosome: Pha03
+  Gene Products: acyl transferase 4-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: acyl transferase 4
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: 3-N-debenzoyl-2-deoxytaxol N-benzoyltransferase
+  Gene Synonyms: GRMZM2G028104
+  Gene Descriptions: 3-N-debenzoyl-2-deoxytaxol N-benzoyltransferase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 429 aa
+
+MGTmGFPVTRTSRSLVAPSSATPrETLRLSVIDRVAGLRHLVRSLHVFDGatrvdAeaaa
+tPArtvREALGKALVDYYPFAGRFVEEEGGEVRVACTGEGAWFVEAaAACSLEEVKHLDH
+PMLIPKEELLPEPAPDVnPLDMPLMMQVTEFTCGGFVVGLISVHTIADGLGAGQFINAVA
+DYARGLPKPRVSPVWARDLIPDPPKMPAPPPRLELLDLRYFTVDLSPDHIAKVKSrFFES
+TGQRCSAFDVCVAKTWQSRTRALRLaGrDpaRPVHVCFFANTRHLLPagAAeGFYGNCFY
+PVtATRpSGEVAAADVVDVVRAVRDAKARLAADFARWAVGGFERDPYELTFTYDSLFVSD
+WTRLGFLEADYGWGaPTHVVPFSYHPFMAVAVIGAPPAPKpGARVMTMCVEEaHLPEFQE
+QMNAFAAGN
+
+
+BOP CONSENSUS:
+Length: 433 aa
+
+MGFAVTRTSRSLVAPSSPTPAGETLRLSsLDRVPGLRHLVLSLHAFDGATRVAAVGEGEa
+AgSPARVVREALGKALVDYYPFAGRFVEEEEGGEVRVACTGEGAWFVEATAACSLEDVKH
+LDHPMVIPKEELLPEPSPDVPPLDMPLMMQVTEFTCGGFVVGLISVHTIADGLGAGQFIN
+AVGDYARGLPKPRVSPVWARDLIPDPPRMPAPPPKLELLDLREFTVDLTPDHIAKAKSDF
+FvSTGQRCSAFDVCVAKTWQSRTRALRLAGRLADDhPVHVCFFANTRHLMLAGAAEGFYG
+NCFYPVTVTCSSGEVAaGEVVDVVRAVRDAKARLAGDVARWAVGGFAQDPYELRFTYDSL
+FVSDWTRLGFLEADYGWGAPTHVVPFSYHPFMAVAVIGAPPAPKlGARVMTMCVEEAHLP
+EFRDQMNAFAAgk
+
+
+PACMAD CONSENSUS:
+Length: 429 aa
+
+MGTIGFPVTRTSRSLVAPSSATPRETLRLSVIDRVAGLRHLVRSLHVFDGrakgaeAava
+tPAKTLREALGKALVDYYPFAGRFVEEDGEVRVACTGEGAWFVEAAAACTLEEVKHLDHP
+MLIPKEELLPEPAPDVNPLDMPLMMQVTEFTCGGFVVGLISVHTIADGLGAGQFINAVAD
+YARGLPKPRVtPVWARDvIPDPPKMPAPPPRLELLDLRYFTVDLSPDHIAKVKSRFFEAT
+GQRCSAFDVCVAKTWQARVRALRLDGdDPARPVHVCFFANTRHLLPptAAsGFYGNCFYT
+VkATRPsGEVAAADVVEVVRAIRDAKARLAADFARWAAGGFERDPYELTFTYDSLFVSDW
+TRLGFLEADYGWGTPAHVVPFSYHPFMAVAVIGAPPAPKPGARVMTMCVtErHLPEFQEQ
+MNAFAAGNQ
+
+================================================================================

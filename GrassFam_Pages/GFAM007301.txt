@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM007301
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             524.0 aa
+Family Size (Extended Family Size): 23 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10353:SF335
+Panther Family ID:               PTHR10353
+Modal Panther ID:                PTHR10353:SF335
+Modal Panther Description:       BETA-GLUCOSIDASE 2
+Modal Panther Family ID:         PTHR10353
+Modal Panther Fam Desc:          GLYCOSYL HYDROLASE
+Interpro Signature Accession:    G3DSA:3.20.20.80:FF:000069; G3DSA:3.20.20.80; PTHR10353; PF00232; SSF51445
+Interpro Signature Description:  Beta-glucosidase 1; Glycosidases; GLYCOSYL HYDROLASE; Glycosyl hydrolase family 1; (Trans)glycosidases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: beta-glucosidase 22
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: beta-glucosidase 22-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: beta-glucosidase 22
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: beta-glucosidase 22-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: beta-glucosidase 22
+  Gene Descriptions: beta-glucosidase 22
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: beta-glucosidase 22-like
+  Gene Synonyms: BGLU22,Os5bglu22
+  Gene Descriptions: beta-glucosidase 22-like
+Ecu
+  Gene count: 3
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau09
+  Gene Products: beta-glucosidase 22-like%2C transcript variant X1
+  Gene Descriptions: beta-glucosidase 22-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: beta-glucosidase 22-like; beta-glucosidase 22-like%2C transcript variant X1
+Pha
+  Gene count: 2
+  Modal chromosome: Pha03
+  Gene Products: beta-glucosidase 22-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: beta-glucosidase 22-like
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: uncharacterized LOC100279348
+  Gene Synonyms: GRMZM2G055699
+  Gene Descriptions: uncharacterized LOC100279348
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 524 aa
+
+MgApPsctCRHvlLLLsLQLLLVAPWQGeTAARALNFTRQDFPRDFVFGAGTSAYQYEGA
+TDEDGRSPSIWDTFTHAGRMPDKSTGDLGADGYHKYKEDVELMSDTGLEAYRFSISWSRL
+IPRGRGPvNPKGLEYYNNLINELVKRGIEIHVTLYHLDFPQILEDEYHGWLSPRVVEDFT
+AYADACFREFGDRVRHWTTMDEPNVISIAAYDSGAFPPCRCSAPFGiNCTAGNSTVEPYi
+VAHNSILAHAAAVRLYReKYQATQKGVVGMNvYSFWNYPFSsSPADVAATQRSLDFMIGW
+ILNPLVYGDYPEIMKkKvGSRLPSFTKEQSEMIRGtaDFIGINHYTSVYVSDRSNSADTG
+LRDYNADmSATFRFSRNDPpTGQFIPINMPnDPQGLQCMLEYLtDTYqNIPVYVQENGYG
+QFFNDSInDHkRVEYLSGYIGSTLAALRNGANVKGYFVWSFLDVFELLAGYYSRYGLHHV
+DFQDPELPRQPKLSAQWYSKFLRSEIGINIEnmvSpDARSHAeQ
+
+
+BOP CONSENSUS:
+Length: 524 aa
+
+MRAIPCAVSLiQLlLvLLLLVAPWRGGGATAARALNFTRADFPGDFVFGAGTSAYQYEGA
+TDEDGRSPSIWDTFTHAGRMPDKSTGDLGADGYHRYKEDVELMSDTGLEAYRFSISWSRL
+IPRGRGPVNPKGLEYYNNLINELTKRGIQIHVTLYHLDFPQILEDEYHGWLSPRVVDDFT
+AFADACFREFGDRVRHWTTMDEPNVIAIAAYDSGAFPPCRCSAPFGmNCTaGDSTVEPYT
+VAHHSILAHASAVRLYRDKYQATQGGVVGMNIYSFWNYPFSpSPADVAATQRSLDFMVGW
+ILDPLVKGDYPEIMKKKAGSRIPSFTKEQSELIRGAIDFVGINHYTSVYVSDGKSGADAS
+LRDYNADMSATFRMSRNDSGTGQFIPINMPNDPQGLQCMLQYLTDTYQNIPIYVQENGYG
+QFFiDSVNDHNRVEYLSGYIGSTLAALRNGANVKGYFVWSFLDVFELMAGYYSRYGLHYV
+DFQDPELPRQPKLSAKWYSKFLKSEIGINIENMVSPDTRSHAQQ
+
+
+PACMAD CONSENSUS:
+Length: 523 aa
+
+MGaPSrtCRHVLLLLSLQLLLVAPWQGETAARALNFTRQDFPRDFVFGAGTSAYQYEGAT
+DEDGRSPSIWDTFTHAGRMPDKSTGDLGADGYHKYKEDVkLMSDTGLEAYRFSISWSRLI
+PRGRGPINPKGLEYYNNLINELVKRGIEIHVTLYHLDFPQILEDEYHGWLSPRVVEDFTA
+YADVCFREFGDRVRHWTTMDEPNVISIAAYDSGAFPPCRCSAPFGiNCTAGNSTVEPYIV
+GHNSILAHAAAVKLYREKYQATQKGVVGMNVYSFWNYPFSSSPADVAATQRSLDFMIGWI
+vNPLVYGDYPEvMKRIVGSRLPKFTKEQSEMIRGTADFIGINHYTSVYVSDRSNSADTGL
+RDYNADLAATFRFSRNDPPTGQFIPiNMPtDPQGLQCMLEYLSqTYKNVPVYVQENGYGA
+lFNDSIhDHKRVEYLSGYIGSTLAALRNGANVKGYFVWSFLDVFELLAGYySRYGLYHVD
+FQDPELPRqPKLSAQWYSKFLRSEIGINIEstISTDASSHAEQ
+
+================================================================================

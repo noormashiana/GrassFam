@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM019134
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             350.5 aa
+Family Size (Extended Family Size): 36 (39) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12801:SF140
+Panther Family ID:               PTHR12801
+Modal Panther ID:                PTHR12801:SF140
+Modal Panther Description:       RNA EXONUCLEASE 4
+Modal Panther Family ID:         PTHR12801
+Modal Panther Fam Desc:          RNA EXONUCLEASE REXO1 / RECO3 FAMILY MEMBER-RELATED
+Interpro Signature Accession:    cd06144; G3DSA:3.30.420.10; PTHR12801; SM00479
+Interpro Signature Description:  REX4_like; -; RNA EXONUCLEASE REXO1 / RECO3 FAMILY MEMBER-RELATED; exoiiiendus
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: RNA exonuclease 4
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 4
+  Modal chromosome: Hvu03H
+  Gene Products: RNA exonuclease 4-like; apoptosis-enhancing nuclease-like
+Ata
+  Gene count: 3
+  Modal chromosome: Ata03D
+  Gene Products: RNA exonuclease 4; RNA exonuclease 4-like
+Tae
+  Gene count: 11
+  Modal chromosome: Tae03D
+  Gene Products: RNA exonuclease 4-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: RNA exonuclease 4-like
+  Gene Descriptions: RNA exonuclease 4-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: RNA exonuclease 4
+  Gene Descriptions: RNA exonuclease 4
+Ecu
+  Gene count: 3
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: RNA exonuclease 4-like; uncharacterized LOC133910306
+  Gene Descriptions: RNA exonuclease 4-like; uncharacterized LOC133910306
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: RNA exonuclease 4-like%2C transcript variant X2; uncharacterized LOC120671845
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: RNA exonuclease 4-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: RNA exonuclease 4
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: uncharacterized LOC100274601
+  Gene Synonyms: GRMZM2G079807
+  Gene Descriptions: uncharacterized LOC100274601
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 351 aa
+
+MDSSSDAHSRHrCAACYRQFNRMEHLVEHMRaSHHSpHEPRCGVCGKHCRSLDALRDHLG
+FGASLPkKPACAtAFAArGCpLCLAVFPtAAALRAHrAaCkLSRAPpPSsvRSLTrqMsR
+pgVRGGGGAVALGCKMVGGGSDGTLDVCARVCVVDEqEaILFEsFVKPLIPVTHYRYETT
+GIRPEHLRDApTVKqAQRRVQDILLNGEQPWKVRSSRGAARLLVGHGLEHDLDALGMDYP
+AYLKRDTATYPPLMKTSaRLMSNSLRFLTrSCLGYDIQTGHQHPYEDCVAAMRLYKRMRA
+mrHGRPKdGGedDAsAAqAFPAWRQRELERMSPEELLrMSkPDYrCWCLDD
+
+
+BOP CONSENSUS:
+Length: 354 aa
+
+MDNSSDAHSRHRCAACYRQFNRMEHLVEHMRsSHHSpHEPRCGVCGKHCRSLDALRDHLG
+FGASLPSKPACATAFAAhGCPLCLAVFPtSaALRAHcPTCKLSRAPvPSSVQSLTRtMSR
+vGVRGGGGAVALGCKMVGGGSDGTLDVCARVCVVDEHEAILYESFVKPLIPVTHYRYETT
+GIRPEHLRDAPTVKQAMRRVQDILLNGEQSYKvySSRGAARLLVGHGLEHDLDALGMDYP
+AHLKRDTAtYPPLMKTSARLMSNSLRYLTRSCLGYDIQTGGHHHPYDDCVAAMRLYKRMR
+AMRHHLHGRPKDGdDDESTAKAFPAWRQRELERMSPEELLaMSKPDYrCWCLDD
+
+
+PACMAD CONSENSUS:
+Length: 350 aa
+
+MDSSSDAHGRHKCAACFRQFNKMEHLVEHMRAARHSaHEPRCgvCGKHCRSFEALRDHLG
+VGGSTLPKAAsCADAFAARGCtLCLRVLAsAAALRAHRAaCQLSRTPPppMSRLLQhHQA
+tQPQGGGGALALGCKMVGAGSDGSLDVCARVCVVDEQENvVFETFVKPLIPVTHYRYETT
+GIRPEHLRDGvTVKsAQRRVQELLLNGEQPWKVRTSRGRARLLVGHGLDHDLDALGMDYP
+AYLKRDTATYPPLMKTSKLSNSLRFLThTYLGYDIQTGHQHPYEDCVAAMRLYRRMRgQq
+HPRggGDADAPAAsADQAFPAWRQRELERMTPEELLRLSTPDYyCWCLDd
+
+================================================================================

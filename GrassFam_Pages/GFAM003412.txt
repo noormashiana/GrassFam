@@ -1,0 +1,143 @@
+================================================================================
+GrassFam ID: GFAM003412
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             667.0 aa
+Family Size (Extended Family Size): 18 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10108:SF1101
+Panther Family ID:               PTHR10108
+Modal Panther ID:                PTHR10108:SF1101
+Modal Panther Description:       METHYLTRANSFERASE
+Modal Panther Family ID:         PTHR10108
+Modal Panther Fam Desc:          SAM-DEPENDENT METHYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:3.40.50.150:FF:000084; PTHR10108; PF03141; SSF53335
+Interpro Signature Description:  probable methyltransferase PMT23; SAM-DEPENDENT METHYLTRANSFERASE; Putative S-adenosyl-L-methionine-dependent methyltransferase; S-adenosyl-L-methionine-dependent methyltransferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: probable methyltransferase PMT23
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: probable methyltransferase PMT23
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: probable methyltransferase PMT23
+Tae
+  Gene count: 2
+  Modal chromosome: Tae01A
+  Gene Products: probable methyltransferase PMT23
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: probable methyltransferase PMT23
+  Gene Descriptions: probable methyltransferase PMT23
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: probable methyltransferase PMT23
+  Gene Descriptions: probable methyltransferase PMT23
+Pau
+  Gene count: 1
+  Modal chromosome: Pau11
+  Gene Products: probable methyltransferase PMT23%2C transcript variant X1
+  Gene Descriptions: probable methyltransferase PMT23
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: probable methyltransferase PMT23; probable methyltransferase PMT23%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: probable methyltransferase PMT23
+Msi
+  Gene count: 1
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: probable methyltransferase PMT23
+Zma
+  Gene count: 2
+  Modal chromosome: Zma06
+  Gene Products: probable methyltransferase PMT23; uncharacterized LOC100383917
+  Gene Descriptions: uncharacterized LOC100383917
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 675 aa
+
+MAVPSSDRKRRPFLLSLSLFLLlSALLVLLFLFLDPSpqSLAFLPSRLSASAPSLpPPpH
+QQQSPTPVPTpGSPPhSQPnGPaAtaAkAEEKAeASQPnaTaAveAGGSGtStSPgADDS
+SgAAAVeADGKADTSVAAAGvGGdDdeapAsVRWETCRvGRGVSsTDYIPCLDNvRAIKA
+LRSRRHMEHRERHCPVAPRPRCLVPlPAGYRtPVPWPRSRDMIWYNNVPHPKLVEYKKDQ
+NWVTKSGDYLVFPGGGTQFKDGVgRYIQFIEQIMPTIQWGTHTRTVLDVGCGVASFGGYL
+LDRNVITMSFAPKDEHEAQIQFALERGIPAFLAVIGTQKLPFPDNAFDVVHCARCRVHWY
+ANGGKPLLELNRVLRPGGYFIWSATPVYRQEKRDQDDWNAMVTLTKSICWRTVVKSEDiN
+GIGVVIYQKPTSNSCYlERKTNEPPLCSKKDGSRFPWYAPLDSCILPTAVSSSDERsNWP
+vPWPERLNVRYASVPDDSAtnKEKFDADTKYWKQVISEVYFNDFPLNWSSIRNVMDMNAG
+YGGFAAALIDQPLWVMNVVPIGQPDTLPVIFNRGLIGVYHDWCESFNTYPRTYDLLHMSN
+LLGSLTNRCDIIEVAAEIDRILRPGRWFVLKDTmEMIKKMRPVLKSLHYETVVVKqQFLV
+AtKSFWRPGKASRSG
+
+
+BOP CONSENSUS:
+Length: 664 aa
+
+MAVPSADRKRRPFLLSLSLFLLLSALLVLLFLFLDSSAQSLPFLPSRLSAPtPsLPHQQH
+SPTPIPTPGsSsDSQPNgPAAAvAEAdEKADASRPNAPAAVAGGSGtStPSRtvDDSsdA
+AAVDADAtgDDVDAAGVDGGgDDGAVAEVRWETCKVRRGVSAADYIPCLDNIRAIKALRS
+RRHMEHRERHCPAPPPRCLVRmPAGYRLPVPWPRSRDMIWYNNVPHPKLVEYKKDQNWVT
+KSGDYLVFPGGGTQFKDGVARYIQFVEQIMPTIQWGTHTRTVLDVGCGVASFGGYLLDRN
+VITMSLAPKDEHEAQIQFALERGIPAFLGVIGTQKLPFPDNAFDVVHCARCRVHWYANGG
+KPLLELNRVLRPGGFFIWSATPVYRKEKRDQDDWNAMVTLTKSICWRTVVKSEDINGIGV
+VIYQKPTSNSCYLERKTNEPHLCSKKDGSRFPWYAPLDSCILPSAVSSSDETSNSPLLWP
+ERLvRYASVPDDSATTEKFDADTKYWKQVISEVYYNDFPVNWSSVRNVMDMNAGYGGFAA
+ALVDKPLWVMNVVPIGQSDTLPVIFSRGLIGVYHDWCESFNTYPRTYDvLHMSDLLGSLT
+KRCDILEVAAEIDRILRPGRWFVLKDTMDMIKKMRPVLRSLHYETVVVKRQFLVATKsFW
+RPrr
+
+
+PACMAD CONSENSUS:
+Length: 668 aa
+
+MAVPSSDRARRPFLLSLSLFLLISAILVLLFLFLDPSPGSLAFLPSRVSASAPSLPSPQQ
+QSLTPVPtRGSPPHSQPdGPLATAKAEEEASQPPSAkEARGGSGSPGADDSSGARGVEAD
+GKTDTSVAPVGkGGDeEEpPVSVRWQTCSRLGRGVSSTDYIPCLDNVRAIKALRSRRHME
+HRERHCPVAPRPRCLVPLPAGYRTPVPWPRSRDMIWYNNVPHPKLVEYKKDQNWVTRSGD
+YLVFPGGGTQFKDGVGRYIQFIEQIMPAIQWGtRTRTVLDVGCGVASFGGYLLDRNVITM
+SFAPKDEHEAQIQFALERGIPAFLAVIGTQKLPFPDNAFDVVHCARCRVHWYANGGKPLL
+ELNRVLRPGGYFIWSATPVYRQEKRDQDDWNAMVTLTKSICWRTVVKSQVVNGIGVVIYQ
+KPTSNSCYAERKANEPPLCSKTDGSRFPWYAPLDSCIFTTaiSSSDERNNWPVPWPERLN
+VRYASVPGDSASNKEKFEADTKYWKQVVSEVYFSDFPLNWSSIRNIMDMNAGFGGFAAAL
+IDQPLWVMNVVPIGQPDTLPVIFNRGLIGAYHDWCESFNTYPRTYDLLHMSNLVGSLTNR
+CDIIEVAAEIDRILRPGRWFVLKDTIEMIKKMRPVLKSLHYETVVVKQQFLVARKSFWRP
+GKPASRSG
+
+================================================================================

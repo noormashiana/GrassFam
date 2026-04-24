@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM008997
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             545.0 aa
+Family Size (Extended Family Size): 20 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR32295:SF121
+Panther Family ID:               PTHR32295
+Modal Panther ID:                PTHR32295:SF121
+Modal Panther Description:       DUF4005 DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR32295
+Modal Panther Fam Desc:          IQ-DOMAIN 5-RELATED
+Interpro Signature Accession:    G3DSA:1.20.5.190:FF:000062; PTHR32295
+Interpro Signature Description:  IQ-domain 11; IQ-DOMAIN 5-RELATED
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: protein IQ-DOMAIN 14
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: protein IQ-DOMAIN 18-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: protein IQ-DOMAIN 17
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: protein IQ-DOMAIN 17-like; protein IQ-DOMAIN 18-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl08
+  Gene Products: protein IQ-DOMAIN 17-like
+  Gene Descriptions: protein IQ-DOMAIN 17-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa08
+  Gene Products: protein IQ-DOMAIN 17
+  Gene Descriptions: protein IQ-DOMAIN 17
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN4
+Pau
+  Gene count: 2
+  Modal chromosome: Pau16
+  Gene Products: protein IQ-DOMAIN 17-like; protein IQ-DOMAIN 18-like
+  Gene Descriptions: protein IQ-DOMAIN 17-like; protein IQ-DOMAIN 18-like
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: protein IQ-DOMAIN 1-like%2C transcript variant X1; protein IQ-DOMAIN 14-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: protein IQ-DOMAIN 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100501224
+  Gene Synonyms: GRMZM2G162020
+  Gene Descriptions: uncharacterized LOC100501224
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 541 aa
+
+MGKKGGTSWLTAVKRAFRSPSKEDSPTRKASRLREDpDADEDKGKRERRRWLFRRSSSPS
+PSPAPAPAPehQQqQPrRSAPAPAVTEEQRHAIALAVATAATAEAAVATAQAAAEVVRLT
+RPsSSFVREHYAAVVIQTAFRGYLARRALRALKGLVKLQALVRGHNVRKQANMTLRCMQA
+LVRVQARVRDQRMRLSQDSMSMSGAAAGAAPCGSSKSSYSVDTStFWDSKYTHDYADRRS
+VERSRDGSSFAADDWDDRPRTIEEIQAMLQTRKDAALKRERALSYAFSHQIWRNPAPSVE
+EEMDVDGQPRWAERWMASRASFDTNRSSvRTAAAAAAPGRASTDHREPVKTLEIDTARPF
+SYSTPRRQAPGSSSPMHRAHHHSpVTPSPGKARPPIQVRSASPRVERGGGGGGSYTPSLH
+SQRHASSGAAVPNYMAATESAKARVRSQSAPRQRPATPERDRpqtGynpAGGGAKKRLSF
+PVPlDPYGgGYAQSLRSPSFKSAAGRFSSEQRSTVSSSCAESLGGDVVSPSSTTDLRRWL
+R
+
+
+BOP CONSENSUS:
+Length: 543 aa
+
+MGNKKGGSSWLTAVKRAFRSPSKEDSPKKSARLREDPDADEDKTKRERRRWLFRRSSSPS
+PSPASAPAPPEQQQSAsRSAPAPAVTDEQRHAIALAVATAATAEAAVATAQAAAEVVRLT
+RPSSSFVREHYAAIVVQTAFRGYLARRALRALKGLVKLQALVRGHNVRKQANMTLRCMQA
+LVRVQARVRDQRMRLSQESLSAAGAAACGSSKSSYSVDTSAFWDSKYTQEYAERRSVERS
+RDGSSFAAEDWDDRPRTIEEIQAMLQTRKDAALKRERALSYAFSHQIWRNPAPSVEEEMD
+VDGQPRWAERWMASRASFDTNRSSaRTAAAAAAAPGRASTDHRDQVKTLEIDTARPFSYS
+TPRRHAPPSQHGSGSPMHRAHHQASVTPSPGKARPPIQVRSASPRVERGGGGGGSYTPSL
+HSQRHASSGSAVPNYMAATESAKARIRSQSAPRQRPATPERDRPQTAYNPAGGSAKKRLS
+FPVPQDPYGVGYAQSLRSPSFKSATGRFTSEQRSTVSSLSCAESVGGEPVSPSSTTDLRR
+WLR
+
+
+PACMAD CONSENSUS:
+Length: 543 aa
+
+MGKKGGTSWLTAVKRAFRSPSKDDSSSPTRKASRLREDADgDeDKGKRERRRWLFRRSSS
+PSPSPAPAAPEHAPhPhPrPPAVTEEQRHAIALAVATAATAEAAVATAQAAAEVVRLTRP
+GtsSgfvREHYAAVVIQTAFRGYLARRALRALKGLVKLQALVRGHNVRKQANMTLRCMQA
+LVRVQARVRDQRMRLSQDSMLSMSmSGAGAAAAPCGSSKSSYSVDTSTFWDSKYTHDYAD
+RRSVERSRDGSSFAADDWDDRPRTIEEIQAMLQTRKDAALKRERALSYAFSHQIWRNPAP
+sAEEMDVDGQPRWAERWMASRASFDTNRSSIRGAAAAAPGRASMDHREPVKTLEMDTARP
+FSYSTPRRQAPSSSPMHRAHQQQHHHSPVTPSPGKARPPIQVRSASPRVDRGGGGGSYTP
+SLLHSQRHASSgAAVPNYMAATESAKARVRSQSAPRQRPATPERDRLsGGGASGAKKRLS
+FPApLqpyAAgYAQSLRSPSFKSAAGRFSSEQRSTVSSSCAESLGGDVVVSPSSTTDLRR
+WLR
+
+================================================================================

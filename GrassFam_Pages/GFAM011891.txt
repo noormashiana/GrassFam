@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM011891
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             520.0 aa
+Family Size (Extended Family Size): 34 (37) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23500:SF458
+Panther Family ID:               PTHR23500
+Modal Panther ID:                PTHR23500:SF458
+Modal Panther Description:       MAJOR FACILITATOR SUPERFAMILY (MFS) PROFILE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR23500
+Modal Panther Fam Desc:          SOLUTE CARRIER FAMILY 2, FACILITATED GLUCOSE TRANSPORTER
+Interpro Signature Accession:    cd17361; G3DSA:1.20.1250.20:FF:000002; G3DSA:1.20.1250.20; TIGR00879; PTHR23500; PR00171; PF00083; SSF103473
+Interpro Signature Description:  MFS_STP; Sugar transport protein 13; MFS general substrate transporter like domains; sugar porter family MFS transporter; SOLUTE CARRIER FAMILY 2, FACILITATED GLUCOSE TRANSPORTER; Sugar transporter signature; Sugar (and other) transporter; MFS general substrate transporter
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: sugar transport protein 7
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu05H
+  Gene Products: sugar transport protein 7; sugar transport protein 7-like%2C transcript variant X1
+Ata
+  Gene count: 4
+  Modal chromosome: Ata05D
+  Gene Products: sugar carrier protein A-like; sugar transport protein 7; sugar transport protein 7-like
+Tae
+  Gene count: 11
+  Modal chromosome: Tae05D
+  Gene Products: sugar carrier protein A-like; sugar transport protein 7-like; sugar transport protein 7-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: sugar transport protein 7
+  Gene Descriptions: sugar transport protein 7
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: sugar transport protein 7
+  Gene Descriptions: sugar transport protein 7
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: sugar transport protein 7-like
+  Gene Descriptions: sugar transport protein 7-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: sugar transport protein 7-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: sugar transport protein 7
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: sugar transport protein 7
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: Sugar transport protein 7
+  Gene Synonyms: GRMZM2G029153,pco127614(113)
+  Gene Descriptions: Sugar transport protein 7
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 521 aa
+
+MAGGGVAALGVKKERAAEYKGRMTLAVAMACLVAAVGGSIFGYDIGISGGVTSMDPFLEK
+FFPVVFRRKNSGsqNNYCKYDNQGLSAFTSSLYLAGLVSSLAASPVTRNYGRRASIVCGG
+ISFLIGAaLNVAAVNLaMLILGRIMLGVGIGFGNQAVPLYLSEMAPAHLRGGLNMMFQLA
+TTLGIFTANMINYGTQNIKPWGWRLSLGLAAAPALLMTVGGLLLPETPNSLIERGRVEEG
+RRVLERIRGTADVDAEFTDMvEASELANTIEHPFRNILERRNRPQLVMAVCMPAFQILTG
+INSILFYAPVLFQSMGFGASASLYSSVLTGAVLFsSTLISIATVDRLGRRKLLISGGIQM
+IVCQVIVAVILGVKFGaDKQLSRSYSIAVVVVICLFVLAFGWSWGPLGWTVPSEIFPLET
+RSAGQSITVAVNLFFTFVIAQAFLSLLCAFKFGIFLFFAGWITVMTVFVYVFLPETKGVP
+IEEMVLLWRKHWFWKKVMPDMPLEDGWGaGdGraAdnnnHK
+
+
+BOP CONSENSUS:
+Length: 518 aa
+
+MAGGGMAALGVKKERAAEYKGRMTlAVAMACLVAAVGGSIFGYDIGISGGVTSMDPFLEK
+FFPVVFRRKNSghQNNYCKYDNQGLSAFTSSLYLAGLVSSLaASPVTRNYGRRASIVCGG
+ISFLIGAALNAAAVNLtMLILGRIMLGVGIGFGNQAVPLYLSEMAPAHLRGGLNMMFQLA
+TTLGIFTANMINYGTQkIKPWGWRLSLGLAAAPALLMTVGGLLLPETPNSLIERGRVEEG
+RRVLERIRGTADVDAEFTDMAEASELANTIKHPFRNILERRNRPQLVMAVCMPAFQILTG
+INSILFYAPVLFQSMGFGASASLYSSVLTGAVLlFSTLISIATVDRLGRRKLLISGGIQM
+IVCQVIVAVILGVKFGTDKQLSRSYSIAVVvVICLFVLAFGWSWGPLGWTVPSEIFPLET
+RSAGQSITVAVNLFFTFVIAQAFLSLLCAFKFGIFLFFAGWIAVMTVFVYVFLPETKGVP
+IEEMVLLWRKHWFWKKVMPDMPLEDGWGPGDGrradHK
+
+
+PACMAD CONSENSUS:
+Length: 522 aa
+
+MAGGGVAALGVKTERAAQYKGRMTLAVAMTCLVAAVGGAIFGYDIGISGGVTSMDPFLEK
+FFPVVFHRKNSGsKNNYCKYDNQGLAAFTSSLYLAGLVASLAASPVTRNYGRKASIVCGG
+VSFLIGATLNVAAVNLAMLILGRIMLGVGIGFGNQAVPLYLSEMAPAHLRGGLNMMFQLA
+TTLGIFTANLINYGTQNIKPWGWRLSLGLAAAPALLMTLGGLFLPETPNSLIERGRVEEG
+RRVLERIRGTADVDAEFTDMVEASELANTIEHPFRNILERRNRPQLVMAVCMPAFQILTG
+INSILFYAPVLFQSMGFGGNASLYSSVLTGAVLFSSTLISIGTVDRLGRRKLLISGGIQM
+IVCQVIVAVILGVKFGADKQLSRSYSIAVVVVICLFVLAFGWSWGPLGWTVPSEIFPLET
+RSAGQSITVAVNLLFTFAIAQAFLSLLCAFKFGIFLFFAGWITVMTVFVYVFLPETKGVP
+IEEMVLLWRKHWFWKKVMPDMPLEDGWGAAEGnAAPANNNHK
+
+================================================================================

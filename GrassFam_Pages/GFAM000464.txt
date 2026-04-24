@@ -1,0 +1,116 @@
+================================================================================
+GrassFam ID: GFAM000464
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             534.0 aa
+Family Size (Extended Family Size): 46 (48) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               Conflicted
+Modal Panther ID:                PTHR24281:SF286
+Modal Panther Description:       INDOLE-2-MONOOXYGENASE
+Modal Panther Family ID:         PTHR24281
+Modal Panther Fam Desc:          STEROID 21-HYDROXYLASE-RELATED
+Interpro Signature Accession:    cd11072; G3DSA:1.10.630.10:FF:000055; G3DSA:1.10.630.10; PTHR47955; PR00463; PF00067; SSF48264
+Interpro Signature Description:  CYP71-like; Cytochrome P450 71A26; Cytochrome P450; CYTOCHROME P450 FAMILY 71 PROTEIN; E-class P450 group I signature
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Hvu
+  Gene count: 5
+  Modal chromosome: Hvu02H
+  Gene Products: 3-hydroxyindolin-2-one monooxygenase-like%2C transcript variant X2; indole-2-monooxygenase-like
+Ata
+  Gene count: 3
+  Modal chromosome: Ata02D
+  Gene Products: indole-2-monooxygenase; indole-2-monooxygenase-like
+Tae
+  Gene count: 10
+  Modal chromosome: Tae02B
+  Gene Products: indole-2-monooxygenase-like; indolin-2-one monooxygenase-like
+Ecu
+  Gene count: 8
+  Modal chromosome: EcuUN4
+Pau
+  Gene count: 2
+  Modal chromosome: Pau16
+  Gene Products: indole-2-monooxygenase-like
+  Gene Descriptions: indole-2-monooxygenase-like
+Svi
+  Gene count: 3
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: indole-2-monooxygenase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: indole-2-monooxygenase-like
+Msi
+  Gene count: 7
+  Modal chromosome: Msi13
+Sbi
+  Gene count: 4
+  Modal chromosome: Sbi07
+  Gene Products: indole-2-monooxygenase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: indole-2-monooxygenase-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 533 aa
+
+MaqvqHgLHELLLQArSPPqAALVVSvLLVCPLLVLLvVRRfaTpTAtATARAREqLLSK
+LPSPPsRLPIIGHLHLVGSLPHVSLRDLAAKHGRDGLMLLRLGAVPTLVVSSPSAAQAVL
+RTHDHVFASRAYSPVTDILFYGSTDVAFsPYGEHWRQVKKIATTHLLTNKKVRSYRHARE
+HEVRLVVAKIReAAsAGTAiDLSeLLNAFtNDIVCHAVSGKFFREeGRNKLFRELVEANS
+SLIGGFNLEDYFPvLVKLDIIKRMVCAKAQKVNKMWDdLLnnLIDdHASKPASEhDGEES
+DFIDVLLSiQQEYnLTRDHIKAQLvIMFEAGTDTSFIVLEYAMVqLMQNPHLMNKLQAEV
+RSTIpKGKEMVTEDDLnSLAYLKAVIKETLRLHMPAPLLVPHLSMADCnIeGYTIPSGTR
+vIVNSWALARDPSyWEsAEEFMPERFMEGGSAAAMDYKGNDFlYLPFGtGRRICPGINFA
+IaTIEVMLANLVYHFNWELPpELmEkGIDMTESFGVTVHRTEKLLLVPVVPQD
+
+
+BOP CONSENSUS:
+Length: 534 aa
+
+MVqPLHsLHELLLQARSPHAALGLVFVLLVCPLLVLLVVRRLATPSTAAATARAREELLS
+KLPSPPSRLPIIGHLHLVGSLPHVSLRDLAAKHGRDGLMLLRLGAVPTLVVSSPSAAQAV
+LRTHDHVFASRPYSPVTEILFYGPTDVAFCPYGEHWRQVKKIATTHLLTNKKVRSYRHAR
+EHEVRLVVAKIRDAASKCTAIDLSDLLNAFTNDIVCHAVSGKLFREQGHNKLFRELVEAN
+SLLlGGFNLEDYFPMLVKLDIIKRMVCAKAQKVNKMWDnLLNNIIDEHASKSvpEHNnED
+nDFIDVLLSIQQEYnLTRDHIKAQLEIMFEAGTDTSFIVLEYAMVrLMQNPHLMNKLQaE
+VRSTIpKGKEMVTEDDLdSLAYLKAVIKETLRLHMPGPLLVPHLSMADCNIKGYTIPSGI
+RVIINSWALARDPSSWEHADEFMPERFMEgGSAATMDYKGNDFlYLPFGTGRRICPGINF
+AIATIEIMLANLMYHFNWKLPvELMEGGISMTElFGmTVHRKEKLLLVPVVPqD
+
+
+PACMAD CONSENSUS:
+Length: 535 aa
+
+MAQVLQvrHGlHELLqAkSPPQAALVVSvLLlVCPLLvLLLVRRRfsTTTAtARAREQLL
+SKLPSPPrRLPIIGHLHLVGSLPHVSLRDLAAKHGRDGLMLLRLGAVPTLVVSSPSAAQA
+VLRTHDHVFASRAYSPVTDILFYGSTDVAFSPYGEHWRQVKKIATTHLLTNKKVRSYRHA
+REHEVRLVVAKIREAAaAGTAVDLSELLNSFANDIVCHAVSGKFFREEGRNKLFRELVEA
+NSSLIGGFNlEDYFPvLVKLDiVKRMVCAKAQKVNKMWDDLLdKLIDDHASKPASErDGE
+ESDFIDVLLSVQQEYnLTRDHIKAQLVvMFEAGTDTSFIVLEYAMveLMQNPrLMnKLQA
+EVRsTIaKGKEiVTEDELNsLAYLKAVIKETLRLHMPAPLLVPHLSMADCDIEGYTIPSG
+TRAIVNSWALARDPSYWEkAEEFMPERFMEGGSAAAMDYKGNDFqYLPFGaGRRICPGIN
+FAISTIEVMLANLVYHFNWELPpELAekGIDMTESFGVTVHRTEKLLLVPVvPQD
+
+================================================================================

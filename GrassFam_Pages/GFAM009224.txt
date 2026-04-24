@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM009224
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             452.0 aa
+Family Size (Extended Family Size): 24 (28) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43721:SF23
+Panther Family ID:               PTHR43721
+Modal Panther ID:                PTHR43721:SF23
+Modal Panther Description:       ELONGATION FACTOR TU
+Modal Panther Family ID:         PTHR43721
+Modal Panther Fam Desc:          ELONGATION FACTOR TU-RELATED
+Interpro Signature Accession:    cd01884; cd03707; cd03697; G3DSA:3.40.50.300:FF:000003; G3DSA:2.40.30.10:FF:000001; G3DSA:3.40.50.300; G3DSA:2.40.30.10; NF000766; NF009373; NF009372; TIGR00485; PTHR43721; PF00009; PF03143; SSF52540; SSF50465; SSF50447
+Interpro Signature Description:  EF_Tu; EFTU_III; EFTU_II; Elongation factor Tu; -; Translation factors; elongation factor Tu; ELONGATION FACTOR TU-RELATED; Elongation factor Tu GTP binding domain; Elongation factor Tu C-terminal domain; P-loop containing nucleoside triphosphate hydrolases; EF-Tu/eEF-1alpha/eIF2-gamma C-terminal domain; Translation proteins
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: elongation factor Tu%2C mitochondrial
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: elongation factor Tu%2C mitochondrial
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: elongation factor Tu%2C mitochondrial
+Tae
+  Gene count: 5
+  Modal chromosome: Tae05B
+  Gene Products: elongation factor Tu%2C mitochondrial-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: elongation factor Tu%2C mitochondrial
+  Gene Descriptions: elongation factor Tu%2C mitochondrial
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: elongation factor Tu%2C mitochondrial
+  Gene Descriptions: elongation factor Tu%2C mitochondrial
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: elongation factor Tu%2C mitochondrial-like
+  Gene Descriptions: elongation factor Tu%2C mitochondrial-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: elongation factor Tu%2C mitochondrial-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: elongation factor Tu%2C mitochondrial
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: elongation factor Tu%2C mitochondrial
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: putative translation elongation/initiation factor family protein; uncharacterized LOC100194026%2C transcript variant X1
+  Gene Synonyms: GRMZM2G022269; GRMZM2G305216,GRMZM2G313678
+  Gene Descriptions: putative translation elongation/initiation factor family protein; uncharacterized LOC100194026
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 452 aa
+
+MAAAAVLRNAGSRRLFSYPTLRAAvISGPAALPDAPAAAAAPpQPPPmAGTLWARSMATF
+TRTKPHVNVGTIGHVDHGKTTLTAAITKVLAEAGKAKAVAFDEIDKAPEEKARGITISTA
+HVEYETAKRHYAHVDCPGHADYVKNMITGAAQMDGGILVVSAPDGPMPQTKEHILLARQV
+GVPSLVCFLNKVDAVDDPELLELVEMELRELLSFYKFPGDEIPIIRGSALSALQGTNDEI
+GKNAILKLMDAVDEYIPDPVRQLDKPFLMPIEDVFSIQGRGTVVTGRVEQGTIKTGEDVE
+ILGLTQSGPLKTTVTGVEMFKKILDHGEAGDNVGLLLRGLKRGDVERGQVVCKPGTLKTY
+KKFEAEIYVLTKDEGGRHTAFmSNYSPQFYFRTADITGKIELPgdVKMVMPGDNVTAnFE
+LISPVPLEPGQRFALREGGRTVGAGVVSKVmS
+
+
+BOP CONSENSUS:
+Length: 451 aa
+
+MAAAAVLRGGSRRVLAYPTLRAAVISGPAALPDAaAAAGPQPPPPPLAAGLWARSMATFT
+RTKPHVNVGTIGHVDHGKTTLTAAITKVLAEAGSAKAVAFDEIDKAPEEKARGITISTAH
+VEYETAKRHYAHVDCPGHADYVKNMITGAAQMDGGILVVSAPDGPMPQTKEHILLARQVG
+VPSLVCFLNKVDAVEDEELLELVEMELRELLSFYKFPGDDIPIIRGSALSALNGTNEEIG
+KNAILKLMDAVDSYIPDPVRVLDKSFLMPIEGVFSIQGRGTVVTGRIEQGVIKTGEDVEV
+LGLTESGPVKTTVTGVEMFKKMMDHGEAGDNVGLLLRGLKRGDVERGQVVCKPGTVKTYK
+KFEAEIYVLTKDEGGRHTAFFSNYSPQFYFRTADITGKIELPPDVKMVMPGDNVTAIFEL
+MSPVPLEPGQRFALREGGRTVGAGVVAKVMS
+
+
+PACMAD CONSENSUS:
+Length: 452 aa
+
+MASAAVLRNAGSRRLFSYPTLRAAAISAPAALPDAPAAAAAPAQPPPMAGTLWARSMATF
+TRTKPHVNVGTIGHVDHGKTTLTAAITKVLAEAGKAKAVAFDEIDKAPEEKARGITIATA
+HVEYETAKRHYAHVDCPGHADYVKNMITGAAQMDGGILVVSAPDGPMPQTKEHILLARQV
+GVPSLVCFLNKVDAVDDPELLELVEMELRELLSFYKFPGDEIPIIRGSALSALQGTNDEI
+GKNAILKLMDAVDEYIPDPVRQLDKPFLMPIEDVFSIQGRGTVVTGRVEQGTIKTGEDVE
+ILGLTQSGPLKTTVTGVEMFKKILDHGEAGDNVGLLLRGLKRGDVERGQVVCKPGSLKTY
+KKFEAEIYVLTKDEGGRHTAFMSNYSPQFYFRTADVTGKVELLGEtKMVLPGDNVTANFE
+LISPVPLEPGQRFALREGGRTVGAGVVSKVIS
+
+================================================================================

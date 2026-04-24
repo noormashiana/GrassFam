@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM006139
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             419.0 aa
+Family Size (Extended Family Size): 41 (54) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23073:SF167
+Panther Family ID:               PTHR23073
+Modal Panther ID:                PTHR23073:SF167
+Modal Panther Description:       AAA+ ATPASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR23073
+Modal Panther Fam Desc:          26S PROTEASOME REGULATORY SUBUNIT
+Interpro Signature Accession:    cd19502; G3DSA:2.40.50.140:FF:000046; G3DSA:3.40.50.300:FF:000033; G3DSA:1.10.8.60:FF:000018; G3DSA:3.40.50.300; G3DSA:2.40.50.140; PTHR23073; PF00004; SSF52540
+Interpro Signature Description:  RecA-like_PAN_like; 26S protease regulatory subunit 6B; -; 26S PROTEASOME REGULATORY SUBUNIT; ATPase family associated with various cellular activities (AAA); P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi03
+  Gene Products: 26S proteasome regulatory subunit 6B homolog
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu02H
+  Gene Products: 26S proteasome regulatory subunit 6B homolog
+Ata
+  Gene count: 2
+  Modal chromosome: Ata02D
+  Gene Products: 26S proteasome regulatory subunit 6B homolog
+Tae
+  Gene count: 6
+  Modal chromosome: Tae02A
+  Gene Products: 26S proteasome regulatory subunit 6B homolog
+Ola
+  Gene count: 2
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: 26S proteasome regulatory subunit 6B homolog
+  Gene Descriptions: 26S proteasome regulatory subunit 6B homolog
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: 26S proteasome regulatory subunit 6B homolog
+  Gene Descriptions: 26S proteasome regulatory subunit 6B homolog
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 3
+  Modal chromosome: Pau04
+  Gene Products: 26S proteasome regulatory subunit 6B homolog
+  Gene Descriptions: 26S proteasome regulatory subunit 6B homolog
+Svi
+  Gene count: 2
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi01K
+  Gene Products: 26S proteasome regulatory subunit 6B homolog
+Pha
+  Gene count: 2
+  Modal chromosome: Pha01
+  Gene Products: 26S proteasome regulatory subunit 6B homolog
+Msi
+  Gene count: 5
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi01
+  Gene Products: 26S protease regulatory subunit 6B homolog
+Zma
+  Gene count: 2
+  Modal chromosome: Zma04
+  Gene Products: 26S protease regulatory subunit 6B-like protein; 26S proteasome regulatory complex ATPase RPT3
+  Gene Synonyms: GRMZM2G038126,si486068c09; GRMZM2G090904
+  Gene Descriptions: 26S protease regulatory subunit 6B-like protein; 26S proteasome regulatory complex ATPase RPT3
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 420 aa
+
+MSAATTAPaPPVATPMAPPPSYPASSTaSASVAASaEDDDDLYGRLKSLQRHMEFVEIQE
+EYVKDEQKNLKRELLRAQEEVKRIQSVPLVIGQFMEMVDGNNGIVGSTTGSNYYVRILST
+INRELLKPSASVALHRHSNALVDVLPPEADSSISLLGSSEKPNVTYNDIGGCDIQKQEIR
+EAVELPLTHHELYKQIGIDPPRGVLLYGPPGTGKTMLAKAVAHHTTAAFIRVVGSEFVQK
+YLGEGPRMVRDVFRLAKENAPAIIFIDEVDAIATARFDAQTGADREVQRILMELLNQMDG
+FDQTVNVKVIMATNRADTLDPALLRPGRLDRKIEFPLPDRRQKRLVFQVCTAKMNLSDEV
+DLEDYVSRPDKISAADIAAICQEAGMHAVRKNRYVILPKDFEKGYRTNVKKPETDFDFYK
+
+
+BOP CONSENSUS:
+Length: 419 aa
+
+MSTAATAPPPAAVLPAAPPPSYPATSAPSASAAAAEDDDDLYGRLKSLQRHMEFVEIQEE
+YVKDEQKNLKRELLRAQEEVKRIQSVPLVIGQFMEMVDGNNGIVGSTTGSNYYVRILSTI
+NRELLKPSASVALHRHSNALVDVLPPEADSSISLLGSSEKPNVTYTDIGGCDIQKQEIRE
+AVELPLTHHELYKQIGIDPPRGVLLYGPPGTGKTMLAKAVAHHTTAAFIRVVGSEFVQKY
+LGEGPRMVRDVFRLAKENAPAIIFIDEVDAIATARFDAQTGADREVQRILMELLNQMDGF
+DQTVNVKVIMATNRADTLDPALLRPGRLDRKIEFPLPDRRQKRLVFQVCTAKMNLSDEVD
+LEDYVSRPDKISAADIAAICQEAGMHAVRKNRYVILPKDFEKGYRTNVKKPETDFDFYK
+
+
+PACMAD CONSENSUS:
+Length: 420 aa
+
+MSAATTGPAPPVATPMAPPPSYPASSTASASVAASvEDDDDLYGRLKSLQRHMEFVEIQE
+EYVKDEQKNLKRELLRAQEEVKRIQSVPLVIGQFMEMVDGNNGIVGSTTGSNYYVRILST
+INRELLKPSASVALHRHSNALVDVLPPEADSSISLLGSSEKPNVTYNDIGGCDIQKQEIR
+EAVELPLTHHELYKQIGIDPPRGVLLYGPPGTGKTMLAKAVAHHTTAAFIRVVGSEFVQK
+YLGEGPRMVRDVFRLAKENAPAIIFIDEVDAIATARFDAQTGADREVQRILMELLNQMDG
+FDQTVNVKVIMATNRADTLDPALLRPGRLDRKIEFPLPDRRQKRLVFQVCTAKMNLSDEV
+DLEDYVSRPDKISAADIAAICQEAGMHAVRKNRYVILPKDFEKGYRTNVKKPETDFDFYK
+
+================================================================================

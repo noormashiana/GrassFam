@@ -1,0 +1,109 @@
+================================================================================
+GrassFam ID: GFAM002443
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             514.0 aa
+Family Size (Extended Family Size): 19 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10353:SF204
+Panther Family ID:               PTHR10353
+Modal Panther ID:                PTHR10353:SF204
+Modal Panther Description:       BETA-GLUCOSIDASE 20
+Modal Panther Family ID:         PTHR10353
+Modal Panther Fam Desc:          GLYCOSYL HYDROLASE
+Interpro Signature Accession:    G3DSA:3.20.20.80:FF:000069; G3DSA:3.20.20.80; PTHR10353; PF00232; SSF51445
+Interpro Signature Description:  Beta-glucosidase 1; Glycosidases; GLYCOSYL HYDROLASE; Glycosyl hydrolase family 1; (Trans)glycosidases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Ola
+  Gene count: 2
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 3
+  Modal chromosome: Ogl05
+  Gene Products: beta-glucosidase 19; beta-glucosidase 20%2C transcript variant X1; beta-glucosidase 21
+  Gene Descriptions: beta-glucosidase 19; beta-glucosidase 20; beta-glucosidase 21
+Osa
+  Gene count: 3
+  Modal chromosome: Osa05
+  Gene Products: beta-glucosidase 19-like%2C transcript variant X2; beta-glucosidase 20-like; beta-glucosidase 21
+  Gene Synonyms: BGLU19,Os5bglu19; BGLU20,Os5bglu20,OsJ_18258; BGLU21,Os5bglu21,OsJ_18259
+  Gene Descriptions: beta-glucosidase 19-like; beta-glucosidase 20-like; beta-glucosidase 21
+Ecu
+  Gene count: 3
+  Modal chromosome: Ecu07
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi03K
+  Gene Products: beta-glucosidase 20-like%2C transcript variant X1; beta-glucosidase 20-like%2C transcript variant X3; beta-glucosidase 21-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: beta-glucosidase 20-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi17
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: beta-glucosidase 20%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 511 aa
+
+MgRLLLlFlPWLLLLLLssQgVSaLrFTRDDFPDGFAFGAGTAAYQYEGAAAEDGRSPSI
+WDTYAHSaRNPnegTGDvASDGYHKYKEDVKLMkDIGLEAYRFTISWSRLIPsGRGAVNP
+KGLQFYNnMINELVKeGIQIHAVLYHlDLPQILEDEYGGWlSPKIVDDFTAYADVCFREF
+GDRVAHWTTiLEPNImAQGsYDiGILPPNRCSYPFGsNCTVGNSTVEPYLFiHHsLLAHs
+SAVRLYREKYQAAQKGvVGINLYSLWfYPLTDSAEDIqATERAKDFLFGWILHPLVFGDY
+PETMKKAAGSRLPSFSsYESELVTnAFDFIGLNHYSSIYaSNNPNAvKmPLQDqTADvga
+LFRaTKDgtPttqflPGtMVDPQGLEHaLkYIREKYGNLsIYIQENGsGqsDdTLmDVER
+IDyLkKYIAaTLKAIRdGANVKGYSVWSFMDLYEIFGGYKAHFGLVAVDFgseERrRQPR
+rSAhWYSDFLKNNAvIrVEdGfatAaSHAQL
+
+
+BOP CONSENSUS:
+Length: 514 aa
+
+MtRRPLHLLvLFSSPWLLLLLLQGVSSLQFTRDDFPDGFAFGAGTAAYQYEGAAAEDGRT
+PSIWDTYTHSGRNPEDGTGDVASDGYHKYKEDVKLMtEIGLEAYRFTISWSRLIPSGRGA
+VNPKGLQFYNSMINELVKAGIQIHVVLYHsDLPQSLQDEYGGWISPKIVDDFTAYADVCF
+REFGDRVAHWTTVLEPNVMAQGGYDtGILPPNRCSYPFGSNCTvGNSTVEPYLFIHHTLL
+AHASAVRLYREKYQVAQKGVVGINIYSMWFYPLTDSAEDIGATERAKDFMYGWILHPLVF
+GDYPETMKKAAGSRLPsFSNYESELVTNAFDFIGLNHYSSVYTSNNNNVVKAPLQDLTAD
+IATLFRATKNDTPTPEFLPGTtVDPRGLEHALEYLREKYGNLtIYIQENGSGSSDgTLDD
+VERINYLtKYIAATLKAIRNGANVKGYSVWSFMDLYEIFGGYKaHFGLVAVDFGSEERRR
+QPRRSASWYSDFLKNNAVIRVEDGtVSAASHAQL
+
+
+PACMAD CONSENSUS:
+Length: 511 aa
+
+MGRRLLlFLPWLLLLLLsSHAVTAlRFTVDDFPDGFAFGAGTAAFQYEGAvAEDGRSPSI
+WNTYAHSARNPNEhSGDIASDGYHKYKEDVKLMKDIGLeAYRFTISWSRLIPnGRGAVNP
+KGLQFYNDMINELVKEGIQIHAVLYHLDLPQILEDEYGGWLSPRIVDDFTAYADVCFREF
+GDRVAHWTTmLEPNIIAQGSYDiGilPPGHCSYPFGrNCTVGNSTVEPYLFLHySLLAHS
+SvVrLYREKYQAVQKGvVGINLYSLwIYpLTDSAEDIQATERANDFLFGSILHPFLFGDY
+PESMKKAAGsRLPSFSSYESELVTGAFDFIGLNHYSSIYASNNPDASkMPVRDQAADvGA
+LFReTRDGppstQyPPGrMVDPQGLEHvLkYIREKYGNISIYIQENGRGGsDDtLMDVER
+IDFLKKYIASTLKAIRDGADVKGYSVWSLMDLYEIFGGYKAHFGLIaVDFdtpRRQRQPR
+LSAHWYSDFLKNNAaIqVEsGfATaTSHAQI
+
+================================================================================

@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM007406
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             369.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43725:SF15
+Panther Family ID:               PTHR43725
+Modal Panther ID:                PTHR43725:SF15
+Modal Panther Description:       BIFUNCTIONAL UDP-GLUCOSE 4-EPIMERASE AND UDP-XYLOSE 4-EPIMERASE 1
+Modal Panther Family ID:         PTHR43725
+Modal Panther Fam Desc:          UDP-GLUCOSE 4-EPIMERASE
+Interpro Signature Accession:    cd05247; G3DSA:3.40.50.720:FF:000040; G3DSA:3.90.25.10:FF:000060; G3DSA:3.40.50.720; G3DSA:3.90.25.10; NF007956; TIGR01179; PTHR43725; PF16363; SSF51735
+Interpro Signature Description:  UDP_G4E_1_SDR_e; UDP-glucose 4-epimerase; UDP-glucose 4-epimerase 4; -; UDP-glucose 4-epimerase GalE; UDP-GLUCOSE 4-EPIMERASE; GDP-mannose 4,6 dehydratase; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: UDP-glucose 4-epimerase 3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: UDP-glucose 4-epimerase 3-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: UDP-glucose 4-epimerase 3
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: UDP-glucose 4-epimerase 3-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: UDP-glucose 4-epimerase 3
+  Gene Descriptions: UDP-glucose 4-epimerase 3
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: UDP-glucose 4-epimerase 3-like
+  Gene Synonyms: OJ1439_F07.18,OsJ_30076,OsUGE-3,UGE-3
+  Gene Descriptions: UDP-glucose 4-epimerase 3-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau20
+  Gene Products: UDP-glucose 4-epimerase 3-like
+  Gene Descriptions: UDP-glucose 4-epimerase 3-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: bifunctional UDP-glucose 4-epimerase and UDP-xylose 4-epimerase 1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: UDP-glucose 4-epimerase 3-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: UDP-glucose 4-epimerase 3
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: Bifunctional UDP-glucose 4-epimerase and UDP-xylose 4-epimerase 1
+  Gene Synonyms: GRMZM2G052336,IDP1704
+  Gene Descriptions: Bifunctional UDP-glucose 4-epimerase and UDP-xylose 4-epimerase 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 366 aa
+
+MAIGGagAGGGaGAeGqgRSVLVTGGAGFIGTHTVLRLLEKGYaVTVVDNFHNSVPEALD
+RVRlIAGPALSARLDFIlGDLrSKDDLEKVFAAKRYDAVIHFAGLKAVGESVAHPEMYYe
+NNiVGTiNLYkvMKKHGCnKLVFSSSATVYGQPEKiPCVEDSKLqALNPYGRTKLiLEdM
+ARDYHrADPEWSIILLRYFNPIGAHsSGEIGEDPKGIPNNLLPYIQQVAVGRLPELNVYG
+HDYPTRDGTAIRDYIHVVDLADGHIAALEKLFATPDIGCVAYNLGTGRGTTVLEMVaAFE
+KASGKEIPtKmCPRRPGDaTEVYASTEKAERELGWRAQYGIEEMCRDQWNWAKKNPYGYC
+GnAEKK
+
+
+BOP CONSENSUS:
+Length: 368 aa
+
+MAIGGVGAGGGAGsGEGQGRSVLVTGGAGFIGTHTVLQLLEKGYAVTAVDNFHNSVPEAL
+DRVRHIVGPALSARLQFIFGDLTIKDDLEKVFAAKRYDAVIHFAGLKAVAESVAHPEMYN
+RNNIVGTVNLYDVMKKHGCNKLVFSSSATVYGQPEKVPCVEDSPLKALNPYGRTKLYLEE
+MLRDYQHANPEWRTILLRYFNPIGAHESGDIGEDPRGVPNNLLPYIQQVAVGRRPELNVY
+GHDYRTRDGTAVRDYIHVVDLADGHIAALEKLFATPDIGCVAYNLGTGRGTTVLEMVSAF
+EKAYGKKIPVKMCPRRPGDSEQVYASTAKAEeELGWRAKYGIEEMCRDQWNWAKKNPYGY
+CGNAENKD
+
+
+PACMAD CONSENSUS:
+Length: 368 aa
+
+MAIGGEAaNGGGGGGAAGArRSVLVTGGAGFIGTHTVLRLLEQGYGVTVVDNFHNSVPEA
+LDRVRLIAGPALSARLDFILGDLRSiDDLEKVFAAKRYDAVIHFAGLKAVGESVAHPEMY
+YENNLVGTINLYKTMKKHGCmKMVFSSSATVYGWPEEIPCVEDSKLQAANPYGRTKLILE
+DMARDYHRADPEWSIVLLRYFNPIGAHSSGEIGEDPKGIPNNLLPYIQQVAVGRLPELNV
+YGHDYPTRDGTAIRDYIHVVDLADGHIAALNKLFDTPDIGCVAYNLGTGRGTSVLEMVAA
+FKKASGKEIPTKFCPRRPGDATEVYASTEKAERELGWRAQYGIEEMCRDQWNWAKKNPYG
+YCGSAEKK
+
+================================================================================

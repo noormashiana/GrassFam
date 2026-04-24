@@ -1,0 +1,120 @@
+================================================================================
+GrassFam ID: GFAM000829
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             441.0 aa
+Family Size (Extended Family Size): 25 (50) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47967:SF83
+Panther Family ID:               PTHR47967
+Modal Panther ID:                PTHR47967:SF83
+Modal Panther Description:       OS05G0375700 PROTEIN
+Modal Panther Family ID:         PTHR47967
+Modal Panther Fam Desc:          OS07G0603500 PROTEIN-RELATED
+Interpro Signature Accession:    cd05476; G3DSA:2.40.70.10:FF:000094; G3DSA:2.40.70.10:FF:000069; G3DSA:2.40.70.10; PTHR47967; PF14541; PF14543; SSF50630
+Interpro Signature Description:  pepsin_A_like_plant; Eukaryotic aspartyl protease family protein; Acid Proteases; OS07G0603500 PROTEIN-RELATED; Xylanase inhibitor C-terminal; Xylanase inhibitor N-terminal; Acid proteases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Tae
+  Gene count: 1
+  Modal chromosome: Tae06D
+  Gene Products: aspartic proteinase nepenthesin-1-like
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: aspartic proteinase nepenthesin-1-like
+  Gene Descriptions: aspartic proteinase nepenthesin-1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: aspartic proteinase nepenthesin-1
+  Gene Descriptions: aspartic proteinase nepenthesin-1
+Ecu
+  Gene count: 3
+  Modal chromosome: Ecu06
+Pau
+  Gene count: 1
+  Modal chromosome: Pau23
+  Gene Products: aspartic proteinase nepenthesin-1-like
+  Gene Descriptions: aspartic proteinase nepenthesin-1-like
+Svi
+  Gene count: 3
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 5
+  Modal chromosome: Pvi03K
+  Gene Products: aspartic proteinase nepenthesin-1-like
+Pha
+  Gene count: 3
+  Modal chromosome: Pha03
+  Gene Products: aspartic proteinase nepenthesin-1-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: aspartic proteinase nepenthesin-1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: Eukaryotic aspartyl protease family protein; aspartic proteinase nepenthesin-1
+  Gene Synonyms: GRMZM2G060680
+  Gene Descriptions: Eukaryotic aspartyl protease family protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 438 aa
+
+MARPLLWLALLCASLaFaTccAGLRLELTHVDAKENCTvEERMRRATERTHRRLASMGGV
+tAPVRWsETQYIAEYLIGDPPQRAEAIIDTGSNLIWTQCStCRPaGCFsQNLsfYDPSRS
+RTArPVACNDTACALGSETRCaRDGkACAVLTaYGAGdIAGVLGTEVFTFGSENVSLAFG
+CVTASRLTPGSLDGASGIIGLGRGALSLVSQLGDTKFSYCLTPYFSDAVNTSHLFVGASA
+GLSGGAPVTSVPFvKNPsDDPFsTFYYLPLvGITVGtAKLAVPAAAFDLRQVAPGvWAGT
+LIDSGSPFTSLVDVAYQALRAELVRQLGASLVPPPAraEGLDLCVArGDAGKLVPPLVLH
+FGSGGGGGGDVVVPPENYWAPVDdaTACMVVFSSAgPNATLPmNETTIIGNYMQQDMHLL
+YDLGNGVLSFQPADCSSM
+
+
+BOP CONSENSUS:
+Length: 480 aa
+
+MATPLLLLELLCFSMALAGGAALRLELAHVDANEHCTMEERVRRATERTHHRRLLHASTA
+AAAGGVAAPLRWSGKTQYIASYGIGDPPQPAEAVVDTGSDLVWTQCSTCRLPAAAAAGGG
+GCFPQNLPYYNFSLSRTARAVPCDDDDGALCGVAPETAGCARGGGSGDDACVVAASYGAG
+VALGVLGTDAFTFPSSSSVTLAFGCVSQTRISPGALNGASGIIGLGRGALSLVSQLNATE
+FSYCLTPYFRDTVSPSHLFVGDGELAGLSAVLGGGGGGAPVTTVPFAKNPKDSPFSTFYY
+LPLVGLAAGNATVALPAGAFDLREAAPKVWAGGALIDSGSPFTRLVDPAHRALTKELARQ
+LRGSGSLVPPPAKLGGALELCVEAGDDGDSLAAAAVPPLVLRFDDGVGGGRELVIPAEKY
+WARVEASTWCMAVVSSASGNATLPTNETTIIGNFMQQDMRVLYDLANGLLSFQPANCSAV
+
+
+PACMAD CONSENSUS:
+Length: 438 aa
+
+MARPLLWLALLCASLtFtTccAGIRLELTHVDAKENCTveERMRRATERTHRRLASMGGV
+TAPVRWaETQYIAEYLIGDPPQRAEAIIDTGSNLIWTQCStCRPAGCFsQNLSFYDPSRS
+RTAqPVACNDTACALGSETRCtRDgkACAVLTAYGAGaIAGVLGTEVFTFGSENVSLAFG
+CITASRLTPGSLDGASGIIGLGRGALSLVSQLGDTKFSYCLTPYFSDAvNTSHLFVGASA
+GLSGgaPVTSVPFvKNPddDPFsTFYYLPLaGITVGtAKLAVPAAAFDLRQVAPGvWAGT
+LIDSGSPFTSLVDVAYQALRAELVRQLGASLVPPPAraEGLDLCVArGDAGKLVPPLVLH
+FGSGGGGGGDVVVPPENYWAPVDDATACMVVFSSAgPNATLPmNETTIIGNYMQQDMHLL
+YDLGNGVLSFQPADCSSM
+
+================================================================================

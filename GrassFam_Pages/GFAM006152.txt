@@ -1,0 +1,105 @@
+================================================================================
+GrassFam ID: GFAM006152
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             506.0 aa
+Family Size (Extended Family Size): 17 (17) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23070:SF238
+Panther Family ID:               PTHR23070
+Modal Panther ID:                PTHR23070:SF238
+Modal Panther Description:       AAA+ ATPASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR23070
+Modal Panther Fam Desc:          BCS1 AAA-TYPE ATPASE
+Interpro Signature Accession:    cd19510; G3DSA:3.40.50.300; PTHR23070; SSF52540
+Interpro Signature Description:  RecA-like_BCS1; -; BCS1 AAA-TYPE ATPASE; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: AAA-ATPase At3g28580-like
+Tae
+  Gene count: 2
+  Modal chromosome: Tae07B
+  Gene Products: AAA-ATPase At3g28580-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl12
+  Gene Products: AAA-ATPase At3g28580-like; AAA-ATPase At5g40000-like
+  Gene Descriptions: AAA-ATPase At3g28580-like; AAA-ATPase At5g40000-like
+Osa
+  Gene count: 6
+  Modal chromosome: Osa12
+  Gene Products: AAA-ATPase At3g28580; AAA-ATPase At3g28580-like
+  Gene Descriptions: AAA-ATPase At3g28580; AAA-ATPase At3g28580-like
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi08K
+  Gene Products: AAA-ATPase At3g28580-like; AAA-ATPase At3g28580-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi09
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 509 aa
+
+MAsvEKWVGFGSAMAGVGLLWSRMPEHVHDEARYIISSwVPMVMSYFNPYEQITISEYGE
+ERFRRNKMFDAVSTYLRsACLGsAtKLKAELGNNskDDPLvtLDENQEVVDcfDGARMWW
+RLcPKasKNrGSTvISlFPGDTDEPRCYRLVFHKRHRQLVLdtYLPGilRrWRELIAtnR
+QRLLFTNHSKqGekSmWTsVPYNPPATFDMLAMDHaKKVEIMDDLrAFqkGKEYHSKVGK
+AWKRGYLLHGPPGTGKSTMIGAMANFLdYDVYDLDLTSVKDNAELRKLFLDTTDKSIIVI
+EDIDAIEVELTTKRKGKKaANGdEvDDNHVLIELSnKtDDKSKVTLSGLLSFVDGLWSAC
+GsERVFVFTTNHVDRLDPALIRRGRMDkHIEMSYCRFeAFKVLAKSYLDITEHSLFGEIG
+RLLDETDTTPADVAdNLMPRGKRNGEISRLLDEiDGAPADVAGNlMLRCKRKRDADeCLA
+GLVETLKKAKMESATPPMDtiEEaKEEQT
+
+
+BOP CONSENSUS:
+Length: 505 aa
+
+MAtlETWVGFGSAMAGVGLLWSRMPEHVHEEARYIISSwVPMVMSYFNPYEQITVSEYGE
+ERFRRNKMFDAVSTYLrSAClGsAtKLKAELGNNggDDPlVtLDENQEVVDclDGARMWW
+RLyPKASKNrGSTIISmFPGdtDEPRCYRLVFHKRHRQLVLkTYLPGIlRrWRELTAKdR
+QRrLFTNHsKQGeiSmWTSVPYNPPATFDMLAMDHAKKVEImDDLrAFQKGKEYHSKVGK
+AWKRGYLLYGPPGTGKSTMIGAMANFLDYDVYDLDLTSVKNNAELRKLFLDTTDKSIIVI
+EDIDAIEVELTTNRKGKKmdNsDEvDNNHVLVELSnKtDDKSKVTLSGLLSFVDGLWSAC
+GSERVFVFTTNHVDRLDPALIRRGRMDKHIEMSYCRFdAFKVLAKNYLDITEHSLFgEIg
+RLLDETDTTPADVAhNLMPRGKRNGEISRLIDEIDmaPADVAGRCKRKRDADECLAGLVE
+TLKKAKMESATpPMdtieEEKEEQT
+
+
+PACMAD CONSENSUS:
+Length: 504 aa
+
+MALSVEKWVGFGSAMAGFGLLWSRMPEHVHDEARYIISSLVPMVMSYFNPYEQITISEYG
+EERFRRNKMFDAVSTYLRRACLDHASKLKAELGNNSKDDPLISLDENQEVVDNFDGARMW
+WRLCPKSAKNRGGTVISLLPGDSDEPRCYRLVFHKRHRKLVVDSYLPSVVRQWRELIATN
+RQRLLFTNHSQDGKSHWINVPYNPPATFDMLAMDHSKKVEIMEDLTAFREAKEYHSKVGK
+AWKRGYLLHGPPGTGKSTMIGAMANFLEYDVYDLDLTSIKDNAELRKLFLDTTDRSIIVI
+EDIDAIEVELTTKRKSKEAAEENDDNHLVIEVSDKNDKGKVTLSGLLSFVDGLWSACGTE
+RIFVFTTNHVDRLDPALIRRGRMDRHIEMSYCRFEAFKMLAKSYLDITEHSLFGEIGQLL
+DEIDTTPADVADSLMPRGKRNGEIDRLLDEMNGAPADVAGNLMLRVKRRREADDCLARLV
+ETLKKAKMKSAAPPMDSMEEAKEE
+
+================================================================================

@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM011168
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             355.5 aa
+Family Size (Extended Family Size): 24 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11557:SF8
+Panther Family ID:               PTHR11557
+Modal Panther ID:                PTHR11557:SF8
+Modal Panther Description:       HYDROXYMETHYLBILANE SYNTHASE
+Modal Panther Family ID:         PTHR11557
+Modal Panther Fam Desc:          PORPHOBILINOGEN DEAMINASE
+Interpro Signature Accession:    cd13648; G3DSA:3.30.160.40:FF:000001; G3DSA:3.40.190.10:FF:000004; G3DSA:3.40.190.10:FF:000101; G3DSA:3.40.190.10; TIGR00212; PTHR11557; PIRSF001438; PR00151; PF01379; SSF53850
+Interpro Signature Description:  PBP2_PBGD_1; Porphobilinogen deaminase; Porphobilinogen deaminase, chloroplastic; -; hydroxymethylbilane synthase; PORPHOBILINOGEN DEAMINASE; PBGD; Porphobilinogen deaminase signature; Porphobilinogen deaminase, dipyromethane cofactor binding domain; Periplasmic binding protein-like II
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: porphobilinogen deaminase%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: porphobilinogen deaminase%2C chloroplastic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: porphobilinogen deaminase%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: porphobilinogen deaminase%2C chloroplastic; porphobilinogen deaminase%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: porphobilinogen deaminase%2C chloroplastic%2C transcript variant X1
+  Gene Descriptions: porphobilinogen deaminase%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: porphobilinogen deaminase%2C chloroplastic-like%2C transcript variant 1
+  Gene Synonyms: HEMC,HMBS,OsJ_05540,PBG
+  Gene Descriptions: porphobilinogen deaminase%2C chloroplastic-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: porphobilinogen deaminase%2C chloroplastic; porphobilinogen deaminase%2C chloroplastic-like%2C transcript variant X1
+  Gene Descriptions: porphobilinogen deaminase%2C chloroplastic; porphobilinogen deaminase%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: porphobilinogen deaminase%2C chloroplastic; porphobilinogen deaminase%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: porphobilinogen deaminase%2C chloroplastic
+Msi
+  Gene count: 3
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi04
+  Gene Products: porphobilinogen deaminase%2C chloroplastic; porphobilinogen deaminase%2C chloroplastic%2C transcript variant X2
+Zma
+  Gene count: 2
+  Modal chromosome: Zma04
+  Gene Products: camouflage 1; uncharacterized LOC100284619%2C transcript variant X1
+  Gene Synonyms: GRMZM2G026117; GRMZM2G041159,pco070684
+  Gene Descriptions: camouflage 1; uncharacterized LOC100284619
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 356 aa
+
+MVsLRCTTAHHSLLGSPTCLARPRRRaCpVVRAAVAVQAgAQAKVSLIRIGTRGSPLALA
+QAHETRDKLKAAHSELAEEGAIEIVIIKTTGDMILDKPLADIGGKGLFTKEIDDALLQGR
+IDIAVHSMKDVPTYLPEGTILPCNLPREDVRDAFICLTANSLAELPAGSVVGSASLRRQS
+QILYRYPSLKVVNFRGNVQTRLRKLKEGDVHATLLALAGLKRLNMAENATSVLSVDEMLP
+AVAQGAIGIACRSNDDKMMEYLSSLNHEDTRLAVACEREFLsVLDGNCRTPIAAYAYRDK
+DGNCSFRGLLASPDGSkVYETSRSGPYSFDDMVAMGKDAGHELKAKAGPGFFDSLQ
+
+
+BOP CONSENSUS:
+Length: 351 aa
+
+MATLRCTNHTLLGSPTCLARPRRAVVRAAVAVQAEAQPKVSLIRIGTRGSPLALAQAHET
+RDKLKAAHTELAEDGAVEIIIIKTTGDMILDKPLADIGGKGLFTKEIDDALLQGRIDIAV
+HSMKDVPTYLPEGTILPCNLPREDVRDAFICLTAKTLGELPAGSVVGSASLRRQSQILYK
+YPSLKVVNFRGNVQTRLRKLKEGDVHATLLALAGLKRLNMAETATSVLSVDEMLPAVAQG
+AIGIACRSNDDKMMEYLSSLNHEDTRLAVACEREFLSVLDGNCRTPIAAYAYRDKDGNCS
+FRGLLASPDGSIVYETSRSGTYSFDDMVAIGQDAGHELKSKAGPGFFDGLQ
+
+
+PACMAD CONSENSUS:
+Length: 356 aa
+
+MVSLRCTTAHHSLLGSPTCLARPRRRACPVVRAAVAVEAGAQAKVSLIRIGTRGSPLALA
+QAHETRDKLKAAHSELAEEGAIEIVIIKTTGDMILDKPLADIGGKGLFTKEIDDALLQGR
+IDIAVHSMKDVPTYLPEGTILPCNLPREDVRDAFICLTANSLAELPAGSVVGSASLRRQS
+QILYRYPSLKVVNFRGNVQTRLRKLKEGDVHATLLALAGLKRLNMAENATSVLSVEEMLP
+AVAQGAIGIACRSNDDKMMEYLSSLNHEDTRLAVACEREFLAVLDGNCRTPIAAYAYRDK
+DGNCSFRGLLASPDGSKVYETTRSGPYSFDDMVEMGKDAGHELKAKAGPGFFDSLQ
+
+================================================================================

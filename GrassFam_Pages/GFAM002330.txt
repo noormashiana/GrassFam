@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM002330
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             479.0 aa
+Family Size (Extended Family Size): 26 (27) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31934:SF6
+Panther Family ID:               PTHR31934
+Modal Panther ID:                PTHR31934:SF6
+Modal Panther Description:       ALPHA_BETA-HYDROLASES SUPERFAMILY PROTEIN
+Modal Panther Family ID:         PTHR31934
+Modal Panther Fam Desc:          ALPHA/BETA-HYDROLASES SUPERFAMILY PROTEIN
+Interpro Signature Accession:    G3DSA:3.40.50.1820; PTHR31934
+Interpro Signature Description:  alpha/beta hydrolase; ALPHA/BETA-HYDROLASES SUPERFAMILY PROTEIN
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: uncharacterized LOC100822065%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: uncharacterized LOC123448129
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: uncharacterized LOC109779119%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: uncharacterized LOC123086314; uncharacterized LOC123091720%2C transcript variant X1; uncharacterized LOC123096702%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl11
+  Gene Products: uncharacterized LOC127754269%2C transcript variant X9; uncharacterized LOC127757812%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127754269; uncharacterized LOC127757812
+Osa
+  Gene count: 2
+  Modal chromosome: Osa11
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC4351290; uncharacterized LOC9268777
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau22
+  Gene Products: uncharacterized LOC133904731%2C transcript variant X3
+  Gene Descriptions: uncharacterized LOC133904731
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi01N
+  Gene Products: uncharacterized LOC120642242%2C transcript variant X1; uncharacterized LOC120643401; uncharacterized LOC120656447; uncharacterized LOC120696520%2C transcript variant X2
+Pha
+  Gene count: 2
+  Modal chromosome: Pha03
+  Gene Products: uncharacterized LOC112886143%2C transcript variant X2; uncharacterized LOC112902432%2C transcript variant X3
+Msi
+  Gene count: 3
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: uncharacterized LOC8070337%2C transcript variant X4
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: alpha/beta-Hydrolases superfamily protein%2C transcript variant X1
+  Gene Synonyms: GRMZM2G014329,GRMZM2G166753
+  Gene Descriptions: alpha/beta-Hydrolases superfamily protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 479 aa
+
+MREsPSTQGEPSTSASVDDSySADRVEDSQLFLSVPALNQAASYLAQTASYLTQCLPVPG
+YTGLSEEGQELATLPPASTsGRpSvQTSSaESAGTnSSPGqIDCSGSsSQEnTGQMAPSR
+VFQNGASLFQGLVERARKTVRGSADDIGWLQRDQSLPtTEDGTARFLEILDSVRKNEHKL
+PDSVVYLLVPGLFSNHGPLYFVKTKAYFSKMGLACHIAKIHSESSVSKNAREIKEYIEEI
+YWGSRKRVLLLGHSKGGVDAAAALSLYWPQLKDKVAGLVLAQSPYGGSPVASDILREGQL
+GDYVRLRKLMEILVSKVLKGDLQALEDLTYERRKEFLRQHPLPQEVPIVSFHTEASITPS
+VLTALSHVAHLELPIAADGNPTRIPVVMPLSAAMAACSQLLVARYGEKSDGLVTRKDAEV
+PGSVVVRPERKLDHAWMVYSSLKEEPGDQADTSQVCEALLTLLVEVAQKRRHEmAMKDE
+
+
+BOP CONSENSUS:
+Length: 477 aa
+
+MEPSAQGqPSTSaSVDDSQSVdRAEDSQLFPSVPALNQAASNLAQIASYFTQCLPVPGYT
+GIPEEGQELAILPPVSTSGRPALQTSSAELDGSSLSPsEIDNTGSSSQEISGQMAPFRVF
+QNGASLFQGLVDRARKTVRGSADDIGWLQRtQSLPpTEDGTTRFLEILDSVRKNEHKLPD
+SVVYLLVPGLFSNHGPLYFVKTKAYFSKMGLVCHIAKIHSESSVSKNAREIKEYIEEIYW
+GSRKRVLLLGHSKGGVDAAAALSLYWPQLKDKVAGLVLAQSPYGGSPVASDILREGQLGD
+YVMLRKLMEILVSKVLKGDLQALEDLTYERRKEFLrQHPLPPEVPIVSFHTEASITPSVL
+TALSHVAHVELPvAADGNPARIPVVMPLSAALAACSQLLVARYGEKSDGLVTRKDAEVPG
+SVAVRPERKLDHAWMVYSSMNEEPGDQADTSQVCEALLTLLVEVAQKRRHEmAMKDE
+
+
+PACMAD CONSENSUS:
+Length: 479 aa
+
+MRESPSTQGEPSTSAtVDDSCSADRVEDSQLFLSVPALNQAASYLAQTASFLTQCLPVPG
+YVGLSEEDQELVTLPPASAVDRLSVQTSSVESAGTNSSLGQaDCSGSPSQENTGQMVPSH
+VFQNGASLFQGLVERARKTVRGSADDIGWLQRDQSLPTTEDGTARFLEILDSVRKNEHKL
+PDSVVYLLVPGLFSNHGPLYFVKTKAYFSKMGLACHIAKIHSESSVSKNAREIKEYIEEI
+YWGSRKRVLLLGHSKGGVDSAAALSLYWPQLKDKVAGLVLAQSPYGGSPVASDILREGQL
+GDYVRLRKIMEILVSKVLKGDLQALEDLTYERRKEFLRQHPLPQEVPIVSFHTEASITPS
+VLTALSHVAHLELPIAADGNSTRIPVVMPLSAAMAACSQLLVARYGEKSDGLVTRKDAEV
+PGSVVVRPERKLDHAWMVYSSLKEEPGDQADTSQVCEALLTLLVEVAQKRRHEtAMKDE
+
+================================================================================

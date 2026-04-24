@@ -1,0 +1,127 @@
+================================================================================
+GrassFam ID: GFAM003144
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             464.5 aa
+Family Size (Extended Family Size): 82 (93) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Weak
+Panther Family ID:               PTHR48049
+Modal Panther ID:                PTHR48049:SF158
+Modal Panther Description:       GLYCOSYLTRANSFERASE
+Modal Panther Family ID:         PTHR48049
+Modal Panther Fam Desc:          GLYCOSYLTRANSFERASE
+Interpro Signature Accession:    cd03784; G3DSA:3.40.50.2000:FF:000037; G3DSA:3.40.50.2000:FF:000088; G3DSA:3.40.50.2000; PTHR48049; SSF53756
+Interpro Signature Description:  GT1_Gtf-like; Glycosyltransferase; Glycogen Phosphorylase B;; GLYCOSYLTRANSFERASE; UDP-Glycosyltransferase/glycogen phosphorylase
+
+
+REXdb Match:                     False
+REXdb Percentage:                1.22%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 5
+  Modal chromosome: Bdi05
+  Gene Products: UDP-glycosyltransferase 91C1; putative UDP-rhamnose:rhamnosyltransferase 1
+Lpe
+  Gene count: 10
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 8
+  Modal chromosome: Hvu05H
+  Gene Products: UDP-glycosyltransferase 91B1-like; UDP-glycosyltransferase 91C1-like; UDP-glycosyltransferase 91D2-like
+Ata
+  Gene count: 7
+  Modal chromosome: Ata05D
+  Gene Products: UDP-glycosyltransferase 91B1; UDP-glycosyltransferase 91C1; UDP-glycosyltransferase 91C1-like; UDP-glycosyltransferase 91D2-like
+Tae
+  Gene count: 22
+  Modal chromosome: Tae05B
+  Gene Products: UDP-glycosyltransferase 91C1-like; UDP-glycosyltransferase 91D1-like; UDP-glycosyltransferase 91D2-like; putative UDP-rhamnose:rhamnosyltransferase 1; uncharacterized LOC123155511
+Ola
+  Gene count: 3
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 4
+  Modal chromosome: Ogl03
+  Gene Products: UDP-glycosyltransferase 91C1-like
+  Gene Descriptions: UDP-glycosyltransferase 91C1-like
+Osa
+  Gene count: 3
+  Modal chromosome: Osa03
+  Gene Products: UDP-glycosyltransferase 91C1
+  Gene Descriptions: UDP-glycosyltransferase 91C1
+Ecu
+  Gene count: 7
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau04
+  Gene Products: UDP-glycosyltransferase 91B1-like; UDP-glycosyltransferase 91C1-like%2C transcript variant X1
+  Gene Descriptions: UDP-glycosyltransferase 91B1-like; UDP-glycosyltransferase 91C1-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi08N
+  Gene Products: UDP-glycosyltransferase 91C1-like; soyasaponin III rhamnosyltransferase-like
+Msi
+  Gene count: 5
+  Modal chromosome: Msi02
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100272814%2C transcript variant X1; uncharacterized LOC100284228
+  Gene Synonyms: GRMZM2G022266; gpm263,GRMZM2G066067
+  Gene Descriptions: uncharacterized LOC100272814; uncharacterized LOC100284228
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 463 aa
+
+MDAgSSSSSPLRvVICPWLAFGHLLPYLELAERLASRGHRVSfVSTPRNlARLPPvRPAA
+APRVDLVALPLPRVDGLPDGAESTNDVPdDKfELHwKAFDGLAAPFAEFLaAACADeGtR
+PDWiIADtFHHWAAAAAlEHKVPCAMLLPtAAtiAAawarpssehAAAkearaaavPRYE
+tErrAplytdqGASGMSiAqRcsLTlERCtLvAIRSCvEWEPESFPLvaTLlGKPVVPLG
+LLPPSPDGGRRAaaggEhATVRWLDAQPPkSVVYVALGSEVPLRVEQVHELALGLELAGT
+RFLWALRKPsGVpDADiLPPGFQERTRGrGLVTTGWVPQmSILAHaAVGAFLTHCGRNSL
+IEGLLFGHPLVMLPIFGDQGPNARLMEgKKVGLQVaRDEnDGSFDRHGVAsAVRAVMVEE
+EaRRVFVANAkKMQEIVADkElHERYIDEFvQQLRSYkaagat
+
+
+BOP CONSENSUS:
+Length: 460 aa
+
+MDAGSSSSSPLRVVIcPWLAFGHLLPYLELAERLASRGHRVSyVSTPRNLARLPPVRPAa
+APRVDLVALPLPRVDGLPDGAESTNDVPdDkRELHwKAFDGLAAPFAEFLAAACAdeGtR
+PHWIIADtFHHWAAAAAlEHKVPCAMLLPtAAtiAAwarppsEhAAarAaaaPRYEtErr
+AplytdqGASGMSiAqRwsLTlERCtLvAIRSCVEWEPESFPLvaTLlGKPVVPLGLLPP
+SPDGGRRaaktgaEHATVRWLDAQPpkSVVYVALGSEVPLRvEQVHELALGLELAGTRFL
+WALRKPsGAaDADmLPPGFQERTRGrGLVTTGWVPQMSILAHaAVGAFLTHCGRNSLIEG
+LLFGHPLVMLPIFGDQGPNARqMEaKKVGLQVARDEsDGSFDRHGVAaAVRAVMVEEEaR
+RvFVANAkKMQEVVADtErHERYIDeFIQQLRSYkAAgAt
+
+
+PACMAD CONSENSUS:
+Length: 471 aa
+
+MDAsSSSSaPLRvVICPWLAFGHLLPYLELAERLASRGHRVSFVSTPrNIARLPPlRPAA
+APRVDLVALPLPRVDGLPDGAESTNdVPhDKFELLfKAFDGLAAPFAEFLgAACADEGrR
+PDWVIVDtFHHWAAAAAlEHKVPCAMLLPSAAsIAAwasRsSshAEpAAvfveErPAavP
+RYEsEqkaqlFtnHGASGMSIAqRfsLTLERCTitAMRSClEWEPEsFPLVAaLLGKPVV
+PLGLLPPSPDGGRGAgaNGEDATVRWLDAQPPsSVVYVALGSEVPLRVEQVHELALGLEL
+AGTRFLWALRKPsGVpDADILPPGFQERThGRGLVTMGWVPQiSILAHGAVGAFLTHCGR
+NSLIEGLLFGHPLIMLPIFGDQGPNARLMEGKKVGLQVPRDEnDGSFDRHGVASAVRAVM
+LEEETRgVFVANALKmQEIVADKELHERYIDEFvQQLRSYttdhnSSsAae
+
+================================================================================

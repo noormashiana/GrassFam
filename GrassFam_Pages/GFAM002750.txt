@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM002750
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             432.0 aa
+Family Size (Extended Family Size): 19 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12482:SF64
+Panther Family ID:               PTHR12482
+Modal Panther ID:                PTHR12482:SF64
+Modal Panther Description:       DUF676 DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR12482
+Modal Panther Fam Desc:          LIPASE ROG1-RELATED-RELATED
+Interpro Signature Accession:    G3DSA:3.40.50.1820:FF:000175; PTHR12482; PF05057
+Interpro Signature Description:  Hydrolase-like protein family; LIPASE ROG1-RELATED-RELATED; Putative serine esterase (DUF676)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: putative lipase YDR444W%2C transcript variant X6
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: lipid droplet phospholipase 1%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: putative lipase YDR444W%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: putative lipase YDR444W%2C transcript variant X1; putative lipase YDR444W%2C transcript variant X8
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: putative lipase YDL109C%2C transcript variant X1
+  Gene Descriptions: putative lipase YDL109C
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: putative lipase C4A8.10%2C transcript variant X2
+  Gene Descriptions: putative lipase C4A8.10
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: putative lipase YDL109C; uncharacterized LOC133930839
+  Gene Descriptions: putative lipase YDL109C; uncharacterized LOC133930839
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: putative lipase YDL109C%2C transcript variant X3; putative lipase YDR444W%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: putative lipase YDR444W
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: putative lipase YDR444W%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: Hydrolase-like protein family%2C transcript variant X7
+  Gene Synonyms: GRMZM2G103137
+  Gene Descriptions: Hydrolase-like protein family
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 435 aa
+
+MASTLCSPrHHsRSYnSRsLRlsPLGPACSSsSGSGsPSGLntaryLYSHPmSRGSPVSC
+SSMDtSKSKQGPDHLLVLVHGIMASPSDWTYGEAVLKRRLGDNFFIYASSSNIYTKTFDG
+IDVAGRRLAnEVLDVVqKMssLRKISFLAHSLGGLFARYAISILYSqETKNtGQSSAqIV
+PTtrGSEKSRCTSGLGAIAGLEPINFITLATPHLGVRGRNQLPFLQGLSILEKLAAPLAP
+LIVGRTGAQLFLTDGEPSKPPLLLQMASDcEDKKFIsALAAFKNRILYANVSYDHMVGWR
+TSSIRREKDLiKPLHRSLDGYKHIVNVEYCSPVSSeGPHFPSKAARAKEAAQRTPNtENT
+EEYHQMMEEEMIHGLQKVGWKKVDVNFHSSlWPYSAHNNIHVKNEWLHNAGAGVIAHVAD
+SIKQQESRPCLPANL
+
+
+BOP CONSENSUS:
+Length: 431 aa
+
+MASTLCSPRHHHRSHiCRRRLRPSPPsHARPRSGAGgPpGLNTTKYLCSHPMSTGRGSPV
+SCSSMEASKSKQGPEHLIVLVHGIMASPSDWTYGEAVLKKRLGDNFFIYASSSNIYAKSF
+DGINVAGRRLAKEVLDVVQKMAGLKKISFIAHSLGGLFARYAISILYSQQAKETGSGASV
+MLTSGGSEISRTSGLGAIAGLEPTNFITLATPHLGVRGKNQLPFLQGLSILEKLAAPLAP
+FIVGRTGAQLFLTDGEPSKPPLLLLMTSDHEDKKFISALAAFKNRILYANVSYDHMVGWK
+TSSIRRELDLRKPLRRSLDGYKYIVNVEYCSPVSSDGPHFPSRAARAKEAAQSTPNmENT
+EEYHQMMEEEMIRGLQRVGWKKVDVNFHASLWPYSAHNNMHVKNEWLHNAGAGVIAHVAD
+SmKQTCLPSSL
+
+
+PACMAD CONSENSUS:
+Length: 438 aa
+
+MASTACSLPHGHSLRRSYNSRsLRlSPvGPACSSSSGSGSPSGLKSArNLYLHPVSRGSt
+VvCSvMDTSKSKQGPDHLLILVHGIMASPKDWTYGEAVLKRRLGDNFFIYASSSNIYTKT
+FDGIDIAGRRLADEVLDVVnKMSSLRKISFLAHSLGGLFARYAIAILYSvETKNaGQSSA
+qIVPTTRGSAKSRCTSGLGAIAGLEPINFITLATPHLGVRGRNQLPFLQGLSILEKLAAP
+LAPLIVGRTGAQLFLTDGDPSKPPLLLQMASDCEDKKFILALAAFKNRVLYANVSYDHMV
+GWRTSSlRREKDLIKPSHRSLDGYKHIVNVEYCSPVSSEGPHFPSKAARAKEAAQRTPNT
+ENTEEYHQMMEEEMIHGLQKVGWKKVDVNFHSSFWPYSAHNNIHVKNEWLHNAGAGVIAH
+VADSIKQQESRPCLPANL
+
+================================================================================

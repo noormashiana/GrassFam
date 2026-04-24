@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM003210
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             474.0 aa
+Family Size (Extended Family Size): 19 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10015:SF461
+Panther Family ID:               PTHR10015
+Modal Panther ID:                PTHR10015:SF461
+Modal Panther Description:       HEAT STRESS TRANSCRIPTION FACTOR A-5
+Modal Panther Family ID:         PTHR10015
+Modal Panther Fam Desc:          HEAT SHOCK TRANSCRIPTION FACTOR
+Interpro Signature Accession:    G3DSA:1.10.10.10:FF:000057; G3DSA:1.10.10.10; PTHR10015; PF00447; SM00415; SSF46785
+Interpro Signature Description:  Heat shock transcription factor 1; -; HEAT SHOCK TRANSCRIPTION FACTOR; HSF-type DNA-binding; hsfneu3; Winged helix DNA-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: heat stress transcription factor A-5
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: heat stress transcription factor A-5
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: heat stress transcription factor A-5
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: heat stress transcription factor A-5-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: heat stress transcription factor A-5
+  Gene Descriptions: heat stress transcription factor A-5
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: heat stress transcription factor A-5-like
+  Gene Synonyms: HSF06,HSFA5,OsHsf-06
+  Gene Descriptions: heat stress transcription factor A-5-like
+Pau
+  Gene count: 1
+  Modal chromosome: Pau06
+  Gene Products: heat stress transcription factor A-5%2C transcript variant X2
+  Gene Descriptions: heat stress transcription factor A-5
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: heat stress transcription factor A-5-like; heat stress transcription factor A-5-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: heat stress transcription factor A-5
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: heat stress transcription factor A-5
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: uncharacterized LOC100274128
+  Gene Synonyms: cl29574_1(465),GRMZM2G179802,HSF29
+  Gene Descriptions: uncharacterized LOC100274128
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 476 aa
+
+MEVAGSGGGGGGGGGGGGPAPFLLKTYEMVDDPSTDAVVSWSDASDgSFVVWNsPEFAAR
+LLPTYFKHSNFSSFIRQLNTYGFRKIDPERWEFANEYFVKGQKHLLKNIHRRKPIHSHSH
+QPGALPDNERALFEDEIDRLSREKAnLQADLWKFNQQQSGTMsQIEDLERRVLDMEQRQg
+KMIAFLQQASKNPQFVsKLVKMAEASSIFADAFHKKRRLPGLDYstEATETTSFYDDHSS
+TSRQEMGNLLNQHFSDKLKLGLCPAMTESNLITLSTQSSHEDNGSPHGKHPdCeRMGtEC
+LPLVPQMMELSDTGTSICPSKSssFTPAvNDeGLLPCHLSLTLASCSMDVDRSQiSNANG
+nTtvDEsDNPpEATTATMEKDDGIpRRcDtNqKASgDaGTADATTPRgDsQvAtEEPAAP
+PVVANDKFWEQFLTERPGCSEAEEASSGLRRDPSmDkgQtYggTrsDRrDMEQLKL
+
+
+BOP CONSENSUS:
+Length: 457 aa
+
+MEvSGGAGArGGGGGGPAPFLLKTYEMVDDPSTDAVVSWSDASDTSFVVWNSPEFAARLL
+PAYFKHSNFSSFIRQLNTYGFRKIDPERWEFGNEYFVKGQKHLLKNIYRRKPIHSHSHQP
+GALPDNERSFFEDEIDRLAREKANLQAELWKSKQQQSGTMFQIEDLERRVVDMEQRQGKM
+IAFLQQASKNPHFVnKLVKMAEASSMFADALHKKRRLSGLDYAVEATETTSFYDDHSaTS
+RQEMGNLLNQHFSDKLKLGLCPAaTESNLVTLSTQSSHEDNGSPHGRHPPCDGMGTGCLP
+LVPQMMELSDTGTSICPSKSSFFTPAVNDEGLSPCHLSLTLASCSMDVDRSQASNADGST
+TVDEGSDNPpEATtAAMGgNQKASVDAGTADAtTPREDARVATEPAAPVVVNDNFWEQFL
+TERPGDASSGPRDPSMDKGQTEGgeKDDREDTEQLKL
+
+
+PACMAD CONSENSUS:
+Length: 481 aa
+
+MEVAGARGSGSGGGGGGGGGGPAPFLLKTYEMVDDPSSDAVVSWSDASDGSFVVWNPPEF
+AARMLPTYFKHSNFSSFIRQLNTYGFRKIDPERWEFANEYFVKGQKHLLKNIHRRKPIHS
+HSHQPGALPDNERALFEDEIDRLSREKAALQADLWKFNQQQSGAVSQIEDLERRVLDMEQ
+RQVKMLSFLQQASKNPQFVSKLvKMAEaSPIFADAFHKKRRLPGLEYsTEATETTTSFYD
+DHSSTSRQEMGNLLNQHFSDKLKLGLCPAMTESNLITLSTQSSHEDNGSPHGKHPDCERT
+GMECLPLVPQMMELSDTGTSICPSKSVSFTAAANDDGlLPCHLNLTLASCSMDVnRSQIS
+dANGNtVDEkDGPpEvTTATMEKDDGIPdRcHDDTQNkASGDsGTAADATGrPHrGSQAP
+PEEhAAPPVVANDKFWEQFLTERPGCSEAEEASSTLRRDPDHTQAYEDTRSDRRDMGQLK
+L
+
+================================================================================

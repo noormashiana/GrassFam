@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM020768
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             449.5 aa
+Family Size (Extended Family Size): 22 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR16517:SF149
+Panther Family ID:               PTHR16517
+Modal Panther ID:                PTHR16517:SF149
+Modal Panther Description:       TUBBY-LIKE F-BOX PROTEIN 8
+Modal Panther Family ID:         PTHR16517
+Modal Panther Fam Desc:          TUBBY-RELATED
+Interpro Signature Accession:    cd22153; G3DSA:3.20.90.10:FF:000003; G3DSA:3.20.90.10; PTHR16517; PR01573; PF01167; SSF54518
+Interpro Signature Description:  F-box_AtTLP-like; Tubby-like F-box protein; Tubby Protein; Chain A; TUBBY-RELATED; Tubby superfamily signature; Tub family; Tubby C-terminal domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: tubby-like F-box protein 8
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: tubby-like F-box protein 8
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: tubby-like F-box protein 8%2C transcript variant X2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: tubby-like F-box protein 8; tubby-like F-box protein 8%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: tubby-like F-box protein 8
+  Gene Descriptions: tubby-like F-box protein 8
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: tubby-like F-box protein 8
+  Gene Synonyms: OJ1058_F05.11,OsJ_017918,OsJ_18676,OsTLP1,OsTLP8,TULP1,TULP8
+  Gene Descriptions: tubby-like F-box protein 8
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: tubby-like F-box protein 8; tubby-like F-box protein 8%2C transcript variant X1
+  Gene Descriptions: tubby-like F-box protein 8
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: tubby-like F-box protein 8
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: tubby-like F-box protein 8
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: tubby-like F-box protein 8%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: uncharacterized LOC103630411%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 445 aa
+
+MSFRSIVRDVRDGFGSLSRRSFEVTIAGLSGLTGHHRGKSQSTVHELRDADLIIQESRWA
+SLPPELLRDVIRRLEASESTWPsRKHVVSCAAVCRAWREMCREIVLSPEFCGKLTFPVSL
+KQPGPRDGMIQCFIKRDKSKSTYHLYLCLSTAVLvENGKFLLSAKRNRKTTCTEYVISMD
+ADNISRSSSTYIGKLRSNFLGTKFMIYDTQPPYNGAVVPHVGRSSRRFNSKKVSPKVPTG
+SYNIAQVTYELNVLGTRGPRRMHCVMHSIPASAVEPGGIVPGQPEQIlPRALEESFRSTT
+SFSKSSIMDRSMDFSSSRDFSSARFSDIAGGAIaGDEEGQNKERPLVLRNKAPRWHEQLQ
+CWCLNFRGRVTIASVKNFQLIAAPSQPPAGAPTPSQPAPpDQDKIILQFGKVAKDMFTMD
+YRYPLSAFQAFAICLSSFDTKLACE
+
+
+BOP CONSENSUS:
+Length: 445 aa
+
+MSFRSIVRDVRDGFGSLSRRSFEVTISGLSGLTGHHRGKSQSTVHELRDADLIVQESRWA
+SLPPELLRDVIRRLEASESTWPSRKHVVSCAAVCKAWREMCREIVTSPEFCGKLTFPVSL
+KQPGPRDGMIQCFIKRDKSKSTYHLYLCLSTAVLVENGKFLLSAKRNRKTTCTEYVISMD
+AENISRSSSTYIGKLRSNFLGTKFIVYDTQPPYNGAVVPPVGRSSRRFNSKKVSPKVPSG
+SYNIAQVTYELNVLGTRGPRRMNCIMHSIPASSVEPGGIVPGQPEQIMPRALEESFRSMT
+SFSKSSIMDRSMDFSSSRDFSSARFSDIAGGTINrDEDGQNKERPLVLRNKVPRWHEQLQ
+CWCLNFRGRVTIASVKNFQLIAAPSQPPAGAPTPSQPAPPEQDKIILQFGKVSKDMFTMD
+YRYPLSAFQAFAICLSSFDTKLACE
+
+
+PACMAD CONSENSUS:
+Length: 446 aa
+
+MSFRSIVRDVRDGFGSLSRRSFEVTIAGLSGLTGHHRGKSQSTVHELRDTDLIIQESRWA
+NLPPELLRDVIRRLEASESTWPNRKNVVSCAAVCRAWREMCREIVLSPEFCGKLTFPVSL
+KQPGPRDGMIQCFIKRDKSKSTYHLYLCLSTAVLtENGKFLLSAKRNRKTTCTEYVISMD
+ADNISRSSSTYIGKLRSNFLGTKFMIYDTQPPYNGAVVPHAGRTSRRFNSKKVSPKVPTG
+SYNIAQVTYELNVLGTRGPRRMHCVMHSIPASAVEPGGIVPGQPEQILPRALEESFRSTT
+SFSKSSIMDRSMDFSSSRDFSSARFSDIAGGAiAGDEEGQNKERPLVLRNKAPRWHEQLQ
+CWCLNFRGRVTIASVKNFQLIAASSQPPAAGAPTPSQPAPpDQDKIILQFGKVAKDMFTM
+DYRYPLSAFQAFAICLSSFDTKLACE
+
+================================================================================

@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM002666
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             521.0 aa
+Family Size (Extended Family Size): 17 (17) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13878:SF105
+Panther Family ID:               PTHR13878
+Modal Panther ID:                PTHR13878:SF105
+Modal Panther Description:       CYTOKININ DEHYDROGENASE 9
+Modal Panther Family ID:         PTHR13878
+Modal Panther Fam Desc:          GULONOLACTONE OXIDASE
+Interpro Signature Accession:    G3DSA:3.30.465.10:FF:000021; G3DSA:3.40.462.10:FF:000001; G3DSA:3.30.465.10; G3DSA:3.30.43.10; G3DSA:3.40.462.10; PTHR13878; PF09265; SSF55103; SSF56176
+Interpro Signature Description:  Cytokinin dehydrogenase 1; Cytokinin dehydrogenase 2; -; GULONOLACTONE OXIDASE; Cytokinin dehydrogenase 1, FAD and cytokinin binding; FAD-linked oxidases, C-terminal domain; FAD-binding/transporter-associated domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: cytokinin dehydrogenase 9
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: cytokinin dehydrogenase 9
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: cytokinin dehydrogenase 9%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: cytokinin dehydrogenase 9; cytokinin dehydrogenase 9-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: cytokinin dehydrogenase 9
+  Gene Descriptions: cytokinin dehydrogenase 9
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: cytokinin dehydrogenase 9
+  Gene Synonyms: CKX9,OJ1005_E12.3,OsCKX9,OsJ_18319
+  Gene Descriptions: cytokinin dehydrogenase 9
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau11
+  Gene Products: cytokinin dehydrogenase 9
+  Gene Descriptions: cytokinin dehydrogenase 9
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi03K
+  Gene Products: cytokinin dehydrogenase 9-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: cytokinin dehydrogenase 9-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi17
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: cytokinin dehydrogenase 9
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 521 aa
+
+MKpSVLQYLKLFLLLgLGGVTTeHVPKQDVLASLgTLPLDGHFSFHDLSAAArDFGNLSS
+FPPVAVLHPGSVADIATTVRHVFLMGEHSTLTVAARGHGHSLYGQSQAAGGIVIRMESLQ
+SVkMQVHPGASPYVDASGGELWINVLhETLKYGLAPKSWTDYLHLTVGGTLSNAGVSGQT
+FRHGPQISNVNELEIVTGRGDIITCSPEQNSDLFHAALGGLGQFGIITRARIALEPAPqM
+VRWIRVLYLDFtSFTEDQEMLISAEKTFDYIEGFVIINRTGILNNWRSSFNPQDPVRASQ
+FESDgKVLFCLEMTKNFNPEEADiMEQEVNALLSQLRYtPpSLFHTDVTYIEFLDRVHSS
+EvKLRAKGMWEVPHPWLNLIIPRSTIHTFAkEVFGKILKDSNNGPILLYPVNKSRWDNRT
+SVVIPDEEVFYLVGFLSSAsGPHSIEHTLNLNNQIIEFSnKAGIGVKQYLPNYtTEQEWK
+AHFGARWDTFQQRKNTYDPLAILAPGQRIFQKASASLPLSS
+
+
+BOP CONSENSUS:
+Length: 521 aa
+
+MKQLLLQYLKLFLLLGLGGVTTEHVPKQDVLASLGTLPLDGHFSFHDLSAAARDFGNLSS
+FPPVAVLHPGSVADIATTVRHVFLMGEHSTLTVAARGHGHSLYGQSQAAGGIVIRMESLQ
+SVKMQVHPGASPYVDASGGELWINVLnKTLKYGLAPKSWTDYLHLTVGGTLSNAGVSGQT
+FRHGPQISNVNELEIVTGRGDVITCSPEQNSDLFHAALGGLGQFGIITRARIALEPAPQM
+VRWIRVLYLDFvSFTEDQEMLISAEKTFDYIEGFVIINRTGILNNWRSSFNPQDPVRASQ
+FETDRKVLFCLEMTKNFNPEEADIMEQEVHALLSQLRYTPpSLFHTDVTYMEFLDRVHSS
+EMKLRAKGLWEVPHPWLNLIIPRSTIHTFAKQVFGKILKDNNNGPILLYPVNKSRWDNRT
+SVVIPDEEVFYLVGFLSSAIGPHSIKHTLNLNNQIIEFSNKASIGVKQYLPNYTTEPEWK
+AHYGARWDTFQQRKNTYDPLAILAPGQRIFQKASASLPLSS
+
+
+PACMAD CONSENSUS:
+Length: 522 aa
+
+MKPSVLQYLKLFLLFAFGGVTTsHVPDQDVLASLsKLPLDGHFSFrDVSTAAwDFGNLSS
+FMPAAVLHPGSVDDIATTVRHVFLrGEHSMLTVAARGHGHSLRGQCQAAGGIVIKMESLP
+tARMQVHSGASPYVDASGGELWINVLHETLKYGLAPKSWTDYLHLTIGGTLSNAGVSGQT
+FRHGPQISNVNELEIVTGRGDIvTCSPErNSDLFHAALGGLGQFGIITRARIALEPAPKM
+VRWIRVLYSDFTSFTEDQEMLISAERTFDYIEGFVIINRTGILNNWRSSFNPQDPVWASQ
+FESDGRVLFCLEMTKNYNPEEADNMEQEVNNLLYQLRYMPPSLFHTDVTYIEFLDRVHSS
+EVKLRAKGMWEVPHPWLNLMIPKSSIHTFAREVFGKILKDSNNGPILLYPVNKFRWDNRT
+SVVIPDEEVFYLVGFLSSAPSSSGPHSVEHTLNLNNQIIEFSgKAGIRVKQYLPNYNTEQ
+EWKAHFEARWETFQRRKNAYDPLAILAPGQGIFQKASPPLSS
+
+================================================================================

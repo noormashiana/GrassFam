@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM008950
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             381.0 aa
+Family Size (Extended Family Size): 23 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12548:SF18
+Panther Family ID:               PTHR12548
+Modal Panther ID:                PTHR12548:SF18
+Modal Panther Description:       DP TF
+Modal Panther Family ID:         PTHR12548
+Modal Panther Fam Desc:          TRANSCRIPTION FACTOR DP
+Interpro Signature Accession:    cd14458; G3DSA:1.20.140.80:FF:000002; G3DSA:1.10.10.10:FF:000187; G3DSA:1.10.10.10; G3DSA:1.20.140.80; PTHR12548; PIRSF009404; PF08781; SM01138; SM01372; SSF144074
+Interpro Signature Description:  DP_DD; Transcription factor-like protein DPB; -; Transcription factor DP; TRANSCRIPTION FACTOR DP; Txn_factor_DP; DP_2; E2F_TDP_2; E2F-DP heterodimerization region
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: transcription factor-like protein DPB%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: transcription factor-like protein DPB
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: transcription factor-like protein DPB%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: transcription factor-like protein DPB; transcription factor-like protein DPB%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: transcription factor-like protein DPB%2C transcript variant X1
+  Gene Descriptions: transcription factor-like protein DPB
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: transcription factor-like protein DPB%2C transcript variant X2
+  Gene Descriptions: transcription factor-like protein DPB
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: transcription factor-like protein DPB; transcription factor-like protein DPB%2C transcript variant X1
+  Gene Descriptions: transcription factor-like protein DPB
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: transcription factor-like protein DPB; transcription factor-like protein DPB%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: transcription factor-like protein DPB%2C transcript variant X1
+Msi
+  Gene count: 3
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: transcription factor-like protein DPB
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: Transcription factor-like protein DPB; uncharacterized LOC100283679
+  Gene Synonyms: GRMZM2G063387; GRMZM2G086072,pco085006
+  Gene Descriptions: Transcription factor-like protein DPB; uncharacterized LOC100283679
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 383 aa
+
+MVSGVAHRPDedGGApsfQRPPPPvGARtaLGTPPVSSGAAHSASTSGGSAGSPSSRSEQ
+HaPDGAGKGAAlGAaAAAAASTPASDSTFLRLNNLDINGDDAPSSQAPTSKKKKRGARAV
+GPDKGNRGLRQFSMKVCEKVESKGRTTYNEVADELVAEFTDPNNNIEAPDPDNPNAQQYD
+EKNIRRRVYDALNVLMAMDIISKDKKEIQWKGLPRTSINDIEELKTELVGLKGRIEKKSA
+YLQELQDQYVGLQNLIQRNEQLYGSGNTPSGGVALPFILVQTRPHATVEVEISEDMQLVH
+FDFNSTPFELHDDSYVLKEMrFCGREQHDGTQEPISNGGESSSMPNIYWqQVQHsaRPNN
+GTvRLPSSPPIPGILKGRVKHEH
+
+
+BOP CONSENSUS:
+Length: 377 aa
+
+MVSGVAHRPDENGGGGGSSFPQQPQPVGTPPPSSGAHSASTSGGSAGSPSSRSEQQGPAA
+ANGAgpApAASTPASDGTAFLRLNNLDINGDDAPSSQAPISIKKKKRRAAAVGPDKGGRG
+LRQFSMKVCEKVESKGRTTYNEVADELVAEFTDPNNNIEPPDPDNPNAQQYDEKNIRRRV
+YDALNVLMAMDIISKDKKEIQWKGLPRTSINDIEELQTELVGVKGRIEKKSAYLQELQDQ
+YLGMQNLINRNEQLYGSGNIPSGGVALPFILIQTRPHATVEVEISEDMQLVHFDFNTTPF
+ELHDDSYVLKALNSYGKEENAGTPEPISNGCEGSSTPNIYRHQIQQSAMASNGTNRLPSS
+PPVPGILKGRVKHEHLY
+
+
+PACMAD CONSENSUS:
+Length: 384 aa
+
+MVSGVAHNPDGGGGAQgtQRPPPPVGARAALGTPPVSGGAAHSASTSGGSAGSPSSRSEQ
+HAPDGAGKGAALGAApAAAAASTPASESTFLRLNNLDINGDDAPSSQAPTSKKKRRGTRA
+VGPDKGNRGLRQFSMKVCEKVESKGRTTYNEVADELVAEFTDPNNNIEAPDPDNPNAQQY
+DEKNIRRRVYDALNVLMAMDIISKDKKEIQWKGLPRTSISDIEELKTELVGLKGRIEKKS
+AYLQELQDQYVGLQNLIQRNEQLYGSGNTPSGGVALPFILVQTRPHATVEVEISEDMQLV
+HFDFNSTPFELHDDSYVLKEMRFCGREQHDGTQESiSNGGESSSMSNIYWQQVQHpGRPN
+NGTVRLPSSPPIPGILKGRVKHEH
+
+================================================================================

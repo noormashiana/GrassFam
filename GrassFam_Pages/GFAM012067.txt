@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM012067
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             450.0 aa
+Family Size (Extended Family Size): 37 (37) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45777:SF6
+Panther Family ID:               PTHR45777
+Modal Panther ID:                PTHR45777:SF6
+Modal Panther Description:       METHIONINE AMINOPEPTIDASE 2
+Modal Panther Family ID:         PTHR45777
+Modal Panther Fam Desc:          METHIONINE AMINOPEPTIDASE 2
+Interpro Signature Accession:    cd01088; G3DSA:3.90.230.10:FF:000003; G3DSA:1.10.10.10:FF:000106; G3DSA:1.10.10.10; G3DSA:3.90.230.10; TIGR00501; PTHR45777; PF00557; SSF55920; SSF46785
+Interpro Signature Description:  MetAP2; Methionine aminopeptidase 2; -; Creatinase/methionine aminopeptidase superfamily; type II methionyl aminopeptidase; METHIONINE AMINOPEPTIDASE 2; Metallopeptidase family M24; Creatinase/aminopeptidase; Winged helix DNA-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                2.70%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: methionine aminopeptidase 2B
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: methionine aminopeptidase 2B-like%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: methionine aminopeptidase 2B%2C transcript variant X1
+Tae
+  Gene count: 5
+  Modal chromosome: Tae03B
+  Gene Products: methionine aminopeptidase 2B-like; methionine aminopeptidase 2B-like%2C transcript variant X1
+Ola
+  Gene count: 2
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl08
+  Gene Products: methionine aminopeptidase 2A-like%2C transcript variant X2; methionine aminopeptidase 2B-like
+  Gene Descriptions: methionine aminopeptidase 2A-like; methionine aminopeptidase 2B-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa08
+  Gene Products: methionine aminopeptidase 2A%2C transcript variant X1; methionine aminopeptidase 2B%2C transcript variant X1
+  Gene Descriptions: methionine aminopeptidase 2A; methionine aminopeptidase 2B
+Ecu
+  Gene count: 3
+  Modal chromosome: EcuUN50
+Pau
+  Gene count: 2
+  Modal chromosome: Pau16
+  Gene Products: methionine aminopeptidase 2B-like; methionine aminopeptidase 2B-like%2C transcript variant X1
+  Gene Descriptions: methionine aminopeptidase 2B-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi06K
+  Gene Products: methionine aminopeptidase 2B%2C transcript variant X1; methionine aminopeptidase 2B-like; methionine aminopeptidase 2B-like%2C transcript variant X1
+Pha
+  Gene count: 2
+  Modal chromosome: Pha06
+  Gene Products: methionine aminopeptidase 2B-like
+Msi
+  Gene count: 5
+  Modal chromosome: Msi13
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: methionine aminopeptidase 2B
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: methionine aminopeptidase%2C transcript variant X1
+  Gene Synonyms: GRMZM2G131473
+  Gene Descriptions: methionine aminopeptidase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 446 aa
+
+MAAVDAATKEMEALHVGQNdETKENLIKEgKAANSNgaVPAAQSSPPEDDDEAQADGPSQ
+DGAPEAvKKKKKKNKSKKKKDPLQQTDPPSIPVDELFPSGEFPEGEIQQYKDDNLWRTTS
+EEKRELERLQKPMYNSVRRAAEVHRQVRKYMRSIIKPGMLMIDLCETLENMVRKLIKENG
+LQAGIAFPTGCSLNWVAAHWTPNAGDKTVLQYDDVMKLDFGTHIDGYIVDCAFTVAFNPM
+YDPLLQATRDATNTGIKEAGIDARLCDVGAAIQEVMESYEVEINGKVFQVKSVRNLNGHS
+IGPYQIHAGKSVPIVKGGEQTKMEEGEFYAIETFGSTGKGFVREDLECSHYMKNFDVGHV
+PLRlAKAKQLLGTINNNFGTLAFCRRYLDRLGETKYLMALKNLCDNGIVQPYPPLCDVRG
+SYVSQFEHTILLRPTCKEVISRGDDY
+
+
+BOP CONSENSUS:
+Length: 451 aa
+
+MAGsNtDAATKEMEALnVGQNQETKENLNKAVSVESNVTSSkEAPvAQSSvPEDDDEsQV
+DGPSQDGAPEAAKKKKKKSKAKKKKDPLQQTDPPSIPVDELFPSGEFPEGEIQQYKDDNL
+WRTTSEEKRELERLQKPMYNAVRRAAEVHRQVRKYMRSILKPGMLMIDLCETLENMVRKL
+IKENGLQAGIAFPTGCSLNWVAAHWTPNSGDKTVLQYDDVMKLDFGTHIDGYIVDCAFTV
+AFNPMFDPLLQASRDATNTGIKEAGIDARLCDVGAAIQEVMESYEVEINGKVFQVKSVRN
+LNGHSIGPYQIHAGKSVPIVKGGEQTKMEEGEFYAIETFGSTGKGFVREDLECSHYMKNF
+DVGHVPLRVAKAKQLLGTINNNFGTLAFCRRYLDRLGETKYLMALKNLCDVGIVQPYPPL
+CDVRGSYVSQFEHTILLRPTCKEVISRGDDY
+
+
+PACMAD CONSENSUS:
+Length: 446 aa
+
+MAAVDTATKEMEALHVGQNdETKENLIKEDKAANSNGAVPAAQSSPPEDDDEAQADGPSQ
+DGAPEAVKKKKKKNKSKKKKDPLQQTDPPSIPVDELFPSGEFPEGEIQQYKDDNLWRTTS
+EEKRELERLQKPMYNSVRRAAEVHRQVRKYMRSIIKPGMLMIDLCETLENMVRKLIKENG
+LQAGIAFPTGCSLNWVAAHWTPNAGDKTVLQYDDVMKLDFGTHIDGYIVDCAFTVAFNPM
+YDPLLQATRDATNTGIKEAGIDARLCDVGAAIQEVMESYEVEINGKVFQVKSVRNLNGHS
+IGPYQIHAGKSVPIVKGGEQTKMEEGEFYAIETFGSTGKGFVREDLECSHYMKNFDVGHV
+PLRLAKAKQLLGTINNNFGTLAFCRRYLDRLGETKYLMALKNLCDNGIVQPYPPLCDVRG
+SYVSQFEHTILLRPTCKEVISRGDDY
+
+================================================================================

@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM009266
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             528.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22298:SF114
+Panther Family ID:               PTHR22298
+Modal Panther ID:                PTHR22298:SF114
+Modal Panther Description:       ENDOGLUCANASE 2
+Modal Panther Family ID:         PTHR22298
+Modal Panther Fam Desc:          ENDO-1,4-BETA-GLUCANASE
+Interpro Signature Accession:    G3DSA:1.50.10.10:FF:000020; G3DSA:1.50.10.10; PTHR22298; PF00759; SSF48208
+Interpro Signature Description:  Endoglucanase; -; ENDO-1,4-BETA-GLUCANASE; Glycosyl hydrolase family 9; Six-hairpin glycosidases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: endoglucanase 24
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: endoglucanase 24
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: endoglucanase 24
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: endoglucanase 24; endoglucanase 24-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: endoglucanase 24
+  Gene Descriptions: endoglucanase 24
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: endoglucanase 24-like
+  Gene Synonyms: cellulase,OJ1112_E07.17-1
+  Gene Descriptions: endoglucanase 24-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: endoglucanase 24; endoglucanase 24-like
+  Gene Descriptions: endoglucanase 24; endoglucanase 24-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: endoglucanase 24%2C transcript variant X1; endoglucanase 24-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: endoglucanase 24
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: endoglucanase 24
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: Endoglucanase 2%2C transcript variant X1
+  Gene Synonyms: GRMZM2G147422
+  Gene Descriptions: Endoglucanase 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 527 aa
+
+MGSKTRGCCGWLIVALVAALVATAAVFAIMKRKPGGGGRHpKPLPVPGPPGAIDSKYGDA
+LGVALQFFQVQKAGKLENNQIPWRGDSALtDGKEAGLDLSKGMYDAGDHMKFTFPMAFTA
+TVLAWSVLEYGDQMSAAKQLDPALDALRWITDFLIAAHPSDNVFYIQVGDPDLDHNCWER
+PETMTEKRPLTQINKKSPGSDVAAEAAAAMAAASMVFKSSDTTYSDvLLQHAQKLFTFAD
+TYRGLSSDTYPKLQdYYNSTGYVDELLWAASWLYHATGDQTYLSYVTVQNGKtYADWGRP
+TWFSWDDKLPGTQVLLSRLNFFGSKQISNAENEGLKMYRDTAEAVICGLLPDSPSATASR
+TGGGLVWISGWNSLQHATNAAFLAVVYSDYMLTSRTAAVQCSGKYYSPTDIRNFAISQAN
+YILGDNPMKLSYLVGYGSSYPQQVHHRGASIPADAKTGCKGFQYLHSPSPNPNVAMGALV
+GGPFQNDTFVDSRDNAVQTESSTYNSGTLVGLLSGLVTTSSVAQSFT
+
+
+BOP CONSENSUS:
+Length: 531 aa
+
+MGSKTKGCCGWLIVALVLALVATAAVVAIMKRKPGGGGGGRSRPPKPLPVPGPPGDIDSK
+YGDALGVALQFFQVQKAGKLVDNQIPWRGDSALDDGKEAKLDLSKGLYDAGDHMKFTFPM
+AFTATVLAWSVLEYGDQMTAAKQLDPALDALRWVTDFLIAAHPSDNVFYIQVGDPDLDHN
+CWQRPETMTEKRPLTQINPKSPGSDIAAEAAAAMAAASMVFKSSDTTYSDSLLQHAQKLF
+TFADTYKGIASDTYPKLQKYYNSTGYVDELLWAASWLYHATGDQTYLSYVTVQNGKDYAD
+WGRPTWFSWDDKLPGTQVLLSRVNFFGSKEISNAENSGLKMYRDTAEAVICGLLPDSPSA
+TGSRTSGGLVWISGWNSLQHGTNAAFLAVVYSDYMLTSQTAAVECSGKYFSPTDIRNFAI
+SQANYVLGDNPMKLSYLVGYGSSYPQQVHHRGASIPADAKTGCKGFEYLHSSSPNPNVAT
+GAVVGGPFQNDSFVDLRDNAVQTESSTYNSGTLVGLLAGLVTTSSVAKTFT
+
+
+PACMAD CONSENSUS:
+Length: 526 aa
+
+MGSKYTRGCCGWLIVALIAALVATAAMFAIMKRKPGGRHIKPLPVPGPPGAIDSKYGDAL
+GVALQFFQVQKSGKLENNQIPWRGDSALTDGKEAGLDLSKGMYDAGDHMKFTFPMAFTAT
+VLAWSVLEYGDQMSAAKQLDPALDALKWITDFLIAAHPSDNVLYIQVGDPDLDHNCWERP
+ETMTEKRPLTQINKKSPGSDVAAEAAAAMAAASMVFKSSDTTYSDVLLQHAQKLFTFADT
+YRGLSSESYPKLQDFYNSTSYVDELLWAASWLYHATGDQTYLSYVTVQNGKTYADWGRPT
+WFSWDDKNPGTQVLLSRLNFFGSKQISNAENEGLKSYRDTAEAVICGLIPDSPQATASRT
+GGGLVWISGWNSLQHATNAAFLAVVYSDYMLSTRTAAVQCSGKYYSPTDIRNFAASQANY
+ILGDNPMKLSYLVGYGSSYPQQVHHRGASIPADAKTGCKGFQYLHSPDPNPNVAMGALVG
+GPFQNDTFVDSRDNAVQTESSTYNSGTLVGLLSGLVTTSSVAQSFT
+
+================================================================================

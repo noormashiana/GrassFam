@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM013765
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             621.0 aa
+Family Size (Extended Family Size): 17 (18) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR15546:SF8
+Panther Family ID:               PTHR15546
+Modal Panther ID:                PTHR15546:SF8
+Modal Panther Description:       OS02G0556900 PROTEIN
+Modal Panther Family ID:         PTHR15546
+Modal Panther Fam Desc:          BROMODOMAIN ADJACENT TO ZINC FINGER DOMAIN, 2A
+Interpro Signature Accession:    PTHR15546; PF10537; PF15613
+Interpro Signature Description:  BROMODOMAIN ADJACENT TO ZINC FINGER DOMAIN, 2A; ATP-utilising chromatin assembly and remodelling N-terminal; Williams-Beuren syndrome DDT (WSD), D-TOX E motif
+
+
+REXdb Match:                     False
+REXdb Percentage:                5.88%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: DDT domain-containing protein DDB_G0282237
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: uncharacterized LOC127764761%2C transcript variant X2
+  Gene Descriptions: uncharacterized LOC127764761
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC4329669
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: uncharacterized LOC133919087; uncharacterized LOC133921970
+  Gene Descriptions: uncharacterized LOC133919087; uncharacterized LOC133921970
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: DDT domain-containing protein DDB_G0282237-like%2C transcript variant X1; DDT domain-containing protein DDB_G0282237-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: DDT domain-containing protein DDB_G0282237-like%2C transcript variant X3
+Msi
+  Gene count: 3
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: DDT domain-containing protein DDB_G0282237%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100191667%2C transcript variant X2
+  Gene Synonyms: DDT2,GRMZM2G064145,nfe101
+  Gene Descriptions: uncharacterized LOC100191667
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 628 aa
+
+MPLFkRKPFSLLEPPKDLDSKEKVFQIRFTKEIFRDYQEYLKRLNLYRQRVWTCKiSGKS
+NLTFEEALVSEHnAMEKAQNLPTELMAHVLRMTQYSTLGLHELVNKIYASLQEEVFEGIE
+LHAKKDGsEAPCKILKILDSGGTKMYEVGWIRRgKTvINTSVVKAADLfyRRAPVSRNTL
+KIFIRDATSQStPWVIHENLAKKYGIPmDPPNDiMyGEGLQKKGRKRhEnGTIEDGRKKL
+KkDEEHAyVPIKYPIDDLLVRPnADDPALfKRPPLATDFRVPRCSVGDLLMVWDFCsSFG
+RVLNLSPFsLTDLENAICHKESNVLLVEIHAAmFHLLIKDEGDYFTvLQNKKRKLKVSLV
+TWAEYLCDFLEMTKNEELSsNIATVRRGYYGLIDTDIKLKILRELVEEAItTSAIREILS
+ERVDQKQALnATKRESTRKdKEEQNLNTEIAMKNEENQTDAVQDGNEsVDEQvRGKEEKD
+KSNISRSKTEGKRHLVRHLETEIEKLSIRSSPLGKDRHYNRYWFFRREGRLFVEsADSRE
+WGYYSTKEELDALMGSLNVKGIRERALKRQLEKFYNKISNALEKRSKDIAnKMLLEEAVL
+RRSTRVRAQPKDNPSMAFLKYVNKWKDN
+
+
+BOP CONSENSUS:
+Length: 622 aa
+
+MPLFKRKPFSLLEPPKDLDPKEKVFQIRFTKEIFRDYQEYIKRLNLYRQRVWTCKvSGKS
+NLTFEEALVSEHHAVsKAQKLPTELMAHVLRMTQYSTLGLyELVnKIYASLQEDVFEGLE
+LHAKKDGlEAACrILKILDSGDTKMYEVGWLLRDKTvIsTSVVKAeDLIRRRAPVSRNTL
+KIFIRDATSQNtPWIIHENLAKrYGIPMEPPNDMMYGEGLQKKGRKRHEdGTmgDprKKm
+KnDEEHAnVPIKYPIDDLLVsPAADDPALLKRPPLATDFGIPRySVGDLLMVWDFCLSFG
+RVLNLSPFSLvDLENAICHKESNALLVEIHtAIFHLLIKDEGDYFTiLRTKKRKLKLSLV
+TWAEYLCDFLEMTKIEELtrNIATVRRGYYGLIDTDIKLKILRELVEEAITTSpIREKLS
+ERVDQQQALVATKREsTRKeKEEqNSNIEvgRtDgVQDGNESVDEQGKGKEEKDKnNISR
+SKTEGKrHLVRHLETEIEKLSIRASPLGKDRHYNRYWFFRREGRLFVESADSKEWGYYST
+KEELDVLMSSLNVKGIRERALKRQLDKFYNKISNALEKRSKEITHKlLLEEAVLRRSTRV
+RAQPRDNPSMAFLKYVNKWKDN
+
+
+PACMAD CONSENSUS:
+Length: 623 aa
+
+MPLFnRKPFSLLEPPKDLDSKEKVFQIRFTKEIFRDYQEYLKRLNLYRQRVWTCKiSGKS
+NLTFEEALVSEHNAMEKAQNMPTELMAHVLRMTQYSTLGLHELVNKIYASLLEEVFEGIE
+LHAKKDGSVAPCKILKILDSGGTKMCEVGWIRQGKTVINTSVVKAADLFYRRAPVSRNTL
+KIFIRDATSQSTPWVIHENLAKKYGIPtDPPnsIMHKKGRKRqENGTIEDGRKKLKKDEG
+qtyVPIKYPIDDLLVRPnADDPALFKRPPLATDFRVPRCSVGDLLMVWDFCSSFGRaLNL
+SPFpLTDLENAICHKESNVLLVEIHAAMFHLLIKDEGDYFTVLQNKKRKLKVSLVTWAEY
+LCDFLEMTKNEELStNIATVRRGYYGLIDTDIKLKILRELVEEAItTSAIREILSERVDQ
+KQALNATKRESTRKDKEEQNLNTEIAMKNEENQTDAVQDGNEgVDELVRGKEEKDKSNIS
+RSKTEGKRHLVRHLETEIEKLSIRSSPLGKDRHYNRYWFFRREGRLFVETADSREWGYYS
+TKEELDALMGSLNVKGIRERALKRQLEKFYNKISNALEKRSKDIANKMLLEEGVLRRSTR
+VRAQPKDNPSMAFLKYVNKWKDN
+
+================================================================================

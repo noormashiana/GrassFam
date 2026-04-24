@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM016676
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             526.0 aa
+Family Size (Extended Family Size): 23 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12815:SF34
+Panther Family ID:               PTHR12815
+Modal Panther ID:                PTHR12815:SF34
+Modal Panther Description:       OUTER MEMBRANE OMP85 FAMILY PROTEIN
+Modal Panther Family ID:         PTHR12815
+Modal Panther Fam Desc:          SORTING AND ASSEMBLY MACHINERY SAMM50 PROTEIN FAMILY MEMBER
+Interpro Signature Accession:    G3DSA:3.10.20.310:FF:000016; G3DSA:2.40.160.50:FF:000005; G3DSA:2.40.160.50; PTHR12815; PF01103
+Interpro Signature Description:  Outer membrane OMP85 family protein; membrane protein fhac: a member of the omp85/tpsb transporter family; SORTING AND ASSEMBLY MACHINERY SAMM50 PROTEIN FAMILY MEMBER; Omp85 superfamily domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: sorting and assembly machinery component 50 homolog A
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: sorting and assembly machinery component 50 homolog A-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata01D
+  Gene Products: sorting and assembly machinery component 50 homolog A%2C transcript variant X1; sorting and assembly machinery component 50 homolog A%2C transcript variant X3
+Tae
+  Gene count: 4
+  Modal chromosome: Tae01A
+  Gene Products: sorting and assembly machinery component 50 homolog A-like; sorting and assembly machinery component 50 homolog A-like%2C transcript variant X2; sorting and assembly machinery component 50 homolog A-like%2C transcript variant X4
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: uncharacterized LOC127773317
+  Gene Descriptions: uncharacterized LOC127773317
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4339073
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: uncharacterized LOC133885498; uncharacterized LOC133929061
+  Gene Descriptions: uncharacterized LOC133885498; uncharacterized LOC133929061
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: sorting and assembly machinery component 50 homolog A-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: sorting and assembly machinery component 50 homolog A-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: sorting and assembly machinery component 50 homolog A
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: uncharacterized LOC100274105
+  Gene Synonyms: TIDP3511
+  Gene Descriptions: uncharacterized LOC100274105
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 526 aa
+
+MAAAADPAADQNPKDAepHVPepwADgEFAEEEYEEEyEEEEEEELDGPAAAAAEREKVQ
+SVFRRLSSDPVGIRVHDVIIKGNAKTRDELIEAEVADLLRAAPTVQDLLRAASvASARLR
+gLDVFDAVNITLDAGPPELPGTTNVVIEVVEAANPLTGnAGVYSKPEARSWSLEGSLKLK
+NLFGYGDIWDASGAYGWDQTTEVGVGVSLPRFKSIPTPLMARASLSSQDWLKFSSYKERL
+LGLSFGLLSTRnHDLSYNLTWRTLTDPSRvSSKSIRRQLGHNLLSALKYTYKIDqRDSHL
+RPTKGYAFLSTSQVGGLWDNKGLKFFRQEFDVRGAVPLGFYNAALNVGVGAGVILPLGRG
+FMNSSSPVPDRFyLGGHSSPVCSLGGLSSLLGFRTRGVGPTEPRRLVPgESEdGSAAvPG
+RDYLGGDLAVSAFADLSFDLPLKlFRDAGIHGHAFLTAGNLAKLSEGEYKNFSlSEFRRT
+FRSSAGVGIILPTKLFRVEVNYCYILKQAEHDSGKTGIQFSFSSPM
+
+
+BOP CONSENSUS:
+Length: 521 aa
+
+MADPAADQNPKDAGsRVPEPWAGADGEvAEEEYEYEEEEELDEPAAAALEREKVQSVFRR
+LSSDPVGIRVHDVIIRGNAKTREELIEAEVADLLRSATTVQDLLSAAADASARLRGLDVF
+EAVNITLDAGPPELPGTTNVVIEVVEPAIPiSGNAGVYSKPEAKAWSLEGAVKWKNLAGY
+ADIWDASVAYGWDQTTEVGVGVSLPRFKSIPTPLMARASLLSQDWMKFSSYKERLLGLSF
+GLLSTRHHDLSYNLTWRTLTDPSRLASTSIRRQLGHNLLSALKYTYKIDQRDSHIRPTKG
+YAFLSSSQVGGLWDNKGLKFFRQEFDVRAAVPFGFWNAALNVGVGAGVILPLARGFMNSS
+TPVTDRFNLGGHSSPVCSLGGISSLLGFRTRGVGPTEPRRLVPGESEDGSAAVPGRDYLG
+GDLAVSAFADLSFDLPLKVFRDAGIHGHAFLTAGNLAKLSEGQYKNFSLDEFRRSFRSTA
+GVGIILPTKLFRVEVNYCYILKQSQHDSGKTGIQFSFSSPL
+
+
+PACMAD CONSENSUS:
+Length: 529 aa
+
+MAAAADsAADQNPKDAEPHVPTAEsDAEFSEEEYEEDGEEEYEEEEEELDGPAAAAAERE
+RVQSVFRRLSSDPVGIRVHDVvIKGNTKTRDELIEAEVADLLRAAPTVQDLLRAASVATA
+RLHRLDVFDAVKITLDAGPPELPGTTNVVIEVVEAANPLTGTAGVYSKPEARSWSLEGSL
+KLKNLFGYGDIWDASGSYGWDQTTEVGVGVYLPRFKSIPTPLMARASLSSQDWLKFSSYK
+ERLLGLSFGLLSTMNHDLSYNLTWRTLTDPSRVSSKAIRRQLGHNLLSALKYTYKIDkRD
+SHLRPTKGYAFQSTSQVGGLWDSKGLRFFRQEFDVRGAVPLGFYNAALNVGVGAGVILPL
+GrGFMNSSSPVPDRFYLGGHSSPVCSLSGLSSLLGFRTRGVGPTEARRLVPsESDSGSAA
+dPGRDYLGGDLAVSAFADLSFDLPLKLFRDAGIHGHAFLTAGNLAKLSEGEYKNFSVSEF
+QRTFRSSAGVGIILPTKLFRVEVNYCYILKQAEHDSGKTGIQFSFSSPM
+
+================================================================================

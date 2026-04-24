@@ -1,0 +1,137 @@
+================================================================================
+GrassFam ID: GFAM011337
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             535.0 aa
+Family Size (Extended Family Size): 19 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR42961:SF2
+Panther Family ID:               PTHR42961
+Modal Panther ID:                PTHR42961:SF2
+Modal Panther Description:       IRON-SULFUR PROTEIN NUBPL
+Modal Panther Family ID:         PTHR42961
+Modal Panther Fam Desc:          IRON-SULFUR PROTEIN NUBPL
+Interpro Signature Accession:    cd02037; G3DSA:3.30.300.130:FF:000008; G3DSA:3.40.50.300:FF:000704; G3DSA:3.30.2020.30:FF:000001; G3DSA:3.40.50.300; PTHR42961; PF10609; SSF52540
+Interpro Signature Description:  Mrp_NBP35; Fe-S cluster assembly factor HCF101, chloroplastic; fe-S cluster assembly factor HCF101, chloroplastic; -; IRON-SULFUR PROTEIN NUBPL; NUBPL iron-transfer P-loop NTPase; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: fe-S cluster assembly factor HCF101%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: fe-S cluster assembly factor HCF101%2C chloroplastic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: fe-S cluster assembly factor HCF101%2C chloroplastic%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: fe-S cluster assembly factor HCF101%2C chloroplastic%2C transcript variant X1; fe-S cluster assembly factor HCF101%2C chloroplastic-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: fe-S cluster assembly factor HCF101%2C chloroplastic%2C transcript variant X1
+  Gene Descriptions: fe-S cluster assembly factor HCF101%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: fe-S cluster assembly factor HCF101%2C chloroplastic%2C transcript variant X1
+  Gene Synonyms: HCF101,OsJ_03276
+  Gene Descriptions: fe-S cluster assembly factor HCF101%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau01
+  Gene Products: fe-S cluster assembly factor HCF101%2C chloroplastic%2C transcript variant X1
+  Gene Descriptions: fe-S cluster assembly factor HCF101%2C chloroplastic
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: fe-S cluster assembly factor HCF101%2C chloroplastic; fe-S cluster assembly factor HCF101%2C chloroplastic-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: fe-S cluster assembly factor HCF101%2C chloroplastic
+Msi
+  Gene count: 1
+  Modal chromosome: Msi12
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: fe-S cluster assembly factor HCF101%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: fe-S cluster assembly factor HCF101%2C chloroplastic%2C transcript variant X2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 535 aa
+
+MRTLHAAPASFLAPPAPHLLpPtpPTPRGALSAKAPPaAAAAiQSHArFPlSpRVgRRRR
+CARAASSGAGATVASVDDAKKDVLIALSQIIDPDFGTDIVSCGFVKDLEISEALEEVSFR
+LELTTPACPIKDMFEEKANEVVAALPWVKKVNVTMSAQPAQPVYAGELPEGLQKISNIIA
+VSSCKGGVGKSTVAVNLAYTLAGMGARVGIFDADVFGPSLPTMVSPENRLLVMNPESRSI
+LPTEYLGVKMVSFGFAGQGRAIMRGPMVSGVINQLLTTTDWGELDYLVIDMPPGTGDIHL
+TLCQVAPLTAAVIVTTPQKLAFIDVAKGVRMFSKLKVPCVAVVENMCYFDADGKRYYPFG
+QGSGtQVVQQFGIPHLFDLPIRPTLSASGDTGIPEVVADPQGDVAKTFQNLGVCVVQQCA
+KIRQQVSTAVSYDRSIRAIRVKVPDSDEEFLLHPATVRRNDRSAQSVDEWTGEQKVQYGD
+IPEDIEPEEIRPMGNYAVSITWPDGFSQIAPYDQLEMLERLVDVPRPATaAVASS
+
+
+BOP CONSENSUS:
+Length: 534 aa
+
+MRTLHTAPASFIVPPAPHLVSPTPTPRGALPAKAPPAAAATIQSHARPPLSPRVGRRRRC
+ARAASSSAGAVVASVEDAKRDVLIALSQIIDPDFGTDIVSCGFIKDLEISETLEEVSFRV
+ELTTPACPVKDMFEEKANEVVAALPWVKKVNVTMSAQPAQPVYAGDLPEGLQKISNIIAV
+SSCKGGVGKSTVAVNLAYTLAGMGARVGIFDADVFGPSLPTMVSPENRLLVVNPESKSIL
+PTEYLGVKLVSFGFAGQGRAIMRGPMVSGVINQLLTTTDWGELDYLVIDMPPGTGDIHLT
+LCQVAPLTAAVIVTTPQKLAFIDVAKGVRMFSKLKVPCVAVVENMCYFDADEKRYYPFGQ
+GSGAQVVQQFGIPNLFDLPIRPTLSSSGDTGIPEVVADPQGDVAKTFQNLGVCVVQQCAK
+IRQQVSTAVSYDRSIRAIRVKVPDSDEEFLLHPATVRRNDRSAQSVDEWTGEQKVQYGDV
+PEDIEPEEIRPMGNYAVSITWPDGFSQIAPYDQLDMLERLVDVPLPATAAVASS
+
+
+PACMAD CONSENSUS:
+Length: 535 aa
+
+MQTLHAAPASFLAPPAPHLLPPtPPAlRGtLSAKAPVPAAVASRSRAwFPSSRRASRRRR
+CsRAASSGAaATVASVDDAKKDVLIALSQIIDPDFGTDIVSCGFVKDLEISEALEEVSFR
+LELTTPACPIKDEFEQKANEVVAALPWVKKVdVTMSAQPAQPVYGGELPEGLQKISNIIA
+VSSCKGGVGKSTVAVNLAYTLAGMGARVGIFDADVFGPSLPTMVSPENRLLVMNPESRaI
+LPTEYLGVKMVSFGFAGQGRAIMRGPMVSGVINQLLTTTDWGELDYLVIDMPPGTGDIHL
+TLCQVAPLTAAVIVTTPQKLAFIDVAKGVRMFSKLKVPCVAVVENMCYFDADGKRYYPFG
+QGSGTQVVQQFGIPHLFDLPIRPTLSASGDTGIPEVVADPQGDVAKTFQNLGVCVVQQCA
+KIRQQVSTAVSYDRSIRAIRVKVPDSDEEFLLHPATVRRNDRSAQSVDEWTGEQKVQYsD
+IPDDIEPEEIRPMGNYAVSITWPDGFSQIAPYDQLEMLERLVDAPRAATPAVASS
+
+================================================================================

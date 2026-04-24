@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM010039
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             306.5 aa
+Family Size (Extended Family Size): 34 (39) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10335:SF20
+Panther Family ID:               PTHR10335
+Modal Panther ID:                PTHR10335:SF20
+Modal Panther Description:       FIBRILLARIN
+Modal Panther Family ID:         PTHR10335
+Modal Panther Fam Desc:          RRNA 2-O-METHYLTRANSFERASE FIBRILLARIN
+Interpro Signature Accession:    G3DSA:3.40.50.150:FF:000001; G3DSA:3.30.200.20:FF:000056; G3DSA:3.30.200.20; G3DSA:3.40.50.150; NF003276; PTHR10335; PIRSF006540; PR00052; PF01269; SM01206; SSF53335
+Interpro Signature Description:  Fibrillarin like 1; Phosphorylase Kinase; domain 1; Vaccinia Virus protein VP39; fibrillarin-like rRNA/tRNA 2'-O-methyltransferase; RRNA 2-O-METHYLTRANSFERASE FIBRILLARIN; Nop17p; Fibrillarin signature; Fibrillarin; Fibrillarin_2; S-adenosyl-L-methionine-dependent methyltransferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: probable mediator of RNA polymerase II transcription subunit 36b
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu06H
+  Gene Products: rRNA 2'-O-methyltransferase fibrillarin 1-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata06D
+  Gene Products: rRNA 2'-O-methyltransferase fibrillarin 1
+Tae
+  Gene count: 5
+  Modal chromosome: Tae06A
+  Gene Products: rRNA 2'-O-methyltransferase fibrillarin 1-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl02
+  Gene Products: rRNA 2'-O-methyltransferase fibrillarin 2-like
+  Gene Descriptions: rRNA 2'-O-methyltransferase fibrillarin 2-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa02
+  Gene Products: rRNA 2'-O-methyltransferase fibrillarin 1%2C transcript variant X1; rRNA 2'-O-methyltransferase fibrillarin 2
+  Gene Descriptions: rRNA 2'-O-methyltransferase fibrillarin 1; rRNA 2'-O-methyltransferase fibrillarin 2
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: rRNA 2'-O-methyltransferase fibrillarin 1-like; rRNA 2'-O-methyltransferase fibrillarin 2-like
+  Gene Descriptions: rRNA 2'-O-methyltransferase fibrillarin 1-like; rRNA 2'-O-methyltransferase fibrillarin 2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi01K
+  Gene Products: rRNA 2'-O-methyltransferase fibrillarin 1; rRNA 2'-O-methyltransferase fibrillarin 1-like; rRNA 2'-O-methyltransferase fibrillarin 2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: mediator of RNA polymerase II transcription subunit 36a-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi04
+  Gene Products: probable mediator of RNA polymerase II transcription subunit 36b
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100282167
+  Gene Synonyms: GRMZM2G150648,pco102583(157)
+  Gene Descriptions: uncharacterized LOC100282167
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 310 aa
+
+MRPPaRGGRGGGRGFGGRgDGGGRGGGGRGFGGRGDGGGRGGRGGgGGRTPRGRGGGRGG
+GRGGGMKGGSKVVVVPHKHDGVFIAKAKEDALCTKNMVPGESVYGEKRVSVQNEDGTKVE
+YRVWNPFRSKLAAAVLGGVDNIWIAPGTRVLYLGAASGTTVSHVSDIVGPTGLVYAVEFS
+HRSGRDLVNMAKKRTNVIPIIEDARHPARYRMLVGMVDVIFSDVAQPDQARILALNASYF
+LKNGGHFVISIKANCIDSTMPAEAVFASEVEKLKADQFKPSEQVTLEPFERDHACVVGGY
+RMPKKQKATS
+
+
+BOP CONSENSUS:
+Length: 310 aa
+
+MRPPrRGGRGGGRGFGGRGDGGGRGGGGRGFGGRSDGGGRGGRGGRGGRTPRGRGGGRGG
+GRGGPGMKGGSKVVVVPHKHDGVFIAKAKEDALCTKNMVAGESVYGEKRVSVQNEDGTKV
+EYRVWNPFRSKLAAAVLGGVDNIWIAPGTRVLYLGAASGTTVSHVSDIVGPTGLVYAVEF
+SHRSGRDLVNMAKKRTNVIPIIEDARHPAKYRMLVGMVDVIFSDVAQPDQARILALNASY
+FLKNGGHFVISIKANCIDSTQAAEAVFASEVEKLKADQFKPSEQVTLEPFERDHACVVGG
+YRMPKKQKgT
+
+
+PACMAD CONSENSUS:
+Length: 308 aa
+
+MRPPARRGRGGRGGRFDGGGRGGGGRGFGGGRGGRGDRGGRGGGGGRTPRGGGRGGRGGR
+GGGMKGGSKAVVVPHKHAGVFISKSKEDALCTKNMVPGESVYSEKRVSVQNEDGTKVEYR
+VWNPFRSKLAAAVLGGVDNIWIAPGTRVLYLGAASGTTVSHVSDIVGPeGLVYAVEFSHR
+SGRDLVNMAKKRTNVIPIIEDARHPARYRMLVGMVDVIFSDVAQPDQARILALNASYFLK
+NGGHFVISIKANCIDSTMPAEAVFAAEVEKLKADQFKPSEQVTLEPFERDHACVVGGYRM
+PKKQKATS
+
+================================================================================

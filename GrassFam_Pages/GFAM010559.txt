@@ -1,0 +1,142 @@
+================================================================================
+GrassFam ID: GFAM010559
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             671.5 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10745:SF17
+Panther Family ID:               PTHR10745
+Modal Panther ID:                PTHR10745:SF17
+Modal Panther Description:       GLYCINE--TRNA LIGASE
+Modal Panther Family ID:         PTHR10745
+Modal Panther Fam Desc:          GLYCYL-TRNA SYNTHETASE/DNA POLYMERASE SUBUNIT GAMMA-2
+Interpro Signature Accession:    cd00774; cd00858; G3DSA:3.30.930.10:FF:000010; G3DSA:3.40.50.800:FF:000004; G3DSA:3.30.40.230:FF:000001; G3DSA:3.30.930.10; G3DSA:3.40.50.800; G3DSA:3.30.40.230; NF003211; TIGR00389; PTHR10745; PR01043; SSF52954; SSF55681
+Interpro Signature Description:  GlyRS-like_core; GlyRS_anticodon; Glycyl-tRNA synthetase 1; Glycine--tRNA ligase 2; Glycine--tRNA ligase; Bira Bifunctional Protein; Domain 2; -; glycine--tRNA ligase; glycine--tRNA ligase, homodimeric type; GLYCYL-TRNA SYNTHETASE/DNA POLYMERASE SUBUNIT GAMMA-2; Glycyl-tRNA synthetase signature; Class II aaRS ABD-related; Class II aaRS and biotin synthetases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: glycine--tRNA ligase%2C mitochondrial 1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: glycine--tRNA ligase%2C mitochondrial 1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: glycine--tRNA ligase%2C mitochondrial 1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: glycine--tRNA ligase%2C mitochondrial 1-like
+  Gene Descriptions: glycine--tRNA ligase%2C mitochondrial 1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: glycine--tRNA ligase%2C mitochondrial 1
+  Gene Descriptions: glycine--tRNA ligase%2C mitochondrial 1
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: glycine--tRNA ligase%2C mitochondrial 1-like
+  Gene Descriptions: glycine--tRNA ligase%2C mitochondrial 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: glycine--tRNA ligase%2C mitochondrial 1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: glycine--tRNA ligase%2C mitochondrial 1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: glycine--tRNA ligase%2C mitochondrial 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: glycine--tRNA ligase%2C mitochondrial
+  Gene Descriptions: glycine--tRNA ligase%2C mitochondrial
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 667 aa
+
+MLLLRLLSSSPRAplAKPrPPqTLAaAARqLAAMAAsAGGaAAMsREAFRAAVTNTLERR
+LFFVPSFKIYGGVAGLYDYGPPGCAVKANVLAFWRQHFVLEEGMLEVDCPCVTPEVVLKA
+SGHVDKFTDLMVKDEKTGNCYRADHLLKDFCKDKLEKDnTLSPEKaEEyNhILAILDDLS
+AEQLGAKIKEYGIVAPDTKNPLSDPYPFNLMFQTSIGPSGLSPGYMRPETAQGIFVNFKD
+LYYYNGNKLPFAAAQIGQAFRNEISPRQGLLRVREFTLAEIEHFVDPEDKSHPKFGDVSD
+LEFLMFPREDQLTGRSATRLKLGnAVSEGTVNNETLGYFIGRVYLFLTQLGIDKDRLRFR
+QHLPNEMAHYAADCWDAEIECSYGWIECVGIADRSAYDLRAHSDKSGVpLEAHEKFAEPR
+EVEKLVITPSKKELGLAFKGNQKMVLEALEAMGETEALDMKAALESKGEVEFKVCTLGKD
+VTIKKNMVSINiEKKKEHQRKFTPSVIEPSFGIGRIIYCLFEHCFYQRPGKTEDEQLNVF
+GFPPLVAPIKCTVFPLVKlEKFEVVAKKISKALTAAGISHIIDMTGNTIGKRYARTDEIG
+VPLAITVDSTTSVTVRDRDSKDQIRVEVDEVASVVKEVTDGQSTWADIMWRYPAHTASAA
+DEEEAEP
+
+
+BOP CONSENSUS:
+Length: 666 aa
+
+MLLRLLSSASRAIAAKPHPPQTLAAAAAGATSTTRKLAAMAGNREAFRVAVgNTLERRLF
+YVPSFKIYGGVAGLYDYGPPGCAVKANVLAFWRQHFVLEEGMLEVDCPCVTPEVVLKASG
+HVEKFTDLMVKDEKTGSCYRADHLLKDFCKEKLEnDNTLSPEKvEELNHILAVLDDLSAE
+QLGAKIKEYGIVAPDTKNPLSDPYPFNLMFQTSIGPSGLSAGYMRPETAQGIFVNFKDLY
+YYNGNKLPFAAAQIGQAFRNEISPRQGLLRVREFTLAEIEHFVDPEDKSHPKFSDVSDLE
+FLMFPREDQLTGrSATRLrLGEAVSEGTVNNETLGYFIGRVYLFLTQLGIDKDRLRFRQH
+LPNEMAHYAADCWDAEIECSYGWIECVGIADRSAYDLRAHSDKSGVPLEAHEKFAEPREV
+EKLVITPSKKELGLAFKGNQKMVLEALEAMGETEALGMKAALESKGEVEFKVCTLGKDVT
+IKRNMVSINMEKKKEHQRKFTPSVIEPSFGIGRIIYCLFEHCFYQRTGKTDDEQLNVFRF
+PPLVAPIKCTVFPLVKVEKFDVVAKKISKALTTAGISHIIDITGTSIGKRYARTDEIGVP
+LAITVDSTTSVTVRDRDSKDQIRVEVDEVASVVKEVTDGQSTWADIMWRYPAHTALATDE
+EEASET
+
+
+PACMAD CONSENSUS:
+Length: 679 aa
+
+MLLLRRVfFLLPSPSPRAPLAKPLLLLRPPRTLAPAARqLAAMAAPAPSAGGAaTMSRDA
+FRAAVTNTLERRLFFVPSFKIYGGVAGLYDYGPPGCAVKANVLAFWRQHFVLEEGMLEVD
+CPCVTPEVVLKASGHVDKFTDLMVKDEKTGNCYRADHLLKDFCKDKLEKDhTLSPEqAEE
+YNRILAILDDLSAEQLGAKIKEYGIVAPDTKNPLSDPYPFNLMFQTSIGPSGLSPGYMRP
+ETAQGIFVNFKDLYYYNGNKLPFAAAQIGQAFRNEISPRQGLLRVREFTLAEIEHFVDPE
+DKSHPKFGDVSDLEFLMFPREDQMAGRSATRLKLGNAVSEGTVNNETLGYFIGRVYLFLT
+QLGIDKDRLRFRQHLPNEMAHYAADCWDAEIECSYGWIECVGIADRSAYDLRAHSDKSGE
+KLEAHEKFAEPREVEKLVITPSKKELGLAFKGNQKMVLEALEAMtETEALDMKAALESKG
+EVEFKVCTLGKDVTIKKNMVSINIEKKKEHQRKFTPSVIEPSFGIGRIIYCLFEHCFYQR
+PGKTEDEQLNVFGFPPLVAPIKCTVFPLVKLEKFEVVAKKISKALTAAGISHIIDMTGNT
+IGKRYARTDEIGVPLAITVDNTTSVTVRDRDSKDQIRVEVDEVASVVKEVTDGQSTWADI
+MWRYPAHTASAADEEEAEP
+
+================================================================================

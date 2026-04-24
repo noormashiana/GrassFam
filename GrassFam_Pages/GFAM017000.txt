@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM017000
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             335.0 aa
+Family Size (Extended Family Size): 54 (55) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Weak
+Panther Family ID:               PTHR31388
+Modal Panther ID:                PTHR31388:SF54
+Modal Panther Description:       PEROXIDASE
+Modal Panther Family ID:         PTHR31388
+Modal Panther Fam Desc:          PEROXIDASE 72-RELATED
+Interpro Signature Accession:    cd00693; G3DSA:1.10.420.10:FF:000001; G3DSA:1.10.520.10:FF:000001; G3DSA:1.10.520.10; G3DSA:1.10.420.10; PTHR31388; PR00461; PR00458; PF00141; SSF48113
+Interpro Signature Description:  secretory_peroxidase; Peroxidase; -; Peroxidase, domain 2; PEROXIDASE 72-RELATED; Plant peroxidase signature; Haem peroxidase superfamily signature; Heme-dependent peroxidases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 3
+  Modal chromosome: Bdi02
+  Gene Products: peroxidase 72
+Lpe
+  Gene count: 6
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 4
+  Modal chromosome: Hvu03H
+  Gene Products: peroxidase 49-like; peroxidase 72-like
+Ata
+  Gene count: 4
+  Modal chromosome: Ata03D
+  Gene Products: peroxidase 15; peroxidase 49; peroxidase 72
+Tae
+  Gene count: 11
+  Modal chromosome: Tae03B
+  Gene Products: peroxidase 15-like; peroxidase 49-like; peroxidase 72-like; peroxidase 72-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: peroxidase 72-like
+  Gene Descriptions: peroxidase 72-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: peroxidase 72
+  Gene Descriptions: peroxidase 72
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 3
+  Modal chromosome: Pau01
+  Gene Products: peroxidase 72-like
+  Gene Descriptions: peroxidase 72-like
+Svi
+  Gene count: 3
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 6
+  Modal chromosome: Pvi05K
+  Gene Products: peroxidase 15-like; peroxidase 49-like; peroxidase 72-like; peroxidase 72-like%2C transcript variant X1
+Pha
+  Gene count: 3
+  Modal chromosome: Pha05
+  Gene Products: peroxidase 15-like; peroxidase 72-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi03
+  Gene Products: peroxidase 72
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: peroxidase 72
+  Gene Synonyms: GRMZM2G041308; GRMZM2G089982
+  Gene Descriptions: peroxidase 72
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 334 aa
+
+MATSMGCLvvLCLVSPLLLAGAVrGNPWGGLFPQFYDHSCPKAKEIVqSIVAQAVARETR
+MAASLVRLHFHDCFVKGCDASVLLDNSSSIVSEKGSNPNrNSLRGFEVVDQIKAALEAAC
+PGTVSCADILALAARDSTvLVGGPYWDVPLGRRDSLGASIQGSNNDIPAPNNTLPTIITK
+FKRLGLNVVDVVALSGGHTIGLSRCTSFRQRLYNQSGNGMADsTLDVSYAAQLRQGCPRS
+GGDNNLFPLDvVTPAKFDNFYFKNILAGRGLLSSDEVLLTKSAETAALVKAYAnDVhLFF
+QHFAQSMVNMGNISPLTGSQGEIRKNCRRLNNfH
+
+
+BOP CONSENSUS:
+Length: 335 aa
+
+MATSMgCLVVLCLVSPLLLAGAVrGNPWYGGLFPQFYDHSCPKAKEIVHSIVAQAVARET
+RMAASLVRLHFHDCFVKGCDASVLLDNSTnIVSEKGSNPNkNSLRGFEVVDQIKVALETA
+CPGTVSCADILALAARDSTILVGGPYWDVPLGRRDSLGASIQGSNNDIPAPNNTLPTIIT
+KFKRLGLNVVDVVALSGGHTIGLSRCTSFRQRLYNQSGNGLADsTLDVSYAAQLRQGCPR
+SGGDNNLFPLDVVTSTKFDNFYFKNILAGRGLLSSDEVLLTKSAETAALVKAYANDVHLF
+FQHFAQSMVNMGNIsPLTGSQGEIRKNCRRLNNFH
+
+
+PACMAD CONSENSUS:
+Length: 334 aa
+
+MATSMGcLVLLCLVSPLLLAGAVhGHPWGGLFPQFYDHSCPKAKEIVrSIVAQAVArETR
+MAASLVRLHFHDCFVKGCDASVLLDNSSSIVSEKGSNPNRNSLRGFEVVDQIKAALEAAC
+PGTVSCADILALAARDSTVLVGGPYWDVPLGRRDSLGASIQGSNNDIPAPNNTLPTIITK
+FKRQGLNVVDVVALSGGHTIGMSRCTSFRQRLYNQTGNGMADSTLDVSYAAQLRQGCPRS
+GGDNNLFPLDFVTPAKFDNFYFKNLLAGKGLLSSDEVLLTKSAETAALVKAYAADVNLFF
+QHFAQSMVnMGNISPLTGSQGEIRKNCRRLNnNH
+
+================================================================================

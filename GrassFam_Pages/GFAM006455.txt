@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM006455
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             442.0 aa
+Family Size (Extended Family Size): 32 (35) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR14494:SF0
+Panther Family ID:               PTHR14494
+Modal Panther ID:                PTHR14494:SF0
+Modal Panther Description:       ALADIN
+Modal Panther Family ID:         PTHR14494
+Modal Panther Fam Desc:          ALADIN/ADRACALIN/AAAS
+Interpro Signature Accession:    G3DSA:2.130.10.10:FF:000434; PTHR14494; PF25460; SSF82171
+Interpro Signature Description:  Aladin isoform A; ALADIN/ADRACALIN/AAAS; Aladin seven-bladed propeller; DPP6 N-terminal domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: aladin
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: aladin
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: aladin
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: aladin-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl11
+  Gene Products: aladin-like
+  Gene Descriptions: aladin-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa11
+  Gene Products: aladin%2C transcript variant X2
+  Gene Descriptions: aladin
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 2
+  Modal chromosome: Pau19
+  Gene Products: aladin-like; aladin-like%2C transcript variant X2
+  Gene Descriptions: aladin-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi03K
+  Gene Products: aladin-like%2C transcript variant X1; aladin-like%2C transcript variant X2
+Pha
+  Gene count: 4
+  Modal chromosome: Pha08
+  Gene Products: aladin-like; aladin-like%2C transcript variant X1; aladin-like%2C transcript variant X2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi14
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: aladin%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: Aladin%2C transcript variant X1
+  Gene Synonyms: GRMZM2G180205
+  Gene Descriptions: Aladin
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 442 aa
+
+MPSFPPPGAVTVCEINRDLVAADALSDDRAKDAYGDVLGMVFSPIPFQPDaLLpiREPPA
+AdQAEPAEnVPrtSLaSTISEFFKRMiFPPlNPNLLEEFDTQKVSWNPHKHCLAFVSGKN
+QVTVHDFEDSDaKEPCILTSDHQtdVKAVEWRPNSGKMIAVGCKGGICLWSASYPGNVPF
+MKSGVTSSSFSAFPRGSGGQWILVDVLRGSSAELVSALCWKPDGRYLASASCNSPSFTIW
+DVSQGLGTPIRRGLSNISLVRWSPSGDYLLAAKFDGTFHFWETNTWTSEPWSSSNGYVSG
+ANWDPEGRVALLSFSNSTTLGSIHFSSKPPSLDAHLLPVELPEISSLIVSRGIEKLAWDA
+SGERLALSFKDGNEMYrGLVAVYDVRRSPLVSVSLVGFIRGPGEGAKPLAFAFHNKFKQG
+PLLSVCWSSGWCCTYPLILRSH
+
+
+BOP CONSENSUS:
+Length: 442 aa
+
+MPSFPPPGGVTVCEINRDLVVADSLSEDRAKEAYGDVLGMVFSPIPFQPDDLLAtHEAPA
+PdEAEPAESVPRTSLVSTIAESFKQMLFPSCNPKLLEEFDTQKVSWNPHKHCLAFVSGKD
+QVTVHDFEDSDGKESCILTSEHQKEVKAIEWRPNSGKMIAVGCKGGICLWSASYPGNVAS
+VKSGVTSSSFGAFPRGSsGQWILVDVLRGSSpELVSALCWKPDGRYLASASCNGQSFTIW
+DVSQGLGTPIRRGLSSISLVRWSPSGDYFLTAKFDGTFHLWETNTWTSEPWSSSNGYVTG
+ANWDPEGRVALLSFSNSTTLGSIHFSSKPPSLDAHLLPVELPEISSLIVSRGIEKLAWDA
+SGERLALSFKDGNETYqGLVAVYDVRRSPLVSVSLVGFIRGPGEGVKPLAFAFHNKFKQG
+PLLSVCWSSGWCCTYPLILRSH
+
+
+PACMAD CONSENSUS:
+Length: 442 aa
+
+MPSFPPPGAVTVCEINRDLVAADALSDDRAKDAYGDVLGMVFSPIPFQPDTLPPIREPPA
+AEQpEStENVPTASVTSTISEFFKRMIFPPLNPNLLQEFDTQKISWNPHKHCLAFVSGKN
+QVTVHDFEDSDAKEPCILTSDHQTNVKAVEWRPNSGKMIAVACKGGICLWSASYPGNVPF
+MKaGVTSSSFSAFPRGSGGQWILVDVLRDSSAEQVSALCWKPDGRYLASASCNSPSFTIW
+DVSQGLGTPIRRGLSNISLLRWSPSGDYLLAAKFDGTFHFWETNTWTSEPWSSSNGYVSG
+ANWDPEGRVALLSFSNSTTLGSIHFSSKPPSLDAHLLPVELPEISSLIVSRGIEKLAWDA
+SGERLALSFKDGNEMYRGLVAVYDVRRSPLVSLSLVGFIRGPGEGAKPLAFAFHNKFKQG
+PLLSVCWSSGWCCTYPLILRSH
+
+================================================================================

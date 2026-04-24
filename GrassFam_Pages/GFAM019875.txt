@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM019875
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             436.0 aa
+Family Size (Extended Family Size): 44 (45) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31642:SF333
+Panther Family ID:               PTHR31642
+Modal Panther ID:                PTHR31642:SF333
+Modal Panther Description:       SUBFAMILY NOT NAMED
+Modal Panther Family ID:         PTHR31642
+Modal Panther Fam Desc:          TRICHOTHECENE 3-O-ACETYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:3.30.559.10:FF:000014; G3DSA:3.30.559.10:FF:000008; G3DSA:3.30.559.10; PTHR31642; PF02458
+Interpro Signature Description:  Tryptamine hydroxycinnamoyl transferase; -; TRICHOTHECENE 3-O-ACETYLTRANSFERASE; Transferase family
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: tryptamine hydroxycinnamoyltransferase 1
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu01H
+  Gene Products: tryptamine hydroxycinnamoyltransferase 2-like
+Ata
+  Gene count: 4
+  Modal chromosome: Ata01D
+  Gene Products: tryptamine hydroxycinnamoyltransferase 1-like; tryptamine hydroxycinnamoyltransferase 2; tryptamine hydroxycinnamoyltransferase 2-like
+Tae
+  Gene count: 10
+  Modal chromosome: Tae01B
+  Gene Products: tryptamine hydroxycinnamoyltransferase 1-like; tryptamine hydroxycinnamoyltransferase 2-like
+Ola
+  Gene count: 3
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 4
+  Modal chromosome: Ogl10
+  Gene Products: tryptamine hydroxycinnamoyltransferase 1; tryptamine hydroxycinnamoyltransferase 2; tryptamine hydroxycinnamoyltransferase 2-like
+  Gene Descriptions: tryptamine hydroxycinnamoyltransferase 1; tryptamine hydroxycinnamoyltransferase 2; tryptamine hydroxycinnamoyltransferase 2-like
+Osa
+  Gene count: 3
+  Modal chromosome: Osa10
+  Gene Products: tryptamine hydroxycinnamoyltransferase 1-like; tryptamine hydroxycinnamoyltransferase 2-like
+  Gene Synonyms: OsTHT1,THT1; OsTHT2,THT2
+  Gene Descriptions: tryptamine hydroxycinnamoyltransferase 1-like; tryptamine hydroxycinnamoyltransferase 2-like
+Ecu
+  Gene count: 5
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 3
+  Modal chromosome: Pau21
+  Gene Products: tryptamine hydroxycinnamoyltransferase 2-like
+  Gene Descriptions: tryptamine hydroxycinnamoyltransferase 2-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi09N
+  Gene Products: tryptamine hydroxycinnamoyltransferase 2-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha09
+  Gene Products: tryptamine hydroxycinnamoyltransferase 2-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi02
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: tryptamine hydroxycinnamoyltransferase 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 434 aa
+
+MAVTVEITRStVLRPSPeSArGGGKKVPLTVFDRASTDGYIPAVFAWNAPAPtNDALKDG
+LLAAVARFPHLAGRFAVDDhGRKCFHLNDAGVLVLEATADADLADALAHDVsAHINELYP
+KADKERADEPLFQVQLTRYaCGGLVIGTACHHQVADGQSMSvFYTAWAtAVRTdSAvLPS
+PFvDRsAtvVPRSPPaPAFDHRNIEFKGEhSwSHSYGVLPMDRIKNLAVHFPdEFVAdLK
+ARVGaRCSTFQCLLAHAWKKITAARDLAPDEFTQVRVAVNCRGRAkPPVPMDFFGNMVLW
+AFPRMQVRDLLSSSYAAVVGVIRDAVARVDdEYIQSFVDFGEAAEraGEELASTAATPGT
+aFCPDLEVDSWLGFRFHDLDFGgGPPCAFLPPDLPIEGiMIFVPSCAAKGGVDLFMALDD
+EHVqAFKQICYSMD
+
+
+BOP CONSENSUS:
+Length: 432 aa
+
+MAVtVEITRStVLrPSpESArGGGKKVPLTVFDRASTDGYIPAVFAWNAPAPTNDALKaG
+LvAAVARFPHLAGRFAvDDHGRKCFHLNDAGVLVLEATAdADLADALAHDVsAHINELYP
+KAEKERAdEPIFQVQLTRYACGGLVIGTACHHQVADGQSMSVFYTAWAsAVRTDSAVLPS
+PFVDRSATVVPRSPPaPAFDHRNIEFKGEhSwSHSYGVLPMDRIKNLAVHFPDEFVAdLK
+ARVGtRCSTFQCLLAHAWKKITAARDLAPDDFTQVRVAVNCRGRAKPPVPMDFFGNMVLW
+AFPRMQVRDLLSSSYPAVVGvIRDAVARVDDEYIQSFVDFGEAeRGEELASTAATPGTmF
+CPDLEVDSWLGFRFHDLDFGcGPPCAFLPPDLPIEGIMIFVPSCAAKGGVDLFMALDDEH
+VQAFKQICYSMD
+
+
+PACMAD CONSENSUS:
+Length: 434 aa
+
+MAVTVEITRRAVLRPPPASdRGGGRtsPLTAFDRASTDGYIPAVFAWnAPAPDNaAiVDG
+LLAtVARYPHLAGRMGVDDRGRKCFHLNDAGVLVVEAtADADLADALAHDVaAHINELYP
+KADKERADEPLFQVQLTRYRCGGLVIGTACQHLVADGQSMSFFYTAWATAVRTgSAtLPS
+PFTDRTAIAVPRSPPAPkFDHRNIEFRGEHSPSHSYaVLPMDRIKNLaVHFPEEFVAgLK
+ARVGGRCSTFQCLLAHAWKKVTAARDLAPEEFTQIRVAVNCRsRAnPPVPMEYFGNMVLW
+AFPRMRARELLSSSYAAVVGVIRDAVARVDAEYIQSFVDFGEaAERAGEELASTAAtPGT
+AFCPDLEVDSWLGFRFHDLDFGgGPPCAFLPPDLPIEGLMIFVPSCaAKGGVDLFMALDD
+EHVDAFKQICYSMD
+
+================================================================================

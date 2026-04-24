@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM003068
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             372.0 aa
+Family Size (Extended Family Size): 43 (47) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR45648
+Modal Panther ID:                PTHR45648:SF46
+Modal Panther Description:       GDSL ESTERASE_LIPASE
+Modal Panther Family ID:         PTHR45648
+Modal Panther Fam Desc:          GDSL LIPASE/ACYLHYDROLASE FAMILY PROTEIN (AFU_ORTHOLOGUE AFUA_4G14700)
+Interpro Signature Accession:    cd01837; G3DSA:3.40.50.1110; PTHR45648
+Interpro Signature Description:  SGNH_plant_lipase_like; SGNH hydrolase; GDSL LIPASE/ACYLHYDROLASE FAMILY PROTEIN (AFU_ORTHOLOGUE AFUA_4G14700)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: GDSL esterase/lipase At1g71250
+Lpe
+  Gene count: 4
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu07H
+  Gene Products: GDSL esterase/lipase At4g28780-like; anther-specific proline-rich protein APG-like
+Ata
+  Gene count: 3
+  Modal chromosome: Ata07D
+  Gene Products: GDSL esterase/lipase At4g28780; GDSL esterase/lipase At5g37690; GDSL esterase/lipase At5g37690-like
+Tae
+  Gene count: 10
+  Modal chromosome: Tae07D
+  Gene Products: GDSL esterase/lipase At1g74460-like; GDSL esterase/lipase At4g28780-like; GDSL esterase/lipase At5g37690-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: GDSL esterase/lipase At5g55050-like
+  Gene Descriptions: GDSL esterase/lipase At5g55050-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: GDSL esterase/lipase At5g55050
+  Gene Descriptions: GDSL esterase/lipase At5g55050
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau10
+  Gene Products: GDSL esterase/lipase At1g71691-like
+  Gene Descriptions: GDSL esterase/lipase At1g71691-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi04N
+  Gene Products: GDSL esterase/lipase At1g71691-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha04
+  Gene Products: GDSL esterase/lipase At1g71691-like; GDSL esterase/lipase At5g55050-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi10
+  Gene Products: GDSL esterase/lipase At2g23540; GDSL esterase/lipase At5g55050
+Zma
+  Gene count: 2
+  Modal chromosome: Zma05
+  Gene Products: GDSL esterase/lipase; GDSL esterase/lipase At1g71691%2C transcript variant X1
+  Gene Synonyms: GRMZM2G048073
+  Gene Descriptions: GDSL esterase/lipase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 375 aa
+
+MKGyevvmkgLVvslVlGAVAGvrPSKarRrvVPAmYVLGDSTLDVGNNNHLPGKDVPRA
+NKPFYGIDFPGsgKPTGRFSNGYNiADFVAKnLGFEKSPLAYLVLKARNYLIPSAlTRGV
+SYASAGAGILDSTNAGkNIPLSKQVRYFaSTKAEMEAkvGpraVSkLLArSFFLLGvGSN
+DLFAFATAQAKQNrsATQSDVAALYgSLiSNYSAAITeLYgMGARKFGIINVGPVGCVPR
+VRVLNATGACnDGMNQLAAGFDAALKSlLAgLAPKLPGLAYSLADSFAltQaTFANPqAa
+GFVSaDSACCGSGRLGAEGdClrnAtLCaDRDrYvFWDsVHPSQRAAmLGAQAyFDGPAQ
+fTtPISFKQLAhkrs
+
+
+BOP CONSENSUS:
+Length: 364 aa
+
+MKGlVVVLLGLVvVgAVGAgarpgarRPVVPAmFVLGDSTLDVGNNNHLPGKDVPRANkP
+FYGIDFPGGArATGRFSNGYNIADFVAKqLGFERSPLAYLVLKSRNYLIPSALtRGVSYA
+SAGAGILDSTNAGkNIPLSKQVrYFASTKAEMEAawGshKVSkLLAsSFFLLGiGSNDLF
+QSrPKTQaDVAALYttLvSNYSAAITDLYGMGARKFGIINvGPVGCVPRVRvLNATGACN
+DGMNRLAaGFAAAlKSgLAgLAPRLPGLAYSLADSFAatqAnFaNPQAAGFVNADSACCG
+SGRLGAEGdCmRNAtLCsDRDAYvFWDwVHpTQRAAELGAQALFVDGPAQiTaPISFKQL
+Ahkr
+
+
+PACMAD CONSENSUS:
+Length: 373 aa
+
+MGYELAMKALVLSLVLGAVAGVrPSKlVRQVPAmYVFGDSTLDVGNNNYLPGKdVPRAnK
+PYYGIDLPGSGKPTGRFSNGYNtADFVAKtLGFeKSPLAYLVLKARNyLIPSAITRGVSY
+ASAGAGILDSTNAGgNIPLSQQVRLFESTKAEMEAKVGPRAVSdLLSrSFFLVGVGSNDF
+FAFATAQAKQNkTATQSDVAAFYGSLlSNYSAAITELYKLGARKFGIINVGPVGCVPRVR
+VLNATGACADGMNQLAAGFDAALkSLLAGLApKLPGLAYSLADSFGLTQrTFADPLALGF
+VSsDSACCGSGRLGAQGDClPtATLCADRDRYlFWDSVHPSQRAAMLSAQAYYDGPAQFT
+TPInFKQLAdksS
+
+================================================================================

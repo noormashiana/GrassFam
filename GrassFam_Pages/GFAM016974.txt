@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM016974
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             433.0 aa
+Family Size (Extended Family Size): 23 (40) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43811:SF48
+Panther Family ID:               PTHR43811
+Modal Panther ID:                PTHR43811:SF48
+Modal Panther Description:       PEPTIDYL-PROLYL CIS-TRANS ISOMERASE FKBP43
+Modal Panther Family ID:         PTHR43811
+Modal Panther Fam Desc:          FKBP-TYPE PEPTIDYL-PROLYL CIS-TRANS ISOMERASE FKPA
+Interpro Signature Accession:    G3DSA:3.10.50.40; G3DSA:2.60.120.340; PTHR43811; PF00254; SSF54534
+Interpro Signature Description:  -; Nucleoplasmin core domain; FKBP-TYPE PEPTIDYL-PROLYL CIS-TRANS ISOMERASE FKPA; FKBP-type peptidyl-prolyl cis-trans isomerase; FKBP-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: peptidyl-prolyl cis-trans isomerase FKBP53
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: peptidyl-prolyl cis-trans isomerase FKBP53-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: peptidyl-prolyl cis-trans isomerase FKBP43%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: peptidyl-prolyl cis-trans isomerase FKBP43-like; peptidyl-prolyl cis-trans isomerase FKBP43-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: peptidyl-prolyl cis-trans isomerase FKBP53-like
+  Gene Descriptions: peptidyl-prolyl cis-trans isomerase FKBP53-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: peptidyl-prolyl cis-trans isomerase FKBP43
+  Gene Descriptions: peptidyl-prolyl cis-trans isomerase FKBP43
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau17
+  Gene Products: peptidyl-prolyl cis-trans isomerase FKBP53
+  Gene Descriptions: peptidyl-prolyl cis-trans isomerase FKBP53
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: peptidyl-prolyl cis-trans isomerase FKBP43-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: peptidyl-prolyl cis-trans isomerase FKBP43-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: peptidyl-prolyl cis-trans isomerase FKBP53
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: peptidyl-prolyl cis-trans isomerase FKBP43-like
+  Gene Synonyms: GRMZM2G399313
+  Gene Descriptions: peptidyl-prolyl cis-trans isomerase FKBP43-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 425 aa
+
+MAFWGVEVKPGKPYTHsYqASHGRLRICQATLGNCDAAtRTVLQCNVGNKiPIKLCSLNP
+KLAEMCHLEIELEEVDDVVFSVIGQSSIHLSGYYVRASSRsNAGDDESESYGEDVGESDT
+DEEhdaSEDSYESDFIDDRDVEVPEDsdGSDSmDDGDvCStPdRHkKqDSEKqTRKVeRR
+RRLKKHQVDStDDKdDDSPyKPAvKRkArSIFDSgSDDDEDNmPIsVALaKKDNgKVSEE
+tKPqNVQaNDeTKKKSnDdKKRKSdAISEDPASPMDiTDANAPSVSKQgAEIKKKSKKKm
+KnQlEAeDEKqSNIRTLEDGLiVEDLSTGNqDAKVASdGsKVYIKYVGMLKDGKIVESNv
+nEKPYKFKLGAGKVIRGWDVGItGMRVGEKRRLTVPPSMCyGGKSVGEVPKNSSVIYEVE
+LVKVK
+
+
+BOP CONSENSUS:
+Length: 430 aa
+
+MAFWGVEVKPGKPYTHSYNPSHGRLRICQATLGSCDAATRTVVQCIVGNKKPIILCSLNP
+KLAEMCHLEIELEEVDEVLFSVLGQSSVHLSGYYLRPGSRGNAGDEDSESYGEDVGESDT
+DQDYEGSEDSYESDFIDDGDnEVPEDsDVSDSMDDGDVCSTPDHkKQDSEKHARKVKRQR
+RLKKKHQVDSSDDKIADSPSKPAvRRKRGSIFDSASEDEDFLAQEENLPPVSLAKKTNGK
+VSEEIKPGNVTSNDETKKKSNSDKKRKSDAINQDPASPMDVTEvNGSSVPKQEAEIKKKS
+KKKKKtLEAEDGKHSNNIRTLEDGLVIEDLSAGNQDAKVASNGNKVYINYVGKLQDGKTV
+HSNgeEKPYKFKLGSEKVMRGWNLGITGMRVGEKRRLTIPPSMCDNGGKSvVEvPKDSTI
+IYEVELVKVR
+
+
+PACMAD CONSENSUS:
+Length: 446 aa
+
+MAFWGVEVKPGKPYTHTYQADHGRLRICQATLGNCDAtARTVLQCNVGNKIPIKLCSLNP
+KLAEMCHLEIEFEEVDDVVFSVIGQSSIHLSGYYVRASSRSNAGDDESESYGEDIGQSDT
+DEEHDAsEDSYESDFIDDRDVVPEESYGSDSIDVSDDECSSPRRRKQEASEKQTRKAERR
+RRLKKHQVDSTDDdDDDSPVmKPaVKRnARSIFDSGSDNVPISKVAVKRnASIFDSCSDE
+EDNVPISVALGKKDSsKVAEETesQNGQANDdTKKKstDakKRKSSAISEDPASSMDITD
+ANAPSVSKQGAeIKKKSKKKMRNQSGaKDEKQSNIRTLDDGLmVEDLSTGNiDAKVASDG
+CKVYIKYVGMLKDGKIVESNvSEKPYKFKLGAGKVIRGWDVGIrGMRVGEKRRLTVPPSM
+CSGGKSVGEVPKNSSVIYEIELVKVK
+
+================================================================================

@@ -1,0 +1,118 @@
+================================================================================
+GrassFam ID: GFAM014208
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             372.0 aa
+Family Size (Extended Family Size): 21 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45648:SF48
+Panther Family ID:               PTHR45648
+Modal Panther ID:                PTHR45648:SF48
+Modal Panther Description:       OS03G0581400 PROTEIN
+Modal Panther Family ID:         PTHR45648
+Modal Panther Fam Desc:          GDSL LIPASE/ACYLHYDROLASE FAMILY PROTEIN (AFU_ORTHOLOGUE AFUA_4G14700)
+Interpro Signature Accession:    cd01837; G3DSA:3.40.50.1110; PTHR45648
+Interpro Signature Description:  SGNH_plant_lipase_like; SGNH hydrolase; GDSL LIPASE/ACYLHYDROLASE FAMILY PROTEIN (AFU_ORTHOLOGUE AFUA_4G14700)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: GDSL esterase/lipase At5g55050
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: GDSL esterase/lipase At5g55050-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: GDSL esterase/lipase At5g55050
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: GDSL esterase/lipase At5g55050-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: GDSL esterase/lipase At5g37690-like
+  Gene Descriptions: GDSL esterase/lipase At5g37690-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa03
+  Gene Products: GDSL esterase/lipase At5g37690%2C transcript variant X3; GDSL esterase/lipase At5g55050
+  Gene Descriptions: GDSL esterase/lipase At5g37690; GDSL esterase/lipase At5g55050
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi09N
+  Gene Products: GDSL esterase/lipase At5g55050-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha09
+  Gene Products: GDSL esterase/lipase At5g55050-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi01
+  Gene Products: GDSL esterase/lipase At4g28780%2C transcript variant X1; GDSL esterase/lipase At5g55050
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 371 aa
+
+MGSCkgmvisrGLpLLLclsfLcEtvqGGLVPALYVLGDSQADVGNNNHLvTpLRANFPH
+NGVDYPGhKATGRFSNGyNFVDFLAgSLGLPSPPPYLSIcNTpssnSIYLnGVNFASGGA
+GVSnLTNKGQCISFDeQIeRDYSkVhasLVQQLGQaQASAHLArSIFaVAIGGNDIINRV
+LlPslvnqVLspcpptqSPqqFIaSLAqSLKRQLQRLYkLGMRRLFFVGAAPLGCcPLLR
+ElsltkECdAeANyMSaqYNiAVASLLRDMStrHPDFrYSFFDtYTALLqYIqEPEANGY
+AEVKAACCGLGDNNAMFsCTPASsLCpNRTNHvFWDfVHPTEiTAqKLTAVAFdGSAPLV
+SPvNVRQLcat
+
+
+BOP CONSENSUS:
+Length: 370 aa
+
+MGSsgGMvVSRGLPCVLLLLACCWLCEAGAGLAPALYVLGDSQADAGTNNHLVTVLRADh
+PHNGVDYPGCKATGRFSNGKNFVDFLAEHLKLPSSPPPYLSICNTPSSNSIYLtGVNFAS
+GGAGVSNQTNqGQCISFDhQIDhHYSKVnASLVQQLGQAQASAHLSRSIFAVAIGGNDIL
+NYVRPSLVNQVLSPCPPTQSPDEFVSSLALSLKDQLQRLYKLGMRRLFIVGAAPLGCCPV
+LRGKkECDAlANYMSsQYNIAVASLLRDMSDKYPDMLYSLFDPSTALLDYIQrPEANGYa
+VVDAACCGLGeKNAMFSCTPASSLCnNRTSHvFWDFVHPTEITAQKLTAVAFDGSAPLVT
+PRNVrQLCdt
+
+
+PACMAD CONSENSUS:
+Length: 372 aa
+
+MkpSCKSttTIcgGLLLCvSFLAELVQGGlVPALYVLGDSQADVGNNNYLLTPLRANFPH
+NGVDYPGQqATGRFSNGyNFVDFLAGSLGLASPPAYHSIgNTTGnsStFLNGVNFASGGA
+GVLDLTNKGQCISFDEQIERDYSsVYsGLVQQLGQPQAsaHLAkSIFtVAIGGNDIInRv
+LpDPavTLElqvLqvQssSpQQFIDSLAQSLKRQLQRLYELGMRRLFFVGAAPLGCyPLL
+RErSLTkECHAEANSLSVRYNAAVASLLRDMSTRHPDFRYSFFDqYTALLqYIqEPEANG
+FAEVKAACCGLGDNNAMyrCTPVStLCPNRTNHvFWDlVHPTETTtRKLTAVAFnGSAPL
+VSPVNVRQLsAP
+
+================================================================================

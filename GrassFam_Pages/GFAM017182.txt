@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM017182
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             452.0 aa
+Family Size (Extended Family Size): 26 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13121:SF0
+Panther Family ID:               PTHR13121
+Modal Panther ID:                PTHR13121:SF0
+Modal Panther Description:       PHOSPHATIDYLINOSITOL GLYCAN ANCHOR BIOSYNTHESIS CLASS U PROTEIN
+Modal Panther Family ID:         PTHR13121
+Modal Panther Fam Desc:          GPI TRANSAMIDASE COMPONENT PIG-U
+Interpro Signature Accession:    PTHR13121; PF06728
+Interpro Signature Description:  GPI TRANSAMIDASE COMPONENT PIG-U; GPI transamidase subunit PIG-U
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: phosphatidylinositol glycan anchor biosynthesis class U protein
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu02H
+  Gene Products: phosphatidylinositol glycan anchor biosynthesis class U protein-like; phosphatidylinositol glycan anchor biosynthesis class U protein-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: phosphatidylinositol glycan anchor biosynthesis class U protein
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: phosphatidylinositol glycan anchor biosynthesis class U protein-like; phosphatidylinositol glycan anchor biosynthesis class U protein-like%2C transcript variant X3
+Ola
+  Gene count: 2
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl01
+  Gene Products: uncharacterized LOC127757620; uncharacterized LOC127761036
+  Gene Descriptions: uncharacterized LOC127757620; uncharacterized LOC127761036
+Osa
+  Gene count: 2
+  Modal chromosome: Osa01
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC107276856; uncharacterized LOC4330366
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau06
+  Gene Products: uncharacterized LOC133921507
+  Gene Descriptions: uncharacterized LOC133921507
+Svi
+  Gene count: 2
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: phosphatidylinositol glycan anchor biosynthesis class U protein-like; phosphatidylinositol glycan anchor biosynthesis class U protein-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: phosphatidylinositol glycan anchor biosynthesis class U protein-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: phosphatidylinositol glycan anchor biosynthesis class U protein
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: GPI transamidase subunit PIG-U family protein
+  Gene Synonyms: GRMZM5G891295
+  Gene Descriptions: GPI transamidase subunit PIG-U family protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 453 aa
+
+MAIRHYWsMAAAAVGFRLVLVLFGGDLHLASRPEVSTPLTSLRRLAEGYWLKQASMSPYS
+GSMYHGSPLLLSVLGPLTSKRSGGHHAHIYCSLIFVAVDFLAAMLIRATGRrLQMARNRS
+LKSLDLTKAVNNSVNVSAGDiASLIYLWNPWAIVTCVGSCTSPIENLMVVIMIYGACSRL
+APLAAFGYVMATHLSLYPAILIVPVILLLGYGPDAPPtKVFLqKGSSASKsDMSDNDKsT
+SQRgVQQFSWKPVLHFILWlFIWSCYVLLLSSIILNKVGGLQEMFEKTYGFILTVKDLSP
+NIGVLWYFFAEVFDFFRSFFLIVFNMNIIFMVLPLAIRLKHRPCFLAFVYTAIVAMLKSY
+PSAGDSALYLGLLGLFANELAEMQFTFFLFFGYIGVSLLSPVMHNLWIWRGTGNANFYFA
+TGLAYTCLQTVLVVESVSSMIKHDRKLRLLVTs
+
+
+BOP CONSENSUS:
+Length: 453 aa
+
+MAIRHYWSMAAAAVGFRLVLVLFGGDLHLASRPEVSTPLTSLRRLAEGYWLKQASMSPYS
+GSMYHGSPLLLSVLGPLTSKRSGGHHsHIYCSLVFVAVDFIAAMLIRSTGRtLQMARNRS
+LKSLDLTKSVNNSVNVSAGDTASLIYLWNPWTIITCVGSCTSPIENLMVVIMIYGACSRL
+APLAAFGYVMATHLSLYPAILILPVaLLLGYGPDTPPtKVFLQKGSSASKiDMSDNGKsT
+SQRGFGQFSWKPILHFILWVFIWSCYVLLLNSIILNKVGGLQEMFEKTYGFILTVKDLSP
+NIGVLWYFFAEVFDFFRSFFLIVFNMNIIFMVLPLAIRLKHRPCFLAFVYTAIVAMLKSY
+PSAGDSALYLGLLGLFANELAEMQFTFFLFFGYIGVSLLSPVMHNLWIWRGTGNANFYFA
+TGLAYTCLQTVLVVEsVSSMIKHDRKLRLLVKA
+
+
+PACMAD CONSENSUS:
+Length: 453 aa
+
+MAIRYYWPMAAAAVGFRLVLVLFGGDLHLASRPEVSTPLTSLRRLAEGYWLKQASMSPYS
+GSMYHGSPLLLSVLGPLTsNRSDGKHAHIYCSLIFVAVDFLAAMLIRATGrrLQMsRNRS
+LKSLDLTKAVNNSANVSAGDVASLIYLWNPWAIVTCVGSCTSPIENLMVVIMIYGACSRL
+APLAAFGYVMATHLSLYPAILIVPVILLLGYGPDAPPtKVFLlKSSSASKSDMSDNDKRT
+sLRVVQQFSWKPVLHFIFWLFIWSCYVLLLSSvILKKVGGLhEMFEKTYGFILTVKDLSP
+NIGVLWYFFAEVFDFFRnFFLIVFNMNIIFMVLPLAIRLKHRPCFLAFVYTAIVAMLKSY
+PSAGDSALYLGLLGLFANELAEMQFTFFLFFGYIGVSLLSPVMHNLWIWRGTGNANFYFA
+TGLAYTCLQTVLVVESVSSMIKHDRKLRLLVTS
+
+================================================================================

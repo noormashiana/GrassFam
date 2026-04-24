@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM020054
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             402.0 aa
+Family Size (Extended Family Size): 23 (34) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11364:SF29
+Panther Family ID:               PTHR11364
+Modal Panther ID:                PTHR11364:SF29
+Modal Panther Description:       SULFURTRANSFERASE
+Modal Panther Family ID:         PTHR11364
+Modal Panther Fam Desc:          THIOSULFATE SULFERTANSFERASE
+Interpro Signature Accession:    cd01449; cd01448; G3DSA:3.40.250.10:FF:000001; G3DSA:3.40.250.10:FF:000019; G3DSA:3.40.250.10; NF008557; PTHR11364; SSF52821
+Interpro Signature Description:  TST_Repeat_2; TST_Repeat_1; Sulfurtransferase; -; 3-mercaptopyruvate sulfurtransferase; THIOSULFATE SULFERTANSFERASE; Rhodanese/Cell cycle control phosphatase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: thiosulfate/3-mercaptopyruvate sulfurtransferase 2%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: thiosulfate/3-mercaptopyruvate sulfurtransferase 2-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: thiosulfate/3-mercaptopyruvate sulfurtransferase 2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: thiosulfate/3-mercaptopyruvate sulfurtransferase 1%2C mitochondrial-like; thiosulfate/3-mercaptopyruvate sulfurtransferase 2-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl12
+  Gene Products: thiosulfate/3-mercaptopyruvate sulfurtransferase 2-like
+  Gene Descriptions: thiosulfate/3-mercaptopyruvate sulfurtransferase 2-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa12
+  Gene Products: thiosulfate/3-mercaptopyruvate sulfurtransferase 2
+  Gene Descriptions: thiosulfate/3-mercaptopyruvate sulfurtransferase 2
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu06
+Pau
+  Gene count: 2
+  Modal chromosome: Pau22
+  Gene Products: thiosulfate/3-mercaptopyruvate sulfurtransferase 2-like; thiosulfate/3-mercaptopyruvate sulfurtransferase 2-like%2C transcript variant X1
+  Gene Descriptions: thiosulfate/3-mercaptopyruvate sulfurtransferase 2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: thiosulfate/3-mercaptopyruvate sulfurtransferase 2-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: thiosulfate/3-mercaptopyruvate sulfurtransferase 2-like%2C transcript variant X1
+Msi
+  Gene count: 4
+  Modal chromosome: Msi15
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: thiosulfate/3-mercaptopyruvate sulfurtransferase 2%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100275494
+  Gene Synonyms: GRMZM2G029262,pco128327
+  Gene Descriptions: uncharacterized LOC100275494
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 403 aa
+
+MAASLLSRAAAAAAALRGAARPHHLLRSSLPKETLLPLLLLLLLlaTATLLAGRVGWAAR
+AAEGAGfGCGASPLmGAFGIAARCNATSSSAVSEAAGVHALPRTEPVVSAEWLHANLKDP
+DVKVLDASWYMPAEQRNPLQEYQVAHIPGALFFDVDGISDRTSSLPHMLPSEKAFSAAVS
+ALGIYNKDGIVVYDGKGLFSAARVWWMFRVFGHDKVWVLDGGLPQWRASGYDVESSASSD
+AILKASAAgEAIEKVYQGQSVGPtTFEAKLQPHLLWSLDQVKENIkTQTHQLIDARSKPR
+FDGAVPEPRKGIRSGHVPGSKCVPFPQVLDSSQKLLPPDELRKRFEQEGISLDQPLVTSC
+GTGVTACVLALGLHRLGKTDVAVYDGSWTEWGAHPDTPVATAV
+
+
+BOP CONSENSUS:
+Length: 398 aa
+
+MAASLLSRAASAAFALRGGARLLPKETPLPLLLLLLLATAAGTLPAGRVGWARAAEvGCG
+ASLSPSMTRFGIAARFNATSSAVSEAAAASGAVHAVPRTEPVVSAEWLHANLRDPDVKVL
+DASWYMPAEQRNPLQEYQVAHIPGALFFDVDGISDRASSLPHMLPSEKAFSAAVSSLGIY
+NKDGIVVYDGKGLFSAARVWWMFRAYGHDKVWVLDGGLPQWRASGYDVESSASSDAILKA
+SAASEAIEKVYQGQSVGPTTFEAKLQPHLLWNLDQVKENIETQTHQLIDARGKPRFDGAV
+PEPRKGIRSGHVPGSKCVPFPQVLDSSQKLLPADELRKRFEQEGISLDQPLVTSCGTGVT
+ACVLALGLHRLGKTDVAVYDGSWTEWGAHPDTPVATAV
+
+
+PACMAD CONSENSUS:
+Length: 405 aa
+
+MAASLLSRAAAAAAALRGAARPNHLLARsSLPKETLLPPLLLLLLtTATPLAGRVGWAAR
+AAEGAGGyGCGpSPLAGAFGIAARCNATSSSSAVSEAAGVHtLPRTEPVVSAEWLHANLK
+DPDVKVLDASWYMPAEQRNPLQEYQVAHIPGALFFDVDGISDRTSSLPHMLPSEKAFSAA
+VSALGIYNKDGIVVYDGKGLFSAARVWWMFRVFGHDKVWVLDGGLPQWRASGYDVESSAS
+SDAILKASAAGEAIEKVYQGQSVGPtTFEAKLQPHLLWSLDQVKENIKTQTHQLIDARSK
+PRFDGAVPEPRKGIRSGHVPGSKCVPFPQVLDSSQKLLPPDELRKRFEQEGISLDQPLVT
+SCGTGVTACVLALGLHRLGKTDVAVYDGSWTEWGAHPDTPVATAV
+
+================================================================================

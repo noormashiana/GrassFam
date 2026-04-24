@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM003542
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             431.0 aa
+Family Size (Extended Family Size): 20 (28) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23305:SF18
+Panther Family ID:               PTHR23305
+Modal Panther ID:                PTHR23305:SF18
+Modal Panther Description:       OBG-TYPE G DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR23305
+Modal Panther Fam Desc:          OBG GTPASE FAMILY
+Interpro Signature Accession:    cd04867; cd01900; G3DSA:3.10.20.30:FF:000001; G3DSA:1.10.150.300; G3DSA:3.10.20.30; G3DSA:3.40.50.300; TIGR00092; PTHR23305; PR00326; PF06071; SSF81271; SSF52540
+Interpro Signature Description:  TGS_YchF_OLA1; YchF; Ribosome-binding ATPase YchF; -; redox-regulated ATPase YchF; OBG GTPASE FAMILY; GTP1/OBG GTP-binding protein family signature; Protein of unknown function (DUF933); TGS-like; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: ribosome-binding ATPase YchF
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: ribosome-binding ATPase YchF
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: ribosome-binding ATPase YchF
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: ribosome-binding ATPase YchF-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: uncharacterized LOC127765591
+  Gene Descriptions: uncharacterized LOC127765591
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC9269534
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: uncharacterized LOC133913452; uncharacterized LOC133915317
+  Gene Descriptions: uncharacterized LOC133913452; uncharacterized LOC133915317
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: ribosome-binding ATPase YchF-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: ribosome-binding ATPase YchF
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: ribosome-binding ATPase YchF
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100274056
+  Gene Synonyms: cl35478_1d,GRMZM2G038494
+  Gene Descriptions: uncharacterized LOC100274056
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 430 aa
+
+MATvSRALGSAFAGFTRTPAvaPTTTLPSPCGSSALLLHWrRSRGgRARRFSSGRnARIS
+MSLRAGIVGLPNVGKSTLFNAIVENGKAQAANFPFCTINPNVGVVAIPDPRLqVLSKLSK
+SQQTVPTSIELVDIAGLVKGASKGEGLGNQFLSNIREVDSILQVVRCFEDDDIVHVNGKV
+DPKSDIDVINLELIFSDLEQIEKRLDKLKKSKTKDpQVKVKEQAERSGLEKIQqALMDGK
+PARSVDLADHEKEAIQHLCLLTMKPVIYVANVTESDLAEPDSNPHVKEVAKlASDLQSGM
+VTISAQVEAELAELPLEERVEYLKSLGVAESGLGNLVKATYNLLGLRTYFTTGDKETKAW
+TILSGMTAPQAAGVIHSDFQKGFIRAETVSYDDFVAAGSLGAAREKGLLRLEGKDYIVQE
+GDVMLFRFNV
+
+
+BOP CONSENSUS:
+Length: 437 aa
+
+MATMSRALGSAFVGFTRTPAVPATTPLPLPSSCASSALLLRWQRSRGVVGGGGGARRYSS
+GRNAKISMSLRAGIVGLPNVGKSTLFNAIVENGKAQAANFPFCTINPNTGVVAIPDPRLh
+VLSKLSKSKQTVPTSIELVDIAGLVKGASKGEGLGNQFLSNIREVDSILQVVRCFEDDDI
+VHVNGKVDPKSDIDVINLELIFCDLEQIEKRLDKLKKSKTKDPQVKVKEGAERSGLEKIL
+DALMDGKPARSVDLPDHEKEAIQHLYLLTMKPVIYVANVTESDLADPDKNPHVQEVAKLA
+SELkSGMVTISAQVEAELSELPLEERVEYLNSLDVAESGLGNLVKATYNLLGLRTYFTTG
+EQETKAWTIIAGMTAPQAAGVIHSDFQKGFIRAETVSYDDFVAAGSLGAAREKGVMRLEG
+KEYIVQEGDVMLFRFNV
+
+
+PACMAD CONSENSUS:
+Length: 431 aa
+
+MTTVSRALGSAFAGFTRtPAAAPTATTLPSPCGSSALLqHWRWSRASRARRFSSGRAARI
+SMSLRAGIVGLPNVGKSTLFNAIVENGKAQAANFPFCTINPNVGVVAIPDPRLQVLSKLS
+KSQQTVPTSIELVDIAGLVKGASKGEGLGNQFLSNIREVDSILQVVRCFEDDDIVHVNGK
+VDPRSDIDVINLELIFSDLEQIEKRLDKLKKSKTKDAQVKVKEQAEKSGLEKIQQALMDG
+KPARSVDLADHEKEAIQHLCLLTMKPVIYVANVTESDLAEPDSNPHVKEVAKAASDLQSG
+MVTISAQVEAELAELPLEERVEYLKSLGVAESGLGNLVKATYNLLGLRTYFTTGDKETKA
+WTILSGMTAPQAAGVIHSDFQKGFIRAETVSYDDFVAAGSLGAAREKGLLRLEGKDYVVQ
+EGDVMLFRFNV
+
+================================================================================

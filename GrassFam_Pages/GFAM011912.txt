@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM011912
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             541.5 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48022:SF87
+Panther Family ID:               PTHR48022
+Modal Panther ID:                PTHR48022:SF87
+Modal Panther Description:       MAJOR FACILITATOR, SUGAR TRANSPORTER, MAJOR FACILITATOR SUPERFAMILY
+Modal Panther Family ID:         PTHR48022
+Modal Panther Fam Desc:          PLASTIDIC GLUCOSE TRANSPORTER 4
+Interpro Signature Accession:    cd17315; G3DSA:1.20.1250.20:FF:000152; G3DSA:1.20.1250.20; TIGR00879; PTHR48022; PR00171; PF00083; SSF103473
+Interpro Signature Description:  MFS_GLUT_like; Plastidic glucose transporter 4; MFS general substrate transporter like domains; sugar porter family MFS transporter; PLASTIDIC GLUCOSE TRANSPORTER 4; Sugar transporter signature; Sugar (and other) transporter; MFS general substrate transporter
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: plastidic glucose transporter 4%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: plastidic glucose transporter 4
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: plastidic glucose transporter 4%2C transcript variant X2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: plastidic glucose transporter 4-like; plastidic glucose transporter 4-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: plastidic glucose transporter 4%2C transcript variant X1
+  Gene Descriptions: plastidic glucose transporter 4
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: plastidic glucose transporter 4%2C transcript variant X2
+  Gene Descriptions: plastidic glucose transporter 4
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: plastidic glucose transporter 4-like%2C transcript variant X1
+  Gene Descriptions: plastidic glucose transporter 4-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: plastidic glucose transporter 4-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: plastidic glucose transporter 4%2C transcript variant X3
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: plastidic glucose transporter 4%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: glucose translocator 1%2C transcript variant X1; hexose transporter%2C transcript variant X2
+  Gene Synonyms: GRMZM2G098011; glct1,GRMZM2G153704,pGlcT
+  Gene Descriptions: glucose translocator 1; hexose transporter
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 538 aa
+
+MMRCAVKGGGcVaSWsGDRRSPAvnPSsVRMPtGrGGlCgGLRSRAADLAGLEMAsLRGG
+VgGLFRSPRYGRVRATAAVDPEDIPLEKVQVKSSGHVLPYVGVACLGAILFGYHLGVVNG
+ALEYLAKDLGIAENAVLQGWVVSTTLAGATVGSFTGGSLADKFGRTRTFILDAVPLAVGA
+FLSATAQDVRTMIIGRLLAGIGIGISSALVPLYISEISPTEIRGTLGSVNQLFICIGILA
+ALLAGLPLAGNPAWWRTMFGIAVVPSILLAVGMAFSPESPRWLFQQGKvsQAESAVKRLY
+GKEKVTEVMYDLRASGQSSSEPDAGWFDLFSKRYWKVVSVGAALFLFQQLAGINAVVYYS
+TSVFRSAGIASDVAASALVGAANVFGTMIASSLMDKQGRKSLLITSFSGMAASMLLLALS
+FTWKALAPYSGTLAVVGTVLYVLSFALGAGPVPALLLPEIFASRIRAKAVALSLGMHWVS
+NFFIGLYFLSVVNKFGISTVYLGFASVCALAVLYIAGNVVETKGRSLEEIERELSvas
+
+
+BOP CONSENSUS:
+Length: 553 aa
+
+MMRCAVKGGGaHVVVGeRRSPSSSsPGSgRSVVRMPEGRGLCCGVRSRAADLAGLEMGRP
+SAGAAGLFRSPRYGRVRATAsVDPEDIPSDKVQAKSSGSVLPYVGVACLGAILFGYHLGV
+VNGALEYLSKDLGIAENAVLQGWVVSTTLAGATVGSFTGGALADKLGRTRTFILDAIPLA
+VGAFLSATAQDVRTMIIGRLLAGIGIGISSALVPLYISEISPTEIRGALGSINQLFICIG
+ILAALVAGLPLAQNPAWWRTMFGISIVPSILLALGMAVSPESPRWLFQQGKLSQAEAAIK
+KLYGKEKVTEVMYDLKASGQGSNEPDASWFDLFSKRYWKVVSVGAALFLFQQLAGINAVV
+YYSTSVFRSAGIASDVAASALVGAANVFGTMIASSLMDKQGRKSLLITSFSGMAASMLLL
+SLSFTWKALAPYSGTLAVVGTVLYVLSFALGAGPVPALLLPEIFASRIRAKAVALSLGMH
+WVSNFFIGLYFLSVVNKFGISTVYLGFASVCALAVLYIAGNVVETKGRSLEEIERALSSP
+SKADANAFLVSDQ
+
+
+PACMAD CONSENSUS:
+Length: 539 aa
+
+MMRCAVKGGGCVASWSGDRRSPAVNPcSVRMPTGNGGwCsGLRSRAADLAGLEMASLRGG
+VGGLFRSSPRYGRLQATAAVDPEDvPLEKVQVKSSGHVLPYVGVACLGAILFGYHLGVVN
+GALEYLAKDLGIAENAVLQGWVVSTSLAGATvGSFTGGSLADKFGRTRTFILDAVPLALG
+AFLSATAQDIRTMIIGRLLAGIGIGISSALVPLYISEISPTEIRGTLGSVNQLFICIGIL
+AALLAGLPLAGNPAWWRTMFGIAVVPSILLAVGMAFSPESPRWLFQQGKVTQAESAVKRL
+YGKEKVTEVMYDLRASGQSSSEPEAGWFDLFSKRYWKVVSVGAALFLFQQLAGINAVVYY
+STSVFRSAGIASDVAASALVGAANVFGTMIASSLMDKQGRKSLLITSFSGMGASMLLLAL
+SFTWKALAPYSGTLAVVGTVLYVLSFALGAGPVPALLLPEIFASRIRAKAVALSLGMHWV
+SNFFIGLYFLSVVNKFGISTVYLGFASVCALAVLYIAGNVVETKGRSLEEIERELSVAE
+
+================================================================================

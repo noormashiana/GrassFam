@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM010022
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             526.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11108:SF9
+Panther Family ID:               PTHR11108
+Modal Panther ID:                PTHR11108:SF9
+Modal Panther Description:       FERROCHELATASE-2, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR11108
+Modal Panther Fam Desc:          FERROCHELATASE
+Interpro Signature Accession:    cd03411; cd00419; G3DSA:3.40.50.1400:FF:000006; G3DSA:3.40.50.1400; TIGR00109; PTHR11108; PF00762; SSF53800
+Interpro Signature Description:  Ferrochelatase_N; Ferrochelatase_C; Ferrochelatase; -; ferrochelatase; FERROCHELATASE; Chelatase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: ferrochelatase-2%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: ferrochelatase-2%2C chloroplastic%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: ferrochelatase-2%2C chloroplastic%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: ferrochelatase-2%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: ferrochelatase-2%2C chloroplastic
+  Gene Descriptions: ferrochelatase-2%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: ferrochelatase-2%2C chloroplastic-like
+  Gene Synonyms: P0530H10.9,P0692D12.2
+  Gene Descriptions: ferrochelatase-2%2C chloroplastic-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: ferrochelatase-2%2C chloroplastic%2C transcript variant X1; ferrochelatase-2%2C chloroplastic-like%2C transcript variant X1
+  Gene Descriptions: ferrochelatase-2%2C chloroplastic; ferrochelatase-2%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: ferrochelatase-2%2C chloroplastic%2C transcript variant X1; ferrochelatase-2%2C chloroplastic-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: ferrochelatase-2%2C chloroplastic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: ferrochelatase-2%2C chloroplastic%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: Ferrochelatase
+  Gene Synonyms: GRMZM2G113325
+  Gene Descriptions: Ferrochelatase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 526 aa
+
+MWSSSQASTRGVVEMGRVEAGPSHFPKRPAPRNsaRVNLSRTYAvKSCSaGsRTGLSLGQ
+CYhkKPssCKCnLGWSSQPSPDLRhHFRgySSASEAVLTSQSDiRKLFVGNEKIGVLLLN
+LGGPETLDDVQPFLFNLFADPDIIRLPRLFRFLQKPLAQFISVVRAPKSKEGYASIGGGS
+PLRQITDAQAEALREALCgKDVPAKVYVGMRYWHPFTEEAIEQIKRDGITKLVVLPLYPQ
+FSISTSGSSLRLLESIFREDEYLVNMQHTVIPSWYQREGYIKAMATLIEKELtKFPEPQK
+VMIFFSAHGVPLAYVEEAGDPYKAEMEECVDLIMEELEKRGITNPCTLAYQSRVGPVEWL
+KPYTDETIIELGQKGVKSLLAVPISFVSEHIETLEEIDVEYKELALESGIKHWGRVPALG
+CEPTFISDLADAVIESLPYVGAMAVSNLEARQSLVPLGSVEELLAAYDSKRDELPPPVIV
+WEWGWTKSAETWNGRAAMLAVLALLVLEVTTGeGFLHQWGILPLFh
+
+
+BOP CONSENSUS:
+Length: 526 aa
+
+MLHVRLAPGPAPRNLSRRWDSSAYLHSWCSVPCPSRLNLSRTYSIKSSSVGSRTGLCLGQ
+CCRIKPLSCKCKLGWSSQPPPDSRQHFSASSSASEAVLTAQSDIRKLFVANEKIGVLLLN
+LGGPETLDDVQPFLFNLFADPDIIRLPRAFRFLQKPLAQFISVARAPKSKEGYASIGGGS
+PLRQITDAQGEALMEALCGKDIPAKVYVGMRYWHPFTEEAIEQIKRDGITKLVVLPLYPQ
+FSISTSGSSLRLLESIFREDEYLVNMQHTVIPSWYQREGYIKAMATLIEKELLKFPKPQK
+VMIFFSAHGVPLAYVEEAGDPYKAEMEECVDLIMEELEKRGMtNPCTLAYQSRVGPVEWL
+KPYTDETIIALGQRGVKSLLAVPISFVSEHIETLEEIDVEYKELALQSGIKHWGRVPALG
+CEPTFISDLADAVIESLPYVGAMAVSNLEARQSLVPLGSVEELLAAYDSKRDMLPPPVIV
+WEWGWTKSAETWNGRAAMLAVLALLVLEVTTGQGLLHQWGILPPLP
+
+
+PACMAD CONSENSUS:
+Length: 515 aa
+
+MWSSSQASTRGVVEMGRVEAGPSHFPKRPAPRNSARVNLSRTHAVKPCSAGDRsGISVKC
+NLGWSSQPSPDLrHHFRGYSSASEAVLTSQSDLRKLLVGNEKIGVLLLNLGGPETLDDVQ
+PFLFNLFADPDIIRLPRLFRFLQKPLAKFISVVRAPKSKEGYASIGGGSPLRQITDAQAE
+ALREALCEKDVPAKVYVGMRYWHPFTEEAIEQIKRDGITKLVVLPLYPQFSISTSGSSLR
+LLESIFREDEYLVNMQHTVIPSWYQREGYIKAMATLIENELTKFPEPQKVMIFFSAHGVP
+LAYVEEAGDPYKAEMEECIDLIMEELEKRGITNPCTLAYQSRVGPVEWLKPYTDETIIEL
+GQKGVKSLLAVPISFVSEHIETLEEIDVEYKELALESGIKHWGRVPALGCEPTFISDLAD
+AVIESLPYVGAMAVSNLEARQSLVPLGSVEELLAAYDSKRDELPPPVIVWEWGWTKSAET
+WNGRAAMLAVLALLVLEVTTGEGFLHQWGILPLFH
+
+================================================================================

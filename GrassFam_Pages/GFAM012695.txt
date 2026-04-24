@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM012695
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             466.0 aa
+Family Size (Extended Family Size): 27 (28) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR43895
+Modal Panther ID:                PTHR43895:SF136
+Modal Panther Description:       NON-SPECIFIC SERINE_THREONINE PROTEIN KINASE
+Modal Panther Family ID:         PTHR43895
+Modal Panther Fam Desc:          CALCIUM/CALMODULIN-DEPENDENT PROTEIN KINASE KINASE-RELATED
+Interpro Signature Accession:    cd12195; G3DSA:3.30.310.80:FF:000005; G3DSA:1.10.510.10:FF:000279; G3DSA:1.10.510.10; G3DSA:3.30.200.20; G3DSA:3.30.310.80; PTHR43895; PF00069; SM00220; SSF56112
+Interpro Signature Description:  CIPK_C; Non-specific serine/threonine protein kinase; Transferase(Phosphotransferase) domain 1; Phosphorylase Kinase; domain 1; Kinase associated domain 1, KA1; CALCIUM/CALMODULIN-DEPENDENT PROTEIN KINASE KINASE-RELATED; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu01H
+  Gene Products: CBL-interacting protein kinase 17-like
+Ata
+  Gene count: 3
+  Modal chromosome: Ata01D
+  Gene Products: CBL-interacting protein kinase 17; CBL-interacting protein kinase 17%2C transcript variant X1
+Tae
+  Gene count: 7
+  Modal chromosome: Tae01A
+  Gene Products: CBL-interacting protein kinase 17-like; CBL-interacting protein kinase 17-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: CBL-interacting protein kinase 17
+  Gene Descriptions: CBL-interacting protein kinase 17
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: CBL-interacting protein kinase 17-like
+  Gene Synonyms: CIPK17,OJ1127_B08.4,OsCIPK17
+  Gene Descriptions: CBL-interacting protein kinase 17-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau11
+  Gene Products: CBL-interacting protein kinase 17-like%2C transcript variant X1
+  Gene Descriptions: CBL-interacting protein kinase 17-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: CBL-interacting protein kinase 17-like%2C transcript variant X1; CBL-interacting protein kinase 17-like%2C transcript variant X3
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: CBL-interacting protein kinase 17-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: CBL-interacting protein kinase 17
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: Putative CBL-interacting protein kinase family protein%2C transcript variant X2
+  Gene Synonyms: GRMZM2G099002
+  Gene Descriptions: Putative CBL-interacting protein kinase family protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 466 aa
+
+MVatGDAEeAAAGCRARAALLGAYELGRTLGEGNFGKVKqARHRATGaHFAVKILDRGRV
+LSLRGADDQVRREIATLTMLAHPNVVRLHEVAASKTKIYMVLEFVNGGELFDRIAmKGKL
+SErEGRRLFQQLIDGVSYCHgKGVYHRDLKPENVLVDRKGNIKISDFGLSALPQHLGNDG
+LLHTTCGSPNYIAPEVLQNRGYDGSLSDIWSCGVILYIMLVGYLPFDDRNMVVLYQKIFK
+GDTQIPEWLSPGAQNLLrRILEPNPMKRINMAEIKaHEWFQKDYIPVvPYDDDDEDVrLG
+AILPVKEQISEAPGDKSTHQMNAFQLIGMASSLDLSGFFEEEgVSQRKIRFTStHPPKDL
+FDKIEvSATqsGFHVQRgHSKLKITrNCNGpNNPtpFLVCAEVFELGPSLhVVELRKSHG
+DpAVYRQLCDRISSDLGIDqIFGtgSLFdDDLPSFDSRaATPLVAL
+
+
+BOP CONSENSUS:
+Length: 466 aa
+
+MVATGDAEdAAAGCRARAALLGAYELGRTLGEGSFGKVKHARHRATGdHFAVKILDRGRV
+LSLRGADDQVRREIATLTMLAHPNVVRLHEVAASKTKIYMVLEFVNGGELFDRIAMKgKL
+SEREGRRLFQQLIDGVSYCHGKGVYHRDLKPENVLIDRKGNIKISDFGLSALPQHLGnDG
+LLHTTCGSPNYIAPEVLQNRGYDGSLSDIWSCGVILYIMLVGqLPFDDRNMVVLYQKIFK
+GDTqIPEWLSPGAQNLLrRILEPNPMKRINMAEIKlHEWFQKDYIPVgPYDDDDEDVRLG
+AILPVKQQISEAPGDKSThQMNAFQLIGMASSLDLSGFFEEEGVSQRKIRFTSALPPKDL
+FDKIEVSATQSGFHVQRAHSKLKITGNCNGPNNPtPFLVCAEVFELGPSLHVVELRKSHG
+DTAVYRQLCDRISSDLGIDKIFrMgSLFDDNLPSFDSRAATPLVAL
+
+
+PACMAD CONSENSUS:
+Length: 460 aa
+
+MVSGGGGrGLLGAYELGRTVGEGNFGKVKQARHRGTGAqFAVKILDRARVLSQRIDDQIR
+REIATLKLLaHPNVVRLHEVAASKTKIYMVLEFVNGGELFDRIAIKGKLSEQEGRRLFQQ
+LIDGVSYCHEKGVYHRDLKPENVLVDRKGNIKISDFGLSALPQHLGNDGLLHTTCGSPNY
+IAPEVLQNRGYDGSLSDIWSCGVILYIMLVGYLPFDDRNIVVLYQKIFKGDTQIPKWLSP
+GAQNLLQRILEPNPMKRITMAEIKAHEWFQeDYVPAVPYDNDDEDSQLDlVLPVKEeINE
+APGDKTTHQINAFQLIGMASSLDLSGFFEEEDVSQRKIRFTSTHPPKDLFDKIErSASEM
+GFQVHRGHsKLKVTRNCTGSKNPKNPaSFLVCTEVFELGPSLYVVELKKSHGDPALYRQL
+CERICSDLGVLkMEQIFGTRPVADDLASLDsRSATPLVAL
+
+================================================================================

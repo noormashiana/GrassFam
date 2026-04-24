@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM006470
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             379.0 aa
+Family Size (Extended Family Size): 44 (49) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR43880
+Modal Panther ID:                PTHR43880:SF37
+Modal Panther Description:       ALCOHOL DEHYDROGENASE ADH3D
+Modal Panther Family ID:         PTHR43880
+Modal Panther Fam Desc:          ALCOHOL DEHYDROGENASE
+Interpro Signature Accession:    cd08301; G3DSA:3.40.50.720:FF:001292; G3DSA:3.90.180.10:FF:000067; G3DSA:3.90.180.10; G3DSA:3.40.50.720; PTHR43880; PF00107; SSF50129; SSF51735
+Interpro Signature Description:  alcohol_DH_plants; Alcohol dehydrogenase class-P; alcohol dehydrogenase 1-like isoform X1; -; ALCOHOL DEHYDROGENASE; Zinc-binding dehydrogenase; GroES-like; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                2.27%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi04
+  Gene Products: alcohol dehydrogenase 3
+Lpe
+  Gene count: 5
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 4
+  Modal chromosome: Hvu04H
+  Gene Products: alcohol dehydrogenase 2; alcohol dehydrogenase 3; alcohol dehydrogenase 3-like; alcohol dehydrogenase 3-like%2C transcript variant X2
+Ata
+  Gene count: 4
+  Modal chromosome: Ata04D
+  Gene Products: alcohol dehydrogenase 2; alcohol dehydrogenase 3; alcohol dehydrogenase 3%2C transcript variant X1
+Tae
+  Gene count: 13
+  Modal chromosome: Tae01A
+  Gene Products: alcohol dehydrogenase 2; alcohol dehydrogenase 2-like; alcohol dehydrogenase 3; alcohol dehydrogenase 3-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl11
+  Gene Products: alcohol dehydrogenase 2; alcohol dehydrogenase 2-like
+  Gene Descriptions: alcohol dehydrogenase 2; alcohol dehydrogenase 2-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa11
+  Gene Products: alcohol dehydrogenase 2
+  Gene Synonyms: Adh2,DUPR11.1
+  Gene Descriptions: alcohol dehydrogenase 2
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 2
+  Modal chromosome: Pau12
+  Gene Products: alcohol dehydrogenase 2; alcohol dehydrogenase 2-like
+  Gene Descriptions: alcohol dehydrogenase 2; alcohol dehydrogenase 2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi08K
+  Gene Products: alcohol dehydrogenase 2; alcohol dehydrogenase 2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: alcohol dehydrogenase 2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: alcohol dehydrogenase 2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: alcohol dehydrogenase 2
+  Gene Synonyms: adh2,GRMZM2G098346
+  Gene Descriptions: alcohol dehydrogenase 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 379 aa
+
+MATAGKVIKCKAAVAWEAGKPLSIEEVEVAPPQAMEVRVKILYTALCHTDVYFWEAKGQT
+PVFPRILGHEAGGIVESVGEGVTELVPGDHVLPVFTGECKECAHCKSEESNLCDLLRINV
+DRGVMIGDGQSRFTINGKPIFHFVGTSTFSEYTVIHVGCLAKINPEAPLDKVCVLSCGIS
+TGLGATLNVAKPKKGSTVAIFGLGAVGLAAMEGARMAGASRIIGVDLNPAKYEQAKKFGC
+TDFVNPKDHTKPVQEVLVEMTNGGVDRAVECTGNiDAMISAFECVHDGWGVAVLVGVPHK
+EAVFKTHPMNFLNERTLKGTFFGNYKPRTDLPeVVEMYMRKELELEKFITHSVPFSQINT
+AFDLMLKGEGLRCVMRMDE
+
+
+BOP CONSENSUS:
+Length: 379 aa
+
+MATAGKVIKCKAAVAWEAGKPLSIEEVEVAPPQAMEVRVKILYTALCHTDVYFWEAKGQT
+PVFPRILGHEAGGIVESVGEGVTELVPGDHVLPVFTGECKDCAHCKSEESNLCDLLRINV
+DRGVMIGDGQSRFTInGKPIFHFVGTSTFSEYTVIHVGCLAKINPEAPLDKVCVLSCGIS
+TGLGATLNVAKPKKGSTVAIFGLGAVGLAAMEGARMAGASRIIGVDLNPAKYEQAKKFGC
+TDFVNPKDHTKPVQEVLVEMTNGGVDRAVECTGNIDAMISAFECVHDGWGVAVLVGVPHK
+EAVFKTHPMNFLNERTLKGTFFGNYKPRTDLPEVVEMYMRKELELEKFITHSVPFSQINT
+AFDLMLKGEGLRCVMRMDE
+
+
+PACMAD CONSENSUS:
+Length: 379 aa
+
+MATAGKVIKCKAAVAWEAGKPLSIEEVEVAPPQAMEVRVKILYTALCHTDVYFWEAKGQT
+PVFPRILGHEAGGIVESVGEGVTELAPGDHVLPVFTGECKECAHCKSEESNMCDLLRINV
+DRGVMIGDGKSRFSINGQPIFHFVGTSTFSEYTVIHVGCLAKINPEAPLDKVCVLSCGIS
+TGLGATLNVAKPVKGSTVAIFGLGAVGLAAMEGARLAGASRIIGVDvNPAKYEQAKKFGC
+TDFVNPKDHDKPVQEVLIEMTNGGVDRSVECTGNVNAMISAFECVHDGWGVAVLVGVPHR
+EDQFKTHPMNFLNEKTLKGTFFGNYKPRTDLPNVVEMYMKKELELEKFITHSVPFSEINT
+AFDLMLKGEGLRCIMRMED
+
+================================================================================

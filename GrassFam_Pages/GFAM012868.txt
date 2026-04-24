@@ -1,0 +1,144 @@
+================================================================================
+GrassFam ID: GFAM012868
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             638.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31741:SF8
+Panther Family ID:               PTHR31741
+Modal Panther ID:                PTHR31741:SF8
+Modal Panther Description:       O-FUCOSYLTRANSFERASE 35
+Modal Panther Family ID:         PTHR31741
+Modal Panther Fam Desc:          OS02G0726500 PROTEIN-RELATED
+Interpro Signature Accession:    cd11299; G3DSA:3.40.50.11350:FF:000011; PTHR31741; PF10250
+Interpro Signature Description:  O-FucT_plant; O-fucosyltransferase 28; OS02G0726500 PROTEIN-RELATED; GDP-fucose protein O-fucosyltransferase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: O-fucosyltransferase 35
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: O-fucosyltransferase 35
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: O-fucosyltransferase 35
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: O-fucosyltransferase 35-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: O-fucosyltransferase 35-like
+  Gene Descriptions: O-fucosyltransferase 35-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: O-fucosyltransferase 35
+  Gene Descriptions: O-fucosyltransferase 35
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: O-fucosyltransferase 35-like
+  Gene Descriptions: O-fucosyltransferase 35-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi02N
+  Gene Products: O-fucosyltransferase 35-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: O-fucosyltransferase 35-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: uncharacterized protein At1g04910
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: uncharacterized LOC100279065
+  Gene Synonyms: GRMZM2G126290
+  Gene Descriptions: uncharacterized LOC100279065
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 638 aa
+
+MGYQPMHGGGAAGtSGSGGGGGGDHLHHHPRLHSPRVAGGGSMTRRANSFKRGpGGEIEL
+QIGSPRSPRtDGLGSPPaDAAEASgSGApGGLHHHQSQQhLRFRLFKRPGSGGGAGEVVL
+GLGIRERRKLGNLLFLAFCGVCLLLGVgKIWAGGWFALPGDDKDADLQDLSVSFSSDKGH
+QVDHHFGYMGGKESDRMLMTVESSIGGREDSVAEASDVWSQPSStNFRQCIVSNSHKKQD
+SHTNGYILINANGGLNQMRFGICDMVAVAKILKATLVLPSLDHTSYWADDSEFKDLFNWR
+HFIESLKEDIDIVETLPPAYSHIEPLAKAPISWSKVNYYRDEILPLLKKHKVIYFTHTDS
+RLANNGLPSYIQKLRCRVNYRSLKYSHTIEDLGATLVSRMRQDGSPYLALHLRYEKDMLA
+FTGCSHsLTSeEEEELRKMRYEVSHWKEKEINGTERRSLGGCPLTPRETSLLLKGLGFTR
+STRIYLVAGEAFGNGSMQALlDDFPNIYSHSTLATEEELEPFKNHQNMLAGLDYIVALQS
+DVFiYTYDGNMAKAVQGHRRFENFRKTINPDRMSFVNLVDEFDEGRVPWEiFSSEVKRLH
+KDRIGAPYFREPGEFPKLEESFFANPLPGCICEKHSEE
+
+
+BOP CONSENSUS:
+Length: 633 aa
+
+MGYQPKHGGGASGAAGGGGGGAGgGDHLPRLHSPRVAGGGYMTRRANSFKRCPGGEIELQ
+ISGSPRSPRTDGLGSPPKDAAEASSsSsgGpGGLHHQQQLRFRLFKRPGAGGGAGeVVLG
+LGIRERRKLGNLLFFAFCGVCLLLGVVKIWAGGRSALPAgDDLQDLSVSFSSDKGHQVNH
+FGYMGGKESDRMLMTVESSIGERQSSVaEASDVWSQPSSENFRQCIVSNSHKKQDSRSNG
+YILINANGGLNQMRFGICDMVAVAKILKATLVLPSLDHTSYWADDSEFKDLFNWRHFIES
+LKEDIDIVETLPPAYKHIEPLAKAPISWSKVNYYRDEILPLLKKHRVIYFTHTDSRLANN
+DLPSYIQKLRCRVNYRSLKYSHTIEDLGATLVSRMRQDGSPYLALHLRYEKDMLAFTGCS
+HGLTSDEEEELRKMRYEVSHWKEKDINGTERRSIGGCPLTPRETSLLLKGLGFTRsTRIY
+LVAGEAFGNGSMQALLDDFPYIYSHSTLATEEELEPFKNHQNMLAGLDYIVALQSDVFMY
+TYDGNMAKAVQGHRRFEDFRKTINPDRMDFVNLVDEFDEGRIPWEEFSSEVKRLHKDRTG
+APYFREPGEFPKLEESFFANPLPGCICEKHSEQ
+
+
+PACMAD CONSENSUS:
+Length: 640 aa
+
+MGYQPMHGnGGTAGAGTSGSGGGGGgDHLHHHHQRLHSPRMAGGGSMTRRANSFKRGGGG
+EIELQIGSPRSPRCDGLGSPPsDSAEPSGSGLHHHQsQQNQHLRFRLFKRPGSGGGAVEV
+GLGLGIRERRKLGNMLFLAFCGVCLLLGVGKIWAGGWFALPGDDKdADLQDLSVSFSSDK
+GHQVDHHFGYMGGKESDRTLMTVESSIGGREDSVAEASDVWSQPSSTNFRQCIVSNSHKK
+QDSHTNGYILINANGGLNQMRFGICDMVAVAKILKATLVLPSLDHTSYWADDSEFKDLFN
+WRHFIESLKEDIDIVETLPPEYShIEPLAKAPISWSKVNYYRDEILPLLKKHKVIYFTHT
+DSRLANNGLPSYIQKLRCRVNYRSLKYSHTIEDLGTTLVSRMRQDGSPYLALHLRYEKDM
+LAFTGCSHSLTSEEEEELRKMRYEVSHWKEKEINATERRSLGGCPLTPRETSLLLKGLGF
+TRSTRIYLVAGEAFGNGSMKALvDDFPNIYSHSTLATEEELAPFKNHQNMLAGLDYIVAL
+QSDVFIYTYDGNMAKAVQGHRRFENFRKTINPDRMSFVNLVDEFDEGRVPWDIFSSEVKR
+LHKDRIGAPYFREPGEFPKLEESFFANPLPGCICEKHSEE
+
+================================================================================

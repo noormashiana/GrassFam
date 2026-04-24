@@ -1,0 +1,121 @@
+================================================================================
+GrassFam ID: GFAM009785
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             409.0 aa
+Family Size (Extended Family Size): 86 (134) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR33110:SF130
+Panther Family ID:               PTHR33110
+Modal Panther ID:                PTHR33110:SF130
+Modal Panther Description:       F-BOX DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR33110
+Modal Panther Fam Desc:          F-BOX/KELCH-REPEAT PROTEIN-RELATED
+Interpro Signature Accession:    PTHR33110; PF03478
+Interpro Signature Description:  F-BOX/KELCH-REPEAT PROTEIN-RELATED; KIB1-4 beta-propeller
+
+
+REXdb Match:                     False
+REXdb Percentage:                1.16%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 6
+  Modal chromosome: Bdi02
+  Gene Products: F-box protein At2g26160; F-box protein SKIP23; uncharacterized LOC100832851%2C transcript variant X1; uncharacterized LOC100834509%2C transcript variant X1; uncharacterized LOC100834945%2C transcript variant X1; uncharacterized LOC100837809
+Lpe
+  Gene count: 8
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu01H
+  Gene Products: F-box protein At2g26160-like; putative F-box protein At3g25750; uncharacterized LOC123440287%2C transcript variant X1
+Ata
+  Gene count: 8
+  Modal chromosome: Ata01D
+  Gene Products: F-box protein At2g26160; F-box protein SKIP23; uncharacterized LOC109746478%2C transcript variant X1; uncharacterized LOC109754716%2C transcript variant X1; uncharacterized LOC109754720%2C transcript variant X1; uncharacterized LOC109782954
+Tae
+  Gene count: 27
+  Modal chromosome: Tae01B
+  Gene Products: F-box protein At1g10110-like; F-box protein At2g26160-like; F-box protein At2g26160-like%2C transcript variant X1; F-box protein At2g26160-like%2C transcript variant X2; F-box protein SKIP23-like; F-box protein SKIP23-like%2C transcript variant X1; L-type lectin-domain containing receptor kinase I.8-like; putative F-box protein At5g60060%2C transcript variant X1; uncharacterized LOC123070870; uncharacterized LOC123079262; uncharacterized LOC123099003; uncharacterized LOC123099011; uncharacterized LOC123099021%2C transcript variant X1; uncharacterized LOC123099051%2C transcript variant X1; uncharacterized LOC123145983%2C transcript variant X2; uncharacterized LOC123183111%2C transcript variant X1; uncharacterized LOC123183119; uncharacterized LOC123183124%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola11
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl01
+  Gene Products: F-box only protein 7-like%2C transcript variant X1; uncharacterized LOC127782802
+  Gene Descriptions: F-box only protein 7-like; uncharacterized LOC127782802
+Osa
+  Gene count: 2
+  Modal chromosome: Osa01
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4327795; uncharacterized LOC9269859
+Ecu
+  Gene count: 11
+  Modal chromosome: Ecu04
+Svi
+  Gene count: 5
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi02N
+  Gene Products: putative F-box protein At3g25750%2C transcript variant X1; uncharacterized LOC120658358; uncharacterized LOC120687986
+Pha
+  Gene count: 2
+  Modal chromosome: Pha02
+  Gene Products: F-box only protein 7-like; F-box protein At2g26160-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 5
+  Modal chromosome: Sbi05
+  Gene Products: uncharacterized LOC8066700; uncharacterized LOC8069059%2C transcript variant X2; uncharacterized LOC8073245; uncharacterized LOC8074368; uncharacterized LOC8077433
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 405 aa
+
+MaAEkKPhsQPPpSWSdIPLDLAGLVLRLLPAYADRARFAAVCPQWRAAARQqlLPPPLP
+LLALPDGTFYSLPYtKPFRFPGCGFAGYkSACGSWLVFPRDDGCFLVDPFSRATVTLPAL
+SSVRLRPPNAVAKWseeggvkvAdPYtTWMHInDSeKLHISKLILCSPNLVAALVGiGhT
+SQILMCQPGAlSWSVRAYDrCKdFEDMAFYQGKLYAiAkDENLLVVNISQDhSTGDPQVS
+RIGQVIKGDPWYsvvfeDNtmpcKKLYLVEScGALLMVRRkIwCRvPgPGvdgkvVAGqS
+EFEVFKADFEHSRWVKVsTLGDDQVLFLGRRCSRAvSvSQYGlPGDqIFFLDDDEENrve
+YsYDEENTSfgvYDMRsGeVSSPhPmISWKRcDEMRLAAWLFPqD
+
+
+BOP CONSENSUS:
+Length: 405 aa
+
+MAAEKKPHsQPPpSWSaIPLDLAGLVLRLLPAYADRARFAAVCPQWRAAARQQllPPPLP
+LLALPDGTFYSLPYtKPFRFPGCGFAGYqSACGSWLVFPRDDGCFLVNPFSRATVTLPAL
+SSVRLRPPNAVAKWSeegGaKvADPYtTWMHIndSeKLHISKLiLCSPNLVAALVGIGhT
+SQILMCQPGALSWSVRAYDrCKdFEDMaFYQGKLYAiAkDENLLVVNISQDhSTGDPQVS
+RIGQVIKGDPWYsvVFedNtMpcKKLYLVEScGaLLMVRRtIWCrVPePGvdgkvVAGqn
+eFEVFeADFEHSRWVKVSTVGDDQVLFLGRRCSRAvSVSQYGLPGDrIFFLDDDEENRve
+YgYDeENTSFGvYDMRSgsVsSpHPmISWKRcDEMRLAAWLFPQD
+
+
+PACMAD CONSENSUS:
+Length: 401 aa
+
+MAEATPrARQPPSWADIPRDLAGMVLRLLPAYADRARFAAVCPQWRAAARQLPLPPPLPL
+LALPDGTFYSLPYGKPFRFPGFGCAGYKtAAcGSWLVFPRDDGCFLVDPFAGATVTLPAL
+SrVRLRPPNAVAKYVkyqgvsmFhPYATWMHIrDpkKmPTLNKLILCSPNLVAAFVGSGq
+nSQILVCQPGASSWSVRANDpCklFEDMAFYQGKLYALAdDENLLVVNISQDPSTGDPQV
+SRIGQVIKGDPDplfsAwlPDDttGKKKLYLVESrGALLMVRRKVCCRvvGeTlVAGQSE
+FEVFKADLEHSRWVNVTTLGDDQMLFLGRPCSRAVSASQYGMPGDQIFFLDDVmENcveY
+sFDEEtTSVSVYDMRtGEVSSPLPMvWKHEMIlATWLFPwD
+
+================================================================================

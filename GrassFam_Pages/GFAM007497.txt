@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM007497
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             537.0 aa
+Family Size (Extended Family Size): 27 (32) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46336:SF34
+Panther Family ID:               PTHR46336
+Modal Panther ID:                PTHR46336:SF34
+Modal Panther Description:       BTB DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR46336
+Modal Panther Fam Desc:          OS02G0260700 PROTEIN
+Interpro Signature Accession:    G3DSA:3.30.710.10:FF:000106; G3DSA:1.25.40.420:FF:000008; PTHR46336
+Interpro Signature Description:  BTB/POZ domain-containing protein POB1; OS02G0260700 PROTEIN
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: BTB/POZ domain-containing protein POB1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu07H
+  Gene Products: BTB/POZ domain-containing protein POB1-like; BTB/POZ domain-containing protein POB1-like%2C transcript variant X1
+Ata
+  Gene count: 2
+  Modal chromosome: Ata07D
+  Gene Products: BTB/POZ domain-containing protein POB1%2C transcript variant X1
+Tae
+  Gene count: 6
+  Modal chromosome: Tae07A
+  Gene Products: BTB/POZ domain-containing protein POB1-like; BTB/POZ domain-containing protein POB1-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: BTB/POZ domain-containing protein POB1-like
+  Gene Descriptions: BTB/POZ domain-containing protein POB1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: BTB/POZ domain-containing protein POB1
+  Gene Descriptions: BTB/POZ domain-containing protein POB1
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: BTB/POZ domain-containing protein POB1-like; BTB/POZ domain-containing protein POB1-like%2C transcript variant X1
+  Gene Descriptions: BTB/POZ domain-containing protein POB1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: BTB/POZ domain-containing protein POB1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: BTB/POZ domain-containing protein POB1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: BTB/POZ domain-containing protein POB1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: GAMYB-binding protein
+  Gene Synonyms: GRMZM2G038691
+  Gene Descriptions: GAMYB-binding protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 537 aa
+
+MDPDFSRASGGPSFEFAFNSVNFSDRVLRIEIVAGDDAPGAKGAAGEGCSSLADWARHRK
+RRREELRRgKESGKYMsDPaNCKVEAEECDTYEEgNEEPVAMIEESPPDIGQDGEDGESS
+DSSWSMECTQVLRVKSIYISSAILAAKSPFFYKLFSNGMKESDQRHATLRITASEENALM
+ELLSFMYSGKLTTNQPTLLLDILMIADKFEVVSCMRHCSQLLRSLPMTTESALLYLDLPS
+SISMAAAVQPLTDAAKEFLANKYKDLTKFQDEAMNIPLAGIEAILWSNDLQVASEDAIYD
+FVIKWARAQYPKLEERREILGTRLLPLVRFCHMTCRKLRKVLACSDLDHEQATKCVTEAL
+LYKADAPHRQRALAADVLTCRKYAERAYKYRPLKVVEFDRPYPQCIAYLDLKREECSRLF
+PSGRIYSQAFHLAGQGFFLSAHCNMDQQSAFHCFGLFLGMQEKGSTSVTVDYEFAARTRP
+SGEFVSKYKGYYTFTGGKAVGYRNLFAIPWPSFMADDSLFFIDGVLHLRAELTIKQP
+
+
+BOP CONSENSUS:
+Length: 537 aa
+
+MDPDFSRASGGPSYEFAFNSVNFSDRVLRIEIVAGDDAPGAKGAAGEGCSSIADWARHRK
+RRREDLRREKECGKYMLEPsNVKIEAEECDTYEETNEEPVAMIEESPPDIGQDGEDGESS
+DSSWNMECNQVLRVKSIYISSAILAAKSPFFYKLFSNGMKESDQRHATLRITASEESALM
+ELLSFIYSGKLTTNQPTLLLDILMISDKFEVVSCMRHCSQLLRSLPMTTESALLYLDLPS
+SISMAAAVQPLTDAAKEFLANKYKDLTKFQDEVMNIPLAGIEAILCSNDLQVASEDAVYD
+FVIKWARAQYPRTEERREILGTRLLPLVRFSHMTCRKLRKVLACSDLDHEQATKSVTDAL
+LYKADAPHRQRALAADVLTCRKYTERAYKYRPLKVVEFDRPYPQCIAYLDLKREECSRLF
+PSGRIYSQAFHLAGQGFFLSAHCNMDQQSAFHCFGLFLGMQEKGSTSVTVDYEFAARTRP
+SGEFVSKYKGYYTFTGGKAVGYRNLFAIPWPSFMADDSLFFInGVLHLRAELTIKQs
+
+
+PACMAD CONSENSUS:
+Length: 537 aa
+
+MDPDFSRASGGPSFEFAFNSVNFSDRVLRIEIVAGDDAPGAKGAAGEGCSSLADWARHRK
+RRREELRRGKESGKYMSDSaNCKVEAEECDAYEEGNEEPVAMIEESPPDIEqDGEDGESS
+DSSWSMECTQVLRVKSIYISSAILAAKSPFFYKLFSNGMKESDQRHATLRITASEENALM
+ELLSFMYSGKLTTNQPTLLLDILMIADKFEVVSCMRHCSQLLRSLPMTTESALLYLDLPS
+SISMATAVQPLTDTAKEFLANKYKDLTKFQDEAMNIPLAGIEAILWSNDLQVASEDAIYD
+FVIKWARAQYPKLEERREILGTRLLPLVRFCHMTCRKLRKVLACSDLDHEQATKCVTEAL
+LYKADAPHRQRALAADVMTCRKYAERAYKYRPLKVVEFDRPYPQCIAYLDLKREECSRLF
+PSGRIYSQAFHLAGQGFFLSAHCNMDQQSAFYCFGLFLGMQEKGSTSVTVDYEFAARTRP
+SGEFVSKYKGYYTFTGGKAVGYRNLFAIPWPSFMADDSLFFIDGVLHLRAELTIKQP
+
+================================================================================

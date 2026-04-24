@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM007001
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             475.0 aa
+Family Size (Extended Family Size): 24 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45770:SF9
+Panther Family ID:               PTHR45770
+Modal Panther ID:                PTHR45770:SF9
+Modal Panther Description:       ATP-DEPENDENT 6-PHOSPHOFRUCTOKINASE 2
+Modal Panther Family ID:         PTHR45770
+Modal Panther Fam Desc:          ATP-DEPENDENT 6-PHOSPHOFRUCTOKINASE 1
+Interpro Signature Accession:    G3DSA:3.40.50.450:FF:000002; G3DSA:3.40.50.450; NF005301; PTHR45770; PIRSF000534; PF00365; SSF53784
+Interpro Signature Description:  ATP-dependent 6-phosphofructokinase; -; ATP-DEPENDENT 6-PHOSPHOFRUCTOKINASE 1; ATP_PFK_TP0108; Phosphofructokinase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: ATP-dependent 6-phosphofructokinase 2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: ATP-dependent 6-phosphofructokinase 2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: ATP-dependent 6-phosphofructokinase 2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: ATP-dependent 6-phosphofructokinase 2-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl04
+  Gene Products: ATP-dependent 6-phosphofructokinase 2; ATP-dependent 6-phosphofructokinase 2-like
+  Gene Descriptions: ATP-dependent 6-phosphofructokinase 2; ATP-dependent 6-phosphofructokinase 2-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa04
+  Gene Products: ATP-dependent 6-phosphofructokinase 2; ATP-dependent 6-phosphofructokinase 2-like
+  Gene Descriptions: ATP-dependent 6-phosphofructokinase 2; ATP-dependent 6-phosphofructokinase 2-like
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: ATP-dependent 6-phosphofructokinase 2-like
+  Gene Descriptions: ATP-dependent 6-phosphofructokinase 2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: ATP-dependent 6-phosphofructokinase 2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: ATP-dependent 6-phosphofructokinase 2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: ATP-dependent 6-phosphofructokinase 2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: ATP-dependent 6-phosphofructokinase 2
+  Gene Descriptions: ATP-dependent 6-phosphofructokinase 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 475 aa
+
+MDPTAPNSGGtpdaDATaPTNTTVTLPPLTLRDVPRLPAASPSpApAVPNPISRHPYFHP
+PpTFYISPGDVSLRHAFFDLASAaPSPLVAYRRAGPRedLAVDPARARAALVTCGGLCPG
+LNTVLRELVVGLQELYGVRDVFGVAAGYRGFYGADEDHVRLDPAAVDDWHKKGGTVLKTT
+RGGFDLnKIVDGIVARGYTQVYAIGGDGTMRGAVAIFqEFKRRGLNISITGIPKTVDNDI
+GIIDRSFGFQTAVEIAQQAIDAAHVEAVSAVNGIGLVKLMGRSTGHIALHATLSSRDVDC
+CLIPEVDFHLEGKGGLFEFLYERIKKKGHAVVVVAEGAGQELIPRTDDQKREQDESGNIV
+FLDVGPWLKSELGRWWKREHPdELFTVKYIDPTYMIRAVPANATDNLYCTLLAHSAIHGV
+MAGFTGFVPGPINGTYSYIPLEDVAVAKNPVDVNDHKWAWVRSVTNQPDFLKSQa
+
+
+BOP CONSENSUS:
+Length: 469 aa
+
+MDPTVPNSGDHAASTPTNTTVTLPPLTLRDVPRLPAAPSGATtIPNPISSHPYFHPPPTF
+YISPGDVSLRHAFFDLASGSPNPLVAYRRAGPRESLAVDPARARAALVTCGGLCPGLNTV
+LRELVVGLHELYGVRDVFGVAAGYRGFYGADDDHVRLDPASVDDWHKKGGTALKTTRGGF
+DLNKIVDGIVARGYTQVYAIGGDGTMRGAVAIFEEFKRRGLRISITGIPKTVDNDIGIID
+RSFGFQTAVEIAQQAIDAAHVEAVSAVNGIGLVKLMGRSTGHIALHATLSSRDVDCCLIP
+EIDFHVEGKGGLFEFLYERIKKKGHAVVVVAEGAGQELIPRTDDQKREQDESGNMLFLDV
+GPWLKSELGRWWKREHPTELFTVKYIDPTYMIRAVPANATDNLYCTLLAHSAIHGIMAGF
+TGFVPGPINGNYSYIPLEDIAVAKNPVDVNDHKWAWVRSVTDQPDFLKP
+
+
+PACMAD CONSENSUS:
+Length: 477 aa
+
+MDPTAPsSsGGtpaAADATAPTNTTVTLPPLTLRDVPRLPAALASPsPAVPNPISRHPYF
+HPPSTFYISPGDVSLRHAFFDLASAAPSPLVAYRRAGPRrDLAVDPARARAALVTCGGLC
+PGLNTVLRELVVGLQELYGVRDVFGVAAGYRGFYGADEDHVRLDPAAVDDWHKKGGTVLK
+TTRGGFDLgKIVDGIVARGYTQIYAIGGDGTMRGAVAIFQEFKRRGLNISITGIPKTVDN
+DIGIIDRSFGFQTAVEIAQQAIDAAHVEAVSAVNGVGLVKLMGRSTGHIALHATLSSRDV
+DCCLIPEVDFyLEGKGGLFEFLYERIKKKGHAVIVVAEGAGQELIPRTDDQKREQDESGN
+IVFLDVGPWLKSELGRWWKREHPDELFTVKYIDPTYMIRAVPANATDNLYCTLLAHSAIH
+GVMAGFTGFVPGPINGTYSYIPLEDVAVAKNPVDVNDHKWAWVRSVTNQPDFLKSQA
+
+================================================================================

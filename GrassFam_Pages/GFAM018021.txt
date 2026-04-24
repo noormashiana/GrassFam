@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM018021
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             513.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47984:SF26
+Panther Family ID:               PTHR47984
+Modal Panther ID:                PTHR47984:SF26
+Modal Panther Description:       PROTEIN KINASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR47984
+Modal Panther Fam Desc:          OS01G0323000 PROTEIN
+Interpro Signature Accession:    cd14066; G3DSA:1.10.510.10:FF:000035; G3DSA:3.30.200.20:FF:000083; G3DSA:1.10.510.10; G3DSA:3.30.200.20; PTHR47984; PF00069; SM00220; SSF56112
+Interpro Signature Description:  STKc_IRAK; Putative receptor-like serine/threonine-protein kinase; Putative receptor-like protein kinase; Transferase(Phosphotransferase) domain 1; Phosphorylase Kinase; domain 1; OS01G0323000 PROTEIN; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: probable receptor-like protein kinase At5g18500
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: probable receptor-like protein kinase At5g18500
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: probable receptor-like protein kinase At5g18500
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: probable receptor-like protein kinase At5g18500; probable receptor-like protein kinase At5g18500%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: probable receptor-like protein kinase At5g18500
+  Gene Descriptions: probable receptor-like protein kinase At5g18500
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: probable receptor-like protein kinase At5g18500
+  Gene Descriptions: probable receptor-like protein kinase At5g18500
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: probable receptor-like protein kinase At5g18500%2C transcript variant X2
+  Gene Descriptions: probable receptor-like protein kinase At5g18500
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: probable receptor-like protein kinase At5g18500; probable receptor-like protein kinase At5g18500%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: probable receptor-like protein kinase At5g18500%2C transcript variant X2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: probable receptor-like protein kinase At5g18500
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: uncharacterized LOC100191852%2C transcript variant X1
+  Gene Synonyms: GRMZM2G034855,umc1504
+  Gene Descriptions: uncharacterized LOC100191852
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 513 aa
+
+MSSPSSSPTLKDHLSaPTGPLHLKVWEVVCIALGVFMVVVFFvTVWLTIRSRKRVRRASA
+NIPITQIPAISKEIKEVRVEQVPASDFvAHDGVLLTIQDKSSDRDSDKVMVHLGVSKSRR
+GDESHSGSFRYMDKDAGFQSAEEGGSGTFRQASAHAITAPSPLVGLPEFSYLGWGHWFTL
+RDLELATNRFSKDNIIGEGGYGVVYRGQLINGSPVAVKKLLNNLGQAEKEFRVEVEAIGH
+VRHKNLVRLLGYCVEGTQRMLVYEYVNNGNLEQWLHGAMSHRGSLTWEARIKILLGTAKA
+LAYLHEAIEPKVVHRDIKSSNILIDDEFESKVSDFGLAKLLGAGKSHVTTRVMGTFGYVA
+PEYANTGLLNEKSDIYSFGVVLLEAITGRDPVDYGRPANEVNLVDWLKMMVASRRSEEVV
+DPTIETRPSTRALKRALLTALRCVDPDSEKRPKMGQVVRMLESDDPIPRGDRRSKHNRGG
+STEMDSQRDNNSDTEKSDNPDSKPSRSRASSSK
+
+
+BOP CONSENSUS:
+Length: 512 aa
+
+MEAPSSSPTLQDHLSrPTGPLHLKVWEVVCIALGVFMvVVFFLTVWLTMRSRKRTRRASA
+NIPVTQIPAISKEIKEVRVEQVPASDFGAHDGVLLTIQDKpSDRESDKVMVHLGVSKSRR
+GDESHSGSFRYMDKDAGFQSAEEGGSGTFRQASaHGITAPSPLVGLPEFSYLGWGHWFTL
+RDLELATNRFSKDNIIGEGGYGVVYRGEIVNGTPVAVKKLLNNLGQAEKEFRVEVEAIGH
+VRHKNLVRLLGYCVEGTQRILVYEYVNNGNLEQWLHGAMSHRGSLTWEARIKILLGTAKA
+LAYLHEAIEPKVVHRDIKSSNILIDDDFDAKVSDFGLAKLLGAGKSHVTTRVMGTFGYVA
+PEYANTGLLNEKSDIYSFGVVILEAITGRDPVDYGRPANEVNLVDWLKMMVASRRSEEVV
+DPTIETRPSTRvLKRALLTALRCVDPDSEKRPKMGQVVRMLESDDPIPRGDRRSRHNRGG
+STEMDSQRDNSDTDKSDNPDSKPSRSRASSSK
+
+
+PACMAD CONSENSUS:
+Length: 513 aa
+
+MSSPmaSPTLKDHLSAPTGPLHLKVWEVICIALGAFMVVVFFVTVWLTIRSKKRVRRASA
+NIPITQIPAISKEIKEVRVEQVPASDFVAHDGVLLTIQDKSSDRDSDKVMAHLGVSKSRR
+GDESHSGSFRYMDKDAGFQSAEEGGSGTFRQASAHAITAPSPLVGLPEFSYLGWGHWFTL
+RDLELATNRFSKDNIIGEGGYGVVYRGQLINGSPVAVKKLLNNLGQAEKEFRVEVEAIGH
+VRHKNLVRLLGYCVEGTQRMLVYEYVNNGNLEQWLHGAMSQRGSLTWEARIKILLGTAKA
+LAYLHEAIEPKVVHRDIKSSNILIDDEFESKVSDFGLAKLLGAGKSHVTTRVMGTFGYVA
+PEYANTGLLNEKSDIYSFGVVLLEAITGRDPVDYGRPANEVNLVDWLKMMVASRRSEEVV
+DPTIETRPSTRALKRALLTALRCVDPDSEKRPKMGQVVRMLESDDPIPRGDRRSKHHRGG
+STEMDSQRDNNSDTEKSDNPDSKPSRSRASSSK
+
+================================================================================

@@ -1,0 +1,124 @@
+================================================================================
+GrassFam ID: GFAM001770
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             426.0 aa
+Family Size (Extended Family Size): 17 (17) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR44329:SF11
+Panther Family ID:               PTHR44329
+Modal Panther ID:                PTHR44329:SF11
+Modal Panther Description:       OS09G0443600 PROTEIN
+Modal Panther Family ID:         PTHR44329
+Modal Panther Fam Desc:          SERINE/THREONINE-PROTEIN KINASE TNNI3K-RELATED
+Interpro Signature Accession:    cd13999; G3DSA:1.10.510.10; PTHR44329; PF00069; SM00220; SSF56112
+Interpro Signature Description:  STKc_MAP3K-like; Transferase(Phosphotransferase) domain 1; SERINE/THREONINE-PROTEIN KINASE TNNI3K-RELATED; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: serine/threonine-protein kinase STY13%2C transcript variant X1
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: PTI1-like tyrosine-protein kinase 3
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: serine/threonine-protein kinase STY8-like
+Tae
+  Gene count: 1
+  Modal chromosome: Tae05D
+  Gene Products: dual specificity protein kinase shkB-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: serine/threonine/tyrosine-protein kinase HT1-like
+  Gene Descriptions: serine/threonine/tyrosine-protein kinase HT1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC107276504
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: uncharacterized LOC133896978; uncharacterized LOC133901414
+  Gene Descriptions: uncharacterized LOC133896978; uncharacterized LOC133901414
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: serine/threonine/tyrosine-protein kinase HT1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: serine/threonine-protein kinase HT1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: serine/threonine-protein kinase STY8
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 419 aa
+
+MtgnGprrdqHRGLRGRLAGLFSSPPSQNhrSsEQVAKLmEELeRQRDLKETYKARLEST
+QgYLRFCLEVAQEHGFLHLISDsAqqrSPHRDADaEPATtAadDeDEDEPAEAPPCDPYL
+AATRDLAVQHGWSVAPDEIELHEVIGRGTTADIHRATWRGLDVAVKWVRPEFFrSNPSAE
+AFFAQElDvLSRQRHPHVLRLMGACLRPPeSCFLVTELLSGATLGEWLHGGRERRPRAsS
+PPPPPLVDRVSRALEIALAMRHLHEQTPRVVHRDLKPSNVLLDADLRARVTDFGHARFLP
+DGKEALTGETGTYVYMAPEVIRCEPYTEKCDVYSFGIILNELITAEHPYIDTSYGPSKIA
+LEVADGKLRPKLPEsDAyPTgLvDLICRTWDAEPSsRPSFATITSALREIKQQIVQHrE
+
+
+BOP CONSENSUS:
+Length: 420 aa
+
+MESTPTGNGRTrHEHRGLRGRLAGLFSSPSPNqqCsEQVAKLREEVrKQSDLKETYKARL
+ESTQEYLRFCLEVAQEHGFLHLvSNsEdRsPHRsaDeDPEAAAAtDDEDGDEEPESAEAP
+PCDPYLAATRDLAVQHGWSVAPDEIELHEMIGRGTTADIHRATWRGLDVAVKWmRPEFFr
+SnPSAEAFFAQELDALSRQRHPHVLRLMGACLRPPESCFLVTELLSGATLGEWLHGGKER
+RRKELpPALAQRVSRALEVALAMRHLHEQTPRVLHRDLKPSNVLLDGDSRARVADFGHAR
+FLPDGtQALTGETGTYVYMAPEVIRCEPYTEKCDVYSFGVILNELVTGEHPYIDTSYGPS
+KIALEVADGKLRPKLPEgDAnSSTGALVDLICRAWDAEPSrRPSFATITSALRgIKEQLv
+
+
+PACMAD CONSENSUS:
+Length: 427 aa
+
+MhAqPrhDQHRGLRGRLAGLFSSPPSQNHRSsEQVAKLMEELgRQRDLKETYKARLESTQ
+GYLRFCLEVAQEHGFLHLISDgAqQHSPHRDAEAEPATtvDaDDDEDEPAETPPCDPYLA
+ATRDLAVQHGWSVAPDEIELHEVIGRGTTADIHRATWRGLDVAVKWVRPEFFrSNPSGEA
+FFAQEADVLSRQRHPHVLRLMGACLRPPDSCFLVTELLSGATLGEWLHGGRERRPRAsSS
+PPPPPLVDRVSRALEIALAMRHLHEQTPRVVHRDLKPSNVLLDAELRARVTDFGHARFLP
+DGKEALTGETGTYVYMAPEVIRCEPYTEKCDVYSFGImLNELITAEHPYIDTSYGPSKIA
+LnVAnGKLRPKLPEsDAYPTGLTDLICRTWDAEPSSRPSFATITSALREIkQQIVQHrEy
+NQNSNYA
+
+================================================================================

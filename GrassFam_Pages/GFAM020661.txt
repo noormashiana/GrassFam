@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM020661
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             361.0 aa
+Family Size (Extended Family Size): 23 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43768:SF32
+Panther Family ID:               PTHR43768
+Modal Panther ID:                PTHR43768:SF32
+Modal Panther Description:       TREHALOSE-PHOSPHATE PHOSPHATASE C-RELATED
+Modal Panther Family ID:         PTHR43768
+Modal Panther Fam Desc:          TREHALOSE 6-PHOSPHATE PHOSPHATASE
+Interpro Signature Accession:    cd01627; G3DSA:3.40.50.1000:FF:000073; G3DSA:3.30.70.1020:FF:000004; G3DSA:3.40.50.1000; G3DSA:3.30.70.1020; TIGR00685; PTHR43768; PF02358; SSF56784
+Interpro Signature Description:  HAD_TPP; Trehalose 6-phosphate phosphatase; -; trehalose-phosphatase; TREHALOSE 6-PHOSPHATE PHOSPHATASE; Trehalose-phosphatase; HAD-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: probable trehalose-phosphate phosphatase 4
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: probable trehalose-phosphate phosphatase 4
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: probable trehalose-phosphate phosphatase 4
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: probable trehalose-phosphate phosphatase 4; probable trehalose-phosphate phosphatase 4%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: probable trehalose-phosphate phosphatase 4
+  Gene Descriptions: probable trehalose-phosphate phosphatase 4
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: probable trehalose-phosphate phosphatase 4
+  Gene Synonyms: OJ1288_G09.15,OsJ_08413,OsTPP4,TPP4
+  Gene Descriptions: probable trehalose-phosphate phosphatase 4
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: probable trehalose-phosphate phosphatase 4; probable trehalose-phosphate phosphatase 4%2C transcript variant X1
+  Gene Descriptions: probable trehalose-phosphate phosphatase 4
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: probable trehalose-phosphate phosphatase 4
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: probable trehalose-phosphate phosphatase 4
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: probable trehalose-phosphate phosphatase 4
+Zma
+  Gene count: 2
+  Modal chromosome: Zma04
+  Gene Products: probable trehalose-phosphate phosphatase 4; trehalose-6-phosphate phosphatase4
+  Gene Synonyms: GRMZM2G151044
+  Gene Descriptions: trehalose-6-phosphate phosphatase4
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 361 aa
+
+MTNQDVVVSEMGIAAGAALPGpsPALLACRGAAAGAMSLRQTYLDLAAAAARSASCTWvD
+AMRASSPTRSRAAADVDEFTAWMRKHPSALGKFEQIASASKGKKIVMFLDYDGTLSPIVA
+DPDAAYMSDAMRAAVRDVAKHFPTAIVSGRCRDKVRNFVGLSELYYAGSHGMDIKGPSSN
+PESVLCQPASEFLPVIDEVYKALVEKTKSTPGAKVENNKFCLSVHFRCVDEKRWNALAEQ
+VKAVIKDYPKLKLTQGRKVLEIRPSIMWDKGKALEFLLESLGFANCSDVLPVYIGDDRTD
+EDAFKVLRKRGQGvGILVSKCPKETNASYSLQDPgEVMEFLLRLVEWKRKSSpPPMIRPR
+V
+
+
+BOP CONSENSUS:
+Length: 366 aa
+
+TTSQDVVVSEMGIGAGGAAMPGSGAAGLFACRSAASAGAMSMRQTYLDLAAAAARSASCT
+WLEAMRAsSPTRSRrpGADVDELTAWMRKHPSALsKFEQIAsASKGKKIVMFLDYDGTLS
+PIVANPDAAYMSDAMRAAVRDVAKHFPTAIVSGRCRDKVHNFVGLSELYYAGSHGMDIKG
+PSSNPESVLCQPASEFLPMIDEVYKVLVEKTKSTPGAKVENNKFCLSVHFRCVDEKRWNF
+LAEQVKAVIKDYPMLKLTQGRKVFELRPSIMWDKGKALEFLLESLGFAsCSDVLPVYIGD
+DRTDEDAFKVLRKRGQGVGILVSKCAKETSASYSLQDPAEVMEFLLRLVEWKRrSSSsPP
+MvRPRV
+
+
+PACMAD CONSENSUS:
+Length: 359 aa
+
+MTNQDVVVSEMGIAAGAALPGPSPALLACRGAAAGAMSLRYLDLAAAAARSASCTWVDAM
+RASSPTRSRAAADVDEFTAWMRKHPSALGKFEQIASASKGKKIVMFLDYDGTLSPIVADP
+DAAYMSDAMRAAVRDVAKHFPTAIVSGRCRDKVRNFVGLSELYYAGSHGMDIKGPSSNPE
+SVLCQPASEFLPVIDEVYKALVEKTKSTPGAKVENNKFCLSVHFRCVDEKRWNALAEQVK
+AVIKDYPKLKLTQGRKVLEIRPSIMWDKGKALEFLLESLGFANCSDVLPVYIGDDRTDED
+AFKVLRKRGQGiGILVSKCPKETNASYSLQDPgEVMDFLLRLVEWKRKSSpPPMIRPRV
+
+================================================================================

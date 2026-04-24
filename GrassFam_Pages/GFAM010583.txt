@@ -1,0 +1,144 @@
+================================================================================
+GrassFam ID: GFAM010583
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             664.0 aa
+Family Size (Extended Family Size): 19 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR30620:SF83
+Panther Family ID:               PTHR30620
+Modal Panther ID:                PTHR30620:SF83
+Modal Panther Description:       GLYCOSYL HYDROLASE FAMILY 3 N TERMINAL DOMAIN CONTAINING PROTEIN, EXPRESSED
+Modal Panther Family ID:         PTHR30620
+Modal Panther Fam Desc:          PERIPLASMIC BETA-GLUCOSIDASE-RELATED
+Interpro Signature Accession:    G3DSA:3.20.20.300:FF:000003; G3DSA:3.40.50.1700:FF:000002; G3DSA:3.40.50.1700; G3DSA:3.20.20.300; PTHR30620; PR00133; PF01915; PF00933; SSF52279; SSF51445
+Interpro Signature Description:  Beta-D-glucan exohydrolase isoenzyme ExoI; Glycosyl hydrolase family protein; -; PERIPLASMIC BETA-GLUCOSIDASE-RELATED; Glycosyl hydrolase family 3 signature; Glycosyl hydrolase family 3 C-terminal domain; Glycosyl hydrolase family 3 N terminal domain; Beta-D-glucan exohydrolase, C-terminal domain; (Trans)glycosidases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: beta-glucosidase BoGH3B%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: beta-glucosidase BoGH3B-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: beta-glucosidase BoGH3B%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: beta-glucosidase BoGH3B-like%2C transcript variant X1; beta-glucosidase BoGH3B-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: uncharacterized LOC127757750%2C transcript variant X2
+  Gene Descriptions: uncharacterized LOC127757750
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: uncharacterized protein%2C transcript variant X4
+  Gene Descriptions: uncharacterized LOC4324619
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau02
+  Gene Products: uncharacterized LOC133908849%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133908849
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi05N
+  Gene Products: beta-glucosidase BoGH3B-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: beta-glucosidase BoGH3B-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi06
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: beta-glucosidase BoGH3B%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: uncharacterized LOC100280148%2C transcript variant X2
+  Gene Synonyms: GRMZM2G582965
+  Gene Descriptions: uncharacterized LOC100280148
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 657 aa
+
+MaCPNVSWgCLLLLLCFASMGDAEYMKYKDPKQPINTRIKDLIGRMTLAEKIGQMTQIER
+QVASADVMKNYFIGSILSGGGSVPAPQATPAIWVNMVNEFQKGALSTRLGIPMIYGIDAV
+HGNNNVYNATLFPHNIGLGATRDPDLVKRIGEATALEVRATGIPYTFAPCIAVCRDPRWG
+RCYESYSEDHKIVQQMTDIILGLQGEIPVNHTKGVPYVAGKDKVAACAKHFVGDGGTHNG
+INENNTIIDEHGLLGIHMPPYYDSIIKGVATVMVSYSSLNGVKMHANHDLVTGYLKSKLH
+FRGFVISDWLGIDRITSPPGANYTYSVQAGINAGIDMVMVPYNYTeYIDDlTSLVnKGII
+NMSRIDDAVRRILRVKFTMGLFENPLADLSFADQLGKKEHRELAREAVRKSLVLLKNGNS
+PNQQFLPLPKKARsILVAGSHASNLGYQCGGWSIQWMGGSGDITtGTTILDAIKSTVADS
+TPVVYSENPDDSFMKHNDFSFAIVVVGEPPYAETVGDsTDLTILDPGPDTIRTVCSAVKC
+AVVIVSGRPVVIEPYLPLMEALVAAWLPGTEGQGVADVLFGDYGFTGKLPRTWFKSVDQL
+PMNVGDPHYDPLFPFGFGLTINSSQPGFSGaDSLGDKKqrtvyVVLSSLLSLiLiwA
+
+
+BOP CONSENSUS:
+Length: 656 aa
+
+MACPNVSWGCLLLLLCFAWMGDAEYMKYKDPKQPVNTRIKDLIGRMTLAEKIGQMTQIER
+SVASADVMKNYFIGSILSGGGSVPAPQATPAMWVNMVNEFQKGALATRLGIPMIYGIDAV
+HGNNNVYNATIFPHNVGLGATRDPDLVKRIGEATALEVRATGIPYTFAPCIAVCRDPRWG
+RCYESYSEDHKIVQQMTDIILGLQGEIPVNHTKGVPYVAKNKVAACAKHFVGDGGTHNGI
+NENNTIIDEHGLLGIHMPPYYDSIIKGVATVMVSYSSVNGvKMHANHDLVTGYLKSKLHF
+RGFVISDWLGIDRITSPPGANYTYSVQAGINAGIDMVMVPFNYTEYIEDATSLVNKRIIS
+MSRIDDAVSRILRVKFTMGLFENPLADLSFADQLGKKEHRELAREAVRKSLVLLKNGNTP
+NQQFLPLPKKASKILVAGSHASNLGYQCGGWSIQWMGGSGDITAGTTILDAIKSTVGDAT
+PVVYSENPDDSFMKKNDFSFAIVVVGEpPYAETVGDNTDLTILDPGPDTIRTVCSAVKCA
+VVIVSGRPVVIEPYLPLMEALVAAWLPGTEGQGVADVLFGDYGFTGKLSRTWFKSVDQLP
+MNVGDPHYDPLFPFGFGLAINSSQPGFSGARSRRDKKEITVYAVLSLLLSMMLAWA
+
+
+PACMAD CONSENSUS:
+Length: 655 aa
+
+MTYSNISWAFLLLLCFVSMADAEYMKYKDPKQPINTRIRDLIGRMTLAEKIGQMTQIERQ
+VASANVMKKYFIGSILSGGGSVPAPQASPAIWVNMVNEFQKGALSTRLGIPLIYGIDAVH
+GNNNVYNATLFPHNIGLGATRDPGLIKRIGEATALEVRATGIQYTFAPCIAVCRDPRWGR
+CYESYSEDHKVVQQMTDIILGLQGEIPVNHTKGVPYVAGKDKVAACAKHYVGDGGTHNGI
+NENNTIIDEHGLLSIHMPPYYDSIIKGVATVMVSYSSLNGVKMHANHDLVTGYLKSKLHF
+RGFVISDWLGVDRITSPPGANYTYSVQAGINAGIDMVMVPYNYTDYINDLTSLVHKGVIN
+MSRIDDAVRRILRVKFTMGLFENPLADLSFAEQLGKKEHRELAREAVRKSLVLLKNGNSP
+NQQFLPLPKRARSILVAGSHASNLGYQCGGWSIQWMGGSGNITTGTTILDAIKSTVADST
+PVVYSENPDDSFMKHNDFSFAIVVVGEPPYAETVGDSTDLTMLDPGPDTIRTVCSAVKCA
+VVIVSGRPVVIEPYVPLMEALVAAWLPGTEGQGVADVLFGDYGFTGKLPRTWFKSVDQLP
+MNVGDPHYDPLYPFGFGLTINSSLPGFSGVDNLGYKKQRVLyVVLCSLLSLVLIS
+
+================================================================================

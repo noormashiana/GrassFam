@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM016996
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             322.0 aa
+Family Size (Extended Family Size): 81 (85) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31388:SF45
+Panther Family ID:               PTHR31388
+Modal Panther ID:                PTHR31388:SF45
+Modal Panther Description:       PEROXIDASE
+Modal Panther Family ID:         PTHR31388
+Modal Panther Fam Desc:          PEROXIDASE 72-RELATED
+Interpro Signature Accession:    cd00693; G3DSA:1.10.420.10:FF:000006; G3DSA:1.10.520.10:FF:000006; G3DSA:1.10.520.10; G3DSA:1.10.420.10; PTHR31388; PR00458; PR00461; PF00141; SSF48113
+Interpro Signature Description:  secretory_peroxidase; Peroxidase; -; Peroxidase, domain 2; PEROXIDASE 72-RELATED; Haem peroxidase superfamily signature; Plant peroxidase signature; Heme-dependent peroxidases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 3
+  Modal chromosome: Bdi03
+  Gene Products: peroxidase 70; peroxidase 70%2C transcript variant X2; uncharacterized LOC100830117
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 7
+  Modal chromosome: Hvu06H
+  Gene Products: cationic peroxidase 1-like; peroxidase 70-like; peroxidase P7-like
+Ata
+  Gene count: 8
+  Modal chromosome: Ata06D
+  Gene Products: peroxidase 2; peroxidase 70; peroxidase P7-like
+Tae
+  Gene count: 26
+  Modal chromosome: Tae06A
+  Gene Products: cationic peroxidase 1-like; peroxidase 2-like; peroxidase 70-like; peroxidase P7-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 3
+  Modal chromosome: Ogl02
+  Gene Products: peroxidase P7-like
+  Gene Descriptions: peroxidase P7-like
+Osa
+  Gene count: 3
+  Modal chromosome: Osa02
+  Gene Products: peroxidase 70; peroxidase P7
+  Gene Descriptions: peroxidase 70; peroxidase P7
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 4
+  Modal chromosome: Pau06
+  Gene Products: peroxidase 70-like; peroxidase P7-like
+  Gene Descriptions: peroxidase 70-like; peroxidase P7-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 5
+  Modal chromosome: Pvi01K
+  Gene Products: peroxidase 70-like; peroxidase P7-like
+Pha
+  Gene count: 3
+  Modal chromosome: Pha01
+  Gene Products: peroxidase 70-like; peroxidase P7-like
+Msi
+  Gene count: 4
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi04
+  Gene Products: peroxidase 70; peroxidase P7
+Zma
+  Gene count: 2
+  Modal chromosome: Zma04
+  Gene Products: peroxidase P7; uncharacterized LOC100191769
+  Gene Synonyms: gpm853,GRMZM2G117706
+  Gene Descriptions: uncharacterized LOC100191769
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 320 aa
+
+mmSSfRTWHCLLALFLLSSAAYGQLSPSFYAtSCPTLELIVRATMIkALLAERRMGASLL
+RLFFHDCFVQGCDGSILLDDVGSFVGEKTAfPNVNSVRGYEVIDQIKANVELvCPGVVSC
+ADIVALAARDGTFLLGGPSWAVPLGRRDSTTASLseANSDLPaPtSnLdtLIaAFgnKGL
+SPRDLTALSGAHTIGFSQCqNFRDHIYNDTNIDPAFAaLRrRnCPAAagsGDtNLAPLDV
+QTQLvFDNAYYRNLVAkRGLLHSDQELFNGGSQDALVRQYSANPALFASDFVtAMIKMGN
+IsPLTGtAGQIRaNCRVVNS
+
+
+BOP CONSENSUS:
+Length: 322 aa
+
+MASSSSCRTWHCLLALFLLSSAAYGQLSPSFYAkSCPTLQLiVRATMIKALLAERRMGAS
+LLRLHFHDCFVQGCDGSILLDDVGSFVGEKTAFPNVNSVRGYEVIDeIKaNVELLCPGVV
+SCADIvALAARDGTFLLGGPSWAVPLGRRDSTTASLaEANSDLPaPSLNLDqLIAAFdKK
+QLSPRDLTALSGAHTIGFSQCqNFRDHIYNGTNIDPAFAALRkRtCPAAAPnGDtNLAPF
+DVQTQLVFDNAYYRNLVAkRGLLHSDQeLFNGGSQDALVRQYaANPALFASDFVTAMIKM
+GNIaPLTGtaGQIRRNCRVVNS
+
+
+PACMAD CONSENSUS:
+Length: 320 aa
+
+MASFRTWHCLLALlLLsSAAyGQLSPSFYATSCPTLELIVRATMIkAllAERRMGASLlR
+LFFHDCFVQGCDASILLDDVGSFVGEKGAGPNVNSVRGYEVIDQIKANVEAvCPGVVSCA
+DIVALAARDGTFLLGGPTWAVPLGRRDSTTASLSqANSDLPSPASsLaTLITAFGNKGLS
+PRDLTALSGAHTIGFSQCQNFRdHIYNDTNIDpAFAaLRQRNCPAAqGsGDTNLAPLDVQ
+TQLvFDNAYYRNLLvkRGLLHSDQELFNGGSQDALVrQYSaNPALFASDFvAAMIKMGNI
+SPLTGTAGQIRANCRVVNSS
+
+================================================================================

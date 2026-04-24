@@ -1,0 +1,113 @@
+================================================================================
+GrassFam ID: GFAM014276
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             507.0 aa
+Family Size (Extended Family Size): 15 (16) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR23070
+Modal Panther ID:                PTHR23070:SF116
+Modal Panther Description:       OS03G0802600 PROTEIN
+Modal Panther Family ID:         PTHR23070
+Modal Panther Fam Desc:          BCS1 AAA-TYPE ATPASE
+Interpro Signature Accession:    cd19510; G3DSA:3.40.50.300; PTHR23070; SSF52540
+Interpro Signature Description:  RecA-like_BCS1; -; BCS1 AAA-TYPE ATPASE; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Ola
+  Gene count: 2
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: AAA-ATPase At3g28580-like
+  Gene Descriptions: AAA-ATPase At3g28580-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: AAA-ATPase At3g28580
+  Gene Descriptions: AAA-ATPase At3g28580
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Svi
+  Gene count: 2
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi07N
+  Gene Products: AAA-ATPase ASD%2C mitochondrial-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: AAA-ATPase At3g28580-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: AAA-ATPase At3g28580
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: AAA-ATPase ASD mitochondrial
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 504 aa
+
+MDALAAYSWFGQlSVVVSVVAVCWTMVWQNLEHIRLQQFFARNFNRRARRLAAiVDPYLS
+VTFEEYEGGRIKSSDAFkEVKSYLTTASTRDVRHLRAECGGGrRrATDkDKLVLSMAKGE
+EVADAFRGATVWWSAAAVPPPRDAVPWSRASRAERRFFRLEFHESHRDLVLNeYLPHVRR
+QGRAVMVQNRQRRLYTNIHREGYDDGWYeDVWTHVPFdHPKTFDKLAMDPAKKKEIIDDL
+DMFKNGKEYHNRVGKPWKRGYLLYGPPGTGKSTMVAAMANYLDYDVYDFELTSVKTNTEL
+RKLLIETKSKSIMVFEDIDCSLDVTGKRKSKEEEdKDkDgdkDgDPRRPkKKDAKSKVTL
+SGLLNFIDGLWSACGEERLIVFTTNHVEKLDPALIRTGRMDKKIEMSYCDfESFKFLARM
+HLDDeDVEGHELFGVVRALLEEVNMVPVDVGEHLTPKSvDDDAGSCLARLVTALEKAKEE
+AAKpEaAqAqeDGKkgVVvDDKnn
+
+
+BOP CONSENSUS:
+Length: 545 aa
+
+MDVGAAIRGGLNSGVALSVIAVVWGMLWQNLHRFPLQHLVRRQLNRRGRRLAAMVDPYMS
+VRIEEFEGGRMKGSAAFEEVKAYLSTATASTDDVRHLKAECTKDADKLVLSMVDGEEVAD
+VFEGVTVWWSARSIQPASDFRPWRRAQAERRFYQLYFHHRHRDLMLNTYLPHVRRQGRAV
+MVQNRQLKLFSNIPREGWNWDEDGHYKKSWTHVPFEHPKTFDTLAMDPAKKKEIIDDLDT
+FKNGKEYYKRVGKAWKRGYLLHGPPGTGKSTMIAAMANYLEYDVYDVELTTVKTNTDLRK
+LLIETTNKSIMVFEDIDCSLDLTGKREKKKQEKKKQEGEDGPPRMPDQDDGGSRVTLSGL
+LNFIDGLWSACGEERLIVLTTNHVEKLDPALIRTGRMDKHIEMSFCDFESFKFLAKTHLG
+DVDMESHEELINHIKALLQEVKMVPADVGEHLTPKTMGDPDAAGSCLANLVKALQKAKEE
+AIQKAKEEALQKAKEEALEKDKEEALQKAKEETLEKDKEEALHKTKADAEKGGKGQEAEE
+VAEKE
+
+
+PACMAD CONSENSUS:
+Length: 503 aa
+
+MDALAAYSWFGQlSVVVSVVAVCWTMVWQNLEHIRLQQFFARNFNRRARRLAAiVDPYLS
+VTFEEYEGGRIKSSDAFkEVKSYLTTASTRDVRHLRAECGGGrRrTDkDKLVLSMAKGEE
+VADAFRGATVWWSAAAVPPPRDAVPWSRASRAERRFFRLEFHESHRDLVLNeYLPHVRRQ
+GRAIMVQNRQRRLYTNIHrEGYDDGWYeDVWTHVPFdHPKTFDKLAMDPAKKKEIIDDLD
+MFKnGKEYHNRVGKPWKRGYLLYGPPGTGKSTMVAAMANYLDYDVYDFELTSVKTNTELR
+KLLIETKSKSIMVFEDIDCSLDVTGKRKSKEEEdKDeDgDGDgDPRRpkKKDAKSKVTLS
+GLLNFIDGLWSACGEERLIVFTTNHVEKLDPALIRTGRMDKKIEMSYCDfESFkFLARMH
+LDDeDVEGHELFGVVRALLEEVNMVPVDVGEHLTPKSvDDDAGSCLARLVTALEKAKEEe
+AAKpEaAqAqeDGKkIVVqDDgN
+
+================================================================================

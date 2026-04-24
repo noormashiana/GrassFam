@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM006088
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             322.5 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11054:SF3
+Panther Family ID:               PTHR11054
+Modal Panther ID:                PTHR11054:SF3
+Modal Panther Description:       6-PHOSPHOGLUCONOLACTONASE 3, CHLOROPLASTIC-RELATED
+Modal Panther Family ID:         PTHR11054
+Modal Panther Fam Desc:          6-PHOSPHOGLUCONOLACTONASE
+Interpro Signature Accession:    cd01400; G3DSA:3.40.50.1360:FF:000009; G3DSA:3.40.50.1360; TIGR01198; PTHR11054; PF01182; SSF100950
+Interpro Signature Description:  6PGL; Probable 6-phosphogluconolactonase; -; 6-phosphogluconolactonase; 6-PHOSPHOGLUCONOLACTONASE; Glucosamine-6-phosphate isomerases/6-phosphogluconolactonase; NagB/RpiA/CoA transferase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: probable 6-phosphogluconolactonase 4%2C chloroplastic
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: probable 6-phosphogluconolactonase 4%2C chloroplastic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: probable 6-phosphogluconolactonase 4%2C chloroplastic
+Tae
+  Gene count: 2
+  Modal chromosome: Tae05B
+  Gene Products: probable 6-phosphogluconolactonase 4%2C chloroplastic
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: probable 6-phosphogluconolactonase 4%2C chloroplastic
+  Gene Descriptions: probable 6-phosphogluconolactonase 4%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: probable 6-phosphogluconolactonase 4%2C chloroplastic
+  Gene Synonyms: OJ1531_B07.11,OsJ_028924
+  Gene Descriptions: probable 6-phosphogluconolactonase 4%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau17
+  Gene Products: probable 6-phosphogluconolactonase 4%2C chloroplastic
+  Gene Descriptions: probable 6-phosphogluconolactonase 4%2C chloroplastic
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: probable 6-phosphogluconolactonase 4%2C chloroplastic
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: probable 6-phosphogluconolactonase 4%2C chloroplastic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: probable 6-phosphogluconolactonase 4%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: uncharacterized LOC100285843
+  Gene Synonyms: GRMZM2G148769,umc2374
+  Gene Descriptions: uncharacterized LOC100285843
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 321 aa
+
+MSTSVSAAAaAALvPlLtrRRSPPASRVPvisrRRIGPrPRLFSSSrSpPILPAAAMATD
+GAAPdAGSKkKLLIFDaEEDLAVSLAKYTAELSaKFAAERGAFTVVLSGGSLIkALRKLT
+EPPYLESVDWSKWHVFWVDERVVPKDHEDSNYKLAlDGFLSKVPIPpGQVYAINDALSAE
+GAADDYETCLKQLVKNGVIAMStATGFPRFDLQLLGMGPDGHIASLFPGHPLVNENeKWV
+TYIKDSPKPPPERITFTFPVINSSAYVAMVVTGAGKAGAVQKALSDKQTSSDLLPVEMAV
+LQDGEFTWFTDKeAVSMLQNK
+
+
+BOP CONSENSUS:
+Length: 321 aa
+
+MSTSMSVSVSAAASSSLPPLlpRRRSPPASLVPVRSLRSpPRPRLLSSARPVLLPAAAMA
+TDAAAPAASSKRDLLIFDAEENLAVSLAKYTADLSAKFAAERGAFTVVLSGGSLIyALRK
+LTEPPYLETVDWSKWHVFWVDERVVPKDHEDSNYKLALDGFLSKVPIPTGQVYAINDALS
+AEGAAEDYETILKQLVKNGVLAMSKTTGFPRFDLQLLGMGPDGHIASLFPGHPLVKENQK
+WVTHILDSPKPPPQRITFTFPVINSSAYVAMVVTGAGKAGAVQKAISDKKTSDLLPVEMA
+ILQDGEFTWFTDKEAVSMLQN
+
+
+PACMAD CONSENSUS:
+Length: 321 aa
+
+MSTSVSAAAAAALvPrLTGRRSPPASRVPtICRRRIGSsPRLFSSSSSFPILPAAAMATD
+GAASDAGSKKKLLIFDSEEDLAVSLAKYTAELSeKFAAERGAFTAVLSGGSLIdALRKLT
+EPPYLDSVDWSKWHVFWVDERVVPKDHEDSNYKLAFDGFLSKVPIPPGQVYAINDALSAE
+GAADDYEACLKQLVKNGVIAMSAATGFPRFDLQLLGMGPDGHIASLFPGHPLVNEKERWV
+TYIKDSPKPPPERITFTFPVINSSAYIAMVVTGAGKAGAVQKALSDKQTSSDLLPVEMAV
+LQDGEFTWFTDKPAVSMLQNK
+
+================================================================================

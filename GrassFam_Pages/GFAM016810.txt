@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM016810
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             557.5 aa
+Family Size (Extended Family Size): 20 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31707:SF213
+Panther Family ID:               PTHR31707
+Modal Panther ID:                PTHR31707:SF213
+Modal Panther Description:       PECTINESTERASE_PECTINESTERASE INHIBITOR 32-RELATED
+Modal Panther Family ID:         PTHR31707
+Modal Panther Fam Desc:          PECTINESTERASE
+Interpro Signature Accession:    cd15799; G3DSA:1.20.140.40:FF:000020; G3DSA:2.160.20.10:FF:000001; G3DSA:2.160.20.10; PTHR31707; PF01095; SSF51126
+Interpro Signature Description:  PMEI-like_4; Pectinesterase; -; PECTINESTERASE; Pectin lyase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                5.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: pectinesterase/pectinesterase inhibitor PPE8B
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: pectinesterase/pectinesterase inhibitor PPE8B-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: pectinesterase/pectinesterase inhibitor PPE8B
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: pectinesterase-like; pectinesterase/pectinesterase inhibitor PPE8B-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl08
+  Gene Products: pectinesterase/pectinesterase inhibitor PPE8B-like
+  Gene Descriptions: pectinesterase/pectinesterase inhibitor PPE8B-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa08
+  Gene Products: pectinesterase
+  Gene Descriptions: pectinesterase
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN50
+Pau
+  Gene count: 2
+  Modal chromosome: Pau16
+  Gene Products: pectinesterase-like
+  Gene Descriptions: pectinesterase-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: pectinesterase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: pectinesterase-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: pectinesterase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100281178
+  Gene Synonyms: GRMZM2G175499
+  Gene Descriptions: uncharacterized LOC100281178
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 549 aa
+
+MAsTSPrsAArLLLaLSLLLlLLTNAHPLTTPSPPApAAKagaaGISPGLVSTLRETLDA
+IrdVASIISSFPIGGILGGGDLRLSSAVADCLDLLDLSSDELSWSMSATSpSsAGAGAGG
+RvGTGDARSDLRSWLSGALGNQDTCKEGLDDTGSVLGSLVATGLQAVTSLLaDGLGQVAA
+GeaaAASSARtSsSsRRGLgeGArpPrWLRARERRLLQMPVGPGGLPVDAVVAQDGSGNF
+TTVsAAVDAAPSESAARYVIYVKKGVYRETVEVKKKKWNLMLVGDGMGATVISGhRNYVD
+GYTTYRSATVAVNGKGFIARDLTFENTAGPAKHQAVALRCDSDLSVFYRCAFEGYQDTLY
+AHSLRQFYRDCRVTGTVDFVFGNAAAVFQNClLLARlPLPdQKNSVTAQGRLDANMTTGF
+AFQFCNVSAHDDLLrAqgNqTdaAAaTQTYLGRPWKqYSRVVFMQSYIGAVVRPEGWLAW
+DGqFALDTLYYGEYMNTGPGAGVGGRVrWPGFHVMTSPAEAGNFTVAQFIEGNMWLPPTG
+VKYTAGLTS
+
+
+BOP CONSENSUS:
+Length: 551 aa
+
+MAPTSPtSAPRLLLALSLSLLLTSAHQLTtPSPPPPSKktAAGISPELVSTLREALgAIK
+DVASIVSSFPIVGGVLGGgDLRLSSAIaDCLDLLDLSSDELSWSMSAASPSTAGAGAAGR
+VGTGDAHADLRAWLSGALGNQDTCKDGLDDTDSVLGSLVSTGLQAVTSLLGDGLGQVAAG
+EEAASSARTSGHRGRGLGQGAPrHPHWLGaRERRLLQMPVGPGGMPVDAVVAQDGSGNHT
+TVQAALDAAPSERsdGRYVIYVKRGVYRETVEVKKKKWNVMLVGDGMGATVISGRLNYVD
+GYSTFRTATVAVVGKGFIARDMTFENTAGPAKHQAVALRCDSDLSVFYRCAFEGHQDTLY
+AHSLRQFYRDCRVaGTVDFVFGNAAAVFQNClLLARAPLPgQKNSVTAQGRFNASMNSGF
+AFQFCNVSAHDDLLRAQaNQTDKAAaTQTFLGRPWKAYSRVVFMQSYIGAVVRPEGWLAW
+DgNQSTLdTLYYGEYMNTGPGAGVGGRVRWPGYHVMMSPAEASNFTVAQFIEGNMWLPPT
+GVRFTSGLLAS
+
+
+PACMAD CONSENSUS:
+Length: 556 aa
+
+MAStSPRAaAPQLLLVLSLLLLLVLPLTNAHPvTPSPAAKAragetGISAGLVSTLRETL
+DAIRsVASIISSFPIGGILGGGDLRLSSAVADCLDLLDLSSDELSWSMSTTSaSSsPASA
+GGAGGRLGTGDARSDLRSWLSGALGNQDTCKEGLDaTGSVLGSLVATGLqAVTSLLADGL
+GQVAAAdAAAasASAaySpSSRRGLlgGAaPPRWLRARERRLLQMPVGPGGLPVDAVVAQ
+DGSGNFTTVSAAVEAAPAESAARYVIYVKKGVYRETVEVKKKKWNLMLVGDGMGATVISG
+HRSYVDGYTTYRSATVAVNGKGFIARDLTFENTAGPAKHQAVALRCDSDLSVFYRCAFEG
+YQDTLYAHSLRQFYRDCRVTGTVDFVFGNAAAVFQNClLLARLPLPdQKNSVTAQGRLDA
+NMTTGFAFQFCNVSAHdELLAAtsGGNgTAApPTQTYLGRPWKQYSRVVFMQSYIGAVVR
+PEGWLAWDGEFALDTLYYGEYMNTGPGAGVGARVKWPGFHVMTSPAEAGNFTVAQFIEGN
+MWLPPTGVKYTAGLTS
+
+================================================================================

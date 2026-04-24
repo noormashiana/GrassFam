@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM008423
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             526.0 aa
+Family Size (Extended Family Size): 19 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47949:SF3
+Panther Family ID:               PTHR47949
+Modal Panther ID:                PTHR47949:SF3
+Modal Panther Description:       CYTOCHROME P450 703A2
+Modal Panther Family ID:         PTHR47949
+Modal Panther Fam Desc:          CYTOCHROME P450 703A2-RELATED-RELATED
+Interpro Signature Accession:    cd20618; G3DSA:1.10.630.10:FF:000071; G3DSA:1.10.630.10; PTHR47944; PR00463; PF00067; SSF48264
+Interpro Signature Description:  CYP71_clan; Cytochrome P450 703A2; Cytochrome P450; CYTOCHROME P450 98A9; E-class P450 group I signature
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: cytochrome P450 703A2%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: cytochrome P450 703A2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: cytochrome P450 703A2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: cytochrome P450 703A2; cytochrome P450 703A2-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl08
+  Gene Products: cytochrome P450 703A2%2C transcript variant X1
+  Gene Descriptions: cytochrome P450 703A2
+Osa
+  Gene count: 1
+  Modal chromosome: Osa08
+  Gene Products: cytochrome P450 703A2-like%2C transcript variant 2
+  Gene Synonyms: CYP703A3
+  Gene Descriptions: cytochrome P450 703A2-like
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN4
+Pau
+  Gene count: 1
+  Modal chromosome: Pau18
+  Gene Products: cytochrome P450 703A2
+  Gene Descriptions: cytochrome P450 703A2
+Svi
+  Gene count: 1
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: cytochrome P450 703A2%2C transcript variant X1; cytochrome P450 703A2-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: cytochrome P450 703A2%2C transcript variant X4
+Msi
+  Gene count: 1
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: cytochrome P450 703A2%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: uncharacterized LOC100282873%2C transcript variant X39
+  Gene Synonyms: GRMZM5G830329,GRMZM5G894486,pco115177
+  Gene Descriptions: uncharacterized LOC100282873
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 529 aa
+
+MDPFLLSILLCSWIFvVVYWRRLNsMRLRLPPGPPRWPIFGNLLQLSPLPHKDFARFCTK
+YGPLVYLRLGTIDAITTDDPEVIREILIRQDEVFASRPRTLAAVHLAYGCGDVALAPLGP
+NWKRMRRVCMEHLLTTKRLESFAAHRAQEAEHLCQFVWAKSQSGKPVNLREVLGAFSMNN
+VTRMLLGKQYFGLQSAGPGEAMEFMHITHELFFLLGLIYLGDYLPAWRWVDPYGCEKKMR
+EVEKKVDDFHQKIIDEHRKAREAKKSAASLDDDDSKEEMDFVDVLLSLPGENGKEHMDDV
+EIKALMQDMIAAATDTSSVTNEWVMAEVIKNPRVLRKIQEELDAVVGRdRMVvESDLPHL
+tYLRCVVRESFRMHPAGPFLIPHESLKPTTIMGYDIPARTRIFINTHALGRNPRIWDDVD
+EFRPERHLPAEdGGRVEISHLPDFKILPFSAGKRKCPGAPLGVILVLMALARLFHCFDWS
+PPDGLRPEDIDTrEVYGMTMPKAKPLVAVATPRLPPqMYGScpSHGMQM
+
+
+BOP CONSENSUS:
+Length: 530 aa
+
+MDPFLLSIILCSCIFAAVSWKKLNrMRLRLPPGPPRWPIFGNLLQLSPLPHKDFARFCTK
+YGPLVYLRLGTIDAITTDDPEVIREILIRQDEVFASRPRTLAAVHLAYGCGDVALAPLGP
+NWKRMRRVCMEHLLTTKRLESFAAHRAeEAEHLCQFVWAKSQSGKPVNLREVLGAFSMNN
+VTRMLLGKQYFGLQSAGPGEAMEFMHITHELFFLLGLIYLGDYLPAWRWLDPYGCEKKMR
+EVEKKVDDFHQKIIDEHRKAREARKSGASLDDDGDDSKEDMDFVDVLLSLPGENGKEHMD
+DVEIKALMQDMIAAATDTSSVTNEWVMAEVIKNPRVLRKIQEELDAVVGRSRMVVESDLP
+HLTYLRCVVRESFRMHPAGPFLIPHESLKPTTIMGYDIPAQTRIFINTHALGRNPRIWDD
+VDEFRPERHLPADGGRVEISHLPDFKILPFSAGKRKCPGAPLGVILVLMALARLFHCFDW
+SPPDGLRPEDIDTDEVYGMTMPKAKPLIAAAqPRLPPQMYGSCPSHGMQM
+
+
+PACMAD CONSENSUS:
+Length: 525 aa
+
+MDPFLLSILLCLWIFIVVYWRRmNSMRLRLPPGPPTWPIFGNLLQLSPLPHKDFARFCTK
+YGPLVYLRLGTIDAITTDDPEVIREILIRQDEVFASRPRTLAAVHLAYGCGDVALAPLGP
+NWKRMRRVCMEHLLTTRRLESFAAHRAQEAEHLCQFVWAKAQSGKPVNLREVLGAFSMNN
+VTRMLLGKQYFGIQSAGPGEAMEFMHITHELFFLLGLIYLGDYLPAWRWVDPYGCEKKMR
+EVEKKVDDFHQKIIDEHRRAREAKKSAASLDDDDTKEEMDFVDVLLSLPGENGKEHMDDV
+EIKALMQDMIAAATDTSSVTNEWVMAEVIKNPRVLRRIQEELDAVVGRDRMVAESDLAHL
+PYLRCVVRESFRMHPAGPFLIPHESLKPTTIMGYHVPARTRVFINTHALGRNPRVWDAVD
+EFRPERHLPAEEGARVEISHLPDFKILPFSAGKRKCPGAPLGVALVLMALARLFHCFDWS
+PPDGLRPEDVDTREVYGMTMPKATPLVAVATPRLPPHMYGssAsV
+
+================================================================================

@@ -1,0 +1,117 @@
+================================================================================
+GrassFam ID: GFAM009988
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             357.0 aa
+Family Size (Extended Family Size): 48 (53) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR47991
+Modal Panther ID:                PTHR47991:SF92
+Modal Panther Description:       FE2OG DIOXYGENASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR47991
+Modal Panther Fam Desc:          OXOGLUTARATE/IRON-DEPENDENT DIOXYGENASE
+Interpro Signature Accession:    G3DSA:2.60.120.330:FF:000046; G3DSA:2.60.120.330; PTHR47991; PF14226; SSF51197
+Interpro Signature Description:  Os09g0353700 protein; -; OXOGLUTARATE/IRON-DEPENDENT DIOXYGENASE; non-haem dioxygenase in morphine synthesis N-terminal; Clavaminate synthase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu01H
+  Gene Products: protein SRG1-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata03D
+  Gene Products: protein SRG1
+Tae
+  Gene count: 10
+  Modal chromosome: Tae01A
+  Gene Products: 2-oxoglutarate-dependent dioxygenase 11-like; 2-oxoglutarate-dependent dioxygenase 11-like%2C transcript variant X2; protein SRG1-like; protein SRG1-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 4
+  Modal chromosome: Ogl09
+  Gene Products: 2-oxoglutarate-dependent dioxygenase 11-like; S-norcoclaurine synthase 1-like
+  Gene Descriptions: 2-oxoglutarate-dependent dioxygenase 11-like; S-norcoclaurine synthase 1-like
+Osa
+  Gene count: 4
+  Modal chromosome: Osa09
+  Gene Products: 2-oxoglutarate-dependent dioxygenase 11; S-norcoclaurine synthase 1; oxoglutarate-dependent flavonoid 7-O-demethylase 1
+  Gene Descriptions: 2-oxoglutarate-dependent dioxygenase 11; S-norcoclaurine synthase 1; oxoglutarate-dependent flavonoid 7-O-demethylase 1
+Ecu
+  Gene count: 6
+  Modal chromosome: Ecu05
+Svi
+  Gene count: 5
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 5
+  Modal chromosome: Pvi09K
+  Gene Products: 2-oxoglutarate-dependent dioxygenase 11-like; S-norcoclaurine synthase 1-like; protein SRG1-like; thymidine kinase-like%2C transcript variant X2
+Pha
+  Gene count: 3
+  Modal chromosome: Pha09
+  Gene Products: S-norcoclaurine synthase 1-like; protein SRG1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi01
+  Gene Products: S-norcoclaurine synthase 1; protein SRG1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100282835
+  Gene Synonyms: cl945_1,GRMZM5G826389
+  Gene Descriptions: uncharacterized LOC100282835
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 354 aa
+
+MEaaadKlvnRDEITDAAAAAFADStqIPERYiRTDEVldGVVVGdDESYELPVVDMARL
+LDPElSasEtAKLGSACRdWGFFQLTNHGVDEAViQrMKDSTvQFFsLPLEsKNaVAVRg
+nGFEGFGHHysRaSsgKLDWAESLILiTQPvQdRNMEfWPTNPPTFRDALDkYSvEMtnL
+ArRLLgFMAaDLGVEqEALLGAFrGKRQSmAiHHYPPCRHPeKViGITPHTDGLGLTLLL
+HVDDTPGLQVrkgGRWFPVRPLPGAlVVNVGDILdVLTNGaYkSVEHRVlPDAERGRTTV
+VvFQdAcVgGmVkPLPELLkGGEARYrSIeklEYvKGnFrALAeGTRFvDSLKi
+
+
+BOP CONSENSUS:
+Length: 351 aa
+
+MErggdkVinRDEITDAAAAAFADSTVIPDRYaRPDEVrDGVVVGDDESYELPVVDMARL
+LDPEhSEAEIAKLGSACRDWGFFQLtNHGVDEaVVQdMKDNTvQFFrLPLEKKnAVAIqa
+GGfEGFGHHFnRASsgKLDWAESLILvTQPieQRNmEFWPadPPTFRDALDKYSmEMSNL
+TsRLLvFMASDLGVEQEaLlgAFRGKrQSvAfHHYPPCRHPDKVIGITPHhDGLGLTLLL
+hVDDTPGLQVRKDGRWfPVRPLPGALVINVGDILEVLTNGrYKSVEHRVLVDAERGRaTV
+VvFQDACVAGmVKPLPELGEARYkAIEkvEYVKGNFrALaEGTRFVDSLKI
+
+
+PACMAD CONSENSUS:
+Length: 355 aa
+
+MEAaydKLVNRDEITDAAAsAFADSaQIPEKYIRTdEVlAGvVVGEDEaYELPVVDMARL
+LDPELSASETAKLGSACRnWGFFQLTNHGVDEAVIQqMKDSTVQFFSLPLESKNtVAVRG
+dGFEGFGHHYSRaSsDKLDWAESvILiTQPVQDRNMELWPTNPPTFRHALErYSVEMTnL
+ARRLLGFMAADLGVeqEALLGAFtGKRQSMAIHHYPPCRHPEKVmGITPHTDGLGLTLLL
+HVDDTPGLQIrRGGRWFPVRPLPGAfVVNVGDILDVLTNGAYrSVEHRVvPDAERGRTTV
+ViFQeASVGGmVAPLPELLkGGErARYRSIgklEYiKGsFrALAqGTRFleSLRi
+
+================================================================================

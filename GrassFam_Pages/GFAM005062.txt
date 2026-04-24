@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM005062
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             438.0 aa
+Family Size (Extended Family Size): 28 (29) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31756:SF10
+Panther Family ID:               PTHR31756
+Modal Panther ID:                PTHR31756:SF10
+Modal Panther Description:       PYRUVATE PHOSPHATE DIKINASE REGULATORY PROTEIN 2
+Modal Panther Family ID:         PTHR31756
+Modal Panther Fam Desc:          PYRUVATE, PHOSPHATE DIKINASE REGULATORY PROTEIN 1, CHLOROPLASTIC
+Interpro Signature Accession:    NF003742; PTHR31756; PIRSF038149; PF03618
+Interpro Signature Description:  pyruvate, phosphate dikinase/phosphoenolpyruvate synthase regulator; PYRUVATE, PHOSPHATE DIKINASE REGULATORY PROTEIN 1, CHLOROPLASTIC; Pyruvate_Pi_dikinase_reg; Kinase/pyrophosphorylase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: probable pyruvate%2C phosphate dikinase regulatory protein%2C chloroplastic%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: probable pyruvate%2C phosphate dikinase regulatory protein%2C chloroplastic%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: probable pyruvate%2C phosphate dikinase regulatory protein%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: probable pyruvate%2C phosphate dikinase regulatory protein%2C chloroplastic
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: probable pyruvate%2C phosphate dikinase regulatory protein%2C chloroplastic
+  Gene Descriptions: probable pyruvate%2C phosphate dikinase regulatory protein%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: probable pyruvate%2C phosphate dikinase regulatory protein%2C chloroplastic
+  Gene Synonyms: BFRP,OsJ_023576,PDRP1
+  Gene Descriptions: probable pyruvate%2C phosphate dikinase regulatory protein%2C chloroplastic
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 2
+  Modal chromosome: Pau14
+  Gene Products: probable pyruvate%2C phosphate dikinase regulatory protein%2C chloroplastic%2C transcript variant X1
+  Gene Descriptions: probable pyruvate%2C phosphate dikinase regulatory protein%2C chloroplastic
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: pyruvate%2C phosphate dikinase regulatory protein%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: pyruvate%2C phosphate dikinase regulatory protein%2C chloroplastic-like%2C transcript variant X1
+Msi
+  Gene count: 5
+  Modal chromosome: Msi04
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi02
+  Gene Products: pyruvate%2C phosphate dikinase regulatory protein%2C chloroplastic; pyruvate%2C phosphate dikinase regulatory protein%2C chloroplastic%2C transcript variant X1; pyruvate%2C phosphate dikinase regulatory protein%2C chloroplastic-like
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: PDK regulatory protein1; Pyruvate phosphate dikinase regulatory protein 2
+  Gene Synonyms: GRMZM2G004880; GRMZM2G131286,pco142971,pdrp1
+  Gene Descriptions: PDK regulatory protein1; Pyruvate phosphate dikinase regulatory protein 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 424 aa
+
+MIGsAKPLAAPLLPPSPaGRRLAPsSCAPDtsPALTPAaeSPgQSDgAPPPRPeeasaAS
+SpAlRASSQLSRWSRARALRSGRRLGlDRAALSSPPtaSpPPvtksprPEdaAavAvEDG
+EDDDvCVAERDAAAGKAIYMVSDGTGWTAEHSVNAALGQFEHCLVDRGCAVNTHLFSGID
+DMDRLIEvIKQAAKEGALVLYTLADPSMAEATKKACDFWGVPSTDVLRPTVEAIASHIGV
+APSGIPRSSPSRKGQLTEDYFRRIEAIDFTIKQDDGAQPQNLNRADIVLVGVSRTGKTPL
+SIYLAQKGYKVANVPIVMGVnLPKALFEInQDKIFGLTINPVVLQAIRKTRAKTLGFDGy
+kSNYAEMEHVRQELdHANQIFAQNPmWPVIeVTGKAIEETAAVVVRIYHDRKQKCSMPRI
+SKRv
+
+
+BOP CONSENSUS:
+Length: 457 aa
+
+MMSAKLGaATPSVLLPPSPRLHGlRPSPTAASCLPDTaTGPPLSAGPDQEHSGAPGQEEA
+AsGtVSSPSQPRSRASSQLSRWSRARALRSGRRLELPAIRgSAALSVPTKSPPsSEeEAa
+AtkEdDDDGDEAVGVGSEAAGNSIYMVSDGTGSTLEHSVNAVLGQFEHCLVDRRCATSTH
+LFSGIDDMDNLIEIVRQAAKEGALLLYTLADPSMAEATKKACDLWGVPSTDVLRPTIDAI
+ASHIGVAPSGISRSSASRKGQLSEDYFQRIEAIDFTIKQDDGAQPQNLARAHIVLVGVSR
+TGKTPLSIYLAQKGYKVANVPIVMGIDLPKALFEIDQDKIFGLTINPVVLQAIRKTRANT
+LGFHGQKSNYAEMEHVRQELDHANQIFVRHPTWPVIQVTGKAVEETAAVIVRIYHDRKQK
+CSMPRISKRVAPIRVYDSLSEMVNTPVEPEKVLAMDV
+
+
+PACMAD CONSENSUS:
+Length: 423 aa
+
+MIGSAKPLAAPLQgPPSPAGRRLAPssCAPDpSPALTrAAeSPGQSQSDgAPPPRPdEAa
+AsShALRASSQLSRWSRsRALRSGRRlGLDRAALSSAASAPPVTKsPRPEDAAVAVEDGE
+DDDVCVAERDAAAGKAIYIVSDGTGWTAEHSVNAALGQFEHCLVDRGCAVNTHLFSgIDD
+MDRLLEVIKQAAKEGALVLYTLADPSMAEAaKKACDFWGVPSTDVLRPTVEAIASHIGVA
+PSGIPRSSPSRKGQLTEDYFRRIDAIDFTIKQDDGAQPQNLNRADIVLAGVSRTGKTPLS
+IYLAQKGYKVANVPIVMGVNLPKaLFEINQDKIFGLTINPVVLQAIRKTRAKALGFDGYQ
+SNYAEMEHVRQELaHANQIFAQNPMWPVIaVTGKAIEETAAVVVRIYHDRKQKCSMPRIS
+KRY
+
+================================================================================

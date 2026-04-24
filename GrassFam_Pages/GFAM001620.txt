@@ -1,0 +1,127 @@
+================================================================================
+GrassFam ID: GFAM001620
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             464.0 aa
+Family Size (Extended Family Size): 17 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11177:SF180
+Panther Family ID:               PTHR11177
+Modal Panther ID:                PTHR11177:SF180
+Modal Panther Description:       OS04G0376400 PROTEIN
+Modal Panther Family ID:         PTHR11177
+Modal Panther Fam Desc:          CHITINASE
+Interpro Signature Accession:    G3DSA:3.10.50.10:FF:000003; G3DSA:3.20.20.80; G3DSA:3.10.50.10; PTHR11177; PF00704; SM00636; SSF51445
+Interpro Signature Description:  Class V chitinase CHIT5b; Glycosidases; -; CHITINASE; Glycosyl hydrolases family 18; 2g34; (Trans)glycosidases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: class V chitinase%2C transcript variant X1
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: nod factor hydrolase protein 1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: nod factor hydrolase protein 1-like
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: nod factor hydrolase protein 1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: class V chitinase-like%2C transcript variant X2
+  Gene Descriptions: class V chitinase-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: class V chitinase
+  Gene Descriptions: class V chitinase
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: nod factor hydrolase protein 1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: class V chitinase-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi12
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: chitinase-3-like protein 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: uncharacterized LOC100383770
+  Gene Synonyms: GRMZM2G090441
+  Gene Descriptions: uncharacterized LOC100383770
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 467 aa
+
+MAAstTLLLltAIAlASLSLAASAAPaPdttQQApTTVRAGYYLAADArLRPLAALDASL
+YTHLYYSALAVHPTRRTLqLPADPAQArLLAaFSRaLKsRNrALRTLLSVGTAGAeGAAA
+AAAtSqtDPAFAAMAADPASRAAFVaAAVALAReNGFDGLDVAWRFPASAVEMADFGFLV
+AEWRAAAPPGFLLTATVYFSNHVFDAPfAGVDYPSEAVARsLDWVNVMAFGLRPpGAAAN
+vTAFDAPLYDRASHFSASYGVVSWLDAGVPAGKVVMGLPLYGRSWFLRNKANSGVGAPVV
+AAGPKQRGSNATGAMSYAEVQaLAAAGGGGRRAVtTsYDNASVASYLSVGDVWVAFDGAA
+VVAEKLAFAARRGLLGYFLWPVNYDDANLTVSRRASEVWmQsKISSdsRNvTGVRQTQAP
+VeLPPALrSPAPTpgPVPAPTSASFSWLpWkKLDAhLHLgvLILLlc
+
+
+BOP CONSENSUS:
+Length: 465 aa
+
+MAyTTLLLYTVISLSLSLAASALAPPPDTTQQAPTTVRAGYYFAADADLwPLAALDASLY
+THLYYSSLSVHPTRRTLQLPADPAQARLLAnFSRELKGrNPALRTLLSlATAGAEDAAAg
+AAtASGDPAFAAMAADPTSRAAFvDAAVRVARENGFDGlDVAWRFPASAVEMADFGFLVA
+EWRAAAPqGFLLTATVYFSNHVFGAPFAGVDYPSEAVAGSLDWINVMAFGLRPAGAAANV
+TAFDAPLYDRASHFSVSYGVVSWLDAGVPAGKVVMGLPLYGRSWFLRNKANSGVGAPVVA
+AGPKQRGSNATGAMSYAEVQALTATAGGRAPVMTSYDNASVSSYLAVGDVWVAFDGAAVV
+AEKLGFAARCGLLGYFLWPVNYDDANLTVTRRASEVWEQSKISSDlRNVTGVRQGKAPfE
+LPPALGSPSPASePVPVPTSASFSWLCRKKLDAHLHLSVLILLLY
+
+
+PACMAD CONSENSUS:
+Length: 465 aa
+
+AASSSAarlLlAVAMAAVSLSLAAsSAPAPpptATVRAGFYLAAAARLRPLAALDASLYT
+HLYYSALAVHPTTRKLVLPADPDQAGLLAAFSPaLKSRNRALRTLLSVGAGAGVAGAGAq
+SQTDPAFAAMAADPASRAAFVAAAVALARdSGFDGLDVAWRFPASAVEMADFGFLVSEWR
+AAAPPGFLLTATVYFSsHVFDAPLPGVDYPSEAVARCLDWVNVVAFGLRPrGAATgATAF
+DAPLYDRASHFSASYGVVSWIDAGVPAGKVVMGLPLYGRSWFLRNKANSGVGAPVVAAGP
+KQRGSNATGVMSYAEVQKLAAAGGGGGPRRAVTTTYDNASVASYLSVGDVWVAFDGAAVV
+AEKLAFAARRGLLGYFLWPVNYDDANLTVSRTASEVWMQNEISSSSRNGTGVRQTQGPVR
+LPPALRSPAGTPGPVPAPTSGSGSWLPWTKLNAFLHLGLLILVWC
+
+================================================================================

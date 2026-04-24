@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM019348
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             505.5 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22807:SF66
+Panther Family ID:               PTHR22807
+Modal Panther ID:                PTHR22807:SF66
+Modal Panther Description:       SAM-DEPENDENT MTASE RSMB_NOP-TYPE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR22807
+Modal Panther Fam Desc:          NOP2 YEAST -RELATED NOL1/NOP2/FMU SUN  DOMAIN-CONTAINING
+Interpro Signature Accession:    G3DSA:3.30.70.1170:FF:000007; G3DSA:3.40.50.150:FF:000164; G3DSA:3.40.50.150; PTHR22807; PF01189; SSF53335
+Interpro Signature Description:  Putative 28S rRNA (Cytosine-C(5))-methyltransferase; Methyltransferase NSUN5, putative; Vaccinia Virus protein VP39; NOP2 YEAST -RELATED NOL1/NOP2/FMU SUN  DOMAIN-CONTAINING; 16S rRNA methyltransferase RsmB/F; S-adenosyl-L-methionine-dependent methyltransferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: probable 28S rRNA (cytosine-C(5))-methyltransferase%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: 25S rRNA (cytosine-C(5))-methyltransferase NSUN5%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: 25S rRNA (cytosine-C(5))-methyltransferase NSUN5
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: 25S rRNA (cytosine-C(5))-methyltransferase NSUN5-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: 25S rRNA (cytosine-C(5))-methyltransferase NSUN5
+  Gene Descriptions: 25S rRNA (cytosine-C(5))-methyltransferase NSUN5
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: 25S rRNA (cytosine-C(5))-methyltransferase NSUN5%2C transcript variant X1
+  Gene Descriptions: 25S rRNA (cytosine-C(5))-methyltransferase NSUN5
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau06
+  Gene Products: 25S rRNA (cytosine-C(5))-methyltransferase NSUN5%2C transcript variant X1
+  Gene Descriptions: 25S rRNA (cytosine-C(5))-methyltransferase NSUN5
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: 25S rRNA (cytosine-C(5))-methyltransferase NSUN5-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: probable 28S rRNA (cytosine-C(5))-methyltransferase%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: probable 28S rRNA (cytosine-C(5))-methyltransferase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: NOL1R
+  Gene Synonyms: GRMZM2G163713
+  Gene Descriptions: NOL1R
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 505 aa
+
+MPPPPPKNRSHgPAkTGqNRPPPRQPGRRMASRDAAERAAFFARREAAAVLRRVLRGDAS
+RRAAGSIKSLVYSPSVRNKRATFALVCQTLKYLPILKEVLASSGVLnSKWKKQEELVYVT
+AYDILFGQEIAVSGSVEQLIMLHKDTLRTALdKICaKRKVSSVEDLLSnKTtVKPKPRFL
+RVNTLKTTTESVIEELSKIHKVDKDDMVPDMLVLPPGTDLHnHPLVTDGKVFLQGKASCM
+VAVALCPKPGWKVIDACAAPGNKTVHLAALMNGEGSIIACELNKERAKTLQHTVRRSGAN
+NIqTVNGDFLDIDSNDPSYAEVRAILLDPSCSGSGISTERLDYLLPSHSRDDQDDASTSS
+RIrKLSAFQRKALSHALSFPSVERVVYSTCSIHQAENEDVVNSVLPLATSLGFELATPFP
+QWhRRGLPVFeGSEHLLRTDPEDDLEGFFIALFVRKAAagDAeEPSEDGalGvrRKqVrr
+RRnGLRAFSSLRLSRMiLCSiWGLW
+
+
+BOP CONSENSUS:
+Length: 505 aa
+
+MPPPsKNRSHVPAKvGQSRPPPRQPGRRMASRDAGERAAFFARREAATVLRRVLRGDASK
+RSGGSIKSLVFSPSVRNKRATFALVCQTLKYLPILKEVLASSGVLTSKWKKQEELVYVTA
+YDILFGQEIAVSGSVEQYIMLHKDTFRTALQKICVKRKVSSVEDLLSEKTTVKPKPRFVR
+VNTLKTTTGSVIEVLSKMHKVDKDDMVPDMLVLPPGTDMHKHPLVTDGKVFLQGKASCMV
+AAALSPKPGWKVIDACAAPGNKTVHLAALMNGEGSIIACELNKERAKTLQHTVRRSGANN
+IETVNGDFLNIDSNDPSYAEVRAILLDPSCSGSGISTERLDHLLPSHSIDDQDDAGSSAR
+IRKLSAFQRKALSHALSFPSVERLVYSTCSIHQAENEDVVSSVLPLASSLGFELATPFPQ
+WRRRGLPVFDGAEHLLRTDPEDDLEGFFIALFVRKAAAADALEPSeDGALGRKRKRVCTT
+RSGGLRAFSSLRLSRMDVLCSIWGL
+
+
+PACMAD CONSENSUS:
+Length: 503 aa
+
+MPPPPQQPKNRSRGPAaTGgNRRPPRRMASRDAAERAAFFARREAAAVLRRVLRGDATRR
+AAGSIKSLVYSPTVRNKRATFALVCQTLKYLPILKEVLgSSGVLNSKWKKQEELVYVTAY
+DILFGQGIAVSGSvEQLIMlHKDtLRSALDKvCARKKVSSVEDLLGNKTAVKPKPRFLRV
+NTLKTTTESVIEELNKIHMVDKDDMVPDMLVLPPGTDLHNHPLVTDGKVFLQGKASCMVA
+VALCPKPGWKVIDACAAPGNKTVHLAALMNGEGSIIACELNKERAKTLQHTVRRSGANNI
+QTVNGDFLDIDSNDPSYAEVRAILLDPSCSGSGISTERLDYLLPSHSRDDQDDASTSSRV
+mKLSAFQKKALSHALSFPSVERVVYSTCSIHQAENEDVVNAVLPLATSLGFELATPFPQW
+HRRGLPVFEGSEHLLRTDPEDGLEGFFIALFVRKAAGGtvEEPSEDaTVEvRRKQVRRRR
+NGVRAFSSLRLSRMILCSNGGLW
+
+================================================================================

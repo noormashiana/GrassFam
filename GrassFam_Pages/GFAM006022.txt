@@ -1,0 +1,137 @@
+================================================================================
+GrassFam ID: GFAM006022
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             550.0 aa
+Family Size (Extended Family Size): 21 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43859:SF46
+Panther Family ID:               PTHR43859
+Modal Panther ID:                PTHR43859:SF46
+Modal Panther Description:       4-COUMARATE--COA LIGASE
+Modal Panther Family ID:         PTHR43859
+Modal Panther Fam Desc:          ACYL-ACTIVATING ENZYME
+Interpro Signature Accession:    cd12118; G3DSA:3.30.300.30:FF:000008; G3DSA:3.40.50.12780; G3DSA:3.30.300.30; NF006020; PTHR43859; PF00501; SSF56801
+Interpro Signature Description:  ttLC_FACS_AEE21_like; 2,3-dihydroxybenzoate-AMP ligase; -; acyl-CoA synthetase; ACYL-ACTIVATING ENZYME; AMP-binding enzyme; Acetyl-CoA synthetase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: probable acyl-activating enzyme 1%2C peroxisomal
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: butanoate--CoA ligase AAE1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: butanoate--CoA ligase AAE1-like
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04B
+  Gene Products: butanoate--CoA ligase AAE1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: butanoate--CoA ligase AAE1-like
+  Gene Descriptions: butanoate--CoA ligase AAE1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: butanoate--CoA ligase AAE1%2C transcript variant X1
+  Gene Descriptions: butanoate--CoA ligase AAE1
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 3
+  Modal chromosome: Pau03
+  Gene Products: butanoate--CoA ligase AAE1-like; butanoate--CoA ligase AAE1-like%2C transcript variant X2; butanoate--CoA ligase AAE1-like%2C transcript variant X3
+  Gene Descriptions: butanoate--CoA ligase AAE1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi09K
+  Gene Products: probable acyl-activating enzyme 1%2C peroxisomal
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: probable acyl-activating enzyme 1%2C peroxisomal
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: putative AMP-dependent synthetase and ligase superfamily protein
+  Gene Synonyms: GRMZM2G110616
+  Gene Descriptions: putative AMP-dependent synthetase and ligase superfamily protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 549 aa
+
+MEGSVwCdANYVPLTPLSFLERAALVYGdRTAVVcGDKEYSWRETRERCLAGASALARLG
+VGRRDVVAVIASNTPAMYELHFSVPMTGGVLCTLNTRHDAAMVSVLLkHSEAKVFLVESQ
+FLAVARDALRLLADAKAnLPLLITISDgDgssnDGGVmEYEALLRSAPRGFEIRWPADER
+DPISLNYTSGTTSRPKGVIYSHRGAYLNTLATVLaNEMpTMPVYLWTVPMFHCNGWCMVW
+ATAAQGGTSVCmGSVAPKVVFEqIVRHGVTNMGGAPTVLNMIVNAPASERrPLPRRVRIS
+TGGAPPPPQVLAKMDELGFNVVHGYGLTETYGPATLCVWKPEWDALPlAERARIRARQGV
+PHvMLQgleIKDPVTMETVPSDGRTVGEVMLRGNTVMSGYYKDAAATEEAMRGGWLRTGD
+LGVRHPDGYIQLKDRSKDIIISGGENISSIEVESVLFGHPAVLDAAVVARPDDHWGETPC
+AFVTLKDGASATAdDIIEFCRARLPRYMAPRTVVFADLPKTSTGKTQKYLLREKARAMGS
+LPKqsRSKL
+
+
+BOP CONSENSUS:
+Length: 549 aa
+
+MEGSVKCDANYAPLTPLSFLERAALVYGARTAVVFGEKEYSWRDTRERCLAGASALARLG
+VGRRDVVAVLAANTPAMYELHFSVPMTGGVLCTLNTRHDAAMVSVLLSHSEARVFLVESQ
+FLAVARDALALLADAGAslPLLVtIADGDGsGsDGVPEYEALLRSAPRGFEIRWPADECD
+PISLNYTSGTTSRPKGVIYSHRGAYLNTLATALANEMPTMPVYLWTVPMFHCNGWCMVWA
+TAAQGGTSVCMAGSLAPKvVFEHIVRHRVTNMGGAPTVLSMLVNAPASEQRPLPVrVRIS
+TGGAPPPPHILAKMDELGFNVVHGYGLTETYGPATLCVWKPEWDALPAAERARIRARQGV
+PHVMLEGLEIKDPVTMESVPSDGRTVGEVMLRGNTVMSGYYKDAAATAEAMRGGWLRSGD
+LGVRHPDGYIQLKDRSKDIIISGGENISSIEVESALFGHPAVLDAAVVARPDDHWGETPC
+AFVTLKDGASATEADIIEFCRARLPRYMAPRTVVFAELPKTSTGKTQKYLLREKARAMGS
+LPKQSTSKL
+
+
+PACMAD CONSENSUS:
+Length: 547 aa
+
+MEGSKWCAANYVPLTPLSFLERAALVYGGRTAVVCGDRRFSWRETRERCLAGASALAHLG
+VGRRDVVAVIASNIPAMYELHFSVPMTGGVLCTLNTRHDAAMVSVLLKHSDAKVFLVESQ
+FLAVAHDALRLLADAKdNLPLVITISDdDNNDGSVMEYEALLRSAPRGFDIRWPADERDP
+ISLNYTSGTTSRPKGVIYSHRGAYLNTLATVLVNDMATMPVYLWTVPMFHCNGWCMVWGT
+AAQGGTSVCIGSVAPKVIFEQIVRHGVTNMGGAPTVLNMIVNAPASERKPLPRRVRISTG
+GAPPPPQVLAKMEELGFDVVHGYGLTETYGPATLCAWKPEWDALPLAERARIRALQGVPH
+lMLQEvAIKDPVTMETLPSDGRAVGEVMLRGNTVMSGYYKDAAATEETMRGGWLRTGDLG
+VRHPDGYLQLKDRSKDIIISGGENISSIEVESVLFGHPAVLDAAVVARPDDHWGETPCAF
+VTLKDGARATADDIIEFCRARLPHYMAPRTVVFSDLPKTSTGKTQKYLLREKARAMGSLR
+KPDRSRL
+
+================================================================================

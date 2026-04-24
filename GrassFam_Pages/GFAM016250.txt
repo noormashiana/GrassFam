@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM016250
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             568.0 aa
+Family Size (Extended Family Size): 23 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22957:SF696
+Panther Family ID:               PTHR22957
+Modal Panther ID:                PTHR22957:SF696
+Modal Panther Description:       OS09G0528800 PROTEIN
+Modal Panther Family ID:         PTHR22957
+Modal Panther Fam Desc:          TBC1 DOMAIN FAMILY MEMBER GTPASE-ACTIVATING PROTEIN
+Interpro Signature Accession:    G3DSA:1.10.472.80:FF:000014; G3DSA:1.10.8.270:FF:000022; PTHR22957; PF00566; SM00164; SSF47923
+Interpro Signature Description:  GTPase-activating protein gyp7 isoform X1; Ypt/Rab-GAP domain of gyp1p superfamily protein; TBC1 DOMAIN FAMILY MEMBER GTPASE-ACTIVATING PROTEIN; Rab-GTPase-TBC domain; tbc_4; Ypt/Rab-GAP domain of gyp1p
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: GTPase-activating protein gyp7%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: rab GTPase-activating protein 22-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: rab GTPase-activating protein 22
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: rab GTPase-activating protein 22-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl08
+  Gene Products: rab GTPase-activating protein 22-like
+  Gene Descriptions: rab GTPase-activating protein 22-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa08
+  Gene Products: rab GTPase-activating protein 22
+  Gene Descriptions: rab GTPase-activating protein 22
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN50
+Pau
+  Gene count: 2
+  Modal chromosome: Pau16
+  Gene Products: rab GTPase-activating protein 22-like
+  Gene Descriptions: rab GTPase-activating protein 22-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: rab GTPase-activating protein 22-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: GTPase-activating protein gyp7-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: GTPase-activating protein gyp7
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: Ypt/Rab-GAP domain of gyp1p superfamily protein%2C transcript variant X1; uncharacterized LOC100277201
+  Gene Synonyms: GRMZM2G096622; GRMZM2G122064,si687076d05
+  Gene Descriptions: Ypt/Rab-GAP domain of gyp1p superfamily protein; uncharacterized LOC100277201
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 575 aa
+
+MKALRRSSTSSSSSasSSPRaPSSPrSsSWIHRRSLLVvsSSSSaASSLAASGNSAAEgS
+DSAPAsVAAASSSpSLAPSSPNsDRGGIKSPWSRRKRKRALSCQHWNRLFSaNGKLRDGG
+RKFLKKVRSGGIEPGIRAEVWPFLLGVYDLNSSEEERNTIKIKKRKEYEKLRRqCHqILN
+CYKGNGLNVINEfnNEDfSDGaEGSESPYLegVSkRvSVSPKELKSLGSKAEEPENANWA
+AVECMDEDTSELTYVDPCMAESESSDSESSyEEDpDRTPVStNmEENCDPkPKFVRSASS
+KSDFFRSNKTPEDFATWQRIIRVDAIRANTEWALFSrNQAEVSKEKALQSAISVGLKDYD
+HLEPYMIYHAARLVALLEAYALYDPEIGYCQGMSDLLSPIIAVMEEDHEAFWCFVGFMRK
+ARHNFRLDEVGIRRQLKTVSQIIKRKDSHLYRHLQKLQAEDCFFVYRMVVVLFRRELTFE
+QTvCLWEVMWADQAAIRAGIGRSTWGRIRLHAPPTDDLLLYAIAACVLQRRKLIIEKYSS
+MDEILRECNSMAGQLDVWKLLDDAHHLVVNLHDKI
+
+
+BOP CONSENSUS:
+Length: 564 aa
+
+MKALRRSSTSSSSSSSSSPRTPSSPPPPSSWIHRRSLLLVASSASSLAALGKSAAAASAS
+ASPLLAADSSSSSPPNSDRGAIKSPWSRRKRKQALSCQNWSRLFSVNGKFRDGGRKFLKK
+VRSGGIEPGIRAEVWPFLLGVYDLNSSEEERNIIKTKKRNEYEKLRRKCHQILNCQKGFG
+LKVINEINNEGCSRGVPYLQDVSASVSVSAKEFNCSGSEANSPDNAACGAAECMDDDTSE
+LTCVDPSMAESESSDSgSSDEEDHGQISVCADIEENCAPEPKFVRSTSSKSDFFRSNKTP
+EDFATWQRIIRLDAIRANTDWALFSHNQAEISKEKALQRALSVGLKDYDHLEPYMIYHAA
+RLVALLEAYALYDPEIGYCQGMSDLLSPIIAVMKEDHEAFWCFVGFMKKARHNFRLDEVG
+IRRQLKTVSQIIKRKDSHLYRHLQKLQAEDCFFVYRMVLVLFRRELTFEQTLCLWEVMWA
+DQAAVRAGIGRSTWGRIRLHAPPTDDLLLYAIAACVLQRRKLIIERYSSMDEILRECHSM
+AGQLDVWRLLDDAHDLVVNLHNKI
+
+
+PACMAD CONSENSUS:
+Length: 572 aa
+
+MKALRRSSTSSSAPSPRAPSSPRSYSWIHRRSLLVTSSASSAASSLAASGNSAAEGSDSA
+PASVAAASSSPSLAPSSPNvDRGGIKSPWSRRKRKRALSCQHWNRLFSANGKLRDGGRKF
+LKKVRSGGIEPGIRAEVWPFLLGVYDLNSSEEDRNTIKIKKRKEYEKLRRQCHRILNCYK
+GNGLNVINEFMNEDFSDGAEGSESPYSeGVSKRACVLPKELKSLGSKAEESESSNWAsVE
+CMDEDTSELTYVDPCMAESESSDSESSYEEDPDRTPVSTNMEENCDPKPKFVRSASSKSD
+IFISDKTPEDFATWQRIIRVDAIRANTEWALFARNQAEVSKEKALQSAISVGLKDYDHLE
+PYMIYHAARLVALLEAYALYDPEIGYCQGMSDLLSPIIAVMEEDHEAFWCFVGFMRKARH
+NFRLDEVGIRRQLKTVSQIIKRKDSHLYRHLQKLQAEDCFFLYRMVVVLFRRELTFEQTV
+CLWEVMWADQAAIRAGIGRSTWARIRLHAPPTDDLLLYAIAACVLQRRKLIIEKYSSMDE
+ILRECNSMAGQLDVWKLLDDAHHLVVNLHDKI
+
+================================================================================

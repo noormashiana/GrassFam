@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM018671
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             513.0 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11817:SF5
+Panther Family ID:               PTHR11817
+Modal Panther ID:                PTHR11817:SF5
+Modal Panther Description:       PYRUVATE KINASE-RELATED
+Modal Panther Family ID:         PTHR11817
+Modal Panther Fam Desc:          PYRUVATE KINASE
+Interpro Signature Accession:    cd00288; G3DSA:3.20.20.60:FF:000001; G3DSA:2.40.33.10:FF:000001; G3DSA:3.40.1380.20:FF:000005; G3DSA:2.40.33.10; G3DSA:3.20.20.60; G3DSA:3.40.1380.20; TIGR01064; NF004491; NF004978; PTHR11817; PR01050; PF00224; SSF50800; SSF51621; SSF52935
+Interpro Signature Description:  Pyruvate_Kinase; Pyruvate kinase; -; pyruvate kinase; PYRUVATE KINASE; Pyruvate kinase family signature; Pyruvate kinase, barrel domain; PK beta-barrel domain-like; Phosphoenolpyruvate/pyruvate domain; PK C-terminal domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: pyruvate kinase%2C cytosolic isozyme%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: pyruvate kinase%2C cytosolic isozyme
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: pyruvate kinase%2C cytosolic isozyme
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: pyruvate kinase%2C cytosolic isozyme-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: pyruvate kinase%2C cytosolic isozyme
+  Gene Descriptions: pyruvate kinase%2C cytosolic isozyme
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: pyruvate kinase%2C cytosolic isozyme
+  Gene Descriptions: pyruvate kinase%2C cytosolic isozyme
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: pyruvate kinase%2C cytosolic isozyme-like
+  Gene Descriptions: pyruvate kinase%2C cytosolic isozyme-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: pyruvate kinase%2C cytosolic isozyme-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: uncharacterized LOC112892733
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: pyruvate kinase%2C cytosolic isozyme
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: PK protein
+  Gene Synonyms: GRMZM2G003883,PK
+  Gene Descriptions: PK protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 510 aa
+
+MAagGEQPqwGEygvARRRPKTKIVCTLGPASRSVEMISRLLRAGMCVARFNFSHGSHEY
+HQETLDNLRAAMERTGILCAVMLDTKGPEIRTGFLKDGKPIQLKKGQEITISTDYSIKGD
+EKMISMSYKKLAVDLKPGSVILCADGTITLTVLHCDKEQGLVRCRCENTaMLGERKNVNL
+PGVIVDLPTLTEKDKEDILKWGVPNKIDMIALSFVRKGSDLVEVRKVLGEHAKSIMLMSK
+VENQEGVANFDDILANSDAFMVARGDLGMEIPIEKIFFAQKVMIFKCNIQGKPVVTATQM
+LESMIKSPRPTRAEATDVANAVLDGTDCVMLSGETAAGAYPELAVQTMAKICLQAESCVD
+YAAVFKSIMASAPIPMSPLESLASSAVRTANSAKAtLILVLTRGGTTARLVAKYRPSMPI
+LSVVVPELKTDSFDWTCSDEGPARHSLIVRGVIPMLSAGTAKAFDSEATEEALGFAIkNA
+KAMGLCNTGESVVALHRIGTASVIKLLTVN
+
+
+BOP CONSENSUS:
+Length: 513 aa
+
+MVSNGELSQPQAGEYGlAVMRRRPKTKIVCTLGPASRSVDMIEKLLRAGMCVARFNFSHG
+SHEYHQETLDNLHAAMERTGILCAVMLDTKGPEIRTGFLKDGKPIQLKKGQEIVISTDYS
+IKGDDKMISMSYKKLAVDLKPGSVILCADGTITLTVLHCDKEQGLVRCCCENTAMLGERK
+NVNLPGVVVDLPTLTEKDKEDILQWGVPNKIDMIALSFVRKGSDLVEVRKVLGEHAKSIM
+LMSKVENQEGVANFDDILAQSDAFMVARGDLGMEIPVEKIFYAQKVMIFKCNIQGKPVVT
+ATQMLESMIKSPRPTRAEATDVANAVLDGTDCVMLSGETAAGAYPELAVQTMAKICLQAE
+SCVDYSAVFKSIMSSAPIPMSPLESLASSAVRTANSAKATLILVLTRGGTTARLVAKYRP
+SMPILSVVVPELKTVEFDWICSDEGPARQSLIVRGVIPMLSAGTAKAFDSEATEEALRFA
+MKNAKEMGLCNAGESIVALHRIGNASVIKLLTV
+
+
+PACMAD CONSENSUS:
+Length: 510 aa
+
+mAAAGGEPAWGEEPAARRRPKTKIVCTLGPASRSVEMISRLLRAGMCVARFNFSHGSHEY
+HQETLDNLRAAMERTGILCAVMLDTKGPEIRTGFLKDGKPIQLKKGQEITISTDYSIKGD
+EKMISMSYKKLAVDLKPGSVILCADGTITLTVLHCDKEQGLVRCRCENTSMLGERKNVNL
+PGVIVDLPTLTDKDKEDILKWGVPNKIDMIALSFVRKGSDLVEVRKVLGEHAKSIMLMSK
+VENQEGVANFDDILANSDAFMVARGDLGMEIPIEKIFFAQKVMIFKCNIQGKPVVTATQM
+LESMIKSPRPTRAEATDVANAVLDGTDCVMLSGETAAGAYPELAVQTMAKICLQAESCVD
+HAAVFKSIMASAPIPMSPLESLASSAVRTANSAKAALILVLTRGGTTARLVAKYRPSMPI
+LSVVVPELKTDSFDWTCSDEGPARHSLIVRGVIPMLSAATAKAFDSEATEEALGFAIENA
+KAMGLCNTGESVVALHRIGTASVIKLLTVN
+
+================================================================================

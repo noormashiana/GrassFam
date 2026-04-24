@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM012867
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             502.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR36050:SF1
+Panther Family ID:               PTHR36050
+Modal Panther ID:                PTHR36050:SF1
+Modal Panther Description:       O-FUCOSYLTRANSFERASE 30
+Modal Panther Family ID:         PTHR36050
+Modal Panther Fam Desc:          O-FUCOSYLTRANSFERASE 30
+Interpro Signature Accession:    PTHR36050
+Interpro Signature Description:  O-FUCOSYLTRANSFERASE 30
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: O-fucosyltransferase 30
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: O-fucosyltransferase 30
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: O-fucosyltransferase 30%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: O-fucosyltransferase 30-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: O-fucosyltransferase 30
+  Gene Descriptions: O-fucosyltransferase 30
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: O-fucosyltransferase 30
+  Gene Descriptions: O-fucosyltransferase 30
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau21
+  Gene Products: O-fucosyltransferase 30-like
+  Gene Descriptions: O-fucosyltransferase 30-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: O-fucosyltransferase 30-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: O-fucosyltransferase 30
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: uncharacterized LOC8057087
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100192532
+  Gene Synonyms: GRMZM2G428071
+  Gene Descriptions: uncharacterized LOC100192532
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 503 aa
+
+MDLPASRGRWRRRSARSHlPLVVAVLVLLLPASLLFSSAYSSlLRSLLPFsaSAgGsGGG
+tPRCGgSAELEGERFLWYAPHSGFSNQVGELRNAAVAAALLNRTLVVPPVLDHHAVVLGS
+CPKFRVtDPasLRAAVWDHAMQLLRErRYVSMGDIVDLSPIKsmVRTIDFRVFVSLWCGV
+DMRKTCFSGLCCAVSGGsSlPsDYNRCRSLLSGLGGSEkGCVYPVQDDCRTTVWTYQENN
+DGALDsFQPDEELKRRKKISYVRRRRDIYKALGPGSqAEDATLLAFGTLFSGPYKGSESY
+FDIHESPKDqRIQslLEKIEFLPFAPEIMAAGKEFAKNKIKEPFLCAQLRLLDGQFKNHW
+KATFSALKEKLKAvELEMKRNKNSGPVHMFIMTDLPPANWTKTYLADIAKDGRYKLYTLK
+ESDELVLQTAEkLMAAEHGvRSGFLPKIIENTkKDCDPVQLPEILLYVEESVCSCASLGF
+VGTAGSTIAGSIETMRKNNVCKL
+
+
+BOP CONSENSUS:
+Length: 502 aa
+
+MDLPASRGRWRRRSARSHVPLLVAVlFLLLPASLLLSSAYSSLLRSLLPFSASAPGSGGG
+TlRCGRSAELEGERFLWYAPHSGFSNQVGELRNAAVAAALLNRTLVVPPVLDHHAVALGS
+CPKFRVAEPSDLRAAVWDHAMQLLREQRYVSMGDIVDLSPLKPLVKTIDFRVFVSLWCGV
+DMRKTCFSGLCCAVSGGGSLPSDYDRCRSLLSGLEGSESSGCVYPVQDDCRTTVWTYQEN
+NDGALDSFQPDEELKRKKKISYVRRRKDIYKSLGPGNKAEDATLLAFGTLFSAPYKGSES
+YFDIHESPKDHRLQNLLEKIEFLPFAPEIMAAGKELAKSKIKEPFLCAQLRLLDGQFKNH
+WKSTFSALKEKLKSLEVEMKTNKNSGPVHIFLMTDLPPANWTKTYLADIAKDGRYQLYTL
+KENDVLQTAEKLMAAEHGIRSGFLPKIRgNTNKDCDPVQLPEILLYVEESVCSCASLGFV
+GTAGSTIAGSIETMRKNNVCKL
+
+
+PACMAD CONSENSUS:
+Length: 502 aa
+
+MDLPASRGRWRRRSARSHLPLVVAVLVLLLPTsLLFSSAYSTMLRALLPFPSSpGGGGgV
+PRCGGSvELEGERFLWYAPHSGFSNQVGELRNAAVAAALLNRTLVVPPVLDHHAVVLGSC
+PKFRVTDPASLRAAVWDHAMQLLRERRYVSMGDIVDLSPIKSMVRTIDFRVFVSLWCGVD
+MRKTCFSGLCCAVSGGSSMPDDYNRCRSLLSGLGGSEKGCVYPVQDDCRTTVWTYQQNND
+GALDQFQPDEELKRRKKISYVRRRRDIYKALGPGSQAEDATLLAFGTLFSGPYKGSESYF
+DIHESPKDQRIQSVLEKIEFLPFAPEIMAAGKEFAKNKIKEPFLCAQLRLLDGQFKNHWK
+ATFSALKEKLKAVELEMKRNKtSGPVHMFIMTDLPPANWTKTYLANVAKDERYKLYTLKE
+SDELVLQTAERLMAAEHGVRSGFLPKIIESTKKDCDPVQLPEILLYIEESVCSCASLGFV
+GTAGSTIAGSIETMRKNNVCKL
+
+================================================================================

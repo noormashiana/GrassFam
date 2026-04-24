@@ -1,0 +1,116 @@
+================================================================================
+GrassFam ID: GFAM016332
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             566.0 aa
+Family Size (Extended Family Size): 11 (11) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48105:SF10
+Panther Family ID:               PTHR48105
+Modal Panther ID:                PTHR48105:SF10
+Modal Panther Description:       OS10G0415300 PROTEIN
+Modal Panther Family ID:         PTHR48105
+Modal Panther Fam Desc:          THIOREDOXIN REDUCTASE 1-RELATED-RELATED
+Interpro Signature Accession:    G3DSA:3.30.390.30:FF:000008; G3DSA:3.50.50.60:FF:000051; G3DSA:3.50.50.60; G3DSA:3.30.390.30; NF004776; TIGR01424; PTHR42737; PR00368; PR00411; PF02852; PF07992; SSF55424; SSF51905
+Interpro Signature Description:  Glutathione reductase; -; glutathione-disulfide reductase; GLUTATHIONE REDUCTASE; FAD-dependent pyridine nucleotide reductase signature; Pyridine nucleotide disulphide reductase class-I signature; Pyridine nucleotide-disulphide oxidoreductase, dimerisation domain; Pyridine nucleotide-disulphide oxidoreductase; FAD/NAD-linked reductases, dimerisation (C-terminal) domain; FAD/NAD(P)-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: glutathione reductase%2C chloroplastic%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: glutathione reductase%2C chloroplastic-like%2C transcript variant X1
+  Gene Descriptions: glutathione reductase%2C chloroplastic-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: glutathione reductase%2C chloroplastic%2C transcript variant X1
+  Gene Descriptions: glutathione reductase%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau21
+  Gene Products: glutathione reductase%2C chloroplastic-like%2C transcript variant X1
+  Gene Descriptions: glutathione reductase%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: glutathione reductase%2C chloroplastic-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: glutathione reductase%2C chloroplastic/mitochondrial
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 563 aa
+
+MMAAATLPSsSAAAAVRtLaRAlSPRqPLLLlsSRRGRHLhrHPLAAAAAstrLRLRRPF
+SVSASAAAGGnNGAAPgggggREYDYDLFTIGAGSGGMRASRvASSLYGARAAVCEMPFA
+TVASDALGGVGGTCVLRGCVPKKLLVYASKYSHEFEESrGFGWmYETDPKHDWsTLITNK
+NLELQRLVGIQTNMLKNSGVTIIEGRGKIVDPHTVSVDGKLYTAKNILIAVGGRPSMPNI
+PGIEHVIDSDAALDLPSRPEKIAIVGGGYIALEFAGIFNGLKSDVHVFIRQKKVLRGFDE
+EVRDFVAEQMSLRGITFHtEQTPQAVTKSDDGLLSLKTNKGTIsGFSHVMFATGRKPNTK
+NLGLEEVGVKMDKHGAIVVDEYSRTSVDSIWAVGDVTNRVNLTPVALMEGGALARTIFGN
+EPTKPDYSAVPSAVFSQPPIGQVGLTEEKAIEKYGDVDVYTSNFRPLRATLSGLPDRVYM
+KVIVCAnTNKVLGVHMCGEDAPEIIQGIAIAVKAGLTKQNFDATVGVHPTTAEEfVTMRN
+PTRKVRRDTaAEAKTKDEAvSQK
+
+
+BOP CONSENSUS:
+Length: 559 aa
+
+MATATTLPSSSSSAAAAVQTLSRALSFPRRGGFLHLRPLAAAAAATRGRHPPLRLRRPFS
+VSASGDNGAAAGGDGGGCDYDYDLFTIGAGSGGMRASRVASSLYGARAAVCEMPFATVAS
+DSLGGVGGTCVLRGCVPKKLLVYASKYSHEFEESHGFGWRYGTEPKHDWSTLMTNKNLEL
+QRLVGVQTNMLKNSGVTIIEGRGKVVDPHTVSVDGKLYTARNILIAVGGRPSMPDIPGIE
+HVIDSDAALDLPSRPEKIAIVGGGYIALEFAGIFNGLKSGVHVFIRQKKVLRGFDEEVRD
+FVADQMSLRGITFHTEQTPQAVTKSDDGLLTLTTNKGTVNGFSHVMFATGRKPNTKNLGL
+EEVGVKMDKHGAIVVDEYSRTSVDSIWAVGDVTNRVNLTPVALMEGGALARTIFGNEPTK
+PDYSAVPSAVFSQPPIGQVGLTEEKAIEKYGDVDVYTSNFRPLRATLSGLPDRVYMKVIV
+CANTNKVLGVHVCGEDAPEIIQGIAIAVKAGLTKQNFDATVGVHPTTAEELVTMRSPTRK
+VRRDAVDEAKMKDEATSQK
+
+
+PACMAD CONSENSUS:
+Length: 562 aa
+
+MAAATLPSASAkAAVRNLARAVSPRqPLLLlHAsSRRGRLLPlPLAAsAASqGARLRRAL
+SVSASAAAGGNNGAvPGAAEREYDYDLFTIGAGSGGMRASRvASALYGARAAVCEMPFAT
+VASDALGGVGGTCVLRGCVPKKLLVYASKYSHEFEESRGFGWvYETDPKHDWRTLITNKN
+LELQRLVGIQTNTLKNSGVTIIEGRGKIVDPHTVSVDGKlYTAKNILVAVGGRPSKPNIP
+GIEHVIDSDAALDLPSRPEKIAIVGGGYIALEFAGIFNGLKSDVHVFIRQKKVLRGFDEE
+VRDFVAEQMSLRGVKFHIEQTPQAVTKSDDGLLSLKTNKETISGFSHVMFATGRKPNTKN
+LGLEDVGVKMDEHGAIVVDEYSRTSVDSIWAVGDVTNRLNLTPVALMEAGAIARTIFGNE
+PTKPDYSAVPSAVFSQPPIGQVGLTEeKAtEtYGDIDIYtSNFKPLRATLSGLPDRVYMK
+VIVCAKTNKVLGVHMCGEDAPEIIQGIAIAVKAGLTKQNFDATVGVHPTTAEEFVTMRNP
+TRKVRRDTtAEAKTKDEAVSQK
+
+================================================================================

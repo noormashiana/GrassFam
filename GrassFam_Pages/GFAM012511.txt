@@ -1,0 +1,127 @@
+================================================================================
+GrassFam ID: GFAM012511
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             410.0 aa
+Family Size (Extended Family Size): 20 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11085:SF10
+Panther Family ID:               PTHR11085
+Modal Panther ID:                PTHR11085:SF10
+Modal Panther Description:       NAD-DEPENDENT PROTEIN DEACYLASE SIRTUIN-5, MITOCHONDRIAL-RELATED
+Modal Panther Family ID:         PTHR11085
+Modal Panther Fam Desc:          NAD-DEPENDENT PROTEIN DEACYLASE SIRTUIN-5, MITOCHONDRIAL-RELATED
+Interpro Signature Accession:    cd01409; G3DSA:3.30.1600.10; G3DSA:3.40.50.1220; NF003738; PTHR11085; PF02146; SSF52467
+Interpro Signature Description:  SIRT4; SIR2/SIRT2 'Small Domain'; -; NAD-dependent protein deacetylase; NAD-DEPENDENT PROTEIN DEACYLASE SIRTUIN-5, MITOCHONDRIAL-RELATED; Sir2 family; DHS-like NAD/FAD-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: NAD-dependent protein deacylase SRT2%2C transcript variant X1
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: NAD-dependent protein deacylase SRT2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: NAD-dependent protein deacylase SRT2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: NAD-dependent protein deacylase SRT2-like%2C transcript variant X1; NAD-dependent protein deacylase SRT2-like%2C transcript variant X22
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl12
+  Gene Products: NAD-dependent protein deacylase SRT2-like; NAD-dependent protein deacylase SRT2-like%2C transcript variant X1
+  Gene Descriptions: NAD-dependent protein deacylase SRT2-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa12
+  Gene Products: NAD-dependent protein deacylase SRT2%2C transcript variant X3
+  Gene Descriptions: NAD-dependent protein deacylase SRT2
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu06
+Pau
+  Gene count: 2
+  Modal chromosome: Pau22
+  Gene Products: NAD-dependent protein deacylase SRT2-like%2C transcript variant X1
+  Gene Descriptions: NAD-dependent protein deacylase SRT2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: NAD-dependent protein deacylase SRT2-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: NAD-dependent protein deacylase SRT2%2C transcript variant X1
+Msi
+  Gene count: 1
+  Modal chromosome: Msi15
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: NAD-dependent protein deacylase SRT2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: NAD-dependent protein deacylase SRT2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 407 aa
+
+MAAAPAAHAYRASASVEQPTYTCNGTQIIAGLTGALRAASRGSCPhFCNFQASvNNGLLY
+RRKnPLPLRCSFRSlQARNNHSSAVAPKDYCETYIQFLRDKRIVPDSDPPSSKDVDLLYQ
+FIDKSKKLMVLTGAGMSTESGIPDYRSPNGAYSSGFKPLTHQEFVRSIRARRRYWARSYA
+GWRRFRRAQPNAAHYALASLERIGRVHSMVTQNVDRLHHRAGSKPlELHGSVYEVICLDC
+GTSISRESFQEQVKDLNPKWAlAIDSLEVGQPGSDKSFGMQQRPDGDIEIDEKFWEQDFD
+IPSCsQCGGVLKPDVVMFGDNVPQERAESAKEAARNCDALLVVGSALMTMSAFRLARLAH
+EANAPIAAVSIGETRADSILSLKINARCGEILPRILQMGSLAVPNVS
+
+
+BOP CONSENSUS:
+Length: 395 aa
+
+MAAVLaAHGSRvSAsIIAGFGSALRGIPKGFCPrFYNIQASIyNGLVHRRKIPLPLRCSF
+RSIQARNNHSSAVAPKDYCETYIQFLRDKRIVPDSDPPSSKDVDLLYRFIDKSNKLMVLT
+GAGMSTESGIPDYRSPNGAYSSGFKPLTHQEFVRSIRARRRYWARSYAGWRRFRRAQPNT
+AHYALASLERIGRVHTMVTQNVDRLHHRAGSKPIELHGSVYEVICLDCGTSISRESFQEQ
+VKDLNPKWALAIDSLEEGQPGSSRSFGMQQRPDGDIEIDEKFWEQDFDIPSCSQCGGVLK
+PDVVMFGDNVPrERADSAKEAARNCDALLVVGSAVMTMSAFRLARLAHEANAPIAAINIG
+GTRADSIISLKINARCGEILPRVLQMGSLAVPSIS
+
+
+PACMAD CONSENSUS:
+Length: 410 aa
+
+MAAAPAAHAYRASASVEVFMQPTYTCNGTQIIAGLTGALrAASRGSCAHFCNFQASVNNG
+LLYRRkNPLSLRCSFRSLQARNNHSSAVAPKDYCETYIQFLRDKRIVPDSDPPSSKDVDL
+LYQFIDKSKRLMVVTGAGMSTESGIPDYRSPNGAYSTGFKPLTHQEFVRSIRARRRYWAR
+SYAGWRRFTRAQPNAAHYALASLERIGRVHSMVTQNVDRLHHRAGSKPLELHGSVYEVIC
+LECGTSISRESFQEQVKDLNPKWAQAIDSLEVGQPGSDKSFGMQQRPDGDIEIDEKFWEQ
+DFEIPSCHQCGGVLKPDVVMFGDNVPQERAESAKEAARNCDALLVVGSALMTMSAFRLAR
+LAHEANAPIAAVSIGETRADSILSLKINARCGEILPRILQMGSLVVPNVS
+
+================================================================================

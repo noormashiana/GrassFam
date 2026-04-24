@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM013661
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             535.0 aa
+Family Size (Extended Family Size): 19 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46986:SF2
+Panther Family ID:               PTHR46986
+Modal Panther ID:                PTHR46986:SF2
+Modal Panther Description:       OS02G0227000 PROTEIN
+Modal Panther Family ID:         PTHR46986
+Modal Panther Fam Desc:          ENDORIBONUCLEASE YBEY, CHLOROPLASTIC
+Interpro Signature Accession:    G3DSA:3.30.1240.10; G3DSA:3.40.50.1000; G3DSA:3.40.390.30; TIGR00043; PTHR46986; PF02130; SSF55486; SSF56784
+Interpro Signature Description:  -; Metalloproteases ("zincins"), catalytic domain; rRNA maturation RNase YbeY; ENDORIBONUCLEASE YBEY, CHLOROPLASTIC; Endoribonuclease YbeY; HAD-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: endoribonuclease YBEY%2C chloroplastic%2C transcript variant X1
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: endoribonuclease YBEY%2C chloroplastic-like%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: endoribonuclease YBEY%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: endoribonuclease YBEY%2C chloroplastic-like; endoribonuclease YBEY%2C chloroplastic-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: endoribonuclease YBEY%2C chloroplastic-like
+  Gene Descriptions: endoribonuclease YBEY%2C chloroplastic-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: endoribonuclease YBEY%2C chloroplastic
+  Gene Descriptions: endoribonuclease YBEY%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau06
+  Gene Products: endoribonuclease YBEY%2C chloroplastic-like%2C transcript variant X1
+  Gene Descriptions: endoribonuclease YBEY%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: endoribonuclease YBEY%2C chloroplastic-like%2C transcript variant X1; endoribonuclease YBEY%2C chloroplastic-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: endoribonuclease YBEY%2C chloroplastic-like%2C transcript variant X3
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: uncharacterized LOC8085544%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: haloacid dehalogenase-like hydrolase family protein%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 537 aa
+
+MARLHHLLSRALASHHLLPSPttSSlRPTPRLPLPLHSPPPpPpPHGRtLPPFlAAASRH
+YASStfGRRRRsSAPPMLLRRRRARRPTRKGPGELSVQIGIEEALPDDPlILSIAETLRT
+DVGKAmKLAFDNLEgSEYKTRDPCISNVNKYDSVEVSLLLCDDDFIRKLNKEWRDEDHAT
+DVLSMSQHIPGLDIPILQLGDIVISVETARRQAEERGHTLLDEIRILMVHGLLHLLGFDH
+ELSKEAEEEMEkEEEHILNTLEWkGKGLIKSAYDfaTDMdHsQNSVEANRDIEKvSLrEg
+HQPKLSHIICDIDGTiVDYEGhLHEESIESLREAISrGVNVIMVTGKSRASTIRTFKLLD
+feGKGDFISEtSPGVFLQGSLVYGRHGQEIYRANLDVDICKEAcLYSLKHKIPLVAYCEE
+QCLTLFEHPFVDLLHTVHHETKVKVMPSVEDLLEYSSIQKLLFLDsaeEDSSVLRQHWSE
+LTEGKARVIKmQPNTIEIVPLNASKGGGIRILLDHLGITEDsDLDAVGDYTRWLSNK
+
+
+BOP CONSENSUS:
+Length: 534 aa
+
+MARLHHLLSRALASNHLLRPSPpPFSARPTLPLHSQPPsPPPPHPHGRSPPPFLAAASRH
+YASStSRRRRRGSAPPMlPRRRRARRKGPAELSVQIGIEEALPDDPLILSIAETLRTDVG
+KAMKLAFHNLGNSEYKTRDPCISNVDEYDSVEVSLLLCDDDFIRKLNKEWRDEDHATDVL
+SMSQHIPGLQIPVLQLGDLVISVDTARRQAEERGHTLLDEIRILMVHGLLHLLGFDHELS
+KEAEEEMEQEEEHILNTLEWKGKGLIRSAYHFSTDMDHSENSDEANRDIEKRSLREGHQP
+KLTHIVCDIDGTVVDYEGHLHSESIESLREAVSRGVTVIMLTGKTRASTIATFKLLNMEG
+RGDFISENSPGVFLQGSLVYGEHGQLIYRANLDVDICKEACLYSLKHKIPLVAYCEEQCL
+TLFEHPSVDLLHTVHHETKVKVMPSVEDLLEYSSIQKLLFLGNtDEDFSVLTQHWSELTE
+GKACVIKeQPNAIEIVPLNASKGGGIRILLDHLGITEDSDLEAVGDYTRWLSNK
+
+
+PACMAD CONSENSUS:
+Length: 536 aa
+
+MARLHqLLSRALASHHLLPStTTSSLRPTPRRPLPPHSPPPFSPPHGRTLLPFiAAASRQ
+YASSTFRRRRSSrPPMLLRRRRARRPTRKGPGELIVQIGIEEDLPDDPEILSIAETLRTD
+VGKAVKVAFDDLEGSEYKTRDPSISNVNKYnSIEVSLLLCDDNFIRKLNKEWRDEDHATD
+VLSMSQHIPGLDIPILQLGDIVISVETARRQAEERGHTLLDEIRILMVHGLLHLLGFDHE
+LSEVAEEEMEKEEEHILNTLEWRGKGLIKSAYDIATdMEHLQNSVEANSNIEKVsLQEEH
+QPKLSHIICDIDGTiVDYEGrLHEESIESLREAIATGVNVIMVTGKSRASTIRTFKLLDF
+HDKGDFVSETSPGVFLQGSLVYGRHGQEVYRAELDVDICKEAlLYSLKHKIPVVAYCEEQ
+CLTLFEHPFVNLLHTVHHENKVKVMHSIEDLLEYSSIQKLLLFDSAEEDSSVLRQHCSEL
+TEGKARVLKMQPNTIDIVPLNASKGGGIRILLDHLGITEDCDLDAVGDYTRWLSNM
+
+================================================================================

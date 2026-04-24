@@ -1,0 +1,131 @@
+================================================================================
+GrassFam ID: GFAM013206
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             548.0 aa
+Family Size (Extended Family Size): 34 (39) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR32141:SF61
+Panther Family ID:               PTHR32141
+Modal Panther ID:                PTHR32141:SF61
+Modal Panther Description:       OS01G0598400 PROTEIN
+Modal Panther Family ID:         PTHR32141
+Modal Panther Fam Desc:          FAMILY NOT NAMED
+Interpro Signature Accession:    PTHR32141; PF24758
+Interpro Signature Description:  -; FBD-associated F-box protein At5g56370, LRR repeats
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: putative FBD-associated F-box protein At5g56700
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu06H
+  Gene Products: F-box/LRR-repeat protein At5g02910-like; putative FBD-associated F-box protein At5g56440; uncharacterized LOC123400688
+Ata
+  Gene count: 4
+  Modal chromosome: Ata06D
+  Gene Products: F-box/FBD/LRR-repeat protein At1g13570; putative F-box/FBD/LRR-repeat protein At3g49480
+Tae
+  Gene count: 9
+  Modal chromosome: Tae06A
+  Gene Products: F-box/FBD/LRR-repeat protein At1g13570-like; F-box/LRR-repeat protein At5g02910-like%2C transcript variant X1; FBD-associated F-box protein At3g52670-like; putative F-box/FBD/LRR-repeat protein At3g49480; putative FBD-associated F-box protein At5g56440
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: putative F-box protein At1g67390%2C transcript variant X1
+  Gene Descriptions: putative F-box protein At1g67390
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: F-box/FBD/LRR-repeat protein At1g13570
+  Gene Descriptions: F-box/FBD/LRR-repeat protein At1g13570
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau01
+  Gene Products: F-box/LRR-repeat protein At5g02910-like
+  Gene Descriptions: F-box/LRR-repeat protein At5g02910-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi03N
+  Gene Products: F-box/FBD/LRR-repeat protein At5g22660-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha03
+  Gene Products: F-box/LRR-repeat protein At5g02910-like; putative F-box protein At1g67390
+Msi
+  Gene count: 1
+  Modal chromosome: Msi06
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi03
+  Gene Products: F-box/FBD/LRR-repeat protein At1g13570; putative F-box protein At1g67390
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 566 aa
+
+MDAAGeGGGvFvTYAQIEaYFNNLALEGPSAQdRIDcIVPyLISLLPPPFVPAPDADdsS
+DSDDDHFSLTSSDSEdaaAgAdpAavPaAqdGDGeDHISRLPDDLLSNIISRLPTKEAAR
+TMVLSTRWRgVWAATPLLVDDAHLRAADGprDfpaVRAVSRCVAAHPGPVRAVRvTRtSF
+YrqEYALrRLVAsLAAKnVQDLILFNRPWPLDMPLPDDILrCASLtRLYIGVWrFPDTTA
+hpPAFPNLrELGLFHsIIEDREvDALLAHCPKLeILSFAMAYnsPSRLRIkSsSLRVVVE
+WmCSFDEIIVEDAPCLERLLFqSIsdRRPVKIVhAPRLEVLGFLDLQLHaLEIGGiVIRA
+GMNVRASAMLPSLKILAVKVRFSHdmEAKMLpTLLRCFPrLETLHIMSIpStSPDSVHcA
+EFWESLGSCDCLESHLKTlVLHGFqGLdcElLFLgYILkeGKVLKTLGiVCsDsdDVvve
+gGpMSgSVGEgNAPSGGsSsSDDDVVMEGGPVSGSVGEGNAPSGGSSGIyvCpAsPrWSF
+QNAIDLSVEDPFCVLRreaAWiASVE
+
+
+BOP CONSENSUS:
+Length: 597 aa
+
+MDAAGGGGEEvFvtYAqIeaYFNNmALEGPSAQDRIDgIVPyLISLLPPPFVPAPDADDS
+SDSDDDHFSLTSSDSEDAAADapAdrPAaQDGDGqDHISRLPDDLLSNIISRLPTKEAAR
+TMVLSTRWRcVWAATPLLVDDAHLRAADGpReFhAVRAVSRCVAAHPGPVRAVRvTRTSF
+YrQEYALeRLiASLAAKNIQDLILFNRPWPLDMPLPDDILSCASLTRLYIGVWRFPDTTA
+hsPAFPNLqELGLFHSIIEDREVDALLAHCPKLKILSFAMAYncpSRLRIKSSSLRVVmE
+WrCSFDEIIVEDAPCLERLLFeSisDRRPVKIVHAPRLEVLGFLDLQLHALEIGGIVIRA
+GMNVRASAMLPSLKILAVKVRFSHDmEVKMLHTLLRCFPRLETLHIMSIrStSPDsVdCA
+EFWESLGSCDCLESHLKTlVLHGFQGLdCElLFLgYILKkGKVLKTLGiVCrDSDDVVVE
+gGrMSCSVGEGNAPSGGSSgSDDVVVEGGPMSGSAGEGNVSSGGSSGSDDVVMEGGPVSG
+SVGEGNAPSGGSSGSDvIYVCPASPcWSFQNAIDLSVEDPFCVLRRdrAWiASRvEA
+
+
+PACMAD CONSENSUS:
+Length: 526 aa
+
+MDAAGEEGGptTYAQVEQyFNSLEGPSAQERIDcIfPFLvSLLPpPfVPAPEVeGDsDSD
+DERFSLTSSDSEASDAGADHaAlpPAAPGDGEDHISRLPDaLLtDIISRLPTKEAARTAA
+LSTRWRrVWAATPLLVDDAHLvGAgGpsDIPIVRAVSRCVAAHPGPVRGVRvTRVSFyAH
+EYALRRLVADLADKDVQDLILFNRPWPLDMPLPDDILRCASLERLYLGVWHFPKITAArP
+PAFpkLRELGLFHCIVrDeELDALLAHCPKLEVLSIVMSYgsPSRLRLVSRSLkVAVDWM
+StLDEVVVEDAPCLERLlFQTIgtRRPvKIVRAPRLEVLGFLDLNLHtLEIGGTAIRAGM
+NVrArAMVPSLKILAVtVQFACNrEAKMLPTLLKCFPhLETLHImPVPSkSpDSVHDLEF
+WESLGSCECLESHLKTVvvHGsLvQnHEiGFlrYImREGKaLKTVgvvcSDEkArdLrss
+svESsNASvGGgSsdvflcvVaPRWsFQnAIDLSLDDPFcvVRAEA
+
+================================================================================

@@ -1,0 +1,131 @@
+================================================================================
+GrassFam ID: GFAM014136
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             499.0 aa
+Family Size (Extended Family Size): 33 (42) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47950:SF46
+Panther Family ID:               PTHR47950
+Modal Panther ID:                PTHR47950:SF46
+Modal Panther Description:       OS03G0248200 PROTEIN
+Modal Panther Family ID:         PTHR47950
+Modal Panther Fam Desc:          CYTOCHROME P450, FAMILY 76, SUBFAMILY C, POLYPEPTIDE 5-RELATED
+Interpro Signature Accession:    cd11073; G3DSA:1.10.630.10:FF:000007; G3DSA:1.10.630.10; PTHR47950; PR00463; PF00067; SSF48264
+Interpro Signature Description:  CYP76-like; Cytochrome P450 76C4; Cytochrome P450; CYTOCHROME P450, FAMILY 76, SUBFAMILY C, POLYPEPTIDE 5-RELATED; E-class P450 group I signature
+
+
+REXdb Match:                     False
+REXdb Percentage:                3.03%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: geraniol 8-hydroxylase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu03H
+  Gene Products: ferruginol synthase-like; geraniol 8-hydroxylase-like
+Ata
+  Gene count: 3
+  Modal chromosome: Ata03D
+  Gene Products: geraniol 8-hydroxylase; geraniol 8-hydroxylase-like
+Tae
+  Gene count: 8
+  Modal chromosome: Tae03D
+  Gene Products: geraniol 8-hydroxylase-like; geraniol 8-hydroxylase-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl03
+  Gene Products: geraniol 8-hydroxylase-like
+  Gene Descriptions: geraniol 8-hydroxylase-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa03
+  Gene Products: geraniol 8-hydroxylase%2C transcript variant X1; geraniol 8-hydroxylase%2C transcript variant X3
+  Gene Descriptions: geraniol 8-hydroxylase
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu05
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: geraniol 8-hydroxylase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: geraniol 8-hydroxylase-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: geraniol 8-hydroxylase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: geraniol 8-hydroxylase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 498 aa
+
+MELlLLYATCaILlVSSLYLLRLFAgARRNLPPGPRPLPLIGNLLDLGAqPHRSLARLAE
+RHGPLMTLRLGAVTTVVASSADAARDVLQRHDAAFSARSVPDAARACAHDslSMGWLPPS
+SPrWRALRKVCSAELFAPrRLDAHQSLRREKVRQLVSHVARLSREGAAVDVgRVVFTTaL
+NLLSCTIFSADLADLDDRGgSGQFraVIaEFTevVGVPNLSDFFPAVAPLDPQRLRKRLA
+RVFkRLHAIFDEQIERRMRERtAGEPPKNDFLDVLLDYRGlEDGRGFDRQTLRSLLTDLF
+SAGSDTSAATVEWAMAELLQNPSSMAKAREELAQVIGSKsEIEESDIGQLKYLQAVVKEV
+FRLHPPAPLLLPRQAEATTEVRGYTVPKGARVMVNVWAIGRDsELWSEPEKFMPERFLgK
+EMDFRGRDFELLPFGSGRRICPGMPLAVRMVHLMLATLLHRFEWRLPrEVEkNGVDMsEK
+FGmvLGLATPLQAIAePI
+
+
+BOP CONSENSUS:
+Length: 497 aa
+
+MELfLYATCvLLlVSSLYVLRHFADARRNLPPGPPSWPLIGNLLDLGAQPHRSLARLAER
+HGPLMTLRLGALTTVIASSADTARDVLQRHDAAFSARSVPDAARACAYDSLSMGWLPPSS
+PHWRALRKLCSGELFAPHRLDAHQSIRREKVQQLVSHVARLSREGAAVDVSRVVFTTALN
+LLSCTIFSADIADLDDrGGtGQFRAVIAEFTeVVGvPNLSDFFPAVAPLDPQRLRKRLAr
+VFkRLHAIFDEQIERRMRERTAGEPPKNDFLDVLLDYRGLEDGRGLDREMLRALLtDLFI
+AGSDTSAtTFEWAMAELLQNPSAMAKAREELAQVIGSKSEIEESDIgQLEYLQAVVKEVF
+RLHPPAPFLLPRQAEATTElRGYTVPKGARVMVNVWAIGRDSELWSEPERFMPERFLGKe
+MDYRGRDFELLPFGSGRRICPGMPLAVRMVHLMLATLLYRFEWRLPREVEeNGVDMgEKF
+GIVLaLATPLQAIAEPv
+
+
+PACMAD CONSENSUS:
+Length: 498 aa
+
+MELLLVYATCAILaVSSLYLLrLIAGsRRNLPPGPRPLPLVGNLLDLGAHPHRSLARLAA
+RHGPLMALRLGAVTTVVASSADAARDVLQRHDAALSsRSVPDAARARAHDEHSVGWLPPG
+SPRWRALRKVCSAELFAPRRLDAHQPLRRDKVRRLASHVARLAREGAPVDVGRAAFTTVL
+NLLSCAIFSADLADLDDRGASGAFKGVIEEFTVAVGVPNVSDFFPVLAPLDPQRLRARIG
+RVFDKLHAIFDEQIERRVQERAAGEPPKNDFLDLLLDYRGAEDGRGFDRQTLLSLLTDLF
+SAGSDTSAATVEWAMAELLQNPSSMAKSRDELAQVIGAKQEIEESDiGKLKYLQAVVKET
+FRLHPPAPLLLPRQAEAATEVRGYTVPRGARVLVNVWAIGQDPELWAEPEKFMPERFLEK
+EMDFRGKDFELLPFGSGRRICPGMPLADRMVHLMLATLLHRFEWRLPADVEKNGVDLSEN
+FGMILGLATPLQAIAKPI
+
+================================================================================

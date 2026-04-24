@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM004368
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             409.5 aa
+Family Size (Extended Family Size): 18 (18) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13593:SF145
+Panther Family ID:               PTHR13593
+Modal Panther ID:                PTHR13593:SF145
+Modal Panther Description:       OS08G0103500 PROTEIN
+Modal Panther Family ID:         PTHR13593
+Modal Panther Fam Desc:          FAMILY NOT NAMED
+Interpro Signature Accession:    cd08588; G3DSA:3.20.20.190; PTHR13593; SSF51695
+Interpro Signature Description:  PI-PLCc_At5g67130_like; Phosphatidylinositol (PI) phosphodiesterase; -; PLC-like phosphodiesterases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: PI-PLC X domain-containing protein At5g67130
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: PI-PLC X domain-containing protein At5g67130-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: PI-PLC X domain-containing protein At5g67130
+Tae
+  Gene count: 2
+  Modal chromosome: Tae07A
+  Gene Products: PI-PLC X domain-containing protein At5g67130-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl08
+  Gene Products: PI-PLC X domain-containing protein At5g67130-like
+  Gene Descriptions: PI-PLC X domain-containing protein At5g67130-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa08
+  Gene Products: PI-PLC X domain-containing protein At5g67130%2C transcript variant X1
+  Gene Descriptions: PI-PLC X domain-containing protein At5g67130
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN4
+Pau
+  Gene count: 1
+  Modal chromosome: Pau16
+  Gene Products: PI-PLC X domain-containing protein At5g67130-like
+  Gene Descriptions: PI-PLC X domain-containing protein At5g67130-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: PI-PLC X domain-containing protein At5g67130-like; uncharacterized LOC120679676
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: PI-PLC X domain-containing protein At5g67130-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: PI-PLC X domain-containing protein At5g67130
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: MAP3K-like protein kinase
+  Gene Synonyms: GRMZM2G163709
+  Gene Descriptions: MAP3K-like protein kinase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 409 aa
+
+MAapRLLLLavALLllLLFaAhpAAAAQVGDtCSSsGGCGSGLHCSACGdGGAkICTRAs
+PVDPLTHGTGLPFNNYSWLTTHNSFALAGAaSATGAAIItPTNQEDtVTAQLKNGVRGLM
+LDTYDFNNDVWLCHSFGGKCYNITAFQPAINVFKEIQTFLDANPSEVITIFLEDYTATGS
+LPKVFNASGLMKYWFPVAKMPKSGGNWPLLKDMISQNQRLLVFTSKKSKEASEGIAYEWN
+YVVENQYGNEGMVEGKCPNRAESPAMDSKSQSLVLMNFFTTDPSQTGVCGNNSAPLVSML
+KTCHDLSGNRWPNYIAVDFYMRSDGGGAPLATDVANGHLVCGCDNIAYCKANSTFGTCVI
+PPPPPPSPPRAGsRGtsAGGDASAAmARslpfQWSFFLGLtSLLLLlLS
+
+
+BOP CONSENSUS:
+Length: 407 aa
+
+MPAAGLRPLAVALLLLlVSvAAAnARVGDECSAGAGCGSGLHCAACGDGGAGVCARAtPV
+DPLTHGTGLPFNNYSWLTTHNSFALAGApSATGAAIIAPTNQEDSVTAQLKNGVRGLMLD
+TYDFNNDVWLCHSFGGKCYNITAFQPAINVFKEIQTFLEANPSAVITVFLEDYTVAGSLP
+KVFNASGLMKYWFPVAKMPKSGGNWPLLKDMISQNERLLVFTSKKAKEASEGIPYEWNYV
+VESQYGNEGMVEGKCPNRgESPAMDSKSQSLVLMNFFTTDPNPTGVCGNNSAPLVSMLKT
+CHDLSGNRWPNYIAVDYYMRSDGGGAPLATDVANGHLVCGCDNIAYCKANSTFGTCVIPP
+PPPPSPPRAPAKGTSPGGDPSAAVARLPAFQWSCFLGLTSLALLFLS
+
+
+PACMAD CONSENSUS:
+Length: 419 aa
+
+MAPARPRPRLLLFfsAALLFFLLFlAHPAAAAQVGDACSSSGGGCGSGLHCSACGaGGDS
+ICTRASPVDPATHGTGLPFNNYSWLTTHNSYALAGAASATGnpLITETNQEDTVTAQLKN
+GVRGLMLDTYDFDNDVWLCHSFGGKCYNFTAFQPAINVFKEIQTFLDANPSEVVTIFLED
+YTATGSLPKVFNASGLMKYWFPVAKMPKSGGNWPLLKDMISQNQRLLVFTSKKSKEASEG
+IAYEWNYVVENQYGNDGMVAGKCPNRAESPAMDSKSQSLVLMNFFTTnPSQTGVCGNNSA
+PLVSMLKTCHDASGNRWPNYIAVDFYMRSDGGGAPLATDIANGHMVCGCDNIAYCKANST
+FGTCVIPPPPPPSPPKAPTPGSRGSTAGGDASAGmaRSHLPSQWSFFLGLpSLLLLLLS
+
+================================================================================

@@ -1,0 +1,120 @@
+================================================================================
+GrassFam ID: GFAM003471
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             401.5 aa
+Family Size (Extended Family Size): 26 (28) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR32487
+Modal Panther ID:                PTHR32487:SF11
+Modal Panther Description:       NAD-DEPENDENT EPIMERASE_DEHYDRATASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR32487
+Modal Panther Fam Desc:          3-OXO-DELTA(4,5)-STEROID 5-BETA-REDUCTASE
+Interpro Signature Accession:    cd08948; G3DSA:3.40.50.720; PTHR32487; PF22917; SSF51735
+Interpro Signature Description:  5beta-POR_like_SDR_a; -; 3-OXO-DELTA(4,5)-STEROID 5-BETA-REDUCTASE; PRISE-like Rossmann-fold domain; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: (S)-8-oxocitronellyl enol synthase ISY1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: (S)-8-oxocitronellyl enol synthase ISY1-like
+Tae
+  Gene count: 2
+  Modal chromosome: Tae07B
+  Gene Products: (S)-8-oxocitronellyl enol synthase ISY1-like
+Ola
+  Gene count: 3
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: 3-oxo-Delta(4%2C5)-steroid 5-beta-reductase-like
+  Gene Descriptions: 3-oxo-Delta(4%2C5)-steroid 5-beta-reductase-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: 3-oxo-Delta(4%2C5)-steroid 5-beta-reductase%2C transcript variant X2
+  Gene Descriptions: 3-oxo-Delta(4%2C5)-steroid 5-beta-reductase
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi09K
+  Gene Products: 3-oxo-Delta(4%2C5)-steroid 5-beta-reductase-like
+Pha
+  Gene count: 4
+  Modal chromosome: Pha09
+  Gene Products: 3-oxo-Delta(4%2C5)-steroid 5-beta-reductase-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi01
+  Gene Products: 3-oxo-Delta(4%2C5)-steroid 5-beta-reductase
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: 3-oxo-Delta(4%2C5)-steroid 5-beta-reductase; 3-oxo-Delta(45)-steroid 5-beta-reductase
+  Gene Synonyms: GRMZM2G075892
+  Gene Descriptions: 3-oxo-Delta(45)-steroid 5-beta-reductase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 399 aa
+
+SMSWWWAGAfGAfrKRkDeeaArAapeapFqSVALVVGSTGIVGASLVDILPLPDTPGGP
+WKVYALSRRPPPPWSaPssssVTHlHVDLTDpAAVAEALAPLTDITHVFYVAWsPRpTEA
+EnREANSAMLRNVLSvVVPNCPALaHVsLQTGtKHYmGPFEsiGkiplpdPPYTEDMPRL
+DyPNFYYDQEDVLFDaVARRGGAVtWSVHRPnLIFGFSPRSArNVVCSLCVYAAICRKEG
+vpLRWPGSLGAWEGFSnASDADLVAEQhIWAAVdPmAKNEAFNCSNGDvYKWKQLWPILA
+gRFGLEWtGYeGEEqRFKLaEAMAGKEAVWAEIVeENgLVETqLhEVANWWfVDAvfgve
+wElLDSMNKSKEHGFLGFRNTVKSFNtWIDKMKAyKIVP
+
+
+BOP CONSENSUS:
+Length: 396 aa
+
+MMKWWWAGAFGAFKKRrrsgRArAAasAPqsSVALVVGSTGIVGAALLDILPLPDTPGGP
+WKVYALSRRPPPPWSAPlPPaVtHhHLDLADPAAVAdALAPLTDITHVFYVAWdPRPTEA
+EgREANgAMLRNVLSAVVPNCPALlHVCLQTGRKHYvDPFESLtgvPLeLRPYSEDLPRL
+DYPDLEDVLLDGLASnsGAAVTWSVHRPTTIFGFSPRSARNVVASLCVYAAICrKEGlvL
+RWPGSRVAWEGFSDASDAELVAEHALWAAmEPngKNEpFNCSNGDlFKWKQLWPiLAgqF
+GVEWtGYEGEDQRFmLeEAMAGKEAVWAEIVnENgLVETELnEITNWfCVDAvfNVErEn
+LDTMNKSKEyGFFGFRNTVRSFnAWInKMKaDKIVP
+
+
+PACMAD CONSENSUS:
+Length: 402 aa
+
+MSMSWWWaRAvGAvRkRkDDelAAvpehsFQSVALVVGSTGIVGTSLVDILPLPDTPGGP
+WKVYALSRRPLPPWSlPSSSSVTHIHVDLTDSAAVAEALTPLTDITHVFYVAWSPRATEA
+eNREANSAMLRNVLSVVVPNCPALAHVSLQTGTKHYmGPFELIGKtptPDPPYTEDMPRL
+DcPNFYYDQEDvLFDAVSRRGGAVSWSVHRPNLIFGFSPRSAfNVVCSLCVYAAICRKEG
+VpLRWPGSLGSWEGFSNASDADLIAEQHIWAAVDPMAKNEAFNCSNGDVYrWKQLWPILA
+gRFGLEWTGYeGEENRFKVSEAMAGKEAVWAEIVrENqLVETQLHEVANWWlVDaLVYqf
+GANWKLLDSMNKSKEHGFLGFRNTVKSFNtWIDKMKAyKIVP
+
+================================================================================

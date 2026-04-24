@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM011395
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             402.5 aa
+Family Size (Extended Family Size): 20 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23074:SF171
+Panther Family ID:               PTHR23074
+Modal Panther ID:                PTHR23074:SF171
+Modal Panther Description:       KATANIN
+Modal Panther Family ID:         PTHR23074
+Modal Panther Fam Desc:          AAA DOMAIN-CONTAINING
+Interpro Signature Accession:    cd19509; G3DSA:3.40.50.300:FF:000490; G3DSA:1.10.8.60:FF:000056; G3DSA:1.10.8.60; G3DSA:3.40.50.300; PTHR23074; PF00004; SSF52540
+Interpro Signature Description:  RecA-like_VPS4-like; Katanin p60 ATPase-containing subunit A-like 2; -; AAA DOMAIN-CONTAINING; ATPase family associated with various cellular activities (AAA); P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: katanin p60 ATPase-containing subunit A-like 2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: katanin p60 ATPase-containing subunit A-like 2%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: katanin p60 ATPase-containing subunit A-like 2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: katanin p60 ATPase-containing subunit A-like 2; katanin p60 ATPase-containing subunit A-like 2%2C transcript variant X1; ubiquitin-conjugating enzyme E2 36%2C transcript variant X5
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: uncharacterized LOC127760578
+  Gene Descriptions: uncharacterized LOC127760578
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: ubiquitin-conjugating enzyme E2 36%2C transcript variant X3
+  Gene Descriptions: ubiquitin-conjugating enzyme E2 36
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau01
+  Gene Products: uncharacterized LOC133917160
+  Gene Descriptions: uncharacterized LOC133917160
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: katanin p60 ATPase-containing subunit A-like 2%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: katanin p60 ATPase-containing subunit A-like 2
+Msi
+  Gene count: 1
+  Modal chromosome: Msi06
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: katanin p60 ATPase-containing subunit A-like 2%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: uncharacterized LOC100382416
+  Gene Synonyms: gpm163,GRMZM2G115766
+  Gene Descriptions: uncharacterized LOC100382416
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 404 aa
+
+MAAgDEPSlTRWTFEDFEvYYEARLGIRREPkGDGDDDDDGPaPrGSGsAasRPAaaRAN
+GGADLAVFEQFERMERKVElRNGAIEdGPPQKSLLPSFESAEMRNLAETLLRDIIRGSPD
+VKWESIKGLENAKRLLKEAVVMPIKYPKYFTGLLSPWKGILLFGPPGTGKTMLAKAVATE
+CKTTFFNISASSIVSKWRGDSEKLVKVLFELARHHAPSTIFLDEIDAIISQRGEARSEHE
+ASRRLKTELLIQMDGLTKTDELVFVLAATNLPWELDAAMLRRLEKRILVPLPEpDARHAM
+FEELLPSTPGTMEIPYDVLVEKTEGYSGSDIRLVCKEAAMQPLRRLMaVLEGRQEEVPED
+ELPEVGPVTtEDIELALRNTRPSAHLHAHRYEKFNQDYGSHVhG
+
+
+BOP CONSENSUS:
+Length: 400 aa
+
+MAAGDEPSVTRWSFQDFERYYDAGLGICRQPKGDGDDDDDAPPGSGSADsAAgHANGGAD
+LSVFEQFERLDRNVELRNGAMDAGPPQKSLLPSFESAETRNLAETLLRDIIRGSPDVKWE
+SIKGLETAKRLLKEAVVMPIKYPKYFTGLLSPWKGILLFGPPGTGKTMLAKAVATECKTT
+FFNISASSIVSKWRGDSEKLVKVLFELARHHAPSTIFLDEIDAIISQRGEARSEHEASRR
+LKTELLIQMDGLTKTDELVFVLAATNLPWELDAAMLRRLEKRILVPLPEAEARHAMFEEF
+LPSTPDTMEIPYDVLVEnTEGYSGSDIRLVCKEAAMQPLRRLMAVLEGRQEEvPEDELPE
+VGPIAAEDIELALRNTRPSAHLHAHRYEKFNQDYGSHVIS
+
+
+PACMAD CONSENSUS:
+Length: 400 aa
+
+MADGEPSLTRWTFEDFEVYYEARLGIRREPADDGDDGPPPRGSDHLAGRPAvARANGGAD
+LAVFEQFERMERKVEIRNGAIEDGPPQKPLLPSFESAEMRNLAETLLRDIIRGSPDVKWE
+SIKGLENAKRLLKEAVVMPIKYPKYFTGLLSPWKGILLFGPPGTGKTMLAKAVATECKTT
+FFNISASSIVSKWRGDSEKLVKVLFELARHHAPSTIFLDEIDAIISQRGEARSEHEASRR
+LKTELLIQMDGLTKTDELVFVLAATNLPWELDAAMLRRLEKRILVPLPEPDARHAMFEEL
+LPSTPGTMEIPYDVLVEKTEGYSGSDIRLVCKEAAMQPLRRLMTVLERRQEEVPEDELPE
+VGPVTTEDIELALRNTRPSAHLHAHRYEKFNQDYGSHVHG
+
+================================================================================

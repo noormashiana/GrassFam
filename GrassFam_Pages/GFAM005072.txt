@@ -1,0 +1,119 @@
+================================================================================
+GrassFam ID: GFAM005072
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             410.5 aa
+Family Size (Extended Family Size): 20 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR47985
+Modal Panther ID:                PTHR47985:SF51
+Modal Panther Description:       RECEPTOR-LIKE KINASE LIP2
+Modal Panther Family ID:         PTHR47985
+Modal Panther Fam Desc:          OS07G0668900 PROTEIN
+Interpro Signature Accession:    cd14066; G3DSA:3.30.200.20:FF:000244; G3DSA:1.10.510.10:FF:000032; G3DSA:3.30.200.20; G3DSA:1.10.510.10; PTHR47985; PF07714; SM00220; SSF56112
+Interpro Signature Description:  STKc_IRAK; Serine/threonine-protein kinase CDL1-like; Serine/threonine-protein kinase PBS1; Phosphorylase Kinase; domain 1; Transferase(Phosphotransferase) domain 1; OS07G0668900 PROTEIN; Protein tyrosine and serine/threonine kinase; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: probable serine/threonine-protein kinase PBL7
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: probable serine/threonine-protein kinase PBL25
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: probable serine/threonine-protein kinase PBL25
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: probable serine/threonine-protein kinase PBL25; probable serine/threonine-protein kinase PBL7
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Pau
+  Gene count: 2
+  Modal chromosome: Pau22
+  Gene Products: probable serine/threonine-protein kinase PBL7
+  Gene Descriptions: probable serine/threonine-protein kinase PBL7
+Svi
+  Gene count: 2
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi08N
+  Gene Products: probable serine/threonine-protein kinase PBL25
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: probable serine/threonine-protein kinase PBL7
+Msi
+  Gene count: 3
+  Modal chromosome: Msi15
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi05
+  Gene Products: probable serine/threonine-protein kinase PBL25; probable serine/threonine-protein kinase PBL7
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: putative protein kinase superfamily protein
+  Gene Synonyms: GRMZM2G020915
+  Gene Descriptions: putative protein kinase superfamily protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 403 aa
+
+MLSWLRRFPHDVtHRKenggttGRRTsSSTtWRNKSaSFTARIIRCASSVvDtssaRaDD
+DDDDCrPPgrhSvDdnNyNhSVVSARAFSFRELAaATGNFRQANLIGEGGFGRVYKGRLg
+siAggEqlaVAVKQLDRNGFQGNhEFlVEVLMLSMLHHPNLVsLLGYCADGdQRLLVYEy
+MPLGSLEDHLLLprDgdekpppppLPWRTRMRIAHGAARGLEYLHEtAVIYRDLKSSNIL
+LDeGYNPKLSDFGLAKLLPpPRtdsSSSSSSSSSSSSSRVMGTYGYCAPEYLRTGKLSVK
+SDVYSFGVLLLELITGRRAIDaSRPDGEQSLVGWAAPMFGDPrRFHELVDPRLVMAMqGP
+tAsELKQAVGVAAMCLQEHdALRPVMTDVVMALSFLAtDsPpC
+
+
+BOP CONSENSUS:
+Length: 398 aa
+
+MLSWLRCFPHDGTVMDEERKPRPGRSATFRKKHsPDAAPSRKRFIRSGTSLTASSSARAS
+FGRHSVDVPNYNHSIVSARSFTFPELAAATDSFSHANLIGEGGFGRVYRGLIGSSAVAVK
+QLDRTGFQGDHEFLVEVLVLSSLLTHPNLVGLLGYCADGNQRLLVYQLMPLGSLENHLFL
+PRVPADGEEKPPPPVLPWRTRMRIAHDAAQGLEFLHETANPPVIYRDLKSSNILLDEGYN
+AKLSDFGLAKLATPITRNGKGGEAEEEKDGSSRVMGTYGYCAPEYVRkGHLTVKSDVYSF
+GVVLLELITGRRVIDESRPSGEQNLVAWAAPMFSEQRRMHELVDPLLvEGPSGRELKQAV
+AVAAMCLQEEDTVRPIMSDVVMALSFLADDDLPSAPRL
+
+
+PACMAD CONSENSUS:
+Length: 413 aa
+
+MLSWLRRFPHDVIHRKgNGGttGRRTSSSTSWRNKSNSFTARIIRCASSVVDTAGRRHDD
+DDDDDDDCrLPSSPPPPAPPphynnDNNRnTsVVSArAFSFRELAdAAGNFRQdNLIGEG
+GFGRVYKARLrtiAgeEqLVVAVKQLDRNGfQGNnEFVVEVLMLSMLHHPNLVSLVGYCA
+EGDQRLLVYEYMALGSLEDHLLLLrDqrqhaPLPWRTRMKIALGAARGLEYLHERtVIYR
+DLKSSNILLDQDYsPKLSDFGLARLLPAPRTDSSSSSSSSSSSSSSRVMGTYGYCAPEYL
+RTGKLSAKSDVYSFGVLLLELITGRRAIDASRPDGEQSLVGWAArMFGDPKRFHELVDPR
+LVMAMQGPtASELKQAVGVASMCLQEHHALRPVMTDVVMALSFLATDspSPPC
+
+================================================================================

@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM001839
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             746.5 aa
+Family Size (Extended Family Size): 54 (55) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR10795
+Modal Panther ID:                PTHR10795:SF718
+Modal Panther Description:       PEPTIDASE S8_S53 DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR10795
+Modal Panther Fam Desc:          PROPROTEIN CONVERTASE SUBTILISIN/KEXIN
+Interpro Signature Accession:    cd02120; cd04852; G3DSA:3.50.30.30:FF:000005; G3DSA:3.40.50.200; G3DSA:3.50.30.30; G3DSA:2.60.40.2310; PTHR10795; PF00082; SSF52743
+Interpro Signature Description:  PA_subtilisin_like; Peptidases_S8_3; subtilisin-like protease SBT1.5; Peptidase S8/S53 domain; -; PROPROTEIN CONVERTASE SUBTILISIN/KEXIN; Subtilase family; Subtilisin-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 4
+  Modal chromosome: Bdi05
+  Gene Products: subtilisin-like protease SBT1.7
+Lpe
+  Gene count: 6
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 4
+  Modal chromosome: Hvu02H
+  Gene Products: subtilisin-like protease; subtilisin-like protease 4
+Ata
+  Gene count: 5
+  Modal chromosome: Ata02D
+  Gene Products: subtilisin-like protease; subtilisin-like protease 4
+Tae
+  Gene count: 13
+  Modal chromosome: Tae02B
+  Gene Products: subtilisin-like protease; subtilisin-like protease 4
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Pau
+  Gene count: 1
+  Modal chromosome: Pau13
+  Gene Products: subtilisin-like protease 4
+  Gene Descriptions: subtilisin-like protease 4
+Svi
+  Gene count: 2
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi07K
+  Gene Products: subtilisin-like protease 4
+Pha
+  Gene count: 3
+  Modal chromosome: Pha07
+  Gene Products: subtilisin-like protease SBT1.2; subtilisin-like protease SBT1.7
+Msi
+  Gene count: 9
+  Modal chromosome: Msi12
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: subtilisin-like protease SBT1.7
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: subtilisin-like protease 4
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 740 aa
+
+MgSFKLSLLssLLPFLLLAlVAagvaGDELrTFIVHVQPqEnHVFGTaDDRKAWYqSFLP
+EdGRLLHAYHHVASGFAARLTRRELDAmSAMPGFVAAVPNvVYkLlTTHTPRFLGLDtPQ
+GGRNyssGFGDGVIIGVLDSGVFPyHPSFSGDGMPPPPAKWKGRCDFNGSACNNKLIGAR
+SFeSdSpSPlDEDGHGTHTSSTAAGAVVPGAQVLGQGrGTASGIAPRAHVAMYKVCGDeC
+TSADILAGIDAAVgDGCDVLSMSLGGPSlPFYqDSIAIGTFAAAEKGIFVSMAAGNSGPN
+aSTLSNDAPWMLTVAASTMDRLIsAQVRLGNGLSFDGESVYQPniSAtVFYPLVYAGASS
+TPDAQFCGNGSLDGFDVKGKIVLCDRGNdVGRvDKGAEVlRAGGaGMILANQFiDGYSTL
+ADAHVLPASHVSYAAGVAIKnYINSTANPtAQIsFrGTVLGTSPAPAITSFSSRGPSlQN
+PGILKPDITGPGVSVLAAWPFQVGPPSasvdsGPTFNFeSGTSMSTPHLSGIAALIKSKH
+PDWSPAAIKSAIMTTADpTDRSGnPIvNEQHkPADFFATGAGHVNPDKAVDPGLVYDIAP
+ADYIGFLCGmYTSrEVSVIARRAVDCSAVtVIPDrmLNYPSISVtFPpaWNPTAPVVVeR
+TVKNVGEAPAVYYPyVDLPagsVNVtVtPSSLrFTeANQeQsFTVSVwrGqSgsAkvVQG
+ALRWVSDKHTVRSPISItFa
+
+
+BOP CONSENSUS:
+Length: 749 aa
+
+MgSFKLSlLfSLLPFLLLALVAAGEAGDELSTYIVHVQPQeNHVFGTADDRKAWYQSFLP
+EnGRLLHAYHHVASGFAARLTRRELDAmSAMPGFVAAVPDVVYKLQTTHTPRFLGLDTaq
+GgRNySvGSGDGVIIGVLDTGVFPnHPSFSGdGMPPPPAKWKGRCDFNGSaCNNKLIGAR
+sFISAGSSSplPPTDEeGHGTHTSSTAAGAVVPGAQVLGQGsGTASGMAPRAHVAMYKVC
+glEgCaSVDILAGIDAAVSDGCDVISMSLGGPSLPFyeDSIAVGTFAAAEKGIFVSMAAG
+NSGPNYTTLSNEAPWMLTVAASTMDRLIsArVILGNGLSFDGESVYQPDssAtVFYPLVY
+AGASSTPdAQFCGNGSLDGFDVKGKIVLCERGNDVGRVDKGAEVLRAGGAGMILtNQFID
+GYSTLADAHVLPASHVSYAAGvAIKNYIKSTANPtAQIsFRGTVLGTSPAPAITSFSSRG
+PStQNPGILKPDITGPGVSVLAAWPFQVGPPsfagvdtgPTFNIISGTSMSTPHLSGIAA
+LIKSKHPDWSPAAIKSAIMTTADvTDRSGtPIlNEQHkpADLFAvGAGHVNPDKAVDPGL
+VYDIaPADYIGFLCGMYTDkEVSVIARRaVDCSAVkVIPqrlLNYPSISVtFPpsWnPlA
+PvvVeRTVKNVGEAPAvYyAqvDmPAGssVNVTVtPSSLwFteANQvQkFtVLVwPRtna
+SataVQGAlRWVSDKHTVRSPISAtFash
+
+
+PACMAD CONSENSUS:
+Length: 744 aa
+
+MGSFKLSLLpILIPCLLASIVAtvGDDELRTFIVHVQPhEsHVFGTaDDRTAWYRSFLPE
+DGRLLHAYHHVASGFAARLTqRELDALSamPGFLAAqPNvVYqLLTTHTPRFLGLDVPQe
+GVSAINHSaSGFGDGVIIGVLDSGVFPYHPSYSGDGMPPPPAKWKGRCDFNGSACNNKLI
+GARSFESDPSPLDnDGHGTHTSSTAAGAVVpGAQVLGQGRGTASGIAPRAHVAMYKVCGD
+ECTSADILAGIDAAVGDGCDVLSISLaDGGPttPFYqDSLAIGTFGAVEKGVFVSIaAGN
+sGPnASTLsNDAPWMLTVAASTMDRLIGAQVRLGNGLSFDGESVYQPnISaaVFYPLVYA
+GASSTPDAqFCGNGSLDGFDVKGKIVLCDRGNGVgRLDKGAEVKRAGGfGMILANqFaDG
+YSTLADAHVLPASHVSYAAGVAIKKYINSTANPVAQIiFkGTVLGTSPAPAITSFSSRGP
+SqrNPGILKPDITGPGVSVLAAWPFQVGPPSssvnPGPTFNFESGTSMSTPHLSGVAALI
+KSKHPDWSPAAIKSAIMTTADPiDRSGNPIVNEQHlPAdFFATGAGHVNPDKAVDPGLVY
+DIAPADYVGFLCSvYASRdVSVIARRAVDCSAITVIPDHALNYPSISVtFPqAtNSTApV
+VVVsRTVRNVGEAPAVYYPYVDLPssVQVkVePSSLQFTeANQEQSFTVSVWRGQSgnAK
+VVQGALRWVSDKHTVRSPISITFE
+
+================================================================================

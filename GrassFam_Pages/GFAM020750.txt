@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM020750
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             420.0 aa
+Family Size (Extended Family Size): 32 (34) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43780:SF8
+Panther Family ID:               PTHR43780
+Modal Panther ID:                PTHR43780:SF8
+Modal Panther Description:       TRYPTOPHAN SYNTHASE BETA CHAIN-LIKE PALP DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR43780
+Modal Panther Fam Desc:          1-AMINOCYCLOPROPANE-1-CARBOXYLATE DEAMINASE-RELATED
+Interpro Signature Accession:    G3DSA:3.40.50.1100:FF:000037; G3DSA:3.40.50.1100:FF:000042; G3DSA:3.40.50.1100; TIGR01275; PTHR43780; PF00291; SSF53686
+Interpro Signature Description:  Bifunctional D-cysteine desulfhydrase/1-aminocyclopropane-1-carboxylate deaminase, mitochondrial; Bifunctional D-cysteine desulfhydrase/1-aminocyclopropane-1-carboxylate deaminase mitochondrial; -; pyridoxal phosphate-dependent enzymes, D-cysteine desulfhydrase family; 1-AMINOCYCLOPROPANE-1-CARBOXYLATE DEAMINASE-RELATED; Pyridoxal-phosphate dependent enzyme; Tryptophan synthase beta subunit-like PLP-dependent enzymes
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi03
+  Gene Products: putative D-cysteine desulfhydrase 1%2C mitochondrial
+Lpe
+  Gene count: 4
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: putative D-cysteine desulfhydrase 1%2C mitochondrial
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: putative D-cysteine desulfhydrase 1%2C mitochondrial
+Tae
+  Gene count: 8
+  Modal chromosome: Tae03B
+  Gene Products: putative D-cysteine desulfhydrase 1%2C mitochondrial
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: putative D-cysteine desulfhydrase 1%2C mitochondrial%2C transcript variant X1
+  Gene Descriptions: putative D-cysteine desulfhydrase 1%2C mitochondrial
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: putative D-cysteine desulfhydrase 1%2C mitochondrial
+  Gene Synonyms: D-CDes1,OJ1611_C08.26,OsD-CDes1,OsDCD1,OsJ_08555
+  Gene Descriptions: putative D-cysteine desulfhydrase 1%2C mitochondrial
+Ecu
+  Gene count: 3
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: putative D-cysteine desulfhydrase 1%2C mitochondrial; putative D-cysteine desulfhydrase 1%2C mitochondrial%2C transcript variant X2
+  Gene Descriptions: putative D-cysteine desulfhydrase 1%2C mitochondrial
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: putative D-cysteine desulfhydrase 1%2C mitochondrial
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: putative D-cysteine desulfhydrase 1%2C mitochondrial
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: putative D-cysteine desulfhydrase 1%2C mitochondrial
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: uncharacterized LOC100191348%2C transcript variant X1
+  Gene Synonyms: GRMZM2G151440
+  Gene Descriptions: uncharacterized LOC100191348
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 418 aa
+
+mLLRPALPVTSTLPLfSRLAAVRRRSSvAAAGMAGVsATSpAAAQIGGFLSKKPYAPPSW
+ASHLSPaPSHTFSLGHFPTPIHKWNLPNLPEGTEVWIKRDDLSGMQLSGNKVRKLEFLMA
+DAVAQGADCVITVGGIQSNHCRATAVAAKYLNLDCYLILRTSKLLVDKDPGLVGNLLVER
+LVGAHIDLVSKEEYGKIGSVALADLLKKRLLEEGRKPYVIPVGGSNSLGTWGYIEAVREI
+EQQIQLSGDVQFDDIVVACGSGGTIAGLALGSrLSSLKAKVHAFSVCDDPEYFYDYVQGL
+IDGLQSGLDSHDIVSIENAKGLGYAMNTAEELKFVKDIAAATGIVLDPVYSGKAAYGMLK
+DMAdNPAKWKGRKVLFVHTGGLLGLYDKVDQLSSLAGSWRRMDLEESVPRKDGTGKMF
+
+
+BOP CONSENSUS:
+Length: 418 aa
+
+MLLRPmLPvTStLPLFSplAAVRRRtStAAtGMAGVSAASPAAAQIGSFLSKKPYAPPSW
+ASHLSLAPSHTFSLGHFPTPIHKWNLPNLPEGTEVWIKRDDLSGMQLSGNKVRKLEFLlA
+DAVAQGADCVITVGGIQSNHCRATAVAAKYLNLDCYLILRTSKLLVDkDPGLVGNLLVER
+LLGAHIDLVSKEEYGKIGSVALADLLKKRLLEEGRKPYVIPVGGSNSLGTWGYIEAVREI
+EQQIQLSGDVQFDDIVVACGSGGTIAGLALGSKLSSLKAKVHAFSVCDDPEYFYDYVQGL
+IDGLQSGLDSHDIVSIENAKGLGYAMNTAEELKFVKDIAAATGIVLDPVYSGKgAYGMLK
+DMsdNPaKWkGRKVLFVHTGGLLGLYDKVDQLSSLAGSWRRMDLEESVPRKDGTGKMF
+
+
+PACMAD CONSENSUS:
+Length: 423 aa
+
+MVLvGLLRPALPVTSTLPLLCRLAAVRHRSLVAAAGMAGVPATfSsAAAQIGGFLSKKPY
+APPSWATHLSPMPSHTFSLGHFPTPIHKWNLPNLPEGTEVWIKRDDLSGMQLSGNKVRKL
+EFLMADAVAQGADCIITVGGIQSNHCRATAVAAKYLNLDCYLILRTSKLLVDKDPGLVGN
+LLVERLVGAHIDLVSKEEYGKIGSVALADLLKKRLLEEGRKPYVIPVGGSNSLGTWGYIE
+AIREIEQQIQQSADVQFDDIVVACGSGGTIAGLALGSRLSSLKAKVHAFSVCDDPEYFYD
+YVQGLIDGLqSGLDSHDIVSIENAKGLGYAMNTAEELKFVKDIAAATGIVLDPVYSGKAA
+YGLLKDMAGNPAKWKGRKVLFIHTGGLLGLYDKADQLSSLAGSWRRMDLEDSVPRKDGTG
+KMF
+
+================================================================================

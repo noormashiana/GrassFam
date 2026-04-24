@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM012871
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             520.0 aa
+Family Size (Extended Family Size): 24 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31741:SF42
+Panther Family ID:               PTHR31741
+Modal Panther ID:                PTHR31741:SF42
+Modal Panther Description:       O-FUCOSYLTRANSFERASE FAMILY PROTEIN
+Modal Panther Family ID:         PTHR31741
+Modal Panther Fam Desc:          OS02G0726500 PROTEIN-RELATED
+Interpro Signature Accession:    cd11299; PTHR31741; PIRSF009360; PF10250
+Interpro Signature Description:  O-FucT_plant; OS02G0726500 PROTEIN-RELATED; UCP009360; GDP-fucose protein O-fucosyltransferase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: O-fucosyltransferase 1
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: O-fucosyltransferase 1-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: O-fucosyltransferase 1%2C transcript variant X1
+Tae
+  Gene count: 4
+  Modal chromosome: Tae04B
+  Gene Products: O-fucosyltransferase 1-like; O-fucosyltransferase 1-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola11
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl11
+  Gene Products: O-fucosyltransferase 1-like%2C transcript variant X1
+  Gene Descriptions: O-fucosyltransferase 1-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa11
+  Gene Products: O-fucosyltransferase 1; O-fucosyltransferase 1%2C transcript variant X2
+  Gene Descriptions: O-fucosyltransferase 1
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 2
+  Modal chromosome: Pau12
+  Gene Products: O-fucosyltransferase 1-like; O-fucosyltransferase 1-like%2C transcript variant X1
+  Gene Descriptions: O-fucosyltransferase 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi08K
+  Gene Products: O-fucosyltransferase 1-like%2C transcript variant X1; O-fucosyltransferase 1-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: O-fucosyltransferase 1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: uncharacterized protein At1g04910%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100284741
+  Gene Synonyms: GRMZM2G050649,pco096155
+  Gene Descriptions: uncharacterized LOC100284741
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 519 aa
+
+MRRGPGEASLRRRRgPARLWVAVAALVAGTIWLcSSSSvGLtraSYrVQDVDVNKLWRTA
+DSNGWRASSAPRSYWPPPPTESESNGYLRVRCNGGLNQQRSAICNAVVAARIMNATLVLP
+ELDTNSFWRDESGFVGIYDVPHFIKTLKYDVRIVMSIPEITTNGKTKKLKAHQIRPPRDA
+PVTWYTTVALEKMKKYGAIYLTPFSHRLAEDIDDPELQRLRCRVNYHALRFKPHIMKTSS
+EIVNKLRSEGHFMSIHLRFEMDMLAFAGCIDIFTPQEQKILIKYRKEHFAEKELVYRERR
+LIGKCPLTPEEVGLILRAMGFDNTTRIYLASGELFGGKRFMKPFKAMFPRLENHSTVGPG
+KLEENTRGLAGSAVDYMVCLLSDIFIPTYDGPSNFANNLMGHRLYYGFRTTITPNRKALA
+PIFMDREeGRtAGFEERVRQVMFNTHFGGPHKRIHPESFYTNSWPECFCQtNPRNHADrC
+PPDNINDVLESQFQSEEEmEEvKATNQTDStSQTEETmI
+
+
+BOP CONSENSUS:
+Length: 520 aa
+
+MRRGPGEASLRRRRAPARLLVAVAALVtCTIWLWSSSAGLTLtSYKAQDVDVNKLWRTAn
+SNGWRASSAPRSYWPPPPTESETNGYLRVRCNGGLNQQRTAICNAVVAARIMNATLVLPE
+LDTNSFWRDESGFiGIYDVPHFIKTLKYDVRIAMSVPdIiTNGKTKKLKAHQIRPPRDAP
+VTWYTTVALEKMKsYGAIYLTPFSHRLAEDINDPELQRLRCRVNYHALRFKPHIMKTSSE
+IVNKLRSEGHFMSIHLRFEMDMLAFAGCIDIFTPQEQKILIKYRKENFAEKELVYRERRL
+IGKCPLTPEEVGLILRAlGFDNTTRIYLASGELFGGKRFMrPFKAMFPRLENHSSVGPGK
+LEENTRGLAGSAVDYMVCLLSDIFMPTYDGPSNFANNLMGHRLYYGFRTTITPNRKALAP
+IFMDREvGsTAGFEERVRQVMFNTYFGGPHKRIHPESFYTNSWPECFCQeNPRNHADKCP
+PDNIYEVLENQFQSEEnEESiEVKATsQTDSTSQTEETVI
+
+
+PACMAD CONSENSUS:
+Length: 520 aa
+
+MRRGPGSEASLRRRRGPARLWVAVAALVAGTIWLCSSSSVGLfGASYRVQDVDVNKLWRT
+ADSNGWRASSAPRTYWPPPPTESESNGYLRVRCNGGLNQQRSAICNAVVAARIMNATLVL
+PELDTNSFWHDESGFVGIYDVPHFIKTLKYDVRIVMSIPEITtNGKTKKLKAHQIRPPRD
+APVSWYATVALEKMKKYGAVYLTPFSHRLAEDIDDPELQRLRCRVNYHALRFKPHIMKTS
+SEIVNKLRSEGHFMSIHLRFELDMLAFAGCIDIFTPQEQKILLKYRKEHFAEKeLIPRER
+RlIGKCPLTPEEVGLILRAMGFDNTTRIYLASGELFGGKRFMKPFKAMFPRLENHSTVGP
+GKLEENTQGLAGSAVDYMVCLLSDIFIPTYDGPSNFANNLMGHRMYYGFRTTITPNRKAL
+APIFIDRmeGRgiGFEQRIRQVMFNTHFGGPHKRIHPESFYTNSWPECFCQTNARNHADR
+CPPDNINDVLESQFQSEEEMEEARATNQTDSSSQTEEtMI
+
+================================================================================

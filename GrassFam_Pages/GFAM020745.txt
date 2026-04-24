@@ -1,0 +1,137 @@
+================================================================================
+GrassFam ID: GFAM020745
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             485.0 aa
+Family Size (Extended Family Size): 41 (47) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43795:SF20
+Panther Family ID:               PTHR43795
+Modal Panther ID:                PTHR43795:SF20
+Modal Panther Description:       TRYPTOPHAN AMINOTRANSFERASE-RELATED PROTEIN 3
+Modal Panther Family ID:         PTHR43795
+Modal Panther Fam Desc:          BIFUNCTIONAL ASPARTATE AMINOTRANSFERASE AND GLUTAMATE/ASPARTATE-PREPHENATE AMINOTRANSFERASE-RELATED
+Interpro Signature Accession:    cd00609; G3DSA:2.10.25.30; G3DSA:3.40.640.10; G3DSA:3.90.1150.10; PTHR43795; PF04864; SSF53383
+Interpro Signature Description:  AAT_like; -; Aspartate Aminotransferase, domain 1; BIFUNCTIONAL ASPARTATE AMINOTRANSFERASE AND GLUTAMATE/ASPARTATE-PREPHENATE AMINOTRANSFERASE-RELATED; Allinase; PLP-dependent transferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: alliin lyase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: tryptophan aminotransferase-related protein 3-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: tryptophan aminotransferase-related protein 3
+Tae
+  Gene count: 4
+  Modal chromosome: Tae03A
+  Gene Products: tryptophan aminotransferase-related protein 3; tryptophan aminotransferase-related protein 3-like; tryptophan aminotransferase-related protein 4-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl01
+  Gene Products: alliin lyase-like; tryptophan aminotransferase-related protein 3-like
+  Gene Descriptions: alliin lyase-like; tryptophan aminotransferase-related protein 3-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa01
+  Gene Products: alliin lyase; tryptophan aminotransferase-related protein 3
+  Gene Descriptions: alliin lyase; tryptophan aminotransferase-related protein 3
+Ecu
+  Gene count: 10
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: alliin lyase-like; tryptophan aminotransferase-related protein 3-like
+  Gene Descriptions: alliin lyase-like; tryptophan aminotransferase-related protein 3-like
+Svi
+  Gene count: 4
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: alliin lyase-like; tryptophan aminotransferase-related protein 4-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha05
+  Gene Products: alliin lyase-like%2C transcript variant X1; alliin lyase-like%2C transcript variant X2
+Msi
+  Gene count: 5
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: alliin lyase-like
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: Tryptophan aminotransferase-related protein 4; uncharacterized LOC100273094
+  Gene Synonyms: GRMZM2G054115; GRMZM2G181135
+  Gene Descriptions: Tryptophan aminotransferase-related protein 4; uncharacterized LOC100273094
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 485 aa
+
+MEAGGQsarRRPAGLGLLaLLySSLLLNAlFLAHHFLsPSrLLsrddgGGggCGLSWALQ
+AAREAEAVAAvDCSGHGQVFLDGVAGEDGRPGCECNtCFgGPDCSlRTPNCTADADSGNP
+LFLEPYWRRHAAASAVVVSGWHRMSYtTTDGlFQSVELERQIRRLHRAVGNAVVDDKHLV
+FAAGSmQLINALVYALSPDANAASPPARVVATAPYYPaYRTQTvMFDGREYRWgGTTAlW
+ANASRNSTdGFIEFVTSPNNPDAlLrkPVLgGSAAIVDHAYYWPHFTHIPAPADEDVMLF
+TmSKPSGHAGSRFGWALIRDEKVAKRAneYVQnSiMGASRDTQLRMLGIVKaMLANLHGK
+EDIFAFGHDVMRsRWRRLNAVVSRSRRISLQKIPPQYCTYFkRIREPSPAYAWVKCEREE
+DeDCYEALLKAKIITRSGVgNEASSRYTRISLLKSDDDFDVLmERvTDLVDAEKYDdAPp
+GSSSM
+
+
+BOP CONSENSUS:
+Length: 480 aa
+
+MESAFPTAARLGLHVLLYSSLLLNALFvAHHFLSAPPApSPLLSEerNGGALSWALRAAR
+EAESVAAAGCSGHGRVFLDGIVGEDGRPGCECNTCFEGPDCSVRTPDCTVDADSGDPMFL
+EPYWMRHAEASAVVvSGWHRMSYRTTDGLFQSVELERCIRRLHRAVGNAVADDKQIVFAT
+GSMQLINALVYALSPDSNSGSTASVVATTPYYPAYRTQTVLFDSREYRWDGNTSmWANAS
+GNSTTTEDvIEFVTSPNNPDAlLHQPVVgGSSAIVDHAYYWPHFTHIPAPSDEDVMLFTT
+SKLSGHASSRFGWALIRDEKVAKRVNsYIeQSTMGASRDTQLRMLKIFKvILANLHGKED
+IFAFGHDVMRAKWRKLNAVVSRSRRISLQNIPPQYCTYFNKIREPSPAYAWVKCEREEDs
+DCSDVLLKAKIITRSGVWNDASSRYTRISLIKSQDDFDLLLERITEFVDAErAAAGSNSM
+
+
+PACMAD CONSENSUS:
+Length: 487 aa
+
+MEAAgGGQqarRRPAGLGLLALLySSLLLNAlFLAHHFLsPSRLLlrDDGGGgSCGLSWA
+LQAAREAEAVAAVDCSGHGQVFLDGVAGEDGRPGCECNaCFgGPDCSLRTPNCTADADSG
+NPLFLEPYWRRHAAASAVVVSGWHRMSYtTTDGmFQSVELERQIRRLHRAVGNAVVDDKH
+LVFAAGStQLINALVHALSPDAnAASPPARVVATAPYYPpYRTQTaMFDGREYRWGGTTA
+LWANASRNSTDGFIEFVTSPNNPDAlLrkPVLgGSAAAIVDHAYYWPHFTHIPAPADEDV
+MMFTMSKPSGHAGSRFGWALIRDEKVAKRAyEYVQNSIMGASRDTQLRMLGIVKaMLANL
+HGEEDIFAFGHDVMRsRWRRLNAVVSRSRRISLQKIaPQYCTYFKRVREPSPAYAWVKCE
+REEDEDCYEALLKAKIITRSGVgyEASSRYTRiSLLKSDDDFDVLMERVTDLVNAEKYDd
+aPGSSSM
+
+================================================================================

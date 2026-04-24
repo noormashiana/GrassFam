@@ -1,0 +1,128 @@
+================================================================================
+GrassFam ID: GFAM001690
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             427.0 aa
+Family Size (Extended Family Size): 19 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48004:SF36
+Panther Family ID:               PTHR48004
+Modal Panther ID:                PTHR48004:SF36
+Modal Panther Description:       OS06G0478600 PROTEIN
+Modal Panther Family ID:         PTHR48004
+Modal Panther Fam Desc:          OS01G0149700 PROTEIN
+Interpro Signature Accession:    G3DSA:3.80.10.10; PTHR48009; SSF52058
+Interpro Signature Description:  Ribonuclease Inhibitor; LEUCINE-RICH REPEAT (LRR) FAMILY PROTEIN; L domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: probable inactive leucine-rich repeat receptor kinase XIAO
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: probable inactive leucine-rich repeat receptor kinase XIAO
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: leucine-rich repeat receptor-like kinase protein THICK TASSEL DWARF1; probable inactive leucine-rich repeat receptor kinase XIAO
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: LRR receptor-like serine/threonine-protein kinase RGI3
+  Gene Descriptions: LRR receptor-like serine/threonine-protein kinase RGI3
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: DNA damage-repair/toleration protein DRT100
+  Gene Descriptions: DNA damage-repair/toleration protein DRT100
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: DNA damage-repair/toleration protein DRT100-like; leucine-rich repeat receptor-like kinase protein FLORAL ORGAN NUMBER1
+  Gene Descriptions: DNA damage-repair/toleration protein DRT100-like; leucine-rich repeat receptor-like kinase protein FLORAL ORGAN NUMBER1
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: leucine-rich repeat receptor-like protein kinase PXL1; probable inactive leucine-rich repeat receptor kinase XIAO
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: leucine-rich repeat receptor-like kinase protein FLORAL ORGAN NUMBER1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: leucine-rich repeat receptor-like protein kinase PXL1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: Polygalacturonase inhibitor 1
+  Gene Synonyms: GRMZM2G167786
+  Gene Descriptions: Polygalacturonase inhibitor 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 429 aa
+
+MALPPlLLLLLLlLLLLGSRAAWaQaATLHERDAAALRDVRAGLRDLPGSRFFDSWDDAR
+SPCAYAGVVCAPDEDDPSsaaLRVSVLTLGTGLADSPGLAGTLPASLASLtALTDLVLYP
+GRVsGaIPaDIGSGLRRLRLLSLSGNQLTGPVPESLAGLPDLHTLDLGNNRLEGAIPsGL
+LLPSSPSLKVLILANNGGLSGQIPAQFsSSQLFHVDLSRNAITGtLPPLPPTlRYFSVAG
+NsMQGSLDGAFGnGsaPADLAFLDLSMNNFSGSIPPeVFALPSASSLLLSRNNFTGpLaV
+PAapSAtpPWSVVDVSHNGISGEVPEALAAAGSLYVNNNRmSGEVPeAVARSVFAGRMTT
+FYAQHNFLTGFPVPPlPLPDSAALCLSYNCMELPSASAADGCPTIGGPLEARPADQCRSt
+taGSSGGDG
+
+
+BOP CONSENSUS:
+Length: 425 aa
+
+MALPPPLLLLLLLQLLcSlLLGArAALHERDAAALRDVRAGLRDLPGSRFFESWDDGASa
+PCAYAGVVCAPDEDDPSGALLRVSVLTLGTGLSDSPGLAGSVPASLASLTALTDLVLYPG
+RVGGSIPEDIGSGLRRLRLLSLSGNQLTGPVPESLAGLPELHTLDLGNNRLEGAIPSGLL
+LPSSPSLKVLILANNVGLSGQIPDQFPSSQLFHVDLSRNAITGtLPPLPPTlRYFSVAGN
+SMEGSLDGAFAGNGQGPADLAFLDLSMNDFSGSIPPEVFALPSASSLLLSRNNFTGSLAV
+PAAPASATPPWSVVDVSHNGLTGEVPEALAAAGSLYVNNNKISGEVPEAVARSVFDGRMT
+TFYAQHNFLTGFPVPPTPLPDSAALCLSYNCMDLPSASAADGCPTIGGPLESRPADQCRS
+SGGDG
+
+
+PACMAD CONSENSUS:
+Length: 427 aa
+
+MPLPPLvlLLLLLLGMLASWAPAQAATLHERDAAALRDLRASLRDLPGSRFFDSWDDARS
+PCAYAGVVCAPDEDDpASgvLRVSVLTLGTGLADSPGLAGTLPDSLSTLAALTDLVLYPG
+RVSGPIPADLGSGLRRLRLLSLSGNQLTGPVPESLAGLPDLHTLDLGNNRLEGAVPTGLL
+LPSSPSLKVLILANNGGLSGEIPAGFSSSQLFHVDLSRNALTGgLPPLPPTLRYFSVAGN
+AMQGTLDGVFGDGSAPADLAFLDLSMNNFSGSIPPsVFALPSLSSLLLSRNNFTGPLTVP
+PPAApqPWAVVDVSHNGISGEVPEALAAAGSLYVNNNRMSGEVPAAVARSVLAGRMTTLY
+AQHNFLTGFPVPPLPLPDSAALCLSYNCMELPSASAADGCPTIGGPLEARPAEQCRSTtd
+GsSGGDG
+
+================================================================================

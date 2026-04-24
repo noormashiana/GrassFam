@@ -1,0 +1,112 @@
+================================================================================
+GrassFam ID: GFAM003069
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             372.5 aa
+Family Size (Extended Family Size): 38 (42) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR22835
+Modal Panther ID:                PTHR22835:SF651
+Modal Panther Description:       GDSL ESTERASE_LIPASE
+Modal Panther Family ID:         PTHR22835
+Modal Panther Fam Desc:          ZINC FINGER FYVE DOMAIN CONTAINING PROTEIN
+Interpro Signature Accession:    cd01837; G3DSA:3.40.50.1110; PTHR22835; PF00657
+Interpro Signature Description:  SGNH_plant_lipase_like; SGNH hydrolase; ZINC FINGER FYVE DOMAIN CONTAINING PROTEIN; GDSL-like Lipase/Acylhydrolase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu02H
+  Gene Products: GDSL esterase/lipase At1g28600-like
+Ata
+  Gene count: 4
+  Modal chromosome: Ata02D
+  Gene Products: GDSL esterase/lipase At1g28600; GDSL esterase/lipase At1g28600-like
+Tae
+  Gene count: 11
+  Modal chromosome: Tae02D
+  Gene Products: GDSL esterase/lipase At1g28600-like; GDSL esterase/lipase At1g28600-like%2C transcript variant X1; GDSL esterase/lipase At1g28600-like%2C transcript variant X2; GDSL esterase/lipase At5g45910-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ecu
+  Gene count: 4
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 2
+  Modal chromosome: Pau02
+  Gene Products: GDSL esterase/lipase At1g28600-like; GDSL esterase/lipase At5g45910-like
+  Gene Descriptions: GDSL esterase/lipase At1g28600-like; GDSL esterase/lipase At5g45910-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: GDSL esterase/lipase At1g28600-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha05
+  Gene Products: GDSL esterase/lipase At1g28600-like; GDSL esterase/lipase At5g45910-like%2C transcript variant X1
+Msi
+  Gene count: 3
+  Modal chromosome: Msi06
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi03
+  Gene Products: GDSL esterase/lipase At1g28600; GDSL esterase/lipase At1g28670%2C transcript variant X1; GDSL esterase/lipase At5g45910
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 371 aa
+
+MRtpHaAlLLLFlLaCLrGAYSGgksrFTSIfSFGDSYADTGNLVrWAdPVlPglPfnNL
+PYGETFFGHPTGRASDGRLVLDFIAEALGLPFVPPYLAKgqNFSaGVNFAVVGAPALdLT
+YLQGQNiTvnPPINSSLhDQLgWFEKLKPSLCkTgQGtDCFGsSLFVMGEFGGNDYvffL
+aSNkTVEQtrtYVPqIVDaIsrGVERLIQHGAKYIVVPDiFPtGCiPiiLTllASPNKvD
+YDRyGCLKsfNRLARYHNsLLRqrIkaLRhKYPHTKIIfAEYYRPVLAFLdMPgHFGFNs
+STTLltCCGAGGPYNYdfnAgCGlPGVTACADPSqALQWDGFHLTESAYRaIAdGWLHGP
+YAdPPIlhLAR
+
+
+BOP CONSENSUS:
+Length: 372 aa
+
+MRTPHAALLLLFILACLRGAYSGGGRSRFTSIISFGDSYADTGNLVMWADPVLPGLPLKN
+LPYGETFFGHPTGRATDGRLVLDFIAEALGLPFVPPYLAKGSNFSAGVNFAVAGAPALNL
+TYLQGQNLTVNPPINSSLHDQLvWFQKLKPSLCKGQGTDCFGSSLFVMGEFGgNDYRSFL
+LSNRTVEQArvYVPQIVDSISRGVERLIQhGAKYIVVADIFPlGClPgvLTKLASPNKVe
+YDRHGCLKSvNRLGRYHNSLLRQRIKlLRHKYPHTKIIAAEYYRPvLAFLDMPGHFGLNS
+STTLLTCCGAGGPPYNYDFNAGCGLPGVmACADPSQALQWDGFHLTESAYRAVADGWLHG
+PYADPPIMHVAR
+
+
+PACMAD CONSENSUS:
+Length: 375 aa
+
+MRssIiAaVLLLLVSClLHGADAghRPKplFTAIFSFGNSYADTGNFVRLAAPfIPvIPF
+NNLPYGETFFGHPTGRASNGRIILDFIAeAFGLPFVPPSLDkTQNFSKGANFAVVGATAL
+DLAYFleqNITSVPPFNSSLSVQLGWFEQLKPSLCNTtkGCDDYLGKSLFfMGEFGGNDY
+VFLLAANKTVEQTRaYVPAVVKAIADGVERLIqHGAKRIVVPGNLPTGCIPIILTLYASP
+NKSDYDrYGCLdKFNGLARYHNaLLRRqVrALRiKYPhTKIAFADYYRPVLaFLqkPAnF
+GFDGSTALVaCCGAGGrYNYNatAACGfPGATACADPSkAVNWDGIHLTEAAYrDIAgGW
+LRGPfAEPPILsLAh
+
+================================================================================

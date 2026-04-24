@@ -1,0 +1,121 @@
+================================================================================
+GrassFam ID: GFAM001197
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             675.5 aa
+Family Size (Extended Family Size): 24 (44) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR27006:SF615
+Panther Family ID:               PTHR27006
+Modal Panther ID:                PTHR27006:SF615
+Modal Panther Description:       CYSTEINE-RICH RECEPTOR-LIKE PROTEIN KINASE 10
+Modal Panther Family ID:         PTHR27006
+Modal Panther Fam Desc:          PROMASTIGOTE SURFACE ANTIGEN PROTEIN PSA
+Interpro Signature Accession:    cd23509; cd14066; G3DSA:3.30.200.20:FF:000142; G3DSA:1.10.510.10:FF:000343; G3DSA:3.30.430.20:FF:000010; G3DSA:3.30.430.20:FF:000002; G3DSA:3.30.200.20; G3DSA:1.10.510.10; G3DSA:3.30.430.20; PTHR27002; PF00069; SM00220; SSF56112
+Interpro Signature Description:  Gnk2-like; STKc_IRAK; Cysteine-rich receptor-like protein kinase 10; Cysteine-rich receptor-like protein kinase 28; Phosphorylase Kinase; domain 1; Transferase(Phosphotransferase) domain 1; -; RECEPTOR-LIKE SERINE/THREONINE-PROTEIN KINASE SD1-8; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu01H
+  Gene Products: cysteine-rich receptor-like protein kinase 10
+Ata
+  Gene count: 2
+  Modal chromosome: Ata01D
+  Gene Products: cysteine-rich receptor-like protein kinase 10; cysteine-rich receptor-like protein kinase 15
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: cysteine-rich receptor-like protein kinase 10; cysteine-rich receptor-like protein kinase 15; putative receptor-like protein kinase At4g00960
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: cysteine-rich receptor-like protein kinase 15
+  Gene Descriptions: cysteine-rich receptor-like protein kinase 15
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: cysteine-rich receptor-like protein kinase 15
+  Gene Descriptions: cysteine-rich receptor-like protein kinase 15
+Ecu
+  Gene count: 10
+  Modal chromosome: Ecu07
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi03K
+  Gene Products: putative receptor-like protein kinase At4g00960
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: putative receptor-like protein kinase At4g00960
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 667 aa
+
+MAPSPRAMRSLlPLyLLLLLitAATANADnLitTdCPSNTNYTRGGAFQANLDALLSSLP
+AAAAASSGFAENaTGAAPDqAYGLAQCRADVsASDCRtCLDaSARDaAtkCPGQKtAvLI
+YDgCLLRYSNASFFGAADTSwvrrlCNtdNATQPELFktQLGALMSNLtsrAASSPRMFA
+AGaADlTPFtKIYGMAQCTRDLAgDDCnrCLagAVSsIPkcCDGKQGGRviyRSCSIRYE
+VYpFYNAQAAEAAMSPpPPPAPAVNGSDHSGPAGRAGSddtVaKiALfVSIPVAVvLLVL
+LtVAlYLCKKNrKPHEHVrISSsdsgDgEEMRSSESLLYDLSTLRAATDNFSEENKLGEG
+GFGPVYKGTLQDGQEIAVKRLSkTSQQGqVEMKNEVVLVAKLQHKNLVRLLGCCIEEeEK
+LLVYEFLsNKSLDKILFDPARQQELtWGQRYKIIqGIGRGLLYLHEDSRLTIIHRDLKAS
+NILLDpDMNPKISDFGLAKLFSiDASVgNTSHIAGTYGYMAPEYALHGIFSAKSDVYSYG
+VLVLEIITGRRNnFsQNGEDLLttVWRHWSRGSVsgLLDGCsADGlqPqEMLRCIHVGLL
+CVQEDAHLRPgMAaVVVMLNSRSITLPVPTpPAFVVSGRAGApaeaPagAVrEPsINeAS
+VSDLEPR
+
+
+BOP CONSENSUS:
+Length: 679 aa
+
+MAPSPRAMRSLSPLYSLLLLIGAAmAAADLWhTDCPSDTNYTRGGVFQANLDALLSFLPA
+AASAASGFAENATGAAPDEAYGLAQCRADVSASDCRTCLDASVRDAATKCPGQKtSVLIY
+DnCLLRYSNASFFGAADTSwvvrLCNTDNATQPELFKTQLGALMSNLTSRAAYSSPRMFA
+AGtADlTPFTKIYGMAQCTRDLAGDDCNRCLtGAVSSIPTtCDGKQGGQVIyRSCSIRYE
+VYlFYNAQAAEAAMSPPPPPPPAVNGSDHSGPAGRAGNDDATAKIALFVSIPVAVVLLVL
+LTVALYLCKRKNKKPHEHVrISSaDSEDGTDMRSSESLLYDLSTLRAATDNFSEENKLGE
+GGFGPVYKGTLQDGQEIAVKRLSKTSQQGqVEMKNEVVLVAKLQHKNLVRLLGCCIQEEE
+MLLVYEFLCNKSLDKILFDPARRQELTWGQRFRIIQGIGRGLLYLHEDSRLTIIHRDLKA
+SNILLDPDMNPKISDFGLAKLFSVDASVGNTSHIAGTYGYMAPEYALHGIFSAKSDVYSY
+GVLVLEIVAGRRNNFsQYPGTNGEDLLTTVWRHWSRGSVSGLLDGCSADGLQPTEMLRCI
+HVGLLCVQEDAHLRPGMAAVVVMLNSRSITLPVPTPPAYVVSGRAGALGRSTTREAQAPA
+GAVRGPYVNDASVSDLEPR
+
+
+PACMAD CONSENSUS:
+Length: 642 aa
+
+MHSLLPLLLvfSSlLLLTATTNADNLTFYItseCssNTNYTRGSAFQANLDALLSSLPAA
+AASSSGFAKNVTGAAPDQAYGLAQCRGDisASDCRsCLdvSARemAsrCPGQKtALLIYE
+GCLLRYSNASFFGqAsTSwPrrwCnPqtAQppQFmSsLdALMssLtgKAhGSPRMFAAGA
+AelTsYvKLYGMAQCTQDLSrDDCtlCLanAVsaITKqCdGrqGGRifyRSCSlRFEVYP
+FYDAQAAEAAMSPvPAPAPGPVNGtGStrTVRTAILVSVPVALTLLLLLFVAIYICNRKR
+HKHVqvASdGHGDeEEMRSSEPLQYDLSTLRAATDNFSEQNKLGQGGFGPVYKGTLQNGQ
+EIAVKRLStTSQQGqVEMKNEVVLVAKLQHKNLVRLLGYCIEEHEKLLVYEFLSNKSLDK
+ILFGPtRQqELSWEQRYKIIEGIGRGLMYLHEDSRLTIIHRDLKPGNILLDADMNPKISD
+FGLAKLFkIDLSVANTsHVAGTYGYMAPEYAlrGIFStKSDVYSYGVLVLEIITGRRpSE
+DLLKFVWkHWSqGNVLQLLDSCPADkRGrQEMLRCIHIGLLCVQEDPQLRPsMASVVLML
+NSRSMTLPaPTEPaFAVPsERPRVAAPEPSINEASVSDLEPR
+
+================================================================================

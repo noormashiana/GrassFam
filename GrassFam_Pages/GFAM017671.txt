@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM017671
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             393.5 aa
+Family Size (Extended Family Size): 34 (35) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22952:SF175
+Panther Family ID:               PTHR22952
+Modal Panther ID:                PTHR22952:SF175
+Modal Panther Description:       PROTEIN ABSCISIC ACID-INSENSITIVE 5
+Modal Panther Family ID:         PTHR22952
+Modal Panther Fam Desc:          CAMP-RESPONSE ELEMENT BINDING PROTEIN-RELATED
+Interpro Signature Accession:    cd14707; G3DSA:1.20.5.170:FF:000060; PTHR22952
+Interpro Signature Description:  bZIP_plant_BZIP46; protein ABSCISIC ACID-INSENSITIVE 5 isoform X1; CAMP-RESPONSE ELEMENT BINDING PROTEIN-RELATED
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: ABSCISIC ACID-INSENSITIVE 5-like protein 1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: bZIP transcription factor ABI5 homolog%2C transcript variant X1
+Ata
+  Gene count: 3
+  Modal chromosome: Ata03D
+  Gene Products: bZIP transcription factor ABI5 homolog; bZIP transcription factor ABI5 homolog%2C transcript variant X2; bZIP transcription factor ABI5 homolog%2C transcript variant X3
+Tae
+  Gene count: 13
+  Modal chromosome: Tae03B
+  Gene Products: bZIP transcription factor ABI5 homolog; bZIP transcription factor ABI5 homolog%2C transcript variant X1; bZIP transcription factor ABI5 homolog%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: bZIP transcription factor ABI5 homolog
+  Gene Descriptions: bZIP transcription factor ABI5 homolog
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: bZIP transcription factor ABI5 homolog
+  Gene Descriptions: bZIP transcription factor ABI5 homolog
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: bZIP transcription factor ABI5 homolog; bZIP transcription factor ABI5 homolog%2C transcript variant X2
+  Gene Descriptions: bZIP transcription factor ABI5 homolog
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: bZIP transcription factor ABI5 homolog; bZIP transcription factor ABI5 homolog%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: bZIP transcription factor ABI5 homolog
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: protein ABSCISIC ACID-INSENSITIVE 5
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: ABA response element binding factor; ABRE binding protein
+  Gene Synonyms: GRMZM2G168079
+  Gene Descriptions: ABA response element binding factor; ABRE binding protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 395 aa
+
+MASEMSKDVKFSEEEVTSHpRvLeGEEQtvpLARQSSIFALTLDELQYSLCEPGRNFGSM
+NMDEFMSNIWNAEEFQAATGGcLVGMEeApVVGAgGGgGGGDAGGSgLaRQGSFSLPPPL
+CRKTVEEVWAEINREPrpVHAQPQaArPSPQpPVQPqaGSGGVAANgRQGTLGEMTLEQF
+LVKAGVVRGSgAGGQAPVPVGMVHGQMNPMQQGQQPGPMMYPVAPANaMFPVMGDGMGFI
+PNGYAGMAVVPPPPPsQGGvGIVSPGSSDGRSAMTQADMMNCMGdGaMMENGGARKRgAP
+EDqScEkSvERRHRRMIKNRESAARSRARKQAYTVELEAELNHLKEENARLKAEEKTILL
+TKKQMLVEKMMEQSKENVNAKKGGrLSRRCGSCIW
+
+
+BOP CONSENSUS:
+Length: 395 aa
+
+MASEMSKDVKFSEEEVTSHPRVLEGEEQTVAPARQSSIFALTLDELQYSVCEAGRNFGSM
+NMDEFMSNIWNAEEFQAATGGgLVGMEVAPVVGAGGGGGGgDAGGSNLARQESFSLPPPL
+CRKTVEEVWAEINREPRPVHAQPQAARPSPQPPVQPPAGNGgVAANDRQGTLGEMTLEQF
+LVKAGVVRGSGtGGQAPVPVGMVHGQMNPvQQGQQPGPMMYPMAPANGMFpVMGDGMGFI
+PNGYAGMVVVPPPPPPQGGVGIVSPGSSDGRSAMTQADMMNCMGDGAMMENGGARKRGAP
+EDQSCERSIERRHRRMIKNRESAARSRARKQAYTVELEAELNHLKEENARLKAEEKTILL
+TKKQMLVEKMMEQSKENVNAKKGGtLSRRCGSCIW
+
+
+PACMAD CONSENSUS:
+Length: 401 aa
+
+MASEMSKNVKVLDEQEVTSHQRDQGVRARtggAAAEEQADPLARQSSIMSLTLEELQNSL
+CEPGRNFGSMNMDEFMANIWNAEEFQAATGGCKkDgaErEpaPvAAatGtGGGGGGSGLV
+RQGSFALPPPLSRKTVEEVWAEINQGPADAQAHAAPQAVVQPQMGSGGVAASGRQVTLGE
+MTLEDFLVKAGVVRGAFAGHGQAVGMVPAGPMGHMQQGQLAAPMMYQVAPpNAVYPVMGD
+GMGYHNGYPGGMAVVPPPPPSQCVAAAVSPGSSDGMSAMTQAEMMNCIGNGGMVRNGGGA
+RKRDSPEDGCTEKTVERRQRRMIKNRESAARSRARKQAYTVELEAELNHLKEENARLRAE
+EKTILLSKKKMLVEKMMEQARENVSAKKGGRGLRRCGSAMW
+
+================================================================================

@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM002234
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             431.0 aa
+Family Size (Extended Family Size): 28 (28) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43200:SF13
+Panther Family ID:               PTHR43200
+Modal Panther ID:                PTHR43200:SF13
+Modal Panther Description:       3'(2'),5'-BISPHOSPHATE NUCLEOTIDASE
+Modal Panther Family ID:         PTHR43200
+Modal Panther Fam Desc:          PHOSPHATASE
+Interpro Signature Accession:    cd01517; G3DSA:3.30.540.10:FF:000022; G3DSA:3.40.190.80:FF:000017; G3DSA:3.30.540.10; G3DSA:3.40.190.80; PTHR43200; PF00459; SSF56655
+Interpro Signature Description:  PAP_phosphatase; Putative PAP-specific phosphatase, mitochondrial; -; PHOSPHATASE; Inositol monophosphatase family; Carbohydrate phosphatase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: putative PAP-specific phosphatase%2C mitochondrial%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu02H
+  Gene Products: putative PAP-specific phosphatase%2C mitochondrial; putative PAP-specific phosphatase%2C mitochondrial%2C transcript variant X1
+Ata
+  Gene count: 2
+  Modal chromosome: Ata02D
+  Gene Products: putative PAP-specific phosphatase%2C mitochondrial
+Tae
+  Gene count: 6
+  Modal chromosome: Tae02A
+  Gene Products: putative PAP-specific phosphatase%2C mitochondrial; putative PAP-specific phosphatase%2C mitochondrial%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl07
+  Gene Products: putative PAP-specific phosphatase%2C mitochondrial
+  Gene Descriptions: putative PAP-specific phosphatase%2C mitochondrial
+Osa
+  Gene count: 2
+  Modal chromosome: Osa07
+  Gene Products: putative 3'(2')%2C5'-bisphosphate nucleotidase%2C mitochondrial; putative 3'(2')%2C5'-bisphosphate nucleotidase%2C mitochondrial%2C transcript variant X1
+  Gene Descriptions: putative 3'(2')%2C5'-bisphosphate nucleotidase%2C mitochondrial
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 1
+  Modal chromosome: Pau14
+  Gene Products: putative PAP-specific phosphatase%2C mitochondrial
+  Gene Descriptions: putative PAP-specific phosphatase%2C mitochondrial
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi02K
+  Gene Products: putative PAP-specific phosphatase%2C mitochondrial%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: putative PAP-specific phosphatase%2C mitochondrial
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi09
+  Gene Products: putative PAP-specific phosphatase%2C mitochondrial
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: uncharacterized LOC100192833
+  Gene Synonyms: GRMZM2G036007,si946019d11
+  Gene Descriptions: uncharacterized LOC100192833
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 432 aa
+
+MPLLHLSLPPHRLLVGGRRRLFfPPaPRrsRLSVRAAAGDaaVSAAAeaYGLPFPPERAa
+HHRELAAAAAAVERACRLCVDVKRSLLSGGrKILEKNDQTPVTIADFGVQALISLELQRL
+FPSIPLVAEEDSASLRSSNaDDNSSNVLVESISSAVADKVSNsGSPLTHDDVLRAIDRGG
+KDAVSFDSNPATYWVLDPIDGTKGFLrGDDALYVVGLALVVNGKVtVGVMGCPNWTNDTI
+ANkKDDSAAACnGRGILMVSHVGCGTWSRRLSaEIGQFTTAQDIWKRCFVDtCSVVHMAR
+YCIPDSQTWNMIPLSVLFNSTTDESDPRDENEILLLSVFCGSLCKYLTVASGRASVFVLR
+ARvTTQIKSWDHAVGVICVQEAGGQISDWSGKPLDLAADLTGRRIIYPSGGVLVTNGALH
+DKLVEMISANYK
+
+
+BOP CONSENSUS:
+Length: 429 aa
+
+MPLLHLSLPPHRLLVGRRRLFAPPTPPPSRISIRAAAsIsAAAEDGCDLPFPPERAPHHR
+ELAAAAASVERACRLCVDVKRSLLSGGRKILEKNDQSPVTIADFGVQALISFELQQLFPS
+IPLVAEEDSAFLRSSNPDDNSSNVLVESISSAVADKVKNSGSpLTHDDVLRAIDRGGKDA
+VSFDSNPATYWVLDPIDGTKGFLKGDDALYVVGLALVVNGKVAVGVMGCPNWTNgTTANK
+KEESLDpCPGNGILMVSHVGCGTWSRHLSPEIGQFTTAQDVWKRCFVDACSVVHMARFCI
+PDSQTWNMIPLSVLFDSTTDESDTRDENKILLRYACCGSLCKYLMVASGRASVFFSRARV
+NTQIKAWDHAVGVICVQEAGGQISDWSGKPLDLAADLTGRRILYPSGGVLVTNGALHDKL
+VELISANYK
+
+
+PACMAD CONSENSUS:
+Length: 432 aa
+
+MPLLHLSLPPHRLLVGGRGRLfFPPAPRHTRLSVRAAAGDAAVSVAAGAYGLPFPPErAs
+HHRELAAAvAAVERACRLCVDVKRSLFSGGsSILEKNDQTPVTIADFGVQALVSLELQRL
+FPSIPLVAEEDSASLRSSkADDNSSDvLVESIFSAVADKVSNNGSPLTQDDVLRAIDRGG
+KDAVSFDSNPATYWVLDPIDGTKGFLRGDDALYVVGLALVVNGKVTVGVMGCPNWTNDTI
+ANkKDDSAAACNGRGILMVSHiGCGTWSRRLSAEIGQFTTAQDIWKRCFVDTCSVVHMAR
+YCIPDSQTWDMIPLSVLFNSTTDESDPRNENEILLLSVFCGSLCKYLTVASGRASVFVLR
+ARPTTQIKSWDHAVGVICVQEAGGQISDWSGKPLDLAADLTSRRIIYPSGGVLVTNGALH
+DKLVEMISANYK
+
+================================================================================

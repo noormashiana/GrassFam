@@ -1,0 +1,126 @@
+================================================================================
+GrassFam ID: GFAM003370
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             482.0 aa
+Family Size (Extended Family Size): 27 (30) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48021:SF17
+Panther Family ID:               PTHR48021
+Modal Panther ID:                PTHR48021:SF17
+Modal Panther Description:       MAJOR FACILITATOR SUPERFAMILY (MFS) PROFILE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR48021
+Modal Panther Fam Desc:          FAMILY NOT NAMED
+Interpro Signature Accession:    cd17358; G3DSA:1.20.1250.20:FF:000043; G3DSA:1.20.1250.20; TIGR00879; PTHR48021; PF00083; SSF103473
+Interpro Signature Description:  MFS_GLUT6_8_Class3_like; sugar transporter ERD6-like 6; MFS general substrate transporter like domains; sugar porter family MFS transporter; -; Sugar (and other) transporter; MFS general substrate transporter
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: sugar transporter ERD6-like 5
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: sugar transporter ERD6-like 5
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: sugar transporter ERD6-like 5%2C transcript variant X2
+Tae
+  Gene count: 8
+  Modal chromosome: Tae02A
+  Gene Products: sugar transporter ERD6-like 5; sugar transporter ERD6-like 5%2C transcript variant X1; sugar transporter ERD6-like 5%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola11
+Ecu
+  Gene count: 4
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: sugar transporter ERD6-like 5%2C transcript variant X1
+  Gene Descriptions: sugar transporter ERD6-like 5
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi05N
+  Gene Products: sugar transporter ERD6-like 5%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: sugar transporter ERD6-like 5
+Msi
+  Gene count: 1
+  Modal chromosome: Msi06
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi03
+  Gene Products: sugar transporter ERD6-like 5; sugar transporter ERD6-like 5%2C transcript variant X3
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: Sugar transporter ERD6-like 3%2C transcript variant X1; uncharacterized LOC100279760
+  Gene Synonyms: GRMZM2G134192
+  Gene Descriptions: Sugar transporter ERD6-like 3; uncharacterized LOC100279760
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 472 aa
+
+MSTEWEGVEAKKPLLVAgNnsASSIWVVVASTAVAVAGSFVFGISVGYSSPSQEGIMRDL
+HLSLAEYSVFGSILTIGAMLGAIVSGTIADRVGRRCAMAISDVFCILGYLLIvFSKNSVW
+LDLGRLSIGCGIGLLSYVVPVYISEITPKNLRGRFAAVNQFMICCGASLAYALGTCITWR
+TLAIVGVTPCLLQLVGLLVIPESPRWLAKIGHsGALEEALQKLRGKETDISEEAADIKDF
+TEKLQHLPQSKMLDLFQKDYIHAVTVGVGLMVLQQFGGVNAICFYASEIFVSAGFSSGNT
+GMLAMVAVQIPMTALGVLLLDKAGRRPLLMVSAAGTCLGCLLVGLSFLSKEHHWAKDLNV
+aLALaGILIFsGSFSLGMGGIPWVIMSEIFPIHMKGSAGSLVTLVSWLGSWIVSYAFNFL
+LLWSSYGTFFmFASICGLTVVFVERLVPETKGRTLEEIQASMNSSLtPvSSG
+
+
+BOP CONSENSUS:
+Length: 477 aa
+
+MSTEWEGVEAKKPLLVAGNNRASSIWVVVASTTVAVAGSFVFGISVGYSSPSQEGIMRDL
+HLSLAEYSVFGSILTIGAMLGAIVSGTIADRVGRRCAMAISDVFCILGYLLIVFSKNSVW
+LDLGRLSIGCGIGLLSYVVPVYISEITPKNLRGRFAAVNQLMICCGASLAYALGTCITWR
+TLAIVGVTPCLLQLVGLLVIPESPRWLAKIGHSGALEEALQKLRGKETDISEEAADIKDF
+TEKLQHLPQSKMLDLFQKDYIHAVTVGVGLMVLQQFGGVNAICFYASEIFVSAGFSSGNT
+GMLAMVAVQIPMTALGVLLLDKAGRRPLLMVSAAGTCLGCLLVGLSFLSKEHHWAKDLNV
+ALALTGILIFSGSFSLGMGGIPWVIMSEIFPIHMKGSAGSLVTLVSWLGSWIVSYAFNFL
+LLWSSYGTFFMFASICGLTVVFVERLVPETKGRTLEEIQASMNSSLAPVSSGINRAA
+
+
+PACMAD CONSENSUS:
+Length: 483 aa
+
+MEHEDQEAQKPLLATAAGSSGDGRqGAASsSSSSSIAVVVASTAVAVAGSFEFGISVGYS
+SPSQPGIMRDLDLSLAEYSVFGSILTIGAMLGAIVSGTVADRVGRRSAMAISDLLCILGY
+LLITFSQNFWWLDIGRFSIGCGIGLLSYVVPVYISEITPKNLRGGFATVNQFMICCGASL
+AYVLGTFITWRTLAIIGVAPCLLQLVGLLVTPESPRWLARFGHPGAFEAALQKLRGKGTD
+ISDEATEIKDFTEKLQQLPKSKMLDLFQKDYIRAVTVGVGLMVLQQFGGVNAICFYASEI
+FVSAGFSSGNTGMLAMVAVQIPMTGLGVLLMDKAGRRPLLMVSAAGTCLGCLLVGLSFLA
+KEHHWGKDLNLVLALAGILIFGGSFSLGMGGIPWVIMSEIFPINMKGAAGSLVTLVSWLG
+SWIVSYAFNFLLVWNSYGTFFIFASVCGLTVVFVERLVPETKGRTLEEIQASMNSSLTgP
+ssL
+
+================================================================================

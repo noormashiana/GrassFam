@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM012061
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             346.0 aa
+Family Size (Extended Family Size): 21 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13017:SF0
+Panther Family ID:               PTHR13017
+Modal Panther ID:                PTHR13017:SF0
+Modal Panther Description:       METHENYLTETRAHYDROFOLATE SYNTHASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR13017
+Modal Panther Fam Desc:          5-FORMYLTETRAHYDROFOLATE CYCLO-LIGASE-RELATED
+Interpro Signature Accession:    G3DSA:3.40.50.10420:FF:000004; PTHR13017; PF01812; SSF100950
+Interpro Signature Description:  5-formyltetrahydrofolate cyclo-ligase-like protein COG0212; 5-FORMYLTETRAHYDROFOLATE CYCLO-LIGASE-RELATED; 5-formyltetrahydrofolate cyclo-ligase family; NagB/RpiA/CoA transferase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: 5-formyltetrahydrofolate cyclo-ligase-like protein COG0212%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: 5-formyltetrahydrofolate cyclo-ligase-like protein COG0212%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: 5-formyltetrahydrofolate cyclo-ligase-like protein COG0212
+Tae
+  Gene count: 2
+  Modal chromosome: Tae05B
+  Gene Products: 5-formyltetrahydrofolate cyclo-ligase-like protein COG0212; 5-formyltetrahydrofolate cyclo-ligase-like protein COG0212%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl12
+  Gene Products: 5-formyltetrahydrofolate cyclo-ligase-like protein COG0212
+  Gene Descriptions: 5-formyltetrahydrofolate cyclo-ligase-like protein COG0212
+Osa
+  Gene count: 1
+  Modal chromosome: Osa12
+  Gene Products: 5-formyltetrahydrofolate cyclo-ligase-like protein COG0212
+  Gene Descriptions: 5-formyltetrahydrofolate cyclo-ligase-like protein COG0212
+Ecu
+  Gene count: 5
+  Modal chromosome: Ecu06
+Pau
+  Gene count: 1
+  Modal chromosome: Pau22
+  Gene Products: 5-formyltetrahydrofolate cyclo-ligase-like protein COG0212%2C transcript variant X2
+  Gene Descriptions: 5-formyltetrahydrofolate cyclo-ligase-like protein COG0212
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi03K
+  Gene Products: 5-formyltetrahydrofolate cyclo-ligase-like protein COG0212%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: 5-formyltetrahydrofolate cyclo-ligase-like protein COG0212%2C transcript variant X2
+Msi
+  Gene count: 1
+  Modal chromosome: Msi15
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: 5-formyltetrahydrofolate cyclo-ligase-like protein COG0212%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: 5-formyltetrahydrofolate cyclo-ligase1%2C transcript variant X1
+  Gene Synonyms: GRMZM2G001904
+  Gene Descriptions: 5-formyltetrahydrofolate cyclo-ligase1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 342 aa
+
+MPLLLPAsPPLSLcaAAsASRRAtvAVASAAsgSSSSSSaSFDAAAFEAERLRLDAAARA
+GMASAAAAAEADPRAWKWaIRKRVWDALEAEGVARDPRPVHHRIPNFDGAAAAADSLGRL
+DVFQNAQCVKVNPDSPQKQVRFLTLSGDKKLLTPQPRLRTGFFSVLESQMIPaGCIPEAC
+TSVGAAKYGRPIGLDERIKVDLIVIGSVAVDPSSGARLGKGEGFAELEYGMLRYMGAIDD
+STMIVTTVHDKQLVDDIPVEKLLVHDVPVDIICTPTQVIFTnTTIPKPQGIYWEKLSPEK
+LGQIRILRELKRRIEQETGTILPCGPSEKLPPTAQRRRRRwR
+
+
+BOP CONSENSUS:
+Length: 347 aa
+
+MPPLLLPASPSLSLHlAAAAASSSRRAtVAVASAASRSSSSSSSSFDAAAFEAERLRLDA
+DARASMATTAAGAQAeADPRAWKWkIRKRVWDVLEAEGVARNPRPVHHRIPNFDGAAAAA
+DSLGRLDVFQNAQCVKVNPDSPQKQVRFLTLSGDKKLLTPQPRLRTGFFSVLESQMIPtG
+CIPEACTSVGAAKYGRPIGLDErIKVDLIVIGSVAVDPSTGARLGKGEGFAELEYGMLRY
+MGAIDDSTMIVTTVHDKQLVDDIPVEKLLIHDVPVDIICTPTQVILTNTTIPKPQGIYWE
+KLSPEKLGQIRILRELKRRIEQETGTtLPCGPSENLPPTAQRRRRGR
+
+
+PACMAD CONSENSUS:
+Length: 339 aa
+
+MPLLFAtPPLPLClAARRATAAVASAArSSSSSSASFDAAAFEAERLRLDAAARAGMASA
+AAAAEADPRAWKWAIRKRVWDALEAEGVARDPRPVHHRIPNFDGAPAAADaLGRLDVFQN
+SQCVKVNPDTPQKQVRFLTLSGDKKLLTPQPRLRTGFFSVLDSQMIPaGCIPEACTSVGA
+AKYGRPIGLDERIKVDLIVIGSVAVDPsSGARLGKGEGFAELEYGMLRYMGAIDDSTMIV
+TTVHDKQLVDDIPVEKLLVHDVPVDIICTPTQVIFTKTTIPKPQGIYWEKLSPEKLGQIR
+ILRELKrRIEQETGTILPCGPSEKLPPTAQRRRRWQRRR
+
+================================================================================

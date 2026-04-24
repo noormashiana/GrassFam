@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM019568
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             399.0 aa
+Family Size (Extended Family Size): 66 (154) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR11461
+Modal Panther ID:                PTHR11461:SF366
+Modal Panther Description:       SERPIN DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR11461
+Modal Panther Fam Desc:          SERINE PROTEASE INHIBITOR, SERPIN
+Interpro Signature Accession:    cd02043; G3DSA:2.30.39.10:FF:000022; G3DSA:3.30.497.10:FF:000012; G3DSA:2.30.39.10; G3DSA:3.30.497.10; PTHR11461; PF00079; SM00093; SSF56574
+Interpro Signature Description:  serpinP_plants; Os11g0230400 protein; Predicted protein; -; Antithrombin, subunit I, domain 2; SERINE PROTEASE INHIBITOR, SERPIN; Serpin (serine protease inhibitor); serpin2; Serpins
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: serpin-ZX
+Lpe
+  Gene count: 6
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 5
+  Modal chromosome: Hvu05H
+  Gene Products: serpin-Z2A-like; serpin-Z4; serpin-Z7; serpin-Z7-like; serpin-ZX
+Ata
+  Gene count: 4
+  Modal chromosome: Ata05D
+  Gene Products: serpin-Z1B; serpin-Z2B; serpin-Z7-like; serpin-ZX
+Tae
+  Gene count: 15
+  Modal chromosome: Tae05A
+  Gene Products: serpin 1; serpin-Z1C-like; serpin-Z2A-like; serpin-Z2B-like; serpin-Z7; serpin-Z7-like; serpin-ZX; serpin-ZX-like; serpin-ZXA-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl03
+  Gene Products: serpin-ZXA; serpin-ZXB
+  Gene Descriptions: serpin-ZXA; serpin-ZXB
+Osa
+  Gene count: 2
+  Modal chromosome: Osa03
+  Gene Products: serpin-ZXA-like; serpin-ZXB-like
+  Gene Synonyms: OrysaZxa; OrysaZxb
+  Gene Descriptions: serpin-ZXA-like; serpin-ZXB-like
+Ecu
+  Gene count: 11
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau04
+  Gene Products: serpin-ZXA
+  Gene Descriptions: serpin-ZXA
+Svi
+  Gene count: 2
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi09N
+  Gene Products: serpin-ZXA-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha09
+  Gene Products: serpin-ZXA-like
+Msi
+  Gene count: 5
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi01
+  Gene Products: serpin-ZXA; serpin-ZXA%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: uncharacterized LOC100280631
+  Gene Synonyms: GRMZM2G066996,pco139651,Serpin-Z1
+  Gene Descriptions: uncharacterized LOC100280631
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 398 aa
+
+MATTDIRLSIAHQTRFALRLASAISSPSnaegaAgNAAFSPLSLHVALSLvAAGAGGATR
+DQLAATLGggGpGeAEGLHALAEQVVQLVLADASgAGGPRVAFANGVFVDASLkLKPSFk
+ELAVGKYKAETQSVDFQTKAAEVAGQVNSWVEKvTSGLIKEILPpGSVDnTTRLVLGNAL
+YFKGAWTEKFDASKTKDdeFHLLDGSSVQAPFMSSTkKQYISSsDnLKVLKLPYQQGGDK
+RQFSMYILLPEAQDGLWSLAEKLSSEPEFLEKHIPtQKVPVGQFKLPKFKISFGFEASdL
+LKGLGLQLPFSaEADLSEMVDSPeGQNLyVSSVFHKSFVEVNEEGTEAAAATAAvVvLRS
+lPvpmDFVADHPFLFLIREDlTGVVLFVGHVVNPLLSp
+
+
+BOP CONSENSUS:
+Length: 399 aa
+
+MATTDiRLSIAHQTRFALRLASAISSPSnPeGAAGNAAFSPLSLHVALSLVAAGAGGATR
+DQLAAtLGaaGpGeAEGLHALAEQVVQLVLADASgAGGPRVAFANGVFVDASLsLKPSFK
+ELAVGKYKAETQSVDFQTKAAEVAgQVNSWVEKVTtGLIKEILPaGSVDnTTRLVLGNAL
+YFKGAWTEKFDASKTKDDkFHLLDGSSVQTPFMSSTKKQYISSSDnLKVLKLPYQQGGDK
+RQFSMYILLPEAqDGLWsLAeKLStEPEFLEKHIPTqKVpVGQFKLPKFKISFGFEASDL
+LKGLGLQLPFSaEADLSEMVDSPvgQNLYVSSVFHKSFVEVNEEGTEAAAATAaVvtLRS
+lPPvkmDFVADHPFLFLIREDlTGVVLFVGHVvNPLLSs
+
+
+PACMAD CONSENSUS:
+Length: 398 aa
+
+MATADIRLSIAHQTRFALRLAAALSSPSAAAAPAsNAAFSPLSLHVALSLLAAGAGGATR
+DQLAATLGGDGPGAAEGLHALAEQVVQLVLADGSGAGGPRVAFADGVFVDASLKLKPAFg
+EVAVGKYRAETQSVDFQKKAAEAAGQVNSWVEKITSGLIKEILPPGSVDHTTRLVLGNAL
+YFKGAWTEKFDASKTKDSEFHLLDGSSVQAPFMSSTdKQYIASYNNLKVLKLPYQQGGDK
+RQFSMYILLPEAQDGIWSLAEKLSSEPEFLEKHIPMQKVPVGQFKVPKFKISFGFEASKL
+LKGLGLQLPFSaEADLSELVDSPEGQNLsVSSIFHKSFVEVNEEGTEAAAASAATVVLRS
+FTMPqDFVADHPFLFLIREDmTGVVLFVGHVVNPLLAP
+
+================================================================================

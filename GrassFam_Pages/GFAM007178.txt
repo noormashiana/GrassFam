@@ -1,0 +1,123 @@
+================================================================================
+GrassFam ID: GFAM007178
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             373.5 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               Conflicted
+Modal Panther ID:                PTHR31391:SF70
+Modal Panther Description:       B3 DOMAIN-CONTAINING PROTEIN OS03G0622200
+Modal Panther Family ID:         PTHR31391
+Modal Panther Fam Desc:          B3 DOMAIN-CONTAINING PROTEIN OS11G0197600-RELATED
+Interpro Signature Accession:    G3DSA:2.40.330.10; PTHR31391; SSF101936
+Interpro Signature Description:  -; B3 DOMAIN-CONTAINING PROTEIN OS11G0197600-RELATED; DNA-binding pseudobarrel domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: B3 domain-containing protein Os03g0622100-like
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: B3 domain-containing protein Os03g0622200-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: B3 domain-containing protein Os03g0622200-like%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: B3 domain-containing protein Os03g0622100-like; B3 domain-containing protein Os03g0622200-like; B3 domain-containing protein Os03g0622200-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl03
+  Gene Products: B3 domain-containing protein Os03g0622100; B3 domain-containing protein Os03g0622200
+  Gene Descriptions: B3 domain-containing protein Os03g0622100; B3 domain-containing protein Os03g0622200
+Osa
+  Gene count: 2
+  Modal chromosome: Osa03
+  Gene Products: B3 domain-containing protein Os03g0622100-like; B3 domain-containing protein Os03g0622200-like%2C transcript variant X1
+  Gene Synonyms: OsJ_11768
+  Gene Descriptions: B3 domain-containing protein Os03g0622100-like; B3 domain-containing protein Os03g0622200-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau03
+  Gene Products: B3 domain-containing protein Os03g0622200-like
+  Gene Descriptions: B3 domain-containing protein Os03g0622200-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi09K
+  Gene Products: B3 domain-containing protein Os03g0622200-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: B3 domain-containing protein Os03g0622200-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: B3 domain-containing protein Os03g0622200
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 370 aa
+
+MQNlGKNCrvCmEWQEHCYWSHMADEkKHFFKpMVGDFTESMSIPgRFANNFNGHISEVV
+NLKSPSGKTWSIGVAnDTDEVVLRSGWKEFVSAHSIEEGDcLLFKYSGVSSFDVLmFDSS
+GCEKTsPHFVkNHGceRiEnSAGaEGrRcGyHaFNKGedrTPQSPPsDDdgDgAhLELTL
+HRNTgRSIPkACKRkLyrDIEQvHcEVKDdeDDlElDhgdApAKTGYYFCKNGPVSEYHL
+TEEDKEEISSIRVPVEPRNPVFVQVMHPSHVRGtKtGiVGVSSEFAGKYLGAigREIILr
+RAGsKGkWHVRYnsndfSRGLcGRGWRdFVrDNGLLAHDVCLFELMeGARRPTMTVHVLR
+RVRGRFVLLR
+
+
+BOP CONSENSUS:
+Length: 355 aa
+
+MQKMGKNCERCaEWQEHCYWSHMADEnKHFFKLMVGDFTESMSvPgRFAKNFNGHISEVV
+NLKsPSGKSWSIgVAsDTdEVVLRSGWKEFVDgHGIeEGDcLLFRYSGASSFDVLMFDSt
+GCEKpSPHPVKrRGCDrAENSAGARCGyrASNKTEERAPHPPPiAdGDGAGLEMTLHRgt
+GKSIpRAFSDEKKEgDlEMehgdvAAAKnRYYFCKNGPVSEFHLTEEDKEEISSVPVPVE
+PrNPVFVnVMHsSHVrgttRTSIVGVSSEFAGKYLGAiGREIVLrRAGRkGrWHVRFvSG
+DNcRGFcGrGWRDFARDNGLLAHDVCLFELvEGARRPtmnVHVLRRLrGRFVLvR
+
+
+PACMAD CONSENSUS:
+Length: 373 aa
+
+MQNLDKNCRVCMEWQEHCYWSHMADDkKHFFKPMVGDFTETMSIPaRFANNFNGHISEVV
+SLKSPSGKTWSIGVGnDTDEVVLQSGWKEFVSAHSIEEGDYLLFKYtGVSSFDVLvFDSS
+GCEKTwPHFAnNHGYERIEsSAGVEGaRHGCHRFKGGKDCTPQSLPSDgDDeDDDAHLEL
+AvHKNTSRSIPKrCKRKLYRDIEQVHCEVKDDEDDLELDHEGgaPAKTGYYFCKNGPVSE
+YHLTEEEREEISSIRVPVQPRNPVFVQVMHPsHVRGKKpGVVgISSEFAtKYLGTTRREI
+ILQRvGSKGKWHVRYNCNRFSRGLTGRGWCsFVgDNGLLdHDVCLFELMnGkRRPTMTVH
+VLRKVRGRFVLLR
+
+================================================================================

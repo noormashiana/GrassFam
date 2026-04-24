@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM006672
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             386.0 aa
+Family Size (Extended Family Size): 25 (43) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11558:SF29
+Panther Family ID:               PTHR11558
+Modal Panther ID:                PTHR11558:SF29
+Modal Panther Description:       AMINOPROPYL TRANSFERASE
+Modal Panther Family ID:         PTHR11558
+Modal Panther Fam Desc:          SPERMIDINE/SPERMINE SYNTHASE
+Interpro Signature Accession:    G3DSA:2.30.140.10:FF:000003; G3DSA:3.40.50.150:FF:000048; G3DSA:3.40.50.150; G3DSA:2.30.140.10; NF002010; TIGR00417; PTHR11558; PIRSF000502; PF01564; SSF53335
+Interpro Signature Description:  Spermidine synthase 1; Vaccinia Virus protein VP39; Spermidine synthase, tetramerisation domain; polyamine aminopropyltransferase; spermidine synthase; SPERMIDINE/SPERMINE SYNTHASE; Spermidine_synth; Spermine/spermidine synthase domain; S-adenosyl-L-methionine-dependent methyltransferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: spermine synthase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: spermine synthase-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: spermine synthase%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: spermine synthase-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: spermine synthase-like
+  Gene Descriptions: spermine synthase-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: spermine synthase%2C transcript variant X1
+  Gene Descriptions: spermine synthase
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: spermine synthase-like%2C transcript variant X1
+  Gene Descriptions: spermine synthase-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: spermine synthase-like%2C transcript variant X1; spermine synthase-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: spermine synthase-like%2C transcript variant X1
+Msi
+  Gene count: 4
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi04
+  Gene Products: spermine synthase%2C transcript variant X1; spermine synthase%2C transcript variant X2
+Zma
+  Gene count: 2
+  Modal chromosome: Zma04
+  Gene Products: spermidine synthase 1; spermidine synthase 1 isoform 2%2C transcript variant X1
+  Gene Synonyms: GRMZM2G060896,pco081586c; GRMZM2G120578
+  Gene Descriptions: spermidine synthase 1; spermidine synthase 1 isoform 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 386 aa
+
+MEGGGAGNGLTGTAQTKGSGGDGSAKPLPPCCVKARAAAPESEAKCHATVVSGWFTEPRS
+RCGKASKVQYYNNPMWPGEAHSLKVEKILYQGKSPYQEVLVFESSTYGKVLVLDGIVQLT
+DKDECAYQEMITHLPLCSIPSPKKVLVIGGGDGGVLREISRHsSVESIDICEIDQLVIDV
+CKDFFPdLSVGFEDPRVQLHVGDAVEFLRNAPEGTYDAIIVDSSDPIGPAQELVEKPFFE
+TIARALRPGGVLCNQAESMWLHTHLIQDMLSICRETFKGSVHYAWTSVPTYPSGVIGFLL
+CAKEGPPVNFLTPINPIEKLEGATKAGREIRFYNSEMHRAAFVLPTFAKRELEAYCaSTE
+REQpEETAAtPpKlTVAPkSEILTAS
+
+
+BOP CONSENSUS:
+Length: 385 aa
+
+MEGGDARNGLTGTSQTtGSGVEsPAKPLPPCCVKARAAAPESEAKCHATVVSGWFTETRS
+RCGKTSKVQYYNNPMWPGETHSLKVEKILYQGKSPYQEVLIFESLTYGKVLVLDGIVQLT
+DKDECAYQEMITHLPLCSIPSPKKVLVIGGGDGGVLREIARHGSVESIDICEIDQLVIDV
+CKDFFPDLSVGFKDPRVRLHVGDAVEFLRNSPEGTYDAIIVDSSDPIGPAQELVEKPFFE
+TIARALRPGGVLCNQAESMWLHTHLIQDMLSICRETFKGSVHYAWTSVPTYPSGAIGFLL
+CAKEGPPVNFLAPINPIEKLEGAMTAGRDIRFYNTEMHRAAFVLPTFAKRELEAYCGSTR
+RAQQEEKSAEPAKVAIaPHSEILTA
+
+
+PACMAD CONSENSUS:
+Length: 386 aa
+
+MEAGGAGNGLNGAAQTKGSGGDGSAKPLPPCCVKARAAAPESEAKCHATVVSGWFTEPRS
+RCGKASKVQYYNNPMWPGEAHSLKVEKILYQGKSPYQEVLVFESSTYGKVLVLDGIVQLT
+DKDECAYQEMITHLPLCSIPSPKKVLVIGGGDGGVLREISRHSSVESIDICEIDQLVIDV
+CKDFFPHLSVGFEDPRVQLHVGDAVEFLRNAPEGTYDAIIVDSSDPIGPAQELVEKPFFE
+TIARALRPGGVLCNQAESMWLHTHLIQDMLSICRETFKGSVRYAWTSVPTYPSGVIGFLL
+CAKEGPPVNFLTPINPIEKLEGATKAGREIRFYNSEMHRAAFVLPTFAKRELEAYCASTE
+TEQAEETAATPPKLTVASKSEILTAS
+
+================================================================================

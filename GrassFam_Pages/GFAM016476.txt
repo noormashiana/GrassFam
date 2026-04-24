@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM016476
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             639.0 aa
+Family Size (Extended Family Size): 35 (38) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24177:SF403
+Panther Family ID:               PTHR24177
+Modal Panther ID:                PTHR24177:SF403
+Modal Panther Description:       OS11G0434850 PROTEIN
+Modal Panther Family ID:         PTHR24177
+Modal Panther Fam Desc:          CASKIN
+Interpro Signature Accession:    G3DSA:1.25.40.20:FF:000595; G3DSA:1.25.40.20; PTHR24186; SSF48403
+Interpro Signature Description:  Os11g0435300 protein; -; PROTEIN PHOSPHATASE 1 REGULATORY SUBUNIT; Ankyrin repeat
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: ankyrin repeat-containing protein At5g02620
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: ankyrin repeat-containing protein At5g02620-like%2C transcript variant X1
+Ata
+  Gene count: 2
+  Modal chromosome: Ata03D
+  Gene Products: ankyrin repeat-containing protein At5g02620-like; serine/threonine-protein phosphatase 6 regulatory ankyrin repeat subunit A
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03B
+  Gene Products: ankyrin repeat-containing protein At5g02620-like; serine/threonine-protein phosphatase 6 regulatory ankyrin repeat subunit A-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola11
+Ogl
+  Gene count: 6
+  Modal chromosome: Ogl11
+  Gene Products: ankyrin repeat-containing protein At5g02620-like; ankyrin repeat-containing protein NPR4-like; uncharacterized LOC127755434
+  Gene Descriptions: ankyrin repeat-containing protein At5g02620-like; ankyrin repeat-containing protein NPR4-like; uncharacterized LOC127755434
+Osa
+  Gene count: 6
+  Modal chromosome: Osa11
+  Gene Products: ankyrin repeat-containing protein At5g02620; ankyrin repeat-containing protein At5g02620-like%2C transcript variant X1; ankyrin repeat-containing protein NPR4-like; protein ACCELERATED CELL DEATH 6; protein ACCELERATED CELL DEATH 6-like
+  Gene Descriptions: ankyrin repeat-containing protein At5g02620; ankyrin repeat-containing protein At5g02620-like; ankyrin repeat-containing protein NPR4-like; protein ACCELERATED CELL DEATH 6; protein ACCELERATED CELL DEATH 6-like
+Ecu
+  Gene count: 5
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: protein ACCELERATED CELL DEATH 6-like%2C transcript variant X1; uncharacterized LOC133897149
+  Gene Descriptions: protein ACCELERATED CELL DEATH 6-like; uncharacterized LOC133897149
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: ankyrin repeat-containing protein At5g02620-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: ankyrin repeat-containing protein At5g02620
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 638 aa
+
+MEltPAgckhEIPesLFMCSeLYIAAFEGrTdEVtGLLaGSSgaAvaArNGRpSPAAqan
+AnHHGpCstREVTAERSTLLHIAAGQGHgdLIAELCrRDSSLLSSvNSSLDTPLHCAARA
+GHAdAVEAIVRLARANVEEDRLRgiLRGrNeAGDTALHLAARHGHGEAVErLMkLAPELA
+AELNGAGVSPLYLAVMSrSVRAVRAIvScrDASAAGPnSQNALHAAVLQSSEMVSLLLQW
+RPaLAtdLDsNKSSPLHFASSDGDCSIIeAILTHsPPSTAYLQDseGLSALHAAALMGHv
+AAVRLLLQFyPASADIRDNrGRSFLHAAAMKGHSSIvSYVIKNrMLEHLLNaQDrEGNTP
+LHLAVvAGEyKVISKLLSSGKVQaHIMNNAGhTPSDLIEnSTGFYSMVRLVVKLYVSGAQ
+FRPQRQDHIEKWNGQDIMKWRETTSKNLAIVSTLVATVAFSAAFNVPGSYGSDGKANLnG
+dRMYnAFLVLDTIAVTTSVVATILLVYGRASRSHRSWlGFIISMHFLWLSLNSMMLGFFt
+AIAAVMSdKnsmKIALSQLIYfGLYILmmLLTsLATPGSllGVLrFLvGGCsERqRRaKR
+RISRQYPFVvfYAFNVvvFIViNtIALaavDVtGnLsr
+
+
+BOP CONSENSUS:
+Length: 637 aa
+
+MELTPAGCDrkipesLFMCSrLYIAAFEGrTdEVtGLLAGSSGdAppAANsrpSpAQetA
+NHHGPCsirEVTAERsTLLHIAAGQGHGgLIAELCyrDSSLLSSVNSsLDTPLHCAARAG
+HAdAVeAIVRLARANVEEDRLRgILRGkNeAGDTALHLAARHGHGEAVErLVkLAPELAA
+ELNGAGVSPLYLAVMSGSVrAVRAIlSCGDASAAGPnSQNALHAAVLQSSEMVSLLLQWR
+PALAtnLDsNKSSPLHFASSDGDCSIIeAILTHSPPSTAYLQDSeGLSALHAAALMGHvA
+AVRLLLQFsPASADIRDNrGRSFLHvAAMKGHSSIISYAIKNrMLEHLLNaQDkEGNTPL
+HLAVvAGEhKVISKLLSSGKVQaHIMNNAGhTPSDLIEdSTGFYSMVrLVVKLYVSGAQF
+RPQRQDHIEKWNGQDIMKWRETTSKNLAVVSTLVATVAFSAAFNVPGSYGSDGKANLaGD
+RmYnAFLVLDTIAVTTSVVATILLIYGRASRSHRSWlGFMISMHFLWLSLNSMMLGFFtA
+IAAVMSkKNpMKIALSQLIYgGLYILMTLLtsLATPGSFlGvvkFLVGGCsERqRRaKRR
+ISRQYPFViFYAFNVVVFIVVNtIALvaIDVtGrLpy
+
+
+PACMAD CONSENSUS:
+Length: 639 aa
+
+MESAQGQAMSReElPdgMFMCSeLYIAAFEGRTEEVTGLLTGSvHATtAARNGRPSPAAR
+ANAiHPGPCCSTREVTAERSTLLHIAAGQGHcdLITELcLRDSALLsSvNSSLDTPLHCA
+ARAGHADAVEAIVRLArDdVEEDRLReLLGrRNrAGDTALHVAARHGHGAAVEtLMKLAP
+ELASEVNGAGVSPLYLAVMSRSVRAVAAIVgYRDASAAGPMSQNALHAAVLQSSEMVSLL
+LRWRPtLATDLDsNKSSPLHFASSDGDCSIIkEILTYAPPSTAYLQDREGLSALHAAALM
+GNgPAVRLLLQFYPASADIRDNqGRSFLHAAAMRGHSSIVSyVIKNRMLEnLLNeQDqEG
+NTALHLAVQAGEYrVVSKLLSSGKVQVHIMNNAGlTPSDLIENSTGFYSMVRLVVKLyVY
+GAQFRPQRQDHVkKWaGQDIVKWRvATSKNLAIVSTLVATVAFSAAFNVPGSYGSDGKAN
+LNGNRMYNAFLVLDTIAVTTAVMATILLVYGRASRSHRSWLGFIISMHFLWLSLLSMMLG
+FFTAIAATSDkKSTriALyRLIYsGLYVLImLLTSLAMPGSLRGVLRlLlGGFSqRQRHL
+KRRINRQYPFVVIYAFNMLLFIVINNIAlAAVDTtGNLs
+
+================================================================================

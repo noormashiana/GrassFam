@@ -1,0 +1,128 @@
+================================================================================
+GrassFam ID: GFAM016136
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             364.0 aa
+Family Size (Extended Family Size): 20 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10426:SF139
+Panther Family ID:               PTHR10426
+Modal Panther ID:                PTHR10426:SF139
+Modal Panther Description:       OS09G0374900 PROTEIN
+Modal Panther Family ID:         PTHR10426
+Modal Panther Fam Desc:          STRICTOSIDINE SYNTHASE-RELATED
+Interpro Signature Accession:    G3DSA:2.120.10.30:FF:000048; G3DSA:2.120.10.30; PTHR10426; PF03088; SSF63829
+Interpro Signature Description:  Protein strictosidine synthase-like 10; -; STRICTOSIDINE SYNTHASE-RELATED; Strictosidine synthase; Calcium-dependent phosphotriesterase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: protein STRICTOSIDINE SYNTHASE-LIKE 10
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: protein STRICTOSIDINE SYNTHASE-LIKE 10-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata05D
+  Gene Products: protein STRICTOSIDINE SYNTHASE-LIKE 10; protein STRICTOSIDINE SYNTHASE-LIKE 10-like
+Tae
+  Gene count: 4
+  Modal chromosome: Tae05A
+  Gene Products: protein STRICTOSIDINE SYNTHASE-LIKE 10-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: protein STRICTOSIDINE SYNTHASE-LIKE 10-like
+  Gene Descriptions: protein STRICTOSIDINE SYNTHASE-LIKE 10-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: protein STRICTOSIDINE SYNTHASE-LIKE 10
+  Gene Descriptions: protein STRICTOSIDINE SYNTHASE-LIKE 10
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau17
+  Gene Products: protein STRICTOSIDINE SYNTHASE-LIKE 10-like
+  Gene Descriptions: protein STRICTOSIDINE SYNTHASE-LIKE 10-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi02K
+  Gene Products: protein STRICTOSIDINE SYNTHASE-LIKE 10-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: protein STRICTOSIDINE SYNTHASE-LIKE 10-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: protein STRICTOSIDINE SYNTHASE-LIKE 10
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: protein STRICTOSIDINE SYNTHASE-LIKE 10
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 357 aa
+
+MDMEEArcCRSATLLsSfLsLALLvwLPPMAAAtqEMKSIYAGqRVlPVRLGRPAFGPES
+LAFDHRGGGPYTGVSNGRVLRWRGnRRHrGWTEFAHNYKHkTVAECAAKKKLVePESACG
+RPLGLQFHRASGDMYIADAYLGLMRVGRRGGLAEVVATEAGGaPLNFlNGVDVDQETGhV
+YFTDSSTTYQRSDYlLVVLTGDATGRLMRYDPRTGNVTVLrSGLAFPNGVALSADGTHLV
+VAETSSCRLLRHWLRGPaAGeTEVLADLPGYPDNVRpDGGGRGGYWVGLNRDKsWAEnGT
+TPrSVAAVRVvAtnGtVaEALRGFGnATVSEVVERNGSLWIGSVDTPYVGLFKlaSL
+
+
+BOP CONSENSUS:
+Length: 364 aa
+
+MDMEEARHCRSATLLsSFLSLAFLIWPPPMAAATQEMKSIYAGsRViPVRLGRPAFGPES
+LAFDHRGGGPYTGVSNGRVLRWRGNRRHrGWTEFAHNYKHKTVAECAAKKKLVEPESACG
+RPLGLQFHRASGDMYIADAYLGLMRVGRrGGLAEVVATEAGGVPFNFLNGVDVDQETGDV
+YFTDSSTVYQRSEYMLVVLTGDATGRLMRYDPRTGNVTVLRSGLAFPNGVAVSADRTHLV
+VAETSSCRLLRHWLRGPAAGETEVLADLPGYPDNVRPDGGGRGGYWVGmNRDKQWAEsGT
+TANSMSAVRVVVaGDAtNGTVAEALRGFGDATVSEVVERNGSLWIGSVDTPYVGLFKLAS
+LPQC
+
+
+PACMAD CONSENSUS:
+Length: 353 aa
+
+MEAAKCcPATLLSLLLLLLLVQLPSMASCHEEMKSIYVGQRVLPVRLGRPAFGPESLAFD
+HRGDGPYTGVSNGRVLRWRGArRGWTEFAHNHKHETVAmCAAKKRLVVPESACGRPLGLQ
+FHRASGDLYYADAYLGLMRVGRRGGLAEAVATEAGGAPLNFVNGVDVDQETGHVYFTDSS
+ATYQRSDYIMIILTGDATGRLLRYDPATGsATVLASGLSFPNGVALSADGTHVVVAETAR
+CRLLRHWLRGPRAGTTEPFADLPGYPDNVRRADGGGGYYWVALNRDKSWmAEGTTPRSVA
+AVRVRAEDGAVvEALRGLGNATVSEVVERPGGALWLGSVDTPYVGLFRvGgLL
+
+================================================================================

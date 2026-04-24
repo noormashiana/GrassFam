@@ -1,0 +1,113 @@
+================================================================================
+GrassFam ID: GFAM016756
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             509.0 aa
+Family Size (Extended Family Size): 25 (29) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43019:SF39
+Panther Family ID:               PTHR43019
+Modal Panther ID:                PTHR43019:SF39
+Modal Panther Description:       PDZ DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR43019
+Modal Panther Fam Desc:          SERINE ENDOPROTEASE DEGS
+Interpro Signature Accession:    PTHR47389
+Interpro Signature Description:  OS09G0436400 PROTEIN
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: serine protease HTRA2%2C mitochondrial-like
+Ata
+  Gene count: 3
+  Modal chromosome: Ata07D
+  Gene Products: uncharacterized LOC109735466%2C transcript variant X1; uncharacterized LOC109735481; uncharacterized LOC109784475
+Tae
+  Gene count: 6
+  Modal chromosome: Tae07B
+  Gene Products: probable periplasmic serine endoprotease DegP-like; uncharacterized LOC123157136; uncharacterized LOC123157892; uncharacterized LOC123162935%2C transcript variant X1; uncharacterized LOC123165093%2C transcript variant X1; uncharacterized LOC123170522
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl03
+  Gene Products: uncharacterized LOC127767613; uncharacterized LOC127770277
+  Gene Descriptions: uncharacterized LOC127767613; uncharacterized LOC127770277
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: uncharacterized protein%2C transcript variant X6
+  Gene Descriptions: uncharacterized LOC107276814
+Ecu
+  Gene count: 6
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau11
+  Gene Products: uncharacterized LOC133885107%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133885107
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01N
+  Gene Products: probable periplasmic serine endoprotease DegP-like; serine protease HTRA3-like%2C transcript variant X6
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 514 aa
+
+MAPTTqDEVGEvSGSRSRAGRRRRRRRtPVsDlSgeAQPEAAPSSQRGKRKASPErSsAA
+SQrRKKRKrTKAAtSkGEaAASASPGASHASSSeSSAVSSPLRwPhPPApirGpGrnyDP
+AMepAlEAYeELssKYHAKRKRQlqLVTLDrSiprSCMVNeNLQSVRESATKTILQAAKV
+VLsFSSYVDGKLMARSSGFLIDWDErSKeGTVLTSARIICSKYtALsQWSGTDEYvPNAE
+VVAHLLDEDETTVPAiLLHYDKHiNIALFKVdidLCAKIPsFSSDVnYGQEIFVLGRDEr
+LNLTIdHGrVQFMGPttYeRHHYLFTGCVInQPSIGGPVIDFnGqVLGMANFPGTAFIPS
+SIILKCLDMWKKFQCIPRLHIGMKLSPIKFLDPIHVERIFRKCNVDSGLIVkEVSHGSVA
+EELGVRPGDIIdSVNGECIATTVELENLLMRICENHLDqGGaIGSCVDIpVGILHmRKGR
+KGPRRTLSLRLNVSDDVEVFtSGtypFsDLGvEv
+
+
+BOP CONSENSUS:
+Length: 527 aa
+
+MAPTTQEEVSGSrSRAGRWRRRRRRtPVsDrSGEAQPEAAPSSQRGKRKASPEPSSAASQ
+QRGKSEALEPSEGSRRKRTAKKRKrTDEKKAATSKGEQAASASPGASHASSSSSAVSSPL
+RWPHPPAyiRnPGRnyDPAMEpAlEAYmELsSKYRAKRKRQLQLVTLDrSiasSCMVNaN
+LQSVRESATKTILQvAKVVlSFSSYVDGKLMARSSGFLIDWDErSKeGTVLTSARIICSK
+YSALsQWSGTDEYaPDAEIVAHLLDEDETTVPAILLHYDKHINIALlKVnIDLCAKIPSF
+SSDVnYGQEIFVLGRDErLNLTIHHGRVQFMGPttFERHHYLFTGCVInQPSIGGPVIDF
+NGQVLGMANFPGTAFIPSSIILKCLDMWKKFQCIPRLHIGMKLSPIKFLDPIHVERIFRK
+CNVDSGLIVKEVSHGSvAEELGVRPGDIIDSVNGECIATTVELENLLMRICEnHLDqGGA
+IGSCMDIPVGILHMRKGRKGPRRTLSLRLNVSeDVEVFtSGmLDVgv
+
+
+PACMAD CONSENSUS:
+Length: 478 aa
+
+MAPTTHEEveEASSSRSlVGRRRRRRSPSVLSRVIQSEDEqRGKRKRsREAKKRSKKRKK
+EVEAPSASAATACSSDASSAVSSPVRRPSIQGRGIKATRDVYEKLDTKYHEKIDRHSKLV
+TLDRQLPRSSLVNQNLLPVRDSATKMILQAAKAVLGVSSYVDGKLLNRSSGFLIEWGEAS
+TILTSALLIRSKSPSIDEWSGKDEYVPNAKVVVHLLDKEETTVVAHLLYYDKHYNVALFR
+VDMNLGAQNLCFGSEVMYGQEIFVLGRDAGLNLKIDYGSVQYKGPSIYNRHHYMFFSCVI
+AQCGVGGPVIDFDGAVVGMANVQGNRFIPSCIILKCLDMWKKFQCIPRLHMGMKFSPIKF
+LDPAHVERISRKCNVNAGLIVEEVSGGSVAEEVGVRTGDIIESLNGECIATTVELENmnM
+SICENyLDrGgtIGSTVDVtVGVFHIRKEiyGTKRLrLtLSDDMEIFtslLtPFDVGP
+
+================================================================================

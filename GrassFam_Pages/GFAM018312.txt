@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM018312
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             553.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13533:SF48
+Panther Family ID:               PTHR13533
+Modal Panther ID:                PTHR13533:SF48
+Modal Panther Description:       PROTEIN REDUCED WALL ACETYLATION 2
+Modal Panther Family ID:         PTHR13533
+Modal Panther Fam Desc:          N-ACETYLNEURAMINATE 9-O-ACETYLTRANSFERASE
+Interpro Signature Accession:    PTHR13533; PF07779
+Interpro Signature Description:  N-ACETYLNEURAMINATE 9-O-ACETYLTRANSFERASE; 10 TM Acyl Transferase domain found in Cas1p
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: protein REDUCED WALL ACETYLATION 1%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: protein REDUCED WALL ACETYLATION 1-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: protein REDUCED WALL ACETYLATION 1%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: protein REDUCED WALL ACETYLATION 1-like%2C transcript variant X1; protein REDUCED WALL ACETYLATION 4-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: protein REDUCED WALL ACETYLATION 1-like%2C transcript variant X1
+  Gene Descriptions: protein REDUCED WALL ACETYLATION 1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: protein REDUCED WALL ACETYLATION 1%2C transcript variant X1
+  Gene Descriptions: protein REDUCED WALL ACETYLATION 1
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: protein REDUCED WALL ACETYLATION 1-like%2C transcript variant X1
+  Gene Descriptions: protein REDUCED WALL ACETYLATION 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi09N
+  Gene Products: protein REDUCED WALL ACETYLATION 3-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: protein REDUCED WALL ACETYLATION 1-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: protein REDUCED WALL ACETYLATION 4%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: uncharacterized LOC100384114%2C transcript variant X1
+  Gene Synonyms: cl33992_1,GRMZM2G020721
+  Gene Descriptions: uncharacterized LOC100384114
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 553 aa
+
+MAEAVASAGGLAMAASTSvTPGQVSAILGFLWVFAAWAYAEVLFHRKNAASIKTRHSDVN
+LAVMDNSSvKGEDQTMLLEEGGQAagAKPVYASFTSQMLRLFFMDQtLLLENRLTLRAIS
+EFGGYLLYFYICDRTNLLGESAKNYSRDLFLFLYFLLIIVAAMTSFKVHQDKSaFTGKSI
+LYLNRHQTEEWKGWMQVLFLMYHYFNAKEIYNAIRVFIAAYVWMTGFGNFSYYYVRKDFS
+LGRFAQMMWRLNFFVIFCCIVLNNDYTLYYICPMHTLFTLMVYGALGILNKYNEIRSVMA
+MKFVACFLVVILVWEVPGVFEIVWSPFTFLLGYTDPSKPDLPRLHEWQFRSGLDRYIWIV
+GMIYAYYHPTVEKWMEKLEEAETRTKLYIKASIVTVSLTAGYLWYEYIYKLDKITYNKYH
+PYTSWIPITVYICLRNFTQEFRsCSLTLFAWLGKITLETYISQFHIWLRSkVPNGQPKWL
+LtIIPNYPLLNFMLTTAIYVAVSHRLFELTNTLKIAFVPSRDNKRLSYNFVAGIAISVAL
+YSVSFVLVGIAGY
+
+
+BOP CONSENSUS:
+Length: 552 aa
+
+MAEALASAGGLAMAASTSFTPGQLSAFLGFLWVLAAWVYAEVLFHRKNAASLKTRHSDIN
+LSDMDSSSNKGEDQTMLLEEGGQVAGAKPVYASFTSQMLRLFCMDQtLLLEHRLTLRAIS
+ELGGHLLYFYICDRTNLFGESEKNYSRDLFLFLYFLLIIVAAITSFKVHQDKSTFTGKSV
+LYLNRHQTEEWKGWMQVLFLMYHYFNAKEIYNAIRVFIAAYVWMTGFGNFSYYYVRKDFS
+LGRFAQMMWRLNFFVAFCCIVLNNDYTLYYICPMHTLFTLMVYGALGILNKYNEIRSVIA
+IKFVGCFLVVILVWEIPGVFEIVWSPFTFLLGYDDPSKPDLPRLHEWHFRSGLDRYIWIV
+GMIYAYYHPTVEKWMEKLEEAETRTKLYIKASIVTVSLTAGYLWYEYIYKLDKITYNKYH
+PYTSWIPITVYICLRNFTQEFRACSLTLFAWLGKITLETYISQFHIWLRSKVPNGQPKWL
+LTIIPDYPLLNFMLTTALYVAVSHRLFELTNTLKIAFVPRDNKRLSYNFVAGIAISVALY
+SVSFALVGIAGY
+
+
+PACMAD CONSENSUS:
+Length: 553 aa
+
+MAEAVASAGrLAMAaSTSVTPGQVSAILGFLWVFAAWAYAEVLFHRKNAASIKTRHSDVN
+LAVMDNSSVKGEDQTMLLEEGGQAVAAKPAYTSFTSQMLRLFFMDQMLLLENRLTLRAIS
+EFGGYLLYFYICDRTNLLGESAKNYSRDLFLFLYFLLIIVAAMTSFKVHQDKSAFTGKSI
+LYLNRHQTEEWKGWMQVLFLMYHYFNAKEIYNAIRVFIAAYVWMTGFGNFSYYYVRKDFS
+LGRFAQMMWRLNFFVIFCCIVLNNDYTLYYICPMHTLFTLMVYGALGILNKYNEIRSVMA
+MKFVACFLVVILVWEVPGVFDIVWSPFTFLLGYTDPSKPDLPRLHEWQFRSGLDRYIWIV
+GMIYAYYHPTVEKWMEKLEETEMRTKLYIKASIVTVSLTAGYLWYEYIYKLDKITYNKLH
+PYTSWIPITVYICLRNFTQEFRSFSLTLFAWLGKITLETYISQFHIWLRSRVPNGQPKWL
+LSIIPNYPLLNFMLTTAIYVAVSHRLFELTNTLKIAFVPSRDNKRLSYNFVAGIAISVAL
+YFVSFVLVGIAGY
+
+================================================================================

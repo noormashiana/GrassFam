@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM011345
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             479.5 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11822:SF5
+Panther Family ID:               PTHR11822
+Modal Panther ID:                PTHR11822:SF5
+Modal Panther Description:       ISOCITRATE DEHYDROGENASE [NADP], CHLOROPLASTIC_MITOCHONDRIAL
+Modal Panther Family ID:         PTHR11822
+Modal Panther Fam Desc:          NADP-SPECIFIC ISOCITRATE DEHYDROGENASE
+Interpro Signature Accession:    G3DSA:3.40.718.10:FF:000007; G3DSA:3.40.718.10; TIGR00127; NF006156; PTHR11822; PIRSF000108; PF00180; SM01329; SSF53659
+Interpro Signature Description:  Isocitrate dehydrogenase [NADP]; Isopropylmalate Dehydrogenase; isocitrate dehydrogenase (NADP(+)); NADP-dependent isocitrate dehydrogenase; NADP-SPECIFIC ISOCITRATE DEHYDROGENASE; IDH_NADP; Isocitrate/isopropylmalate dehydrogenase; Iso_dh_2; Isocitrate/Isopropylmalate dehydrogenase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: isocitrate dehydrogenase [NADP]
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: isocitrate dehydrogenase [NADP]-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: isocitrate dehydrogenase [NADP]
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: isocitrate dehydrogenase [NADP]-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: isocitrate dehydrogenase [NADP]-like
+  Gene Descriptions: isocitrate dehydrogenase [NADP]-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: isocitrate dehydrogenase [NADP]
+  Gene Descriptions: isocitrate dehydrogenase [NADP]
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: isocitrate dehydrogenase [NADP]-like; isocitrate dehydrogenase [NADP]-like%2C transcript variant X1
+  Gene Descriptions: isocitrate dehydrogenase [NADP]-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi07N
+  Gene Products: isocitrate dehydrogenase [NADP]-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: isocitrate dehydrogenase [NADP]-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: isocitrate dehydrogenase [NADP]
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: uncharacterized LOC100191657
+  Gene Synonyms: GRMZM2G082581
+  Gene Descriptions: uncharacterized LOC100191657
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 479 aa
+
+MRHLLLPRRLLMAMAPLSsSAAATKALLLNPARGRLPSPLARLPAPGGRvFRGASLRCYA
+AAAAVAEQHRIKVQNPIVEMDGDEMTRVIWKMIKDKLIFPYLELDVKYFDLGiLNRDATD
+DKVTVESAEATLKYNVAVKCATITPDETRVKEFKLKSMWRSPNGTIRNILNGTVFREPIL
+CKNIPRILSGWKKPICIGRHAFGDQYRATDMIINGPGKLKMVFVPDGAEPVELDVYDFKG
+PGVALSMYNVDESIRAFAESSMAMALSKKWPLYLSTKNTILKKYDGRFKDIFQEVYEENW
+KEKFEENSIWYEHRLIDDMVAYAVKSEGGYVWACKNYDGDVQSDFLAQGFGSLGLMtSVL
+LSSDGKTLEAEAAHGTVTRHFRLHQKGQETSTNSIASIFAWTRGLEHRAKLDKNDRLLDF
+TQKLESACVETVESGKMTKDLALLIHGPKVTREFYLSTEEFIDAVAQQLRgKIQiPAaV
+
+
+BOP CONSENSUS:
+Length: 476 aa
+
+MRHLLLPRRLLAMAPLSASAATKALLLNPARGRLPSSLACLSAPGGRSFRGASLRCYAAA
+AVAEQHRIKVNNPIVEMDGDEMTRVIWKMIKDKLIFPYLELDVKYFDLGVLNRDATDDKV
+TVESAEATLKYNVAVKCATITPDETRVKEFKLKSMWRSPNGTIRNILNGTVFREPILCKN
+IPRILTGWKKPICIGRHAFGDQYRATDTIINGPGKLKMVYVPDGAEPVELNVYDFKGPGV
+ALAMYNVDESIRAFAESSMAMALSKKWPLYLSTKNTILKKYDGRFKDIFQEVYEENWKEK
+FEENSIWYEHRLIDDMVAYAVKSEGGYVWACKNYDGDVQSDFLAQGFGSLGLMSSVLLSS
+DGKTLEAEAAHGTVTRHFRLHEKGQETSTNSIASIFAWTRGLEHRAKLDKNDRLLDFTQK
+LESACVETVESGKMTKDLALLSHGPKVTREHYLSTEEFIDAVAQQLREKIQIPASL
+
+
+PACMAD CONSENSUS:
+Length: 488 aa
+
+MRHLLLPRRLLSSPAMARASVSsSAAAAKALLPLNPARGGRLPSLLPARRLPVPGSGRVF
+RGASLRCYAAAAAVAEQGRIKVQNPIVEMDGDEMTRVIWKMIKDKLIFPYLELDVKYYDL
+GILNRDATNDEVTVESAEATLKYNVAVKCATITPDETRVKEFKLKSMWRSPNGTIRNILN
+GTVFREPILCKNIPRILSGWKKPICIGRHAFGDQYRATDMIIDGPGKLKMVFVPDGAEPV
+ELDVYDFKGPGVALSMYNVDESIRAFAESSMAMALSKKWPLYLSTKNTILKKYDGRFKDI
+FQEVYEEqWKEKFEENSIWYEHRLIDDMVAYAVKSDGGYVWACKNYDGDVQSDFLAQGFG
+SLGLMTSVLLSSDGKTLEAEAAHGTVTRHFRLHQKGQETSTNSIASIFAWTRGLEHRAKL
+DKNDRLLDFTHKLESACVETVESGKMTKDLALLIHGPKVTREFYLSTEEFIDAVAQQLRG
+KIQlPAAV
+
+================================================================================

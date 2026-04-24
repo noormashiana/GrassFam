@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM020697
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             327.5 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12133:SF2
+Panther Family ID:               PTHR12133
+Modal Panther ID:                PTHR12133:SF2
+Modal Panther Description:       TRNA (ADENINE(58)-N(1))-METHYLTRANSFERASE CATALYTIC SUBUNIT TRMT61A
+Modal Panther Family ID:         PTHR12133
+Modal Panther Fam Desc:          TRNA (ADENINE(58)-N(1))-METHYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:3.10.330.20:FF:000004; G3DSA:3.40.50.150:FF:000227; G3DSA:3.40.50.150; G3DSA:3.10.330.20; PTHR12133; PIRSF017269; PF08704; SSF53335
+Interpro Signature Description:  tRNA (adenine(58)-N(1))-methyltransferase; Vaccinia Virus protein VP39; -; TRNA (ADENINE(58)-N(1))-METHYLTRANSFERASE; GCD14; tRNA methyltransferase complex GCD14 subunit; S-adenosyl-L-methionine-dependent methyltransferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit trmt61a
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A-like; tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit trmt61a-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: uncharacterized LOC127771137
+  Gene Descriptions: uncharacterized LOC127771137
+Osa
+  Gene count: 2
+  Modal chromosome: Osa04
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4335469; uncharacterized LOC4335490
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN1029
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: uncharacterized LOC133889367; uncharacterized LOC133924013
+  Gene Descriptions: uncharacterized LOC133889367; uncharacterized LOC133924013
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi07K
+  Gene Products: tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: tRNA methyltransferase catalytic subunit TRM61
+  Gene Synonyms: GRMZM2G098214
+  Gene Descriptions: tRNA methyltransferase catalytic subunit TRM61
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 326 aa
+
+MMVPLDPsnKPTSQRRIAEGDTVVVYERHDAMRAVAVRAGGVLQNRFGVFRHDDWIGRPF
+GSKVFSSaGGGGGKGGgKAGGGFVHLLAPTPELWTLVLSHRTQILYIADISLVVAYLELV
+PGCVVLESGTGSGSLTTSLARAVAPHGRVHTFDFHEQRAASAREDFERNGLSSLITVNVR
+DIQGEGFPEEHrGAADAVFLDLPQPWLAIPSVGtMLKQDGVLCSFSPCIEQVQRACEAMR
+SCFTDIRTFEILLRTYEVREGALKSATANEEAnVGPLPQKRRKitaAGEnLDstQktSSV
+LVRPCSTARGHTGYLTFARLRVHGSQ
+
+
+BOP CONSENSUS:
+Length: 328 aa
+
+MMVPLDPCNKPTSQRRIAEGDTVVVYERHDSMRAVTVSAGGVLQNRFGVFRHADWLGRHF
+GSKVFSSGGVGGKGGRKAGGGFVHLLAPTPELWTLVLSHRTQILYIADISLVVAYLELVP
+GCVVLESGTGSGSLTTSLARAVAPHGRVYTFDFHDQRADSAREDFEKNGLSSLITVAVRD
+IQGEGFPDEYSGAADAVFLDLPQPWLAIPSAGTMLRQDGVLCSFSPCIEQVQRACETMRS
+CFTDIRTFEILLRTYEVHEGALKSATANEASSeGSLPGKKRKIRSAGEALDStQTSSVMV
+RPCSTARGHTGYLTFARKSVHGSQTGAA
+
+
+PACMAD CONSENSUS:
+Length: 329 aa
+
+MMVPLDPAgKPTSQRRIAEGDTVVVYERHDAMRAVAVRAGGVLQNRFGVFRHDDWIGRPF
+GSKVFSsaGGGGGKGGGGKGGGGGKAGGGFVHLLAPTPELWTLVLSHRTQILYIADISLV
+VAYLELVPGCVVLESGTGSGSLTTSLARAVAPHGRVHTFDFHEQRAASAREDFERNGLSS
+LITVNVRDIQGEGFPEEHRGAADAVFLDLPQPWLAIPSVGLMLKQDGVLCSFSPCIEQVQ
+RACEAMRsCFTDIRTFEILLRTYEVRDGALKSgTANEEAtVGPLPQKRRKfTaPGENsDC
+tQKNSSILVRPCSTAKGHTGYLTFARLRV
+
+================================================================================

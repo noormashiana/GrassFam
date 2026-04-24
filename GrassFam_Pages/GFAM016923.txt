@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM016923
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             354.0 aa
+Family Size (Extended Family Size): 34 (37) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12411:SF911
+Panther Family ID:               PTHR12411
+Modal Panther ID:                PTHR12411:SF911
+Modal Panther Description:       PEPTIDASE C1A PAPAIN C-TERMINAL DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR12411
+Modal Panther Fam Desc:          CYSTEINE PROTEASE FAMILY C1-RELATED
+Interpro Signature Accession:    cd02620; G3DSA:3.90.70.10:FF:000081; G3DSA:3.90.70.10; PTHR12411; PF00112; SM00645; SSF54001
+Interpro Signature Description:  Peptidase_C1A_CathepsinB; cathepsin B-like protease 2; Cysteine proteinases; CYSTEINE PROTEASE FAMILY C1-RELATED; Papain family cysteine protease; pept_c1
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: cathepsin B-like protease 2
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu04H
+  Gene Products: cathepsin B-like protease 2
+Ata
+  Gene count: 3
+  Modal chromosome: Ata04D
+  Gene Products: cathepsin B-like protease 2; cathepsin B-like protease 3
+Tae
+  Gene count: 8
+  Modal chromosome: Tae04A
+  Gene Products: cathepsin B-like protease 2; cathepsin B-like protease 2%2C transcript variant X1; cathepsin B-like protease 2%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: cathepsin B-like protease 3
+  Gene Descriptions: cathepsin B-like protease 3
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: cathepsin B-like protease 3
+  Gene Descriptions: cathepsin B-like protease 3
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN1135
+Pau
+  Gene count: 1
+  Modal chromosome: Pau22
+  Gene Products: cathepsin B-like protease 3
+  Gene Descriptions: cathepsin B-like protease 3
+Svi
+  Gene count: 2
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi04K
+  Gene Products: cathepsin B-like protease 2%2C transcript variant X1; cathepsin B-like protease 3%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: cathepsin B-like protease 2%2C transcript variant X2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: cathepsin B-like protease 2%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: uncharacterized LOC100283781%2C transcript variant X1
+  Gene Synonyms: cl31697_1,GRMZM2G108849
+  Gene Descriptions: uncharacterized LOC100283781
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 349 aa
+
+MGglLpLlLLVVLSAaAAAPQLVGaAeGDNSLGIIQKDIIeTVNKHPNAGWTAGHNPYFA
+NYTIeQFKHILGVKPTPPGLLAgVPtKTYSRSlkLPKEFDARSKWSgCSTIGnILDQGHC
+GSCWAFGAVECLQDRFCIHhNMNISLSVNDLLACCGFMCGDGCDGGYPIsAWRYFVQNGV
+VTDECDPYFDQVGCKHPGCEPAYPTPVCEKKCKVQNQVWeEKKHFSVNAYRVNSDPHDIM
+AEVYKNGPVEVAFTVYEDFAHYKSGVYKHITGGvMGGHAVKLIGWGTSDAGEDYWLLANQ
+WNRGWGDDGYFKIIRGkNECGIEEDVVAGMPSTKNmVRNYGgAFGTAVV
+
+
+BOP CONSENSUS:
+Length: 350 aa
+
+MGvSLLPLALLVVLSAAAAAPQLVGAAkrDHSLGIIQKDIIQTVNKHPNAGWTAGHNPYL
+ANYTIEQFKHILGVKPTPPGLLAGVPTKTYsRSekLPKEFDARSKWSGCSTIGkILDQGH
+CGSCWAFGAVECLQDRFCIHhNMNISLSVNDLVACCGFLCGDGCDGGYPISAWQYFVrNG
+VVTDECDPYFDQVGCKHPGCEPAYPTPVCEKKCKVQNQVWeEKKHFSVNAYRVNSDPHDI
+MAEVYKNGPVEVAFTVYEDFAHYKSGVYKHITGGVMGGHAVKLIGWGTSDAGEDYWLLAN
+QWNRGWGDDGYFKIIRGKNECGIEEDVtAGMPSTKNiAGsaDvAFGTAIl
+
+
+PACMAD CONSENSUS:
+Length: 362 aa
+
+MGGTLQQLLLLLALFLLSAVAPQVVRAVKPIPNSNLGVEEGDNSmRIIQKDIIETVNKHP
+sAGWTAAHNPYFANYTIAQFKHILGVKPTPQnVLTDVPaKTYSRSLKLPKEFDARSKWSH
+CSTIGNILDQGHCGSCWAFGAVECLQDRFCIHMNMSISLSVNDLLACCGFMCGDGCDGGY
+PIMAWRYFVQNGVVTDECDPYFDQVGCKHPGCEPAYPTPKCEKKCKVQNQVWQEKKHFSV
+NAYRINSDPHDIMAEVYeNGPVEVAFTVYEDFAHYKSGVYKHITGGMMGGHAVKLIGWGT
+SDAGEDYWLLANQWNRGWGDDGYFKIIRGrNECGIEEDVVAGMPSTKNMVRNYGGSFGTA
+VV
+
+================================================================================

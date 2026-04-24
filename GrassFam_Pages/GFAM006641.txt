@@ -1,0 +1,142 @@
+================================================================================
+GrassFam ID: GFAM006641
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             633.0 aa
+Family Size (Extended Family Size): 23 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43243:SF75
+Panther Family ID:               PTHR43243
+Modal Panther ID:                PTHR43243:SF75
+Modal Panther Description:       AMINO ACID PERMEASE FAMILY PROTEIN, EXPRESSED
+Modal Panther Family ID:         PTHR43243
+Modal Panther Fam Desc:          INNER MEMBRANE TRANSPORTER YGJI-RELATED
+Interpro Signature Accession:    G3DSA:1.20.1740.10:FF:000010; G3DSA:1.20.1740.10; PTHR43243; PIRSF006060; PF13520
+Interpro Signature Description:  probable cationic amino acid transporter; Amino acid/polyamine transporter I; INNER MEMBRANE TRANSPORTER YGJI-RELATED; AA_transporter; Amino acid permease
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: cationic amino acid transporter 2%2C vacuolar
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: cationic amino acid transporter 2%2C vacuolar-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata05D
+  Gene Products: cationic amino acid transporter 2%2C vacuolar; cationic amino acid transporter 2%2C vacuolar-like
+Tae
+  Gene count: 4
+  Modal chromosome: Tae05D
+  Gene Products: cationic amino acid transporter 2%2C vacuolar-like; cationic amino acid transporter 2%2C vacuolar-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl12
+  Gene Products: cationic amino acid transporter 2%2C vacuolar-like
+  Gene Descriptions: cationic amino acid transporter 2%2C vacuolar-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa12
+  Gene Products: cationic amino acid transporter 2%2C vacuolar
+  Gene Descriptions: cationic amino acid transporter 2%2C vacuolar
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu06
+Pau
+  Gene count: 2
+  Modal chromosome: Pau22
+  Gene Products: cationic amino acid transporter 3%2C mitochondrial-like
+  Gene Descriptions: cationic amino acid transporter 3%2C mitochondrial-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: cationic amino acid transporter 3%2C mitochondrial-like; cationic amino acid transporter 3%2C mitochondrial-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: cationic amino acid transporter 2%2C vacuolar-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi14
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: cationic amino acid transporter 2%2C vacuolar-like%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: cationic amino acid transporter 2%2C vacuolar
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 633 aa
+
+MGfEEAApGMGGGVRALMRRKQVDSERARAAGGhQLRKELSVTQLVAIGVGSTIGAGVYV
+LVGTVAREHSGPALTLSFLIAGIAAALSAFCYAELASRCPSAGSAYHYSYICVGEGVAWL
+IGWALILEYTIGGSAVARGISPNLALFFGGPDSLPWILARHEIPWLDVVVDPCAAFLVFL
+VTGLLCVGIKESSFVQGVVTVLNCFVMLFVIIAGSYIGFQTGWVGYKVAGGFFPYGVNGM
+LAGSATVFFAYIGFDSVASTAEEVKNPQRDLPLGIGTALSICCSLYMLVSVVIVGLVPYF
+AMDPDTPISSAFARHGMHWAMYLVTTGAVLALCSTLMGSILPQPRILMAMARDGLLPSFF
+SDVhKKTQVPVKSTIVTGICAASLAFFMDVSQLAGMVSVGTLLAFTIVAVSILILRYVPP
+DEVPLPSSLQASFRLSQENDEEKvRgtLGDENHEQGtSEISDVIVVESIkDPLIEKQLYA
+SKLDETKRRKTAACSIASVCIGVLILTTSASATFLPFLVRCFVCVFGGLLLLAGLGMLCW
+IDQDDGRHSFGHSGGFICPFVPLLPVMCILINTYLLINLGGGTWMRVGVWLVMGVFVYIF
+YGRTHSSLTDVVYVPVAQANEIYGSSSSSGFVA
+
+
+BOP CONSENSUS:
+Length: 633 aa
+
+MGlDEAAPGGGGGIRVLLRRKQVDSDRARAAGGQQLAKELSITQLIAIGVGSTVGAGVYV
+LVGTVAREHSGPALTLSFLIAGIAAALSAFCYAELASRCPSAGSAYHYSYICVGEGVAWL
+IGWALILEYTIGGSAVARGISPNLALFFGGPNSLPWILARHELPWLDVVVDPCAAALVFL
+VTALLCVGIKESTFVQGIVTVLNCCVMLFVIIAGSYIGFQTGWVGYKVSGGFLPYGVNGM
+LAGSATVFFAYIGFDSVASTAEEVKNPQRDLPLGIATSLSICCSLYMLVSVVIVGLVPYF
+AMDPDTPISSAFARHGMQWAMYLVTSGAVLALCSTLMGSLLPQPRILMAMARDGLLPSFF
+SDVSEKTQVPVKSTIITGICAASLAFFMDVSQLAGMVSVGTLLAFTIVAVSILILRYVPP
+DEVPLPSSLQASFRLSQECDEEKVGSPLGDGNHEQGTSEIKDVIVVESINDPLIEKQLYA
+NKLDELKRRKTAARSIASVCVGVLILTASASVTFLPFLVMCFfCVFGGLLLLAGLGMLSW
+IDQDDGRHSFGHSGGFICPFVPLLPVMCILINTYLLINLGGGTWMRVGVWLVMGVFVYIF
+YGRTHSSLTDVVYVSLAQANEIYGSSSSSGFVA
+
+
+PACMAD CONSENSUS:
+Length: 624 aa
+
+MGGGVRALMRRKQVDSERARAAGSaHQLRKELSVTQLVAIGVGSTIGAGVYVLVGTVARE
+HSGPALTLSFLIAGIAAALSAFCYAELASRCPSAGSAYHYSYICVGEGVAWLIGWALILE
+YTIGGSAVARGISPNLALFFGGqDSLPWILARHEIPWLDVVVDPCAAFLVFvVTGLLCVG
+IKESSFVQGVVTVLNCFVMLFVIIAGSYIGFQTGWVGYKVAGGFFPYGANGMLAGSATVF
+FAYIGFDSVASTAEEVKNPQRDLPLGIGTALSICCSLYMLVSVVIVGLVPYFAMDPDTPI
+SSAFAKHGMHWAMYLVTTGAVLALCSTLMGSILPQPRILMAMARDGLLPSFFSDVHKTTQ
+VPVKSTIVTGICAAALAFFMDVSQLAGMVSVGTLLAFTIVAVSILILRYVPPDEVPLPSS
+LQASFRLSQENDEEKLRGTLGDEDHEQGASEISDVVVESIKDPLIEKQLYASKLnETKRR
+KTAACSIASVCIGVLVLTTSASATFLPFLVRCFVCAFGGLLLLtGLGvLCWIDQDDGRHS
+FGHSGGFICPFVPLLPVMCILINTYLLINLGGGTWMRVGVWLVMGVFVYIFYGRTHSSLT
+DVVYVPVAEANEIYGSSSSSGFVA
+
+================================================================================

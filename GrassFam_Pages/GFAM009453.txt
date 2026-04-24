@@ -1,0 +1,118 @@
+================================================================================
+GrassFam ID: GFAM009453
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             556.0 aa
+Family Size (Extended Family Size): 15 (17) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11081:SF8
+Panther Family ID:               PTHR11081
+Modal Panther ID:                PTHR11081:SF8
+Modal Panther Description:       EXONUCLEASE 1
+Modal Panther Family ID:         PTHR11081
+Modal Panther Fam Desc:          FLAP ENDONUCLEASE FAMILY MEMBER
+Interpro Signature Accession:    cd09857; cd09901; G3DSA:3.40.50.1010:FF:000002; G3DSA:3.40.50.1010; PTHR11081; SSF88723
+Interpro Signature Description:  PIN_EXO1; H3TH_FEN1-like; Exonuclease 1, putative; -; FLAP ENDONUCLEASE FAMILY MEMBER; PIN domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: exonuclease 1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: exonuclease 1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: exonuclease 1%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: exonuclease 1-like; exonuclease 1-like%2C transcript variant X1
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu06
+Pau
+  Gene count: 1
+  Modal chromosome: Pau22
+  Gene Products: exonuclease 1
+  Gene Descriptions: exonuclease 1
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi03K
+  Gene Products: exonuclease 1%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: exonuclease 1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi14
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 559 aa
+
+MGIPNLLRFLKPFIEPVHIKKYAGKRVGIDAYSWLHKGAYSCSMELCMDPKSAgARRYIS
+YFMHHINLLRHYKVVPVVVFDGGSMPCKAATDnERHRKRELSLvLAKEKLEQGNTAAAID
+LFRKAVHITPSMAYQLIQILRSENVEFVVAPYEADAQLAYLATLDADQGGIAAVVTEDSD
+LIAYCCPAIIFKMDRFGNGEEFIMERTLkTvKDGLSFQDFDQNLFTGMCVLAGCDFLPSV
+SGIGTKRAYSLISKYKNINrVISTLKLDKRYSVPDDYADSFWKTLAVFNHARVYDVKSKS
+LKHLKPLeEQYLnYLDGDLDILGPALSPSmARGIAEGrLNPVTMEAFDqFSRTISPIEFI
+DTSAFnVANQCGSQEILTQESCITIcSSQESKENmiVDEISSGGQKCnKGVLALGKFLpQ
+KHSPaVEcNEVkPKNtPENNPFKKRKLPTDQGQEpDQNELLIDLdDEESVLlCSSLSqES
+vhPaeSlkqLSiGQedydEQNLLrNEVPvgLCSSLTqeSVKSmPNerSSKRQKqQKasrN
+KTNKNVNErSGILKFFMRL
+
+
+BOP CONSENSUS:
+Length: 548 aa
+
+MGIPNLLRFMKPFIEPVHIKKYAGQRVGIDAYSWLHKGAYSCSMELCMSPRSAGARRYIS
+YFMHHVNLLRHHKVVPVVVFDGGSMPCKSATDEDRHKKRELSLVLGKEKLEQGNTAAAID
+LFRKAVQITPSMAYQLIQILKTENVEFVVAPYEADAQLAYLATLDADQGGIAAVITEDSD
+LIAYGCTAIIFKMDRFGNGEEFIMEKTLETVKDGLCFQDFDQNLFTGMCVLAGCDFLPSV
+PGIGTKRAYSLISKHKNIDLVLSTLKLDKRYSVPDDYIDSFWKTLAVFNHARVYDVKSKS
+LKHLKPLEERYLNYLAGDLDILGPALAPSMARAIAEGRLNPVTMETFDEFSRTISPIEFI
+DTSALNVANQHGSQEILTQESSITICSSEESRDDItAFAVDEITSGEQKGNKGVLALGKF
+LPQKHSSPAVECKEVKPKNTPDNNPFKKRKLPTDQGQVPDQNELLIDLDEEEAVVLCSSL
+SRESVGPAESLDRNGVSAGLCWPLTQESVASIPNERSSKRQSQQEAFRNKTNKNKDERSG
+LLKFFMRL
+
+
+PACMAD CONSENSUS:
+Length: 559 aa
+
+MGIPNLLRFLKPFIEPVHIKKYAGKRVGIDAYSWLHKGAYSCSMELCMDPKSAAARRYIS
+YFMHHINLLRHYKVVPVVVFDGGSMPCKAATDNERQRKRELSLNMAKEKLEQGNTAAAID
+LFRKAVHITPsMAYQLIQILRSENVEFVVAPYEADAQLAYLTTLDADQGGIAAVVTEDSD
+LIAYCCPAIIFKMDRFGNGEEFTMERTLKTEKDGLSFRDFDKKLFTGMCVLAGCDFLPSI
+SGIGTKRAYSLISKYKDINRVISNLKLDKRYSVPDDYADSLWKTLAVFNHARVYDVKSKS
+LKHLKPLDgQyLtYLDGDLDILGPaLSPSIARGIAEGHLNPVTMEAFDQYSRTISPIEFI
+DTSAFDVANQCGSQEIsTQKSCITILSSQESKENMIVnEISSDGQKCKKGVLALGKFLLQ
+KQSPRVEsNEVGPKNIPENNPFKKRKLPTDQVQEmGQTELLIDLqDEKSyLSCSSLSQES
+SHTIKsTKqLSiGQedydEQNLLVNEVPVAICSSLTRHSVKSMPNKIsSKRQKILKKSmD
+KTNKKVNGSSGILKFFTRL
+
+================================================================================

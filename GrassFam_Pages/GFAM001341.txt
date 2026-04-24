@@ -1,0 +1,120 @@
+================================================================================
+GrassFam ID: GFAM001341
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             363.5 aa
+Family Size (Extended Family Size): 54 (57) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR47991
+Modal Panther ID:                PTHR47991:SF162
+Modal Panther Description:       FE2OG DIOXYGENASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR47991
+Modal Panther Fam Desc:          OXOGLUTARATE/IRON-DEPENDENT DIOXYGENASE
+Interpro Signature Accession:    G3DSA:2.60.120.330:FF:000079; G3DSA:2.60.120.330; PTHR47991; PF14226; PF03171; SSF51197
+Interpro Signature Description:  Protein SRG1; -; OXOGLUTARATE/IRON-DEPENDENT DIOXYGENASE; non-haem dioxygenase in morphine synthesis N-terminal; 2OG-Fe(II) oxygenase superfamily; Clavaminate synthase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                1.85%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 3
+  Modal chromosome: Bdi01
+  Gene Products: PHD finger-like domain-containing protein 5B%2C transcript variant X1; S-norcoclaurine synthase 1; S-norcoclaurine synthase 1%2C transcript variant X1
+Lpe
+  Gene count: 4
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 4
+  Modal chromosome: Hvu02H
+  Gene Products: 2-oxoglutarate-dependent dioxygenase 11-like; S-norcoclaurine synthase 1-like
+Ata
+  Gene count: 6
+  Modal chromosome: Ata02D
+  Gene Products: 2-oxoglutarate-dependent dioxygenase 11-like; S-norcoclaurine synthase 1-like
+Tae
+  Gene count: 17
+  Modal chromosome: Tae02D
+  Gene Products: 2-oxoglutarate-dependent dioxygenase 11-like; S-norcoclaurine synthase 1-like; protein SRG1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 1
+  Modal chromosome: Pau14
+  Gene Products: 2-oxoglutarate-dependent dioxygenase 11-like
+  Gene Descriptions: 2-oxoglutarate-dependent dioxygenase 11-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: 2-oxoglutarate-dependent dioxygenase 11-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha02
+  Gene Products: S-norcoclaurine synthase 1-like; S-norcoclaurine synthase 1-like%2C transcript variant X1
+Msi
+  Gene count: 6
+  Modal chromosome: Msi14
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi02
+  Gene Products: S-norcoclaurine synthase 1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: S-norcoclaurine synthase 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 366 aa
+
+MEVEApsGSASESRWSklGTSLPVRNVQALAASAGELTADtIERYIQPDIDAhaVLaEHS
+dEVPVIDLgKLLsPESVEAEAAKLRFACEEWGFFQVVNHGIPDEVIaGIKhDIQKFFQLP
+LEVKNAYAQRPGDLQGYGQAFVVSDDQKLDWsDMFgLFaQPPQARDMSYWPSQPHTFRNS
+IEeYSSELMKlaHSLaTFIAKTLDVDPELMaDKHVsQFLRMNYYPPCTSMPEKVLGFSPH
+SDGSFLTILLEVNSVQGLQIRRHGAWIPVKPrpDALLVNVGDLLEIMTNGKYKSIEHRVT
+INAHKERLSISAFHVPkYDGIISPiLGtTEEKvLYKTvrVEEYARLYlSNKLDGKRALDy
+AKLSqI
+
+
+BOP CONSENSUS:
+Length: 367 aa
+
+MEVEArAsGSASESRWSKlGTSLPVRNVQALVASAGELTADkIERYIQPDIDAhAVLaEH
+SDEVPVIDLsKLLSAESVEAEAAKLRFACEEWGFFQVVNHGIPDEVIaGIKHDIQKFFQL
+PLEVKNAYAQRpGDLQGYGQAFVVSDDQKLDWaDMFgLFtQPPQARDMSYWPSQPHTFRN
+SIEEYSSELMKLaHSLATFIAKTLDVDPELmADKHVgQFLRMNYYPPCTSTPEKVLGFSP
+HSDGSFLTILLEVNSVQGLQIRRHGAWIPVKPRgDALLVNVGDLLEIMTNGKYKSIEHRV
+TINAHKERLSISAFHVPKYDGIISPILGTTEEKVLYKTvrVEEYARLYlSNKLeGKRALD
+YAKLSqI
+
+
+PACMAD CONSENSUS:
+Length: 362 aa
+
+MEMEtPSSSESRWSRVASSLPVRNVQDLAACpEELTAETLERYIRlDIQNDgVLvEQSGE
+VPVIDLGRLFNPdFVEEEAARLRFACEDWGFFQLVNHGIPEEIITNIRsDIQKFFQLPLE
+VKNAYAQLPGDLQGYGQSFVVSESQTLDWSDMFgILAQPPQARDMRYWPtQPHTFRKSIE
+DYSSELMKvAHSVVTFIAKTLNIDLKLMeDKYVSQvLRMNYYPPCMTMAEKVLGFSPHSD
+ASFLTLLLEVNSVqGLQIKRHNAWIPVKPNPKALLVNVGDFLEIMSNGKYKSIEHRVTIN
+TNQERLTvSAFHvPSLDGVvSPVTGITEEKiLYKTvGVEEYAKLYMSNKLDGKRALDHAK
+LL
+
+================================================================================

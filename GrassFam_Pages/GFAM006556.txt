@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM006556
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             378.0 aa
+Family Size (Extended Family Size): 18 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46438:SF7
+Panther Family ID:               PTHR46438
+Modal Panther ID:                PTHR46438:SF7
+Modal Panther Description:       ALPHA_BETA-HYDROLASES SUPERFAMILY PROTEIN
+Modal Panther Family ID:         PTHR46438
+Modal Panther Fam Desc:          ALPHA/BETA-HYDROLASES SUPERFAMILY PROTEIN
+Interpro Signature Accession:    G3DSA:3.40.50.1820:FF:000174; G3DSA:3.40.50.1820; PTHR46438; SSF53474
+Interpro Signature Description:  Predicted protein; alpha/beta hydrolase; ALPHA/BETA-HYDROLASES SUPERFAMILY PROTEIN; alpha/beta-Hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: pheophytinase%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: pheophytinase%2C chloroplastic%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: uncharacterized hydrolase YugF
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: pheophytinase%2C chloroplastic-like; pheophytinase%2C chloroplastic-like%2C transcript variant X1; uncharacterized hydrolase YugF-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: pheophytinase%2C chloroplastic
+  Gene Descriptions: pheophytinase%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4338815
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau11
+  Gene Products: pheophytinase%2C chloroplastic
+  Gene Descriptions: pheophytinase%2C chloroplastic
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi03K
+  Gene Products: 2-hydroxy-6-oxo-6-(2'-aminophenyl)hexa-2%2C4-dienoic acid hydrolase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: 2-hydroxy-6-oxo-6-(2'-aminophenyl)hexa-2%2C4-dienoic acid hydrolase
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: uncharacterized hydrolase YugF
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: uncharacterized LOC100281307
+  Gene Synonyms: GRMZM5G815808,umc2173
+  Gene Descriptions: uncharacterized LOC100281307
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 377 aa
+
+MAALAAHHHRLLSSSSAAtPRTrRRRRsSSLPFSSsPssHGRlRGARVLRRASGGGGtSS
+AAAApAsSSSLEELrRSCTTWTWRGMRVNYLVRGQGPPVLLVHGFGASVAHWRRNIGVLS
+ESYTVYAIDLLGFGASDKPPGFSYTMETWAELILDFLDEVVKRPTVLVGNSVGSLACVIA
+ASESTRDLVRGLVLLNCSGGMNNKAIVDDWRIKLLLPLLWLIDFLLKQRpIASALFnRVK
+dRdNLKDILLSVYGNKDAVDDELVEIIRGPADTEGALDAFVSTVTGPPGPSPIALMPRlA
+diPVLVLWGDRDPFTPIDGPVGKYFSgLPSELPNVTLHMLEGVGHCPHDDRPDLVHdKLL
+PWLasLPSpAApeVAva
+
+
+BOP CONSENSUS:
+Length: 369 aa
+
+MAALAAHHHRVLSSTSfATPRTsLPfASSSSPPtHGRLRGARVLRHASGGGGsSSAApas
+SSSLEELSRSCTTWSWRGMRVNYLVRGEGPPVLLVHGFGASVAHWRRNIGVLSESNTVYA
+IDLLGFGASDKPAGFSYTMETWAELILeFLDEVVKRPTVLVGNSVGSLACVIAASDSTRD
+LVRGLVLLNCSGGMNNKAIVDDWRIKLLLPLLWLIDFLLKQKSIASALFGRVKEReNLKD
+ILLSVYGNKDAVDDELVEIIRGPADTEGALDAFVSTVTGPPGPSPIALMPrIKIPVLVLW
+GDeDPFTPIDGPVGKYFSGLPSELPNVRLHMLEGVGHCPHDDRPDLVHEKLLPWLASLPS
+AAEPEVAvA
+
+
+PACMAD CONSENSUS:
+Length: 383 aa
+
+MAALAAHHHRLlSSSvAAPTTlRRRRRfSSLPFSpRPSSHGRfSSRAAtRVLTRAGGGGT
+SSAAAPAATTAsSLSLEELRRGCTTWTWRGMRVNYLARGQGPPVLLVHGFGASVAHWRRN
+IGVLSESYTVYAIDLLGFGASDKPPGFSYTMETWAELILDFLEEVVrRPTVLVGNSVGSL
+ACVIAASESnReAVRGLVLLNCAGGMNNKAIVDDWRIKLLLPLLWLIDFLLKQRPIASAL
+FNRVKNRDNLKDILLSVYGNKDAVDDELVEIIRGPADTEGALDAFVSTVTGPPGPSPIAL
+MPRLADVPVLVLWGDRDPFTPIDGPVGKFFSKLPSELPNVTLHMLEGVGHCPHDDRPDLV
+HDRLLPWLeGLPPPAAGAAtttV
+
+================================================================================

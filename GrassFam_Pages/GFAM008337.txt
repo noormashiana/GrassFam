@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM008337
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             365.5 aa
+Family Size (Extended Family Size): 20 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR12411
+Modal Panther ID:                PTHR12411:SF979
+Modal Panther Description:       CYSTEINE ENDOPEPTIDASE REP1
+Modal Panther Family ID:         PTHR12411
+Modal Panther Fam Desc:          CYSTEINE PROTEASE FAMILY C1-RELATED
+Interpro Signature Accession:    cd02248; G3DSA:3.90.70.10:FF:000023; G3DSA:3.90.70.10; PTHR12411; PF00112; SM00645; SSF54001
+Interpro Signature Description:  Peptidase_C1A; Senescence-specific cysteine protease SAG39; Cysteine proteinases; CYSTEINE PROTEASE FAMILY C1-RELATED; Papain family cysteine protease; pept_c1
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: vignain
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: vignain-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: vignain%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: vignain-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl09
+  Gene Products: cysteine endopeptidase RepA%2C transcript variant X2; thiol protease SEN102-like
+  Gene Descriptions: cysteine endopeptidase RepA; thiol protease SEN102-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: cysteine endopeptidase RepA-like%2C transcript variant X4
+  Gene Descriptions: cysteine endopeptidase RepA-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 1
+  Modal chromosome: Pau12
+  Gene Products: cysteine endopeptidase RepA-like
+  Gene Descriptions: cysteine endopeptidase RepA-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi06N
+  Gene Products: vignain-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: thiol protease SEN102-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: thiol protease SEN102
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: KDEL-tailed cysteine endopeptidase CEP1
+  Gene Synonyms: GRMZM2G099765
+  Gene Descriptions: KDEL-tailed cysteine endopeptidase CEP1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 364 aa
+
+MLRCfLLAAVvALALAaAPARGIPFTEKDLASEESLRGLYERWRSHYTVSRrGLgeDdeA
+RRFNVFKENVRYIHEANKKDRPFRLALNKFADMTTDEFRRTYAGSRVRHHRALSGGRRGe
+GSFmYaDAgNLPPAVDWRQRGAVTGIKDQGQCGSCWAFSTIAAVEGINKIRTGKLVSLSE
+QELVDCDnVDNQGCDGGLMDYAFQFIkrNGGITTESNYPYlAEQgSCNkAKErSHDVTID
+GYEDVPANDEsALQKAVANQPVAVAIEASGQDFQFYSEGVFTGsCGTDLDHGVAAVGYGT
+TRDGTKYWIVKNSWGEDWGERGYIRMQRGVSDSeGLCGIAMEASYPTKSAPHATvrEGsl
+tDEL
+
+
+BOP CONSENSUS:
+Length: 364 aa
+
+MWRCILLAAVVALALAPAPALGIPFTEKDLASEESLRGLYERWRSHYTVSRRGLGADAEE
+RRFNVFKENARYVHEGNKKDRPFRLALNKFADMTTDEFRRTYAGSRVRHHRSLSGGRRGD
+GSFRYGDADNLPPAVDWRQKGAVTGIKDQGQCGSCWAFSTIVAVEGINKIRTGKLVSLSE
+QELMDCDNVNNQGCDGGLMDYAFQFIHKNGITTESNYPYQGEQGSCDQAKEkAHDVTIDG
+YEDVPANDESALQKAVAGQPVSVAIDASGQDFQFYSEGVFTGECSTDLDHGVAAVGYGTT
+RDGTKYWIVKNSWGEDWGEKGYIRMQRGVSQaEGLCGIAMQASYPTKSAPHArTVREGSH
+TDEL
+
+
+PACMAD CONSENSUS:
+Length: 364 aa
+
+MLRCFvLAAVLALALlApPARGIPFTEkDLASEESLRALYERWRSHYMVARPGLQEDDDK
+ARRFNVFKENVRYIHEANKKDRPFRLALNKFADMTTDEFRRTYAGSRvRHHRALSGGRRA
+EGSFMYAdAGNLPPAVDWRQRGAVTGIKDQGQCGSCWAFSTIAAVEGINKIRTGKLVSLS
+EQELVDCDDGDNQGCNGGLMDYAFQYIKRNGGITTESNYPYLAEQRsCNKAKERSHDVTI
+DGYEDVPANNEDALQKAVANQPVAVAIEASGQDFQFYSEGVFTGSCGTDLDHGVAAVGYG
+TTRDGTKYWIVKNSWGEDWGERGYIRMQRGVSDSQGLCGIAMEPSYPTKSAtHGAIMEDL
+kdsL
+
+================================================================================

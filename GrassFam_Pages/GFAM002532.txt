@@ -1,0 +1,142 @@
+================================================================================
+GrassFam ID: GFAM002532
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             563.0 aa
+Family Size (Extended Family Size): 27 (27) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10543:SF144
+Panther Family ID:               PTHR10543
+Modal Panther ID:                PTHR10543:SF144
+Modal Panther Description:       CAROTENOID CLEAVAGE DIOXYGENASE 8
+Modal Panther Family ID:         PTHR10543
+Modal Panther Fam Desc:          BETA-CAROTENE DIOXYGENASE
+Interpro Signature Accession:    PTHR10543; PF03055
+Interpro Signature Description:  BETA-CAROTENE DIOXYGENASE; Retinal pigment epithelial membrane protein
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: carotenoid cleavage dioxygenase 8 homolog B%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu03H
+  Gene Products: carotenoid cleavage dioxygenase 8 homolog B%2C chloroplastic; carotenoid cleavage dioxygenase 8 homolog B%2C chloroplastic-like
+Ata
+  Gene count: 3
+  Modal chromosome: Ata03D
+  Gene Products: carotenoid cleavage dioxygenase 8 homolog B%2C chloroplastic; carotenoid cleavage dioxygenase 8 homolog B%2C chloroplastic-like
+Tae
+  Gene count: 5
+  Modal chromosome: Tae03A
+  Gene Products: carotenoid cleavage dioxygenase 8 homolog B%2C chloroplastic; carotenoid cleavage dioxygenase 8 homolog B%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: carotenoid cleavage dioxygenase 8 homolog B%2C chloroplastic
+  Gene Descriptions: carotenoid cleavage dioxygenase 8 homolog B%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: carotenoid cleavage dioxygenase 8 homolog B%2C chloroplastic
+  Gene Synonyms: CCD8B,D10,OsCCD8b
+  Gene Descriptions: carotenoid cleavage dioxygenase 8 homolog B%2C chloroplastic
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: carotenoid cleavage dioxygenase 8 homolog B%2C chloroplastic; carotenoid cleavage dioxygenase 8 homolog B%2C chloroplastic-like
+  Gene Descriptions: carotenoid cleavage dioxygenase 8 homolog B%2C chloroplastic; carotenoid cleavage dioxygenase 8 homolog B%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: carotenoid cleavage dioxygenase 8 homolog B%2C chloroplastic; carotenoid cleavage dioxygenase 8 homolog B%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: carotenoid cleavage dioxygenase 8 homolog B%2C chloroplastic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: carotenoid cleavage dioxygenase 8 homolog B%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: uncharacterized LOC100502522
+  Gene Synonyms: CCD8,GRMZM2G446858
+  Gene Descriptions: uncharacterized LOC100502522
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 561 aa
+
+MSPTMaSSLCVFAALSGAAGRPGRRASqQGGnGKRAVAQPLAASAVTEAPPPVIAPPARP
+VVdAPRRRGGRGGAgELVAWKSVRQERWEGALEVEGELPLWLDGTYLRNGPGLWNLGDYG
+FRHLFDGYATLVRVSFRDGrAVGAHRQIESEAYKAARAHGKVCYREFSEVPKPDSFLSfV
+GQLASLFSGSSLTDNSNTGVVRLGDGRVLCLTETVKGSIVVDPDTLDTVGKFEYTDKLGG
+LIHSAHPIVTDTEFWTLIPDLIRPGYVVARMDAGSNERQFVGRVDCRGGPAPGWVHSFPV
+TEHYVVVPEMPLRYCAkNLLRAEPTPLYKFEWHLESGSYMHVMCKASGKIVASVEVPPFV
+TFHFINAYEEKDEEGRVTAIIADCCEHNANTSILDKLRLHNLRSFTGQDVLPDARVGRFR
+IPLDGSPFGELEAALDPEEHGRGMDMCSINPAHLGKEYRYAYACGARRPCNFPNTLTKID
+LVEKTAKNWYEEGAVPSEPFFVPRPGAVEEDDGVAISMVSAKDGSGYALVLDAKTFqEIA
+RAKFPYGLPYGLHCCWVPRdk
+
+
+BOP CONSENSUS:
+Length: 561 aa
+
+MSPTISSSLCTVAALSGrPGRRASQQGGNKQRAVAQPLAAgAVTEAPPAVIAPPPRPVVs
+APRRRGGRGVDGGADELVAWKSIRQERWEGALEVEGnLPLWLDGTYLRNGPGLWDLGDYG
+FRHLFDGYATLVRVSFRDGhAVGAHRQIESEAYKAAReHGKVCYREFSEVPKPDSFtSFV
+GQLASLFSGSSLTDNSNTGVVRLGDGRVLCLTETVKGSIVVDPDTLDTVSKFEYEDKLGG
+LIHSAHPIVTDTEFWTLIPDLIRPGYVVARMDAGSNERQFVGRVDCRGGPAPGWVHSFPV
+TENYVVVPEMPLRYCAANLLRAEPTPLYKFQWHLESGSYMHVMCKASGKIVASVEVPPFV
+TFHFINAYEEKDEEGRVTAIIADCCEHNANTSILDNLRLHNLRSFTGEDVLTDARVGRFR
+IPLDGSPFGELEAALDPEEHGRGMDMCSINPAHLGKEYRYAYACGARRPCNFPNTLTKID
+LVEKTAKNWYEEGAVPSEPYFVPRPGAVEEDDGVAISMVSAKDGSGYALVLDAKTFKEIA
+RAKFPYGLPYGLHCCWVPRDK
+
+
+PACMAD CONSENSUS:
+Length: 572 aa
+
+MSPTMASSLCVFAAMSGAAGRPSGGSAVPGRLASSQQGgKGKRAVAQPLAASVVTETPtP
+AIAPAPPARPVVDAPRRRGGRGtGEHAAWKSVRQERWEGALEVEGELPLWLDGTYLRNGP
+GLWNLGDYGFRHLFDGYATLVRVSFRNGRAVGAHRQIESEAYKAARAHGKVCYREFSEVP
+KPDSFLSYVGQLATLFSGSSLTDNSNTGVVRLGDGRVLCLTETIKGSIVVDPDTLDTLGK
+FEYTDKLGGLIHSAHPIVTDTEFWTLIPDLIRPGYSVVRMDAGTNERRFVGRVDCRGGPA
+PGWVHSFPITEHYVVVPEMPLRYCAKNLLRAEPTPLYKFEWHLESGSYMHVMCKASGRVV
+ASVEVPPYVTFHFINAYEEtDEEGRVTAIVADCCEHNANTSILDKLRLQNLRSSTGQDVL
+PDARVGRFRIPLDGSPFGELESALDPDEHGRGMDMCSINPAHVGKKYRYAYACGArRPCN
+FPNTLTKIDLVEKTAKNWYEEGAVPSEPFFVPRPGAVEEDDGVAISMVSAKDGSAYALVL
+DAKTFQEIARAKFPYAMPYGLHCCWVPRNSNA
+
+================================================================================

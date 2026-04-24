@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM006727
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             458.0 aa
+Family Size (Extended Family Size): 20 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR46224
+Modal Panther ID:                PTHR46224:SF6
+Modal Panther Description:       ANKYRIN REPEAT FAMILY PROTEIN
+Modal Panther Family ID:         PTHR46224
+Modal Panther Fam Desc:          ANKYRIN REPEAT FAMILY PROTEIN
+Interpro Signature Accession:    G3DSA:1.25.40.20; G3DSA:1.25.40.10; PTHR46224; SSF48403; SSF48452
+Interpro Signature Description:  -; Tetratricopeptide repeat domain; ANKYRIN REPEAT FAMILY PROTEIN; Ankyrin repeat; TPR-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: ankyrin-1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: ankyrin-3
+Ata
+  Gene count: 1
+  Modal chromosome: AtaUN162708
+  Gene Products: inversin-B
+Tae
+  Gene count: 4
+  Modal chromosome: Tae01A
+  Gene Products: 26S proteasome non-ATPase regulatory subunit 10-like%2C transcript variant X1; ankyrin-2-like; inversin-B-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: uncharacterized LOC127773931
+  Gene Descriptions: uncharacterized LOC127773931
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4337543
+Pau
+  Gene count: 1
+  Modal chromosome: Pau11
+  Gene Products: uncharacterized LOC133884474
+  Gene Descriptions: uncharacterized LOC133884474
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: ankyrin repeat domain-containing protein 29-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: tankyrase%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: ankyrin-3
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: Ankyrin-1
+  Gene Synonyms: GRMZM2G098212
+  Gene Descriptions: Ankyrin-1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 460 aa
+
+MADAAAALSARSKVQAFLEAARAGDLdSLKKLVAALDEEGKGAAAVAAAVRDANKRTALH
+FAAREGRTDVCqFLIeQLGLPVDPKDDDGETPLIHAARQGHLeTVKYLLDHGADPSVASN
+LGATALHHAAGIGNiELMKLLLSKGVDVESESDAGTPLVWAAGHGQQDAVKLLLQHNAKP
+NTETADGITsLLSAVAAGSLPCLEVLIQAGANPNVtAGGATPLHIAADSGNiEmIKCLLK
+AGGDPNTCDDDGLKPIQVAALRNNREVVELLLPLTSPIPGVSNWtVDGIIEYmLSKmeEE
+KAQlKEATSLKSGLQRpQPVEVSPEAKKRSLEAKSRGDDAFRRKDYLVAVDAYTQAIELD
+PNDATLLSNRSLCWLRAGQAERALEDARACRALRPDWAKACYREGAALRLLQRFEEAANA
+FYEGVQLEPENKELVSAFREAVEAGRKFHGvDKPtntqSE
+
+
+BOP CONSENSUS:
+Length: 458 aa
+
+MADAAAALSARSKVQAFLEAACSGDLEALRKFGSALDEEGKGAAAVAAGVRDANKRTALH
+FAAREGQTEVCkFLVEQLRLPVDPKDDDGETPLIHAARQGRLETVEYLLGRGADPSVASN
+MGATALHHAAGIGHIEIMKLLLGKGVDVESESESGTPLVWAAGHGQQDAVKLLLEHNAKP
+DTETADGITSLLSAVAAGSLPCLEVLIQAGANPNVTAGGATPLHIAADSGNLEMIKCLLQ
+AGGDPNTSDDDGFKPIQVAALRDNLEVVEHLLPLTSPIPGVSNWTVDGIVEYtSSKMeEE
+KAQENESASLQRRQPVEVSPEAKKRSLEAKSRGDDAFRRKDFLVAVDAYTQAIEFDPNDP
+ALLSNRSLCWLRAGQGERALEDARACRALKPDWAKACFREGAALRLLQRFEEAANAFYEG
+VQLEPENKELVKAFREAVEDGRKFHgTNKPTTNGTKSE
+
+
+PACMAD CONSENSUS:
+Length: 456 aa
+
+MADATAALSARSKVQAFLEAARAGDLDSLKSLVAALDEEGTGAAAVAAAVRDANKRTALH
+FAAREGRTDVCqFLIDQLGLPVDPKDDDGETPLIHATRQGHLHTAKYLLDHGADPSVATS
+LGATALHHAAGIGNTELMKLLLSKGVDVESESDAGTPLVWAAGHGQeDAVKLLLQHNAKP
+NTENDDGVTALLSAVAAGSLPCLEVLIEAGANPNIKAGGATPLHIAADSGNIEVIKCLLK
+AGGDPNTCDDDGLKPIQVAAWRNNREVVELLLPLTSPIPGVSNWNVDGIIEYMLpKEyEE
+KSQLKEATSLKSGRPQtVEVSSEAKKRSLEAKSRGDDAFRRKDYLVAVDAYTQATELDPN
+DATVLSNRSLCWLRAGQAERALEDAKACRALRPDWAKACYREGAAHRLLQRFEEAANAFY
+EGVQLEPENKELVSAFREAIEAGRKFHGVDTPNPTQ
+
+================================================================================

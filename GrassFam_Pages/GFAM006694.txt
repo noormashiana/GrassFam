@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM006694
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             529.0 aa
+Family Size (Extended Family Size): 23 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43201:SF27
+Panther Family ID:               PTHR43201
+Modal Panther ID:                PTHR43201:SF27
+Modal Panther Description:       AMP DEPENDENT COA LIGASE
+Modal Panther Family ID:         PTHR43201
+Modal Panther Fam Desc:          ACYL-COA SYNTHETASE
+Interpro Signature Accession:    cd05926; G3DSA:3.30.300.30:FF:000007; G3DSA:3.30.300.30; G3DSA:3.40.50.12780; PTHR43201; PF00501; SSF56801
+Interpro Signature Description:  FACL_fum10p_like; 4-coumarate--CoA ligase 2; -; ACYL-COA SYNTHETASE; AMP-binding enzyme; Acetyl-CoA synthetase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: oxalate--CoA ligase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: oxalate--CoA ligase
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: oxalate--CoA ligase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: oxalate--CoA ligase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: oxalate--CoA ligase
+  Gene Descriptions: oxalate--CoA ligase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: oxalate--CoA ligase
+  Gene Descriptions: oxalate--CoA ligase
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 1
+  Modal chromosome: Pau13
+  Gene Products: oxalate--CoA ligase-like
+  Gene Descriptions: oxalate--CoA ligase-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: oxalate--CoA ligase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: oxalate--CoA ligase
+Msi
+  Gene count: 3
+  Modal chromosome: Msi08
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: oxalate--CoA ligase
+Zma
+  Gene count: 2
+  Modal chromosome: Zma08
+  Gene Products: oxalate--CoA ligase%2C transcript variant X2; uncharacterized LOC100285908
+  Gene Synonyms: AAE,cl7206_1,GRMZM2G074759,o7
+  Gene Descriptions: uncharacterized LOC100285908
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 526 aa
+
+AAmEAlTLTALLKaAAAAFPsRRAVAVPGKIdLTHAALDALVDAAAARLAADAGVRPGHV
+VALsFPNTVELVIMFLAVIRARAVAAPLNPAYTQEEFEFYLSDSEARLLvTNAEGNAAAQ
+AAAAKLGLpHAAATLtDAAGPVHLAGLPadAagNGapNGShqgsdneNEPSDVALFLHTS
+GTTSRPKGVPLTQRNLAASVQNIRSVYRLaETDATVVVLPLFHVHGLLCALLSSLASGAS
+VALPAAGRFSASTFWADMRAAGATWYTAVPTIHQIILDRHASKPEAeYPALRFVRSCSAS
+LAPAILERLEAAFGAPVLEAYAMTEASHLMTSNPLPQDGARKPGSVGRAVGQElAVLDEE
+GrrVAAGkPGEVCIRGANVTAGYKGNPEANEAAFRFGWFHTGDIGVVDeEGYVrLVGRIK
+ELINRGGEKISPIEVDAVLLGHPgVAQAVSFGVPDDKYGEEINCAVIPREGsALGEEEVV
+AHCRRNLAAFKVPKKVFITDDLPKTATGKIQRRIVAQHFVqPaaAA
+
+
+BOP CONSENSUS:
+Length: 525 aa
+
+MEALTLTSLLKAAAAAFPDRRAIAVHGKIDLTHAALDALVDAAAARLAAGAGVRPGQTVA
+LCFPNTVELVVMFLAVIRARGVAAPLNPAYTQEEFEFYLSDSGARLLVTGADGNAPAQAA
+AAKLGLPHAVAATLTDAAGPLhLAGLPDsQDNQNGTVQhdfeNEPSDVALFLHTSGTTSR
+PKGVPLTQRNLAASVQNIRAVYRFaETDATVVTLPLFHVHGLMCALLSSLASGASVTLPA
+AGRFSASTFWADMRAAGATWYTAVPTIHQIILDRHASRPEPRYPALRFVRSCSASLAPVI
+LERLEAAFGAPVLEAYAMTEASHMMTSNPLPQDGARKPGSVGRAAGsLEVAVLDEaGsrV
+PAGERGEVCIRGANVTAGYKTADPGANEAAFlHGWFHTGDIGVMDGEGYVRLVGRIKELI
+NRGGEKISPIEVDSVLLGHPDVAQAVSFGVPDEKYGEEIHCAVIPREGSVALGEEEVVAF
+CRKNLAAFKVPKKVYIADDLPKTATGKIQRRIVAQHFFVPPAAAA
+
+
+PACMAD CONSENSUS:
+Length: 525 aa
+
+MAaEAtTLTALLKKAAAAFPaRRAVAVPGKLELTHAALDALVDAAAARLAADAGVLPGHV
+VALSFPNTVELVIMFLAVIRARAVAAPLNPAYTQEEFEFYLSDSEARLLITNAEGNAAAQ
+AAAAKLGLvHAAATLhDAAGPVHLAGLPalAaGNGteNGSHggSpdnNDPSDVALFLHTS
+GTTSRPKGVPLTQrNLAASVRNIRSVYRLaETDATVVVLPLFHVHGLLCALLSSLASGAS
+VALPAAGRFSASTFWADMRASGATWYTAVPTIHQIILDRHASKPEAEYPALRFIRSCSAS
+LAPAILEKLEAAFGAPVLEAYAMTEASHLMTSNPLPEDGpRKPGSVGRPVGQELAILDEE
+GrRVAAGsPGEVCIRGANVTAGYKGNPEANEAAFRFGWFHTGDIGVVDEEGYVHLVGRIK
+ELINRGGEKISPIEVDAVLLGHPGVAQAVSFGVPDDKYGEEINCAVIPREGSALrEEEVL
+AHCRRNLASFKVPKKVFITDDLPKTATGKIQRRIVAQHFVQPAKA
+
+================================================================================

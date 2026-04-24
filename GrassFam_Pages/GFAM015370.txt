@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM015370
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             575.0 aa
+Family Size (Extended Family Size): 19 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22951:SF21
+Panther Family ID:               PTHR22951
+Modal Panther ID:                PTHR22951:SF21
+Modal Panther Description:       OS06G0661400 PROTEIN
+Modal Panther Family ID:         PTHR22951
+Modal Panther Fam Desc:          CLATHRIN ASSEMBLY PROTEIN
+Interpro Signature Accession:    cd03564; G3DSA:1.20.58.150:FF:000003; G3DSA:1.25.40.90:FF:000005; G3DSA:1.20.58.150; G3DSA:1.25.40.90; PTHR22951; PF07651; SM00273; SSF89009; SSF48464
+Interpro Signature Description:  ANTH_N; Putative clathrin assembly protein; Clathrin assembly protein AP180; ANTH domain; -; CLATHRIN ASSEMBLY PROTEIN; enth_2; GAT-like domain; ENTH/VHS domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: putative clathrin assembly protein At5g57200%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: putative clathrin assembly protein At5g57200%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: putative clathrin assembly protein At5g57200%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: putative clathrin assembly protein At5g57200%2C transcript variant X1; putative clathrin assembly protein At5g57200%2C transcript variant X2
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: putative clathrin assembly protein At5g57200%2C transcript variant X1
+  Gene Descriptions: putative clathrin assembly protein At5g57200
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: putative clathrin assembly protein At5g57200
+  Gene Descriptions: putative clathrin assembly protein At5g57200
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau10
+  Gene Products: putative clathrin assembly protein At5g57200%2C transcript variant X1
+  Gene Descriptions: putative clathrin assembly protein At5g57200
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: putative clathrin assembly protein At5g57200
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: putative clathrin assembly protein At5g57200
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: putative clathrin assembly protein At5g57200%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: clathrin assembly protein
+  Gene Synonyms: GRMZM2G473162
+  Gene Descriptions: clathrin assembly protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 575 aa
+
+MGSGTWRKAYGALKDSTKVGLANFNSEYKDLDIAIVKATNHVECPPKERHLRRILFATSA
+NRPRADVAYSICTLARRLSKTKNWIVALKTLIVIHRLLREGDGTFKEDFLTYSYRGNILQ
+IPqFKDDSSPLAWDCSAWVRTYALYLDERVECFRVLKYDVEADRLLKLPQASGKAHSRTR
+TLPCaDLLDQLPALQKLLLRLISCQPEGAACTNYLVQYALALVLKESFKIYCSINDGIIN
+LVDMYFDMPKYDAIKALEIYKRAGQQAEKLSAFYDhCKHLELARTFQFPTLRQPPPSFLV
+TMEEYIREAPRASIeSKSLENEeNQPSDNEdEAPQETEKPVEEEKQEPAEPEEEPQPtAE
+PsEEAVEPQPlpTTGDLLNLDEEVNPMIADLEeSNALALAIVAPGNENKAStSrDLFALD
+KAGWELALVTAPSNHTNQpvdNQLAGGFDKLLLDSLYEDEARRQQIASVTYTGSlAANPF
+DPNDPFAMSNSFAPPSNVQLAMMaQQQQYYQAQQQQYFQVQQQQQMVMLPPQTYQQQsQY
+SAPSSqAGLSNPFGDPFSsLVtMANPPKQSNSNLV
+
+
+BOP CONSENSUS:
+Length: 571 aa
+
+MGSGTWRKAYGALKDSTKVGLANFNSEYKDLDIAIVKATNHVECPPKERHFRRIMFATSA
+NRPRADVAYSICTLARRLSKTKNWIVALKTLIVIHRLLREGDGTFKDDFLSYSYRGNILQ
+LPNFRDDSSPLAWDCSAWVRLYAFYLHERVECFRVLKYDVEADRLVKLPQASGKAHSRTR
+TLPCeDLLDQLPALQKLLLRLISCQPEGtACTNHLVQYALALVLKESFKIYCSINDGIIN
+LVDMYFDMAKmDAIKALEIYKRAGQQAEKLSAYYDYCKrLELARTFQFPTLRQPPSSFLv
+TMEEYIREAPRVSITRKSVQSSPSDHEDEAPQETEKPVEEEKEEPAEAAPEEEPQYTALS
+EEDEPPPLRPTTGDLLNLDEELHPMIANLEQSNALALAIVEPGSENNASAPLDLFAIDKA
+GWELALVTAPSNHTSQPAVSQLAGGFDKLLLDSLYEDeARRQQIASVTYTGGVTVNPFDP
+NDPFAMSNSFAPPSNVQFAMMGQQQQYYQAQQHgYFQmQQQQQHQMVmMPPQTYQQQQAQ
+YAVNAGLSNPFGDPFSALVTMANPPKQNNqi
+
+
+PACMAD CONSENSUS:
+Length: 576 aa
+
+MGSGTWRKAYGALKDSTKVGLANFNSEYKDLDIAIVKATNHVECPPKERHLRRILYATSA
+HRPRADVAYSICTLARRLSKTKNWIVALKTLIVIHRLLREGDGTFKEDFLTYSYRGNILQ
+IPQFKDDSSPLAWDCSAWVRTYALYLDERVECFRVLKYDVEADRLLKLPQASGKAHSRTR
+TLPLADLLDQLPALQKLLLRLIYCQPEGAACTNYLVQYALALVLKESFKIYCSINDGIIN
+LVDMYFEMPKYDAIKALEIYKRAGQQAEKLSNFYDHCKHLELARTFQFPTLRQPPPSFLV
+TMEEYIREAPRAnIESKSLENHEENQPSDNEEAAPQETEKPVEEEKQEPAEPEEEPQPAA
+EPAEEAVEPQPPATTGDLLNLDEEVNPMIADLEESNALALAIVAPGNENKMSTSRDLFAL
+DKSGWELALVTAPSNHTNQQVDNQLAGGFDKLLLDSLYEDEARRQQIASVTYTGSLAANP
+FDpNDPFAMSNSFAPPSNVQLAMMAEQQQYYQAQQQQYFQVQQQQQMVMLPPQTYQQQSQ
+YSAPSSQAGLSNPFGDPFSSLVAMANPPKQSNSNLV
+
+================================================================================

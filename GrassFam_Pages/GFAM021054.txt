@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM021054
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             475.0 aa
+Family Size (Extended Family Size): 22 (28) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR19278:SF40
+Panther Family ID:               PTHR19278
+Modal Panther ID:                PTHR19278:SF40
+Modal Panther Description:       URIDINE 5'-MONOPHOSPHATE SYNTHASE
+Modal Panther Family ID:         PTHR19278
+Modal Panther Fam Desc:          OROTATE PHOSPHORIBOSYLTRANSFERASE
+Interpro Signature Accession:    cd04725; G3DSA:3.20.20.70:FF:000092; G3DSA:3.40.50.2020:FF:000025; G3DSA:3.20.20.70; G3DSA:3.40.50.2020; TIGR00336; TIGR01740; PTHR19278; PF00215; SM00934; SSF53271; SSF51366
+Interpro Signature Description:  OMP_decarboxylase_like; Uridine monophosphate synthetase; Aldolase class I; -; orotate phosphoribosyltransferase; orotidine-5'-phosphate decarboxylase; OROTATE PHOSPHORIBOSYLTRANSFERASE; Orotidine 5'-phosphate decarboxylase / HUMPS family; OMPdecase_2; PRTase-like; Ribulose-phoshate binding barrel
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: uridine 5'-monophosphate synthase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: uridine 5'-monophosphate synthase
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: uridine 5'-monophosphate synthase
+Tae
+  Gene count: 2
+  Modal chromosome: Tae03B
+  Gene Products: uridine 5'-monophosphate synthase; uridine 5'-monophosphate synthase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: uridine 5'-monophosphate synthase
+  Gene Descriptions: uridine 5'-monophosphate synthase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: uridine 5'-monophosphate synthase-like
+  Gene Synonyms: OsJ_04774,UMPS1
+  Gene Descriptions: uridine 5'-monophosphate synthase-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: uridine 5'-monophosphate synthase; uridine 5'-monophosphate synthase-like%2C transcript variant X2
+  Gene Descriptions: uridine 5'-monophosphate synthase; uridine 5'-monophosphate synthase-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: uridine 5'-monophosphate synthase; uridine 5'-monophosphate synthase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: uridine 5'-monophosphate synthase
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: uridine 5'-monophosphate synthase
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: uncharacterized LOC100274407; uncharacterized LOC732794
+  Gene Synonyms: GRMZM2G367026,IDP506,UMPS; gpm370,GRMZM2G109472
+  Gene Descriptions: uncharacterized LOC100274407; uncharacterized LOC732794
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 475 aa
+
+MDAAALEsLILDLHAIEAVKLGSFVLKSGITSPIYLDLRALVSHPRLLSAIASLLHALPA
+TRPYGLVCGVPYTALPIAAVLSVDRSiPMLMRRKEVKAHGTAKSIEGSFRAGDTVLIIED
+LVTSGASVLETAAPLRAEGLVVADAVVVVDREQGGRENLAANGITLHSLMTLTEVLAVLL
+KHGKVTEEKAeEVRQFLDANRKVAVPGAPVKPKVlRKpFeERAkLAtNPMGKKLFEVMEA
+KQSNLCVAADVGTAKELLELAEKVGSEICMLKTHVDILSDFTPDFGSKLRSIAEKHNFLI
+FEDRKFADIGNTVTMQYEGGIFRILDWADIVNAHIVPGPGIVDGLKLKGLPKGRGLLLLA
+EMSSAGNLAHGDYTAAAVKIAEQHSDFVIGFISVNPASWSVAPSSPAFIHATPGVQMVAG
+GDALGQQYNTPySVINDRGSDIIIVGRGIIKASDPaKTAREYRIQGWQAYqSSLL
+
+
+BOP CONSENSUS:
+Length: 476 aa
+
+MDAAALEtLILDLHAIEAVKLGSFVLKSGITSPIYLDLRALVSHPRLLSSIASLLhsLPA
+TRPYgILCGVPYTALPIASVLSVDRGLPMLMRRKEVKTHGTAKAIEGSFRAGDTVLIIED
+LVTSGASVLETAAPLRAEGLVVADAVVVVDREQGGRENLAANGITLHSLMTLTEVLAVLL
+KHGKVTEEKAAEVKQFLDANRKVTVPGAAaAAKPKVVRKGFAERAGLAKNPMGKKLFEVM
+EAKQSNLCVSADVGTAKELLELAEKVGSEICMLKTHVDILSDFTPDFGtKLRSIAEKHNF
+LIFEDRKFADIGNTVTMQYEGGIFRILEWADIVNAHIIPGPGIVDGLKLKGLPKGRGLLL
+LAEMSSAGNLAqGDYTAAAVKIAEQHSDFVIGFISVNPASWSVAPSSPAFIHATPGVQMV
+SGGDALGQQYTTPYSVINDRGSDIIIVGRGIIKASDPAETAREYRIQGWQAYQSSL
+
+
+PACMAD CONSENSUS:
+Length: 475 aa
+
+MDAAALESLILDLHAIEAVKLGSFVLKSGITSPIYLDLRALVSHPRLLSAIASLLHALPA
+TRPYGLVCGVPYTALPIAAVLSVDRSIPMLMRRKEVKAHGTAKSIEGSFRPGDTVLIIED
+LVTSGASVLETAAPLRAEGLVVADAVVVVDREQGGRENLAANGITLHSLMTLTEVLAVLL
+KHGKVTeEKAEEVRQFLDANRKVAVPGAPVKPRVLRKPFEERAKLATNPMGRKLFEvMEA
+KQTNLCVAADVGTAKELLELAEKIGPQICMLKTHVDILSDFTPDFGSKLRSIAEKHNFLI
+FEDRKFADIGNTVTMQYEGGIFRILDWADIVNAHIVPGPGIVDGLKLKGLPKGRGLLLLA
+EMSSAGNLAHGDYTAAAVKIAEQHSDFVIGFISVNPASWSVaPSsPAFIHATPGVQMVAG
+GDALGQQYNTPeSVINyRGSDIIIVGRGIIKASDPaKTAwEYRLQGWQAYknSLL
+
+================================================================================

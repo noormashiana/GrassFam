@@ -1,0 +1,142 @@
+================================================================================
+GrassFam ID: GFAM010407
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             567.0 aa
+Family Size (Extended Family Size): 23 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11469:SF1
+Panther Family ID:               PTHR11469
+Modal Panther ID:                PTHR11469:SF1
+Modal Panther Description:       GLUCOSE-6-PHOSPHATE ISOMERASE
+Modal Panther Family ID:         PTHR11469
+Modal Panther Fam Desc:          GLUCOSE-6-PHOSPHATE ISOMERASE
+Interpro Signature Accession:    cd05016; cd05015; G3DSA:3.40.50.10490:FF:000031; G3DSA:3.40.50.10490:FF:000018; G3DSA:1.10.1390.10:FF:000002; G3DSA:3.40.50.10490:FF:000048; G3DSA:3.40.50.10490; NF001211; PTHR11469; PR00662; PF00342; SSF53697
+Interpro Signature Description:  SIS_PGI_2; SIS_PGI_1; Glucose-6-phosphate isomerase; -; glucose-6-phosphate isomerase; GLUCOSE-6-PHOSPHATE ISOMERASE; Glucose-6-phosphate isomerase signature; Phosphoglucose isomerase; SIS domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: glucose-6-phosphate isomerase%2C cytosolic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: glucose-6-phosphate isomerase%2C cytosolic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: glucose-6-phosphate isomerase%2C cytosolic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: glucose-6-phosphate isomerase%2C cytosolic; glucose-6-phosphate isomerase%2C cytosolic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl03
+  Gene Products: glucose-6-phosphate isomerase%2C cytosolic A%2C transcript variant X1; glucose-6-phosphate isomerase%2C cytosolic B%2C transcript variant X1
+  Gene Descriptions: glucose-6-phosphate isomerase%2C cytosolic A; glucose-6-phosphate isomerase%2C cytosolic B
+Osa
+  Gene count: 2
+  Modal chromosome: Osa03
+  Gene Products: glucose-6-phosphate isomerase%2C cytosolic A-like%2C transcript variant 1; glucose-6-phosphate isomerase%2C cytosolic B-like%2C transcript variant 1
+  Gene Synonyms: GPI-A,OsJ_12779,PGI-A,PHI-A; GPI-B,PGI-B,PHI-B
+  Gene Descriptions: glucose-6-phosphate isomerase%2C cytosolic A-like; glucose-6-phosphate isomerase%2C cytosolic B-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau03
+  Gene Products: glucose-6-phosphate isomerase%2C cytosolic%2C transcript variant X4
+  Gene Descriptions: glucose-6-phosphate isomerase%2C cytosolic
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: glucose-6-phosphate isomerase%2C cytosolic%2C transcript variant X1; glucose-6-phosphate isomerase%2C cytosolic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: glucose-6-phosphate isomerase%2C cytosolic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: glucose-6-phosphate isomerase%2C cytosolic%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: phosphohexose isomerase 1
+  Gene Synonyms: gpi,GRMZM2G065083,GRMZM6G477257,phi1
+  Gene Descriptions: phosphohexose isomerase 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 567 aa
+
+MASPALICDTEQWKALQAHVGAIQKTHLRDLMADADRCKAMTAEYEGIFLDYSRQQATGE
+TiEKLFKLAEAAKLKEKIEKMFKGEKINSTENRSVLHVALRAPRDAVINSDGVNVVPEVW
+SVKDKIKQFSETFRSGSWVGATGKPLTNVVSVGIGGSFLGPLFVHTALQTDPEAAECAKG
+RQLRFLANVDPVDVARSIKDLDPETTLVVVVSKTFTTAETMLNARTLKEWIVSSLGPQAV
+SKHMIAVSTNLKLVKEFGIDPNNAFAFWDWVGGRYSVCSAVGVLPLSLQYGFPIVQKFLE
+GASSIDNHFhSSSFEKNIPVLLGLLSVWNVSFLGYPARAILPYSQALEKLAPHIQQLSME
+SNGKGVSIDGVrLPFETGEIDFGEPGTNGQHSFYQLIHQGRVIPCDFIGVVKSQQPVYLK
+GETVSNHDELMSNFFAQPDALAYGKTPEQLHSEKVPENLIPHKTFQGNRPSLSLLLPSLS
+AYEIGQLLSIYEHRIAVQGFIWGINSFDQWGVELGKSLASQVRKQLHASRMEGKPVEGFN
+hSTASLLARYLAVkPSTPYDTTVLPKV
+
+
+BOP CONSENSUS:
+Length: 567 aa
+
+MASPALISDTEQWKALQAHVGAIQKTHLRDLMtDADRCKAMTAEFEGIFLDYSRQQATTE
+TMDKLFKLAEAAKLKEKIEKMFKGEKINTTENRSVLHVALRAPRDAVINSDGVNVVPEVW
+AVKDKIKQFSETFRSGSWVGATGKPLTNVVSVGIGGSFLGPLFVHTALQTDPEAAESAKG
+RQLRFLANVDPVDVARSIKDLDPETTLVVVVSKTFTTAETMLNARTLKEWIVSSLGPQAV
+SKHMIAVSTNLKLVKEFGIDPNNAFAFWDWVGGRYSVCSAVGVLPLSLQYGFPIVQKFLE
+GASSIDNHFHTSSFEKNIPVLLGLLSVWNVSFLGYPARAILPYSQALEKLAPHIQQLSME
+SNGKGVSIDGVRLPFEAGEIDFGEPGTNGQHSFYQLIHQGRVIPCDFIGVIKSQQPVYLK
+GETVSNHDELMSNFFAQPDALAYGKTPEQLHSEKVPENLIPHKTFQGNRPSLSFLLSSLS
+AYEIGQLLSIYEHRIAVQGFIWGINSFDQWGVELGKSLASQVRKQLHASRMEGKPVEGFN
+PSSASLLTRYLAVEPSTPYDTTVLPKV
+
+
+PACMAD CONSENSUS:
+Length: 567 aa
+
+MASPALICDTEQWKALQAHVGAIQKTHLRDLMADADRCKAMTAEYEGIFLDYSRQQATGE
+TIEKLLKLAEAAKLKEKIEKMFKGEKINSTENRSVLHVALRAPRDAVINSDGVNVVPEVW
+SVKDKIKQFSETFRSGSWVGATGKPLTNVVSVGIGGSFLGPLFVHTALQTDPEAAECAKG
+RQLRFLANVDPVDVARSIKDLDPETTLVVVVSKTFTTAETMLNARTLKEWIVSSLGPQAV
+SKHMIAVSTNLKLVKEFGIDPNNAFAFWDWVGGRYSVCSAVGVLPLSLQYGFPIVQKFLE
+GASSIDNHFYSSSFEKNIPVLLGLLSVWNVSFLGYPARAILPYSQALEKLAPHIQQLSME
+SNGKGVSIDGVPLPfETGEIDFGEPGTNGQHSFYQLIHQGRVIPCDFIGVVKSQQPVYLK
+GETVSNHDELMSNFFAQPDALAYGKTPEQLHSEKVPENLIPHKTFKGNRPSLSLLLPTLS
+AYEVGQLLSIYEHRIAVQGFIWGINSFDQWGVELGKSLASQVRKQLHGSRMEGKPVEGFN
+HSTSSLLARYLAVKPSTPYDTTVLPKV
+
+================================================================================

@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM006473
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             494.0 aa
+Family Size (Extended Family Size): 21 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR43570
+Modal Panther ID:                PTHR43570:SF17
+Modal Panther Description:       ALDEHYDE DEHYDROGENASE FAMILY 3 MEMBER F1
+Modal Panther Family ID:         PTHR43570
+Modal Panther Fam Desc:          ALDEHYDE DEHYDROGENASE
+Interpro Signature Accession:    cd07137; G3DSA:3.40.605.10:FF:000004; G3DSA:3.40.309.10:FF:000003; G3DSA:3.40.605.10; G3DSA:3.40.309.10; PTHR43570; PIRSF036492; PF00171; SSF53720
+Interpro Signature Description:  ALDH_F3FHI; Aldehyde dehydrogenase; Aldehyde Dehydrogenase; Chain A, domain 1; Aldehyde Dehydrogenase; Chain A, domain 2; ALDEHYDE DEHYDROGENASE; ALDH; Aldehyde dehydrogenase family; ALDH-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: aldehyde dehydrogenase family 3 member F1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: aldehyde dehydrogenase family 3 member F1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: aldehyde dehydrogenase family 3 member F1%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: aldehyde dehydrogenase family 3 member F1-like; aldehyde dehydrogenase family 3 member F1-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: aldehyde dehydrogenase family 3 member F1-like
+  Gene Descriptions: aldehyde dehydrogenase family 3 member F1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: aldehyde dehydrogenase family 3 member F1
+  Gene Descriptions: aldehyde dehydrogenase family 3 member F1
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 1
+  Modal chromosome: Pau07
+  Gene Products: aldehyde dehydrogenase family 3 member F1-like
+  Gene Descriptions: aldehyde dehydrogenase family 3 member F1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: aldehyde dehydrogenase family 3 member F1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: aldehyde dehydrogenase family 3 member F1-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: aldehyde dehydrogenase family 3 member F1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: aldehyde dehydrogenase 3B1
+  Gene Synonyms: GRMZM2G155502
+  Gene Descriptions: aldehyde dehydrogenase 3B1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 492 aa
+
+MGtMAtSVEEiGAAaAgqalgeTVgELRaAYESGRTRSLAWRQSQLRGLLRLLAEKEEEA
+FRALHdDLGKHrAEAYRDEVGVLiKSANAALRElGKWMAPEKVWVPLIAFPAtAQVVPEP
+LGVVLIFSCWNFPLGLSLEPLIGAIAAGNAVALKPSELAPATARFLeDNIGeYMDATAVK
+VIQGGPeVGEQLMEHRWDKVLFTGSPRIARVVMAAAAKHLTPVALELGGKCPCIFDAvAg
+ARdLQtSVNRvIfAKWSSCAGQACIAIDYVLVEERFAPtLIKVLKSTLKRFFADsDHMAR
+IVNaRHFQRLSNLLKDrAVAASVLHGGslDAKNLyIEPTILLNPPLDSAIMTEEIFGPLL
+PIITVKKIEDSIAFVRARPKPLAVYAFTrsAALRRRIVEETSSGSVTFNDAVVQYGIDtL
+PFGGVGQSGFGQYHGKYSFEMFSHKKAVLKRGYLVELTLRYPPWDESKIaMMRhLYRFNY
+VrFVLTFLGLRR
+
+
+BOP CONSENSUS:
+Length: 492 aa
+
+MGsMAaSVEEIGAAvAPQAveRRLGELRATFESGRTRPLSWRQSQLRGLLRLLADKEEEA
+FRALHDDLGKHRAEAYRDEVGVLTKSANAALREIGKWmAPEKVWVPLVAFPASAQVVPEP
+LGVVLIFSCWNFPLGLSLEPLIGAIAAGNAVALKPSELAPATAKFLEENIGEYLDATAVK
+VIQGGPAVGEQLMEHRWDKVLFTGCPRVARVVMAAAAKHLTPVALELGGKCPCIFDAVAG
+RRNLQTSVNRVIFAKWSSCAGQACIAIDYVLVEERFAPTLIKvLKSTLKRFIADSDQMAR
+IVNgRHFQRLSNLLKDPAVAASVLHGGgLDAKNLSIEPTILLNPPLDSAIMTEEIFGPLL
+PIITVKKIEDSIAFVRARPKPLAVYAFTDSAPLKRRIVEETSSGSVTFNDAVVQFGIDTL
+PFGGVGQSGFGQYHGKYSFEMFSHKKAVLRRGFLVEAMLRYPPWDEQKIAMMRHLFRYDY
+VRFIFTFLGLrr
+
+
+PACMAD CONSENSUS:
+Length: 488 aa
+
+MGTgAAadGAEAGgGLGETVRELREAYEGGRTRSLAWRQAQLRGLLRLLKEKEaEAFQAL
+HtDLGKHHAEAYRDEVGVLIKSANGALQQLGKWMAPERVWVPLIAWPATAQVVPEPLGVV
+LVFSCWNVPLGLSLEPLIGAIAAGNAVALKPSELSPCTARFLADNIGRYMDASAVKVVQG
+GPEVGEQLMEHRWDKVLFTGSPRIARAVMAAASRHLTPVALELGGKCPCIFDAMGSARDL
+QISVNRIIAGKWSSCAGQACIAIDYVLVEERFAPILIKVLKSTLKRFFQEADHMARIVNE
+RHFERLSNLLKDRSVAPSVLHGGSMDAKNLYIEPTILLNPPLDSAIMTEEIFGPLLPIIT
+VKKIEDSIAFVKAMPKPLAIYAFTRDAALRRRIVEETSSGSVTFNDAVVQYAIDGLPFGG
+VGQSGFGQYHGKYSFEMFSHKKAVMKRGYLLELTLRYPPWDESKVTLMRYLYRFNYFAFV
+LSFLGLRR
+
+================================================================================

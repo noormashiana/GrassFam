@@ -1,0 +1,119 @@
+================================================================================
+GrassFam ID: GFAM004062
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             390.5 aa
+Family Size (Extended Family Size): 40 (47) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10706:SF145
+Panther Family ID:               PTHR10706
+Modal Panther ID:                PTHR10706:SF145
+Modal Panther Description:       OS05G0177400 PROTEIN
+Modal Panther Family ID:         PTHR10706
+Modal Panther Fam Desc:          F-BOX FAMILY PROTEIN
+Interpro Signature Accession:    G3DSA:1.20.1280.50:FF:000064; PTHR35546
+Interpro Signature Description:  Os05g0177100 protein; F-BOX PROTEIN INTERACTION DOMAIN PROTEIN-RELATED
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: F-box protein At5g07610-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata07D
+  Gene Products: F-box protein At5g07610
+Tae
+  Gene count: 7
+  Modal chromosome: Tae07B
+  Gene Products: F-box protein At1g30790-like; F-box protein At5g07610-like
+Ogl
+  Gene count: 4
+  Modal chromosome: Ogl05
+  Gene Products: F-box protein At5g07610-like; uncharacterized LOC127774678; uncharacterized LOC127780280
+  Gene Descriptions: F-box protein At5g07610-like; uncharacterized LOC127774678; uncharacterized LOC127780280
+Osa
+  Gene count: 5
+  Modal chromosome: Osa05
+  Gene Products: F-box protein At5g07610; F-box protein At5g07610%2C transcript variant X1; putative F-box/kelch-repeat protein At1g15680
+  Gene Descriptions: F-box protein At5g07610; putative F-box/kelch-repeat protein At1g15680
+Ecu
+  Gene count: 10
+  Modal chromosome: Ecu06
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: F-box protein At5g07610-like
+  Gene Descriptions: F-box protein At5g07610-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi01N
+  Gene Products: F-box protein At5g07610-like%2C transcript variant X3
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: F-box protein At5g07610-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi15
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: F-box protein At5g07610
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 391 aa
+
+MAgGSsDISRRPNPADKLTDDLLVEILSRVPYKSLCRFKCVSkRWRglISHPDHRraLPQ
+YHLQtLAGFFYsSRgpssstrnFtnVSgtGRPlIDPSLPFLPDCEglnLLDSCNGLLLCR
+CFRtADpgeFDYLVcNPATEKWVALPVSgWSsKVQTARLGFDPAVSSHFHVFEFqEDgaa
+DadGDdDDDDGDGHVlGVeIYSSkTGvWSHKdSGWsfeirlvsDSkSVFVNGfLHLvAtE
+svVgAVDVEGtTWRiIPmPrsEDsPFiDtdvGFIDLSQGrLYLANsDdhdgdKLsIWVLE
+DYnSEeWtLKHtVSylHLfGvKyVhfGhEYhVVAIHPdRNMIFlVFGHDKvLMSYEMDSG
+KVhfIhdLGhdcvepYLPYVPLySESLADGq
+
+
+BOP CONSENSUS:
+Length: 393 aa
+
+MADGSrDISRRrNPADKLTEDLLVEILSRVPYKSLCRFKCVSKRWRGIISHPDHRKALPQ
+YHLHDLAGFLYSSRgPStGyFStrNFtHVSaGGRPpIrPSLPFLPDCeqFnLLDSCNGLL
+LCRRFeTfdSrAFDYVVCNPATEKWVALPGwFsKmQTARLGFDPAVSSHFHVFQFVEDGA
+ADAnGnvDDDDDsDGHVKGVEIYSSKTGaWSHKDnGWgFppRIVsDSkSVFVNGFLHLLA
+vEsaVvAVDVEGTTWRvIPMPdDEDAPiIDvdvGFIDLSQGRLYLANSDqHDpYKLSIWV
+LEDYgSEVWVLKHSVrYLNLFGVKnVqLGHeYHIVALHPQRNtIFLVYGHDKVLMSYEMD
+SGKVQFIhDLGhgSvePYLPYVPLYSEsLADWH
+
+
+PACMAD CONSENSUS:
+Length: 385 aa
+
+MAGGSSKRRRRrPNPmDQLTDDLLVEILSRVPYRSLrRCsCVSrRWRDLIAHPDHRRKLP
+QTLAGFFYHsstRCFvNVSGTGPPLVDPSLaFLPDREREGLdLLDGCNGLLLCRCFRFAD
+PdEFDYLVINPATEKWVAVPVSRRWSnKVqTARLGFEPAVSSHFHVFEFQLDWDGDdeDD
+DDGDGHVLGVKIYSSETGvWSYKQSGWSVeiTLdsDfkSVFVNGmLYVVATEcVIGAVDV
+EGKTWRIIDFPRSEDSPFlDTapGFIDLSQGKLHLANsDDITGDKLAIWVLEDrNSEEWT
+LKHTVSFrHLVGrqyVhFGfhEFIVVAIHPDRNMVFFVFGdDKtLMSYDMDSGkVhVIRn
+LGqdCsEHYiPYVPLFSESlaDGQQ
+
+================================================================================

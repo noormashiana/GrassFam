@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM003706
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             449.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47965:SF45
+Panther Family ID:               PTHR47965
+Modal Panther ID:                PTHR47965:SF45
+Modal Panther Description:       OS01G0954900 PROTEIN
+Modal Panther Family ID:         PTHR47965
+Modal Panther Fam Desc:          ASPARTYL PROTEASE-RELATED
+Interpro Signature Accession:    G3DSA:2.40.70.10:FF:000040; G3DSA:2.40.70.10:FF:000022; G3DSA:2.40.70.10; PTHR13683; PF14543; PF14541; SSF50630
+Interpro Signature Description:  aspartyl protease AED3; Aspartyl protease AED3; Acid Proteases; ASPARTYL PROTEASES; Xylanase inhibitor N-terminal; Xylanase inhibitor C-terminal; Acid proteases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: aspartyl protease 25
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: aspartyl protease AED3-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata03D
+  Gene Products: aspartyl protease AED3-like
+Tae
+  Gene count: 4
+  Modal chromosome: Tae03D
+  Gene Products: aspartyl protease AED3-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: aspartyl protease AED3-like
+  Gene Descriptions: aspartyl protease AED3-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: aspartyl protease AED3
+  Gene Descriptions: aspartyl protease AED3
+Pau
+  Gene count: 1
+  Modal chromosome: Pau02
+  Gene Products: aspartyl protease AED3-like
+  Gene Descriptions: aspartyl protease AED3-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi05N
+  Gene Products: aspartyl protease AED3-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: aspartyl protease AED3-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: aspartyl protease AED3
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: protein ASPARTIC PROTEASE IN GUARD CELL 2-like
+  Gene Synonyms: GRMZM2G077776
+  Gene Descriptions: protein ASPARTIC PROTEASE IN GUARD CELL 2-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 444 aa
+
+MSiLRLStLLaVLLSTFWTAATAVRSSTLLLARSHSvSPNAGAPLTAWAASLAAQSAADA
+ARVAMLAAGPgVpAKaKpKskGRSFVPIAPGRQILSIPNYVARARLGTPAQTLLVAIDPS
+NDAAWVPCSACvGCAPASSPSFaPTqSSTYRPVRCGSPQCAQVPsPSCPGGAGASCAFNL
+SYAASTFQAVLGQDsLALEngAVsSYTFGCLRVVTGsSVPPQGLlGFGRGPLSFLSQTKD
+TYGSVFSYCLPSYKSSNFSGTLRLGPAGQPKRIKTTPLLYNPHRPSLYYVNMVGIRVGGK
+AVpVPASALAFDPATGtGTIVDAGTMFTRLSAPVYAAVRDAFRRRVRAPVAaPLGGFDTC
+YNVTVrVPtVTFaFAGgAAVTLPEENVMIHSSSGGVACLAMAAGPSDGVNAALNVLASMQ
+QQNHRVLFDVANGRVGFSRELCTA
+
+
+BOP CONSENSUS:
+Length: 451 aa
+
+MSILRLSTiLaVLLPTFWTAATAVRSSTLLLARSHSLpSPNAGAPLTAWAASLAAQSAAD
+VTRVAtLAAAVPAKPKPKSKGRSFVPIAPGRQILSIPNYVARARLGTPPQTLLVAIDPSN
+DAAWIPCSACVGCAPKSSPSFAPTDSSTYRPVRCGSPQCAQVPGaASCPGGpGASCAFNL
+SYGSSTFQAVLGQDVLALEGGgAVSSYTFGCLRVVTGgSVPPQGLLGFGRGPLSFLSQTK
+DTYGSVFSYCLPSYKSSNFSGTLRLGPAGQPKRIKTTPLLYNPHRPTLYYVDMVGIRVGG
+RAVAVPASALASFDPATGTGGTIVDAGTMFTRLSPPVYAAVRDAFRRKVRAPVSAPLGGF
+DTCYNVTsGVRVPSVTFAFAGGAGAAVTLPEENVMIHSSSGGVACLAMAAGPSdGVNAGL
+NVLASMQQQNHRVLFDVANGRVGFSRELCTA
+
+
+PACMAD CONSENSUS:
+Length: 441 aa
+
+MSPLRLSVLVLVLLStFWAPSTAVRSSTLHLARSHSVSPDAGAPvTAWAASLAAQSAADA
+ARVATLAAGPrvDaAKKGPRRSFVPIAPGRQILSIPNYVARARLGTPAQTLLVAIDPSND
+AAWVPCsACTGCAASAPSFDPTrSSTYRPVRCGSPQCSQVPSPSCPGGAGASCAFNLTYA
+ASTFQALLGQDSLALENDAVASYTFGCLHVVTGsSVPPQGLVGFGRGPLSFLSQTKDVYG
+SVFSYCLPSYKSSNFSGTLRLGPIGQPKRIKTTPLLSNPHRPSLYYVNMVGIRVGGKPVP
+VPASALAFDPaSGRGTIVDAGTMFTRLSAPVYAAVRDAFRRRVRAPVAGPLGGFDTCYNV
+TVsVPTITFtFAGPVtVTLPEENVVIRSSSGGIACLAMAAGPADGVDAALNVLASMQQQN
+HRVLFDVANGRVGFSRELCTA
+
+================================================================================

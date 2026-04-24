@@ -1,0 +1,124 @@
+================================================================================
+GrassFam ID: GFAM010014
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             361.0 aa
+Family Size (Extended Family Size): 19 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43314:SF25
+Panther Family ID:               PTHR43314
+Modal Panther ID:                PTHR43314:SF25
+Modal Panther Description:       FERREDOXIN--NADP REDUCTASE, LEAF ISOZYME 2, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR43314
+Modal Panther Fam Desc:          FAMILY NOT NAMED
+Interpro Signature Accession:    cd06208; G3DSA:3.40.50.80:FF:000008; G3DSA:2.40.30.10:FF:000048; G3DSA:2.40.30.10; G3DSA:3.40.50.80; PTHR43314; PIRSF000361; PIRSF501178; PR00371; SSF63380; SSF52343
+Interpro Signature Description:  CYPOR_like_FNR; Ferredoxin--NADP reductase, chloroplastic; Translation factors; -; Frd-NADP+_RD; FNR-PetH; Flavoprotein pyridine nucleotide cytochrome reductase signature; Riboflavin synthase domain-like; Ferredoxin reductase-like, C-terminal NADP-linked domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: ferredoxin--NADP reductase%2C leaf isozyme 1%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: ferredoxin--NADP reductase%2C leaf isozyme 1%2C chloroplastic-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: ferredoxin--NADP reductase%2C leaf isozyme 1%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: ferredoxin--NADP reductase%2C leaf isozyme 1%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: ferredoxin--NADP reductase%2C leaf isozyme 1%2C chloroplastic
+  Gene Descriptions: ferredoxin--NADP reductase%2C leaf isozyme 1%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: ferredoxin--NADP reductase%2C leaf isozyme 1%2C chloroplastic-like
+  Gene Synonyms: FNR,FNR-1,Os-LFNR1,OsJ_19844,P0514G12.8
+  Gene Descriptions: ferredoxin--NADP reductase%2C leaf isozyme 1%2C chloroplastic-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: ferredoxin--NADP reductase%2C leaf isozyme 1%2C chloroplastic; ferredoxin--NADP reductase%2C leaf isozyme 1%2C chloroplastic-like
+  Gene Descriptions: ferredoxin--NADP reductase%2C leaf isozyme 1%2C chloroplastic; ferredoxin--NADP reductase%2C leaf isozyme 1%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: ferredoxin--NADP reductase%2C leaf isozyme%2C chloroplastic
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: ferredoxin; ferredoxin--NADP reductase%2C leaf isozyme 1%2C chloroplastic
+  Gene Synonyms: GRMZM2G151993,GRMZM2G168143,L-FNRI
+  Gene Descriptions: ferredoxin
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 363 aa
+
+MAAVTAAAVSLrSssAASavpKASPqSPCHSFLSYrPRAARARRRgLaIRAQASsTDAAA
+APAKeKKVSKKQEEGVVTNKYRPKEPYVGKCLLNTKITADDAPGETWHMVFSTEGEIPYR
+EGQSIGVIADGVDKNGKPHKLRLYSIASSALGDFGDSKTVSLCVKRLVYTNDAGEVVKGV
+CSNFLCDLKPGADVQITGPVGKEMLMPKDPNATIIMLATGTGIAPFRSFLWKMFFEKYDD
+YKFNGLAWLFLGVPTSSSLLYKEEFgKMKAKAPENFRVDYAVSREQTNAAGEKMYIQTRM
+AEYKEELWELLKKDNTYVYMCGLKGMEKGIDDIMVSLAAKDGIDWiDYKKQLKKGEQWNV
+EVY
+
+
+BOP CONSENSUS:
+Length: 361 aa
+
+MAAVTAAAVSLRAATTtSSPSSAPQHSHCSFPCAARTaASRRRGLtvRAQAVSTDAAAAP
+VKEKKVSKKQEEGVVTNKFRPKEPYVGKCLLNTKITADDAPGETWHMVFSTEGEVPYKEG
+QSIGVVADGvDKNGKPHKLRLYSIASSALGDFGDSKTVSLCVKRLVYTNDQGEVVKGVCS
+NFLCDLKPGADVNITGPVGKEMLMPKDPNATIIMLATGTGIAPFRSFLWKMFFEKYEDYK
+FNGLAWLFLGVPTSSSLLYPEEFGKMKAKAPENFRVDYAISREETNAAGEKMYIQTRMAE
+YKDELWELLKKDNTYVYMCGLKGMEKGIDEIMIPLAAKEGIDWIDYRKQLKKSEQWNVEV
+Y
+
+
+PACMAD CONSENSUS:
+Length: 357 aa
+
+MATVTAAAVSLPSSSSPSAKASPTSPCTAPHFLSYRPRAARAAIRAQASATDTAAPAKsK
+KESKKQEEGVVTNLYKPKEPYVGKCLLNTKITGDDAPGETWHMVFSTEGKIPYREGQSIG
+VIADGVDKNGKPHKLRLYSIASSALGDFGDSKTVSLCVKRLVYTNEAGEIVKGVCSNFLC
+DLKPGADVQITGPVGKEMLMPKDPNATIIMLATGTGIAPFRSFLWKMFFEKHDDYKFNGL
+GWLFLGVPTSSSLLYKEEFEKMKEKAPENFRVDYAVSREQTNAQGERMYIQTRMAEYKEE
+LWELLKKDNTYVYMCGLKGMEKGIDDIMVSLAEKDGIDWFDYKKQLKKGEQWNVEVY
+
+================================================================================

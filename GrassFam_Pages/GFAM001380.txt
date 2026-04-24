@@ -1,0 +1,126 @@
+================================================================================
+GrassFam ID: GFAM001380
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             494.0 aa
+Family Size (Extended Family Size): 17 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48047:SF53
+Panther Family ID:               PTHR48047
+Modal Panther ID:                PTHR48047:SF53
+Modal Panther Description:       GLYCOSYLTRANSFERASE
+Modal Panther Family ID:         PTHR48047
+Modal Panther Fam Desc:          GLYCOSYLTRANSFERASE
+Interpro Signature Accession:    cd03784; G3DSA:3.40.50.2000:FF:000154; G3DSA:3.40.50.2000:FF:000226; G3DSA:3.40.50.2000; PTHR48047; SSF53756
+Interpro Signature Description:  GT1_Gtf-like; Glycosyltransferase; Glycogen Phosphorylase B;; GLYCOSYLTRANSFERASE; UDP-Glycosyltransferase/glycogen phosphorylase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: scopoletin glucosyltransferase
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: UDP-glucose flavonoid 3-O-glucosyltransferase 7-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: UDP-glucose flavonoid 3-O-glucosyltransferase 7-like
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: UDP-glucose flavonoid 3-O-glucosyltransferase 7-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: UDP-glucose flavonoid 3-O-glucosyltransferase 7-like
+  Gene Descriptions: UDP-glucose flavonoid 3-O-glucosyltransferase 7-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: UDP-glucose flavonoid 3-O-glucosyltransferase 7
+  Gene Descriptions: UDP-glucose flavonoid 3-O-glucosyltransferase 7
+Pau
+  Gene count: 1
+  Modal chromosome: Pau03
+  Gene Products: UDP-glucose flavonoid 3-O-glucosyltransferase 7-like
+  Gene Descriptions: UDP-glucose flavonoid 3-O-glucosyltransferase 7-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: UDP-glucose flavonoid 3-O-glucosyltransferase 7-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: UDP-glucose flavonoid 3-O-glucosyltransferase 7-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: UDP-glucose flavonoid 3-O-glucosyltransferase 7
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 496 aa
+
+MRqSSASSggtAPPRMYFIPFPTPGHALPMSDLARLFASRGADATLVLTHANAARLGGPV
+ARAAAAGLRIRVHALtLPAEAAGLTGGHESADDLPnRELAGPFAVAVDLLAPLFADLLRR
+HPADAVVFDGVLPWAATAAaELGIPRYAFTGTGCFALSVQRSLLLHsPQnGVASDTEPFL
+VPGLPDAVRLTRSRLAEATLPGADSREFLNRMFDvERATAGWVVNSFADLEQRYIEHYEK
+DTGKPVFAVGPVCLVNGDGDDTLERGRGGEagAAAEAARVLsWLDTKPARSVVYVCFGSL
+TRFPREQVtELGMGLADSGANFVWVVGDKNAPPLPDIDAAApGRGLVVRGWAPQVAVLRH
+AAVGAFVTHCGWGAVTEAAAAGVPVLaWPVFAEQFYNEALVVGLAGTGVGaGAERGYVWG
+GEELGGVVVGREKVAERVRAAMADEALRRRAGEVGERARRAVEvGGSSYEAVGALLEDVR
+RRRrHgGAsGRdTrRv
+
+
+BOP CONSENSUS:
+Length: 487 aa
+
+MRQSAASPAGDAPPRMYFIPFPTPGHALPMSDLARLFASRGADATLVLTHANAARLGGPV
+ARAAAAGLRIRVHALPLPAEAAGLTGGHESADDLPTREDAGPFAVAVDLLAPLFADLLRR
+HPADAVVFDGVLPWAATAAAELGIPRYAFTGTGCFALSVQRSLLLHTPQEsVASPTEPFL
+VPGLPDAVRLTRSRLAEATLPGADSREFLNRMFDIERATAGWVVNSFADLEQRYMEHYEK
+DTGKPVFAVGPVCLVNGDGDDVLERGRGGEPGAAAEAARVLSWLDTKPARSVVYVCFGSL
+TRFPREQVTELGMGLADSGANFVWVVGDKNAPPLPDVDAAAGGRGLVVRGWAPQVAVLRH
+AAVGAFVTHCGWGAVTEAAAAGVPVVTWPVFAEQFYNEALVVGIAGTGVGAGAERGYVWG
+GEELGGVVVGREKVAERVRAAMADEGLRRKAGEVGESARRAVEVGGSSYVAVGALLnDVR
+RRRRHGG
+
+
+PACMAD CONSENSUS:
+Length: 506 aa
+
+MRPSSSVASSGDTAPPRMYFIPFPTPGHALPMSDLARLFASRGADATLVLTHANAARLGG
+PVARAAAAGLRIRIHALTLPAEAAGLTGGHESADDLPNRELAGPFAIAVDLLAPLFADLL
+RRHPADAVVFDGVLPWAATAAPELGIPRYAFTGTGCFALSVQRALLLHSPQNGVASDTEP
+FLVPGLPDAVRLTRSRLAEATLPGADSREFLNRMFDVERATAGWVVNSFADLEQRYIEHY
+EKdTGKPVFAVGPVCLVNGDGDDTLERGRGGEAaAAAEAARVLKWLDTKPARSVVYVCFG
+SLTRFPrEQVSELGMGLADSGANFVWVVGDKNVPPLPDIDAAAPGRGLVVRGWAPQVAVL
+RHAAVGAFVTHCGWGAVTEAAAAGVPVLAWPVFAEQFYNEALVVGLAGTGVaMGAERGYV
+WGGEALGGVVVGREAVAERVRsALADEALRRRAGEIGERARRAVEAGGSSYEAVGALLED
+VLRPGRRsHDGASGRdTrRaAvwmSl
+
+================================================================================

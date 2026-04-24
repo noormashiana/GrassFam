@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM018080
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             427.0 aa
+Family Size (Extended Family Size): 30 (31) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45621:SF3
+Panther Family ID:               PTHR45621
+Modal Panther ID:                PTHR45621:SF3
+Modal Panther Description:       PROTEIN KINASE SUPERFAMILY PROTEIN
+Modal Panther Family ID:         PTHR45621
+Modal Panther Fam Desc:          OS01G0588500 PROTEIN-RELATED
+Interpro Signature Accession:    cd14066; G3DSA:1.10.510.10:FF:000146; G3DSA:3.30.200.20:FF:000228; G3DSA:1.10.510.10; G3DSA:3.30.200.20; PTHR45621; PF07714; SM00220; SSF56112
+Interpro Signature Description:  STKc_IRAK; LRR receptor-like serine/threonine-protein kinase IOS1; Serine/threonine-protein kinase BIK1; Transferase(Phosphotransferase) domain 1; Phosphorylase Kinase; domain 1; OS01G0588500 PROTEIN-RELATED; Protein tyrosine and serine/threonine kinase; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: serine/threonine-protein kinase PCRK1
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu02H
+  Gene Products: serine/threonine-protein kinase PCRK1-like%2C transcript variant X1
+Ata
+  Gene count: 2
+  Modal chromosome: Ata02D
+  Gene Products: serine/threonine-protein kinase PCRK1; serine/threonine-protein kinase PCRK1%2C transcript variant X3
+Tae
+  Gene count: 6
+  Modal chromosome: Tae02A
+  Gene Products: serine/threonine-protein kinase PCRK1-like; serine/threonine-protein kinase PCRK1-like%2C transcript variant X2; serine/threonine-protein kinase PCRK1-like%2C transcript variant X3
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: serine/threonine-protein kinase PCRK1-like
+  Gene Descriptions: serine/threonine-protein kinase PCRK1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: serine/threonine-protein kinase PCRK1
+  Gene Descriptions: serine/threonine-protein kinase PCRK1
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: serine/threonine-protein kinase PCRK1-like; serine/threonine-protein kinase PCRK1-like%2C transcript variant X2
+  Gene Descriptions: serine/threonine-protein kinase PCRK1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: serine/threonine-protein kinase PCRK1-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: serine/threonine-protein kinase PCRK1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: probable serine/threonine-protein kinase PBL19
+Zma
+  Gene count: 2
+  Modal chromosome: Zma04
+  Gene Products: putative protein kinase superfamily protein%2C transcript variant X1; uncharacterized LOC100279292%2C transcript variant 2
+  Gene Synonyms: GRMZM2G042380; GRMZM2G364172
+  Gene Descriptions: putative protein kinase superfamily protein; uncharacterized LOC100279292
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 427 aa
+
+MRCLPFLHGDaKEEDPVTKSASVRSfSTTSTERDVRSGSDFNSLNVSDMSAESIRRTQYP
+SFTDRPSNLRVFSFSELKnATRNFSRSLMVGEGGFGCVYRGVIKtSDEPsERIEIAVKQL
+NRKGLQGQKEWLTEMNVLGIVEHPNLVKLIGYCADDDERGVQRLLVYEYMPNGSVDDHLS
+SRSTSTLSWPMRLKVALDSARGLKYLHEEMDFQVIFRDLKTSNILLDENWNAKLSDFGLA
+RHGPqEGLTHVSTAVVGTLGYAAPEYMQTGRLTAKSDIWSYGVLLYELITGRRPIDRNRP
+KSEQKLLDWVKPYISDVKRFPIIVDPRLEGHYNLKSMTKLASVANRCLVRMPKSRPKMSE
+VYEMVQKIVDSIETGPPQPPLHYHGSVSEPGAKRTKKGSLKRRLQEFKFGCRQIVWRGWK
+PEIIKTC
+
+
+BOP CONSENSUS:
+Length: 427 aa
+
+MRCLPFLHGDAKEEDpatKSASVRSFSTTSTERDvRSGSDLNSiNVSDMSAESIRRTQYP
+SFTDRPsNLRVFTFSELKNATRNFSRSLMVGEGGFGCVYRGVIKNSDEPTERvEIAVKQL
+NRKGVQGQKEWLTEMNVLGIVEHPNLVKLIGYCADDDERGMQRLLVYEYMPNGSVDDHLA
+SRSTSTLSWPMRLKVALDAARGLKYLHEEMDFQVIFRDLKTSNILLDENWNAKLSDFGLA
+RHGPQEGLSHVSTAVVGTLGYAAPEYMQTGRLTAKSDIWGYGVLLYELITGRRPIDRNRP
+KGEQKLLDWVKPYISDVKRFPIIVDPRLEGHYNLKSMTKLAGVANRCLLRLPKSRPKMSE
+VYEMVQKIVDSVEtGPPQPPLHYHGSVSEPGAKRTKKGSLKRRFQEFKFGCRQIVWRGWK
+PEIIKTC
+
+
+PACMAD CONSENSUS:
+Length: 427 aa
+
+MRCLPFLHGEvKEEDPVTKSASVRSMSTTSTERDVRSGSDFTSLNVSDMSAESIRRTQYP
+SFTDRPSNLRVFSFSELKSATRNFSRSLMVGEGGFGCVYRGIIKTSDEPSERIEIAVKQL
+NRKGLQGQKEWLTEMNVLGIVDHPNLVKLIGYCAEDDERGVQRLLVYEYMPNGSVDDHLS
+SRSTSTLSWPMRLKVALDSARGLKYLHEEMEFQVIFRDLKTSNILLDENWNAKLSDFGLA
+RHGPaEGLTHVSTAVVGTLGYAAPEYMQTGRLTAKSDIWSYGVLLYELITGRRPIDRNRP
+KSEQKLLDWVKPYISDVKRFPIIVDPRLEGHYNLKSMTKLSSVANRCLVRMPKSRPKMSE
+VYEMVQKIVDSIETGPPQPPLHYHGSVSEPGTKRTKKGSLKRRLQEFKFGCRNIVWRGWK
+PEIVKTF
+
+================================================================================

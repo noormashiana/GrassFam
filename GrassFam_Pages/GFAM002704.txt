@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM002704
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             347.0 aa
+Family Size (Extended Family Size): 20 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11370:SF5
+Panther Family ID:               PTHR11370
+Modal Panther ID:                PTHR11370:SF5
+Modal Panther Description:       DNA REPAIR PROTEIN XRCC1
+Modal Panther Family ID:         PTHR11370
+Modal Panther Fam Desc:          DNA-REPAIR PROTEIN XRCC1
+Interpro Signature Accession:    cd17725; G3DSA:3.40.50.10190:FF:000008; G3DSA:3.40.50.10190; PTHR11370
+Interpro Signature Description:  BRCT_XRCC1_rpt1; X-ray repair cross complementing 1; BRCT domain; DNA-REPAIR PROTEIN XRCC1
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: DNA-repair protein XRCC1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: DNA-repair protein XRCC1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: DNA-repair protein XRCC1%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: DNA-repair protein XRCC1-like; DNA-repair protein XRCC1-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: DNA-repair protein XRCC1%2C transcript variant X1
+  Gene Descriptions: DNA-repair protein XRCC1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: DNA-repair protein XRCC1
+  Gene Synonyms: xrcc1
+  Gene Descriptions: DNA-repair protein XRCC1
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: DNA-repair protein XRCC1-like; DNA-repair protein XRCC1-like%2C transcript variant X1
+  Gene Descriptions: DNA-repair protein XRCC1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi04N
+  Gene Products: DNA-repair protein XRCC1-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: DNA-repair protein XRCC1%2C transcript variant X2
+Msi
+  Gene count: 1
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: DNA-repair protein XRCC1%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: uncharacterized LOC100283527
+  Gene Synonyms: GRMZM2G146490,si687009g07(336)
+  Gene Descriptions: uncharacterized LOC100283527
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 347 aa
+
+MNGkSKRSLPSWMGSSKDGEDdSGKKKHAGTSeKAQKGPDFSKLLDGVVFVLSGFVNPER
+GTLRSQALDMGAEYRPDWTSDCTLLVCAFANTPKFRQVQSDNGTIVSKDWISESHsQRKL
+VDIEPYLMHAGKPWRKNKEPVESDQDQKKPRKEHqKQVERSHiKtSpSAATEAGHSDstN
+KQFSPSKIKQWAMDDLAQTvSWLESQEEKPEPSELKAIAAEGVITCLQDAIESLEQGNDI
+KGVAEQWSFVPHVVNELLrLDGrRKgASLSKEQLsQLAiKCKKIYQAEFARMDSDDKKGK
+KRQSDSPvTEHRgKTrSDDAQYDSDDTIEMTEEEIDLACRQLPGiCG
+
+
+BOP CONSENSUS:
+Length: 346 aa
+
+MPESSSDPGNGKGKRSLPSWMGSGDGGGGGSPGKKKHAEAARERAQTGPDFSKLLDGVVF
+VLSGFVNPERGRLRSQALDMGAVYRPDWSSDCTLLVCAFANTPKFRQVQSENGTIVAKEW
+ISESHSQRKLVDIEPYLMHAGNPWRKNKEPAESSQDQKKPRKEHEKQLEKTHAKTPPSAA
+tKAGHSDAINKQFSPSKIKQWAMDDFAKTISWLESQEEKPEPNELKAIAAEGVITCLQDA
+IESLEQGNDISGVAEQWSFVPHVVDELVRLDGeGSSLSKEQLAQLATKCKKIYQAEFAHM
+DSgDKKGKERPGKTGsDDAQYDSDDTIEMTEEEIDLACRQFSGISS
+
+
+PACMAD CONSENSUS:
+Length: 346 aa
+
+MSmSKRSLPSWMGSSKDGEDDSGKKKHAGTSQKAQKGPDFSKLLDGVVFVLSGFVNPERS
+TLRSQALDMGAEYRPDWTSDCTLLVCAFANTPKFRQVQADNGTIISKDWISESHKQRKLV
+DIEPYLMHAGKPWRKNKEPVESDQDQKEMRKEHQKQVQRSHVKSSTSAATEAGhLDSgNK
+qFSPSKIKQWAMDDLAQTVSWLESQEEKPEPSELKAIAAEGVITCLQDAIESLEQGNDIK
+GVAEQWSFVPHVVNELLKLDGsRKDASLPKEQLSQLAiKCKKIYQAEFARMDSDDKKGKK
+hQNDSPVTEHRRKTKSDDDHYDSDATIEMTEEEIDLACRQLPGLCG
+
+================================================================================

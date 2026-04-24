@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM021230
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             446.0 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR44566:SF1
+Panther Family ID:               PTHR44566
+Modal Panther ID:                PTHR44566:SF1
+Modal Panther Description:       WD REPEAT-CONTAINING PROTEIN 25
+Modal Panther Family ID:         PTHR44566
+Modal Panther Fam Desc:          TRANSDUCIN/WD40 REPEAT-LIKE SUPERFAMILY PROTEIN
+Interpro Signature Accession:    cd00200; G3DSA:2.130.10.10; PTHR44566; SSF50978
+Interpro Signature Description:  WD40; -; TRANSDUCIN/WD40 REPEAT-LIKE SUPERFAMILY PROTEIN; WD40 repeat-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: WD repeat-containing protein 25%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: WD repeat-containing protein 25
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: WD repeat-containing protein 25
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: WD repeat-containing protein 25-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: uncharacterized LOC127764807
+  Gene Descriptions: uncharacterized LOC127764807
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4329163
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN33
+Pau
+  Gene count: 1
+  Modal chromosome: Pau07
+  Gene Products: uncharacterized LOC133923965
+  Gene Descriptions: uncharacterized LOC133923965
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi07N
+  Gene Products: WD repeat-containing protein 25-like; WD repeat-containing protein 25-like%2C transcript variant X3
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: WD repeat-containing protein 25
+Msi
+  Gene count: 2
+  Modal chromosome: Msi14
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: WD repeat-containing protein 25
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: WD repeat-containing protein 25; uncharacterized LOC100281243
+  Gene Synonyms: GRMZM2G090168,pco114009a
+  Gene Descriptions: uncharacterized LOC100281243
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 445 aa
+
+MDLLSAAYGATSDEDADapPspspvATALaSFAPPPpKRPRWESpPYLPPPlpfPQPPLP
+qAAPPPASpASGRYVSKRERALLAASqAPVdSASPLPPpTaaEFDSpVGSITDSNLRADI
+LHSLRCQPKPGSStSlPLKLSVSLKGHTKAVNCVDWSPSHGHLLASAGMDHTVHVWNVWD
+KGNTTARVLKHHTAAVKDVRWSlHRPfLLSGGLDCSlQLVDVVEGKVIKVFKEDQAVEVI
+KFNPSNPNLFLSGGSKGSLRLWDIRsGLVTKEFhRSLGTILDIEFSADGKQFISSTDTTR
+SNISENTIIVWDVLRQVPLSNQVYTEAFTCPCVRYHPyEASFVAQSNGNYIAIFSARPPF
+KLNKYMRFEGHGVWGFPIKCNFSLSGRELASGSSDGCIYFYDYKSARlLRKIEAFKEACT
+DVAYHPVmPNVIASCSWTGEISVFE
+
+
+BOP CONSENSUS:
+Length: 448 aa
+
+MDLLSAAYGATSDDDADAAPAPSWPATALPSAAPPPPKRPRWESPPYPGYPPPPPLPAPR
+PAPPQAAPPPLAGRRYVSKRERALLAASQPPVGSAAPLPPPVAPEFDSPVVGSFADSNvR
+ADILHSLRCQPKPGSNNSSPLKLSVSLMGHTKAVNCVDWSPSHGHLLASAGMDHTVRVWN
+VWNRGNTTARVLKHHTAAVKDVKWSHHRPFLLSGGFDCSSRLVDvEEGKEItVFKEDQPV
+EVIKFNPSNSNLFLSGGSKGSLRLWDIRTGLtTKEFNRSLGTILDLEFSADGKQFISSTD
+TTRSNVSENTIIVWDTLREVPLSNQVYTEAFTCPCVRYHPYEASFVAQSNGNYIAIFSAR
+PPFKLNRYRRFEGHGVWGFPIKCSFSLSGRELASGSSDGCIYFYDYKSSRFLRKIEAFKE
+ACTYVAYHPVLPNVIASCGWTGEISVFE
+
+
+PACMAD CONSENSUS:
+Length: 446 aa
+
+MDLLSAAYGATSDDEDAdePPSSpPVATaSaSFAPPPvKRPRWEsHPYLPPPhsFPQPPL
+pNAApPLASPASGRYVSKRERALLAASRApVDSASpLPPqTtAEfDSaVGSITDSNLRAD
+ILHSLRCQPKPGSStSLPLKLSVSLKGHTKAINCVDWSPTHAHLLASAGMDHTVHVWNVW
+DKGNTTARVLKHHTAAVKDVRWSLHrPSLLSGGLDCSLQLVDVVEGKVMKVFKEDQAVEV
+IKFNPSNPNLFLSGGSKGSLRLWDIRSGLVTKEFHRSLGTILDIEFSADGRQFISSTDTT
+RSNISENTIIVWDVLRQVPLSNQVYTEAFTCPCVRYHPrEASFVAQSNGNYIAIFSARPP
+FKLNKYMRFEGHGVWGFPIKCNFSLsGRELASGSSDGSIYFYDYKSARLLRKIEAFKEAC
+TDVAYHPVMPNVIASCSWTGEISVFE
+
+================================================================================

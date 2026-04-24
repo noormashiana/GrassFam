@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM019642
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             486.0 aa
+Family Size (Extended Family Size): 21 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43302:SF8
+Panther Family ID:               PTHR43302
+Modal Panther ID:                PTHR43302:SF8
+Modal Panther Description:       SILICON EFFLUX TRANSPORTER LSI3
+Modal Panther Family ID:         PTHR43302
+Modal Panther Fam Desc:          TRANSPORTER ARSB-RELATED
+Interpro Signature Accession:    cd01117; PTHR43302; PF03600
+Interpro Signature Description:  YbiR_permease; TRANSPORTER ARSB-RELATED; Citrate transporter
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: silicon efflux transporter LSI3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: silicon efflux transporter LSI3-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: silicon efflux transporter LSI3
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: silicon efflux transporter LSI3-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: silicon efflux transporter LSI3
+  Gene Descriptions: silicon efflux transporter LSI3
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: silicon efflux transporter LSI3-like
+  Gene Descriptions: silicon efflux transporter LSI3-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau21
+  Gene Products: silicon efflux transporter LSI3; silicon efflux transporter LSI3-like
+  Gene Descriptions: silicon efflux transporter LSI3; silicon efflux transporter LSI3-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: silicon efflux transporter LSI3-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: silicon efflux transporter LSI3
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: putative transporter arsB
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: silicon efflux transporter LSI3
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 482 aa
+
+MALASLPKVVLGSlAFGVFWMLAVFPSVPFLPIGRTAGALLGAVLMIVFHVISPDDAYAS
+IDLPILGLLFATMVVGGYLKGAGMFKHLGrLLAWRSQGGRDLLCRVCVVTALASALFTND
+TCCVVLTEFVLELAAERNLPAKPFLLALATSANIGSSATPIGNPQNLVIAFNSKITFLqF
+FFGILPAMLAGMGVNMVMLLCMYWKDLEGASPDEVAAGKEMEAVEEGRSPASVLSLKSPa
+aLRvRsnGnvagdDADSVMSENISTKHRWFMQCSEhRRKLFLKSFAYVVTVGMLVAYMLG
+LNMSWTAITTAIALVVVDFRDAEPCLDKVSYSLLVFFSGMFVTVSGFNKTGLPGAIWNFM
+APYSKINHVSGVTVLSLIILLLSNLASNVPTVLLMGDEVAASAATISAAAVTRSWLLLAW
+VSTVAGNLSLLGSAANLIVCEQARRAPRNAHDLTFWSHVVFGVPSTLVVTAIGIPLIGKI
+ni
+
+
+BOP CONSENSUS:
+Length: 486 aa
+
+MALASLSKVVLGSAAFGVFWVLAVFPSVPFLPIGRTAGALLGAALMVVFHVISPDDAYAS
+VDLPILGLLFATMVVGGYLKSAGMFGHLGRLLAWRSQGGRDLLCRVCVVTALASALFTND
+TCCVVLTEFVLELAAERNLPAKPFLLALATSANIGSSATPIGNPQNLVIAFNSKISFVGF
+FLGILPAMLAGMAVNMVMLLCMYWKDLEGsSPDAVAAEKEMAAVEEGRRPSPATStTLKS
+PGQTMLVQSPSLVAAADHDSVMvESISTKHRWFIQCSAPQRRLFLKSFAYIVTAGMLVAY
+MLGLNMSWTAITTAVALIVVDFRDAELCLGKVSYSLLVFFTGMFVTVSGFNKTGLPGAIW
+NVMAPYSKINHVrGITVLSLIIIlLSNLASNVPTVLLMGDEVAASAATISAAAVTRSWLL
+LAWVSTVAGNLSLLGSAANLIVCEQARRAPRNAHDLTFWSHVVFGAPSTLVVTAVGIPLI
+GIINAA
+
+
+PACMAD CONSENSUS:
+Length: 490 aa
+
+MTQLAPLPKVVlGSLAFGVFWMLAVFPSVPFLPIGRTAGALLGAVLMIVFHVISPDDAYA
+SIDLPILGLLFATMVVGGYLKGAGMFKHLGALLAWRSQGGRDLLCRVCVVTALASALFTN
+DTCCVVLTEFVLELAAERNLPAKPFLLALATSANIGSSATPIGNPQNLVIAFNSKITFLQ
+FFFGILPAMLAGMGVNTVMLLCMYWKDLEGASPDEVAAGKEMEAVEEGRSPASVLSLKCS
+PaAAAHgALRQRQNGGndndDDADSVMSENISTKHRWFMQCSEHRRKLFLKSFAYVVTVG
+MLVAYMLGLNMSWTAITTAIALVVVDFRDAEPCLDKVSYSLLVFFSGMFVTVSGFNKTGL
+PGAIWNFMAPYAKINHVSGVTVLSLIILLLSNLASNVPTVLLMGDEVAASAATISASAVT
+RSWLLLAWVSTVAGNLSLLGSAANLIVCEQARRAPRNAHDLSFWSHVVFGVPSTLVVTAI
+GIPLIGKISi
+
+================================================================================

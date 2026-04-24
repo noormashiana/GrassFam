@@ -1,0 +1,122 @@
+================================================================================
+GrassFam ID: GFAM008628
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             318.0 aa
+Family Size (Extended Family Size): 24 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR11732
+Modal Panther ID:                PTHR11732:SF523
+Modal Panther Description:       DEOXYMUGINEIC ACID SYNTHASE 1
+Modal Panther Family ID:         PTHR11732
+Modal Panther Fam Desc:          ALDO/KETO REDUCTASE
+Interpro Signature Accession:    cd19124; G3DSA:3.20.20.100:FF:000013; G3DSA:3.20.20.100; PTHR11732; PIRSF000097; PR00069; PF00248; SSF51430
+Interpro Signature Description:  AKR_AKR4A_4B; NADPH-dependent codeinone reductase 1-1; -; ALDO/KETO REDUCTASE; AKR; Aldo-keto reductase signature; Aldo/keto reductase family; NAD(P)-linked oxidoreductase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: deoxymugineic acid synthase 1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: probable NAD(P)H-dependent oxidoreductase 1
+Ata
+  Gene count: 2
+  Modal chromosome: Ata07D
+  Gene Products: probable NAD(P)H-dependent oxidoreductase 1
+Tae
+  Gene count: 5
+  Modal chromosome: Tae02A
+  Gene Products: deoxymugineic acid synthase 1-B-like; deoxymugineic acid synthase 1-D-like; probable NAD(P)H-dependent oxidoreductase 1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: deoxymugineic acid synthase 1-B-like
+  Gene Descriptions: deoxymugineic acid synthase 1-B-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: deoxymugineic acid synthase 1
+  Gene Descriptions: deoxymugineic acid synthase 1
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN44
+Pau
+  Gene count: 1
+  Modal chromosome: Pau07
+  Gene Products: deoxymugineic acid synthase 1-D-like
+  Gene Descriptions: deoxymugineic acid synthase 1-D-like
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: methylecgonone reductase-like%2C transcript variant X1; non-functional NADPH-dependent codeinone reductase 2-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi06
+  Gene Products: probable NAD(P)H-dependent oxidoreductase 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: NAD(P)H-dependent oxidoreductase
+  Gene Synonyms: GRMZM2G415579
+  Gene Descriptions: NAD(P)H-dependent oxidoreductase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 318 aa
+
+MAGaaAataIPCVTLNTGHAMPVLGFGTGSSrtPADLaATILHAVRLGYRHLDTASMYGT
+EpAVGAAVAeAVRsGAVASRADLFVTSKLWIaDARPdRVVPALRESLARLGLDYLDLFLV
+HWPVAAdaPgDnskLVpFDMEGVWRGMEECHRLGLARSVGVSNFSAAKMsRLLALAAVPP
+AVNQVELNVGWRQEKVREVCArnGVVVaAYSPLGAyGaaWGSNAVMESGVLhDVAAaRGK
+TVAQVALRWLYEQGVCFVARSFNKERLKQNMEIFDWELSDeDKEMIatIPQRRACqGEfF
+VSPDGPYKSLEELWDGEI
+
+
+BOP CONSENSUS:
+Length: 326 aa
+
+MtGAgDDgHGagAaATAIPCVTLNTGHAMPVLGFGTGSSRpPADLpDTIvHAVRLGYRHL
+DTAAMYGTEPAVGAAVAEAVRsGAVaSReDLFVTSKLwIpDARPGRVVPALRESLARLGL
+DYLDLFLVHWPVAAdnPaDKaTLVEFDMEGVWRGMEECHRLGLARSVGVSNFSAAKMERL
+LALAAVPPAVNQVEMNVGWRQEKVREVCARHGVVVAAYSPLGAYGAsWGSDAVMeSGVLH
+dVAAAKGKTVAQVALRWLYEQGVCFVARSFNkERLKQNMdIFDWELSDEDKAMIATIPQR
+RACQGeYFVSPDGPYKSLEELWDGEI
+
+
+PACMAD CONSENSUS:
+Length: 314 aa
+
+MAGgASASIPCVtLNTGHAMPVLGFGTGSSSTPEDLaATILHAVRLGYRHIDTASmYGTE
+GAVGAAVADAVAtGAVASRADLFVTSKLWMaDAHPDRVLPALRESLARLGLDYLDLFLVH
+WPVAADENkKLVPFDMEGVWRAMEECHRLGLARSIGVSNFSAAKMSRLLAFAAVPPAVNQ
+VELNVGWRQEKVREVCAKNGVVVTAFSPLGAfGSmWGSNAVMESGVLrDVAARRGKTVAQ
+VALRWLHEQGVCFVARSFNKERLKQNMELFDWELsDDDKEKIMGIPQRRACRGEFFLSPD
+GPYKSLEELWDGEI
+
+================================================================================

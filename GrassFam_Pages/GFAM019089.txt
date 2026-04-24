@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM019089
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             373.0 aa
+Family Size (Extended Family Size): 21 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22937:SF46
+Panther Family ID:               PTHR22937
+Modal Panther ID:                PTHR22937:SF46
+Modal Panther Description:       RING-TYPE E3 UBIQUITIN TRANSFERASE
+Modal Panther Family ID:         PTHR22937
+Modal Panther Fam Desc:          E3 UBIQUITIN-PROTEIN LIGASE RNF165
+Interpro Signature Accession:    G3DSA:3.30.40.10:FF:000589; PTHR22937
+Interpro Signature Description:  RING/U-box superfamily protein; E3 UBIQUITIN-PROTEIN LIGASE RNF165
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: E3 ubiquitin-protein ligase RLIM
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: E3 ubiquitin-protein ligase RLIM-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: E3 ubiquitin-protein ligase RLIM
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: E3 ubiquitin-protein ligase RLIM-like; E3 ubiquitin-protein ligase RLIM-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: probable E3 ubiquitin-protein ligase RHG1A
+  Gene Descriptions: probable E3 ubiquitin-protein ligase RHG1A
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: probable E3 ubiquitin-protein ligase RHG1A
+  Gene Descriptions: probable E3 ubiquitin-protein ligase RHG1A
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: E3 ubiquitin-protein ligase MBR1-like%2C transcript variant X2; probable E3 ubiquitin-protein ligase RHG1A%2C transcript variant X2
+  Gene Descriptions: E3 ubiquitin-protein ligase MBR1-like; probable E3 ubiquitin-protein ligase RHG1A
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: E3 ubiquitin-protein ligase MBR2-like%2C transcript variant X1; probable E3 ubiquitin-protein ligase HIP1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: E3 ubiquitin-protein ligase MBR2-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: probable E3 ubiquitin-protein ligase RHG1A%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: putative RING zinc finger domain superfamily protein%2C transcript variant X1; zinc finger%2C C3HC4 type family protein%2C transcript variant X1
+  Gene Synonyms: GRMZM2G053909; GRMZM2G140924
+  Gene Descriptions: putative RING zinc finger domain superfamily protein; zinc finger%2C C3HC4 type family protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 371 aa
+
+MDEHMGRRTVGGLLFTKGGSILLFREDgSRpKAkNCCSRHGCSGRHSADKAKGKEvHRAA
+AAaESAPATPRRSQIfRKPNRKPPQGSSASDSISRDAGgSCSETGNRSReTPGRDLLARL
+KDRVNASRKRSLNRENSPSSPnGFSASSPSsSRSVSRPSHRAASRIRKADEGANAGaDsv
+RRnGgGDARRNSERSDDDLLLVEQaARdqVPsEGFLSGFMARYRSGLQGGLSSLeDSmED
+SNGYWRFDVgGSEELENYFIFNDRHRGMRMDIDGMSYEELLALGERIGTVNTGLSDDALS
+KCLNRSLYMPTASGSHEDCDRKCSICQEEYsaGEEVGKMACKHYYHISCIQHWLRQKNWC
+PICKSVALKTN
+
+
+BOP CONSENSUS:
+Length: 372 aa
+
+MDEHMGRRTVGGLLFTKGGSILLFREDSSRRKAGACCSRNGCNGTRHSADKGRPtHSHRE
+AAAAAAKEAAPTPRRSQPlRKPPQGSSNPAsSCSETDNRTGEAAAPGAGRDLLARLKDRV
+NASRKRSLAREMSSPSSSSGGFSASSSGGGATRSSAVSRPtRRAASRIRKADEGENAGGg
+RRaPRRDTGGGDARRNSDDPVMVGQRAAREQAPTEGFISGFLARYRSSLQGGSSLQDGtE
+DSSGYWRFDVEGSEELENYFMLSDRHRAMRMDIDGMSYEELLALGDRIGTVNTGLSEDAL
+YKCLKRSLYTPTAPETHQDCDRKCSICQEEYSGGEEVGNMACKHYYHItCIQHWLRQKNW
+CPICKSVAAKTV
+
+
+PACMAD CONSENSUS:
+Length: 371 aa
+
+MDEHMGRRTVGGLLFTKGGSILLFREDGSRPKAKNCCSRHGCSGRHSVDKAKGKEVHRAA
+VPNESTPATPGRSQIFRKPNRKPPQESSASDSISRDAGGSCSETGNRSRDTPGRDLLARL
+KERVNASRKRSLNRENSPqSPNGFSASSPSSSRSVSRPSHRAASRIRKADEGANAGADSV
+HRNGaGDARRsSERSDDDLLLVEQVTRDHVPSEGFLSGFMARYRSGLQGGLSSLEDSMED
+SNGYWRFDvGGiEELENYFIFNDRHRGMRMDIDGMSYEELLALGERIGTVNTGLSDDALS
+KCLNRSLYMPTASGSHEDCDRKCSICQEEYLAGEEVGKMACKHYYHlSCIQHWLRQKNWC
+PICKSVALnTN
+
+================================================================================

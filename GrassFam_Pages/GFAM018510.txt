@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM018510
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             364.0 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11947:SF24
+Panther Family ID:               PTHR11947
+Modal Panther ID:                PTHR11947:SF24
+Modal Panther Description:       PROTEIN-SERINE_THREONINE KINASE
+Modal Panther Family ID:         PTHR11947
+Modal Panther Fam Desc:          PYRUVATE DEHYDROGENASE KINASE
+Interpro Signature Accession:    cd16929; G3DSA:1.20.140.20:FF:000003; G3DSA:3.30.565.10:FF:000065; G3DSA:1.20.140.20; G3DSA:3.30.565.10; PTHR11947; PF10436; SSF55874; SSF69012
+Interpro Signature Description:  HATPase_PDK-like; [Pyruvate dehydrogenase (Acetyl-transferring)] kinase, mitochondrial; [Pyruvate dehydrogenase (Acetyl-transferring)] kinase mitochondrial; -; PYRUVATE DEHYDROGENASE KINASE; Mitochondrial branched-chain alpha-ketoacid dehydrogenase kinase; ATPase domain of HSP90 chaperone/DNA topoisomerase II/histidine kinase; alpha-ketoacid dehydrogenase kinase, N-terminal domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: pyruvate dehydrogenase (acetyl-transferring) kinase%2C mitochondrial
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: pyruvate dehydrogenase (acetyl-transferring) kinase%2C mitochondrial
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: pyruvate dehydrogenase (acetyl-transferring) kinase%2C mitochondrial%2C transcript variant X2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: pyruvate dehydrogenase (acetyl-transferring) kinase%2C mitochondrial-like; pyruvate dehydrogenase (acetyl-transferring) kinase%2C mitochondrial-like%2C transcript variant X1; pyruvate dehydrogenase (acetyl-transferring) kinase%2C mitochondrial-like%2C transcript variant X3
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: pyruvate dehydrogenase (acetyl-transferring) kinase%2C mitochondrial-like%2C transcript variant X1
+  Gene Descriptions: pyruvate dehydrogenase (acetyl-transferring) kinase%2C mitochondrial-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: pyruvate dehydrogenase (acetyl-transferring) kinase%2C mitochondrial%2C transcript variant X1
+  Gene Descriptions: pyruvate dehydrogenase (acetyl-transferring) kinase%2C mitochondrial
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 1
+  Modal chromosome: Pau14
+  Gene Products: pyruvate dehydrogenase (acetyl-transferring) kinase%2C mitochondrial-like
+  Gene Descriptions: pyruvate dehydrogenase (acetyl-transferring) kinase%2C mitochondrial-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: pyruvate dehydrogenase (acetyl-transferring) kinase%2C mitochondrial-like; pyruvate dehydrogenase (acetyl-transferring) kinase%2C mitochondrial-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: pyruvate dehydrogenase (acetyl-transferring) kinase%2C mitochondrial-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: pyruvate dehydrogenase (acetyl-transferring) kinase%2C mitochondrial%2C transcript variant X2
+Zma
+  Gene count: 2
+  Modal chromosome: Zma07
+  Gene Products: pyruvate dehydrogenase (acetyl-transferring) kinase%2C mitochondrial%2C transcript variant X1; pyruvate dehydrogenase (lipoamide) kinase 2
+  Gene Synonyms: PDK2,pdlk2
+  Gene Descriptions: pyruvate dehydrogenase (lipoamide) kinase 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 363 aa
+
+MASEPVARAVAEEVGRWGSMKQTGVSLRYMMEFGSRPTeRNLLLSAQFLHKELPIRIARR
+ALELESLPFGLSNKPAILKVRDWYLDSFRDIRYFPEVRNRNDELAFTQMIKMIKVRHNNV
+VPTMALGVQQLKNELcssRKVPpGFDEIHEFLDRFYMSRIGIRMLIGQHVALHDPEPEPG
+VIGLINTRLSPIQVAQAASEDARSICLREYGSAPDINIYGDPNFTFPYVASHLHLMLFEL
+VKNSLRAVQERYMNSDKDVPPVRIIVADGEEDVTIKVSDEGGGIpRSGLPRIFTYLYSTA
+KNPPDLDGPNEGVTMAGYGFGLPISRLYARYFGGDLQIISMEGYGTDAYLHLSRLGDSEE
+PLP
+
+
+BOP CONSENSUS:
+Length: 364 aa
+
+MMASEPVARAVAEEVGRWGSMKQTGVSLRYMMEFGSVPTDRNLLLSAQFLQKELPIRIAR
+RALELESLPFGLSAKPAILKVRDWYLDSFRDIRYFPEVRNRDDELAFTQMIKMIKVRHNN
+VVPTMALGVQQLKNEQFSSRKLPPGFDEIHGFLDRFYMSRIGIRMLIGQHVALHDPEPEP
+GVIGLINTKLSPIQVAQIASEDARSICMREYGSAPDINIYGDqNFTFPYVtSHLHLMLFE
+LVKNSLRAVQERYMNSDKDVPPVRIIVADGTEDVTIKVSDEGGGIRRSGLPRIFTYLYST
+AKNLPDMEGPSEGVTMAGYGFGLPVSRLYARYFGGDLQIISMEGYGTDAYLHLSRLGDSE
+EPLP
+
+
+PACMAD CONSENSUS:
+Length: 363 aa
+
+MASEPVARAVAEEVGRWGSMKQTGVSLRYMMEFGSRPTpRNLLLSAQFLHKELPIRIARR
+ALELESLPFGLSNKPAILKVRDWYLDSFRDIRYFPEVRSRNDELAFTQMIKMVKVRHNNV
+VPTMALGVQQLKkELCrTRKVPFGFDEIHEFLDRFYMSRIGIRMLIGQHVALHDPePEPG
+VIGLINTRLSPIQVAQAACEDARAICLREYGSAPDINIYGDPNFTFPYVASHLHLMLFEL
+VKNSLRAVQERYMNSDKDVPPVRIIVADGEEDVTIKVSDEGGGIPRSGLPRIFTYLYSTA
+KNPPDLDGPNEGvTMAGYGFGLPISRLYARYFGGDLQIISMEGYGTDAYLHLSRLGDSEE
+PLP
+
+================================================================================

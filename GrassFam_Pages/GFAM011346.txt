@@ -1,0 +1,142 @@
+================================================================================
+GrassFam ID: GFAM011346
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             572.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR21631
+Panther Family ID:               PTHR21631
+Modal Panther ID:                PTHR21631
+Modal Panther Description:       ISOCITRATE LYASE/MALATE SYNTHASE
+Modal Panther Family ID:         PTHR21631
+Modal Panther Fam Desc:          ISOCITRATE LYASE/MALATE SYNTHASE
+Interpro Signature Accession:    cd00377; G3DSA:1.10.10.850:FF:000001; G3DSA:3.20.20.60; G3DSA:1.10.10.850; TIGR01346; PTHR21631; PIRSF001362; PF00463; SSF51621
+Interpro Signature Description:  ICL_PEPM; Isocitrate lyase; -; isocitrate lyase; ISOCITRATE LYASE/MALATE SYNTHASE; ICL; Isocitrate lyase family; Phosphoenolpyruvate/pyruvate domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: isocitrate lyase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: isocitrate lyase
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: isocitrate lyase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: isocitrate lyase; isocitrate lyase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: isocitrate lyase
+  Gene Descriptions: isocitrate lyase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: isocitrate lyase-like
+  Gene Synonyms: ICL,Isocitrase,OsICL,OsJ_24528
+  Gene Descriptions: isocitrate lyase-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 1
+  Modal chromosome: Pau15
+  Gene Products: isocitrate lyase
+  Gene Descriptions: isocitrate lyase
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: isocitrate lyase; isocitrate lyase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: isocitrate lyase
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: isocitrate lyase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: isocitrate lyase
+  Gene Synonyms: GRMZM2G056369,ICL,icl1
+  Gene Descriptions: isocitrate lyase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 573 aa
+
+MASPFSVPSLIMEEEGRFEAEVAEVEAWWnTERFRLTKRPYTARDVVLLRGTLRQSYASG
+EMAKKLWRTLKAHQAgGTASRTFGALDPVQVTMMAKHLDTIYVSGWQCSSTHTSTNEPGP
+DLADYPYDTVPNKVEHLFFAQLYHDRKQREARMSLPRAERArAPYVDFLKPIIADGDTGF
+GGATATVKLCKLFVERGAAGVHLEDQSSVTKKCGHMAGKVLVAVSEHVNRLVAARLQFDV
+MGVETVLVARTDAVAATLIQTNVDARDHQFILGATNPRLknRSLAAVLSDAMSAGKNGRE
+LQAIEDEWLAAAQLKTFSDCVRDAIAgLNaTDqEKQRKLQEWSnATSYDKCVSNEQARDI
+AAsLGVaSVFWDWDLPRTREGFYRFRGSVAAAVVRGRAFAPHADVLWMETSSPNIAECTA
+FAEGVKAAfPEAMLAYNLSPSFNWDASGMTDADMAAFIPrVARLGYVWQFITLAGFHADA
+LVTDTFARDFARRGMLAYVERIQREERiNGVETLEHQKWSGANFYDRVLKTVQGGISSTA
+AMGKGVTEEQFKDSwPatGSESSSlqVLAKSRM
+
+
+BOP CONSENSUS:
+Length: 570 aa
+
+MASPFSVPSLIMEEEGRFEAEVAEVGAWWNTERFRLTKRPYTARDVVLLRGTLRQSYASG
+EMAKKLWRTLKAHQAaGTASRTFGALDPVQVTMMAKHLDTIYVSGWQCSSTHTSTNEPGP
+DLADYPYDTVPNKVEHLFFAQQYHDRKQQEARMSLPRAERAHAPFVDFLKPIIADGDTGF
+GGATATVKLCKLFVERGAAGVHLEDQSSVTKKCGHMAGKVLVAVSEHVNRLVAARLQFDI
+MGVETVLVARTDAVAATLIQTNIDARDHQFILGATNPRLKNRSLTAMLSDAMSAGKNGRE
+LQAIEDEWTATAQLKTFSECVKDAIASLNATDlDKQRKLQEWSNATSYDKCVSHEQARDI
+AASLGVGSVFWDWDLPRTREGFYRFQGSVASAVVRGRAFAPHADVLWMETSSPNIAECTA
+FAEGVRAAFPEAMLAYNLSPSFNWDASGMTDADMAAFIPHVARLGYVWQFITLAGFHADA
+LVTDTFARDFARRGMLAYVERIQREERRNGVETLEHQKWSGANFYDRVLKTVQGGMSSTA
+AMGKGATEEQFWTKPGSESSSQHVLAKSRM
+
+
+PACMAD CONSENSUS:
+Length: 572 aa
+
+MASPFSVPSLIMEEEGRFEAEVAEVESWWGTERFRLTKRPYTARDVVLLRGTLRQSYASG
+EMAKKLWRTLKAHQAGGTASRTFGALDPVQVTMMAKHLDTIYVSGWQCSSTHTSTNEPGP
+DLADYPYDTVPNKVEHLFFAQLYHDRKQREARMSLPRADRARAPYVDFLKPIIADGDTGF
+GGATATVKLCKLFVERGAAGVHLEDQSSVTKKCGHMAGKVLVAVSEHVNRLVAARLQFDV
+MGVETVLVARTDAVAATLIQTNVDARDHQFILGATNPRLRGRSLAAVLSDGMAAGKNGRE
+LQAIEDEWLAAAQLKTFSDCVRDAIAGLsVTdQEKQRRLQEWDrATGSYDRCVSNEQARD
+IAARLGVASVFWDWDLPRTREGFYRFRGSVAAAVVRGRAFAPHADVLWMETSSPNVAECT
+AFAEGVKAACPEAMLAYNLSPSFNWDASGMTDAEMAAFIPRVARLGYVWQFITLAGFHAD
+ALVTDTFARDFARRGMLAYVERIQREERINGVETLEHQKWSGANFYDRVLKTVQGGISST
+AAMGKGVTEEQFKDSRPATGSSGLQVVAKSRI
+
+================================================================================

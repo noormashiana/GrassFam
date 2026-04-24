@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM009028
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             444.0 aa
+Family Size (Extended Family Size): 21 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31917:SF156
+Panther Family ID:               PTHR31917
+Modal Panther ID:                PTHR31917:SF156
+Modal Panther Description:       DUF724 DOMAIN-CONTAINING PROTEIN 2
+Modal Panther Family ID:         PTHR31917
+Modal Panther Fam Desc:          AGENET DOMAIN-CONTAINING PROTEIN-RELATED
+Interpro Signature Accession:    PTHR31917
+Interpro Signature Description:  AGENET DOMAIN-CONTAINING PROTEIN-RELATED
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: DUF724 domain-containing protein 3%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: protein AGENET DOMAIN (AGD)-CONTAINING P1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: protein AGENET DOMAIN (AGD)-CONTAINING P1%2C transcript variant X2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: protein AGENET DOMAIN (AGD)-CONTAINING P1-like; protein AGENET DOMAIN (AGD)-CONTAINING P1-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: protein AGENET DOMAIN (AGD)-CONTAINING P1-like
+  Gene Descriptions: protein AGENET DOMAIN (AGD)-CONTAINING P1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: protein AGENET DOMAIN (AGD)-CONTAINING P1
+  Gene Descriptions: protein AGENET DOMAIN (AGD)-CONTAINING P1
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau11
+  Gene Products: protein AGENET DOMAIN (AGD)-CONTAINING P1-like
+  Gene Descriptions: protein AGENET DOMAIN (AGD)-CONTAINING P1-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: protein AGENET DOMAIN (AGD)-CONTAINING P1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: DUF724 domain-containing protein 3-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: DUF724 domain-containing protein 3
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: RNA binding protein
+  Gene Synonyms: GRMZM2G155889
+  Gene Descriptions: RNA binding protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 444 aa
+
+MRSPRLRRRPdPAspqPaEvFnPGDpVEVLPDEpGLRGAHFAAVVVrpsPKPRSYTVEYD
+ALleSEdSGRpLREtVPARQVRPRPPPPsPAPASGePPAEHAAVDALrDDAWWLGVALGG
+ArAdGKVAVCFPETREVMEFDAADVRPHLEWVAGEWRSPEsMEIPKTMPYAKGTQIEVAK
+LEDDSVVAWFPAVVAKTIWKNNLLVEYTvSKsDGSALSeEIVDvKHVRPCPPqASAISFC
+INDEVEAFQGDGWWLGVITEVHPELKYTFKSAHSGKEVQLhQKlLRLRYDWVDgQWKQVS
+QNvsKtKFTqGvKVEVSSDDEGFRGAWFEGTVVKSVGSKFLVEYDTLKADDETTPLTEtV
+EaRHIRPSPPdIPVTdGFKLLDEVDAFCNDGWWVGVVSKVLSdQKYMVYFRpWKEEnEFE
+HEQLRLHCDWMGGRWMRASPALEM
+
+
+BOP CONSENSUS:
+Length: 444 aa
+
+MRSPRLRRQPPPAPSRAsDPAEPTEVFPvGEAVEVLPDEGAYRGAHLPAVVARFDPDLRS
+YAVEYDALAVSGASGRPLPETVPASQVRPRPPPPSPAPPAEHAAVDALRDGAWWLGVALL
+GGGRADGRVAVCFPATREVAEFDAADVRPHLEWVAGEWRSPEDMETSKRTPYAKGTQVEV
+ARLEADSVVAWFPAIVAKTIWKNNLLVEYPFWKGSELCNEIVDIKHIRPCPPRASVISFC
+VNDDVEGFQGDGWWPGKITEIHPKLTYTFKlATSGKKVQLHQNALRLRYDWTDnQWKQVA
+QNLSGTKFTGGSRVEVSSDEEGFHGAWFQGTVVKSVGHKFLVEYDALKDDDETTPLTETI
+GEEHIRPSPPAIPVTNGFKVLDEVDAYTNDGWWVGVISEVLSDQKYMVYFKAYKEQnEFG
+LEQLRRHCDWVGGRWMQASLALEM
+
+
+PACMAD CONSENSUS:
+Length: 443 aa
+
+MRPPRTPRRRDAASPQTAkGFNPGDPVEVLPDEPGLRGAHFAAVVVGPSaKPRGYTVEYD
+ALLESEDSDRkLREAVPARSLRPRPPPPRAPASGEPPAEHAAVDALIDDAWWLGVALGRA
+GGpGKVrVCFPETREVMEFDAADVRPHLEWVDGEWRSPDSMEIPKTMPYTKGMQIEVSKL
+EDNSVVAWLPAVVAKTIWKNNLLVEYTVSKSyGTALSEEIVDVKHVRPCPPQASAISFCI
+NDEVEAFQGDGWWLGVITeVHPELKYTFKSAHLGvEVQvsQKLLRLRYDWVDGQWKQESQ
+NVLKaKFTQGVKVEVSSDDEGFRGAWFEATVVKSVGSKFLVEYATLKADDETKPLTEAVE
+ARHIRPSPPhIPVvDGFKLLDEVDAFCNDGWWVGVVSKVLSnQRYMVYFRPWKEEMEFEH
+GQLRLHCDWMGGRWMRASPALEM
+
+================================================================================

@@ -1,0 +1,125 @@
+================================================================================
+GrassFam ID: GFAM007751
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             458.0 aa
+Family Size (Extended Family Size): 29 (32) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11802:SF58
+Panther Family ID:               PTHR11802
+Modal Panther ID:                PTHR11802:SF58
+Modal Panther Description:       CARBOXYPEPTIDASE
+Modal Panther Family ID:         PTHR11802
+Modal Panther Fam Desc:          SERINE PROTEASE FAMILY S10 SERINE CARBOXYPEPTIDASE
+Interpro Signature Accession:    G3DSA:3.40.50.1820:FF:000163; G3DSA:3.40.50.1820; PTHR11802; PF00450; SSF53474
+Interpro Signature Description:  Carboxypeptidase; alpha/beta hydrolase; SERINE PROTEASE FAMILY S10 SERINE CARBOXYPEPTIDASE; Serine carboxypeptidase; alpha/beta-Hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: serine carboxypeptidase-like 50
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: serine carboxypeptidase-like 50
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: serine carboxypeptidase-like 50; serine carboxypeptidase-like 50%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl05
+  Gene Products: serine carboxypeptidase-like 50
+  Gene Descriptions: serine carboxypeptidase-like 50
+Osa
+  Gene count: 2
+  Modal chromosome: Osa05
+  Gene Products: serine carboxypeptidase-like 50
+  Gene Descriptions: serine carboxypeptidase-like 50
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: serine carboxypeptidase-like 50
+  Gene Descriptions: serine carboxypeptidase-like 50
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi08K
+  Gene Products: serine carboxypeptidase-like 50
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: serine carboxypeptidase-like 50
+Msi
+  Gene count: 7
+  Modal chromosome: Msi10
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: serine carboxypeptidase-like 50
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 450 aa
+
+MAaPLPfSLLLVVLvAAavSgSAsAAtvFPREALPTKSGYLPIPpANASLYFAFYEAThP
+LTPPASTPLLVWLEGGPGCSsfLSNFLQIGPYvFarggsnnsapLSPNPFAWNRRFGLLF
+LDSPLGTGYSAAPSPSAIPTsQpVVAEHVLAALQSFfSAQPAsFRARPLFLTGESYAGKT
+IPAAGALILATNPtLPEqrRINLRGVAIGNGLVHPVAQVATHADtAYFMGLINAKQRREA
+EAMQAEAVALarAeRWrEAtDARARLLSWLrNATGLASLFDVAVqtsLeAlAAaLAEFmN
+dAEVRAALGARGDApWELCSpAVeAALHDDVMKSAKPeVEALLRgasTRVLLYEGIRDaq
+DGVVSAEAWLRELEWDGLAAFQDApRAVWRrsgGGGGrLAGYVQRHGALVHVAVYGAGHF
+VPAaQGRAAQEMIEDWVFDKGLFGgggagd
+
+
+BOP CONSENSUS:
+Length: 445 aa
+
+MAPPpRPVQLVLVVLLgVAavSAsAdAVFPREALPTSSGYLPVPPSTNASLYFAFYEATa
+PLTpPADTPLLLWLEGGPGCSGfLSNFLQLGPYSLarRtGNsgSLSPNPFAWNRRFGLLF
+LDSPLGTGFSAAPSpAAIPTnQSVIAEHVLAALQSFFDAsPAhFRARPLFLTGESYAGKY
+VPAAASRILAANpaLPeqrRINLRGVAIGNGLVHPVAQVTTHADTAYFMGLINgRQRREL
+EAMQAETVALARAGRWGEATDARARLLsWLQNATGvATLFDVVvQgWLDADALgeFLNrA
+EVKAALGARGDVAWEACSAAVvAALREDGMKSAKPEVEALLRRtgMRVLLYEGIRDLRDG
+VVSAEAWLeEVeWDGLAAFrEAERAVWRTsGGELAGYVQRHGALAHVVVYGAGHFVPAGN
+GRAAQEMIEDWVSQTGLFGgGntGD
+
+
+PACMAD CONSENSUS:
+Length: 456 aa
+
+MAAPLPfSLLLVVlAtAvagSGSAATIFPREALPTKSGYLPIPvANASLYYAFYEATdPL
+TPPASTPLLVWLEGGPGlSSFASNFFQIGPYVFslsgssnSSSafPLSPNPYAWNRRFGL
+LFLDSPLGTGYSAAPSPSAIPTsQPVVAEHVLAALQSFlSAQPptFRARPLFLTGESYAG
+KTIPTAGALILATNPTLPEQrRINLRGVAIGNGLVHPVAQVATHADvAYFMGLINAKQRR
+EAEAMQAEAVALTvAERWREAtDARaRVLSWLRNATGLASLFDVAVDTsLEAlAArAAEL
+MNDAEVRAALGARGDAPWeLvSPAVEAALHDDVMKSAKPdVEALLRGPaSTRVLLYEGIR
+DAQDGVVSVEAWLRELEWDGLAAFQDAPRAVWRRsGGGgrGeGgRLAGYVQKHGALVHVA
+VYGAGHlVPAAQGRAAQEMIEDWVFDKGLFGgdgAA
+
+================================================================================

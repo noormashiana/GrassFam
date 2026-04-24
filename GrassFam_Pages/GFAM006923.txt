@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM006923
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             564.0 aa
+Family Size (Extended Family Size): 28 (44) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR21499:SF66
+Panther Family ID:               PTHR21499
+Modal Panther ID:                PTHR21499:SF66
+Modal Panther Description:       ASPARTOKINASE
+Modal Panther Family ID:         PTHR21499
+Modal Panther Fam Desc:          ASPARTATE KINASE
+Interpro Signature Accession:    cd04244; cd04933; cd04918; G3DSA:1.20.120.1320:FF:000001; G3DSA:3.30.70.260:FF:000016; G3DSA:3.30.70.260:FF:000020; G3DSA:3.40.1160.10:FF:000012; G3DSA:3.30.70.260; G3DSA:1.20.120.1320; G3DSA:3.40.1160.10; TIGR00657; PTHR21499; PF00696; SSF53633
+Interpro Signature Description:  AAK_AK-LysC-like; ACT_AK1-AT_1; ACT_AK1-AT_2; Aspartokinase; Aspartokinase 1; -; Aspartokinase, catalytic domain; aspartate kinase; ASPARTATE KINASE; Amino acid kinase family; Carbamate kinase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: aspartokinase 1%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: aspartokinase 1%2C chloroplastic-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata05D
+  Gene Products: aspartokinase 1%2C chloroplastic%2C transcript variant X1
+Tae
+  Gene count: 4
+  Modal chromosome: Tae05D
+  Gene Products: aspartokinase 1%2C chloroplastic-like; aspartokinase 1%2C chloroplastic-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: aspartokinase 1%2C chloroplastic-like
+  Gene Descriptions: aspartokinase 1%2C chloroplastic-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: aspartokinase 1%2C chloroplastic
+  Gene Descriptions: aspartokinase 1%2C chloroplastic
+Ecu
+  Gene count: 6
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: aspartokinase 1%2C chloroplastic-like
+  Gene Descriptions: aspartokinase 1%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: aspartokinase 1%2C chloroplastic-like; aspartokinase 1%2C chloroplastic-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: aspartokinase 1%2C chloroplastic-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: aspartokinase 2%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: aspartokinase 1%2C chloroplastic-like
+  Gene Synonyms: AK1,GRMZM2G024686
+  Gene Descriptions: aspartokinase 1%2C chloroplastic-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 563 aa
+
+MAVALRFPGVARdSPAAlAiAASKLGRERaSvCAaARPGGQCWRRRGLVVRCQTGAAAAv
+LKKeEAtAaAArkAAAGFTVVMKFGGSSLASAERMREVADLILSFPEETPVVVLSAMGKT
+TNNLLLAGEKAVSCGAPKASEIPELAVIKELHLRTIDELGLDRSIVSGLLDELEQLLKGV
+AMMKELTLRTRDYLVSFGECMSTRIFAAYLNKLGKKARQYDAFDIGFITTDDFTNADILE
+ATYPAVAKRLHGDWIDDPAIPIVTGFLGKGWKSCAVTTLGRGGSDLTATTIGKALGLREI
+QVWKDVDGVLTCDPNIYANAIPVPYLTFDEAAELAYFGAQVLHPQSMRPAREGGIPVRVK
+NSYNRHAPGTVITKtRDMSKSILTSIVLKSNITMLDIVSTRMLGQYGFLAKVFSIFEDLG
+ISVDcVATSEVSISLTLDPSKLWSRELIQQELDHVVEELEKIAVVHLLQHRSIISLIGNV
+QRSSLILEKAFNVLRRNGVNVQMISQGASKVNISLVVNDSEAKQCVQALHSAFFENGFLS
+EVEGADlPQNGAPvNSNGAIYGN
+
+
+BOP CONSENSUS:
+Length: 559 aa
+
+MAaALRLAAVARDSPAAVSRLGRERASLCAAARPGGQCcARRGLVLRCQSGAAAaTLKKG
+EAADGAgAAAGFTVVMKFGGSSVASAARMREVADLILSFPEETPVVVLSAMGKTTNNLLL
+AGEKAVSCGAPKASEInELAVIKELHLRTIDELGLDSSIVSGFLDELEQLLKGVAMMKEL
+TLRTRDYLVSFGECMSTRIFAAYLNKLGKKARQYDAFDLGFITTDDFTNADILEATYPAV
+AKRLHGDWIDDPAIPIVTGFLGKGWKSCAVTTLGRGGSDLTATTIGKALGLREIQVWKDV
+DGVLTCDPNIYANAVPVPYLTFDEAAELAYFGAQVLHPQSMRPAREGGIPVRVKNSYNRH
+APGTVITKTRDMRKSILTSIVLKSNITMLDIVSTRMLGQYGFLAKVFSIFEDLGISVDSV
+ATSEVSISLTLDPSKLWSRELIQQELDHVVEELEKIAVVHLLQHRSIISLIGNVQRSSLI
+LEKAFNVLRRNGVNVQMISQGASKVNISLVVNDSEAKQCVQALHSAFFENGFLSEVEEAD
+LAQNgsPVLVSSNGAINGN
+
+
+PACMAD CONSENSUS:
+Length: 564 aa
+
+MAVALRFPGVARESPAALAiRAASKLGREQhSVCASARPGAQCWRRRGLVVRCQTGAAAV
+LktEEATAAAAArKAqTGFTVVMKFGGSSLASAERMREVADLILSFPEETPVVVLSAMGK
+TTNNLLLAGEKAVSCGAPKASEIPELAVIKDLHLRTIDELGLDRSIVSGLLDELEQLLKG
+VAMMKELTLRTRDYLVSFGECMSTRIFAAYLNKLGKKARQYDAFDIGFITTDDFTNADIL
+EVTYPAVAKRLhGDWMDDPAIPIVTGFLGKGCKSCAVTTLGRGGSDLTATTIGKALGLRE
+IQVWKDVDGVLTCDPNIYANAIPVPYLTFDEAAELAYFGAQVLHPQSMRPARDGDIPVRV
+KNSYNRHAPGTVITKSRDMSKSILTSIVLKSNVTMLDIVSTRMLGQYGFLAKVFSIFEDL
+GISVDCVATSEVSISLTLDPSKLWSRELIQQELDHVVEELEKFAVVHLLQRRSIISLIGN
+VQRSSLILEKAFNVLRRNGVNVQMISQGASKVNISLVVNDSEAKQCVQALHSAFFENGFL
+SEVEGADVPQNGASLNSNGAIYGN
+
+================================================================================

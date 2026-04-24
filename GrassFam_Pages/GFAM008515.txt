@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM008515
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             477.0 aa
+Family Size (Extended Family Size): 21 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11902:SF56
+Panther Family ID:               PTHR11902
+Modal Panther ID:                PTHR11902:SF56
+Modal Panther Description:       CYTOSOLIC ENOLASE 3
+Modal Panther Family ID:         PTHR11902
+Modal Panther Fam Desc:          ENOLASE
+Interpro Signature Accession:    cd03313; G3DSA:3.20.20.120:FF:000002; G3DSA:3.30.390.10; G3DSA:3.20.20.120; TIGR01060; PTHR11902; PIRSF001400; PR00148; PF00113; PF03952; SFLDS00001; SM01193; SM01192; SSF51604; SSF54826
+Interpro Signature Description:  enolase; Enolase 1; -; phosphopyruvate hydratase; ENOLASE; Enolase; Enolase signature; Enolase, C-terminal TIM barrel domain; Enolase, N-terminal domain; Enolase_N_3; Enolase_C_3; Enolase C-terminal domain-like; Enolase N-terminal domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: cytosolic enolase 3%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: cytosolic enolase 3
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: cytosolic enolase 3%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: cytosolic enolase 3-like; cytosolic enolase 3-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: cytosolic enolase 3
+  Gene Descriptions: cytosolic enolase 3
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: cytosolic enolase 3
+  Gene Descriptions: cytosolic enolase 3
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: cytosolic enolase 3-like
+  Gene Descriptions: cytosolic enolase 3-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: cytosolic enolase 3-like; cytosolic enolase 3-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: cytosolic enolase 3%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: cytosolic enolase 3
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: enolase%2C transcript variant X1
+  Gene Synonyms: GRMZM2G131539
+  Gene Descriptions: enolase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 477 aa
+
+MSVQEYLEKHLLSRKIEEAVNAAVRAKAPDPVLFISgHMRRAAPAVITRVRARQILDGRG
+APAVEVELHTNKAVHRASAAGAGAPEGAAADAARDaERRKLLARAVADAVRVINDKVSEA
+LVGMDPQQQAQIDQAIMDLDKARHKAElGANAMLAVSIAACKAGAAEKEVPLYKHIADLV
+GKSATTLPVPAITVINGGTHAGNgLPIQEIMILPVGAKNFEEAMQMGSETYHHLKDIILE
+KYGSDSCNIGDDGGFAPNISSISEGLDLVIAAIERAGYNGRIKLAIDVAATDFCVGKKYD
+LEFKSAKKSGQNFKTADDMIEIYSQLCSEYPLVSIEQPFDKDDWEHSKKFTTLELCQVVG
+DDLLMSDPERIKRAVNEYTCNALVLKANQVGTVTEAIEVVKQAKDAHWGVMVSHRSGDTE
+DSFIADLAVGAAAGQIKAGAPCRGECLTKYNQLLRIEEELGSEGVYAGENWRTTSTS
+
+
+BOP CONSENSUS:
+Length: 476 aa
+
+MSVQEYLEKHLLPRKIEEAVNAAVRAKAADPVLFISTHMRRAAPAVITRVCARQILDSRG
+APAVEVDLHTNKAVHRASAAGPGAPEGAAVDATRDAEKRRLLAKAVADAVRLINGKVSEA
+LVGMDPQQQAQIDQAIMDLDKAHHKTEVGANAMLAVSIAACKAGAAEKEVPLYKHIADLV
+GKSATTLPVPAITVINGGTHAGNSLPIQEIMILPVGAKNFEEAMQMGSETYHHLKDIIWE
+KYGSDSCNIGDDGGFAPNISSITEGLDLVIAAIDRAGYNGRIKLAIDvAATDFCVGKKYD
+LEFKSAKKSGQNFKTGDDMIEIYSQLCSEYPLVSIEQPFDKDDWEHSKKFTTLELCQVVG
+DDLLMSDPERIKRAVNEYTCDALTLKANQVGTVTEAIEVVKQAKDAHWGVMVSHRSGDTD
+DSFIADLAVGAAAGQIKAGAPCRGECLTKYNQLLRIEEELGSEGVYAGENWRTTAS
+
+
+PACMAD CONSENSUS:
+Length: 477 aa
+
+MSVQEYLEKHLLSRKIEEAVNAAVRAKAPDPVLFIAGHMRRAAPAVITRVRARQILDGHG
+APAVEVELHTNKAVHRASAAGAGAPEGAAADAAGDSERRKILARAVADAVRVINDKVSEA
+LVGMDPQQQAQIDQAIMDLDKARHKAELGANAMLAVSIAACKAGAAEKEVPLYKHIADLV
+GKSATTLPVPAITVINGGKHAGNGLPIQEIMILPVGAKNFEEAMQMGSETYHHLKDIILE
+KYGSESCNIGDHGGFAPNISSISEGLDLVIAAIERAGYNGRIKLAIDVAATDFCVGKKYD
+LEFKSTKKSGQNFKTADDMIEIYSQLCSEYPLVSIEQPFDKDDWEHSKKLTTLELCQVAG
+DDLLMSDPERIKRAVNEYTCNALVLKANQVGTVTEAIEVVKQAKDAHWGVMVSHRSGDTE
+DSFIADLAVGAAAGQIKAGAPCRGECLTKYNQLLRIEEELGSEGVYAGENWRTASTS
+
+================================================================================

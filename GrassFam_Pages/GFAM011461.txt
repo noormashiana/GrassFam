@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM011461
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             605.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               Conflicted
+Modal Panther ID:                PTHR47972:SF9
+Modal Panther Description:       KINESIN-LIKE PROTEIN KIN-14U
+Modal Panther Family ID:         PTHR47972
+Modal Panther Fam Desc:          KINESIN-LIKE PROTEIN KLP-3
+Interpro Signature Accession:    G3DSA:3.40.850.10:FF:000074; G3DSA:3.40.850.10; PTHR47972; PR00380; PF00225; SM00129; SSF52540
+Interpro Signature Description:  p-loop containing nucleoside triphosphate hydrolase superfamily protein; Kinesin motor domain; KINESIN-LIKE PROTEIN KLP-3; Kinesin heavy chain signature; kinesin_4; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: kinesin-like protein KIN-14O%2C transcript variant X2
+Ata
+  Gene count: 2
+  Modal chromosome: Ata01D
+  Gene Products: kinesin-like protein KIN-14O%2C transcript variant X1
+Tae
+  Gene count: 4
+  Modal chromosome: Tae01B
+  Gene Products: kinesin-like protein KIN-14O; kinesin-like protein KIN-14O%2C transcript variant X2; kinesin-like protein KIN-14O%2C transcript variant X6
+Ola
+  Gene count: 1
+  Modal chromosome: Ola11
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: kinesin-like protein KIN-14O
+  Gene Descriptions: kinesin-like protein KIN-14O
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: kinesin-like protein KIN-14O%2C transcript variant 1
+  Gene Synonyms: KIN14O,OsJ_28899
+  Gene Descriptions: kinesin-like protein KIN-14O
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 2
+  Modal chromosome: Pau12
+  Gene Products: kinesin-like protein KIN-14O%2C transcript variant X2
+  Gene Descriptions: kinesin-like protein KIN-14O
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi08K
+  Gene Products: kinesin-like protein KIN-14O; kinesin-like protein KIN-14O%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: kinesin-like protein KIN-14O%2C transcript variant X2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: kinesin-like protein KIN-14O
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: kinesin-like protein KIN-14O%2C transcript variant X5
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 606 aa
+
+MEKEAMGGHVMVPLEsLSLELPNGEIVVGYDKDISaLQEEISALRSRQRHLDRRRREALD
+KLIDLKGSIRVFCRVRPLISTNNlKtKSPVTVEQEKIAVrsVGIKKEFSVDRVFDQESTQ
+EDVFqEVKPILRSALDGHNVCILAYGQTGTGKTYTMEGTdGKLGIVPRAIQELFSHASqD
+SSSTYSFSISMLEVYLGSLRDLLAPRQPLFRSTECNTaCNLSILATKSGAVEVEGLTDVS
+IPDLKKANQWYCRGRRARSTSWTNVNDVSSRSHCLTRITIRRCGGvTEEVSKLWLVDLGG
+SERLLKTGASGLTMDEGKAINLSLSALGDVIAALRRKRSHVPYRNSKLTQILSDSLGDGS
+KVLMVVHISPSEDDVGETVCSLsFAKRARSIESNRElSEDLKMLKQKRLAELDKEICDAE
+eELKyLNEQIRRAEiSLEEKKKLsSSVCQALSDEKGSPRSTLVVGHIDAtESPQATEKAK
+SRvSHGSVPHFMSSTVCSRQRHsAGSHSVSKPRLTKSVNRYPAELSGSQSFSYSSCKNAA
+KARSVAFSSSVPKLKCLPVKSDQINiSSNSIDSTAASAPRRRESFvSRPVQRAPLHQHRR
+RMSSLT
+
+
+BOP CONSENSUS:
+Length: 606 aa
+
+MEKEAMGGHVNVMLPLENLSSDLPNGGIVLGHDKEISTLQEEISALRSRQRHLNRRRREA
+LDKLIDLKGSIRVFCRVRPSISTSNIKIKSPVTVEQENIvVRAVGIKKDFSVDRVFDQES
+TQDDVFHEVKPILRSALDGHNVCILAFGQTGTGKTYTMEGTSDNLGvVPRAIQELFSHAA
+QDTSSTYSFSISMLEVYMGSLRDLLAPRQQPLFRSTEGNTTCNLSILATTSGSVQVEGLT
+DVAVPDLKKANQWYCRGRRSRSTSWTNVNNVSSRSHCLTRITIRRCGGVTEQVSKLWLVD
+LGGSERLLKTGASGLTMDEGKAINLSLSALGDVIAALRRKRSHVPYRNSKLTQILSDSLG
+DGSKVVMVVHISPSKDDVGETICSLGFAKRARLIESSRELSEDLKMLKRKRLAELDKEIC
+DAEQELgVLNEQIRSAETSlEERKKLSPSVCQALSDEKGSPRSILVvGHIDAADSPQATE
+RAKSRMVHHGSVPHFMSATVCSRQRHGAAsHSVsKPRLTRSVNrYSSKPSGSQSFSHSAS
+KARSVAFSSGEPRLKYLSVKSDQINVSSNSIDSTAASAPRPRESFVSRPVQRAPLHQHRR
+RMSCLT
+
+
+PACMAD CONSENSUS:
+Length: 605 aa
+
+MEKEAMGGHVMVPLESLSLELPNGEIVVGYDKDISALQEEISALRSRQRHLDRRRREALD
+KLIDLKGSIRVFCRVRPLVQTNNLKTKSPVTVEQEKIAVKSVGIKKEFSVDRVFDQESTQ
+EDVFQEVKPILRSALDGHNVCILAYGQTGTGKTYTMEGTDGKLGIVPRAIQELFSHASED
+SSSTYSFSISMLEVYLGSLRDLLAPRQPLFRPTECSTACNLSILATKSGAVEVEGLTDVS
+IPDLKKANQWYCRGRRARSTSWTNVNDVSSRSHCLTRITIRRHGATEEVSKLWLIDLGGS
+ERLLKTGASGLTMDEGKAINLSLSALGDVIAALRRKRSHVPYRNSKLTQILSDSLGDGSK
+VLMVVHISPSEDDVGETVCSLSFAKRARSIESNRDIPEDLKMLKQKRLAELDKEICnAEE
+ELKYLNEQIRRAEISLEEKKKLtSSvCQALSDEKGSPRSTLVVGHIDATESPHATEKAKS
+RvSHGSVPHFMSSTVCSRQRHSAGSHSVSKPRLTKSVNRYPAELSGSQSFSYSSCKNAAK
+ARSVAFSSSVPKMKCLPVKSDQINISSNSIDSTAASAPRRRESFGSRPVQRAPLHQHRRR
+MSSLT
+
+================================================================================

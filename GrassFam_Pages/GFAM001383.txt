@@ -1,0 +1,119 @@
+================================================================================
+GrassFam ID: GFAM001383
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             465.0 aa
+Family Size (Extended Family Size): 14 (15) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48049:SF163
+Panther Family ID:               PTHR48049
+Modal Panther ID:                PTHR48049:SF163
+Modal Panther Description:       GLYCOSYLTRANSFERASE
+Modal Panther Family ID:         PTHR48049
+Modal Panther Fam Desc:          GLYCOSYLTRANSFERASE
+Interpro Signature Accession:    cd03784; G3DSA:3.40.50.2000:FF:000037; G3DSA:3.40.50.2000:FF:000088; G3DSA:3.40.50.2000; PTHR48049; SSF53756
+Interpro Signature Description:  GT1_Gtf-like; Glycosyltransferase; Glycogen Phosphorylase B;; GLYCOSYLTRANSFERASE; UDP-Glycosyltransferase/glycogen phosphorylase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: UDP-glycosyltransferase 91B1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: UDP-glycosyltransferase 91D2-like
+Tae
+  Gene count: 2
+  Modal chromosome: Tae04B
+  Gene Products: UDP-glycosyltransferase 91C1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: UDP-glycosyltransferase 91B1-like
+  Gene Descriptions: UDP-glycosyltransferase 91B1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: UDP-glycosyltransferase 91B1
+  Gene Descriptions: UDP-glycosyltransferase 91B1
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau03
+  Gene Products: putative UDP-rhamnose:rhamnosyltransferase 1
+  Gene Descriptions: putative UDP-rhamnose:rhamnosyltransferase 1
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: putative UDP-rhamnose:rhamnosyltransferase 1; putative UDP-rhamnose:rhamnosyltransferase 1%2C transcript variant X4
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: UDP-glycosyltransferase 91B1-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: UDP-glycosyltransferase 91B1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 461 aa
+
+MDgAsSrQSpMHVVIFPWLAFGHLLPCLELAERLAARGHRVSFVSTPRNLARLPPVRPAL
+APLVDLVALPLPRVDGLPDGAESTSDVPfDKFELHRKAFDGLAAPFAAFLDAACAgGRRP
+DWVlADFvHHWVAAAAQDRkVPCAMLLPCAAgIaAsAGPPPEStAeQRQAIvrSMaAAPR
+FEAEQAtElFATEGASGvSVmsRFFlTLqRSKFVAlRSCPELEPeAFPLLTRLYGKPAVP
+LGLLPPpPDGARGASkngeDDAIMrWLDAQPAKSVVYVALGSEAPLRAELLRELAHGLEL
+AGTRFLWALRKPVGVdeDsILPdGFvERTGeRGLVATRWVPQVSILAHGAVGAFLTHCGW
+GSVVEGLQFGHPLIMLPIlGDQGPNARLMEGRKVGVqVPRNEkDGSFDRhGVAGAVRAVv
+VEEEGrVFAANARKLQEIVADRECqERCIDeFVQHLRSCrn
+
+
+BOP CONSENSUS:
+Length: 461 aa
+
+MDAAhSSSSPLHVVIFPWLAMGHLLPCLELAERLAARGHRVSFVSTPRNLARLPPVRPAL
+APLVDLVALPLPRVDGLPDGAESTSDVPFDKFDLHRKAFDGLAAPFAAFLDTACAGGRRP
+DWVVADFVHHWVAAASQEREVPCAMLLPCAAGVAALSGPPPESsADERQAIVRSMDAAPR
+FEAERATEEFAAEGASGVSIMtRYFMTLKRSKLVAMRSCPELEPDAFPLLTRLYGKPAVP
+LGLLPPPPDGARGASkNskDDAIMQWLDAQPAKSVVYVALGSEAPLRAELLRELAHGLEL
+AGTRFLWALRKPVGVDADSVLPDGFVERTGERGLVTTRWVPQVSILAHGAVGAFLTHCGW
+GSVVEGLQFGHPLIMLPILGDQGPNARLMEERKVGVLVPRNEKDGSFDRGGVAGAVRAVV
+VEEEGRVFAANAKKLQEIVASRECnERCIDlFVQHLRSCrE
+
+
+PACMAD CONSENSUS:
+Length: 465 aa
+
+MDGADGSaMHVVIFPWLAFGHLLPGLELAERLAARGHRVSFVSTPRNLARLPPVPPALAP
+RVDLVALPLPRvDGLPDGAESTSDVPyDKFELHRKAFDGLAAPFAAFLDAACAAGprRRP
+DWVLADNIHHWVAAAAQDRNVPCAMLVHCPASIFASAGQPrPEDShAGQQRQAIGqSQSA
+APRFEAQQARnLYATEGASGPSVISRFVQTLrRSSFVAlRTCPELEPEALSRLPTLYGKP
+AVPLGLLPPSPDGTRGVSrsTEnDATMRWLDAQPAKSVVYVALGTEVPLSIELLRELALG
+LELAGTRFLWALRKPVGVqEDDILPPGFEERTRGRGLVATRWVPQVSVLAHGAVGAFLTH
+CGWNSIVEGLQFGHPLIMLPIHGDQGPNARLMEGRQVGVQVPRNEkDGSFDRHGVARAVR
+AVMvEEESKVLVTNARKLQEIVADRACQERCIDvFVQRLRSCCsG
+
+================================================================================

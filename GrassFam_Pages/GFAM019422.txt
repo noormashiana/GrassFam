@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM019422
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             314.0 aa
+Family Size (Extended Family Size): 23 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR42811:SF29
+Panther Family ID:               PTHR42811
+Modal Panther ID:                PTHR42811:SF29
+Modal Panther Description:       SERINE ACETYLTRANSFERASE 3-RELATED
+Modal Panther Family ID:         PTHR42811
+Modal Panther Fam Desc:          SERINE ACETYLTRANSFERASE
+Interpro Signature Accession:    cd03354; G3DSA:1.10.3130.10:FF:000008; G3DSA:2.160.10.10:FF:000002; G3DSA:1.10.3130.10; G3DSA:2.160.10.10; NF041874; TIGR01172; PTHR42811; PF06426; SM00971; SSF51161
+Interpro Signature Description:  LbH_SAT; Probable serine acetyltransferase 4; Serine acetyltransferase; serine acetyltransferase, domain 1; Hexapeptide repeat proteins; serine O-acetyltransferase EpsC; serine O-acetyltransferase; SERINE ACETYLTRANSFERASE; Serine acetyltransferase, N-terminal; SATase_N_2_a; Trimeric LpxA-like enzymes
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: probable serine acetyltransferase 4
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: probable serine acetyltransferase 4
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: probable serine acetyltransferase 4
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: probable serine acetyltransferase 4
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl03
+  Gene Products: probable serine acetyltransferase 3; probable serine acetyltransferase 4
+  Gene Descriptions: probable serine acetyltransferase 3; probable serine acetyltransferase 4
+Osa
+  Gene count: 2
+  Modal chromosome: Osa03
+  Gene Products: probable serine acetyltransferase 3; probable serine acetyltransferase 4
+  Gene Synonyms: SAT3; SAT4
+  Gene Descriptions: probable serine acetyltransferase 3; probable serine acetyltransferase 4
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: probable serine acetyltransferase 4
+  Gene Descriptions: probable serine acetyltransferase 4
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: probable serine acetyltransferase 4
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: probable serine acetyltransferase 4
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: probable serine acetyltransferase 4
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: serine acetyltransferase 2
+  Gene Synonyms: GRMZM2G013430,sat2
+  Gene Descriptions: serine acetyltransferase 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 315 aa
+
+MAACVDKWhPTHaGRLSsAIYRFLPDCTtTDRPVpAAApasGSGCCvgGDDVWDELRAEA
+QADADAEPLLRKFYaDLVLSRPSLEAALAAHLSAKLCIPGALPQDALRDLLAGALAAHPE
+AGRAARADLLAARDRDPACaKMVHCFLYYKGFLALQAHRAAHALWSEGRrAPALLLQSRA
+SEVFGVDIHPGARIGcGILLDHATGVVIGETAVVGNDVSILHGVTLGGTGKESGDRHPKV
+GDGVLIGAGASVLGNVRIGAGAKIGAGAVVLRDVPeGTTAVGNPAKAIGKKAAPQRRPEE
+QPGVTMEQRWSDYVI
+
+
+BOP CONSENSUS:
+Length: 313 aa
+
+MAACVDKWNPAYSCHRLSRSIYRFMPDCTvTAPVGAAVNGNGCCNGGDEVWEELYAEAQA
+DAqDEPLLGMFYsELVLSRPSLEAALAAHLSAKLCIPGALPQDALRDLLAGALAAHPEAs
+RHTRADLLAARDRDPACAKMVHCFLYYKGFLALQAHRAAHALWSEGRRPPALLLQSRASE
+VFGVDIHPGARIGGGILLDHATGVVIGETAVIGDDVSILHGVTLGGTGKASGDRHPKVGD
+GVLIGAGASVLGNVRIGDGAKIGAGAVVLRDVACGTTAVGNPAKPIGKKAAPSRRPEEQP
+GVTMEQRWSDYVI
+
+
+PACMAD CONSENSUS:
+Length: 315 aa
+
+MAACVDKWHPTHAGRLSSAIYRYLPDrATDRAVpAAAPASASGGCCVRGDDVWDELRAEA
+QADADAEPLLRKFYGDLVLSRPSLEAALAAHLSAKLCVPGALPQDALRDLLAGALAAHPE
+AGRAARADLLAARDRDPACdRMVHCFLYYKGFLALQAHRAAHGLWSDGRaAAALLLQSRA
+SEVFGVDIHPGARIGCGILFDHATGVVIGETAVVGNDVSILHGVTLGGTGKESGDRHPKV
+GDGVLIGAGASVLGNVHIGAGAKIGAGAVVLRDVPEGTTAVGNPAKAIGKKAAPQRRPEE
+QPGVTMEQGWSDYVI
+
+================================================================================

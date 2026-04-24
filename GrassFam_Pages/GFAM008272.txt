@@ -1,0 +1,128 @@
+================================================================================
+GrassFam ID: GFAM008272
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             479.0 aa
+Family Size (Extended Family Size): 17 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10177:SF588
+Panther Family ID:               PTHR10177
+Modal Panther ID:                PTHR10177:SF588
+Modal Panther Description:       CYCLIN-A1-4
+Modal Panther Family ID:         PTHR10177
+Modal Panther Fam Desc:          CYCLINS
+Interpro Signature Accession:    cd20562; G3DSA:1.10.472.10:FF:000167; G3DSA:1.10.472.10:FF:000013; G3DSA:1.10.472.10; PTHR10177; PIRSF001771; PF00134; PF02984; SM00385; SM01332; SSF47954
+Interpro Signature Description:  CYCLIN_AtCycA_like_rpt1; Mitotic cyclin 6; Cyclin A1; -; CYCLINS; Cyclin_A_B_D_E; Cyclin, N-terminal domain; Cyclin, C-terminal domain; cyclin_7; Cyclin_C_2; Cyclin-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: cyclin-A1-4-like
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: cyclin-A1-4%2C transcript variant X3
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: cyclin-A1-4-like; cyclin-A1-4-like%2C transcript variant X1
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: cyclin-A1-4%2C transcript variant X2
+  Gene Descriptions: cyclin-A1-4
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: cyclin-A1-4-like%2C transcript variant 2
+  Gene Synonyms: CYCA1-4,CycA1%3B4,OJ1384_A02.11
+  Gene Descriptions: cyclin-A1-4-like
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN213
+Pau
+  Gene count: 1
+  Modal chromosome: Pau11
+  Gene Products: cyclin-A1-4-like%2C transcript variant X1
+  Gene Descriptions: cyclin-A1-4-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi03N
+  Gene Products: cyclin-A1-4-like%2C transcript variant X5
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: cyclin-A1-4-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: cyclin-A1-4
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: cyclin-A1-4%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 479 aa
+
+MSsWAAGRRSSASATAENAGARGAKAAAreGKRVALGNLTNVfRGGGRsSAaDAKLSSTK
+SVdyVKKGSFASLrNVNTeRGSsRKpTSDQFDrAvSHHGsALQKENvSlPSVPdvVPTGg
+SSPGLSqDSVSMEDAMSTCNSvESsDLefLDDgDSSvAaSLHcWAnDKLHiSDSrDVAaf
+nWRKHSPtPmKnDNIFDIDnNyEDPqLCaTLACDIYKhLREAETrKRPSTdFVETTQtDM
+STSMRAVLIDWLVEVTEEYRLVPETLYLTVNYIDRYLSvKEINRhRLQLLGVACLLIAAK
+YEEICPPQVEELCYITDnSYTKDEVLQMEASVLNyLKFEMTAPTaKCFLRRFvrAAQVCh
+EGStLHLEFLANYICELSLLEYSLLCYvPSLVAASSVFLAkFILKPTKNPWNSTLSYYTQ
+YTPSELRgCVRVLHRLFRvGPGSNLPAIREKYSQHKYKFVAKKYCPPSIPteFFQDAtS
+
+
+BOP CONSENSUS:
+Length: 476 aa
+
+MSSRPAGRRSSASATAETAGARAAKAASLENRRAALGNLTNVAGGRTGAADVKSSSSNSV
+AYVKKGSSASLPNVNRKVASATKPTFDRFERAISHHGNALQKENVCCLSVPTLAPHGSWP
+GLSHDSVSMEDDMLTCNSVESPGPpFLDNAASSVATSLRRCANDKLPVSDNRDTTVSRWR
+KHCPTPIENDNIFEIETNCKDPQLCSTLACDIYKHLREAETKKRPSPDFVETTQKDIDTS
+MRAVLIDWLVEVTEEYRLVPETLYLTVSYIDRYLSSKEINRDKLQLLGVACLLIAAKYEE
+ICPPQVEELCYITDNTYIKDEVLrMEASILGCLKFEMTAPTtKCFLRRFLHAAQVCHEGP
+ALHLEFLASYITELSLLEYSLLCYVPSLIAASSIFLANFILKPTKNPWNTTLSYHTQYKP
+STLRDCVKVLHRLFRVGLGSNLPAIREKYSQHKYKFVAKKYCPPSIPAnFFQDASS
+
+
+PACMAD CONSENSUS:
+Length: 483 aa
+
+MSCWAAGRRSSASAMAENAGARGAKEAVARSGKRVALGNLTNVFRGgwRSGAANSASDAK
+LSSTKPVDVKKGSFAsLRNVNTERGSsRrLASDQFDwAVSHHDSVLQqKNtSLPSVPDVV
+STGCSSPGLSqDSVSMEDAMSTCNStESSDLECLDDdDSSMAASLHCWASDKLHiSDSMD
+VAAFNWRKHSPiPMKADNIsDLDNNYEDPRLstTLAyEIYENLREAETRKMPSTNFVETT
+QTDMSTTMRAmLIDWLVEVTEEYRLVPETLYLTVNYIDRYLSVKEISRhRLQLLGVACLL
+IAAKYEEICPPQVEELCYvTDySYTKEEVLQMEASVLNyLKFEMTVPTAKCFLRRFVrAA
+QVlDkGSTLHLEFLANYICELSLLEYSLLCYLPSLVAASSVFLAKFILMPtKNPWNSSLS
+YYTQYTPSELRGCVRVLHRLFRlGPGSNLPAIREKYSQHKYKFVAKKYCPPSIPTkFFQD
+ATS
+
+================================================================================

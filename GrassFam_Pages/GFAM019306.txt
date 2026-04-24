@@ -1,0 +1,131 @@
+================================================================================
+GrassFam ID: GFAM019306
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             425.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22883:SF471
+Panther Family ID:               PTHR22883
+Modal Panther ID:                PTHR22883:SF471
+Modal Panther Description:       S-ACYLTRANSFERASE
+Modal Panther Family ID:         PTHR22883
+Modal Panther Fam Desc:          ZINC FINGER DHHC DOMAIN CONTAINING PROTEIN
+Interpro Signature Accession:    PTHR22883; PF01529
+Interpro Signature Description:  ZINC FINGER DHHC DOMAIN CONTAINING PROTEIN; DHHC palmitoyltransferase
+
+
+REXdb Match:                     False
+REXdb Percentage:                5.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: probable protein S-acyltransferase 1%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: probable protein S-acyltransferase 1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: probable protein S-acyltransferase 1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: probable protein S-acyltransferase 1; probable protein S-acyltransferase 4
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: probable protein S-acyltransferase 4
+  Gene Descriptions: probable protein S-acyltransferase 4
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: probable protein S-acyltransferase 4
+  Gene Descriptions: probable protein S-acyltransferase 4
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 1
+  Modal chromosome: Pau01
+  Gene Products: probable protein S-acyltransferase 4
+  Gene Descriptions: probable protein S-acyltransferase 4
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: probable protein S-acyltransferase 4
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: probable protein S-acyltransferase 4%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: probable protein S-acyltransferase 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: probable protein S-acyltransferase 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 413 aa
+
+MGEeEPnRRRLYQVWkGSNKFLCGGRLIFGPDAGSLFLSTVLIAsPLVGLCFQCITKLNS
+sSSEKQVLGLPVLIATILLGLADLAFLFLTSSRDPGIVPRNARPPEcGDdeqvAdDVtTP
+STEWVsAASPHLRLPRTRDVVVNGHVVRVKYCDTCLLYRPPRASHCSICNNCVQKFDHHC
+PWVGQCIGLRNYRFFFLFISTSTFLCLYVFALSWLNIAAQReSHGGSLLRSMtGEPLSVV
+LIVYTFVSVWFVGGLTVFHLYLMSTNQTTYENFRYRYDKKENPYNRGVLANISEVFCTGM
+PPSMNRFRSWVelPePEAfddGGPLSSRNKgiDLEMGRKGVHYSPGGVPAILQGLDYaEM
+EKNgVSVHIKDRQAAEAPDPFMIPeArQHDvGCGgGErSPttVHDQDAEaNSE
+
+
+BOP CONSENSUS:
+Length: 425 aa
+
+MEEEPNRRRLYQVWRGSNKFLCGGRLIFGPDAGSLFLSTVLIiGPLVGLCCQCITKMNSS
+TSDQKKNVLGLPVLIATVVLGLADLAFLLLTSSRDPGIVPRNARPPECGDEQQVVDMTTP
+STEWVNAASPHLRVPRSKDVVVNGCVVKVKYCDTCLLYRPPRTSHCSICNNCVQKFDHHC
+PWVGQCIGLRNYRFFFLFISTSTLLCFYVFALSWLNIAAEREEYGGSLLKSMGGEVLSVV
+LIVYTFVSVWFVGGLTVFHLYLMSTNQTTYENFRYRYDKKENPYNRGALANIAEVFCTRM
+PPSLNRFRSWVSEDDDAYgGGGVLSPMSGGLDLEMGRKGVHYSPGGIPAILQGMDYSEME
+KMDgVGVHVKDRQAAPEAPDLFVISPARQHDVGCGGGGGGERSPATVQDQDAERTLVSSN
+ANSER
+
+
+PACMAD CONSENSUS:
+Length: 408 aa
+
+mMGEPaPDRRRLYQVWKGSNKFLCGGRLIFGPDAGSLFLSTVLIASPLVGLCFQCVTKLN
+SGSSEKQpLGLPVLvATILLGLADLAFLFLTSSRDPGIVPRNARPPErgEGDDDpaPAAA
+ADDDVATPSTEWVMTSAANPHLRLPRTRDVAVAGGHVVRVKYCDTCLLYRPPRASHCSIC
+NNCVQKFDHHCPWVGQCIGLRNYRFFFLFISTSTFLCLYVFVLSWLNIAAQRGSHGGSLL
+RSMTGEPLSLVLIVYTFVvAWFVGGLTVFHIYLMSTNQTTYENFRYRYDKKENPYNRGVL
+ANISEVFCTGMPPSMNNFRAWVELPEPPEAFDGGPLsSRNKIDLVGPDEDLEMGyKqlPg
+GVPAILQGLHYAEMEKNSASVHIKDRQSAEAPDPFMIPEAPpHdgeVE
+
+================================================================================

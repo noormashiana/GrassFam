@@ -1,0 +1,125 @@
+================================================================================
+GrassFam ID: GFAM017004
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             314.0 aa
+Family Size (Extended Family Size): 46 (49) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Weak
+Panther Family ID:               PTHR31388
+Modal Panther ID:                PTHR31388:SF13
+Modal Panther Description:       PEROXIDASE
+Modal Panther Family ID:         PTHR31388
+Modal Panther Fam Desc:          PEROXIDASE 72-RELATED
+Interpro Signature Accession:    cd00693; G3DSA:1.10.520.10:FF:000009; G3DSA:1.10.420.10:FF:000006; G3DSA:1.10.520.10; G3DSA:1.10.420.10; PTHR31388; PR00461; PR00458; PF00141; SSF48113
+Interpro Signature Description:  secretory_peroxidase; Peroxidase; -; Peroxidase, domain 2; PEROXIDASE 72-RELATED; Plant peroxidase signature; Haem peroxidase superfamily signature; Heme-dependent peroxidases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: peroxidase; peroxidase 1
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu02H
+  Gene Products: peroxidase 1; peroxidase 1-like; peroxidase-like
+Ata
+  Gene count: 3
+  Modal chromosome: Ata02D
+  Gene Products: peroxidase; peroxidase 1; peroxidase-like
+Tae
+  Gene count: 11
+  Modal chromosome: Tae02A
+  Gene Products: peroxidase; peroxidase 1; peroxidase 1-like; peroxidase-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 4
+  Modal chromosome: Ogl07
+  Gene Products: peroxidase 2; peroxidase 2-like; peroxidase 22.3; peroxidase 22.3-like
+  Gene Descriptions: peroxidase 2; peroxidase 2-like; peroxidase 22.3; peroxidase 22.3-like
+Osa
+  Gene count: 4
+  Modal chromosome: Osa07
+  Gene Products: Peroxidase 2; peroxidase 22.3-like; uncharacterized protein
+  Gene Synonyms: OJ1167_G06.125,OJ1167_G06.126,OJ1409_C08.1,OsJ_25570,peroxidase,POXGX9; OJ1167_G06.128,OJ1167_G06.129,OJ1409_C08.3,OJ1409_C08.4,peroxidase
+  Gene Descriptions: Peroxidase 2; peroxidase 22.3-like; uncharacterized LOC124849265; uncharacterized LOC4344281
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu04
+Svi
+  Gene count: 2
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: peroxidase 2-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha02
+  Gene Products: peroxidase 2-like; peroxidase 66-like
+Msi
+  Gene count: 4
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: peroxidase 42
+Zma
+  Gene count: 3
+  Modal chromosome: Zma02
+  Gene Products: Peroxidase 52; uncharacterized LOC100101533%2C transcript variant X1; uncharacterized LOC541674
+  Gene Synonyms: GRMZM2G126261,pco073925,PER42,pmPOX3-1,POX3-1,PRX42; GRMZM2G133475,PER66,pmPOX3-2,POX3-2,PRX66; GRMZM2G450717
+  Gene Descriptions: Peroxidase 52; uncharacterized LOC100101533; uncharacterized LOC541674
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 312 aa
+
+MMASASCLSLVVLVALASAASAQLSsTFYDTSCPRALATIKSGVtAAVsSEPRMGASLLR
+LHFHDCFVQGCDASVLLSGnEQNAgPNaGSLRGFgVIDnIKTQVEAICkQTVSCADILTV
+AARDSVVALGGPSWTVPLGRRDSTtAnaalANSDLPgPtSSLaQLeaAFlKKNLntTDMV
+ALSGAHTIGQAQCsnFRDRIYNDTNINaAFATSLRANCPrSGGDgNLAPLDTTTPNAFDN
+AYYTNLLSQKGLLHSDQVLFNNGSTDNTVRNFASNaAAFSSAFTTAMVKMGNIaPLTGTQ
+GQIRLSCSKVNS
+
+
+BOP CONSENSUS:
+Length: 312 aa
+
+MMASASCISLVVLVALATAASAQLSPTFYDTSCPRALATIKSGVtAAVSSDPRMGASLLR
+LHFHDCFVQGCDASVLLSGnEQNAgPNaGSLRGFGVIDsIKTQvEAICKQTVSCADILTV
+AARDSVVALGGPSWTVPLGRRDSTtANaalANSDLPGPtSSRaqLEaAFlKKGLnTVDMV
+ALSGAHTIGQAQCsnFRdRIYNETNIDtAFATSLrANCPqSgGDGNLAPLDTTTPNAFDN
+AYYTNLLSQKGLLHSDQVLFNNDTTDNTVRNFASNaAAFSSAFTTAMIKMGNIAPLTGTQ
+GQIRLSCSKVNS
+
+
+PACMAD CONSENSUS:
+Length: 312 aa
+
+MAASASCLSLLVlVALASaASAQLSSTFYDTSCPNALSTIrSgVNAAVAQEARmGASLLR
+LHFHDCFVQGCDASVLLNDTSGEQnqpPNLgSLRGFdVIDNIKAQVEAvCPGtVSCADIL
+AVAARDSVVALGGPSWTVlLGRRDSTaSFPsqTSDLPPPTSSLQQLLSAYskKNLnpTDM
+VALSGAHTIGQAQCSSFnDHIYNDTNINsAFATSLRANCPAsGGtsLAPLDTTTPTtFDN
+AYYTNLLSQKGLLHSDQELFNNGSTDSTVRNFASSaSAFTSAFATAMVKMGNLSPLTGTQ
+GQIRltCWrVNS
+
+================================================================================

@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM008283
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             356.0 aa
+Family Size (Extended Family Size): 27 (28) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR10177
+Modal Panther ID:                PTHR10177:SF457
+Modal Panther Description:       CYCLIN-D4-2
+Modal Panther Family ID:         PTHR10177
+Modal Panther Fam Desc:          CYCLINS
+Interpro Signature Accession:    cd20543; G3DSA:1.10.472.10:FF:000034; G3DSA:1.10.472.10:FF:000040; G3DSA:1.10.472.10; PTHR10177; PF00134; SSF47954
+Interpro Signature Description:  CYCLIN_AtCycD-like_rpt1; D2/4-type cyclin; D6-type cyclin; -; CYCLINS; Cyclin, N-terminal domain; Cyclin-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: cyclin-D4-1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: cyclin-D4-1-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata05D
+  Gene Products: cyclin-D4-1
+Tae
+  Gene count: 6
+  Modal chromosome: Tae05A
+  Gene Products: cyclin-D4-1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: cyclin-D4-1
+  Gene Descriptions: cyclin-D4-1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: cyclin-D4-1-like
+  Gene Synonyms: CYCD4-1,CycD4%3B1,cyclin,OJ1005_D12.23-1,OJ1005_D12.23-2,OsCycD,OsJ_028521
+  Gene Descriptions: cyclin-D4-1-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: cyclin-D4-1-like; cyclin-D4-1-like%2C transcript variant X1
+  Gene Descriptions: cyclin-D4-1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: cyclin-D4-1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: cyclin-D4-1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: cyclin-D4-1%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: cyclin delta-2%2C transcript variant X1; cyclin-D4-1%2C transcript variant X1
+  Gene Synonyms: GRMZM2G140633
+  Gene Descriptions: cyclin delta-2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 358 aa
+
+MAPSSYEMAASILLCAEDSSSILGFGAEeEEEEVAlARaRasGePYCGELAVEFPVPSEE
+CVARwVETEAEHMPREDYAERLRAGGvDLRVRmDAIDWIWKVHTYYGFGPLTACLAVNYL
+DRFLSLYQLPEGKAWMTQLLSVACLSLAAKMEETSVPqSLDLQVGDARYVFEAKTIQRME
+LLVLSTLKWRMQAVTPFSYIDYFLHrLNGGdAPSRRAVrRSAELILCIaRGThCLdFRPS
+EIAAAVAAAVAGEEHAVDIDaACThHVhKERVSsClEAIQAtvAlGAvPpPPKTaGlSGR
+AySsSsSvPRSPTGVLDAGCLSYRSDDtstATssASSSwaDEgFDSSPVSSKRRKISR
+
+
+BOP CONSENSUS:
+Length: 354 aa
+
+MAPSYEMAASILLCAEDSSSIFGFGDGEEEAAAGARAgGSPYCGGELAVEFPLPSEECVA
+RWVATEAEHMPREDYAERLRAGGVDLRVRvDAVDWIWKVHTYYGFGPVTACLALNYMDRF
+LSLYQIPEGKAWMTQLLSVACLSLAAKMDETSVPQSIDLQAGDARYVFEAKTIQRMELLV
+LSTLKWRMQAVTPFSYLDYFLHQLSGGNAPSRQAVRdAtELILCISRGTsCLEFRPSEIA
+ATVAAAVAGEEHaAHKAACCTHVDKERVLSCHEAMIQATGAtVPPPKTAGLMGSAYSPAm
+SAPRSPTGVLDLDAGYLSCTSDGaSTTTTtASSPsASSGFDSSPVSSKRRKISR
+
+
+PACMAD CONSENSUS:
+Length: 353 aa
+
+MAPSSYEMAASILLCAEDSSSILGLGAEaEEEVLARSRTRGEPsVEFPVPSEECVAGFVE
+AEAAHMPREDYAERLRgGGLDLRVRmDAIDWIWKVHaYYnFgPLTACLAVNYLDRFLSLY
+QLPEGKAWMTQLLSVACLSLAAKMEETYVPPSLDLQVGDARYVFEAKTIQRMELLVLSTL
+KWRMQAVTPFSYIDYFLHRLNGGDAPSRRAVLRSAELILCIARGTHCLDFRPSEIAAAVA
+AAVAGEErAVDIDkACTHRVHKERVSRCLEAIQAaVALpgvtVPlPpKTEGtSSGGRASS
+SvSVPRSPTGVLDAGCLSYRSDDTTVASSaASSWCDEdDSSPVVCSKRRKISR
+
+================================================================================

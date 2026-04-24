@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM016392
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             374.5 aa
+Family Size (Extended Family Size): 30 (32) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48106:SF11
+Panther Family ID:               PTHR48106
+Modal Panther ID:                PTHR48106:SF11
+Modal Panther Description:       OS10G0561100 PROTEIN
+Modal Panther Family ID:         PTHR48106
+Modal Panther Fam Desc:          QUINONE OXIDOREDUCTASE PIG3-RELATED
+Interpro Signature Accession:    cd05286; G3DSA:3.40.50.720:FF:000053; G3DSA:3.40.50.720; G3DSA:3.90.180.10; PTHR48106; PF00107; SM00829; SSF50129; SSF51735
+Interpro Signature Description:  QOR2; Quinone oxidoreductase 1; -; QUINONE OXIDOREDUCTASE PIG3-RELATED; Zinc-binding dehydrogenase; PKS_ER_names_mod; GroES-like; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: quinone oxidoreductase
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: quinone oxidoreductase
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: quinone oxidoreductase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04B
+  Gene Products: quinone oxidoreductase-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl03
+  Gene Products: uncharacterized LOC127767657; uncharacterized LOC127786141%2C transcript variant X2
+  Gene Descriptions: uncharacterized LOC127767657; uncharacterized LOC127786141
+Osa
+  Gene count: 2
+  Modal chromosome: Osa03
+  Gene Products: uncharacterized protein; uncharacterized protein%2C transcript variant X2
+  Gene Descriptions: uncharacterized LOC4331289; uncharacterized LOC4349382
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau04
+  Gene Products: uncharacterized LOC133917153%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133917153
+Svi
+  Gene count: 2
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 5
+  Modal chromosome: Pvi09K
+  Gene Products: 2-haloacrylate reductase-like%2C transcript variant X1; quinone oxidoreductase-like; quinone oxidoreductase-like%2C transcript variant X1
+Pha
+  Gene count: 2
+  Modal chromosome: Pha09
+  Gene Products: 2-haloacrylate reductase-like%2C transcript variant X6; quinone oxidoreductase-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: quinone oxidoreductase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: quinone oxidoreductase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 373 aa
+
+MTstPcSSvflsPffssPvlptPrrSnsrpPsaRLRLRCccsdsdpMvmVKAIRVHELGG
+PEVMRWEEVEVGEPKEGEIRIRTTAIGVNFIDVYFRKGVYaAPLPFTPGMEAVGVVTAVG
+PGLTGRKVGDVVAYAGNPMGSYAQEQILPAsVAVPVPPSVDHKTAASVMLKGMTAHVLLR
+RVFKVESGHTVLVHAAAGGVGSLLCQWANALGATVIGTVSNEEKAAQAtQDGCHHVIIYT
+KEDVVTRVKEITsGKGVNVVYDSVGKDTYKASLECLASRGFLVSFGQSSGkPDPIPMSDL
+ASKSLFLTRPSLMHYTATRDELLESAGEVFANVANGVLRvRVNHTYPLSEAARAHADLEA
+RKTSGSIVLIPDT
+
+
+BOP CONSENSUS:
+Length: 373 aa
+
+MTLTPRSTLAPFQSVFsSPSaATPVAvTPRRSNSHPAARLRLRCCCSaAaMVKAIRVHEL
+GGPEALRWEeVEVGEPGDGEIRIKNTAIGVNFIDVYFRKGVYPAPLPFTPGMEAVGVVTA
+VGPGLTGRKVGDVVAYAGKPMGSYAEEQIIPAdVAVPVPPSVDHKTAAAIMLKGMTVHvL
+VRRIFKVETGHTVLVHAAAGGVGSLLCQWANALGATVIGTVSNEEKAaHAhfDGCHHVII
+YTKEDVATRVKEITgGKGVNVVYDSVGKDTYKASLECLAsRGFLVSFGQSSGSPDPISMG
+DLASKSLFLTRPSvMHYTGTRDELLESAGEVFANVANGVLRtRVNHTYPLSEAARAHADL
+EARKTSGSILLIP
+
+
+PACMAD CONSENSUS:
+Length: 380 aa
+
+mTsSPCSslvLlpFlllPslpvptPSRsKpqPPStrLRLRCHRRDstsvaMVKaKAIRVH
+ELGGPEVMRWEEVEVGePKEGEIRIRTTAIGVNFIDVYFRKGVYAAPALPFTPGMEAVGV
+VTAVGPGLTGRKVGDVVAYAGNPMGSYAQEQILPASVAVPVPPSVDHKQAASVMLKGMTA
+HVLLRRVFKVESGHTVLVHAAAGGVGSLLCQWANALGATVIGTVSNEEKAAQATQDGCHH
+VIIYTKEDVVARVKEITSGKGVNVVYDSVGKDTYKASvECLASRGFLVSFGQSSGKPDPI
+PMSDLASKSLFLTRPSLMHYTATRDELLESAGEVFANVANGVLRVRVNHTYPLSEAARAH
+ADLEGRKTSGSIVLIPDTDS
+
+================================================================================

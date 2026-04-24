@@ -1,0 +1,150 @@
+================================================================================
+GrassFam ID: GFAM009036
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             735.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31928:SF30
+Panther Family ID:               PTHR31928
+Modal Panther ID:                PTHR31928:SF30
+Modal Panther Description:       DUF936 DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR31928
+Modal Panther Fam Desc:          EXPRESSED PROTEIN
+Interpro Signature Accession:    PTHR31928; PF21647; PF06075
+Interpro Signature Description:  EXPRESSED PROTEIN; Domain of unknown function (DUF6857); Plant protein of unknown function (DUF936)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: Holliday junction resolvase MOC1%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: AF4/FMR2 family member 1-like%2C transcript variant X4
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: PHD finger protein rhinoceros%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: PHD finger protein rhinoceros-like%2C transcript variant X1; PHD finger protein rhinoceros-like%2C transcript variant X2; uncharacterized LOC123152171%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl08
+  Gene Products: uncharacterized LOC127782328
+  Gene Descriptions: uncharacterized LOC127782328
+Osa
+  Gene count: 1
+  Modal chromosome: Osa08
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4346193
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN50
+Pau
+  Gene count: 2
+  Modal chromosome: Pau16
+  Gene Products: uncharacterized LOC133895634; uncharacterized LOC133899428
+  Gene Descriptions: uncharacterized LOC133895634; uncharacterized LOC133899428
+Svi
+  Gene count: 1
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: nucleolar and coiled-body phosphoprotein 1-like; serine-rich adhesin for platelets-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: PHD finger protein rhinoceros-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: mucin-19%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100275431
+  Gene Synonyms: GRMZM2G069476
+  Gene Descriptions: uncharacterized LOC100275431
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 737 aa
+
+MASLVPGVLLKLLQHMNSDVKVAGEHRSSLLQVVSIVPALAGSDLFTNQGFYLKVSDSSH
+ATYVSLPDEQHDLILSDTIQLGQFIHVDRLEAATPVPILRGVRPVPGRHACVGNPEDLVV
+TSSSsFLGSKKAQPSiNGSKDAGALSLEKEQSKLEKLNASVKNNGTESKKPQLTKSNSSL
+SKQALNSLfDKKEVVSSKaKSTSARSTPSSPTSVHSLPASFERFSNDMKQRTKTKGAEKS
+SPSRLSLLEKAASVLKVTTAGRKSSAGNSLSNTLLSIESGPKALRRSWEGNADAKgKGNS
+DSKpAKAERKSENRSSSTPRRKPvAEEKPLHKDDSKIQTPPRKSSASAPSDDSDKvVNKH
+SSPIRRTSGVLSNPNITNLVKVAANSKKLTDASTSWTALPPSLAKLGKELLKYRDAAQMA
+AVEAMQEASAAESLLRCLSSYAEVSSSAEEQNPQPAVEQFLALHGALSRATVVTESLTKA
+TATASTATSPDRSAAGDASTADEETLAVAAERRRRAASWVGAGLATDLSAFSLYNLKPAP
+ANaaSPLAVVLVDESAKPAAAAKASPPAKSRLSPAKGKGRaGSvAAAAAAAAAVPPPEWE
+RGGGAEERGELARRLGEEARGWFLAFVERFLDADVAAAAPWDRDRAARMLPQLKRVNDWL
+SEIGKPAEtpPPPPSDADGEAAAPAANGGAAsGVPEETIERLRKKIYEYLLTNVDSAAAV
+LGGGEAApAPAANGKKG
+
+
+BOP CONSENSUS:
+Length: 731 aa
+
+MASLVPGVLLKLLQHMNSDVKVAGEHRSSLLQVVSIVPALAGSDLFTNQGFYLKVSDSSH
+ATYVSLPEDQHDLILSDTIQLGQFIHVDRLEAATPVPILRGVRPVPGRHACVGtPEDLVM
+TSSSKFLGeKKAQPPiNGSKDAGALSLEKEQSKLEKLNASVKNNGtESKKPQLTKSNSSL
+SKQALASLFDKKEVVSSKVKSNspRSTPSSPTSVHSLPASFERFSNDMKQRTKvKGADKS
+SPSKLSLLEKAASVLKVTTAGRKSSAGNSLSNTLLSlESGPKALRRSWEGKADAKvKgNS
+DSKgAKADRKSENRSTSTPRRRPPADEKPSHKDDTKIQTPPRKSTASAPSDDSDRpVNKH
+LSPIRRTSGVLSNTNITNLVKIAANSKKLTDASTSWTALPPSLAKLGKELLKYRDAAQMA
+AVEAMQEASAAESLLRCLSSYAEVSSTAEEQNPQLAVEQFLALHSAMSRATVVADSLAKA
+AAAtSTATSPDQSTAGEAASIDEESLAVAAERRRRAASWVGAGLATDLSAFSLYNLRPpP
+ANAASPLAVVLVDESVKPAATTKASPPAKSRLSPAKGKGRpvhVvAAAAAAAAPPPEWER
+GGGAEERGELARRLGEEARRWFLeFVERFLDADVAAAAPWDRDRAARMLPQLKRVNDWLS
+EIGKPPPPpPPPhDAGDEEVGAAAPATAsNGVPEETIERLRKKIYEYLLTNVDSAAAVLG
+EtSPAANGRKG
+
+
+PACMAD CONSENSUS:
+Length: 741 aa
+
+MASLVPGVLLKLLQHMNSDVKVAGEHRSSLLQVVSIVPALAGSDLFTNQGFYLKVSDSSH
+ATYVSLPDEQHDLILSDTIQLGQFIHVDRFEAATPVPILRGVRPVPGRHACVGNPEDLVV
+TSSSSFLGSKKAQPSvNGNSKDAGALSLEKEQSKLEKINASVKNNGTESKKPQLTKSNSS
+LSKQALNSLtDKKDIVSSKAKSTSARSTPSSPTSVHSLPASFDKFSNDMKQRtKTKGAEK
+PSPSRLSLLEKAASVLKATTAGRKSSVGNSLSNTlLSIESGPKALRRSWEGNADAKgKGN
+SDSKPAKAEKKSENRSSSTPRRKPVAEEKPLHKDDSKIQTPPRKSSASAPADDSDKVVNK
+HSSPIRRTSGVLSNPNITNLVKVAANSKKLTDASTSWTALPPSLAKLGKELLKYRDAAQM
+AAVEAMQEASAAESLLRCLSSYAEVSSSAEEQNPQPAVEQFLALHGALSRATVVTESLTK
+ATATASTATSPDRSAAGDASTADEETLAVAAERRRRAASWVGAGLATDLSAFSLYNLKPA
+PANiISPLAVVLVDESAKPAAAAKASPPAKSRLSPAKGKlRAGSAAAAAAAAAAAAAVPP
+PEWERGGGAEERGELARRLGEEARGWFLAFVERFLDADVAAAAPWDRDRAARMLPQLKRV
+NDWLSEIGKPAEtPPHPPSDADGEAAAPAANGGAASGVPEETIERLRKKIYEYLLTNVDS
+AAAVLGGGEvAPAPVANGKKG
+
+================================================================================

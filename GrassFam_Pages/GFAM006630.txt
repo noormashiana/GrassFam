@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM006630
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             494.0 aa
+Family Size (Extended Family Size): 29 (31) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10742:SF380
+Panther Family ID:               PTHR10742
+Modal Panther ID:                PTHR10742:SF380
+Modal Panther Description:       AMINE OXIDASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR10742
+Modal Panther Fam Desc:          FLAVIN MONOAMINE OXIDASE
+Interpro Signature Accession:    G3DSA:3.90.660.10:FF:000089; G3DSA:3.90.660.10:FF:000012; G3DSA:3.50.50.60; G3DSA:3.90.660.10; PTHR10742; PF01593; SSF54373; SSF51905
+Interpro Signature Description:  -; Polyamine oxidase 1; FLAVIN MONOAMINE OXIDASE; Flavin containing amine oxidoreductase; FAD-linked reductases, C-terminal domain; FAD/NAD(P)-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu04H
+  Gene Products: polyamine oxidase 1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: polyamine oxidase 1-like
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04B
+  Gene Products: polyamine oxidase 1-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: polyamine oxidase 1-like
+  Gene Descriptions: polyamine oxidase 1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: polyamine oxidase 1-like
+  Gene Descriptions: polyamine oxidase 1-like
+Ecu
+  Gene count: 3
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 1
+  Modal chromosome: Pau04
+  Gene Products: polyamine oxidase 1
+  Gene Descriptions: polyamine oxidase 1
+Svi
+  Gene count: 3
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi04N
+  Gene Products: polyamine oxidase 1%2C transcript variant X1; polyamine oxidase 1-like; polyamine oxidase 1-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: polyamine oxidase
+Msi
+  Gene count: 4
+  Modal chromosome: Msi13
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: polyamine oxidase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: polyamine oxidase 1
+  Gene Synonyms: GRMZM2G034152,mpao1,PAO,pao1
+  Gene Descriptions: polyamine oxidase 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 495 aa
+
+MSSSTSIALVLLLALTLAQHGSLAAtAGPRVIIVGAGMSGISAGKRLSDAGITDLLILEA
+TDHIGGRMHKqNFAGINVEVGANWVEGVNGGKMNPIWPIVNSTLKLRNFRSDFDYLAQNV
+YKEDGGLYDEDYVQKRIDRADsVEESGEKLSGTLHASGRDDMSILAMQRLYDHQPNGPAT
+PVDMVVDYYKYDYEFAEPPRVTSLQNTVPLPTFSDFGDDVYFVADQRGYEsVVYYLAGQY
+LKTDKSGKIVDPRLQLNKVVREISYSPsGVTVKTEDNSVYrADYVMVSASLGVLQSDLIQ
+FKPQLPAWKVlAIYQFDMAVYTKIFLKFPKKFWPEGKGREFFLYASSRRGYYGVWQEFEK
+QYPgANVLLVTVTDEESRRIEQQSDNQTKAEIMEVLRKMFPGKDVPDATDILVPRWWSDR
+FYKGTFSNWPIGVNRYEYDQLRAPVGRVYFTGEHTSEHYNGYVHGAYLAGIDSAEILINC
+AQKKMCKYHVQGKYD
+
+
+BOP CONSENSUS:
+Length: 495 aa
+
+MEATTAIALLLAVALALAQHASLAAGAGPRVIIVGAGMSGVSAGKRLSDAGITDLVILEA
+TDHIGGRMHKQNFAGINVEMGANWVEGVNGGKMNPIWPIVNSTLKLRNFRSDFDYLAQNV
+YKEDGGVYDETYVQKRIDRSDEVEESGKKLSGTLHPSGRDDMSILAMQRLNDHLPNGPAP
+PVDMVLDYYKYDYEFAEPPRVTSLQNTVPLPTFSNFGDDVYFVADQRGYESVVYYIAGQY
+LKADNSGNIVDPRLHLNKVVREISYSPSGVTVKTEDNSVYKADYVMVSASLGVLQTDLIQ
+FKPQLPAWKVLSIYQFDMAVYTKIFLKFPKKFWPEGKGREFFLYASSRRGYYGVWQEFEK
+QYPEANVLLVTVTDEESRRIEQQSDNQTKAEIMEVLRNMFPGKDVPDATDILVPRWWSDR
+FYKGTFSNWPIGVSRYEYDQLRAPVGRVYFTGEHTSEHYNGYVHGAYLAGIDSAEILINC
+AQKMMCKYHVQGKYD
+
+
+PACMAD CONSENSUS:
+Length: 499 aa
+
+MSSSTSSALVlAAAVLLALTLAQHGSLAATAGPRVIIVGAGMSGISAAKRLSDAGITDLL
+ILEATDHIGGRMHKkNFAGINVEVGANWVEGVNGGKMNPIWPIVNSTLKLRNFRSDFDYL
+AQNVYKEDGGLYDEDYVQKRIDRADsVEEsGEKLSGTLHASGRDDMSILAMQRLYDHQPN
+GPATPVDMVVDYYKYDYEFAEPPRVTSLQNTVPLPTFSDFGDDVYFVADQRGYEsVVYYL
+AGQYLKTDKSGKIVDPRLQLNKVVREISYSPsGVTVKTEDNSVYrADYVMVSASLGVLQS
+DLIQFKPQLPAWKVvAIYQFDMAVYTKIFLKFPKKFWPEGKGREFFLYASSRRGYYGVWQ
+EFEKQYPGANVLLVTVTDEESRRIEQQSDNQTKAEIMEVLRKMFPGKDVPDATDILVPRW
+WSDRFYKGTFSNWPIGVNRYEYDQLRAPVGRVYFTGEHTSEHYNGYVHGAYLSGIDSAEI
+LINCAQKKMCKYHVQGKYD
+
+================================================================================

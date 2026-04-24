@@ -1,0 +1,144 @@
+================================================================================
+GrassFam ID: GFAM010756
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             602.5 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43834:SF6
+Panther Family ID:               PTHR43834
+Modal Panther ID:                PTHR43834:SF6
+Modal Panther Description:       GTPASE DER
+Modal Panther Family ID:         PTHR43834
+Modal Panther Fam Desc:          GTPASE DER
+Interpro Signature Accession:    cd01894; cd01895; G3DSA:3.40.50.300; G3DSA:3.30.300.20; TIGR03594; PTHR43834; SSF52540
+Interpro Signature Description:  EngA1; EngA2; -; ribosome biogenesis GTPase Der; GTPASE DER; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: GTPase Der
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: GTPase Der
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: GTPase Der
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: GTPase Der-like; GTPase Der-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: uncharacterized LOC127773455
+  Gene Descriptions: uncharacterized LOC127773455
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC9266550
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: uncharacterized LOC133892545; uncharacterized LOC133924823
+  Gene Descriptions: uncharacterized LOC133892545; uncharacterized LOC133924823
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: GTPase Der-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: GTPase Der
+Msi
+  Gene count: 1
+  Modal chromosome: Msi06
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: GTPase Der
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: uncharacterized LOC111589237
+  Gene Synonyms: GRMZM2G097959,GRMZM5G848602
+  Gene Descriptions: uncharacterized LOC111589237
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 602 aa
+
+MAAAAalLRAALRRSRPAAAALLhHRpLPSARSpPPPPPLGRALPpLPRLPFSAGFGYST
+AAEESepPAKPKGKARKNPMKQSRFDFTKVDAALLPTVILVGRPNVGKSALFNRFIRRRE
+ALVYNTPGDHVTRDIREGVAKLGDLRFRVLDSAGLETAATSGSILARTADMTGNVLARSQ
+FAIFLIDVRDGLQPLDLEVGQWLRKHASGIHTIVAMNKSESLDEHGVLTAAAGEAHRLGF
+GDPVAISAETGLGMAELYEtLRPLFEEYMFQLPNNGLNQDDPTSEAETEAHEGDESKLPL
+QLAIVGRPNVGKSTLLNTLLQEQRVLVGPEAGLTRDSIRAQFQFDNRTVYLVDTAGWMER
+SGKEKGPASLSVVQSRKNLMRAHIVALVLDAEKIAKSKSSMNHPEVVIARQAIEEGRGLV
+VVVNKMDLLRENQRLFEKVMDAVPKEIQTVIPQVTGIPVVFVSALEGRGRIAVMrQVIDT
+YEKWCLRLSTSRLNRWLRKVMSRHSWKDSATQPKVKYFTQVKARPPTFVAFMSGKTQLSD
+TDIRFLTKSLKEDFNIGGIPIRIVQRSIPRKASAKSNiRNrGPRIaRMKTDKRTTVSDPT
+qS
+
+
+BOP CONSENSUS:
+Length: 601 aa
+
+MGAAAVLLRAALRRSRPAAAALLlPRTLPSsPVPLPPPPLGRALPLLPRLPFSAGFsYST
+VAEISEAPAKPKGKPRKSPMKQSRvDFTKVDAALLPTIILVGRPNVGKSALFNRLIRRRE
+ALVYNTPGDHVTRDIREGVAKLGDLRFRVLDSAGLETAATSGSILARTVDMTGNVLVRSQ
+FAIFLIDVRDGLQPLDLEVGQWLRKHASGIHTIVAMNKSESLDEHGVLTSAAGEAHRLGF
+GDPVAISAETGLGMAELYETLRPLFEEYMFQLPNNGLNQDDPTSEAEAnEGDESKLPLQL
+AIVGRPNVGKSTLLNALLQEQRVLVGPESGLTRDSIRAKFQFDNRTVYLVDTAGWMERAG
+KEKGPSSLSVVQSRKNLMRAHIVALVLDAEKIAKSKSSVDHQEVMIARQAIEEGRGLVVV
+VNKMDLLRENQRLLEKVMDAVPKEIQTVIPQVTGIPVVFVSAMEGRGRVAVMHHVIETYE
+KWCFRLSTSRLNRWLRKVMSRHSWKDSATQPKVKYFTQVKARPPTFVAFMSGKTELSDTD
+IRFLTRSLKEDFNIGGIPIRILQRSIPRKVSSFKSNIKKRGSsIKRMKTDKRTEVSDPTQ
+S
+
+
+PACMAD CONSENSUS:
+Length: 604 aa
+
+MAAAAAVLRAAVRRgRPAAAALLHHRPIPSARSLPPSPPLGRALPPLPRLPFSAGFGYST
+AtEESVPPvRPKGKAKARKNPMKQSRFDFTKVDAALLPTVILVGRPNVGKSALFNRFIRR
+REALVYNTPGDHVTRDIREGIAKLGDLRFRVLDSAGLETAATSGSILARTADMTGNVLAR
+SQFAIFLIDVRDGLQPLDLEVGQWLRKHASGIHTLVAMNKSESLDEHGVLTAAAGEAHKL
+GFGDPVAISAETGLGMAELYEVLRPLFEEYMSQLPNNGLNQDDPTSElETEAHEGDESKL
+PLQLAIVGRPNVGKSTLLNTLLQEQRVLVGPEAGLTRDSIRAQFQFDNRTVYLVDTAGWM
+ERSGKEKGPASLSVVQSRKNLMRAHIVALVLDAEKIAKSKSSMNHPEVVIARQAIEEGRG
+LVVIVNKMDLLRDNQRLFEKVMDAVPREIQTVIPQVTGIPVVFVSALEGRGRIAVMRQVI
+DTYEKWCLRLSTSRLNRWLRKVMSRHSWKDSATQPKVKYFTQVKARPPTFVAFMSGKTQL
+SDTDIRFLTKSLKEDFNIGGIPIRIVQRSIPRKASAKSNTRNVGPRVARMKTDKRtTVSD
+PtLS
+
+================================================================================

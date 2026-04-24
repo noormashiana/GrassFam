@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM006650
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             474.0 aa
+Family Size (Extended Family Size): 33 (34) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48017:SF70
+Panther Family ID:               PTHR48017
+Modal Panther ID:                PTHR48017:SF70
+Modal Panther Description:       AMINO ACID TRANSPORTER TRANSMEMBRANE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR48017
+Modal Panther Fam Desc:          OS05G0424000 PROTEIN-RELATED
+Interpro Signature Accession:    PTHR48017; PF01490
+Interpro Signature Description:  OS05G0424000 PROTEIN-RELATED; Transmembrane amino acid transporter protein
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: probable proline transporter 2; probable proline transporter 2%2C transcript variant X2
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu02H
+  Gene Products: probable proline transporter 2
+Ata
+  Gene count: 2
+  Modal chromosome: Ata02D
+  Gene Products: probable proline transporter 2
+Tae
+  Gene count: 6
+  Modal chromosome: Tae02A
+  Gene Products: probable proline transporter 2; probable proline transporter 2%2C transcript variant X2
+Ola
+  Gene count: 2
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl03
+  Gene Products: probable proline transporter 2%2C transcript variant X2; proline transporter 1
+  Gene Descriptions: probable proline transporter 2; proline transporter 1
+Osa
+  Gene count: 2
+  Modal chromosome: Osa03
+  Gene Products: probable proline transporter 2%2C transcript variant X4; proline transporter 1-like%2C transcript variant 1
+  Gene Synonyms: OsproT,PROT,PROT1
+  Gene Descriptions: probable proline transporter 2; proline transporter 1-like
+Ecu
+  Gene count: 3
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 2
+  Modal chromosome: Pau14
+  Gene Products: probable proline transporter 2%2C transcript variant X1; probable proline transporter 2%2C transcript variant X4
+  Gene Descriptions: probable proline transporter 2
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: probable proline transporter 2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: probable proline transporter 2%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: probable proline transporter 2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: probable proline transporter 2%2C transcript variant X2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 465 aa
+
+MDAtkSwASSSSSSCLPGsGdtERAPLLPcKMMDAADEKGeRvDvSEDTAHQISVDPWYQ
+VGFVLTTGVNSAYVLGYSGSIMVPLGWIGGTCGLILAAAISMYANALLARLHEVGGKRHI
+RYRDLAGHIYGRKMYALTWALQYINLFMINTGFIILAGQALKATYVLFRDDGlLKLPYCI
+AISGFVCALFAFGIPYLSALRIWLGFSTLFSLIYIVIAFVLSLRDGITAPARDYSIPGSH
+STRVFTTIGAVANLVFAYNTGMLPEIQATIRPPVVKNMEKALWFQFTVGSLPLYAVTFMG
+YWAYGSSTSSYLLNSVkGPVWIKAVANLSAFLQTVIALHIFASPMYEFLDTRYGSGHGGP
+FAIHNVVFRVgVRGGYLTVNTLVAAMLPFLGDFMSLTGALSTFPLTFVLANHMYLMVKGP
+KLSAfQKsWHWLNVVGFSlLAVAAAVAALRLIMLDSSTYHFFADl
+
+
+BOP CONSENSUS:
+Length: 483 aa
+
+MDATKrQQQQHDEEALSNSSPPASSSWASTSSSSCLPGSGDTDRAPLLPCKMADDEKvDR
+VDVSEDTAHQISVDPWYQVGFVLTTGVNSAYVLGYSGSIMVPLGWIGGTCGLILAAAISM
+YANALLGRLHEIGGKRHIRYRDLAGHIYGRKMYALTWALQYINLFMINTGFIILAGQALK
+AIYVLFRDDGLLKLPYCIALSGFVCALFAFGIPYLSALRIWLGFSTVFSLIYIVIAFVLS
+LRDGITAPAKDYSIPGSeSTRVFTTIGAVANLVFAYNTGMLPEIQATIRPPVVKNMEKAL
+WFQFTVGSLPLYAVTFMGYWAYGSSTSSYLLNSVHGPAWIKVVANLSAFLQTVIALHIFA
+SPMYEYLDTRFGSGHGGPFAIHNVVFRVGVRGGYLTVNTLVAAMLPFLGDFMSLTGALST
+FPLTFVLANHMYLMVKGPKLSAFQKGWHWLNVVGFSLLSVTAAVAALRLImLDSSTYHLF
+ADM
+
+
+PACMAD CONSENSUS:
+Length: 466 aa
+
+MDASSSSSSpeTEDLqLDDtHHERAPLLLPtKIMDAADEKGEtPDISEDTAHQISVDPWY
+QVGFVLTTGVNSAYVLGYSGSIMVPLGWIGGTCGLLLAAAISMYANALLARLHEVGGKRH
+IRYRDLAGHIYGRKIYGLTWALQYVNLFMINTGFIILAGQALKATYgLFRDDGvLKLPYC
+IAISGFVCALFAFGIPYLSALRIWLGFSTLFSLIYIVIAFVLSLRDGITaPARDYSIPGS
+HSTRVFTTIGAVADLVFAYNTGMLPEIQATIRPPVVKNMEKALWFQFTVGSLPLYAVTFM
+GYWAYGSSTSSYLLNSVkGPVWIKAVANmSAFLQTVIALHIFASPMYEFLDTKYGSGRGG
+PFAFHNVmFRVVVRGGYLTVNTLVAAVLPFLGDFMSLTGALSTFPLTFVLANHMYLMVKG
+HKLSAIQKSWHWLNVIGFSgLAVAAAVAAIRLIMLDSSTYHFFADL
+
+================================================================================

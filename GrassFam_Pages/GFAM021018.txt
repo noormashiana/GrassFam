@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM021018
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             405.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45622:SF71
+Panther Family ID:               PTHR45622
+Modal Panther ID:                PTHR45622:SF71
+Modal Panther Description:       ULTRAVIOLET-B RECEPTOR UVR8
+Modal Panther Family ID:         PTHR45622
+Modal Panther Fam Desc:          UBIQUITIN-PROTEIN LIGASE E3A-RELATED
+Interpro Signature Accession:    G3DSA:2.130.10.30; PTHR22870; PF25390; SSF50985
+Interpro Signature Description:  -; REGULATOR OF CHROMOSOME CONDENSATION; RCC1-like domain; RCC1/BLIP-II
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: ultraviolet-B receptor UVR8
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: ultraviolet-B receptor UVR8
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: ultraviolet-B receptor UVR8%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: ultraviolet-B receptor UVR8-like; ultraviolet-B receptor UVR8-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: ultraviolet-B receptor UVR8%2C transcript variant X1
+  Gene Descriptions: ultraviolet-B receptor UVR8
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: ultraviolet-B receptor UVR8%2C transcript variant X1
+  Gene Descriptions: ultraviolet-B receptor UVR8
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau01
+  Gene Products: ultraviolet-B receptor UVR8
+  Gene Descriptions: ultraviolet-B receptor UVR8
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: ultraviolet-B receptor UVR8-like; ultraviolet-B receptor UVR8-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: ultraviolet-B receptor UVR8%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: ultraviolet-B receptor UVR8
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: uncharacterized LOC100191830
+  Gene Synonyms: GRMZM2G026333,GRMZM6G945840
+  Gene Descriptions: uncharacterized LOC100191830
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 401 aa
+
+MEKAAAAAApEEEEeEaaWAWSWGAGTDGQLGNGGFQDHHLPQPLLLPPRCRGRVSFVAG
+GGAHAIALTSDGEVFTWGRGTHGQLGHGNLENIPHPKlVKFFENyTVTCVSAGWNHSGFA
+TDSGQLFMCGDGSFGQLGTGDNqSRNLPFEVaYFTtKHVEKLAFGMRHSLVLLKDNSVYG
+FGSARRGQVGKCASRNQKfYNVPRLIDGFPNCKIVNIYANGDHSAALDESGQLYIWGRAL
+IGEHDDDQPRavFPSLSISQVALGWHHALVLSAGELYTIGAYRHQKCDPPVSgNAVaQQs
+NtttTSSSHDESSSlSnLeKVPsIDGEQVVQIAAGTEHSALVTDKGTVFTWGWGEHGQLG
+LGDTSDQVVPQRVNlGDkGsRSSASLGVYCGSGFTvAVnsa
+
+
+BOP CONSENSUS:
+Length: 407 aa
+
+MTSLPQGAMEKAAAAAAEEEPEEAWAWTWGAGTDGQLGNGGFQDHHLPQPLLLPPRCRGR
+VSFVAGGGAHAIALTSDGEVFTWGRGTHGQLGHGNiENIPHPKSVKFFENYTVTCVSTGW
+NHSGFATDSGQLFMCGDGSFGQLGTGDNQSRNLPFEVpSFTTKHVEKLAFGMRHSLVLLK
+DNSVYGFGSARRGQVGKSASKNQKFYNiPRLIDGFPNCKIvNLYANGDHSAALDESGQLY
+IWGRALVGEHDDDQPRAAFPSLSISQVALGWHHALVLSGGELYTIGAYRHQKcDPTVSEN
+AVAQQLNLTTTSStHHESSSvSNLAKVPSIHGEQVTQIAAGTEHSALVTDSGALFTWGWG
+EHGQLGLGDTCDQVVPQRVNLGDEGSRSSASLGVYCGSGFTVAVslA
+
+
+PACMAD CONSENSUS:
+Length: 406 aa
+
+MkeAMAAAAPEERRWEPEEEAAEWAWSWGAGTDGQLGNGGFDDHHLPQPLLLPTRCRGRV
+SFVAGGGAHAIALTSDGEVFTWGRGTHGQLGHGNLDNIPHPKLVKFLENHTVTCVSAGWN
+HSGFATDSGQLFMCGDGSFGQLGTGDNLSRNFPFEVAYFNARHIEKLAFGMRHSLVLLKD
+NSVYGFGSARRGQVGKCVSRNQKSYNVPRLIDGFPNCKIVNIYANGDHSAALDESGHLYI
+WGRALIGEHDDDQPrrVLPSLSVSQVALGWHHALVLSAGELYTLGVYRHQKCDLPGsGNV
+vGQQSNTSATSSSHDrSSSLSmLETVPFIDGEQVVQIASGTEHSALVTDKGTVFTWGWGE
+HGQLGLGDTSDQVVPQRVNIGDNGQRmSGSLGVYCGSGFTIAVKSP
+
+================================================================================

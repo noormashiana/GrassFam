@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM011914
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             397.0 aa
+Family Size (Extended Family Size): 30 (30) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11540:SF65
+Panther Family ID:               PTHR11540
+Modal Panther ID:                PTHR11540:SF65
+Modal Panther Description:       MALATE DEHYDROGENASE
+Modal Panther Family ID:         PTHR11540
+Modal Panther Fam Desc:          MALATE AND LACTATE DEHYDROGENASE
+Interpro Signature Accession:    cd01337; G3DSA:3.90.110.10:FF:000001; G3DSA:3.40.50.720:FF:000017; G3DSA:3.90.110.10; G3DSA:3.40.50.720; TIGR01772; PTHR11540; PF02866; PF00056; SSF56327; SSF51735
+Interpro Signature Description:  MDH_glyoxysomal_mitochondrial; Malate dehydrogenase; -; malate dehydrogenase; MALATE AND LACTATE DEHYDROGENASE; lactate/malate dehydrogenase, alpha/beta C-terminal domain; lactate/malate dehydrogenase, NAD binding domain; LDH C-terminal domain-like; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: malate dehydrogenase%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu01H
+  Gene Products: malate dehydrogenase%2C chloroplastic-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata01D
+  Gene Products: malate dehydrogenase%2C chloroplastic
+Tae
+  Gene count: 6
+  Modal chromosome: Tae01A
+  Gene Products: malate dehydrogenase%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl01
+  Gene Products: malate dehydrogenase%2C chloroplastic; malate dehydrogenase%2C chloroplastic-like%2C transcript variant X1
+  Gene Descriptions: malate dehydrogenase%2C chloroplastic; malate dehydrogenase%2C chloroplastic-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa01
+  Gene Products: malate dehydrogenase%2C chloroplastic%2C transcript variant 1; malate dehydrogenase%2C chloroplastic%2C transcript variant X2
+  Gene Descriptions: malate dehydrogenase%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN50
+Pau
+  Gene count: 2
+  Modal chromosome: Pau16
+  Gene Products: malate dehydrogenase%2C chloroplastic-like; malate dehydrogenase%2C chloroplastic-like%2C transcript variant X2
+  Gene Descriptions: malate dehydrogenase%2C chloroplastic-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: malate dehydrogenase%2C chloroplastic-like%2C transcript variant X1; malate dehydrogenase%2C chloroplastic-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: malate dehydrogenase%2C chloroplastic%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: malate dehydrogenase%2C chloroplastic%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: Malate dehydrogenase%2C transcript variant X1; malate dehydrogenase%2C transcript variant X2
+  Gene Synonyms: GRMZM2G068455; GRMZM2G161245,pco143139c
+  Gene Descriptions: Malate dehydrogenase; malate dehydrogenase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 398 aa
+
+MAStVTISSVSAQAGLISKPRNHGiTSYSGLKASSSSISFELgSSFLGrNASLRASVTPR
+IVPKAKSGSQISPEASYKVAVLGAAGGIGQPLGLLIKMSPLVSELHLYDIANVKGVAADL
+SHCNTPSQVLDFTGPSELANCLKGVDVVVIPAGVPRKPGMTRDDLFNINASIVKSLVEAV
+ADNCPEAFIHIISNPVNSTVPIAAEVLKQKGVYNPKKLFGVTTLDVVRANTFVAQKKNLK
+LIDVDVPVVGGHAGITILPLLSKTRPSVTFTDEETEELTKRIQNAGTEVVEAKAGAGSAT
+LSMAYAAARFVESSLRALAGDPDVYECTFVQSELTELPFFASRVKLGKNGVESIISADLE
+GVTEYEAKALEALKPELKASIEKGIEFAHKQQeAAASV
+
+
+BOP CONSENSUS:
+Length: 397 aa
+
+MASAVTISSVGAQAALVSKPRNHGITSYSGLKASSSISFELGSSFLGKTASLRASVTTRV
+VPKAKSgAQILPEASYKVAVLGAAGGIGQPLGLLIKMSPLVSELRLYDIANVKGVAADLS
+HCNTPSQVMDFTGPAELANCLKGVDVVVIPAGVPRKPGMTRDDLFNINAGIVKSLIEAVA
+DNCPEAFIHIISNPVNSTVPIAAEILKQKGVYNPKKLFGVSTLDVVRANTFVAQKKnLKL
+IDVDVPVVGGHAGITILPLLSKTRPSVTFTDEETEELTKRIQNAGTEVVEAKAGAGSATL
+SMAYAAARFVESSLRALAGDPDVYECTYVQSELTELPFFASRVKLGKNGVESIISSDLEG
+VTEYEAKALEALKPELKASIEKGIEFAHKQQGAAASV
+
+
+PACMAD CONSENSUS:
+Length: 397 aa
+
+MASTVTFSSVSAQAGLIQKPRNlGVTSYAGLKaSSSVSFGSESSFLGRNASLRASVAPRI
+VPKAKSGSQISPQASYKVAVLGAAGGIGQPLGLLIKMSPLVSELHLYDIANVKGVAADLS
+HCNTPAQVLDFTGPSELANCLKGVDVVVIPAGVPRKPGMTRDDLFNINASIVKSLVEAVA
+DNCPEAFIHIISNPVNSTVPIAAEVLKQKGVYNPKKLFGVTTLDVVRANTFVAQKKNLKL
+IDVDVPVVGGHAGITILPLLSKTRPSVTFTDEETEELTKRIQNAGTEVVEAKAGAGSATL
+SMAYAAARFVESSLRALAGDPDVYECTFIQSEiTDLPFFASRVKLGKNGVESVVSADLEG
+VTEYEAKALEALKAELKGSIEKGIAFANKQQEAAASV
+
+================================================================================

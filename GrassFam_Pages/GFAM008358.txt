@@ -1,0 +1,108 @@
+================================================================================
+GrassFam ID: GFAM008358
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             675.0 aa
+Family Size (Extended Family Size): 28 (54) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR27006:SF615
+Panther Family ID:               PTHR27006
+Modal Panther ID:                PTHR27006:SF615
+Modal Panther Description:       CYSTEINE-RICH RECEPTOR-LIKE PROTEIN KINASE 10
+Modal Panther Family ID:         PTHR27006
+Modal Panther Fam Desc:          PROMASTIGOTE SURFACE ANTIGEN PROTEIN PSA
+Interpro Signature Accession:    cd23509; cd14066; G3DSA:3.30.430.20:FF:000010; G3DSA:3.30.200.20:FF:000142; G3DSA:1.10.510.10:FF:000343; G3DSA:3.30.430.20:FF:000002; G3DSA:3.30.430.20; G3DSA:1.10.510.10; G3DSA:3.30.200.20; PTHR27002; PF07714; SM00220; SSF56112
+Interpro Signature Description:  Gnk2-like; STKc_IRAK; Cysteine-rich receptor-like protein kinase 10; Cysteine-rich receptor-like protein kinase 28; -; Transferase(Phosphotransferase) domain 1; Phosphorylase Kinase; domain 1; RECEPTOR-LIKE SERINE/THREONINE-PROTEIN KINASE SD1-8; Protein tyrosine and serine/threonine kinase; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: putative receptor-like protein kinase At4g00960
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ecu
+  Gene count: 11
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 4
+  Modal chromosome: Pau09
+  Gene Products: cysteine-rich receptor-like protein kinase 44; cysteine-rich receptor-like protein kinase 44%2C transcript variant X1
+  Gene Descriptions: cysteine-rich receptor-like protein kinase 44
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: putative receptor-like protein kinase At4g00960
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: putative receptor-like protein kinase At4g00960%2C transcript variant X2
+Msi
+  Gene count: 3
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi09
+  Gene Products: cysteine-rich receptor-like protein kinase 25; putative receptor-like protein kinase At4g00960
+Zma
+  Gene count: 2
+  Modal chromosome: Zma06
+  Gene Products: putative receptor-like protein kinase; uncharacterized LOC100280312
+  Gene Synonyms: GRMZM2G140721
+  Gene Descriptions: uncharacterized LOC100280312
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 673 aa
+
+MssLLPLLLLCSSLLaATTNADdPwYTdCPSNTNYTRGSAFQANLDALLSSLPAAAAASS
+GFAkNtTGAAPDQAYGLAQCRADVNASdCrACLDGSARDMAskCPGQKsAMLIYDeCLLR
+HSNASFFGAVDtSVvvYlwNtQNATQPEQFTSRLGALMrNLTARAAYASPRMFAAGSAAV
+TPFVNIYGMAQCTRDLAADDCNRCLvsAVAFIPnCCDGKQGGRVIYRSCSIRFEVYPFYN
+vQAAEAAMSPAPAPGGGPVNGSDHSvPGSNGSNHTVRTALLVSIPVAVtLLVLLLVaLYL
+CKRNRKPHKHVQIASvRHEDeEEMRSSESLLYDLSTLRAATDNFSEENKLGEGGFGPVYK
+GTLQNGQEIAVKRLSATSQQGQVEMKNEVVLLAKLQHKNLVRLLGCCIEEHERLLVYEFL
+tNNSLDKILFDPARQQELSWGQRHKIIEGIGRGLLYLHEDSRLTIIHRDLKASNILLDAD
+MNPKISDFGLAKLFSIDSSVGNTSRIAGTYGYMAPEYALHGIFSAKSDVFSYGVLVLEIV
+TGRRNTYTHASGPSEDLLTYVWRHWSRGSVQpLLEGCPAEGRRPQEvLRCVHVGLLCVQE
+DPHLRPGMASVVVMLNSRSITLPAPaAPAFAlPGRgLTvtADaRGRGtDRqGPRAAAREP
+SINEASVSDLEPR
+
+
+BOP CONSENSUS: NA
+
+
+PACMAD CONSENSUS:
+Length: 673 aa
+
+MssLLPLLLLCSSLLaATTNADdPwYTdCPSNTNYTRGSAFQANLDALLSSLPAAAAASS
+GFAkNtTGAAPDQAYGLAQCRADVNASdCrACLDGSARDMAskCPGQKsAMLIYDeCLLR
+HSNASFFGAVDtSVvvYlwNtQNATQPEQFTSRLGALMrNLTARAAYASPRMFAAGSAAV
+TPFVNIYGMAQCTRDLAADDCNRCLvsAVAFIPnCCDGKQGGRVIYRSCSIRFEVYPFYN
+vQAAEAAMSPAPAPGGGPVNGSDHSvPGSNGSNHTVRTALLVSIPVAVtLLVLLLVaLYL
+CKRNRKPHKHVQIASvRHEDeEEMRSSESLLYDLSTLRAATDNFSEENKLGEGGFGPVYK
+GTLQNGQEIAVKRLSATSQQGQVEMKNEVVLLAKLQHKNLVRLLGCCIEEHERLLVYEFL
+tNNSLDKILFDPARQQELSWGQRHKIIEGIGRGLLYLHEDSRLTIIHRDLKASNILLDAD
+MNPKISDFGLAKLFSIDSSVGNTSRIAGTYGYMAPEYALHGIFSAKSDVFSYGVLVLEIV
+TGRRNTYTHASGPSEDLLTYVWRHWSRGSVQpLLEGCPAEGRRPQEvLRCVHVGLLCVQE
+DPHLRPGMASVVVMLNSRSITLPAPaAPAFAlPGRgLTvtADaRGRGtDRqGPRAAAREP
+SINEASVSDLEPR
+
+================================================================================

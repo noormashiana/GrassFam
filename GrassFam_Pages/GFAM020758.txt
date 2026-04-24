@@ -1,0 +1,127 @@
+================================================================================
+GrassFam ID: GFAM020758
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             400.0 aa
+Family Size (Extended Family Size): 20 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR16517
+Modal Panther ID:                PTHR16517:SF107
+Modal Panther Description:       TUBBY-LIKE F-BOX PROTEIN
+Modal Panther Family ID:         PTHR16517
+Modal Panther Fam Desc:          TUBBY-RELATED
+Interpro Signature Accession:    G3DSA:3.20.90.10:FF:000003; G3DSA:3.20.90.10; PTHR16517; PR01573; PF01167; SSF54518
+Interpro Signature Description:  Tubby-like F-box protein; Tubby Protein; Chain A; TUBBY-RELATED; Tubby superfamily signature; Tub family; Tubby C-terminal domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: tubby-like F-box protein 11%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: tubby-like F-box protein 11
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: tubby-like F-box protein 11
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: tubby-like F-box protein 11
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: tubby-like F-box protein 11%2C transcript variant X1
+  Gene Descriptions: tubby-like F-box protein 11
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: tubby-like F-box protein 11
+  Gene Synonyms: OsJ_25493,OsTLP11,OsTLP7,TULP11,TULP7
+  Gene Descriptions: tubby-like F-box protein 11
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 1
+  Modal chromosome: Pau14
+  Gene Products: tubby-like F-box protein 11%2C transcript variant X1
+  Gene Descriptions: tubby-like F-box protein 11
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: tubby-like F-box protein 6; tubby-like F-box protein 6%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: tubby-like F-box protein 6
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: tubby-like F-box protein 11
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 402 aa
+
+MPFRSMIQEMKGEIGAISRRGLLRSRSrRPGRVRRVAAvePDEAArReSCWAQLPPELLR
+EVLARVEasEARWPGRRDVVACAGVCRsWRGVVKEIVRVPEaSGrLTFPISLKQPGPRDA
+PiKCFIRRNRATQTYfLYIGLTDALADDGKFLLAARKYRRPTCTEYLISLDatDMSKGsg
+TYIGKLRSNFLGTKFTVYDAHPPCAGAVVSKGpSAHMIGSAQVSPRwPAGNYPVSHISYE
+VNVLGSRGPRRMNCVMDSIPVSAIEEGGTAPTQTEFPSSNSnSFASVPFFrSKSGRLDSS
+gaQLsTQNESKLVLKNKSPRWHEHLQCWCLNFHGRVTVASVKNFQLVASDESAPTNQEhD
+DVILQFGKIGKDLFTMDYRYPISAFQAFAICLSSFDTKIACE
+
+
+BOP CONSENSUS:
+Length: 372 aa
+
+MSFRSMvREMKGEVGAISRRRSLrSARVRRVAAVApEEAARQGCCWAELPPELLREVLAR
+VEESEPRWPRRRDVVACAGVCRTWRGVVREIVRVPEVSGRLTFPISLKQPGPRDAPIKCF
+IRRNRATQTYFLYIGLTDALADDGKFLLAARKYHRPTCTEYLISLDKTDMSKGSQTCVGK
+LRSNFLRTKFTVYDAHPPHAGPVVSKRWPAGNYPVSQINYEVNVLGSRGPRRMNCIMDSI
+PVSAIEQGGTAPTQTaFPFFNSKSSRMDSSITPLSSQVESKLVLKNKSPRWHEHLRCWCL
+NFHGRVTVASVKNFQLVASDESAPTNEENDDTTLQFGKIGKDLFTMDYRYPVSAFQAFAI
+CLSSFDTKLARE
+
+
+PACMAD CONSENSUS:
+Length: 402 aa
+
+MPFSSMIQEMKGEIGAISRRGLLRSRShRPGRVqRVaAAEPDEAAmRESCWAQVPPELLR
+eVLARVEavEARWPGRgAVVACAGVCRsWRGVVKEIVRvPEASGKLTFPISLKQPGPRDA
+PLKCFIRRNRATQSYfLCIGVTDALADDGKFLLAARKYRRPACTEYLISLDAsDTSKGNG
+TYIGKLRSNFLGTKFTVYDAHPPCAGAVVSKGPSAHMIGSAQVSPgVPAGNYPVSHISYE
+vNVLGSRGPRKMNCVMDSIPVSAIKEGGTAPTQTEFPSSNSnSFASVPFFRSKSGRLDSS
+GAQLaTQNEsKvVLKNKSPRWHEQLQCWCLNFHGRVTVASVKNFQLVASDESDPSNQEDD
+DVILQFGKIGKDLFTMDYRYPISAFQAFAICLSSFDTKIgCE
+
+================================================================================

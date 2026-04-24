@@ -1,0 +1,110 @@
+================================================================================
+GrassFam ID: GFAM005972
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             469.0 aa
+Family Size (Extended Family Size): 18 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31561:SF98
+Panther Family ID:               PTHR31561
+Modal Panther ID:                PTHR31561:SF98
+Modal Panther Description:       3-KETOACYL-COA SYNTHASE
+Modal Panther Family ID:         PTHR31561
+Modal Panther Fam Desc:          3-KETOACYL-COA SYNTHASE
+Interpro Signature Accession:    cd00831; G3DSA:3.40.47.10; PTHR31561; PIRSF036417; PF08392; SSF53901
+Interpro Signature Description:  CHS_like; -; 3-KETOACYL-COA SYNTHASE; Very_long_ch_3-ktacl-CoA_syn; FAE1/Type III polyketide synthase-like protein; Thiolase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Ogl
+  Gene count: 3
+  Modal chromosome: Ogl03
+  Gene Products: 3-ketoacyl-CoA synthase 12-like; 3-ketoacyl-CoA synthase 19-like
+  Gene Descriptions: 3-ketoacyl-CoA synthase 12-like; 3-ketoacyl-CoA synthase 19-like
+Osa
+  Gene count: 3
+  Modal chromosome: Osa03
+  Gene Products: 3-ketoacyl-CoA synthase 12; 3-ketoacyl-CoA synthase 19; 3-ketoacyl-CoA synthase 19-like
+  Gene Descriptions: 3-ketoacyl-CoA synthase 12; 3-ketoacyl-CoA synthase 19; 3-ketoacyl-CoA synthase 19-like
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: 3-ketoacyl-CoA synthase 12-like
+  Gene Descriptions: 3-ketoacyl-CoA synthase 12-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: 3-ketoacyl-CoA synthase 12-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: 3-ketoacyl-CoA synthase 12-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: 3-ketoacyl-CoA synthase 12
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: acyltransferase
+  Gene Synonyms: GRMZM2G003138; GRMZM2G151476,GRMZM5G854500
+  Gene Descriptions: acyltransferase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 466 aa
+
+MELLPLLTwLLLAHAlAYLAWTAAARRRQSRCYLLDYVCHKPRDDRKlSTETAGdVIQRN
+KRLGLtDYRFLLRVIVRSGIGEETYAPRNILEGREDsPTLrDALDEMDAFFDEAIAELFA
+RTGFAPRDVDVLVFNVSMLSPAPSLASRIVRRYGLREDVAAYNLTGMGCSAGLIALDLAR
+NALRTRPRALALVVSSESIAPNWYSGTDKSMMLANCLFRCGGAAVLVTNDPAhRGRAKME
+LsCLVRANIGANDDAHACALQREDAEGRVGISLSKALPKAAVRAFAVNLRRLAPRVLPVA
+ELARFAARLLsRRLLPHLqsSGKKQKGGGgDAPKINFKTGVDHFCLHPGGTAVIEAVKQS
+LGLDDdDVEPARMTLHRWGNTSASSLWYVLSYMEAKGRLKVGDRVLMVTFGSGFKCNSCV
+WEVTGDMADKGAWADCIDAYPPEsLANPYMDKFGWINDVDGDTLML
+
+
+BOP CONSENSUS:
+Length: 467 aa
+
+MELLALVTVLLLAHAVAYLAWTAAARRRQSRCYLLDYVCHKPSDDRKVSTEAAGAVIERS
+KRLSLPEYRFLLRVIVRSGIGEETYAPRNVLDGREGEPTHGDSLGEMEDFFGDSIAELFA
+RTGFGPRDVDVLVVNASMFSPDPSLASMIVRRYGMREDVAAYSLAGMGCSAGLVSLDLAR
+NTLATRPRALALVVSTESIAPNWYTGTDKSMMLANCLFRCGGASVLVTNDPVLRGRAKME
+LGCLVRANIAANDDAHACALQREDDDGTVGISLSKALPKAAVRAFAANLRRLAPRILPIT
+ELARFAAQLLITKKLLRRRATAATATKHTGGDGPRINFKTGVDHFCLHPGGTAVIEAVKR
+SLGLDDDDVEPARMTLHRWGNTSASSLWYVLSYMEAKGRLRRGDKVLMVTFGSGFKCNSC
+VWEVTGDMADKGAWADCIDAYPPENTANPYMEKYSWINDVDGDSLII
+
+
+PACMAD CONSENSUS:
+Length: 466 aa
+
+MELLPLLTwLLLAHAlAYLAWTAAARRRQSRCYLLDYVCHKPRDdRKlSTETAGDVIQRN
+KRLGLtDYRFLLRVIVRSGIGEETYAPRNILEGREDSPTLrDALDEMDAFFDEAIAELFA
+RTGFAPRDVDVLVFNVSMLSPAPSLASRIVRRYGLREDVAAYNLTGMGCSAGLIALDLAR
+NALRTRPRALALVVSSESIAPNWYSGTDKSMMLANCLFRSGGSAVLvTNDPAhRGRAKME
+LsCLVRANIGANDDAHACALQREDAEGRVGISLSKALPKAAVRAFAVNLRRLAPRVLPVA
+ELARFAARLLSRRLFPHLQsSGKKQKGGGgdAPKINFKTGVDHFCLHPGGTAVIEAVKQS
+LGLeDeDVEPARMTLHRWGNTSASSLWYVLSYMEAKGRLKVGDRVLMVTFGSGFKCNSCV
+WEVTGDMADKGAWADCIDAYPPEsLANPYMDKFGWINDVeGDTLML
+
+================================================================================

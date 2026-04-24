@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM003411
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             367.0 aa
+Family Size (Extended Family Size): 29 (32) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR44742:SF4
+Panther Family ID:               PTHR44742
+Modal Panther ID:                PTHR44742:SF4
+Modal Panther Description:       METHYLTRANSFERASE
+Modal Panther Family ID:         PTHR44742
+Modal Panther Fam Desc:          FAMILY NOT NAMED
+Interpro Signature Accession:    G3DSA:3.40.50.150:FF:000168; G3DSA:3.40.50.150; PTHR44742; SSF53335
+Interpro Signature Description:  Methyltransferase; Vaccinia Virus protein VP39; -; S-adenosyl-L-methionine-dependent methyltransferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: 24-methylenesterol C-methyltransferase 2
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu01H
+  Gene Products: 24-methylenesterol C-methyltransferase 2; 24-methylenesterol C-methyltransferase 2-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata01D
+  Gene Products: 24-methylenesterol C-methyltransferase 2
+Tae
+  Gene count: 6
+  Modal chromosome: Tae01A
+  Gene Products: 24-methylenesterol C-methyltransferase 2; 24-methylenesterol C-methyltransferase 2-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: 24-methylenesterol C-methyltransferase 2
+  Gene Descriptions: 24-methylenesterol C-methyltransferase 2
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: 24-methylenesterol C-methyltransferase 2-like
+  Gene Synonyms: ArsM1,Smt2-1
+  Gene Descriptions: 24-methylenesterol C-methyltransferase 2-like
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: 24-methylenesterol C-methyltransferase 2; 24-methylenesterol C-methyltransferase 2-like
+  Gene Descriptions: 24-methylenesterol C-methyltransferase 2; 24-methylenesterol C-methyltransferase 2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: 24-methylenesterol C-methyltransferase 2; 24-methylenesterol C-methyltransferase 2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: 24-methylenesterol C-methyltransferase 2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: 24-methylenesterol C-methyltransferase 2
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: 24-methylenesterol C-methyltransferase 2; sterol methyl transferase 2
+  Gene Synonyms: GRMZM2G075701,smt2; GRMZM2G126682
+  Gene Descriptions: 24-methylenesterol C-methyltransferase 2; sterol methyl transferase 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 366 aa
+
+MEpATMAWTAAvVGvGLVYWFVWVMGAAEVKGKRAVDLKMGSITRDKVqDKYTQYWSFFR
+RPKETATTAASAEKVPAFVDTFYNLVTDIYEWGWGQSFHFSPSLPGRSHRDATRVHEERV
+ADLLGArPGHRLLDVGCGVGGPMRAIAAHSGSnVVGITINEYQVNRARAHNRKAGLDSRC
+EVVCGNFLsMPFPDASFDGAYSIEATCHAPRLQDVYGEVFRVLKPGGLYVSYEWVTTPLY
+RADDPeHVEAIHGIERGDALPGLRRQDEIASIAKEVGFEVVKELDLALPPALPWWTRLKM
+GRLAYWRNSLVVRVLTLLRIAPKGVSEVHEMLYETAQHLTRGGETGIFTPMHMVLLRKPA
+aAtEAK
+
+
+BOP CONSENSUS:
+Length: 364 aa
+
+MEPATMAWTAAAAGfALVYWFVWVMGAAEVKGKRAVDLKMGSITDDKVgDKYTQYWSFFR
+RPKETAATQASADKVPAFVDTFYNLVTDIYEWGWGQSFHFSPSLPGRSHREATRVHEERV
+ADLLeArPGHRLLDVGCGVGGPMRAIAAHSGSdVVGITINEYQVNRARAHNRKAGLDAQC
+EVVCGNFMAMPFPDASFDGAYSIEATCHAPRLQDVYGEVFRVLKPGGLYVSYEWVTTPLY
+RADDPEHVEAIHGIERGDALPGLRRQDEIASIAkEVGFEVVKELDLALPPALPWWTRLKM
+GRLAYWRNSLVVRVLTLLRVAPKGVsEVHEMLYETAQHLTRGGETGIFTPMHMVLLRKPA
+tAAE
+
+
+PACMAD CONSENSUS:
+Length: 367 aa
+
+MEAATMAWTAAVVGVGLVYWFVWVMGAAEVKGKRAVDLKMGSITRDKVQDKYTQYWSFFR
+RPKETATTAASAEKVPAFVDTFYNLVTDIYEWGWGQSFHFSPSLPGRSHRDATRVHEERV
+ADLLGAKPGHRLLDVGCGVGGPMRAIAAHSGSNVVGITINEYQVNRARAHNRKAGLDSRC
+EVVCGNFLSMPFPDASFDGAYSIEATCHAPRLQDVYGEVFRVLKPGGLYVSYEWVTTSLY
+RAEDPDHVECIHGIERGDALPGLRRQDEIASIAKEVGFEVLKEQDLALPPALPWWTRLKM
+GRiAYWRNSLVVRVLTMLRIAPKGVSEVHEMLYETAQHLTRGGETGIFTPMHMVLLRKPA
+ASTEEAK
+
+================================================================================

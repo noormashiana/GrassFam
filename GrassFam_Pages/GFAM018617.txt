@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM018617
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             439.0 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45892:SF3
+Panther Family ID:               PTHR45892
+Modal Panther ID:                PTHR45892:SF3
+Modal Panther Description:       PUTATIVE-RELATED
+Modal Panther Family ID:         PTHR45892
+Modal Panther Fam Desc:          AMINOACYLASE-1
+Interpro Signature Accession:    G3DSA:1.10.150.900:FF:000001; G3DSA:3.30.70.360:FF:000009; G3DSA:3.40.630.10:FF:000019; G3DSA:3.40.630.10; G3DSA:1.10.150.900; TIGR01880; PTHR45892; PIRSF036696; PF01546; SSF53187
+Interpro Signature Description:  Aminoacylase-1, putative; aminoacylase-1 isoform X1; Aminoacylase 1; Zn peptidases; -; N-acyl-aliphatic-L-amino acid amidohydrolase; AMINOACYLASE-1; ACY-1; Peptidase family M20/M25/M40; Zn-dependent exopeptidases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: aminoacylase-1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: aminoacylase-1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: aminoacylase-1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: aminoacylase-1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: uncharacterized LOC127776211
+  Gene Descriptions: uncharacterized LOC127776211
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4340457
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau08
+  Gene Products: uncharacterized LOC133926453
+  Gene Descriptions: uncharacterized LOC133926453
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: aminoacylase-1-like; aminoacylase-1-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: aminoacylase-1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: aminoacylase-1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: uncharacterized LOC100283955
+  Gene Synonyms: GRMZM2G135970
+  Gene Descriptions: uncharacterized LOC100283955
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 440 aa
+
+MpPmRRRslLLAAVVLLAgvPRPAHPFTELESsQIaRFQDYLRIRTAHPSPDYAGAAAFL
+LPYAASLGLRTtTLHFTPCKSKPLLLLTWPGTDPSLPSVLLNSHlDSVPAEPEHWiHPPF
+AAHRDPATGRVYARGAQDDKCLPVQYLEAIRGLQAAGFAPARTVHISLVPDEEIGGaDGF
+EKFAQSEEFRALNVGFMLDEGQASPTDVFRVFYADRLVWRLIVKATGAPGHGSRMFDGAA
+VeNLMDCvETVAGFREAQFgMVKSGKRGPGEVVSVNPVYMKAGIPSPTGFVMNMQPSEAE
+VGFDLRLPPTEDIEQIkRRIKEEWAPAHKNLTYQLMkKGPVrDVAGRPifTaTNESNPWW
+SVFEQAIISAGGKLAKPEILSSTTDSRFVRQLGIPALGFSPMtNTPILLHDHNEFLEDKV
+FLRGIKVYEHvIRALSSFKG
+
+
+BOP CONSENSUS:
+Length: 438 aa
+
+MRRLSHFPLLAAVLLAAVPHPAHPLTELESSQIRRFQDYLRICTAHPAPDYAGAAAFLLP
+YAASLGLRTATLHFTPCKSKPLLLLTWPGTDPSLPSILLNSHLDSVPAEPEHWIHPPYAA
+HRDPATGRVYARGAQDDKCLPIQYLEAIRGLQAAGFAPARTVHVSLVPDEEIGGEDGHEK
+FVQSEEFRALNVGFMLDEGQASLTDVYRVFYADRLVWKLIVKATGAPGHGSKLFDGAAVE
+NLMDCIETVAGYREAQFgKVKSGKyGPGEVVSVNPVYMNAGTPSPTGFVMNMQPSEAEVG
+FDLRLPPTEDIEQIIRRIKEEWAPAHKNLTYQLMKKGPVRDVTGRPLLTPTNESNPWWSV
+FEQAIISSGGKLAKPEILSSTTDARFVRQMGVPALGFSPMINTPILLHDHNEFLEDKVFL
+RGIEVYQHLIRALSSFKG
+
+
+PACMAD CONSENSUS:
+Length: 439 aa
+
+MaPLRRrLLLAvVVLLSGLPRPAHPFTALESDQIARFQEYLRIRTAHPSPDYAGAAAFLL
+PYAASLGLRTTTLHFTPCKTKPLLLLTWPGSDPSLPSVLLNSHIDSVPAEAErWsHPPFA
+AHRDPATGRVYARGAQDDKCLPVQYLEAIRGLQAAGFAPARTVHISLVPDEEIGGADGFE
+KFAQSEEFRALNIGFMLDEGQASPTDVFRVFYADRLVWRLIVKAAGAPGHGSRMFDGAAV
+DNLMDCVETVAGFReAQFGMVKAGERGPGEVVSVNPVYMKAGIPSPTGFVMNMQPSEAEV
+GFDLRLPPTEDIEQIKRRVKEEWAPAHKNLTYELmRKGPVTDVAGRPIFTATNESNPWWS
+vFEQAITSAGGKLSKPEILSSTTDSRFVRQLGIPALGFSPMTNTPILLHDNNEFLEDKVF
+LRGIKVYEHVIRALSSFQG
+
+================================================================================

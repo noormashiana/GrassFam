@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM017776
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             480.0 aa
+Family Size (Extended Family Size): 53 (56) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR11206
+Modal Panther ID:                PTHR11206:SF496
+Modal Panther Description:       PROTEIN DETOXIFICATION
+Modal Panther Family ID:         PTHR11206
+Modal Panther Fam Desc:          MULTIDRUG RESISTANCE PROTEIN
+Interpro Signature Accession:    cd13132; TIGR00797; PTHR11206; PF01554
+Interpro Signature Description:  MATE_eukaryotic; MATE family efflux transporter; MULTIDRUG RESISTANCE PROTEIN; MatE
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 3
+  Modal chromosome: Bdi05
+  Gene Products: protein DETOXIFICATION 16; protein DETOXIFICATION 16%2C transcript variant X1; protein DETOXIFICATION 16%2C transcript variant X2
+Lpe
+  Gene count: 4
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 4
+  Modal chromosome: Hvu02H
+  Gene Products: protein DETOXIFICATION 16-like
+Ata
+  Gene count: 5
+  Modal chromosome: Ata02D
+  Gene Products: multidrug and toxin extrusion protein 1; protein DETOXIFICATION 16; protein DETOXIFICATION 16%2C transcript variant X1; protein DETOXIFICATION 16%2C transcript variant X3
+Tae
+  Gene count: 19
+  Modal chromosome: Tae05A
+  Gene Products: protein DETOXIFICATION 16-like; protein DETOXIFICATION 16-like%2C transcript variant X1; protein DETOXIFICATION 16-like%2C transcript variant X2
+Ola
+  Gene count: 2
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: protein DETOXIFICATION 16-like%2C transcript variant X1
+  Gene Descriptions: protein DETOXIFICATION 16-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: protein DETOXIFICATION 16%2C transcript variant X1
+  Gene Descriptions: protein DETOXIFICATION 16
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 1
+  Modal chromosome: Pau07
+  Gene Products: protein DETOXIFICATION 16-like%2C transcript variant X1
+  Gene Descriptions: protein DETOXIFICATION 16-like
+Svi
+  Gene count: 3
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: protein DETOXIFICATION 16-like%2C transcript variant X2; protein DETOXIFICATION 16-like%2C transcript variant X3
+Pha
+  Gene count: 2
+  Modal chromosome: Pha07
+  Gene Products: protein DETOXIFICATION 16-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: protein DETOXIFICATION 16
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: uncharacterized LOC100191687%2C transcript variant X1
+  Gene Synonyms: GRMZM2G010765
+  Gene Descriptions: uncharacterized LOC100191687
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 480 aa
+
+MlPsMEEPLVGGgvEKTGGPgESLVViEVKKQLYLAGPLIAGwLLQNVVQMISVMFVGHL
+GELALSSASIATSFAGVTGFSLLsGMASSLDTLCGQAFGAKQYhLLGIYKQRAILVLTLV
+SVVVAVIWAYTGQILLLFGQDPEIAMGAGSYIRWMIPALFVYGPLQCHVRFLQTQNIVLP
+VMLSSGVTALNHvLVCWLLVYKLGLGNKGAALANAISYLTNVSILALYIRLSPSCKSTWT
+GLSKEAFHDIlSFLRLAVPSALMVCLEWWSFELLVLLSGLLPNPKLEASVLSISLNTGSL
+AFMIPFGLGAAISTRVSNELGAGRPeAARLATRVIMVLGLVsGVSvGLaMILVRNLWGYA
+YSNEKEVVEYIARMMPILAVSFLFDDLQCVLSGVVRGCGwQKIGACVNLSAYYLVGIPAA
+LCFAFVYHLGGMGLWFGIICGLVVQMLLLLsITLCTNWDKEALKAKDRVFSSSLPvDMTT
+
+
+BOP CONSENSUS:
+Length: 480 aa
+
+MlPtMEEPLVGGntEKTGGPkESLVVIEVKKQLYLAGPLIAGcLLQNVVQMISVMFVGHL
+GELALSSASIATSFAGVTGFSLLAGMASSLDTLCGQAFGAKQYHLLGIYKQRAILVLTLV
+SVVVAVIWAYTGQILLLFGQDPEIAMGAGSYIRWMIPALFVYGPLQCHVRFLQTQNIVLP
+VMLSSGVTALnHVLVCWLLVYKLGLGNKGAALANtISYLtNVSILALYIRLSPSCKSTWT
+GLSkEAFRDIlSFMRLAVPSALMVCLEWWSFELLVLLSGLLPNPKLEASVLSISLNTgSL
+VFMIPFGLGAAISTRVSNELGAGRPEAARLATRVIMVLGLVSGVSvGLiMILVRNLWGYA
+YSNEKEVVEYIARMMPILAVtFLFDDLQCVLSGIVRGCGlQKIGAyVNLSAYYLVGIPAA
+LCFAFVYHLGGMGLWFGIiCGLVVQMLLLLsITLRTNWDKEALKAKDRVFSSSLPlDMTT
+
+
+PACMAD CONSENSUS:
+Length: 480 aa
+
+MMPSMDEPLLGNGVqKTgGVRESLVVaEVRKQLYLAGPLIAAWILQNIVQMISVMFVGHL
+GELALSSASIATSFAGVTGFSLLSGMASSLDTLCGQAFGAKQYYLLGIYKQRAILVLTLV
+SLVVAVIWSYTGQILLLFGQDPEIAAGAGSYIRWMIPALFVYGPLQCHVRFLQTQNIVLP
+VMLSSGVTALNHLLVCWLLVYKIGLGNKGAALANAISYLTNVSILAIYVRLAPACKNTWR
+GFSKEAFHDIPSFLRLGVPSALMVCLEWWSFELLVLLSGLLPNPKLETSVLSISLNTGSL
+AFMIPFGLSAAISTRVSNELGAGRPQAAHLATRVVMVLAIVVGILIGLAMILVRNLWGYA
+YSNEEEVVKYISKMMPILAVSFLFDCVQCVLSGVARGCGWQKIGACVNLGAYYLIGIPAA
+FCFAFlYHLGGMGLWLGIICALVVQMLLLLTITLCSNWEKEALKAKDRVFSSSLPVDMTT
+
+================================================================================

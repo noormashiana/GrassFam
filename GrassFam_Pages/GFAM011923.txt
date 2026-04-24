@@ -1,0 +1,142 @@
+================================================================================
+GrassFam ID: GFAM011923
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             563.5 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR42902:SF4
+Panther Family ID:               PTHR42902
+Modal Panther ID:                PTHR42902:SF4
+Modal Panther Description:       MALATE SYNTHASE
+Modal Panther Family ID:         PTHR42902
+Modal Panther Fam Desc:          MALATE SYNTHASE
+Interpro Signature Accession:    cd00727; G3DSA:3.20.20.360:FF:000001; G3DSA:1.20.1220.12:FF:000001; G3DSA:1.20.1220.12; G3DSA:3.20.20.360; TIGR01344; PTHR42902; PIRSF001363; PF20659; PF01274; SSF51645
+Interpro Signature Description:  malate_synt_A; Malate synthase; Malate synthase, domain III; Malate synthase, domain 3; malate synthase A; MALATE SYNTHASE; Malate_synth; Malate synthase, C-terminal; Malate synthase, TIM barrel domain; Malate synthase G
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: malate synthase%2C glyoxysomal
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: malate synthase
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: malate synthase%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: malate synthase; malate synthase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: malate synthase
+  Gene Descriptions: malate synthase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: malate synthase-like
+  Gene Synonyms: MS,OJ991113_30.4
+  Gene Descriptions: malate synthase-like
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 1
+  Modal chromosome: Pau13
+  Gene Products: malate synthase%2C glyoxysomal
+  Gene Descriptions: malate synthase%2C glyoxysomal
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: malate synthase%2C glyoxysomal%2C transcript variant X1; malate synthase%2C glyoxysomal-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: malate synthase%2C glyoxysomal%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: malate synthase%2C glyoxysomal
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: malate synthase 1%2C transcript variant X1
+  Gene Synonyms: GRMZM2G102183,LIP,mas1,MS
+  Gene Descriptions: malate synthase 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 563 aa
+
+PmaasTTAApAPCYDTPEGVDIRGRYDPEFAAILTRDALAFVAGLQREFRGAVRYAMERR
+REAQRRYDAGELPRFDPATRFVREGdWaCAPVPPAIADRTVEITGPAEPRKMVINALNSG
+AKVFMADFEDALSPTWENLMRGQVNLRDAVAGTISFRDAARGRvYKLNDRTAKLFVRPRG
+WHLPEAHVLIDGEPAIGCLVDFGLYFFHNHAAFRAGQGAGFGPFFYLPKMEHSREARIWN
+GVFERAEraAGIERGSIRATVLVETLPAVFQMDEILHELRDHSAGLNCGRWDYIFSYVKT
+FRAHPDRLLPDRALVGMAQHFMRSYSHLLIRTCHRRGVHAMGGMAAQIPIKDDAAANEAA
+LELVRKDKLREVRAGHDGTWAAHPGLIPAIREVFEGHLGGRPNQIdAAAGveGAAVTEED
+LIQPPRGARTVDGLRLNTRVGVQYLAAWLaGSGSVPLYNLMEDAATAEISRVQNWQWLRH
+GAALDAGGVeVRATPELLARVVEEEMARVEAEVGaERFRrGRYAEAGRIFSRQCTAPELD
+DFLTLDAYNLIVVHHPggsPCKL
+
+
+BOP CONSENSUS:
+Length: 563 aa
+
+MPsLHNTTPAMAqCYDTPEGVDIRGRYDPEFAAILTRDALAFVAGLQREFRGAVRYAMER
+RREAQRRYDAGELPRFDPSTRFVREGDWACAPVPPAIADRTVEITGPADPRKMVINALNS
+GAKVFMADFEDALAPTWENLMRGQVNLRDAVAGTISFRDAARGGRVYKLDERTAKLFVRP
+RGWHLPEAHVLIDGEPAIGCLVDFGLYFFHSHAAFRAGQGAGFGPFFYLPKMEHSREARI
+WNGVFERAERVAGIERGSIRATVLVETLPAVFQMDEILHELRDHSAGLNCGRWDYIFSYV
+KTFRAHPDRLLPDRALVGMAQHFMRSYSHLLIRTCHRRRVHAMGGMAAQIPIKDDAAANE
+AALELVRgDKLREVRAGHDGTWAAHPGLIPAIREVFEGHLGGKPNQIDAAAPVDAITEED
+LIQPPRGARTVEGLRLNTRVGVQYLAAWLGGSGSVPLYNLMEDAATAEISRVQNWQWLRH
+GAVLDAGGVAVRATPELLARVVEEEMARVQAEVGAeRFRRGRYAEAGRIFIRQCVAPELD
+DFLTLDAYGLIVVHHPRGtPSKL
+
+
+PACMAD CONSENSUS:
+Length: 563 aa
+
+MAASTTAAPAPCYDAPEGVDVRGRYDPEFASILTRDALAFVAGLQREFRGAVRYAMEQRR
+EAQRRYDAGELPRFDPATRLVREGgWTCAPVPPAVADRTVEITGPAEPRKMVINALNSGA
+KVFMADFEDALSPTWENLMHGQVNLRDAVAGTITFRDAARGREYKLNDQTAKLFVRPRGW
+HLPEAHILIDGEPAIGCLVDFGLYFFHNHAAFRAGQGAGFGPFFYLPKMEHSREARIWNG
+VFERAEQAAGIERGSIRATVLVETLPAVFQMDEILHELRDHSAGLNCGRWDYIFSYVKTF
+RAHPDRLLPDRALVGMAQHFMRSYSHLLIRTCHRRGVHAMGGMAAQIPIKDDAAANEAAL
+ELVRKDKLREVRAGHDGTWAAHPGLIPAIREVFEGHLGGRPNQIGDAAGGHEGAsVTEED
+LIQPPRGARTVDGLRLNvRVGVQYLAAWLAGSGSVPLYNLMEDAATAEISRVQNWQWLRH
+GAALDAGGVEVRATPELLARVVEEEMARVEAEVGpERFRKGRYAEAGRIFSRQCTAPELD
+DFLTLDAYNLIVVHHPGaSPCKL
+
+================================================================================

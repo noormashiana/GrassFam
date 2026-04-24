@@ -1,0 +1,144 @@
+================================================================================
+GrassFam ID: GFAM008240
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             613.0 aa
+Family Size (Extended Family Size): 23 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11550:SF13
+Panther Family ID:               PTHR11550
+Modal Panther ID:                PTHR11550:SF13
+Modal Panther Description:       CTP SYNTHASE
+Modal Panther Family ID:         PTHR11550
+Modal Panther Fam Desc:          CTP SYNTHASE
+Interpro Signature Accession:    cd03113; cd01746; G3DSA:3.40.50.300:FF:000305; G3DSA:3.40.50.880:FF:000012; G3DSA:3.40.50.880; G3DSA:3.40.50.300; TIGR00337; NF003792; PTHR11550; PF00117; PF06418; SSF52317; SSF52540
+Interpro Signature Description:  CTPS_N; GATase1_CTP_Synthase; CTP synthase; -; glutamine hydrolyzing CTP synthase; CTP SYNTHASE; Glutamine amidotransferase class-I; CTP synthase N-terminus; Class I glutamine amidotransferase-like; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: CTP synthase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: CTP synthase-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: CTP synthase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: CTP synthase-like; CTP synthase-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: uncharacterized LOC127768447%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127768447
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC4324172
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: uncharacterized LOC133908389%2C transcript variant X1; uncharacterized LOC133916924
+  Gene Descriptions: uncharacterized LOC133908389; uncharacterized LOC133916924
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: CTP synthase-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: CTP synthase-like%2C transcript variant X1
+Msi
+  Gene count: 3
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: CTP synthase-like%2C transcript variant X2
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: CTP synthase%2C transcript variant X1; ustilago maydis induced8%2C transcript variant X1
+  Gene Synonyms: GRMZM2G132547; GRMZM2G330302
+  Gene Descriptions: CTP synthase; ustilago maydis induced8
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 609 aa
+
+MKYVLVTGGVVSGLGKGVTASSIGVVLKACGLRVTTIKIDPYLNTDAGTMSPFEHGEVFV
+LDDGGEVDLDLGNYERFLDIKLTRDNNITTGKIYQAVINKERRGDYLGKTVQVVPHITDE
+IQDWIERVAMNPVDGKEGPPDVCVIELGGTIGDIESMPFIEALGQFSYRVGPGNFCLVHV
+SLVPVLNVVGEQKTKPTQHSVRGLRGLGLAPDILACRSTEPLEEHVKaKLSQFCHVPISN
+IVNLHDVTNIWHIPLLLRDQKAHEAILKVLDLQYvGKVPREPKLAEWTERATKFDKLKTP
+VKIAMVGKYTGLSDSYLSVLKALLHASVAMERKLVVEWVPSCDLEDSAAKETPEAHKKAW
+KLLKGADGILVPGGFGDRGVQGKILAAKYARENNVPYLGICLGMQIAVIEFARSVMKLrG
+ANSTEFDPATTSPCVIFMPEGSKTHMGATMRLGSRRTYFhVNGCKSAKLYGNAsSVDERH
+RHRYEVNPEMVPDFEKAGLSFVGKDESGRRMEIIELPSHKFFIGAQFHPEFKSRPGKPSP
+LFLGLIAAASGQLEPLLQRSCnVVspNpTpractNGKVPKlKLYPTGpvKkPLNSLVNGY
+YANGNGIHT
+
+
+BOP CONSENSUS:
+Length: 610 aa
+
+MKYVVVTGGVVSGLGKGVTASSIGAVLKACGLRVTTIKIDPYLNTDAGTMSPFEHGEVFV
+LDDGGEVDLDLGNYERFLDIKLTRDNNITTGKIYQAVIDKERRGDYLGKTVQVVPHITDE
+IQDWIERVAMKPVDGKEGPPDVCVIELGGTIGDIESMPFIEALGQFSYRVGPGNFCLVHV
+SLVPVLNVVGEQKTKPTQHSVRGLRGLGLAPDILACRSTEPLEEHVTAKLSQFCHVPISS
+IVNLHDVTNIWHIPLLLRDQKAHEAILKVLDLQLVGKVPREPKLAEWTERASKFDKLKTP
+VKIAMVGKYTGLSDSYLSVLKALLHASVAMERKLVVEWVPSCDLEDSAAKETPEAHQKAW
+KLLKGADGVLVPGGFGDRGVQGKILAAKYARENNVPYLGICLGMQIAVIEFARSVMKLpG
+ANSTEFDPATtSPCVIFMPEGSKTQMGATMRLGSRRTYFLANNCKSAKLYGNAtSVDERH
+RHRYEVNPEMVPELEKAGLSFVGKDESGRRMEIIELPsHvFFIGAQFHPEFKSRPGKPSP
+LFLGLIAAASGQLDLLLQRSCGVVSsNPTPRyiTNGTvVPkIKpYPNGHAKKPLtSLVNG
+YYANGNGIHI
+
+
+PACMAD CONSENSUS:
+Length: 620 aa
+
+MKYVLVTGGVVSGLGKGVTASSIGVVLKACGLRVTTIKIDPYLNTDAGTMSPFEHGEVFV
+LDDGGEVDLDLGNYERFLDIKLTRDNNITTGKIYQAVINKERRGDYLGKTVQVVPHITDE
+IQDWIERVAMNPVDGKEGPPDVCVIELGGTIGDKIFSPHNDSGILDAGDIESMPFIEALG
+QFSYRVGPGNFCLVHVSLVPVLNVVGEQKTKPTQHSVRGLRGLGLAPDVLACRSTEPLEE
+HVKVKLSQFCHVPISNIVNLHDVTNIWHIPLLLRDQKAHEAILKVLELQYaGKVPREPKL
+AEWTkRATKFDKLKTPVKIAMVGKYTGLSDSYLSVLKALLHASVAMERKLVVEWVPSCDL
+EDSSAKETPEAHKKAWKLLKGADGILVPGGFGDRGVQGKILAAKYARENNVPYLGICLGM
+QIAVIEFARSVMKLRGANSTEFDPATTSPCVIFMPEGSKTHMGATMRLGSRRTYFHVNGC
+KSAKLYGNASSVDERHRHRYEVNPDMVPDFERAGLQFVGKDESGrRMEIIELPSHKFFIG
+AQFHPEFKSRPGKPSPLFLGLIAAASGQLEPLLQRSCNNtTKACtNGKVpKLKLYPTGPV
+KNPLNSLVNGYYPNGTGIHT
+
+================================================================================

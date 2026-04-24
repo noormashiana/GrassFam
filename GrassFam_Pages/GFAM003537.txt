@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM003537
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             442.0 aa
+Family Size (Extended Family Size): 24 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR37220:SF5
+Panther Family ID:               PTHR37220
+Modal Panther ID:                PTHR37220:SF5
+Modal Panther Description:       O-FUCOSYLTRANSFERASE FAMILY PROTEIN
+Modal Panther Family ID:         PTHR37220
+Modal Panther Fam Desc:          O-FUCOSYLTRANSFERASE 23
+Interpro Signature Accession:    cd11296; G3DSA:3.40.50.11350; PTHR37220
+Interpro Signature Description:  O-FucT_like; -; O-FUCOSYLTRANSFERASE 23
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: O-fucosyltransferase 23%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu06H
+  Gene Products: O-fucosyltransferase 23-like; O-fucosyltransferase 23-like%2C transcript variant X2
+Ata
+  Gene count: 2
+  Modal chromosome: Ata06D
+  Gene Products: O-fucosyltransferase 23%2C transcript variant X2
+Tae
+  Gene count: 4
+  Modal chromosome: Tae06A
+  Gene Products: O-fucosyltransferase 23-like%2C transcript variant X1; O-fucosyltransferase 23-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: O-fucosyltransferase 23%2C transcript variant X1
+  Gene Descriptions: O-fucosyltransferase 23
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: O-fucosyltransferase 23%2C transcript variant X1
+  Gene Descriptions: O-fucosyltransferase 23
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: O-fucosyltransferase 23-like; O-fucosyltransferase 23-like%2C transcript variant X1
+  Gene Descriptions: O-fucosyltransferase 23-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: O-fucosyltransferase 23-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: O-fucosyltransferase 23
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: uncharacterized LOC8077170
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: O-fucosyltransferase family protein; protein-O-fucosyltransferase 1%2C transcript variant X2
+  Gene Synonyms: GRMZM2G014955; GRMZM2G017741
+  Gene Descriptions: O-fucosyltransferase family protein; protein-O-fucosyltransferase 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 442 aa
+
+MNILLELKHLKlISLPARPVICKGLLIVIgLIVLRAIVSPFLAINSSEKEsFYESTtPDL
+FPGVRRDKFVEVPQIIWGLNNQKIAFARACLTARFLNRSLLMPSLSASLFYKEVDLLQPI
+aFDKVFDFNKFNARCHGFVRLARYSEVSNRTEPFKLQKGSGRRWTVERDLDQLQQSrgGE
+ADDsEVIeItGKHPFLWPDHWPVKDYAKIFDCLALvPEIETEVVKVISKIREAGqKARHE
+AGISHNKqRrDGSTNLPVPYIAVHMRIEKDWMIHCKKWEQRSNSKEICSSKEEIIHKVSQ
+ITDLRRPVVVYLAVADSLLEDDSITSGWRVGMVAYEKKKLGVTDIYDRQPYLIKSAIDFE
+VCaRADVFVGNSFSTFSNLVVLSRTERLYNLGKASSCGENVGLSSYAYNVIGDDGGPQRW
+MTDMSDTSLQRLSYGTNNVSCH
+
+
+BOP CONSENSUS:
+Length: 441 aa
+
+MNILLDLKHLKHISLPTRPVICKCLLIVIGLIVLRAIVSPFLAINsSEKSFYESPTLDLF
+PGVRKDKFVEVPQIIWGLNNQKIAFARACLTAKFLNRSLLMPSLSASLFYKEVDLLQPIa
+FDKVFDFNKFNARCHGFVRLARYSEVSNhTEPFKLQKGSGRRWTVERDLDQLQQSRlGEA
+DGfEVIHVTGKHPFLWPDHWPVKDYARIFDCLALAPEIETEVVKVISKIKDAGkKARHEA
+AISHNKKRIDGstNLPVQYIAVHMRIEKDWMIHCKKWEQRSNLKEICSSKGEIIHKVSQI
+TDLRRPVVVYLAVADSLLEDDSVTSGWRVGMVAYEKKKLGVTDIYeRQPYLIKSAIDFEV
+CARADVFVGNSFSTFSNLVVLSRTERLYKLGKASSCGEDVGLSSYAYNVIGDDGGPQRWM
+TDMLDTSLQRISYGTNNISCH
+
+
+PACMAD CONSENSUS:
+Length: 442 aa
+
+MNILLELKHLKLFSLPARPVICKGLLIVIVLIVLRAIVSPFLAINSSEKEEFYESTAPDL
+LPRIRRDKFVEVPQIIWGLNNQKIAFARACLTARFLNRSLLMPSLSASLFYKEVDLLQPI
+nFDKVFDFNKFNARCHGFVRLARYSEVSNRTEPFKLQKGSGRRWTVERDLDQLQQsIGGK
+ADDSEVIEIVGKHPFLWPDHWPVKDYAKIFDCLVLVPEIETEVVKVISKIREAGQRARHE
+AGiSHSKQRRDGSTNLPVPYVAVHMRIEKDWMIHCKKWEQRSKSHEICSSKEEIIHKVSQ
+ITDLRRPVVVYLAVADSLLEDDSITSGWRVGMVAYEKKKLGVTDIYDRQPYLIKSAIDFE
+VCSRADVFVGNSFSTFSNLVVLSRTERLYNLGKASSCGENIGLSSYAYNVMGDDGGPQRW
+MTDMSDTSLQRLSYGTNNVSCH
+
+================================================================================

@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM011268
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             452.5 aa
+Family Size (Extended Family Size): 22 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12428:SF47
+Panther Family ID:               PTHR12428
+Modal Panther ID:                PTHR12428:SF47
+Modal Panther Description:       INNER MEMBRANE PROTEIN ALBINO3, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR12428
+Modal Panther Fam Desc:          OXA1
+Interpro Signature Accession:    cd20070; TIGR03592; PTHR12428; PF02096
+Interpro Signature Description:  5TM_YidC_Alb3; membrane protein insertase YidC; OXA1; 60Kd inner membrane protein
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: inner membrane protein ALBINO3%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: inner membrane protein ALBINO3%2C chloroplastic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: inner membrane protein ALBINO3%2C chloroplastic%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: inner membrane protein ALBINO3%2C chloroplastic-like; inner membrane protein ALBINO3%2C chloroplastic-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: inner membrane protein PPF-1%2C chloroplastic-like%2C transcript variant X1
+  Gene Descriptions: inner membrane protein PPF-1%2C chloroplastic-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: inner membrane protein PPF-1%2C chloroplastic%2C transcript variant X1
+  Gene Descriptions: inner membrane protein PPF-1%2C chloroplastic
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: inner membrane protein ALBINO3%2C chloroplastic-like; inner membrane protein ALBINO3%2C chloroplastic-like%2C transcript variant X2
+  Gene Descriptions: inner membrane protein ALBINO3%2C chloroplastic-like
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: inner membrane protein ALBINO3%2C chloroplastic-like; inner membrane protein PPF-1%2C chloroplastic-like%2C transcript variant X3
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: inner membrane protein ALBINO3%2C chloroplastic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: inner membrane protein ALBINO3%2C chloroplastic-like%2C transcript variant X2
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: inner membrane protein ALBINO3; uncharacterized LOC100285911
+  Gene Synonyms: GRMZM2G110063,pco148010; GRMZM5G839422
+  Gene Descriptions: inner membrane protein ALBINO3; uncharacterized LOC100285911
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 453 aa
+
+MAKALLSSSLLPSLPRAagGaGAARLPpLPSLRlRRGRRRAaACRVRAsLHGLDSVGGLQ
+AALERAEAALYTLADAAVVAADAAAGAGGDAEQAAAAVQKNGGWFGFISEALEVVLKVLK
+DGLSAVHVPYSYGFAIILLTIIVKAATLPLTKQQVESTLAMQNLQPQIKAIQQRYAGNQE
+RIQLETARLYKQAGVNPLAGCFPTLATIPVWIGLYQALSNVANEGLLTEGFFWIPSLGGP
+TTIAARQSGAGISWLFPFVDGHPPLGWHDTICYLVLPVLLVASQYVSMEIMKPPQSDDPS
+QKNTLLILKFLPFMIGYFSLSVPSGLSIYWFTNNVLSTAQQVWLRKMGGAKPVVSEGGSG
+IITAGRAKRSnAQPAGERFRQLKEEENRRKanKALAAGDSnaSSSTSEDEESDDETTEEG
+GPVEEASsTGSDKKLPSYSGKKGKRSKRKRMVQ
+
+
+BOP CONSENSUS:
+Length: 449 aa
+
+MAKALLSSSLLPSLPRAVAGAGAARLPPLPSLRRRAAGCRVRASLHGLDSVGGLHAALER
+AEAALYTLADAAVVAADSAAGAAGGGEDAgAAVQKSGGWFGFISDAMEVVLKILKDGLSA
+VHVPYAYGFAIILLTIVVKAATLPLTKQQVESTMAMQNLQPQLKAIQARYAGNQERIQLE
+TARLYKQAGVNPLAGCLPTLATIPVWIGLYQALSNVANEGLLTEGFFWIPSLGGPTTIAA
+RQSGAGISWLFPFVDGHPPIGWHDTICYLVLPVLLVASQFVSMEIMKPPQSTDPSQKNTQ
+LILKFLPFMIGYFSLSVPSGLSIYWFTNNVLSTAQQIWLRKLGGAKPAVNEGASGIITAG
+RAKRSGAQSGQGGERFKQLKEEENRRKAVKALGAGDSNGSTTSEDEESDDDTTEEGGPVE
+ETFnTGNDKKLPTYSGKKGKRSKRKRIVQ
+
+
+PACMAD CONSENSUS:
+Length: 457 aa
+
+MAKALLSSSLLPALPRAaGGggGAARLlLLPPLRLRRGRRRAsACAVRAGLHGLDSVGGP
+HLQAALERAEAALYTLADAAVVAADAAAGGGDAGQAAAAVQKNGGWFGFISEALEVVLKV
+LKDGLSAVHVPYSYGFAIILLTIIVKAATLPLTKKQVESTLAMQNLQPQIKAIQQRYAGN
+QERIQLETARLYRQAGVNPLAGCFPTLATIPVWIGLYQALSNVANEGLLTEGFFWIPSLG
+GPTTIAARQSGSGISWLFPFVDGHPPLGWHDTICYLVLPVLLVASQYVSMEIMKPPQSDD
+PSQKNTLLVLKFLPFMIGWFSLSVPSGLSIYWFTNNVLSTAQQVWLRKMGGAKPVVSEGG
+SGIITAGRAKRSNAQPAGERFRQLKEEENRRKfNKALAAGDSdASSStYDSEDEESDDET
+TEEGGPVEEASSTGSDKKLPSYSGKKGKRSKRKRMVQ
+
+================================================================================

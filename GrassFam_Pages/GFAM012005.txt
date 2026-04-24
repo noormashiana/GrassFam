@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM012005
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             449.0 aa
+Family Size (Extended Family Size): 23 (27) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR12428
+Modal Panther ID:                PTHR12428:SF69
+Modal Panther Description:       MEMBRANE PROTEIN OXA1-LIKE, MITOCHONDRIAL, PUTATIVE, EXPRESSED-RELATED
+Modal Panther Family ID:         PTHR12428
+Modal Panther Fam Desc:          OXA1
+Interpro Signature Accession:    cd20069; TIGR03592; PTHR12428; PF02096
+Interpro Signature Description:  5TM_Oxa1-like; membrane protein insertase YidC; OXA1; 60Kd inner membrane protein
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: mitochondrial inner membrane protein OXA1-like
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: mitochondrial inner membrane protein OXA1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: mitochondrial inner membrane protein OXA1-like
+Tae
+  Gene count: 4
+  Modal chromosome: Tae04D
+  Gene Products: mitochondrial inner membrane protein OXA1-like; mitochondrial inner membrane protein OXA1-like%2C transcript variant X3
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: mitochondrial inner membrane protein OXA1-like
+  Gene Descriptions: mitochondrial inner membrane protein OXA1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: mitochondrial inner membrane protein OXA1-like
+  Gene Descriptions: mitochondrial inner membrane protein OXA1-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau04
+  Gene Products: mitochondrial inner membrane protein OXA1-like
+  Gene Descriptions: mitochondrial inner membrane protein OXA1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi09N
+  Gene Products: mitochondrial inner membrane protein OXA1-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha09
+  Gene Products: mitochondrial inner membrane protein OXA1-like; mitochondrial inner membrane protein OXA1-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: mitochondrial inner membrane protein OXA1-like
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: mitochondrial inner membrane protein OXA1-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 446 aa
+
+MAFSARRSLATSLShHFSRRLHPSISHLvPSHHDrSEsPSSSsapPPsPQQQPAPPFPSA
+LrRPSRSRALaLPLPFALHLAAHRsFSTsSSaSAPDIDVAAgVLTDAASsvpVsEVLSDE
+VAAAASVPapPAPYPGEVAAAAAESFPPVAALQYLLDAVQSFTGLNWWAtIALTTVLIRL
+lTVPLLiNQMKSTMKLNAMRPEIEAINEEMRNSTDPRSMEVGKQKLGELFlRHGVTPLTP
+LKGLFIQGPIFMSFFFAISNMVEKVPSLKGGGAYWFTDLTTPDELyILPVLTSLTFLATV
+ELNMQDGMEGNPMLKTMKKFSRflAVMfVPFTMgFPKAIFFYWVTSNLFSLGYGfVLRKP
+AVRlfLDLPPlESQPTPAQmQtLNLFgGPKpSPaVDSPIADKECEQSGvnVDSPIADKES
+EQSSSVLSDRIRDLEnRAKSRGESQE
+
+
+BOP CONSENSUS:
+Length: 432 aa
+
+MAFSARRSLATSLSrHLTRRLHPSLSHLVPSSHDDNhENPSSSSAPPFPTQQPPHFPSGD
+LRRRARSQGLALPLPFGAHLAAHRSFSTSSPGPQIDGVLTDPAAGQMDVAAGVLSDAAAS
+VAPAFPLPFPGEVAAAAADSFPPVAALQYlIDAVHSFTGLNWWASIAVTTILIRTVTIPL
+LVNQLKSTMKLNAMRPEIEAINMEMRNSMDPQSMLEGKrKLGELFTKHGVNPLTPLKGLF
+IQGPIFMSFFFAIQNMVEKVPSLKGGGAYWFTDLTTPDELYILPVLTSVTFLATVELNMQ
+EGMEGNPMLQTMKKFSRILAVMTIPFTMHFPKAIFCYWVTANLFSLGYGFALRKTAVRYF
+LNLPEvvPQPaPAQlSTFNLFEAPKSVSAVDtPTAvnGSEQSNAELSDRVVFLEKKIAEL
+ERRAKARGESQE
+
+
+PACMAD CONSENSUS:
+Length: 445 aa
+
+MAFSARRSLATSLSdHFSRRLHPSISHLIPPHHDRSESPSSSAAPPSPQSQPAPPFPSAL
+pRPSRSRALTSLPLPFALHLAAHRNFSTTSSASAPDIDVAADVLTDAASSVPVSELLSDE
+VVSAAASVPVPPAPYAGEVAAAAAESFPPVAALQYLLDAVQSFTGLNWWATIALTTVLIR
+LLTVPLLINQMKSTMKLNDMRPEIEAINEEMRNSTDPRSMEVGKQKLGELFLRHGVTPFT
+PLKGLFIQGPIFMSFFFAISNMVEKVPSLKGGGAYWFTDLTTPDDLFILPVLTSLTFLAT
+VELNMQDGMEGNPMAKtMKKFSRFFGVMFVPFTIGFPKAIFFYWVTSNLFSLVYGVVIRK
+PAVRLwLDLPPLESQPTPARMQALNLFGGPKPSPGVDSPIADKECEQSGVDSPIADKEsE
+QSSSVLSDRIRDLENRAKSRGESQE
+
+================================================================================

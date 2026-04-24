@@ -1,0 +1,140 @@
+================================================================================
+GrassFam ID: GFAM010476
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             499.0 aa
+Family Size (Extended Family Size): 23 (28) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               Conflicted
+Modal Panther ID:                PTHR10293:SF73
+Modal Panther Description:       GLUTAREDOXIN-3
+Modal Panther Family ID:         PTHR10293
+Modal Panther Fam Desc:          GLUTAREDOXIN FAMILY MEMBER
+Interpro Signature Accession:    cd02984; cd03028; G3DSA:3.40.30.10:FF:000012; G3DSA:3.40.30.10:FF:000092; G3DSA:3.40.30.10; TIGR00365; PTHR10293; SSF52833
+Interpro Signature Description:  TRX_PICOT; GRX_PICOT_like; Monothiol glutaredoxin; Glutaredoxin; Grx4 family monothiol glutaredoxin; GLUTAREDOXIN FAMILY MEMBER; Thioredoxin-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: monothiol glutaredoxin-S11
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: monothiol glutaredoxin-S11
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: monothiol glutaredoxin-S11
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: monothiol glutaredoxin-S11; monothiol glutaredoxin-S11-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: uncharacterized LOC127786440
+  Gene Descriptions: uncharacterized LOC127786440
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: monothiol glutaredoxin-S11-like
+  Gene Descriptions: monothiol glutaredoxin-S11-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau21
+  Gene Products: monothiol glutaredoxin-S11-like; uncharacterized LOC133903050
+  Gene Descriptions: monothiol glutaredoxin-S11-like; uncharacterized LOC133903050
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: uncharacterized LOC120650610; uncharacterized LOC120690609
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: uncharacterized LOC112873958
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: monothiol glutaredoxin-S11%2C transcript variant X3
+Zma
+  Gene count: 3
+  Modal chromosome: Zma01
+  Gene Products: Grx_S17 - glutaredoxin subgroup II; Monothiol glutaredoxin-S17; monothiol glutaredoxin-S11%2C transcript variant X4
+  Gene Synonyms: GRMZM2G090736; GRMZM2G131769
+  Gene Descriptions: Grx_S17 - glutaredoxin subgroup II; Monothiol glutaredoxin-S17
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 499 aa
+
+MASGGAVREVGSeAELDAAVAGARAAAVHFWAsWCEASKQMDEVFAHLAVDFPHAaFLRV
+EAEEQPEISEAYGVTAVPYFVFCKEGKTVDTLEGANPASLANKVAKlAGPASVAESAVPA
+SLGVAAGPAVLEKVQEMAQQNGSSAAESTNSGStEDALNKRLEQLVNSHPVFLFMKGTPE
+QPRCGFSRKVVDILKQEGVEFGSFDILTDNDVREGMKKFSNWPTFPQLYCKGELLGGCDI
+VIAMHESGELKDVFEEHNIPLkPQGSKNEEAVePESATEKsGAVsEPIGLTDAQKARLES
+LiNSSPVMVFIKGSPEEPKCGFSGKLVHILKQENIPFSSFDILSDDEVRQGLKVLSNWPS
+YPQLYIKGELVGGSDIVMEMHKSGELKKVLSEKGVIPKESLEDRLKALISSAPVMLFMKG
+TPDAPRCGFSSKVVNALKKEGISFGSFDILSDEEVRQGLKTYSNWPTFPQLYYKSELIGG
+CDIVLEMEKSGELKSTLSE
+
+
+BOP CONSENSUS:
+Length: 489 aa
+
+MASGGGAVREVGSRAELDAAVGGARAAAVHFWAAWCEASKQMDEVFAHLAVDFPHALFLR
+VEAEEQPEISEAYGVTAVPYFVFCKEGKTVDTLEGANPASLANKVAKLAGPANVAESAAP
+ASLGVAAGPAVLEKVQEMARQNGSSAAESTLNKRLEQLVNSHPVILFMKGNPEEPRCGFS
+RRVVDILKQEGVEFGSFDILTDNEVREGMKKFSNWPTFPQLYCKGELLGGCDIVIAMHES
+GELKDVLKEHNIPLRQQGSKIEEPViSESANEQSPEPIGLTEAQKARLESLTNSNPVMIF
+IKGSPEEPKCGFSGKVVHILKQEKIPFSSFDILSDDEVRQGLKVLSNWPSYPQVYIKGEL
+VGGSDIVMEMHKSGELKKVLTEKGIIpKESLEDRLKALISSSPVMLFMKGNPDNPRCGFS
+SKVVNALKGAGISFGSFDILSDEEVRQGLKTYSNWPTFPQLYYKSELMGGCDIVLELEKS
+GELKSTLSE
+
+
+PACMAD CONSENSUS:
+Length: 606 aa
+
+MICLTECFSRRELRKQKRIAAEKVCDPQLArKGKSNRGRKAKNAPKKtKITSIfCPECQG
+THVkGDELEKPSISLSEMFRFKLKAIEAHKAWLKSPEVLENCSTGLHFPtEHvEREVnSE
+AELeAAVAGARAAAVHFWASWCEASKQMDEVFAHLAVDFPHAAFLRVEAEEQPEISEAYG
+VTAVPYFVFCKEGKTVDTLEGANPASLANKVAKVAGPASVAESAVPASLGVAAGPAVLEK
+VQKMAQRNGSSAAESTNSGStEDALNKRLEQLVNSHPVFLFMKGTPEQPRCGFSRKVVDI
+LKQEGVkFGSFDILTDNDVREGMKKFSNWPTFPQLYCKGELLGGCDIVIAMHDSGELKDV
+FEEHNIPLKPQGSKNEEAVEPESATEKGGAVSEPIGLTDAQKARLESLINSSPVMVFIKG
+TPEEPKCGFSGKLVHILKQENIPFSSFDILSDDEVRQGLKVFSNWPSYPQLYIKGELVGG
+SDIVMEMHKSGELKKVLSEKGVIPKETLEDRLKALISSAPVMLFMKGTPDAPRCGFSSKV
+VNALKKEGISFGSFDILSDEEVRQGLKTYSNWPTFPQLYYKSELIGGCDIILEMEKSGEL
+KSTLSE
+
+================================================================================

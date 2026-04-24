@@ -1,0 +1,122 @@
+================================================================================
+GrassFam ID: GFAM002051
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             497.0 aa
+Family Size (Extended Family Size): 16 (17) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11999:SF160
+Panther Family ID:               PTHR11999
+Modal Panther ID:                PTHR11999:SF160
+Modal Panther Description:       TYROSINE DECARBOXYLASE
+Modal Panther Family ID:         PTHR11999
+Modal Panther Fam Desc:          GROUP II PYRIDOXAL-5-PHOSPHATE DECARBOXYLASE
+Interpro Signature Accession:    cd06450; G3DSA:3.40.640.10:FF:000025; G3DSA:1.20.1340.10:FF:000001; G3DSA:3.90.1150.10; G3DSA:3.40.640.10; G3DSA:1.20.1340.10; PTHR11999; PR00800; PF00282; SSF53383
+Interpro Signature Description:  DOPA_deC_like; Histidine decarboxylase; Aspartate Aminotransferase, domain 1; -; GROUP II PYRIDOXAL-5-PHOSPHATE DECARBOXYLASE; Aromatic-L-amino-acid decarboxylase signature; Pyridoxal-dependent decarboxylase conserved domain; PLP-dependent transferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: tyrosine decarboxylase 1%2C transcript variant X1
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: tryptophan decarboxylase 2%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: tryptophan decarboxylase 2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: tryptophan decarboxylase 2%2C transcript variant X2; tryptophan decarboxylase 2-like%2C transcript variant X2; tryptophan decarboxylase 2-like%2C transcript variant X3
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: tryptophan decarboxylase 2
+  Gene Descriptions: tryptophan decarboxylase 2
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: tyrosine decarboxylase
+  Gene Synonyms: TDC2
+  Gene Descriptions: tyrosine decarboxylase
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 1
+  Modal chromosome: Pau15
+  Gene Products: tryptophan decarboxylase 2%2C transcript variant X3
+  Gene Descriptions: tryptophan decarboxylase 2
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: tyrosine decarboxylase 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 498 aa
+
+MDGSGtSgGGDGGGWLRPMDAEQLRECGHRMVDFvADYYKSIETFPVLSQVQPGYLKELL
+PDSAPNkPDTLDALFDDIREKIVPGVTHWQSPNYFAYYPSNSSTAGFLGEMLSAAFNIVG
+FSWITSPAATELEVIVLDWFAKMLKLPSQFLSTALGGGVIQGTASEAVLVVLLAARDRTL
+RKHGKKSLEKLVVYASDQTHSALQKACQIAGIFPENFRVVKADCnKNYAVAPEAVSEAIS
+iDLSSGLIPFFICATVGTTSSSAVDPLPELGQIAKAHDMWFHIDAAYAGSACICPEYRHH
+LNGVEEADSFNMNAHKWFLTNFDCSLLWVKDRSYLIQALSTNPEFLKNKASQANSVVDFK
+DWQIPLGRRFRSLKLWMVLRLYGVENLQSYIRKHIqLAeHFEQLVISDSRFEVVTPRTFS
+LVCFRLLPPTSDqDNGRKLNYDLMDAANSSGKIFISHTVLSGKFVLRFAVGAPLTEEQHV
+DAAWKLLQDEATKLLGss
+
+
+BOP CONSENSUS:
+Length: 498 aa
+
+MDGSGTSdGGDGGGWLRPMDAEQLRECGHRMVDFIADYYKSIETFPVLSQVQPGYLKELL
+PDSAPNQPDTLDALFDDIREKIIPGVTHWQSPSYFAYYPSNSSTAGFLGEMLSAAFNIVG
+FSWITSPAATELEVIVLDWFAKMLKLPSQFLSDAPGGGVIQGTASEAVLVVLLAARDRTL
+KKHGKKSLEKLVVYASDQTHSALQKACQIAGIFPENFRVVKADCSKNYAVAPEAVSEAIS
+IDLSSGLIPFFICATVGTTSSSAVDPLPELGNIAQGHDMWFHIDAAYAGSACICPEYRHH
+LDGVEKADSFNMNAHKWFLTNFDCSLLWVKDRSYLVEALSTNPEFLKNKASQANSVVDFK
+DWQIPLGRRFRSLKLWMVLRLYGVENLQSYIRKHIQLAEHFEQLVLSDSRFEVVTPRtFS
+LVCFRLLPPTSDhEGGRKLNYDLMDtANSSGKIFISHTVLSGKFVLRFAVGAPLTEEQHV
+DAAWKLLQDEATKLLGsv
+
+
+PACMAD CONSENSUS:
+Length: 497 aa
+
+MDGSGGSGGDGAGWLRPMDAEQLRECGHRMVDFVADYYKSIETFPVLSQVQPGYLKELLP
+DTAPSKPDTLEALFDDIREKIVPGVTHWQSPNYFAYYPSNSSTAGFLGEMLSAAFNIVGF
+SWITSPAATELEVIVLDWFAKMLrLPSQFLSTALGGGVIQGTASEAVLVVLLAARDRTLR
+KHGKTSLEKLVVYASDQTHSALQKACQIAGIFPENVRVVKADCNKNYAVAPEAVSEAIST
+DLSSGLIPFFICATVGTTSSSAVDPLPELGQIAKAHDMWLHIDAAYAGSACICPEYRHHL
+NGVEEADSFNMNAHKWFLTNFDCSLLWVKDRSYLIQSLSTNPEFLKNKASQANSVFDFKD
+WQIPLGRRFRSLKLWMVLRLYGVENLQSYIRKHIELAKHFEQLVISDSRFEVVTPRTFSL
+VCFRLVPLASDQDNGRKLNYDLMDAANSSGKIFISHTVLSGKFVLRFAVGAPLTEEQHVn
+AAWKILQDLATKQLlSS
+
+================================================================================

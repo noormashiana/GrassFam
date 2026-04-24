@@ -1,0 +1,125 @@
+================================================================================
+GrassFam ID: GFAM019411
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             348.0 aa
+Family Size (Extended Family Size): 41 (63) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12411:SF1000
+Panther Family ID:               PTHR12411
+Modal Panther ID:                PTHR12411:SF1000
+Modal Panther Description:       SENESCENCE-SPECIFIC CYSTEINE PROTEASE SAG12
+Modal Panther Family ID:         PTHR12411
+Modal Panther Fam Desc:          CYSTEINE PROTEASE FAMILY C1-RELATED
+Interpro Signature Accession:    cd02248; G3DSA:3.90.70.10:FF:000067; G3DSA:3.90.70.10; PTHR12411; PF00112; SM00645; SM00848; SSF54001
+Interpro Signature Description:  Peptidase_C1A; Senescence-specific cysteine protease; Cysteine proteinases; CYSTEINE PROTEASE FAMILY C1-RELATED; Papain family cysteine protease; pept_c1; Inhibitor_I29_2
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: ervatamin-B
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe01
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: senescence-specific cysteine protease SAG39-like
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: zingipain-2-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl07
+  Gene Products: ervatamin-A-like; ervatamin-B-like
+  Gene Descriptions: ervatamin-A-like; ervatamin-B-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa06
+  Gene Products: senescence-specific cysteine protease SAG39; senescence-specific cysteine protease SAG39-like
+  Gene Descriptions: senescence-specific cysteine protease SAG39; senescence-specific cysteine protease SAG39-like
+Ecu
+  Gene count: 7
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau12
+  Gene Products: senescence-specific cysteine protease SAG39-like
+  Gene Descriptions: senescence-specific cysteine protease SAG39-like
+Svi
+  Gene count: 3
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi08N
+  Gene Products: zingipain-2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: zingipain-2-like
+Msi
+  Gene count: 7
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi05
+  Gene Products: ervatamin-B; senescence-specific cysteine protease SAG39
+Zma
+  Gene count: 3
+  Modal chromosome: Zma04
+  Gene Products: Senescence-specific cysteine protease SAG12; cysteine protease 1; uncharacterized LOC100274134
+  Gene Synonyms: GRMZM2G070011,vignain; GRMZM2G098102; GRMZM2G166870
+  Gene Descriptions: Senescence-specific cysteine protease SAG12; cysteine protease 1; uncharacterized LOC100274134
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 347 aa
+
+MASYIGNKtlITAALlLLaVITmMdhIsvvVEARDLStGGYGEEAMKARHeKWMAEHGRT
+YKDEAEKARRFQVFKANAdFVDRSNAAGgKKYrLAiNeFADmTnDEFmAMYTGFKPVPaG
+AKKlPGFKYENvTLSsDDQQaVDWRQKGAVTGVKNQGQCGCCWAFSAVAAVEGIHQITTG
+nLVSLSEQQLLDCsTnGNNGCNGGyMDNAFQYIIgNGGlTTEDAYPYtAAQGmCQSVQPA
+VTISGYQDVPSgDEaALAAAVANQPVSVAIDAhNFQFYsGGVMTADsCGTnLNHAVTAVG
+YGTAEDGTpYWLLKNQWGQnWGEGGYMRLERGTGACGVAkqASYPVA
+
+
+BOP CONSENSUS:
+Length: 338 aa
+
+MAGTKMTTPfLLLLLIALMSSvVAARELGeEAAMqARHEEWMAEHGRTYKDdAEKARRFQ
+VFKANvELVDRSNAAGtKKYRLAtNkFTDLTsEEFAArYTGFKPAPPGAkmLPGFKYENv
+SLSsADeQGVDWRTtGAVTGVKyQGrCGCCWAFSAVAAVEGIHQITTGQLVSLSEQQLLD
+CTTENhGCGGGfMTsAFqYIADnGGITTEDAYPYVtAQGrCDSdAtqPAATISGYQvVPA
+NNEDALAAAVANQPVSVGIDGkqPSFQmYgGGIMTGDACGTeLNHAVTVVGYGVEQDGTS
+YWLIKNSWGtNWGEGGYMKLQRGTGACGVAMlPSYPVA
+
+
+PACMAD CONSENSUS:
+Length: 346 aa
+
+MASYIGNKtlITAALmLLAVITMMdhIfveVEARDLSTGGYGEEAMKvRHqKWMAEHGRT
+YKDEAEKARRFQVFKANADFVDRSNAAGgKKYqLAINEFADMTnDEFmAMYTGFKPVPaG
+AKKmpGFKYeNvTLSDDQQaVDWRQKGAVTGVKNQGQCGCCWAFSAVAAVEGIHQITTGN
+LVSLSEQQLLDCSTDGNNGCNGGyMDNAFQYIIgNGGLTTEDAYPYTAAQGMCQSVQPaV
+TISGYQDVPSGDEaALAaAVANQPVSVAIDAHNFQFYsGGVMTADsCGTNLNHAVTAVGY
+GTAEDGTPYWLLKNQWGQnWGEGGYMRLERGTGACGVAkQASYPVA
+
+================================================================================

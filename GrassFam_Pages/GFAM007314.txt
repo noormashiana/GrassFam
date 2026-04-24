@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM007314
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             527.5 aa
+Family Size (Extended Family Size): 22 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22600:SF56
+Panther Family ID:               PTHR22600
+Modal Panther ID:                PTHR22600:SF56
+Modal Panther Description:       BETA-HEXOSAMINIDASE
+Modal Panther Family ID:         PTHR22600
+Modal Panther Fam Desc:          BETA-HEXOSAMINIDASE
+Interpro Signature Accession:    cd06562; G3DSA:3.20.20.80:FF:000063; G3DSA:3.20.20.80; G3DSA:3.30.379.10; PTHR22600; PIRSF001093; PR00738; PF00728; SSF51445; SSF55545
+Interpro Signature Description:  GH20_HexA_HexB-like; Beta-hexosaminidase; Glycosidases; -; BETA-HEXOSAMINIDASE; B-hxosamndse_ab_euk_; Glycosyl hydrolase family 20 signature; Glycosyl hydrolase family 20, catalytic domain; (Trans)glycosidases; beta-N-acetylhexosaminidase-like domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi02
+  Gene Products: beta-hexosaminidase 3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: beta-hexosaminidase 3-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: beta-hexosaminidase 3%2C transcript variant X2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: beta-hexosaminidase 3-like%2C transcript variant X1; beta-hexosaminidase 3-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: beta-hexosaminidase 3-like%2C transcript variant X2
+  Gene Descriptions: beta-hexosaminidase 3-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: beta-hexosaminidase 3%2C transcript variant X1
+  Gene Descriptions: beta-hexosaminidase 3
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau11
+  Gene Products: beta-hexosaminidase 3-like
+  Gene Descriptions: beta-hexosaminidase 3-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: beta-hexosaminidase 3-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: beta-hexosaminidase 3-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: beta-hexosaminidase 3-like
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: beta-hexosaminidase 3%2C transcript variant X2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 526 aa
+
+MAPALRLRLvLLLAVVGcCAAaaGAGRVDLWPMPASVtRGAQTLlVSRDLKLSTAGSnYs
+DGKGILaEAFQRMVAVVELDHAINGSYrGlPVLAGVNVAVRSPdDELNFGVDESYKLSVP
+ATGNPLYAQIEAQTVFGALHALETFSQLCNFDFNArLIELHSAPWTIvDkPRFPYRGLLI
+DTSRHYLPVPVIKSVIDSMTFSKLNVLHWHIVDEQSFPLEIPSYPKLWNGAYSYSERYTf
+DDAIDIVQYAEKRGVNVLAEIDVPGHALSWGVGYPSLWPSATCKEPLDVSNDFTFQVIDG
+ILSDFSKVFKFKFVHLGGDEVNTSCWTTTPRIKSWLvQHGMNESDAYRYFVLRAQKIAIS
+HGYDIINWEETFNNFGDKLDRKTVVHNWLGSGVAEKVVsAGLRCIVSNQDKWYLDHLDAT
+WEGFYMNEPLTNIYNPEQQKLVLGGEVCMWGEHIDASDIQQTIWPRAAAAAERLWTPIEK
+LAKDTtSVTARLARFRCLLNQRGVAAAPLAGYGRSAPSEPGSClRQ
+
+
+BOP CONSENSUS:
+Length: 525 aa
+
+MAPALMRLVLALAVVGCCAARQPGGRVDLWPMPASVTRGARTLYVARDLKLSTAGTGYKD
+GKAILADAFRRMVAVIQLDHAINGSYHGLPVLAGVNVAVRSPDDELKFGVDESYKLTVPA
+TGNPIYARIEAQTVFGALHALETFSQLCYFDFVLSVTGLHWAPWTIVDKPRFPYRGLLID
+TARHYLPVPVIKSVIDSMVYSKLNVLHWHIVDEQSFPLEIPSYPKLSNGAYSYSEKYTIN
+DAIDIVQYAEKRGVNVLAEIDVPGHAGSWGVGYPSLWPSATCQQPLDVSNDFTFKVIDGI
+LSDFSKVFKFKFVHLGGDEVDTSCWTTTPRIKSWLVQHGMNESDAYRYFVLKAQKIAISH
+GYEIINWEETFNNFGDKLDRKTVVHNWLGGGVAEKVVSAGLRCIVSNQDKWYLDHLDATW
+EGFYMNEPLTNIYNPEQQKLILGGEVCMWGEHIDASDIQQTIWPRAAAAAERLWTPVEKL
+AKDTTAVTARLAHFRCLLNERGVAAAPLAGYGRTAPSEPGSCVRQ
+
+
+PACMAD CONSENSUS:
+Length: 532 aa
+
+MAsAaRLlLvLLLAvAAAAVGPCGAGAGAGRVDLWPMPASVARGAQTLLVSRDLKLSTAG
+SNYSDGKGILKEAFQRMVAVVELDHVINGSYssrGAPVLAGVRVVVRSPNDELNFGVDES
+YKLSVPATGNPLYAQIEAQTVYGALHALETFSQLCNFDFNARLIELHSAPWTIlDmPRFP
+YRGLLIDTSRHYLPVPVIKSVIDSMTFSKLNVLHWHIVDEQSFPLQIPSYPKLWNGAYSY
+SERYTFDDAIDIVQYAEKRGVNVLAEIDVPGHALSWGVGYPSLWPSATCKEPLDVSNDFT
+FQVINGILSDFSKIFKFKFVHLGGDEVNTSCWTTTPRIKSWLIQHGMNESDAYRYFVLRA
+QKIAISHGYDIINWEETFNNFGDKLDRKTVVHNWLGSGVAEKVVAAGLRCIVSNQDKWYL
+DHLDATWEGFYMNEPLTNIYNPEQQKLVLGGEVCMWGEHIDASDIQQTIWPRAAAAAERL
+WTPIEKLAKDTRSVTARLARFRCLLNQRGVAAAPLAGYGRSAPSEPGSCLRQ
+
+================================================================================

@@ -1,0 +1,120 @@
+================================================================================
+GrassFam ID: GFAM000272
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             502.0 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR15486:SF53
+Panther Family ID:               PTHR15486
+Modal Panther ID:                PTHR15486:SF53
+Modal Panther Description:       PHOSPHOLIPID_GLYCEROL ACYLTRANSFERASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR15486
+Modal Panther Fam Desc:          ANCIENT UBIQUITOUS PROTEIN
+Interpro Signature Accession:    PTHR15486; SSF69593
+Interpro Signature Description:  ANCIENT UBIQUITOUS PROTEIN; Glycerol-3-phosphate (1)-acyltransferase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: glycerol-3-phosphate acyltransferase 1
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: probable glycerol-3-phosphate acyltransferase 2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: probable glycerol-3-phosphate acyltransferase 2
+Tae
+  Gene count: 5
+  Modal chromosome: Tae01A
+  Gene Products: glycerol-3-phosphate acyltransferase 1-like; probable glycerol-3-phosphate acyltransferase 2; probable glycerol-3-phosphate acyltransferase 3; probable glycerol-3-phosphate acyltransferase 3%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: probable glycerol-3-phosphate acyltransferase 2
+  Gene Descriptions: probable glycerol-3-phosphate acyltransferase 2
+Ecu
+  Gene count: 3
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau24
+  Gene Products: probable glycerol-3-phosphate acyltransferase 3
+  Gene Descriptions: probable glycerol-3-phosphate acyltransferase 3
+Svi
+  Gene count: 2
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: probable glycerol-3-phosphate acyltransferase 2; probable glycerol-3-phosphate acyltransferase 3
+Msi
+  Gene count: 1
+  Modal chromosome: Msi17
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: glycerol-3-phosphate acyltransferase 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 495 aa
+
+MAMATTsnRFAhRmLsLHRlVKRNLVAgLLrgrttptTTAApaPpPavRlLGNnAlVVDV
+DALLLKSSPSpaALFPPFFLVAVEAGGFARGLvLLALYPvLrvLpHGARvkAMAMVSFCG
+LRRDEAARIGRAVLPKyFFrEAAdVeALaEAvgAlPkEVKVAAVSRTFPTVMVEAFLKEY
+VGFDAVVGREVKGGyRYFAGVMEDgEtDTERLrrvLKQTEKkttghYPKPMVFHDGRLAF
+TPTPAAALAMYIYFPFAVVLAVVRIAIYTLLPwRvSgVAAALtGVRVRVtGAPPaAaDGd
+PhGGRLYACNHRTLLDPIgIASALGRPVaAVTYSLGRLSELLSPIPLLRLTRgREEDRRR
+MSSLLARGDVVVCPEGTTCREPYLLRFSPLFAELAdEVtPVAVDeRttMFYGTSTSPiAK
+CFDSVYFLMNPRPEYSVqFLEPVnTegGkSSIEVANeVQRVLAdALGFepTALTRKDKYL
+LLAGNEGVVaTKrSN
+
+
+BOP CONSENSUS:
+Length: 503 aa
+
+MaMATSTsNRFAHRMLSLHRLVKsNLVAGLLRGRqTtPtTTgtPvPlPPtRLLGNGktAA
+VVDVDALLLKSSpPSAATLFPPFFLVAVEAGSFVRGLLLLALYPFLrvLTHGACLKAMAM
+VSFCGLRRDEAARIGRAVLPKYFFKEAAhVEALAEvAgeSpkEVKVAAVSRTFPTVMVEA
+FLKDYVGFDAVVGREVKAGYRYFAGVMEDEkTdTtMERLRDgLKQTEmKnTCHYPKPMIF
+HDGRLAFTPTPAAALAMYvYFPFAVVLAVVRIAIYTLLPRRliGvAAALAGVRVRVTGAP
+tsAvdGeTAGGRLYACNHRTLLDPIAISSALGKPVFAVTYSLSRLSELLSPIPLLRLTRG
+REEDRRRMSsLLARGDVVVCPEGTTCREPYLLRFSPLFAELADEVSPVAVDERSTMFYGT
+STSPGAKCFDSVYFLMNPRPEYSVHFLEPVrTGGqnSSIEVANQVQRVLADALGFTPTAL
+TRKDKYLLLAGNEGVVATKkSNV
+
+
+PACMAD CONSENSUS:
+Length: 489 aa
+
+MATTsqRFASRALrIHRFVnRNLVArLLgcsrgaaTtAAAsPsPtVRRLGeNALVVDADA
+LLLKPSPGAAFPPYFLVAVEAGGYARGLVLLALYPVLRvLPHGARvRAMAMVSFCGLRRD
+EAARVGRAVLPKLFFREApDMrAlEALgALPKEVKVVAVSRTFPTVMVEAFLKEYVGFDA
+VvGRELKGGpRYLTGVMEaaELDTErLaRVLKQTEKtsCGyyPKPvVFHDGRLAFTPTPA
+AALAMYIYFPFAVVLAVVRIAIYVLLPWRvSSVVAALTGVRVRVIGATPaAADdsGKPRG
+GRLYACNHRTLLDPVGIAsALGRPVAAVTYSLGRLSEVLSPIPLRRLTRdREEDRRRMSS
+MLARGDVVVCPEGTTCREPYLLRFSPLFAELAsEVTPVAVDARTSVFYATSTSPVAKSFD
+SVYFLMNPRPEYSVQFLEPVNTESGKSSIEVANEVQRvLASALGFEGTALTRKDKYLLLA
+GNEGVVKTK
+
+================================================================================

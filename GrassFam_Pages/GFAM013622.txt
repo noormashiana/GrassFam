@@ -1,0 +1,111 @@
+================================================================================
+GrassFam ID: GFAM013622
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             514.0 aa
+Family Size (Extended Family Size): 16 (16) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47956:SF144
+Panther Family ID:               PTHR47956
+Modal Panther ID:                PTHR47956:SF144
+Modal Panther Description:       OS02G0184900 PROTEIN
+Modal Panther Family ID:         PTHR47956
+Modal Panther Fam Desc:          CYTOCHROME P450 71B11-RELATED
+Interpro Signature Accession:    cd11072; G3DSA:1.10.630.10:FF:000008; G3DSA:1.10.630.10; PTHR47955; PR00463; PF00067; SSF48264
+Interpro Signature Description:  CYP71-like; Cytochrome P450 71D8; Cytochrome P450; CYTOCHROME P450 FAMILY 71 PROTEIN; E-class P450 group I signature
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: zealexin A1 synthase-like
+Tae
+  Gene count: 4
+  Modal chromosome: Tae02B
+  Gene Products: desmethyl-deoxy-podophyllotoxin synthase-like; zealexin A1 synthase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: desmethyl-deoxy-podophyllotoxin synthase-like
+  Gene Descriptions: desmethyl-deoxy-podophyllotoxin synthase-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: desmethyl-deoxy-podophyllotoxin synthase
+  Gene Descriptions: desmethyl-deoxy-podophyllotoxin synthase
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: desmethyl-deoxy-podophyllotoxin synthase-like; zealexin A1 synthase-like
+  Gene Descriptions: desmethyl-deoxy-podophyllotoxin synthase-like; zealexin A1 synthase-like
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi06K
+  Gene Products: zealexin A1 synthase-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi04
+  Gene Products: ent-cassadiene C2-hydroxylase; premnaspirodiene oxygenase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 510 aa
+
+MnqLgYslClFLALLLPLVLLKLKKRDNNGLRLPPGPWRLPVIGSLHHLLRSPLvHRAMA
+DIARRLDAPLIYLRLGEVPVVVASSaDAAREIMKTHDVNFATRPWSpTtRvmrADGEGLV
+FARYGALWRQLRKISVLELLSARRVQSFRRVREEEVGRLVAAVAeASsPGEAVNVSERIA
+vLVADSAVRaMIGDRFERREEFLENLAEaVKItAGFSLGDLFPSSRLASlVGGTtRRAEa
+NHRKtFELMDcAIRQHEERRAAMAaaAiGavEeeEDLVDVLLRIQKEGGLEVPLTMGnIK
+AVILDLFGAGSETSANTLQWAMSELVRNPrVMqKAQvEVRnkLQGKPTVTEDDLvGLKYl
+KLVIKETLRMHPVVPLLLPRECRESCKVMGYDVPKGTTVFVNVWAISRDPKHWDDAETFK
+PERFEAGTVDFKGTDFEFTPFGAGRRMCPGmAFAQASMELVLAALLYHFDWKLPGGmLPS
+ELDMtEEMGITvRRKHDLYLcPVVRVPPLV
+
+
+BOP CONSENSUS:
+Length: 518 aa
+
+MNTMAVDQAACYLLCIVLTLLLPPLLLKLVKRGGNDGLNLPPGPWRLPVIGNLHQVARGG
+PLVHRTMANLARRLDAPLMRLQLGELRVVVASSADAAREIMKTHDASFATRPWNATTRLL
+RADGEGLVFARYGALWRQLRKLCVAELLSARRVRSFRRAREEEVRRLVAAVAEAASSGQA
+VNVSERIATVVADSTMRvMIGDRFERREEFLEELAEIVKVGAGFSLDDMFPSWRLASAVG
+GTTRRAELNHRKTYELMDCVFRQHQQLREAVAEGAIKEEEEDLVDVLLRIQKEGGLEVPL
+TTGNIKAVILDLFNAGSETSANTLQWAMSELMRNPLVMHKAQVELRNSLQGKSTVTEDDL
+AGLKYLKLVIKETLRLHTVLPLLLPRECRETCNVMGYDVPKGTTVFVNAWAISRDPKHWD
+DPEKFKPERFESTTVDFKGTDFEFVPFGAGRRICPGITFAQANMEIVLAALLYHFDWKLP
+GKAmPSELDMAEEMGISVRRKNDLYLCPVVRVsPCALV
+
+
+PACMAD CONSENSUS:
+Length: 509 aa
+
+MeQLGYSmWLFLAALLPLVLLKLKKRDNNGLRLPPGPWRLPVIGSLHHLLRSPLAHRAMA
+DIARRLdAPLIYLRLGEVPVVVASSPDAAREiMKTHDVNFATRPWSPTIKvMlADGEGLV
+FARYGALWRQLRKISILELLSARRVQSFRRVREEEVGRLVAAIAASpPGEAVNVSERIAV
+LvnDSAVRsMIGDRFERREEFLENLAEAvKITTGFSLGDLFPSSRLASLIGGTARRAaAN
+HRKQFELMDyAIRQHEERRAAMAaAADGegIVkEDLVDVLLRIQKEGGLEVPLTMGmIKA
+VILDLFGAGSETSANTLQWAMSELVRNPKVMQKAQAEVReKLQGKPTVTEDDLVDLKYIK
+LVIKETLRMHPVVPLLLPRECRESCKVMGYDIPKGTTVFVNVWAISRDPKYWDDAETFKP
+ERFEAGTVDFKGTDFEFTPFGAGRRMCPGMAFAQASMELVLAALLYHFDWkLPgGMLPSE
+LDMTEEMGITARRKHDLYLqPVVRVPPqv
+
+================================================================================

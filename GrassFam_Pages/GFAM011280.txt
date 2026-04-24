@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM011280
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             568.0 aa
+Family Size (Extended Family Size): 21 (27) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24064:SF492
+Panther Family ID:               PTHR24064
+Modal Panther ID:                PTHR24064:SF492
+Modal Panther Description:       INORGANIC PHOSPHATE TRANSPORTER 1-9-RELATED
+Modal Panther Family ID:         PTHR24064
+Modal Panther Fam Desc:          SOLUTE CARRIER FAMILY 22 MEMBER
+Interpro Signature Accession:    cd17364; G3DSA:1.20.1250.20:FF:000175; G3DSA:1.20.1250.20; PTHR24064; PF00083; SSF103473
+Interpro Signature Description:  MFS_PhT; Inorganic phosphate transporter 1-6; MFS general substrate transporter like domains; SOLUTE CARRIER FAMILY 22 MEMBER; Sugar (and other) transporter; MFS general substrate transporter
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: probable inorganic phosphate transporter 1-10%2C transcript variant X3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: probable inorganic phosphate transporter 1-10
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: probable inorganic phosphate transporter 1-10
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: probable inorganic phosphate transporter 1-10
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl06
+  Gene Products: probable inorganic phosphate transporter 1-10; probable inorganic phosphate transporter 1-9
+  Gene Descriptions: probable inorganic phosphate transporter 1-10; probable inorganic phosphate transporter 1-9
+Osa
+  Gene count: 2
+  Modal chromosome: Osa06
+  Gene Products: probable inorganic phosphate transporter 1-10; probable inorganic phosphate transporter 1-9
+  Gene Synonyms: OsJ_020312,OsPht1%3B10,OsPT10,P0652D10.5,PHT1-10,PT10
+  Gene Descriptions: probable inorganic phosphate transporter 1-10; probable inorganic phosphate transporter 1-9
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: probable inorganic phosphate transporter 1-10
+  Gene Descriptions: probable inorganic phosphate transporter 1-10
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi04K
+  Gene Products: probable inorganic phosphate transporter 1-10
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: probable inorganic phosphate transporter 1-10
+Msi
+  Gene count: 1
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: probable inorganic phosphate transporter 1-10
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 566 aa
+
+MAPIRVLTALDQARTQYYHFKAIVIAGMGLFTDSYDLFCIaPVMKIIGRVYYpPpaGdGr
+PGVTPPAVVSATVGVALLGAVVGNLVFGALGDRVGRRRVYGaCLLLMVCSSVGSGFSVCR
+TRRCVLASLCFFRFLLGVGVGGDYPLSATIMSEFANKRTRGAFIAAVFSMQGFGILASSG
+VTMVVAAAFDRFTGHPAPLDTPEAADLAWRVILMAGAVPAALTFYWRMAMPETARFTALV
+ERDVVKATNDIGRVLTDLDLNAiAEEEdAAAmpRTPpPFGyAPapsYGLFSRRFLRqHGR
+DLFACAAAWFLLDIPYYSSTLFQSQIYRPWFPPAShvNAFQEAYNVAKFQAIIAVASTIP
+GYFAAVLLIDRvGRRRLQMAGFLLMAVFLFALAGPYDHYWRGNAKNAWYIVLYALTFFSA
+NLGPNTTTFILPAELFPARFRSTCHGISGAAGKLGALVGSVGFLWASQsRDRGdVQAGYE
+PGIGMMYALvILGGISLLGLAVTYvFTPETMRRSLEENESERgQsQVGDGDGGmRFQELT
+ltPKSPASmVSSHVSTSPIHPHRFSV
+
+
+BOP CONSENSUS:
+Length: 565 aa
+
+MAPIRVLTALDHARTQYYHFKAIIIAGMGLFTDSYDLFCIVPVMKIIGRVYYPSPAGDGR
+PGVTPPAVVSATVGVALLGAVVGNLLFGALGDRVGRRRVYGPCLLLLVCSSVGSGFSVCR
+TRRCVLSSLCFFRFLLGVGVGGDYPLSATIMSEFANKRTRGAFIAAVFSMQGFGILASSG
+VTMVVAAAFDRFTGHPAPLDTPEAADLAWRVILMAGAVPAGLTFYWRMAMPETARFTALV
+QRDVLKATNDIGRVLTDLDLNAvAEEEDAAAmPRTPAPFGYAPApQYGLFSRRFLRQHGR
+NLFGCAATWFLLDIPYYSSTLFQSQIYRPWFPPASHQNVFQEAYNVARFQAIIAVASTIP
+GYFAAVLLIDRtGRRRLQMAGFFLMAAFLFALAGPYDHYWRGNAKNAWYIVLYALTFFSA
+NLGPNTTTFILPAELFPARFRSTCHGISGAAGKVGALVGSVGFLWASQsRDRGdVQAGYE
+PGIGMMYALvILGGISLLGLAVTYfFTPETMRRSLEENESERDQnQDGDGGSMRFQELNL
+TPKSPgSMVSSHVSTSPIHPHRFSV
+
+
+PACMAD CONSENSUS:
+Length: 565 aa
+
+MPpIRVLTALDQARTQYYHFKAIVIAGMGLFTDSYDLFCIAPVMKLIGRVYYAPGGtGvP
+GVTPPAVVSATVGVALLGAVVGNLVFGTLGDRVGRRRVYGTCLLLMVCSSVGSGFSVCRT
+RRCVLASLCFFRFLLGVGIGGDYPLSATIMSEFANKRTRGAFIAAVFSMQGFGILASSGV
+TMAVAAAFDRYTGHRAPLDTPESADLAWRIILMIGAVPAALTFYWRMAMPETARFTVLVE
+HDVVKATNDIGRVLADLDLvAITEEEAAALRRTTPPARFGLPTsSYGLFSRRFLRRHGRD
+LFACASAWFLLDIPYYSSTLFQSQIYRPWFPPASRVNAFQEAFNVAKFQAIIAVASTIPG
+YFAAVLLIDRVGRRRLQMAGFLLMAVFLFALAGPYDRYWRGHATDAWYIVLYALTFFSAN
+LGPNTTTFILPAELFPARFRSTCHGISGAAGKLGAVIGAIGFLWASQERDRREVQAGYRP
+GIGMMYALVILGGISLLGLAVTYVFTPETMGRSLEENESERGQSQVGDGDGEQRFQELTE
+LPKSPASIVSSHVSTSPIHPHRFSV
+
+================================================================================

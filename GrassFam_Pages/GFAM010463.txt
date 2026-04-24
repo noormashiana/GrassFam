@@ -1,0 +1,145 @@
+================================================================================
+GrassFam ID: GFAM010463
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             735.0 aa
+Family Size (Extended Family Size): 18 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23090:SF16
+Panther Family ID:               PTHR23090
+Modal Panther ID:                PTHR23090:SF16
+Modal Panther Description:       GLUTAMINE-DEPENDENT NAD(+) SYNTHETASE
+Modal Panther Family ID:         PTHR23090
+Modal Panther Fam Desc:          NH 3 /GLUTAMINE-DEPENDENT NAD +  SYNTHETASE
+Interpro Signature Accession:    cd00553; cd07570; G3DSA:3.60.110.10:FF:000003; G3DSA:3.40.50.620:FF:000036; G3DSA:3.60.110.10; G3DSA:3.40.50.620; PTHR23090; PIRSF006630; PF00795; PF02540; SSF52402; SSF56317
+Interpro Signature Description:  NAD_synthase; GAT_Gln-NAD-synth; Glutamine-dependent NAD(+) synthetase; -; HUPs; NH 3 /GLUTAMINE-DEPENDENT NAD +  SYNTHETASE; NADS_GAT; Carbon-nitrogen hydrolase; NAD synthase; Adenine nucleotide alpha hydrolases-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: glutamine-dependent NAD(+) synthetase%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: glutamine-dependent NAD(+) synthetase%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: glutamine-dependent NAD(+) synthetase%2C transcript variant X2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: glutamine-dependent NAD(+) synthetase; glutamine-dependent NAD(+) synthetase-like; glutamine-dependent NAD(+) synthetase-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: glutamine-dependent NAD(+) synthetase%2C transcript variant X1
+  Gene Descriptions: glutamine-dependent NAD(+) synthetase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: glutamine-dependent NAD(+) synthetase
+  Gene Synonyms: OJ1641_C04.125
+  Gene Descriptions: glutamine-dependent NAD(+) synthetase
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 1
+  Modal chromosome: Pau14
+  Gene Products: glutamine-dependent NAD(+) synthetase
+  Gene Descriptions: glutamine-dependent NAD(+) synthetase
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: glutamine-dependent NAD(+) synthetase%2C transcript variant X1; glutamine-dependent NAD(+) synthetase-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: glutamine-dependent NAD(+) synthetase%2C transcript variant X1
+Msi
+  Gene count: 1
+  Modal chromosome: Msi04
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: glutamine-dependent NAD(+) synthetase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 735 aa
+
+MRLLRVATCNLNQWAMDFDTNLRNVKESIARAKAAGAAVRvGPELELTGYGCEDHFLEQD
+TTAHAWECLKDILSGDYTDNILCSIGMPVIFKSVRYNCQVFCLNRKIIMIRPKMSLANDG
+NYREFRWFSAWTFKDELVDFQLPIDVSEAISQDTVPFGYGYmQFLDVSLAAETCEELFTA
+NAPRIDLALNGVEVFMNASGSHHQLRKLNLRIDSIRNATRlCGGVYMYANHQGCDGGRLY
+YDGCCCIAVNGDVVAQGSQFSLKDVEVLDALVDLDAVSSYRASVSSFREQASHRTNVPFV
+KVPYKLCQtFRnGMVPTsPVEIMYHCPEEEIAFGPSCWLWDYLRRSRASGFLLPLSGGAD
+SSSVAAIVGCMCQLVIKDIEKGDEQVKADAlRIGQYKDGEFPTDSRELAKRLFYTVYMGT
+ENSSEDTRSRAKRLAEEIGSFHLDVPIDSIVSAFLSLFERLTGKRPRYKVDGGSnTENLG
+LQNIQARIRMVLAFMMASLMPWVHNKSGFYLVLGSSNVDEGLRGYLTKYDCSSADINPIG
+SVSKQDLRAFLRWAAVHLqYSSLAEVEAAPPTAELEPIRADYSQLDEVDMGMTYEELSIY
+GRLRKIFRCGPVSMFQNLCHRWCGRLSPSEVADKVKHFFKYYAINRHKMTVLTPSYHAES
+YSPEDNRFDLRQFLYNSRWPYQFRKIDELVQDMDKDGKWEtsAEGQLRqrtGVRSAQGSG
+MGVVAAGSANPSAGf
+
+
+BOP CONSENSUS:
+Length: 735 aa
+
+MRLLRVATCNLNQWAMDFDTNLRNVKESIsRAKAAGAVVRIGPELELTGYGCEDHFLEQD
+TTAHAWECLKDILSGDYTDNILCSIGMPIIFKSVRYNCQVFCLNRKIIMIRPKMSLANDG
+NYREFRWFSAWTYKDELVDFQLPIDVSEVISQETVPFGYGYLQFLDVSLAAETCEELFTA
+NAPRIDLAFSGVEVFMNASGSHHQLRKLNLRIDSMRDATRLCGGVYMYANHQGCDGGRLY
+YDGCCCIAVNGDVVAQGSQFSLKDVEVLDALIDLDAVSSYRACVSSFREQASHVTKVPCV
+KVQYKLCQTFRDGMIPTDPVEIMYHCPEEEIAFGPSCWLWDYLRRSRASGFLLPLSGGAD
+SSSVAAIVGCMCQLVIKDIDKGDEQVKADAMRIGQYKDGEFPTDSRELAKRLFYTVYMGT
+ENSSEDTRSRAKRLAEEIGSFHFDVPIDSVVSAFLSLFERLTGKRPRYKVDGGSHTENLG
+LQNIQARIRMVLAFMMASLMPWVHNKSGFYLVLGSSNVDEGLRGYLTKYDCSSADINPIG
+SVSKQDLRAFLRWAAVHLQYSSLAEVEAAPPTAELEPIRTDYSQLDEVDMGMTYEELSIY
+GRLRKIFRCGPVSMFQNLCHRWCGRLSPSEVADKVKHFFKYYAINRHKMTVLTPSYHAES
+YSPEDNRFDLRQFLYNSTWPYQFRKIDQLVQDIDKDGKWDRRADSQLRQRgAVRSAQGGG
+MGVVAAGSANPSVGL
+
+
+PACMAD CONSENSUS:
+Length: 732 aa
+
+MRLLRVATCNLNQWAMDFDTNLRNVKESIARAKAAGAAVRVGPELELTGYGCEDHFLEQD
+TTAHAWECLKDILTGDYTDNILCSIGMPVIFNSVRYNCQVFCLNRKIIMIRPKMSLANDG
+NYREFRWFSAWTFKDEIVEFQLPIEVSEAISQDTVPFGYGYMRFLDVSLAAETCEELFTA
+NAPRIDLALNGVEVFMNASGSHHQLRKLNLRIDSIRNATQTCGGVYMYANQQGCDGGRLY
+YDGCCCIAVNGDLVAQGSQFSLKDVEVMDALVDLDAVSSYRASVSSFREQASHRTNVPFV
+KVPYKLCQSFRNGMVPTSPVQIMYHCPEEEIAFGPSCWLWDYLRRSQASGFLLPLSGGAD
+SSSVAAIVGCMCQLVIKDIEKGDEQVKADALRIGQYKDGEIPTDSRELAKRLFYTVYMGT
+ENSSEDTRSRAKRLAEEIGSFHLNVPIDSIVSAFLSLFETLTGKRPRYKVDGGSNTENLG
+LQNIQARIRMVLAFMMASLMPWVHNKSGFYLVLGSSNVDEGLRGYLTKYDCSSADINPIG
+SVSKQDLRAFLRWAAIHLKYSSLAEVESAPPTAELEPIRANYSQLDEVDMGMTYEELSIY
+GRLRKIFRCGPVSMFQNLCHSWCGRLSPSEVADKVKHFFKYYAINRHKMTVLTPSYHAES
+YSPEDNRFDLRQFLYNSRWPYQFRKINELVQEMDKDGKWETsAEGQLtmQTGAQGSGMGV
+VAAGSANPSAGF
+
+================================================================================

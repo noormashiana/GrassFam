@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM003186
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             553.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10229:SF0
+Panther Family ID:               PTHR10229
+Modal Panther ID:                PTHR10229:SF0
+Modal Panther Description:       GTP-BINDING PROTEIN 6-RELATED
+Modal Panther Family ID:         PTHR10229
+Modal Panther Fam Desc:          GTP-BINDING PROTEIN HFLX
+Interpro Signature Accession:    cd01878; G3DSA:3.40.50.11060:FF:000006; G3DSA:3.40.50.300:FF:000173; G3DSA:3.40.50.300; G3DSA:3.40.50.11060; TIGR03156; PTHR10229; PF16360; PF13167; SSF52540
+Interpro Signature Description:  HflX; Predicted protein; GTPase HflX; -; GTP-BINDING PROTEIN HFLX; GTP-binding GTPase Middle Region; GTP-binding GTPase N-terminal; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: GTPase HflX%2C transcript variant X1
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: GTPase HflX
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: GTPase HflX%2C transcript variant X1
+Tae
+  Gene count: 2
+  Modal chromosome: Tae04A
+  Gene Products: GTPase HflX-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola11
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: uncharacterized LOC127753992
+  Gene Descriptions: uncharacterized LOC127753992
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4350828
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN229
+Pau
+  Gene count: 1
+  Modal chromosome: Pau19
+  Gene Products: uncharacterized LOC133900886
+  Gene Descriptions: uncharacterized LOC133900886
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi08K
+  Gene Products: GTPase HflX-like; GTPase HflX-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: GTPase HflX
+Msi
+  Gene count: 3
+  Modal chromosome: Msi10
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: GTPase HflX
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: GTP-binding protein hflX
+  Gene Synonyms: GRMZM2G027021
+  Gene Descriptions: GTP-binding protein hflX
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 550 aa
+
+MsAAACLFaAAaSLPLPSTSAPASSgRRcrRSPAsLRCSPpRRRGpVRALDERLLEAAPA
+ETEvEEaGVdvGdGGGeaEGdEVGeqgeeEEEqRPPaRAFVKSRRQRQEEEEAAAGQDRF
+KLINGKEIFQEKAYLVGVECKRTGGNLFGIEESLKELEQLADTAGLVVVGSTYQKLSTPN
+PRTYIGSGKVSEIRSAIQALDVETVIFDDELSPGQLRNLEKSFGGSVRVCDRTALILDIF
+NQRAATHEAALQVTLAQMEYQLPRLTKMWSHLERQAGGQVKGMGEKQIEVDKRILRTQIS
+ALRKELESVRKHRKLYRNRRQSVPIPVVSLVGYTNAGKSTLLNRLTGADVLAEDKLFATL
+DPTTRRVLMKNGTEFLLTDTVGFIQKLPTMLVAAFRATLEEISESSVIVHLVDISHPLAQ
+QQIDAVDKVLKELDVESIPKLVVWNKIDNTDEPLRVKEEAEKQGIICISAMNGDGLEEFC
+NAIQAKLKDSMVPIEAFVPYDKGDLLNDIHKVGMVEKTEYKENGTFVKAHVPLPLARLLT
+PLRQQVVAav
+
+
+BOP CONSENSUS:
+Length: 556 aa
+
+MRAACFStFFTAASLPLPSTSTAASSPRcrSpASLRCSqPRRRRGGVVRALDERLLEAAT
+PAPAETEVEDESGVgEiEDGGErEGRdGvAniVGpSEAeEQPARAPKRsRRQQQEEEdAA
+AERDRFKLINGKEIFQEKTYLVGVECKRAGGdnFSIEESLKELEQLADTAGLMVVGSTYQ
+KLStPNPRTYIGSGKVAEIRSAIQALDVETVIFDDELSAGQLRNLEKSFGGGVRVCDRTA
+LILDIFNQRAATHEAALQVTLAQMEYQLPRLTKMWTHLERQSGGQVKGMGEKQIEVDKRI
+LRTQISTLRKELESVRKHRKLYRNRRQSVPIPVVSLVGYTNAGKSTLLNRLTGADVLAED
+KLFATLDPTTRRVLMKSGTEFLLTDTVGFIQKLPTMLVAAFRATLEEISESSIIVHLVDI
+SHPLAQQQIDAVDKVLKELDIESIPKLVVWNKIDNTDDPLRVKEEAEKQGIICISAMNGD
+GLEEFCNAIQAKLKDSLVPIEAFVPYDKGELLNDIHKVGMVEKTEYMENGTFVKAHVPLP
+LARLLTPLRQQVAAvL
+
+
+PACMAD CONSENSUS:
+Length: 552 aa
+
+MSAAACLFAAAVSLsLPSTSAPASASGRRCRRSPAtLLRCSPTRRRGPVRALDERLLEAA
+PAETEgEEAGVDVGDGGGdAEGDEVGeqeVVEEEQRPPARAFVKSRRQRQEEEEAAAGQD
+RFKLINGKEIFQEKAYLVGVECKRTGGNLFGIEESLKELEQLADTAGLVVVGSTYQKLST
+PNPRTYIGSGKVSEIRSAIQALDVETVIFDDELSPGQLRNLEKSFGGSVRVCDRTALILD
+IFNQRAATHEAALQVTLAQMEYQLPRLTKMWSHLERQAGGQVKGMGEKQIEVDKRILRTQ
+ISALRKELESVRKHRKLYRNRRQSVPIPVVSLVGYTNAGKSTLLNRLTGADVLAEDKLFA
+TLDPTTRRVLMKNGTEFLLTDTVGFIQKLPTMLVAAFRATLEEISESSVIVHLVDISHPL
+AQQQIDAVDRVLKELDVESIPKLVVWNKIDNTDEPLRVKEEAEKQGIICISAMNGDGLEE
+FCNAIQAKLKDSMVPIEAFVPYDKGDLLNDIHKVGMVEKMEYKENGTFVKAHVPLPLARL
+LTPLRQQVVAAV
+
+================================================================================

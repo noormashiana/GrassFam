@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM012441
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             524.0 aa
+Family Size (Extended Family Size): 19 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11878:SF65
+Panther Family ID:               PTHR11878
+Modal Panther ID:                PTHR11878:SF65
+Modal Panther Description:       NA_CA-EXCHANGE PROTEIN, ISOFORM G
+Modal Panther Family ID:         PTHR11878
+Modal Panther Fam Desc:          SODIUM/CALCIUM EXCHANGER
+Interpro Signature Accession:    PTHR11878
+Interpro Signature Description:  SODIUM/CALCIUM EXCHANGER
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: magnesium/proton exchanger 1%2C transcript variant X1
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: magnesium/proton exchanger 1%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: magnesium/proton exchanger 1%2C transcript variant X4
+Tae
+  Gene count: 2
+  Modal chromosome: Tae04A
+  Gene Products: magnesium/proton exchanger 1-like%2C transcript variant X2; magnesium/proton exchanger 1-like%2C transcript variant X4
+Ola
+  Gene count: 1
+  Modal chromosome: Ola11
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl02
+  Gene Products: magnesium/proton exchanger 1; magnesium/proton exchanger 2
+  Gene Descriptions: magnesium/proton exchanger 1; magnesium/proton exchanger 2
+Osa
+  Gene count: 2
+  Modal chromosome: Osa02
+  Gene Products: magnesium/proton exchanger 1-like%2C transcript variant X1; magnesium/proton exchanger 2-like
+  Gene Synonyms: MHX1,OsJ_34726
+  Gene Descriptions: magnesium/proton exchanger 1-like; magnesium/proton exchanger 2-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 1
+  Modal chromosome: Pau12
+  Gene Products: magnesium/proton exchanger 1
+  Gene Descriptions: magnesium/proton exchanger 1
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi08K
+  Gene Products: magnesium/proton exchanger 1%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: magnesium/proton exchanger 1%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: magnesium/proton exchanger 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: Magnesium/proton exchanger%2C transcript variant X1
+  Gene Synonyms: GRMZM2G126601
+  Gene Descriptions: Magnesium/proton exchanger
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 524 aa
+
+MsNItMasTssSCDTYLLFhGETLLPNGVRAFLYTVALAYCFIGLSAITARFFKSMESIM
+rHSREVVTVDPHTNtPIVKHEKVWNYTIADIALLAFGTSFPQISLATIDAIRNLGQLTAG
+GLGPGTLVGSAAFDLFPIHAVCVVMPRAGSKKKISDLGVWLVELFWSFWAYIWLYIILEV
+WTPrVITLWEALLTVLQYGLLLLHAYAQDKRWPYVSIPLVRGERPEDWVPaEDaSVDYDK
+NCDEISEILPsqNEDIVDIFSaHSYsNAEYHHVPEKDmEESSTtnLVVKNTQEDTsWLSI
+WWQQFVDAvMLESPESRKMDSvCLRFIRIFWNLIIAPWKLLFAFVPPYhIAHGWIAFICS
+LIFISGIAYGVTKLTDQISCVTGVSPYVIAFTALAAGTSWPDLVASKIAAERQVTADSAI
+ANITCSNSVNIYVGIGVPWLIDTVYNFFVYQEPLYIDNAAGLSFSLLVFFATSFGCITVL
+VLRRIILGAELGGPRLWAWvTSVYFMILWVVFVVLSSLRVSGVI
+
+
+BOP CONSENSUS:
+Length: 524 aa
+
+MANITMGSTtPSCDTYLLFNGETLLPNGVRAFlYTVALAYCFIGLSAITARFFKSMESIT
+NHSREVVTVDPHTNTPIVKHEKVWNYTIADIALLAFGTSFPQISLATIDAIRNLGQLTAG
+GLGPGTLVGSAAFDLFPIHAVCVVMPRAGSMKKISDLGVWLVELFWSFWAYIWLYIILEV
+WTPRVITLWEALLTVLQYGLLLVHAYAQDKRWPYVSIPLVRGERPEDWVPAEDTSVDYDK
+NCDEISDILPSQNEDIVDIFSaHSYSNAGYHHVPEKDIEESSKTgLVVKNTQEDTyWLSI
+WWQQFVDAVMLESPESRKMDSvCLRFIiIsWNSIIAPWKLLFAFVPPYQIAHGWIAFICS
+LIFISGIAYGVTKITDQISCVTGVSPYVIAFTALAAGTSWPDLVASKIAAERQVTADSAI
+ANITCSNSVNIYVGIGVPWLIDTVYNYFVYQEPLYIDNAAGLSFSLLVFFATSFGCITVL
+VLRRIVLGAELGGPRLWAWATSVYFMVLWVVFVVLSSLRVSGVI
+
+
+PACMAD CONSENSUS:
+Length: 530 aa
+
+MSNIAMVGAaPPPSsCDsTYLLFHGETLLSNGVRASLYTVALAYCFIGLSAITARFFKSM
+EQIMKHSREVVvVDPHTNePVVKQEKVWNYTIADIALLAFGTSFPQISLATIDAIRNLGQ
+LTAGGLGPGTLVGSAAFDLFPIHAVCVVMPRAGSKKKISDLGVWLVELFWSFWAYIWLYV
+ILEVWTPKVITLWEALLTVLQYGLLLLHAYAQDKRWPYVSIPFVRGeRPEDWVPpEDVSV
+DYDNCDEISETLPiSADrNDGIVDIFSAHSYHNAEYSKVPEKDMEGSSTMDqVVKNTQED
+TSWLSIWWQQFVDAsMLESPESRKMDSvCLRfTRIFWNLIIAPWKLLFAFVPPYHIAHGW
+IAFICSLIFISGIAYGVTKLTDQISCVTGVSPYVIAFTALAAGTSWPDLVASKIAAERQV
+TADSAIANITCSNSVNIYVGIGVPWLIDTVYNFFVYQEPLYIDNAAGLSFSLLVFFATSF
+GCITVLVLRRIILGAELGGPRLWAWVTSVYFMILWVVFVVFSSLRVSGvI
+
+================================================================================

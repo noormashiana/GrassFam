@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM013310
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             451.0 aa
+Family Size (Extended Family Size): 31 (36) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13693:SF89
+Panther Family ID:               PTHR13693
+Modal Panther ID:                PTHR13693:SF89
+Modal Panther Description:       OS01G0736400 PROTEIN
+Modal Panther Family ID:         PTHR13693
+Modal Panther Fam Desc:          CLASS II AMINOTRANSFERASE/8-AMINO-7-OXONONANOATE SYNTHASE
+Interpro Signature Accession:    G3DSA:3.40.640.10; G3DSA:3.90.1150.10; PTHR13693; PF00155; SSF53383
+Interpro Signature Description:  -; Aspartate Aminotransferase, domain 1; CLASS II AMINOTRANSFERASE/8-AMINO-7-OXONONANOATE SYNTHASE; Aminotransferase class I and II; PLP-dependent transferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: 8-amino-7-oxononanoate synthase%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu01H
+  Gene Products: 8-amino-7-oxononanoate synthase%2C transcript variant X1; 8-amino-7-oxononanoate synthase-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata01D
+  Gene Products: 8-amino-7-oxononanoate synthase; 8-amino-7-oxononanoate synthase-like
+Tae
+  Gene count: 6
+  Modal chromosome: Tae01B
+  Gene Products: 8-amino-7-oxononanoate synthase-like; 8-amino-7-oxononanoate synthase-like%2C transcript variant X1
+Ola
+  Gene count: 2
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl01
+  Gene Products: 8-amino-7-oxononanoate synthase-like%2C transcript variant X1
+  Gene Descriptions: 8-amino-7-oxononanoate synthase-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa01
+  Gene Products: 8-amino-7-oxononanoate synthase%2C transcript variant X1
+  Gene Descriptions: 8-amino-7-oxononanoate synthase
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau21
+  Gene Products: 8-amino-7-oxononanoate synthase%2C transcript variant X1; 8-amino-7-oxononanoate synthase-like%2C transcript variant X1
+  Gene Descriptions: 8-amino-7-oxononanoate synthase; 8-amino-7-oxononanoate synthase-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi09K
+  Gene Products: 8-amino-7-oxononanoate synthase-like; 8-amino-7-oxononanoate synthase-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: 8-amino-7-oxononanoate synthase
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: 8-amino-7-oxononanoate synthase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: uncharacterized LOC100191565%2C transcript variant X1
+  Gene Synonyms: cl1004_1,GRMZM2G110932
+  Gene Descriptions: uncharacterized LOC100191565
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 450 aa
+
+MAQWDALVDAALArLAARSLLRATRPIALAPPPAPPETFaGPGPWDRAAVEIRLDRATLH
+QWLAEGGEASGQEEELDeKLILFSGNDYMGLSSHPAVREAAVKAAQEYGMGPRGSALICG
+YTTYHKLVEESLAELKKKEDCLLCPTGFSANMAVMTALGSISSLLAVGRKPAEDERIAIF
+SDALNHASIIDGIRLvERQQEAVVFVYKHCDMSHLDFLLSSCSMEKKVVVTDSLFSMDGD
+FAPLPELVKLRRKYGFLLVIDDAHGTLVCGENGGGAPELFeCENDIDISVGTLSKAAGCQ
+GGFIACSTRWKRLIQSRGRSFIFSTALPVPVVASVHAALYVSRKERWRRSVIWRHVQYFA
+SLTKLnITSPIISIVVGSEEAALRAGRHLLRSGFHVTPIRPPTVPPNSCRLRITLSASHS
+SDDIKRLVDALTPWLPdKHAEQSYAaASKL
+
+
+BOP CONSENSUS:
+Length: 450 aa
+
+MAQWDALVDAALArLASRSLLRATRPIALAPPPAPPETFPGPGPWDRAAVEIRLDRATLH
+QWLAEGGEASGQEEELgEKLILFSGNDYMGLSSHPAVREAAVKAAQEYGMGPRGSALICG
+YTTYHKLVEESLAELKKKEDCLLCPTGFSANMAVMTALGSISSLLAVGRKPAeDERIAIF
+SDALNHASIIDGIRLVERQQEAVAFVYKHCDMSHLDFLLSSCSIEKKVVVTDSLFSMDGD
+FAPLPELVELRRKYGFLLVIDDAHGTLVCGENGGGaPELFECENdIDISVGTLSKAAGCQ
+GGFIACSTRWKRLIQSRGRSFIFSTALPVPVVASVhAALHVSRKERWRRSVIWRHVQYFA
+SLTKLNITSPIISIVVGSEEAALRAGRHMLRSGFHVTPIRPPTVPPNSCRLRITLSASHS
+SDDIKRLVDALaPWLPgKHAEQSYVvASKL
+
+
+PACMAD CONSENSUS:
+Length: 450 aa
+
+MAQWDALVDAALARLEARSLLRATRPIALAPPPAAPETFAGPGPWDRAAVEIRLDRDTLQ
+QWLAEGGEASgQEEELDGNLILFSGNDYMGLSSHPAVREAAVKAAQEYGMGPRGSALICG
+YTTYHKLVEESLAELKKKEDCLLCPTGFSANMAVMTALGSISSLLAvGRKPAEDERIAIF
+SDALNHASIIDGIRLLERQQEAvVFVYKHCDMSHLDFLLSSCSMEKKVVVTDSLFSMDGD
+FAPFPELVKLRRKYGFLLVIDDAHGTLVCGENGGGAAELFgCENDIDIsVGTLSKAAGCQ
+GGFIACSTRWKRLIQSRGRSFIFSTALPVPVVASVHAALYVSRKERWRRSVIWRHVQYFA
+SLTKLDITSPIISIVVGSEEAALRAGRHLLRSGFHVTPIRPPTVPPNSCRLRITLSASHS
+SDDIKRLVDALTPWLPdKHAEQSYAAASKL
+
+================================================================================

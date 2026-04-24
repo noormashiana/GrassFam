@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM007740
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             458.0 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR32060:SF31
+Panther Family ID:               PTHR32060
+Modal Panther ID:                PTHR32060:SF31
+Modal Panther Description:       CARBOXYL-TERMINAL-PROCESSING PEPTIDASE 1, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR32060
+Modal Panther Fam Desc:          TAIL-SPECIFIC PROTEASE
+Interpro Signature Accession:    cd06782; cd07560; G3DSA:2.30.42.10:FF:000146; G3DSA:3.30.750.44:FF:000002; G3DSA:3.90.226.10:FF:000023; G3DSA:3.30.750.44; G3DSA:2.30.42.10; G3DSA:3.90.226.10; TIGR00225; PTHR32060; PF03572; SM00245; SSF52096
+Interpro Signature Description:  cpPDZ_CPP-like; Peptidase_S41_CPP; Carboxyl-terminal-processing peptidase 1, chloroplastic; carboxyl-terminal-processing peptidase 2, chloroplastic; Carboxyl-terminal processing protease; -; carboxy-terminal processing protease; TAIL-SPECIFIC PROTEASE; Peptidase family S41; tsp_4; ClpP/crotonase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: carboxyl-terminal-processing peptidase 1%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: carboxyl-terminal-processing peptidase 1%2C chloroplastic%2C transcript variant X2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: carboxyl-terminal-processing peptidase 1%2C chloroplastic%2C transcript variant X4; carboxyl-terminal-processing peptidase 1%2C chloroplastic-like%2C transcript variant X1; carboxyl-terminal-processing peptidase 1%2C chloroplastic-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: carboxyl-terminal-processing peptidase 1%2C chloroplastic
+  Gene Descriptions: carboxyl-terminal-processing peptidase 1%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: carboxyl-terminal-processing peptidase 1%2C chloroplastic%2C transcript variant X1
+  Gene Descriptions: carboxyl-terminal-processing peptidase 1%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: carboxyl-terminal-processing peptidase 1%2C chloroplastic-like%2C transcript variant X1
+  Gene Descriptions: carboxyl-terminal-processing peptidase 1%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: carboxyl-terminal-processing peptidase 1%2C chloroplastic-like; carboxyl-terminal-processing peptidase 1%2C chloroplastic-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: carboxyl-terminal-processing peptidase 1%2C chloroplastic%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: carboxyl-terminal-processing peptidase 1%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: carboxyl-terminal-processing peptidase 1%2C chloroplastic
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 460 aa
+
+MRPLSYAPPAPaPQsRAnPgPGRgPRPqPCALPFPDALRAAAAAAAVSLSLLtGNAVGAA
+VAAAaQPtEVCRdGgAAveEEVRAEAVTNEQLVEEAWEVVNESFLPDAGSRPWSPEMWMQ
+RKQDILQGTIKSRSRAHDIIqKMLASLGDPYTRFLSPSEFSKMSKYDMTGIGLNLREIPD
+DNGSFKLMVLGLLLDGPAYSAGVRQGDELLSVNGIDVRGKSAFDaSSMLQGPKETFVTIK
+VKHGDCGPVESMKVQRQLVARTPVFYRLEKRENeDSSVGYIHIKEFNAVAKKDLVSALKR
+LQNSGASYFVLDLRDNLGGLVQAGIETAKLFLNKGDTVIYTAGRDRQVQNTIVAESGPLV
+tTPLMLLVNNRTASASEIVASALHDNCKAVLVGERTFGKGLIQSVFELHDGSGIVVTVGK
+YVTPNHKDINGNGIEPDYNRLPDFNEARDYLSRCRsKELS
+
+
+BOP CONSENSUS:
+Length: 459 aa
+
+MLPLSYAPPPPPqsRPNPSPSHKPKPHPCALPFPDALRAAAAAAAISLSLLAGNAAGAAv
+AAVEQPsEICRGGDdGREvEVKAEAVTNEQLVEEAWEVVNEGFLPDAGSRPWSPELWMQR
+KQDILQGSIKSRSRAHDIITKMLASLGDPYTRFLSPSDFSKMSKYDMTGIGLNLREIPDD
+NGSLRLVVLGLILDGPAHSAGVRQGDELLSVNGIDVRGKSAFDVSSMLQGPKETFVTIKV
+KHDNCGPVESMKVQRQMAARTPIFYRLEKRENENSSVGYIHIKEFNAVAKKDLVSALKRL
+QNSGASYFVLDLRDNLGGLVQAGIEIAKLFLNKGDTVIYTTGRDRQVQNTIVADSGPLVT
+TPVMVLVNNRTASASEIVASALHDNCKAVLVGERTFGKGLIQSVFELHDGSGIVVTVGKY
+VTPNHKDINGDGIEPDYRRLPDLNEARDYLSRCrSKKLS
+
+
+PACMAD CONSENSUS:
+Length: 458 aa
+
+MRPLSYAPPAPQsRAsPGPGRGPRPPPCALPFPDALRAAAAAAAVSLSLLtGDAVGAVVA
+AAAQPTEVCRDGGAAVVEEVRAEAVTNEQLVEEAWEVVNESFLPDAGSRPWSPEMWMQRK
+QDILQGTIKSRARAHDIIQKMLASLGDPYTRFLSPSEFSKMSKYDMTGIGLNLREIPDDN
+GSFKLMVLGLLLDGPAYSAGVRQGDELLSVNGIDVRGKSAFDASSMLQGPKETFVTIKVK
+HGDCGPVESMKVQRQLVARTPVFYRLEKRENDDSSVGYIHIKEFNAVAKKDLVSALKRLQ
+NSGASYFVLDLRDNLGGLVQAGIETAKLFLNKGDTVIYTAGRDRQVQNTIVAESGPMIaT
+PLMLLVNNRTASASEIVASALHDNCKAVLVGERTFGKGLIQSVFELHDGSGIVVTVGKYV
+TPNHKDINGNGIEPDYNRLPDFNEARDYLSRCRIKELS
+
+================================================================================

@@ -1,0 +1,142 @@
+================================================================================
+GrassFam ID: GFAM019793
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             580.0 aa
+Family Size (Extended Family Size): 28 (54) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23139:SF132
+Panther Family ID:               PTHR23139
+Modal Panther ID:                PTHR23139:SF132
+Modal Panther Description:       SPLICING FACTOR U2AF LARGE SUBUNIT A
+Modal Panther Family ID:         PTHR23139
+Modal Panther Fam Desc:          RNA-BINDING PROTEIN
+Interpro Signature Accession:    cd12230; cd12231; cd12232; G3DSA:3.30.70.330:FF:000057; G3DSA:3.30.70.330:FF:000111; G3DSA:3.30.70.330:FF:000225; G3DSA:3.30.70.330; TIGR01642; PTHR23139; SSF54928
+Interpro Signature Description:  RRM1_U2AF65; RRM2_U2AF65; RRM3_U2AF65; U2 snRNP auxiliary factor large subunit; -; U2 snRNP auxilliary factor, large subunit, splicing factor; RNA-BINDING PROTEIN; RNA-binding domain, RBD
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi04
+  Gene Products: splicing factor U2af large subunit A%2C transcript variant X1; splicing factor U2af large subunit B%2C transcript variant X1
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu04H
+  Gene Products: splicing factor U2af large subunit A-like%2C transcript variant X1
+Ata
+  Gene count: 2
+  Modal chromosome: Ata04D
+  Gene Products: splicing factor U2af large subunit A%2C transcript variant X1; splicing factor U2af large subunit A%2C transcript variant X2
+Tae
+  Gene count: 6
+  Modal chromosome: Tae04A
+  Gene Products: splicing factor U2af large subunit A-like; splicing factor U2af large subunit A-like%2C transcript variant X1; splicing factor U2af large subunit A-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola11
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: splicing factor U2af large subunit A%2C transcript variant X1
+  Gene Descriptions: splicing factor U2af large subunit A
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: splicing factor U2af large subunit A-like%2C transcript variant X1
+  Gene Synonyms: OsJ_34542,U2AF65A
+  Gene Descriptions: splicing factor U2af large subunit A-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 1
+  Modal chromosome: Pau12
+  Gene Products: splicing factor U2af large subunit B-like%2C transcript variant X1
+  Gene Descriptions: splicing factor U2af large subunit B-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi08K
+  Gene Products: splicing factor U2af large subunit A-like%2C transcript variant X1; splicing factor U2af large subunit B-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: splicing factor U2af large subunit B%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: splicing factor U2af large subunit A%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: Splicing factor U2af large subunit A%2C transcript variant X1; uncharacterized LOC100286059
+  Gene Synonyms: GRMZM2G022763; GRMZM5G813627,pco074093
+  Gene Descriptions: Splicing factor U2af large subunit A; uncharacterized LOC100286059
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 574 aa
+
+MAEYeERYEGNGDPAAAAatGGSPPAKPtGFSDHPDGRSQQETQsHDGrSSKSRERDRER
+EKDKDRERDRDRGRDRERGRDKDRDRDRGDRDRERDRHHRDHRERSEKREHRERSEKREH
+HSDDHDRHRSRDsERRRDRDRDGHRRHRSRSRSPSKGRDRRSRSRSRSRSKSKRVSGFDQ
+GPQQaIPiVtPGAtPGQLPaVaPlIPGMLPNMFNFTPTQFNPLVMQPQAMTQQATRHARR
+VYVGGLPPTANEQTVAIYFNQVMAAIGGNTAGPGDAVLNVYINHDKKFAFVEMRSVEEAS
+NAMALDGIMFEGAPVKVRRPTDYNPSLAAALGPSQPNPNLNLAAVGLTPGSAGGLEGPDR
+IFVGGLPYYFTEAQVRELLESFGPLRGFDLVKDRETGNSKGYAFCVYQDLNVTDIACAAL
+NGIKMGDKTLTVRRANQGTSQPRPEQEtILLQAQQQVQMQKLVyQVGGALPTKVVCLTQV
+VSADELRDDEEYEDIVEDMREEGRKYGNLVKVVIPRPDPSGAPVAGVGKVFLEYADVDGS
+TKAKTGMHGRKFGGNQVVAVFYPENKFAaGdYDg
+
+
+BOP CONSENSUS:
+Length: 576 aa
+
+MAEYEERYEGNGDPAAAAVTGGSPPTKPtGFSDQPDGRSQQEVQPHEGRSSKSRERDRGR
+EKDKDKERDREHGRDRERGRDKDRERDRGDRDRERDRHHREHRERSEKREHRERSEKREH
+RGHSDDHDRHRSRDRDvERRDRDRDGHRRHRSRSRSKGRERRSRSRSRSRSKSKRVSGFD
+QGPSQAIPMVTPGATPGQLPAVAPLITGMLPNMFNFTAPTQFNPLVMQPQAMTQQATRHA
+RRVYVGGLPPTANEQTVAIYFNQVMAAIGGNTAGPGDAVLNVYINHDKKFAFVEMRSVEE
+ASNAMALDGIMFEGAPVKVRRPTDYNPSLAAALGPSQPNPNLNLGAVGLTPGSAGGLEGP
+DRIFVGGLPYYFTEAQVRELLESFGPLRGFDLVKDRETGNSKGYAFCVYQDLNVTDIACA
+ALNGIKMGDKTLTVRRANQGTSQPRPEQETILLHAQQQVQMQKLVLQVGGALPTKVVCLT
+QVVSADELRDDEEYEDILEDMREEGRKYGNLVKAVIPRPDPSGAAVPGVGKVFLEYADID
+GSTKAKVGMHGRKFGGNQVVAVFYPENKFADGDYDD
+
+
+PACMAD CONSENSUS:
+Length: 594 aa
+
+MAEYDERYEGNGGPAPGDGAHAQAEYGAAPPAAGGGSPPAAsKPTGFSDHADGRSSQPQH
+ETQSHDSGSSKSRERDRERDKGKDRERDRDRGRERERDRDRDKDRERGDRDRDRDRHHRD
+RRERSEKREHRDRSDDRDRHRDDRDRHRSHDSERRRDRDRDGHRRHRSRSRSPSKSRDRD
+RRSRSRSRSRSKSKRVSGFDQAPPQPTLPIVAAGAVPGQLPGVTPPIPGMLPNLYNLGQI
+NPLVIQPQAMTQQATRHARRVYVGGLPPTANEQTVAIFFNGVMAAIGGNTAGPGDAVLNV
+YINHDKKFAFVEMRSVEEASNAMALDGIMFEGAPVKVRRPTDYNPSLAAALGPSQPNPNL
+NLAAVGLTPGSAGGLEGPDRIFVGGLPYYFTEAQVRELLESFGPLRGFDLVKDRETGNSK
+GYAFCVYQDLNVTDIACAALNGIKMGDKTLTVRRANQGASQPRPEQESILLQAQQQVQMQ
+KLVYQVGGALPTKVVCLTQVVTADELRDDEEYEDIVEDMREEGRKYGNLVKVVIPRPDPS
+GAPVAGVGKVFLEYADVEGSTKAKTGMHGRKFGGNQVVAVFYPEDKFAAEQYDG
+
+================================================================================

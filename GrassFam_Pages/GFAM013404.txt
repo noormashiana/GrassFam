@@ -1,0 +1,142 @@
+================================================================================
+GrassFam ID: GFAM013404
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             622.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45898:SF8
+Panther Family ID:               PTHR45898
+Modal Panther ID:                PTHR45898:SF8
+Modal Panther Description:       OS01G0825700 PROTEIN
+Modal Panther Family ID:         PTHR45898
+Modal Panther Fam Desc:          TOM1-LIKE PROTEIN
+Interpro Signature Accession:    cd14231; cd03561; G3DSA:1.25.40.90:FF:000028; G3DSA:1.25.40.90; PTHR45898; PF00790; SM00288; SSF48464; SSF89009
+Interpro Signature Description:  GAT_GGA-like_plant; VHS; TOM1-like protein 2; -; TOM1-LIKE PROTEIN; VHS domain; VHS_2; ENTH/VHS domain; GAT-like domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: TOM1-like protein 6
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: TOM1-like protein 7
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: TOM1-like protein 6
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: TOM1-like protein 6; TOM1-like protein 6%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: TOM1-like protein 6
+  Gene Descriptions: TOM1-like protein 6
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: TOM1-like protein 6%2C transcript variant X2
+  Gene Descriptions: TOM1-like protein 6
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: TOM1-like protein 6%2C transcript variant X1
+  Gene Descriptions: TOM1-like protein 6
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: TOM1-like protein 6%2C transcript variant X1; TOM1-like protein 6%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: TOM1-like protein 6%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: vacuolar protein sorting-associated protein 27
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: TOM1-like protein 6
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 612 aa
+
+MYPAGAVVAAAPApArqAASRVDKATSHLLMGPDWAVNLEICDIINADVWQTKDVVKAVK
+KRLQNKDPKVQFYALTLLETMMKNCGEYVQFEVAEQHVLQEMVKIIQKKNDMQVRDKILL
+LLDSWQEAFGGPGSKYPQYHWAYLEVKrTGVVFPRRPIDAPPIFTPPATHNSQtYGSPRY
+AAGSLNDRMSSDVETLSLGDLNNIRNVTELLNDMVYALNPSDrmAVkDEIITDLVtQCRS
+NQQKLMQFVSSTGNEQLLKQGLEINDRLQnVLSKYDAIASGtpLAVEAPVRETvEsPREa
+PAvKPSAPPIEhNDisNEEEDEFAQLAQRKNKSVvSSDDtSSSTGvDLALVPIDlasSES
+PSSVASNALVPLDPAPSSSTQTKEqDMIDLLSLTLCSPTdETSTDSSAQsQNGpQQPaVT
+NGQQNPSGVPQYPSNyQPhtvNQGYTPQNSNYVAPWAQTGAYPSQPPAYASGYPAPPWAT
+PPTVnSNPFLSAAYQEPlPsAvSVAQAaTYAPPPASYsSSISYvPPaASQPiQhYSSVGS
+PTSNGLTmpQAQMNGNQQPKDSSAAASKPYYIPDNLFSDLIDLKSfSGGNKMGGPTSMGS
+SNGGQPMIGGKK
+
+
+BOP CONSENSUS:
+Length: 632 aa
+
+MYPAGAMVAAAAAPARQAASRVDKATSHLLMGPDWAVNLEICDIINADVWQTKDVVKAVK
+KRLQHKDPKVQYYALTLLETMMKNCGEYVQFEVAEQHVLQEMVKIIQKKNDMQVRDKILL
+LLDSWQEAFGGPGGKYRQYHWAYLEVKRTGVVFPRRPIDAPPILTPPAtHNSQNYGSPGY
+AAGSLNERMSSDVDTLSLGDLNNIRNVTELLNDMVYALNPSDPEAVKDEIITDLVSQCRS
+NQQKLMQFVSSTGNEQLLKQGLEINDRLQNVLSKYDAIASGTHLAVEAPVRETVESPRED
+PPAKPSSSPIEQNDASNEEEDEFARLAQRKNKSVISSDETSSSTSTVDLALVPIDLPSSE
+SPPSVASNALVPLDPAPVSSSTQTKEQDMIDLLSLTLCSPTDETSTDSSAQSQNGLQQPP
+VTDGQqNPTGVPQYPSTNQPYPVNQGYTPQNSNYVAPWAQTGPYPSQAQTGPYPSQAQTG
+PYPSQAQTGPYPSQAPAYASGYPVPPWATPPTVNSNPFLSAAYQEQLPSAVSGAPATTYA
+APSPSYSSPPASQPMQQYSSVGSPTSNGLTMPQAPNGNQQPKDSSAAASKPYYILDNLFS
+DLIDLKStSGGNKTGTSLGSSNGGQPMIGGKK
+
+
+PACMAD CONSENSUS:
+Length: 627 aa
+
+MYPSGAVVGAAPAAAPSAASRVEKATSHLLMGPDWAVNLEICDILNADVWQTKDVVKAVK
+KRLQNKDPKVQFFALTLLETMMKNCGEYVQFEVAEQHVLQEMVKIIQKKNDMQVRDKILL
+LLDSWQEAFGGPGSKYPQYHWAYLEVKTTGVVFPKRPIDAPPIFTPPATHNSQTYGSPRY
+AAGSLSDRMSSDVETLSLGDLNKIRNVTDLLNDMVYALNPSDRMAVNDEIITDLVTQCRS
+NQQKLLQFVSSTGNEQLLKQGLEINDLLQSVLSKYDAVASGAPLAVEAPVRETIEAPREA
+PAVKPSAPPEHNDnADEEEDEFAQLAQRKNKSVVSSDDASSSTGDLALVPIDPAVSESSS
+SVASNALVPLDPAPSSSTESKELDMIDLLSLTLCSPTPETSTDSSTQDQNGPQQPTVTHN
+QNGPQEPTVTNGQQYPSsVPQYPSNYQPHTTNQvYAPQNSNYVAPWAQTGAYPPQPPAYA
+SGYGYPAPPWAAPTPatVDSNPFLSvNYQDPRPvvTSVAQTATYAPPPASYPPSSISYaP
+FATPQSIQHNSSVGSPPSNGLTAtQAQMNVNQQPKDSSAASSRPYYIPDNLFSDLIDVKS
+FSGGNKMGGPTTMGSSNGGQPMIGGKK
+
+================================================================================

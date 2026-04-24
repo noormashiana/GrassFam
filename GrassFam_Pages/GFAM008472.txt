@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM008472
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             517.0 aa
+Family Size (Extended Family Size): 29 (33) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47946:SF14
+Panther Family ID:               PTHR47946
+Modal Panther ID:                PTHR47946:SF14
+Modal Panther Description:       CYTOCHROME P450 FAMILY PROTEIN
+Modal Panther Family ID:         PTHR47946
+Modal Panther Fam Desc:          CYTOCHROME P450 78A7-RELATED
+Interpro Signature Accession:    cd11076; G3DSA:1.10.630.10:FF:000016; G3DSA:1.10.630.10; PTHR47946; PR00463; PF00067; SSF48264
+Interpro Signature Description:  CYP78; Cytochrome P450 78A5; Cytochrome P450; CYTOCHROME P450 78A7-RELATED; E-class P450 group I signature
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: cytochrome P450 78A5-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: cytochrome P450 78A5
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: cytochrome P450 78A5-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: cytochrome P450 78A5-like
+  Gene Descriptions: cytochrome P450 78A5-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: cytochrome P450 78A5
+  Gene Descriptions: cytochrome P450 78A5
+Ecu
+  Gene count: 10
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau15
+  Gene Products: cytochrome P450 78A5-like
+  Gene Descriptions: cytochrome P450 78A5-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: cytochrome P450 78A5-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: cytochrome P450 78A5-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: cytochrome P450 78A5
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: uncharacterized LOC100381532
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 515 aa
+
+MvLTMatGqEDSLLLLLLPtTSPLPPLLAVLVLAAVLLWLSPGGPAWALSRCRRPPSGPP
+GVVTALSSPVAHRTLAALSRAVDGGAALMSFSVGLTRLVVSSQPDTAREILVNPAFGDRP
+VKDAARHLLFHRAMGFAPSGDAHWRGLRRLAAAHLFGPRRVAAsAhHReSIGerMVaDVA
+srMARHGEVsLRRVLHAASLNHIMATVFGKRYDDFeSQEGaLLEEMVTEGYDLLGTFNWA
+DHLPLLKWLDLQGVRRRCNRLVQKVEvFVGkIIQEHRARRASGGVADEFtGDFVDVLLDL
+EGEEKLSDSDMIAVLWEMIFRGTDTVAILMEWIMARMVLHPDIQAKAQAELDAVVGRGRA
+VADADVANLPYIQCIVKETLRMHPPGPLLSWARLAVHDAHVGGHLVPAGTTAMVNMWAIA
+HDAAIWPEPEeFRPERFqEEDVSVLGSDLRLAPFGAGRRVCPGKMLALATTHLWvAQLLH
+kFEWAPAaGGVDLSERLsMSLEMATPLVCKAVARV
+
+
+BOP CONSENSUS:
+Length: 515 aa
+
+MDLSMATGPEDSLLLLLLPATTLLPPLLAVLLLAASLLWLSPGGPAWALSLCRRPPPGPP
+GVVTALSSPVAHRVMAALSRSVHGGAALMSFSVGLTRVVVSSRQDTAREILVNPAFGDRP
+VKDAARHLLFHRAMGFAPSGDAHWRALRRLAAAHLFGPRRVAASAPHRSSIGARMLGDVA
+SLMARHGEVAPRRFLHAASLNHVMAVVFGKRYDDFTSQEGALVEEMVNEGYDLLGTFNWA
+DHLPFLKWLDLQGVRRRCNRLVRQVEAYVGNIIQEHKARRASGSGIADELSGDFVDVLLG
+LDGEDKMSESDMIAVLWEMIFRGTDTVAILMEWIMARMVLHPEIQSKARAELDAVVGRGR
+AVTDEDVARLPYIQCIVKETLRMHPPGPLLSWARLAVHDAHVGGHLVPAGTTAMVNMWAI
+AHDAAVWPEPEqFRPERFMEEDVSVLGSDLRLAPFGAGRRVCPGKMLALATVHLWLAQLL
+HRFEWAPTSGGVDLSERLKMSLEMATPLVCKAVAR
+
+
+PACMAD CONSENSUS:
+Length: 516 aa
+
+MVLTMgvGqEDSLLLLLPTTSPLPsLvAVlVLAAVLLWLSPGGPAWALSRsRRPPSGPPG
+VVTALSSPVAHRTLAALSRAVDGGKALMSFSVGLTRLVVASQPDTAREILANPAFGDRPI
+KDAARHLLFHRAMGFAPSGDAHWRGLRRLAANHMFGPRRVAAFAHHRESIGEnMVADVAA
+RMARhGEVsLRRVLHAASLNHIMATVFGKRYDDFESQEGalLEEMVTEGYDLLGTFNWAD
+HLPLIKyLDLQGVRRRCNRLVQKVEvFVGKIIQEHRERRASGVVADEFTGDFVDVLLDLE
+GEEKLSDSDMIAVLWEMIFRGADTVAILMEWIMARMVLHPDIQAKAQAELDAVVGsRGAV
+ADADVANLPYIQNIVKETLRMHPPGPLLSWARLAIHDAHVGGHLVPAGTTAMVNMWSIAH
+DAAIWPQPEEFRPERFQEEDVSVLGSDLRLAPFGAGRRACPGKMLALATTHLWVAQLLHK
+FEWAPAaGGVDLSERLSMSLEMATPLVCKATpRVQA
+
+================================================================================

@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM002843
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             439.0 aa
+Family Size (Extended Family Size): 32 (49) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10317
+Panther Family ID:               PTHR10317
+Modal Panther ID:                PTHR10317
+Modal Panther Description:       EUKARYOTIC TRANSLATION INITIATION FACTOR 3 SUBUNIT E
+Modal Panther Family ID:         PTHR10317
+Modal Panther Fam Desc:          EUKARYOTIC TRANSLATION INITIATION FACTOR 3 SUBUNIT E
+Interpro Signature Accession:    cd21378; PTHR10317; PIRSF016255; PF09440; SM01186
+Interpro Signature Description:  eIF3E; EUKARYOTIC TRANSLATION INITIATION FACTOR 3 SUBUNIT E; Transl_init_eIF3e; eIF3 subunit 6 N terminal domain; eIF3_N_2
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: eukaryotic translation initiation factor 3 subunit E
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: eukaryotic translation initiation factor 3 subunit E
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: eukaryotic translation initiation factor 3 subunit E
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: eukaryotic translation initiation factor 3 subunit E-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl07
+  Gene Products: eukaryotic translation initiation factor 3 subunit E; eukaryotic translation initiation factor 3 subunit E-like
+  Gene Descriptions: eukaryotic translation initiation factor 3 subunit E; eukaryotic translation initiation factor 3 subunit E-like
+Osa
+  Gene count: 3
+  Modal chromosome: Osa07
+  Gene Products: eukaryotic translation initiation factor 3 subunit E
+  Gene Synonyms: OJ1641_C04.124-1,OJ1641_C04.124-2
+  Gene Descriptions: eukaryotic translation initiation factor 3 subunit E
+Ecu
+  Gene count: 3
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 3
+  Modal chromosome: Pau03
+  Gene Products: eukaryotic translation initiation factor 3 subunit E-like
+  Gene Descriptions: eukaryotic translation initiation factor 3 subunit E-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi02N
+  Gene Products: eukaryotic translation initiation factor 3 subunit E-like; eukaryotic translation initiation factor 3 subunit E-like%2C transcript variant X1
+Pha
+  Gene count: 2
+  Modal chromosome: Pha02
+  Gene Products: eukaryotic translation initiation factor 3 subunit E-like; eukaryotic translation initiation factor 3 subunit E-like%2C transcript variant X2
+Msi
+  Gene count: 3
+  Modal chromosome: Msi04
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: eukaryotic translation initiation factor 3 subunit E
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: eukaryotic translation initiation factor 3 subunit 6; uncharacterized LOC100193141
+  Gene Synonyms: GRMZM2G038313,pco126859a; GRMZM2G151549
+  Gene Descriptions: eukaryotic translation initiation factor 3 subunit 6; uncharacterized LOC100193141
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 439 aa
+
+MAEHDLTArMAAQMDRHLVFPLLEFLQERQLYaeEEILEAKIRLLsGTNMVDYAMDIHKS
+LHGTDDVPaDMVaRRAEVVsRLRSLeEAAAPLVAFLQNPQLVQELRPDKQYNIHMLQERf
+QIGPDQIEALYQYAKFQFECGNYSgAADYLYQYRALCTNSERSVSALWGKLAAEILMQNW
+DVALEELNRLKEIIDSKNFSSPLNQLQNRIWLMHWSLFIFFNHENGRNGIIDLFFQDRYL
+NAIQTNAHHLLRYLATAVVVNKRRRNMLKELIKVIQQEQHSYKDPITEFLECLYVNYDFD
+GAQQKLmECEQVILNDPFLGKRIEEGNFITVPLRDEFLENARLFIFETYCRIHRCIDIGM
+LAEKLNMsYDEAELWIMNLVRSSKLDAKIDSVSGTLIMTTNHVNVHEQIIESLKNLNMRT
+YMLAKNIVEPAQAAQQAAR
+
+
+BOP CONSENSUS:
+Length: 440 aa
+
+MAEHDLTARMAAwMDcHLVLPLLEFLQERgVYADEEILeAKIRLLsGTNMVDYAMDIHKS
+LHGTDDVPADMVARRSEVVeRLRALqEAvAPIVAFLSSPQLVQELrADKQYNLHMLQERh
+QIGPDQIEALYQYAKFQFECGNYSDAADFLsQYRALCTNSERSLSALWGKLAAEILMQNW
+DVALEELNRLKEmIDSKNFSSPvNQLHSRIWLMHWSLFIFFNHENGRNGIIDLFFQDRYL
+NAIQTNAPHLLRYLAAAVVVNKRRRNMLKELIKVIQQEQhSYKDPITEFLECLYVNYDFD
+GAQQKLvECEQVILNDPFLGKRIEEGNgITVPLRDEFLENARLFIFETYCRIHRCIDIGM
+LAEKLNMTYDEAELWIMNLVKSSKLDAKIDSVtGTLIMTTNHVNVHEQiIESMKNLNART
+YMLAKSvVDPGHAAAQQAAR
+
+
+PACMAD CONSENSUS:
+Length: 439 aa
+
+MAEHDLTALMAAQLDRHLVFPLLEFLQERQLYSEpEILEAKIRLLSGTNMVDYAMDIHKS
+LHGTDDVPEDMVaRRAEVVSRLRSLEEAAAPLVAFLQNPQLVQELRPDKQYNIHMLQERY
+QIGPDQIEALYQYAKFQFECGNYSGAADYLYQYRALCTNSERSVSALWGKLAAEILMQNW
+DVALEELNRLKEIIDSKNFSSPLNQLQNRIWLMHWALFIFFNHENGRNGIIDLFFQDRYL
+NAIQTNAHHLLRYLATAVVVNKRRRNMLKELIKVIQQEQHSYKDPITEFLECLYVNYDFD
+GAQQKLMECEQVILNDPFLGKRIEEGNFVTVPLRDEFLENARLFIFETYCRIHRCIDISM
+LAQKLNMSYDEAELWIMNLVRSSKLDARIDSVSGTLIMTTNHVNVHEQIIESLKGLNMRT
+YMLAKNIVEPAQAAQQAAR
+
+================================================================================

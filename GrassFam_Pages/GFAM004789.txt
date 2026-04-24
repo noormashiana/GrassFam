@@ -1,0 +1,126 @@
+================================================================================
+GrassFam ID: GFAM004789
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             371.0 aa
+Family Size (Extended Family Size): 19 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46642:SF3
+Panther Family ID:               PTHR46642
+Modal Panther ID:                PTHR46642:SF3
+Modal Panther Description:       PHOSPHOGLUCAN PHOSPHATASE DSP4, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR46642
+Modal Panther Fam Desc:          DUAL SPECIFICITY PHOSPHATASE, SUBGROUP, CATALYTIC DOMAIN
+Interpro Signature Accession:    cd14526; cd02859; G3DSA:3.90.190.10:FF:000069; G3DSA:2.60.40.10:FF:000992; G3DSA:3.90.190.10; G3DSA:2.60.40.10; PTHR46642
+Interpro Signature Description:  DSP_laforin-like; E_set_AMPKbeta_like_N; Phosphoglucan phosphatase DSP4, chloroplastic; Protein tyrosine phosphatase superfamily; Immunoglobulins; DUAL SPECIFICITY PHOSPHATASE, SUBGROUP, CATALYTIC DOMAIN
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: phosphoglucan phosphatase DSP4%2C amyloplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: phosphoglucan phosphatase DSP4%2C amyloplastic%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: phosphoglucan phosphatase DSP4%2C amyloplastic%2C transcript variant X2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04B
+  Gene Products: phosphoglucan phosphatase DSP4%2C amyloplastic-like; phosphoglucan phosphatase DSP4%2C amyloplastic-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: phosphoglucan phosphatase DSP4%2C amyloplastic%2C transcript variant X3
+  Gene Descriptions: phosphoglucan phosphatase DSP4%2C amyloplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: phosphoglucan phosphatase DSP4%2C amyloplastic%2C transcript variant X3
+  Gene Descriptions: phosphoglucan phosphatase DSP4%2C amyloplastic
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: phosphoglucan phosphatase DSP4%2C amyloplastic-like%2C transcript variant X1; phosphoglucan phosphatase DSP4%2C amyloplastic-like%2C transcript variant X2
+  Gene Descriptions: phosphoglucan phosphatase DSP4%2C amyloplastic-like
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: phosphoglucan phosphatase DSP4%2C amyloplastic-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: phosphoglucan phosphatase DSP4%2C amyloplastic%2C transcript variant X2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: phosphoglucan phosphatase DSP4%2C amyloplastic%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100216768%2C transcript variant X1
+  Gene Synonyms: gpm775,GRMZM2G052546,RIP1
+  Gene Descriptions: uncharacterized LOC100216768
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 370 aa
+
+MNCLQNLLKEPPIVGSRSMRRPSPLNLAMVRGGSRRSNTVKTLQAPGASTSGAENSAlEp
+GTEKSEVYSTNMTQAMGAVLTYRHELGMNYNFIRPDLIVGSCLQSPLDVDKLRKIGVKTV
+FCLQQDSDLEYFGVDIrAIQDYSLqFKDIEHCRAEIRDFDAFDLRLRLPAVVSKLHKLaN
+hNGGVTYIHCTAGLGRAPAVALAYMFWILGYSLNEGHQLLQSKRACFPKLEAIKLATADI
+LTGLSKNtITLKWENgSCSSVEISGLDIGWGQRIPLTYDEEKGAWFLEKELPEGRYEYKY
+IVDGKWVCNEHEMkTKPNADGHVNNYVQVSRDGTSDEEKELRERLTGPDPDLTkEERLMI
+REYLEQYvEa
+
+
+BOP CONSENSUS:
+Length: 369 aa
+
+MNCLQHLLKEPPILAGSRSMRRPSPLNLAMVRGGSRRSNTVKTASGTSTSSAENSALEPG
+AEKSDTYSTNMTQAMGAVLTYRHELGMNYNFICPDLIVGSCLQSPSDVDKLREIGVKTVF
+CLQQDPDLEYFGVDIhAIQDYCLECKDIEHCREEVRDFDAFDLRLRLPAVISKLYKLASH
+NGGITYIHCTAGLGRAPAVALAYMFWILGYNLNEGHQLLQSKRPSFPKLEAIKLATADIL
+TGLSKNCITLKWKNGSCSSVEISGLDIGWGQKIPLAYDEEKKAWFLERELPEGRYEYKYV
+VDGNWVCNEHEMKTKPNADGHVNNYIQVARDGTSDEEKAMRERLTGPDPDLTKEERLMIK
+EYLEQYTEQ
+
+
+PACMAD CONSENSUS:
+Length: 372 aa
+
+MNCLQNLLKEPPIVGSRSMRRPSPLNLAMVRGGSRRSNTVKTLQAPGASTSGAESSAVEM
+GTEKSEVYSTNMTQAMGAVLTYRHELGMNYNFIRPDLIVGSCLQSPLDVDKLRKIGVKTV
+FCLQQDSDLEYFGVDIRAIQDYSLQFKDIEHCRAEIRDFDAFDLRLRLPAVVSKLHKLVN
+CNGGVTYIHCTAGLGRAPAVALAYMFWILGYSLNEGHQLLQSKRACFPKLEAIKLATADI
+LTGLSKNTITLKWEDDSCSSVEISGLDIGWGQRIPLTYDEEKGAWFLEKELPEGRYEYKY
+IVDGKWLCNEHENITKPNADGHVNNYVQVSRDGTSDEEKELRERLTGPDPDLTDEERLMI
+REYLEQYVDAER
+
+================================================================================

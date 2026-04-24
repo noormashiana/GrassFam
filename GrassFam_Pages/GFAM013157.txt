@@ -1,0 +1,111 @@
+================================================================================
+GrassFam ID: GFAM013157
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             658.0 aa
+Family Size (Extended Family Size): 11 (12) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23198:SF15
+Panther Family ID:               PTHR23198
+Modal Panther ID:                PTHR23198:SF15
+Modal Panther Description:       OS01G0383900 PROTEIN
+Modal Panther Family ID:         PTHR23198
+Modal Panther Fam Desc:          NUCLEOPORIN
+Interpro Signature Accession:    G3DSA:3.30.1610.10:FF:000002; G3DSA:3.30.1610.10; PTHR23198; PF04096; SSF82215
+Interpro Signature Description:  nuclear pore complex protein NUP98A; Peptidase S59, nucleoporin; NUCLEOPORIN; Nup98-96 autopeptidase S59; C-terminal autoproteolytic domain of nucleoporin nup98
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: nuclear pore complex protein NUP98A-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: nuclear pore complex protein NUP98A
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: nuclear pore complex protein NUP98A-like; nuclear pore complex protein NUP98A-like%2C transcript variant X1; nuclear pore complex protein NUP98B-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: nuclear pore complex protein NUP98A%2C transcript variant X1
+  Gene Descriptions: nuclear pore complex protein NUP98A
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN25
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: nuclear pore complex protein NUP98B-like; nuclear pore complex protein NUP98B-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: nuclear pore complex protein NUP98A-like%2C transcript variant X2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 650 aa
+
+MMGSSATGSSPYSTGFSPSSSTPVATFFPSSSGFTPAAMGSSSSWcgPAFGRSsnAFGhP
+MPhQaPfsSnTPWsSTTGQHYSHVPTFGVQSePSFGPFGRVSeKGSRVSAYTrTagDDPe
+rNYyvSISAMPVfKSKSHEELRHEDYkrGDKGGfSLQKSrVqPqPqpPVnAspSPVKPSl
+FSYsPEPsspPvgLQSSThGStsTtNPFWLrspgPQSPlsSGDLQSSTQHSSYTPGYppE
+PiklPSMGITPPpSHTEFQKNPSTYCPSSYqSPFTAHVGGLHSTSASTQSMTTSTwFSSS
+SfAPSTtCwENVsSNtAAyTAPADTSSAQGHMFSQNLFPTTSTQSGGSLLSSSvAHSAPA
+PSPNGHsTTINiDqpeNTVELlLPVDItLVRIRFSSsNDgtGSRAtqVHSHHnvKASATP
+ISlCIYPGENQELTIQSVEQPDKdQtGKQSSSTGGDPSKVHNSIGrPPSAGNQKGYinDA
+RSnPkSPVaAPfggAVSESVLPRLYnADYYTvPSIVELAVRESnEPGYCSHVKDFTVGRH
+GYGSVKFDGETDVRKLDIASIVEFnDREILVYRDESKtPPVGQELNKPAEVTLLNVKCVD
+QKTGLQFTEGPeVDRYKEILVQWTKkHGAEFVSFDAVKGEWKFRVKHFSQ
+
+
+BOP CONSENSUS:
+Length: 658 aa
+
+MMGSSSWSTPPPAFGSVMGSSSSLFSTPTSGAAMGSSPSLFCFTPASGAATGSSPYSFGv
+MPASGAAMGPSSSPFGSTPVATGFsPSSGFTPYAGPAMGSSFGSTPVATGFFPSSSGFTP
+SSGAAMGSSSSWCGPAFGRSPNAFGHPMPHQAPFSSNTPFGSTTGQHYSHVPTFGVQSEP
+SFGPFGRVSKKGSRVSAYTRTPGDDPERNYYVSISAMPVFKSKSHEELRHEDYKKGDKGG
+FNLQESRVPWAYHSSQPQPQPPVNAFtNPVKPSLFSYSPEPSSAPVGLQSSAHGTTNPFW
+LRPPGPQSPLFSYPPEPIHKPSWFSSSFAPSTTCWENVSNNTAAYTAPADTSSAQGHMFS
+QNLFPSKSTQSGGSLLSSSVAHSAPAPSPNGHSTTINIDQAEKTVELLLPVDITTVRIRF
+SPkNDDTGSRATEVHHNVKASATPVSFCIYPGENQELTIQSVEQHDGKPSSSTGSAGEQK
+GYINGAVLARSNPFDPVITPFGGAPVSESVLPRLYKADYYTsPSIAELAARESNEPGCCS
+HVKDFTVGRHGYGSIKFDGETDVRKLDIASIVEFKDREILVYTDESKRPPVGQELNKPAE
+ITLLNVKCVDKKTGLQLTEGPEVDRYKEILAQWTEKNGAEFVAFDAVKGEWKFRIKHF
+
+
+PACMAD CONSENSUS:
+Length: 610 aa
+
+MMGSSSSWSAQTFGSSSSCPGAGFGQTVGSVSSTPWATGVSEQGSRVCAYAPTAVDDPSN
+LYQIQSISAMLVNCNKSHEELRHEDYERGDRGGDSLQKSINPAPIFPVSSSPSFLSCSST
+PyFTFRPtTHCIAPFPESTEHPPAELQPSTRGSTSSSNPFWLPSAQSSFSSGDLQSSTQG
+HSSYTPGLSFYHYLPSKLASMGIQTPPPSHTEFQKNPSTYCPSSYQSPFTAQVGGAHSAS
+ASTQSMTTATLPCPHFSTSTSVPTMCQDNIFSNSAGALNTALAEATSTQQGTFGQNFPTT
+STQPGKSPLIGSSIAHSKPALSSDAHCTSVNVDYPNNTLELHLPVNVRLVRIHFSSSNDG
+AGtSQVHSGHVAKSTEAPISLSIYPGENHELTIQSVARPAKDQMGKQSSSTGGSDPSKVH
+NSIGRPPSRSAGNQEGSNGDAHSTQKSVAAPEREVITGSVLPRLYNADYYTVPSIVELAV
+KESEEPGYCSRVPHFTVGRHGYGSVRFDGETDVRKLDIASIVEFNNREILVYRDESKTPP
+VGQGLNKPAEVTLLNVKCIDQKTGLQFTGGPTVDRYKETLVQWTKEHDAEFVSFDPMKGE
+WKFKVKNFSQ
+
+================================================================================

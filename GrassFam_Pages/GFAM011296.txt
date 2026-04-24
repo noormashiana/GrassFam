@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM011296
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             581.0 aa
+Family Size (Extended Family Size): 28 (31) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48020:SF24
+Panther Family ID:               PTHR48020
+Modal Panther ID:                PTHR48020:SF24
+Modal Panther Description:       INOSITOL TRANSPORTER 4
+Modal Panther Family ID:         PTHR48020
+Modal Panther Fam Desc:          PROTON MYO-INOSITOL COTRANSPORTER
+Interpro Signature Accession:    cd17360; G3DSA:1.20.1250.20:FF:000121; G3DSA:1.20.1250.20:FF:000137; G3DSA:1.20.1250.20; TIGR00879; PTHR48020; PR00171; PF00083; SSF103473
+Interpro Signature Description:  MFS_HMIT_like; Probable inositol transporter 2; MFS general substrate transporter like domains; sugar porter family MFS transporter; PROTON MYO-INOSITOL COTRANSPORTER; Sugar transporter signature; Sugar (and other) transporter; MFS general substrate transporter
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: probable inositol transporter 2%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: inositol transporter 4-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: inositol transporter 4
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: inositol transporter 4-like; inositol transporter 4-like%2C transcript variant X1; inositol transporter 4-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: inositol transporter 4-like%2C transcript variant X2
+  Gene Descriptions: inositol transporter 4-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: inositol transporter 4%2C transcript variant 1
+  Gene Descriptions: inositol transporter 4
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 1
+  Modal chromosome: Pau13
+  Gene Products: probable inositol transporter 2
+  Gene Descriptions: probable inositol transporter 2
+Svi
+  Gene count: 2
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi02K
+  Gene Products: inositol transporter 4-like; probable inositol transporter 2; probable inositol transporter 2%2C transcript variant X1
+Pha
+  Gene count: 2
+  Modal chromosome: Pha04
+  Gene Products: inositol transporter 4-like; probable inositol transporter 2%2C transcript variant X1
+Msi
+  Gene count: 4
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi02
+  Gene Products: inositol transporter 4; probable inositol transporter 2
+Zma
+  Gene count: 2
+  Modal chromosome: Zma07
+  Gene Products: inositol transporter 4; uncharacterized LOC100383930%2C transcript variant X2
+  Gene Synonyms: GRMZM2G160069
+  Gene Descriptions: uncharacterized LOC100383930
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 581 aa
+
+MEGGATVADKAEFKECLRLTWTQPYILQLVLSAGIGGLLFGYDTGVISGALLYIRDDFaA
+VEKSTVLRETIVSMAVAGAIVGAGFGGWMNDKFGRRPSIIIADALFFAGAlIMAFSPTPa
+VIIVGRVFVGLGVGMASMTAPLYISEASPARIRGALVSTNGLLITGGQFMAYLINLAFTK
+VPGTWRWMLGIAGvPALVQFILMLMLPESPRWLYRKGRKEEAAAILRKIYPANEVEQEID
+SMRqSVEDEVLLEGSIGEQGLiGKLRKALGSKVVRRGLMAGVIVQVAQQFVGINTVMYYS
+PTIVQLAGFASNNTAMALSLITSGLNAIGSIVSMFFVDRAGRRRLMLISLVGIVVWLAVL
+GGTFLGAAHHAPPVSDLETRlFANQTCPEFNPnVrWSCMNCLKAASTCGFCAHQGDKLLP
+GACLALNnASRgtCRADHREFYTEGCPNNFGWLALIGLGAYIVSYSPGMGTVPWIVNSEI
+YPLRFRGICGGIAAVANWVSNLIVTQTFLSLTKALGTSATFFLFCGVSFLALVVVFLTVP
+ETKGLQFEEVERMLERKDYKPWKRYHPgePAKGREIGLtmP
+
+
+BOP CONSENSUS:
+Length: 581 aa
+
+MEGGASVADKAEFKECLRLTWSQPYILRLVFSAGIGGLLFGYDTGVISGALLFIRDDFIE
+LQKNTTLRETIVSMAVAGAIVGAGLGGWMNDRFGRRPSLIIADVLFLAGAAIMAFAPSPA
+VIIVGRVFVGLGVGMASMTAPLYISEASPARIRGALVSTNGLLITGGQFMAYLINLAFTK
+VPGTWRWMLGIAGFPALLQFILMLTLPESPRWLYRQGRKEETAAILRKIYPANEVEEEIE
+SLRKSVEDEMvLEGSIGEQSvFGKLKKAFGSKVVRRGLMAGVIVQVAQQFVGINTVMYYS
+PTIVQLAGFASNDTAMALSLITSGLNAVGSIVSMFFVDRAGRRRLMLLSLVGIVVWLAVL
+GGTFLGAAHNAPPVSDLETRPFANQTCPEYnPnVHWSCMDCLRAASTCGFCAHqGNtLLP
+GACLALNNETRGVCHADHREFYSEGCPNNYGWLALLALGAYIVSYSPGMGTVPWIVNSEI
+YPLRFRGVCGGIAAVANWVSNLIVTQTFLTLTKALGTAATFLLFCGVSFmALIVVFLTVP
+ETKGLQFEEVEKMLGSKDYKPWKRYRPEAPTKGREIGLAMP
+
+
+PACMAD CONSENSUS:
+Length: 586 aa
+
+MEGGVTVADKAEFKECLRLTWTQPYILQLVLSAGIGGLLFGYDTGVISGALLYIRDDFAA
+VEKSTVLRETIVSMAVAGAIVGAAFGGWMNDKFGRRPSIIIADALFFAGAVIMAFSPTPt
+VIIVGRVFVGLGVGMASMTAPLYISEASPARIRGALVSTNGLLITGGQFLAYLINLAFTK
+VPGTWRWMLGIAGVPALVQFILMLMLPESPRWLYRKGRKEEAAAILRKIYPANEVEQEID
+AMRQSVEEEVLLEGSIGEHGLIGKLRKALGSKVVRRGLMAGVIVQVAQQFVGINTVMYYS
+PTIVQLAGFASNNTAMALSLITSGLNAIGSVVSMFFVDRAGRRRLMLISLVGIVVWLAVL
+GGTFLGAAHHAPPVSDLETRLLANQTQTCPEFNPNVRWSCVNCLKAASTCGFCAHQGDKL
+LPGACLALNDASRRTCRADQREFYTEGCPNNFGWLALIGLGAYIVSYSPGMGTVPWIVNS
+EIYPLRFRGICGGIAAVANWVSNLIVTQTFLSLTKALGTSATFFLFCGVSFLALVIVFFT
+VPETKGLQFEEVERMLERKDYKPWKRYHGGSDVEPAKNSEIGLTAP
+
+================================================================================

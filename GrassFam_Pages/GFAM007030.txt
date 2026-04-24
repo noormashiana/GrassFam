@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM007030
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             417.0 aa
+Family Size (Extended Family Size): 26 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10285:SF164
+Panther Family ID:               PTHR10285
+Modal Panther ID:                PTHR10285:SF164
+Modal Panther Description:       ATP-DEPENDENT KINASE TDA10-RELATED
+Modal Panther Family ID:         PTHR10285
+Modal Panther Fam Desc:          URIDINE KINASE
+Interpro Signature Accession:    G3DSA:3.40.50.300:FF:001210; G3DSA:3.40.50.300
+Interpro Signature Description:  D-glycerate 3-kinase, chloroplastic; -
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: D-glycerate 3-kinase%2C chloroplastic
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: D-glycerate 3-kinase%2C chloroplastic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: D-glycerate 3-kinase%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: D-glycerate 3-kinase%2C chloroplastic-like; D-glycerate 3-kinase%2C chloroplastic-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: D-glycerate 3-kinase%2C chloroplastic
+  Gene Descriptions: D-glycerate 3-kinase%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: D-glycerate 3-kinase%2C chloroplastic%2C transcript variant X1
+  Gene Descriptions: D-glycerate 3-kinase%2C chloroplastic
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN788
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: D-glycerate 3-kinase%2C chloroplastic-like%2C transcript variant X1
+  Gene Descriptions: D-glycerate 3-kinase%2C chloroplastic-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: D-glycerate 3-kinase%2C chloroplastic-like%2C transcript variant X1; D-glycerate 3-kinase%2C chloroplastic-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: D-glycerate 3-kinase%2C chloroplastic%2C transcript variant X2
+Msi
+  Gene count: 4
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi03
+  Gene Products: D-glycerate 3-kinase%2C chloroplastic; D-glycerate 3-kinase%2C chloroplastic%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: D-glycerate 3-kinase%2C chloroplastic-like; uncharacterized LOC100274052%2C transcript variant X1
+  Gene Synonyms: GRMZM2G018786,pco079415(520); GRMZM2G054663,GRMZM2G054715
+  Gene Descriptions: D-glycerate 3-kinase%2C chloroplastic-like; uncharacterized LOC100274052
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 416 aa
+
+MTPLHAAPPPlSASAsSSSSAPPlLLAKPYHPKAAASCSLTVTAATPSRKAFLSCPDHSP
+AGRsLAPPRgAPSSSPALvSSVQDLYDFICSGPLVDRIGYTKEKIAESIDRWLRCGvQVA
+RLFRLNELQLSEAEKARIYHFYIPVFLWCEDQViEHRAKYNDGDdIPPLVIGVSAPQGSG
+KTTLVFALDYLFRVAGRNSATLSIDDFYLTAKEQNELRDRNPGNALLELRGNAGSHDLQF
+SVETLESLiKLTKEGmKMKVPRYDKSAFGGRGDRADPSVWPEVEGPLEVVLFEGWMLGFK
+PLPNEVVKAVDPQLEVVNKNLEAYYDAWDRFIESWIVIKIREPNCVFQWRLQAEIAMRAD
+GKPGMSDEEVMDFVSRYLPAYHAYLPTLYKEGPNGSKPDHLLVIDIDEeRNPIwGS
+
+
+BOP CONSENSUS:
+Length: 417 aa
+
+MTPLHAAPPPLSASAAVSSSAPPpLLAKPYHPKAAALCSLTVTAATPSRKAFLACPDHsP
+AAGRSLAPARGAPASSPALISAVQDLYEFICSGPLVDRIGYTREKIAESIDRWLWCGSQV
+SRLFRIDELRLTDAEKSRIYHFYIPVFLWCEDQVADHRSKYNDGDEIPPLVIGVSAPQGS
+GKTTLVFALDYLFRVSGRNSATLSIDDFYLTAAEQGKLREtHPGNALLEFRGNAGSHDLQ
+FSVDTLESLIKLTKEGTKMKLPRYDKSAFGGRGDRADPSTWPEVEGPTEVVLFEGWMLGF
+KPLPNEVVTAVDPQLEVVNKNLEAYYDAWDRFIESWIVIKIKEPNCVFQWRLQAEVAMRA
+DGKAGMSDEEVMDFVSRYLPAYHAYLPTLYKEGPNGAKKDHLLVIDIDEERTPISGS
+
+
+PACMAD CONSENSUS:
+Length: 408 aa
+
+MAPLHAAPPPPSAASSSSAAPPLFVARPYHHRRAASvTAAAPSRKAFLSCPDHSPTaAPP
+RatPSSSPALVaSVqDLYDFICSGPLVDRIGYTKEKIAESIDRWLRCGvQVARLFRLNEL
+QLSEAEKARIYHFYIPVFLWCEDQVIEHRAKYNEGDDIPPLVIGVSAPQGSGKTTLVFAL
+DYLFRVAGRNSTTLSIDDFYLTAKEQNELRDRNPGNALLELRGNAGSHDLQFSVETLESL
+tKLTKEGMKMKVPRYDKSAFGGRGDRADPSVWPEVEGPLEVVLFEGWMLGFKPLPNEVVK
+AVDPQLEVVNKNLEAYYDAWDRFIeSWIVIKIREPSCVFQWRLQAEIAMRADGKPGMSDE
+EVMDFVSRYLPAYHAYLPTLYKEGPNGSKPDHLLVIDIDEGRNPIWGs
+
+================================================================================

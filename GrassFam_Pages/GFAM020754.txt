@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM020754
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             403.0 aa
+Family Size (Extended Family Size): 32 (33) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10055:SF10
+Panther Family ID:               PTHR10055
+Modal Panther ID:                PTHR10055:SF10
+Modal Panther Description:       TRYPTOPHAN--TRNA LIGASE
+Modal Panther Family ID:         PTHR10055
+Modal Panther Fam Desc:          TRYPTOPHANYL-TRNA SYNTHETASE
+Interpro Signature Accession:    cd00806; G3DSA:1.10.240.10:FF:000003; G3DSA:3.40.50.620:FF:000033; G3DSA:3.40.50.620; G3DSA:1.10.240.10; TIGR00233; PTHR10055; SSF52374
+Interpro Signature Description:  TrpRS_core; Tryptophan--tRNA ligase, cytoplasmic; tryptophan--tRNA ligase, cytoplasmic; HUPs; -; tryptophan--tRNA ligase; TRYPTOPHANYL-TRNA SYNTHETASE; Nucleotidylyl transferase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: tryptophan--tRNA ligase%2C cytoplasmic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu03H
+  Gene Products: tryptophan--tRNA ligase%2C cytoplasmic; tryptophan--tRNA ligase%2C cytoplasmic-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata05D
+  Gene Products: tryptophan--tRNA ligase%2C cytoplasmic; tryptophan--tRNA ligase%2C cytoplasmic%2C transcript variant X1
+Tae
+  Gene count: 7
+  Modal chromosome: Tae04A
+  Gene Products: tryptophan--tRNA ligase%2C cytoplasmic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl12
+  Gene Products: tryptophan--tRNA ligase%2C cytoplasmic
+  Gene Descriptions: tryptophan--tRNA ligase%2C cytoplasmic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa12
+  Gene Products: tryptophan--tRNA ligase%2C cytoplasmic
+  Gene Descriptions: tryptophan--tRNA ligase%2C cytoplasmic
+Ecu
+  Gene count: 3
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau23
+  Gene Products: tryptophan--tRNA ligase%2C cytoplasmic
+  Gene Descriptions: tryptophan--tRNA ligase%2C cytoplasmic
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi03K
+  Gene Products: tryptophan--tRNA ligase%2C cytoplasmic-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha03
+  Gene Products: tryptophan--tRNA ligase%2C cytoplasmic-like; tryptophan--tRNA ligase%2C cytoplasmic-like%2C transcript variant X3
+Msi
+  Gene count: 3
+  Modal chromosome: Msi04
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: tryptophan--tRNA ligase%2C cytoplasmic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100282419%2C transcript variant X1
+  Gene Synonyms: GRMZM2G002687,pco072468
+  Gene Descriptions: uncharacterized LOC100282419
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 401 aa
+
+MAsAEQeVeKEEEEEQVVNPWEVSAGKGGIDYDKLVDQFGCQRLDAALVDRIARLTGRPP
+HrFLRRGLFFAHRDLNEILDLYEKGEKFYLYTGRGPSSEALHLGHLIPFMFTKYLQEAFK
+VPLVIQLTDDEKFLWKNLTVEESKRLARENAKDIIACGFDVERTFIFSDFnFVGGAFYEN
+MvKVARCVTYNKAVGIFGFtPEDHIGKiSFPPVQAVPSFPSSFPHLFAGnDQLRCLIPCA
+IDQDPYFRMTRDVAPRIGYQKPSLIESRFFPALQGENTKMSASDANSAIYVTDStKEIKT
+KVNKYAFSGGQDSIELHRKLGANLDVDVPIKYLNFFLEDDDELEHIKKEYKEGRMLTGEV
+KQRLIaVLSEmVARHQRARAQVTEEMVDAFMAVRPLPNMFG
+
+
+BOP CONSENSUS:
+Length: 401 aa
+
+MASVAPEVEKKEEEEQVVNPWEVSAGKGGIDYDKLVDQFGCQRLDAALIDRIARLTGRPP
+HRFLRRGLFFAHRDLNEILDIYEKGDKFYLYTGRGPSSEALHLGHLVPFMFTKYLQDAFK
+VPLVIQLTDDEKFLWKNLTVEESKRLARENAKDIIACGFDVERTFIFSDFNFVGGAFYEN
+MVKVARCVTYNKVVGIFGFTPEDHIGKISFPPVQAVPSFPSSFPKHFSGNDQLRCLIPCA
+IDQDPYFRMTRDVAPRIGYQKPALIESRFFPALQGENTKMSASDPNSAIYVTDSTKDIKT
+KVNKYAFSGGQDSVELHRKLGANLEVDVSIKYLNFFLEDDDELERIKKAYKEGRMLTGEV
+KQLLVTVLSEMVERHKRARARVTEEMVDAFMAVRPLPNMFG
+
+
+PACMAD CONSENSUS:
+Length: 404 aa
+
+MAAAEQGVDAVRKEEEEEQVVNPWEVSAGKGGIDYDKLVDQFGCQRIDDALVDRVARLTG
+RPPHCFLRRGLFFAHRDLNEILDLYEKGEKFYLYTGRGPSSEALHLGHLIPFMFTKYLQE
+AFKVPLVIQLTDDEKFLWKNLTVEESKRLARENAKDIIACGFDVERTFIFSDFSFVGGAF
+YENMmqVARCVTYNKAVGIFGFSPEDHIGKVSFPPVQAVPSFPSSFPHLFAGKDQLRCLI
+PCAIDQDPYFRMTRDVAPRIGYQKPSLIESRFFPALQGENTKMSASDANSAIYVTDSAKE
+IKTKVNKYAFSGGQDSIELHRKLGANLDVDVPIKYLNFFLEDDDELEHIKKEYKEGRMLT
+GEVKQRLIAVLSELVARHQRARAQVTEEMVDAFMAVRPLPNMFG
+
+================================================================================

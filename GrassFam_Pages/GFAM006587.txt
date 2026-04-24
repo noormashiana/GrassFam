@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM006587
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             413.5 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11452:SF85
+Panther Family ID:               PTHR11452
+Modal Panther ID:                PTHR11452:SF85
+Modal Panther Description:       ALPHA-GALACTOSIDASE
+Modal Panther Family ID:         PTHR11452
+Modal Panther Fam Desc:          ALPHA-GALACTOSIDASE/ALPHA-N-ACETYLGALACTOSAMINIDASE
+Interpro Signature Accession:    cd14792; G3DSA:3.20.20.70:FF:000093; G3DSA:2.60.40.1180:FF:000008; G3DSA:2.60.40.1180; G3DSA:3.20.20.70; PTHR11452; PR00740; PF16499; SSF51445; SSF51011
+Interpro Signature Description:  GH27; Alpha-galactosidase; -; Aldolase class I; ALPHA-GALACTOSIDASE/ALPHA-N-ACETYLGALACTOSAMINIDASE; Glycosyl hydrolase family 27 signature; Alpha galactosidase A; (Trans)glycosidases; Glycosyl hydrolase domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: alpha-galactosidase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: alpha-galactosidase 1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: alpha-galactosidase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: alpha-galactosidase-like; alpha-galactosidase-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: alpha-galactosidase-like%2C transcript variant X2
+  Gene Descriptions: alpha-galactosidase-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: alpha-galactosidase%2C transcript variant X1
+  Gene Descriptions: alpha-galactosidase
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau21
+  Gene Products: alpha-galactosidase 1-like
+  Gene Descriptions: alpha-galactosidase 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: alpha-galactosidase 1-like; alpha-galactosidase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: alpha-galactosidase-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: alpha-galactosidase%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100280970
+  Gene Synonyms: GRMZM2G095126,IDP408
+  Gene Descriptions: uncharacterized LOC100280970
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 414 aa
+
+MEGGRGsPWARLAlLLLVAlAcAaAAVGEgRVVHVGEAHRRSMLANGLGSAPPMGWNSWN
+HFACDGNGEVVIRETADALVSTGLAAAGYKYVNIDDCWAEPERDAKGNLVANKKTFPHGI
+KALADYVHSKGLKLGIYSDAGyKTCAKAQPGSLGHEEQDAKTFASWGVDYLKYDNCNNGD
+LKPLERYPEMSKALMKAGRPIYFSLCEWGDMHPARWGAAYGNSWRTTNDIADTWESMIST
+ADQNEVWAEYARPGGWNDPDMLEVGNGGMTNDEYIVHFSLWAISKAPLIIGCDVRHMSQE
+TYDILANKEVIAVNQDPLGVQGKKVRMEGSSEIWAAPLSGYRTAVLLLNRHAKDEAtITA
+HWDDIGLPAGTAVEARDLWLHKTLDakFTDKMsFDVAPHSCRMFVLKPLkSqrd
+
+
+BOP CONSENSUS:
+Length: 415 aa
+
+MEGcRGRPWTRLPAlLLLALACAAvAAVGECRVVHVGEAHRRSMLANGLGATPPMGWNSW
+NHFACDGNGEVVIRETADALVSTGLAAAGYKYVNLDDCWAEPERDAKGNLVANKKTFPHG
+IKALADYVHSKGLKLGIYSDAGYKTCAKAQPGSLGHEEQDAKTFASWGVDYLKYDNCNNG
+DTKPLQRYPDMSKALMQAGRPIYFSLCEWGDMHPARWGAAYGNSWRTTNDIEDTWeSMTS
+RADQNEVWAEYARPGGWNDPDMLEVGNGGMTNDEYIVHFSIWAISKAPLIIGCDVRHMSQ
+DTYDILANKEVIAVNQDPLGVQGKKVRMEGSSEIWAAPLTGYRTAVLLLNRHAKDEAQIT
+AHWDDIGLPAGTAVEARDLWLHKTLDtKFTDKMSFNVTPHAARMFVLTPLKSQMD
+
+
+PACMAD CONSENSUS:
+Length: 412 aa
+
+MeGGRRRGSPPARLALLvLVAVAAAgaVAEGKVVHVEEAHRRSMLANGLGSAPPMGWNSW
+NHFQCdGNGEvVIRETADALVSTGLAALGYKYVNIDDCWAEPkRDAmGNLVANTKTFPHG
+IKALADYVHSKGLKLGIYSDAGFQTCAKAQPGSLGHEEQDAKTFAAWGVDYLKYDNCNNG
+DLKPLERYPEMSKALMKvGRPIYFSLCEWGDMHPARWGAAYGNSWRTTNDIADTWESMIA
+TADQNEVWAEYARPGGWNDPDMLEVGNGGMTNSEYVVHFSLWAISKAPLIIGCDVRHMSQ
+ETYDILANKEVIAVNQDPLGVQGKKVRMEGSSEIWAAPLSDYRTAVVLLNRHATDEATIT
+AHWDDIGLPAGTAVEARDLWLHKTLDATFTDKMAFDVAPRSCRMFVLKPRLr
+
+================================================================================

@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM012694
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             408.0 aa
+Family Size (Extended Family Size): 29 (33) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24057:SF79
+Panther Family ID:               PTHR24057
+Modal Panther ID:                PTHR24057:SF79
+Modal Panther Description:       NON-SPECIFIC SERINE_THREONINE PROTEIN KINASE
+Modal Panther Family ID:         PTHR24057
+Modal Panther Fam Desc:          GLYCOGEN SYNTHASE KINASE-3 ALPHA
+Interpro Signature Accession:    cd14137; G3DSA:1.10.510.10:FF:000082; G3DSA:3.30.200.20:FF:000009; G3DSA:1.10.510.10; G3DSA:3.30.200.20; PTHR24057; PF00069; SM00220; SSF56112
+Interpro Signature Description:  STKc_GSK3; Shaggy-related protein kinase kappa; Glycogen synthase kinase-3 beta; Transferase(Phosphotransferase) domain 1; Phosphorylase Kinase; domain 1; GLYCOGEN SYNTHASE KINASE-3 ALPHA; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: shaggy-related protein kinase alpha
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu03H
+  Gene Products: glycogen synthase kinase-3 homolog MsK-3; shaggy-related protein kinase alpha
+Ata
+  Gene count: 2
+  Modal chromosome: Ata03D
+  Gene Products: glycogen synthase kinase-3 homolog MsK-3; shaggy-related protein kinase alpha
+Tae
+  Gene count: 6
+  Modal chromosome: Tae03A
+  Gene Products: glycogen synthase kinase-3 homolog MsK-3%2C transcript variant X1; glycogen synthase kinase-3 homolog MsK-3-like; shaggy-related protein kinase alpha; shaggy-related protein kinase alpha-like; shaggy-related protein kinase alpha-like%2C transcript variant X1
+Ola
+  Gene count: 2
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: shaggy-related protein kinase alpha
+  Gene Descriptions: shaggy-related protein kinase alpha
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: shaggy-related protein kinase alpha%2C transcript variant 2
+  Gene Synonyms: OSKgamma
+  Gene Descriptions: shaggy-related protein kinase alpha
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: glycogen synthase kinase-3 homolog MsK-3-like%2C transcript variant X1; shaggy-related protein kinase alpha
+  Gene Descriptions: glycogen synthase kinase-3 homolog MsK-3-like; shaggy-related protein kinase alpha
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: shaggy-related protein kinase alpha%2C transcript variant X1; shaggy-related protein kinase alpha-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: shaggy-related protein kinase alpha
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: glycogen synthase kinase-3 homolog MsK-3
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: glycogen synthase kinase-3 MsK-3%2C transcript variant X1; uncharacterized LOC100283734%2C transcript variant X1
+  Gene Synonyms: GRMZM2G024151; GRMZM5G835235,pco153236
+  Gene Descriptions: glycogen synthase kinase-3 MsK-3; uncharacterized LOC100283734
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 408 aa
+
+MASaGVAPSGyKNSSSTSMGAEKLPDQMNELKIRDDKEVEATIINGKGTETGHIIVTTTG
+GKNGQPKQTVSYMAERIVGQGSFGIVFQAKCLETGETVAIKKVLQDKRYKNRELQTMRLL
+DHPNVVALKHCFFSTTEKDELYLNLVLEYVPETVHRVVKHYNKMNQRMPLIYVKLYMYQI
+CRALAYIHGSIGVCHRDIKPQNLLVNPHTHQLKLCDFGSAKVLVKGEPNISYICSRYYRA
+PELIFGATEYTTAIDIWSAGCVLAELMLGQPLFPGESGVDQLVEIIKVLGTPTREEIKCM
+NPNYTEFKFPQIKAHPWHKVFHKRMPPEAVDLVSRLLQYSPNLRCTAVEALVHPFFDELR
+DPNTRLPNGRFLPPLFNFKPHELKGVPADIVAKLIPEHAKKQCpYvGL
+
+
+BOP CONSENSUS:
+Length: 408 aa
+
+MASVGVAPSGlKNSSGTSMGVEKLPDQMNDLKIRDDKEVEATIINGKGTETGHIIVTTTG
+GRNGQPKQTVSYMAERIVGQGSFGIVFQAKCLETGETVAIKKVLQDKRYKNRELQTMRLL
+DHPNVVALKHCFFSTTEKDELYLNLVLEYVPETVHRVVKHYNKMNQRMPLIYVKLYTYQI
+CRALAYIHGSIGVCHRDIKPQNLLVNPHTHQLKLCDFGSAKVLVKGEPNISYICSRYYRA
+PELIFGATEYTTAIDIWSAGCVLAELMLGQPLFPGESGVDQLVEIIKVLGTPTREEIKCM
+NPNYTEFKFPQIKAHPWHKVFHKRMPPEAVDLVSRLLQYSPNLRCTAVEALVHPFFDELR
+DPNTRLPNGRFLPPLFNFKPHELKGIPmDIAAKLIPEHARKQCShAGL
+
+
+PACMAD CONSENSUS:
+Length: 408 aa
+
+MASAGVAPSGYKNSSSTSIGAEKLQDQMNELKIRDDKEVEATIINGKGTETGHIIVTTTG
+GKNGQPKQTVSYMAERIVGQGSFGIVFQAKCLETGETVAIKKVLQDKRYKNRELQTMRLL
+DHPNVVALKHCFFSTTEKDELYLNLVLEYVPETVHRVVKHHNKMNQRMPLIYVKLYMYQI
+CRALAYIHGSIGVCHRDIKPQNLLVNPHTHQLKLCDFGSAKVLVKGEPNISYICSRYYRA
+PELIFGATEYTTAIDIWSAGCVLAELMLGQPLFPGESGVDQLVEIIKVLGTPTREEIKCM
+NPNYTEFKFPQIKAHPWHKVFHKRMPPEAVDLVSRLLQYSPNLRCTAVEALVHPFFDELR
+DPNTRLPNGRFLPPLFNFKPHELKGVPADIVAKLIPEHAKKQCPYVGL
+
+================================================================================

@@ -1,0 +1,115 @@
+================================================================================
+GrassFam ID: GFAM009450
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             608.5 aa
+Family Size (Extended Family Size): 12 (14) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12542:SF25
+Panther Family ID:               PTHR12542
+Modal Panther ID:                PTHR12542:SF25
+Modal Panther Description:       EXOCYST SUBUNIT EXO70 FAMILY PROTEIN
+Modal Panther Family ID:         PTHR12542
+Modal Panther Fam Desc:          EXOCYST COMPLEX PROTEIN EXO70
+Interpro Signature Accession:    G3DSA:1.20.1280.170; PTHR12542; PF03081; SSF74788
+Interpro Signature Description:  Exocyst complex component Exo70; EXOCYST COMPLEX PROTEIN EXO70; Exo70 exocyst complex subunit C-terminal; Cullin repeat-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Tae
+  Gene count: 2
+  Modal chromosome: Tae07A
+  Gene Products: exocyst complex component EXO70A1-like; exocyst complex component EXO70B1-like
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl01
+  Gene Products: exocyst complex component EXO70A1-like; exocyst complex component EXO70A3-like
+  Gene Descriptions: exocyst complex component EXO70A1-like; exocyst complex component EXO70A3-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa01
+  Gene Products: exocyst complex component EXO70A1
+  Gene Descriptions: exocyst complex component EXO70A1
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau02
+  Gene Products: exocyst complex component EXO70A1-like
+  Gene Descriptions: exocyst complex component EXO70A1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: exocyst complex component EXO70A1-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi06
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 611 aa
+
+MGAAAGKAlEDvAsApGTTRAEaRLAVAEHViLqWdRsRSSGgsDAGIWDAeATCTNrSL
+LSAVDEILhLKEIHAFPMASpARRRMDgALgVAMSrLMEEFLsLRVWDASQLEGRsGLRF
+AVeKLSVSlAasGvSvsLAFPTGGSTSTGELSvSTtDELYASGGSQSSwPDAVTvfvDGE
+FpDELDLICPASLSVLHEIALRVIRAGYTKELLHTFTNAPChVLDRFLSILQlgCSFfta
+nrISFEDAEWWTAEDMIKRWILATKLVGKALVVMQRQLqAQSCGAFDRFKNDYFMAIAKr
+SIlVLLRFADGFTSTRSPEKLiYVLEMYEvLSNAvPGLLLLFTGQHkELiSRQVEVVLAK
+LARALRAMIGGLITKIRTDCSQaTgTrgvGVGVHPLTRYAMTCVELLAPHRgALDLILAN
+gGEDEGgAEGVTSFGSLVSELIASLERNLEEISALAgAeGsgSRHLFLANNTSFVLrRAa
+DAGVASLLGDeWAARRRSRlEQHvASYvEASWAPVVACLETtGaGKPpvKALAKFNAAFE
+KAYgSQVrREVPDPALRAALRKAVSEMVVPAYsAyLQkHPKLGKSVRYTADdLAeLLSEL
+FEGEAAeGRKS
+
+
+BOP CONSENSUS:
+Length: 610 aa
+
+MGAAAGKAvEDvASAsTTTRAEDRLAVAErVILEwhRRRSSGDgslvGIWDAQATCTNeS
+LLAAVDEIVFLKEMHAFPMASAAGRRMDGALRvAMSCLMEEFLSLRVWDGSQLEvRSGLR
+FAVgKLSvSVAAAsGVSSSLAFLTtGSTASTVRTSTgELSsSTIDELYASGSGSQPAGPD
+vFLDGEFPDELDLICPASLSVLHqISLRVIRAGYTKELLHTFTNAPCDVLDRFLSILQvG
+CSfETDESISYENAEWWTAEDMIRRWILATKLVgKALVvMQtQLqAQSNGAFDRFKNDYl
+MAIAKRSsFILLRFADGFTSTrSPEKLvYVLEMYEVLGSAVPGLvLVFTGQRKELvSRQV
+EVVLAKLARALRAMIGGLITKIRtGdsSGTQTgTRGVGvGVHPLTRYAMtCVESLAPHRG
+ALDLILAStgGILEGVtSFGDLVSELVASLEPkLEEISpLRGneGGGsRHLFLANNTSYV
+LrRAvdlGvGDgWAARRrSrVeQHVASYVEASWAPVVACLEAAGKPpVKvLAKFNSALDK
+AYsSHVRCEVPDPALRdALRKAVSEmVVpAYsAYLqnHPKLQKSARHTAgsLArLLSELF
+EGEDAErNKS
+
+
+PACMAD CONSENSUS:
+Length: 610 aa
+
+MGAAVAKALEDTADAPGTLAEARLAVAAHAVLQWDCSPDADAGIWDAEATCTNRSLLSAV
+DEILHLKEIHAFPMASPARRRMDTALGVAMSRLMDEFLLLRVWDASQLQGtDGLRVAVER
+LSVSLAPGGSGVWPAFPTGGSTSTGELSVSTTDELRASGRSLSSWPDVLTVSVDGTiSDD
+LHLICPASLPVLHEIALRVIRAGYTKELLQTFTKAPCHVLDRFLSILQLDRPFLAANRIN
+FEDAEWWTTEDMVKRWILATKLVGKALVVMQRQLMAQKCGAFDRFKDDYFMAIAKQSILV
+LLKFADGFTSTRSPEKLIYVLEMYEALSNSAPGLLPLFTGQHAELISRQLPVVLAKLERA
+LRAAIGGLITKIRTDCSQAETlGVGVHPLARYAMTCVELLAPHRTALDLILANGGEDERG
+APAGGAERVTSFGSLVSELIAGMERNLEEKSALACAGGSPSRHLFLANNTGFVLNRAADA
+GVASLLGDEWAARRRSRLEQHAASYLrASWGPVVARLETAVGGSGKPAKALAKFNAAFEK
+AHGSQVCREVPDPALRAAMRKAVSEMVVPAYSAFLQKHPKLGKSVRYTADDVAESLSELF
+EGDAADGRKS
+
+================================================================================

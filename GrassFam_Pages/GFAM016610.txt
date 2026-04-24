@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM016610
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             405.0 aa
+Family Size (Extended Family Size): 21 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43072:SF48
+Panther Family ID:               PTHR43072
+Modal Panther ID:                PTHR43072:SF48
+Modal Panther Description:       OS12G0561600 PROTEIN
+Modal Panther Family ID:         PTHR43072
+Modal Panther Fam Desc:          N-ACETYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:3.40.630.30:FF:000116; PTHR47370
+Interpro Signature Description:  Putative N-acetyltransferase HLS1; ACYL-COA N-ACYLTRANSFERASES (NAT) SUPERFAMILY PROTEIN
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: probable N-acetyltransferase HLS1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: probable N-acetyltransferase HLS1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: probable N-acetyltransferase HLS1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: probable N-acetyltransferase HLS1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: probable N-acetyltransferase HLS1
+  Gene Descriptions: probable N-acetyltransferase HLS1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: probable N-acetyltransferase HLS1
+  Gene Descriptions: probable N-acetyltransferase HLS1
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: probable N-acetyltransferase HLS1-like
+  Gene Descriptions: probable N-acetyltransferase HLS1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: probable N-acetyltransferase HLS1-like; probable N-acetyltransferase HLS1-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: probable N-acetyltransferase HLS1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: probable N-acetyltransferase HLS1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100384002
+  Gene Synonyms: GNAT15,GRMZM2G099305
+  Gene Descriptions: uncharacterized LOC100384002
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 401 aa
+
+MVEAAAevVVVVREYDdaRDRgGVEEVERECEVGSSGGGKMCLFTDLLGDPLCRIRNSPA
+fLMLVAETATGpGGGNGTEIAGLVRGCVKSVVSGgsHaKDPIYTKVGYILGLRVSPsHRR
+KGVGKKLVDRMEEWFRQkGAEYSYMATEQDNEASVRLFTGRCGYSKFRTPSVLVHPVFRH
+ALkPSRRAAIVRLEPREAELLYRWHFAAVEFFPADIDAVLSNALSLGTFLAVPAGTRWEG
+VEAFLAAPPASWAVLSVWNCMDAFRLEVRGAPRLMRAAAGATRLVDRAAPWLgIPSIPNL
+FAPFGLYFLYGLGGAGPDAPRLVRALCRHAHNMARrGGCGVVATEVsACEPVRAGVPHWA
+RLGAEDLWCIKRLADGYSHGPLGDWTKAPPGRSIFIDPREF
+
+
+BOP CONSENSUS:
+Length: 411 aa
+
+MVEAvAAVAEEEhdVaVREYDDVRDRGGVEEVERECEVGSSGGGGGkMCLFTDLLGDPLC
+RIRNSPDFLMLVAETATGSGGGGGGGAEIIGLVRGCVKSVVSGGSHsKDPIYTKVAYILG
+LRVSPNHRRKGVGRKLVERMEQWFRQKGAEYSYMATEQDNEASVRLFTSRCGYSKFRTPS
+LLVHPVFRHALKPSRRASIVRLEPRDAERLYRWHFAAVEFFPADIDAVLSNALSLGTFLA
+vPAGTRWDGDVEAFLAAPPASWAVLSVWNCMDAFRLEVRGAPRLMRAAAGATRLVDRAAP
+WLRIPSIPNLFAPFGLYFLYGLGGAGPgAPRLVRALCRHAHNMARRGGCGVVATEVAALE
+PVRAGVPHWARLGAEDLWCIKRLADGYNHGpLGDWTKAPPGRSIFVDPREF
+
+
+PACMAD CONSENSUS:
+Length: 398 aa
+
+MVEAAAtvVVVVREYDsARDRgGVEEVERACEVGSSGGGKMCLFTDLLGDPLCRIRHSPA
+sLMLVAETATGPNSTEIAGLVRGCVKTVVSGtTtakDPIYTKVGYILGLRVSPSHRRKGV
+GKKLVDRMEEWFRQtGAEYSYMATEQDNEASVRLFTGRCGYAKFRTPSVLVHPVFrHALr
+PSRRAAIVrLEPREAELLYRWHFAgVEFFPADIDAVLSNDLSLGTFLAVPAGARWEGVEA
+FLAAPPPSWAVLSVWNCMDAFRLEVRGAPRLMRAAAGATRLVDRAAPWLGIPSIPNLFAP
+FGLYFLYGLGGAGPDAPRLARALCRHAHNMARDGGCGVVATEVGACEPVRAGVPHWARLG
+AEDLWCIKRLADGYSdGPLGDWTKAPAGHSIFIDPREF
+
+================================================================================

@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM011495
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             474.0 aa
+Family Size (Extended Family Size): 21 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43092:SF5
+Panther Family ID:               PTHR43092
+Modal Panther ID:                PTHR43092:SF5
+Modal Panther Description:       L-CYSTEINE DESULFHYDRASE 2-RELATED
+Modal Panther Family ID:         PTHR43092
+Modal Panther Fam Desc:          L-CYSTEINE DESULFHYDRASE
+Interpro Signature Accession:    G3DSA:3.40.640.10; G3DSA:3.90.1150.10; PTHR43092; SSF53383
+Interpro Signature Description:  -; Aspartate Aminotransferase, domain 1; L-CYSTEINE DESULFHYDRASE; PLP-dependent transferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: putative L-cysteine desulfhydrase 1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: putative L-cysteine desulfhydrase 1%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: putative L-cysteine desulfhydrase 1%2C transcript variant X1; putative L-cysteine desulfhydrase 1%2C transcript variant X5
+Ola
+  Gene count: 2
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: putative L-cysteine desulfhydrase 1%2C transcript variant X1
+  Gene Descriptions: putative L-cysteine desulfhydrase 1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: putative L-cysteine desulfhydrase 1%2C transcript variant 2
+  Gene Synonyms: L-CDes1,OsL-CDes1
+  Gene Descriptions: putative L-cysteine desulfhydrase 1
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN579
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: putative L-cysteine desulfhydrase 1; putative L-cysteine desulfhydrase 1%2C transcript variant X3
+  Gene Descriptions: putative L-cysteine desulfhydrase 1
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: putative L-cysteine desulfhydrase 1; putative L-cysteine desulfhydrase 1%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: putative L-cysteine desulfhydrase 1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: putative L-cysteine desulfhydrase 1%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: uncharacterized LOC100284775
+  Gene Synonyms: cef1,GRMZM2G322186
+  Gene Descriptions: uncharacterized LOC100284775
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 471 aa
+
+MASiPPdDDAAAAENGHGNhGNGNGPSPAKRPRAVISAAEIRAEFAHHDAAVARVNNGSF
+GCCPASVLAAQARWQRLFLAQPDAFYFHGLQQGLrRSRAAVAaLVGAGDVSEVSLVDNAT
+TAAAIVLQHAAWSFAEGHFARGDAVLMLHYAYGAVKKSIHAYVARAGATVVEVPLPFPVA
+SADAIIAEFRAALAVAKaGGRRVRLAVIDHITSMPSVVIPVKELVAICREEGVDKVFVDA
+AHSIGQVPVDVRDIGADFYTSNLHKWFFCPPAVAFLHTRKDDPIASQLHHPVVSHEYGNG
+LPMESGWIGTRDYSAQLVVSEAIDFVNRFEGGIEGIRSRNHEKVIEMGRMLAEAWGTFLG
+SPPELCGSMVMVGMPGCLGVESDDDAMRVRTMLRKDFqVEVPIYYNSRRVEGQEMAKDKN
+GDPVTGYVRISHQVYNVkEDYERLRDAVNKLVSEGFTSSKLRPSEKQEtlA
+
+
+BOP CONSENSUS:
+Length: 468 aa
+
+MASIPSDDVSENGHGNGNGPSPPRAKRPRAALISAAQIRDEFAHHDPAVARVNNGSFGCC
+PASVLEAQARWQRLFLAQPDAFYFDGLQPGLRRSRAAVAALVNAGDVSEISLVDNATTAA
+AIVLQHAAWSFAEGHFARGDAVLMLHYAYGAVKKSIQAYVARAGATVVEVPLPFPVTSPD
+AIIAEFHAALAVAKAGGRKVRLAVIDHITSMPSVLIPVKELVAICRQEGVDKVFVDAAHS
+VGQVPVDVRDIGADFYTSNLHKWFFCPPAVAFLHTRKGGPITSQLHHPVVSHEYGNGLPM
+ESGWIGTRDYSAQIVVPEAIHFVNRFEGGIEGIRSRNHEKVIEMGRMLAEAWGTFLGSPP
+VMCGSMVMVGMPsCLGIESDDDALRVRTMLRKDFKVEVPIYYNSRRVKVQEMAKDNNSDP
+VTGYVRISHQVYNVKEEYERLRDAVNKLVAEGFTSSKLRPSEKVETvA
+
+
+PACMAD CONSENSUS:
+Length: 470 aa
+
+MASDPPPDDAAAAeNGHGHDHGNGNGPSPAKRPRAVISAAEIRAEFAHHDAAVARVNNGS
+FGCCPASVLAAQARWQRLFLAQPDAFYFHGLQQGLLRSRAAVAgAVGAGDVSEVSLVDNA
+TTAAAIVLQHAAWSFAEGHFARGDAVLMLHYAYGAVKKSIHAYVARAGATVVEVPLPFPV
+ASADAIIAEFRAALAVAKEGGRRVRLAVIDHITSMPSVVIPVKELVAICREEGVDKVFVD
+AAHSIGQVPVDVRDIGADFYTSNLHKWFFCPPAVAFLHTRKDDPIASQLHHPVVSHEYGN
+GLPMESGWIGTRDYSAQLVVSEAIDFVNRFEGGIEGIRSRNHEKVIEMGRMLAEAWGTFL
+GSPPELCGSMVMVGMPGCLGVESDDDAMRVRTMLRKDFQVEVPIYYNSRRVEGQEMAKDK
+NGDPVTGYVRISHQVYNVREDYERLRDAVNKLVSEGFTSSKLRPSEKQEA
+
+================================================================================

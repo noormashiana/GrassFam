@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM003014
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             606.0 aa
+Family Size (Extended Family Size): 21 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12121:SF102
+Panther Family ID:               PTHR12121
+Modal Panther ID:                PTHR12121:SF102
+Modal Panther Description:       FAMILY PROTEIN, PUTATIVE, EXPRESSED-RELATED
+Modal Panther Family ID:         PTHR12121
+Modal Panther Fam Desc:          CARBON CATABOLITE REPRESSOR PROTEIN 4
+Interpro Signature Accession:    cd09097; G3DSA:3.60.10.10:FF:000016; G3DSA:3.60.10.10; PTHR12121; SSF56219
+Interpro Signature Description:  Deadenylase_CCR4; Carbon catabolite repressor protein 4 1; Endonuclease/exonuclease/phosphatase; CARBON CATABOLITE REPRESSOR PROTEIN 4; DNase I-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: carbon catabolite repressor protein 4 homolog 1
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: carbon catabolite repressor protein 4 homolog 1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: carbon catabolite repressor protein 4 homolog 1%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: carbon catabolite repressor protein 4 homolog 1-like; carbon catabolite repressor protein 4 homolog 1-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: carbon catabolite repressor protein 4 homolog 1-like
+  Gene Descriptions: carbon catabolite repressor protein 4 homolog 1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: carbon catabolite repressor protein 4 homolog 1%2C transcript variant X2
+  Gene Descriptions: carbon catabolite repressor protein 4 homolog 1
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau21
+  Gene Products: carbon catabolite repressor protein 4 homolog 1-like%2C transcript variant X1
+  Gene Descriptions: carbon catabolite repressor protein 4 homolog 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: carbon catabolite repressor protein 4 homolog 1-like%2C transcript variant X1; carbon catabolite repressor protein 4 homolog 1-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: carbon catabolite repressor protein 4 homolog 1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: carbon catabolite repressor protein 4 homolog 1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100279626%2C transcript variant X4; uncharacterized LOC100279717
+  Gene Synonyms: cl715_-2a,GRMZM2G043509; gpm725,GRMZM2G118467
+  Gene Descriptions: uncharacterized LOC100279626; uncharacterized LOC100279717
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 606 aa
+
+MLSVVRVHLPSEIPIVGCEITPYVLLRRPDGAVSTDDVPETAPaDGQFMRYRWYRIQSDR
+KVPICSVHPMEQATIQCLGCLKSKIPVAKSYHCSAKCFSDAWQHHKVLHERASSALNENG
+AEEEELFGRFGSGGSGVLSTAGSGSMSNFGQSPGVNNGPVPLYPSGTDKNSGETWFEVGR
+SRTYTPTADDIGHALKFECVAVDsEKKvPvGPPTSIMTSRVIPAPTPTPRRLIQVNGDVL
+GHLDLDSQTSSLGTFTVLSYNILADAYATSDAYSYCPTWALSWTYRRQNLMREIIGYHAD
+IICLQEVQLNHFEDFFAPELDKHGYQALYKKRTTEVYSGNPhAIDGCATFFRRDKFSHVK
+KYEVEFNKAAQSLTDAIIPAAQKRVALSRLIKDNIALIAVLEAKFGNHGTENPGKRQLLC
+VANTHINVHQDLKDVKLWEVHTLLKGLEKIAVSADIPMLVCGDFNStPGSSPHGLLAvGK
+VDQLHPDLAIDPLGILRPpSKLNHQLPLVSAYSSFARMVGVGYDLEHQRRRMDPATNEPL
+FTNCTRDFTGTVDYIFYTADSLTVESLLELLDEESLRKDTALPSPEWSSDHIALLAEFRC
+KPRIRR
+
+
+BOP CONSENSUS:
+Length: 605 aa
+
+MLSVVRVHLPSEIPIVGCEITPYVLLRLPNGAISTDDVPETAAVDGHFMRYRWYRIQSDR
+KVAICSVHPMEQATIQCLGCLKSKIPAAKSYHCSAKCFSDAWQHHKVLHERASSALNENG
+AEEEELFGRFGSGSSGILSSGSGSMSNLGQSPGVNNGPVPLYPSGSDKsSGETWFEVGRS
+QTYTPTADDIGHVLRFECAAVDTEKKVPAGPPTSIMTSRVIPAPTPTPRRLIQVNGDVLG
+HLDMDSQSSSFGTFTVLSYNILADAYATSDAYSYCPTWALSWTYRRQNLMREIIGYHADI
+ICLQEVQLNHFEDFFAPEFDKHGYQALYKKRTTEVYAGVPHAIDGCATFFRRDRFSHVKK
+YEVEFNKAAQSLTDAIIPPAQKRVALNRLIKDNIALIAVLEAKFGNQGTENPGKRQLLCV
+ANTHVNVHQDLKDVKLWEVQTLLKGLEKIANSADIPMLVCGDFNSIPGSTPHGLLAIGKV
+DQLHPDLAIDPLGILRPVSKLTHQLPLVSAYSSFARMVGVGYDLEHQRRRMDSGTNEPLF
+TNCTRDFTGTVDYIFYTADSLSVESLLELLDEESLRKDTALPSPEWSSDHIALLAEFRCK
+PRIRR
+
+
+PACMAD CONSENSUS:
+Length: 606 aa
+
+MLSVVRVHLPSEIPIVGCEITPYVLLRRPDGAVSTDDVPETAPADGQFMRYRWYRIQSDR
+KVPICSVHPMEQATIQCLGCLKSKIPVAKSYHCSAKCFSDAWQHHKVLHERASSALNENG
+AEEEELFGRFGSGGSGVLSTAGSGSLSNFGQSPGVNNGPVPLYPSGTDKNSGETWFEVGR
+LRTYTPTADDIGHALKFECVAVDSEKRSPVGPPTSIMTSRVIPAPTPTPRRLIQVNGDVL
+GHLDLDSQTSSLGTFTVLSYNILADAYATSDAYSYCPTWALSWTYRRQNLLREIIGYHAD
+IICLQEVQLNHFEDFFAPELDKHGYQALYKKRTTEVYSGNPMAIDGCATFFRRDKFSHVK
+KYEVEFNKAAQSLTDAIIPAAQKRVALSRLIKDNIALIAVLEAKFGNHGAENPGKRQLLC
+VANTHINVHQDLKDVKLWEVHTLLKGLEKIAVSADIPMLVCGDFNSTPGSSPHGLLAVGK
+VDQLHPDLAIDPLGILRPPSKLNHQLPLVSAYSSFARMVGVGYDLEHQRRRMDPATNEPL
+FTNCTRDFTGTVDYIFYTADSLTVESLLELLDEESLRKDTALPSPEWSSDHIALLAEFRC
+KPRIRR
+
+================================================================================

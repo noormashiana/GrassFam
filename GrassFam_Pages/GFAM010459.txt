@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM010459
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             357.0 aa
+Family Size (Extended Family Size): 23 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR20852:SF109
+Panther Family ID:               PTHR20852
+Modal Panther ID:                PTHR20852:SF109
+Modal Panther Description:       GLUTAMINE SYNTHETASE CYTOSOLIC ISOZYME 1-2
+Modal Panther Family ID:         PTHR20852
+Modal Panther Fam Desc:          GLUTAMINE SYNTHETASE
+Interpro Signature Accession:    G3DSA:3.30.590.10:FF:000004; G3DSA:3.10.20.70:FF:000003; G3DSA:3.30.590.10; G3DSA:3.10.20.70; PTHR20852; SM01230; SSF55931
+Interpro Signature Description:  Glutamine synthetase; Glutamine synthetase, chloroplastic; Glutamine synthetase/guanido kinase, catalytic domain; -; GLUTAMINE SYNTHETASE; Gln_synt_C_2; Glutamine synthetase/guanido kinase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: glutamine synthetase cytosolic isozyme 1-2
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: glutamine synthetase cytosolic isozyme 1-2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: glutamine synthetase cytosolic isozyme 1-2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: glutamine synthetase cytosolic isozyme 1-2; glutamine synthetase cytosolic isozyme 1-2-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: glutamine synthetase cytosolic isozyme 1-2
+  Gene Descriptions: glutamine synthetase cytosolic isozyme 1-2
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: glutamine synthetase cytosolic isozyme 1-2-like
+  Gene Synonyms: GLN1-2,GSR,OJ1743A09.19,OsGLN1%3B2,OsGS1%3B2,OsJ_09974,RGS8
+  Gene Descriptions: glutamine synthetase cytosolic isozyme 1-2-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: glutamine synthetase root isozyme 5; glutamine synthetase root isozyme 5-like
+  Gene Descriptions: glutamine synthetase root isozyme 5; glutamine synthetase root isozyme 5-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: glutamine synthetase root isozyme 5; glutamine synthetase root isozyme 5-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: glutamine synthetase root isozyme 5
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: glutamine synthetase root isozyme 1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: glutamine synthetase 3%2C transcript variant X1; glutamine synthetase 6
+  Gene Synonyms: CL1911_3,CL1911_3b,CL1911_3_ov,gln3,GRMZM2G046601,GS1-5,GS117,GS1752; GLN6,GRMZM2G050514,GS1-1,GS122
+  Gene Descriptions: glutamine synthetase 3; glutamine synthetase 6
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 357 aa
+
+MASLTDLVNLNLSDCTDKIIVEYIWVGGSGIDLRSKARTVKGPITDASQLPKWNYDGSST
+GQAPGEDSEVILYPQAIFKDPFRRGDNILVMCDCYTPQGEPIPTNKRyNAAKIFSHPDVA
+AEVPWYGIEQEYTLLQKDVNWPLGWPVGGYPGPQGPYYCAAGADKAFGRDVVDAHYKACL
+YAGINISGINGEVMPGQWEFQVGPSVGIAAgDQIWVARYILERITEvAGVVLSLDPKPIP
+GDWNGAGAHTNYSTKSMREPGGYEVIKKAIEKLGKRHaEHIAAYGEGNERRLTGRHETAD
+INTFKWGVANRGASIRVGRDTEKEGKGYFEDRRPASNMDPYVVTSMIAETTLLWKGN
+
+
+BOP CONSENSUS:
+Length: 354 aa
+
+MASLADLVNLDLSDCTDKIIVEYLWVGGSGIDIRSKARTVNGPITDASQLPKWNYDGSST
+GQAPGEDSEVILYPQAIFKDPFRRGDNILVMCDCYTPQGVPIPTNKRHNAAKIFNtPKVA
+AEVTWYGIEQEYTLLQKDVNWPLGWPIGGYPGPQGPYYCAAGADKAFGRDIVDAHYKACL
+YAGINISGINGEVMPGQWEFQVGPSVGIAASDQLWVARYILERITEVAGVVLSLDPKPIP
+GDWNGAGAHTNYSTKSMREAGGYEVIKKAIEKLGKRHaEHIAAYGEGNERRLTGHHETAD
+INTFKWGVANRGASIRVGRDTEKDGKGYFEDRRPASNMDPYVVTSMIAETTLLL
+
+
+PACMAD CONSENSUS:
+Length: 357 aa
+
+MASLTDLVNLNLSDCTDKIIAEYIWIGGSGIDLRSKARTVKGPITDaSQLPKWNYDGSST
+GQAPGEDSEVILYPQAIFKDPFRKGDNILVMCDCYTPQGEPIPTNKRYNAAKIFSHPDVA
+AEVPWYGIEQEYTLLQKDVNWPLGWPVGGYPGPQGPYYCAAGADKAFGRDVVDAHYKACL
+YAGINISGINGEVMPGQWEFQVGPSVGISAGDEIWVARYILERITEMAGVVLSLDPKPIK
+GDWNGAGAHTNYSTKSMREPGGYEVIKKAIEKLGKRHkEHIAAYGEGNERRLTGRHETAD
+INTFKWGVANRGASIRVGRDTEKEGKGYFEDRRPASNMDPYVVTGMIAETTILWKGN
+
+================================================================================

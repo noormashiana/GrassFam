@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM009974
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             444.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR32100:SF67
+Panther Family ID:               PTHR32100
+Modal Panther ID:                PTHR32100:SF67
+Modal Panther Description:       FATTY ACID DESATURASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR32100
+Modal Panther Fam Desc:          OMEGA-6 FATTY ACID DESATURASE, CHLOROPLASTIC
+Interpro Signature Accession:    cd03507; PTHR32100; PF00487
+Interpro Signature Description:  Delta12-FADS-like; OMEGA-6 FATTY ACID DESATURASE, CHLOROPLASTIC; Fatty acid desaturase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: omega-6 fatty acid desaturase%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: omega-6 fatty acid desaturase%2C chloroplastic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: omega-6 fatty acid desaturase%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: omega-6 fatty acid desaturase%2C chloroplastic; omega-6 fatty acid desaturase%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl08
+  Gene Products: omega-6 fatty acid desaturase%2C chloroplastic
+  Gene Descriptions: omega-6 fatty acid desaturase%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa08
+  Gene Products: omega-6 fatty acid desaturase%2C chloroplastic
+  Gene Descriptions: omega-6 fatty acid desaturase%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN50
+Pau
+  Gene count: 1
+  Modal chromosome: Pau18
+  Gene Products: omega-6 fatty acid desaturase%2C chloroplastic-like%2C transcript variant X1
+  Gene Descriptions: omega-6 fatty acid desaturase%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: omega-6 fatty acid desaturase%2C chloroplastic-like; omega-6 fatty acid desaturase%2C chloroplastic-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: omega-6 fatty acid desaturase%2C chloroplastic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: omega-6 fatty acid desaturase%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: omega-6 fatty acid desaturase%2C chloroplastic
+  Gene Synonyms: fad6,GRMZM2G078569
+  Gene Descriptions: omega-6 fatty acid desaturase%2C chloroplastic
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 443 aa
+
+MATASGVSAPLQLPSLRRAPAKNLlPRRAAAGAPAGsLFVKRDsVYNGRSyHQFLPLKQR
+GRLQAAVLPVTPPLLDDEEKRKQMSEDYGFtQIGEQLPDNVTLKDVMDTLPKEVFEIDDV
+KAWTSVLISVTSYALGLFLISKAPWYLLPLAWAWTGTAVTGFFVIGHDCAHKSFSRNKLV
+EDIVGTLAFLPLIYPYEPWRFKHDRHHAKTNMLIEDTAWQPVWQKEIESSSFLRKAIIFG
+YGPIRPWMSIAHWLIWHFDLKKFRPNELPRVKISLACVFAFMAIGWPLIILKSGIAGWFK
+FWFMPWMVYHFWMSTFTMVHHTAPHIPFKSSEEWNAAQAQLNGTVHCSYPRWIEILCHDI
+NVHVPHHISPRIPSYNLRAAYDSIKQNWGKYINEANWNWRLMKTILTtCHVYDKERYYVP
+FDELvPEESQPIKFLKKFMPDYA
+
+
+BOP CONSENSUS:
+Length: 443 aa
+
+MATASGLSAPLQLLSLRRAPAKNLSPRRAAAGALSGSLIVKRFSLCNGRSHHQFLPLKQR
+GRLQAAVLPVTPPLLDDEEKRKQMSEDYGFKQIGEQLPDNVTLKDVMDTLPKEVFEIDDV
+KAWASVLISVTSYAFGLFLISKAPWYLLPVAWAWAGTAVTGFFVIGHDCAHKSFSRNKLV
+EDIVGTLAFLPLIYPYEPWRFKHDRHHAKTNMLVEDTAWQPVWQKEIESSSFLRKAIIFG
+YGPIRPWMSIAHWLMWHFDLKKFRPNELPRVKISLACVFAFMAIGWPLIILQSGIAGWFK
+FWFMPWMVYHFWMSTFTMVHHTAPHIPFKSSKEWNAAQAQLNGTVHCSYPRWIEILCHDI
+NVHVPHHISPRIPSYNLRAAHDSIKQNWGKYINEASWNWRLMKTILTTCHVYDKERYYVS
+FDELVPEESQPIRFLKKFMPDYA
+
+
+PACMAD CONSENSUS:
+Length: 444 aa
+
+MATASGVSAGPVLQLPSLRVPAKRLLPRRtAAGAPAGNFFVKRDVVYNRRSYHQFLPSKQ
+RGGLQAAVLPVTPPILDDEGKRKQMAEDYGFTQIGEELPDSVTLKDVMDTLPKEVFEIND
+VKAWTSVLISVTSYALGLFFIAKSPWYLLPLAWAWTGTAVTGFFVIGHDCAHKSFSRNKL
+VEDIVGTLAFMPLIYPYEPWRFKHDRHHAKTNMLIEDTAWQPVWQKEIESSPFLRKAIIF
+GYGPIRPWMSIAHWLIWHFDLKKFRPNEVPRVKISLACVFAFMAIGWPLIILKSGLAGWF
+KFWFMPWMVYHFWMSTFTMVHHTAPHIPFKSSEEWNAAQAQLNGTVHCNYPQWIEILCHD
+INVHVPHHISPRIPSYNLRAAYDSIKQNWGKYVNEANWNWRLMKTILTRCHVYDKERYYV
+PFDELAPEESQPIKFLRKFMPDYA
+
+================================================================================

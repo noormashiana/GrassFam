@@ -1,0 +1,106 @@
+================================================================================
+GrassFam ID: GFAM000057
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             470.0 aa
+Family Size (Extended Family Size): 41 (58) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31639:SF106
+Panther Family ID:               PTHR31639
+Modal Panther ID:                PTHR31639:SF106
+Modal Panther Description:       F-BOX DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR31639
+Modal Panther Fam Desc:          F-BOX PROTEIN-LIKE
+Interpro Signature Accession:    PTHR31900
+Interpro Signature Description:  F-BOX/RNI SUPERFAMILY PROTEIN-RELATED
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 3
+  Modal chromosome: Bdi05
+  Gene Products: F-box/LRR-repeat protein At3g58900; F-box/LRR-repeat protein At4g14103
+Lpe
+  Gene count: 6
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: F-box/LRR-repeat protein At4g14103-like
+Ata
+  Gene count: 8
+  Modal chromosome: Ata02D
+  Gene Products: F-box protein At4g22280-like; F-box/FBD/LRR-repeat protein At2g26030-like; F-box/LRR-repeat protein At4g14103-like; putative F-box protein At3g44060; uncharacterized LOC123497257; uncharacterized LOC123497403
+Tae
+  Gene count: 8
+  Modal chromosome: Tae02B
+  Gene Products: F-box protein At4g27050-like; F-box/LRR-repeat protein At1g06630-like; F-box/LRR-repeat protein At3g59200-like; F-box/LRR-repeat protein At4g14103-like; F-box/LRR-repeat protein At4g14103-like%2C transcript variant X1; FBD-associated F-box protein At5g60610-like; uncharacterized LOC123055584
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl04
+  Gene Products: F-box/FBD/LRR-repeat protein At5g22660-like; F-box/LRR-repeat protein At3g03030-like
+  Gene Descriptions: F-box/FBD/LRR-repeat protein At5g22660-like; F-box/LRR-repeat protein At3g03030-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa04
+  Gene Products: F-box/FBD/LRR-repeat protein At5g22660-like; FBD-associated F-box protein At5g60610-like
+  Gene Descriptions: F-box/FBD/LRR-repeat protein At5g22660-like; FBD-associated F-box protein At5g60610-like
+Ecu
+  Gene count: 10
+  Modal chromosome: EcuUN25
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi07N
+  Gene Products: uncharacterized LOC120681046
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 479 aa
+
+MASpsrKrsSssgrRDRLSdLPDdVLGHVLSFLPTKEAGRAAvLSRRWRhiFgsVHTISF
+eErEGeRanDWyTfYyEAeERKSCSgaLLDdVnAALLCRRRCAGrhVPLRsFRFAFDsYH
+gWDkvhVDQWLsyVLRhssqELHLDLRFqiGPICergdgdrgdsDDDdEespynegWgYv
+LPRrLFSCaALRTLCLShCrLNLPeaIdLPfLETLRLTgigDSGesIQRLISSCPRLaDL
+TLEAcskLkrvSVLDKRLRRFALRCCHnVkSVsIDASELRsLeYRGAVPsESLLsLHGSP
+aIpSCTIDFCgpnsseaEFvRFRrFLEkfSgaKHLHLHhrgleSrFFaGFPsFsnLTRLe
+LqGpLeSsgtVdavrRILEQTPNLEVLSLfMepdpehppeeltvPDeSvpCLRrRVKEIN
+MVhYqGDvaQRmLArLLLrNALVLERlCVVFvKGpfavQteLkkEIesWvVaspekiFl
+
+
+BOP CONSENSUS:
+Length: 490 aa
+
+MASPsrKrssSssgrRDRISdLPDdVLGHVLSFLPTKEAGRAAaLSRRWRhiFgsVHTIS
+FeErEGeRanDWyTFYyEAeERKSCSgaLLDdVsAALLCRRRCAGlhVPLRSFRFAFDsy
+HgWDkvhVDQWLsYVLRHssqELHLDLRFfIGPICergardrdttddsDDDeeespynrr
+wgYvLPRRLFSCtALRTLCLsYCrLNLPEaIdLPFLETLRLTgIhgDSGrsIQRLISSCP
+RLaDLTLEAlnrLktvsVLDKRLRRFALRCCHNvkSVdIDASELRSLeYrGaVPeESLLS
+LHGSPaIsSCTIDFCkvlseeaEFaRFRRFLeKfSgsKHLHLHHrgLeSrFFaGFPsFsn
+LTRLeLQGPlrSsgtVdAVRRILEQTPNLEVLSLfMeeskqepketpeelvVPDeSSFSi
+PCLRRRVKEINMVhYeGDvqQRmLArLLLRNALVLERmCVVLVKGpFalQaeLKkEIESW
+vVAdaEKiFl
+
+
+PACMAD CONSENSUS:
+Length: 346 aa
+
+MdfarEsVDRLSSPrTDdnSsyysYvEErrSRNyYFEnSDGGWSFSFPRPLFTSAVLRSL
+RVSHCRLNPPAAIvLPSLETLHLTaVGDSEEtIQRLISSCPRLADLTLESCSKltRVSVL
+DKRLRRLALRCCHSVvSVSLDASELRFLHYRGAVPvGSLFTFHGsprIpScTIDFCGPNL
+SsekeLvGFpkLLENFVgAKHLHLNsSrLGSstEsvFFngFPAfSsLHKLELTGcLdshs
+ITRVLQQTPNLEVLSLfLwPDPEHhPVtIPDAPaVLCLRQRLREINLVHYQGtdAQRMLv
+QLLLGNALVLQALCVVFPkgwLqVqTtLMtEIKqWVVSkSPKMiFL
+
+================================================================================

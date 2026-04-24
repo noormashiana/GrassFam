@@ -1,0 +1,117 @@
+================================================================================
+GrassFam ID: GFAM020828
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             382.0 aa
+Family Size (Extended Family Size): 36 (56) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46264:SF5
+Panther Family ID:               PTHR46264
+Modal Panther ID:                PTHR46264:SF7
+Modal Panther Description:       TYROSINE--TRNA LIGASE
+Modal Panther Family ID:         PTHR46264
+Modal Panther Fam Desc:          TYROSINE-TRNA LIGASE
+Interpro Signature Accession:    G3DSA:3.40.50.620:FF:000103; G3DSA:3.40.50.620:FF:000356; G3DSA:3.40.50.620; PTHR46264; PIRSF006588; PF00579; SSF52374
+Interpro Signature Description:  tyrosine--tRNA ligase 1, cytoplasmic; Os02g0722001 protein; HUPs; TYROSINE-TRNA LIGASE; TyrRS_arch_euk; tRNA synthetases class I (W and Y); Nucleotidylyl transferase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi02
+  Gene Products: tyrosine--tRNA ligase 1%2C cytoplasmic%2C transcript variant X1
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe04
+Ata
+  Gene count: 4
+  Modal chromosome: Ata07D
+  Gene Products: tyrosine--tRNA ligase 1%2C cytoplasmic; tyrosine--tRNA ligase 1%2C cytoplasmic%2C transcript variant X1; tyrosine--tRNA ligase 1%2C cytoplasmic-like
+Tae
+  Gene count: 10
+  Modal chromosome: Tae05A
+  Gene Products: tyrosine--tRNA ligase 1%2C cytoplasmic-like; tyrosine--tRNA ligase 1%2C cytoplasmic-like%2C transcript variant X1; tyrosine--tRNA ligase 1%2C cytoplasmic-like%2C transcript variant X3; tyrosine--tRNA ligase 1%2C cytoplasmic-like%2C transcript variant X9; tyrosine--tRNA ligase 2%2C cytoplasmic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 3
+  Modal chromosome: Ogl01
+  Gene Products: tyrosine--tRNA ligase 1%2C cytoplasmic-like; tyrosine--tRNA ligase 1%2C cytoplasmic-like%2C transcript variant X1
+  Gene Descriptions: tyrosine--tRNA ligase 1%2C cytoplasmic-like
+Osa
+  Gene count: 4
+  Modal chromosome: Osa01
+  Gene Products: tyrosine--tRNA ligase 1%2C cytoplasmic; tyrosine--tRNA ligase 1%2C cytoplasmic%2C transcript variant X1; tyrosine--tRNA ligase 1%2C cytoplasmic%2C transcript variant X3
+  Gene Descriptions: tyrosine--tRNA ligase 1%2C cytoplasmic
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau06
+  Gene Products: tyrosine--tRNA ligase 1%2C cytoplasmic-like%2C transcript variant X3
+  Gene Descriptions: tyrosine--tRNA ligase 1%2C cytoplasmic-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: tyrosine--tRNA ligase 1%2C cytoplasmic-like%2C transcript variant X3; tyrosine--tRNA ligase 2%2C cytoplasmic-like%2C transcript variant X2
+Msi
+  Gene count: 1
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi04
+  Gene Products: tyrosine--tRNA ligase 1%2C cytoplasmic%2C transcript variant X1; tyrosine--tRNA ligase 2%2C cytoplasmic
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 382 aa
+
+MDnsadvamDInRDtMEMSsDERFAVLRSIGDECIYEDELrlLLKKKpaPICYVWFEPSp
+mMDIEQGIMKTIYVNKMVKAGCTVKILMADWFLQRHpKIGtNLnKIRtIGcYNIEMWKAA
+GMDLDRVElVWLSDELNHHAVDYWPLAmDVSRKYTMkRMASyCwymaPYGPqiLPAAEIF
+YPCMQVAAILCQKADIWLFSMDQRDIvMLARDYCEDINRENKPTIlLHNtLPNLLEDPEf
+qdlRDPGRTIFMhDeEddLNeKIsRAFCPPKVAVcNPCLEYIKYVIFPWFGKFEVVQKEG
+NGSNKTFaSMEELIVDYESGdLDSaDVKLAFEKAINkILEPVrDyFrSNtEAQALImalK
+LqdqITaDvqKIqlQNeEmvhh
+
+
+BOP CONSENSUS:
+Length: 382 aa
+
+MDsldDVafdIcRDsMEmSsDERFAVLRSIGeECIYEDELRlLLKKKPAPICYVWFEPTp
+mMDIEQGIMKTIYVNKMVKAGCTVKILmADWFLQRHhKIGtNLnKIRnIGyYNIEMWKAA
+GMDLDRVELVWLSDELNrHAVDYWPLAmDVSRKYTMKRMASyCwnvAPYGPQiLPAAEIF
+YPCMQVAAILCqKADIWLFSMDQRDIVMLTRDYCEDINREtKPTImLHNtLPNLLEDPEf
+yNLRdPgRTIFMHDkEeaLNsKIsRAFCPPKVAVCNPCLEYIKYVIFPWFGKFEVVQKEG
+NGSNKTFaSMEELIVDYESGDLDSaDVKLALEKGINkILEPVrDyFsSNtEAQALImacq
+LQdeItaDirKIQLQNEEmshH
+
+
+PACMAD CONSENSUS:
+Length: 354 aa
+
+MgMSSVERFTVLRSIGDECIYEDELwvLLKKKlTPVCYVWFEPSPvMDIEQGIMKTIYVN
+KMVKAGCTVKILMADWFLQRHPKIGYNLNKIRTIGSYNIEMWKAAGMDLERVelvWLSDE
+LNHHPlDYWPLAMDVSRKYTVDRMASYsSYMEPYGPEILPAAEIFYPCMQVAAILCQKAD
+MWLFSkDQRDaIMLARDYCEDInrgNKPTILLHRvLPSLLEDPEFQDkrDPGRTIFMEDE
+EDDLSFKMwRAFCPPrVALyNPCLEYIKSVIFPWFGKLEVVQKEGNGGNKTFSSMEELIV
+gYESGVVDSANVKLAFeKALNKILQPVHEYFRDNvrAQALITSLKKYvrqrREt
+
+================================================================================

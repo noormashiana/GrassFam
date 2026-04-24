@@ -1,0 +1,125 @@
+================================================================================
+GrassFam ID: GFAM003701
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             414.0 aa
+Family Size (Extended Family Size): 57 (57) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Weak
+Panther Family ID:               PTHR47965
+Modal Panther ID:                PTHR47965:SF61
+Modal Panther Description:       OS01G0937100 PROTEIN
+Modal Panther Family ID:         PTHR47965
+Modal Panther Fam Desc:          ASPARTYL PROTEASE-RELATED
+Interpro Signature Accession:    cd05489; G3DSA:2.40.70.10:FF:000088; G3DSA:2.40.70.10:FF:000075; G3DSA:2.40.70.10; PTHR47965; PF14543; PF14541; SSF50630
+Interpro Signature Description:  xylanase_inhibitor_I_like; Eukaryotic aspartyl protease family protein; Putative xylanase inhibitor; Acid Proteases; ASPARTYL PROTEASE-RELATED; Xylanase inhibitor N-terminal; Xylanase inhibitor C-terminal; Acid proteases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi02
+  Gene Products: aspartyl protease AED1; protein ASPARTIC PROTEASE IN GUARD CELL 2
+Lpe
+  Gene count: 4
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 5
+  Modal chromosome: Hvu03H
+  Gene Products: chitinase CLP-like
+Ata
+  Gene count: 7
+  Modal chromosome: Ata03D
+  Gene Products: chitinase CLP; chitinase CLP-like
+Tae
+  Gene count: 20
+  Modal chromosome: Tae03B
+  Gene Products: chitinase CLP; chitinase CLP-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: chitinase CLP-like
+  Gene Descriptions: chitinase CLP-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: chitinase CLP-like
+  Gene Descriptions: chitinase CLP-like
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Svi
+  Gene count: 2
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi05N
+  Gene Products: chitinase CLP-like
+Pha
+  Gene count: 3
+  Modal chromosome: Pha05
+  Gene Products: basic 7S globulin 2-like; uncharacterized LOC112894390; uncharacterized LOC112894947
+Msi
+  Gene count: 4
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi03
+  Gene Products: uncharacterized LOC8062289; uncharacterized LOC8062290
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: chitinase CLP
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 420 aa
+
+MARllpLLVLAaSLvaLAWPASCkrLPVLaPVTKDPATSLYTIPFHDGANLVvDlAGPLV
+WSTCqrGHLPAeFPCkSPTCrLANAYpAPGCraPGCGqDcrkDKtCTAYPYNPVTGaCAA
+GSLvHTRFVANTTDGkNPVSQVSVRAVAACAPrKLLASLPRGsTGVAGLAGSGLALPAQV
+ASsQKVANKFLLCLPRGGsGpGVAIFGGGPLfLlaqPwpDfTQsLaYTPLVaKkGnPAHY
+ISVKSIAVenaRVPVPerALATGGVVLcTRVPYTLLRrDVYRPFVDAFtKALAAQgAqGG
+PVARaVkPVAPFELCYDtktLGNTRgGYwVPdVtLaLeGGKnWTMtGlNSMVDVkPGTAC
+LAFVEMKGVKAGDGsAPAVivGGFQMENfVLqFDMEKKRLGFaRLPfFTqCShFNFTRsg
+
+
+BOP CONSENSUS:
+Length: 418 aa
+
+MARvlLLVLAASLaALWPASCkrLPVLAPVTKDPATSLYTIPFHdGANLVVDiAGPLVWS
+TCQrGHLPAEfPCsSPTCrLANAYPVPGCpAPGCGsDrrkDKtCTAYPYNPVTGACAAGS
+LvHTRFVANTTDGkNPVSQVNVRAVAACAPsKLLASLPRGSTGVAGLAGSGLALPAQVAS
+AQKVANKFLLCLPRGGsGpGVAIFGGGPLhltAQPwpDyTQSLdYTPLVAKgGsPAHYIS
+vKSIAVENTRVPVPErALATGGVvLSTRvPYTLLRRDVYRPFVDAFtKALAAQgAqGGPV
+ARAVKPVAPFELCYDTrTLgNTRgGYwVPnVTLALDGGknWtMtGlNSMVDVkPGTACLA
+FVEMKGVKAGDGrAPAVIvGGFQMENfVLEFDMEKKRLGFlRLPfFTqCGhFNFTRSa
+
+
+PACMAD CONSENSUS:
+Length: 409 aa
+
+MEMPRrkPLLLLAISLLVLAWPASCAdPVLlPVAKDPATSLYTIPVRDGANHVIDLAGPL
+LWSTCAsDHLPAkFSCqDpvCKLANAYRAPSCRIAGQPCKKrCKAYPYNPITGQCAAAsL
+VHTRLIANTTDGKNPLsQVSVRAVAACAPRtLLARLPRDVTGVAGLSASGLALPAQVAAS
+QRVAnKFLLCLPRRGEGVAIFGGGPLFLLPESavGDLTtTLAFTPLRSRrGNPLYYIPVq
+GIAVNqAqVPLPAhALAtGGVVLCTRVPYTALRPDVYRPVVDAFDRALARNDAKVPAVAP
+FELCYRSSMLGNTRLGYAVPDIALVLEGGKSWTFVGSSSMVDVNsQTACLAFVEMKGVKA
+GDPsAAAVVVGGFQMENHLLQFDLEKkQLGFAKVPFfSACSNFNFTKTQ
+
+================================================================================

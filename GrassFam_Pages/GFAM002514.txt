@@ -1,0 +1,142 @@
+================================================================================
+GrassFam ID: GFAM002514
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             556.0 aa
+Family Size (Extended Family Size): 25 (29) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24349:SF248
+Panther Family ID:               PTHR24349
+Modal Panther ID:                PTHR24349:SF248
+Modal Panther Description:       CALCIUM-DEPENDENT PROTEIN KINASE 5
+Modal Panther Family ID:         PTHR24349
+Modal Panther Fam Desc:          SERINE/THREONINE-PROTEIN KINASE
+Interpro Signature Accession:    cd05117; G3DSA:1.10.510.10:FF:000178; G3DSA:1.10.238.10:FF:000015; G3DSA:3.30.200.20:FF:000004; G3DSA:1.10.510.10; G3DSA:3.30.200.20; G3DSA:1.10.238.10; PTHR24349; PF00069; SM00220; SSF47473; SSF56112
+Interpro Signature Description:  STKc_CAMK; Calcium-dependent protein kinase 5; Calcium-dependent protein kinase 1; Transferase(Phosphotransferase) domain 1; Phosphorylase Kinase; domain 1; -; SERINE/THREONINE-PROTEIN KINASE; Protein kinase domain; serkin_6; EF-hand; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: calcium-dependent protein kinase 13
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: calcium-dependent protein kinase 13
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: calcium-dependent protein kinase 13
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: calcium-dependent protein kinase 13; calcium-dependent protein kinase 13-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: calcium-dependent protein kinase 13
+  Gene Descriptions: calcium-dependent protein kinase 13
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: calcium-dependent protein kinase 13-like
+  Gene Synonyms: OsCDPK13,OsCDPK7,OsCPK13
+  Gene Descriptions: calcium-dependent protein kinase 13-like
+Ecu
+  Gene count: 3
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: calcium-dependent protein kinase 13; calcium-dependent protein kinase 13-like
+  Gene Descriptions: calcium-dependent protein kinase 13; calcium-dependent protein kinase 13-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: calcium-dependent protein kinase 13; calcium-dependent protein kinase 13-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: calcium-dependent protein kinase 13
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: calcium-dependent protein kinase 13
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: calcium dependent protein kinase; uncharacterized LOC100384476
+  Gene Synonyms: CDPK1,GRMZM2G314396,ZmCDPK1; CK1,GRMZM2G321239,IDP2562
+  Gene Descriptions: calcium dependent protein kinase; uncharacterized LOC100384476
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 556 aa
+
+MGNACGGSLRSKYLHSFKHAASQRHDSDYsAdAAADDSPKKPSrPaTPPAtTDAHAaPAp
+APPAAAMRRGGAGAPPDLGSVLGHPTPNLRDLYALGRKLGQGQFGTTYLCTELATGVDYA
+CKSISKRKLITKEDIDDVRREIQIMHHLSGHkNVVAIKGAYEDQLYVHIVMELCAGGELF
+DRIIQRGHYSERKAAELTRIIVGVVEACHSLGVMHRDLKPENFLLANKDDDLSLKAIDFG
+LSVFFKPGQVFTDVVGSPYYVAPEVLCKsYGPEADVWTAGVILYILLSGVPPFWAETQQG
+IFDAVLKGVIDFDSDPWPVISDSAKDLIRRMLNPRPAERLTAHEVLCHPWIRDHGVAPDR
+PLDPAVLSRIKQFSAMNKLKKMALRVIAESLSEEEIAGLKEMFQTMDTDNSGAITYDELK
+EGLRKYGSTLKDTEIRDLMDAADIDNSGTIDYIEFIAATLHLNKLEREEHLVAAFSYFDK
+DGSGYITVDELQQACKEHNMPDAFLDDVINEADQDNDGRIDYGEFVAMMTKGNMGVGRRT
+MRNSLNISMRDAPGAf
+
+
+BOP CONSENSUS:
+Length: 558 aa
+
+MGNACGGSLRSKYLHSFKHPASQRHDPDRDYDHtAAAADSPKKPQPgSQPTAAAKTDGHA
+APAQPAAAMRRGGAGAPADLGSVLGHPTPNLRDLYALGRKLGQGQFGTTYLCTELATGAD
+YACKSISKRKLITKEDIDDVRREIQIMHHLSGHrNVVAIKGAYEDQLYVHIVMELCAGGE
+LFDRIIQRGHYSERKAAELTRIIVGVVEACHSLGVMHRDLKPENFLLANKDDDLSLKAID
+FGLSVFFKPGQIFTDVVGSPYYVAPEVLCKKYGPEADVWTAGVILYILLSGVPPFWAETQ
+QGIFDAVLKGVIDFDSEPWPVISDSAKDLITRMLNPRPAERLTAHEVLCHPWIRDQGVAP
+DRPLDTAVLSRIKQFSAMNKLKKMALRVIAESLSEEEIAGLKEMFQTMDADNSGAITYDE
+LKEGLRKYGSTLKDTEIRDLMDAADVDNSGTIDYIEFIAATLHLNKLEREEHLVAAFSYF
+DKDGSGYITVDELQQACQEHNMPDAFLDDVIKEADQDNDGRIDYGEFVAMMTKGNMGVGR
+RTMRNSLNISMRDAPGAI
+
+
+PACMAD CONSENSUS:
+Length: 557 aa
+
+MGNACGGALRSKYLHSFKHAASQRHDSEYSAtAAADDSPKKPSRPrTPPATTDAHAphAP
+APpPAAAMRRGGAGAPPDLGSVLGHPTPNLRDLYALGRKLGQGQFGTTYLCTELATGVDY
+ACKSISKRKLITKEDIeDVRREIQIMHHLSGHKNVVAIKGAYEDQLYVHIVMELCAGGEL
+FDRIIQRGHYSERKAAELTRIIVGVVEACHSLGVMHRDLKPENFLLANKDDDLSLKAIDF
+GLSVFFKPGQVFTDVVGSPYYVAPEVLCKSYGPAADVWTAGVILYILLSGVPPFWAETQQ
+GIFDAVLKGVIDFDSDPWPVISDSAKDLIRRMLNPRPAERLTAHEVLCHPWIRDHGVAPD
+RPLDPAVLSRIKQFSAMNKLKKMALRVIAESLSEEEIAGLKEMFQTMDTDNSGAITYDEL
+KEGLRKYGSTLKDTEIRDLMDAADIDNSGTIDYIEFIAATLHLNKLEREEHLVAAFSYFD
+KDGSGYITVDELQQACKEHNMPDAFLDDVINEADQDNDGRIDYGEFVAMMTKGNMGVGRR
+TMRNSLNISMRDAPGAF
+
+================================================================================

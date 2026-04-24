@@ -1,0 +1,137 @@
+================================================================================
+GrassFam ID: GFAM013317
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             556.5 aa
+Family Size (Extended Family Size): 18 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR14255:SF23
+Panther Family ID:               PTHR14255
+Modal Panther ID:                PTHR14255:SF23
+Modal Panther Description:       OS01G0743600 PROTEIN
+Modal Panther Family ID:         PTHR14255
+Modal Panther Fam Desc:          CEREBLON
+Interpro Signature Accession:    cd15777; G3DSA:2.30.130.40:FF:000009; G3DSA:2.170.150.20:FF:000005; G3DSA:1.20.58.1480:FF:000007; G3DSA:2.30.130.40; G3DSA:2.170.150.20; PTHR14255; SSF88697
+Interpro Signature Description:  CRBN_C_like; ATP-dependent protease La domain-containing protein; Blast:Protein cereblon homolog; Lon protease homolog; -; Peptide methionine sulfoxide reductase.; CEREBLON; PUA domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: protein cereblon%2C transcript variant X1
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: protein cereblon-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: protein cereblon
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: protein cereblon-like; protein cereblon-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: uncharacterized LOC127774982
+  Gene Descriptions: uncharacterized LOC127774982
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC4339355
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau11
+  Gene Products: uncharacterized LOC133884879
+  Gene Descriptions: uncharacterized LOC133884879
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi03N
+  Gene Products: protein cereblon-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: protein cereblon
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: protein cereblon
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: ATP-dependent protease La (LON) domain protein
+  Gene Synonyms: GRMZM2G011068
+  Gene Descriptions: ATP-dependent protease La (LON) domain protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 564 aa
+
+MADWDGIPaRERRQMEEILQLDMEELNVEVVDDDdEeEEEfEGeqmEDDddvdAFLRDND
+GDGVASTSGPFTFNTSLASLHTYLGEVDDTRGRVTLLDGGTILNLPMLYLQGVVLFPGAT
+LPLRVIQaRLVVAVEKALRlVDAPCTIGVVLMhRrPNHRHYANASVGTTAEIRQLGRLDD
+GSLNVVARGQQRFRLRRHWiDVDGVVWGEVQIIEEDTPLRTPRDAFAQLAACNSFRLHTS
+SPVISLDVSPIKQQDHIDSELECDTPSPnSNASNHSSMDTRLCHSGSQSSDSMKSSSDED
+GDLMHeQWRQKqHSVREGASsQSgKNTNMsNEDDlCLTPLqSLpSArTRDTKrrRQYHAn
+YSKQAsQAPLSFWPRWAYEMYDSYTLARRAADLWRQIIAnPSMDDHVRKPDLLSFHIGSK
+LPVSESVRQKLLEIDGISYRLQKEIQLLKAFNLIKCRnCQSlIAKRSDMVVMSTDGPLGA
+YVNPHGfVHETITVSNATGLALiGnPSTVHSWFPGYSWTIASCaaCESHIGWLFrATKKN
+LRPRSFWGIRSSQIADDtQVDQse
+
+
+BOP CONSENSUS:
+Length: 525 aa
+
+MEADWDGtpaQERrqMEEieRVELnAgvLDeNPGGQERFEREWEQMEDEIYRQVLAIGSF
+ARLDNDGDGRREFGsQTALHTYLGeVDDIPGRKATLLDAGSILSLPMLFLHGVVLFPGAT
+LPLKLIEARFVAAVEKALRrVDAPdTIGVVLMHGRPNHRNYANASVGTTAEIRQLGRSDD
+GSiNVKARGQQRFRLIRYWsDVDGVVWGEVQIIEEDPPLRTPRgAFAQLAASRScRlHTS
+SPVMSLDVSPMKQQGHMDSgLDCDTPSaSDSSSQSSNSmKPSVSGQSGENTNMDEEDyiC
+STPSSsRTDTKhQHQYNAANYSKQPLQASLAFWPQWAYEMYDPYsLACRAADLWRLIIKT
+PSmDELVrKPDLLSFYIGNQLPVSEsVRQKLLEINGVSYRLRREIQLLKACDLIKCGYCK
+SEIAKRSDVVVMSSDGPLGTYVNPHGYVHATITVNNATGLALEGdPTEEHSWFPGYSWTI
+ASCAsCGSNIGWLFsTTKRHLHPKSFWGIRSSQIADVVDEeQQQE
+
+
+PACMAD CONSENSUS:
+Length: 564 aa
+
+MADWDGIPERERRQMEEILQLDMEELNVEVVDDDDEEEEEEEGDGneEDDDVDAFLRDNN
+GDGVASTSGPFTFNTSLASLHTYLGEVDDTRGRVtLLDGGTVLNLPMFYLQGVVLFPGAT
+LPLRVIQsRLVVTIDKALRLVDAPCTIGVVLMRRLPNHRHYATASVGTTAEIRQLGRLDD
+GSLNVVARGQQRFRLRRHWIDVDRVVWGEVQIIEEDTPLRTPRDAFAQLAACNSFNLHaS
+SSVISLDMSPIKQDHIDSELECDTPSPNSNiSNpSSMDTRLCHLGSQSSDSMKSSSDEDG
+DLMHqQFWRRKQHSVRESGASSHSDKKTNMSNENDLCLTPLQSLPTARTRDTKRRRQYHA
+YSKQASQAPLSFWPRWVYEMYDSYTLARsAAELWRQIIANPSMDDHVRKPDILSFHIGSK
+LPVSESVRQKLLEIDGISYRLQKEIQLLKAFNLIKCRNCQShIAKRSDMVVMSTDGPLGA
+YVNPHGCVHETITVSNATGLALIGNPSTVHSWFPGYSWTIAsCmACESHIGWLFRATKKN
+LRPRSFWGIRSSQIADDTQVDQSD
+
+================================================================================

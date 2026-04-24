@@ -1,0 +1,128 @@
+================================================================================
+GrassFam ID: GFAM002668
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             373.5 aa
+Family Size (Extended Family Size): 32 (36) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR42938:SF25
+Panther Family ID:               PTHR42938
+Modal Panther ID:                PTHR42938:SF25
+Modal Panther Description:       D-ISOMER SPECIFIC 2-HYDROXYACID DEHYDROGENASE FAMILY PROTEIN
+Modal Panther Family ID:         PTHR42938
+Modal Panther Fam Desc:          FORMATE DEHYDROGENASE 1
+Interpro Signature Accession:    cd12175; G3DSA:3.40.50.720:FF:000291; G3DSA:3.40.50.720; PTHR42938; PF02826; SSF51735
+Interpro Signature Description:  2-Hacid_dh_11; Phosphoglycerate dehydrogenase, putative; 33424-31403; -; FORMATE DEHYDROGENASE 1; D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: hydroxypyruvate reductase
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: hydroxypyruvate reductase%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: hydroxypyruvate reductase
+Tae
+  Gene count: 4
+  Modal chromosome: Tae04A
+  Gene Products: hydroxypyruvate reductase-like; putative 2-hydroxyacid dehydrogenase HI_1556%2C transcript variant X5
+Ola
+  Gene count: 2
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl07
+  Gene Products: uncharacterized LOC127778368; uncharacterized LOC127778933%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127778368; uncharacterized LOC127778933
+Osa
+  Gene count: 2
+  Modal chromosome: Osa07
+  Gene Products: uncharacterized protein; uncharacterized protein%2C transcript variant X2
+  Gene Descriptions: uncharacterized LOC107276342; uncharacterized LOC4342880
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 1
+  Modal chromosome: Pau09
+  Gene Products: uncharacterized LOC133928448%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133928448
+Svi
+  Gene count: 2
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi02K
+  Gene Products: D-3-phosphoglycerate dehydrogenase-like; hydroxypyruvate reductase-like; hydroxypyruvate reductase-like%2C transcript variant X1
+Pha
+  Gene count: 3
+  Modal chromosome: Pha02
+  Gene Products: D-3-phosphoglycerate dehydrogenase-like; D-3-phosphoglycerate dehydrogenase-like%2C transcript variant X2; hydroxypyruvate reductase-like
+Msi
+  Gene count: 4
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi02
+  Gene Products: hydroxypyruvate reductase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: uncharacterized LOC100217241%2C transcript variant X1
+  Gene Synonyms: GRMZM2G176977,IDP866
+  Gene Descriptions: uncharacterized LOC100217241
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 375 aa
+
+MAGAlAARLTHSSLfLSRaAAAAAtRRdslpSSpRdYSKMaDSvGsNGhgdVTRVLFCGP
+YWPASTnYTKEYLQdYPFIQVDEVGLEQVPDVIQNYHICVVKNRRIDSDIIAKATQMKII
+MQYGVGLEGVDVNAATEHKIKVARIPGSTTGNAVSCAEMAIYLTLGVLRKQKEMDTAVNR
+KDLGlPVGETIFGKTVLILGFGAIGVEIAKRLRPFGVKILATKRNWSSdTLPCDvDGLVD
+KKGGPEDMYEFAGEADIVITCMtLTNETVGIVDHKFLSAMKKGSYLVNIARGRLLDYkAV
+FDHLESGHLGGLGIDVAWTEPFDPEDPILKFPNVIITPHVAGVTEYSYRTMAKVVGDVAL
+QLHSGEPFTEIEFVN
+
+
+BOP CONSENSUS:
+Length: 378 aa
+
+MAGARSAATRLTHSSLFLLSRAAAAAATRRtNLPSSPRDYSKMAsSVGgNGySDVTRVLF
+CGPYWPASTIYTKEYLQNYPFIQVDEVGLEhVPDVIQNYHICVVKNRcIDSDIIAKATKM
+KIIMQYGVGLEGVDINAATEHKIKVARIPGSTTGNAvACAEMAIYLTLGVLRKQKEMDTA
+VkQKDLGLPVGETIFGKTvLILGFGAIGVEIAKRLRPFGVKILATKRNWSSnTVPCDIDG
+LVDKKGGPEDMYELAREADIVITCMTLNNESVGIVDHKFLSALKKGSYLINIARGRLLDY
+tAVFNHLESGHLGGLGIDVAWTEPFDPEDPILKFSNVIITPHvAGITEYSYRTMAKVVGD
+VALKLHAGEPFTEIEFVN
+
+
+PACMAD CONSENSUS:
+Length: 359 aa
+
+MAGALAaRPLprhARRssGsySKMgDSsgSNGHGtVTRVLFCGPYWPASTNYTrEYLQDY
+PFIQVDEVGLEQVPDVIQNYHICVVKNRRIDSDIIAKATQMKIIMQYGVGLEGVDVNAAT
+EHKIKVARIPGSTTGNAVSCAEMAIYLTLGVLRKQKEMDTAVNRKDLGiPVGETIFGKTV
+LILGFGAIGVEVAKRLRPFGVKILATKRNWSSDTLPCDVDeLVDKKGGPEDMYEFAGEAD
+IVITCMaLTNETVGIVDHKFLSSMKKGSYLVNIARGRLLDYKAVFDHLESGHLaGLGIDV
+AWMEPFDPEDPILKFPNVIITPHVAGVTEYSYRTMAKsVGDTALQLHSGEPFTGIEFVN
+
+================================================================================

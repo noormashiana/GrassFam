@@ -1,0 +1,111 @@
+================================================================================
+GrassFam ID: GFAM013536
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             452.5 aa
+Family Size (Extended Family Size): 12 (13) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13271:SF134
+Panther Family ID:               PTHR13271
+Modal Panther ID:                PTHR13271:SF134
+Modal Panther Description:       OS01G0976450 PROTEIN
+Modal Panther Family ID:         PTHR13271
+Modal Panther Fam Desc:          UNCHARACTERIZED PUTATIVE METHYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:3.90.1410.10:FF:000005; G3DSA:3.90.1410.10; G3DSA:3.90.1420.10; PTHR13271; SSF82199
+Interpro Signature Description:  Ribulose-1,5 bisphosphate carboxylase/oxygenase large subunit N-methyltransferase, chloroplastic; set domain protein methyltransferase, domain 1; -; UNCHARACTERIZED PUTATIVE METHYLTRANSFERASE; SET domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: ribosomal lysine N-methyltransferase 4%2C transcript variant X1
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: fructose-bisphosphate aldolase-lysine N-methyltransferase%2C chloroplastic%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: fructose-bisphosphate aldolase-lysine N-methyltransferase%2C chloroplastic%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: fructose-bisphosphate aldolase-lysine N-methyltransferase%2C chloroplastic-like%2C transcript variant X1; fructose-bisphosphate aldolase-lysine N-methyltransferase%2C chloroplastic-like%2C transcript variant X5
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: uncharacterized LOC127770230%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127770230
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: fructose-bisphosphate aldolase-lysine N-methyltransferase%2C chloroplastic%2C transcript variant X1
+  Gene Descriptions: fructose-bisphosphate aldolase-lysine N-methyltransferase%2C chloroplastic
+Pau
+  Gene count: 1
+  Modal chromosome: Pau01
+  Gene Products: uncharacterized LOC133929981%2C transcript variant X7
+  Gene Descriptions: uncharacterized LOC133929981
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Msi
+  Gene count: 1
+  Modal chromosome: Msi06
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 457 aa
+
+MAAgVVRRRLALAgARlpPRtcRQsAAAipkvskDDdCGAFLpWLRSKAGThISSVLriG
+TSPLGRSLFASqPIQEGDCILQVPYtVQLTQDKLPQEVRLLLDDVVGDTAKVAVLLMMEQ
+HLGHESGWAPYVKSLPcKDQMHNMMFWDLNELHMVRnSSVYDEAIEQKEqAKKEFSAaKP
+ALErFPHLFGEIKLEDFMHASALVSSRAWQTSRGVSLIPFADFLNHDGvSnSILvYDEQK
+DVSEVIADRNYAVGEQVMIRYGKYSNATLALNFGFTLSRNIYDQAHIWIDMSEQDPLYKK
+KLDIWQKHRTPKSEHMCSSGCTRTSFVIKEVKYSGnKGVGIPQiLRAFVRVFCATSLEEL
+EEMAMEAAENDGRLARRPLKNAEREIHAHRKLLLHLDsMIQGHSTAIEQLEIvDGPASRS
+MHPFRKEMAKDLLVGELRVLQSAyAWVANYCETlait
+
+
+BOP CONSENSUS:
+Length: 458 aa
+
+MAAgVVRRRLALAGAPPPTrRQsAAAIPKVsdDpdCGaFLPWLRSKAGthISSvLRIGTS
+PLGRSLFASqPIQEGDCILQLPHtAQLTQDKLPQEVRLLLDDDAVAGDTAAKVAVLLMME
+QHLGHESGWAPYVtSLPaKDQMHNMMFWDLNELhMVRhSSVYDEAIEQKErarKQFSAaK
+PALErFPHLFGEIKLEDFMHASALVSSRAWQTSRGVSLVPFADFLNHDGvSgSILVYDEQ
+KDVSEVIADRNYAVGEQVMIRYGKYSNATLALNFGFTLSRNIYDQAHIWIDMSEQDPLYK
+KKLDIWQKHRTPKSEHMCSSGCTRTSFAIKEVKYSGNKGVGIPQALRAFVRVFCATSIEE
+LEEMAMEAAENDGRLARRPLKHAEREVHAHRKLLLHLDsMIQGHSTAIEQLEtVDGAASR
+SMHPFRKEMAKNLLAGELQVLQSAyAWVANYCKTVaiT
+
+
+PACMAD CONSENSUS:
+Length: 459 aa
+
+MPARTSLVRGVASRLGGGRRLLPRSAASQSQATSLKDDSCTAFLHWLQTKAGTRISSVLD
+VATSTFGRSLVALEPIQEGDCILEVPYsVQLTQDKLPvEVCMLLDNLVGDTAKVAVLLMM
+EQHLGHESGWEPYIKSLPCKDQMHNMMFWDLNELHMVRNSSVYNEAIEQREqAKKEFSAV
+KPVLErFPHLFGEvKLEDFMHASALVSSRAWwTSRGVSLIPFADFLNHDGrSNSILLYDE
+QKDVSEVIADRNYAVGEQVMIRYGKYSNAvLALNFGFTLSRNIYDQAHTWVDMPyQDsFs
+REKLDIWERHHGPKyEDMFSCsYTKISFVIKEVKFCGGKGVGVPQILRAFFRVFYATSLE
+ELEEMtTEAARDDGRLARRPLENtEREIHAHRMLLLHLDDEIQGYsTAIEHLEIANDPES
+RSVHPFRKEMAKDLLVGELRVLQSARAWVAtYCETLStS
+
+================================================================================

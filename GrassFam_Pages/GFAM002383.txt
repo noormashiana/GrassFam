@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM002383
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             583.0 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11106:SF119
+Panther Family ID:               PTHR11106
+Modal Panther ID:                PTHR11106:SF119
+Modal Panther Description:       APPR-1-P PROCESSING ENZYME FAMILY PROTEIN
+Modal Panther Family ID:         PTHR11106
+Modal Panther Fam Desc:          GANGLIOSIDE INDUCED DIFFERENTIATION ASSOCIATED PROTEIN 2-RELATED
+Interpro Signature Accession:    cd02905; G3DSA:3.40.525.10; G3DSA:3.40.220.10; PTHR11106; PF13716; PF01661; SSF52949
+Interpro Signature Description:  Macro_GDAP2-like; -; Leucine Aminopeptidase, subunit E, domain 1; GANGLIOSIDE INDUCED DIFFERENTIATION ASSOCIATED PROTEIN 2-RELATED; Divergent CRAL/TRIO domain; Macro domain; Macro domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: protein GDAP2 homolog
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: protein GDAP2 homolog%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: protein GDAP2 homolog%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: protein GDAP2 homolog%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: uncharacterized LOC127753323
+  Gene Descriptions: uncharacterized LOC127753323
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC4348739
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau21
+  Gene Products: uncharacterized LOC133903483%2C transcript variant X2; uncharacterized LOC133907342%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133903483; uncharacterized LOC133907342
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi09N
+  Gene Products: protein GDAP2 homolog
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: protein GDAP2 homolog
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: protein GDAP2 homolog
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100191476%2C transcript variant X1
+  Gene Synonyms: GRMZM5G836588,si486078f09(7),si486078f09a
+  Gene Descriptions: uncharacterized LOC100191476
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 584 aa
+
+MQPRSPAAAtASGAAstAAAMvPGVGGVEPAVTLDQVPRWSDPDQRLYtPSSSsAAAAeg
+DGGSEPAASAFLSFSDPLTGDDGGAAGGGrGGASRFPVDHEINSRIYLWRGHPWNLEVDA
+VVNSTNESLDEAHSSPGLHAAAGSGLAEECATLGGCRTGMAKMTNAYDLPARKVIHTVGP
+KYAVKYHTAAENALSHCYRSCLELLIENGLESIAMGCIYTEAKNYPREPAAHVAIRTVRR
+FLEKQKGKIAGVVFCTTSSSDTEIYKRLLPLYFPRDKQEEEIAVSKLPADVGDENGETVI
+DERKIRIRPLPAGAvDRTVtTAPlDLPLDSGLASKRsSFKLDSYLDPSFMSLIKDPDLRR
+KEQWEKSAQAQKGFNYARLLGYGDLGCPSLSAAEEYSLHSRYLAKANSLNLSEIAEMKII
+YRGGVDSEGRPVMVVVGAHFLLRCLDLERFVLHVVKEFEPLIQKPYTIVYLHSAASLQPQ
+PDLGFMKRLQQILGRKHQRNLHAIYVLHPTLGLRTAILAMQMFVDGEVWKKVVYVDRLVQ
+LFRYVPREQLTIPDFVFQHDLEVNGGRGLIVDPRTKHIYQRPSG
+
+
+BOP CONSENSUS:
+Length: 584 aa
+
+MQHRSPAAATASGAASTAAAMePGVGGVEPAVTLDQVPRWSDPDQRLYTPSSSSAAAEAA
+DGGSEPAASAFLSFSDPLTGDDGGAAGGGrAGASRFPVDHEINSRIYLWRGHPWNMEVDA
+VVNSTNESLDEAHSSPGLHAAAGSGLAEECATLGGCRTGMAKMTNAYDLPARKVIHTVGP
+KYAVKYHTAAENALSHCYRSCLELLIENGLESIAMGCIYTEAKNYPREPAAHVAIRTVRR
+FLEKQKGKIAGVIFCITSSSDTEIYKRLLPLYFPRDKQEEETAVSKLPADVGDENGETVI
+DERKIRIRPLPAGAADRTVATAPLDLPLESGLASSRStFKLDSYLDPSFMSLIKDPDLRR
+KEQWEKSSQAQKGFNYARLLGYGDIGFPPLSAAEEYSLHSRYLAKANSLNLSEIAEMKII
+YRGGVDSEGRPVMVVVGAHFLLRCLDLERFVLHVVKEFEPLIQKPYTIVYLHSAASLQPQ
+PDLGFMKRIQQILGRKHQRNLHGIYILHPTLGLRTAILGMQLLIDGEVWKKVVYVDRLVQ
+LFRYVPREQLTIPDFVFQHDLEVNGGRGMIVDPRTKHIYQRPSG
+
+
+PACMAD CONSENSUS:
+Length: 578 aa
+
+MQPRSPPsAAAAGaMVPGVGGVEPAVTLDQVPRWSDPDQRIFPAAStSDEASAEGGGSEP
+PsASGFLSFSDPLTGDDGGGGGrGGASRFPVDQEINSRIYLWRGQPWNLEVDAVVNSTNE
+SLDEAHSSPGLHAAAGSGLAEECATLGGCRTGMAKMTNAYDLPARKVIHTVGPKYAVKYH
+TAAENALSHCYRSCLELLIENGLESIAMGCIYTEAKNYPREPAAHVAIRTVRRFLEKQKG
+KIAGVVFCTTSSSDTEIYKRLLPLYFPRDKQEEEIAISKLPADVGDENGETVIDERKIRI
+RPLPAGVVDRTVTATPvDLPLSDSGSALKRGSFKLDSYLDPSFMSIIKDPDLRRKEQWEK
+SAQAQKGFNYARLLGYGDLGCPSLSAAEEYSLHSRYLAKANSLNLSEIAEMKIIYRGGVD
+IEGRPVMVVVGAHFLLRCLDLERFVLHVVKEFEPLIQKPYTIVYFHSAASLQPQPDLGFM
+KRLQQILGRKHQRNLHAIYVLHPTLGLRTAVLAMQMFVDGEVWKKVVYVDRLVQLFRYVP
+REQLTIPDFVFQHDLEVNGGRGLIVDPRTKHIYQRASS
+
+================================================================================

@@ -1,0 +1,128 @@
+================================================================================
+GrassFam ID: GFAM003151
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             506.0 aa
+Family Size (Extended Family Size): 33 (36) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48047:SF68
+Panther Family ID:               PTHR48047
+Modal Panther ID:                PTHR48047:SF68
+Modal Panther Description:       GLYCOSYLTRANSFERASE
+Modal Panther Family ID:         PTHR48047
+Modal Panther Fam Desc:          GLYCOSYLTRANSFERASE
+Interpro Signature Accession:    cd03784; G3DSA:3.40.50.2000:FF:000047; G3DSA:3.40.50.2000:FF:000219; G3DSA:3.40.50.2000; PTHR48047; SSF53756
+Interpro Signature Description:  GT1_Gtf-like; Glycosyltransferase; Glycogen Phosphorylase B;; GLYCOSYLTRANSFERASE; UDP-Glycosyltransferase/glycogen phosphorylase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: UDP-glycosyltransferase 73C6
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu07H
+  Gene Products: UDP-glycosyltransferase 73C6-like
+Ata
+  Gene count: 3
+  Modal chromosome: Ata07D
+  Gene Products: UDP-glycosyltransferase 73C6-like
+Tae
+  Gene count: 12
+  Modal chromosome: Tae07A
+  Gene Products: UDP-glycosyltransferase 73C12-like; UDP-glycosyltransferase 73C6-like; UDP-glycosyltransferase 73D1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau10
+  Gene Products: UDP-glycosyltransferase 73C6-like
+  Gene Descriptions: UDP-glycosyltransferase 73C6-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: UDP-glycosyltransferase 73C4-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: UDP-glycosyltransferase 73E1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: UDP-glycosyltransferase 73C6
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: UDP-glycosyltransferase 73D1
+  Gene Synonyms: GRMZM2G067361
+  Gene Descriptions: UDP-glycosyltransferase 73D1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 503 aa
+
+MAiQgApNGRGnADDvGSAAKAHFVFVPLMFQGHVIPAVDTALLLATHGALASVVATPSN
+AARIRPTVDFARKSGLPIRLVELPLDCAAEGLPEGADDVDKIPpGLevNYFRALALLaEP
+LERHLRAHPPYPTCIVSDFCHPWTVqVAANLkVPRLCFFSMCAFCLLCQHNVERYNAYDG
+VADDNEPVVVPGLEKRIEVTRAQAPGFFRAPGFEKLADEiElALAEADGiVmNSFLEMEP
+EYVAGYAeARkMKVWTIGPVSLYHQHAATLAkRGNTTTAIDADECLRWLDGKEPsTVVYV
+SFGSIVHADPKQVVELGLGLEASGHPFVWVLKNpDQYGEDVREFLrDLEERVAGRGMLIR
+GWSPQVLILNHAAVGGFVTHCGWNSTlEAITAGLPVVTWPHFSDQFLNEKLAVEVLGIGV
+SVGVKEPLMWQvaKKEIVVGREVVEAAVRSIMDGGgEGEERRRKALALSEKARAAVQEGG
+SSLGNLLDLIKhFEVDAGGCTtv
+
+
+BOP CONSENSUS:
+Length: 503 aa
+
+MACQGAPNGRGNAaDDvGSAAKAHFVFVPLMYQGHVIPAVDTALLLATHGALASVVATPs
+NAARIRPTVDlARRSGLPIRLVELPLDCAAEGLPEGADDVDKIPLGLEVNYFRALTLLAE
+PLERHLRAHPPYPTCIVSDFCHAWTVQVAANLKVPRLCFFSMCAFCVLCQHNVERYNSYD
+GVADDNEPVVVPGVERRIEVTRAQAPGFFRAPGFEKLADEIELALAEsDGvVMNSFLEME
+PEYVAGYAAARKMKVWTIGPVSLYHQHAATLAKRGNTTTAIDADECLRWLdGKEPsTVVY
+VSFGSIVHADPKQVVELGLGLEASGHPFVWVLKNPDQYGEDVREFLrDLEERVAGRGMLI
+RGWSPQVLILNHAAVGGFVTHCGWNSTLEAIAAGLPVVTWPHFSDQFLNEKLAVEVLGIG
+VSVGIKEPLmWVAKKEIVVGREVVEAAVRSIMDGGGEGEERRRKALALSEKARAAVQkGG
+SSLGNLLDLIKHFEVDAGGCTTv
+
+
+PACMAD CONSENSUS:
+Length: 503 aa
+
+MAIKDLANGRGTASDsGsDVKAHFVFIPLMFQGHLIPAVDTALLLATHGALASIVVTPSN
+TGRIRPTVDFARKSGLPVRLVELPLDLAAEGLPDGADDVDKVPPdLWTNYFRALARLREP
+LERHLRAHAPYPTCVVADFCHPWARELAASLgVPRLCFFSMCAFCLLCQHNVERFNAYDG
+VADDHELVVVPGLEKRVEVSRAQAPGFFRGmPGFEKFADDVEQVLAEADGIVTNSFLEME
+PEYVAGYAEARRMKVWTVGPVSLFHQRTATLASRGNTAAIGADECLRWLDGKEPsSVVYV
+SFGSIAHAEPKQVVELGLGLEASGHPFIWVVKNADQHGEEVAEFLHELEARVAGRGLLIR
+GWAPQVLILSHAAVGGFVTHCGWNSTMEAITAGLPVVTWPHFsDQFLNAKFAVEVLGIGV
+DVGVTEPVMYRLDQKEIVVGREVVEKAVRSVMDGGDEGEERRRRARALAAKARAAVEEGG
+SSHANLLDLIKnFeVDAGCDATA
+
+================================================================================

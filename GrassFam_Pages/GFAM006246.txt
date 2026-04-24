@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM006246
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             401.0 aa
+Family Size (Extended Family Size): 33 (35) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR18919
+Modal Panther ID:                PTHR18919:SF146
+Modal Panther Description:       ACETYL-COA ACETYLTRANSFERASE, CYTOSOLIC 1
+Modal Panther Family ID:         PTHR18919
+Modal Panther Fam Desc:          ACETYL-COA C-ACYLTRANSFERASE
+Interpro Signature Accession:    cd00751; G3DSA:3.40.47.10:FF:000007; G3DSA:3.40.47.10; TIGR01930; PTHR18919; PIRSF000429; PF02803; PF00108; SSF53901
+Interpro Signature Description:  thiolase; acetyl-CoA acetyltransferase, mitochondrial; -; acetyl-CoA C-acyltransferase; ACETYL-COA C-ACYLTRANSFERASE; Ac-CoA_Ac_transf; Thiolase, C-terminal domain; Thiolase, N-terminal domain; Thiolase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: acetyl-CoA acetyltransferase%2C cytosolic 1
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: acetyl-CoA acetyltransferase%2C cytosolic 1-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata02D
+  Gene Products: acetyl-CoA acetyltransferase%2C cytosolic 1; acetyl-CoA acetyltransferase%2C cytosolic 1%2C transcript variant X1
+Tae
+  Gene count: 6
+  Modal chromosome: Tae02A
+  Gene Products: acetyl-CoA acetyltransferase%2C cytosolic 1-like; acetyl-CoA acetyltransferase%2C cytosolic 1-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: acetyl-CoA acetyltransferase%2C cytosolic 1-like
+  Gene Descriptions: acetyl-CoA acetyltransferase%2C cytosolic 1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: acetyl-CoA acetyltransferase 2%2C transcript variant X2
+  Gene Descriptions: acetyl-CoA acetyltransferase 2
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau20
+  Gene Products: acetyl-CoA acetyltransferase 2-like%2C transcript variant X2
+  Gene Descriptions: acetyl-CoA acetyltransferase 2-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: acetyl-CoA acetyltransferase%2C cytosolic 1-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha02
+  Gene Products: acetyl-CoA acetyltransferase%2C cytosolic 1-like; acetyl-CoA acetyltransferase%2C cytosolic 1-like%2C transcript variant X2
+Msi
+  Gene count: 4
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi01
+  Gene Products: acetyl-CoA acetyltransferase%2C cytosolic 1-like
+Zma
+  Gene count: 3
+  Modal chromosome: Zma01
+  Gene Products: acetyl-CoA acetyltransferase%2C cytosolic 1; acetyl-CoA acetyltransferase%2C cytosolic 1%2C transcript variant X1
+  Gene Synonyms: GRMZM2G085474,thiolase1,thl1; GRMZM5G866758,thiolase
+  Gene Descriptions: acetyl-CoA acetyltransferase%2C cytosolic 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 401 aa
+
+MASDGIaPRDVCVVGVARTPMGGFLGALSSLPATKLGSIAIEAALKRANVDPALVQEVFF
+GNVLSANLGQAPARQAALGAGIPNTVVCTTVNKVCASGMKATMFAAQSIQLGINDIVVAG
+GMESMSNAPKYIAEARKGSRFGHDTLVDGMLKDGLWDVYGDCAMGMCAELCADNHALTRE
+DQDAFAIQSNERGIAARDSGAFAWEIVPIEVPVGRGKPPVLVEKDESLDKFDPVKLKKLR
+PSFKENGGTVTAGNASSISDGAAALVLVSGQKAQELGLQVLARIKGYADAAQAPELFTTT
+PALAIPKAIANAGLESSHVDFYEINEAFSAVALANQKLLGIPSEKINVHGGAVSLGHPLG
+CSGARILVTLLGVLREKGGKIGVAGVCNGGGGASALVLELA
+
+
+BOP CONSENSUS:
+Length: 401 aa
+
+MGSDNIGPRDVCVVGVARTPMGGFLGALSSLPATKLGSIAIEAALKRANVDPSLVQEVFF
+GNVLSANLGQAPARQAALGAGIPNTVVCTTVNKVCASGMKATMFAAQSIQLGiNDIVVAG
+GMESMSNAPKYIAEARKGSRFGHDSLVDGMLKDGLWDVYGDCAMGVCAELCADNHALTRE
+DQDAYAIQSNERGIAARDSGAFAWEIVPIEVPVGRGKPPVLVDKDESLDKFDPAKLKKLR
+PSFKENAGTVTAGNASSISDGAAALVLVSGQKAQELGLQVLARIKGFADAAQAPELFTTT
+PALAIPKALsNAGLESSrVDFYEINEAFSAVALANQKLLGIPSEKINVHGGAVSLGHPLG
+CSGARILVTLLGVLREKGGKIGVAGVCNGGGGASALVLELA
+
+
+PACMAD CONSENSUS:
+Length: 401 aa
+
+MASDGIAPRDVCVVGVARTPMGGFLGALSSLPATKLGSIAIEAALKRANVDPALVQEVYF
+GNVLSANLGQAPARQAALGAGIPNTVVCTTVNKVCASGMKATMFAAQSIQLGINDIVVAG
+GMESMSNAPKYIAEARKGSRFGHDTLVDAMLKDGLWDVYNDCAMGMCAELCADNHALTRE
+DQDAFAIQSNERGIAARDSGAFAWEIVPIEVPVGRGKPPVLIEKDESLDKFDPVKLKKLR
+PSFKENGGTVTAGNASSISDGAAALVLVSGQKAQELGLQVLARIKGYADAAQAPELFTTT
+PALAIPKAIANAGLESSHVDFYEINEAFSAVALANQKLLGIPSEKINVHGGAVSLGHPLG
+CSGARILVTLLGVLREKGGKIGVAGVCNGGGGASALVLELA
+
+================================================================================

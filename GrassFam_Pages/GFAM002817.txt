@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM002817
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             507.5 aa
+Family Size (Extended Family Size): 24 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22298:SF54
+Panther Family ID:               PTHR22298
+Modal Panther ID:                PTHR22298:SF54
+Modal Panther Description:       ENDOGLUCANASE 9
+Modal Panther Family ID:         PTHR22298
+Modal Panther Fam Desc:          ENDO-1,4-BETA-GLUCANASE
+Interpro Signature Accession:    G3DSA:1.50.10.10:FF:000020; G3DSA:1.50.10.10; PTHR22298; PF00759; SSF48208
+Interpro Signature Description:  Endoglucanase; -; ENDO-1,4-BETA-GLUCANASE; Glycosyl hydrolase family 9; Six-hairpin glycosidases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: endoglucanase 11
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: endoglucanase 11-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata02D
+  Gene Products: endoglucanase 11; endoglucanase 11-like
+Tae
+  Gene count: 6
+  Modal chromosome: Tae02A
+  Gene Products: endoglucanase 11-like; endoglucanase 11-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: endoglucanase 11
+  Gene Descriptions: endoglucanase 11
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: endoglucanase 11
+  Gene Descriptions: endoglucanase 11
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 1
+  Modal chromosome: Pau13
+  Gene Products: endoglucanase 11-like%2C transcript variant X1
+  Gene Descriptions: endoglucanase 11-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi07K
+  Gene Products: endoglucanase 11-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: endoglucanase 11-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi12
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: endoglucanase 11
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: endoglucanase 11-like
+  Gene Synonyms: Cel16,cellulase,GRMZM2G125436
+  Gene Descriptions: endoglucanase 11-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 502 aa
+
+MSNSAALARSRasSSRAlVLLAFSLVwfSSHVLAAGHPDYADALAKSLLFFQGQRSGRLP
+PDQAVTWRSNSGmSDGSAANVDLTGGYYDGGDNVKFGFPMAFTTTMLSWSIIEYGGRMeG
+RVHDARAAVRWATDYLLKAATaTPGKLYVGVGDADADHRCWERPEDMDTPRtVYaVSASA
+PGSDVAGETAAALAAASvVFRAADPAYSRRLVAAARDVMAFAWQHQGKYSDHVGGGVGNY
+YPSYSGYKDELLWGSAWLLWATKNSSYLNDLiSLGANDGVDMFSWDNKLAGARVLLSRRA
+LVDGDKRLEPFRRQAEDFICRILPkSSSPSSTTqYTPGGLMHRSGNANLQYVASASFLLT
+TYAKYMAVSNRTFSCQNLPVThKsLRALAKRQVDYVLGDNPLGMSYMVGYGARwPQRIHH
+RASSMPSVAAHPAHIGCQEGFQSYLYAGGaNPNVHTGAVVGGPDQNDAFPDDRADYARSE
+PTTYTNAPLVGCLAYFAGSYKs
+
+
+BOP CONSENSUS:
+Length: 498 aa
+
+MSNSAALAPSSRAaVFLAFSLVWFSSHVLAAGHPDYADALAKSLLFFQGQRSGRLPPDQA
+VKWRSNSAMSDGSAANVDLTGGYYDGGDNVKFNFPMAFTATMLSWSIIEYGGRMEGRVHD
+ARAAVRWATDYLLKAAKATPGKLYVGVGDADADHRCWERPEDMDTPRnVYeVSASAPGSD
+VAGETAAALAAASVVFKAADPAYSRRLVAAARDVMAFAWQHQGKYSDHVGGGVSNYYPSY
+SGYKDELLWGSAWLLWATKNSSYLNDLiSLGANDGVDMFSWDNKLAGARVLLSRRALLDG
+DKRLEPFTRQAEEFICRVLPKSSSPSSTTPYTPGGLMHRSGNANLQYVASASFLLTTYAK
+YMAVSNRAFSCQNLPVThKtLRALAKRQVDYVLGDNPLGMSYMVGYGARsPQRIHHRASS
+MPSVAAHPAHIGCQEGFqSYLYAGGPNPNVHTGAVVGGPDQNDAFPDDRADYARSEPTTY
+TNAPLVGCLAYFAGSYKn
+
+
+PACMAD CONSENSUS:
+Length: 504 aa
+
+MSSALAARSRTMPsPSSSQALVLLAVVSLLSsSSlVAAGGHPDYADALAKAILFFQGQRS
+GRLPPDQAVTWRSNSGLSDGSAANVDLTGGYYDGGDNVKFGFPMAFTTTMLSWSVLEHGG
+RMKARVHDARAAVRWGADYLLKAATQTPGTLYVGVGDPDADHRCWERPEDMDTPRTVYAV
+SASAPGSDVAGETAAALAAASMVFRAADRAYSRRLLAAARDVMELAVgHQGKYSDYVGGD
+VGAYYQSYSGYKDELLWGSAWLLWATKNSSYLNYLYSLGDNDvVDMFSWDNKLAGARVLL
+SRRTLVNGDKRLEPFRQQAEDFICRILRDSPSSTTQYTPGGLMHKSGYANLQYVTSASFL
+LTTYAKYMAVTKHTFSCQSLPVTAKSLRALAKQQVDYILGvNPqGMSYMVNYGARWPQRI
+HHRASSMPSVASHPAHIGCQEGFQSYFYSSGANPNVHTGAVVGGPDEHDEFPDDRADYAR
+SEPTTYTNAPLVGCLAYLAGTYRS
+
+================================================================================

@@ -1,0 +1,109 @@
+================================================================================
+GrassFam ID: GFAM000841
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             449.5 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR19375:SF201
+Panther Family ID:               PTHR19375
+Modal Panther ID:                PTHR19375:SF201
+Modal Panther Description:       OS06G0212900 PROTEIN
+Modal Panther Family ID:         PTHR19375
+Modal Panther Fam Desc:          HEAT SHOCK PROTEIN 70KDA
+Interpro Signature Accession:    G3DSA:3.90.640.10:FF:000030; G3DSA:3.30.420.40; G3DSA:3.90.640.10; PTHR45639; PF00012; SSF53067
+Interpro Signature Description:  Heat shock protein HSP70; -; Actin; Chain A, domain 4; HSC70CB, ISOFORM G-RELATED; Hsp70 protein; Actin-like ATPase domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu04H
+  Gene Products: heat shock 70 kDa protein BIP2-like; luminal-binding protein 5-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata04D
+  Gene Products: heat shock 70 kDa protein BIP2-like
+Tae
+  Gene count: 8
+  Modal chromosome: Tae04D
+  Gene Products: heat shock 70 kDa protein BIP2-like; heat shock 70 kDa protein BIP2-like%2C transcript variant X2; luminal-binding protein 4-like; luminal-binding protein-like
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: heat shock 70 kDa protein BIP4-like
+  Gene Descriptions: heat shock 70 kDa protein BIP4-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa05
+  Gene Products: heat shock 70 kDa protein BIP4-like; luminal-binding protein 4
+  Gene Descriptions: heat shock 70 kDa protein BIP4-like; luminal-binding protein 4
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN773
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: luminal-binding protein-like
+Zma
+  Gene count: 2
+  Modal chromosome: Zma10
+  Gene Products: heat shock 70 kDa protein BIP2; uncharacterized LOC100501445
+  Gene Synonyms: GRMZM2G135608
+  Gene Descriptions: uncharacterized LOC100501445
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 449 aa
+
+MAarRlLLYVLLLLamAASGAAAFGLPRGvpPaYCAyrFqYtgaPFstGntAAIHLGNTK
+SCIAGYGGRlDPhTaYQLCIPSWVAFTDNGTLvGEAAMNHAAVSPGTAVSGFKRLLGiRm
+yNemVKREAELVPYKFTEQLGRCGIQmETEEGqVkvFLPEdVAGILIAELKrMAEAHLGR
+EIrsAVVTVPGHlNgaQRsslveAARlrGGFRaAKvVDEQVAAAAAYrLHEKRGDGKVIL
+VFHLGGRTsHATKFkFkDGTgRLleeRHDAYLGGDDFTgRVVDYFVELIKEKHhRDIRgD
+EGALRkLRAaCERAKKALSDrEgTLVnigSVLGdGADfyEeLTRAKFEELNRDLmeRAMe
+iVDtVVMgGapTSqtQSRkDaIDEvILVGGSVRIPMVgQLleDYFnGRgLIrdEDAVIRG
+AALLSRPESARYVDECYnGGVSGPLWLAK
+
+
+BOP CONSENSUS:
+Length: 451 aa
+
+MAAtRplLYLGvVLLLLAvAASGAAAFGLPRGvsPAyCAneFqYdGistGntTAIHLGNT
+KSCIAGYGGRlDPyTAYQFCIPSWVAFTdNGTLVGEAAmNHAAVSPGTAVSGFKRLLGIR
+MYNeMVKREAELVPYKFTEQLGRCGIQmETEEGnVmnFLPEdVAGILIAELKRMAEAHLG
+REIRsALVTVPGHfNGaQRSsLvrEAARLhGGFraAKVVDEQVAAAAAYRLHEKRGDGKV
+ILVFHLGGRTtHATKFRFKDGTGRLLEERHDAYLGGDDFTGRVVDYFVELIkEKHHRDIR
+GDEGALRKLRAaCERAKKLLSDREGvLVNiGSVLGeGADFYEELTRAKFEELNRDLMERA
+mEIVETVVMgGAPTSqtQSRKDAIDEVILVGGSVRIPMVGQLLEDYFnGRGLIRDEDAVI
+RGAALLSRPESARYVDECYNGGVSGPLWLAK
+
+
+PACMAD CONSENSUS:
+Length: 427 aa
+
+MMGRRLLVSLVPLLMAVMVAAAFDISRpPPAFGVRRGAPKEYCfWRGPWGAAPFLLGTAA
+AIHLGNTNSCIAGYDFrPwSHEYYQLCMPSWVAVTDNGVLSGEAAMNHATVSPGTAISGF
+TRLLDRRLtDDVVKSEMKLVPYKFSERLGWVAIQVNHPSRRGQVIEFSPvHLAVVLVSEL
+KHMAEAHLGRELSAAVIAVPRHLTYNGRQDVVNVGRyDAGFrRGAKAIDRQIAAYGHHTE
+QGDGKvILVFRVGGRTSDATIFKFVnGtARYvysQtDyyLGGDDFTtRIVDYMAELIKQr
+HQWDIRQDkmALrRLRVACEyAKKALSDQEETLVQVhVDGIssSAPLTRAKLEELNQDLL
+DRAMALVDGALMrtGRvEsrtvvVDEIVLVGGSARIPKLRQLVqDYFrGREPNKGVEPqE
+AIIHGtv
+
+================================================================================

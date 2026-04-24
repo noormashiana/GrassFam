@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM012769
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             471.0 aa
+Family Size (Extended Family Size): 36 (38) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23138:SF176
+Panther Family ID:               PTHR23138
+Modal Panther ID:                PTHR23138:SF176
+Modal Panther Description:       NUCLEAR PORE COMPLEX PROTEIN NUP50A
+Modal Panther Family ID:         PTHR23138
+Modal Panther Fam Desc:          RAN BINDING PROTEIN
+Interpro Signature Accession:    cd13169; G3DSA:2.30.29.30:FF:000353; G3DSA:2.30.29.30; PTHR23138; SSF50729
+Interpro Signature Description:  RanBD_NUP50_plant; Nuclear pore complex protein NUP50A; -; RAN BINDING PROTEIN; PH domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: nuclear pore complex protein NUP50A%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu01H
+  Gene Products: nuclear pore complex protein NUP50A-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata01D
+  Gene Products: nuclear pore complex protein NUP50A; nuclear pore complex protein NUP50B
+Tae
+  Gene count: 6
+  Modal chromosome: Tae01A
+  Gene Products: nuclear pore complex protein NUP50A-like; nuclear pore complex protein NUP50B-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: nuclear pore complex protein NUP50B-like
+  Gene Descriptions: nuclear pore complex protein NUP50B-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: nuclear pore complex protein NUP50B
+  Gene Descriptions: nuclear pore complex protein NUP50B
+Pau
+  Gene count: 2
+  Modal chromosome: Pau11
+  Gene Products: nuclear pore complex protein NUP50A-like; nuclear pore complex protein NUP50B-like
+  Gene Descriptions: nuclear pore complex protein NUP50A-like; nuclear pore complex protein NUP50B-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi03K
+  Gene Products: nuclear pore complex protein NUP50A-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha02
+  Gene Products: nuclear pore complex protein NUP50A-like
+Msi
+  Gene count: 6
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi03
+  Gene Products: nuclear pore complex protein NUP50A; nuclear pore complex protein NUP50B
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: Nuclear pore complex protein NUP50A; uncharacterized LOC100284246%2C transcript variant 3
+  Gene Synonyms: GRMZM2G157317; cl29771_2,GRMZM5G823017
+  Gene Descriptions: Nuclear pore complex protein NUP50A; uncharacterized LOC100284246
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 462 aa
+
+MADEEHAPSSRKRVAGTQINKDNPEPDDDGPEQEMGTFKKASEEVMATRRIVKVRRQQPS
+SAPSSNPFSAIRFTPTDSSAQASAPVsEPQPSDVKADEGSNGSGKDTLSVPDKNAGSGEV
+aEIQKDESdVnTdSgAtTEAPpQPVETSDKAEDTkDGSGGDKVVVGEPKEGNSmpSEVEG
+KTKdGDAEEKEGADEAGNEDKISKDDTEKKDGGESETKDGlSDEQKDADNKGQSSSaTPL
+FSFKNLSSGQNAFTGLAGTGFSSSSFSFGSASKDgSSAGPLFGLKsDGSSFPSFNLGAtN
+NGSSApALATSAEAPKKFAMtEGPVETGEENEKAVFTADSALYEYLDGGWKERGKGELKL
+NVPVSGGERARLVMRTKGNYRLVLNASLYDDMSLKDMDKKGVTFACmNSIGESPSGLATF
+ALKFKDTatREEFKaAVEaHKAkKAPDApLKTPENSPKAAEV
+
+
+BOP CONSENSUS:
+Length: 470 aa
+
+MADEEHAQTSRKRVADKQINKDNPEPDDDSsEQEtGTFKKASEEVMATRKIVKVRRQQPS
+SAPSSNPFSAIRFTPSDSSVQASIPVSEPPPSDVTTsNVrDSSEKADEGSNGSGKDADKN
+ADSNEVAEIQKDESGLkESDAENKSSAPtEAPSQLVETDgKAesTVDGTGEDKVVVGEPK
+EDNSKTSGIEGKTeDEDAEEKKaVNEAGdEDKsSKDDDEKKDEAESGTKDGSSEQKDADN
+KGQSSSPTPLFSFkNLSSGQNAFTGLAGTGFSGSSFSFGSGSKESSNAPLFGLKSDGSSF
+PSFNIGATNNGSSAPSLATAAEAPKKFAMPEGPVETGEENEKAVFTADSAIYEYLDGGWK
+ERGKGELKLNIPVSGGERSRLVMRAKGNYRLILNASLYDDMSLKDMDKKGVTFACINSIG
+ESPSGLTTFALKFKDTGIREDFKAAVETHKAKKASDApKTPEsSPKASDD
+
+
+PACMAD CONSENSUS:
+Length: 451 aa
+
+MADEEQAPSSRKRVAGTQINKDNPEPDDDGPEQEMGTFKKATEEVMATRRIVKVRRQQPS
+SAPSSNPFSAIRFTPTDSSAQTSAPVPEPQPSDVKADEGSNGSGKDTLSVPDKNAGSGVN
+TDSGATTEAPPQPVETSDKAEDTKDESGGDKVVVGEPNEGSsMPSEVEGKTKEGDAEEKE
+GADEAGNnDKISKDDTEKKDGGESETKDGLSDEQKDADNKGQTSSATPLFSFKNLSSGQN
+AFTGLTGTGFSSTSFSFGSASKDGSSAGPLFGLKtDGSSFPSFNLGAANNGSSATALATS
+AEAPKKFAMTEGPVETGEENEKAVFTADSALYEYLDGGWKERGKGELKLNVPVSGGERAR
+LVMRTKGNYRLVLNASLYNDMSLKDMDKKGVTFACMNSIGESPSSLATFALKFKDTATRE
+EFKDAVEsHKTSKAPDvPLKTPENSPKAAEV
+
+================================================================================

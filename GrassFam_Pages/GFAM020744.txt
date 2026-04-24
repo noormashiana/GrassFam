@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM020744
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             507.0 aa
+Family Size (Extended Family Size): 37 (39) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43795:SF111
+Panther Family ID:               PTHR43795
+Modal Panther ID:                PTHR43795:SF111
+Modal Panther Description:       TRYPTOPHAN AMINOTRANSFERASE-RELATED PROTEIN 2
+Modal Panther Family ID:         PTHR43795
+Modal Panther Fam Desc:          BIFUNCTIONAL ASPARTATE AMINOTRANSFERASE AND GLUTAMATE/ASPARTATE-PREPHENATE AMINOTRANSFERASE-RELATED
+Interpro Signature Accession:    cd00609; G3DSA:3.90.1150.10; G3DSA:3.40.640.10; PTHR43795; PF04864; SSF53383
+Interpro Signature Description:  AAT_like; Aspartate Aminotransferase, domain 1; -; BIFUNCTIONAL ASPARTATE AMINOTRANSFERASE AND GLUTAMATE/ASPARTATE-PREPHENATE AMINOTRANSFERASE-RELATED; Allinase; PLP-dependent transferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: tryptophan aminotransferase-related protein 2-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata01D
+  Gene Products: tryptophan aminotransferase-related protein 2
+Tae
+  Gene count: 12
+  Modal chromosome: Tae01B
+  Gene Products: tryptophan aminotransferase-related protein 1-like; tryptophan aminotransferase-related protein 2-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: tryptophan aminotransferase-related protein 2%2C transcript variant X1
+  Gene Descriptions: tryptophan aminotransferase-related protein 2
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: tryptophan aminotransferase-related protein 2-like%2C transcript variant 1
+  Gene Synonyms: FIB,OJ1276_B06.34,OsTAR2,TAA1,TAR2
+  Gene Descriptions: tryptophan aminotransferase-related protein 2-like
+Ecu
+  Gene count: 3
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: tryptophan aminotransferase-related protein 2-like
+  Gene Descriptions: tryptophan aminotransferase-related protein 2-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: tryptophan aminotransferase-related protein 2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: tryptophan aminotransferase-related protein 2-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: tryptophan aminotransferase-related protein 2
+Zma
+  Gene count: 3
+  Modal chromosome: Zma03
+  Gene Products: tryptophan aminotransferase-related protein 2; tryptophan aminotransferase-related protein 2-like; uncharacterized LOC100193435
+  Gene Synonyms: GRMZM2G066345; GRMZM2G141810,TAR3
+  Gene Descriptions: tryptophan aminotransferase-related protein 2-like; uncharacterized LOC100193435
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 516 aa
+
+MAAlRLGTAVEGeFQGnGGMvPPSARLLAsnGGGAPSReEeaAaanGGGPaLAAtakPRG
+gSVfSATKagKPRRRAGRMPLWRAAvFASVALNVgLLLHhYvVNhPstaPPHHdQqhqAC
+apQPdtaGAarnRRgrqmpKAgAPSTGKPAVTPDSVINLDHGDPTMFEAFWRETGDAAEI
+VIPGWQTMSYFSDVGNVCWFLEPGFDqQVRRLHRLVGNAAVDGYHVLVGTGSTQLFMAAL
+YALSPadAgaPMSVVSTAPYYSSYPAVTDFLRSGLFRWAGDANSFvGDtYIELVCSPNNP
+DGAIREAVLSSgsGKAVHDLAYYWPQYTPITRRADHDIMLFTVSKSTGHAGTRIGWALVK
+DReVARRMTKFIELNTIGVSKDSQLRAAKVLRAVSDGYELPEAaerHRLFDFGRRKMVER
+WsMLREAAAASGIFSLPEETSGyCNFTKETAATNPAFAWLRCDREDVEDCAGFLRGHKIL
+TRSGSQFGADPRYVRVSMLDRDDAYDIFVkRLASLK
+
+
+BOP CONSENSUS:
+Length: 507 aa
+
+MAAsRRRTSAEFQGNGGLMPPSAHViASPRGGGAPSREEHANGGGPALRGAKPRGGSSVf
+SATKvTGRRRPAGRMPLWRVAIFASVALNVAALALLLHqYiVSHPHHPGVVSPDQQHHAC
+APQPGTSGAAArAPSTGKPAVTSDSVINLDHGDPTMFEAFWRETGDAAELVIPGWQTMSY
+FSDVsNVCWFMEPlFDQQVRRLHRTVGNAAVDGYHVLVGTGSTQLFMAALYALSPADAvQ
+PTSVVSTAPYYSSYPAVTDFLRSGLFRWAGDANSFVGDAYIELVCSPNNPDGAIRDAVLS
+SGAGKAVHDLAYYWPQYTPITRRADHDIMLFTVSKSTGHAGTRIGWALVKDREVARRMTK
+FVELNTIGVSKDSQLRAAKVLRAVSDGYDvkeGGASRHRLFDFGRRKMVERWRMLREAAA
+ASGIFSLPEETSGRCNFANETAANNPAFAWLRCDREDVEDCAGFLRGHKILTRSGNQFGA
+DPRYVRVSMLDRDDAYDIFIsRLASLK
+
+
+PACMAD CONSENSUS:
+Length: 518 aa
+
+MSAAlrLGTAVEGsFQGaGGMVPSPRLLAPNGGAPRPApSRREEtANgGGGGPDLAALRP
+tKrPRGKAQAGKPRKRAPLWQAAVFVSVALNVGLLLHHYVNSTAPPHHHHqQhhQACLMH
+PDAAGsGrnRRgRQeEPlSMPKAGAPSTGKPAVTPDSVINLDHGDPTMFEEFWRGTGaAA
+EIVIPGWQTMSYFSDVGNVCWFLEPGLDHEVRRLHRLVGNAAVDGYHVLVGTGSTQLFMA
+ALYALSPPAGAAPMSVVSTAPYYSSYPAVTDFLQSGLFRWAGDANSFkGDTYIELVCSPN
+NPDGAIREAVLSSESGvAVHDLAYYWPQYTAITKRADHDIMLFTVSKSTGHAGTRIGWAL
+VKDRDVAKKMTKFIELNTIGVSKDSQLRAAKVLRAVSDAYELPEAkEeHRLFDYGRRKMV
+ERWSMLREAAAASGIFSLPEETSGYCNFTKEMASTNPAFAWLRCDREDVEDCASFLRGHK
+ILTRSGSQFGADPRYVRVSMLDRDDAYDIFVKRLSSLK
+
+================================================================================

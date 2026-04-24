@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM014540
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             323.0 aa
+Family Size (Extended Family Size): 29 (29) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12555:SF16
+Panther Family ID:               PTHR12555
+Modal Panther ID:                PTHR12555:SF16
+Modal Panther Description:       OS04G0577000 PROTEIN
+Modal Panther Family ID:         PTHR12555
+Modal Panther Fam Desc:          UBIQUITIN FUSION DEGRADATON PROTEIN 1
+Interpro Signature Accession:    G3DSA:2.40.40.50:FF:000001; G3DSA:3.10.330.10:FF:000002; G3DSA:3.10.330.10; G3DSA:2.40.40.50; PTHR12555; PF03152; PF24842
+Interpro Signature Description:  Ubiquitin fusion degradation protein 1 homolog; ubiquitin fusion degradation protein 1 homolog; -; UBIQUITIN FUSION DEGRADATON PROTEIN 1; Ubiquitin fusion degradation protein UFD1, N-terminal subdomain 1; Ubiquitin fusion degradation protein UFD1, N-terminal subdomain 2
+
+
+REXdb Match:                     False
+REXdb Percentage:                3.45%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: ubiquitin fusion degradation protein 1 homolog%2C transcript variant X1
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: ubiquitin fusion degradation protein 1 homolog
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: ubiquitin fusion degradation protein 1 homolog
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: ubiquitin fusion degradation protein 1 homolog; ubiquitin fusion degradation protein 1 homolog%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl04
+  Gene Products: uncharacterized LOC127769296; uncharacterized LOC127785095
+  Gene Descriptions: uncharacterized LOC127769296; uncharacterized LOC127785095
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4336742
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: uncharacterized LOC133889715%2C transcript variant X2; uncharacterized LOC133924812%2C transcript variant X2
+  Gene Descriptions: uncharacterized LOC133889715; uncharacterized LOC133924812
+Svi
+  Gene count: 2
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi05K
+  Gene Products: ubiquitin fusion degradation protein 1 homolog; ubiquitin fusion degradation protein 1 homolog%2C transcript variant X1; ubiquitin recognition factor in ER-associated degradation protein 1-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha05
+  Gene Products: ubiquitin fusion degradation protein 1 homolog
+Msi
+  Gene count: 3
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: ubiquitin recognition factor in ER-associated degradation protein 1-like%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: uncharacterized LOC100282176%2C transcript variant X1
+  Gene Synonyms: GRMZM2G114220,pco125270b
+  Gene Descriptions: uncharacterized LOC100282176
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 320 aa
+
+MFYGGYAYHGsNFEQTYRCYPASFFDKPHLEGGDKVIMPPSALDRLASLHIEYPMLFELH
+NDATQRISHCGVLEFVAEEGMIIMPYWMMQNMLLQEGDTVRVKNATLPKGTYVKLQPHTT
+DFLDISNPKAILEKTLRNFSCLTTGDSIMVAYNNKQYYIDIVETKPASAVSIIETDCEVD
+FAPPLDYKEPEKPQQPTVPASKAPAEDqetvVEDEPKFKPFTGSGKRLDGKASKLQApEV
+PSAARSAPSDSNKRANQQTAAPATSGASNSTRQKTGKLVFGSSASNNKEPQKAPAKesEP
+PKKDEPKFQAFSGKSYSLKR
+
+
+BOP CONSENSUS:
+Length: 323 aa
+
+MFYAGYGYHASNFEQTYRCYPASFFDKPHLEGGDKVIMPPSALDRLASLHIEYPMLFELH
+NGvTDRISHCGVLEFVAEEGMIIMPYWMMQNMLLQEGDIVRVKNATLPKGTYVKLQPHTT
+DFLDISNPKAILEKTLRNFSCLTTGDSIMVAYNNKQYYIDIVEAKPASAVSIIETDCEVD
+FAPPLDYKEPEKPQRPIVPAGKAPAEDQEAiVEDEPKFKPFTGSGKRLDGKGPKQQAPgV
+SSAAAAARSAPSDSNKRANQQTASPSGASTSTRQKTGKLVFGSSASNKKEAEAQKEPAKG
+SEPPKKEEPKFNAFSGKSYSLKR
+
+
+PACMAD CONSENSUS:
+Length: 320 aa
+
+MFYGGYAYHGNsFEQTYRCYPASFFDKPHLEGGDKVIMPPSALDRLASLHIEYPMLFELH
+NDATQRISHCGVLEFVAEEGMIIMPYWMMQNMLLQEGDTVRVKNATLPKGTYVKLQPHTT
+DFLDISNPKAILEKTLRNFSCLTTGDSIMVAYNNKQYYIDIVETKPASAVSIIETDCEVD
+FAPPLDYKEPEKPQQPTVPASKAPAEGGdTVVEDEPKFKPFTGSGKRLDGKASKLQASEV
+PStArSAPSDSNKRaNQQTSAPATSGASNSTRQKTGKLVFGSSASNNKEPQKAPAKEEEP
+PKKDEPKFQAFSGKSYSLKR
+
+================================================================================

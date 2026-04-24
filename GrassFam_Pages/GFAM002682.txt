@@ -1,0 +1,113 @@
+================================================================================
+GrassFam ID: GFAM002682
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             508.5 aa
+Family Size (Extended Family Size): 66 (77) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Weak
+Panther Family ID:               PTHR31650
+Modal Panther ID:                PTHR31650:SF37
+Modal Panther Description:       DIACYLGLYCEROL O-ACYLTRANSFERASE
+Modal Panther Family ID:         PTHR31650
+Modal Panther Fam Desc:          O-ACYLTRANSFERASE (WSD1-LIKE) FAMILY PROTEIN
+Interpro Signature Accession:    G3DSA:3.30.559.10:FF:000021; PTHR31650; PF06974
+Interpro Signature Description:  O-acyltransferase WSD1; O-ACYLTRANSFERASE (WSD1-LIKE) FAMILY PROTEIN; WS/DGAT C-terminal domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi03
+  Gene Products: O-acyltransferase WSD1; O-acyltransferase WSD1%2C transcript variant X1
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 13
+  Modal chromosome: Hvu03H
+  Gene Products: wax ester synthase/diacylglycerol acyltransferase 11-like; wax ester synthase/diacylglycerol acyltransferase 11-like%2C transcript variant X1; wax ester synthase/diacylglycerol acyltransferase 5-like
+Ata
+  Gene count: 9
+  Modal chromosome: Ata05D
+  Gene Products: wax ester synthase/diacylglycerol acyltransferase 11; wax ester synthase/diacylglycerol acyltransferase 11%2C transcript variant X1; wax ester synthase/diacylglycerol acyltransferase 11-like; wax ester synthase/diacylglycerol acyltransferase 5-like
+Tae
+  Gene count: 31
+  Modal chromosome: Tae05B
+  Gene Products: wax ester synthase/diacylglycerol acyltransferase 11-like; wax ester synthase/diacylglycerol acyltransferase 11-like%2C transcript variant X1; wax ester synthase/diacylglycerol acyltransferase 4-like%2C transcript variant X1; wax ester synthase/diacylglycerol acyltransferase 5-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi02N
+  Gene Products: O-acyltransferase WSD1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: O-acyltransferase WSD1-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi04
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: O-acyltransferase WSD1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 513 aa
+
+MdaSSGSPSvAALPTSRLLPIRTPRSAPAEWTTDDSaeEEPVSPTARLMEdIYIVVTIGL
+GsPVNLPVFSAGIAAQLARyPRFRSIQVTDGkdgGnPRWVRTAVNVDDHiIVPTLDPAAV
+AADPDRAVEDYVASLsTLPMDrSRPLWEFHFLDFPTSEAASTVVlRVHHSLGDGMSLITL
+LLASARSAADPTRLPAMPeqPARTGAIYAPRRRqPrSAGALAAFlaWvWSYLVLAWNTmV
+DValFAATIvFLRDPhTLFKRADhgVtlnpRRRFVHRSLSLDDVKFIKNAMNCTVNDVLV
+GATSAALSRYYFRKSGdTnTrkiCLRSiLlVNTRPTtSLQTYVNMIESGKSNDVAWGNQL
+GYILLPFHLAMHDDPLAYVRKAKkTVDRKKSSLEVIFTcKmsEvFvKMFGLKAGAFIFrR
+MFaNTTIsFSNLVGPTEQIELCGHPVVFIAPSVYGvPQALiVHYQSYNnTIKVILSVDEE
+iFPDYsQLLDDFvESFgLIKDAASRLSTSiKKE
+
+
+BOP CONSENSUS:
+Length: 516 aa
+
+MdaSsGSPSvAALPTSRLLPIRTPRSAPAEWTTTDDSsAaEEEPVTPTARLMEaIYIVVT
+IGLGsPVNLPVFSAGIAAQLARYPRFRSIQVTDGkdGgNPRWvRTAVNVDDHmIVPTLDP
+AAVAADPDRAVEDYVASLpTLPMDRSRPLWEFHFLDFPTSEAtSTVViRVHHSLGDGMSL
+ITLLLASARSAADPTRLPAMPEQPARTGAIYAPRRRpPrSaGALAAFiaWiWsYLVLAWN
+TvVDVslFAATIvFLRDPhTpFRRADgdVtlnpRRRFVHRSLSLDDVKFIKNAMNCTVND
+VLVGATSAALSRYYFRKSGgtNTyKiCLRSVLlVNTRPTtSLQTYVNMIESGKSNDVAWG
+NQLGYILLPFHLAMHDDPLAYVRKAKKTVDRKKSSLEVIFTCKmsEvFvKMFGLKAGAFI
+FrRMFANTTIsFSNmVGPTEQIELcGHPVVFIAPSVYGvPQALiVHYQSYNsTIKViLSV
+DEEIFPDYsQLLDDFVESFGlIKDAASRLSTSIKKE
+
+
+PACMAD CONSENSUS:
+Length: 463 aa
+
+maeEPVSPVERLMKDLYVVVAIGLATPLNLAVFRAGIEAQLARHPYFRSIQVTGKDGTPR
+WVPTAVNvDDHIVVPRLDgADPDRAVEDYLSSLSTLPMDHTRPPWEFHFLDVRTSEAAST
+VALRVHHALADGMALITLLISSSRSAADPAKPAPAPPPPARRTGAIYAPPRqqLLVWVWS
+YLLLAWHTLVDVAAFVATIFFLgDPnTLFKRADHGEPRRRMRFVHRTFSLDDVKFVKNAM
+NYTVNDVLVGVTSAALSRYFFRRTGDTKTReIVLRSILPVNTRPTtSLQMDVDMIESGKS
+NAVRWGNRLGYIILPFHLAMHDDPLEYVRKAKQVIDRKKNSLEVvVvHMAIEIVFKIFGP
+KAGAYIFNnVLRNTTMTFSNLIGPPEQIELCGHPVAYIAPSVYGLQQALTVHYQSYsNTI
+KVILAVDEEQFPDSRQLLDDFAESLNLTKDAAAKTSTKtIKNE
+
+================================================================================

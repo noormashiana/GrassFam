@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM016211
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             343.0 aa
+Family Size (Extended Family Size): 45 (46) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10366:SF786
+Panther Family ID:               PTHR10366
+Modal Panther ID:                PTHR10366:SF786
+Modal Panther Description:       OS09G0491820 PROTEIN
+Modal Panther Family ID:         PTHR10366
+Modal Panther Fam Desc:          NAD DEPENDENT EPIMERASE/DEHYDRATASE
+Interpro Signature Accession:    cd08958; G3DSA:3.40.50.720:FF:000382; G3DSA:3.40.50.720; PTHR10366; PF01370; SSF51735
+Interpro Signature Description:  FR_SDR_e; NAD(P)-binding Rossmann-fold superfamily protein; -; NAD DEPENDENT EPIMERASE/DEHYDRATASE; NAD dependent epimerase/dehydratase family; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi04
+  Gene Products: cinnamoyl-CoA reductase 2; cinnamoyl-CoA reductase 2-like
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 4
+  Modal chromosome: Hvu05H
+  Gene Products: phenylacetaldehyde reductase-like
+Ata
+  Gene count: 4
+  Modal chromosome: Ata05D
+  Gene Products: cinnamoyl-CoA reductase 1; phenylacetaldehyde reductase; phenylacetaldehyde reductase-like
+Tae
+  Gene count: 12
+  Modal chromosome: Tae05B
+  Gene Products: cinnamoyl-CoA reductase 1-like; cinnamoyl-CoA reductase 1-like%2C transcript variant X1; cinnamoyl-CoA reductase 2-like; phenylacetaldehyde reductase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: cinnamoyl-CoA reductase 1-like%2C transcript variant X1
+  Gene Descriptions: cinnamoyl-CoA reductase 1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: phenylacetaldehyde reductase%2C transcript variant X1
+  Gene Descriptions: phenylacetaldehyde reductase
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau17
+  Gene Products: cinnamoyl-CoA reductase 1-like%2C transcript variant X2
+  Gene Descriptions: cinnamoyl-CoA reductase 1-like
+Svi
+  Gene count: 3
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi02N
+  Gene Products: cinnamoyl-CoA reductase 2-like%2C transcript variant X1; phenylacetaldehyde reductase-like; phenylacetaldehyde reductase-like%2C transcript variant X1
+Pha
+  Gene count: 2
+  Modal chromosome: Pha02
+  Gene Products: cinnamoyl-CoA reductase 1-like%2C transcript variant X1; cinnamoyl-CoA reductase 2-like
+Msi
+  Gene count: 4
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: cinnamoyl-CoA reductase 2
+Zma
+  Gene count: 3
+  Modal chromosome: Zma07
+  Gene Products: cinnamoyl-CoA reductase 2; dihydroflavonol-4-reductase
+  Gene Synonyms: GRMZM5G860241
+  Gene Descriptions: dihydroflavonol-4-reductase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 343 aa
+
+MASPPrRVCVTGGGGYIASWLVKLLLSRGYAVHATVRDPCDPKNAHLMQLDGAAEnLRLF
+KADVLDRAALAAAVaGCEGVFHVASPVPADKiVDPESEVmvPAVKGTLNILEVCSsnKVQ
+KVVVVSSTAAVHFNPNWPQGKPKDESCWSDRKvCmeNElWYslAKTVAEETALEYAEKNG
+LNVVTVCPCIVLGPQLQPVVNTTSELLIYVIKGGPNvMNDmlWHIVDVRDVADALLLVYE
+KPESSGRYICAPNYISTKAmLELLKKtYPNYNYVKCKADvDhNSpITPiSSEKLkNLGWK
+PRkLEETLLDSIEYYeKtGlLQDVEGqpCRLPdlFhFFHAaEE
+
+
+BOP CONSENSUS:
+Length: 342 aa
+
+MAPPRRVCVTGGGGYIASWLVKLLLSRGYAVHATLRDPCDPKNAHLMQLDGAAENLRLFK
+ADVLDRAALAAAVEGCEGVFHVASPVPADKIVDPESEVMVPAVKGTLNILEVCSSMKVQK
+VVVVSSTAAVHFNPNWPQGKPKDESCWSDRKVCMENELWYcLAKTVAEETAWEYAEKNGL
+NVVTVCPCIVFGPQLQPVVNTTSELLlYVIKGGPNAMNDmLWHIVDVRDVADALLLVYEK
+PESSGRYICAPNYItTKAmLELLKKTYPDYNYVKCKADvdHNSPITPISSeKLrNLGWKP
+RaLEETLLDSIEYYRKTGILQDvEGqtCRLPDiFRFFHAAEE
+
+
+PACMAD CONSENSUS:
+Length: 341 aa
+
+MASPPPrRVCVTGGGGYIASWLVKLLLSRGYAVHATVRDPSDPKNAHLrRLEGApEnLLL
+FKADVLDRDALAAAVAGCEGVFHVASPVPADKVLDPESEVLAPAVKGTLNVLQACSANNV
+QKVVVVSSTAAVHFNPsWPQGRpKDESCWSDrNLCmKNEDWYsAAKTIAEETALEYGEKN
+GLtVVTVCPCiVLGPLLQPVVNTSSEFLIYIIKGGPtVMKNlPWNIVDVRDVADALLLVY
+EKVESSGRYICAPDRISTKDMVNLLKKaYPNYNYVNCDDkDYeSiVSPVTSEKLKNLGWK
+PRKmEETLLDSIEYYEKAGLLQDVEGCPCRLPHLFHFASDK
+
+================================================================================

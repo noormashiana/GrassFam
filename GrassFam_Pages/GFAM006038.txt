@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM006038
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             508.0 aa
+Family Size (Extended Family Size): 29 (34) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10353:SF187
+Panther Family ID:               PTHR10353
+Modal Panther ID:                PTHR10353:SF187
+Modal Panther Description:       4-HYDROXY-7-METHOXY-3-OXO-3,4-DIHYDRO-2H-1,4-BENZOXAZIN-2-YL GLUCOSIDEBETA-D-GLUCOSIDASE
+Modal Panther Family ID:         PTHR10353
+Modal Panther Fam Desc:          GLYCOSYL HYDROLASE
+Interpro Signature Accession:    G3DSA:3.20.20.80:FF:000041; G3DSA:3.20.20.80; PTHR10353; PF00232; SSF51445
+Interpro Signature Description:  Beta-glucosidase 7; Glycosidases; GLYCOSYL HYDROLASE; Glycosyl hydrolase family 1; (Trans)glycosidases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: beta-glucosidase 26
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu02H
+  Gene Products: beta-glucosidase 26-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata02D
+  Gene Products: beta-glucosidase 26
+Tae
+  Gene count: 6
+  Modal chromosome: Tae02A
+  Gene Products: beta-glucosidase 26; beta-glucosidase 26-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: beta-glucosidase 26%2C transcript variant X2
+  Gene Descriptions: beta-glucosidase 26
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: beta-glucosidase 26-like%2C transcript variant 2
+  Gene Synonyms: BGLU26,Os7bglu26,OsJ_25416
+  Gene Descriptions: beta-glucosidase 26-like
+Ecu
+  Gene count: 4
+  Modal chromosome: EcuUN4
+Pau
+  Gene count: 2
+  Modal chromosome: Pau14
+  Gene Products: beta-glucosidase 26; beta-glucosidase 26-like
+  Gene Descriptions: beta-glucosidase 26; beta-glucosidase 26-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: beta-glucosidase 26%2C transcript variant X1; beta-glucosidase 26-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: beta-glucosidase 26%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: beta-glucosidase 26
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: uncharacterized LOC100282438
+  Gene Synonyms: GRMZM2G148176,pco088410
+  Gene Descriptions: uncharacterized LOC100282438
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 509 aa
+
+MKKLaaqlllLAAAAHVLLLTLPtAQCYWLNPEIYDAGGLSRRAFPEGFVFGTAASAYQV
+EGMAKQGGRGPSIWDAFIEvPGTIPNNATADVTVDEYHRYKEDVNIMKNMGFDAYRFSIS
+WSRIFPNGTGKVNQEGVDYYNRLIDYMlQQGITPYANLYHYDLPLALHEQYLGWLSPKIV
+EAFADYADFCFQTFGDRVKNWFTFNEPRCVAALGYDNGLHAPGRCSqCAAGGNSTTEPYL
+VAHHLILSHAAAVKRYRDKYQLYQKGRIGILLDFVWYEPFSNSNADQAAAQRARDFHLGW
+FLDPIIhGRYPYSMLEIVKDRLPLFSDEESRMVKGSIDYVGINHYTSFYMKDPGTWNLTP
+VSYQDDWHVGFVYERNGVPIGAHANSYWLYIVPWGINKAVNYVKETYgNPTMILAENGMD
+QPGNVSITQGVHDTVRIRYYRDYITELKKAIDDGARVIGYFAWSLLDNFEWRLGYTSRFG
+IVYVDYKTLKRYPKDSAFWFKHMLSKKRS
+
+
+BOP CONSENSUS:
+Length: 507 aa
+
+MKkfAAvLLILAAAAHVLLPsAQCHWLNPEIHDAGGLSRQGFPEGFVFGTAASAYQVEGM
+AKQGGRGPSIWDAFIKIPGTIPGNGTADVAVDEYHRYKEDVDIMKNMGFDAYRFSISWSR
+IFPNGTGKVNWEGVDYYNRLIDYMLQQGITPYANLYHYDLPLALHQQYLGWLSPKIVGAF
+ADYADFCFKVFGDRVKNWFTFNEPRCVAALGYDNGLHAPGRCSQCSAGGNSTTEPYLAAH
+HLILSHAAAVRRYREKYQHHQKGRIGILLDFVWYEPLSNSNADQAAAQRARDFHLGWFLD
+PIIHGRYPFTMLEIVKDRLPTFSDEESRMVKGSIDYVGINQYTSFYMKDPGTWNLTPVSY
+QDDWHVGFVYERNGVPIGAHANSYWLYIVPWGINKAVTYVKERYGNPTMILSENGMDQPG
+NVSITDGVHDTVRIRYYRDYITELKKAIDDGARVIGYFAWSLLDNFEWRLGYTSRFGIVY
+VDYKTLKRYPKDSALWFKNMLSEKKRS
+
+
+PACMAD CONSENSUS:
+Length: 512 aa
+
+MQTMvKLraQAmLLAAAAHVlLLTLPtAQCYWLNPEIYDAGGLSRRAFPEGFVFGTAASA
+YQVEGMAKQGGRGPSIWDAFIEVPGTIPNNATADVTVDEYHRYKEDVNIMKNMGFDAYRF
+SISWSRIFPNGTGKVNQEGVDYYNRLIDYMiQQGITPYANLYHYDLPLALHEQYLGWLSP
+KIVEAFADYAEFCFQTFGDRVKNWFTFNEPRCVAALGYDNGLHAPGRCSeCAAGGNSTTE
+PYLVAHHLILSHAAAVKRYRDKYQLYQKGRIGILLDFVWYEPFSNSNADQAAAQRARDFH
+LGWFLDPIINGRYPYSMQEIVKDRLPLFSDEESRMVKGSIDYVGINHYTSYYMKDPGTWN
+LTPVSYQDDWHVGFVYERNGVPIGAHANSYWLYIVPWGINKAVNYVKETYKNPTMILAEN
+GMDQPGNvSITQGVHDTVRIRYYRDYITELKKAIDDGARVIGYFAWSLLDNFEWRLGYTS
+RFGLVYVDYKTLKRYPKDSAFWFKHMLSKKRS
+
+================================================================================

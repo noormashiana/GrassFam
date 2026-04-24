@@ -1,0 +1,103 @@
+================================================================================
+GrassFam ID: GFAM001509
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             430.0 aa
+Family Size (Extended Family Size): 21 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR27000:SF709
+Panther Family ID:               PTHR27000
+Modal Panther ID:                PTHR27000:SF709
+Modal Panther Description:       OS01G0742400 PROTEIN
+Modal Panther Family ID:         PTHR27000
+Modal Panther Fam Desc:          LEUCINE-RICH REPEAT RECEPTOR-LIKE PROTEIN KINASE FAMILY PROTEIN-RELATED
+Interpro Signature Accession:    G3DSA:3.80.10.10:FF:000682; G3DSA:3.80.10.10:FF:000669; G3DSA:3.80.10.10; PTHR48056; SSF52047
+Interpro Signature Description:  Protein kinase family protein with leucine-rich repeat domain; Putative leucine-rich repeat receptor-like protein kinase family protein; Ribonuclease Inhibitor; LRR RECEPTOR-LIKE SERINE/THREONINE-PROTEIN KINASE-RELATED; RNI-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: LRR receptor-like serine/threonine-protein kinase FLS2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: receptor-like protein 52
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: probable leucine-rich repeat receptor-like protein kinase At1g35710; receptor-like protein 52; receptor-like protein kinase HSL1
+Ecu
+  Gene count: 3
+  Modal chromosome: EcuUN30
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi01K
+  Gene Products: leucine-rich repeat receptor-like serine/threonine-protein kinase RGI4; receptor-like protein 52%2C transcript variant X1; receptor-like protein kinase HSL1
+Pha
+  Gene count: 4
+  Modal chromosome: Pha04
+  Gene Products: probable inactive leucine-rich repeat receptor kinase XIAO; receptor-like protein 52
+Msi
+  Gene count: 2
+  Modal chromosome: Msi13
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi07
+  Gene Products: MDIS1-interacting receptor like kinase 1; probably inactive leucine-rich repeat receptor-like protein kinase At2g25790
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 424 aa
+
+MAtPrRAcalLLLLaLLpcAAQaqPADEArLLLqIKrAWGDPPVLAAWNASAAGAHCsWP
+YVgCDaAGRVTsLsLANTNVTGPFPDAIGGLSgLThLDLSNNSItGAFPTaLYRCaSLRY
+LDLSyNYLGGELPADIGRrLGENLTTLdLnGNeFNGTIPtSLSRLRNLQsLaLDnNrFaG
+TIPaELGeLTsLQtLwLanNPFDAGELPASFKNLTnLvsLwAsnCNLvGDFPSYVvEMPE
+LEvLDLSnNaLTGSIPPGiWsLkKLQlLtlyaNNLTGeVVVDGFAAmSLvtIDLSeNrLs
+GvIPEVFGHLENLTtLyLfyNNFSGEIPASIGRLPSLrvLrLysNRLnGTLPPELGKHSg
+LyyVdvdDNELTGAIPEGLCAGGqLqyLtAsrNhLNGSIPAGLAnCATLqrLqLdNNkLS
+GevP
+
+
+BOP CONSENSUS:
+Length: 389 aa
+
+MATSPCrlSLLLLLLLVHwHlrTAADERQLLIQIKHvWGDPPVLAAWsNGSGSgDHCSWP
+YVTCDAPSGRVTsLSLANTNVtGPFPDAIGGLSGLTSLNLSNNslTGAFPTSVYRCASLR
+HLDLSyNYLGGELPAgIGRALGENLTSLMLNGNyFTGTIPTSLSRLRNLQSLeLDNNYLA
+GTIPAELGDLTGLQTLTLgYNsFSVGELPASFKNLTKLKsFWAANCNLTGDFPSYVTEMP
+ELEVLDLSvNALTGSIPPGIWNLTKLRLLtIYANNLTGEVVVGDGAFGAvNLVTIDLSaN
+HRLSGPIPEAFGHLPKLETLNLFYNNFSGEIPeSLcknpsLeyLrLgsNvLSGSIPASLA
+GCtTLKRLILRNNKLSGsvPFFLLDNYCA
+
+
+PACMAD CONSENSUS:
+Length: 454 aa
+
+MAtPRRACALLLLLALLPCCLLprrAAAQsQPADEARLLLrIKRAWGDPPVLAAWNASAA
+GAHCsWPYVGCDaAGRVTsLtLAstNVTGPFPDAVGgLSgLTHLDlSNNSIsGaFPTALY
+RCrSLrYLNLSqNYlGGELPaDIGRrLGeNLTTLDLSgNeFNGTIPASLSRLRNLryLaL
+dsNrFsGTIPvELGeLTSLQtLyLAnNPFDAGELPASFKNLTNLVsLwAsqCNLVGDFPS
+yVVeMpELEvLdLSnNsLTGSIPPGVWSLKKLQiLylytNNLTGnLVVDGFAAmSLtgID
+vSeNkLTGvIPEVFGhLENLTvLyLfrNNFSGEIPASIGRLPSLrvLrLynNRLNGTLPP
+ELGKHSnLyyVgVdDNELTGAIPEGLCAGGQLqtLTAsrNHLNGSIPAGLANCATLqwLq
+LdSNQLSGEVPeALWTggQLqyvtLeNNrLtGSL
+
+================================================================================

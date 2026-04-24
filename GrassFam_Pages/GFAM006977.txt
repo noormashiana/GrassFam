@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM006977
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             402.5 aa
+Family Size (Extended Family Size): 28 (32) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR21403:SF7
+Panther Family ID:               PTHR21403
+Modal Panther ID:                PTHR21403:SF7
+Modal Panther Description:       ATP PHOSPHORIBOSYLTRANSFERASE 1, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR21403
+Modal Panther Fam Desc:          ATP PHOSPHORIBOSYLTRANSFERASE  ATP-PRTASE
+Interpro Signature Accession:    cd13593; G3DSA:3.30.70.120:FF:000007; G3DSA:3.40.190.10:FF:000118; G3DSA:3.40.190.10; TIGR00070; PTHR21403; PF01634; SSF53850
+Interpro Signature Description:  PBP2_HisGL3; ATP phosphoribosyltransferase, chloroplastic; ATP phosphoribosyltransferase 2, chloroplastic; -; ATP phosphoribosyltransferase; ATP PHOSPHORIBOSYLTRANSFERASE  ATP-PRTASE; Periplasmic binding protein-like II
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: ATP phosphoribosyltransferase%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: ATP phosphoribosyltransferase%2C chloroplastic-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: ATP phosphoribosyltransferase%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04B
+  Gene Products: ATP phosphoribosyltransferase%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: ATP phosphoribosyltransferase%2C chloroplastic
+  Gene Descriptions: ATP phosphoribosyltransferase%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: ATP phosphoribosyltransferase%2C chloroplastic-like
+  Gene Synonyms: AtATP-PRT,ATP-PRTase,OJ1006F06.12,OJ1006F06.14
+  Gene Descriptions: ATP phosphoribosyltransferase%2C chloroplastic-like
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: ATP phosphoribosyltransferase%2C chloroplastic-like; ATP phosphoribosyltransferase%2C chloroplastic-like%2C transcript variant X1
+  Gene Descriptions: ATP phosphoribosyltransferase%2C chloroplastic-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi02K
+  Gene Products: ATP phosphoribosyltransferase%2C chloroplastic-like; ATP phosphoribosyltransferase%2C chloroplastic-like%2C transcript variant X1
+Pha
+  Gene count: 2
+  Modal chromosome: Pha02
+  Gene Products: ATP phosphoribosyltransferase%2C chloroplastic-like; ATP phosphoribosyltransferase%2C chloroplastic-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: ATP phosphoribosyltransferase%2C chloroplastic-like
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: ATP phosphoribosyltransferase 2 chloroplastic
+  Gene Synonyms: GRMZM2G068862
+  Gene Descriptions: ATP phosphoribosyltransferase 2 chloroplastic
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 400 aa
+
+MSAMLAARLdltalpLSQSPSPPSSLRLRPSPAARtRSLAPRAAASATAVSAKPAAAAPL
+sADRTVVRIGLPSKGRMAEQTLSLLKSCQLSVRQLNPRQYTADIPLIPNLEVWFQRPKDI
+VRKLQSGDLDLGIVGFDIVSEYGQGNDDLVVVHDALDFGHCRLSLAVPKEGIFENINTLE
+DLlKMPEWTEERPLRVVTGFGYLGAKFLREKGFKHVrFLSADGALESYPPMGMADAIVDL
+VSSGTTLRENNLKEIEGGVVLESQATLVASRKSLHKRKGVLEITHELLERLEAHLRATgE
+LMVTANMRGNSAEEVAERVLSQTSLCGLQGPTISPVYCRRDGKVAVEYYAINVVVPQKLL
+YKSIQQLRSIGGSGVLVTKLTYIFDEETPRWRNLLSELGL
+
+
+BOP CONSENSUS:
+Length: 405 aa
+
+MSAMMGARLDLAPFLLSPSPSPPSPALRLRtSsPtAAAARTRlLAPRAAAAATAVSAKPA
+AAAPLSADRTVVRLGLPSKGRMAELTLSLLKSCQLSVRQLNPRQYTADIPQVPNLEVWFQ
+RPTDIVRKLCSGDLDLGIVGYDIISEYGQGNDDLVIIHDALDFGHCRLSLAVPKEGIFDS
+INTLEDLLNMPQWTEERPMRVVTGFGYVGAKFLKEKGFKHVSFLAGDGALESYPAMGMAD
+AIVDLVSSGTTLRENNLKEIEGGVILESQATLVASRKSLNRREGVLEISHEMLERLEAHL
+TASGKIMVTANMRGNSAEEVAERVLSQTSLCGLQGPTISPVYCTLDGNVAVDYYAINVVV
+PQKSLYKSIQQLRSIGGSGVLVSKLTYIFDEETPRWRKLLSELGM
+
+
+PACMAD CONSENSUS:
+Length: 401 aa
+
+MPAMLAAQFTaLPLSQSPSPQSSFRLGLRPSPAARARSLAPRAAASATAVSAKPAAAAAP
+LVADRTVVRIGLPSKGRMAEQTLSLLKSCQLSVRQLNPRQYTADIPLIPNLEVWFQRPKD
+IVRKLQSGDLDLGIVGFDIVSEYGkGNEDLVVVHDALeFGHCRLSLAVPKEGIFENINTL
+EDLlKMPEWTEERPLRVVTGFGYLGDKFLREKGFKHVRFLSADGALESYPPMGMADAIVD
+LVSSGTTLRENNLKEIEGGVVLESQATLVASRKSLHKRKGVLEITHELLERLEAHLRATA
+ELMVTANMRGNSAEEVAERVLSQTSICGLQGPTISPVYCRRDGKVDVEYYAINVVVPQKL
+LYKSIQQLRSIGGSGVLVTKLTYIFDEETPRWRNLLSELGL
+
+================================================================================

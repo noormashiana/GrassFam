@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM004505
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             340.0 aa
+Family Size (Extended Family Size): 24 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR44013:SF2
+Panther Family ID:               PTHR44013
+Modal Panther ID:                PTHR44013:SF2
+Modal Panther Description:       OS09G0502500 PROTEIN
+Modal Panther Family ID:         PTHR44013
+Modal Panther Fam Desc:          ZINC-TYPE ALCOHOL DEHYDROGENASE-LIKE PROTEIN C16A3.02C
+Interpro Signature Accession:    cd08267; G3DSA:3.90.180.10; G3DSA:3.40.50.720; PTHR44013; SSF50129; SSF51735
+Interpro Signature Description:  MDR1; -; ZINC-TYPE ALCOHOL DEHYDROGENASE-LIKE PROTEIN C16A3.02C; GroES-like; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: chloroplast envelope quinone oxidoreductase homolog
+Lpe
+  Gene count: 4
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: quinone-oxidoreductase QR1%2C chloroplastic-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: chloroplast envelope quinone oxidoreductase homolog
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: chloroplast envelope quinone oxidoreductase homolog; quinone-oxidoreductase QR1%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl09
+  Gene Products: chloroplast envelope quinone oxidoreductase homolog
+  Gene Descriptions: chloroplast envelope quinone oxidoreductase homolog
+Osa
+  Gene count: 2
+  Modal chromosome: Osa09
+  Gene Products: chloroplast envelope quinone oxidoreductase homolog
+  Gene Descriptions: chloroplast envelope quinone oxidoreductase homolog
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau17
+  Gene Products: chloroplast envelope quinone oxidoreductase homolog%2C transcript variant X2
+  Gene Descriptions: chloroplast envelope quinone oxidoreductase homolog
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi02N
+  Gene Products: chloroplast envelope quinone oxidoreductase homolog
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: chloroplast envelope quinone oxidoreductase homolog
+Msi
+  Gene count: 1
+  Modal chromosome: Msi04
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: quinone-oxidoreductase QR1%2C chloroplastic
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: chloroplastic quinone-oxidoreductase; putative quinone-oxidoreductase homolog%2C chloroplastic
+  Gene Synonyms: GRMZM2G013781; GRMZM2G126285
+  Gene Descriptions: chloroplastic quinone-oxidoreductase; putative quinone-oxidoreductase homolog%2C chloroplastic
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 334 aa
+
+MAasSrTMRAVQYDrYGGGAEGLKHVEVPIPSPKKGEVLIRMEAASINrVDWKFQKGvAR
+PFLPsKFPFIPVCDLAGEVVELGAGVSgFkPGDKVIAINFPGGGGLAEYAVASASlTAlR
+PPEVSAVEGACLPIAAVTALrALRTAGVgLDagdGpPKNVLVTAASGGVGHFAVQLASLA
+GHhVTATCGARNLGLVRsLGADEALDYgTPEGAALRSPSGRKYDAVVHCAeGFPWSAFrP
+VLAAGGVVVDLTPgfASVATAvLQwVTFSKKRLVPLiVSPKKEDMELLLGMVkQGKLraV
+IDSRYPLSRAHEGWAKSMSGHATGKVVVEMGgAe
+
+
+BOP CONSENSUS:
+Length: 340 aa
+
+sSSsSSSRTMRAVQYDKYGGGAEGLKHVEVPIPSPKKGELLlRMEAASINrVDWKFQKGv
+ARPFLPSKFPFTPVCELAGEVVELGAGVSGFspGDKVIAVNFPGGGGLAEYAVVsASqAA
+LRPPEVSAVEGACLPIAAvTALaALRTAGVGLDAGDGPPKNVLVTAASGGVGTFAVQLAS
+LAGHHHVTATCGARNLDLVRGLGADEALDYgTPEGAALRGPSGRKHDAVVHCAEGFPWSA
+FkPALADAGGVVVDLTPRlASVAVAVLHWVtFSRKRLVPLIvSPKKEDMEALLGMVsQGK
+LRvVIDSRYPLSRAHEGWAKSMSGHATGKVVVDMGvadDT
+
+
+PACMAD CONSENSUS:
+Length: 337 aa
+
+MAAPSGTMRAVQYDRYGGGAQGLKHVEVPIPSPKKGEVLIRMEATSINvVDWKFQKGVAR
+PVMPRKFPFISGFDLAGEVVELGAGVSsFKPGDKVIAINFPNGGGLAEYAVASASLTVaR
+PPEVSAAeGVCvPIAAVTALRALQTAGVSLDPARGdtTgRKNVLVTAASGGVGHFAVQLA
+RLGGHNVTATCGARNLGLVRSLGADEALDYKTPEGAkLRSPSGRkYDAVVHCAAGvPWSV
+FRPVLAAaGTVVDITPGFVAGVTAILQmlTFSKKRLVPLLVTPKKEEMELLvGMVKQGRL
+KTVIDSRyPLSRAQEGWAKSMSGHATGKVVVEMGGAE
+
+================================================================================

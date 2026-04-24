@@ -1,0 +1,124 @@
+================================================================================
+GrassFam ID: GFAM005857
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             370.0 aa
+Family Size (Extended Family Size): 25 (30) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22893:SF96
+Panther Family ID:               PTHR22893
+Modal Panther ID:                PTHR22893:SF96
+Modal Panther Description:       12-OXOPHYTODIENOATE REDUCTASE 10-RELATED
+Modal Panther Family ID:         PTHR22893
+Modal Panther Fam Desc:          NADH OXIDOREDUCTASE-RELATED
+Interpro Signature Accession:    cd02933; G3DSA:3.20.20.70:FF:000073; G3DSA:3.20.20.70; PTHR22893; PF00724; SSF51395
+Interpro Signature Description:  OYE_like_FMN; 12-oxophytodienoate reductase 3; Aldolase class I; NADH OXIDOREDUCTASE-RELATED; NADH:flavin oxidoreductase / NADH oxidase family; FMN-linked oxidoreductases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: putative 12-oxophytodienoate reductase 11
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: 12-oxophytodienoate reductase 1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: putative 12-oxophytodienoate reductase 11
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04B
+  Gene Products: 12-oxophytodienoate reductase 1-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl01
+  Gene Products: putative 12-oxophytodienoate reductase 10%2C transcript variant X1; putative 12-oxophytodienoate reductase 9
+  Gene Descriptions: putative 12-oxophytodienoate reductase 10; putative 12-oxophytodienoate reductase 9
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: putative 12-oxophytodienoate reductase 9
+  Gene Descriptions: putative 12-oxophytodienoate reductase 9
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu06
+Svi
+  Gene count: 3
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi05K
+  Gene Products: putative 12-oxophytodienoate reductase 11
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: putative 12-oxophytodienoate reductase 11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: 12-oxophytodienoate reductase 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: 12-oxophytodienoate reductase6
+  Gene Synonyms: GRMZM2G068947
+  Gene Descriptions: 12-oxophytodienoate reductase6
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 369 aa
+
+MEtttTPLLTPYKMGdFNLAHRVVLAPLTRCRSYGNVPQPHNALYYaQRAAPGgLLIAEA
+CAVSEtARGYPDVPGLWSqEQVEAWKPVVDAVHAKGAVFFCQIWHTGRVSPTEFQPNGQA
+PISSTDKQVPPQVsHDGSVlEFAaPRRLETEEIPHIVNDFRIAARNAIKAGFDGVEIHAA
+NGYLIDQFMKDGVNDRtDaYGGSLENRCRFAAEVIAAVAdEVGAdRLGVRLSPFADYMDC
+vDSDPEALALHVIrtMNgLGVLYCHMIEPRMCVNedDGKLmIPHRLLPFRKAFRGTFMVN
+GGYDREEGDKAVAeGYADLVAYGRLFLANPDLPERFrRNAaLNKYDRSTFYTSDPVVGYT
+DYPFLDQeD
+
+
+BOP CONSENSUS:
+Length: 364 aa
+
+METTTPLLTPYKMGDFNLAHRVVLAPLTRCRSYGNLAQPHNALYYAQRAAPGVLLVAEAN
+AVSETARGYPHVPGLWSQEQVEAWKPVVDAVHAKGAVFFCQIWHTGRVSPTEFQPNGQAP
+VSSTDKQVtPQVaHDGSVLEFAAPRRLETEEIPHIVNDFRIAARNAIRAGFDGVEIHAGN
+GYLIDQFMKDGVNDRTDAYGGSLENRCRFAAEVIAAVchEvGAGRVGVRLSPFADYVDCV
+DSDPEALALHVIGvMNGLGVLYCHMIEPRMCVNErMIPrRLLPFRKAFrGTFMVNGGYDR
+EEGDKAVAeGYADLVAYGRLFLANPDLPERFRRNAALNKYDRSTFYTSDPVVGYTDYPFL
+DqeD
+
+
+PACMAD CONSENSUS:
+Length: 369 aa
+
+MESTPPLLTPYKMGEFNLAHRVVLAPLTRCRAYGNVPQPAHMSLYYCQRATPGGLLISEA
+CAVSEtARGYPDVPGLWTDEQVEAWKPIVDAVHAsGAVFFAQIWHTGRVSAPEFQPNGQA
+PISSTDKQVPPQVSHDGHVNTFAVPRRLETnEIPHVVNDFRIAARNAIKAGFDGVEIHAA
+NGYLFDQFMKDSTNDRDDmYGGTLENRCRFTAEVVAAVAGEVGADRLGVRLSPFADYMDC
+SDSDPEALALHVIhrTLNPLGVLYCHMVEPRMRVNPDDGKLTLPHMLLPFRRAFRGTFIV
+SGGYDREEGNAAIArGYgDLVAYGRLFLANPDLPARFArNAgLNKYDRSTFYTSDPVVGY
+TDYPFLDQF
+
+================================================================================

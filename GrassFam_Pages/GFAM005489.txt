@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM005489
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             389.0 aa
+Family Size (Extended Family Size): 22 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11877:SF46
+Panther Family ID:               PTHR11877
+Modal Panther ID:                PTHR11877:SF46
+Modal Panther Description:       TYPE III POLYKETIDE SYNTHASE A
+Modal Panther Family ID:         PTHR11877
+Modal Panther Fam Desc:          HYDROXYMETHYLGLUTARYL-COA SYNTHASE
+Interpro Signature Accession:    cd00831; G3DSA:3.40.47.10:FF:000014; G3DSA:3.40.47.10:FF:000025; G3DSA:3.40.47.10; PTHR11877; PIRSF000451; PF00195; PF02797; SSF53901
+Interpro Signature Description:  CHS_like; Chalcone synthase 1; Chalcone synthase 2; -; HYDROXYMETHYLGLUTARYL-COA SYNTHASE; PKS_III; Chalcone and stilbene synthases, N-terminal domain; Chalcone and stilbene synthases, C-terminal domain; Thiolase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: type III polyketide synthase A
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: type III polyketide synthase A-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: type III polyketide synthase A-like
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: chalcone synthase-like protein; type III polyketide synthase A-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: type III polyketide synthase A-like
+  Gene Descriptions: type III polyketide synthase A-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: type III polyketide synthase A
+  Gene Descriptions: type III polyketide synthase A
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau24
+  Gene Products: type III polyketide synthase A-like
+  Gene Descriptions: type III polyketide synthase A-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: type III polyketide synthase A-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: type III polyketide synthase A
+Msi
+  Gene count: 1
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: type III polyketide synthase A
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: CHS13; chalcone synthase G%2C transcript variant X1
+  Gene Synonyms: GRMZM2G380650; GRMZM2G477683
+  Gene Descriptions: CHS13; chalcone synthase G
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 389 aa
+
+MSGLGLGsisgGaNGRSQsSRGKAMLLALGKGLPEQVLPQEKVVETYLQDTSCDDPATRA
+KLERLCKTTTVRTRYTVMSKELLDEHPELKTEGTPTLTPRLDICNAAVLELGAAAARAAL
+gEWGRPAADITHLVYISSSELRLPGGDLHLAARLGLSPNTVRTSLLFLGCSGGAAALRTA
+KDIAENNPGSRVLVtAAETTVLGFRPPSYDRPYDLVGAALFGDGASAAIIGAGPItPEEN
+PFLELEFSTQEFLPGTDKVIDGKISEEGINFKLGRDLPEKIESRIEGFCRTLMDkVGIKE
+FNDVFWAVHPGGPAILNRLEFCLELQPEKLKISRKALMNYGNVSSNTVFYVLEYLRDELK
+KGAIREEWGLILAFGPGITFEGLLVRGIN
+
+
+BOP CONSENSUS:
+Length: 389 aa
+
+MSGLGLGsIGGGGNGRSHGSGGKAKLLALGKGLPEQVLPQEKLVETYLQDTSCDDPATRA
+KLERLCKTTTVRTRYTVMSKELLDEHPELKTEGTPTLTPRLDICNAAVLELGAAAARAAL
+GEWGRPAADITHLVYISSSELRLPGGDLFLATRLGLSPNTVRTSLLFLGCSGGAAALRTA
+KDIAENNPGSRVLVIAAETTVLGFRPPSPDRPYDLVGAALFGDGASAAIIGASPIkAEED
+PFLELEFSTQEFLPGTDKVIDGKItEEGINFKLGRDLPEKIESRIEGFCRILMDKVGIKE
+FNDVFWAVHPGGPAILNRLEVCLELEPDKLKISRKALMNYGNVSSNTVFYVLEYLRDELK
+KGAIREEWGLILAFGPGITFEGMLVRGIN
+
+
+PACMAD CONSENSUS:
+Length: 389 aa
+
+MSGlGTGvvSrGANGKSQSSRGKAMLLALGKGLPDQVLPQEKVVESYLQDSSCDDPATRA
+KLERLCKTTTVRTRYTVMSKELLDEHPELKtEGtPTLTPRLDICNAAVIDLGAAAARAAL
+DDWGRPAADITHLVYISSSELRLPGGDLHLAARLGLSPNTVRTSLLFLGCSGGAAALRTA
+KDIAENNPGSRVLVTAAETTVLGFRPPSYDRPYDLVGAALFGDGASAVIIGAGPMTPAEN
+PFLELEFSTQEFLPGTDKVIDGKISEEGINFKLGRDLPEKIESRIEGFCRTLMDQVGIKD
+FNDVFWAVHPGGPAILNRLEFCLELQPEKLKISRKALMNYGNVSSNTIFYVLEYLRDELK
+KGAISEEWGLILAFGPGITFEGLLVRGVN
+
+================================================================================

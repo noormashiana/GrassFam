@@ -1,0 +1,106 @@
+================================================================================
+GrassFam ID: GFAM002436
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             373.0 aa
+Family Size (Extended Family Size): 26 (29) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR31009
+Modal Panther ID:                PTHR31009:SF67
+Modal Panther Description:       BENZOATE O-METHYLTRANSFERASE
+Modal Panther Family ID:         PTHR31009
+Modal Panther Fam Desc:          S-ADENOSYL-L-METHIONINE:CARBOXYL METHYLTRANSFERASE FAMILY PROTEIN
+Interpro Signature Accession:    G3DSA:1.10.1200.270; G3DSA:3.40.50.150; PTHR31009; PF03492; SSF53335
+Interpro Signature Description:  -; Vaccinia Virus protein VP39; S-ADENOSYL-L-METHIONINE:CARBOXYL METHYLTRANSFERASE FAMILY PROTEIN; SAM dependent carboxyl methyltransferase; S-adenosyl-L-methionine-dependent methyltransferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: benzoate O-methyltransferase-like
+Tae
+  Gene count: 2
+  Modal chromosome: Tae07B
+  Gene Products: benzoate O-methyltransferase-like
+Ogl
+  Gene count: 3
+  Modal chromosome: Ogl06
+  Gene Products: anthranilate O-methyltransferase 2-like; benzoate O-methyltransferase-like
+  Gene Descriptions: anthranilate O-methyltransferase 2-like; benzoate O-methyltransferase-like
+Osa
+  Gene count: 3
+  Modal chromosome: Osa06
+  Gene Products: anthranilate O-methyltransferase 2; benzoate O-methyltransferase; benzoate O-methyltransferase%2C transcript variant X1
+  Gene Descriptions: anthranilate O-methyltransferase 2; benzoate O-methyltransferase
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: benzoate O-methyltransferase-like%2C transcript variant X2
+Msi
+  Gene count: 8
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 5
+  Modal chromosome: Sbi02
+  Gene Products: anthranilate O-methyltransferase 3; benzoate O-methyltransferase; benzoate O-methyltransferase%2C transcript variant X1; benzoate O-methyltransferase%2C transcript variant X2; benzoate O-methyltransferase-like
+Zma
+  Gene count: 2
+  Modal chromosome: Zma05
+  Gene Products: benzoate O-methyltransferase-like; benzoate carboxyl methyltransferase
+  Gene Synonyms: GRMZM2G126772
+  Gene Descriptions: benzoate carboxyl methyltransferase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 371 aa
+
+MNIErDFHMAEGEGEWSYSKNSRRQEIViRETRPVIEnAIKEVYTALLPKTMVIADLGCS
+AGPNTLLFISSVIstIAEhCKSsgDDhVELQFFLNDLPGNDFNELFRSlEKFKRSntTGE
+rGHLPPlYYISGLPESYYNRLFPRQSVHLFHSSYCLHWRSQVPEGLEAWRKtYLNEDNIY
+ITkTTTPfVVKQFQEQFhKDFSLFLKLRHEELVHGGQMVLIFLGRKNEDVYNGDLNQLFG
+LVArSLQSLVLKGLVeKEKLESFNLPVYGPSVGEVKELVMQSHLFnMDLIKQFEaNWDPF
+DDSEGDDVeDsARSSMNIAKlIRSVLKSLIVsHFGEtILDAWFtEFRsLVAeHLEKEKTK
+FTvIvMSLKKI
+
+
+BOP CONSENSUS:
+Length: 373 aa
+
+MVNIEGDLHMTSGEGEGSYAKYSRRQTIVInETKPVIEKAvIEVYKALLPKTMVIADLGC
+StGPNTMlFMSNVINmIADHCSKLDEHDHVELQFFLNDLPGNDFNQLFRSLEqIKtSTTM
+yHKGDtLPSYYISGLPKSYYSRLFPRQSVHLFHSSYCLHWRSQVPEGLEAsGKSLLNqDN
+vYISSTTtPLVVKLFQEQFRKDFSLFLrLRHEELVNGGrMVLIFLGRKDEDVYnGDLNHm
+yGlVtKSLESLVgKGLVnKEKLESFNLPtYGPSVDEVmEIVtESHMFDLvHIKLFEANWD
+PYDDSEGDVVLDsANSSvNItnlIRSVLESLIASHFGEsILDALFQEFRsLVAQHLEREK
+TKFAVIVMSLKKI
+
+
+PACMAD CONSENSUS:
+Length: 371 aa
+
+MNIRyDFHMAEGEGEWSYSKNSRRQEIylRETRPvVENAIKEVYTTLLPKTMIIgDLGCS
+AGPNTLLFISSVIStIVEqCKSSGDDyVELQFFLNDLPGNDFNELFRsIEKFKRPNITGE
+RAHLPPLYYImGLPESYYNRLFPRESVHLFHSSYCLHWRSQEPEGLEAWRKTYLNEDNIY
+ITKTTTPFVVKQFQKQFHKDFSLFLKLRHEELVHGGQMVLVFLGRKNEDVYNGDLNQLFA
+LVARALQSLVLKGLVEKEKLESFNLPVYGPSVGEVKELVMQSHLFNMDLIKQFEMNWDPF
+DDSEGDDVEDsARSSMNIAKlIRSVLKSLIVrHFGETIIDAWFtEFRSLVAEHLEKEKTK
+FTTIAMSLKKE
+
+================================================================================

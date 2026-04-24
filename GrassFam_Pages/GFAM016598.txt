@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM016598
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             500.0 aa
+Family Size (Extended Family Size): 23 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23500:SF32
+Panther Family ID:               PTHR23500
+Modal Panther ID:                PTHR23500:SF32
+Modal Panther Description:       OS12G0512100 PROTEIN
+Modal Panther Family ID:         PTHR23500
+Modal Panther Fam Desc:          SOLUTE CARRIER FAMILY 2, FACILITATED GLUCOSE TRANSPORTER
+Interpro Signature Accession:    G3DSA:1.20.1250.20:FF:000025; G3DSA:1.20.1250.20; TIGR00879; PTHR48020; PF00083; SSF103473
+Interpro Signature Description:  probable polyol transporter 4; MFS general substrate transporter like domains; sugar porter family MFS transporter; PROTON MYO-INOSITOL COTRANSPORTER; Sugar (and other) transporter; MFS general substrate transporter
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: putative polyol transporter 1%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: polyol transporter 5-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: probable polyol transporter 6
+Tae
+  Gene count: 2
+  Modal chromosome: Tae05B
+  Gene Products: probable polyol transporter 6; putative polyol transporter 1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl12
+  Gene Products: polyol transporter 5-like
+  Gene Descriptions: polyol transporter 5-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa12
+  Gene Products: probable polyol transporter 6
+  Gene Descriptions: probable polyol transporter 6
+Pau
+  Gene count: 2
+  Modal chromosome: Pau22
+  Gene Products: putative polyol transporter 1
+  Gene Descriptions: putative polyol transporter 1
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 6
+  Modal chromosome: Pvi03K
+  Gene Products: polyol transporter 5-like; polyol transporter 5-like%2C transcript variant X2; putative polyol transporter 1
+Pha
+  Gene count: 2
+  Modal chromosome: Pha03
+  Gene Products: polyol transporter 5-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi15
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: probable polyol transporter 3
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: uncharacterized LOC100285636
+  Gene Synonyms: cl31663_1(73),GRMZM2G102683
+  Gene Descriptions: uncharacterized LOC100285636
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 499 aa
+
+MKkeeDLESPLLadgEPAPAaaaGSAYALVCALLASLTSIIYGYNRGVMSGAQKFVQeDL
+GVTDgQLEVLIGATSVYSLVGSLAAGWACDRAGRRRTvALSAAMFLAGSAvTAAANGYAA
+LMAGQLVAGVACGFGLVVAPVYIAEIAPAsSRGFLSSIPEIAGNSGILLSYIADFALAGL
+PttLNWRLMIGIGAVPPLFLAAAAlLAMPETPRWLVLHGHpDEARRVLARTtGDADRRLQ
+EIVsSVrEASKqAagGsggaeSSTGVWREILvRPTPAVRRVMLAILGLQVFQQACGVAAM
+VLYAPRVFSHVGITSeRAVLGATVLLGAaKTVAIVVPLFLADRLGRRPMLLaSAGGMAAS
+LLVLGLSvRASPtAAAAtWWAAATCVAAAAAFMATFSLGFGPVIWMYGSEILPLRLRAQG
+TGIGTAVNRVMSAVVGMTFISMYEAVGMAGTFYIFAAcsAAAWVFVYACLPETKGRSLEE
+MEALFDAGAnsPSPrAtLS
+
+
+BOP CONSENSUS:
+Length: 508 aa
+
+MDKEQqrhdELEAPLLPGDGgKAAAAAGSAYALVCSLVASAISIIYGYNRGVMSGAQKFV
+QdDLGISDAQIEVLIGATSIYSLVGSLAAGWACDRAGRRRTMALSAAMFFAGSAITSAAg
+GYAALMAGQLVAGVACGFGLVVAPVYIAEMAPAASRGFLSSIPEIAGNSGILLSYIADFA
+LAGLPnsVNWRLMIGVGAVPPLFLAVATLLAMPETPRWLVLHGHHDEARRVLARTTGDAA
+LADRRLkEIVSSAQESSKQAVpGGsdgrtrSTSVWRDILVRPTPSVRRVLLAILGLQFFQ
+QASGVAALVLYAPRVFNHVGVTSQsAVLGATILLGVaKTVSIVIPLFLADRLGRRPMLLT
+SAGGMAVSLLVLGFSLRASPtAHAGSSAAWWAAATSVtAAAAFMATFSLGFGPVIWMYGS
+EILPLRLRAQGTGIGTAVNRVMSAVVGMTFISLYEAVGMAGSFYIFAGCAAAAWVFVYAC
+LPETKGRSLEEMEALFDdSAkSPppttq
+
+
+PACMAD CONSENSUS:
+Length: 493 aa
+
+MKKEEDLESPLLSDGEPAPADskGSAYALVCALLASLTSIIYGYNRGVMSGAQKFVQADL
+GVTDGQLEVLIGATSVYSLVGSLAAGWTCDRAGRRRAVALSAAMFLAGSAVTAAANGYAA
+LMAGQLVAGVACGFGLVVAPVYIAEIAPASSRGFLSSIPEIAGNSGILLSYIADFALAGL
+PTTLNWRLMIGIGAVPPLFLAAAAvLAMPETPRWLVLHGHPDEARRVLARTAGDADRRLQ
+EIVASVREASKkaAgGeSStGVWREILLRPTPAVRRVMLAILGLQVFQQACGVAAMVLYA
+PRVFSHVGITSDRAVLGATVLLGAAKTVAIVVPLFLADRLGRRPMLLASAGGMAASLLVL
+GLSVRAPPAAATWWAAATCVAAAAAFMATFSLGFGPVIWMYGSEILPLRLRAQGTGIGTA
+VNRVMSAVVGMTFISMYEAVGMAGTFYIFAALSAAAWVFVYACLPETKGRSLEEMEALFD
+AGANKPSPRATLS
+
+================================================================================

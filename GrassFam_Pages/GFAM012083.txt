@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM012083
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             594.0 aa
+Family Size (Extended Family Size): 22 (27) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45754:SF4
+Panther Family ID:               PTHR45754
+Modal Panther ID:                PTHR45754:SF4
+Modal Panther Description:       METHYLENETETRAHYDROFOLATE REDUCTASE (NADH) 1
+Modal Panther Family ID:         PTHR45754
+Modal Panther Fam Desc:          METHYLENETETRAHYDROFOLATE REDUCTASE
+Interpro Signature Accession:    cd00537; G3DSA:3.20.20.220:FF:000005; G3DSA:3.20.20.220; TIGR00677; PTHR45754; PF21895; PF02219; SSF51730
+Interpro Signature Description:  MTHFR; Methylenetetrahydrofolate reductase; -; methylenetetrahydrofolate reductase; METHYLENETETRAHYDROFOLATE REDUCTASE; MTHFR, SAM-binding regulatory domain; FAD-linked oxidoreductase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: probable methylenetetrahydrofolate reductase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: probable methylenetetrahydrofolate reductase
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: probable methylenetetrahydrofolate reductase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: probable methylenetetrahydrofolate reductase; probable methylenetetrahydrofolate reductase%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: probable methylenetetrahydrofolate reductase
+  Gene Descriptions: probable methylenetetrahydrofolate reductase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: probable methylenetetrahydrofolate reductase
+  Gene Descriptions: probable methylenetetrahydrofolate reductase
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: methylenetetrahydrofolate reductase (NADH) 1; methylenetetrahydrofolate reductase (NADH) 1-like
+  Gene Descriptions: methylenetetrahydrofolate reductase (NADH) 1; methylenetetrahydrofolate reductase (NADH) 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: methylenetetrahydrofolate reductase 1; methylenetetrahydrofolate reductase 1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: methylenetetrahydrofolate reductase 1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: methylenetetrahydrofolate reductase 1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: methylenetetrahydrofolate reductase 1-like; uncharacterized LOC541794
+  Gene Synonyms: csu134,GRMZM2G347056,MTHFR
+  Gene Descriptions: uncharacterized LOC541794
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 594 aa
+
+MKVIEKIQEAAADGRTAFSFEYFPPKTEEGVENLFERMDRMVAHGPsFCDITWGAGGSTA
+DLTLEIANRMQNMVCVETMMHLTCTNMPVEKIDHALETIKSNGIQNVLALRGDPPHGQDK
+FVQVEGGFACALDLVQHIRAKYGDYFGITVAGYPEAHPDAIQGEEGATLEAYSNDLAYLK
+RKVDAGADLIVTQLFYDTDIFLKFVNDCRQIGITCPIVPGIMPINNYKGFlRMTGFCKTK
+IPAEITAALDPIKDNEEAVKAYGIHLGTEMCKKILASGIKTLHLYTLNMEKSALAILMNL
+GLIEESKVSRPLPWRPPTNVFRVKEDVRPIFWANRPKSYIsRTLGWDQYPHGRWGDSRNP
+SYGALTDHQFTRPRGRGKKLQEEWAVPLKSVEDISERFtNFCQGKLTSSPWSELDGLQPE
+TKIIDDQLVKINQKGFLTINSQPAVNGEKSDSPTVGWGGPGGYVYQKAYLEFFCAKEKLD
+QLIEKSKAFPSLTYIAVNKDGESFSNIPANAVNAVTWGVFPGKEIIQPTVVDSASFMVWK
+DEAFEIWTRGWACLFPEGDSSRELLEKVQKSYYLVSLVDNDYIhGDLFAAFKEI
+
+
+BOP CONSENSUS:
+Length: 594 aa
+
+MKVIEKIQEAAANGRTVFSFEYFPPKTEEGVENLFERMDRMVAHGPNFCDITWGAGGSTA
+DVTLDIANRMQNMVCVETMMHLTCTNMPVEKIDNALDTIKSNGIQNVLALRGDPPHGQDK
+FVQVAGGFSCALDLVQHIRAKYGDYFGITVAGYPEAHPEVILGEEGATEEAYSNDLAYLK
+RKVDAGADVIVTQLFYDTDIFLKFVNDCRQIGITCPIVPGIMPINNYKGFVRMTGFCKTK
+IPAEITAALDPIKDNEEAVKAYGIHLGTEMCKKILASGIKTLHLYTLNMEKTALAILMNL
+GLIEESKLSRTLPWRPPTNVFRVKEDVRPIFWANRPKSYISRTTGWDQYPHGRWGDSRNP
+SYGALTDYQFTRPRGRGKKLQEEWAVPLKSVQDINERFVNFCQGKLTSSPWSELDGLQPE
+TTIIDDQLVKINSKGFLTINSQPAVNAEKSDSPSVGWGGPGGYVYQKAYVEFFCAKEKLD
+QLIEKSKAFPSLTYIAVNKEGESISNIPANAVNAVTWGVFPGKEIIQPTVVDSASFMVWK
+DEAFEIWSRGWACLFPEGDSSRELLEQVQKSYYLVSLVDNDYISGDLFAAFKEI
+
+
+PACMAD CONSENSUS:
+Length: 594 aa
+
+MKVIEKIQEAAADGRTAFSFEYFPPKTEEGVENLFERMDRMVAHGPSFCDITWGAGGSTA
+DLTLEIANRMQNMVCVETMMHLTCTNMPVEKIDHALETIKSNGIQNVLALRGDPPHGQDK
+FVQVEGGFACALDLVQHIRAKYGDYFGITVAGYPEAHPDAIQGEGGATLEAYSNDLAYLK
+RKVDAGADLIVTQLFYDTDIFLKFVNDCRQIGITCPIVPGIMPINNYKGFLRMTGFCKTK
+IPAEITAALDPIKDNEEAVKAYGIHLGTEMCKKILASGIKTLHLYTLNMEKSALAILMNL
+GLIEESKVSRPLPWRPPTNVFRVKEDVRPIFWANRPKSYITRTLGWDQYPHGRWGDSRNP
+SYGALTDHQFTRPRGRGKKLQEEWAVPLKSVEDISERFTNFCQGKLTSSPWSELDGLQPE
+TKIIDDQLVKINQKGFLTINSQPAVNGEKSDSPTVGWGGPGGYVYQKAYLEFFCAKEKLD
+QLVEKIKAFPSLTYIAVNKDGESFSNIPaNAVNAVTWGVFPGKEIIQPTVVDSASFMVWK
+DEAFEIWTRGWACLFPEGDSSRELLEKVQKSYYLVSLVDNDYIHGDLFAAFKEI
+
+================================================================================

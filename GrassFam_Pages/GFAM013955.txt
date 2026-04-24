@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM013955
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             380.0 aa
+Family Size (Extended Family Size): 30 (30) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45648:SF99
+Panther Family ID:               PTHR45648
+Modal Panther ID:                PTHR45648:SF99
+Modal Panther Description:       OS02G0740400 PROTEIN
+Modal Panther Family ID:         PTHR45648
+Modal Panther Fam Desc:          GDSL LIPASE/ACYLHYDROLASE FAMILY PROTEIN (AFU_ORTHOLOGUE AFUA_4G14700)
+Interpro Signature Accession:    cd01837; G3DSA:3.40.50.1110; PTHR45648
+Interpro Signature Description:  SGNH_plant_lipase_like; SGNH hydrolase; GDSL LIPASE/ACYLHYDROLASE FAMILY PROTEIN (AFU_ORTHOLOGUE AFUA_4G14700)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 3
+  Modal chromosome: Bdi03
+  Gene Products: GDSL esterase/lipase At5g55050
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu06H
+  Gene Products: GDSL esterase/lipase APG-like; GDSL esterase/lipase At5g22810-like; GDSL esterase/lipase At5g55050-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata06D
+  Gene Products: GDSL esterase/lipase APG-like; GDSL esterase/lipase At3g53100
+Tae
+  Gene count: 7
+  Modal chromosome: Tae06B
+  Gene Products: GDSL esterase/lipase APG-like; GDSL esterase/lipase At2g04570-like; GDSL esterase/lipase At2g23540-like; GDSL esterase/lipase At3g53100-like; GDSL esterase/lipase At5g03810-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: GDSL esterase/lipase At1g71250-like
+  Gene Descriptions: GDSL esterase/lipase At1g71250-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: GDSL esterase/lipase At1g71250
+  Gene Descriptions: GDSL esterase/lipase At1g71250
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau05
+  Gene Products: GDSL esterase/lipase At5g03810-like
+  Gene Descriptions: GDSL esterase/lipase At5g03810-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: GDSL esterase/lipase At2g04570-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: GDSL esterase/lipase At1g71250-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: GDSL esterase/lipase At2g04570-like
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: GDSL esterase/lipase At5g55050
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 380 aa
+
+MmGVriasgKaLimLvAVLLvCaGGLvaSPAAAaAGrEEVHLVPAVYVFGDSTVDVGNNQ
+YLPGNsALQLPYGIDFPHSRPTGRFSNGYNVADFIAKLLGFKRSPPAYLSLTPrTSRQIL
+RGLRGVNYASGGSGILDTTGNTITLTKQIEYFAATKSKMtanSGGqGSssIDeLLSKSLF
+LISDGGNDMFAFLrQNRTASEVPSFYADLLSNYTRHVQALYgLGARRFGIVDVPPiGCVP
+sVRVTSPDGAtRCVDgANALARGFNDALRaaMAnLAASGALPGMRYSVGSSYNVVSyFTA
+HPeAAGFReVASACCGGGRLNAQTGCtPNATYCsNRNDYLFWDGVHGTQATSrKGAvAIF
+SAPpqMGFAAPINFKQLVSS
+
+
+BOP CONSENSUS:
+Length: 376 aa
+
+MMGVRVcNGKAVmaLVAVFVICAGGGLVVSPAAASGREEVHLVPAVYVFGDSTVDVGNNQ
+YLPGNaaLQLPYGIDFPqSRPTGRFSNGYNVADSISRLLGFKRSPPAYLSLTPETSRQIv
+RGYRGVNYASGGSGILDTTGNTLTLTKQVEYFAATKSKMTEksGGssAIDALLSKSLFLI
+SDGGNDMFAFLRQNRTASeaPSFYADLLSNYTKHVQTLYqLGARRFGIVDVPPIGCVPAV
+RVTSPaGETaCVEAANALARGFNDALskaMAKLAAsLPGMRYSVGSSYNLVTFiTAHPEA
+AGFKDVASACCGGGRLGAQTwCgPNATYCaNRNDHLFWDeVHGTQATSnKGAKAIFAAPV
+KLGFAAPINFKQLVSS
+
+
+PACMAD CONSENSUS:
+Length: 381 aa
+
+MIRVSIvSYKSLIMVLvVLLVCViSLLASPATAAAGRGEEVHLVPAVYVFGDSTVDVGNN
+QYLPGNSALQLPYGIDFPHSRPTGRFSNGYNVADFVAKLLGFKRSPPAYLSLTPRTSRQI
+LRGLRGANYASGGSGILDTTGNTITLTKQIEYFAATKSKMVAsSGGQGSSSVDELLSKSL
+FLISDGGNDMFAFLQQNRTASEVPSLYADLLSNYTRHVRALHGLGARRFGIVDVPPLGCV
+PSVRVTSPDGASRCVDGANALARGFNDALRALLANLTASGALPGARYSVGSSYNVVSYFT
+AHPAAAGFREVASACCGGGRLNAQTGCTPNATYCSDRGEYLFWDGVHGTQATSRKGAVAI
+FSAPPQMGFAAPINFKQLVSS
+
+================================================================================

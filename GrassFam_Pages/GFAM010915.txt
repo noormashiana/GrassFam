@@ -1,0 +1,144 @@
+================================================================================
+GrassFam ID: GFAM010915
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             643.0 aa
+Family Size (Extended Family Size): 31 (33) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR32116:SF105
+Panther Family ID:               PTHR32116
+Modal Panther ID:                PTHR32116:SF105
+Modal Panther Description:       HEXOSYLTRANSFERASE
+Modal Panther Family ID:         PTHR32116
+Modal Panther Fam Desc:          GALACTURONOSYLTRANSFERASE 4-RELATED
+Interpro Signature Accession:    cd06429; G3DSA:3.90.550.10; PTHR32116; PF25557; PF01501; SSF53448
+Interpro Signature Description:  GT8_like_1; Spore Coat Polysaccharide Biosynthesis Protein SpsA; Chain A; GALACTURONOSYLTRANSFERASE 4-RELATED; Galacturonosyltransferase domain 1; Glycosyl transferase family 8; Nucleotide-diphospho-sugar transferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi03
+  Gene Products: probable galacturonosyltransferase 7
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: probable galacturonosyltransferase 7
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: probable galacturonosyltransferase 7%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: probable galacturonosyltransferase 7; probable galacturonosyltransferase 7%2C transcript variant X1
+Ola
+  Gene count: 2
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl11
+  Gene Products: probable galacturonosyltransferase 7%2C transcript variant X1
+  Gene Descriptions: probable galacturonosyltransferase 7
+Osa
+  Gene count: 2
+  Modal chromosome: Osa11
+  Gene Products: probable galacturonosyltransferase 7%2C transcript variant X1; probable galacturonosyltransferase 7%2C transcript variant X3
+  Gene Descriptions: probable galacturonosyltransferase 7
+Ecu
+  Gene count: 3
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 3
+  Modal chromosome: Pau12
+  Gene Products: probable galacturonosyltransferase 7
+  Gene Descriptions: probable galacturonosyltransferase 7
+Svi
+  Gene count: 2
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi03K
+  Gene Products: probable galacturonosyltransferase 7%2C transcript variant X1; probable galacturonosyltransferase 7%2C transcript variant X3
+Pha
+  Gene count: 2
+  Modal chromosome: Pha03
+  Gene Products: probable galacturonosyltransferase 7
+Msi
+  Gene count: 2
+  Modal chromosome: Msi14
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: probable galacturonosyltransferase 7%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: uncharacterized LOC100381610%2C transcript variant X1
+  Gene Synonyms: gpm759a,GRMZM2G036918
+  Gene Descriptions: uncharacterized LOC100381610
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 647 aa
+
+MKGHQQHSSPLLPpPPaKRRCTGLAAAVPALVVCSiLLPLVFLLGLHRpGYGSEERAAVV
+ISTELGfGAHKHLDGGAMKHKLLKDVSKKKTSGSNGISgEKSSRSKSKNLAaKSKAKLKG
+AFSLVELNNDTFKskGPHTqKRYQLKDLSWRSKDTTVnGKENqGQEvVHEENPKSCELEY
+GSYCLWSVEHKEVMKDAIVKRLKDQLFMARAHYPSIAKLKqQERFTRELKQNIQEHERML
+SDTIADADLPPFFAKKLEKMEHTIERAKSCEVGCSNVERKLRQLLDITEDEAYFHTRQSA
+FLYHLGVQTMPKTHHCLNMRLTVEYFKSrSIrtDQLNKQKLESPAFhHYVIFSRNVLAAS
+TTINSTVMNSQDSGSIVFHLFTDAQNFYAMKHWFDRNSYLEATVHVTNIEDHqKLSKDVd
+SLEMQQLWPaEEFRVTIRNHSEPSQRQMKTEYISVFGHSHFLLPDLLPSLNRVVVLDDDL
+IVQKDLSSLWNLNMGGKVIGAVQFCGVRLGQLKAYieEHNFNtDSCVWLSGLNVIELEKW
+RDLrITSLYDQSLQKLQKDSLtSqRLKALPvSLLAFQDLIYPLEDSWVQSGLGHDYGISR
+vDIEKAATLHYNGVMKPWLDLGIHDYKSYWRKYMTNGERFMTECNIH
+
+
+BOP CONSENSUS:
+Length: 641 aa
+
+MKGHHSAPLsPsPAAKRRCTGMAAAVPALVLCSVLLPLAFLLGLHRTGYGSEERAAVVIS
+TELGLGKHKHLDGaMKHKLLKDVSKMITSGSNGISGEKSSRSKSRNLAAKSKeKLKGAFS
+LVELKNDTSKNRGSHTQRRYQLKDLSWRSMDTTVDGKENQGQEVAQEENPKSCELEYGSY
+CLWSVEHKEVMKDAIVKRLKDQLFMARAHYPSIAKLKHQERFTRELKQNIQEHERMLSDT
+IADADLPPFFAKKLEKMEhTIERAKSCEVGCSNVERKLRQLLDLTEDEAYFHTRQSAFLY
+HLGVQTMPKTHHCLSMRLTVEYFKSTSIQReLLNKQKLEDPAFHHYVMFSRNVLAASTTI
+NSTVMNSKDSGSIVFHLFTDtQNFYAMKHWFDRNSYLEAtVHVTNIEDHqKLSKDVESLE
+MQQLWPTEEFRVTFRNHSQPlQRQMKTEYISVFGHSHFLLPDLLPSLNRVVVLDDDLIVQ
+KDLSSLWNLNMGDKVIGAVQFCGVRLGQLKAYvEEnNFDTDSCVWFSGLNVIELEKWRDL
+GITSLHDQLLQKDSSVSHRLKALPRGLLAFQDLIYPLKDSWVQSGLGYDYGISRtDIEKA
+ATLHYNGVMKPWLDLGIHDYKSYWRKYMTNGERFMTECNIH
+
+
+PACMAD CONSENSUS:
+Length: 652 aa
+
+MKGHQQQQHSSPLLLPPNKRRCSGLAAAVPALVVCSILLPLVFLLGLHRPGYGSEERAAV
+VISTELAGVGARNKQHLENGGAMKHKLLKDVSKKKTSGSNGISAEKSTRSKSKNHAIKSK
+AKLKGAFSLVELNNDTFKSkGPHMpKRYQRKDLSWRSKDTVVNGKENHGQETVHEGNPKS
+CEHEYGSYCLWSTEHREVMKDAIVKRLKDQLFIARAHYPSIAKLKQQERFTRELKQSIQE
+HERMLSDTITDADLPPFFAKKLEKMEHTIERAKSCEVGCSNVERKLRQLLDITEDEAYFH
+TRQSAFLYHLGVQTMPKTHHCLNMRLTVEYFKSRSIRTDQLNrQKLESPTFQHYVIFSRN
+VLAVSTTINSTVLNSQDSGSIVFHLFTDAQNFYAMKHWFDRNSYLEATVHVTNIEDHqKL
+SKHaDSLEMQQLWPSEEFRVTIRNHSEPSQRQMKTEYISVFGHSHFLLPDLLPSLNRVVV
+LDDDLIVQKDLSSLWNLNMGGKVIGAVQFCGVRLGQLRAYIAEHSFNSDSCVWLSGLNVI
+ELEKWRDLRVTSLYDQSLQKLQKESLTSQRLKALPVSLLAFQDLIYPLEDSWVQSGLGHD
+YGIShVhIEKAATLHYNGVMKPWLDLGIHDYKSYWRKYMTTGEkFMTECNIH
+
+================================================================================

@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM003683
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             522.0 aa
+Family Size (Extended Family Size): 48 (53) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11654:SF164
+Panther Family ID:               PTHR11654
+Modal Panther ID:                PTHR11654:SF164
+Modal Panther Description:       OS01G0871900 PROTEIN
+Modal Panther Family ID:         PTHR11654
+Modal Panther Fam Desc:          OLIGOPEPTIDE TRANSPORTER-RELATED
+Interpro Signature Accession:    G3DSA:1.20.1250.20:FF:000410; G3DSA:1.20.1250.20; PTHR11654; PF00854
+Interpro Signature Description:  POT family protein; MFS general substrate transporter like domains; OLIGOPEPTIDE TRANSPORTER-RELATED; POT family
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: protein NRT1/ PTR FAMILY 5.16
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu03H
+  Gene Products: protein NRT1/ PTR FAMILY 5.10-like; protein NRT1/ PTR FAMILY 5.10-like%2C transcript variant X1
+Ata
+  Gene count: 3
+  Modal chromosome: Ata03D
+  Gene Products: protein NRT1/ PTR FAMILY 5.10
+Tae
+  Gene count: 5
+  Modal chromosome: Tae03D
+  Gene Products: protein NRT1/ PTR FAMILY 5.10-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 3
+  Modal chromosome: Ogl01
+  Gene Products: protein NRT1/ PTR FAMILY 5.10-like; uncharacterized LOC127757716; uncharacterized LOC127757805
+  Gene Descriptions: protein NRT1/ PTR FAMILY 5.10-like; uncharacterized LOC127757716; uncharacterized LOC127757805
+Osa
+  Gene count: 4
+  Modal chromosome: Osa01
+  Gene Products: protein NRT1/ PTR FAMILY 5.10; protein NRT1/ PTR FAMILY 5.10-like%2C transcript variant X2
+  Gene Descriptions: protein NRT1/ PTR FAMILY 5.10; protein NRT1/ PTR FAMILY 5.10-like
+Ecu
+  Gene count: 9
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau02
+  Gene Products: protein NRT1/ PTR FAMILY 5.16-like
+  Gene Descriptions: protein NRT1/ PTR FAMILY 5.16-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi05N
+  Gene Products: protein NRT1/ PTR FAMILY 5.16-like; uncharacterized LOC120710278
+Pha
+  Gene count: 3
+  Modal chromosome: Pha05
+  Gene Products: protein NRT1/ PTR FAMILY 5.10-like
+Msi
+  Gene count: 5
+  Modal chromosome: Msi05
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: POT family protein; protein NRT1/ PTR FAMILY 5.10
+  Gene Synonyms: GRMZM2G004653
+  Gene Descriptions: POT family protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 520 aa
+
+MESGELLPRpgPSvgSkPaDGRGGWRAALFLvAVGFLERIGFyGVQGNLIMYLTGPLGMS
+TAAAAAGVNAWaGTVlVLPLVGALAADSRLGRYRAVLaAGVLYLLSLGMLTVSSMLQTpQ
+PHPAsSPPSaSPArLAFFYvALYLLALAQGFHrPCaEALGADQFapSgDPsArASRSSYF
+NWFHFSISWGYAIAtTaLSYVEDNVGWTVGFGACWAtMVLYLAVFLLGTRTYRAEQPVDG
+ssFAetVRAWAARVFRRKDATDTERLLapQpEdGKGllVKLLPIWLTSLVFAAiiSQVsT
+LFTKQGSTMDRRLGaATGLVVPPAALQCfvSfTFIamvPVYDRAlVPLARRlTGHpAGIT
+MLQRIGAGMAmSCVAMvVAALVEARRLRVARDAGLVDRPDVAVPMSLWWmVPQYVLiGLA
+eVLgeIGLEEFFYDQVPDaLRSVGLALCLSIFGVGSYASGMLVSAIDWATRsgGESWFSD
+NLNRAHLDYFYWLLAGLAALEVAVFLYFAnRYVYRNKgEL
+
+
+BOP CONSENSUS:
+Length: 534 aa
+
+MESGgpLPRSepsttSkPrDGRGGWRAALFLVAVGFLERIGFyGVqGNLITYLTGPLGMS
+TAAAAAGVNAWsGTVLVLPLVGALAADSRLGRYRAVLaAGVLYLLSLGMLTVSSMLQTrQ
+PhPAsCHgTAtaCSPPPSSsSPARLAFFYAALYLLALAQGFHKPCSEALGADQFprSDPs
+AgASRSSYFNWFHFSISWGYAIAaTAvSYVEENVGWTVGFAACWATMVVYLaVFLLGTRT
+YRAEQPVDGsSLARLTKKlRAWTARVFsRkDATiDTERLLetneEvDGKGFLVKLLPIWL
+SSiVFAAvISQVSTLFTKQGSTMDRRLGaATGLVVPPAALQsFVSFTYIALVPVYDRALV
+PLARRLTgHPAGITMLQRIGAGMAMSCVAMAVAALVEAKRLRVArDAGLLDRPDVAVPMS
+LWWLVPQYVLvGLAEVFtyIGLEEFFYDQVPDaLRSVGLALCLSIfGVGSYASGMLVsAI
+DWATRGGGESWFSDNLNRAHLDYFYWILAGLaALEVaVFLYFAKRYVYRnKsEq
+
+
+PACMAD CONSENSUS:
+Length: 522 aa
+
+MESGELLPRPgPSVGSKPADGRGGWRAAlFLLAVGFLERIGFvGVQgNLIMYLTGPLGMS
+TAAAAAGVNAWAGTVQVLPLVGALAADSRLGRYRAVLAAGVLYLLSLGMLTvSStLqTPq
+PHAASSPPStSPArLaFFYVALYLLALAQGFHRPCAEALGADQFAPSDGgDPSArASRSS
+YFNWFHFSISWGYAIATtGLSYVEDNVGWTVGFGACWAaMVLCLAVFLLGTRTYRAEQPV
+DGgpFaETVRAWAARVFRRKDATdTERLLlrQPEeGKGLVAKLLPIWLTSLVFAAIfSQV
+sTLFTKQgSTLDRRLGaATGLVVPPAALQClvSvTFIvMLPVYDRvlVPLARRlTGHHAG
+ITTLQRIGAGMAmSCVAMVVAALVEaRRLRVARDAGLVDRPDVAVPMSLWWMVPQYVLiG
+LAgVLGeIGLEEFFYDQVPDALRSVGLALCLSIFGvGSYASSMLVSAIDWATRSsGESWF
+SDNLNRAHLDYFYWLLAGLAALEVAVFLHFANRYVYRNKgEL
+
+================================================================================

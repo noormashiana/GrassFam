@@ -1,0 +1,145 @@
+================================================================================
+GrassFam ID: GFAM014639
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             680.0 aa
+Family Size (Extended Family Size): 24 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23115:SF244
+Panther Family ID:               PTHR23115
+Modal Panther ID:                PTHR23115:SF244
+Modal Panther Description:       OS04G0677800 PROTEIN
+Modal Panther Family ID:         PTHR23115
+Modal Panther Fam Desc:          TRANSLATION FACTOR
+Interpro Signature Accession:    cd01883; cd04093; G3DSA:2.30.30.380:FF:000039; G3DSA:3.40.50.300:FF:001277; G3DSA:2.40.30.10:FF:000227; G3DSA:2.40.30.10:FF:000060; G3DSA:3.40.50.300; G3DSA:2.40.30.10; PTHR23115; PF00009; SSF52540
+Interpro Signature Description:  EF1_alpha; HBS1_C_III; Translation elongation factor EF1A/initiation factor IF2gamma family protein; Elongation factor 1 alpha-like protein; elongation factor 1-alpha isoform X4; -; Translation factors; TRANSLATION FACTOR; Elongation factor Tu GTP binding domain; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: HBS1-like protein%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: HBS1-like protein%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: HBS1-like protein%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: HBS1-like protein%2C transcript variant X1; elongation factor 1-alpha-like%2C transcript variant X1
+Ola
+  Gene count: 3
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl01
+  Gene Products: uncharacterized LOC127769786%2C transcript variant X3; uncharacterized LOC127772353%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127769786; uncharacterized LOC127772353
+Osa
+  Gene count: 2
+  Modal chromosome: Osa01
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC4326095; uncharacterized LOC4336848
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 1
+  Modal chromosome: Pau07
+  Gene Products: uncharacterized LOC133924882%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133924882
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: HBS1-like protein; HBS1-like protein%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: HBS1-like protein
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: HBS1-like protein%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: HBS1-like protein%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 680 aa
+
+MPRKVVSGPDYDDEYDDYDEYDDDYDDYDETGygDvQHPVKeEKESLKKSSsTVPVLWtC
+SMCTFDNHESMVYCEMCGVFRESFVKSAKDGSIKDSVnGISSepGTSAaSKSDSTKMPVK
+TRTTdFDGDSERKhASTShDKVNSTQLASaGSSSGAGKKKKtpvLsEeVPVERTAQLIsD
+HFQLKEDQSSRASSSAQNddVmQKLSSDISQLsvEKNNVNVTKPCLPEEYKPEKWMLADQ
+ESGVLSQLNLAIVGHVDSGKSTLSGRLLHLLGRISKKDMHKNEKEAKEKGKGSFAYAWAM
+DESSEERERGVTMTVAVAYLETKKYRVVLLDSPGHKDFVPNMISGATQADAAILVVDAST
+GSFEAGMDGEGGKSVGQTKEHAQLIRSFGVEQLIVAVNKMDAIGYSKERFEFIKVQLGSF
+LRSCNFKDSAVTWIPLSAVENQNLIKpPSDARLTSWYQGFCLLDAIDSLQLPSRDVSKPL
+ILPICDVIKSQSTGQLAAFGKLETGAIRNGSKVLVLPCGqVATVKTIERDSNSCSIARAG
+DNVAVsLQGIDGSrLIPGGVLCHPGFPVPVANyLELKILVLDITIPILvGyQVEFHIHHV
+KEAARVTKIVALLDKTGKPSKTAPRFLKSKQNAVVQVTLDGAVCVQEFSKCRALGRAFLR
+SSGSTIAVGVVtRIigQDQN
+
+
+BOP CONSENSUS:
+Length: 679 aa
+
+MPRKVVSGPDYDDEYDDYEEYEDDYDDYDETGHaDVQPPVKEKESSKKSSNTVPVLWKCS
+MCTFDNHETMVYCEMCGVFRESFVKSAKDGSIKESVNGISNNSGTSALSNSDSTKMPVKT
+sTTNFDGDSErKYASTSHDKVNSTQLASVGSSSGTGKKKQPIIldEDVPVERTtQLIADH
+FQLKEDQSSRASSSAQNKGSMQTLSSDISQLSIERNNVNVAqPYLPEEYKPEkWMLADQE
+SGVLSQLNLAIVGHVDSGKSTLSGRLLHLLGRISKRDMHKNEKEAKEKGKGSFAYAWAMD
+ESTEERERGVTMTVAVAYLETKKYRVVLLDSPGHKDFVPNMISGATQADAAILVVDASTG
+SFEAGMDGEGGKSVGQTKEHAQLIRSFGVEQLIVAVNKMDAIGYSKERLEFIKVQLGSFL
+RSCNFRDSSVTWIPLSAVENQNLIKsPSDARFTSWYQGsCLLDAIDSLQLPSRDVSKPLI
+LPICDVIKSQSTGQLAAFGKLETGAIRNGSKVLVLPCGEVATVKTIERDSSSCSIARAGD
+NVAVsLQGIDGSRIIPGGILCHPGFPVPVANYLELKIRVLDITIPILIGYQVEFHIHHVK
+EAARVTKIVALLDKTGKPSKTAPRFLKSKQNAVVQVTLDqAVCVEEFSKCRALGRAFLRS
+SGSTIAVGIVTKIMRQDQn
+
+
+PACMAD CONSENSUS:
+Length: 680 aa
+
+MPRKVVSGPDYDDEYDDYDEYDDDYDEYDETrYGNNQHPVkmGKESLKKSSsTVPVHWTC
+SMCTFSNHESMvYCEMCGVFRETFVKSAKDGSLKDAVvAVSSEPRTSAASKTDSAKTPVK
+TRAvDSDGDSARKHAStSyDKANStQLPSAGSSLGAEKKKKTPVLSEEVPVERIALLASD
+gFQLKGDQSGGASSSSQNDnVIQKLSSDISQLNVDKNNVNVTKPCLPEEYKPEKWMLADQ
+ESGVLSQLNLAIVGHVDSGKSTLSGRLLHLLGRISRKDMHKNEKESKEKGKGSFAFAWAM
+DESSEERERGVTMTVAVAYLETKKYRVVLLDSPGHKDFVPNMISGATQADAAILVVDAST
+GSFEAGMDGEGGKSVGQTKEHAQLVRSFGVEQLVVAVNKMDAVAYSKERFDFIKLQLGSF
+LRSCNFKDSAITWIPLSAVENQNLIKpPSDARLTSWYQGFCLLDAIDSLQLPSRDVSKPL
+ILPICDVIKSQSTGQLAAFGKLETGAIQNGSKVLVLPCGQEATVKTIERDSNSCtIARAG
+DNVAVcLQGIDGsQLIPGGVLCHPGFPVAVANHLELKVLVLDITIPILVGSQVEFHIHHV
+KEAARVTKIIALLDKTGKPSKSAPRFLKSKQNAVVQVTLDGAVCVQEFSKSRALGRAYLR
+SSGRTIAVGVVNRIIGQDQN
+
+================================================================================

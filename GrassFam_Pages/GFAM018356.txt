@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM018356
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             479.5 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13271:SF91
+Panther Family ID:               PTHR13271
+Modal Panther ID:                PTHR13271:SF91
+Modal Panther Description:       PROTEIN SET DOMAIN GROUP 40
+Modal Panther Family ID:         PTHR13271
+Modal Panther Fam Desc:          UNCHARACTERIZED PUTATIVE METHYLTRANSFERASE
+Interpro Signature Accession:    cd10527; G3DSA:3.90.1420.10:FF:000010; G3DSA:3.90.1410.10:FF:000012; G3DSA:3.90.1410.10; PTHR13271; SSF82199
+Interpro Signature Description:  SET_LSMT; Protein SET DOMAIN GROUP 40; set domain protein methyltransferase, domain 1; UNCHARACTERIZED PUTATIVE METHYLTRANSFERASE; SET domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: protein SET DOMAIN GROUP 40%2C transcript variant X4
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: protein SET DOMAIN GROUP 40
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: protein SET DOMAIN GROUP 40
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: protein SET DOMAIN GROUP 40-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: protein SET DOMAIN GROUP 40
+  Gene Descriptions: protein SET DOMAIN GROUP 40
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: protein SET DOMAIN GROUP 40%2C transcript variant X1
+  Gene Descriptions: protein SET DOMAIN GROUP 40
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 1
+  Modal chromosome: Pau14
+  Gene Products: protein SET DOMAIN GROUP 40-like%2C transcript variant X2
+  Gene Descriptions: protein SET DOMAIN GROUP 40-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: protein SET DOMAIN GROUP 40-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: protein SET DOMAIN GROUP 40
+Msi
+  Gene count: 3
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: protein SET DOMAIN GROUP 40
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: uncharacterized LOC100279317
+  Gene Synonyms: GRMZM2G092131
+  Gene Descriptions: uncharacterized LOC100279317
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 480 aa
+
+MEALLRWAAELGVSDSPSPPfPSSSSSSSCLGRSLVVADFPDAGGRGLAAARDLRRGELV
+LRVPRAALLTSDRVMADDPRIAACVsAHRPRLSSVQILIVCLLAEVGKGKNSVWYpYLSQ
+LPSYYTILATFNDFEVEALQVDDAIWVAQKAlSAIRSDWEeATPLMKELdFKPKLLMFKS
+WLWAFATVSSRTLHIAWDDAGCLCPVGDLFNYAAPDDDTSsEEEDTAEvMnCQQKNeMls
+SSERLTDGGYEDSNAYCLYARKrYKKGEQVLLGYGTYTNLELLEHYGFLLgENPNEKTFI
+QLDLDICSvGTWPKDSLYIHPNGHPSFALLCALRLWaTPtNRRKAvSHQIYSGSMLSTEN
+ELEIMKWLISKCeETLQQLPTTVEFDESLLVFLRKIQNSTNCRTDVKQSsFEQEFAVFLR
+FHrveLDCSgnsQLPVRLLRSLERWELAVQWRCNYKKTLTKCISYCeSLVHELSLQLNQQ
+
+
+BOP CONSENSUS:
+Length: 478 aa
+
+MEALLRWAAELGVSDSPSAPSTSSSSCLGRSLVVADFPDAGGRGFAAARDLRRGELVLRV
+PRAALLTSDRVMADDPRIASCVDAHRPRLSSIQRLIVCLLAEVGKGKSSsWYLYLSQLPS
+YYTILATFNDFEIEALQVDDAIWVAQKALSAIRSEWEEATPLMRELDFKPKLLMFKTWLW
+AFATVSSRTLHVAWDDAGCLCPIGDLFNYAAPDDDTSSEEQDTEEAMKCQErNVMLEEIK
+LDSSSERLTDGGYEDSNAYCLYARKRYRKGEQVLLGYGTYTNLELLEHYGFLLDENPNEK
+TYIQLDSELCTMGTWPKDSLYIHPNGHPSFALLCALRLWaTPTNRRKSFSHQIYSGSMLS
+VENELEVLKRLGSKCVETLQQLPTTAELDGRLlHFLRnLQNSTNWRVDVEQSSFGQEFAv
+FLRFHSvDLDCTHsQLPVRLLRSLERWELAVRWRCSYKIALTKCVLYCKRLINELSLQ
+
+
+PACMAD CONSENSUS:
+Length: 487 aa
+
+MEALLRWAAELGVSDSPSPPfPSSSSSGATSSSPSSCLGRSLVVADFPDAGGRGLAAARD
+LRRGELVLRAPRAALLTSDRVTADDPRVAACVSAHRPRLSSVQILIVCLLAEVGKGRNSV
+WYPYLSQLPSYYTILATFNDFEVEALQVDDAIWVAQKAkSAIKSDWEDATPLMKELEFKP
+KLLMFKSWLWAFATVSSRTLHIAWDEAGCLCPVGDLFNYAAPDDDTSLEEEDtAELTNCQ
+QKNEMsNSSERLTDGGYEDSNAYCLYARKNYKKGEQVLLGYGTYTNLELLEHYGFLLSEN
+PNEKTFIQLDLDICSVGTWPKDSMYIHPNGHPSFALLCALRLWsTPaNRRKAVSHQIYSG
+SMLSTENEMgIMKWLISKCEGTLQQLPTTVEFDESLLVFLRKIQNSTNCRTDVKQSGFEQ
+EFAVFLRFHRVELDCSgNNQLPvRLLRSLERWELAVQWRCNYKKTLKKCISYCESLVHEL
+SLQLNQQ
+
+================================================================================

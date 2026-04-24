@@ -1,0 +1,148 @@
+================================================================================
+GrassFam ID: GFAM017726
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             717.0 aa
+Family Size (Extended Family Size): 23 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12802:SF177
+Panther Family ID:               PTHR12802
+Modal Panther ID:                PTHR12802:SF177
+Modal Panther Description:       PROTEIN CCA1
+Modal Panther Family ID:         PTHR12802
+Modal Panther Fam Desc:          SWI/SNF COMPLEX-RELATED
+Interpro Signature Accession:    G3DSA:1.10.10.60:FF:000023; PTHR12802
+Interpro Signature Description:  protein REVEILLE 6 isoform X1; SWI/SNF COMPLEX-RELATED
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: protein CCA1%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: protein LHY%2C transcript variant X3
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: protein LHY%2C transcript variant X4
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: protein LHY%2C transcript variant X2; protein LHY-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl08
+  Gene Products: protein LHY%2C transcript variant X4
+  Gene Descriptions: protein LHY
+Osa
+  Gene count: 1
+  Modal chromosome: Osa08
+  Gene Products: protein LHY%2C transcript variant X4
+  Gene Synonyms: CCA1,COC1,LHY,OsCCA1,OsJ_26106,OsLHY
+  Gene Descriptions: protein LHY
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN4
+Pau
+  Gene count: 2
+  Modal chromosome: Pau16
+  Gene Products: protein CCA1-like%2C transcript variant X1; protein CCA1-like%2C transcript variant X22
+  Gene Descriptions: protein CCA1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: protein LHY-like%2C transcript variant X1; protein LHY-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: protein LHY%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: protein CCA1%2C transcript variant X21
+Zma
+  Gene count: 2
+  Modal chromosome: Zma04
+  Gene Products: LHY protein%2C transcript variant X8; uncharacterized LOC100192868%2C transcript variant X11
+  Gene Synonyms: GRMZM2G014902; GRMZM2G175265,GRMZM2G474769
+  Gene Descriptions: LHY protein; uncharacterized LOC100192868
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 720 aa
+
+MEiNSSGEETVVKVRKPYTITKQRERWTEAEHKRFLEALKLYGRAWQRIEEHVGTKTAVQ
+IRSHAQKFFTKLEKEAMNNGTSPGQAHDIDIPPPRPKRKPNSPYPRKSGLSSETPTKEVP
+NDKSTKSNMsLsNGNVQMAGDASLQKLQRKElSEKGSCSEVLNLFRDAPSASFSSVNKSS
+SNHGAPRGIEPTKTEIKDMTTMErNSiSidvqEDVKdINDQEMERlNGIHISSKcDHSHE
+dYLDnSMQQMKLKPkSVETTYVDqQtARASHyqMERNGATSIPVTGTEGSHPDQTSDQVG
+ANGSMNPCIHPTLSVDPKFDSSATPQPFPHNYAAFAPMMQCNCNQDAYRSFvNMSSTFSS
+MLVSTLLSNPAIHAAARLAASYWPAAEgNTPVDPNQENPAEgvQGRNIGSPPSMASIVAA
+TVAAASAWWATQGLLPFFAPPMAFPFVPAPSAAFPTADVQRASEKDRDCPVENAQKECQE
+AQKQGQsEALRVaASSeSDgSGKGEVSLHTELKISPvqNADtTPtTGADTSDAFRNKKKQ
+DRSSCGSNTPSSSDVEAeNVPEKQDkANDKAKQASCSNSSAGDTNHRRFRSSGSTSDSWK
+EVSEEGRLAFDALFSREKLPQSFSPPQAEgSKEVaKEEEDEVTTVTVDLNKNATsIDHEL
+DTMDGPRASFPNELSHLKLKSRRTGFKPYKRCSVEAKENRVPASDEVGTKRIRLESEAST
+
+
+BOP CONSENSUS:
+Length: 717 aa
+
+MEINSSGEETVIKVRKPYTITKQRERWTEAEHKRFLEALKLYGRAWQRIEEHVGTKTAVQ
+IRSHAQKFFTKLEKEAINNGTSPGQAHDIDIPPPRPKRKPNCPYPRKGCLSSETPTREVP
+KSSVSLSNSNAQMASNGTLQLTCIQKLQRKELSENGSCSEVLNLFREAPSASFSSVNKSS
+SNHGVSGGIEPTKTEnKDmATMERKSTSIDVGKDVKDINDQEMERNNRVHISSKYDHSHE
+DCLDNSMQHMQLKPNTVETTYTGQHAASAPLYQMNKTGATGaPDPGTEGSHPDQTSDQVG
+GANGSMDCIHPTLPVDPKFGSSSTAQPFPHNYAGFAPTMQCHCNQDAYRSSlNMSSTFSS
+MLVSTLLSNPTVHAAARLAASYWPAADSNIPVDPNQEvFAENAQGRHIGSPPSMASVVAA
+TVAAASAWWATQGLLPLFAPPMAFPFVPVPTASFPTADVQRATENCPVDNAPKECQVAQE
+QGQPEAMIVVASSgSDESGKGEVSPHTELnISPADKVETTPATGAETSDAFGNKKKQDRS
+SCGSNTPSSSDVEAEHVPENQDQANDKTQQASCSNSSAGDMNHRRFRSISSTSDSWKEVS
+EEGRMAFDKLFSRGKLPQSFSPPQAEGSKVVPRGEQDEATTVTVDLNKSAAVIDHELDTL
+VGPRASFPIELSHLNMKSRRTGFKPYKRCSVEAKENRVPASDEVGTKRIRLDSEPST
+
+
+PACMAD CONSENSUS:
+Length: 720 aa
+
+MEVNSSGEEMVVKVRKPYTITKQRERWTEAEHKRFLEALKLYGRAWQRIEEHVGTKTAVQ
+IRSHAQKFFTKLEKEAMNNGTSPGQAHDIDIPPPRPKRKPNSPYPRKSGLSSETPTKEVP
+NDKSTKSNMpLsNGNVQMAGDASLQKFQRKEVSEKGSCSEVLNLFRDAPSASFSSVNKSS
+SNHGAPRGIEpTKTEIRDMTTMEKNSLNPnMQEDVKEINDQEMERLNGIHISSKCDHSHE
+EYLDlSMQQMKLKPKSVETTYVDKQTARASHSLAERNGATSIPVTGTEGTHPDQTSDQVG
+iNGSMNPCIHPMLSaDPKFDSSATPQPFPHNYAAFAPMMQCNCNQDTYRSFVNMSSTFSS
+MLVSTLLSNPAIHAAARLAASYWPAAEGNTpVDPNQENPAEGVQGRNIGSPPSMASIVAA
+TVAAASAWWATQGLLPFFAPPMAFPFVPAPSAAFPTaDVPRPSEKDRDCpVENAQKECQE
+AQKQGQsEgLRVAASSESDGSGKGEvSLHTELKISPVQNADATPTTGADTSDAFRNKKKQ
+DRSSCGSNTPSSSDVEAdNVPEKEDNANDKAKQASCSNSSAGDTNHRRFRSSGSTSDSWK
+EVSEEGRLAFDALFSREKLPQSFSPPQAEESKEVAKEEEDEVTTVTVDLNKNATSIDHDL
+DTMDEPRASFPNELSHLKLKSRRTGFKPYKRCSVEAKENRVPASDEVGTKRIRLESEAST
+
+================================================================================

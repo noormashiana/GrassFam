@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM018508
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             347.0 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12149:SF8
+Panther Family ID:               PTHR12149
+Modal Panther ID:                PTHR12149:SF8
+Modal Panther Description:       PROTEIN-RIBULOSAMINE 3-KINASE
+Modal Panther Family ID:         PTHR12149
+Modal Panther Fam Desc:          FRUCTOSAMINE 3 KINASE-RELATED PROTEIN
+Interpro Signature Accession:    G3DSA:3.90.1200.10:FF:000006; G3DSA:3.30.200.20:FF:000264; G3DSA:3.90.1200.10; PTHR12149; PIRSF006221; PF03881; SSF56112
+Interpro Signature Description:  Protein-ribulosamine 3-kinase, chloroplastic; -; FRUCTOSAMINE 3 KINASE-RELATED PROTEIN; KT3K; Fructosamine kinase; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: protein-ribulosamine 3-kinase%2C chloroplastic%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: protein-ribulosamine 3-kinase%2C chloroplastic%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: protein-ribulosamine 3-kinase%2C chloroplastic%2C transcript variant X1
+Tae
+  Gene count: 4
+  Modal chromosome: Tae05A
+  Gene Products: protein-ribulosamine 3-kinase%2C chloroplastic%2C transcript variant X1; protein-ribulosamine 3-kinase%2C chloroplastic-like; protein-ribulosamine 3-kinase%2C chloroplastic-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: protein-ribulosamine 3-kinase%2C chloroplastic
+  Gene Descriptions: protein-ribulosamine 3-kinase%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: protein-ribulosamine 3-kinase%2C chloroplastic-like
+  Gene Synonyms: OsJ_09183
+  Gene Descriptions: protein-ribulosamine 3-kinase%2C chloroplastic-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau03
+  Gene Products: protein-ribulosamine 3-kinase%2C chloroplastic
+  Gene Descriptions: protein-ribulosamine 3-kinase%2C chloroplastic
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi09K
+  Gene Products: protein-ribulosamine 3-kinase%2C chloroplastic%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: protein-ribulosamine 3-kinase%2C chloroplastic%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: protein-ribulosamine 3-kinase%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: Protein-ribulosamine 3-kinase chloroplastic
+  Gene Synonyms: GRMZM2G030299,GRMZM2G320111
+  Gene Descriptions: Protein-ribulosamine 3-kinase chloroplastic
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 341 aa
+
+MAANVALLSASSPSTSAAASSlLpRRPPPRRSAcPRRAASRLSIMAALGDDPIKEWILTE
+GKATQITGTSSIGGGCINsAQRYDTDAGSFFVKTNRRIGPaMFEGEALGLKAMYDTKSIR
+VPLPYKVGSLPTGGSFIIMEFIEFGRSRGDQSALGRKLAEMHKAAKSDKGYGFYVENTIG
+STPQINTWTADWIEFYSKHRLGYQLELISQRFGDSAIYEKGQRLIkNMHPLFDGAVIEPC
+LLHGDLWSGNISSDTNGDPVILDPACYYGHNEAEFGMSWCAGFGGDFYNSYFQVMPKQPG
+FEKRRDLYLLYHYLNHYNLFGSGYRSSAMSIIEDYLrMLKA
+
+
+BOP CONSENSUS:
+Length: 353 aa
+
+MAANVALLSASSPSTSSASSiLRRRPPPRRSACPRRAASRLSVVAAMSDDPIKEWILTEG
+KATQITGTSSIGGGCINAAQRYDTDAGSFFVKTNRRIGPAMFEGEALGLKAMYDTKSIRV
+PLPYKVGSLPTGGSFIIMEFIQFGRSRGDQVTLSRNPFRSKKKSALGRKLAEMHKAAKSD
+KGYGFYVENTIGSTPQINTWTADWIEFYSKHRLGYQLKLISQRFGDSAIYEKGQRLIENM
+HPLFDGAVIEPCLLHGDLWSGNISSDTNGDPVILDPACYYGHNEAEFGMSWCAGFGGEFY
+SSYFEVMPKQPGFEKRRDLYLLYHYLNHYNLFGSGYRSSAMSIIDDYLRMLKA
+
+
+PACMAD CONSENSUS:
+Length: 338 aa
+
+MAANVALLSSSSPSTSAAASSLLPRRRCLASRRRASSRvTIMAALGDDPIREWILTEGKA
+TQIKGIRSIGGGCINSAQRYDTDAGPFFVKTNSRIGPEMFEGEALGLKAMYDTKSIRVPL
+PYKVGSLPTGGSFIIMEFIEFGRSRGDQSVLGRKLAEMHKAAKSDKGYGFHVDNTIGSTP
+QINTWTADWIEFYSKHRLGYQLELASRRYGDSAIYEKGQRLIKNIRPLFDGAVIEPCLLH
+GDLWSGNISSDTNGDPVILDPACYYGHNEAEFGMSWCAGFGGDFYNAYFQVMPKQPGFEK
+RRDLYLLYHYLNHYNLFGSGYRSSAMSIIEDYLYVLAA
+
+================================================================================

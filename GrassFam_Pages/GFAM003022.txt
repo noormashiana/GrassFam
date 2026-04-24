@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM003022
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             392.0 aa
+Family Size (Extended Family Size): 41 (41) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR32100
+Modal Panther ID:                PTHR32100:SF65
+Modal Panther Description:       FATTY ACID DESATURASE DES3
+Modal Panther Family ID:         PTHR32100
+Modal Panther Fam Desc:          OMEGA-6 FATTY ACID DESATURASE, CHLOROPLASTIC
+Interpro Signature Accession:    cd03507; PTHR32100; PF00487
+Interpro Signature Description:  Delta12-FADS-like; OMEGA-6 FATTY ACID DESATURASE, CHLOROPLASTIC; Fatty acid desaturase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: fatty acid desaturase DES3
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu04H
+  Gene Products: fatty acid desaturase DES3-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata04D
+  Gene Products: fatty acid desaturase DES3
+Tae
+  Gene count: 6
+  Modal chromosome: Tae04A
+  Gene Products: fatty acid desaturase DES3; fatty acid desaturase DES3-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl11
+  Gene Products: fatty acid desaturase DES3-like
+  Gene Descriptions: fatty acid desaturase DES3-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa11
+  Gene Products: fatty acid desaturase DES3
+  Gene Descriptions: fatty acid desaturase DES3
+Ecu
+  Gene count: 3
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 4
+  Modal chromosome: Pau12
+  Gene Products: fatty acid desaturase DES3-like; fatty acid desaturase DES3-like%2C transcript variant X1
+  Gene Descriptions: fatty acid desaturase DES3-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi03K
+  Gene Products: fatty acid desaturase DES3-like; fatty acid desaturase DES3-like%2C transcript variant X1; fatty acid desaturase DES3-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: fatty acid desaturase DES3-like
+Msi
+  Gene count: 5
+  Modal chromosome: Msi14
+Sbi
+  Gene count: 4
+  Modal chromosome: Sbi05
+  Gene Products: fatty acid desaturase DES3; fatty acid desaturase DES3-like; probable fatty acid desaturase DES1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: omega-3 fatty acid desaturase
+  Gene Synonyms: GRMZM2G354558
+  Gene Descriptions: omega-3 fatty acid desaturase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 385 aa
+
+MmApTrrRPeQEAaAKATEDsRsfFDAGKPPPFRIGDVRAAVPAHCWRKSPLRSLSYVAR
+DVAVVAALAAAAAalDSWAVWPLYWAAQGTMFWALFVLGHDCGHGSFSDSaTLNSVVGHL
+LHSFILVPYHGWRISHRTHHQNHGHIERDESWHPITEKLYRqLEPRTKKLRFTvPFPLLA
+FPVYLWYRSPGKnGSHFLPSSDLFSPKERgDViVSTTCWCIMLASLlAMACVFGPvqVLK
+LYGVPYLVFVMWLDLVTYLHHHGHQDLPWYRGEEWSYLRGGLTTVDRDYGWINNIHHDIG
+THVIHHLFPQIPHYHLVEATKAARPVLGRYYREPEKSGPLPLHLFGVLLRSLRVDHFVSD
+vGDVVYYQTDHsLNGdnWAetdKHK
+
+
+BOP CONSENSUS:
+Length: 384 aa
+
+MAAAARRPEQEASCKATEDHRSeFDAAKPPPFRIGDVRAAVPAHCWRKSPLRSLSYVARD
+VAVVAALAAAAWrlDSWAvWPLYWAAQGTMFWALFVLGHDCGHGSFSDSGTLNSVVGHLL
+HTFILVPYNGWRISHRTHHQNHGHIEKDESWHPITEKVYqKLEPRTKKLRFSLPFPLLAF
+PVYLWYRSPGKnGSHFNPSSDLFSPKERRDVIVSTTCWFTMIALLIAMACVFGPVPVLKL
+YGVPYlVFVMWLDLVTYLHHHGHQDLPWYRGEEWSYLRGGLTTVDRDYGWINNIHHDIGT
+HVIHHLFPQIPHYHLVEATKAARPVLGRYYREPEKSGPLPLHLFtVLLRSLRVDHFVSDV
+GDVVFYQTDPSLNGDnWTgtdKHK
+
+
+PACMAD CONSENSUS:
+Length: 406 aa
+
+tQTQTQTQTTTPqMsstqMTmRRPvQEAAAKATEDSRRVfFDAGKPPPFRIGDVRAAVPE
+HCWRKSPWRSLWYVARDVAVVAALGAAAAALDSWAVWPLYWAAQGTMFWALFVLGHDCGH
+GSFSDSATLNSVVGHLLHSFILVPYHGWRISHRTHHQNHGHIERDESWHPITEKLYRQLE
+PRTKKLRFTVPFPLLAFPVYLLYRSPGKnGSHFLPSSDLFSPKEKGDVMLSTTCWCIMLA
+SLLAMACAFGPLQVLKMYGiPYLVFVMWLDLVTYLHHHGHqERLPWYRGEEWSYLRGGLT
+TVDRDYGWINkIHHDIGTHVIHHLFPQIPHYHLVEATKAARPVLGRYYREPQKSGPLPLH
+LLGVLLRSLRVDHFVSDHGDVVYYQTDHTLNttAhgWAeQNHhKQK
+
+================================================================================

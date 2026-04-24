@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM006965
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             386.0 aa
+Family Size (Extended Family Size): 23 (30) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10910:SF62
+Panther Family ID:               PTHR10910
+Modal Panther ID:                PTHR10910:SF62
+Modal Panther Description:       AT07585P-RELATED
+Modal Panther Family ID:         PTHR10910
+Modal Panther Fam Desc:          EUKARYOTE SPECIFIC DSRNA BINDING PROTEIN
+Interpro Signature Accession:    PTHR10910; PF02137; SM00552
+Interpro Signature Description:  EUKARYOTE SPECIFIC DSRNA BINDING PROTEIN; Adenosine-deaminase (editase) domain; adara_8
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: tRNA-specific adenosine deaminase 1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: tRNA-specific adenosine deaminase TAD1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: tRNA-specific adenosine deaminase TAD1%2C transcript variant X1
+Tae
+  Gene count: 4
+  Modal chromosome: Tae02B
+  Gene Products: tRNA-specific adenosine deaminase TAD1-like; tRNA-specific adenosine deaminase TAD1-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: tRNA-specific adenosine deaminase TAD1%2C transcript variant X2
+  Gene Descriptions: tRNA-specific adenosine deaminase TAD1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: tRNA-specific adenosine deaminase TAD1%2C transcript variant X5
+  Gene Descriptions: tRNA-specific adenosine deaminase TAD1
+Ecu
+  Gene count: 3
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 1
+  Modal chromosome: Pau13
+  Gene Products: tRNA-specific adenosine deaminase TAD1%2C transcript variant X1
+  Gene Descriptions: tRNA-specific adenosine deaminase TAD1
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi02N
+  Gene Products: tRNA-specific adenosine deaminase TAD1%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: tRNA-specific adenosine deaminase TAD1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: tRNA-specific adenosine deaminase 1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: tRNA-specific adenosine deaminase TAD1; uncharacterized LOC100193265
+  Gene Synonyms: GRMZM2G042599
+  Gene Descriptions: uncharacterized LOC100193265
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 386 aa
+
+MLrSSSPAPPrDGVlWAEAASSAALRHYrSLPKKGKPQGRESTVLAAFLLSSPQDPLNPT
+VLSLATGTKCLGAARLspRGDLVHDAHAEVIARRALLRLIYsEIGRgaPPdWLVASGdGG
+RWRLRDGHqLHLYITQLPCGVMPVPPSpSELpREQLDdsVNGCSDvGFVQRKPGRGDTTL
+SMSCFDKITRWSVVGIQGALLSHILEPLYLSTITIGQSPDGAPEGFSIENNIvKVLdARL
+SSLSsKLPdPFKlnKPLFFEAPVPPKEFQQTSGDiPPLTCGYSICWNKSGLHEVVLGTTG
+RKQGTSSKAACLPSTESLLCKRRLaEAFiSLEHPLVTKFrhEELSYRAIKDmAHEYQQtL
+ELLRKAPFFsrWRAKPASLDSFTVsR
+
+
+BOP CONSENSUS:
+Length: 385 aa
+
+MLRSSSPqPwDGVLWAEAASSAALRQYyALPKKGKPQGRESTVLAAFLLSSPQNPLNPTV
+LSLATGTKCLGAARLGPRGDLVHDAHAEVVARRALLRLIYAEIGtdnPPSWLVASGaDGR
+WRLRDGHQLHLYITQLPCGVMPVPPSPsEVRREQLDTMVNGCSDVGFVQRKPGRGDTTLS
+VSCFDKITRWCVVGIQGALLSHILEPLYLSTITIGQSPDGAPEGFCIEnNVVKVLGARLS
+CLSrKfPDPFKPNKPLFFEAPIPPKEFQQTSGDIPPLTCGYSICWNKSGLHEVVLGTTGR
+KQGTSSKAASSPSTESLLCKIRLAEAFISLEHPLVTKFRHEELSYRAIKDMACEYQQMLE
+LLRKAPFFgRWRAKPASvDSFTVPR
+
+
+PACMAD CONSENSUS:
+Length: 389 aa
+
+MLpSSSPAPPREGAVAPSPWAEAASSAALRHYRSLPKKGKPQGRESTVLAAFLLStPQDP
+qSPTVLSMGTGTKCLGASRLSaRGDLVHDAHAEVIARRALLRLVYSEIGRGAPPDWLVAS
+GDGGRWRLRDGHCLHLYITQLPCGVMPVPPSqSELPREQLDSVNGCSDIsFVQRKPGRGD
+TTLSMSCFDKITRWSVVGIQGALLSHILEPLYLSTITIGQLPDGAPEGFSIENNIkKVLD
+ARLSSLSSKLPASFKlqKPKvFEAPVPPKEFQQISGDVPPLTCGYSICWNKSGLHEVVLG
+TTGRKQGTSSKAACLPSTESLLCKRRLLEAFMSLEHPLVtKLKCEELSYRAmKDtAHEYQ
+HTLELLRKAPFFSCWRAKPASLDSFaVSR
+
+================================================================================

@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM011936
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             473.5 aa
+Family Size (Extended Family Size): 24 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31451:SF36
+Panther Family ID:               PTHR31451
+Modal Panther ID:                PTHR31451:SF36
+Modal Panther Description:       MANNAN ENDO-1,4-BETA-MANNOSIDASE 4
+Modal Panther Family ID:         PTHR31451
+Modal Panther Fam Desc:          FAMILY NOT NAMED
+Interpro Signature Accession:    G3DSA:3.20.20.80:FF:000012; G3DSA:3.20.20.80; PTHR31451; SSF51445
+Interpro Signature Description:  Mannan endo-1,4-beta-mannosidase 6; Glycosidases; -; (Trans)glycosidases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: mannan endo-1%2C4-beta-mannosidase 3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: mannan endo-1%2C4-beta-mannosidase 3-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: mannan endo-1%2C4-beta-mannosidase 3
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: mannan endo-1%2C4-beta-mannosidase 3-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl03
+  Gene Products: mannan endo-1%2C4-beta-mannosidase 3; mannan endo-1%2C4-beta-mannosidase 4
+  Gene Descriptions: mannan endo-1%2C4-beta-mannosidase 3; mannan endo-1%2C4-beta-mannosidase 4
+Osa
+  Gene count: 2
+  Modal chromosome: Osa03
+  Gene Products: mannan endo-1%2C4-beta-mannosidase 3-like; mannan endo-1%2C4-beta-mannosidase 4-like%2C transcript variant 2
+  Gene Synonyms: MAN4,OsMAN4
+  Gene Descriptions: mannan endo-1%2C4-beta-mannosidase 3-like; mannan endo-1%2C4-beta-mannosidase 4-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: mannan endo-1%2C4-beta-mannosidase 3-like
+  Gene Descriptions: mannan endo-1%2C4-beta-mannosidase 3-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: mannan endo-1%2C4-beta-mannosidase 3-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: mannan endo-1%2C4-beta-mannosidase 3-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: mannan endo-1%2C4-beta-mannosidase 3
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: mannan endo-1%2C4-beta-mannosidase 3%2C transcript variant X2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 467 aa
+
+maRPRPaAlalsLLLLFLAAaAaAAagggGGGMVGVDGTRFVVGGGRTVYFSGFNAYWLM
+LMASDPARRGKVVAAFRQAAaHGLNLARTWAFSDGGDtPLQSSPGVYDEAMFQGLDFVIA
+EARRHGIYLLLCLTNNFdDFGGKRQYVqWAREAGHNLTTADDFFNSTVVKsYYKNHVKTV
+LTRVNTVTGVAYKDDPTIFGWELMNEPRCDADPTGAMVQAWVEEMAPYVKSIDGaHLVTA
+GLEGFYGDGAHESKDLNPWGIYYGTNFVATHRAAGVDFATIHLYPDVWLWGStADeQAAF
+FRNWTRSHvRDTELYLrKPLLVTEYGKFLWEGVGGANRTQRDYFLGlVLDSIYASASRGG
+PLVGGAFWQLLDDGMDTLRDGYEIILPEDaRAAsIIGnHSRQLAELNGQDAealRRRRRR
+ssHRKIHVGSsgGSWSgSDThPlLhiLLVRFISLFRSISSLFssvfv
+
+
+BOP CONSENSUS:
+Length: 465 aa
+
+MrpRPPALVsSLLlLLlLAAAAggdGGGMVRVDGTRFVVGDGDRTVYLSGFNAYWLMMMA
+SDPSRRGgVVsAFRQAAAHGLNLARTWAFSDGGDRPLQSSPGVYHEdMFQGLDFVIAEAR
+RHGIYLLLCLTNNFDDFGGKRQYVQWAREDAAAHNLTSADDFFNSTLVKSYYKNHVKTVL
+TRVNTVTGVAYKDDPAIFGWELMNEPRCgADPTGAMVQAWVEEMAPYVKtIDGaHLVTAG
+LEGFYGDGAHESKELNPWGIYYGTNYVATHQAAGIDFATIHLYPDVWLWGSTADQQArFF
+RNWTASHVsDTERHLRKPLLVTEYGKFLWEEGGENATSRRDYFLGMVLDAIYESASRGGP
+LVGGAFWQLLLDGDGMDALRDGYQIVLPEDARAASIISeHSEQMAELSGQDAaeagRRws
+SSHRKILGSFvSWDGghPyVQrFLIRFVSLFRSVSSLFGpnFVLs
+
+
+PACMAD CONSENSUS:
+Length: 465 aa
+
+MARPRPAlAIlLlFLLLFLAASAAvaattggGGGMVGVDGTQFVVGGGrTVYFSGFNAYW
+LMLVASDPARRGKVVAAFRQAAdHGLNLARTWAFSDGGDTPLQAAPGVYDEAMFQGLDFV
+IAEARRHGIYLLLCLTNNFHDFGGKRQYVrWAREAGHrLATADDFFNSTVVKGYYKNHVK
+TVLTRVNTlTGVAYRDDPTILGWELMNEPRCDADPTGAMVQAWVEEMAPYVKSIDGdHLV
+TAGLEGFYGDGAHESKDLNPWGIYYGTNFVETHRAAGVDFATIHLYPDVWLWGSaAAAQL
+AFLRNWTRSHARDTELYLgKPLLVTEYGKFLWEGVAGANRTQRDYFLGLVLDSIYASAAr
+GGPLVGGAFWQLLDdGMDTLRDGYEIILPEDRRAATIIGNHSRQLAeLNGQDVEAvRRRR
+RrRaHRKIHVGSSSGpSsSDTpqLHILLVRFISLFRSISSLFSSV
+
+================================================================================

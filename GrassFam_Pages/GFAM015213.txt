@@ -1,0 +1,140 @@
+================================================================================
+GrassFam ID: GFAM015213
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             565.0 aa
+Family Size (Extended Family Size): 22 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45980:SF20
+Panther Family ID:               PTHR45980
+Modal Panther ID:                PTHR45980:SF20
+Modal Panther Description:       OS06G0234100 PROTEIN
+Modal Panther Family ID:         PTHR45980
+Modal Panther Fam Desc:          FAMILY NOT NAMED
+Interpro Signature Accession:    G3DSA:2.40.10.10:FF:000131; G3DSA:2.40.10.10:FF:000012; G3DSA:2.40.10.10; G3DSA:3.20.190.20; PTHR45980; PF17815; SSF50494
+Interpro Signature Description:  Protease Do-like 9; protease Do-like 9; -; PDZ domain; Trypsin-like serine proteases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: protease Do-like 9%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: protease Do-like 9
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: protease Do-like 9
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: protease Do-like 9; protease Do-like 9%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: protease Do-like 9
+  Gene Descriptions: protease Do-like 9
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: protease Do-like 9
+  Gene Descriptions: protease Do-like 9
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: protease Do-like 9
+  Gene Descriptions: protease Do-like 9
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: protease Do-like 9
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: protease Do-like 9
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: protease Do-like 9
+Zma
+  Gene count: 2
+  Modal chromosome: Zma04
+  Gene Products: Protease Do-like 9; protease Do-like 9%2C transcript variant X3
+  Gene Descriptions: Protease Do-like 9
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 565 aa
+
+MDDPSSaSKrKRKRGRKpKASPPSPDRSSPSPdAAANPAPAAAGRRGRKPRRhEAPADAD
+ASRPPSPPRRGEPKPVANGGDAVVAEAGPASWDEVVRVVPCMDAVVKVFCVHTEPNFSLP
+WQRKRQYSSSSSGFIIGGRRVLTNAHSVEHYTQVKLKKRGSDTKYLATVLAIGTECDIAL
+LTVsDDEFWEGVSPVEFGTLPALQDAVTVVGYPIGGDTISVTSGVVSRIEILSYVHGSTE
+LLGLQIDAAINSGNSGGPAFNDRGKCVGIAFQSLKHEDAENIGYVIPTPVItHFIQDYEK
+SGEYTGFPILGIEWQKMENPDLRKAMGMKPDQKGVRVRRVEPTAPESGCLQPSDIILSFD
+GVDIANDGTVPFRHGERIGFSYLVSQKYTGEKALVKVLRDSKVHEFKIRLATHKRLVAAH
+VKGRPPSYYIVAGFVFAAVSVPYLRSEYGKDYEYDAPVKLLVKHLHAMAESPDEQLVVVS
+QVLVADINIGYEEIVNTQVLAFNGQPVKNLKNLVTMVENCKDEFLKFDLEYDQIVVLETK
+TAKAATQDILTTHCIPSAMSDDLKA
+
+
+BOP CONSENSUS:
+Length: 565 aa
+
+MDGSASKGKRKRGRKSKAAADhrsPSPDAPAAAVADNPAPAAAGRRGRKPRRVEAPADAD
+ASRPPSTPRRGEAKPVANGGDAAVAELGPaGWEEVVRVVPSMDAVVKVFCVHTEPNFSLP
+WQRKRQYSSSSSGFIIGGRRVLTNAHSVEHFTQVKLKKRGSDTKYLATVLAIGTECDIAL
+LTVSDDEFWEGVtPVEFGSLPALQDAVTVVGYPIGGDTISVTSGVVSRIEILSYVHGSTE
+LLGLQIDAAINSGNSGGPAFNDRGICVGIAFQSLKHEDVENIGYVIPTPVIKHFIQDYEK
+SGAYTGFPIIGIEWQKMENPDLRKAMGMKPDQKGVRVRRVEPTAPESGCLQPSDIILSFD
+GIDIANDGTVPFRHGERIGFSYLVSQKYTGDKALIKVLRNSKVHEFKIKLATHKRLIAAH
+VKGRPPSYYIVAGFVFAAVSVPYLRSEYGKDYEYDAPVKLLVKHLHSMAESPDEQLVVVS
+QVLVADINIGYEDIVNTQVLAVNGHPVKNLKDLVTTVENCKDEFLKFDLEYDQIVVLETK
+TAKAATqDILTTHCIPSAMSDDLKT
+
+
+PACMAD CONSENSUS:
+Length: 565 aa
+
+MDDPSSASNKRKRKRGRKPKASPPSPDRSSPSPAPAPApAGRRGRKPRRHEAPADADAAR
+PPSPPRRGEPKPVANGGDAVAVAVsEAGPASWDEVVRVVPCMDAVVKVFCVHTEPNFSLP
+WQRKRQYSSSSSGFIIGGRRVLTNAHSVEHYTQVKLKKRGSDTKYLATVLAIGTECDIAL
+LTVsDDEFWEGVSPVEFGTLPALQDAVTVVGYPIGGDTISVTSGVVSRIEILSYVHGSTE
+LLGLQIDAAINSGNSGGPAFNDRGKCVGIAFQSLKHEDAENIGYVIPTPVITHFIQDYEK
+SGEYTGFPILGIEWQKMENPDLRKAMGMKPDQKGVRVRRVEPTAPESGCLQPSDIILSFD
+GVDIANDGTVPFRHGERIGFSYLVSQKYTGEKALVKVLRDSKVHEFKIRLATHKRLVAAH
+VKGRPPSYYIVAGFVFAAVSVPYLRSEYGKDYEYDAPVKLLVKHLHAMAESPDEQLVVVS
+QVLVADINIGYEEIVNTQVLAFNGQPVKNLKNLVTMVENCKDEFLKFDLEYDQIVVLETK
+TAKAATQDILTTHCIPSAMSDDLKA
+
+================================================================================

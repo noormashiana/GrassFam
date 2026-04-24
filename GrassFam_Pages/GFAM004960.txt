@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM004960
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             518.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47984:SF10
+Panther Family ID:               PTHR47984
+Modal Panther ID:                PTHR47984:SF10
+Modal Panther Description:       PROTEIN KINASE SUPERFAMILY PROTEIN
+Modal Panther Family ID:         PTHR47984
+Modal Panther Fam Desc:          OS01G0323000 PROTEIN
+Interpro Signature Accession:    cd14066; G3DSA:1.10.510.10:FF:000035; G3DSA:3.30.200.20:FF:000173; G3DSA:1.10.510.10; G3DSA:3.30.200.20; PTHR47984; PF00069; SM00220; SSF56112
+Interpro Signature Description:  STKc_IRAK; Putative receptor-like serine/threonine-protein kinase; Probable serine/threonine-protein kinase At1g01540; Transferase(Phosphotransferase) domain 1; Phosphorylase Kinase; domain 1; OS01G0323000 PROTEIN; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: probable serine/threonine-protein kinase At1g01540%2C transcript variant X1
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: probable serine/threonine-protein kinase At1g01540
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: probable serine/threonine-protein kinase At1g01540%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: probable serine/threonine-protein kinase At1g01540; probable serine/threonine-protein kinase At1g01540%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: probable serine/threonine-protein kinase At1g01540
+  Gene Descriptions: probable serine/threonine-protein kinase At1g01540
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: probable serine/threonine-protein kinase At1g01540
+  Gene Descriptions: probable serine/threonine-protein kinase At1g01540
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: probable serine/threonine-protein kinase At1g01540
+  Gene Descriptions: probable serine/threonine-protein kinase At1g01540
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: probable serine/threonine-protein kinase At1g01540
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: probable serine/threonine-protein kinase At1g01540
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: probable serine/threonine-protein kinase At1g01540
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: uncharacterized LOC100280167%2C transcript variant X1
+  Gene Synonyms: GRMZM2G147051,pco077003
+  Gene Descriptions: uncharacterized LOC100280167
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 512 aa
+
+MSPPPPPPPLLRNELSRRTAVLGLRLWVLVGIAVGAAFLLLLALISLHLAAARRRRPRKG
+VAhApAaApAPLSPSTIPPVSKEIQEVAVHVGSLRHYLEMGhAFLKDGGkgDGDSVGGST
+AHGSQRVHIEAGKGRRMVAYADGEVGPVASDVAAAVGVGPEVSHLGWGHWYTLRELEEAT
+AAFAPEHVVGEGGYGIVYRGVLADGYQVAVKNLLNNRGQAEREFrVEVEAIGRVRHKNLV
+RLLGYCAEGAHRILVYEYVDNGNLEQWLHGDVGPVSPLTWDIRMNIVLGTAKGITYLHEG
+LEPKVVHRDIKSSNILLDRRWNPKVSDFGLAKLLGSDSNYVTTRVMGTFGYVAPEYASTG
+MLNERSDVYSFGILIMEIISGRSPVDYARPPGEVNLVEWLKNMVTNRDYEAILDPKLPEK
+PSSKALKKALLVALRCVDPDSQKRPKMGHVIHMLEVDDFPYREDRRTLRPGqGSPLEKAR
+TPGKPVAgSCDSSCYEGNTTTASTPSRLVQDM
+
+
+BOP CONSENSUS:
+Length: 523 aa
+
+MAGRERSARAMSasPPPPPLLTNELSRRTPVLGLRLWVLVGLAVGAAFLLLLALISVHLA
+VAARRRRPKGKAAAsAAAqPAPLSPATIPPVSKEIQEVAVHVGSLRHYLEMGAAYLKDGG
+KDGGDSLCGSVAHGSQRVHIEAGKDRRMVAyADAEAGSVQSDPASSVGVGVGPEVSHLGW
+GHWYTLRELDEATAGFAPDRVVGEGGYGIVYLGVFADGRQVAVKNLLNNRGQAEREFTVE
+VEAIGRVRHKNLVRLLGYCVEGAHRILVYEYVDNGNLEQWLHGDVGPVSPLSWDARMDIV
+LGTAKGITYLHEGLEPKVVHRDIKSSNILLDKRWNSKVSDFGLAKLLGSDSNYVTTRVMG
+TFGYVAPEYASTGMLNERSDVYSFGVLIMEIISGRCPVDYARPPtEVNLVEWLKKMVSNR
+DYEAVLDPKLPEKPTSKALKKALLVALRCVDPDSQKRPKMGHAIHMLEVDDFPYREDRRT
+LRPCQGSPLEKSRVygKPVTESGHSSCYDGNSSTAATTPSRFQ
+
+
+PACMAD CONSENSUS:
+Length: 511 aa
+
+MSPPPPPLLRDELSRRTAVLGLRLWVLVGIAVGAAFLLLLALISLHLAAARRRRPRKGVA
+HAPApAAgAPLSPSTIPPVSKEIQEVAVHVGSLRHYLEMGHAFLKDGGGQHHGGDGESVG
+AHGSQRVHIEAGKGRRMVAYADGEVGPVASDVSAAAVGPEVSHLGWGHWYTLRELEEATA
+AFAPEHVVGEGGYGIVYRGVLADGYQVAVKNLLNNRGQAEREFRVEVEAIGRVRHKNLVR
+LLGYCAEGAHRILVYEYVDNGNLEQWLHGDVGPVSPLTWDIRMNIVLGMAKGITYLHEGL
+EPKVVHRDIKSSNILLDRRWNPKVSDFGLAKLLGSDSNYVTTRVMGTFGYVAPEYASTGM
+LNERSDVYSFGILIMEIISGRSPVDYARPAGEVNLVEWLKNKVTNRDYEAILDPKLPEKP
+SSKALKKALLVALRCVDPDSQKRPKMGHVIHMLEVDDFPYREDRRTLRPGNGSPLEKART
+PGkPVAGSCDSSCYEGNTTTASTPSRLVQDM
+
+================================================================================

@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM010911
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             464.5 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR19443:SF17
+Panther Family ID:               PTHR19443
+Modal Panther ID:                PTHR19443:SF17
+Modal Panther Description:       HEXOKINASE-8
+Modal Panther Family ID:         PTHR19443
+Modal Panther Fam Desc:          HEXOKINASE
+Interpro Signature Accession:    cd24020; G3DSA:3.40.367.20:FF:000003; G3DSA:3.30.420.40:FF:000034; G3DSA:3.30.420.40; G3DSA:3.40.367.20; PTHR19443; PR00475; PF00349; PF03727; SSF53067
+Interpro Signature Description:  ASKHA_NBD_HK_plant; Phosphotransferase; -; HEXOKINASE; Hexokinase family signature; Hexokinase; Actin-like ATPase domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: hexokinase-8%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: hexokinase-8-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: hexokinase-8
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: hexokinase-8-like; hexokinase-8-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: hexokinase-8%2C transcript variant X1
+  Gene Descriptions: hexokinase-8
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: hexokinase-8-like%2C transcript variant X1
+  Gene Synonyms: HXK4,HXK8
+  Gene Descriptions: hexokinase-8-like
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 1
+  Modal chromosome: Pau01
+  Gene Products: hexokinase-8-like%2C transcript variant X1
+  Gene Descriptions: hexokinase-8-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: hexokinase-8-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: hexokinase-8-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: hexokinase-8%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: hexokinase1%2C transcript variant X1
+  Gene Synonyms: GRMZM2G104081,si946063f09
+  Gene Descriptions: hexokinase1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 462 aa
+
+mAAMAEQVVADLREKCATPaSLLRDVAAAMADEMGAGLEKEGGSRVKMLLSYVDKLPTGR
+EEGLFYGLDLGGTNFRVLKVQLGGNeKHVVNRESREVaIPPHLMSGSSSELFGFIASELA
+KFVADEEKGTslSNGKKRELGFTFSFPVRQRSVASGTLVKWTKAFSIDDAVGEDVVAELQ
+TAMEKQGLDMHVAALINDAVGTLAGARYYDEDVVAGVIFGTGTNAAYVEKANAIPKWEGE
+LPNSGDMVINMEWGNFYSSHLPVTEYDQaLDkESLNPGEQIYEKLTSGMYLGEIVRRVLL
+KLSLQSsIFGeIDHTKLKTHFlLRTPHISAMHHDETPDLKIVAEKLEENLEITGTSLETR
+KMVVEICDIVARRAARLAAAGLAGILKKLGRDGsvdKQRSVIAIDGGLFEHYTKFReCLE
+sTLGELLGEEASKSVAVKHADDGSGIGAALIAASQSQYRNVE
+
+
+BOP CONSENSUS:
+Length: 459 aa
+
+MAEQVVADLRErCATPASLLRDVAAAMADEMCAGLEKEGGSRVKMLLSYVDKLPTGREEG
+LFYGLDLGGTNFRVLKVQLGGNDKHVISRESREVAIPPHLMSGSSSELFGFIASELAKFV
+ADEEKGTSLSNGKKRELGFTFSFPVRQRSVASGTLVKWTKAFSIEDAVGKDVVAELQTAM
+QKQGLDMHVAALINDAVGTLAGARYYDEDVVAGVIFGTGTNAAYVEKANAIPKWEGELPN
+SGDMVINMEWGNFYSCHLPVTEYDQALDnESLNPGEQIYEKLTSGMYLGEIVRRVLLKLS
+LQSAIFGEIDHTKLKTHFHLRTPHISAMHHDETPDLKIVAEKLEEILEIAGTSLETRKMV
+VEICDIVARRAARLAAAGLAGILKKLGRDGSVDKRRSVIAIDGGLFEHYAKFSKCLEtTL
+gELLGEESSKSVVVKHADDGSGIGAALIAASQSQYRNVE
+
+
+PACMAD CONSENSUS:
+Length: 466 aa
+
+MAAAAVAMAEQVVADLREKCETPPsLLREVASeMAHEMGAGLEKEGGSRVKMLLSYVDKL
+PTGREEGLFYGLDLGGTNFRVLRVQLGGNEKHVVNRESREVsIPPhLMSGSSSELFGFIA
+SELAKFVADEEKCaNISNGKKRELGFTFSFPVKQRSVASGTLVKWTKAFSIDDAVGEDVV
+AELQTAMEKQGLDMHVAALINDAVGTLAGARYYDKDVVAGVIFGTGTNAAYVEKANAIPK
+WEGELPNSGDMVINMEWGNFCSSHLPITEYDQELDeESLNPGEQIYEKLMSGMYLGEIVR
+RVLLKISLqSSIFGNIDHTKLKTHFLLRTPHISAMHHDETPDLKIVAEKLEENLEITGTS
+LETRKLVVEICDIVARRAARLAAAGLAGILKKLGRDCNAQeQRSVIAIDGGLFEHYTKFR
+ECLESTLGELLGEEASKSVAVKHADDGSGIGAALIAASQSQYRNVE
+
+================================================================================

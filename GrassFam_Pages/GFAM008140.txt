@@ -1,0 +1,126 @@
+================================================================================
+GrassFam ID: GFAM008140
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             417.0 aa
+Family Size (Extended Family Size): 18 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13318:SF75
+Panther Family ID:               PTHR13318
+Modal Panther ID:                PTHR13318:SF75
+Modal Panther Description:       COI1 F-BOX DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR13318
+Modal Panther Fam Desc:          PARTNER OF PAIRED, ISOFORM B-RELATED
+Interpro Signature Accession:    G3DSA:3.80.10.10:FF:002856; G3DSA:3.80.10.10; PTHR13318; SSF52047
+Interpro Signature Description:  RNI-like superfamily protein; Ribonuclease Inhibitor; PARTNER OF PAIRED, ISOFORM B-RELATED; RNI-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: uncharacterized F-box/LRR-repeat protein C02F5.7
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: F-box/LRR-repeat protein 20
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: F-box/LRR-repeat protein 2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: F-box/LRR-repeat protein 2-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: uncharacterized LOC127764709
+  Gene Descriptions: uncharacterized LOC127764709
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4330084
+Pau
+  Gene count: 1
+  Modal chromosome: Pau06
+  Gene Products: uncharacterized LOC133921690
+  Gene Descriptions: uncharacterized LOC133921690
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: EIN3-binding F-box protein 1-like; F-box/LRR-repeat protein 20-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: F-box/LRR-repeat protein 4
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: F-box/LRR-repeat protein 20
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100277153
+  Gene Synonyms: GRMZM2G078092,TIDP3706
+  Gene Descriptions: uncharacterized LOC100277153
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 417 aa
+
+MSAPPSGGGGALINEVLTDDELRAVLTRLGPEAERDAFGLVCRRWLRIQSSERRRLRARA
+GPDMLRRLAARFPGILELDLSQSPSRSFYPGVIDDDLDVIAGSFRNLRVLALQNCKGITD
+VGvAKLGDGLPSLQSLDVSRCIKLSDKGLKAVALGCQKLRQLHITGCRLITDNLLtALSK
+SCLQLEELGAAGCNSITDAGISALADGCHHIKSLDISKCNKVGDPGVCKIAEVSSSSLVS
+LKLLDCSKVGDKSIYSLAKFCcNLETLVIGGCRNISDASIQALALACSSSLRSLRMDWCL
+KITDtSLRSLLSNCKLLVAIDVGCCDQITDAAFQDMEGNGFQSELRVLKISSCVRLTVAG
+VSSVIESCKALEYLDVRSCPQVTRQSCEQAGLQFPgGCKVNFEGSLLESDPSADRFF
+
+
+BOP CONSENSUS:
+Length: 417 aa
+
+MSASpSEGDEALINEVLTDDELRAVLTRLGPESERDAFGLVCRRWLRIQSSERRRLRARA
+GPSMLRRLAARFPGILELDLSQSPSRSFYPGVIDDDLDVIAGGFCNLRVLALQNCKGITD
+VGMVKLGEGLPCLQTLDVSHCKKLSDKGLKVVASGCQKLRQLHIAGCRLITDNLLhAvSK
+sCLNLEELGAAGCNSITDAGISALADGCHKMKSLDISKCNKVGDPGICKIAEVSSSSLVS
+LKLLDCSKVGNKSIYSLAKFCCNLETLIIGGCRDISDESIEALALACCSSLRILRMDWCL
+KITDASLRSLLCNCKLLAAIDVGCCDQITDAAFQGMEANLFQSELRVLKINNCVrLTVvG
+VSSVIESCKALEYLDVRSCPQVTRQSCEEAGLQLPGGCKVNFEGSLSESDPSVDRFF
+
+
+PACMAD CONSENSUS:
+Length: 417 aa
+
+MSAPPsGGGGALINEVLTDDELRAVLTRLGPEAERDAFGLVCRRWLRIQSSERRRLRARA
+GPDMLRRLAARFPGvLELDLSQSPSRSFYPGVIDDDLDVIAGSFRNLRVLALQNCKGISD
+VGVAKLGDGLPSLQSLDVSRCIKLSDKGLKAVALGCQKLRQLHITGCRLITDNLLtALSK
+SCLQLEELGAAGCNSITDAGISALADGCHHIKSLDISKCNKVGDPGVCKIAEVSSSCLVS
+IKLLDCSKVGDKSIYSLAKFCsNLETLVIGGCRNISDASIQALALACSSSLRSLRMDWCL
+KITDTSLRSLLSNCKLLVAIDVGCCDQITDvAFQDGEGyGFQSELRVLKISSCVRLTVAG
+VSSVIESFKALEYLDVRSCPQVTRDSCEQAGVQFPsGCKVNFyGSLLESDPSAERFF
+
+================================================================================

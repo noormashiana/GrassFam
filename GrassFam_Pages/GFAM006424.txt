@@ -1,0 +1,144 @@
+================================================================================
+GrassFam ID: GFAM006424
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             627.0 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31187:SF13
+Panther Family ID:               PTHR31187
+Modal Panther ID:                PTHR31187:SF13
+Modal Panther Description:       ADP,ATP CARRIER PROTEIN 1, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR31187
+Modal Panther Fam Desc:          FAMILY NOT NAMED
+Interpro Signature Accession:    TIGR00769; PTHR31187; PF03219
+Interpro Signature Description:  NTP/NDP exchange transporter; -; TLC ATP/ADP transporter
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: plastidic ATP/ADP-transporter
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: plastidic ATP/ADP-transporter-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: plastidic ATP/ADP-transporter
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: plastidic ATP/ADP-transporter-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: plastidic ATP/ADP-transporter-like
+  Gene Descriptions: plastidic ATP/ADP-transporter-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: plastidic ATP/ADP-transporter
+  Gene Descriptions: plastidic ATP/ADP-transporter
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: plastidic ATP/ADP-transporter-like; plastidic ATP/ADP-transporter-like%2C transcript variant X1
+  Gene Descriptions: plastidic ATP/ADP-transporter-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: ADP%2CATP carrier protein 1%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: ADP%2CATP carrier protein 2%2C chloroplastic-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi04
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: ADP%2CATP carrier protein 1%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: uncharacterized LOC100272602%2C transcript variant X1
+  Gene Synonyms: GRMZM2G359038,pco098455(713)
+  Gene Descriptions: uncharacterized LOC100272602
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 625 aa
+
+MESGLVASHRLRLPLPSAAAHaHLLRHRHpLAAAPLRLSLHLPtPTPLRLPAALPLRPCL
+PPLRAAAAAAAAPAPGDdADaSPKFLGVETKTLKKIVPLGLMFFCILFNYTILRDTKDVL
+VVTAKGSSAEIIPFLKTWVNLPMAIGFMLLYTKLADVLSKEALFYTVIFPFIAFFGAFAY
+VLYPMRDAIHPTALADRLLASLGPSFLGPVAILRVWSFCLFYVMAELWGSVVISVLFWGF
+ANQITTVEEAKEFYPLFGLGANVALIFSGRTVKYFSNMRKNLGPGVDGWAISLKAMMSIV
+VVLGLVIAGIYWGVNKFVIDKSSmPVVERKKKDKPKLSMGESMKVLLSSRYVRDLATLVV
+AYGISINLVEVTWKSKLKAQFPSPNEYSSFMGDFSTATGIATFTMMLLGRVILRKFGWGV
+AATITPAVLLLTGVGFFSLILFGEPLTPLMTKFGMTPLLAAVYVGAMQNIFSKSAKYSLF
+DPCKEMAYIPLDEDMKVKGKAAIDVVCNPLGKSGGALIQQFMILSFGSLANSTPYLGGIL
+LVIVLAWLGAVRSLDSQFSPLAKQDLEREKMLKAkAVETTAQVVGTGNGSLQEtLASEnS
+TNGsAIKQSQEPESTTPEKSGQQSQ
+
+
+BOP CONSENSUS:
+Length: 620 aa
+
+MESGLVASHRLRLPALPSAAHAHLLRHRRLAATPLRLPTTPTPLRQPAALPLRPCLRPPR
+AASVASPAPVPGDAPDNSRKFLGVDALTLKKIVPLGLMFFCILFNYTILRDTKDVLVVTA
+KGSSAEIIPFLKTWVNLPMAIGFMLLYSKLADVLSKEALFYTVIFPFIAFFGVFGYVLYP
+MRDAIHPTALADRLLASLGPSFLGPVAILRVWSFCLFYVMAELWGSVVISVLFWGFANQI
+TTVEEAKEFYPLFGLGANVALIFSGRTVKYFSNMRQNLGPGVDGWAISLKGMMSIVVVLG
+FVIAGIYWGVNKYVIDKTSLPVERKKKNKPKLSMGESLKVLVSSRYVRDLATLVVAYGIS
+INLVEVTWKSKLKAQFPSPNEYSSFMGDFSTATGIATFTMMLLGRVILRKFGWGVAATIT
+PAVLLVTGVGFFSLLLFGEPLTPLLATFGMTPLLAAVFVGALQNIFSKSAKYSLFDPCKE
+MAYIPLDEDMKVKGKAAIDVVCNPLGKSGGALIQQFMILSFGSLANSTPYLGGILLVIVI
+AWLGAVRSLDSQFSPLAKQDLEREQqLKAEaVETTAQVVGTGNGSLQENVASQSSTNGTV
+IKQSQEPESTAPEKSGKQSQ
+
+
+PACMAD CONSENSUS:
+Length: 634 aa
+
+MESGLVASHRLRLPLPSASAGAHHhHLLRHRHPLAAPAAAAPLRLSLPRHLPrPTPLRLP
+AALPLRPCLPPLRASAAAAASPAPGDDASASPKFLGVETKTLKKIVPLGLMFFCILFNYT
+ILRDTKDVLVVTAKGSSAEIIPFLKTWVNLPMAVGFMLLYTKLADVLSKEALFYAVIFPF
+IAFFGAFAYVLYPMRDAIHPTALADRLLASLGPSFLGPVAILRVWSFCLFYVMAELWGSV
+VISVLFWGFANQITTVEEAKEFYPLFGLGANVALIFSGRTVKYFSNMRKNLGPGVDGWAI
+SLKAMMSIVVvLGLVITGIYWGVNKFVIDnSSMPVVERKKKDKPKLSMGESMKVLLSSRY
+VRDLATLVVAYGISINLVEVTWKSKLKAQFPSPNEYSSFMGDFSTATGIATFTMMLLGRV
+ILRKFGWGVAATITPAVLLLTGVGFFSLILFGEPLTPLMTKFGMTPLLAAVYVGAMQNIF
+SKSAKYSLFDPCKEMAYIPLDEDMKVKGKAAIDVVCNPLGKSGGALIQQFMILSFGSLAN
+STPYLGGILLVIVLAWLGAVRSLDSQFSPLAKQELEREKMLKAKAVETTAqVVGTGNGSL
+QETLASEtSANGSAIKQSQEPESTTPEKSGQQSQ
+
+================================================================================

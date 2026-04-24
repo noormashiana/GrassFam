@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM005503
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             519.0 aa
+Family Size (Extended Family Size): 20 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23315:SF339
+Panther Family ID:               PTHR23315
+Modal Panther ID:                PTHR23315:SF339
+Modal Panther Description:       U-BOX DOMAIN-CONTAINING PROTEIN 40
+Modal Panther Family ID:         PTHR23315
+Modal Panther Fam Desc:          U BOX DOMAIN-CONTAINING
+Interpro Signature Accession:    G3DSA:1.25.10.10:FF:000392; G3DSA:1.25.10.10:FF:000285; G3DSA:3.30.40.10:FF:000491; PTHR23315; SSF48371
+Interpro Signature Description:  RING-type E3 ubiquitin transferase; U BOX DOMAIN-CONTAINING; ARM repeat
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: U-box domain-containing protein 39
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: U-box domain-containing protein 40
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: U-box domain-containing protein 39
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: U-box domain-containing protein 39-like; U-box domain-containing protein 41-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: U-box domain-containing protein 39-like
+  Gene Descriptions: U-box domain-containing protein 39-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: U-box domain-containing protein 39
+  Gene Descriptions: U-box domain-containing protein 39
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: U-box domain-containing protein 39-like; U-box domain-containing protein 40-like
+  Gene Descriptions: U-box domain-containing protein 39-like; U-box domain-containing protein 40-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: U-box domain-containing protein 39-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: U-box domain-containing protein 39
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: U-box domain-containing protein 39
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: U-box domain-containing protein 39
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 519 aa
+
+MGTgRPRWRPPtaSSpApSASaSsSPSSSFTADPPAEFLCPISGTLMADPVVVPPGQTFE
+RACIQACAALAFSPPAVAADLSaSsSSSSPLVLVPNVALRTAILNWCDRLGLPHPAPLSP
+DTAhDIVRRLMPPqqEQrSqqqQRPPPQvASSVRtRrrSVagDdFVQEPrQRGGsLEEEI
+MAVLGAEGAsPAEQaAAMASLRQATRENrEMRRQLCTPRLLAALRPMLLSADAGVQVNAA
+AAMVNLSLEPENKVRIVRSGAVSPLVDVLRGGHPEARDHAAGAMYSLAVEDENRAAIGVL
+GAIPPLLELFAsAAAGHRARREAGMALYHVSLSGMNRSKIARTPGAVRTLLAAAEARDRa
+NEADAAALRRLAVMILANLAGCPDGRAALMDGGAVAAVVRLMRsGSAAPGSAEEEYCISt
+LYGMSRGSLRFRGLARAAGVEAALQPVAEGDGGVGRDMARRTLRAMRGEDDEAPVTAtGL
+LGRQWDDGSVVSEGLVSIRRPPPHRSNYAGPSGSNTTQF
+
+
+BOP CONSENSUS:
+Length: 521 aa
+
+MGTARLRWRPFTASSPASPSSASSSPSSSFTTTVDPPAEFLCPISGTLMADPVIVPPGQT
+IERACIQACAALAFYPPAVAGLPSSPLVLIPNVALRSAILNWCERLGLPHPSPLSLDTAG
+DIVRRLMPPRQEQRSQVNYGPPPQPQPSSVRTRNRYSVYSAGDDFVQEPKQtGGSLEEEI
+MAVLGADGASPAEQKATMASLRQATRESREMRTQLCTPRLLAALRPMLLSADAGIQVNAA
+AAMVNLSLEAENKVRIVRSGAVSPLVDVLRVGHPEARDHAAGAIYSLAVEDENRAAIGVL
+GAIPPLLELFSSGGAGHRARREAGMALYHVSLAGMNRSKIARTPGVVRTLLATAEARDRG
+NdsDADAAALRKLAVMILANLAGCPEGRAALMDGGAVAAIVGLMRSGSAAPGSAEEEYCI
+SALYGMSRGSLRFRGLARAAGVEAALMPVAESDGGVGRDMARRTLRAMRGEDDEVALTAS
+GILGREWDDASVVSEGMVSLRRPPHHRSNYAGPSGSNTTQF
+
+
+PACMAD CONSENSUS:
+Length: 520 aa
+
+MATGTGRPWWAPPPPAAAPSAPPFPSPPSSFTADPPEEFLCPISGTLMADPVVVPPGQTF
+ERACIQACAALAFSPPAVAADLSaSsSSSSPLVLVPNVALRTAILNWCDRLALPHPAPLS
+PDTAHDIVRRLMPPQrEdqSSQsQRPQtQVASSVRVRRqSVDGFVQEPSSRQRGDALEEE
+IMAVLGAEGATPAEQASAMASLRQATRENrEVRRQLCTPRLLAALRPMLLSADAGVQVNA
+AAAVVNLSLEPENKVRIVRSGAVSPLVDVLRGGHPEARDHAAGAMYSLAVEDENRAAIGV
+LGAIPPLLELFAGAGAAGYRARREAGMALYHVSLSGMNRSKIARAPGAVRTLLAAAEARD
+RSSEADAAALRRLAVMILANLAGCPDGRAALMDGGAVAAVVRLMRNGSAAPGSAEEEYCI
+STLYGMSRGSMRFRGLARAAGVEAALQPVAEGDGGVGRDMARRTLRAMRGEDDEAPVTAT
+GLLGRQWDDGSVVSEGLVSIRRPPHRSNYAGPSGSNTTQF
+
+================================================================================

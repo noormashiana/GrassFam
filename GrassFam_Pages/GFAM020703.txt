@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM020703
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             434.0 aa
+Family Size (Extended Family Size): 20 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR16288:SF0
+Panther Family ID:               PTHR16288
+Modal Panther ID:                PTHR16288:SF0
+Modal Panther Description:       TRNA (GUANINE-N(7)-)-METHYLTRANSFERASE NON-CATALYTIC SUBUNIT WDR4
+Modal Panther Family ID:         PTHR16288
+Modal Panther Fam Desc:          WD40 REPEAT PROTEIN 4
+Interpro Signature Accession:    G3DSA:2.130.10.10:FF:001350; G3DSA:2.130.10.10:FF:001042; G3DSA:2.130.10.10; PTHR16288; SSF50978
+Interpro Signature Description:  tRNA (guanine-N(7)-)-methyltransferase non-catalytic subunit; -; WD40 REPEAT PROTEIN 4; WD40 repeat-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: tRNA (guanine-N(7)-)-methyltransferase non-catalytic subunit wdr4
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: tRNA (guanine-N(7)-)-methyltransferase non-catalytic subunit wdr4
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: tRNA (guanine-N(7)-)-methyltransferase non-catalytic subunit wdr4
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: tRNA (guanine-N(7)-)-methyltransferase non-catalytic subunit wdr4-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: uncharacterized LOC127766423
+  Gene Descriptions: uncharacterized LOC127766423
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4334092
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau03
+  Gene Products: uncharacterized LOC133913296
+  Gene Descriptions: uncharacterized LOC133913296
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: tRNA (guanine-N(7)-)-methyltransferase non-catalytic subunit wdr4-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: tRNA (guanine-N(7)-)-methyltransferase non-catalytic subunit wdr4
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: tRNA (guanine-N(7)-)-methyltransferase non-catalytic subunit wdr4
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: uncharacterized LOC100273070
+  Gene Synonyms: GRMZM2G131998
+  Gene Descriptions: uncharacterized LOC100273070
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 434 aa
+
+MEDtAVEEAEVSGAAEFAPALVAAHPlGnSVAVAVGPELRVFDLKAGcAVSLSDDSGGrS
+HSDAIRAIsFSAsGALFASAGDDKLVKVWKTDSWRCIRTITSEKRVSAVAISNDGLYVTF
+ADKFGVVWLVTLGEDGgEQVSvDNKPVSIlGHYCSIITSMKFSPDGRFIATADRDFKIRV
+TsFPKNPLKGAHEIQSFCLGHTDFVSCIAFTSlSEGqSFLLSGGGDSTVRLWDYINGCLL
+DTcQVRDKVGELLEPNETEDSNLAIADICpTNDGSLVAVAIQSLNGVMLLACDLVaKKLS
+FLKVITMEKSYIPTSLASSsSaeLLWTVMGASNMPNQAaSQLLTRLRIIPrFQKDLLASS
+DngPAvLEDSEVPHGEKLLLALQGSLDiaKQEEVLASVLAALKVSMHKMLVKKHYSEERR
+EQRKRGRNDKKIKk
+
+
+BOP CONSENSUS:
+Length: 432 aa
+
+MEDAAVEEAEVSGAGEFAPALVAAHPLGHSVAVAVGPELRVFDLKGGCAVSLSDDSGGCS
+HSDAIRAISFSADGALFASAGDDKLVKIWKTDSWRCIQTITSEKRVSAVAISNDGLYVTF
+ADKFGVIWLVTVGEHGGGQVSSDNKPVSIYGHYCSIITSMKFSPDGRFIATADRDFKIRV
+TSFPKNPlKGAPEIQSFCLGHTEFVSSIAFTSLSGGSSFLLSGGGDSTVRLWDYINGCLL
+DTYEVKDKVGEQPNETEDSNLAIADLCLTNDDSLVAVAIQSLNGIMLLACDLVAKKLSFL
+KVITTEKSYIPTSLAYSSSADLLWTVMGASNMPNQAASQLLTRVRIIPRFQKDLSASADH
+DPAVLEDSEVPHGEKLLLALQGSLDASKQEEVLAAVLAALRVSMHKMLVKKNYSEERREQ
+RKRGRNDKKIKK
+
+
+PACMAD CONSENSUS:
+Length: 434 aa
+
+MEDTAVEEAEVSGAAEFAPALVAAHPHGNSVAVAIGPELRVFDLKAGsPVSLSDDCGGRS
+HSDAIRAICFSVSGALFASAGDDKLVKVWKTDSWRCIRTITSEKRVSAVAISNDDLYVTF
+ADKFGVVWLVTLGEDGaEQVSVDNKPVSILGHYCSIITSMKFSPDGRFIATADRDFKIRV
+TLFPKNPLKGAHEIQSFCLGHTDFVSCIAFTSISENQSFLISGGGDSTVRLWDYINGCLL
+DTFQVRDKMGELLEPNETDDSSLAIADICPSNDGSLVAVAIQSFsGVMLLACDLVGKKLS
+FLKVITMEKSYIPTSLASSlSSELLWTVMGASNMPNQASSQLLTRLRIIPCFQKDLLSSS
+DNGPAtLEDSeVPHGEKLLLALQGSLDvAKQEEVLASVLAALKVSMHKMLVKKHYSEERR
+EQRKRGRNDKKIKN
+
+================================================================================

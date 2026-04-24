@@ -1,0 +1,147 @@
+================================================================================
+GrassFam ID: GFAM007366
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             666.0 aa
+Family Size (Extended Family Size): 33 (106) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11453:SF128
+Panther Family ID:               PTHR11453
+Modal Panther ID:                PTHR11453:SF128
+Modal Panther Description:       BICARBONATE TRANSPORTER-LIKE TRANSMEMBRANE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR11453
+Modal Panther Fam Desc:          ANION EXCHANGE PROTEIN
+Interpro Signature Accession:    G3DSA:1.10.287.570:FF:000004; PTHR11453; PF00955
+Interpro Signature Description:  probable boron transporter 2; ANION EXCHANGE PROTEIN; HCO3- transporter integral membrane domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: boron transporter 4
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu03H
+  Gene Products: boron transporter 4-like; boron transporter 4-like%2C transcript variant X1
+Ata
+  Gene count: 3
+  Modal chromosome: Ata03D
+  Gene Products: boron transporter 4; boron transporter 4%2C transcript variant X1
+Tae
+  Gene count: 7
+  Modal chromosome: Tae03A
+  Gene Products: boron transporter 4%2C transcript variant X1; boron transporter 4-like; boron transporter 4-like%2C transcript variant X1; boron transporter 4-like%2C transcript variant X2; boron transporter 4-like%2C transcript variant X3
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl01
+  Gene Products: boron transporter 4-like
+  Gene Descriptions: boron transporter 4-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa01
+  Gene Products: boron transporter 4; uncharacterized protein
+  Gene Descriptions: boron transporter 4; uncharacterized LOC4326215
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: boron transporter 4-like; boron transporter 4-like%2C transcript variant X2
+  Gene Descriptions: boron transporter 4-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi03K
+  Gene Products: boron transporter 4-like; boron transporter 4-like%2C transcript variant X1; boron transporter 4-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: boron transporter 4-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: boron transporter 4%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: boron transporter-like protein 2%2C transcript variant 1
+  Gene Synonyms: GRMZM2G051753
+  Gene Descriptions: boron transporter-like protein 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 663 aa
+
+MDLLRnPFKGVVADVKGRAaWYKHDWVAGLRSGFRILAPTMYIFFASALPVIAFGEQLSt
+ETNGILSTVETLASTAICGIIHSILGGQPLLIVGVAEPTIIMYTYLYNFAKKQqGLGErL
+YLAWAGWVCIWTAIMLFLLAMFNASNVISRFTRVAGELFGMLITVLFLQEAIKGIISEFS
+vPkDADsSSPIYQFQWLYVNGLLGVIFSIGLLYTALRTRRARSWLYGiGWLRSFIADYGV
+PLMVIVWTALSYTLPSKVPSGVPRRLFSPLPWESSSLgHWTVAKDLFSVPPAYIFAAIVP
+ALMVAGLYFFDHSVASQLAQQKEFNLKKPSAYHYDILVLGFMVLLCGLIGIPPSNGVLPQ
+SPMHTRSLAVLKGQLLRKKMVqTAKEGMsNRASSLEIYGKMQEVFIEMDSEQNTDSVDKE
+LKSLKDAVLqEGDEEGKLAgEFDPRKHIEAHLPVRVNEQRLSNLLQSLLVGGCVGAMPVI
+KMIPTSVLWGYFAYMAIDSLPGNQFWERIQLLFIgaSRRYKVLEGPHASFVESVPsrTIs
+vFTIFQLVYLLICFGITWIPIAGILFPLPFFLMILIRQYLLPKFFEPNDLRELDAAEYEE
+LEGVpHEHTLEEdgSeSGSCdSRpDAEILDELTTNRGELKHRTvSHREERHLQVHSNAVQ
+PSv
+
+
+BOP CONSENSUS:
+Length: 666 aa
+
+MDLLRnPFKGVVADVKGRAsWYKDDWVAGLRTGFRILAPTMYIFFASALPVIAFGEQLSN
+ETNGILSTVETLASTAICGIIHSILGGQPLLIVGVAEPTIIMYTYLYNFAKKQPgLGERL
+YLAWAGWVCIWTAIMLFLLAMFNASNVISRFTRVAGELFGMLITVLFLQQAIKGIVSEFS
+MPKDAEIsDrSSPIYQFQWIYVNGLLGVIFSIGLLYTALKTRRARSWLYGIGWLRSFIAD
+YGVPLMVIVWTAFSYALPSkVPSGVPRRLFSPLPWESSSLgHWTVAKDLFSVPPAYIFAA
+IVPALMVAGLYFFDHSVASQLAQQKEFNLKKPSAYHYDILVLGFMVLLCGLIGIPPSNGV
+LPQSPMHTRSLAVLKGQLLRKKMLQTAKEGMSNRASSLEIYGKMQEVFIEMDseQNADSV
+DKDLKSLKDAVLREGDEEGKLAGEFDPRKHIEAHLPVRVNEQRLSNLLQSLLVGGCVGAM
+PVIKMIPTSVLWGYFAYMAIDSLPGNQFWERIQLLFIGASRRYKVLEGPHASFVESVPSR
+TISVFTIFQiVYLLICFGITWIPIAGILFPLPFFLMILIRQHLLPKFFEPNDLRELDAAE
+YEELEGVhHEHTLEEDGSnSGSCDSRdDAEILDELTTNRGELKHRtVSHREERHLQVHSN
+AVQPSV
+
+
+PACMAD CONSENSUS:
+Length: 663 aa
+
+MDLLRsPFKGVIADVKGRAAWYKHDWVAGLHSGFRILAPTMYIFFASALPVIAFGEQLST
+ATNGILTTVETLASTAICGIIHSILGGQPLLIVGVAEPTIIMYTYLYNFAKKQQGLGEqL
+YLAWAGWVCIWTAIMLFLLAMFNASNVISRFTRVAGELFGMLITVLFLQEAIKGIISEFS
+VPEDADSSSPIYQFQWLYVNGLLGVIFSIGLLYTALRTRRARSWLYGvGWLRSFIADYGV
+PLMVIVWTALSYTLPSKVPSGVPRRLfSPLPWESSSLGHWTIVkDLFSVPPAYIFAAIVP
+ALMVAGLYFFDHSVASQLAQQKEYNLKKPSAYHYDILVLGiMVLLCGLIGIPPSNGVLPQ
+SPMHTRSLAVLKRQLLSKKMVDTAKESIGkSATSLEIYGKMQEVFIEMDSEQNTDSVDKE
+LKNFKDAVLQEGDEEGKLAREFDPRKHIEAHLPVRVNEQRLSNLLQSILVGGCVGAMPVI
+RMIPTSVLWGYFAYMAIDSLPGNQFWERIQLLFIAESRRYKVLEGPHASFVESVpPKTIt
+IFTIFQLVYLLICFGITWIPIAGILFPVPFFLMILIRQYLLPKFFDPIvLRELDAAEYEE
+LDGVPHEHtLEDEVSEVGSCiSRPDAEILDELTTNRGELKHRTSSLREERPvQVPSNAVQ
+PSL
+
+================================================================================

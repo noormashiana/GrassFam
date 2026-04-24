@@ -1,0 +1,125 @@
+================================================================================
+GrassFam ID: GFAM015073
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             472.0 aa
+Family Size (Extended Family Size): 19 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11909:SF352
+Panther Family ID:               PTHR11909
+Modal Panther ID:                PTHR11909:SF352
+Modal Panther Description:       OS05G0593800 PROTEIN
+Modal Panther Family ID:         PTHR11909
+Modal Panther Fam Desc:          CASEIN KINASE-RELATED
+Interpro Signature Accession:    cd14125; G3DSA:1.10.510.10:FF:000134; G3DSA:3.30.200.20:FF:000538; G3DSA:1.10.510.10; PTHR11909; PF00069; SSF56112
+Interpro Signature Description:  STKc_CK1_delta_epsilon; Casein kinase I isoform delta-like; Putative Casein kinase I; Transferase(Phosphotransferase) domain 1; CASEIN KINASE-RELATED; Protein kinase domain; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: casein kinase I-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: casein kinase 1-like protein 2%2C transcript variant X3
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: casein kinase 1-like protein 1%2C transcript variant X1; casein kinase 1-like protein 2%2C transcript variant X1; casein kinase I-like%2C transcript variant X4
+Ola
+  Gene count: 2
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: uncharacterized LOC127780123
+  Gene Descriptions: uncharacterized LOC127780123
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4326345
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: uncharacterized LOC133904949; uncharacterized LOC133914495
+  Gene Descriptions: uncharacterized LOC133904949; uncharacterized LOC133914495
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: casein kinase I-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: casein kinase 1-like protein 2%2C transcript variant X1
+Msi
+  Gene count: 1
+  Modal chromosome: Msi06
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: casein kinase I
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 473 aa
+
+MEPRVGNKYRLGRKLGSGSFGEIYLGTNVQTNEEVAIKLENVKTKHPQLLYESKLYRILQ
+GGTGIPNVKWFGVEGDYNVLVMDLLGPSLEDLFSFCNRKLSLKTVLMLADQMINRVEYVH
+sKSFLHRDIKPDNFLMGLGKRANQVYMIDFGLAKKYRDTSTHQHIPYRENKNLTGTARYA
+SVNTHLGIEQSRRDDLESLGYVLMYFLRGSLPWQGLKAGTKKQKYEKISERKIATSIEAL
+CRGYPsEFQSYFHYCRSLRFEDvPDYQYLKRLFRDLFIREGFQFDYVFDWTILKYQQSQM
+TSVPPRAIAAAAGQSSGMAPmANNNRLSATEEGRRSGWSDDPLRRQVPPAGINAGSLSKQ
+KSPVRQElSTSKDAVFSSSTFLGRSSGSLRRPAVSSSRELPTSEAEPSRSRTPDASPGTF
+QRNAPPRRTSQMLDYSDPRHSSSGRlMSNTKNYESTLRGIQGLNFDANDRIHY
+
+
+BOP CONSENSUS:
+Length: 473 aa
+
+MEPRVGNKYRLGRKLGSGSFGEIYLGTNVQTNEEVAIKLENVKTKHPQLLYESKLYRILQ
+GGTGIPNVKWFGVEGDYNVLVMDLLGPSLEDLFSFCNRKLSLKTVLMLADQMINRVEFVH
+SKSFLHRDIKPDNFLMGLGKRANQVYMIDFGLAKKYRDTSTHQHIPYRENKNLTGTARYA
+SVNTHLGIEQSRRDDMESLGYVLMYFLRGSLPWQGLKAGTKKQKYEKISERKIATSIEAL
+CRGYPSEFQSFFHYCRSLRFEDsPDYQYLKRLFRDLFIREGFQFDYVFDWTILKYQQSQM
+TSVPPRAIAAAAGQSSGMAPIANNNRLSATEEGRRSGWSDDPTRRQVPPTGINAGSLSKQ
+KSPVRPDmSTSKDAVFSSSTFLGRSSGSSRRPAVSSSRELQSSEAEPSRSRTPDASPGTF
+QRNApPRRtSQTLDYSDPRHSSSGRHMSNSKNYESTIRGIQGLNFDANDRIHY
+
+
+PACMAD CONSENSUS:
+Length: 472 aa
+
+MEPRVANKFRLGRKLGSGSFGEIFLGTHVQTNEEVAIKLESVKTKHPQLLYESKLYRILQ
+GGTGIPNVKWFGVEGDYNVLVMDLLGPSLEDLFSFCNRKLSLKTVLMLADQMINRVEYVH
+mKSFLHRDIKPDNFLMGLGKRtNQVYiIDFGLAKKYRDSsTHQHIPYRENKNLTGTARYA
+SVNTHLGIEQSRRDDLESLGYVLMYFLKGSLPWQGLKAGTKKQKYEKISERKIATSVEAL
+CRGYPTEFqSYFHYCRSLRFEDaPDYQYLKRLFRDLFIREGFQFDYVFDWTILKYQQSQM
+SVPPRAMAAAAGQSSGMAPMANNNRLSATEEGRRSGWSDDPLRRQVPPAGINAGSLSKQK
+SPVRQEqSTSKDAVFPSSTFLGRSSGSLRRPAVSSSRVPTSEAEisSRTPDASPGAFQRN
+APPHRTSQMLEYsDPRLRHSSSGRLMSNTKNYESTLRGIQGLNFDANDRIHY
+
+================================================================================

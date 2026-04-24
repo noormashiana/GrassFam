@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM010410
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             419.5 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11062:SF125
+Panther Family ID:               PTHR11062
+Modal Panther ID:                PTHR11062:SF125
+Modal Panther Description:       GLUCURONOSYLTRANSFERASE OS01G0926400-RELATED
+Modal Panther Family ID:         PTHR11062
+Modal Panther Fam Desc:          EXOSTOSIN  HEPARAN SULFATE GLYCOSYLTRANSFERASE -RELATED
+Interpro Signature Accession:    PTHR11062; PF03016
+Interpro Signature Description:  EXOSTOSIN  HEPARAN SULFATE GLYCOSYLTRANSFERASE -RELATED; Exostosin GT47 domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: probable glucuronosyltransferase Os01g0926400
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: probable glucuronosyltransferase Os01g0926400%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: probable glucuronosyltransferase Os01g0926400
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: probable glucuronosyltransferase Os01g0926400; probable glucuronosyltransferase Os01g0926400%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: probable glucuronosyltransferase Os01g0926400
+  Gene Descriptions: probable glucuronosyltransferase Os01g0926400
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: probable glucuronosyltransferase Os01g0926400
+  Gene Synonyms: OsGT47D
+  Gene Descriptions: probable glucuronosyltransferase Os01g0926400
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: probable glucuronosyltransferase Os01g0926400; probable glucuronosyltransferase Os01g0926400%2C transcript variant X2
+  Gene Descriptions: probable glucuronosyltransferase Os01g0926400
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: probable glucuronosyltransferase Os01g0926400; probable glucuronosyltransferase Os01g0926400%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: probable glucuronosyltransferase Os01g0926400%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: probable glucuronosyltransferase Os01g0926400%2C transcript variant X3
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: putative beta-14-xylosyltransferase IRX10L%2C transcript variant X1; uncharacterized LOC107275237%2C transcript variant X1
+  Gene Synonyms: GRMZM2G134308; GRMZM2G448834
+  Gene Descriptions: putative beta-14-xylosyltransferase IRX10L; uncharacterized LOC107275237
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 417 aa
+
+MGRgTRPAAAAAALLLVAsCvAAAPlQQQHKHaRISGNAGGVLDDDPVGKLKVFVYEMPR
+KYNlmLLaKDSRCLhHMFAAEIFMHQFLLSSAVRTLDPEEADWFYTPVYTTCDLTPQGFP
+LPFRAPRIMRSAIqYVATTWPYWNRTEGADHFFLTPHDFGACFHYQEERAMERGILPLLR
+RATLVQTFGQRNHVCLQdGSITIPPYANPHKMQAHLISPGTPRSIFVYFRGLFYDMGNDP
+EGGYYARGARASVWENFKDNPLFDISTEHPSTYYEDMQRAIFCLCPLGWAPWSPRLVEAV
+VFGCIPVIIADDIVLPFADAIPWEQISVFVAERDVPRLDSILTSIPLeDILRKQRLLAsp
+SVKQALLFHQPARPGDAFHQVLNGLARKLPHGkGVFLqPGEKVLDWDAGLESDLKPW
+
+
+BOP CONSENSUS:
+Length: 422 aa
+
+MGAGTRPSAAAAALLAVAACCAALLVAAAPPQQQHKHVRISGNAGDVLEDDPVGKLKVFV
+YEMPRKYNHYLLEKDNRCLYHMFAAEIFMHQFLLASAVRTMNPEEADWFYTPVYVTCDLT
+QQGFPLPFRAPRIMRSAVQYIAATWPYWNRTEGADHFFLAPHDFGACFHYQEERAIERGI
+LPVLRRATLVQTFGQRNHVCMQEGSITIPPYANPQKMQAHLISPGTPRSIFAYFRGLFYD
+MGNDPEGGYYARGARASVWENFKDNPLFDMSTEHPSTYYEDMQRAIFCLCPLGWAPWSPR
+LVEAVVFGCIPVIIADDIVLPFADAIPWEQISVFVAEADVPRLDSILASVPPEDVLRKQR
+LLASPAMKQAVLFHQPARPGDAFDQVLNGLARKLPHReGAFLKPGEKVLDWNAGLDSDLK
+PW
+
+
+PACMAD CONSENSUS:
+Length: 412 aa
+
+MGaAAAAAAVLLVASCVAAAPLQQQHrARISGnAGGVLDDDPVGKLKVFVYEMPRKYNqM
+LLAKDSRCLHHMFAAEIFMHQFLLSSAVRTLDPEEADWFYTPVYTTCDLTPQGFPLPFRA
+PRIMRSAIrYVATTWPFWNRTEGADHFFLTPHDFGACFHYQEERAMERGILPLLRRATLV
+QTFGQRNHVCLQDGSITIPPYANPHKMQAHLINPGTPRSIFVYFRGLFYDMGNDPEGGYY
+ARGARASVWENFKDNPLFDISTEHPSTYYEDMQRAIFCLCPLGWAPWSPRLVEAVVFGCI
+PVIIADDIVLPFADAIPWEQISVFVAERDVPRLDSILTSIPLqDILRRQRLLArASVKQA
+LLFHQPARPGDAFHQVLNGLARKLPHGKGVFLQPGEKVLDWDAGLESDLKPW
+
+================================================================================

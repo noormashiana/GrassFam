@@ -1,0 +1,143 @@
+================================================================================
+GrassFam ID: GFAM012560
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             593.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23406:SF89
+Panther Family ID:               PTHR23406
+Modal Panther ID:                PTHR23406:SF89
+Modal Panther Description:       NADP-DEPENDENT MALIC ENZYME 1
+Modal Panther Family ID:         PTHR23406
+Modal Panther Fam Desc:          MALIC ENZYME-RELATED
+Interpro Signature Accession:    cd05312; G3DSA:3.40.50.10380:FF:000002; G3DSA:3.40.50.720:FF:000067; G3DSA:3.40.50.720; G3DSA:3.40.50.10380; NF010052; PTHR23406; PIRSF000106; PR00072; PF00390; PF03949; SM01274; SM00919; SSF53223; SSF51735
+Interpro Signature Description:  NAD_bind_1_malic_enz; Malic enzyme; -; oxaloacetate-decarboxylating malate dehydrogenase; MALIC ENZYME-RELATED; ME; Malic enzyme signature; Malic enzyme, N-terminal domain; Malic enzyme, NAD binding domain; malic_2; Malic_M_2; Aminoacid dehydrogenase-like, N-terminal domain; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: NADP-dependent malic enzyme%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: NADP-dependent malic enzyme
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: NADP-dependent malic enzyme
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: NADP-dependent malic enzyme-like; NADP-dependent malic enzyme-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: NADP-dependent malic enzyme%2C transcript variant X1
+  Gene Descriptions: NADP-dependent malic enzyme
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: NADP-dependent malic enzyme%2C transcript variant X2
+  Gene Synonyms: NADP-ME2
+  Gene Descriptions: NADP-dependent malic enzyme
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau01
+  Gene Products: NADP-dependent malic enzyme-like%2C transcript variant X1
+  Gene Descriptions: NADP-dependent malic enzyme-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: NADP-dependent malic enzyme-like; NADP-dependent malic enzyme-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: NADP-dependent malic enzyme%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: NADP-dependent malic enzyme
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: uncharacterized LOC100286036%2C transcript variant X1
+  Gene Synonyms: GRMZM2G159724
+  Gene Descriptions: uncharacterized LOC100286036
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 593 aa
+
+MESTMKGIRGgGAPCVLDMDDAATVGGGVEDTYGEDRATEEQLVTPWTVSVASGYNLLRD
+PRYNKGLAFTERERETHYLRGLLPPAIVSQELQERKIMNNIRQYQLPLQRYMAMMDLQEG
+NERLFYKLLIDNVEELLPIVYTPTVGEACQKYGSIFSRPQGLYISLKEKGKILEVLKNWP
+ERSIQVIVVTDGERILGLGDLGCQGMGIPVGKLSLYTALGGVRPSACLPITLDVGTNNEE
+LLNDEFYIGLRQRRATGQEYADFLHEFMtAVKQNYGEKVLIQFEDFANHNAFDLLARYGT
+THLVFNDDIQGTASVVLAGLVAAQKLVGGTLAEHTYLFLGAGEAGTGIAELIALEISRQT
+KAPIEECRKKIWLVDSKGLIVSsRKESLQHFKKPWAHEHEpVGNLLDAVNAIKPTVLIGT
+SGKGQTFTQEVVEAISSFNERPIILALSNPTSQSECTAEQAYTWSKGRAVFATGSPFDPV
+EYNGKIHVPGQANNAYIFPGFGLGVVMSGAIRVHDDMLLAASEALAQQVTQENFEKGLIY
+PPFSNIRKISAHIAANVAAKAYELGLASRRPRPKDLVKYAESCMYSPIYRNYR
+
+
+BOP CONSENSUS:
+Length: 635 aa
+
+MRARFLPLLARQWQHQGSSSSGARRGCCGLCGETRAAGAKGEMESTMKGIRGgGAPCVLD
+MDDAATVGGGVEDTYGEDRATEEQLVTPWTVSVASGYNLLRDPRYNKGLAFTEKERETHY
+LRGLLPPaVISQELQERKIMHNIRQYQLPLQRYMAMMDLQEGNERLFYKLLIDNVEELLP
+IVYTPTVGEACQKYGSIFSRPQGLYISLKEKGKILEVLKNWPERSIQVIVVTDGERILGL
+GDLGCQGMGIPVGKLSLYTALGGVRPSACLPITLDVGTNNEELLNDEFYIGLRQRRATGQ
+EYADFLHEFMAAVKQNYGEKVLIQFEDFANHNAFDLLARYGTTHLVFNDDIQGTASVVLA
+GLVAALKLVGGTLAEHTYLFLGAGEAGTGIAELIALEMSRQTKtPIEECRKKIWLVDSKG
+LIVSsRKESLQHFKKPWAHEHEHVGNLLDAVNAIKPTVLIGTSGKGQTFTQEVVEAISSF
+NEMPIILALSNPTSQAECTAEQAYTWSKGRAVFATGSPFDPVEYNGKIHVPGQANNAYIF
+PGFGLGVVMSGAIRVHDDMLLAASEALAQQVTQENFDKGLIYPPFSNIRKISAHIAANVA
+AKAYELGLASRRPRPKDLVKYAESCMYSPIYRNYR
+
+
+PACMAD CONSENSUS:
+Length: 593 aa
+
+MESTLKGIRGsDAPCVLDMDDAATVAGGVGDTYGEDRATEEQLVTPWTVSVASGYNLLRD
+PRYNKGLAFTERERETHYLRGLLPPAIVSQELQERKIMNNIRQYQLPLQRYMAMMDLQEG
+NERLFYKLLIDNVEELLPIVYTPTVGEACQKYGSIFSRPQGLYISLKEKGKILEVLKNWP
+ERSIQVIVVTDGERILGLGDLGCQGMGIPVGKLALYTALGGVRPSACLPITLDVGTNNEE
+LLNDEFYIGLRQRRATGQEYTDFLQEFMTAVKQNYGEKVLIQFEDFANHNAFELLARYGT
+THLVFNDDIQGTASVVLAGLIAAQKLLGGTLADHTYLFLGAGEAGTGIAELIALEISRQT
+KAPIEECRKKIWLVDSKGLIVSSRKESLQHFKKPWAHEHkPVGNLLDAVNAIKPTVLIGT
+SGKGQTFTQDVIEAISSFNERPIILALSNPTSQSECTAEQAYTWSKGRAVFATGSPFDPV
+EYNGKIHVPGQANNAYIFPGFGLGVVMSGAIRVHDDMLLAASEALAQQVTEENFEKGLIY
+PPFSNIRKISAHIAANVAAKAYELGLASRRPRPKDLVKYAESCMYSPIYRNYR
+
+================================================================================

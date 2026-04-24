@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM004658
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             408.0 aa
+Family Size (Extended Family Size): 80 (99) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Weak
+Panther Family ID:               PTHR32176
+Modal Panther ID:                PTHR32176:SF27
+Modal Panther Description:       PATATIN
+Modal Panther Family ID:         PTHR32176
+Modal Panther Fam Desc:          XYLOSE ISOMERASE
+Interpro Signature Accession:    cd07214; G3DSA:3.40.1090.10:FF:000005; G3DSA:3.40.1090.10; PTHR32176; SSF52151
+Interpro Signature Description:  Pat17_isozyme_like; Patatin; Cytosolic phospholipase A2 catalytic domain; XYLOSE ISOMERASE; FabD/lysophospholipase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 4
+  Modal chromosome: Bdi04
+  Gene Products: patatin-like protein 1
+Lpe
+  Gene count: 4
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu01H
+  Gene Products: patatin-like protein 1
+Ata
+  Gene count: 3
+  Modal chromosome: Ata01D
+  Gene Products: patatin-like protein 1; patatin-like protein 2
+Tae
+  Gene count: 10
+  Modal chromosome: Tae01A
+  Gene Products: patatin-like protein 1; patatin-like protein 2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola11
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: patatin-like protein 1
+  Gene Descriptions: patatin-like protein 1
+Osa
+  Gene count: 2
+  Modal chromosome: Osa11
+  Gene Products: patatin-like protein 1; patatin-like protein 1%2C transcript variant X1
+  Gene Descriptions: patatin-like protein 1
+Ecu
+  Gene count: 14
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 4
+  Modal chromosome: Pau12
+  Gene Products: patatin-like protein 1; patatin-like protein 1%2C transcript variant X1; patatin-like protein 2
+  Gene Descriptions: patatin-like protein 1; patatin-like protein 2
+Svi
+  Gene count: 5
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi08K
+  Gene Products: patatin-like protein 1; patatin-like protein 3%2C transcript variant X2
+Pha
+  Gene count: 3
+  Modal chromosome: Pha08
+  Gene Products: patatin-like protein 1; patatin-like protein 2
+Msi
+  Gene count: 11
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi05
+  Gene Products: patatin-like protein 1; patatin-like protein 2
+Zma
+  Gene count: 8
+  Modal chromosome: Zma02
+  Gene Products: patatin T5; patatin-like protein 1; patatin-like protein 2; uncharacterized LOC100284823
+  Gene Synonyms: GRMZM2G091956; GRMZM2G154523,umc1509
+  Gene Descriptions: patatin T5; uncharacterized LOC100284823
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 409 aa
+
+MgSnGtAtaAdaTVPqPPPSQGRLITVLSIDGGGIRGLIPATIIACLEAKLQELDGPDAR
+IADYFDVIAGTSTGALlTSMLAAPDENKRPLFAAKDLNtFYLENGPKIFPQRKaGFLTPV
+ANLlGaVRGPKYDGvFLHDKIKSLTHDVtVADTVTNIIVPAFDVKYLQPVIFSTYEAKnD
+PLKNAHLSDICISTSAAPTYFPAHFFtTedPdGksREYHLVDGGVAANNPTMVAMSMLTK
+EVLRRNPDFNhGKPTEYtNYLIISIGTGSAKQAEKYTAPqCAKWGLlqWLYdGGFTPIID
+IFSHASADMVDIHAAVLFqALhCEKNYLRIQDDSLTGHTSSVDIATKENMEALIGIGkeL
+LKKPVARVNIDTGmYEPVdGEGTNEEALARFAKKLSDERKLRqtNLNSy
+
+
+BOP CONSENSUS:
+Length: 406 aa
+
+MCSqADtTmTCPPPSQGRLITVLSIDGGGIRGLIPSTILACLESKLQELDGPDARIADYF
+DVIAGTSTGALVTSMLAAPGENKRPLFAAKDINkFYLDNGPKIFPQRRwGFLTPvANLFG
+AVMGPKYDGKFLHDKIKSLTNDVTVADTVTNIIVPTFDIKYLQPVIFNTYEAKVDPLKNA
+HLSDICISTSAAPTYFPAHYFTThDPaGKLPDREYHLIDGGVAANNPTMAAMSMITKEVL
+RRNPDFTHGKPAEYhNYLIISIGTGTAKQAEKYTAPDCAKWGVLRWLYDGGFTPLIDIFS
+HASADMVDIHAAVLFQALRIEKNYLRIQDDSLTGHTSSVDIATKENMEALIGIGNnLLKK
+kVARVNIDTGMYEPVDGEGTNEEALARFAKKLSdERKLRQTNLNSq
+
+
+PACMAD CONSENSUS:
+Length: 409 aa
+
+MgSNGTATAncATVPQPPPStGKLITVLSIDGGGIRGLIPATIIACLEAKLQELDGPDAR
+IADYFDVIAGTSTGALLTSMLAAPDENnRPLFAAKDLtTFYLENGPKIFPQRKAGFLTPV
+ANLLGlVRGPKYDGVFLHDKIKSLTHDVRVADTVTNIIVPAFDVKYLQPIIFSTYEAKnD
+pLKNAHLSDICISTSAAPTYFPAHFFkTEatdGrSREFHLVDGGVAANNPTMVAMSMLTK
+EVLRRNPDFNpGrPTEYtNYLIISVGTGSAKQAEKYTAPQCAKWGLIQWLYnGGFTPIID
+IFSHASSDMVDIHAAVLFEALHCEKNYLRIQDDSLTGhTSSVDIATKENMEaLIGIGqEL
+LKKPVARVNIDTGvYEPVsGEGTNEeALARFAKkLSDERKLRKsNLNSY
+
+================================================================================

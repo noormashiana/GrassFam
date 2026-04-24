@@ -1,0 +1,143 @@
+================================================================================
+GrassFam ID: GFAM006360
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             631.0 aa
+Family Size (Extended Family Size): 21 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR46175
+Modal Panther ID:                PTHR46175:SF5
+Modal Panther Description:       ADAGIO PROTEIN 1
+Modal Panther Family ID:         PTHR46175
+Modal Panther Fam Desc:          BACTERIOOPSIN TRANSCRIPTIONAL ACTIVATOR
+Interpro Signature Accession:    G3DSA:2.120.10.80:FF:000062; G3DSA:2.120.10.80:FF:000005; G3DSA:1.20.1280.50:FF:000021; G3DSA:3.30.450.20:FF:000041; G3DSA:2.120.10.80; G3DSA:3.30.450.20; PTHR46175; PF24681; SSF50965
+Interpro Signature Description:  Putative LOV domain-containing protein; Adagio protein 1; -; PAS domain; BACTERIOOPSIN TRANSCRIPTIONAL ACTIVATOR; KLHDC2/KLHL20/DRC7 Kelch-repeats domain; Galactose oxidase, central domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: adagio-like protein 1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: adagio-like protein 1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: adagio-like protein 1
+Tae
+  Gene count: 2
+  Modal chromosome: Tae07A
+  Gene Products: adagio-like protein 1; adagio-like protein 1%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: adagio-like protein 1%2C transcript variant X2
+  Gene Descriptions: adagio-like protein 1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: adagio-like protein 1%2C transcript variant 1
+  Gene Synonyms: OsJ_22473
+  Gene Descriptions: adagio-like protein 1
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: adagio-like protein 1
+  Gene Descriptions: adagio-like protein 1
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: adagio-like protein 1; adagio-like protein 1%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: adagio-like protein 1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: adagio-like protein 1%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma05
+  Gene Products: adagio-like protein 1%2C transcript variant X1; adagio-like protein 1%2C transcript variant X2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 631 aa
+
+MEWDSESDGAGSVGAGEEEEEEEEEEEgVGGgGGGGGGGGgGGMFTFAIEGMLRASGPCG
+LVVTDALEPDCPIIYVNRGFEEATGYRAEEVLGRNCRFLQCRGPFAQRRHPLVDAAVVSE
+IRRCIDNGTEFRGDLLNFRKDGSPLMNRLHLTPIYGDDETITHYMGIQFFTNANVDLGPL
+PGSiTKEPVRSTRFAPDNSFRPISTGPGqSNFCREYSSLFQLTDEVLCQSILSRLSPRDI
+ASVSSVCRRLYHLTRNEDLWRMVCQNAWGSETTRALETVPAARRLGWGRLARELTTLEAV
+AWRKLTVGGAVEPSRCNFSACAVGNRVVLFGGEGVNMQPMNDTFVLDLNASNPEWRHINV
+SAAPPGRWGHTLSCLNGSWLVVFGGCGRQGLLNDVFMLDLDAKQPTWREIPGVAPPVPRS
+WHSSCTLDGTKLVVSGGCADSGVLLSDTYLLDVTMDRPVWREVPASWtPPSRLGHSMSVY
+GGRKILMFGGLAKSGPLRLRSSDVYTMDLSEEEPCWRCLTGSGMPGAGNPAGAGPPPRLD
+HVAVSLPGGRILIFGGSVAGLHSASQLYLLDPTEEKPTWRILNVPGRPPRFAWGHSTCVV
+GGTKAIVLGGQTGEEWMLTEIHELSLASNSV
+
+
+BOP CONSENSUS:
+Length: 640 aa
+
+MEWDSESDGAGSAGSGDEMEEEEEGGEVVVGGAGGSGSGSEGGGGGGDGVGGMFTFAIEG
+MLRGAGPYGLVVTDALEPDCPIIYVNRGFEEATGYRAEEVLGRNCRFLQCRGPFAQRRHP
+LVDAAVVSGIQRCIDNGTQFRGDLLNFRKDGFPLMNRLHLTPIYGDDDIITHYMGIQFFT
+NANVDLGPLPGSVTREPVRSTRFAPDNFFRPISTGPGQSNFCREYSSLFQLTDEVLCQSI
+LSRLSPRDIASVSSVCRRLYDLTKNEDLWRMVCRNAWGSETTRALETVPAAKRLGWGRLA
+RELTTLEAVAWRKLTVGGAVEPSRCNFSACAVGNRVVLFGGEGVNMQPMNDTFVLDLNAS
+NPEWRHVNVSSAPPGRWGHTLSCLNGSWLVVFGGCGRQGLLNDVFMLDLDAKHPTWREIP
+GVAPPVPRSWHSSCTLDGTKLVVSGGCADSGVLLSDTYLLDVSMDKPVWREVPASWTPPS
+RLGHSMSVYDGRKILMFGGLAKSGPLRLRSSDVFTMDLSEEEPCWRCLTGSGMPGAGNPA
+GAGPPPRLDHVAVSLPGGRVLIFGGSVAGLHSASQLYLLDPTEEKPTWRILNVPGRPPRF
+AWGHSTCVVGGTKAIVLGGQTGEEWMLTEVHELSLASSnV
+
+
+PACMAD CONSENSUS:
+Length: 629 aa
+
+MEWDSESDGAGSVGAGEEEEEEEEEErGGEGGGGDAGGAGGMFTFAIEGMLRASGPCGLV
+VTDALEPDCPIIYVNRGFEEATGYRAEEVLGRNCRFLQCRGPFAQRRHPLVDAAVVSEIR
+RCIDNGTEFRGDLLNFRKDGSPLMNRLHLTPIYGDDETITHYMGIQFFTNANVDLGPLPG
+SITKEPVRSTRFAPDNSFRPISTGPGeSNFCREYSSLFQLTDEVLCQSILSRLSPRDIAS
+VSSVCRRLYHLTRNEDLWRMVCQNAWGSETTQALETVPAARRLGWGRLARELTTLEAVAW
+RKLTVGGAVEPSRCNFSACAVGNRVVLFGGEGVNMQPMNDTFVLDLNASNPEWRHINVSA
+APPGRWGHTLSCLNGSWLVVFGGCGRQGLLNDVFMLDLDAKQPTWREIPGVAPPVPRSWH
+SSCTLDGTKLVVSGGCADSGVLLSDTYLLDVTMDRPVWREVPASWKPPSRLGHSMSVYGG
+RKILMFGGLAKSGPLRLRSSDVYTMDLSEEEPCWRCLTGSGMPGAGNPAGAGPPPRLDHV
+AVSLPGGRILIFGGSVAGLHSASQLYLLDPTEEKPTWRILNVPGRPPRFAWGHSTCVVGG
+TKAIVLGGQTGEEWMLTEIHELSLASNSV
+
+================================================================================

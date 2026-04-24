@@ -1,0 +1,118 @@
+================================================================================
+GrassFam ID: GFAM007453
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             405.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR42825:SF34
+Panther Family ID:               PTHR42825
+Modal Panther ID:                PTHR42825:SF34
+Modal Panther Description:       BRANCHED-CHAIN-AMINO-ACID AMINOTRANSFERASE
+Modal Panther Family ID:         PTHR42825
+Modal Panther Fam Desc:          AMINO ACID AMINOTRANSFERASE
+Interpro Signature Accession:    cd01557; G3DSA:3.20.10.10:FF:000003; G3DSA:3.30.470.10:FF:000003; G3DSA:3.30.470.10; G3DSA:3.20.10.10; TIGR01123; NF009897; PTHR42825; PIRSF006468; PF01063; SSF56752
+Interpro Signature Description:  BCAT_beta_family; Branched-chain-amino-acid aminotransferase; -; branched-chain-amino-acid transaminase; branched-chain amino acid aminotransferase; AMINO ACID AMINOTRANSFERASE; BCAT1; Amino-transferase class IV; D-aminoacid aminotransferase-like PLP-dependent enzymes
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: branched-chain amino acid aminotransferase 2%2C chloroplastic%2C transcript variant X1
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu01H
+  Gene Products: branched-chain amino acid aminotransferase 2%2C chloroplastic-like; branched-chain amino acid aminotransferase 2%2C chloroplastic-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: branched-chain amino acid aminotransferase 2%2C chloroplastic%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04B
+  Gene Products: branched-chain amino acid aminotransferase 2%2C chloroplastic-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: branched-chain amino acid aminotransferase 2%2C chloroplastic-like
+  Gene Descriptions: branched-chain amino acid aminotransferase 2%2C chloroplastic-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: branched-chain amino acid aminotransferase 2%2C chloroplastic
+  Gene Descriptions: branched-chain amino acid aminotransferase 2%2C chloroplastic
+Svi
+  Gene count: 2
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: branched-chain amino acid aminotransferase 2%2C chloroplastic-like; branched-chain amino acid aminotransferase 2%2C chloroplastic-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: branched-chain amino acid aminotransferase 2%2C chloroplastic-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: branched-chain-amino-acid aminotransferase 5%2C chloroplastic-like%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 403 aa
+
+MELGLASRGAlppAPPLAGrRpRHSLSPSLqIQNHiYSMPsLhYKaHtTvGCQASvATkY
+METSEvVDLDWENLGFGLVeTDFMYvAKCGPDGNFSKGEvLPFGPIALSPSAGVLNYGQG
+LFEGLKAYRKTDGSILLFRPEENAIRMinGADRMCMPAPTVEQFVDAVKQTVLANKRWVP
+PTGKGSLYIRPLLIGSGAVLGLAPAPEYTFIIFVSPVGNYFKEGLAPINLIIEDNFHRAA
+PGGTGGVKTIGNYASVLKAQRtAKgKGYSDVLYLDAVHnKYLEEVSSCNIFVVKGNVIST
+PAIKGTILPGITRKSIIEVAQSKGFKVEERLVSVDELLnADEVFCTGTAVVVSPVGSITY
+lGKRVEYGNQGVGVVSQQLYTSLTSLQMGhVEDrMGWTVQLNQ
+
+
+BOP CONSENSUS:
+Length: 408 aa
+
+MELGLASSRGPAgPSLAVAGRRPRSSLSPPCPLSLQIQNHgYSMPTLHHKAHTTVGCQAS
+VATKYMETpeIVDLDWENLGFGLVDTDFMYMAKCGPDGNFSKGEMLPFGPIALSPSAGVL
+NYGQGLFEGLKAYRKTDGSVLLFRPEENAIRMKNGSDRMCMPAPTVEQFVDAVKQTVLAN
+KRWVPPTGKGSLYIRPLLIGSGAILGLAPAPEYTFLIYVSPVGNYFKEGLAPINLIIEDN
+FHRAAPGGTGGVKTIGNYASVLKAQRTAKEKGYSDVLYLDAVHNKYLEEVSSCNIFVVKG
+NAISTPAIEGTILPGITRKSIIEVAESKGYKVEERHVSVDELLDADEVFCTGTAVVVSPV
+GSITYKGKRVEYDGNQGVGVVSQQLYTSLTSLQMGHtEDRMGWTVQLN
+
+
+PACMAD CONSENSUS:
+Length: 403 aa
+
+MELrLASRGALPAAPPLsGwLTRHSLSPWLKIQNHIYSMPSLsYKVPSVTKCHASlATNY
+METSEVVDLDWENLGFGLVETDFMYVAKCGPDGNFSKGEVLPFGPIAVSPSAGVLNYGQG
+LFEGLKAYRKTDGSILLFRPEENAtRMITGAERMCMPAPTVEQFVDAVKQTVLANKRWVP
+PTGKGSLYIRPLLMGSGAVLGLAPAPEYTFIIFVSPVGNYFKEGLSPINLIVEDKFHRAS
+PGGTGGVKTIGNYASVLKAQKIAKGKGYSDVLYLDAVHDKYLEEVSSCNIFVVKDNVIST
+PAIKGTILPGITRKSIIEVAQSKGFKVEERLVSVDELLNADEVFCTGTAVVVSPVGSITY
+LGKRVEYGNQGVGVvSQQLYKSLTSLQMGnVEDwMGWTVQLNQ
+
+================================================================================

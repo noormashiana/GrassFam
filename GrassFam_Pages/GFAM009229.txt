@@ -1,0 +1,142 @@
+================================================================================
+GrassFam ID: GFAM009229
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             570.5 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11135:SF0
+Panther Family ID:               PTHR11135
+Modal Panther ID:                PTHR11135:SF0
+Modal Panther Description:       ELONGATOR COMPLEX PROTEIN 3
+Modal Panther Family ID:         PTHR11135
+Modal Panther Fam Desc:          HISTONE ACETYLTRANSFERASE-RELATED
+Interpro Signature Accession:    G3DSA:3.40.630.30:FF:000003; TIGR01211; PTHR11135; PIRSF005669; SFLDF00344; SFLDS00029; SM00729; SSF102114
+Interpro Signature Description:  Elongator complex protein 3; tRNA uridine(34) 5-carboxymethylaminomethyl modification radical SAM/GNAT enzyme Elp3; HISTONE ACETYLTRANSFERASE-RELATED; HAT_Elp3; ELP3-like; Radical SAM; MiaB; Radical SAM enzymes
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: elongator complex protein 3
+Lpe
+  Gene count: 1
+  Modal chromosome: LpeUN41
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: elongator complex protein 3
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: elongator complex protein 3
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: elongator complex protein 3; elongator complex protein 3-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: elongator complex protein 3
+  Gene Descriptions: elongator complex protein 3
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: elongator complex protein 3-like
+  Gene Synonyms: ELP3,OJ000223_09.4
+  Gene Descriptions: elongator complex protein 3-like
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: elongator complex protein 3; elongator complex protein 3-like
+  Gene Descriptions: elongator complex protein 3; elongator complex protein 3-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: elongator complex protein 3; elongator complex protein 3-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: elongator complex protein 3
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: elongator complex protein 3
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: Elongator complex protein 3; uncharacterized LOC100216833
+  Gene Synonyms: GNAT16,GRMZM2G100872; GRMZM2G359735
+  Gene Descriptions: Elongator complex protein 3; uncharacterized LOC100216833
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 571 aa
+
+MATAAAAAVAApEQPRRRKPAPGRGGVVLPAGLSEEEARVRAIAEIVSAMGELSRRGEDV
+DLNALKSAACRRYGLARAPKLVEMIAAVPEADRAALLPRLRAKPVRTASGIAVVAVMSKP
+HRCPHIATTGNICVYCPGGPDSDFEYSTQSYTGYEPTSMRAIRARYNPYVQARSRIDQLK
+RLGHSVDKVEFILMGGTFMSLPADYRDYFIRNLHDALSGHTSANVEEAVCYSEHSAVKCI
+GMTIETRPDYCLGPHLRQMLSYGCTRLEIGVQSTYEDVARDTNRGHTVAAVADCFCLAKD
+AGFKVVAHMMPDLPNVGVERDLESFREFFESPAFRADGLKIYPTLVIRGTGLYELWKTGR
+YRNYPPELLVDIVARILSMVPPWTRVYRVQRDIPMPLVTSGVEKGNLRELALARMEDLGL
+KCRDVRTREAGIQDIHHKIRPDEVELVRRDYAANEGWETFLSYEDTRQDILIGLLRLRKC
+GRNVTCPELVGRCSIVRELHVYGTAVPVHGRDADKLQHQGYGTLLMEEAERIARKEHRSK
+KLAVISGVGTRHYYRKLGYELEGPYMVKCLA
+
+
+BOP CONSENSUS:
+Length: 569 aa
+
+MAAAVAAAAADQPRRRKPTPGRGGVVLPAGLSEEEARVRAIAEIVSEMGELSRRGEDVDL
+NALKSAACRRYGLARAPKLVEMIAAVPEADRAALLPRLRAKPVRTASGIAVVAVMSKPHR
+CPHIATTGNICVYCPGGPDSDFEYSTQSYTGYEPTSMRAIRARYNPYVQARSRIDQLKRL
+GHSVDKVEFILMGGTFMSLPADYRDYFIRNLHDALSGHTSANVEEAVCYSEHSAVKCIGM
+TIETRPDYCLGPHLRQMLSYGCTRLEIGVQSTYEDVARDTNRGHTVAAVADCFSLAKDAG
+FKVVAHMMPDLPNVGVERDMESFREFFENPAFRADGLKIYPTLVIRGTGLYELWKTGRYR
+NYPPELLVDIVARILSMVPPWTRVYRVQRDIPMPLVTSGVEKGNLRELALARMEDLGLKC
+RDVRTREAGIQDIHHKIRPDEVELVRRDYAANEGWETFLSYEDTRQDILIGLLRLRKCGR
+NVTGPELVGRCSIVRELHVYGTAVPVHGRDAEKLQHQGYGTLLMEEAERIARKEHRSKKL
+AVISGVGTRHYYRKLGYELEGPYMVKCLA
+
+
+PACMAD CONSENSUS:
+Length: 571 aa
+
+MATAAAAAVAAPEQPRRRKPAPGRGGVVLPAGLSEEEARVRAIAEIVSAMGELSRRGEDV
+DLNALKSAACRRYGLARAPKLVEMIAAVPEADRAALLPRLRAKPVRTASGIAVVAVMSKP
+HRCPHIATTGNICVYCPGGPDSDFEYSTQSYTGYEPTSMRAIRARYNPYVQARSRIDQLK
+RLGHSVDKVEFILMGGTFMSLPADYRDYFIRNLHDALSGHTSANVEEAVCYSEHSAVKCI
+GMTIETRPDYCLGPHLRQMLSYGCTRLEIGVQSTYEDVARDTNRGHTVAAVADCFCLAKD
+AGFKVVAHMMPDLPNVGVERDLESFREFFESPAFRADGLKIYPTLVIRGTGLYELWKTGR
+YRNYPPELLVDIVARILSMVPPWTRVYRVQRDIPMPLVTSGVEKGNLRELALARMEDLGL
+KCRDVRTREAGIQDIHHKIRPDEVELVRRDYAANEGWETFLSYEDTRQDILIGLLRLRKC
+GRNVTCPELVGRCSIVRELHVYGTAVPVHGRDvDKLQHQGYGTLLMEEAERIARKEHRSK
+KLAVISGVGTRHYYRKLGYELEGPYMVKCLA
+
+================================================================================

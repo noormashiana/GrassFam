@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM006491
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             311.0 aa
+Family Size (Extended Family Size): 53 (58) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11732:SF540
+Panther Family ID:               PTHR11732
+Modal Panther ID:                PTHR11732:SF540
+Modal Panther Description:       ALDOSE REDUCTASE
+Modal Panther Family ID:         PTHR11732
+Modal Panther Fam Desc:          ALDO/KETO REDUCTASE
+Interpro Signature Accession:    cd19125; G3DSA:3.20.20.100:FF:000010; G3DSA:3.20.20.100; PTHR11732; PIRSF000097; PR00069; PF00248; SSF51430
+Interpro Signature Description:  AKR_AKR4C1-15; NADPH-dependent aldo-keto reductase, chloroplastic; -; ALDO/KETO REDUCTASE; AKR; Aldo-keto reductase signature; Aldo/keto reductase family; NAD(P)-linked oxidoreductase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 3
+  Modal chromosome: Bdi02
+  Gene Products: NADPH-dependent aldo-keto reductase%2C chloroplastic; NADPH-dependent aldo-keto reductase%2C chloroplastic%2C transcript variant X1
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu03H
+  Gene Products: aldo-keto reductase family 4 member C10-like; aldo-keto reductase family 4 member C10-like%2C transcript variant X1
+Ata
+  Gene count: 5
+  Modal chromosome: Ata03D
+  Gene Products: NADPH-dependent aldo-keto reductase%2C chloroplastic; aldo-keto reductase family 4 member C10; aldo-keto reductase family 4 member C10%2C transcript variant X1; aldo-keto reductase family 4 member C10-like
+Tae
+  Gene count: 12
+  Modal chromosome: Tae01B
+  Gene Products: NADPH-dependent aldo-keto reductase%2C chloroplastic-like; aldo-keto reductase family 4 member C10-like; aldo-keto reductase family 4 member C10-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl01
+  Gene Products: aldo-keto reductase family 4 member C10-like; aldo-keto reductase family 4 member C10-like%2C transcript variant X1
+  Gene Descriptions: aldo-keto reductase family 4 member C10-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa01
+  Gene Products: aldo-keto reductase family 4 member C10; aldo-keto reductase family 4 member C10%2C transcript variant 1
+  Gene Descriptions: aldo-keto reductase family 4 member C10
+Ecu
+  Gene count: 6
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: aldo-keto reductase family 4 member C10-like; aldo-keto reductase family 4 member C10-like%2C transcript variant X1
+  Gene Descriptions: aldo-keto reductase family 4 member C10-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi05K
+  Gene Products: NADPH-dependent aldo-keto reductase%2C chloroplastic-like; NADPH-dependent aldo-keto reductase%2C chloroplastic-like%2C transcript variant X1; aldo-keto reductase family 4 member C10-like
+Pha
+  Gene count: 3
+  Modal chromosome: Pha05
+  Gene Products: NADPH-dependent aldo-keto reductase%2C chloroplastic-like; aldo-keto reductase family 4 member C10-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi06
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi03
+  Gene Products: NADPH-dependent aldo-keto reductase%2C chloroplastic; aldo-keto reductase family 4 member C10
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: Aldose reductase
+  Gene Synonyms: 9-24,AR1,GRMZM2G479423,pco147797a
+  Gene Descriptions: Aldose reductase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 310 aa
+
+MARHFVLNTGAKIPSVGLGTWQSDPGVVGnAVYAAVKAGYRHIDCARVYGNEKEIGLALK
+KLFEEGVVKREDLFITSKLWNDHHAPEDVPEALNESLNDLQLDYLDLYLIHWPFRVKKGT
+NtSPENFVTPDIPATWGAMEKLYDAGKARAIGVSNFSSKKLGDLLAVARVPPAVDQVECH
+PGWQQTKLHNFCQSTGVHLTAYSPLGSPGTTWMNGNVLKEPVIISIAEKLGKTPAQVALR
+WNIQMGHSVLPKSTNEERIKQNLDVYDWSIPDDLLAKFSEIKQARLLRGNFaVNPQSVYK
+THEELWDGEI
+
+
+BOP CONSENSUS:
+Length: 310 aa
+
+MARHFLLNTGAKIPSVGLGTWQADPGVVGAAVYAAVKAGYRHIDCARVYGNEKEIGLALK
+KLFEEGVVKREDLFITSKLWNDHHAPEDVPEALNESLNDLQLDYLDLYLIHWPFRVKKGT
+NNNPENFVTPDIPATWGAMEKLHDAGKARAIGVSNFSSKKLGDLLAVARVPPAVDQVECH
+PCWQQTKLHNFCQSAGVHLSAYSPLGSPGTTWMNGNVLKEPIIISISEKLGKTPAQVALR
+WNIQMGHSVLPKSTNQERIKQNLDVHDWSIPDDVLAKFSEIKEARLLRGNFAVNPQSVYK
+THEELWDGEI
+
+
+PACMAD CONSENSUS:
+Length: 310 aa
+
+MARHFVLNTGAKIPSVGLGTWQSDPGVVGNAVYAAVKAGYRHIDCARVYGNEKEIGLALK
+KLFEEGVVKREDLFITSKLWNDHHAPEDVPEALNESLNDLQLEYLDLYLIHWPFRVKKGT
+NTSPENFVTPDIPATWGAMEKLYDAGKARAIGVSNFSSKKLGDLLAVARVPPAVDQVECH
+PGWQQTKLHNFCQSTGVHLTAYSPLGSPGTTWMNGNVLKEPVIISIAEKLGKTPAQVALR
+WNIQMGHSVLPKSTNEERIKQNLDVYDWSIPDDLLAKFSEIKQARLLRGNFIVNPQSVYK
+THEELWDGEL
+
+================================================================================

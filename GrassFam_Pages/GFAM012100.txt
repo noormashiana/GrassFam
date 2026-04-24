@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM012100
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             362.0 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12150:SF13
+Panther Family ID:               PTHR12150
+Modal Panther ID:                PTHR12150:SF13
+Modal Panther Description:       METHYLTRANSFERASE C9ORF114-RELATED
+Modal Panther Family ID:         PTHR12150
+Modal Panther Fam Desc:          CLASS IV SAM-BINDING METHYLTRANSFERASE-RELATED
+Interpro Signature Accession:    cd18086; G3DSA:3.40.1280.10; G3DSA:2.40.50.140; PTHR12150; PF02598; SSF75217
+Interpro Signature Description:  HsC9orf114-like; -; CLASS IV SAM-BINDING METHYLTRANSFERASE-RELATED; Putative RNA methyltransferase; alpha/beta knot
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: putative methyltransferase C9orf114%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: putative methyltransferase C9orf114%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: putative methyltransferase C9orf114
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: putative methyltransferase C9orf114; putative methyltransferase C9orf114%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: uncharacterized LOC127771653%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127771653
+Osa
+  Gene count: 2
+  Modal chromosome: Osa04
+  Gene Products: uncharacterized protein; uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC107280558; uncharacterized LOC4335294
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 1
+  Modal chromosome: Pau02
+  Gene Products: uncharacterized LOC133901912
+  Gene Descriptions: uncharacterized LOC133901912
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi03K
+  Gene Products: putative methyltransferase C9orf114 homolog; putative methyltransferase C9orf114 homolog%2C transcript variant X2; putative methyltransferase C9orf114 homolog%2C transcript variant X4
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: putative methyltransferase C9orf114 homolog%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: putative methyltransferase C9orf114%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: conserved protein
+  Gene Synonyms: GRMZM2G160964
+  Gene Descriptions: conserved protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 364 aa
+
+MNPAdAEAAAAkKaRHKDKKEKKKKRKDAaEdDCGAATAEEEAvHkKKKKKQrKdgdEGE
+eadPKRKPTVSIAVAGSIIDNAQSLELATLLAGQIARAATVFRIDEVVVFDStPAaENGG
+gGDgEESGARFLVRILEYLETPQYLRRRLFPMHKNLKFVGLLPPLDAPHHVRKHEWSEFR
+EGVTLeGDRSKGTLVDVGLSKNVLVEQILEPGKRVTVAMGTNRDLTTACVRKVVPPSSPR
+EEMGSYWGYKVRYASNLSGVFknSPYKEGYDHIIGTSEHGeIInSSELTLPSFRHLLIAF
+GGLAGLEESIEEDtNLKGKGANDVFTSYLNTCPNQGSRTIRTEEALLISLQYFQDPIRRA
+Gqqm
+
+
+BOP CONSENSUS:
+Length: 363 aa
+
+MNPACAEAAAAKKSRHKDKKEKKsKRKDTAEHlGGEpAtAEEEAVHKKKKKKHakEeEKA
+DPKRKPTVSIAVAGSIIDNAQSLELATLLAGQIARAAAVFRIDEIVVFDSSPavENGGGA
+EeEEESGARFLVRILEYLETPQYLRRRLFPMHKNFKYVGLLPPLDAPHHVRKHEWSEFRE
+GVTLGGDRSKGTlVDVGLSKNVLVEQILEPGKRVTVAMGTNRDITTACVRKVVPPSSPSE
+EMGSYWGYKVRYASNLSGVINDSPYKEGYDHIIGTSEHGETIISSELILPSFRHLLIAFG
+GLAGLEESIEEDpNLKGKGANDVFpSYLNTCPNQGSRTIRTEEALLISLQYFQDPIRRAG
+MAS
+
+
+PACMAD CONSENSUS:
+Length: 364 aa
+
+MNPAhSEAAAAEKARRKDKKEKRKKRKDAkEDDCGAATAEEEAPHEKKQKQRKDGDEGEG
+EkkKKLKPTVSIAVAGSIIDNAQSLELATLLAGQIARAATVFRIDEVVVFDSTPAsENGG
+TGDGEESGARFLVRILEYLETPQYLRRRLFPMHKNLKFVGLLPPLDAPHHVRKHEWSEFR
+EGVTLEGDRSKGTLVDVGLSKNVLVEQILEPGKRVTVAMGTNRDLTTACVRKVVPPSTPR
+EEMGSYWGYKVRYASNLSGVFKNSPYKEEYDHIIGTSEHGQIINSSELTLPSFRHLLIAF
+GGLAGLEESIEEDTNLKGKHANDVFTSYLNTCPNQGSRTIRTEEALLISLQYFQDPIRRA
+EQqM
+
+================================================================================

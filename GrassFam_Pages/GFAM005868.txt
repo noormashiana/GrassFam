@@ -1,0 +1,146 @@
+================================================================================
+GrassFam ID: GFAM005868
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             659.5 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11952:SF10
+Panther Family ID:               PTHR11952
+Modal Panther ID:                PTHR11952:SF10
+Modal Panther Description:       16S RRNA PROCESSING PROTEIN RIMM FAMILY
+Modal Panther Family ID:         PTHR11952
+Modal Panther Fam Desc:          UDP- GLUCOSE PYROPHOSPHORYLASE
+Interpro Signature Accession:    G3DSA:2.30.30.240:FF:000002; G3DSA:3.90.550.10; TIGR02273; PTHR11952; SSF53448
+Interpro Signature Description:  Ribosome maturation factor rimM; Spore Coat Polysaccharide Biosynthesis Protein SpsA; Chain A; ribosome maturation factor RimM; UDP- GLUCOSE PYROPHOSPHORYLASE; Nucleotide-diphospho-sugar transferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: uncharacterized LOC100844980%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: uncharacterized LOC123450581
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: uncharacterized LOC109784134
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: uncharacterized LOC123068590; uncharacterized LOC123146266; uncharacterized LOC123183148
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: uncharacterized LOC127774761
+  Gene Descriptions: uncharacterized LOC127774761
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4339632
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau09
+  Gene Products: uncharacterized LOC133929428
+  Gene Descriptions: uncharacterized LOC133929428
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: uncharacterized LOC120664626%2C transcript variant X1; uncharacterized LOC120697826%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: uncharacterized LOC112888012
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: uncharacterized LOC8074605
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: 16S rRNA processing protein RimM family%2C transcript variant X1
+  Gene Synonyms: GRMZM2G165694
+  Gene Descriptions: 16S rRNA processing protein RimM family
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 662 aa
+
+MASPASASTSAPLSLpLTvPLsPSpSRvLPAPfSRLPpRRVALAPARPGAALLSSLSDAR
+EqeEEEEeEEEDEqqEYDdEEEEQEYDeEEEELVEVGYVSGAHGVRGDVLVtPRTDFPEL
+RFATPGKRWLRARAAGKQQVREFELVRGRAHTGKKsWIVSFDGVDsLDEARQIVGSAVLV
+KAGDRPEiEEDEIYSLDLVGMRVIVKDTGKLVGTVGQVFNFGGGDLLQVMVGSAEGTAVQ
+PDSENQDSTSSREHVWIPFAEDIVPDVDMESREMWITPPKGLLELNSRSDKRSKKERRAM
+EWKERKRLQRRVIAAKKVLSEMDQGHVLEGLLSGDKVQKASLAEQIGSIDFQLFRHAMHS
+VSKQIESSSKNLLANSSSSRKKVMRIPYKTLiNHGEKaEHVFSsEFkkGLEILqKSKAAI
+VLVTNGSDSDAEFLsLLNSFSELMKVeENhvSPPFVIVSPaGHVESVRNCLVENDYFGLD
+TQKVWVLEEMELPVVSiSSElNSKKILMKSPWEILQKPAGSGgIFSLLSSNKILEsLNEM
+GVEYVQICSlSNRPVIGHPLLFGAVSSRGADVGIKLsKTSdETEDDFDLILSIDHLNKMC
+RDVTQlRFSArPEQNeHVEHVDGQWVaVQPEAANSHRLHADVTSVLNSCSPDKLCVMEIV
+EQ
+
+
+BOP CONSENSUS:
+Length: 651 aa
+
+MASPASTSAPVSLSLPLrPSPCRRLPAPFSRLPPRRLALAPARPAAALLSSPSpAQqEhE
+yDeEEEEEEEYgEEELVEEDELVEVGYVSGAHGVRGDVLVSPRTDFPeLRFATPGKRWLR
+ARAAGKMQVREFELVRGKAHTGKKGWIVRFDGVDSLDEARQIVGSAVLVKTEDRPEMEED
+EIYSLDLVGMSVIVKDTGKLVGTVAQVFNFGGGDLLQVMVGSAENAVQTNSENQDSTPSR
+QHVWIPFAEDIVPDIDMESREMWITPPKGLLEVNTRPEKSKKERRAMDWKEKKKLQRRIT
+AAKKVLHEMEQGHILEGLLSGDKLEKASLAEQIGSIDFQLFKHAMHSVSKQVDSMSKNVL
+ANSSSSRKNVMRIPRETLMNHGEKGKNVFSsEFSKGREILQKSKAAIVLVTNGSDSDIVD
+AEFQRLLNSFSELMKVEENHISPPFVIVSPAgHVDSVRNYLVENDYFGFDTQKVWVLEEM
+KLPVVSLSSELnSKKILLKSPWEILQRPAGTGAIFSSLSSNKILESLNAMGIEYVQICSL
+SDELVLGHPLLFGAASSRGVDVGIKLRKTSdKTEDGFDLILSIDHLNKMCRDVAKARFSA
+HPEQHEHVEHVDGQWVTVQPEApNSHRLSTDVTSVLDSCSPDKLCVMEIVE
+
+
+PACMAD CONSENSUS:
+Length: 663 aa
+
+MASPASASARPLSLPLTVPLsRYsSRVLPAPsSRLLPRRRVALAPARPGAALLSSLSDAR
+EQEEEEEeEFYEEDEQQEYDDEEEEQEYDgEDEELVEVGYVSGAHGVRGDVLVTPRTDFP
+ELRFATPGTRWLRARAAGKQQVREFELVRGRAHTGKKSWIVSFDGIDNLDEARQIVGSAV
+LVKAGDRPEIEDDEFYSLDLVGMRVIVKDTGKLVGTVGQVFNFGGGDLLQVMIGSAEGTA
+VDPDSENQDStSSREHVWIPFAEDIVPDVDMESREMWITPPKGLLELNSRSDKRSKKERR
+AMEWKDRKRLQRRVIAGKKVLSEMDQGHVLEGLVSGDKVQKASLAEQIGCIDFQLFRHAV
+HCVSKQIESSSKNLLANSSLSRKKVIKIPYKTLINLGEKAEHAFSsELKNGLEILLKSKA
+AIVLVRNGSDSDAEFLSLLNSFSELMKVIENrVSPPFIIVSPpGHVESVRNCLIENDYFG
+LDTQKVWVLEELELPIVSISSEgNRKKVLMKSPWEIIKKPAGSGGIFSLLSSNKILETLN
+EMGVQYTQICSSSNRPVIGHPLLFGAVASRGADVGIKLSKTSETEDDFDLILSIDQLNKM
+CRDVTQLRFSARPEQNAHVEHVDGQWVAVQPEAANSHRLHADVTSVLNSCAPDKVCVMEI
+VEQ
+
+================================================================================

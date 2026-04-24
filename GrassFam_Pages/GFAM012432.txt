@@ -1,0 +1,127 @@
+================================================================================
+GrassFam ID: GFAM012432
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             413.0 aa
+Family Size (Extended Family Size): 23 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10242:SF2
+Panther Family ID:               PTHR10242
+Modal Panther ID:                PTHR10242:SF2
+Modal Panther Description:       N-GLYCOSYLASE_DNA LYASE
+Modal Panther Family ID:         PTHR10242
+Modal Panther Fam Desc:          8-OXOGUANINE DNA GLYCOSYLASE
+Interpro Signature Accession:    cd00056; G3DSA:1.10.340.30:FF:000012; G3DSA:3.30.310.40:FF:000005; G3DSA:1.10.340.30; G3DSA:1.10.1670.10; PTHR10242; SSF48150
+Interpro Signature Description:  ENDO3c; N-glycosylase/DNA lyase; N-glycosylase/DNA lyase OGG1; Hypothetical protein; domain 2; -; 8-OXOGUANINE DNA GLYCOSYLASE; DNA-glycosylase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: N-glycosylase/DNA lyase OGG1%2C transcript variant X5
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: N-glycosylase/DNA lyase OGG1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: N-glycosylase/DNA lyase OGG1%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: N-glycosylase/DNA lyase OGG1-like; N-glycosylase/DNA lyase OGG1-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: N-glycosylase/DNA lyase OGG1%2C transcript variant X1
+  Gene Descriptions: N-glycosylase/DNA lyase OGG1
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau05
+  Gene Products: N-glycosylase/DNA lyase OGG1%2C transcript variant X3
+  Gene Descriptions: N-glycosylase/DNA lyase OGG1
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: N-glycosylase/DNA lyase OGG1-like; N-glycosylase/DNA lyase OGG1-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: N-glycosylase/DNA lyase OGG1
+Msi
+  Gene count: 6
+  Modal chromosome: Msi08
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: N-glycosylase/DNA lyase OGG1%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: N-glycosylase/DNA lyase OGG1
+  Gene Synonyms: GRMZM2G139031
+  Gene Descriptions: N-glycosylase/DNA lyase OGG1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 416 aa
+
+MRLPLLPRSPPLAAAvAAMPPRRRRVVRAPPLPPSPPqLSSTPPPaPPvEaPKPETPDHH
+DPPPSARRRLPLAAgAVEAQEEWHPLPLSaADLSLPLTLPTGQTFLWRRTSLSPLRFTGA
+VGPHLVSLSHLPDDDGRLAFLLHNDGgcPASSSVPAARAALCDYLNAAVPLADLWRQFAA
+ADERFAEVAARLGGGGARVLRQDPVECVFQFLCSSNNNIARIEKMVWTLAGYGERLGEVG
+GFVFHRFPTIERLARVSEQELREAGFGYRAKYIVGTAKELQAKPGGGEKWLASLReRELP
+EVIEALCTLPGVGPKVAACIALFSLDQNHAIPVDTHVWKVATQYLLPELAGKSLTPKLSV
+VVADAFVTRFGSYAGWAQNVLFIGQLPAQKLVVAEVTSDTTKPTKRKRGvkpvecQ
+
+
+BOP CONSENSUS:
+Length: 404 aa
+
+MRPPLLPRVAAAASAtPPRRrRTVRPPMPPSPALLSSTPPPAAPVETPKPETTQQHPPPA
+RRRLPLADEEWHPLPLSLAELSLPLTLPTGQTFLWRRTSLSPLRFTAAVGPHLVSLSHLP
+DDDRLAFLLHNDDPASPSSSVAAARAALCDYLNAAVPLADLWVQFTAADARFAEVAARLG
+GGGARVLRQDPVECLFQFLCSSNNNIARIEKMVWTLAGYGERLGEVGGFVFHRFPTVERL
+AQVSEQELREAGFGYRAKYVVGTAKELMAKPGGGAKWLALLRDRELPEVIEGLCTLPGVG
+PKVAACIALFSLDKNQAIPVDTHVWKVATQYMLPELAGKSLTPKLSIVVADAFVAKFGEY
+AGWAQNVLFIGQLPAKKLVATEVTSDTTKPTKRKRaTKMVEIQT
+
+
+PACMAD CONSENSUS:
+Length: 417 aa
+
+MRLPLLPRSPPLAAAVAAMPPRRRRVVRAPPLTPSPPQLSSTPPPVPSiEAPKPETPDHH
+DPTPSARRRLPLAAGAVEAQEEWHPLPLSTADLSLPLTLPTGQTFLWRRTSLSPLRFTGA
+VGPHLVSLSHLPDSDDGRLAFLLHNDGGcPASSVPAARAALCDYLNAAVSLADLWRQFAA
+ADERFAEVSARLGGGGARVLRQDPVECVFQFLCSSNNNIARIEKMVWTLAGYGERLGEVG
+GFVFHRFPTIERLARVSEQELREAGFGYRAKYIVGTAKELQAKPGGGEKWLASLREKELS
+eVIEALCTLPGVGPKVAACIALFSLDQNHAIPVDTHVWKVATQYLLPELAGKSLTPKLSV
+VVADAFVTRFGSYAGWAQNVLFIGQLPAQKLVVAQVTSDNGTTKPTKRKRGVQPKPC
+
+================================================================================

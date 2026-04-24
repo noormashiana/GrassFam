@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM020266
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             437.0 aa
+Family Size (Extended Family Size): 20 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10188:SF8
+Panther Family ID:               PTHR10188
+Modal Panther ID:                PTHR10188:SF8
+Modal Panther Description:       THREONINE ASPARTASE 1
+Modal Panther Family ID:         PTHR10188
+Modal Panther Fam Desc:          L-ASPARAGINASE
+Interpro Signature Accession:    cd04514; G3DSA:3.60.20.30:FF:000004; G3DSA:3.60.20.30; PTHR10188; PF01112; SSF56235
+Interpro Signature Description:  Taspase1_like; Putative threonine aspartase isoform A; (Glycosyl)asparaginase; L-ASPARAGINASE; Asparaginase; N-terminal nucleophile aminohydrolases (Ntn hydrolases)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: putative threonine aspartase%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: putative threonine aspartase
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: putative threonine aspartase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: putative threonine aspartase; putative threonine aspartase%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: putative threonine aspartase
+  Gene Descriptions: putative threonine aspartase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: putative threonine aspartase
+  Gene Descriptions: putative threonine aspartase
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 1
+  Modal chromosome: Pau07
+  Gene Products: putative threonine aspartase%2C transcript variant X1
+  Gene Descriptions: putative threonine aspartase
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: putative threonine aspartase%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: putative threonine aspartase%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: putative threonine aspartase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: putative threonine aspartase
+  Gene Synonyms: GRMZM2G011743
+  Gene Descriptions: putative threonine aspartase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 437 aa
+
+MATGGGgsEtAaaagVGaGEENasasRgPsRRFFVAVHVGAGFHAPANEKAYRRAMKRAC
+LAAAAVLREGSGTSLDAVAAAIqVLEDDPITNAGRGSNLTESGHVECDASIMDGSTGSFG
+AVGAVQGVKNPIQVALHLAKEQMaGSSLLGRIPPMFLVGEGACQWAKSKGMDLlEATSEA
+NSWLVTENAKAQWVKYtSLLASAKELVNHSTGSGSEHSSVQLEAPGTEAENiaDVKKIFT
+RSIMEDNQDCVMDTVGVVCVDSYGNVASGASSGGIALKVDGRVGLAAMYGSGCWASSKGP
+FGTPFiVGCCATGAGEHLIRGFAARECCISSSLSQSGPASACTKVLRSVVQSSSEMSHDT
+GAGLLLVQADVlKRGDLSeLEAAELVAAYSSPSFGVGYFGSNMNNPKVSMLRdSegASgt
+VNHFATRVKFDApSSEQ
+
+
+BOP CONSENSUS:
+Length: 440 aa
+
+MATGGGGEGgSpaagGGGGGAGeGSGrGPGRRLFVAVHVGAGFHAPANERAYRRAMRRAC
+LAAAAVLREGSGTSLDAVAAAIRVLEDDPITNAGRGSSLTESGQVECDASIMDGTTGSYG
+AVGAVQGVKNPIQVALHLAKEQMSGPSLLGRIPPMFLVGEGACQWAKSKGINIIEATSED
+NNWLVTENAKAQWVKYSSLLASAKESVNHSTGSGSESSSVQLDPSGAQAENLNNVKKMKK
+EFTRSIMEDDQDCVMDTVGAVCVDeYGNVASGASSGGIALKVDGRVGLAAMYGSGCWASS
+KGPFGTPFVIGCCATGAGEHLIRGFASRECCISASLSQSGPASSCTKVLRSVVQSSSEMS
+HDTGAGLLLVQSDVTKRGEsPlLEAAELVAAYSSPSFGIGYLGSNMNSPKVSMLRDSRAP
+SnSIQHFATRVNFGAPSSEG
+
+
+PACMAD CONSENSUS:
+Length: 433 aa
+
+MATGGGASETAVGAGEENPSASRIPTRRFFVALHVGAGFHAPANEKAYRRAMKRACLAAA
+AVLREGSGTSLDAVAAAIQVLEDDPVTNAGRGSNLTESGHVECDASIMDGSTGSFGAVGA
+IRGVKNPIQVALHLAKEQMAGSSLLGRIPPMFLVGEGAYQWAKSKGMDLLESTSEANSWL
+VTENARAQWVKYTSLLVNTKKLLEHNTGSGSEHDSVQLEAPGTESENIADVKKIFTQSFM
+EDNtDCVMDTVGVICVDSYGNVASGASSGGIALKVDGRVGLAAMYGSGCWASSKGPFGTP
+FiVACCATGAGEHLIRGFAARECCISSSLSQSGPASACTKVLRSVVQSSSKMSHDTGAGL
+LLVQADVqKGGDLSELEAAELVAAYSSPSFGVGYFGSNMNNPKVSMLRASEGASkTVNHF
+ATRIKFDrESSEQ
+
+================================================================================

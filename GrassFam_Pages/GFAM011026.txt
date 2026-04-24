@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM011026
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             392.0 aa
+Family Size (Extended Family Size): 29 (32) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12581
+Panther Family ID:               PTHR12581
+Modal Panther ID:                PTHR12581
+Modal Panther Description:       HIV-1 REV BINDING PROTEIN 2, 3
+Modal Panther Family ID:         PTHR12581
+Modal Panther Fam Desc:          HIV-1 REV BINDING PROTEIN 2, 3
+Interpro Signature Accession:    cd22394; cd22393; G3DSA:3.30.1370.10:FF:000011; G3DSA:3.30.1370.10:FF:000014; G3DSA:3.30.1370.10; PTHR12581; PIRSF006515; PF17903; PF21800
+Interpro Signature Description:  KH-I_KRR1_rpt2; KH-I_KRR1_rpt1; KRR1 small subunit processome component; K Homology domain, type 1; HIV-1 REV BINDING PROTEIN 2, 3; KRR1; Krr1 KH1 domain; KRR1 small subunit processome component, second KH domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: KRR1 small subunit processome component homolog
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: KRR1 small subunit processome component homolog
+Ata
+  Gene count: 2
+  Modal chromosome: Ata03D
+  Gene Products: KRR1 small subunit processome component homolog
+Tae
+  Gene count: 5
+  Modal chromosome: Tae03A
+  Gene Products: KRR1 small subunit processome component homolog; KRR1 small subunit processome component homolog%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl01
+  Gene Products: KRR1 small subunit processome component homolog
+  Gene Descriptions: KRR1 small subunit processome component homolog
+Osa
+  Gene count: 2
+  Modal chromosome: Osa01
+  Gene Products: KRR1 small subunit processome component homolog
+  Gene Descriptions: KRR1 small subunit processome component homolog
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: KRR1 small subunit processome component homolog
+  Gene Descriptions: KRR1 small subunit processome component homolog
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: KRR1 small subunit processome component-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: KRR1 small subunit processome component
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: KRR1 small subunit processome component
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: RNA-binding KH domain-containing protein
+  Gene Synonyms: GRMZM2G167809
+  Gene Descriptions: RNA-binding KH domain-containing protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 391 aa
+
+MASEDEANAAAAEApEGKNWRRKGKHDKPKPWDEDPNIDRWKIEKFDPSWNEGGMLEVSS
+FSTLFPQYREKYLQEAWPIVKGALKEFGVSCELNLVEGSMTVSTTRKTRDPYIIvKAREL
+IKLLSRSVPAPQAIKILNDEMNCDIIKIGSIIRNKERFVKRRERLLGPNLSTLKAIEILT
+GCYILVQGNTVAAMGSfKGLKQVRRIVEDCIKNIKHPVYHIKELLIKRELAKNPALATES
+WDRFLPKFKKKNVKQKKPqTKEKKPYTPFPPPQQPSKIDLELESGEYFMSDKKKSAKKWQ
+EKLEKQSgKAEENKRKREAAFVPPKENTAGPSESaKsTNDNNEIADIAKSLKKKAKEFRK
+NEAQENVraESYvASNEESRPKKKHKSsKSK
+
+
+BOP CONSENSUS:
+Length: 389 aa
+
+MASedEANAAAEAtEGKNWRRKGKHDKEKPWDDDPNIDRWTVEKFDPSWNEGGLLEVSSF
+STLFPQYREKYLQEAWPIVKGALKEFGVSCELNLVEGSMTVSTTRKTRDPYIILKARDLI
+KLLSRSVPAPQAIKVLNDEMNCDIIKIGSIIRNKERFVKRRERLLGPNLSTLKAIEILTG
+CYILVQGNTVAAMGSFKGLKQVRRIVEDCIKNIKHPVYHIKELLIKRELAKNPALATESW
+DRFLPNFKKKNVKQKKPNTKEKKQYTPFPPPQQPSKIDLELESGEYFMSDKKKSAKKWQE
+KLDKQSEKSEEKKRKREAAFVPPKENTAGlSESAKSTnDNNEIADIAKSLKKKAKkFRNS
+EAeENVKiESYVASNEESRsKKKHKSSSK
+
+
+PACMAD CONSENSUS:
+Length: 397 aa
+
+MASEDEANAAAAAAEAEAAEGKNWRRKGKHDKPKPWDEDPNIDRWKIEKFDPSWNEGGML
+EVSSFSTLFPQYREKYLQEAWPIVKGALKEHGISCELNLVEGSMTVSTTRKTRDPYIIVK
+ARELIKLLSRSVPAPQAIKILDDEMNCDIIKIGGLVRNKERFVKRRERLLGPNLSTLKAI
+EILTGCYILVQGNTVAAMGSYrGRGLKQVRRIVEDCIKNVKHPVYHIKELLIKRELAKNP
+ALATESWDRFLPKFKKKNVKQKKPQTKEKKPYTPFPPPQQPSKIDLELEtGEYFMSDKKK
+SAKKWQEKLEKQSGKAEENKRKREAAFVPPKENTAGPSESDKtANDNSEIADIAKSLKKK
+AKEFRKNEAQENVrAESYLASNEEsRPKKKKKSTKSK
+
+================================================================================

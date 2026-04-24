@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM006654
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             488.0 aa
+Family Size (Extended Family Size): 23 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22950:SF676
+Panther Family ID:               PTHR22950
+Modal Panther ID:                PTHR22950:SF676
+Modal Panther Description:       AMINO ACID TRANSPORTER TRANSMEMBRANE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR22950
+Modal Panther Fam Desc:          AMINO ACID TRANSPORTER
+Interpro Signature Accession:    PTHR22950; PF01490
+Interpro Signature Description:  AMINO ACID TRANSPORTER; Transmembrane amino acid transporter protein
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: amino acid transporter AVT6E
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: amino acid transporter AVT6E
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: amino acid transporter AVT6E
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: amino acid transporter AVT6E-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: amino acid transporter AVT6E
+  Gene Descriptions: amino acid transporter AVT6E
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: amino acid transporter AVT6E
+  Gene Descriptions: amino acid transporter AVT6E
+Ecu
+  Gene count: 3
+  Modal chromosome: EcuUN346
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: amino acid transporter AVT6E-like
+  Gene Descriptions: amino acid transporter AVT6E-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: amino acid transporter AVT6E-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: amino acid transporter AVT6E
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: probable sodium-coupled neutral amino acid transporter 6
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: amino acid permease
+  Gene Synonyms: GRMZM2G087635
+  Gene Descriptions: amino acid permease
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 488 aa
+
+MNTNYSALPLTSPSIELQSNGAKSSAAANGvvNGHAKISKQDSFLGEVEDGgGGGGGEHD
+ELPLIGDGPAGPPEGSGVPAAVFNLATSIIGAGIMALPATMKVLGVAVGLVSILVMGVLS
+EITIELLVRFSAYCRALSYGEVVHRALGRPASVVAQMCVIINNAGVLVVYLIIIGDVMSG
+SLKHIGVMDQLIGHGEWDNRRLLILVVLVIFLAPLCALEKIDSLSLSSAASVALAVVFVV
+VSCIIALIKIAEGKISMPRMGPDFSSRAAMLDLLVVIPIMTNAYICHFNVQPIYNELKEK
+TPQNMYKVGRISTVLCVVVYALTAlSGYLLFGDDTESDVLTNFDKDLGIRFSSVLNYIVR
+IGYVIHLVLVFPVVHFSLRQTVDSLIFGELATpSRKKTLTLTVVLLALIYLGSTMIPNIW
+MAFKFTGATTGLALGFMFPALVALRLDKEGsRLGHGERLLSLGLLGLAIVVSVIGVVGNV
+YTLKSKSE
+
+
+BOP CONSENSUS:
+Length: 491 aa
+
+MVNTNYSALPLTSTAIELQSnqPPpppksGAayNGHAKLTKQDSFLGEVEDDDAggtgGE
+HDeLPLIGDDGPAGPPEGSGVsGAVFNLATSIIGAGIMALPATMKVLGVAVGLVSILVMG
+vLSEVTIELLVRFAVRCRALSYGELVHRALGRPASVVAQmCVIINNAGILVVYLIIIGDV
+MSGSLKHmGVMDQLIGHGEWDNRRLLILFVLVVFLAPLCALEKIDSLSLSSAASVALAVV
+FVAVSCIIAAVKLVEGKISAPRMGPDFSSRAAMLDLLVVIPIMTNAYICHFNVQPIYNEL
+KEKTPrNMYNVGRISTVLCVVVYALTAISGYLLFGDDTESDVLTNFDKDLGIKFSSVLNY
+IVRIGYIIHLVLVFPVVHFSLRQTVDSLVFGELAPHSRKKMLSLTVVLLALIYLGSTMIP
+NIWMAFKFTGATTGLALGFMFPALVALRLDKEGECLGrGERLLSLGMLGLAIVVSVVGVV
+GNVYSLRSKSE
+
+
+PACMAD CONSENSUS:
+Length: 487 aa
+
+MNTNYSALPLTSPSIELQSNGAKSSAAANGVLNGHAKISKQDSFLGEVEDGGGGGGEHDE
+LPLIGDGPAGPPEGSGVPAAVFNLATSIIGAGIMALPATMKVLGVAVGLVSILVMGVLSE
+ITIELLVRFSAYCRALSYGEVVHRALGRPASVVAQMCVIINNAGVLVVYLIIIGDVMSGS
+LKHIGVMDQLIGHGEWDNRKLLILVVLVIFLAPLCALEKIDSLSLSSAASVALAVVFVVV
+SCIIALIKIAEGKISMPRMGPDFSSRAAMLDLLVVIPIMTNAYICHFNVQPIYNELKEKT
+PQNMYKVGRISTVLCVVVYALTALSGYLLFGEDTESDVLTNFDKDLGIRFSSLLNYIVRI
+GYVIHLVLVFPVVHFSLRQTVDSLIFGELATPSRKKTLTLTVVLLALIYLGSTMIPNIWM
+AFKFTGATTGLALGFMFPALVALRLDKEGSRLGHGERLLSLGLLGLSIvVSVIGVVGNVY
+TLKSKSE
+
+================================================================================

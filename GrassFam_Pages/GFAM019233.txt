@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM019233
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             509.0 aa
+Family Size (Extended Family Size): 23 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR33101:SF65
+Panther Family ID:               PTHR33101
+Modal Panther ID:                PTHR33101:SF65
+Modal Panther Description:       ROP GUANINE NUCLEOTIDE EXCHANGE FACTOR 10
+Modal Panther Family ID:         PTHR33101
+Modal Panther Fam Desc:          ROP GUANINE NUCLEOTIDE EXCHANGE FACTOR 1
+Interpro Signature Accession:    G3DSA:1.20.58.1310:FF:000001; G3DSA:1.20.58.2010:FF:000003; G3DSA:1.20.58.1310; G3DSA:1.20.58.2010; PTHR33101; PF03759
+Interpro Signature Description:  Rop guanine nucleotide exchange factor 9; Rop guanine nucleotide exchange factor 14; PRONE domain, subdomain 2; PRONE domain, subdomain 1; ROP GUANINE NUCLEOTIDE EXCHANGE FACTOR 1; PRONE (Plant-specific Rop nucleotide exchanger)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: rho guanine nucleotide exchange factor 8
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: rho guanine nucleotide exchange factor 8-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: rho guanine nucleotide exchange factor 8
+Tae
+  Gene count: 5
+  Modal chromosome: Tae06A
+  Gene Products: rho guanine nucleotide exchange factor 8-like; rop guanine nucleotide exchange factor 11-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: rop guanine nucleotide exchange factor 10-like
+  Gene Descriptions: rop guanine nucleotide exchange factor 10-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: rop guanine nucleotide exchange factor 10
+  Gene Descriptions: rop guanine nucleotide exchange factor 10
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau05
+  Gene Products: rho guanine nucleotide exchange factor 8-like
+  Gene Descriptions: rho guanine nucleotide exchange factor 8-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: rho guanine nucleotide exchange factor 8-like; rop guanine nucleotide exchange factor 11-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: rho guanine nucleotide exchange factor 8-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: rop guanine nucleotide exchange factor 9
+Zma
+  Gene count: 2
+  Modal chromosome: Zma04
+  Gene Products: rop guanine nucleotide exchange factor 10; uncharacterized LOC100216854
+  Gene Synonyms: GRMZM2G442148
+  Gene Descriptions: uncharacterized LOC100216854
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 516 aa
+
+MVRFLRRHSLDKtGSHnhlrqqQhesdSSgSDTaEMHEPlGNGAGGTPPLPNGRAAAAGA
+PRSRLARDGPPSELDVMKEKFAKLLLGEDMSGTGKGVSSALALSNAVTNLAASVFGEHRK
+LEPMAPDTKERWKREVGWLLSVTDHIVEFVPTRQTAENGTTMEIMSTAQRRDLAMNIPAL
+RKLDAMLIGYMDNFVDQTEFWYEKGGDNKRDDDKWWMPTVKVPSEGLSDVTRKWLQYQKE
+CVNQVLKAAMAINAQVLVEMEIPEIYIESLPKKGKTSLGDAIYRSITEETFDPLEFLEGM
+DLSTEHKVLDLKNRIEASTVIWKRKMQTKDSKSSWSSIVSFEKREQFEERAETILHLLKL
+QFPGTPQSQLDISKIQYNRDVGYALLESYSRVLESLAYSVMSRIEDVLGADAAAQNLTAS
+EAARRmLESAeAPAARKLDAKEELEKLNEAPASMTLFDFMGWHFDQDELMKRREDGTLDe
+DGEAMLLKKAPSLAPKKFSYVDSLSSGGMRSPSARH
+
+
+BOP CONSENSUS:
+Length: 508 aa
+
+MVRFLRRHSLDKSNSqtHLRKEeQeSsScTsSDTEMhEPGGNGGGGTPPLPNGRAAPRSR
+LARDGPPSDLDVMKERFAKLLLGEDMSGTGKGVSSALALSNAITNLAASVFGEHRKLEPM
+APDTKERWKKEVGWLLSVTDHIVEFVPTRQTAENGTTMEIMSTAQRRDLQMNIPALRKLD
+AMLIGYMDNFVDQTEFWYEKGGDNKRDDDKWWMPTVKVPAEGLSDVTRKWLQYQKECVNQ
+VLKAAMAINAQVLVEMEIPEIYIESLPKKGKTSLGDAIYRSITDEEFDPIEFLEGVDLST
+EHKVLDLKNRIEASTIIWKRKMQTKDAKSSWGSIISFEKREQFEERAETILHLLKLQFPG
+TPQSQLDISKIQYNRDVGYALLESYSRVLESLAYSVMSRIEDVLGADAAATNLTASEAAR
+RQLEMNAPRKLDAREELEKLNEAPASMTLYDFMGWHFDQDELMRKKEEGTLDEAGEAMLL
+KKAPSLAPKKFSYVDSLAGGvRSPSARH
+
+
+PACMAD CONSENSUS:
+Length: 520 aa
+
+MVRFLRRGHSLDKTGSHNSntQQQQRERhLDRSGSDTgEMHESLGNGAGGTPPLPNGRAA
+AAGAARSRLGRDGPPSELDvMKEKFAKLLLGEDMSGTGKGVSSALALSNAVTNLAASVFG
+EHRKLEPMAPDTKERWKREVGWLLSVTDHIVEFVPTRQTAENGTTMEIMSTAQRRDLAMN
+IPALRKLDAMLIGYMDNFVDQTEFWYEKGGDNKRDDDKWWMPTVKVPSEGLSDVTRKWLQ
+YQKECVNQVLKAAMAINAQVLVEMEIPEIYIESLPKKGKTSLGDAIYRSITEETFDPLEF
+LAGMDLSTEHKVLDLKNRIEASTVIWKRKMQTKDSKSSWSSIVSFEKREQFEERAETILH
+LLKLQFPGTPQSQLDISKIQYNRDVGYALLESYSRVLESLAYSVMSRIEDVLSADAAAQN
+LTAtEAARRMMESAEAPAARKLDAKEELEKLNEAPASMTLFDFMGWHFDQDELMKRREDG
+TLDADGEAKLLKKAPSMAPKKFSYVDSLSSGGMRSPSARH
+
+================================================================================

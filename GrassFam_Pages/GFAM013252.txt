@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM013252
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             508.0 aa
+Family Size (Extended Family Size): 28 (32) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR47966
+Modal Panther ID:                PTHR47966:SF4
+Modal Panther Description:       OS01G0663400 PROTEIN
+Modal Panther Family ID:         PTHR47966
+Modal Panther Fam Desc:          BETA-SITE APP-CLEAVING ENZYME, ISOFORM A-RELATED
+Interpro Signature Accession:    cd06098; G3DSA:2.40.70.10:FF:000002; G3DSA:1.10.225.10:FF:000001; G3DSA:2.40.70.10:FF:000009; G3DSA:2.40.70.10; G3DSA:1.10.225.10; PTHR47966; PR00792; PF00026; SSF50630; SSF47862
+Interpro Signature Description:  phytepsin; Vacuolar aspartic proteinase; Aspartic proteinase A1; Acid Proteases; -; BETA-SITE APP-CLEAVING ENZYME, ISOFORM A-RELATED; Pepsin (A1) aspartic protease family signature; Eukaryotic aspartyl protease; Acid proteases; Saposin
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: phytepsin
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: phytepsin
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: phytepsin%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: phytepsin; phytepsin%2C transcript variant X1; phytepsin-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: aspartic proteinase oryzasin-1
+  Gene Descriptions: aspartic proteinase oryzasin-1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: aspartic proteinase oryzasin-1-like
+  Gene Synonyms: OJ1781_H11.11
+  Gene Descriptions: aspartic proteinase oryzasin-1-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: aspartic proteinase oryzasin-1%2C transcript variant X1; aspartic proteinase oryzasin-1-like%2C transcript variant X1
+  Gene Descriptions: aspartic proteinase oryzasin-1; aspartic proteinase oryzasin-1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: aspartic proteinase oryzasin-1; aspartic proteinase oryzasin-1-like%2C transcript variant X3
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: aspartic proteinase oryzasin-1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: aspartic proteinase oryzasin-1%2C transcript variant X1
+Zma
+  Gene count: 8
+  Modal chromosome: Zma06
+  Gene Products: aspartic proteinase oryzasin-1; aspartic proteinase oryzasin-1%2C transcript variant X2
+  Gene Synonyms: GRMZM2G065757; GRMZM2G102933,GRMZM2G153977
+  Gene Descriptions: aspartic proteinase oryzasin-1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 507 aa
+
+MGTRGVALVLLAAVLLQALLPASAAEGLVRIALKKRPIDQNSRVAtRLSgEErQRLLLRG
+ANsLGSgdEGDIIALKNYMNAQYFGEIGVGTPpQKFTVIFDTGSSNLWVPSSKCYFSIAC
+YFHSRYKSGQSSTYKKNGKPAAIQYGTGSIAGFFSEDSVTVGDLVVKDQEFIEATKEPGL
+TFMVAKFDGILGLGFQEISVGNAVPVWYNMVEQGLISDPVFSFWFNRHADEGEGGEIVFG
+GMDPsHYKGnHTYVPVTQKGYWQFnMGDVLVGGKSTGFCAGGCAAIADSGTSLLAGPTAI
+ITEINEKIGAAGVVSQECKTVVSQYGQQILDLLLAETQPAKICSQVGLCTFDGTHGVSAG
+IRSVVDDEAGKSNGLrSDPMCNACEMAVVWMQNQLAQNKTQDLILNYINQLCdRLPSPMG
+ESAVDCASLgSMPDIAFTIGGKKFALKPEQYILKVGEGaAAQCISGFTAMDIPPPRGPLW
+ILGDVFMGaYHTVFDYGKLRVGFAkSA
+
+
+BOP CONSENSUS:
+Length: 508 aa
+
+MGTRGLALLLLAAVLLQALLPASEAEGLVRIALKKRPIDRNSRVATSLSGrEgqrrLGLG
+GANSLRSEEEGDIVALKNYMNAQYFGEIGVGTPPQKFTVIFDTGSSNLWVPSAKCYFSIA
+CYLHSRYKAGQSSTYKKNGKPAAIQYGTGSIAGYFSEDSVTVGDLVVKDQEFIEATKEPG
+VTFLVAKFDGILGLGFQEISVGKAVPVWYKMVEQGLISDPVFSFWLNRHADEGEGGEIIF
+GGMDPKHYVGEHTYVPVTQKGYWQFDMGDVLVGGKSTGFCAGGCAAIADSGTSLLAGPTA
+IITEINEKIGAAGVVSQECKTIVSQYGQQILDLLLAETQPKKICSQVGLCTFDGTRGVSA
+GIRSVVDDEPVKSNGLRSDPMCSACEMAVVWMQNQLAQNKTQDLILDYVNQLCNRLPSPM
+GESAVDCGSLGSMPDIEFTIGGKKFALKPEEYILKVGEGAAAQCISGFTAMDIPPPRGPL
+WILGDVFMGPYHTVFDYGKLRVGFAKAA
+
+
+PACMAD CONSENSUS:
+Length: 508 aa
+
+MGTRSVALVLLAAVLLQTLLPASAAEGLVRVALKKQPIDQNsRVAaRLSAEERQRLLLRG
+ANSLGSGGEGDIIALKNYMNAQYFGEIGVGTPAQKFTVIFDTGSSNLWVPSSKCYFSIAC
+YFHSRYKSGQSSTYKKNGKPAAIHYGTGSIAGFFSEDSVTLGDLVVKDQEFIEATKEPGL
+TFMVAKFDGILGLGFQEISVGNAVPVWYNMVKQGLISDPVFSFWFNRHADEGEGGEIVFG
+GMDsSHYKGDHTYVPVTQKGYWQFNMGDVLVDGKSTGFCAGGCAAIADSGTSLLAGPTAI
+ITEINEKIGAAGVVSQECKTVVSQYGQQILDLLLAETQPAKICSQVGLCTFDGTHGVSAG
+IRSVVDDEAGKSNGGLkSDPMCNACEMAVVWMQNQLAQNKTQELILNYINQLCERLPSPM
+GESSVDCASLKSMPDIAFTIGGKKFkLKPEQYILKVGEGqAAQCISGFTAMDIPPPRGPL
+WILGDVFMGAYHTVFDYGKLRVGFAESA
+
+================================================================================

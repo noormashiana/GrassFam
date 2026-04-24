@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM009327
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             496.5 aa
+Family Size (Extended Family Size): 34 (34) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24286:SF356
+Panther Family ID:               PTHR24286
+Modal Panther ID:                PTHR24286:SF356
+Modal Panther Description:       ENT-KAURENOIC ACID OXIDASE 2
+Modal Panther Family ID:         PTHR24286
+Modal Panther Fam Desc:          CYTOCHROME P450 26
+Interpro Signature Accession:    G3DSA:1.10.630.10:FF:000052; G3DSA:1.10.630.10; PTHR24286; PF00067; SSF48264
+Interpro Signature Description:  Ent-kaurenoic acid oxidase; Cytochrome P450; CYTOCHROME P450 26
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 3
+  Modal chromosome: Bdi01
+  Gene Products: ent-kaurenoic acid oxidase 1; ent-kaurenoic acid oxidase 1%2C transcript variant X1; ent-kaurenoic acid oxidase 1%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: ent-kaurenoic acid oxidase 1
+Ata
+  Gene count: 1
+  Modal chromosome: AtaUN162701
+  Gene Products: ent-kaurenoic acid oxidase 1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: ent-kaurenoic acid oxidase 1%2C transcript variant X1; ent-kaurenoic acid oxidase 1-like; ent-kaurenoic acid oxidase 1-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: ent-kaurenoic acid oxidase
+  Gene Descriptions: ent-kaurenoic acid oxidase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: ent-kaurenoic acid oxidase-like
+  Gene Synonyms: CYP88A5,KAO,OsKAO,RPE1
+  Gene Descriptions: ent-kaurenoic acid oxidase-like
+Ecu
+  Gene count: 5
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: cytochrome P450 88A1-like; cytochrome P450 88A1-like%2C transcript variant X2
+  Gene Descriptions: cytochrome P450 88A1-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 5
+  Modal chromosome: Pvi09N
+  Gene Products: cytochrome P450 88A1-like; ent-kaurenoic acid oxidase-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha06
+  Gene Products: cytochrome P450 88A1-like; ent-kaurenoic acid oxidase-like%2C transcript variant X1
+Msi
+  Gene count: 3
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: cytochrome P450 88A1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma09
+  Gene Products: cytochrome P450 88A1-like; dwarf plant 3%2C transcript variant X1
+  Gene Synonyms: CYP88A1,d3,dwarf3,GRMZM2G093195; GRMZM2G089803
+  Gene Descriptions: cytochrome P450 88A1-like; dwarf plant 3
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 495 aa
+
+MagpllWAAAAvAaavVvLDAaVRrAHGWYREASLGAgRRARLPPGDMGWPVVGgMWAFL
+RAFKSGKPDAFIgSFIRRFGRTGvYRAFMFSSPTILVTTPEACKQVLMDDDaFVTGWPKA
+TVALIGPKSFVaMPYDEHRRLRKLTAAPINGFDALTaYLpFIDRTVvSSLRaWSdesAgG
+evEFLTELRRMTFKIIVQIFLGGADDATMrALERSYTDLNYGMRAMAINLPGFAYHRALr
+ARRKLVSVLQGVLDERRAAtAKGftRSSsVDMMDRLIEAEDEhGRRLDDDEIIDILIMYL
+NAGHESSGHITMWATVFLQENPDIFAKAKAEQEAIMRSIPPTQKGLTLRDFRKMEYLSQV
+IDETLRFVNISFVSFRQATKDVFVNGYLIPKGWKVQLWYRSVHMDPQVYPDPKKFNPSRW
+EGhsPRAGTFLPFGLGARLCPGNDLAKLEISVFLHHFLLGYKLTRTNPNCRVRYLPHPRP
+VDNCLAKITKVSdey
+
+
+BOP CONSENSUS:
+Length: 493 aa
+
+MGEAAWWLWAaaAAvLAVVvVDAAVRrAHAWYWTASLGAGRRgRLPPGDMGWPLVGGMWA
+FLRAFKSGrPDAFIDSFvRRFGRTGLYRAFMFSSPTILVTTPEACKQVLMDDdtFVTGWP
+KATVaLIGPKSFvNMpYDEHRRLRKLTAAPINGFDALTsYLgFIDhTVVsTLRRWSSrsg
+diEFLTELRRMTFRIIVQIFMSGADERTMAeLERSYTELNYGMRAMAIDLPGFAYHKALR
+ARRKLVAvLQGVLDERRAagaKkFtagVDMMDRLIEVEDEgGRRLqDDEIIDVLVMYLNA
+GHESSGHITMWATVFLQENPDILAKAKAEQEEIMRSIPPTQKGLTLRDFRKMEYLSQVVD
+ETLRFVNISFVSFRQATRDVFVNGYLIPKGWKVQLWYRSVHMDPQVYPDPKKFDPSRWEG
+PPPRAGTFLPFGLGtRLCPGNDLAKLEISVFLHHFLLGYKLTRkNPNCRVRYLPHPRPVD
+NCLAKITRVSSsH
+
+
+PACMAD CONSENSUS:
+Length: 496 aa
+
+MGgsgpglWAAAAAVvlVvLDAvVRrAHGWYREASLGAaRRARLPPGEMGWPVVGAMWAF
+LRAFKSGKPDaFIGSFIRRFGRTGVYRAFMFSSPTILVtTPEACKQVLMDDDsFVtGWPK
+ATVALIGPKSFVAMPYDEHRRLRKLTAAPINGFDALTtYLPFIDRTVTSSLRAWSDESAd
+GGEVEFLTELRRMTFKIIVQIFLGGADDATMRALERSYTDLNYGMRAMAINLPGFAYHRA
+LkARrKLVSVLQGVLDERRAATAKGltSSsVDMMDRLIEAEDEHGRRLDDDEIIDILIMY
+LNAGHESSGHITMWATVFLQENPDIFAKAKAEQEAIMRSIPptQqGLTLRDFRKMEYLSQ
+VIDETLRFVNISFVSFRQATKDVFVNGYLIPKGWKVQLWYRSVHMDPqVYPDPKKFNPSR
+WEGHSPRAGTFLPFGLGARLCPGNDLAKLEISVFLHHFLLGYKLTRTNPNCRVRYLPHPR
+PVDNCLAKITKVSDEY
+
+================================================================================

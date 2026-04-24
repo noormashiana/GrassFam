@@ -1,0 +1,128 @@
+================================================================================
+GrassFam ID: GFAM020146
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             568.0 aa
+Family Size (Extended Family Size): 44 (48) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31225:SF252
+Panther Family ID:               PTHR31225
+Modal Panther ID:                PTHR31225:SF252
+Modal Panther Description:       TERPENE SYNTHASE 12-RELATED
+Modal Panther Family ID:         PTHR31225
+Modal Panther Fam Desc:          OS04G0344100 PROTEIN-RELATED
+Interpro Signature Accession:    cd00684; G3DSA:1.10.600.10:FF:000007; G3DSA:1.50.10.130; G3DSA:1.10.600.10; PTHR31225; PF01397; PF03936; SFLDS00005; SFLDG01019; SSF48239; SSF48576
+Interpro Signature Description:  Terpene_cyclase_plant_C1; Isoprene synthase, chloroplastic; -; Farnesyl Diphosphate Synthase; OS04G0344100 PROTEIN-RELATED; Terpene synthase, N-terminal domain; Terpene synthase family, metal binding domain; Isoprenoid Synthase Type I; Terpene Cyclase Like 1 C Terminal Domain; Terpenoid cyclases/Protein prenyltransferases; Terpenoid synthases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: alpha-terpineol synthase%2C chloroplastic
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu02H
+  Gene Products: alpha-terpineol synthase%2C chloroplastic-like
+Ata
+  Gene count: 4
+  Modal chromosome: Ata02D
+  Gene Products: alpha-terpineol synthase%2C chloroplastic; alpha-terpineol synthase%2C chloroplastic-like; tricyclene synthase TPS4%2C chloroplastic-like
+Tae
+  Gene count: 13
+  Modal chromosome: Tae02B
+  Gene Products: (-)-alpha-terpineol synthase-like; alpha-terpineol synthase%2C chloroplastic-like; alpha-terpineol synthase%2C chloroplastic-like%2C transcript variant X1; terpene synthase 10-like; tricyclene synthase TPS4%2C chloroplastic-like
+Ola
+  Gene count: 4
+  Modal chromosome: Ola04
+Ecu
+  Gene count: 6
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 1
+  Modal chromosome: Pau07
+  Gene Products: terpene synthase 10-like%2C transcript variant X1
+  Gene Descriptions: terpene synthase 10-like
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: (-)-alpha-terpineol synthase-like%2C transcript variant X3; alpha-terpineol synthase%2C chloroplastic-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha09
+  Gene Products: alpha-terpineol synthase%2C chloroplastic-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi01
+  Gene Products: terpene synthase 10
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: uncharacterized LOC100501694
+  Gene Synonyms: GRMZM2G108609
+  Gene Descriptions: uncharacterized LOC100501694
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 566 aa
+
+MAWQLQQTMATtSTCFRTSSPATVRCSSAARRSANYAPSSWDYDSLLqLSPNNGGQADQV
+DKLKAGVRERLVAASRGdhQaAKLrLVDTVQRLGIAYHFEEEIagILSSIHrEPHrCswD
+aDDVASaALRFRLLRDsGFPVyfPESLenLKrGsDDVkGLLSLYEASYLAFGGEEtLDEA
+RaFSkKALkeLLPSMDPHLRrSVVhsLDLPLHWRSPRLEARWFIDHYARDeSNSDPLLLR
+FAktDFNNVQSVHQEELARLARWWKgTALsEKLGFARDRLMECFHYANGIVWEPNnGACR
+EVLAKVANLIVHLDDVYDVYGTLDELVLFTDAIGRWEESPSErLPEYMQALYSVMYNTSA
+EVAENVLKQHGCDaRyVLQKAWRDMAESFLVEAKWHHGNHRPTLrEYLDNGSVSSSAPLL
+LQHAFPLLnvEEKlTpmSLAKVGSYPRLVQSASLVLRLCNDSATHSAELERGDAPSSIAI
+HMSENsSsEQESRKAMEDLTMEAWKSINEDAFKHCQFSRsFAKTCVNLARISHCVYQGGD
+GFGAPDgqKKKQIRELFLDPFmiEkH
+
+
+BOP CONSENSUS:
+Length: 567 aa
+
+MAWQLQQTMATtSTCFRTSSPATVRCSAAARRSANYAPSSWDYDSLLQLSPNNGGQADQV
+DKLKAGVRERLVAASRGDHQAAKLRLVDTVQRLGIAYHFEEEIagILSSVHRKPHRCSWD
+DsDVASAALRFRLLRDSGFPVyFPPESLEnLKRGSDDVKGLLSLYEASYLAFGGEEtLDE
+ARAFSKKALrKLLPSMDhHLRRSVVRSLDLPLHRRSPRLEARWFIDHYARDESNSDPLLv
+RFAtTDFNNVQSVHQEELARLARWWKGTALSEKLGFARDRLMECFHYANGIVWEPNnGAC
+REVLAKVANLIVHLDDVYDVYGTLDELVLFTDAIGRWEESPSErLPEYMQALYSVMYNTS
+AEVAENVLKQHGCDaRhVLQKAWRDMAESFLVEAKWHHGNHRPTLREYLDNGSISSSAPL
+LLQHAFPLLhvEEKLTPMSLAKVGSYPKLVQSASLVLRLCNDSATHSAELERGDAPSSIA
+IHMSENSSSEQESREAMEDLTMEAWKSINEDAFKHCQFSRSFAKTCVNLARISHCVYQGG
+DGFGAPDGqKKKQIRELFLDsFMIEKH
+
+
+PACMAD CONSENSUS:
+Length: 550 aa
+
+MSlrTTvHHQVwCLSAPEKPRRRSANYQPTSWDYDADQvcssSYYKLKtSIrDMLLKKAE
+PSSKLktIDTMQRLGISYHFEEEISNILSSISMEsANDRHyDDIAFTALKFRLLRENGFP
+TTqGTLGcHNYEsiCtKMTLQKDVDGLLSLYEASYLAFGDEEILDVARTFSAKALKELMP
+SMLPHLRKrVAHdLELPLHWRAPRLETRWFIDhnArNIsMCPLLLQFAKLDFNmVQDVHQ
+qDLAtVTRWWRhIGLGDKLTFARDRLMECFHYANGIVWEPKtGaCREMLAKVSNLIVHLD
+DVYDVYGTMDELVLFTDAIGRWDANPNEaLPEYMKALYSVIYNTSNEVADHALKEHGCSM
+HYlLQKvWHDISmaFLVEAKWHHGNhRPSLQEYLENGWVSSSAPLLLLHAFPMLNSvVNM
+nTISqIQnnPRLVQSASLILRLCNDSATHSAELQRGDAPSSIAIHMsENGgNEqDSRKAM
+QDLILKSWKiINqEAFDSCQFSrPFtKACVNLARISHCVYHGGDGFGtPSDLKrKQIkDL
+FLEPiditND
+
+================================================================================

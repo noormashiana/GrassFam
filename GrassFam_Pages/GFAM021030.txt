@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM021030
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             475.0 aa
+Family Size (Extended Family Size): 25 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13370:SF19
+Panther Family ID:               PTHR13370
+Modal Panther ID:                PTHR13370:SF19
+Modal Panther Description:       UPF0020 DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR13370
+Modal Panther Fam Desc:          RNA METHYLASE-RELATED
+Interpro Signature Accession:    G3DSA:3.40.50.150:FF:000213; G3DSA:3.40.50.150; PTHR13370; PIRSF017259
+Interpro Signature Description:  Methyltransferases,nucleic acid binding; Vaccinia Virus protein VP39; RNA METHYLASE-RELATED; tRNA_Mtase_TRM11
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: tRNA (guanine(10)-N2)-methyltransferase homolog
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu02H
+  Gene Products: tRNA (guanine(10)-N2)-methyltransferase homolog
+Ata
+  Gene count: 2
+  Modal chromosome: Ata02D
+  Gene Products: tRNA (guanine(10)-N2)-methyltransferase homolog
+Tae
+  Gene count: 6
+  Modal chromosome: Tae02A
+  Gene Products: tRNA (guanine(10)-N2)-methyltransferase homolog
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: uncharacterized LOC127762272
+  Gene Descriptions: uncharacterized LOC127762272
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4329664
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau06
+  Gene Products: uncharacterized LOC133921974
+  Gene Descriptions: uncharacterized LOC133921974
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: tRNA (guanine(10)-N2)-methyltransferase homolog
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: tRNA (guanine(10)-N2)-methyltransferase homolog
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: tRNA (guanine(10)-N2)-methyltransferase homolog
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: uncharacterized LOC100280406
+  Gene Synonyms: GRMZM2G149865
+  Gene Descriptions: uncharacterized LOC100280406
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 475 aa
+
+MWYLCVFYHRLLDYRRPEVQSLAELFGGPGAGDAVEWRMPENHHEDSPFHLVRLPGDERL
+AAQIANRSLLVKGIYELWGQGTTYEELEKAVREYPDERKLPYLTPESTFKIVVDSFGKVI
+SFQEQNEIIKsLTYIPFeGRVNLKKPDHKFFVMETDDYGSNNGLPPVVQRTVFFGREVGA
+ADRHLLPTYQLKSRKYIGPTAMDAEMAFLMANQGLARPGKLVYDPFVGTGSILVAAAHFG
+AMTMGADIDIRVVRDGRGPDCNIWSNFEQYKLPEPLCVLRADNNLPPWRPGLKEIFDAII
+CDPPYGVRAGGRKSGGRKLLKGIIpPYTVPDEKRDNHIPSTAPYSLAECVHDLLHLAARM
+LVMGGRLVFFYPVLRgDDgAavAKFPEHPCFKLVaSCEQILSLRYSRVLLTMVKVgPYTE
+EVERMAEERHQEFRENHQKWMEEGNLHSAVFSPAEHDGKPKFDRDSKPKYRGKYV
+
+
+BOP CONSENSUS:
+Length: 475 aa
+
+MWYLCVFYHRLLDYRRPEVQSLAELFGGPGAGDAVEWRMPENHHEDSPFHLVRLPGDERL
+AAQIANRSLLVKGIYELWGQGATYDELEKAIREYPDERKLPYLTPESSFKIVVDSFGKVI
+SFEEQNEIIKGFTYIPFEGRVNLKKPDHKFFVLETDDYGSQNGLPPVVQKTVFFGREVGA
+ADRHLLPTYQLKSRKYIGPTAMDCEMAFLMANQGLARPGKLVYDPFVGTGSILVAAAHFG
+AMTMGADIDIRVVRDGRGPDCNIWSNFEQYKLPEPLCVLRADNNLPPWRPGLKEIFDAII
+CDPPYGVRAGGRKSGGRKLLKGIIPPYTVPDEKRENHIPSTAPYSLAECVHDLLHLAARM
+LVvGGRLVFFYPVLREDDVADVAKFPEHPCFKLVSSCEQILSLRYSRVLLTMVKVGPYTE
+EVERMGEERHQEFRENHQKWMEEGNLHSAVFSPAEHDGKPKFDRDSKPKYRGKYV
+
+
+PACMAD CONSENSUS:
+Length: 472 aa
+
+MWYLCVFYHRLLDYRRPEVESLAELFAGPGAGESVEWRMPENHHVDSPFHLVRLPGDERL
+AAQVANRSLLVKGIYELWGHGTTYEELEKSVREYPDERKLPFLTPESTFKIVVDSFGKVI
+SSQEQNEIMqSLTYIPFQGRVNLKKPDHKFFVMETDDYGSNNGLPPVVKRTIFFGREVGA
+ADRHLLPTYQLKSRKYIGPTAMDAEMAFLMANQGLARPGKLVYDPFVGTGSILVAAAHFG
+AMTMGADIDIRVVRDGRGPDCNVWSNFEQYKLPEPLCLLRADNNLPPWRPGLKEMFDAII
+CDPPYGVRAGGRKSGGRKLIKGVKGPYTVPDEKRDNHIPSTAPYSLAECVHDLLHLAARM
+LVMGGRLVFFYPVLRGEDGAASPQFPEHPCFKLIASCEQILSFRYSRVLLTMVKVAPYTE
+EIEKMAAERHREFRENHQKWMEEGNLHSAVFEPAQDGKPDRDSKPKYRGKYV
+
+================================================================================

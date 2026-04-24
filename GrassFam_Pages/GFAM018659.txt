@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM018659
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             424.0 aa
+Family Size (Extended Family Size): 23 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11516:SF58
+Panther Family ID:               PTHR11516
+Modal Panther ID:                PTHR11516:SF58
+Modal Panther Description:       PYRUVATE DEHYDROGENASE E1 COMPONENT SUBUNIT ALPHA
+Modal Panther Family ID:         PTHR11516
+Modal Panther Fam Desc:          PYRUVATE DEHYDROGENASE E1 COMPONENT, ALPHA SUBUNIT  BACTERIAL AND ORGANELLAR
+Interpro Signature Accession:    cd02000; G3DSA:3.40.50.970:FF:000013; G3DSA:3.40.50.970; TIGR03182; PTHR11516; PF00676; SSF52518
+Interpro Signature Description:  TPP_E1_PDC_ADC_BCADC; Pyruvate dehydrogenase E1 component subunit alpha; -; pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha; PYRUVATE DEHYDROGENASE E1 COMPONENT, ALPHA SUBUNIT  BACTERIAL AND ORGANELLAR; Dehydrogenase E1 component; Thiamin diphosphate-binding fold (THDP-binding)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: pyruvate dehydrogenase E1 component subunit alpha-3%2C chloroplastic
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: pyruvate dehydrogenase E1 component subunit alpha-3%2C chloroplastic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: pyruvate dehydrogenase E1 component subunit alpha-3%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: pyruvate dehydrogenase E1 component subunit alpha-3%2C chloroplastic%2C transcript variant X1; pyruvate dehydrogenase E1 component subunit alpha-3%2C chloroplastic-like; pyruvate dehydrogenase E1 component subunit alpha-3%2C chloroplastic-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: pyruvate dehydrogenase E1 component subunit alpha-3%2C chloroplastic
+  Gene Descriptions: pyruvate dehydrogenase E1 component subunit alpha-3%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: pyruvate dehydrogenase E1 component subunit alpha-3%2C chloroplastic-like
+  Gene Synonyms: OsJ_13591
+  Gene Descriptions: pyruvate dehydrogenase E1 component subunit alpha-3%2C chloroplastic-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: pyruvate dehydrogenase E1 component subunit alpha-3%2C chloroplastic; pyruvate dehydrogenase E1 component subunit alpha-3%2C chloroplastic-like
+  Gene Descriptions: pyruvate dehydrogenase E1 component subunit alpha-3%2C chloroplastic; pyruvate dehydrogenase E1 component subunit alpha-3%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: pyruvate dehydrogenase E1 component subunit alpha-3%2C chloroplastic; pyruvate dehydrogenase E1 component subunit alpha-3%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: pyruvate dehydrogenase E1 component subunit alpha-3%2C chloroplastic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: pyruvate dehydrogenase E1 component subunit alpha-3%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: Pyruvate dehydrogenase E1 component subunit alpha-3 chloroplastic
+  Gene Synonyms: GRMZM2G033894
+  Gene Descriptions: Pyruvate dehydrogenase E1 component subunit alpha-3 chloroplastic
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 424 aa
+
+MAAASFTAAKFLAPVAARSGGDRAPPLPApAAsSARPLRRgPApRLRTALAVSSDVLAGN
+KAAPAAAAHPAVTREEALELYEDMVLGRvFEDMCAQMYYRGKMFGFVHLYNGQEAVSTGF
+IKLLNQADCVVSTYRDHVHALSKGVPARSVMAELFGKATGCCRGQGGSMHMFSAPHNLLG
+GFAFIGEGIPVATGAAFAAKYRHEVLKQSSPDGLDVTLAFFGDGTCNNGQFFECLNMAQL
+WKLPIVFVVENNLWAIGMSHLRATSDPEIWKKGPAFGMPGVHVDGMDVLKVREVAKEAIE
+RARRGEGPTLVECETYRFRGHSLADPDELRKPDEKSHYAARDPITALKKYIIEQNLATES
+ELKSIEKKIDDVVEEAVEFADASPHPPRSQLLENVFADPKGFGIGPDGKYRCEDPKFTQG
+TAQV
+
+
+BOP CONSENSUS:
+Length: 424 aa
+
+MAAASFTAAKFLAPVAARSGGDRAPPFPAPSAfSmRPLRRRPArRLsSVLAVSSDVLAGN
+KAAPAAAAyPAVTREEALELYEDMVLGRNFEDMCAQMYYRGKMFGFVHLYNGQEAVSTGF
+IKLLNQPDCVVSTYRDHVHALSKGVPARSVMAELFGKATGCCRGQGGSMHMFSEPHNLLG
+GFAFIGEGIPVATGAAFAAKYRHEVLKQSSPDGLDVTLAFFGDGTCNNGQFFECLNMAQL
+WKLPIIFVVENNLWAIGMSHLRATSDPEIWKKGPAFGMPGVHVDGMDVLKVREVAKEAID
+RARRGEGPTLVECETYRFRGHSLADPDELRRPDEKSHYAARDPITSLKKYIIEQNLASEA
+ELKSIEKKIDDVVEEAVEFADASPLPPRSQLLENVFADPKGFGIGPDGKYRCEDPKFTQG
+TAQV
+
+
+PACMAD CONSENSUS:
+Length: 428 aa
+
+MAAASFTAAKFLAPVAARSGGERAPPLPAGASSSSFARpLRRGGAHHPRLRTALAVSSDV
+LAGNKAAQAAAAHPAVTREEALELYEDMVLGRVFEDMCAQMYYRGKMFGFVHLYNGQEAV
+STGFIKLLNQADCVVSTYRDHVHALSKGVPARSVMAELFGKATGCCRGQGGSMHMFSAPH
+NLLGGFAFIGEGIPVATGAAFAAKYRHEVLKESGPDGLDVTLAFFGDGTCNNGQFFECLN
+MAQLWKLPIVFVVENNLWAIGMSHLRATSDPEIWKKGPAFGMPGVHVDGMDVLKVREVAK
+EAIERARRGEGPTLVECETYRFRGHSLADPDELRKPDEKTHYAARDPITALKKYIIEQNL
+ATESELKSIEKKIDDVVEEAVEFADASPHPPRSQLLENVFADPKGFGIGPDGKYRCEDPK
+FTQGTAQV
+
+================================================================================

@@ -1,0 +1,127 @@
+================================================================================
+GrassFam ID: GFAM008627
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             317.0 aa
+Family Size (Extended Family Size): 25 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11732:SF523
+Panther Family ID:               PTHR11732
+Modal Panther ID:                PTHR11732:SF523
+Modal Panther Description:       DEOXYMUGINEIC ACID SYNTHASE 1
+Modal Panther Family ID:         PTHR11732
+Modal Panther Fam Desc:          ALDO/KETO REDUCTASE
+Interpro Signature Accession:    cd19124; G3DSA:3.20.20.100:FF:000014; G3DSA:3.20.20.100; PTHR11732; PIRSF000097; PR00069; PF00248; SSF51430
+Interpro Signature Description:  AKR_AKR4A_4B; NAD(P)-linked oxidoreductase superfamily protein; -; ALDO/KETO REDUCTASE; AKR; Aldo-keto reductase signature; Aldo/keto reductase family; NAD(P)-linked oxidoreductase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: deoxymugineic acid synthase 1-A
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: deoxymugineic acid synthase 1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: deoxymugineic acid synthase 1-D
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: deoxymugineic acid synthase 1-A; deoxymugineic acid synthase 1-B-like; deoxymugineic acid synthase 1-D
+Ola
+  Gene count: 3
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 3
+  Modal chromosome: Ogl10
+  Gene Products: deoxymugineic acid synthase 1; probable NAD(P)H-dependent oxidoreductase 1; probable NAD(P)H-dependent oxidoreductase 2
+  Gene Descriptions: deoxymugineic acid synthase 1; probable NAD(P)H-dependent oxidoreductase 1; probable NAD(P)H-dependent oxidoreductase 2
+Osa
+  Gene count: 3
+  Modal chromosome: Osa10
+  Gene Products: deoxymugineic acid synthase 1-like; probable NAD(P)H-dependent oxidoreductase 1; probable NAD(P)H-dependent oxidoreductase 2
+  Gene Synonyms: OJ1014H12.12; OJ1014H12.13
+  Gene Descriptions: deoxymugineic acid synthase 1-like; probable NAD(P)H-dependent oxidoreductase 1; probable NAD(P)H-dependent oxidoreductase 2
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau04
+  Gene Products: deoxymugineic acid synthase 1
+  Gene Descriptions: deoxymugineic acid synthase 1
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: deoxymugineic acid synthase 1; deoxymugineic acid synthase 1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: deoxymugineic acid synthase 1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: probable NAD(P)H-dependent oxidoreductase 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: deoxymugineic acid synthase 1
+  Gene Synonyms: AR6,DMAS1,GRMZM2G060952,ZmDMAS1
+  Gene Descriptions: deoxymugineic acid synthase 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 314 aa
+
+MSAGgrApcGmPRIGLGTAVQGPRPDPVRRAVLRAIELGYRHFDTAAHYATEAPIGEAAA
+EAVRsGAVASRdELFITSKVWCADAHRDRVLPALRqTLsNLQMEYVDLYLVHWPVtMKPG
+RFtAPFTAEDFEPFDMRAVWEAMEECHRLGLAKAIGVCNFSCKKLETLLSFATIPPaVNQ
+VEVNPVWQQRKLREFCRgKGIQLCAYSPLGAKGTHWGSDSVMDSGVLHEIAkSKGKTVAQ
+VCLRWVYEQGDCLIVKSFDEARMRENLDIVGWELTEEERQRISKIPQRKINQGRRYVSEH
+GPYKSLEELWDGEI
+
+
+BOP CONSENSUS:
+Length: 314 aa
+
+MGAGdKTAAGMPRIGMGTAVQGPKPDPIRRAVLRAIEiGYRHFDTAAHYETEAPIGEAAA
+EAVRSGAVASRDDLFITSKLWCSDAHRDRVVPALRQTLRNLQMEYVDLYLVHWPVSMKPG
+RFKAPFTAEDFVPFDMRAVWEAMEECHRLGLAKAIGVANFSCKKLDTLLSFATIPPtVNQ
+VEVNPVWQQRKLREFCRGKGIQLCAYSPLGAKGTHWGSDAVMDAGVLQEIAASRGKSVAQ
+VCLRWVYEQGDCLIVKSFDEARMRENLDVDGWELTEEERRRIAEIPQRKINLGKRYVSEH
+GPYKSLEELWDGEI
+
+
+PACMAD CONSENSUS:
+Length: 314 aa
+
+MSAAGRAPCGLPRIGLGTAVQGPRPDPVRRAVLRAIQLGYRHFDTAAHYATEAPIGEAAA
+EAVRTGVVASRgELFVTSKVWCADAHPDRVLPALRRTLSNLQMEYVDLYMVHWPVTMKAG
+RFTAPFTPEDFEPFDMRGVWEAMEECHRLGLAKAIGVCNFSCKKLETLLSFATIPPAVNQ
+VEINPVWQQRKLREFCREKGIQLCAYSPLGAKGTHWGSDSVMDSGVLHEIAKSKGKTVAQ
+VCLRWVYEQGDCLIVKSFDEgRMKENLDIVGWELTEEERQRISKIPQRKINQGRRYVSEH
+GQYKSLEELWDGEI
+
+================================================================================

@@ -1,0 +1,117 @@
+================================================================================
+GrassFam ID: GFAM000740
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             482.0 aa
+Family Size (Extended Family Size): 47 (56) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR48048
+Modal Panther ID:                PTHR48048:SF85
+Modal Panther Description:       GLYCOSYLTRANSFERASE
+Modal Panther Family ID:         PTHR48048
+Modal Panther Fam Desc:          GLYCOSYLTRANSFERASE
+Interpro Signature Accession:    cd03784; G3DSA:3.40.50.2000:FF:000082; G3DSA:3.40.50.2000:FF:000020; G3DSA:3.40.50.2000; PTHR48048; SSF53756
+Interpro Signature Description:  GT1_Gtf-like; Glycosyltransferase; Glycogen Phosphorylase B;; GLYCOSYLTRANSFERASE; UDP-Glycosyltransferase/glycogen phosphorylase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: UDP-glycosyltransferase 1-like
+  Gene Descriptions: UDP-glycosyltransferase 1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: UDP-glycosyltransferase 1
+  Gene Descriptions: UDP-glycosyltransferase 1
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 1
+  Modal chromosome: Pau09
+  Gene Products: UDP-glycosyltransferase 88B1-like
+  Gene Descriptions: UDP-glycosyltransferase 88B1-like
+Svi
+  Gene count: 4
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 14
+  Modal chromosome: Pvi08K
+  Gene Products: UDP-glycosyltransferase 88B1-like; anthocyanidin 3-O-glucosyltransferase 2-like; anthocyanidin 5%2C3-O-glucosyltransferase-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha02
+  Gene Products: anthocyanidin 5%2C3-O-glucosyltransferase-like
+Msi
+  Gene count: 11
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 5
+  Modal chromosome: Sbi09
+  Gene Products: anthocyanidin 3-O-glucosyltransferase 2; anthocyanidin 5%2C3-O-glucosyltransferase
+Zma
+  Gene count: 3
+  Modal chromosome: Zma07
+  Gene Products: UDP-glycosyltransferase 88A1; uncharacterized LOC100193798; uncharacterized LOC100383589
+  Gene Synonyms: GRMZM2G060993; GRMZM2G095807; GRMZM2G096412
+  Gene Descriptions: UDP-glycosyltransferase 88A1; uncharacterized LOC100193798; uncharacterized LOC100383589
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 477 aa
+
+MKKTVVLYPGLaVSHFVPMMQLADVLLEEGYAVvVALIDPTLKgDIALAAvVDRVAaSKP
+SVtFHrLPRIQDPPTivhDgnFilrYlElVrRYNeHLRdFLcSMPPGSVHAVIVDmmSiE
+ALDVTkELGIPAYtFFAsNASALAVfLQLPStRAEGQPSFkELGDAPLnFHGVPPMPASH
+LmrElLeDPgSEtYKAmMNMMRRiqEadGILVNTFASLEARAVgALgDPRflPtMPPVYC
+VGPLVAGAGgEAKEKHECLAWLDEQPERSVVFLCFGStGAGNHSEEQLKEIAvGLERSGH
+RFLWVVRAPlhDDPEKPFDPRADPDLDALLPeGFLERTrGRGLVVKLWAPQVEVLhHRAT
+GAFVTHCGWNSVLEGITAGVPMLCWPLYAEQKMNKVFMVEEyGVGVEMVGWQQGLVkAEE
+VEAKVRLVMESEEGEQLRARVaAHKEAAAMAWKDGGSSRAAFGQFLSDAanlgrrrt
+
+
+BOP CONSENSUS:
+Length: 490 aa
+
+MDKTIVLYPGLYVSHFVPMMQLADALLEHGYAVAVALIHVTMDEDATFAAAVARVAAAAK
+PSVTFHKLPRIHDPPAITTIVGYLEMVRRYNERLREFLRSGVRGRSGGIAAVVVDAPSIE
+ALDVARELGIPAYSFFASTASALAVFLHLPWFRARAASFEELGDAPLIVPGVPPMPASHL
+MPELLEDPESETYRATVSMLRATLDADGILVNTFASLEPRAVGALGDPLFLPATGGGEPR
+RRVSPVYCVGPLVVGHDDDERKENTRHECLAWLDEQPDRSVVFLCFGGTGAVTHSAEQMR
+EIAAGLENSGHRFMWVVRAPRGGGDDLDALLPDGFLERTRTSGRGLVVERWAPQADVLRH
+RSTGAFVTHCGWNSASEGITARVPMLCWPLYAEQRMNKVFMVEEMGVGVEVAGWHWQRGE
+LVMAEEIEGKIRLVMESEEGERLRSSVAAHGEAAAVAWRKDGGAGAGSSRAALRRFLSDV
+GGRELRSVET
+
+
+PACMAD CONSENSUS:
+Length: 477 aa
+
+MKKTVVLYPGLaVSHFVPMMQLADVLLEEGYAVvVALIDPTLKgDIALAAVVDRVAaSKP
+SVtFHrLPRIQDPPTivHDgnFlLrYlElVrRYNeHLrdFLcSMPPGSVHAVIVDmmSie
+ALDVTkELGIPAYtFFpsNASALAVfVQLPStRAEGQPSFKELGDAPLnFHGVPPMPASH
+LmrEmLeDPgSEtYKamMNmMRRiqEadGILVNTFASLEARAVgALrDPRffPtMPPVYC
+VGPLVAGAGaEAkEKHECLAWLDEQPERSVVFLCFGSvGAGNHSEEQLKEIAvGLERSGH
+RFLWVVRAPlhDDPEKPFDPRADPDLDALLPeGFLERTrGRGLVVKLWAPQVEVLHHRAT
+GAFVTHCGWNSVLEGITAGVPMLCWPLYAEQKMNKVFMVEEyGVGVEMVGWQQGLVkAEE
+VEAKVRLVMESEEGEQLRARVaAHKEAAAMAWKDGGSSRAAFGQFLSDAanlgrrrt
+
+================================================================================

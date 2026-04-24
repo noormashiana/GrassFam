@@ -1,0 +1,126 @@
+================================================================================
+GrassFam ID: GFAM006075
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             263.0 aa
+Family Size (Extended Family Size): 26 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46994:SF1
+Panther Family ID:               PTHR46994
+Modal Panther ID:                PTHR46994:SF1
+Modal Panther Description:       5'-METHYLTHIOADENOSINE NUCLEOSIDASE
+Modal Panther Family ID:         PTHR46994
+Modal Panther Fam Desc:          5'-METHYLTHIOADENOSINE/S-ADENOSYLHOMOCYSTEINE NUCLEOSIDASE 1
+Interpro Signature Accession:    cd09008; G3DSA:3.40.50.1580; PTHR46994; PF01048; SSF53167
+Interpro Signature Description:  MTAN; Nucleoside phosphorylase domain; 5'-METHYLTHIOADENOSINE/S-ADENOSYLHOMOCYSTEINE NUCLEOSIDASE 1; Phosphorylase superfamily; Purine and uridine phosphorylases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase 2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata03D
+  Gene Products: 5'-methylthioadenosine nucleosidase-like; 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+Tae
+  Gene count: 6
+  Modal chromosome: Tae01B
+  Gene Products: 5'-methylthioadenosine nucleosidase-like; 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase-like; 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase-like
+  Gene Descriptions: 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase 2
+  Gene Descriptions: 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase 2
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau10
+  Gene Products: 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase-like
+  Gene Descriptions: 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase-like; 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase 2-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase 1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: MTA/SAH nucleosidase; uncharacterized LOC100193148%2C transcript variant X1
+  Gene Synonyms: GRMZM2G171111; GRMZM5G896883
+  Gene Descriptions: MTA/SAH nucleosidase; uncharacterized LOC100193148
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 262 aa
+
+MAPPSSEQPaAaAAGAGAISKVLIVIAMQTEAlPLVnKFkLVEAPAhESIFPKGAPWTRY
+HGNYKGLHIDLVWPGKDPVLGVDSVGTVSAALVTYASIQtLKPDLIINAGTAGGFKAKGA
+sIGDVFLASDVAFHDRRIPIPVFDMYGIGARKTFATPNILKELNLKVGKLSTGDSLDMSP
+HDEeAILSNDATVKDMEGAAVAYVADMFSTPAIFVKAVTDIVDGEKPTAEEFLQNLIAVT
+AALDqAVTkVVDFISGKCISDL
+
+
+BOP CONSENSUS:
+Length: 263 aa
+
+MAPPSSeEPAAAEAAgAGAISKVLVVIAMQTEALPLVTRFQLVEAAADESIFPKGAPWTR
+YHGDYKGLHIDLVWPGKDPVLGVDSVGTVSAALVTYASIQLLKPDLIINAGTAGGFKARG
+AGIGDVFLASDVAFHDRRIPIPVFDSYGIGARKTFATPNIVKELNLKVGKLSTGDSLDMS
+PHDESAILSNEATVKDMEGAAVAYVADLFSTPAIFVKAVTDIVDGEKPTAEEFLQNLISV
+TMALDQAVtQVVDFISGKCISDL
+
+
+PACMAD CONSENSUS:
+Length: 260 aa
+
+MAPPPSEQPaAAGAGAISKVLIVmAMQTEAMPLVNKFKLVEAPAHEStFPKGAPWVRYHG
+NYKGLHIDLVlPGKDAVFGVDSVGTVSAALVTYASIQTLKPDLIINAGTAGGFKAKGASI
+GDVFLASDVAFHDRRIPIPVFDMYGIGARKTFAAPNILKELNLKVGKLSTGDSLDMSPQD
+EEAILSNDATIKDMEGAAVAYVADMFSTPAIFVKAVTDIVDGEKPTAEEFLQNLIAVTAA
+LDlAVTKVVDFISGKRISDL
+
+================================================================================

@@ -1,0 +1,150 @@
+================================================================================
+GrassFam ID: GFAM020541
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             742.5 aa
+Family Size (Extended Family Size): 28 (29) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43522:SF16
+Panther Family ID:               PTHR43522
+Modal Panther ID:                PTHR43522:SF16
+Modal Panther Description:       TRANSKETOLASE
+Modal Panther Family ID:         PTHR43522
+Modal Panther Fam Desc:          TRANSKETOLASE
+Interpro Signature Accession:    cd02012; cd07033; G3DSA:3.40.50.970:FF:000004; G3DSA:3.40.50.920:FF:000003; G3DSA:3.40.50.970:FF:000003; G3DSA:3.40.50.970; G3DSA:3.40.50.920; TIGR00232; PTHR43522; PF00456; PF22613; PF02779; SM00861; SSF52518; SSF52922
+Interpro Signature Description:  TPP_TK; TPP_PYR_DXS_TK_like; Transketolase; -; transketolase; TRANSKETOLASE; Transketolase, thiamine diphosphate binding domain; Transketolase-like TK C-terminal domain; Transketolase, pyrimidine binding domain; Transket_pyr_3; Thiamin diphosphate-binding fold (THDP-binding); TK C-terminal domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: transketolase%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: transketolase%2C chloroplastic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: transketolase%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: transketolase%2C chloroplastic; transketolase%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: transketolase%2C chloroplastic
+  Gene Descriptions: transketolase%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: transketolase%2C chloroplastic
+  Gene Descriptions: transketolase%2C chloroplastic
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: transketolase%2C chloroplastic; transketolase%2C chloroplastic-like
+  Gene Descriptions: transketolase%2C chloroplastic; transketolase%2C chloroplastic-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: transketolase%2C chloroplastic; transketolase%2C chloroplastic-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha04
+  Gene Products: transketolase%2C chloroplastic; transketolase%2C chloroplastic-like
+Msi
+  Gene count: 4
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi10
+  Gene Products: transketolase%2C chloroplastic; transketolase%2C chloroplastic%2C transcript variant X3
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: uncharacterized LOC100279513%2C transcript variant X1
+  Gene Synonyms: GRMZM2G033208
+  Gene Descriptions: uncharacterized LOC100279513
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 741 aa
+
+MAAHSVAAAHATIAARAGaAPApAsAPAERLGFRLSSLAGRGLRSPLPARRApsASaSRR
+qrvVRAAAVETLEGKAATGELLEKSVNTIRFLAIDAVEKANSGHPGLPMGCAPMGHILYD
+EVMRYNPKNPYWFNRDRFVLSAGHGCMLQYALLHLAGYDSVKEEDLKQFRQWGSsTPGHP
+ENFETPGVEVTTGPLGQGIANAVGLALAEKHLAARFNKPDSEIVDHYTYCILGDGCQMEG
+IANEACSLAGHWGLGKLIAFYDDNHISIDGDTEIAFTEDVStRFEALGWHTIWVKNGNnG
+YDDIRAAIKEAKAVTDKPTLIKVTTTIGFGSPNKANSYSVHGSALGTKEVEATRQNLGWP
+YEPFFVPEDVKSHWSRHvPQGAALEADWNAKFAEYEKKYPEDAATLKSIITGELPAGWAD
+ALPKYTPESPADATRNLSQQCLNALAKVVPGLIGGSADLASSNMTLLKMFGDFQKDTPEE
+RNVRFGVREHGMGAICNGIALHSPGFIPYCATFFVFTDYMRGAMRISALSEAGVIYVMTH
+DSIGLGEDGPTHQPIEHLVSFRAMPNILMLRPADGNETAGAYKVAVLNRKRPSILALSRQ
+KLPHLPGTSIEGVEKGGYTISDNSTGNKPDLIVLSTGSELEIAAKAADELRKEGKTVRVV
+SFVSWELFDEQSDEYKESVLPEAVTARISIEAGSTLGWQKYVGskGKAIGIDKFGASAPA
+GKIYKEYGITVESVIAAAKSF
+
+
+BOP CONSENSUS:
+Length: 744 aa
+
+MAAHSVAAAHATIAARAGAAPSPAAAPAERLGFRLSSLAGRGLRSPLPARRgAAAASSSR
+RsGtQRVRASAAVETVEAAATGELLDKSVNAIRFLAIDAVEKANSGHPGLPMGCAPMGHI
+LYDEVMRYNPKNPYWFNRDRFVLSAGHGCMLQYALLHLAGYDAVKEEDLKQFRQWGSSTP
+GHPENFETPGVEVTTGPLGQGIANAVGLALAEKHLAARFNKPDSEIVDHYTYCIVGDGCN
+MEGILTEACSLAGHWGLGKLIVFYDDNHISIDGDTEIAFTEDVSGRFEALGWHTLWVKNG
+NDGYDEIRKAIQEAKSVTDKPTMIKVTTTIGFGSPNKANSYSVHGAALGTSEVEATRANL
+GWPYEPFFVPEDVKSHWSRHVPQGAALEADWDAKFAQYEQKYPEDAATLKSIITGELPAG
+WADALPQYTTESPADATRNLSQQCLNALAKVVPGLIGGSADLASSNMTLLKMFGDFQKDT
+PEERNVRFGVREHGMGAICNGIALHTPGLIPYCATFFVFTDYMRGAMRISALSEAGVIYV
+MTHDSIGLGEDGPTHQPIEHLVSFRAMPNMLMFRPADGKETAGAYKVAVLNRKRPSILAL
+SRQKLPHLPGTSIEGVAKGGYTISDNSTGNKPDFIIMSTGSEVEIAVKAAEELTKEGKTV
+RVVSFVCWELFDEQSDEYKESVLPEAVTARISIEAGSTLGWQKYVGSKGKTIGIDKFGAS
+APAPKIYKEYGITAENVIAAAKSL
+
+
+PACMAD CONSENSUS:
+Length: 742 aa
+
+MAAHSVAAAHATIAARAgPPGAGASAPAERLGFRRLSSLAGRGLRSPLPARRAPsAAASR
+RQRVVRAAAVETLEGKAATGELLEKSVNTIRFLAIDAVEKANSGHPGLPMGCAPMGHILY
+DEVMRYNPKNPYWFNRDRFVLSAGHGCMLQYALLHLAGYDSVKEEDLKQFRQWGSkTPGH
+PENFETPGVEVTTGPLGQGIANAVGLALAEKHLAARFNKPDSEIVDHYTYVILGDGCQME
+GIANEACSLAGHWGLGKLIAFYDDNHISIDGDTEIAFTEDVSTRFEALGWHTIWVKNGNN
+GYDDIRAAIKEAKAVTDKPTLIKVTTTIGFGSPNKANSYSVHGSALGtKEVEATRQNLGW
+PYEPFFVPEDVKSHWSRHTPqGAALEADWNAKFAEYEKKYAEDAATLKSIITGELPAGWA
+DALPKYTPESPGDATRNLSQQCLNALAKVVPGLIGGSADLASSNMTLLKMFGDFQKDTPE
+ERNVRFGVREHGMGAICNGIALHSPGFVPYCATFFVFTDYMRGAMRISALSEAGVIYVMT
+HDSIGLGEDGPTHQPIEHLVSFRAMPNILMLRPADGNETAGAYKVAVLNRKRPSILALSR
+QKLPHLPGTSIEGVEKGGYTISDNSTGNKPDLIVLSTGSELEIAAKAADELRKEGKTVRV
+VSFVSWELFEEQSDEYKESVLPAAVTARISIEAGSTLGWQKYVGAQGKAIGIDKFGASAP
+AGKIYKEYGITVESVIAAAKSF
+
+================================================================================

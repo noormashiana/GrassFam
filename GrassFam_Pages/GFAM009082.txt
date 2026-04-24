@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM009082
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             458.0 aa
+Family Size (Extended Family Size): 20 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR12081
+Modal Panther ID:                PTHR12081:SF82
+Modal Panther Description:       E2F_DP FAMILY WINGED-HELIX DNA-BINDING DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR12081
+Modal Panther Fam Desc:          TRANSCRIPTION FACTOR E2F
+Interpro Signature Accession:    cd14660; G3DSA:1.10.10.10:FF:000008; G3DSA:6.10.250.540; G3DSA:1.10.10.10; PTHR12081; PF02319; PF16421; SM01372; SSF144074
+Interpro Signature Description:  E2F_DD; E2F transcription factor 1; -; TRANSCRIPTION FACTOR E2F; E2F/DP family winged-helix DNA-binding domain; E2F transcription factor CC-MB domain; E2F_TDP_2; E2F-DP heterodimerization region
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: transcription factor E2FA%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: transcription factor E2FA-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: transcription factor E2FA
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: transcription factor E2FA-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: transcription factor E2FA-like%2C transcript variant X1
+  Gene Descriptions: transcription factor E2FA-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: transcription factor E2FA%2C transcript variant X4
+  Gene Descriptions: transcription factor E2FA
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: transcription factor E2FA-like; transcription factor E2FA-like%2C transcript variant X1
+  Gene Descriptions: transcription factor E2FA-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: transcription factor E2FA-like%2C transcript variant X1; transcription factor E2FA-like%2C transcript variant X4
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: transcription factor E2FA-like%2C transcript variant X1
+Msi
+  Gene count: 1
+  Modal chromosome: Msi12
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: transcription factor E2FA%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: transcription factor E2FA
+  Gene Descriptions: transcription factor E2FA
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 468 aa
+
+MSGGGRPqAAQQIVQSVQRCVPLaPeRPPFAAAPGDYHRFPlPsSsAAAAAASRGGggGd
+vEEGIVIRTPLKRKAPyGESDAAESTEWMMTSPGFTEGVGSPlMTPVSGKaARTYKSKAK
+CSKAGPQTPISNAGSPGNPpTPAGSCRYDsSLGLLTKKFINLLKQAqDGILDLNsaAEtL
+DVqKRRIYDITNVLEGIGLIEKKLKNRIRWKGLDdSGTNLDNDISVLkTEVENLNLQEQA
+LDEhISEMrEKlrELTEDESNQRWLYLTEDDIKGLPCFQNqTLIAIKAPHGTtLEVPDPD
+EAGDYfQRRYRIVIRSTMGPIDLYLVSKFEEKMEEKLvGvATPpRHANVAKPAStkGfRT
+tEAGQSSRSKEvLpNaQhIHKTPDLNASqdFEGgMrKITPSDVDsDADYWLLTDGDVSIT
+DMWRTAPEVQWDQIDPNDFLAEEVStPrTLnQQPAAVGEPTAVGPtHG
+
+
+BOP CONSENSUS:
+Length: 458 aa
+
+MSGGGRPQAAQQIVQSVQRCVPLAPERPPFAVPgEYHRFPLPPSSSAPAAASRGSAGGDV
+EEGIVIRTPLKRKAPCGESDAIESTEWMMTSPGFTEGVSSPHMTPVSGKAARTYKSKAKG
+SKDGLQTPISNAGSPGTPLTPGSSRYENSLGLLTKKFISLLKQAEDGILDLNNVAEILVV
+KKRRIYDITNVLEGIGLLEKKLKNRIRWRGLDDSGTNLDNEISVLETEVENLkLQEKALD
+nRISEMrEKVRELTEEESNQRWLYLTEDDIKGLPCFQNETLIAIKAPHGTTLEVPDPDEA
+GDYIQRRYTIVIRSTMGSIDLYLVSKFEENMEELVGVATPPRHANVAEPASTDGFIATEA
+GQSSRSKDKLPNIQHIHrTPDLNAQDFGGMAKITPEFDVDADYWLLTDGDDSSITDMWRT
+APEVQWDQFLAEEATAPRTPQQQPAVVGKSTAVGPTCG
+
+
+PACMAD CONSENSUS:
+Length: 467 aa
+
+MSGGARPAAAQQIVQSLQRCArLpPARPPFAAALGDYHRFPRPSSPAAAAAAPrAGGRGE
+FEEGIVVRTPLKRKAPYGESDTAESTELmMTSPGFIgGVGSPLMTPVSGKsARTYKSKAK
+CSKAGPQTPISNAGSPGNPPTPAGsCRYDSSLALLTKKFINLLKQAQDGILDLNSTAEtL
+DVQKRRIYDITNVLEGIGLIEKKLKNRICWKGLDeSGTNLDNDLSVLKtEVENLNLQEQA
+LDEHISKMREKLKeLTEDESNQRWLFLTEDDIKGLPCFQNQTLIAIKAPHGSSVEVPNPD
+VMTGeSFQRRYRIIIRSTMGPIDLYLVSKFEEKsEGKLDDtATPAsHTnvAKHASVKgPR
+TKRAGQRSRSKEVvLNAQqIqKTPDLNAPYpSEGVLRKINPSDVDSDADYWLLTDdDVSI
+TDMWRTaPEMQWDQIDPNDFLAEEVSTPrTLnQQPAAVGEPTAVGSN
+
+================================================================================

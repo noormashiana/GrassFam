@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM005037
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             387.0 aa
+Family Size (Extended Family Size): 22 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR44419:SF6
+Panther Family ID:               PTHR44419
+Modal Panther ID:                PTHR44419:SF6
+Modal Panther Description:       PROTOCHLOROPHYLLIDE REDUCTASE A, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR44419
+Modal Panther Fam Desc:          PROTOCHLOROPHYLLIDE REDUCTASE C, CHLOROPLASTIC
+Interpro Signature Accession:    cd09810; G3DSA:3.40.50.720; TIGR01289; PTHR44419; SSF51735
+Interpro Signature Description:  LPOR_like_SDR_c_like; -; protochlorophyllide reductase; PROTOCHLOROPHYLLIDE REDUCTASE C, CHLOROPLASTIC; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: protochlorophyllide reductase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: protochlorophyllide reductase A%2C chloroplastic
+Ata
+  Gene count: 2
+  Modal chromosome: Ata02D
+  Gene Products: protochlorophyllide reductase A%2C chloroplastic; protochlorophyllide reductase A%2C chloroplastic-like
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: protochlorophyllide reductase A%2C chloroplastic; protochlorophyllide reductase A%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: protochlorophyllide reductase A%2C chloroplastic
+  Gene Descriptions: protochlorophyllide reductase A%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: protochlorophyllide reductase A%2C chloroplastic-like
+  Gene Synonyms: OsJ_16634,PORA
+  Gene Descriptions: protochlorophyllide reductase A%2C chloroplastic-like
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: protochlorophyllide reductase; protochlorophyllide reductase-like
+  Gene Descriptions: protochlorophyllide reductase; protochlorophyllide reductase-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: protochlorophyllide reductase; protochlorophyllide reductase A%2C chloroplastic
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: protochlorophyllide reductase
+Msi
+  Gene count: 1
+  Modal chromosome: Msi12
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: protochlorophyllide reductase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: protochlorophyllide reductase 1%2C transcript variant X1
+  Gene Synonyms: GRMZM2G084958
+  Gene Descriptions: protochlorophyllide reductase 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 385 aa
+
+MALQAALLPSTLSVPKKGSLAAVVKDTAFLSVSQKKLqvpSLSVRAQVATAPVATPGSST
+StkDGKKTLRQGVVVITGASSGLGLAAAKALAETGKWHVVMACRDFLKAAKAAKgAGMAe
+GSYTIMHLDLASLDSVRQFVDNFRRAGMPLDsLVCNAAIYRPTARTPTFTADGYEMSVGV
+NHLGHFLLARLLLDDLQKSDYPSRRLIILGSITGNTNTLAGNVPPKAGLGDLRGLAGGLR
+GQNGSAMIDGaESFDGAKAYKDSKICNMLTMQELHRRYHEETGITFASLYPGCIATTGLF
+REHIPLFRLLFPPFQKFITKGFVSEAESGKRLAQVVSDPSLTKSGVYWSWNKDSASFENQ
+LSQEASDPEKARKLWEISEKLVGLA
+
+
+BOP CONSENSUS:
+Length: 387 aa
+
+MALQLLPSTLSVPKKGSSLGAAVKETAAFLGVSsKAKKpSLAVRTQVATAPsPVtTSPGs
+tTSKPsGKKTLRQGVVVITGASSGLGLAAAKALAETGKWHVVMACRDFLKASKAAKAAGM
+AdGSYTVMHLDLASLDSVRQFVDaFRRAGMPLDALVCNAAIYRPTARTPTFTADGyEMSV
+GVNHLGHFLLARLLMEDLQKSDYPSRRLVIVGSITGNtNTLAGNVPPKAsLGDLRGLAGG
+LSGqSGSAMIDGdESFDGAKAYKDSKVCNMLTMQEFHRRYHEETGITFASLYPGCIATTG
+LFREHIPLFRtLFPPFQRFVTKGFVSEAESGKRLAQVVAEPSLTKSGVYWSWNKDSASFE
+NQLSQEASDPEKARKVWELSEKLVGLA
+
+
+PACMAD CONSENSUS:
+Length: 386 aa
+
+MALQAALLPSTLSVPKKGNLAAVVKDTAFLSVpQKKLQVPSLSVRAQAVATAPVATPGSS
+TStKDgKKTLRQGVVVITGASSGLGLAAAKALAETGKWHVVMACRDFLKAAKAAKGAGMA
+EGSYTIMHLDLASLDSVRQFVDNFRRAGMPLDSLVCNAAIYRPTARTPTFTADGYEMSVG
+VNHLGHFLLARLLLDDLqKSDYPSRRLIILGSITGNTNTLAGNIPPKAGLGDLRGLAGGL
+RGQNGSAMIDGSESFDGAKAYKDSKICNMLTMQELHRRYHEETGITFASLYPGCIATTGL
+FREHIPLFRLLFPPFQKFITKGFVSEAESGKRLAQVVSDPSLTKSGVYWSWNKDSASFEN
+QLSQEASDPEKARKLWEISEKLVGLA
+
+================================================================================

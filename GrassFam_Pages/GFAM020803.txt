@@ -1,0 +1,145 @@
+================================================================================
+GrassFam ID: GFAM020803
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             630.0 aa
+Family Size (Extended Family Size): 23 (36) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43874:SF205
+Panther Family ID:               PTHR43874
+Modal Panther ID:                PTHR43874:SF205
+Modal Panther Description:       TWO-COMPONENT RESPONSE REGULATOR ORR23
+Modal Panther Family ID:         PTHR43874
+Modal Panther Fam Desc:          TWO-COMPONENT RESPONSE REGULATOR
+Interpro Signature Accession:    cd17584; G3DSA:1.10.10.60:FF:000007; G3DSA:3.40.50.2300:FF:000132; G3DSA:3.40.50.2300; G3DSA:1.10.10.60; PTHR43874; PIRSF036392; SM00448; SSF52172
+Interpro Signature Description:  REC_typeB_ARR-like; Two-component response regulator; -; TWO-COMPONENT RESPONSE REGULATOR; RR_ARR_type-B; REC_2; CheY-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: two-component response regulator ORR24
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: two-component response regulator ORR24-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: two-component response regulator ORR24
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: two-component response regulator ORR24-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: two-component response regulator ORR24
+  Gene Descriptions: two-component response regulator ORR24
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: two-component response regulator ORR24-like
+  Gene Synonyms: OJ1297_C09.26,ORR4,OsJ_05635,OsRRB2,RR24
+  Gene Descriptions: two-component response regulator ORR24-like
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN226
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: two-component response regulator ORR24-like
+  Gene Descriptions: two-component response regulator ORR24-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi01K
+  Gene Products: two-component response regulator ORR24-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: two-component response regulator ORR24-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: two-component response regulator ORR24
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: response regulator 9
+  Gene Synonyms: GRMZM2G060485,RR9,ZmRR9
+  Gene Descriptions: response regulator 9
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 635 aa
+
+MTVEEVKLQGRAnGGHGGKDQFPVGMRVLAVDDDPTCLKVLENLLLRCQYHVTTTGQAAT
+ALKLLREKKDQFDLVISDVHMPDMDGFKLLELVGLEMDLPVIMLSANGETQTVMKGITHG
+ACDYLLKPVRIEQLRTIWQHVVRRRSCDAKNrGNDNDDaGKKlQlaNAEGENGGANRNKR
+TSRKGRDDNGDDGDDSDENSNENGDSSTQKKPRVVWSVELHRKFVAAVNQLGIDKAVPKK
+ILDLMNVENITRENVASHLQKYRLYLKRLSADASRQANLTAAFGGRNPAYvNMGLdAFRh
+YNAYGRYRPVPTtNHSQSNNLLARMNSPSAFGMHGLLPSQPLQIGHTQNNLSTSLGNVGG
+mNNGNLIRGAHMSLQDsSCFPTGPSGNSFANISNGtPLAPTNNLPLQSLEPSNQQHLGRm
+HSSSTDPFNSFVGESPQFPDLGRCNTTWPTAVSSSNIQELGQKDSMSQAtLHVNGPKlEP
+vSSFTepSSQIPLLGNEMQsQVASLASNgLPMPFNQEAVPFTYGSSTNSREMLNNNLAlS
+NSGINTSLPNLRIDNSVVPRQTLDGGNsGGVPPLQDGRIDQQAVSNQLNYNNDLMGTSRL
+QRGLSGGLDDIVVDMFRPDRaDDGVPFIDGDWELV
+
+
+BOP CONSENSUS:
+Length: 620 aa
+
+MTVEGRVSGGGDGGGKDKFPVGMRVLAVDDDPTCLKVLENLLRRCDYHVTTTGQAATALR
+MLRENKDQFDLVISDVHMPDMDGFKLLELVGLEMDLPVIMLSANGETQTVMKGITHGACD
+YLLKPVRLEQLKTIWQHVIRRNTKNRGSDNDDAGQKGQNAEGENGGANRNKRQSRRDRDE
+NGDDGDDSDENSNENGDSSSQKKPRVVWSVELHRKFVAAVNQLGIDKAVPKKILDLMNVE
+NITRENVASHLQKYRLYLKRMSMDASRQANLVAALGGRNPAYSNMNSMDVFRHYNNAYGR
+YRPVPTStHSQSNNLVARMNSPSAYGMHGLLSSQPLQLGHAQNNLGTSLNDLGVNNGNLI
+RGAHMSTMVTGTSGNSFANISNGAPLAPTNRSVQPLESSNRQHLGRINSSSTDSFSSFAS
+ESPHFPDLGRSSNTWQTAVPSNIQQLGQNGSMSQASLHGNGPRMEPVSSYTPPSNQITSL
+GNEMQNQVASLASNTLPMVFNQGAAPFTFGSSTNSREALNSNLAFSNSGINTSLPNLRID
+NSvVPRQTLDGGNTGGVPSLQDGRIDQQAVGNQLNYNNDLVGTSGLQRGLSGGLDDIVVD
+MFRPDNDNGGIFIDTDWGLV
+
+
+PACMAD CONSENSUS:
+Length: 637 aa
+
+MTVEEVKLQaKANGGHGAKDQFPVGMRVLAVDDDPTCLKVLENLLLRCQYHVTTTGQAAT
+ALKLLREKKDQFDLVISDVHMPDMDGFKLLELVGLEMDLPVIMLSANGETQTVMKGITHG
+ACDYLLKPVRIEQLRTIWQHVVRRRSCDAKNHGNDNDDSGKKLQlaSAEGDNGGvNRNKR
+TSRKGRDDNGDDGDDSDENSNENGDSSTQKKPRVVWSVELHRKFVAAVNQLGIDKAVPKK
+ILDLMNVENITRENVASHLQKYRLYLKRLSADASRQANLTAAFGGRNPAYVNMGLEAFRQ
+YNAYGRYRPVPTTNHSQSNNLLARMNSPSAFGMHGLLPSQPLQIGHTQNNLSTSLGNVGG
+MNNGNLIRGAHMPLQDsSKCFPTGPSGNSFANISNgTtLVPTNNLPLQSLEPSNQQHLGR
+MHSSSADPFNSFVGESPQFPDLGRCNTTWPTAVSSSNVQELGQKDSMSQPNLRVNGPKLE
+PLSSFTEASSQIPLLGNEMQSQVASLASNGLPMPFNQEAVPFTYGSSTNSREMLNNNLAL
+SNSGINSSLPNLRIDNSVVPRQTLDGGNSGGGVPPLQDGRIDQQAVSSQLNYNNELMGTS
+RLQRGLSGGLDDIVVDMFRPDRADDGVPFIDGDWELV
+
+================================================================================

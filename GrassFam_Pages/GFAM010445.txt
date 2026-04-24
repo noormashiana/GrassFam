@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM010445
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             411.0 aa
+Family Size (Extended Family Size): 23 (46) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11606:SF34
+Panther Family ID:               PTHR11606
+Modal Panther ID:                PTHR11606:SF34
+Modal Panther Description:       GLUTAMATE_PHENYLALANINE_LEUCINE_VALINE_L-TRYPTOPHAN DEHYDROGENASE C-TERMINAL DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR11606
+Modal Panther Fam Desc:          GLUTAMATE DEHYDROGENASE
+Interpro Signature Accession:    cd01076; G3DSA:3.40.50.720:FF:000212; G3DSA:3.40.50.10860:FF:000003; G3DSA:3.40.50.720; G3DSA:3.40.50.10860; PTHR11606; PIRSF000185; PR00082; PF02812; PF00208; SM00839; SSF51735; SSF53223
+Interpro Signature Description:  NAD_bind_1_Glu_DH; Glutamate dehydrogenase; -; Leucine Dehydrogenase, chain A, domain 1; GLUTAMATE DEHYDROGENASE; Glu_DH; Glutamate/leucine/phenylalanine/valine dehydrogenase signature; Glu/Leu/Phe/Val dehydrogenase, dimerisation domain; Glutamate/Leucine/Phenylalanine/Valine dehydrogenase; ELFV_dehydrog_3; NAD(P)-binding Rossmann-fold domains; Aminoacid dehydrogenase-like, N-terminal domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: glutamate dehydrogenase 1%2C mitochondrial%2C transcript variant X2
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: glutamate dehydrogenase 1%2C mitochondrial%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: glutamate dehydrogenase 1%2C mitochondrial%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: glutamate dehydrogenase 1%2C mitochondrial; glutamate dehydrogenase 1%2C mitochondrial%2C transcript variant X1; glutamate dehydrogenase 1%2C mitochondrial-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: glutamate dehydrogenase 1%2C mitochondrial%2C transcript variant X1
+  Gene Descriptions: glutamate dehydrogenase 1%2C mitochondrial
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: glutamate dehydrogenase 1%2C mitochondrial-like%2C transcript variant X1
+  Gene Synonyms: GDH,GDH1,OsGDH1
+  Gene Descriptions: glutamate dehydrogenase 1%2C mitochondrial-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: glutamate dehydrogenase 1%2C mitochondrial; glutamate dehydrogenase 1%2C mitochondrial-like%2C transcript variant X2
+  Gene Descriptions: glutamate dehydrogenase 1%2C mitochondrial; glutamate dehydrogenase 1%2C mitochondrial-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: glutamate dehydrogenase%2C transcript variant X2; glutamate dehydrogenase-like%2C transcript variant X8
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: glutamate dehydrogenase%2C transcript variant X1
+Msi
+  Gene count: 3
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: glutamate dehydrogenase%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: glutamic dehydrogenase 1%2C transcript variant X2
+  Gene Synonyms: gdh1,GRMZM2G178415
+  Gene Descriptions: glutamic dehydrogenase 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 411 aa
+
+MNALAATSRNFKQAAKLLGLDSKLEKSLLIPFREIKVECTIPKDDGTLASYVGFRVQHDN
+ARGPMKGGIRYHHEVDPDEVNALAQLMTWKTAVANIPYGGAKGGIGCSPGDLSISELERL
+TRVFTQKIHDLIGIHTDVPAPDMGTNSQTMAWILDEYSKFHGYSPAVVTGKPVDLGGSLG
+RDAATGRGVLFATEALLAEHGKGIAGQRFVIQGFGNVGSWAAQLITEAGGKVIAISDVTG
+AVKNvNGLDIAKLVKHSAENRGIKGFdGGDAIDPnSLLTEECDVLIPAALGGVINKDNAN
+DIKAKYIIEAANHPTDPEADEILSKKGVLILPDILANSGGVTVSYFEWVQNIQGFMWDEE
+KVNaELRTYMTRAFRDVKEMCRSHnCDLRMGAFTLGVNRVARATVLRGWEA
+
+
+BOP CONSENSUS:
+Length: 411 aa
+
+MNALAATSRNFKQAAKLLGLDSKLEKSLLIPFREIKVECTIPKDDGTLASYVGFRVQHDN
+ARGPMKGGIRYHHEVDPDEVNALAQLMTWKTAVANIPYGGAKGGIGCSPGDLSISELERL
+TRVFTQKIHDLIGIHTDVPAPDMGTNAQTMAWILDEYSKFHGYSPAVVTGKPVDLGGSLG
+RDAATGRGVLFATEALLAEHGKGIAGQRFVIQGFGNVGSWAAQLITEAGGKVIAISDVTG
+AVKNSNGLDIAKLMKHSAENRGIKGFDGGDAVDPTSLLTEECDVLIPAALGGVINKDNAD
+aIKAKYIIEAANHPTDPEADEILAKKGVLILPDILANSGGVTVSYFEWVQNIQGFMWDEE
+KVNRELKTYMTRAFRDTKEMCRSHHCDLRMGAFTLGVNRVARATVLRGWEA
+
+
+PACMAD CONSENSUS:
+Length: 411 aa
+
+MNALAATSRNFKQAAKLLGLDSKLEKSLLIPFREIKVECTIPKDDGTLASYVGFRVQHDN
+ARGPMKGGIRYHHEVDPDEVNALAQLMTWKTAVANIPYGGAKGGIGCSPGELSISELERL
+TRVFTQKIHDLIGIHTDVPAPDMGTNSQTMAWILDEYSKFHGYSPAVVTGKPVDLGGSLG
+RDAATGRGVLFATEALLAEHGKGIAGQRFVIQGFGNVGSWAAQLItEAGGKVIAISDVTG
+AVKNVNGLDIAQLVKHSAENRGIKGFNGGDAIDPNSLLTEECDVLIPAALGGVINKDNAN
+DIKAKYIIEAANHPTDPEADEILSKKGVLILPDILANSGGVTVSYFEWVQNIQGFMWDEE
+KVNAELRTYMTRAFGDVKeMCRSHNCDLRMGAFTLGVNRVARATVLRGWEA
+
+================================================================================

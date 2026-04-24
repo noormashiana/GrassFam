@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM020764
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             428.0 aa
+Family Size (Extended Family Size): 22 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR16517:SF104
+Panther Family ID:               PTHR16517
+Modal Panther ID:                PTHR16517:SF104
+Modal Panther Description:       TUBBY-LIKE F-BOX PROTEIN 6
+Modal Panther Family ID:         PTHR16517
+Modal Panther Fam Desc:          TUBBY-RELATED
+Interpro Signature Accession:    cd22153; G3DSA:3.20.90.10; PTHR16517; PR01573; PF01167; SSF54518
+Interpro Signature Description:  F-box_AtTLP-like; Tubby Protein; Chain A; TUBBY-RELATED; Tubby superfamily signature; Tub family; Tubby C-terminal domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: tubby-like F-box protein 5
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: tubby-like F-box protein 5%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: tubby-like F-box protein 5
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: tubby-like F-box protein 5
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: tubby-like F-box protein 5
+  Gene Descriptions: tubby-like F-box protein 5
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: tubby-like F-box protein 5
+  Gene Synonyms: OsJ_007813,OsTLP5,OsTLP8,TULP5,TULP8
+  Gene Descriptions: tubby-like F-box protein 5
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: tubby-like F-box protein 5
+  Gene Descriptions: tubby-like F-box protein 5
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: tubby-like F-box protein 5
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: tubby-like F-box protein 5
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: tubby-like F-box protein 5
+Zma
+  Gene count: 2
+  Modal chromosome: Zma04
+  Gene Products: Tubby-like F-box protein 6; uncharacterized LOC100273859
+  Gene Synonyms: GRMZM2G115701,pco071899b; GRMZM2G176340
+  Gene Descriptions: Tubby-like F-box protein 6; uncharacterized LOC100273859
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 430 aa
+
+MSLKSIVRELKEMRDGIGSMSRRGGGSDGRAGHGRgGSRHSWPSLWaEQQQPQRQGQGQE
+GPeqQQQGRWANLPPELLLDVIQRVEASEATWPARRQVVACAAVCRSWREVTKEVVKTLE
+ECGRITFPISLKQPGPREhPVQCFVRRDRATSTYLLYLGLSPSLHGENDKLLLAARKVRR
+ATRTSFVISLVSDDFSHSSSTYVGKLKPNFLGTKFTIFDSQPPcDAVVLPNNKPSKRQSK
+QVSPRLPLGNYNVATVTYELTVLRNRGPRRMQCTMHSIPAlCIQEGGKAPTPTGTIHSLD
+EQVSTLPTSKGKEPAiEFSSTSLSADLSGPACTNEAPLVLKNKAPRWHEQLQCWCLNFRG
+RVTVASVKNFQLVASVDPSLNIPAAEQEKVILQFGKIGKDIFTMDYRYPLSAFQAFAICL
+TSFDTKPACE
+
+
+BOP CONSENSUS:
+Length: 426 aa
+
+MSLKSIVRELKEMRDGIGSMSRRGGVSDGRAGHGRGGSRHSWPSLWPEPQPQPQRQGQEP
+QQQGQWANLPPELLLDVIQRVEASEVAWPARRQVVACAAVCRSWREVTKDVVKTLEECSR
+ITFPISLKQPGPRDHPVQCFVRRDRATSTYLLYLGLSPSLHGENDKLLLAARKIRRAART
+SFVISLISDDFSHSSSTYVGKLKPNFLGTKFTIFDSQPPCDAAVLPNNKPSKRHSKQVSP
+RLPLGNYNVATVSYELTVLRNRGPRRMQCTMHSIPAvCIQEGGKAPTPTGMVHSLDEQVS
+TLSTSKGKEPNIEFSSTSLSADLSGPISTSEAPLLLKNKAPRWHEQLQCWCLNFRGRVTV
+ASVKNFQLVASVDPSLGVPAAEQEKVILQFGKIGKDIFTMDYRYPLSAFQAFAICLTSFD
+TKPACE
+
+
+PACMAD CONSENSUS:
+Length: 430 aa
+
+MSLKSIVRELKEMRDGIGSMSRRGGGSDGRAGHGRAGSRHSWPSLWAEQQQPQRQGQGQE
+GPQQQHQGRWANLPPELLLDVIQRVEASEATWPARRQVVACAAVCRSWREVTKEVVKTLE
+ECGRITFPISLKQPGPREqPVQCFVRRDRATSTYLLYLGLSPSLNVENDKLLLAARKVRR
+ATRTSFVISLVSDDFSHSSSTYVGKLKPNFLGTKFTIFDSQPPPDAVVLPNNKPSKRQSK
+QVSPRLPLGNYNVATVTYELTVLRNRGPRRMQCTMHSIPAqCIQEGGKAPTPTGTIQSLD
+EPVSTLPSTKGKEPAVEFSSTSLSADLSGPACTNEtPLVLKNKAPRWHEQLQCWCLNFRG
+RVTVASVKNFQLVASVDPSLNIPAAEQEKVILQFGKIGKDIFTMDYRYPLSAFQAFAICL
+TSFDTKPACE
+
+================================================================================

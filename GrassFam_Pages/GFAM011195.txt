@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM011195
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             414.0 aa
+Family Size (Extended Family Size): 35 (37) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11014:SF99
+Panther Family ID:               PTHR11014
+Modal Panther ID:                PTHR11014:SF99
+Modal Panther Description:       IAA-AMINO ACID HYDROLASE ILR1-LIKE 3
+Modal Panther Family ID:         PTHR11014
+Modal Panther Fam Desc:          PEPTIDASE M20 FAMILY MEMBER
+Interpro Signature Accession:    cd08017; G3DSA:3.30.70.360:FF:000001; G3DSA:3.30.70.360; G3DSA:3.40.630.10; TIGR01891; PTHR11014; PIRSF005962; PF01546; SSF53187; SSF55031
+Interpro Signature Description:  M20_IAA_Hyd; N-acetyldiaminopimelate deacetylase; -; Zn peptidases; amidohydrolase; PEPTIDASE M20 FAMILY MEMBER; Amidohydrol_AmhX; Peptidase family M20/M25/M40; Zn-dependent exopeptidases; Bacterial exopeptidase dimerisation domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: IAA-amino acid hydrolase ILR1-like 3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: IAA-amino acid hydrolase ILR1-like 4
+Ata
+  Gene count: 2
+  Modal chromosome: Ata05D
+  Gene Products: IAA-amino acid hydrolase ILR1-like 4
+Tae
+  Gene count: 6
+  Modal chromosome: Tae05B
+  Gene Products: IAA-amino acid hydrolase ILR1-like 3; IAA-amino acid hydrolase ILR1-like 4
+Ola
+  Gene count: 2
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl03
+  Gene Products: IAA-amino acid hydrolase ILR1-like 3; IAA-amino acid hydrolase ILR1-like 4
+  Gene Descriptions: IAA-amino acid hydrolase ILR1-like 3; IAA-amino acid hydrolase ILR1-like 4
+Osa
+  Gene count: 2
+  Modal chromosome: Osa03
+  Gene Products: IAA-amino acid hydrolase ILR1-like 3; IAA-amino acid hydrolase ILR1-like 4
+  Gene Synonyms: ILL3
+  Gene Descriptions: IAA-amino acid hydrolase ILR1-like 3; IAA-amino acid hydrolase ILR1-like 4
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: IAA-amino acid hydrolase ILR1-like 3
+  Gene Descriptions: IAA-amino acid hydrolase ILR1-like 3
+Svi
+  Gene count: 2
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi09N
+  Gene Products: IAA-amino acid hydrolase ILR1-like 3
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: IAA-amino acid hydrolase ILR1-like 3
+Msi
+  Gene count: 2
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi01
+  Gene Products: IAA-amino acid hydrolase ILR1-like 3
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: IAA-amino acid hydrolase ILR1
+  Gene Synonyms: GRMZM2G125552
+  Gene Descriptions: IAA-amino acid hydrolase ILR1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 410 aa
+
+MAAAaALARELLeAARAPEFAeWqRGVRRRIHQHPELAFQEHRTSALVRAELDALGVPYA
+WPVARTGVVATIAGgAGpGPVFALRADMDALPIQEMVEWEFKSKEDGKMHACGHDAHVAM
+LLGAAKLLQSRKDdLKGTVKLVFQPAEEGHAGGYHVLkEGVLDDVQAIFAVHVDTaLPVG
+tVGSRPGPFLAGSARFtATITGKGGHAAgPHaAVDPIVAASSAVLSLQQLVARETDPLQG
+AVVSVTFIKGGEAFNVIPESVTLGGTfRSMTTEGLSYLMKRIREVIEGQAAVgRCTATVD
+FMEEKLRPYPATVNDEaMYAHAKAVAESMLGEANVRLcPQiMAAEDFGFYAQKIPAAFFg
+VGVRnaGtgkvHHVHSPHlVIDEgALPVGAALHAAVAIEYLNKHAsapaS
+
+
+BOP CONSENSUS:
+Length: 409 aa
+
+AAAatLGRELLEEARAPEFAAWlRGLRRRIHQHPELAFQEHRTSALVRAELDALGVPYAW
+PVARTGVVATIAGGAGPGPVFALRADMDALPIQEMVEWEFKSKEDGKMHACGHDAHVAML
+LGAAKLLQSRKDhLkGTVKLVFQPAEEGHAGGYHVLQEGVLDDVdAIFAVHVDThLPAGA
+VGSRPGPFLAGSARFKATITGKGGHGAmPHAAVDPVVAASSAVLSLQQLVARETDPLQGA
+VVSVTTIKGGEAFNVIPESVTLGGTLRSMTTeGLSYLMrRIREVIEGQAAVGRCAATVDF
+MEEELRPYPATVNDEGVYAHAKAVAEgMLGEANVRLSPQiMAAEDFGFYAQKIPAAFFGV
+GVRaGEddEihHVHTPHlVIDEDALPVGAALHAAVAIEFLNKHAsapaS
+
+
+PACMAD CONSENSUS:
+Length: 410 aa
+
+MAAApALARELLDAARAPEFAEWQRGVRRrIHQHPELAFQEHRTSALVRAELDAlGVPYA
+WPVARTGVVATIAGPaAaaGPVFALRADMDALPIQEMVEWEFKSKEDGKMHACGHDAHVA
+MLLGAAKLLQSRRsDLKGTVKLVFQPAEEGHAGGYHVLKEGVLDDVQAIFGvHVDTALPV
+GvVGSRPGPFLAGSARFTATITGKGGHAAGPQhVVDPIVAASSAVLSLQQLVARETDPLQ
+GAVVSVTFIKGGEAFNVIPESVTLGGTFRSMTTEGLSYLMKRIREVIEGQAAVSRCTAtV
+DFMEEKLRPYPATVNDEAMYAHAKAVAESMLGEANVRLCPQFMAAEDFGFYAQKIPAAFF
+SVGVSNaeTGKVHHVHSPHVVIDEGALPIGAAFHAAVAIEYLNKHASAsa
+
+================================================================================

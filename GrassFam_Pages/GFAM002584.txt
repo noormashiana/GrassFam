@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM002584
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             503.0 aa
+Family Size (Extended Family Size): 19 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11739:SF32
+Panther Family ID:               PTHR11739
+Modal Panther ID:                PTHR11739:SF32
+Modal Panther Description:       CITRATE SYNTHASE
+Modal Panther Family ID:         PTHR11739
+Modal Panther Fam Desc:          CITRATE SYNTHASE
+Interpro Signature Accession:    cd06115; G3DSA:1.10.580.10:FF:000005; G3DSA:1.10.230.10:FF:000002; G3DSA:1.10.230.10; G3DSA:1.10.580.10; NF004126; PTHR11739; PR00143; PF00285; SSF48256
+Interpro Signature Description:  AthCS_per_like; Citrate synthase; -; Citrate Synthase, domain 1; citrate synthase; CITRATE SYNTHASE; Citrate synthase signature; Citrate synthase, C-terminal domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: citrate synthase%2C glyoxysomal
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: citrate synthase%2C glyoxysomal-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: citrate synthase 3%2C peroxisomal
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: citrate synthase 3%2C peroxisomal-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: citrate synthase 3%2C peroxisomal-like
+  Gene Descriptions: citrate synthase 3%2C peroxisomal-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: citrate synthase 3%2C peroxisomal
+  Gene Descriptions: citrate synthase 3%2C peroxisomal
+Pau
+  Gene count: 1
+  Modal chromosome: Pau06
+  Gene Products: citrate synthase%2C glyoxysomal-like
+  Gene Descriptions: citrate synthase%2C glyoxysomal-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: citrate synthase%2C glyoxysomal-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: citrate synthase%2C glyoxysomal-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: citrate synthase%2C glyoxysomal%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: uncharacterized LOC100275174
+  Gene Synonyms: GRMZM2G135588,pco138377
+  Gene Descriptions: uncharacterized LOC100275174
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 503 aa
+
+MDRADPARGRLAVLSSHLlAAGAdpAAgLERSPVSAAAPGpRAGALAVVDGRTGKRYEVK
+VSEDGTVRATDFKKITTGKDDKGLKIYDPGYLNTAPVRSSICYIDGDEGILRYRGYPIEE
+LAESSSFVEVAYLLMYGNLPTQSQLAGWEFAISQHSAVPQGLLDIIQSMPHDAHPMGVLA
+SAMSTLSVFHPDANPALRGQDLYKSKQVRDKQIVRVLGKAPTIAAAAYLRLAGRPPILPS
+NnLSYSENFLYMLDSLGNKeYKPNPRLARVLDILFILHAEHEMNCSTAAVRHLASSGVDV
+FTALSGGVGALYGPLHGGANEAVLKMLNEIGSVENIPDFIEGVKNRKRKMSGFGHRVYKN
+YDPRAKVIRKLAEEVFSIVGRDPLIEVAVALEKAALSDEYFIKRKLYPNVDFYSGLIYRA
+MGFPTEFFPVLFAIPRMAGWLAHWKESLDDPDTKIMRPQQVYTGVWLRHYTPVRERVPsS
+QSEELGQIATSNATRRRRAGSAL
+
+
+BOP CONSENSUS:
+Length: 503 aa
+
+MDRADPARGRLAVLSSHLLAAGADPAAALERSPASAAAPGTRAGVLAVVDSRTGKRYEVK
+VSEDGTVRATDFKKITTGKDDKGLKTYDPGYLNTAPVRSSICYIDGDEGILRYRGYPIEE
+VAESSSFVEVAYLLMYGNLPTQSQLAGWEFAISQHSAVPQGLLDIIQSMPHDAHPMGVLA
+SAMSTLSVFHPDANPALRGQDLYKSKQVRDKQIVRVLGKAPAIAAAAYLRLAGRPAVLPS
+NNLSYSENFLYMLDSLGDKEYKPNPRLARVLDILFILHAEHEMNCSTAAVRHLASSGVDV
+FTALSGAVGALYGPLHGGANEAVLKMLNEIGSVENIPDFIEGVKNRKRKMSGFGHRVYKN
+YDPRAKVIRKLAEEVFSIVGRDPLIEVAVALEKAALSDEYFIKRKLYPNVDFYSGLIYRA
+MGFPTEFFPVLFAIPRMAGWLAHWKESLDDPDNKIMRPQQVYTGVWLRHYTPVRERVPSS
+QGEQLGQIATSNATRRRRAGSSL
+
+
+PACMAD CONSENSUS:
+Length: 502 aa
+
+MDRADPARGRLAVLSSHLGAGAGEAAGLERSPVSAAAPGPRAGALAVVDGRTGKRHEVKV
+SEDGTVRATDFKKITTGKDDKGLKIYDPGYLNTAPVRSSICYIDGDEGILRYRGYPIEEL
+AESSSFVEVAYLLMYGNLPTQSQLASWEFAISQHSAVPQGLLDIIQSMPHDAHPMGVLAS
+AMSTLSVFHPDANPALRGQDLYKSKQVRDKQIVRVLGKAPTIAAAAYLRLAGRPPILPSN
+TLSYSENFLYMLDSLGNKSYKPNPRLARALDILFILHAEHEMNCSTAAVRHLASSGVDVF
+TALSGGVGALYGPLHGGANEAVLKMLNEIGSVENIPDFIEGVKNRKRKMSGFGHRVYKNY
+DPRAKVIRKLAEEVFSIVGRDPLIEVAIALEKAALSDEYFIKRKLYPNVDFYSGLIYRAM
+GFPTEFFPVLFAIPRMAGWLAHWKESLDDPDTKIMRPQQVYTGvWLRHYTPVRERVPPSQ
+SEELGQIATSNATRRRRAGSAL
+
+================================================================================

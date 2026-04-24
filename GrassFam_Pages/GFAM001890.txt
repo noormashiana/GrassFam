@@ -1,0 +1,102 @@
+================================================================================
+GrassFam ID: GFAM001890
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             483.0 aa
+Family Size (Extended Family Size): 14 (16) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48011:SF24
+Panther Family ID:               PTHR48011
+Modal Panther ID:                PTHR48011:SF24
+Modal Panther Description:       PROTEIN KINASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR48011
+Modal Panther Fam Desc:          CCR4-NOT TRANSCRIPTIONAL COMPLEX SUBUNIT CAF120-RELATED
+Interpro Signature Accession:    cd06606; G3DSA:1.10.510.10:FF:000466; G3DSA:1.10.510.10; PTHR48011; PF00069; SM00220; SSF56112
+Interpro Signature Description:  STKc_MAPKKK; MAP kinase kinase kinase18; Transferase(Phosphotransferase) domain 1; CCR4-NOT TRANSCRIPTIONAL COMPLEX SUBUNIT CAF120-RELATED; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: mitogen-activated protein kinase kinase kinase 18
+Lpe
+  Gene count: 4
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: mitogen-activated protein kinase kinase kinase 18-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: mitogen-activated protein kinase kinase kinase 18
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: mitogen-activated protein kinase kinase kinase 18-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: mitogen-activated protein kinase kinase kinase 18-like
+  Gene Descriptions: mitogen-activated protein kinase kinase kinase 18-like
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi05N
+  Gene Products: mitogen-activated protein kinase kinase kinase 18-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 465 aa
+
+MGVGEWTRGPAIGRGSSATVSLAVDRRTGgVLAVKSVGADRAAELRREQSILRGLSSPYV
+VRCLGsEvssSsGGyDMLMEYAPGGSLADEIRRCGGRCeEaLIRSRARDILRGLAHVHAA
+GVAHCDVKGRNVLIGADGRAMIADFGCARRtGIAGERqrptGGTPMFMAPEAARGEEQGP
+AADIWALGCTVIEMATGAAPWQRFASPVATLHHVAFSGEAPEfPpWLSEeGKDFLARCLR
+QDPRERWTAEQLLEHEFVAaAAtASSSNSiPgiTEKatFVSPKSVLDQALWEDDDDDTTA
+DTadPTDRVRALAAGAPAVPDWTWDASWITVHsGpSgdDDeEPAMSPEvgtDTDsDDSPv
+GGSSAGRAaAggsSssQASHAnGDRYDDTSSCNGERSDDGNHVVSDCtTlPITSNGFFSD
+mtslFvPAGcPSLPFtvlLFlPfFlSsPLLisvSslyspscltqL
+
+
+BOP CONSENSUS:
+Length: 469 aa
+
+MGVvEWTRGPAIGRGSSATVSLAVDRRTGgVLAVKSVGADRAAELRREQSILRGLSSPYV
+VRCLGsEvSAGsGGyDMLMEYAPGGSLADEIRRCGGRCaEaLIRSRARDILRGLAHVHAA
+GVAHCDVKGRNVLIGADGRAMIADFGCARRtgGGIAGERqrpTGGTPMFMAPEAARGEEQ
+GPAADIWAVGCTVIEMATGAAPWQRFASPVATLHHVAFSGEAPElPpWLSEeGKDFLARC
+LrQDPrERWTAEQLLEHEFVAAAavASSSNSVPGITEKaTFVSPKSVLDQALWEDDDDDT
+TADTADPTDRVRALAAGAPAVPDWTWDASWITVHsGpSggDDeEPAMSPEvgTDTDssDS
+PvGGGSAGRAEAGASSSQASHANGDRYDGTGSCNGERSDDGNHVISDCTTVPITSNGFFS
+DmtslFaPAGcgRPlPFtlLLFlpssCSSCLpAsPLLisvSStysPStl
+
+
+PACMAD CONSENSUS:
+Length: 466 aa
+
+MAMGVGEWTRGPAIGRGSSATVSLAVDRRTGAVFAVKSVEAARAGELRREQSILRGLSSP
+HVVRCLGYSGASSAAwCDLFLEYAPGGSLADEIKRCGGRCEEtLIRSRARDILRGLAHVH
+AAGvAHCDVKGRNVLIGtDGRAMIADFGCARRVAsDSGGINGGrmRGGTPMFMAPEAARG
+EEQGTAADIWALGCTVIEMATGGAPWPwFvDPIAALHHVAwSGEVPEsPqWLSEDGKDFL
+ARCLRRDPRqRWTAEQLLqHrFVATAASSSSNSIqsvtEKpMFvSPKSVLDQvLWgEStA
+DTDAtTTPtDRLRALAAGAPVVPDWTWDANWITVHtGsSrSDGNysvSPGTELEADTsrD
+SlARsSAAASVSGLPTAgEEASHGHGNFYgDAISSCSGpSTDSFCGGNHVVRDCNLAITS
+NGLFHRCSVTFVLLVPAGRLRFSCSVFFFFSSYFSQLYPTQCRTvs
+
+================================================================================

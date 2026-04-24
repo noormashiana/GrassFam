@@ -1,0 +1,114 @@
+================================================================================
+GrassFam ID: GFAM003051
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             565.0 aa
+Family Size (Extended Family Size): 18 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31889:SF62
+Panther Family ID:               PTHR31889
+Modal Panther ID:                PTHR31889:SF62
+Modal Panther Description:       FUCOSYLTRANSFERASE
+Modal Panther Family ID:         PTHR31889
+Modal Panther Fam Desc:          FUCOSYLTRANSFERASE 2-RELATED
+Interpro Signature Accession:    G3DSA:3.40.50.11340:FF:000005; PTHR31889; PF03254
+Interpro Signature Description:  Galactoside 2-alpha-L-fucosyltransferase; FUCOSYLTRANSFERASE 2-RELATED; Xyloglucan fucosyltransferase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: probable fucosyltransferase 8
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: probable fucosyltransferase 8
+Ata
+  Gene count: 2
+  Modal chromosome: Ata07D
+  Gene Products: galactoside 2-alpha-L-fucosyltransferase-like; probable fucosyltransferase 8
+Tae
+  Gene count: 6
+  Modal chromosome: Tae07A
+  Gene Products: galactoside 2-alpha-L-fucosyltransferase-like; probable fucosyltransferase 8
+Ola
+  Gene count: 4
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: probable fucosyltransferase 8
+  Gene Descriptions: probable fucosyltransferase 8
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: probable fucosyltransferase 8
+  Gene Descriptions: probable fucosyltransferase 8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau10
+  Gene Products: probable fucosyltransferase 8
+  Gene Descriptions: probable fucosyltransferase 8
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 563 aa
+
+MgdmgGkKKLgDPAdAAWPARAGGAARrEerMGRAGVVLIVCLfTLPFlVLLFGGRAGAl
+AVWQNAAKLTAmGGGLLNVSRPSATGAGADELFGGLLAPGfDRRACLSRYQSPHYYKHSP
+YAPSPHLLQKLRDYEARHkKCGPGTPlYAKSVDHLRSGSSSTEDmECNYlVWIPYNGLGN
+RMLSLLSTFLYALLTDRVLLVHSTDDFTDLFCEPFPGATWVLPPDFPVADMSrLGVgSNQ
+SYGNLLDgKKIsNDPAKATaQSVPPYVYLHLAHDLRRSDRLFYCNDDQLVLAKVNWLLLQ
+SDFYFVPALYdMAEFEDELRRLFPAKESVAHLLGRYLFHPSNSVWGMVTRYYHSYLAQAE
+ERIGVQIRMFSWASIPVDDMYkQIMACSRQEHILPDvDGDEAnTtSsaatGgsKSKAILI
+ASLQADYYERIKSTYYEHAAKGGGmVGVFQPSHEERQtMGQRsHNQKALAEIYLLSFSDV
+LLTTGmSTFGYMSSSLAGLRPTMLMiAkDHKVPETPCVRAVSMEPCFHMtPDVKCqGKAV
+NKEELSRHVKeCEDVpKGIKLFD
+
+
+BOP CONSENSUS:
+Length: 570 aa
+
+MkDmsGkKKlGDPVAdAWPARGGGaARReegMGRAGVVLIVCLFTLPFLVLLFGGRAGAl
+AVWQNAAKLTAmGGGLLNVSRPSATGtGADELFGGLLAPGFDRRACLSRYQSPHYYKHSP
+YAPSPHLLQKLRDYEARHkKCGPGTPlYAKSVDHLRSGSSSStEDmECNYvVWIPYNGLG
+NRMLSLLSTFLYALLTDRVLLVHSTDDFTDLFCEPFPGATWVLPPDFPVADMSrLGVgSN
+QSYGNLLDgKKIsNDPAKATaQSVPPYVYLHLAHDLRRSDRLFYCNDDQLVLAKVNWLLL
+QNDFYFVPALYdMAEFEdELRRLFPAKESVAHLLGRYLFHPSNSVWGMITRYYHSYLAQA
+EERIGVQIRMFSWASIPVDDMYkQIMACSRQEHILPDVDGDeAnTtSshthGgSKSKAIL
+IASLQADYYERIKSTYYEHAAKGGGmVGVFQPSHEERQtMGQRsHNQKALAEIYLLSFSD
+VLLTTGmSTFGYMSSSLAGLRPTMLMiAkDHKVPETPCVRAVSMEPCFHMtPDVKCqGKA
+VNKEELSRHVKeCEDVpKGIKWIKGIKLFD
+
+
+PACMAD CONSENSUS:
+Length: 580 aa
+
+MYRGDEQLNMGSAGGKKRLYDPAEEACPTRAGVPRREEEERFGRTGAVLVVCLMTLPFFV
+FFFGGRENAAAVWQSAASKLAAMNGGFTNASHARSRGAATKADELFGGLLAPGLDRRACL
+SRYQSPQYYRHSPYAPSSRLLHKLRAYEARHKKCGPGTPLYAKSIEQLRSGHGTEVMECN
+YLVWLPYNGIGNRMLSLLSTFLYALLTGRVLLVYSTDDFTDLFCEPFPDATWVLPPDFPV
+ANLSQLGWSTDQSYKNLLGQKKIVSDPEKATVLTVPPYVYVNLAHDPRFTDTMFYCNDDQ
+LVLAKVNWLLLYSDLYFVPSLYSITEFQDELQWLFPAKESVSHLLTRYLFHPTNSVWGLV
+TRYYHTYLAQAEERIGMQIRMFSWASIPVDDMYNQILACSRREHILPDIDGDEAGDTASL
+AKTNGVDAAAGLKAVLIASLHADYYDRIRSAYYEHAAKGGVRVGVFQPSHEERQKTGKRT
+HNQKALAEIYLLSFSDVLLTTGRSTFGYVSSSLAGLRPAILHTPYNHKVPEMPCVRAISM
+EPCLHALPRVNCQRKAANKMDLARHVKACEDVGGGVKMFD
+
+================================================================================

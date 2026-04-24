@@ -1,0 +1,127 @@
+================================================================================
+GrassFam ID: GFAM005337
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             365.5 aa
+Family Size (Extended Family Size): 20 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46230:SF3
+Panther Family ID:               PTHR46230
+Modal Panther ID:                PTHR46230:SF3
+Modal Panther Description:       SUFE-LIKE PROTEIN 1, CHLOROPLASTIC_MITOCHONDRIAL
+Modal Panther Family ID:         PTHR46230
+Modal Panther Fam Desc:          FAMILY NOT NAMED
+Interpro Signature Accession:    G3DSA:3.30.300.90:FF:000004; G3DSA:3.30.300.90; G3DSA:3.90.1010.10; PTHR46230; PF01722; PF02657; SSF82649; SSF82657
+Interpro Signature Description:  SufE-like protein, chloroplastic; -; BolA-like protein; Fe-S metabolism associated domain; SufE/NifU; BolA-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: sufE-like protein 1%2C chloroplastic/mitochondrial
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: sufE-like protein 1%2C chloroplastic/mitochondrial
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: sufE-like protein 1%2C chloroplastic/mitochondrial; sufE-like protein 1%2C chloroplastic/mitochondrial%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: sufE-like protein 1%2C chloroplastic/mitochondrial
+  Gene Descriptions: sufE-like protein 1%2C chloroplastic/mitochondrial
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: sufE-like protein 1%2C chloroplastic/mitochondrial
+  Gene Descriptions: sufE-like protein 1%2C chloroplastic/mitochondrial
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau20
+  Gene Products: sufE-like protein 1%2C chloroplastic/mitochondrial%2C transcript variant X6
+  Gene Descriptions: sufE-like protein 1%2C chloroplastic/mitochondrial
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: sufE-like protein 1%2C chloroplastic/mitochondrial; sufE-like protein 1%2C chloroplastic/mitochondrial%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: sufE-like protein 1%2C chloroplastic/mitochondrial%2C transcript variant X8
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: sufE-like protein 1%2C chloroplastic/mitochondrial%2C transcript variant X3
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: uncharacterized LOC100286086%2C transcript variant X3
+  Gene Synonyms: GRMZM2G074857,TIDP3564
+  Gene Descriptions: uncharacterized LOC100286086
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 362 aa
+
+MASAAATAAGAPLRLLSSSSLSKPLLPRPHlLTLSSPISFQRLTARSAASPTPSTTSSSP
+sgSGSVDPAQLPPALRDIVGLFQSVPDARTRYKQLLAYAARLPPMDPALKTDANRVRGCV
+SQVWVHAEPEEGDAPGsVRFQADSDAQLTKGLAALLVLGLSGAPARDVAMVPVEFIELLG
+IRQSLSPSRNSGLLNMLNLMKRKALEIAAGGEsTgSQESVQEVAEPRgVEkKEPEFAAFG
+vQEeEsSEAERPEEEQLEEvPadVVEGNGSlGGGRKERIRESLERGLSPVELEIEDISHL
+HKGHAGVAGSNGETHFNVRVVSKEFEGKSLLKRHRAVYDLLQDELKTGLHALSIDAKTPS
+EV
+
+
+BOP CONSENSUS:
+Length: 358 aa
+
+MASAAATSaPLRLLSSSPLSKPLLSKPHLLTLSrPVSFQRLaARSAASPTPSTSSSAPaP
+gSVDPAQLPPALRDIIALFQSVPDERTRYKQLLAYAARLPPMDPALKTDANRVRGCVSQV
+WVHAAPEaeAPGCVSFQADSDAQLTKGLAALLVLGLSGAPARDVAMVPVEFIEMLGIRQS
+LSPSRNSGLLNMINLMKLKALEIAAGqEvTGGQEIrQEvAEtPAVEKEEPQFeAFGgQvH
+EsSEaERPEEEQFEEEPAAVVEGNGSLGGGRKERIRdSLERGLSPVELkIEDISHQHKGH
+AGVAGSDGETHFNVRVVSKEFEGKSMLKRHRAVYDLLQDELKSGLHALSIDAKTPSEV
+
+
+PACMAD CONSENSUS:
+Length: 371 aa
+
+MASAASTAAAGAPLRLLSSSSnRISKPfLPRPHRLTLSSPISFQRLTARSAASPSPSTTS
+SSPSGSGSVDPAQLPPALRDIVGLFQSVPDARTRYKQLLAYAARLPPMDPALKTDANRVR
+GCVSQVWVHAEPDEGDGGGRSVRFHADSDAQLTKGLAALLVLGLSGAPAADVARVPVEFI
+ELLGIRQSLSPSRNSGLLNMLNLMKRKALEIADAGGDSTTSQQSVQEVAEPRAnGVEnKg
+PEFAAFGVQEEEKseAeRrDEEEQLEEVPdDFAEGNGASlGGGRKERIRESLERALSPVE
+LEIEDISHLHKGHAGVAGSNGETHFNVRVVSKEFEGKSLLKRHRAVYDLLQDELKTGLHA
+LSIDAKTPSEV
+
+================================================================================

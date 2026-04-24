@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM007768
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             417.0 aa
+Family Size (Extended Family Size): 20 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10529:SF340
+Panther Family ID:               PTHR10529
+Modal Panther ID:                PTHR10529:SF340
+Modal Panther Description:       CARMINE, ISOFORM A
+Modal Panther Family ID:         PTHR10529
+Modal Panther Fam Desc:          AP COMPLEX SUBUNIT MU
+Interpro Signature Accession:    cd09252; cd14837; G3DSA:3.30.450.60:FF:000002; G3DSA:2.60.40.1170; G3DSA:3.30.450.60; PTHR10529; PIRSF005992; PF00928; SSF64356; SSF49447
+Interpro Signature Description:  AP-3_Mu3_Cterm; AP3_Mu_N; AP-2 complex subunit mu, putative; Mu homology domain, subdomain B; -; AP COMPLEX SUBUNIT MU; AP_complex_mu; Adaptor complexes medium subunit family; SNARE-like; Second domain of Mu2 adaptin subunit (ap50) of ap2 adaptor
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: AP-3 complex subunit mu%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: AP-3 complex subunit mu
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: AP-3 complex subunit mu%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: AP-3 complex subunit mu-like; AP-3 complex subunit mu-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: AP-3 complex subunit mu%2C transcript variant X1
+  Gene Descriptions: AP-3 complex subunit mu
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: AP-3 complex subunit mu%2C transcript variant X1
+  Gene Descriptions: AP-3 complex subunit mu
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau09
+  Gene Products: AP-3 complex subunit mu
+  Gene Descriptions: AP-3 complex subunit mu
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: AP-3 complex subunit mu-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: AP-3 complex subunit mu%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: AP-3 complex subunit mu
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100273129%2C transcript variant X1
+  Gene Synonyms: GRMZM2G074278,GRMZM2G074414,pco126957
+  Gene Descriptions: uncharacterized LOC100273129
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 417 aa
+
+MLQCIFLLSDSGEVMVEKQMTAHRVDRAICGWFWDYVLAHAAGDPSKVLQVVVSPTHYLF
+QIYRNGVTFLACTQVEMPPLMAIEFLSRVADVLTDYLGDLNEDIIKDNFVIVYQILDEMM
+DNGFPLTTEPNILKEMIAPPNIVSKMLNVVTGKSSTLGSKLPDAAASFVPWRTTVVKDAS
+NEVYVNIVEELDACVNREGVLVKCEAYGEIQVNSSLPGVPELTLSFANPTIINDVRFHPC
+VRFRPWESNQILSFVPPDGQFKLMSYRVKKLKtTPIYVKPQLTSDSGNCRVnVMVGIRND
+PGKPIDSITVQFQLPPLIASADLTANYGTVDILADQTCLWTIGQIPKDKAPSLSGNLRLE
+EGLAHLHTFPTFQVKFKIMGVALSGLQIDKLDVKNTPSAPYKGFRAQTQAGRYEVRS
+
+
+BOP CONSENSUS:
+Length: 417 aa
+
+MLQCVFLLSDSGEVMVEKQMTAHRVDRAICGWFWEYVLAHAAGDPSKVLQVVVSPTHYLF
+QVYRSGVTFLACTQVEMPPLMAIEFLSRVADVLTDYLGDINEDTIKDNFVIVYQILDEMM
+DNGFPLTTEPNILKELVAQPNMVSKMLNVMTGKSSTIGSKLPDATASFVPWRTTIVKDAS
+NEVYVNIVEELDACVNREGVLVKCEACGEIEVNSSLPGLPELTLSFANPTIINDVRFHPC
+VRFRPWESNQILSFVPPDGQFKLMSYRVKKLKTTPIYVKPQLSSDSGNCRVNVMVGIRND
+PGKPIDSItVQFQLPPLIASADLTANHGTVDILADQTCVWTIGHIPKDKAPSLSGNLRLE
+EGLAHLHAFPIFQVKFRIMGAALSGLQIDKLDVKNTPSAPYKGFRAQTQAGRYEVRS
+
+
+PACMAD CONSENSUS:
+Length: 417 aa
+
+MLQCIFLLSDSGEVMVEKQMAAHRVDRAICGWFWDYVvAHAAGDPSKILQVVVSPTHYLF
+QIYRNGVTFLACTQVEMPPLMAIEFLSRVADVLTDYLGDLNEDIIKDNFVIVYQILDEMM
+DNGFPLTTEPNILKEMIAPPNIVNKMLNVVTGKSSTLGSKLPDAAASFVPWRSTVVKDAS
+NEVYVNIVEELDACVNREGVLVKCEAYGEVQVNCSLPGVPELTMSFANPTIINDVTFHPC
+VRFRPWESNQVLSFVPPDGQFKLMSYRVKKLKKTPIYVKPQLTSDSGNCRVSVMVGIRND
+PGKPIDSITVQFQLPPLIVSADLTANYGTVDILADKTCLWTIGQIPKDKAPvLSGNLRLE
+EGLAQLHTLPTFQVKFKIMGVALSGLQIDKLDVKNTPSAPYKGFRAQTQAGKYEVRS
+
+================================================================================

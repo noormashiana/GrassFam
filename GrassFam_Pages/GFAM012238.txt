@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM012238
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             355.0 aa
+Family Size (Extended Family Size): 29 (29) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24361:SF816
+Panther Family ID:               PTHR24361
+Modal Panther ID:                PTHR24361:SF816
+Modal Panther Description:       MITOGEN-ACTIVATED PROTEIN KINASE KINASE 6
+Modal Panther Family ID:         PTHR24361
+Modal Panther Fam Desc:          MITOGEN-ACTIVATED KINASE KINASE KINASE
+Interpro Signature Accession:    cd06623; G3DSA:3.30.200.20:FF:000265; G3DSA:1.10.510.10:FF:000285; G3DSA:3.30.200.20; G3DSA:1.10.510.10; PTHR48013; PIRSF000654; PF00069; SM00220; SSF56112
+Interpro Signature Description:  PKc_MAPKK_plant_like; Mitogen-activated protein kinase kinase 6; Phosphorylase Kinase; domain 1; Transferase(Phosphotransferase) domain 1; DUAL SPECIFICITY MITOGEN-ACTIVATED PROTEIN KINASE KINASE 5-RELATED; ILK; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: mitogen-activated protein kinase kinase 1-like
+  Gene Synonyms: MKK6.2
+  Gene Descriptions: mitogen-activated protein kinase kinase 1-like
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: mitogen-activated protein kinase kinase 1%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: mitogen-activated protein kinase kinase 1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: mitogen-activated protein kinase kinase 1; mitogen-activated protein kinase kinase 1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: mitogen-activated protein kinase kinase 1%2C transcript variant X1
+  Gene Descriptions: mitogen-activated protein kinase kinase 1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: mitogen-activated protein kinase kinase 1-like%2C transcript variant 1
+  Gene Synonyms: MAPKK1,MEK1,MKK1,OsMEK1,P0520B06.8
+  Gene Descriptions: mitogen-activated protein kinase kinase 1-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 4
+  Modal chromosome: Pau01
+  Gene Products: mitogen-activated protein kinase kinase 1; mitogen-activated protein kinase kinase 1-like; mitogen-activated protein kinase kinase 1-like%2C transcript variant X1
+  Gene Descriptions: mitogen-activated protein kinase kinase 1; mitogen-activated protein kinase kinase 1-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi03K
+  Gene Products: mitogen-activated protein kinase kinase 1; mitogen-activated protein kinase kinase 1-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha03
+  Gene Products: mitogen-activated protein kinase kinase 1; mitogen-activated protein kinase kinase 1-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: mitogen-activated protein kinase kinase 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: MEK homolog 1
+  Gene Synonyms: GRMZM2G167856,mek1
+  Gene Descriptions: MEK homolog 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 355 aa
+
+MRGKKPLKELKLSVPAQETPVDKFLTASGTFKDGELRLNQRGLRLISEENGDEnQSTKLK
+VEDVQLSMDDLEMIQVIGKGSGGVVQLVRHKWVGTLYALKGIQMNIQESVRKQIVQELKI
+NQATQSPHIVLCHQSFYHNGVIYLVLEYMDRGSLADIIKQVKTILEPYLAVLCKQVLEGL
+LYLHHERHVIHRDIKPSNLLVNRKGEVKITDFGVSAVLASSMGQRDTFVGTYNYMAPERI
+SGSSYDYKSDIWSLGLVILECAIGRFPYIPSEGEGWLSFYELLEAIVDQPPPSAPADQFS
+PEFCSFISSCIQKDPAERMSASELLNHPFIKKFEDKDLDLRILVESLEPPMNIPE
+
+
+BOP CONSENSUS:
+Length: 355 aa
+
+MRGKKPLKELTLSVPAQETPVDKFLTASGTFKDGELRLNQRGLQLISEENGDEHQSTNMK
+VEDVQLSMDDLEMIQVIGKGSGGVVQLVRHKWVGTFYALKGIQMNIQESVRKQIVQELKI
+NQATQSPHIVLCHQSFYHNGVIYLVLEYMDRGSLADIIKQVKTILEPYLAVLCKQVLEGL
+LYLHHERHVIHRDIKPSNLLVNHKGEVKITDFGVSAVLASSIGQRDTFVGTYNYMAPERI
+SGSSYDYKSDVWSLGLVILECAIGRFPYTPPEGEGWLSFYELLEAIVDQPPPSAPADQFS
+PEFCSFISSCIQKDPAERMSASELLNHAFIKKFEDKDLDLRILVESLEQPMNVPE
+
+
+PACMAD CONSENSUS:
+Length: 355 aa
+
+MRGKKPvKELKLSVPAQETPVDKFLTASGTFKDGELRLNQRGLRLISEENGDENESTKLK
+VEDVQLSMDDLEMIQVIGKGSGGVVQLVRHKWVGTLYALKGIQMNIQESVRKQIVQELKI
+NQATQSPHIVLCHQSFYHNGVIYLVLEYMDRGSLADIIKQVKTILEPYLAVLCKQVLEGL
+LYLHHERHVIHRDIKPSNLLVNRKGEVKITDFGVSAVLASSMGQRDTFVGTYNYMAPERI
+SGSSYDYKSDIWSLGLVILECAIGRFPYIPSEGEGWLSFYELLEAIVDQPPPSAPADQFS
+PEFCSFISSCIQKDPAERMSASELLNHPFIKKFEDKDLDLRILVESLEPPMNIPE
+
+================================================================================

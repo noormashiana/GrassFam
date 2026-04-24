@@ -1,0 +1,147 @@
+================================================================================
+GrassFam ID: GFAM018567
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             694.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13326:SF8
+Panther Family ID:               PTHR13326
+Modal Panther ID:                PTHR13326:SF8
+Modal Panther Description:       PSEUDOURIDINE SYNTHASE FAMILY PROTEIN
+Modal Panther Family ID:         PTHR13326
+Modal Panther Fam Desc:          TRNA PSEUDOURIDINE SYNTHASE D
+Interpro Signature Accession:    cd02576; G3DSA:3.30.2350.20:FF:000010; G3DSA:3.30.2350.20:FF:000006; G3DSA:3.30.2350.20; TIGR00094; PTHR13326; PIRSF037016; PF01142; SSF55120
+Interpro Signature Description:  PseudoU_synth_ScPUS7; Putative pseudouridine synthase YOR243C family; Multisubstrate pseudouridine synthase 7; TruD, catalytic domain; tRNA pseudouridine(13) synthase TruD; TRNA PSEUDOURIDINE SYNTHASE D; Pseudouridin_synth_euk; tRNA pseudouridine synthase D (TruD); Pseudouridine synthase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: pseudouridylate synthase 7 homolog
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: multisubstrate pseudouridine synthase 7
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: multisubstrate pseudouridine synthase 7
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: multisubstrate pseudouridine synthase 7-like; pseudouridylate synthase 7 homolog; pseudouridylate synthase 7 homolog%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: uncharacterized LOC127773754
+  Gene Descriptions: uncharacterized LOC127773754
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: multisubstrate pseudouridine synthase 7
+  Gene Descriptions: multisubstrate pseudouridine synthase 7
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: multisubstrate pseudouridine synthase 7-like; multisubstrate pseudouridine synthase 7-like%2C transcript variant X1
+  Gene Descriptions: multisubstrate pseudouridine synthase 7-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: multisubstrate pseudouridine synthase 7-like; multisubstrate pseudouridine synthase 7-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: pseudouridylate synthase 7 homolog%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: pseudouridylate synthase 7 homolog
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: Pseudouridine synthase family protein
+  Gene Synonyms: GRMZM2G096553,GRMZM2G173137
+  Gene Descriptions: Pseudouridine synthase family protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 687 aa
+
+MARSSSLSEAEAGISCFASSLPGFRGVLKHRYSDFIVHEVARDGsLVRLTSFDLPTECVD
+VKEEEKAAPSADADHSQALESFRALCGDADCdALRGLLERVAAGGDsDVSPVILSPDADK
+AHRSEVHNFFKKNFKFLVTDTVEHSDGVQRCIRVRLGSGAGGGRGGGGGGRGRKRKNMGG
+SDWRDDRPFDSRGSSNWSDHVGKFLRFHLYKENKDTQEALGVIGKMLGLQSRSFGFAGTK
+DKRAVTTQQVTVFKVQANRLAALNNRLFGIKVGNFCYVKEGLVLGQLMGNRFTITLRGVV
+AESEDmIKAAVDGLGKNGFINYYGLQRFGSGSVPTHLVGAALLRGEWKaAVNLILDPREG
+ERDDINEVRKHYKEHGDIDMALRNFPRHLVAERAILQCLKKCPGNYLQALKGIPRTLRMM
+YVHSYQSYLWNHAASMRVEKYGISQVVEGDLVYNKESPPGEATSVDTSEtDDGHTNSSEI
+DLCSEAQPEEtIQSVKIVDSEDLLKGIYTFDDVVLPLPGSQALFPGNEVAEIYHEMAKKD
+GISLTENAHGVKEFSITSMKGGYRRVFQRPIDFEWELMTYTDDSSSLAETDLDVLSRTKP
+TEANELaSSGvSnsQsQDKLEkPsDTSMPTNEtSllENKsIGSSDTLPrKLAIKLAFTLP
+ASSYATMAIRELLKTSTSVAYQKTLdC
+
+
+BOP CONSENSUS:
+Length: 696 aa
+
+MARSSSVTEAEVGItCFTSSLPGFRGVLKHRYSDFIVHEVARDGSVVRLTSLDLPDQCVD
+AKEEEKAAPAADADHSKALESFsaLCGEADCdALRGLLEKVAAGGEGDFSPVMLSPDADK
+AHRSEVHNFFKKNFKFLVTDTVEHSDGVQKYIRVRVGSEAGGGRGGRGGGGRGGGGRGRK
+RKNMNGSDWGDDRPFDSRGSSSWPAHAGKFLRFHLCKENKDTQDALGVIGKMLGLQSRSF
+GFSGTKDKRAVTTQQVTVFKVPANKIAALNKRLYGIKVGNFCYVKEGLGLGQLMGNRFTI
+TLRGVVAESEDMIKAAVDGLGKNGFINYYGLQRFGSGSVPTHLIGAALLRGEWKnAVNLV
+LDPREGERDDIKEVREHYKQHGDIDMALRNFPRHLVAEKAILQCLRKCPgNYLQALKGIP
+RPLRMMYVHSYQSYLWNHAASMRVEKYGISQVVEGDLIYTKESHPGEATSVGTSEVDgLT
+NSSEIDICsEAlPEENIQSVKLVDSEDLsKGIYSFEDVVLPLPGSQALFPGNEVAEIYHE
+MAKKDGISLTENAHGVKEFSITSMKGGYRRVFQKPIDFEWELMTYTDDSASLAETDLDIL
+SKgKLTEAKVANEPAsSsNSASNPPDCKmEEPLeTSMPTSETSLVENKSIGSSDtLPSKL
+AVKLAFTLPASSYATMAIRELLKDSTSVAYQKTLDC
+
+
+PACMAD CONSENSUS:
+Length: 683 aa
+
+MARSSSLSEAEAGISCFASSLPGFRGVLKHRYSDFIVHEVARDGALVQLTSFDLPTECVD
+VkEEEKAAPSADADHSQALESFRALCGDADCnALRGLLERVAAGGDSDVSPVILSPDADK
+AHRSEVHNFFKKNFKFLVTDTVEHSDGVQRCIRVRLGSGAGGGRGGGGRGRGRKRKNMGg
+SDWRDDRPFDSRGSSNWSDhVGKFLRFHLYKENKDTQEALGVIGKMLGLQPRSFGFAGTK
+DKRAVTTQQVTVFKVQANRLAALNNRLFGIKVGNFCYVKEGLVLGQLMGNRFTITLRGVt
+AESEDvIKaAVDGLGKNGFINYYGLQRFGSGSVPTHLVGAALLRGEWKAAVNLILDPREG
+ERDDINEVRKHYKEHGDIDKALRNFPRHLVAERAILQCLKKCPGNYLQALKGIPRTLRMM
+YVHSYQSYLWNHAASMRVEKYGISQVVEGDLVYNKECPPEESTSVDIlETDDGHTNSSEI
+DLCSEAQPEETIQSVKIVDSGDLLKGiYTFDDVVLPLPGSQALFPGNEVAEIYHEMARKD
+GISLTENAHGVKEFSITSMKGGYRRVFQRPIDFEWELMTYTDDSSSLAETDLDVLSRTKP
+KEANELVSSdQSQDKLEKASDTSVPTNGSSSLENKPiGSPDTlPrKLAIKLAFTLPASCY
+ATMAIRELLKTSTSVAYQKTLSC
+
+================================================================================

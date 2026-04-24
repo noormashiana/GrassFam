@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM013568
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             444.0 aa
+Family Size (Extended Family Size): 21 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10693:SF58
+Panther Family ID:               PTHR10693
+Modal Panther ID:                PTHR10693:SF58
+Modal Panther Description:       OS02G0131700 PROTEIN
+Modal Panther Family ID:         PTHR10693
+Modal Panther Fam Desc:          RAS GTPASE-ACTIVATING PROTEIN-BINDING PROTEIN
+Interpro Signature Accession:    cd00780; G3DSA:3.30.70.330:FF:000537; G3DSA:3.10.450.50:FF:000003; G3DSA:3.10.450.50; PTHR10693; SSF54427
+Interpro Signature Description:  NTF2; Ras GTPase-activating protein-binding protein 2; Nuclear transport factor 2 family protein; -; RAS GTPASE-ACTIVATING PROTEIN-BINDING PROTEIN; NTF2-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: ras GTPase-activating protein-binding protein 1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: nuclear transport factor 2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: nuclear transport factor 2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: nuclear transport factor 2; nuclear transport factor 2-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: nuclear transport factor 2-like%2C transcript variant X1
+  Gene Descriptions: nuclear transport factor 2-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: nuclear transport factor 2%2C transcript variant X1
+  Gene Descriptions: nuclear transport factor 2
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu06
+Pau
+  Gene count: 2
+  Modal chromosome: Pau16
+  Gene Products: nuclear transport factor 2-like%2C transcript variant X2
+  Gene Descriptions: nuclear transport factor 2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02N
+  Gene Products: nuclear transport factor 2-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: ras GTPase-activating protein-binding protein 2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: ras GTPase-activating protein-binding protein 2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: uncharacterized LOC100282288%2C transcript variant X1
+  Gene Synonyms: GRMZM2G167932,umc1214
+  Gene Descriptions: uncharacterized LOC100282288
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 447 aa
+
+mAAAAAATQVGTYFLRNYYNLLQQNPDVVHQFYSEASTMVRVDDLtGTNTTANSMMDIHS
+LIMSLNFTQIEIKTANFvNSWGDGVLVMVSGLVQTKEYSHQRKFIQMFFLAPQEKGYFVL
+NDYFHFVDQEQVQPAQVIAQEdFEtNLASNTVVETvPEYIHEEEsQTmQAVPITSEENDA
+VDNYTYSEPPQQVVSQSDNWGEEPLPEEPLSSFSNGMAMAPEEPVQPPPVPPPHVEEPVG
+EPVKKTYASILRTAKAPPAFPVAQQVPVSKPSHPTTESNQAQHSVMTSStAAEKPRSDVY
+GEvAAHDDEESKSVYVGNVPSSVtEADLENEFKKFGRLIPDGVAIRSRKETGGYYAFVEF
+EELSGVHNALKASPIEINGRQIYVEERKPNSGIRGGRRGGRGRFGGGGRGYARGGGDEYN
+GNRGRSNGYQRVPHQERGILGSHnqRN
+
+
+BOP CONSENSUS:
+Length: 436 aa
+
+MSAAAAAATQVGTYFLRNYYNLLQQNPDVVHQFYSEASTMVRVDDLNGTNTTANSMMDIH
+SLIMSLNFTQIEIKTANFANSWGDGVLVMVSGLVQTKEYSNQRKFIQMFFLAPQEKGYFV
+LNDYFHFVDQEQVQPAQVRAQEAFETNMASNTVQTSPEYIHEESQTMQAVPVTSEENDAV
+DNYTYSEPPQQVVSQSDNWGDESLQEEPLSSFSNGMAMAPEEPAQPPPVQPHVEEPVGEP
+VKKTYASILRTAKAPPpFPVAQSVPVNKPHPTTEANQATvMTSSVAADKPKSDFYGEGHD
+EEESKSVYVGNVPSNVTEADLENEFKKFGQLIPDGVAIRSRKETGGYYAFVEFEELSGVH
+NALRASPLEINGRQIYVEERKPNSGIRGGRRGGGRGRFGGGGRGYARGDEYsGSRGKSNG
+YQRVPHHERGILGARN
+
+
+PACMAD CONSENSUS:
+Length: 442 aa
+
+MASAAATQVGTYFLRNYYNLLQQNPDVVHQFYSEASTMVRVDDLTGTNTTVNNMMDIHSL
+IMSLNFTQIEIKTANFVNSWGDGVLVMVSGLVQTKEYSHQRKFIQMFFLAPQEKGYFVLN
+DYFHFVDQEQVQPAPVIsQEDYESNLASNTVVETVPEYIHEEETQTAQITSEGHDVVDNY
+TYSEPPQQVVSSDNWGEEPLPEEPPSSFSNEMAVAPEEPVQPPPVPPPHVEEPVGEPVKK
+TYASILKTAKAPPAFPVAQQVPVSKPSHPTTESNQAQHSVMASSTAAEKPRSDVYGEVAA
+HDDEESKSVYVGNVPSSVSEADLENEFKKFGRLIPDGVAIRSRKETGGYYAFVEFEELSG
+VHNALKASPIEINGRQIYVEERKPNSGIRGGRRGGRGRFSGGGRGYARGGGDEYNGNRGR
+SNGYGRVPHQERGILGSHAqRN
+
+================================================================================

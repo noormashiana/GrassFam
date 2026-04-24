@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM015667
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             395.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22835:SF226
+Panther Family ID:               PTHR22835
+Modal Panther ID:                PTHR22835:SF226
+Modal Panther Description:       OS07G0586100 PROTEIN
+Modal Panther Family ID:         PTHR22835
+Modal Panther Fam Desc:          ZINC FINGER FYVE DOMAIN CONTAINING PROTEIN
+Interpro Signature Accession:    cd01837; G3DSA:3.40.50.1110; PTHR22835; PF00657
+Interpro Signature Description:  SGNH_plant_lipase_like; SGNH hydrolase; ZINC FINGER FYVE DOMAIN CONTAINING PROTEIN; GDSL-like Lipase/Acylhydrolase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: GDSL esterase/lipase At3g26430
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: GDSL esterase/lipase ACHE-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: GDSL esterase/lipase ACHE
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: GDSL esterase/lipase ACHE-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: GDSL esterase/lipase ACHE-like
+  Gene Descriptions: GDSL esterase/lipase ACHE-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: GDSL esterase/lipase ACHE
+  Gene Descriptions: GDSL esterase/lipase ACHE
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 1
+  Modal chromosome: Pau14
+  Gene Products: GDSL esterase/lipase ACHE
+  Gene Descriptions: GDSL esterase/lipase ACHE
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: GDSL esterase/lipase ACHE; GDSL esterase/lipase ACHE-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: GDSL esterase/lipase At3g26430-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: GDSL esterase/lipase At3g26430
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: acetylcholinesterase 1
+  Gene Synonyms: ache1,GRMZM6G953609
+  Gene Descriptions: acetylcholinesterase 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 395 aa
+
+MATAtsATAaARaAALLsLVLlLlLqASgAAGAGADCHFPAVFNFGDSNSDTGGLSAlFG
+AAPPPNGRTFFGMPAGRYCDGRLVIDFIAESLGIPYLSAYLNSIGSNFTQGANFATAGSS
+IRRQNTSLFLSGFSPISLDVQSWEFEQFINRSQfVYNNKGGIYRELLPKAEYFSQALYTF
+DIGQNDITsGYFvNmTTEEVeAiIPDLMERLTSIIQSVYgrGGRYFWIHNTGPLGCLPYA
+LlHRPDLAAPkDGaGCSVTYNKVAQLFNQRLKETVAsLRKTHPDAAFTYVDVYTAKYKLI
+SQAKKLGFDDPLLTCCGHGGGRYNFDlkVGCGGKvQVNGTWVVVGKSCDDPSKRVSWDGV
+HFTEAANKFVFDQIVAGALSDPPVPLRQACrSKGQ
+
+
+BOP CONSENSUS:
+Length: 394 aa
+
+MASgGSGRTAAGtAALLSLVFLLLQVSAGAGAGADCHFPAVFNFGDSNSDTGGLSAAFGA
+APPPNGRTFFGMPAGRYCDGRLVIDFIAENLGIPYLSAYLNSVGSNFSQGANFATAGSTI
+SRQNTSLFLSGFSPISLDVQSWEFEQFINRSQFVYNNKGGIYRELLPKAEYFSQALYTFD
+IGQNDITAGYFANMTTEQVIAfIPELMERLTSIIQNVHGLGGRNFWIHSTGPIGCLPYAL
+IHRPDIAAVKDnVGCSVTYNKVAQLFNQRLKETVARLRKTYPDAAFTYVDVYAAKYKLIS
+QASKLGFDDPLLTCCGHDAGPYNFDPKVGCGGKVLVNGTWVVLGKSCDDPSRRVSWDGVH
+FTEAANKFVFDQIVGGGLSDPPVPLRQACRSKGQ
+
+
+PACMAD CONSENSUS:
+Length: 394 aa
+
+MATATaATAAARAAALLLSLvLALALAPRASGAGGDCHFPAIFNFGDSNSDTGGLSSLFG
+AAPPPNGRTFFGMPAGRYCDGRLVIDFIAESLGIPHLSAYLNSIGSNFTQGANFATAGSS
+IRRQNTSLFLSGFSPISLDVQSWEFEQFINRSQyVYNNKGGIYRELLPRAEYFSQALYTF
+DIGQNDITSSYFVNNTTEEVEAIIPDLMERLTSIIQSVYSRGGRYFWIHNTGPLGCLPYA
+LLHRPDLAaPmDGAGCSVTYNKVAQLFNLRLKETVASLRKTHPDAAFTYVDVYTAKYKLI
+SQAKKLGFDDPLLTCCGHGGRYNFDLNIGCGGKKQVNGTWVVVGNSCEDPSKRVSWDGVH
+FTEAANKFVFDQIVAGALSDPPVALRQACHSRGq
+
+================================================================================

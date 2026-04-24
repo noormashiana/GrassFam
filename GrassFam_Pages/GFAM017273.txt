@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM017273
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             511.0 aa
+Family Size (Extended Family Size): 23 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR15486:SF91
+Panther Family ID:               PTHR15486
+Modal Panther ID:                PTHR15486:SF91
+Modal Panther Description:       PHOSPHOLIPID_GLYCEROL ACYLTRANSFERASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR15486
+Modal Panther Fam Desc:          ANCIENT UBIQUITOUS PROTEIN
+Interpro Signature Accession:    cd06551; G3DSA:3.40.50.1000:FF:000135; G3DSA:1.20.1440.100:FF:000004; PTHR15486; PF23270; SSF69593
+Interpro Signature Description:  LPLAT; Glycerol-3-phosphate 2-O-acyltransferase 6; Glycerol-3-phosphate 2-O-acyltransferase 6-like; ANCIENT UBIQUITOUS PROTEIN; Glycerol-3-phosphate acyltransferase RAM2-like, HAD-like domain; Glycerol-3-phosphate (1)-acyltransferase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: glycerol-3-phosphate 2-O-acyltransferase 6
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu04H
+  Gene Products: glycerol-3-phosphate acyltransferase RAM2-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: glycerol-3-phosphate acyltransferase RAM2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: glycerol-3-phosphate acyltransferase RAM2-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: glycerol-3-phosphate acyltransferase RAM2-like
+  Gene Descriptions: glycerol-3-phosphate acyltransferase RAM2-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: glycerol-3-phosphate acyltransferase RAM2
+  Gene Descriptions: glycerol-3-phosphate acyltransferase RAM2
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau04
+  Gene Products: glycerol-3-phosphate acyltransferase RAM2-like
+  Gene Descriptions: glycerol-3-phosphate acyltransferase RAM2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: glycerol-3-phosphate acyltransferase RAM2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: glycerol-3-phosphate 2-O-acyltransferase 6-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: glycerol-3-phosphate 2-O-acyltransferase 6
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: glycerol-3-phosphate acyltransferase RAM2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 510 aa
+
+MGetTTtMAASPFPTVEKCSSaDRsGDTVVADLDGTLLCGRSSFPYFAHMAFETGGVLRL
+LLLIlLAPLAGLLYYlVSESAGIQVLIFASMAGARVADIEAVARAVLPKFYCSDLHPESW
+RVFSACGRRCVLTANPRIMVEAFLKEYIGADVVvGTELVVWRGRATGLVRSPGVLVGENK
+ADALRrAFGDAAPEVGLGDRKTDYPFMRLCKEGYVVPPTPKLKPVPREDLPKPVVFHDGR
+LVQKPSPALALLTVLWIPIGFLLACLRIAAGALLPMRMVYHAFRALGVRVTIKGNPPPPA
+SRETGQTGVLFICSHRTLLDPIFLSTALGRPITAVTYSVSRLSEILSPIRTVRLTRDRAA
+DAAMIRRLLtEGDLVICPEGTTCREPFLLRFSALFAELTDEIVPVAMENQMSMFHGTTAR
+GWKGLDPFYFFMNPSPGYVVTFLNKLPaELTCkGGKTSHEVANYIQRLIASTLSYECTSF
+TRKDKYKALAGNDGTVVSKPNIDKKKVMGC
+
+
+BOP CONSENSUS:
+Length: 509 aa
+
+MmGTTTMTASPFPTVDKCSSaDRSGDTVVADLDGTLLCGRSSFPYFAHMAFETGGVLRLL
+ALLLLAPLAGLLYYLVSESAGIQVLIFASMAGARVADVEAVARAVLPKFYCSDLHPESWR
+VFSACGRRCVLTANPRIMVEAFLKDYvGADvVLGTELVVWRGRATGLVRSPGVLVGENKA
+AALRqAFGDAAPEvGLGDRKTDYPFMRLCKEGYVVPPTPKLKPVPREDLPKPVIFHDGRI
+VQKPSPALALLTLLWIPIGFVLSCLRIAAGSLLPMRMVYHAFTALGVRVTVKGNPPPPAS
+LETGQTGVLFICSHRTLLDPIFLSTALGRPITAVTYSVSRLSEmLSPIRTVRLTRDRAAD
+AAMIRRLLkEGDLVICPEGTTCREPFLLRFSALFAELTDEIVPVAMENQMSMFHGTTARG
+WKGLDPFYFFMNPSPGYVVTFLNKLPHELTCKGGKTSHEVANYIQRLIASTLSYECTSFT
+RKDKYKALAGNDGSVVSKPNIDKKKFMGS
+
+
+PACMAD CONSENSUS:
+Length: 510 aa
+
+MGEtATVMAGSPFPTVEKCSSsDRaGDTVVADLDGTLLCGRSSFPYFAHMAFETGGVLRL
+LLLIALAPLAGLLYYFVSEPAGIQVLIFASMAGARVADIEAVARAVLPKFYCADLHPESW
+RVFSACGRRCVLTANPRVMVEAFLKEYIGTDVVVGTELVVWRGRATGLVRSPGVLVGEQK
+ADALRrAFGDVAPEVGLGDRKTDYPFMRLCKEGYVVPATPKLKPVPREDLPRPVVFHDGR
+LVQKPSPALALLTVLWIPIGFLLACLRIAAGALLPMRMVYHAFRALGVRVTIKGNPPPPA
+SRETGQTGVLFICSHRTLLDPIFLSTALGRPITAVTYSVSRLSEILSPIRTVRLTRDRAA
+DAAMIRRLLTEGDLVICPEGTTCREPFLLRFSALFAELTDEIVPVAMENQMSMFHGTTAR
+GWKGLDPFYFFMNPSPGYVVTFLNKLPAELTCSGGKSSHEVANYIQRLIASTLSYECTSF
+TRKDKYKALAGNDGTVVSKPNIDKKKVMGC
+
+================================================================================

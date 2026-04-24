@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM015998
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             403.0 aa
+Family Size (Extended Family Size): 20 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR14155:SF614
+Panther Family ID:               PTHR14155
+Modal Panther ID:                PTHR14155:SF614
+Modal Panther Description:       OS08G0484200 PROTEIN
+Modal Panther Family ID:         PTHR14155
+Modal Panther Fam Desc:          RING FINGER DOMAIN-CONTAINING
+Interpro Signature Accession:    G3DSA:3.30.40.10:FF:000187; PTHR14155
+Interpro Signature Description:  E3 ubiquitin-protein ligase ATL6; RING FINGER DOMAIN-CONTAINING
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: E3 ubiquitin-protein ligase ATL6
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: E3 ubiquitin-protein ligase ATL6-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: E3 ubiquitin-protein ligase ATL6-like
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: E3 ubiquitin-protein ligase ATL6-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl08
+  Gene Products: E3 ubiquitin-protein ligase ATL6-like
+  Gene Descriptions: E3 ubiquitin-protein ligase ATL6-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa08
+  Gene Products: E3 ubiquitin-protein ligase ATL6
+  Gene Descriptions: E3 ubiquitin-protein ligase ATL6
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN50
+Pau
+  Gene count: 2
+  Modal chromosome: Pau16
+  Gene Products: E3 ubiquitin-protein ligase ATL31-like; E3 ubiquitin-protein ligase ATL6-like
+  Gene Descriptions: E3 ubiquitin-protein ligase ATL31-like; E3 ubiquitin-protein ligase ATL6-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi06K
+  Gene Products: E3 ubiquitin-protein ligase ATL6-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: E3 ubiquitin-protein ligase ATL6-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: E3 ubiquitin-protein ligase ATL31
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100192844
+  Gene Synonyms: GRMZM2G467187
+  Gene Descriptions: uncharacterized LOC100192844
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 403 aa
+
+MGPtNGRRNRrLLlLaAvALAGAAVDsAAAQtptGpGPSYFNPKNFNPSMAVVMVVLVTA
+FFLLGFFSIYLRRCAGPPLGGPGEYpgAGrRPGGItFASgAARSRRMRGLDRAVLEAFPT
+MAYADVKAHKAGKGALECAVCLSEFDDDDTLRLLPRCSHAFHADCIDAWLASHVTCPVCR
+ANLVPDAeAPAPslAaAaAvtTpEQDvPAAPPQPAQETPTAPPEQVTVVvVDAEETEEER
+IRREEAAELMRIGSVKRALRSKSGRRPAQFPRSHTTGHSLAAPsAAaAEsAERYTLRLPE
+HVLREVVAAGkLRRSASVQAFReGGDGgtTGGrRAGRSVRLGQSGRWPNMSfLARTFSAR
+LPAWGSaRRGEADAPGKGAKVAGDGKAvEQCDGGACPLPGgrV
+
+
+BOP CONSENSUS:
+Length: 401 aa
+
+MNpTRGRRNGgSSfLLVImLVAAAADIAAAQqSGqGPSYFNPQSFNPSMAVIIVVLVTAF
+FFLGFFSIYIRRCAGGPLGGPGEDLGAGpRvGGIaFLTSGAARSRRMRGLDPAALEALPT
+MAYADVKAHKVGKGELECAVCLSEFDDDDTLRLLPKCSHAFHADCIDAWLASHVTCPVCR
+ANLVPGAdAPAPSGAAAASATPErDVvAATSPQPAQETPTAPPEQVTVVItDAEETEEER
+IRREEAAELVRIGSVKRALRSKSGRSPAAQFPRSHTTGHSLAAAPAESAERYTLRLPEHV
+LREVVAAGKLRRTKSLQAFREGRAGGSTRRGSRSVRLGQSGRWPTMSSFLGLTFSAWGSs
+RRGEADAPGKGGAKVAGDGTAAAEQqCDGGACPLPLGGRRV
+
+
+PACMAD CONSENSUS:
+Length: 388 aa
+
+MGPSNGRRLLLLAAVALAGAAVDSVTAQQGPPTGPGPsYFDPKNFNPSMAIVMVVLVTAF
+FLLGFFSIYLRRCAGPPLGGPDEYPaGGRRPGgGItYASRSRRmRGLDRAVLESFPTMAY
+ADVRAHKAGKGALECAVCLSEFDDDETLRLLPRCAHAFHTDCIDAWLASHVTCPVCRAVL
+vPDAEAPApAsAVPAtEQDAPAVPqQPPEQVAVVVAVDAEETEEERIRREEAAELMRIGS
+VKRALRSKSGRRPAQFPRSHTTGHSLAAPSpAAAEdSERYTLRLPEHVLREVVAAGNLRR
+SASVQTGGDGSTRRGFGGARAGRSVRLGNSGRWPNMSlLARTFSARLPAWGSvRRGEADA
+PAKGAKVAGDGKAVEQCDGGACPLGAHV
+
+================================================================================

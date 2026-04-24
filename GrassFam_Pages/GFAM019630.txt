@@ -1,0 +1,140 @@
+================================================================================
+GrassFam ID: GFAM019630
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             546.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12174:SF62
+Panther Family ID:               PTHR12174
+Modal Panther ID:                PTHR12174:SF62
+Modal Panther Description:       SIGNAL PEPTIDE PEPTIDASE-LIKE 5
+Modal Panther Family ID:         PTHR12174
+Modal Panther Fam Desc:          SIGNAL PEPTIDE PEPTIDASE
+Interpro Signature Accession:    G3DSA:3.50.30.30:FF:000007; PTHR12174; PF04258; SM00730
+Interpro Signature Description:  Signal peptide peptidase-like 3; SIGNAL PEPTIDE PEPTIDASE; Signal peptide peptidase; psh_8
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: signal peptide peptidase-like 4
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: signal peptide peptidase-like 4
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: signal peptide peptidase-like 4
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: signal peptide peptidase-like 4
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: signal peptide peptidase-like 4
+  Gene Descriptions: signal peptide peptidase-like 4
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: signal peptide peptidase-like 4
+  Gene Synonyms: OJ1136_C04.4,OsJ_08929,OsSPPL4,SPPL4
+  Gene Descriptions: signal peptide peptidase-like 4
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau05
+  Gene Products: signal peptide peptidase-like 4
+  Gene Descriptions: signal peptide peptidase-like 4
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: signal peptide peptidase-like 4%2C transcript variant X1; signal peptide peptidase-like 4%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: signal peptide peptidase-like 4
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: signal peptide peptidase-like 4
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: signal peptide peptidase-like 4%2C transcript variant X2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 544 aa
+
+MGaGSPEtAAALLLVlAALAGVAAGGDIVHQDDDAPKIPGCSNDFVLVKVQTWVNNREkD
+EFVGVGARFGPkIESKEKHANRTGLLLADPfDCCTPPKEKVAGDVLLVQRGnCKFTTKAK
+VAEsAGASAIIIINdkHELYKMVCDrNETDLDINIPAVLLPKDAGtiLQGLLSsGkVSVQ
+LYSPDRPLVDTAEVFLWLMAVGTILCASYWSAWSAREAdIEQEKLLKDGHESSvNiEAGG
+SSGMVDINMtSAILFVVIASCFLIMLYKLMSHWFVELLVVIFCIGGVEGLQTCLVALLSR
+WFKPAAESFVKVPFFGAVSYLTLAVCPFCIVFAVLWAVYRRMPYAWIGQDILGIALIVTV
+IQIVRIPNLKVGSVLLSCSFLYDIFWVFISKMLFHESVMIVVARGDKTDEDGVPMLLKIP
+RMFDPWGGYSIIGFGDILLPGLLVAFALRYDWAAKKTLQSGYFLWSMVAYGSGLLITYVA
+LNLMDGHGQPALLYIVPFTLGTFIALGkKRGELRNLWTRGQPERVCTHtHHPSPKDSaDa
+VSSv
+
+
+BOP CONSENSUS:
+Length: 546 aa
+
+MGAGARATAAALLLVAAALAGVAAGGDIVHQDDDAPKIPGCSNDFMLVKVQTWVNNRETD
+EFVGVGARFGPIIESKEKHANRTGLLLADPFDCCTPLKEKVAGEVLLVQRGDCKFTTKAK
+VAEDAGASAIIILNNRHELYKMVCDQNETDLDINIPAVLLPKDAGTILQGLLSLGKVSVQ
+LYSPDRPLVDTAEVFLWLMAVGTILGASYWSAWSAREAVIEQEKLLKDGHESSVNIEAGG
+SSGMVDITMTSAMLFIVVASLFLVMLYKLMSHWFVELLVVIFCIGGVEGLQTCLVALLSR
+WFKPAARSFVKVPFFGAVSYLTLAVCPFCIVFAVLWAVYRRMPYAWIGQDVLGIALIVTV
+IQIVRIPNLKVGSVLLGCSFLYDIFWVFISKMLFHESVMIVVARGDNTDEDGVPMLLKIP
+RMFDPWGGYSIIGFGDILLPGLLVAFALRYDWAARKTLQSGYFLWSMVAYGSGLLITYVA
+LNLMDGHGQPALLYIVPFTLGTFISLGKKRGELRNLWMKGQPPRVCTHSHhPsKDSaDSA
+sHVISS
+
+
+PACMAD CONSENSUS:
+Length: 541 aa
+
+MARSsPAVLLLLAALAGVAAAGDIVHQDDEAPKIPGCsNDFVLVKVQTWVNKKEKDEFVG
+VGARFGPKIESKEKHANRTRLLLADPSDCCTPPtEKVAGDILLVERGNCKFTTKAKVAES
+AGASAIIIINDKHELYKMVCEtNETDLDIGIPAVLLPKDAGSKLrrLLSSGEVLVQLYSP
+DRPLVDTAEVFLWLMAVGTILCASYWSAWSAREADIEQEKLLKDGHEIPPNFEAGGSSGM
+VDINMASAILFVVIASCFLITLYRLMSHWFVELLVVIFCIGGVEGLQTCLVALLSMSRRF
+KPAAESFVKVPFFGAVSYLTLAVCPFCIVFAVLWGVYRRLPYAWIGQDILGITLIVTVIQ
+IVRIPNLKVGSALLSCAFLYDIFWVFISKMLFHESVMIVVARGDKTDEDGVPMLLKIPRM
+FDPWGGYSIIGFGDILLPGLLIAFALRYDWAAKKTLQSGYFLWSMVAYGSGLLITYVALN
+LMDGHGQPALLYIVPFTIGTFLALGMKRGELRNLWTRGQPERVCTHTHPSPKDSAVPVSS
+S
+
+================================================================================

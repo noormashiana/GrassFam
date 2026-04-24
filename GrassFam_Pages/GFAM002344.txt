@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM002344
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             411.0 aa
+Family Size (Extended Family Size): 21 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43757:SF6
+Panther Family ID:               PTHR43757
+Modal Panther ID:                PTHR43757:SF6
+Modal Panther Description:       AMINOMETHYLTRANSFERASE
+Modal Panther Family ID:         PTHR43757
+Modal Panther Fam Desc:          AMINOMETHYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:2.40.30.110:FF:000002; G3DSA:4.10.1250.10:FF:000002; G3DSA:3.30.70.1400:FF:000001; G3DSA:3.30.1360.120; G3DSA:2.40.30.110; G3DSA:3.30.70.1400; TIGR00528; NF001567; PTHR43757; PIRSF006487; PF01571; SSF103025; SSF101790
+Interpro Signature Description:  Aminomethyltransferase; Probable tRNA modification gtpase trme; domain 1; -; glycine cleavage system aminomethyltransferase GcvT; AMINOMETHYLTRANSFERASE; GCST; Aminomethyltransferase folate-binding domain; Folate-binding domain; Aminomethyltransferase beta-barrel domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: aminomethyltransferase%2C mitochondrial
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: aminomethyltransferase%2C mitochondrial
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: aminomethyltransferase%2C mitochondrial
+Tae
+  Gene count: 4
+  Modal chromosome: Tae02B
+  Gene Products: aminomethyltransferase%2C mitochondrial-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: aminomethyltransferase%2C mitochondrial
+  Gene Descriptions: aminomethyltransferase%2C mitochondrial
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: aminomethyltransferase%2C mitochondrial
+  Gene Descriptions: aminomethyltransferase%2C mitochondrial
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: aminomethyltransferase%2C mitochondrial-like
+  Gene Descriptions: aminomethyltransferase%2C mitochondrial-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: aminomethyltransferase%2C mitochondrial-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: aminomethyltransferase%2C mitochondrial
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: aminomethyltransferase%2C mitochondrial
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: uncharacterized LOC100279332
+  Gene Synonyms: CL371_1,GRMZM5G876898,IDP232,IDP577
+  Gene Descriptions: uncharacterized LOC100279332
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 411 aa
+
+MRGLLACATLARRAAasSGAAPARVRHLAGAAEAAEAELKKTALYDFHVAHGGKMVPFAG
+WSMPIQYKDSIMDSTVNCRANGSLFDVAHMCGLSLkGRQAIPFLESLVVADVAALKDGTG
+TLTVFTNEKGGAIDDSVVTKVTDQHIYLVVNAGCRDKDLAHIGAHMEAFNKKGGDVKWHI
+HDERSLLALQGPLAAPTLQLLTKEDLSKMYFSDFKMIDINGYACFLTRTGYTGEDGFEIS
+VPSENAVDLAKAILEKSEGKVRLTGLGARDSLRLEAGLCLYGNDMEQHITPVEAGLSWAI
+GKRRRAEGGFLGADVILKQLQEGPKIRRVGMFTQGPPARSHSEIVSsSGENIGEVTSGGF
+SPCLKKNIAMGYVKSGLHKAGTEFKVVVRGKSYDAVVTKMPFVPTKYYKPS
+
+
+BOP CONSENSUS:
+Length: 413 aa
+
+MRGLLACATLARRAAAASSTGAStAARRHLAGAAEAAEAELKKTALYDFHVAHGGKMVPF
+AGWSMPIQYKDTIMDSTLNCRANGSLFDVSHMCGLSLqGRQAIPFLESLVVADVAALKDG
+TGSLTVFTNDKGGAIDDSVVTKVTDhHVYLVVNAGCRDKDLAHIGAHMEAFQKKGGDVKW
+HVHDERSLLALQGPLAAPTLQLLTKEDLSKMYFSDFKMIDINGSACFLTRTGYTGEDGFE
+ISVPSENAVDLAKALLEKSEGKVRLTGLGARDSLRLEAGLCLYGNDMEQHITPVEAGLSW
+AIGKRRKAEGGFLGAEVILKQLKEGPKIRRVGIFSQGPPPRSHSEIVSGtGENIGEVTSG
+GFSPCLKKNIAMGYVKNGLHKAGTEFKVVVRGKSYDAVVTKMPFVPTKYYKAP
+
+
+PACMAD CONSENSUS:
+Length: 409 aa
+
+MRGLLACATLARRAAsgAAPARVRHLAGAAEAAEAELKKTALYDFHVANGGKMVPFAGWS
+MPIQYKDSIMDSTVNCRTNGSLFDVAHMCGLSLKGRGAIPFLESLVIADVAGLRDGTGTL
+TVFTNEKGGAIDDSVVTKVTDQHIYLVVNAGCRDKDLAHIEAHMEAFNKKGGDVKWHIHD
+ERSLLALQGPLAAPTLQLLTKEDLSKMYFSDFKMIDINGYACFLTRTGYTGEDGFEISVP
+SENAVDLAKAILEKSEGKVRLTGLGARDSLRLEAGLCLYGNDMEQHITPVEAGLSWAIGK
+RRRAEGGFLGADVILKQLQEGPKIRRVGMITQGPPARSHSELVSSSGEnIGEVTSGGFSP
+CLKKNIAMGYVKSGLHKAGTEFKVVVRGKSYDAVVTKMPFVPTKYYKPS
+
+================================================================================

@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM005007
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             494.0 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31636:SF7
+Panther Family ID:               PTHR31636
+Modal Panther ID:                PTHR31636:SF7
+Modal Panther Description:       PROTEIN SLENDER RICE1-LIKE 1
+Modal Panther Family ID:         PTHR31636
+Modal Panther Fam Desc:          OSJNBA0084A10.13 PROTEIN-RELATED
+Interpro Signature Accession:    PTHR31636; PF03514
+Interpro Signature Description:  OSJNBA0084A10.13 PROTEIN-RELATED; GRAS domain family
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: DELLA protein SLR1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: DELLA protein SLN1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: DELLA protein SLN1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: DELLA protein GAI-like; DELLA protein SLN1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: protein SLENDER RICE1-LIKE 1
+  Gene Descriptions: protein SLENDER RICE1-LIKE 1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: DELLA protein SLN1
+  Gene Synonyms: SLRL1
+  Gene Descriptions: DELLA protein SLN1
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: protein SLENDER RICE1-LIKE 1-like
+  Gene Descriptions: protein SLENDER RICE1-LIKE 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: DELLA protein SLN1-like; DELLA protein SLR1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: DELLA protein DWARF8-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: DELLA protein DWARF8
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: DELLA protein SLN1-like
+  Gene Synonyms: GRMZM2G001426
+  Gene Descriptions: DELLA protein SLN1-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 473 aa
+
+MAMGtFPFQWPMDPAdsGLDgPslLPPLPTvVPDDGVAYYAAAADMHAaaLPDLAFPSRD
+AvAALLAMRREEEEAAGIRLVHLLMSCAGAVEAGDHALASAHLADAHAALAAVSpASGIG
+RVAVHFTAALSRRLFpSPTPSPPPpaDADHAFLYHHFYEACPYLKFAHFTANQAILEAVQ
+GCDHVHVIDFSLMQGLQWPALIQALALRPGGPPFLRITGIGPPSPPGRDDLRDVGLRLAD
+LARSVRVRFSFRGVAANRLDEVRPWMLQVAQGEAVAVNSVLQLHRLLADPaDrAPIDAVL
+DCVASLRPKVFTVVEQEADHNKPGFLDRFTEALFYYSAVFDSLDAASGGAGdAMAEAYLQ
+REICDIVCGEGAARRERHEPLSRWRDRLGRAGLSAVPLGANALRQARMLVGLFSGEGHCV
+EEAEGCLTLGWHGRPLFSASAWRAAEENNqSdNSNasGSSGSGGEESNNSCSS
+
+
+BOP CONSENSUS:
+Length: 499 aa
+
+MAMGTFPFQWPMDPAPpPSGLDGSLLPSLLPPPPApVPDDGAAYYAAADMqASSMPELAP
+PFPSRDAVAAELAMRRAEEEVAGIRLVHLLMSCAGAVEAGDHALAAAHLADANASLAAVS
+TASGIGRVAVHFTDALSRRLFRSPtTPPATDAEHAFLYHHFYEACPYLKFAHFTANQAIL
+EAFHGCDSVHVIDFSLMQGLQWPALIQALALRPGGPPFLRITGIGPPSPPGRDELRDVGL
+RLADLARSVRVRFSFRGVAANSLDEVHPWMLQIAPGEAVAVNSVLQLHRLLADPADQAPI
+DAVLDCVASLQPKIFTVVEQEADHNKPGFLDRFTEALFYYSAVFDSLDAASANGTGNAMA
+EAYLQREICDIVCNEGtARMERHEPLSRWRDRLGRAGLSAVPLGASALRQARMLVGLFSG
+EGHSVEEAEGCLTLGWHGRPLFSASAWRAAgVGGDADEDNHTSNNSNFSGSSGGGSDSNN
+SSSSNGKCSGVVGASNMFL
+
+
+PACMAD CONSENSUS:
+Length: 468 aa
+
+MAMGGAFPFQWPEPADPGLDDVtLPPLPTVVPDAGVAYYAAAADMHAMQhALPDFAAALA
+AMRREEEEAAGIRLVHLLMSCAGAVEAGDHAGASAHLADAHAALAAVSPASGIGRVAVHF
+TAALSRRLFPPTPSPPPPPAAADADHAFLYHRFYEAGPYLKFAHFTANQAILEAVQGCRH
+VHIIDFSLMQGLQWPALIQALALRPGGPPFLRLTGIGPPSPPGRDDLRDVGVRLADLARS
+VRVHFSFRGVAANRLDEVRPWMLQVSQGEAVAVNSVLQLHRLLADPPAADARAPIDAVLD
+CVASVRPRVFTVVEQEADHNKPGFLDRFTEALFYYSAVFDSLDAASGGAGDAAAEAYLER
+EICDIVCGEGADRRERHEPLRRWRDRLGRAGLAAVPLGANALRQARMLVGLFSGEGHCVE
+EAEGCLTLGWHGRPLFSASAWRAEENNQSDSNADGSSGSEESNISCSS
+
+================================================================================

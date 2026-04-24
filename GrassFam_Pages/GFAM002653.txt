@@ -1,0 +1,108 @@
+================================================================================
+GrassFam ID: GFAM002653
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             496.0 aa
+Family Size (Extended Family Size): 24 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24281:SF269
+Panther Family ID:               PTHR24281
+Modal Panther ID:                PTHR24281:SF269
+Modal Panther Description:       CYTOCHROME P450
+Modal Panther Family ID:         PTHR24281
+Modal Panther Fam Desc:          STEROID 21-HYDROXYLASE-RELATED
+Interpro Signature Accession:    G3DSA:1.10.630.10; PTHR47950; PR00463; PF00067; SSF48264
+Interpro Signature Description:  Cytochrome P450; CYTOCHROME P450, FAMILY 76, SUBFAMILY C, POLYPEPTIDE 5-RELATED; E-class P450 group I signature
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: cytochrome P450 76M5-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: oryzalexin E synthase-like
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: cytochrome P450 76M5-like; oryzalexin E synthase-like
+Ecu
+  Gene count: 8
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau21
+  Gene Products: oryzalexin E synthase-like
+  Gene Descriptions: oryzalexin E synthase-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: cytochrome P450 76M5-like
+Msi
+  Gene count: 5
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: cytochrome P450 76M5
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 507 aa
+
+MgFsaLLACmavvTLiTIHVvcvLlKqkRKRSsaSlPLPPGPaGLPLlGNLLYFIGPLRr
+NPHRvLArLAqTYGPIvSFRlGlTrtFVVVSSPAAAHEALAkNDAALAARLVPDtVRAms
+YgaTSMVFLPSSnpLWKQHRVtIGAhFSSGRGLDtIRPIRERHARqLAEhvRACSGrPVi
+IREAVNGTVLNVVSNILFSEDVVDLRvqGgQpFKGLvVpVLEEWSKPNVSDAFPFLAPLD
+HLLGSRRRISrHLAKLFKFFDeEIIERRLArtsGEkHnDlLDvLLaRHAkSKLTRQEITT
+FLTDMFIAASDTSTVTVQWAMAqLLRHPDKMkKVRAELAAcLGSKDFVeESDLdKLPYLH
+AVVKETLRLHPavPLIPREVVADGVSLGGFpVPiGTGVvVNLWAIGRDPtVWPqPEEFVP
+ERFLggqaVHFrGkdDFAYRPFGAGRRVCPGMDYAARSVPLLLASLLHKiEWRLPDGMAP
+EDvDLrDRYgTVLnLATPLRAVPVStV
+
+
+BOP CONSENSUS:
+Length: 514 aa
+
+MWFLALLACVTTLITIHvVHILHKHsRKRVSPPwPPGPAGHPILGNLLYVIGPLRNNPHT
+ALASLAQTYGPILSLRLGLTRTIVVVSSAAAAHEALAKNDAALASRLVPDTVHAMSYGAT
+SMVFLPSSNPLWKQDRVIMGARFSSGRGLDTIRPILECHAGHLTEYLRACSRTGMPVIIR
+EAVNRTVLNVISNILFSEDVVDLsAPGAQPFRGLIVPVLEEWSKSNVSDAFPFLAPIDHL
+LGSRRRISIHLAKLFNFFDQEIVQRRLARTGTGTGSEKNNDVLDILLeRHAMSKLTRQEI
+ITFLTDMFIAASDTSTVTVQWAMAQLLRHPEKMkKVRNELAACLGVGSSDFVKESDLDNL
+PYLHAVVKETLRLHPAVPLIPREVAADGVSLGGFPIPIGTGVVVNLWAIGRDPTVWPQPN
+KFVPERFLAAGAGEAVHFQGKDDYTYRPFGAGRRVCPGMDYALRSVPLLLASLVHKTEWR
+LPDGMAPEDIDLnDRYGTVLNLATPLRAVPVSTV
+
+
+PACMAD CONSENSUS:
+Length: 502 aa
+
+MgFsmLLACsvlTLfTIHVlcVllKqKRkRSsaSLPLPPGPvGLPLlGNaLYFIGPLRrN
+PHRvLARLAkTYGPIvSFRlGmtgtFVVVSSPAAAREALvkNDAALAARLVPDnVRALAY
+ssTSMlFLPSSdpLWKQHRVtIGAhFSSGRGLDrTRPIRDRHARQLAEHvRAcSGRPVaI
+GEAVnGTVLNVVSNILFSEDVVDlRvQgGQyFKgLvvaVLEeWskPNVSDAFPFLAPLDL
+LGSRRRISRhLAKLYKFFDEeiIErRLgSGEnHgDLLDVLLARHAKSkLTRsEITKFFTD
+MFIAASDTStiTVQWAMAlLLRHPDKMkKVrAELAAsLGSKdFVEESDLdKLPYLHAVVK
+ETLRLhPpaPLiPREVVADGVSLGGFpVPvGTgVLVNLWAIGRDPtAWPePEEFvPERFL
+GgqvVhFRGpdFAYRPFGAGRRVCPGMDfAARLVPLLLASILHKiEWrLPDGMAPEDVDL
+RDRYstVLeLATPLrAVPVStv
+
+================================================================================

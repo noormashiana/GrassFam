@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM012090
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             344.0 aa
+Family Size (Extended Family Size): 27 (28) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR44068:SF3
+Panther Family ID:               PTHR44068
+Modal Panther ID:                PTHR44068:SF3
+Modal Panther Description:       METHYLTRANSFERASE
+Modal Panther Family ID:         PTHR44068
+Modal Panther Fam Desc:          ZGC:194242
+Interpro Signature Accession:    G3DSA:3.40.50.150:FF:000161; G3DSA:3.40.50.150; PTHR44068; PF08498; SSF53335
+Interpro Signature Description:  Methyltransferase; Vaccinia Virus protein VP39; ZGC:194242; Sterol methyltransferase C-terminal; S-adenosyl-L-methionine-dependent methyltransferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: cycloartenol-C-24-methyltransferase 1%2C transcript variant X2; cycloartenol-C-24-methyltransferase 1%2C transcript variant X3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: cycloartenol-C-24-methyltransferase 1%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: cycloartenol-C-24-methyltransferase 1%2C transcript variant X3
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04B
+  Gene Products: cycloartenol-C-24-methyltransferase 1; cycloartenol-C-24-methyltransferase 1%2C transcript variant X3; cycloartenol-C-24-methyltransferase 1-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: cycloartenol-C-24-methyltransferase 1
+  Gene Descriptions: cycloartenol-C-24-methyltransferase 1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: cycloartenol-C-24-methyltransferase 1-like
+  Gene Synonyms: OJ1119_B04.19-1,Smt1-1
+  Gene Descriptions: cycloartenol-C-24-methyltransferase 1-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 2
+  Modal chromosome: Pau14
+  Gene Products: cycloartenol-C-24-methyltransferase 1%2C transcript variant X1; cycloartenol-C-24-methyltransferase 1-like
+  Gene Descriptions: cycloartenol-C-24-methyltransferase 1; cycloartenol-C-24-methyltransferase 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: cycloartenol-C-24-methyltransferase 1; cycloartenol-C-24-methyltransferase 1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: cycloartenol-C-24-methyltransferase 1
+Msi
+  Gene count: 5
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi02
+  Gene Products: cycloartenol-C-24-methyltransferase 1%2C transcript variant X1; cycloartenol-C-24-methyltransferase 1%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: (S)-adenosyl-L-methionine:delta 24-sterol methyltransferase%2C transcript variant X1
+  Gene Synonyms: ESMT1,GRMZM2G122810,SMT,smt1
+  Gene Descriptions: (S)-adenosyl-L-methionine:delta 24-sterol methyltransferase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 344 aa
+
+MSKSGALDLASGLGGKIdKEEVKSAVDEYEKYHGYYGGKEEARKSNYTDMVNKYYDLATS
+FYEYGWGESFHFAHRWNGESLRESIKRHEHFLALQLGLKPGMKVLDVGCGIGGPLREIAR
+FSSTSVTGLNNNEYQITRGKELNRLAGvSGTCDFVKADFMKMPFSDNTFDAVYAIEATCH
+APDPVGCYKEIYRVLKPGQCFAVYEWCITDHYDPNNATHKRIKDEIELGNGLPDIRSTRQ
+CLQAVKDAGFEVVWDKDLAEDSPLPWYLPLDPSRFSLSSFRLTSVGRMITRTMVKALEYV
+GLAPQGSERVSNFLEKAAEGLVEGGKKEIFTPMYFFLVRKPLSE
+
+
+BOP CONSENSUS:
+Length: 344 aa
+
+MSKSGALDLASGLGGKITKEEVKSAVDEYEKYHGYYGGKEESRKSNYTDMVNKYYDLATS
+FYEYGWGESFHFAHRWNGESLRESIKRHEHFLALQLELKPGMKVLDVGCGIGGPLREIAR
+FSSTSVTGLNNNDYQITRGKELNRsAGLSGTCDFVKADFMKMPFSDNTFDAVYAIEATCH
+APDPVGCYKEIYRVLKPGQCFAVYEWCITDHYDPNNATHKRIKDEIELGNGLPDIRSTRQ
+CLQAVKDAGFEVIWDKDLAEDSPLPWYLPLDPSRFSLSSFRLTTVGRiITRNMVKALEYV
+GLAPQGSQRVSSFLEKAAEGLVEGGKKEIFTPMYFFVVRKPLSE
+
+
+PACMAD CONSENSUS:
+Length: 344 aa
+
+MSKsGALDLASGLGGKINKEEVKSAVDEYEKYHGYYGGKEEARKSNYTDMVNKYYDLATS
+FYEYGWGESFHFAHRWNGESLRESIKRHEHFLALQLGLKPGMKVLDVGCGIGGPLREIAR
+FSSTSVTGLNNNEYQITRGKELNRLAGVSGTCDFVKADFMKMPFDDNTFDAVYAIEATCH
+APDPVGCYKEIYRVLKPGQCFAVYEWCITDHYDPNNATHKRIKDEIELGNGLPDIRSTRQ
+CLQAVKDAGFEVVWDKDLAEDSPLPWYLPLDPSRFSLSSFRLTSVGRMITRTMVKALEYV
+GLAPQGSERVSNFLEKAAEGLVEGGKKEIFTPMYFFLVRKPLSE
+
+================================================================================

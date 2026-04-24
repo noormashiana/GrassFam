@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM011775
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             374.0 aa
+Family Size (Extended Family Size): 29 (29) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR27006:SF582
+Panther Family ID:               PTHR27006
+Modal Panther ID:                PTHR27006:SF582
+Modal Panther Description:       LRR RECEPTOR-LIKE SERINE_THREONINE-PROTEIN KINASE
+Modal Panther Family ID:         PTHR27006
+Modal Panther Fam Desc:          PROMASTIGOTE SURFACE ANTIGEN PROTEIN PSA
+Interpro Signature Accession:    cd14066; G3DSA:1.10.510.10:FF:000044; G3DSA:3.30.200.20:FF:000225; G3DSA:1.10.510.10; G3DSA:3.30.200.20; PTHR47973; PF00069; SM00220; SSF56112
+Interpro Signature Description:  STKc_IRAK; Putative LRR receptor-like serine/threonine-protein kinase; cold-responsive protein kinase 1; Transferase(Phosphotransferase) domain 1; Phosphorylase Kinase; domain 1; CYSTEINE-RICH RECEPTOR-LIKE PROTEIN KINASE 3; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi02
+  Gene Products: cold-responsive protein kinase 1; putative serine/threonine-protein kinase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu02H
+  Gene Products: cold-responsive protein kinase 1-like; putative serine/threonine-protein kinase%2C transcript variant X1
+Ata
+  Gene count: 2
+  Modal chromosome: Ata02D
+  Gene Products: cold-responsive protein kinase 1%2C transcript variant X1; putative serine/threonine-protein kinase
+Tae
+  Gene count: 6
+  Modal chromosome: Tae02A
+  Gene Products: cold-responsive protein kinase 1-like; putative serine/threonine-protein kinase%2C transcript variant X1; putative serine/threonine-protein kinase%2C transcript variant X2
+Ola
+  Gene count: 2
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: cold-responsive protein kinase 1-like
+  Gene Descriptions: cold-responsive protein kinase 1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: cold-responsive protein kinase 1
+  Gene Descriptions: cold-responsive protein kinase 1
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: cold-responsive protein kinase 1-like; cold-responsive protein kinase 1-like%2C transcript variant X3
+  Gene Descriptions: cold-responsive protein kinase 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: cold-responsive protein kinase 1-like%2C transcript variant X2; cold-responsive protein kinase 1-like%2C transcript variant X3
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: cold-responsive protein kinase 1-like%2C transcript variant X2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: putative serine/threonine-protein kinase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: uncharacterized LOC100284690
+  Gene Synonyms: GRMZM2G018595,pco116834
+  Gene Descriptions: uncharacterized LOC100284690
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 373 aa
+
+MSWCCLPRsKKQENPYSHSIGGIYSEKNIRLFSYAELRSATDNFNRTNKVGRGGFGTVYK
+GTIRNGREVAVKVLSAESRQGIREFLTEIDVISNVKHPNLVELIGCCVEGNNRILVYEYL
+ENSSLDRALLGSNSEPANFTWSIRSAICiGVARGLAYLHEEIASPIVHRDIKASNILLDK
+NYvPKIGDFGLAKLFPDNITHISTRVAGTTGYLAPEYAWHGQLTKKADIYSFGVLVLEIV
+SGkSSSRSLLADDKiLLEKTWELYEAGKLKELVDPdLGDYPEEEVIRYIKVALFCTQAAA
+ARRPSMPQVVTMLSKPIRINESELTAPGYIHEYnStVSKATtSSnSRFKNSASEDSNMFS
+TVVPPTVTEMSPR
+
+
+BOP CONSENSUS:
+Length: 373 aa
+
+MSWCCLPRSKKQQNLYSHSISGISAEKNIRLFSYSQLRSATDNFNRNNKVGRGGFGTVYK
+GTIRNKQDVAVKVLSAESRQGIREFLTEIDVISNVKHPNLVELIGCCVEGDNRILVYEYL
+ENSSLDRALLGSNSEPANFTWSIRSSICIGVARGLAYLHEEIPSPIVHRDIKASNILIDK
+NYVPKIGDFGLAKLFPDNITHISTRVAGTTGYLAPEYAWHGQLTKKADIYSFGVLVIEIV
+SGKSGSRSLLADDKFLLEKTWELYEAGKLKELVDPDLGDYPDEEAIRYIKVALFCTQAAA
+ARRPSMLQVVKMLSKPIRINERELTAPGYIsEYNSgVSKATASSDSRFKNSTADDSDMFS
+TVVPQTVTDISPR
+
+
+PACMAD CONSENSUS:
+Length: 373 aa
+
+MNWCCLPRsKKeENPYSNSIGGIYSEKNIRLFSYAELRSATDNFNRTNKVGRGGFGTVYK
+GTIRNGREVAVKVLSAESRQGIREFLTEIDVISNVKHPNLVELIGCCVEGNNRILVYEYL
+KNSSLDRALLGSNSEPADFTWSIRSAICLGVARGLAYLHEEIASPIVHRDIKASNILLDK
+NYIPKIGDFGLAKLFPDNVTHISTRVAGTTGYLAPEYAWHGQLTKKADIYSFGVLVLEIV
+SGTSSSRSILaDDKILLEKTWELYEAKRLKELVDPALGDYPEEEVIRYIKVALFCIQAAA
+ARRPSMPQVVTMLSKPIRINESELTAPGYIHEYRSnVSKATTSSNSRFKHSASEDSNMFS
+TVVPPTVTEMSPR
+
+================================================================================

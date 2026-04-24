@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM010177
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             504.5 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10457:SF28
+Panther Family ID:               PTHR10457
+Modal Panther ID:                PTHR10457:SF28
+Modal Panther Description:       GALACTOKINASE
+Modal Panther Family ID:         PTHR10457
+Modal Panther Fam Desc:          MEVALONATE KINASE/GALACTOKINASE
+Interpro Signature Accession:    G3DSA:1.20.1440.340:FF:000002; G3DSA:3.30.230.10:FF:000046; G3DSA:1.20.1440.340; G3DSA:3.30.70.3170; G3DSA:3.30.230.10; TIGR00131; PTHR10457; PIRSF000530; PR00959; SSF54211; SSF55060
+Interpro Signature Description:  Galactokinase; galactokinase-like isoform X1; -; galactokinase; MEVALONATE KINASE/GALACTOKINASE; Mevalonate kinase family signature; Ribosomal protein S5 domain 2-like; GHMP Kinase, C-terminal domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: galactokinase%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: galactokinase
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: galactokinase
+Tae
+  Gene count: 4
+  Modal chromosome: Tae04A
+  Gene Products: galactokinase-like; galactokinase-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: galactokinase
+  Gene Descriptions: galactokinase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: galactokinase
+  Gene Descriptions: galactokinase
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau03
+  Gene Products: galactokinase
+  Gene Descriptions: galactokinase
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: galactokinase-like; galactokinase-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: galactokinase
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: galactokinase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100284953
+  Gene Synonyms: GRMZM2G458549,pco060326
+  Gene Descriptions: uncharacterized LOC100284953
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 503 aa
+
+MAqLPgGgvaAeEAELVPTLSSLEPVYGaGSQLDEARLRFARLGDRFhAVYGARPALFAR
+SPGRVNLIGEHIDYEGYSVLPMAIRQDMIVAIRRADGGQVRVANVDDKYPvCVYPADPDK
+EIDIKNHKWGHYFMCGYKGVYEYCRSKGIDlGkPVALDVVVDGTVPQGSGLSSSAAFVCS
+ATIAIMGVLEKNFPKKEVAQFTCLSERHIGTQSGGMDQAISIMAKPGFAELIDFNPIHAT
+DVQLPpGGTFVIAHCLAESKKAETAATNYNNRVVECRLAAIVLAIKLGMDTKKAVSSVTT
+LSDVEGLCVSFAGKEGSSDPGVAVKKLLHEEPYTaEEIEKITGESLTSVFQSSQTSLDVI
+KAAKHYKLFQRAsHVYSEARRVYAFRDTVSSKLSEEDMLKKLGDLMNESHYSCSVLYECS
+CPELEELVKVCRDNGALGARLTGAGWGGCAVALVKEPIVPQFILNLKEMYYKSRIDRGVI
+kQsDLGLYVFASKPSSGAAILKL
+
+
+BOP CONSENSUS:
+Length: 504 aa
+
+mAkVVPGGGvDAAEeELVPTLSSLEPVYGAGSpLDEARLRFARLADRFRAVYAARPALFA
+RSPGRVNLIGEHIDYEGYSVLPMAIRQDMIVAIRRADGGlVRVANVDDKYPTCVYPADPD
+KEIDIKNHKWGHYFMCGYKGVYEYARSKGIDMGEPVALDVVVDGTVPQGSGLSSSAAFVC
+SATIAIMGILGKNFPKKEVAQFTCQSERHIGTQSGGMDQAISIMAKPGFAELIDFNPIKA
+TDVQLPSGGTFVIAHCLAESKKAETAATNYNNRVVECRLAAIVLAIKLGMDTKKAVSSVT
+TLSDVEGLCVSFAGKEGSSDPGVAVKKLLHEEPYTTEEIEKITGQSLASVFQSSQTSLDV
+LRAAKHFKLFQRASHVYSEARRVYAFRDTVLSKLSDEDMLKKLGDLMNDSHYSCSVLYEC
+SCPELEELVKVCRDNGALGARLTGAGWGGCAVALVKEGIVPQFILNLKEKYYKSRIDRGV
+IKQSDLGLYVFASKPSSGAAILKL
+
+
+PACMAD CONSENSUS:
+Length: 502 aa
+
+MAQLPsgsPAeEAELVPTLSSLEPVYGEGSQLDEARLRFARLGDRFhAVYGARPALFARS
+PGRVNLIGEHIDYEGYSVLPMAIRQDMIVAIRKADGGQVRVANVDDKYPVCVYPADPDKE
+IDIKNHKWGHYFMCGYKGVYEYCRSKGIDLGKPVALDVVVDGTVPQGSGLSSSAAFVCSA
+TIAIMGVLEKNFPKKEVAQFTCLSERHIGTQSGGMDQAISIMAKPGFAELIDFNPIHATD
+VQLPpGGTFVIAHCLAESKKAETAATNYNNRVVECRLAAIVLAIKLGMDTKKAVSSVTTL
+SDVEGLCVSFAGNEGSSDPGVAVKKLLHEEPYTAEEIEKITGESLTSVFQSSQTSLDVIK
+AAKHYKLFQRATHVYSEARRVYAFRDTVSSKLSEEDKLKKLGDLMNESHYSCSVLYECSC
+PELEELVKVCRDNGALGARLTGAGWGGCAVALVKEPIVPQFILNLKEMYYKSRIDRGVIq
+QtDLGLYVFASKPSSGAAIFKL
+
+================================================================================

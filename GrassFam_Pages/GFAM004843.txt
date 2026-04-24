@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM004843
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             612.0 aa
+Family Size (Extended Family Size): 19 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45743:SF27
+Panther Family ID:               PTHR45743
+Modal Panther ID:                PTHR45743:SF27
+Modal Panther Description:       POTASSIUM CHANNEL KAT3
+Modal Panther Family ID:         PTHR45743
+Modal Panther Fam Desc:          POTASSIUM CHANNEL AKT1
+Interpro Signature Accession:    G3DSA:2.60.120.10:FF:000074; G3DSA:1.10.287.70:FF:000123; G3DSA:1.10.287.70; G3DSA:2.60.120.10; PTHR45743; PF00520; SSF81324; SSF51206
+Interpro Signature Description:  Potassium channel KAT2; Potassium channel KAT3; -; Jelly Rolls; POTASSIUM CHANNEL AKT1; Ion transport protein; Voltage-gated potassium channels; cAMP-binding domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: potassium channel KAT4
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: potassium channel KAT6
+Tae
+  Gene count: 2
+  Modal chromosome: Tae03A
+  Gene Products: potassium channel KAT6-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl01
+  Gene Products: potassium channel KAT4; potassium channel KAT6
+  Gene Descriptions: potassium channel KAT4; potassium channel KAT6
+Osa
+  Gene count: 2
+  Modal chromosome: Osa01
+  Gene Products: potassium channel KAT4; potassium channel KAT6
+  Gene Descriptions: potassium channel KAT4; potassium channel KAT6
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau02
+  Gene Products: potassium channel KAT4
+  Gene Descriptions: potassium channel KAT4
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi05N
+  Gene Products: potassium channel KAT4-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: potassium channel KAT4-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: potassium channel KAT4
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: potassium channel KAT4
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 618 aa
+
+MARrGstsESwtLPaanngsggvSgeLLPAFGEasPpLrpNVINPYdCrYRWWQmFLIVL
+VLYSAWASPFELALEKAAStALLVVDLVVDVFFAvDIAVSFFVAYrDRSTnLLVDDRrKI
+ATRYLTRPWFAMDVASTIPLQIIYrLVSGKStGpfGFLNLLRLWRLRRVSKLFARLEKDI
+RFsYFWTRLIKLlcVTLFALHsAACIYLWMAFHYRdKEhTWIGSQVrDFkDRSVWfgYTY
+AVYWSITTLATVGYGDLHAANtGEMlFsIcFMLFNmGLTSYIIGNMTNLVVHAATNTFKM
+RDMVrRVStFGSvNRLPvemREQMMASvQLRFnTaEvLQQElLSeLPKAlRSgIAQHLFr
+dTVEsCYLFQGVSDnLVVQLVSEMKAEYFPPKADIVLENEtSTDCYIIVSGqVDVLtTAd
+DGTEKfVMKIGPHGMAGEIGVMFNIPQPFTIRSRRLTQVVRISHSHLLQtvRPNTADADT
+VFSNFVQYLeSLKVqVAeDaaFvREIlSDTdqLqNGarmVlgqaArfGtEqHEETAPkML
+PRRePiRVVIHEqfPdGTekArNRAaGKLVcLPDSLQELMKlaEaKFGKAARrVLTVDGA
+EVDDIrVLRDGDHLFLSW
+
+
+BOP CONSENSUS:
+Length: 601 aa
+
+MsRQGSsSsrMLPvtnIpmsaSrshLrPAFGeASPPLRPNVINPygcsYRWWQMFLIVLV
+LYSAWASPFELAmEKAASrALLVvDLVVDVFFAaDIAVSFFVAYRDrSTgLLVDDRkKIA
+vRYLTRPwFVLDVASTIPLQIIYQLVrGKRNGPCGFLiLLRLWRLRRVSKLFARLEKDIR
+FSYFWTRLIKLlCVTLFALHCASCIYLWMAFHYRvKEqTWIGSQrhDFKDRSVWFcYTYA
+VYWSITTLATVGYGDLHAANTGEMLFSIlFMLFNMGLTSYIIGNMTNLVVHgtTTTFrMR
+DMVdRVSrFGkmNRLPvwMREQMmESVQLRFrtaEqLQQEVLSELPKAVRSgIAQHLFKA
+tVESCYLFQGVSDnLVVQLVSEMKAEFFPPKmDIVLENEnPTDCYIIVSGQVEVLTTLkD
+GTEKFVMRIGPHGMAGEIGVMFNIPQPFTIRSRtLTQVVRISHSHLlqTVRPNTADGDTv
+FSNFVQYLESLKVraEEvAFvRDLGHDdPLQNGyStVSKEAAMLPCkEPiRVVIHEQLPn
+GtstAlNrSaGKLVcLPgSLQELMKLGEkKFGKAARgVLTAdGAEVEDIRAlRDGDHLFF
+S
+
+
+PACMAD CONSENSUS:
+Length: 633 aa
+
+MARPagaEgESWTLPAaNNGSRGVSGELLPAFGEPFPPSVGNNIINPYDCRYRWWQGFLI
+VLVLYSAWASPFELALERAATTPLLVVDLVVDVFFAVDIAVSFFVAYFDRSANLFVDDRR
+KIATRYLTRPWFAMDVASTIPFHVIYRLVSGRSTGFRYLNLLRLWRLRRVSKLFARLEKD
+IRFNYFYTRLIKLiGVTLFALHSSACIFLWMAFHHrDKEHTWLGSQVRDFtDRSVWVGYT
+YAVYWSITTLATVGYGDLHAVNPGEMVFATCYMLFNIGLTSYIIGNMTNLVVHAATNTFK
+MRDMVRRVSTFGSVNRLPRELREQMMASAQLRFNTGEVIQQQLLSDLPRALRSGVAQHLF
+RDTVQRCYLFQGVSDgLVVQLVSEMrAEYFPPKADIVLQNETSTDCYIIVSGAVDVLATA
+DDGTEKLVMKvGPHGMAGEMGVIFGVPQPFTVRSRRLTQVVRISHSHLLQILRPNTADAD
+TVYANFVQYLKSLKEQVAADAPFFREILSkTGMDELQNGAIFQrQLqNGARmVrdQNARL
+GTEQHEETAPNMLPRRQhKpRVVIHDrFPGDGTEKtRNRAGGKLVCLPDSLQELMKVAEA
+KFGKAVRRVLTVDGAEVDDVAVLRDGDHLVLCW
+
+================================================================================

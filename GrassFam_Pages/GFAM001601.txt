@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM001601
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             461.0 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45637:SF4
+Panther Family ID:               PTHR45637
+Modal Panther ID:                PTHR45637:SF4
+Modal Panther Description:       OS03G0642300 PROTEIN
+Modal Panther Family ID:         PTHR45637
+Modal Panther Fam Desc:          FLIPPASE KINASE 1-RELATED
+Interpro Signature Accession:    G3DSA:1.10.510.10:FF:000020; G3DSA:1.10.510.10:FF:000277; G3DSA:3.30.200.20:FF:000351; G3DSA:1.10.510.10; G3DSA:3.30.200.20; PTHR45637; PF00069; SM00220; SSF56112
+Interpro Signature Description:  serine/threonine-protein kinase D6PK-like; protein kinase PINOID; protein kinase PINOID 2; Transferase(Phosphotransferase) domain 1; Phosphorylase Kinase; domain 1; FLIPPASE KINASE 1-RELATED; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: protein kinase PINOID
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: protein kinase PINOID-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: protein kinase PINOID
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: protein kinase PINOID-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: protein kinase PINOID-like
+  Gene Descriptions: protein kinase PINOID-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: protein kinase PINOID-like
+  Gene Descriptions: protein kinase PINOID-like
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN251
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: protein kinase PINOID-like
+  Gene Descriptions: protein kinase PINOID-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: protein kinase PINOID-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: protein kinase PINOID-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: protein kinase PINOID
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: protein kinase PINOID
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 468 aa
+
+MAAPASSSTTASSSPPKPPNnAATMLePPhpspyPDAAAPasSSVSSASSSStSSQAgRS
+STFSVDSSSAATPSSSPPRPHRAsDVAWAPIRARAAAAPLGPRDFTLVRRVGAGDIGTVY
+LCRLEaeAaGdqSCAYAMKVVDRRALAKKGKLGRAAAEKRVLRRLDHPFLPTMFADFDAG
+TDYSCIVMEFCPGGDLHSLRHRMPGRRFPLASARFYAAEVLLALEYLHMMGIVYRDLKPE
+NVLIRGDGHIMLTDFDLSLESTASPALEDARNGtGDDgDDgaaPiPTCLPEVQLLRLRRW
+KRRAAPRPRPRFVAEPVDARSSSFVGTHEYVAPEVARGGGHGAAVDWWAYGVFLYELLYG
+RTPFVGaTNEATLRNIVRRPLEFPpapAGTpHGddAAARDLIARLLDKDPRTRLGSRRGA
+ADVKAHpFFKGLNFALLRSSpPPVVPPPAALHQQCdKAADVQQLFDHF
+
+
+BOP CONSENSUS:
+Length: 459 aa
+
+MAAPTTASSSsPPKPPNAAMLQPAPHLPDMaDAAPAPNSSSSVSSASSSSTAGRSSTFSV
+DSAAATPTSSPPRPHRAGDVAWAPIRAALAPLGPRDFTLVRRVGAGDIGTVYLCRLEAEG
+DQSCAYAMKVVDRRALAKKGKLGRAAAEKRVLRRLDHPFLPTMFADFDAGTDYSCIVMEF
+CPGGDLHSLRHRMPGRRFPLASARFYAAEVLLALEYLHMMGIVYRDLKPENVLIRGDGHI
+MLTDFDLSLESTASPALEEArNlTGEDeDDGARPIPACFPEVHLLRLMKWRRRAAPRPRP
+RFVAEPVDARSSSFVGTHEYVAPEVASGGGHGASVDWWAYGVFLYELLYGRTPFVGATNE
+ATLRNIVRAPLECPPLGAGTPHAEAAAARDLIARLLDKDPRARLGSRRGAADVKAHPFFK
+GLNFALLRSSSPPVVPPPAALHQQRGKASPDVHQLFEQF
+
+
+PACMAD CONSENSUS:
+Length: 473 aa
+
+MAAPASSSTTATAAPASSSPPKPPNNAASTTMLEPQPSPYPDAAASSVSSASSSSSSASS
+SQADRSSTFSvDSSSAATPSSSPPRPHRASDVAWAPIRGRALGPRDFTLLRRVGAGDIGT
+VYLCRLEGSQAeGpgsACAYAMKVVDRRALAKKGKLGRAAAEKRVLRRLDHPFLPTMFAD
+FDAGTDFSCIVMEFCPGGDLHSLRHRMPGRRFPLASARFYAAEVLLALEYLHMMGIVYRD
+LKPENVLIRGDGHIMLTDFDLSLESTASPALEDARSGgDDrGEDVrAPAPTCLPIPELQL
+LRLRRWKRRAAAPRPRFVAEPVDARSSSFVGTHEYVAPEVARGGGHGAAVDWWAYGVFLY
+ELIYGRTPFVGETNEATLRNIVRRPLEFPAAPAASHHGGDDAAARDLIARLLDKDPRTRL
+GSKRGAADVKAHGFFKGLNFALLRSSPPPVVPPPAALHRCDKAADVQQLFDHF
+
+================================================================================

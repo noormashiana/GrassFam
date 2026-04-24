@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM006620
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             509.0 aa
+Family Size (Extended Family Size): 34 (43) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR42678:SF38
+Panther Family ID:               PTHR42678
+Modal Panther ID:                PTHR42678:SF38
+Modal Panther Description:       AMIDASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR42678
+Modal Panther Fam Desc:          AMIDASE
+Interpro Signature Accession:    G3DSA:3.90.1300.10; PTHR42678; PF01425; SSF75304
+Interpro Signature Description:  Amidase signature (AS) domain; AMIDASE; Amidase; Amidase signature (AS) enzymes
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: probable amidase At4g34880
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: uncharacterized LOC123424855
+Ata
+  Gene count: 3
+  Modal chromosome: Ata02D
+  Gene Products: probable amidase At4g34880; probable amidase At4g34880%2C transcript variant X1
+Tae
+  Gene count: 6
+  Modal chromosome: Tae02A
+  Gene Products: probable amidase At4g34880
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl04
+  Gene Products: probable amidase At4g34880
+  Gene Descriptions: probable amidase At4g34880
+Osa
+  Gene count: 2
+  Modal chromosome: Osa04
+  Gene Products: probable amidase At4g34880
+  Gene Descriptions: probable amidase At4g34880
+Ecu
+  Gene count: 5
+  Modal chromosome: EcuUN44
+Pau
+  Gene count: 1
+  Modal chromosome: Pau07
+  Gene Products: probable amidase At4g34880
+  Gene Descriptions: probable amidase At4g34880
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi07K
+  Gene Products: probable amidase At4g34880; probable amidase At4g34880%2C transcript variant X2
+Msi
+  Gene count: 4
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi06
+  Gene Products: putative amidase C869.01
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: probable amidase At4g34880
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 512 aa
+
+MPRLLLAvaAAvLLvlaAaGAHGFQIEEATvASIQLGFNNGSLTSVeLVRFYLDRIaRLN
+PLLHAVIEVNPDALRQAARADAERRSsssrryvsaGGaLHGVPVLLKDNIATRDALNTTA
+GSFALLGSVVRRDAGVVRRLRRAGAVVLGKANMDEWANFRSLsGTGGWSARGGQGRNPYV
+LSAtPCGSSTGSAIAAAANMAAVTLGTETDGSILCPASLNSVVGIKPTVGLTSRAGVIPI
+TPRQDTIGPICRTVADAVHVLDAIVGYDARDAAATraASKYIPrGGYMQFLKkDGLkGKR
+IGVPNGFFNFPNGTVQQmVYQQHLdTMRKQGAIVIENLDIeNLSVILDsLNNGQQIALPA
+EFKLSLNsYLSDLSYSPVRSLAEIIAFNNAHPVEEKLKEiGQlIFLVAENTTGIGApERA
+AIsQLNKLSADGLEKLMrEHeLDAIVTPNdaASsVLAIGGMPAITVPAGYGKmGVPFGLC
+FGGLRGYEPRLIEMAYAFEQvTkVRKaPTFLP
+
+
+BOP CONSENSUS:
+Length: 513 aa
+
+MPRLLLAvaAAvvvLVLAAaGAHGFQIEEATVASIQLGFNNGSLTSVeLVRFYLDRIsRL
+NPLLHAVIEVNPDALRQAARADAERRSsSSrkyvsAGGlLHGVPVLLKDNIATRDALNTT
+AGSFALLGSVVRRDAGVVRRLRRAGAVVLGKANMDEWANFRSLsGTGGWSARGGQGRNPY
+VLSAtPCGSSTGSAIAAAASMAAVTLGTETDGSILCPASLNSVVGIKPTVGLTSRAGVVP
+ITPRQDTIGPICRTVADAVHVLDAIVGYDARDAAATraASKYIPrGGYMQFLKKDGLkGK
+RIGVPNGFFNFPNGTVQQMVYQQHLdTMRKQGAIVIENLDIENLSVILDsLNNGQQIALP
+AEFKLSLNSYLSDLSYSPVRSLAEIIAFNNAHPVEEKLKEIGQlIFLVAENTTGIGApER
+AAISQLNKLSANGLEKLMREHELDAIVTPNdAASSVLAIGGMPAITVPAGYGKMGVPFGL
+CFGGLRGYEPRLIEMAYAFEQVTKVRKAPTFLP
+
+
+PACMAD CONSENSUS:
+Length: 506 aa
+
+MARLHPALSAAVLLLAVTTGCRGFQIEEATLDAIRQGFSNGSLTSAALVGHYLDRIARLN
+PLLRAVIEVNPDALRLAARADAERSSSCRRRGGGALHGVPVLLKDNIGTRDRLNTTAGSL
+ALLGSAVARDAGVVARLRRAGAVVLGKANMEEWANFRSVEGSGGWSARGGEGRNPYVLSA
+DPCGSSTGSAIAAAANMAAVTLGSETDGSILCPASYNSVVGIKPTVGLTSRAGVIPISPR
+QDTIGPICRTVADAVEVLDAIVGYDARDSKATRAASKHIPPGGYMQFLKIDGLNGKRIGI
+PNGFSNGMDQQIIFQQHLDTMRKHGAILIENIEIPNLSVILDMFINGELIALPAEFKLSL
+NAYLSDLSKSPVRSLTEIIEFNNEHPIEEKLKEVGQLIFLVAENTTGIGAPERAAIQQLN
+MLSSDGLERLMKEQQLDAIVAPNVSVADVLAISGLPGITVPAGYSKTGVPFGICFGGLKG
+YEPRLIQIAYAFEQATRVRKIPTFMP
+
+================================================================================

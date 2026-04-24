@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM009861
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             377.5 aa
+Family Size (Extended Family Size): 18 (18) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24414:SF23
+Panther Family ID:               PTHR24414
+Modal Panther ID:                PTHR24414:SF23
+Modal Panther Description:       F-BOX_KELCH-REPEAT PROTEIN SKIP6
+Modal Panther Family ID:         PTHR24414
+Modal Panther Fam Desc:          F-BOX/KELCH-REPEAT PROTEIN SKIP4
+Interpro Signature Accession:    G3DSA:2.120.10.80; PTHR24414; PF25210; SSF117281
+Interpro Signature Description:  -; F-BOX/KELCH-REPEAT PROTEIN SKIP4; FKB95, Kelch-repeats domain; Kelch motif
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: F-box/kelch-repeat protein SKIP6%2C transcript variant X5
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: F-box/kelch-repeat protein SKIP6-like%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: AtaUN162732
+  Gene Products: F-box/kelch-repeat protein SKIP6%2C transcript variant X2
+Tae
+  Gene count: 2
+  Modal chromosome: Tae02A
+  Gene Products: F-box/kelch-repeat protein SKIP6-like%2C transcript variant X2; F-box/kelch-repeat protein SKIP6-like%2C transcript variant X3
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: F-box/kelch-repeat protein SKIP6-like%2C transcript variant X1
+  Gene Descriptions: F-box/kelch-repeat protein SKIP6-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: F-box/kelch-repeat protein SKIP6
+  Gene Descriptions: F-box/kelch-repeat protein SKIP6
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 1
+  Modal chromosome: Pau15
+  Gene Products: F-box/kelch-repeat protein SKIP6-like%2C transcript variant X2
+  Gene Descriptions: F-box/kelch-repeat protein SKIP6-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi02N
+  Gene Products: F-box/kelch-repeat protein SKIP6-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: F-box/kelch-repeat protein SKIP6-like%2C transcript variant X6
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: F-box/kelch-repeat protein SKIP6%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: uncharacterized LOC100279526%2C transcript variant X1
+  Gene Synonyms: GRMZM2G010551,IDP176
+  Gene Descriptions: uncharacterized LOC100279526
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 376 aa
+
+MSAEpTSsPQPPElIRGSLIPALPDDLAVHCIALLPRAAHPSLALVSRAFHALLCRHPEP
+LLAARRRLRLSDPHILLSLRPPSSASPLFFLLLPHPGWPPLPLPSPPIPVSSSSSVAtDG
+nRLFLVGGSVsGVPAaSVQILDPRTRSWSIGPRLSSPREFAAAVAHSGVLFVAGGCVPSS
+PFWAEALDLSSPnAKWspVPSPdHLREKWMHGCASLAGKVLAVADRGGLAYDPAAPPAEA
+WAPVSPVLDMGWKGRAAVVGGILYSYDYLGQVKGYDPDTDSWSTVEGLEKELPRFLCGAT
+LANVGGLLYLVWEGKWKGKGKgKGEVRSMVVIEWAtIEVTRAEEGRLRGKVVSRDTVVFp
+DMPRGSAITHCIALEL
+
+
+BOP CONSENSUS:
+Length: 377 aa
+
+MSAASASSPQPPEaIRGSLIPVLPDDLAVHCIALLPRAAHPtLALVSRALHaLLCRHPEP
+LLAARRRLRRSDPHIviSVRPPYSASPRFFLLLPHPGWPPLPLPSPPIPVSSSSAVAVnG
+HRLFLVGGSVAGVPAsSVQILDtRTRSWSIGPRLSSPREFAAAAVLPGvLFVAGGCVPSS
+PFWAEALDLASPrAKWSPVPSPDHLREKWMHGCVSLAGKVLAVADRGGLvYDPAAPPGEA
+WAPVSPVLDMGWKGRAAVVGGILYSYDYMGQVKGYDPDTDsWSTVEGLEKELPRFLCGAT
+LANVGGLLYLIWEGKWKGKASKGkGKVKdMVVIEWATIEVTRAEEGRLsGKVISRDTvVF
+TDMPRGSAITHCIALDL
+
+
+PACMAD CONSENSUS:
+Length: 376 aa
+
+MSTEPTSPPQPTEqIRGSLIPALPDDLAVHCIALLPRAAHPSLALVSRAFHALLCRHPEP
+LLAARRALRLSDPHILLSLRPPSSASLLFFLLLPHPGWPPLPLPSPPVPVSSSSSAATDG
+sRLFLVGGSVSGVPAASVQILDPRARSWSVGPRLSSTREFAAAVAHSGVLFVAGGCVPSS
+PFWAEALDLStPNAKWrTVASPvHLREKWMHGCASLAGKVLAVADRGGLAYDPAAPPAEA
+WAPVSPVLDMGWKGRAAVVEGILYSYDYLGQVKGYDPDTDSWSTVEGLERELPKFLCGAT
+LANVGGLLYLVWEGKWKGKGKGKGEVRSMVVIEWAsIEITRVeEGRLRGKVVSRDTVLFP
+DVPRGSTITHCIALEL
+
+================================================================================

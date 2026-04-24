@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM007254
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             376.0 aa
+Family Size (Extended Family Size): 21 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10896:SF59
+Panther Family ID:               PTHR10896
+Modal Panther ID:                PTHR10896:SF59
+Modal Panther Description:       BETA-1,4-XYLOSYLTRANSFERASE IRX9
+Modal Panther Family ID:         PTHR10896
+Modal Panther Fam Desc:          GALACTOSYLGALACTOSYLXYLOSYLPROTEIN 3-BETA-GLUCURONOSYLTRANSFERASE  BETA-1,3-GLUCURONYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:3.90.550.10:FF:000084; G3DSA:3.90.550.10; PTHR10896; PF03360; SSF53448
+Interpro Signature Description:  Glycosyltransferases; Spore Coat Polysaccharide Biosynthesis Protein SpsA; Chain A; GALACTOSYLGALACTOSYLXYLOSYLPROTEIN 3-BETA-GLUCURONOSYLTRANSFERASE  BETA-1,3-GLUCURONYLTRANSFERASE; Glycosyltransferase family 43; Nucleotide-diphospho-sugar transferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: probable glucuronosyltransferase Os05g0123100
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: probable beta-1%2C4-xylosyltransferase GT43A
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: probable beta-1%2C4-xylosyltransferase GT43A
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: probable beta-1%2C4-xylosyltransferase GT43A
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: probable beta-1%2C4-xylosyltransferase GT43A
+  Gene Descriptions: probable beta-1%2C4-xylosyltransferase GT43A
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: probable glucuronosyltransferase Os05g0123100
+  Gene Synonyms: GT43A,OJ1729_E02.10,OsGT43A,P0008A07.2
+  Gene Descriptions: probable glucuronosyltransferase Os05g0123100
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: probable beta-1%2C4-xylosyltransferase GT43A; probable beta-1%2C4-xylosyltransferase GT43A%2C transcript variant X1
+  Gene Descriptions: probable beta-1%2C4-xylosyltransferase GT43A
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: probable beta-1%2C4-xylosyltransferase GT43A
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: probable glucuronosyltransferase Os05g0123100
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: probable glucuronosyltransferase Os05g0123100
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: beta3-glucuronyltransferase
+  Gene Synonyms: b3gat3,GRMZM2G012874,pglcat4
+  Gene Descriptions: beta3-glucuronyltransferase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 379 aa
+
+MGTGAVAVAAPERpKQRRGGHLWKKALLHFSLCFVMGFFTGFAPSSSSSWRAGtgGGhPP
+HRAGDQLAASRVAVnqRinLvPsSPdgAGEAAAGGGGAtVDVGDDEEeaGPRRLLIVVTT
+TRSGAGERRRRRpELLRLAHTLRLVRPPVVWVVVEPAADAPATAEVLRGTGVMYRHLAFK
+PEENFTTAAAEAHAQRNAALAHVEKHRLAGVVHFADAAGVYDThFFDEIRQIEAFGTWPV
+ATMSAGEKKVVVEGPLCSASKVVGWFSRDFNDGTTRsVTYNTEaDLNPAGAAGTRAHTID
+VSGFAFNSSILWDPERWGRPTSLPDTSQDSIKFVQEVVLEDRTKLKGIPSDCSQIMVWQY
+sVPSSqplKTSTPKTHHRR
+
+
+BOP CONSENSUS:
+Length: 377 aa
+
+MGTGAVAPERPKQRRGGHLWKRAVLHFSLCFVMGFFTGFAPSSSSSWRPGGGGGTPPPlL
+AAEQLAASRVAGNRDQHISLAPPSPEGAAAAGGGGAVVDLDDDEESGPRRMLIVVTTTRS
+GAGERRRRRPELLRLAHTLRLVRPPVVWVVVEPAADAPATAEVLRGTGVMYRHLAFRPEE
+NFTTAAAEAHAQRNAALAHVEKHRLSGVVHFADAAGVYDTHFFDEIRQIEAFGTWPVATM
+SAGEKKVVVEGPLCSASKVVGWFSRNFNDGTTRSVTYNTEVDLNPAGAAGTRAHTIDVSG
+FAFNSSILWDPERWGRPTSLPDTSQDSIKFVQEVVLEDRTKLKGIPSDCSQIMVWQYTVP
+SSTKtKTSTPKTHHRRR
+
+
+PACMAD CONSENSUS:
+Length: 366 aa
+
+MGTGAVAVAAPDRAKQRRGGHLWKKALLHFSLCFVMGFFTGFAPSSSSSWKAATQHPPHR
+AGDrLAASRVAVDARaNLVPSPPDtAGEVGLAAGGGGATVDVGDDDEEAGPRRLLIVVTT
+TRSGAGERRRRRaELLRLAHTLRLVRPPVVWVVVEPAADAPATAEVLRGTGVMYRHLAFK
+PEENFTTAaAEAHAQRNAALAHVEKHRLAGVLHFADAAGVYDTGFFDQIRQIEAFGTWPV
+ATMSAGEKKVVVEGPLCSASKVVGWFSRDFNDGTTRAVTYNTEADLNPAGAAGTRAHTID
+VSGFAFNSSILWDPERWGRPTSLPDTSQDSIKFVQEVVLEDRAKLKGIPSDCSQIMVWQY
+SVPSSQ
+
+================================================================================

@@ -1,0 +1,119 @@
+================================================================================
+GrassFam ID: GFAM009441
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             657.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR12542
+Modal Panther ID:                PTHR12542:SF44
+Modal Panther Description:       EXOCYST SUBUNIT EXO70 FAMILY PROTEIN
+Modal Panther Family ID:         PTHR12542
+Modal Panther Fam Desc:          EXOCYST COMPLEX PROTEIN EXO70
+Interpro Signature Accession:    G3DSA:1.20.1280.170; PTHR12542; PF03081; SSF74788
+Interpro Signature Description:  Exocyst complex component Exo70; EXOCYST COMPLEX PROTEIN EXO70; Exo70 exocyst complex subunit C-terminal; Cullin repeat-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Ola
+  Gene count: 2
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl01
+  Gene Products: exocyst complex component EXO70A1-like%2C transcript variant X1; exocyst complex component EXO70E2-like
+  Gene Descriptions: exocyst complex component EXO70A1-like; exocyst complex component EXO70E2-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa01
+  Gene Products: exocyst complex component EXO70A1
+  Gene Descriptions: exocyst complex component EXO70A1
+Ecu
+  Gene count: 4
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 1
+  Modal chromosome: Pau02
+  Gene Products: exocyst complex component EXO70B1-like%2C transcript variant X1
+  Gene Descriptions: exocyst complex component EXO70B1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: exocyst complex component EXO70A1-like; uncharacterized LOC120674710
+Msi
+  Gene count: 4
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: uncharacterized LOC8075314
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: exocyst complex component EXO70A1; exocyst complex component EXO70B1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 642 aa
+
+MsraPwQRAhGLGPRHRStsPRDdRVRGGWLGhaAgSQFPsDMEGRVHGGypSrAyyvGd
+SSrpSmAsRAREeAdsLerELHSIERSIViPICLNPEAREFFPDrtRRLDRYLAAAKrLL
+rLdtSGDIDqRkKSLLdTAMSSLAmEFCHLkIWRLDDalRDHSPASIWESVRRSRsGGSq
+ssSaASWpSSSgSFTGSGGTSdaSFGsYysaLgEEpSVRShkaFsrMiyIDRKSLSILnD
+IAGVMIggGYEhMLRgAFDRHsAQLARYIEILDIDNIlGgHmEESREILLKVWTSAMhII
+iGFLsEMQRQLNgqDfGSFntLKEDYFLAIAKvSVMKLLnSAsSICIQVgPPIDPSCKDT
+YaAVKpDLSKMVNVVMMYQALNYGMPTILALLSGQTKElILAEGEgLIhRLSDMFVKLSV
+ELNnLVRSQrLvITDTGVHRfTrHIMDHmRLLVQHKnTVyLMLkGdlkaFGELVTQLISS
+LEFMLDmNSRSLQLQGQQQiFLLNNVHFMLEEAnKntDLgLILGESWFLqRHDQLDQFIA
+GYVDASWTPVMSSfERRTRvpvILWPHQLFDKFTSsFEMTYrVHKtWKVTDPLIRqKLRE
+AIsqKVIPLYRMHMEnySEKkqKSARYSIEQLESQLLELFEG
+
+
+BOP CONSENSUS:
+Length: 634 aa
+
+MSTDAKTRRGPAVFPDAAPRCDLERRVHGAALLGAFSPCFHGSSSSHLPPQHSSEEVSAA
+AEQEQTLRLFLQDIERSIVFGICKNPETTEFFRDHRRRLDDYFAAAKNLLQMLEHPVLAY
+GDLHNRAKSLLVTAMGSLAVELCRLNIWRPHSLRSYLGCTSTSIWELVRSSRGGGSGSGS
+DSSGTWMTSGGSSGTNGVSFDPYYTALSEERTVRSGQESSTMTHIDPKSVSILNKIAGVM
+IGVGYEQMLRGAFHRHSEQLVRYIEILDMDNVLGSHTEESTEMLRKVWTSTMRVVISVLD
+EMRTQLTVKDHGTFSTLKVDYFSSIAKLSVMKLLNYGSSICIQVGPNDPSCRDTLASVKQ
+DPSTMVSLVMMYQALNYAMPEILDLFLGQTKGPIYMEVKRLTNGLSAVFVVLLVELNGLL
+RSQRLVITNTGVHRVTRRIMGLMRLLVQQKNTVYMMVNDNPDKFGQVVTQLVSSLEFMLD
+MNSRSLGLQGQQQVFLLNNVNLVLEQANNYTDLKLILGESWFSQRHVQLDQLVTSYVEAS
+WTPVMSSFITRVRTILWPQQLFDKFTSRFEMTYNVQKTWKVTDPVIRQKLREKITQKVIP
+LYRMYMESYSERKQKSARYSVEQLESRLLEMFEG
+
+
+PACMAD CONSENSUS:
+Length: 620 aa
+
+MsRAPRGEnHRDDRVRGGWLGHTAGSQFPSDMEGRVHGGyPSrrYSSRpsMasRaREEAd
+SLERELHSILNPEAREFFPDrAqRLDRYLAAAKRLLRLdTSGDIDQRKKSLLkTVMSsLA
+mEFCHLkvWRLDDaaRDHSPASIWeSVRRSRSCSgGSqsdsaaSWsSSSGSFTGSGGTSd
+ASYGSYlsgLgEEPSVRShstFsGMIyiDRKSLSILnDIAGVMIgGGYEhiLRgAFDRHC
+AQLARYIEILDIDNIfGgHmEESREILLKVWTSAMHIIiGFLsEMQRQLNgqDLGSFNtL
+KEDYFLAIAKvSVMKLLrSAsSICIQVdPPIDpSCKDTYtAvKpDLSKMVNVVMVYQALN
+YGMPTILALLSGqTKElIVAEGEgLIhRLSDMFVKLSVELNnLVRSQyLFITDTGVHRFT
+KHIMDHvRlLVQHKrTvyLMLKGDLKAFGELVTQLISSLEFMLDvNSRSLQLQGQQQIFL
+LNNVHFMLqEAeKntDLgLILGEsWFLRCHDQLDQFIAGYVDASWTPVmSSLERRTRfsv
+ILWPHQLlDKFTSsFEmTCrVHKtWKVtDPLmRqKLREAISHKVIPLYRMHMEnySEKkq
+KSARYSIEQlESQLlELFEG
+
+================================================================================

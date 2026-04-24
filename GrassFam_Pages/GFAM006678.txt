@@ -1,0 +1,112 @@
+================================================================================
+GrassFam ID: GFAM006678
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             431.0 aa
+Family Size (Extended Family Size): 15 (16) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45744:SF12
+Panther Family ID:               PTHR45744
+Modal Panther ID:                PTHR45744:SF12
+Modal Panther Description:       AMINOTRANSFERASE CLASS I_CLASSII DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR45744
+Modal Panther Fam Desc:          TYROSINE AMINOTRANSFERASE
+Interpro Signature Accession:    cd00609; G3DSA:3.40.640.10:FF:000048; G3DSA:3.90.1150.10:FF:000040; G3DSA:3.40.640.10; G3DSA:3.90.1150.10; TIGR01265; PTHR45744; PIRSF000517; PF00155; SSF53383
+Interpro Signature Description:  AAT_like; tyrosine aminotransferase; Tyrosine aminotransferase; -; Aspartate Aminotransferase, domain 1; tyrosine/nicotianamine family aminotransferase; TYROSINE AMINOTRANSFERASE; Tyr_transaminase; Aminotransferase class I and II; PLP-dependent transferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi04
+  Gene Products: nicotianamine aminotransferase A
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: nicotianamine aminotransferase 1-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: nicotianamine aminotransferase 1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: nicotianamine aminotransferase 1-like; nicotianamine aminotransferase 1-like%2C transcript variant X1
+Ola
+  Gene count: 2
+  Modal chromosome: Ola11
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: nicotianamine aminotransferase 1-like
+  Gene Descriptions: nicotianamine aminotransferase 1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: nicotianamine aminotransferase 1-like
+  Gene Descriptions: nicotianamine aminotransferase 1-like
+Pau
+  Gene count: 2
+  Modal chromosome: Pau12
+  Gene Products: nicotianamine aminotransferase 1-like
+  Gene Descriptions: nicotianamine aminotransferase 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi08N
+  Gene Products: nicotianamine aminotransferase 1-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 430 aa
+
+MENGtgnqLtPAPAAWNFAPnEALLGLTALSVRgVLGrVKAGMdeggGAGaRPVIPLGHG
+DPSAFPCFRTAPEAVDAVAAALRSGEHNSYsTGVGLEPARRSIARHLSRDLPYELSpDDV
+YLTSGCsQAIEIVCSVLARPGANILLPRPGYLFYEARAvFNGMEARYFDLLPDsGWEVDL
+DaVQALADkNTVAMVIVNPGNPCGNVYTYEHLAKVAETARKLGIFVIADEVYAHLTFGkN
+KFVPMGVFGSVAPVLTLGSISKRWVVPGWRLGWIVTNDPNGVFrRTKVVESIKSYLDISs
+DPATFVQGAIPQLLENTKqEFFDKTVDILRQTADICWEKLKGISGITCPSKPEGSMFVMV
+KLDLSCLQDIKDDMDFCCrLAKEELVVVLPGCAVGYKNWLRITFAIGPSSLEDGLDRLKS
+FCLRHSKPKK
+
+
+BOP CONSENSUS:
+Length: 429 aa
+
+MsNGTmnqLtPAPdAWNFAPdEALLGLSALSVRsVLGsVKAGMDPsGAgdRPVIPLGHGD
+PSAFPCFRTAPEAVeAVAAALhSGEHNSYsTGVGLEPARRSIARHLSlDLPYELSPDDVY
+LTSGCSQAIEIVCSVLARPGANILLPRPGYLFYEARAaFNGMEvRYFDLLPDSGWEVDLD
+AVEALADrNTVAMVIVNPGNPCGNVYSYDHLAKVAETARKLGIFVIADEVYAHLTFGKNr
+FVPMGVFGSVAPVLTLGSISKRWVVPGWRLGWIVTNDPNGVFRRTKLVESIKSYLDIScD
+PATFVQGAIPELLENTKqEFFDKTVDILRQTADICWEKLKGISGITCPSKPEGSMFVMVK
+LDLSCLQDIKDDMDFCCkLAKEELVVVLPGCAVGYKNWVRITFAIGPSSLEDGLDRLKSF
+CsRHSKpKK
+
+
+PACMAD CONSENSUS:
+Length: 427 aa
+
+MENGAGsGPAAAWNFAPNDALLGLTALSVRGVLGRVKAGMVEDsGAGARPVVPLGHGDPS
+AFPCFRTAPEAVDAVAGALRSGEYNSYASCVGLEPARRSISQYLSRDLPYELSADDVYLT
+SGCTQAIEIVCSVLARPGANILLPRPGYLFYEARAVFNGMEARYFDLVPERGWEVDLDGL
+QALADKNTVAMVIVNPGNPCGNVYTYEHLAKIAETARKLGIFVIADEVYAHLTFGEKKFV
+PMGVFGSVAPVLTLGSISKRWVVPGWRLGWIVTNDPNGVFQRTKVVDSIKSYLDISSDPV
+TFVQGAIPQLIENTKQEFFDKTVEVLRQTADICWEKLKGISCITCPSKPEGSMFVMVKLD
+LSCLQDIKDDMDFCCRLAKEELVVVLPGCAVGYKNWLRITFAIGPSSLEDGLDRLKSFCL
+RHSKPKK
+
+================================================================================

@@ -1,0 +1,140 @@
+================================================================================
+GrassFam ID: GFAM011203
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             580.0 aa
+Family Size (Extended Family Size): 22 (28) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR21235:SF2
+Panther Family ID:               PTHR21235
+Modal Panther ID:                PTHR21235:SF2
+Modal Panther Description:       IMIDAZOLE GLYCEROL PHOSPHATE SYNTHASE HISHF
+Modal Panther Family ID:         PTHR21235
+Modal Panther Fam Desc:          IMIDAZOLE GLYCEROL PHOSPHATE SYNTHASE SUBUNIT HISF/H  IGP SYNTHASE SUBUNIT HISF/H
+Interpro Signature Accession:    cd01748; cd04731; G3DSA:3.40.50.880:FF:000036; G3DSA:3.20.20.70:FF:000094; G3DSA:3.40.50.880; G3DSA:3.20.20.70; TIGR01855; TIGR00735; PTHR21235; PIRSF036936; PF00977; SSF51366; SSF52317
+Interpro Signature Description:  GATase1_IGP_Synthase; HisF; Imidazole glycerol phosphate synthase hisHF; -; Aldolase class I; imidazole glycerol phosphate synthase subunit HisH; imidazole glycerol phosphate synthase subunit HisF; IMIDAZOLE GLYCEROL PHOSPHATE SYNTHASE SUBUNIT HISF/H  IGP SYNTHASE SUBUNIT HISF/H; IGPS_HisHF; Histidine biosynthesis protein; Ribulose-phoshate binding barrel; Class I glutamine amidotransferase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: imidazole glycerol phosphate synthase hisHF%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: imidazole glycerol phosphate synthase hisHF%2C chloroplastic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: imidazole glycerol phosphate synthase hisHF%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: imidazole glycerol phosphate synthase hisHF%2C chloroplastic-like; imidazole glycerol phosphate synthase hisHF%2C chloroplastic-like%2C transcript variant X1
+Ola
+  Gene count: 2
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: imidazole glycerol phosphate synthase hisHF%2C chloroplastic
+  Gene Descriptions: imidazole glycerol phosphate synthase hisHF%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: imidazole glycerol phosphate synthase hisHF%2C chloroplastic
+  Gene Descriptions: imidazole glycerol phosphate synthase hisHF%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: imidazole glycerol phosphate synthase hisHF%2C chloroplastic-like
+  Gene Descriptions: imidazole glycerol phosphate synthase hisHF%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: imidazole glycerol phosphate synthase hisHF%2C chloroplastic-like; imidazole glycerol phosphate synthase hisHF%2C chloroplastic-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: imidazole glycerol phosphate synthase hisHF%2C chloroplastic%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: imidazole glycerol phosphate synthase hisHF%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100501537
+  Gene Descriptions: uncharacterized LOC100501537
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 578 aa
+
+MQPPPQsQGAMATGAAiHtVPCSAGRPKRsSQRRGSASLSVRASSDANTVTLLDYGAGNV
+RSVRNAIRHLGFGIRDVRSPEDILAADRLVFPGVGAFGSAMDVLNSTGMADALREYIRRD
+RPFLGICLGLQLLFDSSEENGPVSGLGVIPGVVRRFDSSkGLIVPHIGWNALEITKDTQL
+LQGADGHHVYFVHSYHALPSDANRDWISSiCNYGeSFISSISMGNIQAVQFHPEKSGATG
+LSILKNFLSPNSSGAKVPARRKASKLAKRVIACLDVRSNDNGDLVVTKGDQYDVRDHTSS
+KEVRNLGKPVDLASQYYIDGADEVSFLNITGFRDFPLGDLPMLEVLRCASEKVFVPLTVG
+GGIRDFTDANGRYYSSLEVASEYFRSGADKISIGSDAVFAAEAFLQTGVKTGKSSLEQIS
+RVYGNQAVVVSIDPRRVYVKSPEDVPFKTVKVSSKGPSGEEYAWYQCTVSGGRDSRPIGA
+YELAKAVEELGAGEILLNCIDCDGQGCGFDIDLVKMVSDAVTIPVIASSGAGAVEHFSEV
+FEKTNASAALAAGIFHRKEVPILAVKEHLVDAGVEVRV
+
+
+BOP CONSENSUS:
+Length: 569 aa
+
+MATGAANHAVPCSVGRPKRTNQRRRPASLSVRASSDANTVTLLDYGAGNVRSVRNAIRHL
+GFNIRDVRSPEDILAADRLVFPGVGAFGSAMDVLNRTGMADALREYIRRDRPFLGICLGL
+QLLFDSSEENGPVSGLGVIPGVVRRFDSSEGLIVPHIGWNALQITKDTQLLQGADGHHVY
+FVHSYHALPSDANRDWISSTCNYGESFISSISMGNIQAVQFHPEKSGATGLSIFEKFLSP
+NSSGAKAPArRKASKLAKRVIACLDVRSNDNGDLVVTKGDQYDVRDHSSSKEVRNLGKPV
+ELASQYYIDGADEVSFLNITGFRAFPLGDLPMLEVLRCASEKVFVPLTVGGGIRDFTDAS
+GRYYSSLEVASEYFRSGADKISIGSDAVFAAEAYLQTGVKTGKSSLEQISRVYGNQAVVV
+SIDPRRVYVKSPDEVQFKTVKVSSKGPLGEEYAWYQCTVSGGRDSRPIGAYELAKAVEEL
+GAGEILLNCIDCDGQGGGFDIDLIKMVSDAVTIPVIASSGAGAVEHFSEVFEKTNASAAL
+AAGIFHRKEVPILAVKEHLVDAGVEVRMQ
+
+
+PACMAD CONSENSUS:
+Length: 581 aa
+
+MQPPPQpQGAMATGAAILTVPCSAGRRPKRSSQRRGSGSASLSVRASSDANTVTLLDYGA
+GNVRSVRNAIRHLGFGIRDVRSPEDILAADRLVFPGVGAFGSAMDVLNSTGMADALREYI
+QRDRPFLGICLGLQLLFDSSEENGPVSGLGVIPGVVRRFDSSKGLIVPHIGWNALEITKD
+TQLLQGADGHHVYFVHSYHALPSDANRDWISSICNYGDSFISSISMGNIQAVQFHPEKSG
+ATGLSILKNFLSPNSSGtKVPARRKASKLAKRVIACLDVRSNDnGDLVVTKGDQYDVRDH
+TSSKEVRNLGKPVDLASQYYIDGADEVSFLNITGFRDFPLGDLPMLEVLRCASEKVFVPL
+TVGGGIRDFTDANGRYYSSLEVASEYFRSGADKISIGSDAVYAAEAFLQTGVKTGKSSLE
+QISRVYGNQAVVVSIDPRRVYVNSPEDVPFKTVKVSSKGPSGEEYAWYQCTVNGGRDSRP
+IGAYELAKAVEELGAGEILLNCIDCDGQGCGFDIDLVKMVSDAVTIPVIASSGAGAVEHF
+SEVFEKTNASAALAAGIFHRKEVPILAVKEHLVDAGVEVRV
+
+================================================================================

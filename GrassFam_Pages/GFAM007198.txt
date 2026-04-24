@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM007198
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             410.5 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR33322:SF18
+Panther Family ID:               PTHR33322
+Modal Panther ID:                PTHR33322:SF18
+Modal Panther Description:       BAG FAMILY MOLECULAR CHAPERONE REGULATOR 8, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR33322
+Modal Panther Fam Desc:          BAG DOMAIN CONTAINING PROTEIN, EXPRESSED
+Interpro Signature Accession:    PTHR33322
+Interpro Signature Description:  BAG DOMAIN CONTAINING PROTEIN, EXPRESSED
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: BAG family molecular chaperone regulator 8%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: uncharacterized LOC123401274
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: formin-like protein 20
+Tae
+  Gene count: 2
+  Modal chromosome: Tae01A
+  Gene Products: formin-like protein 5
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: formin-like protein 5
+  Gene Descriptions: formin-like protein 5
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC9266334
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: uncharacterized LOC133885893; uncharacterized LOC133929208
+  Gene Descriptions: uncharacterized LOC133885893; uncharacterized LOC133929208
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: formin-like protein 5; translation initiation factor IF-2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: atherin-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: atherin
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: formin-like protein 5
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 406 aa
+
+MPRHhHHDPAPPACCSCcCGCaGAAPCYYPAPaPaPPSSaASDHLLHAIAAHLLLSSpaP
+PPPPPQPQPQPQPPPPPPPAAHHANPYPYPqYQYQYQQQeAKPHAYTHPPPPPQPNPSGD
+HGHLLLHSLLRRVAALESALPRCFPsPPPARRPPHPNPRPRRAARyQEEeEEEEEEDESE
+PESPPSPPPPRRrARaGPPSaARELAARTIQAHFRRFLARRSRTLRQLKELAVLRSKAAA
+LRGSLSGRRRCADPAAVSEAAMGLLLRLDAIQGGDPMIREGKRAVSRELTRILEFVDKVL
+VKEHEQMAMggALDTDEYHEGCNAAFVANRPsVNKKVSFSGNGQVHELNGETEnGNEVDE
+SSEsSSSAESDEVKgaPSKRSANGKPGLAAPMPVHMESRRiAGERR
+
+
+BOP CONSENSUS:
+Length: 396 aa
+
+MSRHHHHDPPPPPCCSCACACGCSPPAPAPCGYYPAPPPQPAPASDQLLHAIAAHLLLsS
+APPPPtPPPPQPHPQPQPQPPPPPAAHHANLYASYAYQYQHQQQPGPkPHAYPQPPAPAP
+PPPHQHQQPNPPDHGQLLLHSLLRRVAALETTLPHCFPSPPaPHPQHPNPRRHHRAAAHQ
+EEpRSRsPSPPPPRRARRGPPSERELAARTIQEHFRRFLARRSRTLRQLKELAMLRSKAA
+SLRgSLSGSGRRRCKDPmAISEAAMGLLyHLDGIQGGDPMIREGKHAVSRELgRILEFVD
+KVLVKEHEEMgMDGAFDDYPEGCnGAFamNRPTVNKKVSFrGNEantEADESSESSSSAE
+ADERKaaNSKKsANGKPGLAAPVPVHMESRRTgGEM
+
+
+PACMAD CONSENSUS:
+Length: 410 aa
+
+MPRHaHHDPAPPACCSCCCGCAGAAPCYYPAPAPAPPSSAASDHLLHAIAAHLLLSSPAP
+AQPqPQPQPQpQPPPPPPPAAHHATNPYPYPYPYQYQYQYQQQEAKPHAYTHPPpPPQPN
+PSGDHGHLLLHSLLRRVAALESALPRcFPAPPPARRPPHPNPRPRRAARYQEEEEEEEEE
+DEsEPESPPSPPPPRPRRPARAGPPSAASERAARTIQAHFRRFLARRSRTLRQLKELAVL
+RSKAAAIRGSLSGRRGGADPAAVSEAAMGLLLRLDAIQGGDPMIREGKRAVSRELTRILE
+FVDKVLVKEHEQMAMGDALDTDEYHEGCNAAFVAGRPSVSKKVSFSGNGQVHELNGkTEN
+GNEVDEGSEnSSSAESDEVKPSKRSANGKPGLAAPMPVHMESRrVAGERR
+
+================================================================================

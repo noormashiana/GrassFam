@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM011713
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             489.5 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46801:SF2
+Panther Family ID:               PTHR46801
+Modal Panther ID:                PTHR46801:SF2
+Modal Panther Description:       LIPOPOLYSACCHARIDE-BINDING PROTEIN
+Modal Panther Family ID:         PTHR46801
+Modal Panther Fam Desc:          OS06G0309200 PROTEIN
+Interpro Signature Accession:    G3DSA:3.15.10.10; G3DSA:3.15.20.10; PTHR46801; PIRSF002417; PF02886; SSF55394
+Interpro Signature Description:  -; OS06G0309200 PROTEIN; Lipid_binding_protein; LBP / BPI / CETP family, C-terminal domain; Bactericidal permeability-increasing protein, BPI
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: putative BPI/LBP family protein At1g04970
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: putative BPI/LBP family protein At1g04970
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: putative BPI/LBP family protein At1g04970%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: putative BPI/LBP family protein At1g04970
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: putative BPI/LBP family protein At1g04970
+  Gene Descriptions: putative BPI/LBP family protein At1g04970
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: putative BPI/LBP family protein At1g04970
+  Gene Descriptions: putative BPI/LBP family protein At1g04970
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: putative BPI/LBP family protein At1g04970
+  Gene Descriptions: putative BPI/LBP family protein At1g04970
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: putative BPI/LBP family protein At1g04970
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: putative BPI/LBP family protein At1g04970
+Msi
+  Gene count: 1
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: putative BPI/LBP family protein At1g04970
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: lipid binding protein
+  Gene Synonyms: GRMZM2G352607
+  Gene Descriptions: lipid binding protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 488 aa
+
+MAhLHLLPLLLLLlaaAsAaAtGDEAHVSAVVAEKGLAFAKDVLIGEAVRSLTPLRLPGV
+EKAVRVPFLGGIRVAASNITLFHLDVGDDStvrPGDSgLVVVASGITANISMaWSYsYDS
+WLFPIEISDSGTASILVQGMEVGITMeIKNyNGSLALSVsQCGCYVKDLVISLDGGASWF
+YQGFINAFEDHIRAAVEKAIPENIIEGTSKLDSFLQGLPRSVSLDNVaALNMTFVNDPqY
+GNSSIEFDINGLFTSAVAKTSNLQKHPQLSLSCGGASKMLLLSLDEDVFNSALEVYFKAG
+SMHWVVDKVPDQSLLNTAsWKFIIPRLYWNYPNDDMLLNISMASSPVMRITSEKIGATIN
+ADMIIDVLhGKETVPVACISVVVSASGVVEASGNKVYGrVGLDNFSLALKWSKIGNFHMS
+LIQGVIRVFLNTVCMPYLNSRLGNGFILPVVHGFTLKDVYVLTSAEQLTLCSDVTFANAS
+SLASLPvL
+
+
+BOP CONSENSUS:
+Length: 488 aa
+
+MAHHHLLPLLLLLLLLASAAATGDEAHLSAVIGDTGLAFAKDVLIGEAVRSLTPLRLPGA
+EKAFRVPFLGGIRAAVSNITLFHLDVGDDSVVRPGDSALVVVASGITANISMAWSYSYYS
+WYFPVEISDSGTASILVQGMEVGITMEIKNYNGSLALNVTQCGCSVKDLVISLDGGASWF
+YQGFINAFEDHIRAAVEKVIPENIIGSTSKLDSLLQGLPRSVSLDNVTALNMTFVNDPQY
+GNSSIEFDINGLFTSAVAKTSNLQKHPQLSLSCGGASNMLLLSLDEDVFNSALEVYFKAG
+SMHWVVDKVPDQSLLNTAGWKFIIPRLYWNYPNDDMVLNISMASSPvMRITSEKIGATIN
+ADMIIDVLHGTETVPVACISVVVSASGVVEASGNKVYGTVELDNFSLSLKWSKIGNFHMS
+LIQGVIRVFLNTVCMPYLNSRLGNGYILPVVHGFTLKDVYVVTSTEQLTLCSDITFANAS
+SLAALPVL
+
+
+PACMAD CONSENSUS:
+Length: 489 aa
+
+MAqLhPLPLLLLLfAAAAVSAGGADEAHVSAVVAEKGLAFAKDVLIGEAVRSLTPLRLPG
+VEKAVRVPFLGGVRVAASNITLFHLDVGDNSTIyPGDSGLVVVASGITANISMHWSYCYD
+SWLFPIEIaDSGTASILVQGMEVGITMVIKNSNGSLALSVSQCGCYVKDLVISLDGGASW
+FYQGFINAFEDHIKAAVEKAIPENIIEGAGKLDSFLQGLPRTVSLDDVAALNMTFVNDPH
+YGNSSIEFDINGLITSAVAKTNNLQKHPQLSLSCGGASKMLLLSLDEDVFNSALEVYFKA
+GSMHWVVDKVPDQSLLNTASWKFIIPRLYWNYPNDDMLLNISMASSPVIRITSEKIGATI
+NADMIIDVVDGKETVPVACISVVVSASGVVEtSGNKVYGRVGLDNFSLALKWSKIGNFHM
+SLIQGVIRVFLNTVCMPYLNSRLGNGFILPVVHGFTLQDVYVLTSAEQLTLCSDVTFTNA
+SSLASLpvL
+
+================================================================================

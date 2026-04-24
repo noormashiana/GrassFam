@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM015444
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             432.5 aa
+Family Size (Extended Family Size): 28 (33) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45621:SF50
+Panther Family ID:               PTHR45621
+Modal Panther ID:                PTHR45621:SF50
+Modal Panther Description:       OS06G0727400 PROTEIN
+Modal Panther Family ID:         PTHR45621
+Modal Panther Fam Desc:          OS01G0588500 PROTEIN-RELATED
+Interpro Signature Accession:    cd14066; G3DSA:1.10.510.10:FF:000032; G3DSA:3.30.200.20:FF:000228; G3DSA:1.10.510.10; G3DSA:3.30.200.20; PTHR45621; PF07714; SSF56112
+Interpro Signature Description:  STKc_IRAK; Serine/threonine-protein kinase PBS1; Serine/threonine-protein kinase BIK1; Transferase(Phosphotransferase) domain 1; Phosphorylase Kinase; domain 1; OS01G0588500 PROTEIN-RELATED; Protein tyrosine and serine/threonine kinase; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: probable serine/threonine-protein kinase PIX13%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu06H
+  Gene Products: probable serine/threonine-protein kinase PIX13
+Ata
+  Gene count: 2
+  Modal chromosome: Ata06D
+  Gene Products: probable serine/threonine-protein kinase PIX13; probable serine/threonine-protein kinase PIX13%2C transcript variant X2
+Tae
+  Gene count: 7
+  Modal chromosome: Tae06D
+  Gene Products: probable serine/threonine-protein kinase PIX13; probable serine/threonine-protein kinase PIX13%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: probable serine/threonine-protein kinase PIX13
+  Gene Descriptions: probable serine/threonine-protein kinase PIX13
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: probable serine/threonine-protein kinase PIX13
+  Gene Descriptions: probable serine/threonine-protein kinase PIX13
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: probable serine/threonine-protein kinase PIX13; probable serine/threonine-protein kinase PIX13%2C transcript variant X1
+  Gene Descriptions: probable serine/threonine-protein kinase PIX13
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: probable serine/threonine-protein kinase PIX13
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: probable serine/threonine-protein kinase PIX13
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: probable serine/threonine-protein kinase PIX13%2C transcript variant X3
+Zma
+  Gene count: 2
+  Modal chromosome: Zma04
+  Gene Products: serine/threonine-protein kinase Cx32%2C transcript variant X1
+  Gene Synonyms: GRMZM2G025127; GRMZM2G156824
+  Gene Descriptions: serine/threonine-protein kinase Cx32
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 434 aa
+
+MGNICGGSGKAhVAeDfRPSSPGTMTsKTSGSITTSNSTTGKLSSVGSSFMASAGSgSTS
+GGFDEGaKYPEGQILEAPNLRTFTFlELKTATKNFRPDSVLGEGGFGRVYKGWVDEKTMN
+PTKSGTGMVVAVKKLNSESMQGYEEWQSEINFLGRLSHPNLVKLLGYCWEDKELLLVYEF
+MAKGSLENHLFRRGCAPLSWELRLKIAIGAARGLAFLHASEKQVIYRDFKASNILLDANY
+NAKLSDFGLAKLGPTGSNSHITTRVMGTYGYAAPEYVATGHLYVKSDVYGFGVVMLEMLS
+GQRALDPNRPNGQLSLVDWAKPYLADRRKLARLMDPRFEGQYNSKQAfQAAQLTLNCLAG
+EPRSRPSMKEVVETLEQIESMKSRAREARGGSGGSSRDRHHGRSGAAHQRSSPRaGGDpR
+RGSRAANGHATKAR
+
+
+BOP CONSENSUS:
+Length: 432 aa
+
+MGNICGGAGKADVAADYRPSSPGTSNYKTSGSVTTSNSTTGKLSSGGSSFMASAGSGGTS
+GGFDEGGFLEGQILEAPNLRTFTFLELRTATKNFRPDSVLGEGGFGRVYKGWVDEKTMNP
+TKSGTGMVVAVKKLNSESMQGYEEWQSEINFLGRLSHPNLVKLLGYCWEDKELLLVYEFM
+AKGSLENHLFRKGCAPLSWELRLKIAIGAARGLAFLHASEKQVIYRDFKASNILLDASYN
+AKLSDFGLAKLGPTGSNSHITTRVMGTYGYAAPEYVATGHLYVKSDVYGFGVVMLEMLSG
+QRALDPNRPNGQQSLVDWAKPYLADRRKLARLMDPQFEGQYNSKQShQAAQLTLNCLAGE
+PRSRPSMKEVLETLEQIEAMKSRTREARGGSGTSSRDRAHGRSAAHQRSSPRGGSDGRRG
+SRATNGHATKAR
+
+
+PACMAD CONSENSUS:
+Length: 434 aa
+
+MGNICGGSGKAHVAEDFRPSSPGTTMTSKTSGSITTSQSTTGKLSSVGSSFMASAGSRST
+SGGFDEGGKYPDGQILEAPNLRTFTFMELKAATKNFRPDSVLGEGGFGRVYKGWVDEKTM
+aPTKNGTGMVVAVKKLNSESMQGYEEWQSEINFLGRLSHPNLVKLLGYCWEDKELLLVYE
+FMAKGSLENHLFRRGCAPLSWELRLKIAIGAARGLAFLHASEKQVIYRDFKASNILLDAN
+YNAKLSDFGLAKLGPTGSNSHITTRVMGTYGYAAPEYVATGHLYVKSDVYGFGVVMLEML
+SGQRALDPNRPNGQLSLADWAKPYLADRRKLARLMDPRFEGQYNSKQAFQAAQLTLNCLA
+GEPRSRPSMKEVVETLEQIESMKSRAREARGGGSSRDRHHGRSGaAHQRSSPRAGGEPRG
+RGSRAANGHAGKAR
+
+================================================================================

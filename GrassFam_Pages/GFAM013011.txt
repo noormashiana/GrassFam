@@ -1,0 +1,131 @@
+================================================================================
+GrassFam ID: GFAM013011
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             427.0 aa
+Family Size (Extended Family Size): 22 (31) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10383:SF63
+Panther Family ID:               PTHR10383
+Modal Panther ID:                PTHR10383:SF63
+Modal Panther Description:       OS01G0179800 PROTEIN
+Modal Panther Family ID:         PTHR10383
+Modal Panther Fam Desc:          SERINE INCORPORATOR
+Interpro Signature Accession:    PTHR10383; PF03348
+Interpro Signature Description:  SERINE INCORPORATOR; Serine incorporator (Serinc)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: probable serine incorporator%2C transcript variant X4
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: probable serine incorporator%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: probable serine incorporator%2C transcript variant X2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: probable serine incorporator; probable serine incorporator%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: uncharacterized LOC127774501%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127774501
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4325348
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: uncharacterized LOC133897016%2C transcript variant X1; uncharacterized LOC133897849
+  Gene Descriptions: uncharacterized LOC133897016; uncharacterized LOC133897849
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: probable serine incorporator%2C transcript variant X1; probable serine incorporator%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: probable serine incorporator
+Msi
+  Gene count: 3
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: probable serine incorporator
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: uncharacterized LOC100192587%2C transcript variant X2; uncharacterized LOC100279792
+  Gene Synonyms: gpm851,GRMZM2G088356
+  Gene Descriptions: uncharacterized LOC100192587; uncharacterized LOC100279792
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 426 aa
+
+MTLGsGGvDMEAGGGgGAGaAEsDGgGrscGERCVgRfvEDWCCACAGLflGPNPMMARY
+VYALIFLVTNLLAWTLRDYGHSALaELQRLKVCQGARYCLGAEGVLRISLGCFLFFFVMF
+LSTVnTRKVHDCRNSWHSEWWPAKIVLWMGLTAVPFFAPSPLVQLYGKVAHFGAGAFLVI
+QLISVTRFITWLNDCCRSEiNlKRCHMQVqVVSIVTYVGSlLGIVLMYVWYAPSpaCKLN
+ILFITVTLVLVQLMTFVSmSSKVKAGYLAPGLMGIYVVFLCWSAIRSEPHTEICNRKAEV
+ATSADWVNIASFVIAVIVIVAATFSTGIDSKCLQFKkAEgESEEDDIPYGFGFFHFVFAM
+GAMYFAMIFVGWNAHQTMEKWTIDVGWASTWVRVGNEWLAAIVYIWMmIAPIIWKtRQVG
+SSaEta
+
+
+BOP CONSENSUS:
+Length: 444 aa
+
+MTLDAPEVVVERDGSGAgVtipAMERDGGvGAGVAPTAAESDGGGGRSCGERCVIRVaEE
+SCCARCVCvGPNPMMARYVYALIFLVTNLLAWTVRDYGHSALGELRRLRGCQGARYCLGA
+EGVLRISLGCFLFFFVMFLSTMKTRKVHDCRNSWHSEWWPVKIVLWMALTAVPFFAPSPL
+IQLYGKVAHFGAGAFLVIQLISVTRFITWLNDCCRSELNLKRCHMQVLVVSIVTYVGSIL
+GIVLMYVWYAPTSACKLNILFITVTLVLVQLMTFVSVNSKVKAGYLAPGLMGIYIVFLCW
+SAIRSEPHTEICNRKAEVATSADWLNIASFVIAVIVVVAATFSTGIDSKCLQFKSAETES
+EDDDIPYGFGFFHFVFAMGAMYFAMLFVGWNAHQEMEKWTIDVGWASTWVRVGNEWLAAI
+VYIWMIVAPIVWKRRQVGSSSaCA
+
+
+PACMAD CONSENSUS:
+Length: 416 aa
+
+MTLGSGvDMEAGGggaGtAGSsdeRCGRFvEDWCCACAGLFLGPNPMMARYLYALIFLVT
+NLLAWTLRDYGnSALAELQRLKVCQGARYCLGAEGVLRISLGCFLFFFVMFLSTVNTRKV
+HDCRNSWHSEWWPAKlVLWLGLTAVTFLAPSPLVQLYGKVAHFGAGAFLVIQLISVTRFI
+MWLNDCCRSEITQKRCHLQIQVVSIVTYVGSLLGIVLMYVWYAPSPaCKLNILFITVTLV
+LVQLMTFVSMSSKVKAGYLAPGLMGIYVVFLCWSAIRSEPHTEICNKKAEVATSADWVNI
+ASFVIAVIVIVAATFSTGIDSKCLQFKqAEGESEEDDIPYGFGFFHLVFAMGAMYFAMIF
+VGWNAsQTMEKWTIDVGWASTWVRIGNEWLAAIVYIWMMIAPVIWKTRQVGSSAET
+
+================================================================================

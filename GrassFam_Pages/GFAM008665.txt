@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM008665
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             559.0 aa
+Family Size (Extended Family Size): 21 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR42826:SF3
+Panther Family ID:               PTHR42826
+Modal Panther ID:                PTHR42826:SF3
+Modal Panther Description:       DICARBOXYLATE TRANSPORTER 1, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR42826
+Modal Panther Fam Desc:          DICARBOXYLATE TRANSPORTER 2.1, CHLOROPLASTIC
+Interpro Signature Accession:    cd00625; TIGR00785; PTHR42826; PF00939
+Interpro Signature Description:  ArsB_NhaD_permease; DASS family sodium-coupled anion symporter; DICARBOXYLATE TRANSPORTER 2.1, CHLOROPLASTIC; Sodium:sulfate symporter transmembrane region
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: dicarboxylate transporter 1%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: dicarboxylate transporter 1%2C chloroplastic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: dicarboxylate transporter 1%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: dicarboxylate transporter 1%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl12
+  Gene Products: dicarboxylate transporter 1%2C chloroplastic
+  Gene Descriptions: dicarboxylate transporter 1%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa12
+  Gene Products: dicarboxylate transporter 1%2C chloroplastic
+  Gene Descriptions: dicarboxylate transporter 1%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu06
+Pau
+  Gene count: 2
+  Modal chromosome: Pau22
+  Gene Products: dicarboxylate transporter 1%2C chloroplastic-like
+  Gene Descriptions: dicarboxylate transporter 1%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: dicarboxylate transporter 1%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: dicarboxylate transporter 1%2C chloroplastic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi14
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: dicarboxylate transporter 1%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: oxo-glutarate/malate transporter1
+  Gene Synonyms: GRMZM2G383088,pco103506(726),pOMT1,ZmpOMT1
+  Gene Descriptions: oxo-glutarate/malate transporter1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 559 aa
+
+MASSTAASPLTCHHLGsvgARPRLPSLSFSLRRRSSKPISLSHSHSLPSKPLlAPPPAAS
+spSRRvLtPVSASASAAAAPAAPPPKPALQGAAIKPLLATIATGVLIWLVPAPAGVPRNA
+WQLLAIFLSTIVGIITQPLPLGAVALLGLGAAVLTRTLTFAAAFSAFGDPIPWLIALAFF
+FARGFIKTGLGSRVAYAFVAAFGSSSLGLGYALVFAEALLAPAIPSVSARAGGIFLPLVK
+SLCEACGSRAGDGTERRLGAWLMLTCFQTSVVSSAMFLTAMAANPLSANLTAATIGQGIG
+WTLWAKAAIVPGLLSLVLVPLILYVIYPPEVKtSPDAPRLAKERLAKMGPMSKEEKIMAG
+TLLLTVGLWIFGGMLNVDAVSAAILGLSVLLITGVVTWKECLAESVAWDTLTWFAALIAM
+AGYLNKYGLISWFSETVVKFVGGLGLSWQLSFGVLVLLYFYSHYFFASGAAHIGAMFAAF
+LSVASALGTPSLFAAMVLSFLSNLMGGLTHYGIGSAPVFYGAGYVPLAQWWGYGFVISVV
+NIIIWLGAGGFWWKMIGLW
+
+
+BOP CONSENSUS:
+Length: 548 aa
+
+MATSTSAATAPLTCHHLGLRLRPRLPSLPLRPLSPSPSLSLSRPTPLTPSPPPRHRALHA
+SASAAPAAPPSQPPKPVLQGAAIKPLVATIGTGVLIWLVPPPAGVARNAWQLLSIFLATI
+VGIITQPLPLGAVALLGLGAAVLTRTLTFAAAFSAFGDPIPWLIALAFFFARGFIKTGLG
+SRVAYAFVSAFGGSSLGLGYALVFAEALLAPAIPSVSARAGGIFLPLVKSLCEACGSRAG
+DGTERRLGSWLMLTCFQTSVISSAMFLTAMAANPLAANLTAGTIGQGIGWTLWAKAAIVP
+GLLSLVFVPLILYLIYPPEVKTSPDAPRLAKERLEKMGPMSKEEKIMAGTLFLTVGLWIF
+GGMLNVDAVSAAILGLSVLLISGVVTWKECLGEAVAWDTLTWFAALIAMAGYLNKYGLIS
+WFSETVVKFVGGLGLSWQLSFGVLVLLYFYSHYFFASGAAHIGAMFTAFLSVSSALGTPP
+LIAAMVLSFLSNIMGGLTHYGIGSAPVFYGAGYVPLAQWWGYGFVISIVNIIIWLGAGGF
+WWKMLGLW
+
+
+PACMAD CONSENSUS:
+Length: 567 aa
+
+MASSTAASPLTCHHLGSvgAPRPRLPSLSFSLRRRSSSKPISLSHSHSLPSKPLlAPPPA
+ASASSpSRRvLtPVSASASAAAAPAPAPAAPPPKPALQGAAIKPLLASIATGVLIWLVPA
+PAGVPRNAWQLLAIFLSTIVGIITQPLPLGAVALLGLGAAVLTRTLTFAAAFSAFGDPIP
+WLIALAFFFARGFIKTGLGSRVAYAFVAAFGSSSLGLGYSLVFAEALLAPAIPSVSARAG
+GIFLPLVKSLCEACGSRAGDGTERRLGAWLMLTCFQTSVVSSAMFLTAMAANPLSANLTA
+ATIGEGIGWTLWAKAAIVPGLLSLVLVPLILYVIYPPEVKsSPDAPRLAKERLAKMGPMS
+KEEKIMAGTLLLTVGLWIFGGMLNVDAVSAAILGLsVLLITGVVTWKECLAESVAWDTLT
+WFAALIAMAGYLNKYGLISWFSETVVKFVGGLGLSWQLSFGVLVLLYFYSHYFFASGAAH
+IGAMFAAFLSVASALGTPSLFAAMVLSFLSNLMGGtTHYGIGSAPVFYGAGYVPLAQWWG
+YGFVISVVNIIIWLGAGGFWWKMIGLW
+
+================================================================================

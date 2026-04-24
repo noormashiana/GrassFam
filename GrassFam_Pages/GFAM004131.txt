@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM004131
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             490.0 aa
+Family Size (Extended Family Size): 19 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31153:SF21
+Panther Family ID:               PTHR31153
+Modal Panther ID:                PTHR31153:SF21
+Modal Panther Description:       OS05G0508800 PROTEIN
+Modal Panther Family ID:         PTHR31153
+Modal Panther Fam Desc:          CALMODULIN CALCIUM-DEPENDENT NAD KINASE
+Interpro Signature Accession:    G3DSA:3.40.50.300; PTHR31153
+Interpro Signature Description:  -; CALMODULIN CALCIUM-DEPENDENT NAD KINASE
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: uncharacterized LOC100837470
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: calmodulin calcium-dependent NAD kinase-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: calmodulin calcium-dependent NAD kinase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: calmodulin calcium-dependent NAD kinase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: calmodulin calcium-dependent NAD kinase%2C transcript variant X1
+  Gene Descriptions: calmodulin calcium-dependent NAD kinase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: calmodulin calcium-dependent NAD kinase%2C transcript variant X1
+  Gene Descriptions: calmodulin calcium-dependent NAD kinase
+Pau
+  Gene count: 1
+  Modal chromosome: Pau11
+  Gene Products: calmodulin calcium-dependent NAD kinase-like%2C transcript variant X1
+  Gene Descriptions: calmodulin calcium-dependent NAD kinase-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: calmodulin calcium-dependent NAD kinase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: uncharacterized LOC112887527
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: uncharacterized LOC8080089%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: uncharacterized LOC100304390%2C transcript variant X1
+  Gene Synonyms: GRMZM2G368410
+  Gene Descriptions: uncharacterized LOC100304390
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 483 aa
+
+MRDDGtasALvPRLlVSsaSRVQELERFSHYVARQIGFDhVkECPHLCTLAYDYLRKNKG
+YEENIFAFFQNtlDPEpLIVKFIEELDKCILGYFSFHWKYATYIITQVLTVEGAPKRKLR
+NMVLEATReQRFERVTRNLKVTRLFSTLVEELKAIGLSSrddaPRSDVMVPVAHCDRSPV
+LLLMGGGMGAGKSTVLKDILKEAFWSGAAANAVVVEADAFKETDVIYRAISSRGHHNDML
+QTAELVHQSSMDAASSLLVTALNEGRDVIMDGTLSWEPFVQQTIAMARAVHRQRYRMGVG
+YKVTeDGTITEEYWEPVEDSSTDEEnEvRaRKPYRIELVGVVCDAYLAVVRGIRRAVITG
+RAVRVKSQLQSHKRFATAFrSYCsLVDNARLYSTNSmGAPKLIGWKDGESNLLVDPEEIG
+CLERVSsLNDEANCVHELYaDGQPGSSSAWQDLVMSPSRASaQRELKAAVQrSEARFRpA
+SlD
+
+
+BOP CONSENSUS:
+Length: 483 aa
+
+MRDDGPAAALVPRLAVSSASRVEELERFSHYVARQIGFDHASECPHLCTLAYDYLRKNKG
+YEENIFAFFQNTaDPESLIVKFIEELDKCILGYFSFHWKCSTYMITQVLTVEGAPKRKLR
+NMVLEATRSQRFERVTRNLKVTRLFSTLVEELKAIGLSPHgpAQCSDVMVPVAHCDRSPV
+LLLMGGGMGAGKSTVLKDILKESFWSGAAANAVVVEADAFKETDVIYRAISSRGHHNDML
+QTAELVHQSSMDAASSLLVTALNEGRDVIMDGTLSWEPFFQQTVAMARAVHRQRYRMGVG
+YKVTEDGSITEDYWEPVEAsSTDEESEMRsRKPYRIELVGVVCDAYLAVVRGIRRAVITG
+RAVRVKSQLQSHKRFATAFRGYCGVVDNARLYSTNSMGAPKLIGWKDGESNLLVDPEEIG
+CLERVSGLNDEANCVDELYPDGQPSPSAWQDLVASPSRASVQRELRAAVQASEARFRAAS
+LAD
+
+
+PACMAD CONSENSUS:
+Length: 485 aa
+
+MRDDGTGSAAELLsPRLLVSASSRVQELERFSHYVARQIGFDDVKECPHLCTLAYDYLRK
+NKGYEENIFAFFQNNmDPEPLIVKFIEELDKCILGYFSFHWKYATYIITQVLTVEGATKR
+KFKNMVLEATREQRFERVTRNLKVTRFFSTLVEELKAIGPSSRDDSPRNDVMVPVAHCNR
+SPVLLLMGGGMGAGKSTVLKDILKEAFWSGAAANSVVVEADAFKETDVIYRAISSRGHHN
+DMLRTAELVHQSSLDAASSLLVTALNEGRDVIMDGTLSWEPFVQQTIAMARAVHRQRYRM
+GRGYKVTDDGTITEEYWEPVEDSSTeEENEVtARKPYRIELVGVVCDAYLAVVRGIRRAV
+ITGRAVRVKSQLQSHKRFATAFNSYCSLVDNARLYSTNTLGvAKLIGWKDGESSLLVDPE
+EIGCLERVRSLNEEADCVHELYADGQPTGGSSSAWQDLVMSPSRASAQRELKAAIEKnEA
+RFrPA
+
+================================================================================

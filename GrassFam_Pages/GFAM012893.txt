@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM012893
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             368.0 aa
+Family Size (Extended Family Size): 62 (66) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Weak
+Panther Family ID:               PTHR11746
+Modal Panther ID:                PTHR11746:SF180
+Modal Panther Description:       O-METHYLTRANSFERASE 2-RELATED
+Modal Panther Family ID:         PTHR11746
+Modal Panther Fam Desc:          O-METHYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:1.10.10.10:FF:000213; G3DSA:3.40.50.150:FF:000185; G3DSA:3.40.50.150; G3DSA:1.10.10.10; PTHR11746; PIRSF005739; PF00891; SSF46785; SSF53335
+Interpro Signature Description:  Coniferyl alcohol 9-O-methyltransferase; O-methyltransferase family protein; Vaccinia Virus protein VP39; -; O-METHYLTRANSFERASE; O-mtase; O-methyltransferase domain; Winged helix DNA-binding domain; S-adenosyl-L-methionine-dependent methyltransferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                1.61%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: probable O-methyltransferase 2
+Lpe
+  Gene count: 5
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 7
+  Modal chromosome: Hvu07H
+  Gene Products: flavonoid O-methyltransferase-like protein Os11g0303600; probable O-methyltransferase 2
+Ata
+  Gene count: 6
+  Modal chromosome: Ata07D
+  Gene Products: probable O-methyltransferase 2; probable O-methyltransferase 2%2C transcript variant X1
+Tae
+  Gene count: 15
+  Modal chromosome: Tae04A
+  Gene Products: probable O-methyltransferase 2; probable O-methyltransferase 2%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 3
+  Modal chromosome: Ogl11
+  Gene Products: daphnetin O-methyltransferase 1-like; flavonoid O-methyltransferase-like protein Os11g0303600
+  Gene Descriptions: daphnetin O-methyltransferase 1-like; flavonoid O-methyltransferase-like protein Os11g0303600
+Osa
+  Gene count: 3
+  Modal chromosome: Osa11
+  Gene Products: daphnetin O-methyltransferase 1; daphnetin O-methyltransferase 1-like
+  Gene Descriptions: daphnetin O-methyltransferase 1; daphnetin O-methyltransferase 1-like
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 5
+  Modal chromosome: Pau12
+  Gene Products: probable O-methyltransferase 2
+  Gene Descriptions: probable O-methyltransferase 2
+Svi
+  Gene count: 4
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi08N
+  Gene Products: probable O-methyltransferase 2
+Pha
+  Gene count: 2
+  Modal chromosome: Pha08
+  Gene Products: probable O-methyltransferase 2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: probable O-methyltransferase 2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100284287
+  Gene Synonyms: gpm747,GRMZM2G349791
+  Gene Descriptions: uncharacterized LOC100284287
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 369 aa
+
+MAAQAqTIEVPTDAELLQAQADLWRHSLYYLTSMGLRCAVELgIPTAIHnLGGvaSLPDL
+maALSLPssKlPFLrRLMRvLVTSGVFAADgdsEsgvElYRLNPLSRiLVdGVvADEHHS
+QKYFVLAtTSrHYvEAALGLADWFKKDlepPVPSPFEDvHGVPLFDEsTaLLDeELDavV
+NEGLAAHDNLGIGTIlREChDLFKGLeSLTDCCGGDGTTARAIvKAyPHIKCTVLDLPKV
+IdKAPaDGVVNYVAGDLFHTVPPAQAVMLKLVLHFWSDEDCVKILeQCKKAIPSREEGGK
+VIIIEIVVgPSLGPIMFEAQLLMDMLMMVNTRGRQRDENDWReLFmKAGFSDYKIVKKLG
+ARGVIEVYP
+
+
+BOP CONSENSUS:
+Length: 369 aa
+
+MAAQApTIEVPTDAELLQAQADLWRHSLYYLTSMGLRCAVkLGIPTAIHRLGGVASLPDL
+MAALSLPssKmPFLGRLMRVLVTSGVFAAdgdsESGaELYRLTPLSRILVDGVVADEHHS
+QtyFVLAvTSPHYtEAALGLADWFKKDvEpPVPSPFEDvHGAPLFDEsTALLDpELDAVV
+NeGLAAHDNLGIGTILRECHDLFKGLESLTDCCGGDGTTARAIvKAYPHIKCTVLDLPKV
+IDKAPsDGVVNYVAGDLFHTVPsSQAVMLKLVLHHWSDEDCVKILtQCKKAIPSREEGGK
+VIIIDIVVGPSLGPVMFEAQLLMDMLMMVNTRGRQRsENDWReLFmKAGFTDYKIVKKLG
+ARgVIEVYP
+
+
+PACMAD CONSENSUS:
+Length: 367 aa
+
+MAAeSQTIIVPTDAELLQAQADLWRHSLYYLTSMALKCAVELHIPTAIHNLGGATSLPDL
+VTALSLPqTKLPFLRRlMRLLVTSGIFASDSnAEVETYRLNPLSWLLVEGVEAEDHTYQK
+YFVLGTVSRHYVEAGLSLADWFKKDLppPLPSPFEdLHGVPLvHEsTKLLDEELDRIVNE
+GVAAHDNLAIGTIIRECsDLFKGLQSLTDCCGGDGTTVRAIiKAFPHIKCTVLDLPkVIE
+TtPAdDaVNYVAGDMFkfIPPAQAVMLKLVLHFWNDEDCVKILEQCRKAIPSREEGGKVI
+IIEIVLsPSMGPIMYEAQLLMDMLMMVNTRGRQRDENDWREIFmKAGFSDYKIVKKIGAR
+GIIEVYP
+
+================================================================================

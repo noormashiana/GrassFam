@@ -1,0 +1,127 @@
+================================================================================
+GrassFam ID: GFAM001903
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             411.0 aa
+Family Size (Extended Family Size): 52 (61) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13832:SF285
+Panther Family ID:               PTHR13832
+Modal Panther ID:                PTHR13832:SF285
+Modal Panther Description:       PROTEIN PHOSPHATASE 2C 22-RELATED
+Modal Panther Family ID:         PTHR13832
+Modal Panther Fam Desc:          PROTEIN PHOSPHATASE 2C
+Interpro Signature Accession:    cd00143; G3DSA:3.60.40.10:FF:000056; G3DSA:3.60.40.10; PTHR13832; PF00481; SM00332; SSF81606
+Interpro Signature Description:  PP2Cc; Probable protein phosphatase 2C 18; -; PROTEIN PHOSPHATASE 2C; Protein phosphatase 2C; PP2C_4; PP2C-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 3
+  Modal chromosome: Bdi03
+  Gene Products: probable protein phosphatase 2C 16%2C transcript variant X1; probable protein phosphatase 2C 21%2C transcript variant X2
+Lpe
+  Gene count: 4
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu04H
+  Gene Products: probable protein phosphatase 2C 21
+Ata
+  Gene count: 2
+  Modal chromosome: Ata04D
+  Gene Products: probable protein phosphatase 2C 21
+Tae
+  Gene count: 9
+  Modal chromosome: Tae07A
+  Gene Products: probable protein phosphatase 2C 21; probable protein phosphatase 2C 21%2C transcript variant X2
+Ola
+  Gene count: 5
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 7
+  Modal chromosome: Ogl02
+  Gene Products: probable protein phosphatase 2C 16; probable protein phosphatase 2C 17; probable protein phosphatase 2C 18; probable protein phosphatase 2C 20%2C transcript variant X7; probable protein phosphatase 2C 21; probable protein phosphatase 2C 21%2C transcript variant X5; putative protein phosphatase 2C 22
+  Gene Descriptions: probable protein phosphatase 2C 16; probable protein phosphatase 2C 17; probable protein phosphatase 2C 18; probable protein phosphatase 2C 20; probable protein phosphatase 2C 21; putative protein phosphatase 2C 22
+Osa
+  Gene count: 7
+  Modal chromosome: Osa02
+  Gene Products: probable protein phosphatase 2C 16%2C transcript variant X3; probable protein phosphatase 2C 18; probable protein phosphatase 2C 19%2C transcript variant X1; probable protein phosphatase 2C 20%2C transcript variant X1; probable protein phosphatase 2C 21
+  Gene Synonyms: OJ1212_D02.33,OsPP2C16; OsJ_007176,OsPP2C18; OsJ_007234,OsJ_07456,OsPP2C21
+  Gene Descriptions: probable protein phosphatase 2C 16; probable protein phosphatase 2C 18; probable protein phosphatase 2C 19; probable protein phosphatase 2C 20; probable protein phosphatase 2C 21
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN756
+Pau
+  Gene count: 3
+  Modal chromosome: Pau06
+  Gene Products: probable protein phosphatase 2C 20; probable protein phosphatase 2C 21%2C transcript variant X1
+  Gene Descriptions: probable protein phosphatase 2C 20; probable protein phosphatase 2C 21
+Svi
+  Gene count: 3
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi01N
+  Gene Products: probable protein phosphatase 2C 21; probable protein phosphatase 2C 21%2C transcript variant X1; probable protein phosphatase 2C 21%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: probable protein phosphatase 2C 21
+Msi
+  Gene count: 1
+  Modal chromosome: Msi08
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: probable protein phosphatase 2C 21
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 365 aa
+
+MGASNSlPvtsKfTdGGENdRIKYAvSSMQGwRekMEDAlAAvLDLDGtsTSFFGVYDGH
+GGAEVALYCArQFHiELvkhPDYqNNLnNAirSVFFRiDElLqqSDEWrElvnPrgnrnw
+iqfLktgiCAnlWPFtktpYvPPqyEGSTACVAlIRGNQIIVGNVGDSRCVLSRNGQAId
+LSTDHKPnhpsEReRIqRAGGqVvrDripvrdgGrvvgrelGisRinGiLaiSRAIGDFq
+FKkNknLPPaeQMVTCnPDIrTvDITDDTEFLVIASDGIWdcMtSQnVVDFVrqrLqSGE
+tDLRvICErLldrCLpSgDNmTVILVQFKpGArpppPtvdvDeetagsrddeipgdPnas
+eeqpg
+
+
+BOP CONSENSUS:
+Length: 385 aa
+
+MGAsnSLPVTSKlSngGENDRIKYAtSSMQGwReeMEDAlAAiLDLDGssSTSFFGVYDG
+HGGAeVAlYCAkQFHiELvKepDYgNNLpnAiehVCFRIDEkLqRSDEWkEpanPpgNrt
+lknlLktalCAnfkerYvpPqyEGSTACVVLIRGNQIIVGNVGDSRCVLSRNGQAIDLST
+DHKPnhpsERERIeRAGGqVvrdripqrisGRvvrvswGiyRvgGkLAiSRAIGDFqFKK
+NktLpPAeQMVTCnPDIrTVDITDDTEFLVIASDGIWDvMSSQnVVDFVRQRLqSGEtDL
+RaICEkLLdsCLgSsDNmTVILVqFKpGARippPPtdvDenPTNtvAShnaTAeARADes
+qvniEvgvqssangnedDDGSLdLf
+
+
+PACMAD CONSENSUS:
+Length: 366 aa
+
+MGASNSRPvtsKfTeGGENvRIKYAvSSMQGrrkKMEDAyAAVPDLDhTTSFFGVYDGHG
+GAEVALLCArQFHiELrnHPnYQtNLNNAiRSVFfRMDELLqQSNEWRELVnPtgsrNwI
+QrlftCvcANpWPFtQetPYiPPQstGSTACVAVIRGNQIIVGNVGDSRCVaSRNGQAIe
+LSTdHKPyhrnERrRIQRAGGrviiDknVvlegEgrlgGisaInGiLatSRAIGDFvFKQ
+NKNLPPeEQMVTCnPDirtMEITnDIEFLVIASdGIWlcMTsQgVVDFVReyLrSGETDL
+RvICERLcdRalPSiDNtTVILVQFKhgApspaPkEeneEDiEsegSrDNeikpaASEEQ
+PfAPng
+
+================================================================================

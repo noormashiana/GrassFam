@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM011358
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             350.0 aa
+Family Size (Extended Family Size): 30 (30) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43888:SF46
+Panther Family ID:               PTHR43888
+Modal Panther ID:                PTHR43888:SF46
+Modal Panther Description:       J DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR43888
+Modal Panther Fam Desc:          DNAJ-LIKE-2, ISOFORM A-RELATED
+Interpro Signature Accession:    cd06257; cd10747; G3DSA:2.60.260.20:FF:000013; G3DSA:1.10.287.110:FF:000062; G3DSA:2.60.260.20; G3DSA:1.10.287.110; PTHR44298; PR00625; PF00226; PF01556; SM00271; SSF46565
+Interpro Signature Description:  DnaJ; DnaJ_C; DnaJ subfamily B member 11; DnaJ protein ERDJ3B; -; DnaJ domain; DNAJ HOMOLOG SUBFAMILY B MEMBER 11; DnaJ domain signature; DnaJ C terminal domain; dnaj_3; Chaperone J-domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: dnaJ protein ERDJ3B
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: dnaJ protein ERDJ3B
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: dnaJ protein ERDJ3B%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: dnaJ protein ERDJ3B; dnaJ protein ERDJ3B-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: dnaJ protein ERDJ3B
+  Gene Descriptions: dnaJ protein ERDJ3B
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: dnaJ protein ERDJ3B-like
+  Gene Synonyms: DJB6,ERDJ3B,OsDjB6,OsERdj3B,OsJ_17183,P0676G05.5
+  Gene Descriptions: dnaJ protein ERDJ3B-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 3
+  Modal chromosome: Pau02
+  Gene Products: dnaJ protein ERDJ3B; dnaJ protein ERDJ3B-like
+  Gene Descriptions: dnaJ protein ERDJ3B; dnaJ protein ERDJ3B-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: dnaJ protein ERDJ3B; dnaJ protein ERDJ3B-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha03
+  Gene Products: dnaJ protein ERDJ3B; dnaJ protein ERDJ3B-like
+Msi
+  Gene count: 4
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi03
+  Gene Products: dnaJ protein ERDJ3B
+Zma
+  Gene count: 3
+  Modal chromosome: Zma08
+  Gene Products: dnaJ homolog subfamily B member 11-like; dnaJ protein ERDJ3B; uncharacterized LOC100381538
+  Gene Synonyms: GRMZM2G086964; GRMZM2G108259
+  Gene Descriptions: dnaJ homolog subfamily B member 11-like; uncharacterized LOC100381538
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 350 aa
+
+MAAPRGgAARlAAAlLLLLHLaAAIAGKSYYDVLQVPKGASEDQIKRSYRKLALKYHPDK
+NPDNEEANKRFAEINNAYEVLTDQEKRKIYDRYGEEGLKQFQGGRGGGGGGMNIQDIFSS
+FFGGGGGGMEEEEEQIlKGDDVIVELDASLEDLYMGGSLKVWREKNVIKPAPGKRRCNCR
+NEVYHRQIGPGMYQQMTEQVCDQCPNVKYVREGDFLTVDIEKGMQDGQEVLFFEEGEPKI
+DGEPGDLKFRIRTAPHeRFRREGNDLHATVTISLLQALVGFEKTIKHLDNHLVEIGTKGI
+TKPKEVRKFKGEGMPLYQSNKKGDLYVTFEVLFPKTLTDDQKAKLKDVLa
+
+
+BOP CONSENSUS:
+Length: 350 aa
+
+MAAPRRSGARLAAVLALLLHLAAVIEGKSFYDVLQVPKGASEDQIKRSYRKLALKYHPDK
+NPDNEEATKRFAEINNAYEVLTDQEKRKIYDRYGEEGLKQFQGGRGGGGGGMNMQDIFSS
+FFGGGGGGMEEEEEQIIKGDDVIVELDASLEDLYMGGSLKVWREKNIIKPAPGKRRCNCR
+NEVYHRQIGPGMYQQMTEQVCDQCPNVKYVREGDFLTVDIEKGMQDGQEVSFFEEGEPKI
+DGEPGDLKFRIRTAPHDRFRREGNDLHATVTISLLQALVGFEKNLKHLDNHLVQIGSQGV
+TKPKEVRKFKGEGMPLHQSNKKGDLYVTFEVLFPKTLTDDQKAKLKDVLA
+
+
+PACMAD CONSENSUS:
+Length: 349 aa
+
+MAApGRGGAARlAAAfLVLLhLVaAIAGKSYYDVLQVPKGASEDQIKRSYRKLALKYHPD
+KNPDNEEANKRFAEINNAYEVLTDQEKRKIYDRYGEEGLKQFQGGGGGGGGMNIQDIFSS
+FFGGGGGMEEEEEQILKGDEVIVELDASLEDLYMGGSLKVWREKNVIKPAPGKRRCNCRN
+EVYHRQIGPGMYQQMTEQVCDQCPNVKYVREGDFLTVDIEKGMQDGQEVLFFEEGEPKID
+GEPGDLKFRIRTAPHERFRREGNDLHATVTISLLQALVGFEKTIKHLDNHLVEIGTKGIT
+KPKEIRKFKGEGMPLYQSNKKGDLYVTFEVLFPKTLTDDQKAKLKDVLv
+
+================================================================================

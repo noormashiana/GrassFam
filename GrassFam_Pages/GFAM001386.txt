@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM001386
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             390.0 aa
+Family Size (Extended Family Size): 18 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10218:SF343
+Panther Family ID:               PTHR10218
+Modal Panther ID:                PTHR10218:SF343
+Modal Panther Description:       GUANINE NUCLEOTIDE-BINDING PROTEIN ALPHA-2 SUBUNIT
+Modal Panther Family ID:         PTHR10218
+Modal Panther Fam Desc:          GTP-BINDING PROTEIN ALPHA SUBUNIT
+Interpro Signature Accession:    cd00066; G3DSA:1.10.400.10:FF:000008; G3DSA:3.40.50.300:FF:000733; G3DSA:1.10.400.10; G3DSA:3.40.50.300; PTHR10218; PR01242; PR00318; PF00503; SM00275; SSF52540; SSF47895
+Interpro Signature Description:  G-alpha; Guanine nucleotide-binding protein alpha-1 subunit; -; GTP-BINDING PROTEIN ALPHA SUBUNIT; Plant G protein alpha subunit signature; Alpha G protein (transducin) signature; G-protein alpha subunit; galpha_1; P-loop containing nucleoside triphosphate hydrolases; Transducin (alpha subunit), insertion domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: guanine nucleotide-binding protein alpha-1 subunit
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: guanine nucleotide-binding protein alpha-1 subunit%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: AtaUN162564
+  Gene Products: guanine nucleotide-binding protein alpha-1 subunit%2C transcript variant X2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01B
+  Gene Products: guanine nucleotide-binding protein alpha-1 subunit; guanine nucleotide-binding protein alpha-1 subunit%2C transcript variant X1; guanine nucleotide-binding protein alpha-1 subunit-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: guanine nucleotide-binding protein alpha-1 subunit%2C transcript variant X1
+  Gene Descriptions: guanine nucleotide-binding protein alpha-1 subunit
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: guanine nucleotide-binding protein alpha-1 subunit
+  Gene Synonyms: D1,GA1,GP-alpha-1,GPA1,OJ1005_D04.15,RGA1
+  Gene Descriptions: guanine nucleotide-binding protein alpha-1 subunit
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau04
+  Gene Products: guanine nucleotide-binding protein alpha-1 subunit-like
+  Gene Descriptions: guanine nucleotide-binding protein alpha-1 subunit-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi09N
+  Gene Products: guanine nucleotide-binding protein alpha-1 subunit%2C transcript variant X3
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: guanine nucleotide-binding protein alpha-1 subunit
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: guanine nucleotide-binding protein alpha-1 subunit%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: compact plant2%2C transcript variant X1
+  Gene Synonyms: GRMZM2G064732,IDP407
+  Gene Descriptions: compact plant2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 390 aa
+
+MSVLTCVLESMGSSCSRPHSLNEAEAAENAKSADIDRRILQETKAEQHIHKLLLLGAGES
+GKSTIFKQIKLLFQTGFDEAELRSYTSVIHANVYQTIKILYEGAKELAQVEPDSSKYVLS
+PDNQEIGEKLSEIGGRLDYPLLNKELVQDVRKLWQDPAIQETYSRGSILQVPDCAQYFME
+NLDRLAEADYVPTKEDVLHARVRTNGVVEIQFSPLGESKRGGEVYRLYDVGGQRNERRKW
+IHLFEGVNAVIFCAAISEYDQMLFEDETKNRMMETKELFDWVLKQRCFEKTSFMLFLNKF
+DIFERKIQKVPLSVCEWFKDYQPIAPGKQEVEHAYEFVKKKFEELYFQSSKPDRVDRVFK
+IYRTTALDQKLVKKTFKLIDESMRRSREGT
+
+
+BOP CONSENSUS:
+Length: 392 aa
+
+MSMLACALQTMGSSCSRPHSVNEAEAAdNTRSADIDRRILQETKADQHIHKLLLLGAGES
+GKSTIFKQIKLLFRTGFDEAELKGYTPVIHANVFQTIKILYDGAKELAQVEsESSKYVIS
+PDNQEIGEKLSEIGGRLDYPLLNKELVQDVRKLWEDPAIQETYSCGSVLQVPDCAHYFME
+NLDRLAEADYVPTKEDVLHARVRTNGVVEIQFSPLGESKRGGEVYRLYDVGGQRNERRKW
+IHLFEGVDAVIFCAAISEYDQLLFEDETQNRMMETKELFDWVLKQRCFEKTSFMLFLNKF
+DIFERKIQKVPLTVCEWFKDYEPIAPGKQDVEHAYEFVKKKFEEVYFQSSKPDRVDRVFK
+IYRTTALDQKLVKKTFKLIDESMRRSREGTGT
+
+
+PACMAD CONSENSUS:
+Length: 390 aa
+
+MSVLTCVIESMGSSCSRSHSLDEAEAAENAKSADIDRRILQETKAEQHIHKLLLLGAGES
+GKSTIFKQIKLLFQTGFDEAELRSYTSVIHANVYQTIKILYEGAKELAQVEPDSSKYVLS
+PDSQEIGEKLSEIGARLDYPSLNKErVQDVRKLWQDPAIQETYSRGSILQVPDCAQYFME
+NLDRLSEVDYVPTKEDVLHARVRTNGVVETQFSPLGESKRGGEVYRLYDVGGQRNERRKW
+IHLFEGVNAVIFCAAISEYDQMLFEDETKNRMMETKELFDWVLKQRCFEKTSFMLFLNKF
+DIFERKIQKVPLSVCEWFKDYQPTAPGKQEVEHAYEFVKKKFEELYFQSSKPDRVDRVFK
+IYRTTALDQKLVKKTFKLIDESMRRSREGT
+
+================================================================================

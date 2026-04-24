@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM008681
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             502.0 aa
+Family Size (Extended Family Size): 19 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22912:SF214
+Panther Family ID:               PTHR22912
+Modal Panther ID:                PTHR22912:SF214
+Modal Panther Description:       DIHYDROLIPOYL DEHYDROGENASE
+Modal Panther Family ID:         PTHR22912
+Modal Panther Fam Desc:          DISULFIDE OXIDOREDUCTASE
+Interpro Signature Accession:    G3DSA:3.50.50.60:FF:000001; G3DSA:3.30.390.30:FF:000001; G3DSA:3.50.50.60; G3DSA:3.30.390.30; TIGR01350; PTHR22912; PIRSF000350; PR00368; PR00411; PF02852; PF07992; SSF55424; SSF51905
+Interpro Signature Description:  Dihydrolipoyl dehydrogenase, mitochondrial; Dihydrolipoyl dehydrogenase; -; dihydrolipoyl dehydrogenase; DISULFIDE OXIDOREDUCTASE; Hg-II_reductase_MerA; FAD-dependent pyridine nucleotide reductase signature; Pyridine nucleotide disulphide reductase class-I signature; Pyridine nucleotide-disulphide oxidoreductase, dimerisation domain; Pyridine nucleotide-disulphide oxidoreductase; FAD/NAD-linked reductases, dimerisation (C-terminal) domain; FAD/NAD(P)-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: dihydrolipoyl dehydrogenase%2C mitochondrial
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: dihydrolipoyl dehydrogenase 1%2C mitochondrial-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: leghemoglobin reductase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: leghemoglobin reductase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: dihydrolipoyl dehydrogenase%2C mitochondrial-like
+  Gene Descriptions: dihydrolipoyl dehydrogenase%2C mitochondrial-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: dihydrolipoyl dehydrogenase%2C mitochondrial
+  Gene Descriptions: dihydrolipoyl dehydrogenase%2C mitochondrial
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau09
+  Gene Products: leghemoglobin reductase-like
+  Gene Descriptions: leghemoglobin reductase-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: leghemoglobin reductase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: leghemoglobin reductase-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: dihydrolipoyl dehydrogenase%2C mitochondrial
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 502 aa
+
+MAMASLARRRAAEAVLLRRPqAAAWASAlRGYAASGEESDVVVIGGGPGGYVAAIKAAQL
+GLKTTCIEKRGTLGGTCLNVGCIPSKALLHSSHMYHEAKSSFAHHGVKFSNLEIDLPAMM
+AQKDKAVAGLTKGIEGLFKKNKVEYVKGFGKLVSPSEVSVDLvDGGSTTVKGKNIIIATG
+SDVKSLPGVTIDEKKIVSSTGALALtEIPKKLVVIGAGYIGLEMGSVWNRLGSEVTVVEF
+APDIVPSMDGEIRKQFQRMLEKQKMKFMLKTKVVGVDTSGSGVKLTVEPAAGGEQSVLEA
+DIVLVSAGRVPYTAGLGLDtIGVETDKGGRILVDKRFMTNVKGVYAIGDAIPGPMLAHKA
+EEDGVACVEFIAGKEGHVDYDTVPGVVYTHPEVASVGKTEEQVKASGVAYQVGKFPLLAN
+SRAKAIDDAEGLVKVVAEKETDRILGVHIMAPNAGEIIHEAVLALQYGASSEDIARTCHA
+HPTVSEALKEACMQTYdKAIHM
+
+
+BOP CONSENSUS:
+Length: 502 aa
+
+MAMASLARRRAAEAVLLRRPHAAAWASACRGYAASGEESDVVVIGGGPGGYVAAIKAAQL
+GLKTTCIEKRGALGGTCLNVGCIPSKALLHSSHMYHEAKSSFAHHGVKFSNLEVDLPAMM
+AQKDKAVSGLTKGIEGLFKKNKVEYVKGFGKLVSPSEVSVDLVDGGSTIVKGKNIIVATG
+SDVKSLPGVTIDEKKIVSSTGALALTEIPKKLVVIGAGYIGLEMGSVWNRLGSEVTVVEF
+APDIVPSMDGEIRKQFQRMLEKQKFKFMLKTKVVGVDTSGSGVKLTVEPAAGGEQTVIEA
+DVVLVSAGRVPYTAGIGLDAIGVETDKGGRVLVDKRFMTNVKGVYAIGDAIPGPMLAHKA
+EEDGVACVEFIAGKEGHVDYDTVPGVVYTHPEVASVGKTEEQVKASGVAYQVGKFPLLAN
+SRAKAIDDAEGMVKVISEKETDRILGVHIMSPGAGEIIHEAVLALQYGASSEDIARTCHA
+HPTVSEALKEACMNTYDKAIHM
+
+
+PACMAD CONSENSUS:
+Length: 501 aa
+
+MAMASLARRRAADALLRRPQAAAWASALRAYAASGEESDVVVIGGGPGGYVAAIKAAQMG
+LKTTCIEKRGTLGGTCLNVGCIPSKALLHSSHMYHEAKSSFAHHGVKFSNLEIDLPAMMA
+QKDKAVAGLTKGIEGLFKKNKVDYVKGFGKLVSPSEVSVDLIDGGSTTVKGKNIIIATGS
+DVKSLPGVTIDEKKIVSSTGALALQEIPKKLVVIGAGYIGLEMGSVWNRLGSEVTVVEFA
+PDIVPSMDGEIRKQFQRMLEKQKMKFMLKTKVVGVDTSGSGVKLTVEPAAGGEQSVLDAD
+IVLVSAGRTPYTAGLGLDTIGVEMDKGGRILVDKRFMTNVNGVYAIGDAIPGPMLAHKAE
+EDGVACVEFIAGKEGHVDYDTVPGVVYTHPEVASVGKTEEQVKASGIAYQVGKFPLMANS
+RAKAIDDAEGLVKVVAEKETDRVLGVHIMAPNAGEIIHEAVLALQYGASSEDIARTCHAH
+PTVSEALKEACLQTYTKAIHI
+
+================================================================================

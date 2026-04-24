@@ -1,0 +1,144 @@
+================================================================================
+GrassFam ID: GFAM005382
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             673.0 aa
+Family Size (Extended Family Size): 19 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR42908:SF8
+Panther Family ID:               PTHR42908
+Modal Panther ID:                PTHR42908:SF8
+Modal Panther Description:       TR-TYPE G DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR42908
+Modal Panther Fam Desc:          TRANSLATION ELONGATION FACTOR-RELATED
+Interpro Signature Accession:    cd03691; cd16263; cd01891; G3DSA:3.30.70.870:FF:000003; G3DSA:2.40.30.10:FF:000076; G3DSA:2.40.50.250:FF:000001; G3DSA:3.40.50.300:FF:000463; G3DSA:3.30.70.240:FF:000002; G3DSA:3.40.50.300; G3DSA:3.30.70.870; G3DSA:2.40.50.250; G3DSA:3.30.70.240; G3DSA:2.40.30.10; TIGR01394; PTHR42908; PF21018; PF00009; SSF52540; SSF50447
+Interpro Signature Description:  BipA_TypA_II; BipA_III; TypA_BipA; GTP-binding protein TypA; Elongation factor family protein; -; Elongation Factor G (Translational Gtpase), domain 3; bipa protein; Translation factors; translational GTPase TypA/BipA; TRANSLATION ELONGATION FACTOR-RELATED; TypA/BipA C-terminal domain; Elongation factor Tu GTP binding domain; P-loop containing nucleoside triphosphate hydrolases; Translation proteins
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: GTP-binding protein TypA/BipA homolog
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: 50S ribosomal subunit assembly factor BipA
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: 50S ribosomal subunit assembly factor BipA
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: 50S ribosomal subunit assembly factor BipA-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: uncharacterized LOC127771215
+  Gene Descriptions: uncharacterized LOC127771215
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4327008
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau01
+  Gene Products: uncharacterized LOC133920873
+  Gene Descriptions: uncharacterized LOC133920873
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: 50S ribosomal subunit assembly factor BipA-like; 50S ribosomal subunit assembly factor BipA-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: GTP-binding protein TypA/BipA homolog
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: GTP-binding protein TypA/BipA homolog
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: uncharacterized LOC100382669
+  Gene Synonyms: gpm649,GRMZM2G128688
+  Gene Descriptions: uncharacterized LOC100382669
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 673 aa
+
+MAAALLLRGLRSSASRArPhfLShASSPsPlgSSLLRRLYSSAAASAAASPAltPGGVmD
+PSRIRNVAVIAHVDHGKTTLMDRLLRQCGADIPHERAMDSISLERERGITIASKVTSVSW
+KENELNMVDTPGHADFGGEVERVVGMVEGAVLVVDAGEGPLAQTKFVLSKALKYGLRPIL
+LLNKVDRPSVSEETCNEVESLVFDLFANLGATEEQLDFPVLYASAKEGWASLtFTKsPPD
+NAKNMSpLLDSIVQHVPSPKADLEAPFQMLVSMMERDFYLGRILTGRVRSGVVRVGDKVH
+GLRSTDDGVQKIEDGKVVKLMKKKGTSMVTVEAAGAGDIISMAGLAAPAIGHTVANSEVL
+TALPTIELDPPTISMTFGVNDSPLAGRDGTHLTGAKIGNRLMAEAETNLAINVLPGPLSE
+SYEVQGRGELQLGILIENMRREGFELSVSPPKVMYKTERGERLEPIEEVTVEVDEEHVGF
+VLETLTHRKGEVvDMGPVPGTTGRTRIFMTCPSRGLVGVKGIFSSFTRGTGFMHRAFQAY
+AKYRGPLGtVRKGVLVSVGKGLITSHALMSLEARGILFVSPGMEAYEGMIVGEHSRDSDL
+EVNPVRTKELTNIRAPGKDENVRLSPPRLMSLEEAIGYVAADELIEVTPKVIRLRKKYLD
+sTKRKMMKNKPMd
+
+
+BOP CONSENSUS:
+Length: 673 aa
+
+MAAALLLRGLRSSASRARPAFPSPASAPPPFASSLLHRLYSSAAASAASPPASALGGVTD
+PARIRNVAVIAHVDHGKTTLMDRLLRQCGADIPHERAMDNISLERERGITISSKVTSVSW
+KENELNMVDTPGHADFGGEVERVVGMVEGAVLVVDAGEGPLAQTKFVLSKALKYGLRPIL
+LLNKVDRPSVSEETCNEVESLVFDLFANLGATEEQLDFPVLYASAKEGWASLKFTKCPPD
+SEKNMSPLLDSIVQHVRSPKADLEAPFQMLVSMMERDFYLGRILTGRVTSGVIRVGDKVH
+GLRITDEGVQKIEDGKVVKLMKKKGTSMAvIEAAGAGDIISMAGLSGPAIGHTVANPEVL
+TALPAVELDPPTISMTFGVNDSPLAGRDGTHVTGAKIGNRLMAEAETNLAINVLPGPLSE
+SYEVQGRGELQLGILIENMRREGFELSVSPPRVMYKTERGERLEPIEEVTVEVDEEHIGF
+VLETLNNRKGELLDMGPVPGTTGRTRVFMTCPSRGLVGVKGVFNSFTRGTGFMHRAFQAY
+AKYRGPLGTVRKGVLVSVGRGFITSHALMSLEARGTLFVSPGMETYEGMIVGEHSRDSDL
+EINPVRTKELTNIRAPGKDENIRLSPPRLMTLEEAIGYVAVDELIEVTPKVIRLRKKYLD
+ANKRKMMKNKIMq
+
+
+PACMAD CONSENSUS:
+Length: 673 aa
+
+MAAALLLRGLRSSASRAHtHSLSHASSPSALGSSLLRRLYSSAAASTAASPALTPGGVMD
+PSRIRNVAVIAHVDHGKTTLMDRLLRQCGADIPHERAMDSISLERERGITIASKVTSVSW
+KENELNMVDTPGHADFGGEVERVVGMVEGAVLVVDAGEGPLAQTKFVLSKALKYGLRPIL
+LLNKVDRPSVSEETCNEVESLVFDLFANLGATEEQLDFPVLYASAKEGWASLTFTKSPPD
+NAKNMSSLLDSIVQHVPSPKADLEAPFQMLVSMMERDFYLGRILTGRVRSGVVRVGDKVH
+GLRSTDDGVQKIEDGKVVKLMKKKGTSMVTVEAAGAGDIISMAGLAAPAIGHTVANSEVL
+TALPTIELDPPTISMTFGVNDSPLAGRDGTHLTGAKIGNRLMAEAETNLAINVLPGPLSE
+SYEVQGRGELQLGILIENMRREGFELSVSPPKVMYKTERGERLEPIEEVTVEVDEEHVGF
+VLETLTHRKGEVVDMGPVPGTTGRTRIFMTCPSRGLVGVKGIFSSFTRGTGFMHRAFQAY
+AKYRGPLGSVRKGVLISVGKGLITSHALMSLEARGILFVSPGMEAYEGMIVGEHSRDSDL
+EVNPVRTKELTNIRAPGKDENVRLSPPRLMSLEEAIGYVAADELIEVTPKVIRLRKKYLD
+STKRKMMKNKPMD
+
+================================================================================

@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM011790
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             489.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43876:SF15
+Panther Family ID:               PTHR43876
+Modal Panther ID:                PTHR43876:SF15
+Modal Panther Description:       LYCOPENE BETA CYCLASE, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR43876
+Modal Panther Fam Desc:          UBIQUINONE BIOSYNTHESIS MONOOXYGENASE COQ6, MITOCHONDRIAL
+Interpro Signature Accession:    G3DSA:3.50.50.60:FF:000101; TIGR01790; PTHR39757; PF05834; SSF51905
+Interpro Signature Description:  lycopene epsilon cyclase, chloroplastic; lycopene cyclase family protein; -; Lycopene cyclase protein; FAD/NAD(P)-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: lycopene beta cyclase%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: lycopene beta cyclase%2C chloroplastic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: lycopene beta cyclase%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: lycopene beta cyclase%2C chloroplastic; lycopene beta cyclase%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: lycopene beta cyclase%2C chloroplastic
+  Gene Descriptions: lycopene beta cyclase%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: lycopene beta cyclase%2C chloroplastic
+  Gene Descriptions: lycopene beta cyclase%2C chloroplastic
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: lycopene beta cyclase%2C chloroplastic-like
+  Gene Descriptions: lycopene beta cyclase%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: lycopene beta cyclase%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: lycopene beta cyclase%2C chloroplastic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: lycopene beta cyclase%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: pink scutellum 1
+  Gene Synonyms: GRMZM5G849107
+  Gene Descriptions: pink scutellum 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 489 aa
+
+MAATALLLRtHHPCKPPPPpPppRAAvvCRAtAAGpAAAAALRSLAPPtRPELLSLDLPR
+YDPARSRPVDLAVVGGGPAGLAVAQRVAEAGLSVCAIDPSPALVWPNNYGVWVDEFEAMG
+LSHCLDTVWPSASVFIDDGraKSLDRPYARVARRKLKSTMMDRCVANGVvFHQAKVAKAV
+HyEASSLLICDDGVAVPATVVLDATGFSRCLVQYDKPYNPGYQVAYGILAEVDGHPFDID
+KMLFMDWRDSHLPEGSEIKERNRRIPTFLYAMPFSPTRIFLEETSLVARPGLAMDDIQER
+MAARLRHLGIRVRSVEEDERCVIPMGGPLPVLPQRVVGIGGTAGMVHPSTGYMVARTLAT
+APIVADAIVRFLDTGNGmgGlAGDALSAEVWKELWPAnRRRQREFFCFGMDVLLKLDLeG
+TRRFFDAFFDLEPHYWHGFLSSRLFLPELLMFGLSLFGNASNTSRLEIMAKGTVPLAKMI
+GNLIQDRDR
+
+
+BOP CONSENSUS:
+Length: 487 aa
+
+MATTALLLRAHHACRPPPAPPSPPGRAAIVCRATAASAGQALRSLAPPPRPELLSLDLPR
+YDPARSRPVDLAVVGGGPAGLAVAQRVAEAGLSVVSIDPSPGLVWPNNYGVWVDEFEAMG
+LSDCLDTVWPSASVFIDDhTSKSLHRPYARVARRKLKSTMMDRCVAHGVRFHQAKVVKVV
+HNEASSLLICDDGVAVPATVVLDATGFSRCLVQYDKPYNPGYQVAYGILAEVDEHPFDID
+KMLFMDWRDSHLPEGSAIKERNSRVPTFLYAMPFSPTRIFLEETSLVARPGLSMDDIQER
+MAARLRHLGIRIRSVEEDERCVIPMGGPLPVLPQRVVGIGGTAGMVHPSTGYMVARTLAT
+APIVADSIVRFLDTGNGGIAGDALAAEVWKELWPTDRRRQREFFCFGMDVLLKLDLQGTR
+RFFNAFFDLEPHYWHGFLSSRLFLPELLMFGLSLFAHASNTSKLEIMAKGTVPLAKMVGN
+LIQDKDR
+
+
+PACMAD CONSENSUS:
+Length: 492 aa
+
+MAATALLLRTHHHPCKPPPPPAPRAPVLCRAAAGTSAGPASAAALRSLAPPTRPELLSLD
+LPRYDPARARPVDLAVVGGGPAGLAVAQRVAEAGLSVCAIDPSPALVWPNNYGVWVDEFE
+AMGLSHCLDTVWPSASVFIDDGRAKSLDRPYARVARRKLKSAMMDRCVANGVVFHQAKVA
+KAVHYDASSLLICDDGVAVPATVVLDATGFSRCLVQYDKPYNPGYQVAYGILAEVDGHPF
+DIDKMLFMDWRDSHLPEGSEIRERNRRIPTFLYAMPFSPTRIFLEETSLVARPGLAMDDI
+QERMAARLRHLGIRVRSVEEDERCVIPMGGPLPVLPQRVVGIGGTAGMVHPSTGYMVART
+LATAPIVADAIVRFLDTGNGmGGLAGDALSAEVWKQLWPANRRRQREFFCFGMDILLKLD
+LEGTRRFFDAFFDLEPHYWHGFLSSRLFLPELLMFGLALFGNASNTSRLEIMAKGTVPLG
+KMIGNLIQDRDG
+
+================================================================================

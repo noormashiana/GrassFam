@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM016428
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             369.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43735:SF8
+Panther Family ID:               PTHR43735
+Modal Panther ID:                PTHR43735:SF8
+Modal Panther Description:       OS11G0158200 PROTEIN
+Modal Panther Family ID:         PTHR43735
+Modal Panther Fam Desc:          APOPTOSIS-INDUCING FACTOR 1
+Interpro Signature Accession:    G3DSA:3.50.50.100:FF:000006; G3DSA:3.50.50.100; PTHR43735; PF07992; SSF51905
+Interpro Signature Description:  apoptosis-inducing factor 2; -; APOPTOSIS-INDUCING FACTOR 1; Pyridine nucleotide-disulphide oxidoreductase; FAD/NAD(P)-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: apoptosis-inducing factor 2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: ferroptosis suppressor protein 1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: ferroptosis suppressor protein 1-like
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: ferroptosis suppressor protein 1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: uncharacterized LOC127755372
+  Gene Descriptions: uncharacterized LOC127755372
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4349833
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 1
+  Modal chromosome: Pau19
+  Gene Products: uncharacterized LOC133900075
+  Gene Descriptions: uncharacterized LOC133900075
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi08K
+  Gene Products: apoptosis-inducing factor homolog B-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: apoptosis-inducing factor homolog B-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: apoptosis-inducing factor 2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: FAD/NAD(P)-binding oxidoreductase family protein
+  Gene Synonyms: GRMZM2G013967
+  Gene Descriptions: FAD/NAD(P)-binding oxidoreductase family protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 369 aa
+
+MLRStGDRVVIVGGGIAGALLAKTLQNHADVVLIDPKEYFEIPWANLRAKVDPAAVERTV
+IPHSDYLTHAKVVTAsAVGVDDSVVLTSIGRAVAYDFLVIATGRTCtRPQKRSERLEMFQ
+RDKERIdAAeSVLIVGGGPIGVELAAEIVMkSPEKRVTLVHGGPRLLKVMGaRASAKALE
+WLRSKNVTVLLDQTVDLAgAtPDtReFTTSAGETVeADCHFVCTGRPVASGWLRgTFLGE
+HVDeEGhLrVDEHLRVGGLKNVFAVGDITDVPEAKQGyLAQRQAMVVSRNLRLLVKGAgr
+EEKLHRYKPaSKAaITVTLGRRDALSELPFMTLIGHIPGAVKPRDLFIsRTRRMMGLKSK
+PYGTMPRVM
+
+
+BOP CONSENSUS:
+Length: 367 aa
+
+MLRCDGDRVVIVGGGIAGALLAKTLQNHADVVLIDPKEYFEIPWANLRAKVDPTVVERTV
+IPHADYLTDAKVVTAsAVGVDDSVVLTSIGRTVGYDFLVIATGRTCTRPQSRsDRLEMFH
+RDKDRIAAAsSVLIIGGGPIGVELAAEIIMDSPDKRVTLVHGGPRLLMVMSPRASAKALE
+WLRSKNVTVLLDQTVDiDLAGtGDGyDGqRvFTTSAGETVSADCHFVCTGRPVASGWLRG
+TFLGEYVDADGRLVVDEHLRVGRLKNVFAIGDITDVPEAKQGYLAQRHAMVVSRNLRLLL
+KsAGPEHKLHRYKASKAAITVTLGRRDAVSELPFMTLIGHIPGVVKPRDLYVSRTRRMMG
+LKwNGES
+
+
+PACMAD CONSENSUS:
+Length: 369 aa
+
+MLRSTGDRVVIVGGGIAGALLAKTLQNHADVVLIDPKEYFEIPWANLRAKVDPAAVERTV
+IPHSDYLTHAKVVTAFAVGiDDSVVLTSIGRAVAYDFLVIATGRTCNRPQKQSERLEMFQ
+RDKERIDAAeSVLIVGGGPIGVELAAEIVMKSPEKRVTIVHGGPRLLKVMGARASAKALE
+WLRSKhVTVLLDQTVDLAgATPDTREFTTSAGETVEADCHFVCTGRPVASGWLReSFLgE
+HVDEEGHLRVDDHLRVGGLKNVFAVGDITDVPEAKQGHLAQRQAMVVSRNLRLLVKGAcR
+EEKLHRYKPsPRaSMTVTLGRRDALAELPFMTLIGHIPGAVKPRDLFITRTRRMMGLKSK
+PYGTMPRVM
+
+================================================================================

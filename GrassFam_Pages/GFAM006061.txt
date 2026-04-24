@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM006061
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             332.0 aa
+Family Size (Extended Family Size): 20 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10395:SF7
+Panther Family ID:               PTHR10395
+Modal Panther ID:                PTHR10395:SF7
+Modal Panther Description:       5-HYDROXYISOURATE HYDROLASE
+Modal Panther Family ID:         PTHR10395
+Modal Panther Fam Desc:          URICASE AND TRANSTHYRETIN-RELATED
+Interpro Signature Accession:    cd05822; G3DSA:2.60.40.180:FF:000003; G3DSA:1.10.3330.10:FF:000002; G3DSA:2.60.40.180; G3DSA:1.10.3330.10; PTHR43466; PIRSF037178; PF09349; PF00576; SSF49472; SSF158694
+Interpro Signature Description:  TLP_HIUase; Uric acid degradation bifunctional protein TTL; Transthyretin/hydroxyisourate hydrolase domain; -; 2-OXO-4-HYDROXY-4-CARBOXY-5-UREIDOIMIDAZOLINE DECARBOXYLASE-RELATED; TTR-like; OHCU decarboxylase; HIUase/Transthyretin family; Transthyretin (synonym: prealbumin); UraD-Like
+
+
+REXdb Match:                     False
+REXdb Percentage:                5.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: uric acid degradation bifunctional protein TTL%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: uric acid degradation bifunctional protein TTL%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: uric acid degradation bifunctional protein TTL%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: uric acid degradation bifunctional protein TTL-like%2C transcript variant X1; uric acid degradation bifunctional protein TTL-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: uric acid degradation bifunctional protein TTL%2C transcript variant X1
+  Gene Descriptions: uric acid degradation bifunctional protein TTL
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: uric acid degradation bifunctional protein TTL%2C transcript variant X1
+  Gene Descriptions: uric acid degradation bifunctional protein TTL
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau04
+  Gene Products: uric acid degradation bifunctional protein TTL%2C transcript variant X1
+  Gene Descriptions: uric acid degradation bifunctional protein TTL
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: uric acid degradation bifunctional protein TTL-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: uric acid degradation bifunctional protein TTL%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: uric acid degradation bifunctional protein TTL%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: uncharacterized LOC100273769%2C transcript variant X1
+  Gene Synonyms: GRMZM6G548844,pco061649(751)
+  Gene Descriptions: uncharacterized LOC100273769
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 332 aa
+
+MATPrPLSVEDVLRVNGSRRFAAAMAAASPFASLADALLAARRIWLNEVDVNGWLEAFAA
+HPAIGTTSPSVSKWSKEEQSAALSTATDSTAQELAEWNARYREKFGFVFMICASGRTAPE
+VLAELKRRYtNRPIVELEAAAQEELKITELRLAKLFSSEPTVPsTSTEGPTSQSDKAADR
+MRIIGAHLGALPQPSANKAPEITGSSNRTRPPITTHVLDTARGSPASGIEVHLEMWKDaS
+aPPSFdNKDFnGWATLGtSVTNNDGRSGQLMDIVDNVAPGFYRISFNTSKYAPSGFFPYV
+SIIFEIKeNQTTEHFHVPLLHSPFSFTTYRGS
+
+
+BOP CONSENSUS:
+Length: 332 aa
+
+MATLRPLtVEDVLRVNGSRRFAAALAAASPFDSLADALLAARRIWLNEVDVTGWLEAFAA
+HPPIGTTSSSVSKWSKEEQSAALSTATDSTAQELSEWNAKYREKFGFVFMICASGRTAPE
+VLAELKRRYANRPIVELEAAAEEELKITELRLAKLFSSETAAPPTSGENHISQPDKAADR
+MRIIGAHLGALSQHSANKAPEITGSSNRTRPPITTHVLDTALGSPASGIEVHLEMWKDAS
+SPPSFDNKDFKGWTTLGSSITNNDGRSGQLMDIVDNVAPGFYRISFNTSKYAPSGFFPYV
+SIIFEIKRSQTTEHFHVPLLHSPFSFTTYRGS
+
+
+PACMAD CONSENSUS:
+Length: 332 aa
+
+MAtPtPLSVEDVLRVNGSRRFAAAMAAASPFASLADALLAARRIWLNEVDVNGWLEAFAA
+HPAIGTTSPSVSKWSKEEQSAALSTATDSTAQELAEWNARYREKFGFVFMICASGRTAPE
+VLAELKRRYTNRPIVELEAAAQEELKITELRLAKLFSSEPTVPSTTTEGPTIQSDKAADR
+IRIIGAHLGALPQPCANKAPEITGSSNRSRPPITTHVLDVARGSPASGIEVHLEMWKDVS
+APPSFSNKDFSGWATLGtSVTNNDGRSGQLMDIVDNvAPGFYRISFNTGKYAPAGFFPYV
+SIIFEIKENQTAEHFHVPLLHSPFSFTTYRGS
+
+================================================================================

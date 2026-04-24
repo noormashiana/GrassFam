@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM010290
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             463.0 aa
+Family Size (Extended Family Size): 23 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12864:SF79
+Panther Family ID:               PTHR12864
+Modal Panther ID:                PTHR12864:SF79
+Modal Panther Description:       GENOME ASSEMBLY, CHROMOSOME: A05
+Modal Panther Family ID:         PTHR12864
+Modal Panther Fam Desc:          RAN BINDING PROTEIN 9-RELATED
+Interpro Signature Accession:    cd12885; G3DSA:2.60.120.920:FF:000092; G3DSA:2.60.120.920; PTHR12864; SSF49899
+Interpro Signature Description:  SPRY_RanBP_like; Ran-binding protein M homolog; -; RAN BINDING PROTEIN 9-RELATED; Concanavalin A-like lectins/glucanases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: ran-binding protein M homolog
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu06H
+  Gene Products: ran-binding protein M homolog
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: ran-binding protein M homolog%2C transcript variant X4
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: ran-binding protein M homolog%2C transcript variant X1; ran-binding protein M homolog%2C transcript variant X2; ran-binding protein M homolog%2C transcript variant X3
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: ran-binding protein M homolog
+  Gene Descriptions: ran-binding protein M homolog
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: ran-binding protein M homolog
+  Gene Descriptions: ran-binding protein M homolog
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: ran-binding protein M homolog%2C transcript variant X1; ran-binding protein M homolog%2C transcript variant X2
+  Gene Descriptions: ran-binding protein M homolog
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: ran-binding protein M homolog
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: ran-binding protein M homolog%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: ran-binding protein 9
+Zma
+  Gene count: 2
+  Modal chromosome: Zma04
+  Gene Products: putative SPRY-domain family protein%2C transcript variant X1; uncharacterized LOC100284123
+  Gene Synonyms: GRMZM2G082642; GRMZM5G886785,si687021d05a
+  Gene Descriptions: putative SPRY-domain family protein; uncharacterized LOC100284123
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 466 aa
+
+MVANQEAEAASAAAPgagTTVDPMRLASRWRSPAEWeAAAAELEAEPaPSELNTVNSSGL
+FAVVSTDKMSVKYLGvNHHGHDVGVVQADRPAPTRRAVYYFEMtVRNAGyKGQTSIGFTt
+ESFKMRRQPGWESNSCGYHGDDGYLYRGpGKGESFGPKFTSGDIIGAGINYLSQEFFFTK
+NGSLVGAFPKDIKGPLYPTIAVHSQDEELTVNFGKEQFCFDIEGYILEEKMrQQSVSDKL
+YLQPDISHWIVRSYLLHYGYQDTLNSFDMASETDPPANHQNGYGEPPEMYGLSHRKLLRQ
+LIMSGDIDSAFKRLEEWYPQVIKDEkSVICFLLHSQRFIEYIRAEQLEDAVKYARANLAN
+FLTHKAFEGLLKESVALLAYEKPAESCIGYLLDSPQREFVADAVNAAVLSTNPnMKDPES
+CLYSCLEKLLRQLTVCSFERRAFNNDQGDAFLLHKEVQNCERSRRS
+
+
+BOP CONSENSUS:
+Length: 459 aa
+
+MVAHQEAEATTTTTTVDPMRLASRWRSPAEWVATAAALDSEPMPSELNTANSSGLFAVVS
+vDKMSVKYLGVNHHGHDVGVVQADCPAPMRRAVYYFEMTVRNAGLKGQTSIGFTTESFKM
+RRQPGWESQSCGYHGDDGYLYRGPGKSESFGPKFTSGDIIGAGINYIsQLLFFTKNGSLI
+GAFPKDIKGPLYPTIAVHSQDEELTVNFGKEQFCFDIEGYILEQKMTQQSISDKLYLQPD
+ISHWIVRSYLLHYGYQDTLNSFDAASETDPPANHQTGYGEPPEMYGLSHRKMLRQLIMNG
+DIDSAFKRLEEWYPQVLKDEtSVICFLLHSQRFIEYIRAEQLEGAVKYARANLANFLTHK
+AFEGLLKESVALLAYEKPSESCIGYLLESPQREFVADAVNAAILSTNPKMKDPESCLYSC
+LEKLLRQLTVCSSELRAFNSDQGDVFLLHKEvYERSRRP
+
+
+PACMAD CONSENSUS:
+Length: 466 aa
+
+MVANQEAEAASAAAPGAGATVDPMRLASRWRSPAEWeCAAAELEAEPAPSELNTVNSSGL
+FAVVSTDKLSVKYLGSHHHGHDVGVVQADRPAPTRRAVYYFEMgVRNAGYKGQTSIGFTS
+ESFKMRRQPGWESNSCGYHGDDGyLYRGQGKGESFGPKFTSGDIIGAGINYLSQEFFFTK
+NGSLVGAFPKEIKGPLYPTIAVHSQGEELTVNFGKEPFCFDIEGYILEEKMRQQSVSDKL
+nLEPDISHWIVRSYLLHYGYQDTLNSFDMANATDPPtNRQNGHaEPPEMYGLSHRKLLRQ
+LIMSGDIDSTFKRLgEWYPQVIKDEKSVICFLLHSQRFIEYIRAEQLEDAVKYGRANLAS
+FLTHKAFEGLLKESVALLAYEKPAESCIGYLLDSPQREFVADAVNAAVLSTNPtMKDPES
+CLYSCLERLLRQLTVCSFERRAFNNDQGDAFLLHKEVQNCERSRRS
+
+================================================================================

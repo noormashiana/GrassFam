@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM019641
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             474.0 aa
+Family Size (Extended Family Size): 27 (29) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43302:SF13
+Panther Family ID:               PTHR43302
+Modal Panther ID:                PTHR43302:SF13
+Modal Panther Description:       SILICON EFFLUX TRANSPORTER LSI2
+Modal Panther Family ID:         PTHR43302
+Modal Panther Fam Desc:          TRANSPORTER ARSB-RELATED
+Interpro Signature Accession:    cd01117; PTHR43302; PF03600
+Interpro Signature Description:  YbiR_permease; TRANSPORTER ARSB-RELATED; Citrate transporter
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: silicon efflux transporter LSI2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: silicon efflux transporter LSI2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: silicon efflux transporter LSI2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04B
+  Gene Products: silicon efflux transporter LSI2; silicon efflux transporter LSI2-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: silicon efflux transporter LSI2
+  Gene Descriptions: silicon efflux transporter LSI2
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: silicon efflux transporter LSI2-like
+  Gene Synonyms: Lsi2,OJ1384D03.1,OsJ_09099,SIET1
+  Gene Descriptions: silicon efflux transporter LSI2-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: silicon efflux transporter LSI2; silicon efflux transporter LSI2-like
+  Gene Descriptions: silicon efflux transporter LSI2; silicon efflux transporter LSI2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: silicon efflux transporter LSI2; silicon efflux transporter LSI2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: silicon efflux transporter LSI2
+Msi
+  Gene count: 8
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: putative transporter arsB
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100502546
+  Gene Synonyms: GRMZM2G158378,Lsi2,ZmLsi2
+  Gene Descriptions: uncharacterized LOC100502546
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 475 aa
+
+MALASVsKVVLGSvAFGVFWVMAVFPSVPFMPIGRTAGALLSAVLMIVFHVISPDDAYAS
+VDLPILGLLFATMVVGgYLKNAGMFKHLGTLLAWKSQGGRDLLCRVCVVTALASALFTND
+TCCVVLTEFVLELAAERNLPAKPFLLALASSANIGSSATPIGNPQNLVIAFNSKIPFPKF
+LLGILPAMLAGMAVNMVMLLCMYWKDLEGtSPDlvaDGKQMEAVEEGRsPvaSsPsPfNK
+gTNGggYssSMMTENISTKHPWFMQCTEqRRKLFLKSFAYIVTVGMVVAYMVGLNMSWTA
+ITTAIALVVVDFRDAEPCLvKVSYSLLVFFSGMFITVSGFNKTGLPGAIWNFMAPYSKVN
+SVGGISVLSIIILLLSNLASNVPTVLLMGGEVAsAAALISPAAVTRSWLLLAWVSTVAGN
+LSLLGSAANLIVCEQARRAPRNAYDLTFWNHIVFGVPSTLIVTAIGIPLIGKINV
+
+
+BOP CONSENSUS:
+Length: 474 aa
+
+MALASLPKVVLGSfAFAVFWMMAVFPSVPFLPIGRTAGSLLSAVLMIVFHVISPDDAYAS
+IDLPILGLLFSTMVVGGYLKNAGMFKHLGTLLAWKSQGGRDLLCRVCVVTALASALFTND
+TCCVVLTEFVLELAAERNLPAKPFLLALASSANIGSSATPIGNPQNLVIAFNSKISFPRF
+LIGILPAMLAGMAVNMVMLLCMYWKDLEGVAPDAAGKQMSVVEEGGRSPSVASLKSPHPF
+NGTTADDGNESMMEENISTKHPWFMQCTEHRRKLFLKSFAYIVTVGMVVAYMAGLNMSWT
+AITTAIALVVVDFRDAEPCLVKVSYSLLVFFSGMFITVSGFNKTGLPGAIWNFMAPYSKV
+DSAGGISVLSVIILLLSNLASNVPTVLLMGNEVATAAALISPAAVTRSWLLLAWVSTVAG
+NLSLLGSAANLIVCEQARRAPRNAYELTFWNHLIFGVPSTLIVTAVGIPLIGKM
+
+
+PACMAD CONSENSUS:
+Length: 478 aa
+
+MALASVSKVVLGSvAFGVFWVLAVFPSVPFMPIGRTAGALLSAVLMIIFHVISPDDAYAS
+VDLPILGLLFATMVVGSYLKNAGMFKHLGTLLAWRSQGGRDLLCRVCVVTALASALFTND
+TCCVVLTEFVLELAAERNLPAKPFLLALASSANIGSSATPIGNPQNLVIAFNSKIPFPKF
+LLGILPAMLAGMAVNMVMLLCMYWKDLdGTSspldvDGKQMEAVEEGraaAsvTPSPklK
+SPKlTNGGGYSSPLMTENISTKHPWFMQCTEQRRKLFLKSFAYIVTVGMVIAYMVGLNMS
+WTAITTAIALVVVDFRDAEPCLDKVSYSLLVFFSGMFITVSGFNKTGLPGAIWNFMAPYS
+KVNSVGGISVLSIIILLLSNLASNVPTVLLMGGEVASAAALISPAAVtRSWLLLAWVSTV
+AGNLSLLGSAANLIVCEQARRAtRNAYDLTFWNHIVFGVPSTLIVTAIGIPLIGKINV
+
+================================================================================

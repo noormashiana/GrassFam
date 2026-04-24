@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM005056
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             440.5 aa
+Family Size (Extended Family Size): 36 (37) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31642:SF140
+Panther Family ID:               PTHR31642
+Modal Panther ID:                PTHR31642:SF140
+Modal Panther Description:       PUTRESCINE HYDROXYCINNAMOYLTRANSFERASE
+Modal Panther Family ID:         PTHR31642
+Modal Panther Fam Desc:          TRICHOTHECENE 3-O-ACETYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:3.30.559.10:FF:000008; G3DSA:3.30.559.10; PTHR31642; PF02458
+Interpro Signature Description:  Tryptamine hydroxycinnamoyl transferase; -; TRICHOTHECENE 3-O-ACETYLTRANSFERASE; Transferase family
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: putrescine hydroxycinnamoyltransferase
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu05H
+  Gene Products: putrescine hydroxycinnamoyltransferase-like
+Ata
+  Gene count: 6
+  Modal chromosome: Ata05D
+  Gene Products: putrescine hydroxycinnamoyltransferase; putrescine hydroxycinnamoyltransferase-like
+Tae
+  Gene count: 6
+  Modal chromosome: Tae05A
+  Gene Products: putrescine hydroxycinnamoyltransferase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: putrescine hydroxycinnamoyltransferase
+  Gene Descriptions: putrescine hydroxycinnamoyltransferase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: putrescine hydroxycinnamoyltransferase-like
+  Gene Synonyms: OsJ_30201,P0705E11.4
+  Gene Descriptions: putrescine hydroxycinnamoyltransferase-like
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: putrescine hydroxycinnamoyltransferase-like
+  Gene Descriptions: putrescine hydroxycinnamoyltransferase-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: putrescine hydroxycinnamoyltransferase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: putrescine hydroxycinnamoyltransferase-like
+Msi
+  Gene count: 4
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi02
+  Gene Products: putrescine hydroxycinnamoyltransferase
+Zma
+  Gene count: 4
+  Modal chromosome: Zma02
+  Gene Products: agmatine coumaroyltransferase; putrescine hydroxycinnamoyltransferase
+  Gene Synonyms: GRMZM2G013530
+  Gene Descriptions: agmatine coumaroyltransferase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 438 aa
+
+MEVKVLSSKLVKPsYPaGAPRPDTTEHVPSSVFDKvTYHIQMAIIYAFqAPAPSTeDIER
+GLAaVLGVYRLFAGQVRAGPDGAPGVLLNDHGARLVEArVDGATLADfAPpKPSPVVLQL
+HPDLEGDVEEVVQVQLTRFACGSLAVGFTANHAVADGHATSDFLVAWGRAARGLdISpSP
+PPHnHPDLFPPRDPPvVEFEHRGVEYYRPaPSnpkQGEGGHHGAdNVVIHKAHFTKDFIA
+GLRAKASEGRGRPFSRFETTLAHLWRTMTRARGLsPlETSTIRISVDGRRRLsAPPGYFG
+NLVLWAFPRaTVGDLLsRPLKHAAQtIHDAVARlDGAYFQSLVDFASSGAVEREGLEkTA
+VLKDVLCPDLEVDSWLTFPFYELDFGAGSPSYFMPSYFPTEGMLFLVPSYLGDGSVDAFV
+PVFeHNLEAFKQCCYSME
+
+
+BOP CONSENSUS:
+Length: 441 aa
+
+MEVKVVSSKIVKPRYAEGAARPDTTEHVPSSVFDKVTYHIQMAIIYAFQAPAPSTEDIER
+GLAQVLaVYRLFAGQVRAGPDGAPGVLLNDHGARLVEARVDGATLVEFAPPKPSPVVLQL
+HPDLEGDVEEVVQVQLTRFACGSLAVGFTANHAVADGHATSDFLVAWGRAARGLDISgPS
+PTPPPHNHPDLFRPRDPPVVnFEHRGVEYYRPtPSNPKQGEGGHHGADNVVIHKAHFTKD
+FIAGLRAKASEGRGRPFSRFETTLAHLWRTMTRARGLSPEETSTIRISVDGRRRLSAPPG
+YFGNLVLWAFPRsTVGDLLSRPLKHAAQTIHDAVARLDGAYFQSLVDFASSGAVEREGLE
+KTAVLKDVLCPDLEVDSWLTFPFYELDFGAGSPSYFMPSYFPTEGMLFLVPSYLGDGSVD
+AFVPVFQHNLDAFKQCCYSMD
+
+
+PACMAD CONSENSUS:
+Length: 437 aa
+
+MEVKVLSSKLVKPSYPAGAPRPDTTEHVPSSVFDKATYHMQMAIIYAFSPPGPStADIER
+GLAAVLGAYRLFAGQVRPGPDGAPGVLLNDHGARLVEASVDAHLADIAPTKPSPAVLRLH
+PDLEGDIEEVVQVQLTRFACGSLAVGFTANHAVADGHATSDFLVAWGRAARGLPVGPSPP
+VHHPDLFPPRDPPRVEFEHRGVEYYRPAPsSHAAGHGHGETQHNIVIHKAHFTKDFVAGL
+RAKASEGRGRPFSRFETILAHVWRTMTRARGLGNPLQTSTIRISVDGRPRLAAPAGYFGN
+LVLWAFPRATVGDLLNRPLKHAAQAIHDAVARVDGAYFQSFVDFASSGAVEKEGLETTAV
+LKDVLCPDLEVDSWLTFPFYELDFGAGSPsYFMPSYFPTEGMLFLVPSYLGDGSVDAFVP
+VFEHNLEAFKQCCYSME
+
+================================================================================

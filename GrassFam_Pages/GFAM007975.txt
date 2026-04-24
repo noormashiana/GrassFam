@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM007975
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             441.0 aa
+Family Size (Extended Family Size): 23 (28) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR44272:SF1
+Panther Family ID:               PTHR44272
+Modal Panther ID:                PTHR44272:SF1
+Modal Panther Description:       CHAPERONE PROTEIN DNAJ 16
+Modal Panther Family ID:         PTHR44272
+Modal Panther Fam Desc:          DNAJ DOMAIN (PROKARYOTIC HEAT SHOCK PROTEIN)
+Interpro Signature Accession:    G3DSA:1.10.287.110:FF:000097; G3DSA:1.10.287.110; PTHR44272; SM00271; SSF46565
+Interpro Signature Description:  Chaperone protein dnaJ 16; DnaJ domain; DNAJ DOMAIN (PROKARYOTIC HEAT SHOCK PROTEIN); dnaj_3; Chaperone J-domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: chaperone protein dnaJ 16
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: chaperone protein dnaJ 16-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: chaperone protein dnaJ 16
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: chaperone protein dnaJ 16-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: chaperone protein dnaJ 16-like
+  Gene Descriptions: chaperone protein dnaJ 16-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: chaperone protein dnaJ 16
+  Gene Descriptions: chaperone protein dnaJ 16
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: chaperone protein dnaJ 16-like%2C transcript variant X1
+  Gene Descriptions: chaperone protein dnaJ 16-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: chaperone protein dnaJ 16-like%2C transcript variant X1; chaperone protein dnaJ 16-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: chaperone protein dnaJ 16-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: chaperone protein dnaJ 16
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: uncharacterized LOC100382440
+  Gene Synonyms: cl18199_-2,GRMZM2G140070
+  Gene Descriptions: uncharacterized LOC100382440
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 440 aa
+
+MAGPKFGSFKSEKGDSAAAAGAAAQRRDPYEVLGVGRNATEQEIKSAFRRMALKYHPDKN
+ADDPVASEKFQEATFSYNILSDPDKRRQYDSSGFEAIEADSQELELDLSSLNTVNTVFAA
+LFSKLGVPIKTTVSATVLEEALNGSVEISQLqLGKSVCRKVEKQSAHFYSVDITDKEAKM
+GLVCRVHSTAKSKFKLLYFEPEENGGLSLALQEDSAKTGKVTSAGMFFLGFPVYRFEQNN
+SAAAAKDPDSAFFKRLDGFQPCEVNELKAGTHYFAVYGDNFFKSATYTIEVVCAEPFSaE
+KEKLRSVEAKILAKRSELSKFESEYREVLAKFTEMTSRYAQEMQTIDELLKERNAIHASY
+TNNPTLQRSSSSSKGKSSSKGSKSDDDQTVKKEKKSKSQPMEGSrSDDEGPNKKEKKPKE
+RLRRKKWFNIHLKVDKRRPC
+
+
+BOP CONSENSUS:
+Length: 441 aa
+
+MAGPKFGSFKSENKGDSAAAAGAAAQRRDPYEVLGVGRNATEQEIKSAFRRMALKYHPDK
+NADDPVASEKFQEATFSYNILSDPDKRRQYDSSGFEAIEADSHELELDLSSLNTVNTMFA
+ALFSKLGVPIKTTVSATVLEEALNGSVEISQLHLGKSVCRKVEKQSAHFYSVDITEEEAK
+LGLVCRVrSTAKSKFKLLYFEPEENGGLSLALQEDSAKTGKVTSAGMFFLGFPVYRFEHN
+NSAAAAKDPDSAFFKRLDGFQPCEVNELKEGTHYFAVYGDNFFKSATYTLEVVCAEPFST
+EKEKLRSVEAKILAKRSELSKFESEYREVLAKFTEMTSRYAQEMQTIDELLNERNAIHAS
+YTNSPTLKRSSSDSKGKTSSKGSKSDDDQSVRKEKKSKSPTMEASvSDEEGPKKEKKPKE
+RLRRKRWFNIHHLKVDKRRPC
+
+
+PACMAD CONSENSUS:
+Length: 441 aa
+
+MAGPKFGSFKAEKGDSAAAAGAAAQRRDPYEVLGVGRNATEQEIKSAFRRMALKYHPDKN
+ADDPVASEKFQEATFSYNILSDPDKRRQYDSSGFEAIEADSQELELDLSSLNTVNTVFAA
+LFSKLGVPIKTTVSATVLEEALNGSVEISQLQLGKSVCRKVEKQSAHFYSVDITDKEAKM
+GLVCRVHSTAKSKFKLLYFEPEDNGGLSLALQEDSAKTGKVTSAGMFFLGFPVYRFEQNN
+SAAAAKDPDSAFFKRLDGFQPCEVNELKAGTHYFAVYGDNFFKSASYTIEVVCAEPFSAE
+KEKLRSVEAKIIAKRSELSKFESEYREVLAKFTEMTSRYAQEMQTIDELLKERNAIHASY
+TNNPTLQRSSSSSKGKSPSKGSKSEDDQTVKKEKKSKSQPMEGSRSDDEGPKNKKEKKPK
+DRIRRKKWFNIHLKVDKRRPC
+
+================================================================================

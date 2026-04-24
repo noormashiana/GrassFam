@@ -1,0 +1,110 @@
+================================================================================
+GrassFam ID: GFAM005957
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             427.0 aa
+Family Size (Extended Family Size): 11 (11) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43176:SF5
+Panther Family ID:               PTHR43176
+Modal Panther ID:                PTHR43176:SF5
+Modal Panther Description:       3-HYDROXYISOBUTYRYL-COA HYDROLASE-LIKE PROTEIN 4, MITOCHONDRIAL
+Modal Panther Family ID:         PTHR43176
+Modal Panther Fam Desc:          3-HYDROXYISOBUTYRYL-COA HYDROLASE-RELATED
+Interpro Signature Accession:    cd06558; G3DSA:3.90.226.10:FF:000062; G3DSA:3.90.226.10; NF004127; PTHR43176; PF16113; SSF52096
+Interpro Signature Description:  crotonase-like; 3-hydroxyisobutyryl-CoA hydrolase-like protein 3 mitochondrial; -; 3-hydroxyisobutyryl-CoA hydrolase; 3-HYDROXYISOBUTYRYL-COA HYDROLASE-RELATED; Enoyl-CoA hydratase/isomerase; ClpP/crotonase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Tae
+  Gene count: 1
+  Modal chromosome: Tae07D
+  Gene Products: 3-hydroxyisobutyryl-CoA hydrolase-like protein 3%2C mitochondrial
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: 3-hydroxyisobutyryl-CoA hydrolase-like protein 3%2C mitochondrial%2C transcript variant X1
+  Gene Descriptions: 3-hydroxyisobutyryl-CoA hydrolase-like protein 3%2C mitochondrial
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: 3-hydroxyisobutyryl-CoA hydrolase-like protein 3%2C mitochondrial%2C transcript variant X4
+  Gene Descriptions: 3-hydroxyisobutyryl-CoA hydrolase-like protein 3%2C mitochondrial
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi04K
+  Gene Products: 3-hydroxyisobutyryl-CoA hydrolase-like protein 3%2C mitochondrial%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: 3-hydroxyisobutyryl-CoA hydrolase-like protein 3%2C mitochondrial%2C transcript variant X5
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: uncharacterized LOC100272777%2C transcript variant X2
+  Gene Synonyms: GRMZM2G047564,pco095310(445)
+  Gene Descriptions: uncharacterized LOC100272777
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 427 aa
+
+MRALLRIHpPAaISTtSFLsTsStAASKTLAPSPTLVPLRLVRRFAAMAAtAAEEFVKGR
+VFPNGVAVITLDRPKALNAMNLEMDVRYKALLDEWETNPSVKCILVESSSsRAFSAGMDI
+KGVAAEIQKDKsTPLVQKVFTAEYSLICKIHEYAKPYICLMDGVTMGFGIGLSGHGRYRI
+ITERTLLAMPENGIGLFPDVGFAYIGAKAPGGGAVGAYLGITGKRISSPADALFIGLGTH
+YVPSANLGSLKESLLSANFTNDPHRDVESVLTGYKKEPESEPQLEKLLPYIISSFSPDKS
+VAESVEELKKCSQSGDAAVAEWANEALAGIKKGAPFSLCLTQKHFSQVASAYGNSEHYLS
+KLAGVMKLEYRIALRSSVRNDFVEGVRAVLVDKDQNPKWNPATLEEVNMGEVESVFEPLG
+AEAELSV
+
+
+BOP CONSENSUS:
+Length: 384 aa
+
+SSSAVASSPWPPSPSRSSxRVVSSPTASRSSPSTLPRPSTPxTSNLPxVVRYSxxLGNPS
+VREVSSSPRQFSAGMLSKGYxGRISKGQStPtvqKVFTAEYSLICKIHEYAKPYICLMDG
+VTMGFGIGLSGHGRYRIITERTLLAMPENGIGLFPDVGFAYIGAKAPGGGAVGtYLGMTG
+KRISSPADALFIGLGTHYVPSGNLGSLKESLLSANFTnDPHRDVESLLTGYKKEPESvPQ
+LgKLLPyIISSFGPDKSVAESVEELKKCSQSGDAAVAEWANDALAGLKKGAPFSLCLTQK
+HFSQVASAYGNNEHYLSKLAGVMKLEYRIALRSSVRNDFvEGVRAVLVDKDQNPKWsPAT
+LEDVNMGEVESVFEPLAAEAELNV
+
+
+PACMAD CONSENSUS:
+Length: 427 aa
+
+MRALLRIHpPAAISTASFLHTsSTAASKTLAPSPTLVPLRLVRRFAAMAATAAEEFVKGR
+VFPNGVAVITLDRPKALNAMNLEMDVRYKALLDEWETNPSVKCILVESSSSRAFSAGMDI
+KGVAAEIQKDKsTPLVQKVFTAEYSLICKIHEYAKPYICLMDGVTMGFGIGLSGHGRYRI
+ITERTLLAMPENGIGLFPDVGFAYIGAKAPGGGAVGAYLGITGKRISSPADAMFIGLGTH
+YVPSANLGSLKESLLSANFTNDPHRDVESVLTGYKKEPESEsQLEKLLPYIISSFSPDKS
+VAESVEELKKCSQSGDAAVAEWANEALAGIEKGAPFSLCLTQKHFSQVASAYGTSEHYLS
+KLAGVMKLEYRIALRSSVRNDFVEGVRAVLVDKDQNPKWNPATLEEVNMGEVESVFEPLG
+AEAELSV
+
+================================================================================

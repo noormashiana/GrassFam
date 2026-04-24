@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM017730
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             485.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43392:SF6
+Panther Family ID:               PTHR43392
+Modal Panther ID:                PTHR43392:SF6
+Modal Panther Description:       PROTEIN CFXQ HOMOLOG
+Modal Panther Family ID:         PTHR43392
+Modal Panther Fam Desc:          AAA-TYPE ATPASE FAMILY PROTEIN / ANKYRIN REPEAT FAMILY PROTEIN
+Interpro Signature Accession:    G3DSA:3.40.50.300:FF:000216; G3DSA:1.25.40.20:FF:000441; G3DSA:1.25.40.20; G3DSA:3.40.50.300; PTHR43392; PR00819; SSF52540; SSF48403
+Interpro Signature Description:  Type VII secretion ATPase EccA; Protein CbxX, chromosomal; -; AAA-TYPE ATPASE FAMILY PROTEIN / ANKYRIN REPEAT FAMILY PROTEIN; CbxX/CfqX superfamily signature; P-loop containing nucleoside triphosphate hydrolases; Ankyrin repeat
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: ESX-3 secretion system protein EccA3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: protein CbxX%2C chromosomal%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: protein CbxX%2C chromosomal%2C transcript variant X2
+Tae
+  Gene count: 2
+  Modal chromosome: Tae06B
+  Gene Products: protein CbxX%2C chromosomal-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: uncharacterized LOC127764629
+  Gene Descriptions: uncharacterized LOC127764629
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4328960
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: protein CfxQ homolog; uncharacterized LOC133922307
+  Gene Descriptions: protein CfxQ homolog; uncharacterized LOC133922307
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: protein CbxX%2C chromosomal-like; protein CbxX%2C chromosomal-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: protein CbxX%2C chromosomal
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: protein CbxX%2C chromosomal
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: AAA-type ATPase family protein / ankyrin repeat family protein
+  Gene Synonyms: GRMZM2G053934
+  Gene Descriptions: AAA-type ATPase family protein / ankyrin repeat family protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 483 aa
+
+MPGSQNGRPRPAKAETIHGLARAGDLAGVQRKLRENPALLNDKNPVMCQTPLHVAAGYNN
+TEIVKFLLNWQGTETVDLEAKNMYGETPLHMAVKNSSCESTNLLLERGAHIEAKANNGMT
+PLHLAVWHALQAGDCSTVSVLLSYNADCFAKDDEGKMPLNHIPGGAGSEKLLKLLTRHME
+EQRKRKALMSCrEGKAMAEFEEAISQIVGLQELKMQLRRWARGMLFDEKRRAMGLGIASR
+RAPHMAFLGNPGTGKTMVARILGKLLHMVGILPTDKVTEVQRTDLVGEFVGHTGPKTRRK
+IQDAEGGILFVDEAYRLIPMQKSDDKDYGLEALEEIMSVMDSGKIVVIFAGYCEPMKRVI
+ASNDGFCRRVTKFFYFDDFSTTELAEILHMKMnSPSESSLLYGFKLHPSCSIEVIGELIA
+RETTEERRKQMNGGLVDTLLINARENLDLRLDFNCDDADTMITITLEDLEAGLRQISRQR
+QLQ
+
+
+BOP CONSENSUS:
+Length: 485 aa
+
+MPVPGSQNGRPRPAKAETIHGLVRAGDLAGVQRKLQENPALLNDKNPVMSQTPLHVAAGY
+NNTDIVKFLLDWQGADtVELEAKNMYGETPLHMAVKNSSCESAKLLLERGVHTEAKANNG
+MSPLHLAVWHALQTGDCSTVSVLLSYNADCYAKDDEGKIPLNHIPGGAGNEKLQQLLTRH
+MEEQRKRKALMSCHEGQAMAEFEEAISQIVGLQELKMQLRRWARGMLFDEKRRAMGLGIA
+SRRAPHMAFLGNPGTGKTMVARILGKLLHMVGILPTDKVTEVQRTDLVGEFVGHTGPKTR
+RKIQDAEGGILFVDEAYRLIPMQKSDDKDYGVEALEEIMSVMDSGKIVVIFAGYCEPMKR
+VIASNDGFCRRVTKFFYFDDFTTTELAEILHLKMNSPTDTSLLYGFKLHPSCSIEAVGEL
+IARETTEERRKQMNGGLVDTLLINARENLDLRLDFNCDDAnTMITITLEDLEAGLRQISR
+QRQLR
+
+
+PACMAD CONSENSUS:
+Length: 485 aa
+
+MPGSQNGGPRPRPAKAETIHGLARAGDLAGVQRKLRENPALLNDKNPVMCQTPLHVAAGY
+NNTEIVKFLLNWQGTETVDLEAKNMYGETPLHMAVKNSSCESTNLLLERGAHIEAKANNG
+MTPLHLAVWHALQAGDCSTVSVLLSYNADCFAKDDEGKMPLNHIPGGAGSEKLLKLLSRH
+MEEQRKRKALMSCrEGKAMAEFEEAISQIVGLQELKMQLRRWARGMLFDEKRRAMGLGIA
+SRRAPHMAFLGNPGTGKTMVARILGKLLHMVGILPTDKVTEVQRTDLVGEFVGHTGPKTR
+RKIQDAEGGILFVDEAYRLIPMQKSDDKDYGLEALEEIMSVMDSGKIVVIFAGYCEPMKR
+VIASNDGFCRRVTKFFYFDDFSTTELAEILHMKMKSPSESSLLYGFKLHPSCSIEVIGEL
+IARETTEERRKQMNGGLVDTLLINARENLDLRLDFNCdDaDTMITITLEDLEAGLRQISR
+QRQLQ
+
+================================================================================

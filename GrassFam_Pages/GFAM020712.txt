@@ -1,0 +1,137 @@
+================================================================================
+GrassFam ID: GFAM020712
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             558.0 aa
+Family Size (Extended Family Size): 18 (18) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11061:SF30
+Panther Family ID:               PTHR11061
+Modal Panther ID:                PTHR11061:SF30
+Modal Panther Description:       TRNA (URACIL(54)-C(5))-METHYLTRANSFERASE
+Modal Panther Family ID:         PTHR11061
+Modal Panther Fam Desc:          RNA M5U METHYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:2.40.50.1070:FF:000003; G3DSA:2.40.50.140:FF:000231; G3DSA:3.40.50.150:FF:000009; G3DSA:2.40.50.1070; G3DSA:3.40.50.150; TIGR00479; PTHR11061; SSF53335
+Interpro Signature Description:  23S rRNA (Uracil-5-)-methyltransferase RumA; RNA methyltransferase family protein; 23S rRNA (Uracil(1939)-C(5))-methyltransferase RlmD; -; Vaccinia Virus protein VP39; 23S rRNA (uracil-5-)-methyltransferase RlmD; RNA M5U METHYLTRANSFERASE; S-adenosyl-L-methionine-dependent methyltransferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                5.56%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: uncharacterized RNA methyltransferase BH0687
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: uncharacterized RNA methyltransferase BH0687
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: uncharacterized RNA methyltransferase BH0687%2C transcript variant X2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: uncharacterized RNA methyltransferase BH0687-like; uncharacterized RNA methyltransferase BH0687-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: uncharacterized LOC127761343%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127761343
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC4327311
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 1
+  Modal chromosome: Pau02
+  Gene Products: uncharacterized LOC133898496%2C transcript variant X2
+  Gene Descriptions: uncharacterized LOC133898496
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: uncharacterized RNA methyltransferase BH0687%2C transcript variant X3
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: uncharacterized RNA methyltransferase BH0687%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: uncharacterized LOC100275594%2C transcript variant X1
+  Gene Synonyms: cl27616_1,GRMZM2G115198
+  Gene Descriptions: uncharacterized LOC100275594
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 558 aa
+
+MAAAhAFSPLSGtLLRRRiPLHHRRRLLAIAAAAPEAPAPTPTPSQPPPPPRPPRKGYFP
+KRNEtLELTCEGLAFKGKGVCKVDGSTFVLLCDGALPGERLVARVRRLRRGAFAEAAKLR
+TLEPHHDAVEAPCPLAADCGGCKSQSLAYAAQIRHKHLQVRDLLVNFGKFDPrkLESSEP
+DAILKPIVPCDEIFRYRNKMEFSFGTKRWMQREWKEEKEEVvKgEevETDGYSLGLHAPG
+FFDKVLHVEKCLLQSEPADKVLAVVQESWtDPALGLTPYDVHKHVGFLKHLMIRTGRNVS
+TGAPEVMVNFVTSCYKPELLmPLVDrITKIPEVVSVvNNVNTSVGNTSVGEQEYTLYGKP
+TITEMLRGLTFQISANSFFQTNTKQADVLYKLIEDSAGLKGDGSEIVLDLFCGTGTIGLT
+LARRAKHVYGYEVVPEAIADAQKNAKLNGISNATFVQGDLNKINETFGKEFPKPDIIISD
+PNRPGMHMKLIKWLLEVKAPRIVYVSCNPATCARDLDYLCHGVEEKDLRGCYELKsVIPV
+DMFPHTPHIECVCLLELC
+
+
+BOP CONSENSUS:
+Length: 558 aa
+
+MAAAGAFSPLSGTLLRRRIPLHHHRRLLAIAAAASEAPAPAPTPSQPPPPPRPRGKGYFP
+KKNEILELTCEGLAFKGKGVCKVDGSSFVLLCDGALPGERLVARVRRLRRGAFAEAAKLK
+TLSPHHDAVEAPCPLAADCGGCKSQSLAYSAQIHHKYVQVRDLLVNFGKFDPRKLESSDS
+DAILKPIVPCDEIFRYRNKMEFSFGTKRWMKREWKEEKEEVSKGEEvETDGYSLGLHAPG
+FFDKVLHVETCLLHSEPADKVLAVVQGSWTDPALGLTPYDVYKHTGFLKHLMIRTGRNVS
+TGAPEVMVNFVTSCYKPELLVPLVDRITKISEVVSVVNNVNTSVGNTSVGEQEYTLYGKP
+TITEMLRGLTFQISANSFFQTNTKQADVLYKLIGDSAGLKGDGSEIVLDLFCGTGTIGLT
+LARSAKHVYGYEVVPEAIADAQKNAQLNGISNATFVQGDLNKINETFGKEFPKPDIIISD
+PNRPGMHMKLIKWLLEVKAPRIVYVSCNPATCARDLDYLCHGVEEKGLrGCYELKRVIPV
+DMFPHTPHIECVCLLELC
+
+
+PACMAD CONSENSUS:
+Length: 558 aa
+
+MAAHAVTPLTIGLLRRGVPLHHSRRLLAVAAAAPEAPAPTPAPSQsPPSPVPPRKGYFPK
+RGETVELTCEALAFKGKGVCKVAGSTFVLLCDGALPGERLLARVRRLRRGAFAEAAKLRT
+LEPHHDAVEAPCPLAADCGGCKTQSLAYAAQIRHKHLQVRDLLVNFGKFDPKRLESSEPD
+AILKPIVPCDEIFRYRNKMEFSFGTKRWVQKELKeKDEEVGVKQETNETDGYALGLHAPG
+FFDKVLHVQKCFLQSEPADKVLAVVQETWMDPALGLTPYDVHKHVGFLKHLMIRTGRNVS
+TGTPEVMVNFVTSCYKPDLLMPLVDKITKIPEVVSVINNVNTSVGNTSVGEQEYTLYGKP
+NITEMLRGLTFQISANSFFQTNTKQADVLYKLIEDSAGLKGDGSEIVLDLFCGTGTIGLT
+LARRAKHVYGYEVVPEAIADARKNAKLNGINNATFVQGDLNKINESFGKEFPKPDIIISD
+PNRPGMHMKLIKWLLEVKAPRIVYVSCNPATCARDLDYLCHGVEEKDLRGCYELKSVIPV
+DMFPHTPHIECVCLLELR
+
+================================================================================

@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM010543
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             518.0 aa
+Family Size (Extended Family Size): 27 (28) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43184:SF15
+Panther Family ID:               PTHR43184
+Modal Panther ID:                PTHR43184:SF15
+Modal Panther Description:       GLYCEROL-3-PHOSPHATE TRANSPORTER 1-RELATED
+Modal Panther Family ID:         PTHR43184
+Modal Panther Fam Desc:          MAJOR FACILITATOR SUPERFAMILY TRANSPORTER 16, ISOFORM B
+Interpro Signature Accession:    G3DSA:1.20.1250.20:FF:000028; G3DSA:1.20.1250.20:FF:000050; G3DSA:1.20.1250.20; PTHR43184; PIRSF002808; PF07690; SSF103473
+Interpro Signature Description:  Sugar phosphate exchanger 3 isoform 1; glucose-6-phosphate exchanger SLC37A2 isoform X1; MFS general substrate transporter like domains; MAJOR FACILITATOR SUPERFAMILY TRANSPORTER 16, ISOFORM B; Hexose_phosphate_transp; Major Facilitator Superfamily; MFS general substrate transporter
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: putative glycerol-3-phosphate transporter 1%2C transcript variant X3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: putative glycerol-3-phosphate transporter 1%2C transcript variant X3
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: putative glycerol-3-phosphate transporter 1%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: putative glycerol-3-phosphate transporter 1%2C transcript variant X2; putative glycerol-3-phosphate transporter 1%2C transcript variant X3
+Ola
+  Gene count: 2
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: putative glycerol-3-phosphate transporter 1
+  Gene Descriptions: putative glycerol-3-phosphate transporter 1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: putative glycerol-3-phosphate transporter 1
+  Gene Descriptions: putative glycerol-3-phosphate transporter 1
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: putative glycerol-3-phosphate transporter 1%2C transcript variant X2
+  Gene Descriptions: putative glycerol-3-phosphate transporter 1
+Svi
+  Gene count: 2
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi01N
+  Gene Products: putative glycerol-3-phosphate transporter 1; putative glycerol-3-phosphate transporter 1%2C transcript variant X1
+Pha
+  Gene count: 2
+  Modal chromosome: Pha01
+  Gene Products: putative glycerol-3-phosphate transporter 1
+Msi
+  Gene count: 3
+  Modal chromosome: Msi08
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: putative glycerol-3-phosphate transporter 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: glycerol 3-phosphate permease%2C transcript variant X1
+  Gene Synonyms: GRMZM5G843302
+  Gene Descriptions: glycerol 3-phosphate permease
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 519 aa
+
+MGSSSEQKSRMRSkKPLGIQLFECVRGSPLSFRSCQALVLVLTFLSYASYHATRKTTSIV
+KSVLDPKTtNLGmLHWPSHLYLQnLKGAENNTtLsSGWAPFNaeDGTALLGEIDLAFLGV
+YAIGMFFAGHLGDRVDLRILLTIGMIGTGLFTAAFGAGYWLNIHSFYYFLGvQMIAGLFQ
+SSGWPSVVAVVGNWFGKSKRGLIMGIWNAHTSVGNISGSLIAAAMLKFGWSWSFAVPGiM
+IALVGLaVFLFLPVgPEVIGIEEDLHLKDsEKNDMDtPLLEGrSdvKEKAVGFIEAWRIP
+GVAPFALCLFFCKLVAYTFLYWLPFYISHTAIGGqYLSDSaAGVLSTLFDVGGVVGGILA
+GHISDRLDARALTAASFTFSAIPALFFYRIYGSiSLtWNIALMFVTGMLVNGPYALITTA
+VSADLGTHSSLNGNSRALATVTAIIDGTGSIGAAVGPLLTGYISAKSWSAVFTMLMASAL
+VAGLLLSRLVVAEVsAKMESRRtPApaASDLPVSSMEEP
+
+
+BOP CONSENSUS:
+Length: 518 aa
+
+MGSSsEsRSRMGSIKPLGIQLiECVRGGPLSFRSSQALVLVLTFLSYASYHATRKTTSIV
+KSVLDPKTTNLGMLHWPSHmYLQeLKGAANNTALySGWAPFNGEDGTALLGEIDLAFLGV
+YAIGMFFAGHLGDRVDLRILLTIGMVGTGLFTAAFGAGYWLNIHSFYYFLGVQMIAGLFQ
+SSGWPSVVAVVGNWFGKSKRGLIMGIWNAHTSVGNISGSLIAAAMLKFGWSWSFAVPGAM
+IALVGLAVFLFLPVDPEVIGVEEDRHVKDYEKNGTDVPLLEGHSSGRDEAVGFIQAWRIP
+GVAPFALCLFFCKLVAYTFLYWLPFYLSHTEIGGEYLSDSAAGVLSTLFDVGGVVGGILA
+GHISDRLDARALTAATFTFSAIPALFFYRIYGSISLTWNVALMFVTGVLVNGPYALITTA
+VSADLGTHSSLNGNSRALATVTAIIDGTGSIGAAVGPLLTGYISAKSWSGVFTMLMASAL
+VAGLLLSRLVVAEISAKMEARRPvdsASDLPVSSLEEP
+
+
+PACMAD CONSENSUS:
+Length: 518 aa
+
+MGSSSHQKgKMRSkKPLGIQLFECVrGSPISFRSCQALVLVLTFLSYASYHATRKTTSIV
+KSVLDPKTNLGmLHWPSHLYLqNLKGAENNtTLSSGWAPFNAeDGTALLGEIDLAFLGVY
+AIGMFFAGHLGDRVDLRILLTIGMIGTGLFTAAFGAGYWFNIHSFYYFLGMQMIAGLFQS
+SGWPSVVAVVGNWFGKSKRGLIMGIWNAHTSVGNISGSLIAAAMLKYGWsWSFAVPGIMI
+ALVGLTVFLFLPVgPDVIGIQEDLHLKDSEKnDMDTPLLERRseVKEKAVGFIEAWRIPG
+VAPFALCLFFCKLVAYTFLYWLPFYISHTAIGGQYLSDSsAGVLSTLFDVGGVVGGILAG
+HISDHLDARALTAASFTFSAIPALFFYRIYGSVSLtWNIALMFVTGMLVNGPYALITTAV
+SADLGTHSSLNGNSRALATVTAIIDGTGSIGAAVGPLLTGYISARSWSAVFTMLMASALV
+AGLLLSRLVVAEVVAKMESRRtPApAASDLPVSSMDEP
+
+================================================================================

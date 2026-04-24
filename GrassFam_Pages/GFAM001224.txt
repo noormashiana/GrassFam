@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM001224
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             498.0 aa
+Family Size (Extended Family Size): 22 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23240:SF36
+Panther Family ID:               PTHR23240
+Modal Panther ID:                PTHR23240:SF36
+Modal Panther Description:       DNA CROSS-LINK REPAIR PROTEIN SNM1
+Modal Panther Family ID:         PTHR23240
+Modal Panther Fam Desc:          DNA CROSS-LINK REPAIR PROTEIN PSO2/SNM1-RELATED
+Interpro Signature Accession:    cd16273; G3DSA:3.40.50.12650:FF:000001; G3DSA:3.60.15.10:FF:000010; G3DSA:3.40.50.12650; G3DSA:3.60.15.10; PTHR23240; PF07522; SSF56281
+Interpro Signature Description:  SNM1A-1C-like_MBL-fold; DNA cross-link repair 1A; -; DNA CROSS-LINK REPAIR PROTEIN PSO2/SNM1-RELATED; DNA repair metallo-beta-lactamase; Metallo-hydrolase/oxidoreductase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: DNA cross-link repair protein SNM1%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: DNA cross-link repair protein SNM1%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: DNA cross-link repair protein SNM1
+Tae
+  Gene count: 2
+  Modal chromosome: Tae02A
+  Gene Products: DNA cross-link repair protein SNM1-like; DNA cross-link repair protein SNM1-like%2C transcript variant X3
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: DNA cross-link repair protein SNM1%2C transcript variant X1
+  Gene Descriptions: DNA cross-link repair protein SNM1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: DNA cross-link repair protein SNM1%2C transcript variant X1
+  Gene Descriptions: DNA cross-link repair protein SNM1
+Ecu
+  Gene count: 4
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 1
+  Modal chromosome: Pau13
+  Gene Products: DNA cross-link repair protein SNM1
+  Gene Descriptions: DNA cross-link repair protein SNM1
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: DNA cross-link repair protein SNM1
+Msi
+  Gene count: 4
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: DNA cross-link repair protein SNM1%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: uncharacterized LOC100192920
+  Gene Synonyms: GRMZM2G021802,si683029c11
+  Gene Descriptions: uncharacterized LOC100192920
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 495 aa
+
+MATADGEtDlPLPvPaDLDDNGFPALPSSPAAssSSFAeDFYRSGTDWSSLRAPPSlPPe
+pApGVKEKGGGSLVQsSLFQAWGIEKPrREGAGAGDSsLVQRSLFQAWGIERPRREgvGA
+GDSSPSPSpSGSWSGRKRRRGGsEEaGaarKPLACPFYKKIPGTPFTVDAFRYGaVEGCS
+AYFLSHFHHDHYGGLTKKWCHGPIYCSALTARLVKMCLSVNSdYICPLELDTEYVIEGVT
+VTLLEANHCPGAALIHFRLSDGKTYLHTGDFRASKSMQLHPLLQRGRINLLYLDTTYCNP
+KYKFPPQEDVIDFVVRTAQRYLKKQPKTLIVVGAYSIGKENVYLAISQALEVPIYTDASR
+RRILHSFGWPDLSKRICSCNQSSPLHVLPLGSVNHENLKKYLETLNQRFLAVLAFRPTGW
+TFSEATGKeLDLIKPSSNGrVTIYGVPYSEHSSFTELRDFVMFLRPQKVIPTVNVGNAAS
+RDKMQAyFREWLKGL
+
+
+BOP CONSENSUS:
+Length: 499 aa
+
+MAADIAGDAETDLPLPVSDDLDDNGFPaSPPtAAAtSSFADDFYRSGIDWSSLQAPPSHr
+RrPAaGTkeKvGGPLVQRSLFQAWGIEKPAAKVCGPpVQKNLFQAWGIqKPPREEAAQGV
+pvGAGASSSSpSPSGAWSGRKRRWGGSdENGAsRKPVACPFYKKIPGTPFTVDAFRYGAV
+EGCSAYFLSHFHyDHYGGLTKKWCHGPIYCTALTARLVKMLLSINSeYICPLELDTEYVI
+eGVkVTLLEANHCPGAALIHFRLSDGKTYLHTGDFRASKSMQLHPLLQTGRINLLYLDTT
+YCNPKYKFPPQEDVIDFVVRTAQRYLKKQPKTLIVVGAYSIGKENVYLAISQALEVPIYT
+DASRRRILHSFGWPDLSKRISSCNQSSPLHVLPLASLQHENLKKYLETLnQRFLAVLAFR
+PTGWTFSEAAGKELDLIKPSSRGRVTIYGVPYSEHSSFSELRDFLKFLRPQKVIPTVNVG
+NAAsRDKMQAYFREWLKGT
+
+
+PACMAD CONSENSUS:
+Length: 501 aa
+
+MATAdGDADwPLPSPADLDDNGFPALPSSPAAGSSSSsFAEDFYRSGTDWSSLRAPPPLR
+PPEgaPGVKEKERGGGSLVQSSLFQAWGIERPRREGAGAGDSSLVQRSLFQAWGIERPRr
+EGLGAGDsSPSPShSGSWSGRKRRRGGtEEAGvAaKKPLtCPFYKKIPGTPFTVDAFRYG
+EVEGCSAYFLSHFHHDHYGGLTKKWCHGPIYCSALTARLVKMCLSVNSDYICPLELDTEY
+VIEGVTVTLLEANHCPGAALIHFRLSDGKTYLHTGDFRASKSMQLHPLLQRGRVNLVYLD
+TTYCNPKYKFPPQEDVIDFVVRTARRYLKKQPKTLIVVGAYSIGKENVYLAISqALEVPI
+YTDASRRRILHSFGWPDLSKRICSCNQSSPLHVLPLGSVNHENLKKYLETLNQRFLAVLA
+FRPTGWTFSEATGKqLDLIKPSSNGSVTIYGVPYSEHSSFTELRDFVMFLRPQKVIPTVN
+VGNAASRDKMQACFREWLKsL
+
+================================================================================

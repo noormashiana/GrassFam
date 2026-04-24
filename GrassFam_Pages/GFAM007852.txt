@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM007852
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             506.0 aa
+Family Size (Extended Family Size): 25 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43895:SF140
+Panther Family ID:               PTHR43895
+Modal Panther ID:                PTHR43895:SF140
+Modal Panther Description:       CBL-INTERACTING SERINE_THREONINE-PROTEIN KINASE 12
+Modal Panther Family ID:         PTHR43895
+Modal Panther Fam Desc:          CALCIUM/CALMODULIN-DEPENDENT PROTEIN KINASE KINASE-RELATED
+Interpro Signature Accession:    cd14663; cd12195; G3DSA:1.10.510.10:FF:000653; G3DSA:3.30.310.80:FF:000005; G3DSA:3.30.200.20:FF:000096; G3DSA:1.10.510.10; G3DSA:3.30.310.80; PTHR43895; PF00069; SM00220; SSF56112
+Interpro Signature Description:  STKc_SnRK3; CIPK_C; Non-specific serine/threonine protein kinase; Transferase(Phosphotransferase) domain 1; Kinase associated domain 1, KA1; CALCIUM/CALMODULIN-DEPENDENT PROTEIN KINASE KINASE-RELATED; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: CBL-interacting protein kinase 19
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: uncharacterized LOC123401246
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: CBL-interacting protein kinase 19
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: CBL-interacting protein kinase 19-like; CBL-interacting protein kinase 19-like%2C transcript variant X1
+Ola
+  Gene count: 2
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl01
+  Gene Products: CBL-interacting protein kinase 12; CBL-interacting protein kinase 19%2C transcript variant X1
+  Gene Descriptions: CBL-interacting protein kinase 12; CBL-interacting protein kinase 19
+Osa
+  Gene count: 2
+  Modal chromosome: Osa01
+  Gene Products: CBL-interacting protein kinase 12-like; CBL-interacting protein kinase 19-like
+  Gene Synonyms: CIPK12,OsCIPK12,OsPK7,P0460E08.9; CIPK19,OsCIPK19,OsPK4,P0022D06.5
+  Gene Descriptions: CBL-interacting protein kinase 12-like; CBL-interacting protein kinase 19-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: CBL-interacting protein kinase 19%2C transcript variant X1; CBL-interacting protein kinase 19-like%2C transcript variant X3
+  Gene Descriptions: CBL-interacting protein kinase 19; CBL-interacting protein kinase 19-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: CBL-interacting protein kinase 19%2C transcript variant X4; CBL-interacting protein kinase 19-like%2C transcript variant X3
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: CBL-interacting protein kinase 19%2C transcript variant X15
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: CBL-interacting protein kinase 19%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma06
+  Gene Products: CBL-interacting protein kinase 19; CBL-interacting serine/threonine-protein kinase 11
+  Gene Synonyms: GRMZM2G176519
+  Gene Descriptions: CBL-interacting serine/threonine-protein kinase 11
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 503 aa
+
+MAATPPSSRDPSPQPRRPASSAGpgKRGGLLLGRYELGRLLGHGTFAKVYHARHADTGET
+VAIKVLDKEKALRnGLVPHIKREIAILRRVRHPNIVRLFEVMATKSKIYFVMEFVRGGEL
+FARVAKGRLKEDTARRYFQQLISAVGFCHARGVFHRDLKPENLLVDERGDLKVSDFGLSA
+VADQFHPDGLLHTFCGTPSYVAPEVLARRGYDGAKADIWSCGVILFVLMAGYLPFHDQNL
+MAMYRKIYRGEFRCPRWFSKDLTSLLNRLLDTNPETRITVAEIMESRWFQKGFRPVRFYV
+EDDQVHSLADgENEvPELGPSEPPPPPPPPPPQQEDDGDDSGWESDSSVASCPATLSSEE
+RRRPaGSLTRPVSLNAFDIISFSRGFNLSGLFEERGSEVRFVSAqPMQTIITKLEEIAKV
+KSFsVRRKDWRVSLEGTREGEKGPLTIGAEIFELTPSLVVVEVKKKAGDKEEYEDFCERE
+LKPGMQHLVHHTASVPDIPSDTE
+
+
+BOP CONSENSUS:
+Length: 512 aa
+
+MAATPPSSRDPSPQPRRPASSAGRPAAGtAGNGKRGGLLLGRYELGRVLGHGTFAKVYHA
+RHADTGETVAIKVLDKEKALRHGLVPHIKREITILRRVRHPNIVRLFEVMATKSKIYFVM
+EFVRGGELFARVAKGRLKEDTARRYFQQLISAVGFCHARGVFHRDLKPENLLVDERGDLK
+VSDFGLSAVADQFHPDGLLHTFCGTPSYVAPEVLARRGYDGAKADIWSCGVILFVLMAGY
+LPFHDQNLMAMYRKIYRGEFRCPRWFSKDLTSLLNRLLDTNPETRITMAEVMQSRWFQKG
+FRPVRFYVEDDQLHSLGDGESEELGLEPTEPPPPPPLPPPPPQQEDDDSGWESDSSVASC
+PATLSSEERQRPAGRLTRPASLNAFDIISFSKGFDLSGLFEERGSEVRFISAQPMQTIVT
+KLEEIAKMKSFSIRRKDWRVSIEGTREGEKGPLTIGAEIFELTPSLLVVEVKKKAGDKEE
+YDDFCNKELKPGMEPLVHHQpGSARNVPSDTE
+
+
+PACMAD CONSENSUS:
+Length: 503 aa
+
+MAATPPSSRDPSPQPRRPASSAGPAKRGGLLLGRYELGRLLGHGTFAKVYHARHADTGET
+VAIKVLDKEKALRNGLVPHIKREIAILRRVRHPNIVRLFEVMATKSKIYFVMEfVRGGEL
+FARVAKGRLKEDTARRYFQQLISAVGFCHARGVFHRDLKPENLLVDERGDLKVSDFGLSA
+VADQFHPDGLLHTFCGTPSYVAPEVLARRGYDGAKADIWSCGVILFVLMAGYLPFHDQNL
+MAMYRKIYRGEFRCPRWFSKDLTSLLNRLLDTNPETRITVAQIMESRWFQKGFRPVRFYV
+EDDQVHSLADsENEVPELGPSEPPPPPPPPPPQQEDDGDDSGWESDSSVASCPATLSSEE
+RRRPvGSLTRPVSLNAFDIISFSRGFNLSGLFEERGNEVRFVSAHPMQTIITKLEEIAKV
+KSFAVRRKDWRVSLEGTRESEKGPLTIGAEVFELTPSLVVVEVKMKAGDREEYEDFCERE
+LKPGMQHLVHHTASVPDIPSDTE
+
+================================================================================

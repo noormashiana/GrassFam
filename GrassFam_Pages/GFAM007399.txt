@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM007399
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             384.0 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48099:SF10
+Panther Family ID:               PTHR48099
+Modal Panther ID:                PTHR48099:SF10
+Modal Panther Description:       BIFUNCTIONAL PROTEIN FOLD 1, MITOCHONDRIAL
+Modal Panther Family ID:         PTHR48099
+Modal Panther Fam Desc:          C-1-TETRAHYDROFOLATE SYNTHASE, CYTOPLASMIC-RELATED
+Interpro Signature Accession:    cd01080; G3DSA:3.40.50.720:FF:000006; G3DSA:3.40.50.10860:FF:000001; G3DSA:3.40.50.720; G3DSA:3.40.50.10860; PTHR48099; PR00085; PF02882; PF00763; SSF53223; SSF51735
+Interpro Signature Description:  NAD_bind_m-THF_DH_Cyclohyd; Bifunctional protein FolD; -; Leucine Dehydrogenase, chain A, domain 1; C-1-TETRAHYDROFOLATE SYNTHASE, CYTOPLASMIC-RELATED; Tetrahydrofolate dehydrogenase/cyclohydrolase family signature; Tetrahydrofolate dehydrogenase/cyclohydrolase, NAD(P)-binding domain; Tetrahydrofolate dehydrogenase/cyclohydrolase, catalytic domain; Aminoacid dehydrogenase-like, N-terminal domain; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: bifunctional protein FolD 1%2C mitochondrial
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: bifunctional protein FolD 1%2C mitochondrial-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: bifunctional protein FolD 1%2C mitochondrial
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: bifunctional protein FolD 1%2C mitochondrial-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: bifunctional protein FolD 1%2C mitochondrial-like%2C transcript variant X1
+  Gene Descriptions: bifunctional protein FolD 1%2C mitochondrial-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: bifunctional protein FolD 1%2C mitochondrial%2C transcript variant X1
+  Gene Descriptions: bifunctional protein FolD 1%2C mitochondrial
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau20
+  Gene Products: bifunctional protein FolD 1%2C mitochondrial-like
+  Gene Descriptions: bifunctional protein FolD 1%2C mitochondrial-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: bifunctional protein FolD 1%2C mitochondrial-like; bifunctional protein FolD 2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: bifunctional protein FolD 2-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: bifunctional protein FolD 1%2C mitochondrial
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: uncharacterized LOC100216752
+  Gene Synonyms: cl56262_1,GRMZM2G130790
+  Gene Descriptions: uncharacterized LOC100216752
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 381 aa
+
+MGGAAVAVLAATRRRsgPlaSLLsRAARGLHEAAAAAeEDKARTRRRRRRSSSSlLLGPD
+FPDTWDPPPRaAARppPPRaAGVDYdsTATIIDGKSIAEDIRLQIAEEVRQMKNAVGHVP
+GLAVVLVGDRRDSESYVRYKvKGCEEVGIKSLLAKLPGNCTEDEVVDSVSRFNEDPSVHG
+ILVQLPLPQHMDEERILSAISLEKDVDGFHPLNVGNLALRSRKPLFVPCAAKACLELLLQ
+SGIELMGKHVTVIGRSKVVGLPTSLLLQRHHATVSVIHAFTTNPEEITRESDIVISAAGV
+ANLVRGSWLKQGAVVIDVGTNPIEDPTSDYGYRLTGDVCFEEAVKVASAITPVPGGVGPV
+TIAMLLANTLDSAKRVYGLSD
+
+
+BOP CONSENSUS:
+Length: 380 aa
+
+MGGAAVALLAATRRRStPLVTSSLPRAARGLHEAAAAAGEDKARTRRRRSSSSRLLGPDI
+TDTWDPPPRPAARPLPPrAAGVDYESTATIIDGKSIAEDIRLQIAEEVLQMKNAVGHVPG
+LAVVLVGDRKDSQSYVRFKVKGCEEVGIKSLLAELPRNCTEDEVVDSVSRFNEDPSVHGV
+LVQLPLPQHMDEEKILNAISLDKDVDGFHPLNVGNLALRSRKPLFVSCAAKACLELLLQS
+GIDLMGKHVTIIGRSKVVGLPTSLLLQRHHATVSVIHAFTENPEEITReSDIVISAAGVA
+NLVRGSWLKQGAVVIDVGTNPVEDPASDYGYRLTGDVCFEEAVNVASAITPVPGGVGPVT
+IAMLLANTLDSAKRVYGLSD
+
+
+PACMAD CONSENSUS:
+Length: 388 aa
+
+MGGAAVAVLAAAATRRNrGPLASLLSRVARGLHDASaaAAAAEEDKAGTqSRRRRRRSSS
+SLLLGPDFPDTWDPPPRDAtRtPPPRdAGADYDRTATIIDGKSIAEDIRLHIAEEVRQMK
+SaVGHVPGLAVVLVGDRRDSESYVRYKTKGCEEVGIKSLLAKLPGNCTEDEVMDSVSRFN
+EDPSVHGILVQLPLPQHMDEERILSAISLEKDVDGFHPLNVGNLALRSRKPLFVPCAAKA
+CIELLLQSGIELMGKHVTVIGRSKVVGLPTSLLLQRHHATVSVIHAFTTNPEAITRESDI
+VISAAGVANLVRGSWLKQGAVVIDVGTNPIEDPTSDYGYRLTGDVCFEEAVKVASAITPV
+PGGVGPVTIAMLLGNTLDSAKRVYGLSD
+
+================================================================================

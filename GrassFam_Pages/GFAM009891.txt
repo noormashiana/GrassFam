@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM009891
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             485.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13271:SF116
+Panther Family ID:               PTHR13271
+Modal Panther ID:                PTHR13271:SF116
+Modal Panther Description:       F21J9.27
+Modal Panther Family ID:         PTHR13271
+Modal Panther Fam Desc:          UNCHARACTERIZED PUTATIVE METHYLTRANSFERASE
+Interpro Signature Accession:    cd10527; G3DSA:3.90.1420.10:FF:000007; G3DSA:3.90.1410.10:FF:000009; G3DSA:3.90.1410.10; PTHR13271; SSF81822; SSF82199
+Interpro Signature Description:  SET_LSMT; SET domain containing protein; Histone-lysine N-methyltransferase setd3; set domain protein methyltransferase, domain 1; UNCHARACTERIZED PUTATIVE METHYLTRANSFERASE; RuBisCo LSMT C-terminal, substrate-binding domain; SET domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: histone-lysine N-methyltransferase setd3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: actin-histidine N-methyltransferase
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: actin-histidine N-methyltransferase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: actin-histidine N-methyltransferase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: uncharacterized LOC127762347%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127762347
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: uncharacterized protein%2C transcript variant X2
+  Gene Descriptions: uncharacterized LOC4330640
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau16
+  Gene Products: uncharacterized LOC133894771%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133894771
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: actin-histidine N-methyltransferase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: histone-lysine N-methyltransferase setd3
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: histone-lysine N-methyltransferase setd3
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100285063
+  Gene Synonyms: GRMZM2G063316
+  Gene Descriptions: uncharacterized LOC100285063
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 484 aa
+
+MAAAAAGATPATARKALFTTTsTLLSSSLARsRRSLSCSAASAAAPRIAPQPPDLVRWVQ
+REGGFVHPALRVADHPEHGLGVSAAAADGDIPPGdVLIdLPGRLPLRLRRPTGAADDVLV
+QLAqQVPEELWAMRLGLRLLQERAKSDSFWWPYIANLPETFTVPIFFPGEDIKNLQYAPL
+LHQVNKRCRFLLEFEKEVqQKLGTVPLgDHPFCGQDVNSSSLGWAMSAASSRAFRLHGEI
+PMLLPLIDMCNHSFNPNARIVQEGsVNSpDMSVKVVAETKIEQNAAVTLNYGCYPNDFFL
+LDYGFVITSNPYDQVELSYDGTLLDAASMAAGVSSPNFSAPAKWQQDILSQLNLHGEGAI
+LKVSLGGPDIVDGRLLAALRVLLAADPEAVHKHDLKTLMSLdaKAPLGPTVEASALRTVL
+ALCAIALQHFHTKIMEDEAILKGEPPLTTELAVQFRLQKKLMIVDVMQNLSRRIKMLSPQ
+KSTA
+
+
+BOP CONSENSUS:
+Length: 485 aa
+
+MAAAAAGATPATARKALASTTSALLSSSpALRRRSLSCSAASAATAPRIAQQPPDLLRWV
+QREGGFVHPALRVADHPEYGLGVSATAADGvIPPGAVLIDLPGRIPLRLRRPADAADAVL
+MQLADrVPEELWAMRLGLRLLQERTKSDSFWWPYIANLPETFTVPIFFPGEDIKNLQYAP
+LLHQINKRCRFLLEFEKEVKQKLGTVPSGDHPFCGQDVHSSSLGWAMSAASSRAFRLHGE
+IPMLLPLVDMCNHSFSPNARIVQEGDVESPDMSVKVVAETQIDQNAAVTLNYGCYPNDFY
+LLDYGFVVTSNPYDQVELSYDGNLLDAASMAAGVSNPNFSTPAKWQQDILSQLNLHGEGA
+ILKVSLGGPDIVDGRLLAALRVLLAADPETVGKHDLKTLMSLgtKAPLGPTVEASALRTV
+LALCAIALQHFHTKIMDDQAVLKGEPPLTTELAVQFRLQKKLMLVDIMQNLSRRIKtLSP
+EKSTA
+
+
+PACMAD CONSENSUS:
+Length: 486 aa
+
+MAAAAAGATPATARKTLFTTTaTLLSSSLTRgSSRRSLSCSAASAAAPRLAPQPPDLVRW
+VQREGGFVHPALRVANHPEHGLGVSAAAADGDIPPGDVLIALPGRLPLRLRRPTGAADDV
+LVQLAQQVPDELWAMKLGLRLLQERAKPDSFWWPYIANLPETFTVPIFFPGEDIKNLQYA
+PLLHQVNKRCRFLLEFEKEVQQKLDTVPLeDHPFYGQDVNSSSLGWAMSAASSRAFRLHG
+EIPMLLPLIDMCNHSFNPNARIVQEGSVNSSDMSVKVVAETKIEQNAAITLNYGCHPNDF
+FLLDYGFVITPNPYDQVELSYDGTLLDAASMAAGVSSPNFSAPAKWQQDILSQLNLHGEG
+AILKVSLGGPDIVDGRLLAALRVLLAADPEAVHKHDLKTLMSLDAQAPLGPTVEASALRT
+VLALCAIALQHFHTKIMEDEAILKGEPPLTTELAVQFRLQKKFMIVDVMQNISRRIKMLS
+PQKSTA
+
+================================================================================

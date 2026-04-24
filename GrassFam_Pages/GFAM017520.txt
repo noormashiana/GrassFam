@@ -1,0 +1,151 @@
+================================================================================
+GrassFam ID: GFAM017520
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             761.0 aa
+Family Size (Extended Family Size): 19 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR30540:SF88
+Panther Family ID:               PTHR30540
+Modal Panther ID:                PTHR30540:SF88
+Modal Panther Description:       POTASSIUM TRANSPORTER 13-RELATED
+Modal Panther Family ID:         PTHR30540
+Modal Panther Fam Desc:          OSMOTIC STRESS POTASSIUM TRANSPORTER
+Interpro Signature Accession:    TIGR00794; PTHR30540; PF22776; PF02705
+Interpro Signature Description:  potassium uptake protein; OSMOTIC STRESS POTASSIUM TRANSPORTER; K+ potassium transporter C-terminal domain; K+ potassium transporter integral membrane domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: probable potassium transporter 13
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: probable potassium transporter 13
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: probable potassium transporter 13
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: probable potassium transporter 13
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: probable potassium transporter 13
+  Gene Descriptions: probable potassium transporter 13
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: probable potassium transporter 13
+  Gene Synonyms: HAK13,OsHAK13
+  Gene Descriptions: probable potassium transporter 13
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau10
+  Gene Products: probable potassium transporter 13
+  Gene Descriptions: probable potassium transporter 13
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: probable potassium transporter 13; probable potassium transporter 13%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: probable potassium transporter 13
+Msi
+  Gene count: 1
+  Modal chromosome: Msi19
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: probable potassium transporter 13
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: Potassium transporter 1
+  Gene Synonyms: GRMZM2G146140,HAK13
+  Gene Descriptions: Potassium transporter 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 759 aa
+
+MDVEGGvVQPRkkSSWGWQKGTLLLAYQSFGVVYGDLCISPVYVYKNTFSGKLRLHEEDE
+EILGVLSLVFWSLTLIPLLKYIILVLGADDNGEGGTFALYSLMCRRSRMGLLNSIHAGHG
+SLSaYNQdEPCKElRSSLAIKGFFEKHYSLRVVLLLFVLMGTSMVIGDGVLTPTMSVLSA
+VSGLRIKFPELHENYTVLlACVVLVGLFALQHYGTHRVGFLFAPILLSWLaCIGGIGIYN
+IFKWNPSVVRALSPYYIYNFFRKAGKDGWSSLGGIVLCITGAEAMFADLGHFSKLSLRLG
+FTIVVYPCLVLAYMGEAAYLSKHREDLQSSFYKALPDRVFWPVLiIATLATAVGSQAIIS
+ATFSIISQCRALGCFPRIKVVHTSSHVHGQIYIPEVNWvLMSLCLAVTIGFRDTEMIGNA
+YGLAVILVMFATTCLMFLVITTVWNRSVLWAALFTaGFGSvELlYLSACLAKVPHGGWLP
+LLLSLaTLLVMSTWHYGTAKKQEYELQNKVCLDRFLGLSSGIGLVRVPGVGFVYSSaVNG
+VPPMFAHFVTNFPAFHRVLIFVSLQTLTVPKVsPEERFLVGRIGrPAHRLFRCVVRYGYK
+EGRWDHFNFENQLLMKVVEFLQLQqAAGDGErCSsGSGEMSVIPAAPSsQavVDAlaSmS
+ScEIDAGGGaRrVRFEEppGAwRrEEtssEVKtLLEEREAGVSYMIGHTCVfAHESSSAV
+KKFAVNVVYGFLRRNSRRPAVVLGIPHTSLIEVGMtYRV
+
+
+BOP CONSENSUS:
+Length: 760 aa
+
+MDVEGAAVQPRKKNSWGWQKGTLLLAYQSFGVVYGDLCISPVYVYKNTFSGKLRLHEEDE
+EILGVLSLVFWSLTLVPLLKYIILVLGADDNGEGGTFALYSLMCRRSRMGLLNSLHAGHG
+SVSSYNQDEPCKETRSSLAIRGFFEKHHSLRVVLLLFVLMGTSMVIGDGVLTPTMSVLSA
+VSGLRIKFPELHENYTVLLACVVLVGLFALQHYGTRRVGFLFAPILLSWLACIGGIGIYN
+IFRWNPTVVRALSPYYIYNFFRKAGRDGWSSLGGIVLCITGAEAMFADLGHFSKLSLRLG
+FTIVVYPCLVLAYMGEAAYLSKHREDLQSSFYKALPDRVFWPVLFIATLATAVGSQAIIS
+ATFSIISQCRALGCFPRIKVVHTSSHVHGQIYIPEVNWTLMSLCLAVTIGFRDTEMIGNA
+YGLAVILVMFATTCLMFLVITTVWNRSVLWAALFAAGFGSVELLYLSACLAKVPHGGWLP
+LLLSLATLLVMSAWHYGTAKKQEYELQNKVCLDHFLGLSSGMGLVRVPGVGFVYSDSVAG
+VPPMFAHFVTNFPAFHRVLVFVSLQTLTVPKVPPEERFLVGRIGRPEHRMFRCVVRYGYK
+EGRWDHFNFENQLLVKVLEFLQLQQADGDGERCSTGSGEMSVIPAAPSQAVVDALASMSS
+GEIeYYAGGGAKKVRFEELPAAWRREETMSEVRELLEEREAGVSYMIGHTCVFAHESSSA
+VKKFAVNVVYGFLRRNSRRPAVVLGIPHTSLIEVGMVYRV
+
+
+PACMAD CONSENSUS:
+Length: 769 aa
+
+MDVEGGVPAVQQsTTKRaaSSSWGLQKATLLLAYQSFGVVYGDLCISPVYVYKNTFSGKL
+RLHEEDEEILGVLSLVFWSLTLIPLLKYIILVLGADDNGEGGTFALYSLMCRRSRMGLLN
+NIHnGSLSAYNQKEPREELKSSLAIKgFIEKHYSLRVVLLLFVLMGTSMVIGDGVFTPTM
+SVLSAVSGLRIKFPELHENYTVLFACFVLVGLFALQHYGTHRVGFLFAPILLAWLGCIGG
+IGIYNIFKWNPSVIRALSPYYIYNFFRKAGKDGWSSLGGIVLCITGAEAMFADLGHFSKL
+SLRLGFTIVVYPCLVLAYMGEAAYLSKHREDLQSSFYKALPDRVFWPVLIIATLATVVGS
+QAIISATFSIISQCRALGCFPRIKVVHTSSHVHGQIYIPEVNWVLMFLCLAVTVGFRDTE
+MIGNAYGLAVILVMFATTCLMFLVITTVWNRNVLLAALFTVGFGSIELMYLSACLAKVPH
+GGWLPLLLSLVTLLAMSTWHYGTKKKEEYELQNKVCLDRFLSLSSGIGLVRVPGVGFVYS
+SAVNGVPPMFAHFVTNFPAFHRVLIFVSLQTLTVPKVSPDERFLVGRVGPPANRLFRCVV
+RYGYKEGRWDHFNFENQLLMKVVEFLQLQEaAAEApSDSGELSVIPAAPRaaQQLVDVDA
+APpASsSSSSSCEIDAGVVsRRVRFEEPaGAGEGEmKSsEVKTLLEERESGVSYMIGHTC
+VQAHESSPAVKKFAVNVVYGFLRRNSRRPAVELGVPHTSLIEVGMTYRV
+
+================================================================================

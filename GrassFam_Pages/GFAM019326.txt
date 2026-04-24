@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM019326
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             397.0 aa
+Family Size (Extended Family Size): 21 (27) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11570:SF3
+Panther Family ID:               PTHR11570
+Modal Panther ID:                PTHR11570:SF3
+Modal Panther Description:       S-ADENOSYLMETHIONINE DECARBOXYLASE PROENZYME
+Modal Panther Family ID:         PTHR11570
+Modal Panther Fam Desc:          S-ADENOSYLMETHIONINE DECARBOXYLASE
+Interpro Signature Accession:    G3DSA:3.60.90.10:FF:000002; G3DSA:3.30.360.50:FF:000001; G3DSA:3.60.90.10; G3DSA:3.30.360.50; TIGR00535; PTHR11570; PIRSF001355; PF01536; SSF56276
+Interpro Signature Description:  S-adenosylmethionine decarboxylase proenzyme; -; S-ADENOSYLMETHIONINE DECARBOXYLASE; SAM_decarbox_euk; Adenosylmethionine decarboxylase; S-adenosylmethionine decarboxylase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: S-adenosylmethionine decarboxylase proenzyme
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: S-adenosylmethionine decarboxylase proenzyme-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: S-adenosylmethionine decarboxylase proenzyme
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: S-adenosylmethionine decarboxylase proenzyme%2C transcript variant X2; S-adenosylmethionine decarboxylase proenzyme-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: S-adenosylmethionine decarboxylase proenzyme-like
+  Gene Descriptions: S-adenosylmethionine decarboxylase proenzyme-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: S-adenosylmethionine decarboxylase proenzyme-like
+  Gene Descriptions: S-adenosylmethionine decarboxylase proenzyme-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: S-adenosylmethionine decarboxylase proenzyme-like
+  Gene Descriptions: S-adenosylmethionine decarboxylase proenzyme-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: S-adenosylmethionine decarboxylase proenzyme-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: S-adenosylmethionine decarboxylase proenzyme-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: S-adenosylmethionine decarboxylase proenzyme
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: S-adenosylmethionine decarboxylase proenzyme
+  Gene Synonyms: GRMZM2G366392
+  Gene Descriptions: S-adenosylmethionine decarboxylase proenzyme
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 398 aa
+
+MAVLQVAdAPPVSAIGFEGYEKRLEISFSEAPVFADPNGRGLRALSRAQIDSVLDLARCT
+IVSELSNEDFDSYVLSESSLFVYPYKVVIKTCGTTKLLLAIPRILELAEELSLPLAAVKY
+SRGTFIFPEAQPSPHKNFADEVAFLNRYFGGLKSGGNAYVIGDPAKPGQKWHVYYATQHP
+EqPVVTLEMCMTGLDKKKASVFFKTSADGHTSCAKEMTKLSGISDIIPEMEICDFDFEPC
+GYSMNAIHGPAFSTIHVTPEDGFSYASYEVMGFNPASfAYGDLVKRVLRCFGPSEFSVAV
+TIFGGRDnAKTWGKKLDVgAYACSNMVEQELPSGGLLIYQSFTATGEatTGSPRSVLHcF
+vddnvEnGSKnGkmDApLCWEdDAVDEtDEREgKKMKC
+
+
+BOP CONSENSUS:
+Length: 387 aa
+
+MAVSAIGFEGYEKRLEITFSEAPVFTDPNGRGLRALSRAQIDSVLDLAKCTIVSELSNEK
+FDSYVLSESSLFVYPYKVVIKTCGTTKLLLAIPRILELAEELSLPLAAVKYSRGTFIFPE
+AQPSPHKNFSDEVAFLNGYFGGLKSGGNAYVIGDPAKPGQKWHVYYATQQPEQPVVNLEM
+CMTGLDKKKASVFFKTSADGHTSCAKEMTKLSGISDIIPEMEICDFDFEPCGYSMNAIHG
+SAFSTIHVTPEDGFSYASYEVMGLDPASMAYGDLVKRVLRSFGPSEFSVAVTIFGGrSLA
+GTWGERLNVGaYDSTNMVVQELPsGGLLIYQSFTAvGEDsTGSPRSVLNCFVDGNLEsGs
+KMDAFLCWEDDAAQEKDERaGKKMRSs
+
+
+PACMAD CONSENSUS:
+Length: 400 aa
+
+MAVLQgAAAAPPPVSAIGFEGYEKRLEISFSEASVFADPNGRGLRALSRAQIDSVLDLAR
+CTIVSELSNEDFDSYVLSESSLFVYPYKvVIKTCGTTKLLLAIPRILELAEELSLPLAAV
+KYSRGTFIFPDAQPSPHKNFADEVAFLNRYFGGLKSGGNAYVIGDPAKPGQKWHIYYATE
+HPEEPVVTLEMCMTGLDKKKASVFFKTSADGhTSCAKEMTKLSGISDIIPEMEICDFDFE
+PCGYSMNAIHGPAFSTIHVTPEDGFSYASYEVMGFNPgSFAYGDLVKRVLRCFGPSEFSV
+AVTIFGERDNAKTWGKKLDAEAYACSNMVEQELPSGGLLIYQSFTATGEATvGSPRSVLH
+sFaGDiVenGSEnGElDAPLCWEaDAVDETEEREVKKMKC
+
+================================================================================

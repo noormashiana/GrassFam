@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM008078
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             367.0 aa
+Family Size (Extended Family Size): 43 (44) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR42683
+Modal Panther ID:                PTHR42683:SF93
+Modal Panther Description:       CINNAMYL-ALCOHOL DEHYDROGENASE
+Modal Panther Family ID:         PTHR42683
+Modal Panther Fam Desc:          ALDEHYDE REDUCTASE
+Interpro Signature Accession:    cd05283; G3DSA:3.40.50.720:FF:000022; G3DSA:3.90.180.10:FF:000004; G3DSA:3.90.180.10; G3DSA:3.40.50.720; PTHR42683; PF08240; SSF51735; SSF50129
+Interpro Signature Description:  CAD1; Cinnamyl alcohol dehydrogenase; probable cinnamyl alcohol dehydrogenase; -; ALDEHYDE REDUCTASE; Alcohol dehydrogenase GroES-like domain; NAD(P)-binding Rossmann-fold domains; GroES-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: probable cinnamyl alcohol dehydrogenase 5
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 4
+  Modal chromosome: Hvu07H
+  Gene Products: probable cinnamyl alcohol dehydrogenase 5
+Ata
+  Gene count: 5
+  Modal chromosome: Ata06D
+  Gene Products: probable cinnamyl alcohol dehydrogenase 5
+Tae
+  Gene count: 14
+  Modal chromosome: Tae06B
+  Gene Products: probable cinnamyl alcohol dehydrogenase 5; probable cinnamyl alcohol dehydrogenase 5%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl08
+  Gene Products: probable cinnamyl alcohol dehydrogenase 3; probable cinnamyl alcohol dehydrogenase 5
+  Gene Descriptions: probable cinnamyl alcohol dehydrogenase 3; probable cinnamyl alcohol dehydrogenase 5
+Osa
+  Gene count: 2
+  Modal chromosome: Osa08
+  Gene Products: probable cinnamyl alcohol dehydrogenase 3; probable cinnamyl alcohol dehydrogenase 5
+  Gene Synonyms: CAD3,OsCAD3,OsJ_31603
+  Gene Descriptions: probable cinnamyl alcohol dehydrogenase 3; probable cinnamyl alcohol dehydrogenase 5
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN4
+Pau
+  Gene count: 2
+  Modal chromosome: Pau16
+  Gene Products: probable cinnamyl alcohol dehydrogenase 5
+  Gene Descriptions: probable cinnamyl alcohol dehydrogenase 5
+Svi
+  Gene count: 2
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: probable cinnamyl alcohol dehydrogenase 5
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: probable cinnamyl alcohol dehydrogenase 5
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: probable cinnamyl alcohol dehydrogenase 5
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: uncharacterized LOC100281336
+  Gene Synonyms: cl4921_1,GRMZM2G118610
+  Gene Descriptions: uncharacterized LOC100281336
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 368 aa
+
+MAPTAAEQSQQHTRKAVGLAARDASGHLSPLAITRRSTGDDDVVIKILYCGICHSDLHSI
+KNEWKNAtYPMIPGHEIAGEVTEVGKNVTKFKAGDRVGVGCMVNSCQSCESCDKGFENHC
+PGIIFTYNSVDrDGTvTYGGYSSMVVVHERFVVRFPDAMPLDKGAPLLCAGITVYSPMKY
+HGLNVPGMHLGVLGLGGLGHVAVKFGKAFGMKVTVISSSPGKKQEALERLGADAFVVSKD
+ADEMKAAMSTMDGIINTVSANIPMAPLlGLLKPNGKMIMVGLPEKPmEIPPFALVAtNKT
+LAGSCIGGMRDTQEMLDLAAKHGVTADIEVIGAEYVNTAMERLAKADVRYRFVIDIGNTL
+DKAAAAAe
+
+
+BOP CONSENSUS:
+Length: 366 aa
+
+MAPTAAEQHTRKAVGLAARDASGHLSPLAITRRSTGDDDVVIKILYCGICHSDLHSIKND
+WKNAtYPMIPGHEIAGEVTEVGKNVTKFKAGDRVGVGCMVNSCQSCESCnKGFENHCPGi
+IFTYNsVDrDGTiTYGGYSSMVVVHERFVVRFPDAMPLDKGAPLLCAGITVYSPMKYHGL
+NVPGMHLGVLGLGGLGHVAVKFGKAFGMKVTVISSSPGKKQEALERLGADAFVVSKDADE
+MKAAMSTMDGIINTVSANIPMAPLLGLLKPNGKMIMVGLPEKPmEIPPFALVAtNKTLAG
+SCIGGMRDTQEMLDLAAKHGVTADIEVIGAEYVNTAMERLAKADVRYRFVIDIGNTLDKA
+AAAAee
+
+
+PACMAD CONSENSUS:
+Length: 365 aa
+
+MAPTAAAAakqQHTGKAVGLAARDASGHLAPLTITRRSTGDDDVAIKILYCGMCHSDLHS
+IKNEWNNAMYPMVPGHEIAGVVTEVGKNVTKFKAGDRVGVGCMVNSCQSCDsCDEGFENH
+CRGIIFTYNSVDRDGTVTYGGYSSNVVVHERFVVRFPDAMPLDQGAPLLCAGITVYSPMK
+YHGLNvPGKHVGVLGLGGLGHVAVKFAKAFGMKVTVISTSPGKKQEALERLGADAFVVSK
+DADEMKAAAsTMDGIINTVSANiPlAPyMGLLKPNGKMIMVGLPtKPLEIPPFDLIMGNK
+TLAGSCIGGMRDTQEMIDVAAKHGVTADIEVVGADYVNTAMERLAKADVRYRFVIDIGNT
+LKnSE
+
+================================================================================

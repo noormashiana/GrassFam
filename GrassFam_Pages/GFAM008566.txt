@@ -1,0 +1,151 @@
+================================================================================
+GrassFam ID: GFAM008566
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             733.0 aa
+Family Size (Extended Family Size): 28 (33) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47958:SF46
+Panther Family ID:               PTHR47958
+Modal Panther ID:                PTHR47958:SF46
+Modal Panther Description:       DEAD-BOX ATP-DEPENDENT RNA HELICASE 21
+Modal Panther Family ID:         PTHR47958
+Modal Panther Fam Desc:          ATP-DEPENDENT RNA HELICASE DBP3
+Interpro Signature Accession:    cd18787; cd17945; G3DSA:3.40.50.300:FF:000322; G3DSA:3.40.50.300; PTHR47958; PF00271; PF00270; SM00490; SM00487; SSF52540
+Interpro Signature Description:  SF2_C_DEAD; DEADc_DDX23; probable ATP-dependent RNA helicase DDX23; -; ATP-DEPENDENT RNA HELICASE DBP3; Helicase conserved C-terminal domain; DEAD/DEAH box helicase; helicmild6; ultradead3; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: DEAD-box ATP-dependent RNA helicase 21%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu01H
+  Gene Products: DEAD-box ATP-dependent RNA helicase 21%2C transcript variant X3; DEAD-box ATP-dependent RNA helicase 21-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: DEAD-box ATP-dependent RNA helicase 21%2C transcript variant X2
+Tae
+  Gene count: 7
+  Modal chromosome: Tae06B
+  Gene Products: DEAD-box ATP-dependent RNA helicase 21%2C transcript variant X2; DEAD-box ATP-dependent RNA helicase 21-like; DEAD-box ATP-dependent RNA helicase 21-like%2C transcript variant X1; DEAD-box ATP-dependent RNA helicase 21-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: DEAD-box ATP-dependent RNA helicase 21%2C transcript variant X2
+  Gene Descriptions: DEAD-box ATP-dependent RNA helicase 21
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: DEAD-box ATP-dependent RNA helicase 21-like%2C transcript variant X1
+  Gene Synonyms: OsJ_12293
+  Gene Descriptions: DEAD-box ATP-dependent RNA helicase 21-like
+Ecu
+  Gene count: 3
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau04
+  Gene Products: DEAD-box ATP-dependent RNA helicase 21%2C transcript variant X3
+  Gene Descriptions: DEAD-box ATP-dependent RNA helicase 21
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi09N
+  Gene Products: DEAD-box ATP-dependent RNA helicase 21%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: DEAD-box ATP-dependent RNA helicase 21%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi01
+  Gene Products: DEAD-box ATP-dependent RNA helicase 21
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: ATP-dependent RNA helicase DDX23%2C transcript variant X2; uncharacterized LOC100281521%2C transcript variant X1
+  Gene Synonyms: GRMZM2G057374,GRMZM2G057394; GRMZM2G123459
+  Gene Descriptions: ATP-dependent RNA helicase DDX23; uncharacterized LOC100281521
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 736 aa
+
+MKRSADAMEAKPVFLTKEERERLALERRQAAVSDQRRSALDLLQSLPRPPPPPPPPPSsA
+PRDSSSSHRDSSDRDRDRDRDRDRDRRRDDDSRRDRDRDRDRDRDRDDSSRRDRDRDRDR
+DRDRDRERERERDRDRERGDRDKDREKDRLEKMAEREREKELDAIKEQYLGSKKPKKRVI
+KPSEKFRFSFDWENTEDTSRDMNaLYQSPHEARLLYGRGFLAGIDRREQKKAAAAHEKET
+RAEQRRKAGVEDRPEDDVVDKKKAAAAEMYDAFDMRVDRHWSEKgLEEMTERDWRIFRED
+FNISYKGSRIPRPMRKWSESKLGTELLRAIEKAGYEKPSPIQMAAIPLGLQQRDVIGIAE
+TGSGKTAAFVLPMLSYITRLPPISEENEAEGPYAVVMAPTRELAQQIEEETVKFATYLGI
+KVVSIVGGQSIEEQGFKIRQGCEVVIATPGRLLDCLERRYAVLNQCNYVVLDEADRMIDM
+GFEPQVVGVLDAMPSSNLKPENEDEELDEKRIYRTTYMFSATMPPAVERLARKYLRNPVV
+VTIGTAGKATDLITQNVIMVKESEKMSRLQKILTDLGDKTAIVFCNTKKTADMRAKDLDK
+AGFRVTTLHGGKSQDQREISLDGFRNRRFNVLVATDVAGRGIDIPDVAHVINYEMPSSVD
+TYTHRIGRTGRAGKKGVATSFLTLENTDIFFDLKQMLIQSNSPVPPELARHEASKFKPGS
+IPDRPPRRNDTVFAnH
+
+
+BOP CONSENSUS:
+Length: 728 aa
+
+MKRSFDAMEAKPVFLSKEERQRLALERRQAAVADQRRSALDILQSLPRPPPPPPPSnAPR
+DSSSSHRDPSDRDRgDRDRDRDRDRDRDRRRDDDSRRDRDRDRDRDRDEPSRRDRDRDRD
+RDREHRDRERGERDKDREKDRLEKMAEREREKELEAIKEQYLGSKKPKKRVIKPSEKFRF
+SFDWENTEDTSRDMNMLYQAPHEARLLYGRGFLAGIDRREQKKAAAVFEKETRAEQRRKF
+GVEDRPEDDVADKKKAAAAEMYDAFDMRVDRHWSEKGIEEMTERDWRIFREDFNISYKGS
+RIPRPMRNWPESKLGTELLRAIEKVGYKKPSPIQMAAIPLGLQQRDVIGIAETGSGKTAA
+FVLPMLSYITRLPPISEENEAEGPYAVVMAPTRELAQQIEEETVKFATYLGIKVVSIVGG
+QSIEEQGFKIRQGCEVVIATPGRLLDCLERRYAVLNQCNYVVLDEADRMIDMGFEPQVVG
+VLDAMPSSNLKPENEEEELDEKRIYRTTYMFSATMPPAVERLARKYLRNPVVVTIGTAGK
+ATDLITQNVIMVKESEKMSRLQKILTDLGDKTAIVFCNTKKSADNRAKDLDKAGFRVTAL
+HGGKSQDQREISLDGFRNRRFNVLVATDVAGRGIDIPDVAHVINYEMPSSVDTYTHRIGR
+TGRAGKKGLATSFLTLDNTDIFFDLKQMLTQSNSPVPPELARHEASKFKPGSVPDRPPRR
+NDTVYASH
+
+
+PACMAD CONSENSUS:
+Length: 744 aa
+
+MKRSADAMTEPAKPVFLTKAERERLALERRQAAVSDQRRTALDLLQSLPRPPPPPPPGGP
+PPSGSNsAPRDSSNSHRDSSDRDRDRDRDRERRRDDDSRRDRDRDRDRDRDRDDSSRRDR
+DRDRDRRDRDRDRDRERERERDRDRERGDRGDRERDRLEKMAEREREKELDAIKEQYLGS
+KKPKKRVIKPSEKFRFSFDWENTEDTSRDMNALYQSPHEARLLFGRGFLAGIDRREQKKA
+AAAHEKETRAELRRKAGVEDRPEDDAVDKKKAAAAEMYDAFDMRVDRHWSEKALEEMTER
+DWRIFREDFNISYKGSRIPRPMRKWSESKLGTELLRAIDKAGYEKPSPIQMAAIPLGLQQ
+RDVIGIAETGSGKTAAFVLPMLSYITRLPPISEENEAEGPYAVVMAPTRELAQQIEEETV
+KFATYLGIKVVSIVGGQSIEEQGFKIRQGCEIVIATPGRLLDCLERRYAVLNQCNYVVLD
+EADRMIDMGFEPQVVGVLDAMPSSNLKPENEDEELDEKRIYRTTYMFSATMPPAVERLAR
+KYLRNPVVVTIGTAGKATDLITQNVIMVKESEKMPRLQKILTDLGDKTAIVFCNTKKTAD
+MRAKDLDKAGFRVTTLHGGKSQDQREISLDGFRNRRFNVLVATDVAGRGIDIPDVAHVIN
+YEMPSSIDTYTHRIGRTGRAGKKGVATSFLTLENTDIFFDLKQMLIQSNSPVPPELARHE
+ASKFKPGSIPDRPPRRNDTVFANH
+
+================================================================================

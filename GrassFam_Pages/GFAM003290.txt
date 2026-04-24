@@ -1,0 +1,124 @@
+================================================================================
+GrassFam ID: GFAM003290
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             276.0 aa
+Family Size (Extended Family Size): 27 (28) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12215:SF10
+Panther Family ID:               PTHR12215
+Modal Panther ID:                PTHR12215:SF10
+Modal Panther Description:       L-AMINOADIPATE-SEMIALDEHYDE DEHYDROGENASE-PHOSPHOPANTETHEINYL TRANSFERASE
+Modal Panther Family ID:         PTHR12215
+Modal Panther Fam Desc:          PHOSPHOPANTETHEINE TRANSFERASE
+Interpro Signature Accession:    G3DSA:3.90.470.20:FF:000013; G3DSA:3.90.470.20:FF:000003; G3DSA:3.90.470.20; PTHR12215; PF22624
+Interpro Signature Description:  L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase; -; PHOSPHOPANTETHEINE TRANSFERASE; 4'-phosphopantetheinyl transferase, N-terminal
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl11
+  Gene Products: uncharacterized LOC127754606%2C transcript variant X1; uncharacterized LOC127757126
+  Gene Descriptions: uncharacterized LOC127754606; uncharacterized LOC127757126
+Osa
+  Gene count: 2
+  Modal chromosome: Osa11
+  Gene Products: L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase%2C transcript variant 1; L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase%2C transcript variant X1
+  Gene Descriptions: L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 1
+  Modal chromosome: Pau19
+  Gene Products: uncharacterized LOC133901103%2C transcript variant X2
+  Gene Descriptions: uncharacterized LOC133901103
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi03K
+  Gene Products: L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase-like; L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 278 aa
+
+MEEEeSGGvRRRWLVDVaRWRPSPAQFQAAAALLPPHeRPAIARFVKEDDRKRALVSRLL
+QYSLVHHVLGIPFHQInIrRTtEGKPYLQNnnsaFPNFNFNTSHQGDYVGIASEPLCLVG
+LDIVSISKPQGETttEFIsNFSSYLTDHEWNCIVRAgtpdEVLTEFYRYWCLKEAFVKAi
+GAGVGFGLHRLEFHHVhWTNISIyIDGEESRKWRFWLFKLDEMHLASIAKGHPEDAInSF
+KkTLSNVVVEEEELHAALEIPEEaFTLqTVEQLTQLqd
+
+
+BOP CONSENSUS:
+Length: 278 aa
+
+MEEEHSGGvRRRWLVDVARWRPSPAQFQAAAALLPPHHRPAIARFVKEEDRKRALVSRLL
+QYSLVHHVLGIPFHQIrInRTtEGKPYLENgppAFrNFNFNTSHQGDYVGIASELLCLVG
+LDIVCISKPQGETTVEFLKNFSSYLTDHEWNCIVRAAGSDEMLTEFYRYWCLKEAFVKAV
+GAGVGFGLHRLEFHHVeWSNISVYIDGIESRKWRFWLFKLDEMHLASIAKGHPEDAIhSF
+KRTLSNVVVEEEEFYAALEIPEEtFTLQTVEQLTQLHD
+
+
+PACMAD CONSENSUS:
+Length: 276 aa
+
+MtEEESGVRRWLVDItRWRPSPAQFDAAAALLPPHERPAIaRFVKEDDRKRALVSRLLQY
+SLVHHVLRIPFHQInIrRTaEGKPYLQNNCSTFPNFNFNTSHQGDYVGIASEPLCLVGLD
+IVSVSKPQGETvTEFISNFSSYLTDHEWNCIVRAGTPrEVLTEFYRYWCLKEAFVKAIGA
+GVGFGLHRLEFHHEhWTNISICIDGEeSKKWRFWLFKLDEMHLASIAKGHPEDAVNSYKK
+TLSNvIVaEEQLHSTLESPEEGFTLRTVEQLTQSQe
+
+================================================================================

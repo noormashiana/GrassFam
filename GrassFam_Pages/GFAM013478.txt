@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM013478
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             447.0 aa
+Family Size (Extended Family Size): 23 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48017:SF162
+Panther Family ID:               PTHR48017
+Modal Panther ID:                PTHR48017:SF162
+Modal Panther Description:       OS01G0908600 PROTEIN
+Modal Panther Family ID:         PTHR48017
+Modal Panther Fam Desc:          OS05G0424000 PROTEIN-RELATED
+Interpro Signature Accession:    PTHR48017; PF01490
+Interpro Signature Description:  OS05G0424000 PROTEIN-RELATED; Transmembrane amino acid transporter protein
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: proline transporter 1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: probable proline transporter 2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: probable proline transporter 2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: proline transporter 1-like
+  Gene Descriptions: proline transporter 1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: proline transporter 1
+  Gene Descriptions: proline transporter 1
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: probable proline transporter 2; proline transporter 1-like%2C transcript variant X1
+  Gene Descriptions: probable proline transporter 2; proline transporter 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi05K
+  Gene Products: proline transporter 1-like%2C transcript variant X1; proline transporter 1-like%2C transcript variant X3; proline transporter 1-like%2C transcript variant X5; proline transporter 2-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: proline transporter 1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: proline transporter 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: proline transporter 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 442 aa
+
+MASSSLDTEAAGqqhKgGSGGYTtAATAHAVDTDSWQQVGLLLViGFNCAYVLSFSNLMM
+VPLGWGWGvACLLLVGAAAWYANWLLAGLHVVDGQRFIRYRDLMGFVFGRKMYYITWFLQ
+FTTLLLGNMGFILLGGRALKAINAEFTHSPARLQWFIAATGfVYFAFAYFVPTISAMRNW
+LATSAALTVAYDVALLAILVRDGKSNKQKDYnVHGTQAEKVFNALGAVAAILVCNTSGLL
+PEIQSTLRKPAVrNMRRALLLQYTAGAAGYYGISVAGYWAYGAAVSEYLPNQLGGPRWAa
+VLINATAFLQSIVSQHLFTVPIHEAMDTRLQRLDEGMFSRYNLTRRLfARGLlFGfNVFV
+TALFPFMGDFVNLFGSFALFPLTFMFPSMvVLKIKGKsgGRWnRLWHWGIIVvSSVLGVA
+TTAAAVRLIfHNAsVYHFFADM
+
+
+BOP CONSENSUS:
+Length: 444 aa
+
+MASSSLDTEAGAGAQHKAGGDGGYTTAATAHAVDTDSWQQVGLLLVTGFNCAYVLSFSNL
+MMVPLGWGWGAACLLLLAAAAWYANWLLAGLHVVDGQRFIRYRDLMGFVFGRKMYYLTWF
+LQFTTLLLGSMGFILLGGRALKAISAEFTqTPPRLQWFIAATGFVYFAFAYFVPTISAMR
+NWLATSAALTVTFDVALLAVLVRDGRSNKRrDYsIHGTQAEKVFNALGAVAAILVCNTSG
+LLPEIQSTLRKPaVSNMRRALALQYTVGAAGYYGISVAGYWAYGAAASEYLPNQLSGPRW
+ASVLINATAFLQSIVSQHLFTVPIHEAMDTGLQRLEEGMFSRYNMTRRLlARGLLFGVNV
+FVTALFPFMGDFVNLFGSFALFPLTFMFPSMIVLKIKGECDGRWgRLWHWGIIVVSSVLG
+LATSAAAVRLILHNASVYRFFADT
+
+
+PACMAD CONSENSUS:
+Length: 448 aa
+
+LEgGKREAMAGSSMDTEAAGQELKGSGYTIpATAHAVDTDSWQQVGLLLVIGFNCAYVLS
+FSNLMMVPLGWGWGVACLLLVGAAAWYANWLLAGLHFVDGQRFIRYRDLMGFVFGRNMYY
+ITWFLQFTTLLLCNMGFILLGARALKAINvEFTHSPARLQWFITATGiIYFAFAYFVPTI
+SAMRNWLATSAALTLAYDVALLAILIRDGKSNKQKDYNVHGTQAEKVFNALGAVAAILVC
+NTSGLLPEIQSTVREPAVRGMRRALLLQYTAGAAGYYGISVAGYWAYGSAVSEYLPNELG
+GPRWAAVLINATAFLQSVVSQHLFTVPIHEAMDTRLQRLDEGMFSRYNLTRRlfARGLvF
+GFNVFVTALFPFMGDFVNLVGSFALVPLTFMFPSMVVLKIKGKSGGRWNRLWHWGIIVFS
+SVLCVATTAAAVRLIFNNARIYHFFADM
+
+================================================================================

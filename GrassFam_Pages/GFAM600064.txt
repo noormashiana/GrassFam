@@ -1,0 +1,116 @@
+================================================================================
+GrassFam ID: GFAM600064
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            TE (REXDB)
+Median Peptide Size:             395.0 aa
+Family Size (Extended Family Size): 68 (91) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22930:SF271
+Panther Family ID:               PTHR22930
+Modal Panther ID:                PTHR22930:SF271
+Modal Panther Description:       OS03G0643050 PROTEIN
+Modal Panther Family ID:         PTHR22930
+Modal Panther Fam Desc:          FAMILY NOT NAMED
+Interpro Signature Accession:    PTHR22930; PF13359
+Interpro Signature Description:  -; DDE superfamily endonuclease
+
+
+REXdb Match:                     True
+REXdb Percentage:                98.53%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: putative nuclease HARBI1
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu01H
+  Gene Products: protein ALP1-like; uncharacterized LOC123447454%2C transcript variant X1
+Ata
+  Gene count: 6
+  Modal chromosome: Ata01D
+  Gene Products: protein ALP1-like; putative nuclease HARBI1; uncharacterized LOC109742373%2C transcript variant X3; uncharacterized LOC120963323
+Tae
+  Gene count: 19
+  Modal chromosome: Tae05B
+  Gene Products: protein ALP1-like%2C transcript variant X1; protein ANTAGONIST OF LIKE HETEROCHROMATIN PROTEIN 1-like; putative nuclease HARBI1; putative nuclease HARBI1%2C transcript variant X1; putative nuclease HARBI1%2C transcript variant X2
+Ola
+  Gene count: 3
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: uncharacterized LOC127770499%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127770499
+Osa
+  Gene count: 10
+  Modal chromosome: Osa10
+  Gene Products: protein ALP1-like; uncharacterized protein; uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: protein ALP1-like; uncharacterized LOC107276286; uncharacterized LOC107276824; uncharacterized LOC107279041; uncharacterized LOC112936637; uncharacterized LOC112939257; uncharacterized LOC136353563; uncharacterized LOC136353564; uncharacterized LOC136355442
+Ecu
+  Gene count: 5
+  Modal chromosome: Ecu03
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi04K
+  Gene Products: protein ALP1-like; protein ALP1-like%2C transcript variant X1
+Pha
+  Gene count: 2
+  Modal chromosome: Pha01
+  Gene Products: protein ALP1-like
+Zma
+  Gene count: 14
+  Modal chromosome: Zma02
+  Gene Products: protein ALP1-like; protein ALP1-like%2C transcript variant X1; protein ANTAGONIST OF LIKE HETEROCHROMATIN PROTEIN 1-like%2C transcript variant X1; putative nuclease HARBI1; putative nuclease HARBI1%2C transcript variant X3; uncharacterized LOC103648973; uncharacterized LOC109944159; uncharacterized LOC114574129%2C transcript variant 2; uncharacterized LOC118471924
+  Gene Descriptions: putative nuclease HARBI1; uncharacterized LOC114574129
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 392 aa
+
+MdPSYrRRSqsEDEFaLFVLPTLEerSSSSkkPMHTSiLTGArRVnEILtGHEsLCKRhF
+RMEvyIFqALVqKLREkqLLaDtRdVSVEEQVAIFLYAvSKNATNETLQDwFQHSGETIS
+RYFGaVLdAITqLtsvYIRPPSLhPHpILSkPKFyPFFqDCIGAIDGTHIPMtLPPdqQE
+PYRNRKQTLSQNVMVACDFDLKFVHVHAGWEGSASDARVLQDALNHGFqVPpGKFYLVDA
+GYANTPQFLAPYRGTRYHLqEQGRArQRPrNYKELFNLRHAQLRNHIERIIGILKMRFPI
+LKvASHYPVDKQvDISVACCVLHNFIRLHnGDmsWPnNvtmEIDPnqIVDVPSGDhnYtn
+DIhaFNnSREAGNqKRDhIAqqMWnqYvaRRa
+
+
+BOP CONSENSUS:
+Length: 392 aa
+
+MDPSYrRRSqsEDEFaLFVLPTlEsqSSSSrKPMHTSILTGArRVnEILnGHESLCKRhF
+RMEvyIFqALVqKLREndlLaDsrdVSVEEQVAIFLYAVSKNATNETLQDwFQHSGQTIS
+RYFGiVLdAITiLtsVYIRPPSLhPHPILSkpKFyPFFkDCIGAIDGTHIPMtLSPdqQE
+PYRNRKQTLSQNVMVACDFDLKFVHVHAGWEGSASDARVLQDALNHGFqVPpGKFYLVDA
+GYANTPQFLAPYRGTRYHLqEQGrarQRPQNYKELFNLRHAQLRNHIERIIGILKMRFPI
+LKvASHYpvDKQiDISVACCVLHNFIRLHnGDmsWPdnvtsEIDPnqIVDVPsGDhnYtn
+DIHaFNysReAGNqKRDeIAqaMWNDYvaRRa
+
+
+PACMAD CONSENSUS:
+Length: 392 aa
+
+MNPNyyRRSQsEDEFvVLPTLqvsSSqSStKtPMHTSkLTGArRVtEILTGHEsLCKRnF
+RMEVsVFHALVqKLREKQLLADTRAVSVEEQVAIFLYALAKNASNETLQDFFQHSGETIS
+RHFGAVLDAITQLTCIYIRPPSLHPHQILSRPKFhPFFQDCVGaIDGTHiPMtLPLqQQE
+PYRNRKQTISQNVMLACDFDLKFVHVHAGWEGSASDARVLQDALtHGFvVPPGKFFLVDA
+GYANTPQFLAPYRGTRYHLQEQGRArQRPRDYKELFNLRHAQLRNHIERTIGILKMRFPI
+LRTGSHYPVqKQVDISVACCVLHNFIRLHNGDMsWPNNSNvEIDPrQIVDVPSGDHNYNS
+DIQAFNNSREAGNQKRDhIArQMWeQYvARRT
+
+================================================================================

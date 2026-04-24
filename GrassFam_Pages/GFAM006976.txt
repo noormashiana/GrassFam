@@ -1,0 +1,145 @@
+================================================================================
+GrassFam ID: GFAM006976
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             608.0 aa
+Family Size (Extended Family Size): 28 (29) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23118:SF54
+Panther Family ID:               PTHR23118
+Modal Panther ID:                PTHR23118:SF54
+Modal Panther Description:       ATP CITRATE SYNTHASE
+Modal Panther Family ID:         PTHR23118
+Modal Panther Fam Desc:          ATP-CITRATE SYNTHASE
+Interpro Signature Accession:    cd06100; G3DSA:3.40.50.261:FF:000003; G3DSA:1.10.230.10:FF:000005; G3DSA:3.40.50.720:FF:000136; G3DSA:3.40.50.720; G3DSA:3.40.50.261; PTHR23118; SSF48256
+Interpro Signature Description:  CCL_ACL-C; ATP-citrate synthase subunit; ATP-citrate synthase subunit 1; ATP-citrate synthase beta chain protein; -; ATP-CITRATE SYNTHASE; Citrate synthase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: ATP-citrate synthase beta chain protein 1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu03H
+  Gene Products: ATP-citrate synthase beta chain protein 1; ATP-citrate synthase beta chain protein 1-like%2C transcript variant X1
+Ata
+  Gene count: 2
+  Modal chromosome: Ata03D
+  Gene Products: ATP-citrate synthase beta chain protein 1; ATP-citrate synthase beta chain protein 1%2C transcript variant X2
+Tae
+  Gene count: 6
+  Modal chromosome: Tae03A
+  Gene Products: ATP-citrate synthase beta chain protein 1; ATP-citrate synthase beta chain protein 1-like; ATP-citrate synthase beta chain protein 1-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: ATP-citrate synthase beta chain protein 1
+  Gene Descriptions: ATP-citrate synthase beta chain protein 1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: ATP-citrate synthase beta chain protein 1-like
+  Gene Synonyms: ACLB-1,OsJ_01435,P0682B08.9
+  Gene Descriptions: ATP-citrate synthase beta chain protein 1-like
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN1122
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: ATP-citrate synthase beta chain protein 1; ATP-citrate synthase beta chain protein 1-like
+  Gene Descriptions: ATP-citrate synthase beta chain protein 1; ATP-citrate synthase beta chain protein 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: ATP-citrate synthase beta chain protein 1; ATP-citrate synthase beta chain protein 1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: ATP-citrate synthase beta chain protein 1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: ATP-citrate synthase beta chain protein 1%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: ATP-citrate synthase beta chain protein 1; uncharacterized LOC100381760
+  Gene Synonyms: GRMZM2G033226,GRMZM2G045534,GRMZM2G179170,pco065117
+  Gene Descriptions: uncharacterized LOC100381760
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 608 aa
+
+MATGQIFSKTTQALFYNYKQLPIQRMLDFDFLCGRETPSVAGIINPGSDGFQKLFFGQEE
+IAIPVHPTIEAACNAHPTADVFINFASFRSAAASSMSALKQPTIRVVAIIAEGVPESDAK
+QLISYARANNKVIIGPATVGGIQAGAFKIGDTAGTIDNIIQCKLYRPGSVGFVSKSGGMS
+NELYNTIARVTDGIYEGIAIGGDVFPGSTLSDHILRFNNIPQVKMMVVLGELGGsDEYSL
+VEALKQGKVQKPVVAWVSGTCARLFKSEVQFGHAGAKSGGELESAQAKNQALRDAGAVVP
+TSYEALESAIKETFEKLVEEGKISPVPEITPPPIPEDLKTAIKSGKVRAPTHIISTISDD
+RGEEPCYAGVPMSTIIEQGYGVGDVISLLWFKRSLPRYCTQFIEICIMLCADHGPCVSGA
+HNSIVTARAGKDLVSSLVSGLLTIGPRFGGAIDDAARYFKDAYDRGLTPYEFVEGMKKKG
+IRVPGIGHRIKSRDNRDKRVQLLQKYAHTHFPSVKYMEYAVQVETYTLSKANNLVMNVDG
+AIGSLFLDLLSGSGMFSKQEIDEIVEIGYLNGLFVLARSIGLIGHTFDQKRLKQPLYRHP
+WEDVLYTK
+
+
+BOP CONSENSUS:
+Length: 608 aa
+
+MATGQIFSKTTQALFYNYKQLPIQRMLDFDFLCGRETPSVAGIINPGSDGFQKLFFGQEE
+IAIPVHPTIEAACNAHPTADVFINFASFRSAAASSMSALKQPTiRVVAIIAEGVPESDAK
+QLISYARANNKVIIGPATVGGVQAGAFKIGDTAGTIDNIIQCKLYRPGSVGFVSKSGGMS
+NELYNTIARVTDGIYEGIAIGGDVFPGSTLSDHILRFNNIPQVKMMVVLGELGGSDEYSL
+VEALKQGKVQKPVVAWVSGTCARLFKSEVQFGHAGAKSGGELESAQAKNQALRDAGAVVP
+TSFEALESVIKETFEKLVEEGNIPPVPEVTPPPIPEDLKTAIKSGKVRAPTHIISTISDD
+RGEEPCYAGVPMSTIIERGYGVGDVISLLWFKRSLPRYCTQFIEICIMLCADHGPCVSGA
+HNSIVTARAGKDLVSSLVSGLLTIGPRFGGAIDDAARYFKDAYDRGLTPYEFVEGMKKKG
+IRVPGIGHRIKSRDNRDKRVQLLQKYAHTHFPSVKYMEYAVQVETYTLSKANNLVMNVDG
+AIGSLFLDLLSGSGMFSKQEIDEIVEIGYLNGLFVLARSIGLIGHTFDQKRLKQPLYRHP
+WEDVLYTK
+
+
+PACMAD CONSENSUS:
+Length: 608 aa
+
+MATGQLFSKTTQALFYNYKQLPIQRMLDFDFLCGRETPSVAGIINPGSDGFQKLFFGQEE
+IAIPVHPTIEAACNAHPTADVFINFASFRSAAASSMSALKQPTIRVVAIIAEGVPESDAK
+QLISYARANNKVIIGPATVGGIQAGAFKIGDTAGTIDNIIQCKLYRPGSVGFVSKSGGMS
+NEMYNTIARVTDGIYEGIAIGGDVFPGSTLSDHILRFNNIPQVKMMVVLGELGGKDEYSL
+VEALKQGKVQKPVVAWVSGTCARLFKSEVQFGHAGAKSGGELESAQAKNQALREAGAIVP
+TSYEALESAIKETFDKLVEEGKISPVTEITPPPIPEDLKTAIKSGKVRAPTHIISTISDD
+RGEEPCYAGVPMSTIIEQGYGVGDVISLLWFKRSLPRYCTQFIEICIMLCADHGPCVSGA
+HNSIVTARAGKDLVSSLVSGLLTIGPRFGGAIDDAARYFKDAYDRGLTPYEFVEGMKKKG
+IRVPGIGHRIKSRDNRDKRVQLLQKYAHTHFPSVKYMEYAVQVETYTLSKANNLVLNVDG
+AIGSLFLDLLSGSGMFTKQEIDEIVEIGYLNGLFVLARSIGLIGHTFDQKRLKQPLYRHP
+WEDVLYTK
+
+================================================================================

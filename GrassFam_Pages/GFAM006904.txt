@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM006904
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             561.0 aa
+Family Size (Extended Family Size): 31 (41) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22594:SF54
+Panther Family ID:               PTHR22594
+Modal Panther ID:                PTHR22594:SF54
+Modal Panther Description:       ASPARAGINE--TRNA LIGASE, CYTOPLASMIC 1-RELATED
+Modal Panther Family ID:         PTHR22594
+Modal Panther Fam Desc:          ASPARTYL/LYSYL-TRNA SYNTHETASE
+Interpro Signature Accession:    cd00776; cd04318; G3DSA:3.30.930.10:FF:000016; G3DSA:3.30.930.10; NF003037; TIGR00457; PTHR22594; PF00152; SSF55681
+Interpro Signature Description:  AsxRS_core; EcAsnRS_like_N; Asparagine--tRNA ligase; Bira Bifunctional Protein; Domain 2; asparagine--tRNA ligase; ASPARTYL/LYSYL-TRNA SYNTHETASE; tRNA synthetases class II (D, K and N); Class II aaRS and biotin synthetases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: asparagine--tRNA ligase%2C cytoplasmic 1
+Lpe
+  Gene count: 4
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: asparagine--tRNA ligase%2C cytoplasmic 1-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata01D
+  Gene Products: asparagine--tRNA ligase%2C cytoplasmic 1
+Tae
+  Gene count: 6
+  Modal chromosome: Tae01A
+  Gene Products: asparagine--tRNA ligase%2C cytoplasmic 1-like; asparagine--tRNA ligase%2C cytoplasmic 3-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: asparagine--tRNA ligase%2C cytoplasmic 3-like
+  Gene Descriptions: asparagine--tRNA ligase%2C cytoplasmic 3-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: asparagine--tRNA ligase%2C cytoplasmic 3
+  Gene Descriptions: asparagine--tRNA ligase%2C cytoplasmic 3
+Ecu
+  Gene count: 3
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: asparagine--tRNA ligase%2C cytoplasmic 1-like
+  Gene Descriptions: asparagine--tRNA ligase%2C cytoplasmic 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: asparagine--tRNA ligase%2C cytoplasmic 1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: asparagine--tRNA ligase%2C cytoplasmic 1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi01
+  Gene Products: asparagine--tRNA ligase%2C cytoplasmic 1; asparagine--tRNA ligase%2C cytoplasmic 1%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: uncharacterized LOC100281485
+  Gene Synonyms: GRMZM2G083836,pco123869
+  Gene Descriptions: uncharacterized LOC100281485
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 561 aa
+
+MAaDAATAAMAAASLCDDLEPATsRTRIRDVLAAGaARAGERVVVGGWVRTGREQGKGsF
+AFLELSDGSCAatLQVIVDAAVHPLARLTATGTSVLVEGEIKEPPEGTKQNVELKVSRVI
+EVGEVDAAAYPLPKGKVKLTLEkLRDVVHLRSRTNTIGAVARIRHQLAYATHsFFDENGF
+LYVHTPIITTSDCEGAGEMFQVTTLFSQAEKtEKELKENPAPSESDIEAAKVvVKEKGDA
+VAQLKAAKASKQEISAAVdELnKAKENVSRLEERSKLKPGIPrRDDGsIAFENDFFKRQA
+FLTVSGQLQVETYACALSSVYTFGPTFRAENSHTSRHLAEFWMVEPEIAFANLQDDMNCA
+EKYVQYLCKWLLDHCREDMEFMVKNYDKsAIERLELVSSTPFVRISYTKAVELLKNVTDK
+KFENKVEWGIDLASEHERYLTEvIFKKPVIVYNYPKGIKAFYMRLNDDQKTVAAMDVLVP
+KVGELIGGSQREERLDVLKQRILDAGLPLEPYEWYLDLRRFGSVKHSGFGLGFERMILFA
+TGMENIRDVIPFPRYPGRADL
+
+
+BOP CONSENSUS:
+Length: 566 aa
+
+MADDAASAPPTAQLAAASISSPPSSDLEPPTSRTRIRAILDAGDAMAGERVVVGGWVKTG
+RQQGKGEFAFLEVNDGSCQGNLQVMVDKDVHPLAsLTHTGTSVLVEGVLKKPPeEAKQRI
+ELKVERVIEVGEVDAAAYPLPKTKITLETLRDFVHLRARTNTIGAVARIRHQLAYATHSF
+FDENGFLYIHTPIITTSDCEGAGEMFQVTALFSQAEKVEKELKENPAPSEADIEAAKLVV
+KEKGDAVAQLKAAKASKQEITAAVSELTKAKENVLRVEERSKLKPGLPLKDDGKIAFEND
+FFKRQAFLTVSGQLQVETYACALSSVYTFGPTFRAENSHTSRHLAEFWMVEPEIAFANLQ
+DDMNCAERYVQYLCKWLLKHCREDMEFMVKHVDKTAIERLELVSSTPFERISYTKAVEIL
+EGVDKKFENKVEWGIDLASEHERYLTEVIFKKPVIVYNYPKGIKAFYMRLNDDQKTVAAM
+DVLVPKVGELIGGSQREERLDILKQRILDADLPLEPYEWYLDLRRFGSVKHSGFGLGFER
+MILFATGLENIRDVIPFPRYPGRADL
+
+
+PACMAD CONSENSUS:
+Length: 561 aa
+
+MAADAAAAAMAAASLCDDLEPATvRTRIRDVLAAGAARAGERVVVGGWVRTGREQGKGSF
+AFLELSDGSCAATLQVIVDAAVHPLARLTATGTSVLVEGEIKEPPEGTKQNVELKVSRVL
+EVGEVDAAAYPLPKGKVKLTLEKLRDVVHLRSRTNTIGAVARIRHQLAYATHrFFdENGF
+LYVHTPIITTSDCEGAGEMFQVTTLFSQAEKTEKELKENPAPSDSEIEAAKVLVKEKGDA
+VAQLKAAKASKQDISAAVDELNRAKEnVSKLEERSKLKPGIPRRDDGSIAFENDFFKRQA
+FLTVSGQLQVETYACALSSVYTFGPTFRAENSHTSRHLAEFWMVEPEIAFANLQDDMNCA
+EKYVQYLCKWLLDHCREDMEFMVKNYDKSAIERLELVSSTPFVRISYTKAVELLKNVTDK
+KFDNKVEWGIDLASEHERYLTEDIFKKPVIVYNYPKGIKAFYMRLNDDDKTVAAMDVLVP
+KVGELVGGSQREERLDVLKQRILDAGLPLEPYEWYLDLRRFGSVKHSGFGLGFERMILFA
+TGMENIRDVIPFPRYPGRADL
+
+================================================================================

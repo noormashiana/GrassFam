@@ -1,0 +1,105 @@
+================================================================================
+GrassFam ID: GFAM004305
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             475.5 aa
+Family Size (Extended Family Size): 42 (52) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR32141:SF144
+Panther Family ID:               PTHR32141
+Modal Panther ID:                PTHR32141:SF144
+Modal Panther Description:       OS07G0277500 PROTEIN
+Modal Panther Family ID:         PTHR32141
+Modal Panther Fam Desc:          FAMILY NOT NAMED
+Interpro Signature Accession:    PTHR32141; PF24758
+Interpro Signature Description:  -; FBD-associated F-box protein At5g56370, LRR repeats
+
+
+REXdb Match:                     False
+REXdb Percentage:                2.38%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: putative F-box/LRR-repeat protein At4g15060
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07B
+  Gene Products: putative F-box/LRR-repeat protein At5g02700; uncharacterized LOC123159975%2C transcript variant X2
+Ecu
+  Gene count: 17
+  Modal chromosome: Ecu03
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 6
+  Modal chromosome: Pvi02K
+  Gene Products: F-box/FBD/LRR-repeat protein At3g26920-like; F-box/LRR-repeat protein At3g26922-like; putative F-box/FBD/LRR-repeat protein At5g44950%2C transcript variant X2; putative F-box/FBD/LRR-repeat protein At5g44950%2C transcript variant X3; uncharacterized LOC120701873
+Pha
+  Gene count: 3
+  Modal chromosome: Pha02
+  Gene Products: F-box/FBD/LRR-repeat protein At3g26920-like; putative F-box protein At3g58860; uncharacterized LOC112890275
+Msi
+  Gene count: 8
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi02
+  Gene Products: F-box/FBD/LRR-repeat protein At4g00160; uncharacterized LOC8084608
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 496 aa
+
+MEtLAAARRAKRRKPEAPgSpEQEgGaNISPLvPATsAPdSnPPGAGGDEShiQdPPPGA
+GGeEEDGVDRISGLPDAILGEVISLLPTKDAARTQiLASRWRHLWRSAPLNLDGGDLpVt
+IdvVSRILSAHrGPGRRFRfPAqHLqhhPATVDAWLRSPALDNLQElDCCIgIyApqpLq
+LPPqPASTFRFSSSLCVATfSQCHLSDDItQALQFPqLKKLALqsVsISEDSLHSIIAAS
+PVLECLLLSRiFGFrCVRINSaSLTSIGVRAaYqTFLeEfIIEDAPCLERLLYLqlgmgL
+qVSVISAPNLETLGClsYsDyySkLAlGSTIIEPeFRiINSmvvCTVKILAVnIlpLSLD
+mIIDLMRCFPCLEKLYIQsyssGDkNLWRRKHHnLIKCLDIRLKTVVLnNYRGIKSQVNF
+AtFFVLNAKMLESMTFEcQrdsTdRFIAEQHrLLQLEKRASRcARFYFTtkRCrHkFtHI
+NHVHDLSitDPFECrC
+
+
+BOP CONSENSUS:
+Length: 480 aa
+
+MEMEAAAPLSKKRRSEvPGSNQPEEISSHEPAAAAMEAPESDIrEPPPGAGGAEDGVDHI
+SGLPDAVLGDIISLLPTREGARTQTLASRWRHLWRSAPLNLDYYDLPAEGDVLIRLISQI
+LSAHAGSGRRLCVSAHHLYHHPATVDAWLRSAGLSNLQELEFCCAGDPPVLPAVTASTFR
+LSSSLRLATFSQCRFPDSIVQTLHFPQLKQLTLEEVSISEGSLQSVIAGCPVLESMLLNH
+CIGFGCIRICSPNLRTIGVRAGNAGYRDKLVKISIEDAPCLERLLQLNvTTGLDISIISA
+PNLETMGCHRYDDSYGFSFKGFPTLFPMVVHTVKTLSISVRPLCVDMVIDLMSCFPCLEK
+LYIqIRSSGrKSLWRRKHQSHIRCLDIRLKKVVLANYRGIMSEVNFAMLFVLNAKMLELL
+RFEVQGwCCEKFIERQRRLLQLGNRASRGARFVFTKDTCLRKLEDIKHVRDLSVADPFEC
+
+
+PACMAD CONSENSUS:
+Length: 500 aa
+
+METLAAARRAKRRKPEAPkSPEQEGGANISPLVPATSAPdSNPGAGGDEShiQDPPPGAG
+GEEEDGVDRISlLPDAILGEVISLLPTKDAARTQILATRWRHLWRSAPLNLDGGDLrTID
+VVSRILSAHRGPGRRFRFPAQhLqdcPATVDAWLRSPALDNLQEIDCwIgfIyaPQvLqP
+PPQPAStFRFSScLCVATlSQCHLSDDvtQALQFPkLKKLALQsVrISEDSLHSIIAASP
+VLECLLLSRIFGFRCVRINSASLTSIGVGTFLEEFIIEDAPCLKRILYLQLgMdLqVSVI
+SAPNLETLGCLSYsDyySkLALGSTIIEeFRiINSTtPACTVKILAVnIftLSLDvIIDL
+MRCFPCLEKLYIQSYrgGDrNLWRRKHHNLIKCLDIRLKTVVLNNYRGIKSQVNFATFFV
+LNAKMLESMTFECQRdSVTdRFLAEQHqLLQLEKRASRCARFYFTTkRCrHdFtHINHVH
+DLSITDPFECvEaGaCaSFE
+
+================================================================================

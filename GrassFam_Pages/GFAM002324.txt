@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM002324
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             508.5 aa
+Family Size (Extended Family Size): 22 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24286:SF365
+Panther Family ID:               PTHR24286
+Modal Panther ID:                PTHR24286:SF365
+Modal Panther Description:       ALLENE OXIDE SYNTHASE 3
+Modal Panther Family ID:         PTHR24286
+Modal Panther Fam Desc:          CYTOCHROME P450 26
+Interpro Signature Accession:    cd11071; G3DSA:1.10.630.10:FF:000024; G3DSA:1.10.630.10; PTHR24286; SSF48264
+Interpro Signature Description:  CYP74; Allene oxide synthase, chloroplastic; Cytochrome P450; CYTOCHROME P450 26
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: allene oxide synthase 3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: allene oxide synthase 4-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: allene oxide synthase 4
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: allene oxide synthase 4-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl02
+  Gene Products: allene oxide synthase 3; allene oxide synthase 4
+  Gene Descriptions: allene oxide synthase 3; allene oxide synthase 4
+Osa
+  Gene count: 2
+  Modal chromosome: Osa02
+  Gene Products: allene oxide synthase 3-like; allene oxide synthase 4-like
+  Gene Synonyms: AOS3,CYP74A3; AOS4,CYP74A4
+  Gene Descriptions: allene oxide synthase 3-like; allene oxide synthase 4-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau05
+  Gene Products: allene oxide synthase 4-like
+  Gene Descriptions: allene oxide synthase 4-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi01
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: allene oxide synthase 4-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: allene oxide synthase 3
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: allene oxide synthase 3
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 501 aa
+
+MASKRANSGDAdgeQqKLSPSGLPVREIPGGYGVPFFSPLRDRLDYYYFQGAEEYFRSRI
+ARHGGATVLRVNMPPGPFISGDSRVVAlLDARSFRVLLDDSrVDKaDTLDGTFMPSLALF
+GGHRPLAFLDAADPRHAALKRVmIRLAAARMHHVAPAFrAAFaAmFDAVEAGLAgsGpVE
+FNKLNMRHMLDFTCAALFGGtPPSKAMGDGAVtKAiKWLaFQLHPLASKaIKPWPLEDLL
+LHTFRLPPFLVRRDYAdLTAYFADAAAGVLDDAEKAdPGIPRDELLHNLVFlAIFNAYGG
+FKIFLPHvVKWLARAGPELHARLAsEVRAAVPaGSGedITLSAVEKMPLVKSVVWEALRM
+NPPVEFQYGRARRDmVVESHDAAYEVRKGEMLFGYQPLATRDERVFkRAGEFVPDRFVgg
+sDdErRRLLEHVVWSNGPETGaAAEGNKQCPGKDMVVAVGRLMVAELFRRYDTFaADVeE
+mPLEPVVTFTSLTRAAAgagP
+
+
+BOP CONSENSUS:
+Length: 491 aa
+
+MTSKVANSSGsDnAqsKLSPSGLPVREVPGGYGVPFFSPLRDRLDYYYFQGAEEYFRSRI
+ARNGGATVLRVNMPPGPFITgDSRVVALLDARSFSVLLDDAKVDKTDTLDGTFMPSLALF
+GGYRPLAFLDAADPRHAALKRVVISLAAARMHHVAPAFRaAFGAMFDAVDAGLGGGPVQF
+NKLNEHHMFDFTCSALFGGTPPSKAMGDGAVTKAIKWLgvQLHPLASKIIKPWPLEDLLL
+HTFRLPPFLVRRDYAdLTAYFAeAAAAVLDDAEKAQSGISRDELLHNLVFvAIFNAYGGF
+KIFLPHVVKWLARAGPALHARLASEVRAAVPnGSDITVSAVEKMPLVKSVVWEALRMNPP
+VEFQYGRARQDLVVESHDAAYqVRKGEMLFGYQPLATRDERVFKRAGEFVPDRFVGGErr
+LLGNVVWSNGPENsePAEGNKQCPGKDMVVAVGRLMVAELFRRYDTFAADVKEMPLEPVV
+TFTSLTRAkAe
+
+
+PACMAD CONSENSUS:
+Length: 505 aa
+
+MASKRANSGDEQQKLSPSGLPVReIPGSYGVPFFSPLRDRLDYFYFQGAEEYFRSRIARH
+GGATVLRVNMPPGPFLSGDSRVVAVLDARSFRVLLDDSRVDKAGTLDGTYMPSLALFGGH
+RPLAFLDGADPRHAALKRVMIRLAAARMHHVAPAFGAAFAATFDAVEAeLAAsGAvEFNK
+HNMRHMLDFTCAALFGGkPPSKAIGDGAAAKAYKWLAFQLHPLASKAIRPWPLEDLLLHT
+FRLPPFLVRRDYAELTAYFADVAAGVLDDAEKADPGAIPRDELLHNLIFLAIFNAYGGYK
+IFLPHLVKWLARgGPELHARLAdEVRAVVPAttGgaITLSAVEKMPLVKSVVWETLRMNP
+PVEFQYGRARRDtVVESHDAAYEVKKGEMLFGYQPLATRDERVFrRGREFVPDRFAVCSD
+DERRRLLEHVVWSNGPETGAAAEGNKQCPGKDAVVAVGRLMVAELFRRYDTFvASVEEsP
+VEPVVTFTSLTRAASAAGHGsvVKP
+
+================================================================================

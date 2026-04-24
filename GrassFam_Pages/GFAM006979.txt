@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM006979
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             476.0 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11055:SF37
+Panther Family ID:               PTHR11055
+Modal Panther ID:                PTHR11055:SF37
+Modal Panther Description:       ATP SULFURYLASE 2
+Modal Panther Family ID:         PTHR11055
+Modal Panther Fam Desc:          BIFUNCTIONAL 3'-PHOSPHOADENOSINE 5'-PHOSPHOSULFATE SYNTHASE
+Interpro Signature Accession:    cd00517; G3DSA:3.10.400.10:FF:000002; G3DSA:3.40.50.620:FF:000006; G3DSA:3.10.400.10; G3DSA:3.40.50.620; TIGR00339; PTHR11055; PF14306; PF01747; SSF52374; SSF88697
+Interpro Signature Description:  ATPS; ATP sulfurylase 2; bifunctional 3'-phosphoadenosine 5'-phosphosulfate synthase 1; Sulfate adenylyltransferase; HUPs; sulfate adenylyltransferase; BIFUNCTIONAL 3'-PHOSPHOADENOSINE 5'-PHOSPHOSULFATE SYNTHASE; PUA-like domain; ATP-sulfurylase; Nucleotidylyl transferase; PUA domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: ATP sulfurylase 2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: ATP sulfurylase 2-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: ATP sulfurylase 2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: ATP sulfurylase 2-like; ATP sulfurylase 2-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: ATP sulfurylase 2-like
+  Gene Descriptions: ATP sulfurylase 2-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: ATP sulfurylase 2-like
+  Gene Descriptions: ATP sulfurylase 2-like
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN44
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: ATP sulfurylase 2-like; ATP sulfurylase 2-like%2C transcript variant X3
+  Gene Descriptions: ATP sulfurylase 2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: ATP sulfurylase 2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: ATP sulfurylase 2-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: ATP sulfurylase 2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: bifunctional 3-phosphoadenosine 5-phosphosulfate synthetase 2
+  Gene Synonyms: GRMZM2G158147
+  Gene Descriptions: bifunctional 3-phosphoadenosine 5-phosphosulfate synthetase 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 473 aa
+
+MATTHLLTPPRLHHPSSSPSPaARLRATASLAHPLLlSRLRLAtpssSPrpprRRAMStV
+RSSLIDPDGGALVELVAPPDRRAALRAEAEALPRVRLAPVDLQWAHVLAEGWASPLRGFM
+REHEYLQSLHFNCIRLPDGGLVNMSLPIVLAIGDADKErIGdkPDVALeGPDGGVVAILR
+RVEIYPHNKEERIARTWGTTAPGLPYVDEAIASAGNWLIGGDLEVLEPIKYNDGLDHYRL
+SPRQLRNEFDKRGADAVFAFQLRNPVHNGHALLMNDTRRRLLEMGYKNPILLLHPLGGFT
+KADDVPLPVRMEQHSKVLEDGVLDPETTIVSIFPSPMHYAGPTEVQWHAKARINAGANFY
+IVGRDPAGMGHPTEKRDLYNPDHGKKVLSMAPGLEKLNILPFKVAAYDTVAKKMAFFDPS
+RSQDFLFISGTKMRTFAKtGENPPDGFMCPGGWKVLVDYYNSLQAEEATPvPV
+
+
+BOP CONSENSUS:
+Length: 477 aa
+
+MALHLLTPTHLHHPSSPLPRRRAsASAtASLAHPLLPHPRLRLATArSrPRTGPRRAMSA
+IRSSLIDPDGGALVDLVAPPeRRAALRAEAEALPRVRLAPVDVEWAHVLAEGWASPLRGF
+MREHEYLQCLHFNSLRLPSGGLVNMSLPIVLAVDDAeKDRIGAAPDVALAGPDGeLLAVL
+RSVEIYPHNKEERIARTWGTTAPGLPYVDEAITPAGNWLIGGDLEVLQPIKYNDGLDHYR
+LSPQQLRDEFDKRGADAVFAFQLRNPVHNGHALLMNDTRRRLLEMGFKNPILLLHPLGGF
+TKADDVPLPVRMEQHSKVLEDGVLDPETTIVSIFPSPMHYAGPTEVQWHAKARINAGANF
+YIVGRDPAGMGHPTEKRDLYNPDHGKKVLSMAPGLEKLNILPFKVAAYDTVAKKMAFFEP
+SRSQDFLFISGTKMRTFAKTGENPPDGFMCPGGWKVLVDYYNSLQTEGATAPAAATV
+
+
+PACMAD CONSENSUS:
+Length: 473 aa
+
+MATTHLLTPPRLHHPSPSPAARLRATASLAHPLLpSRLRLAAphSRSPSPRHpRRRAMSV
+RSSLIDPDGGALVELVAPPDRlPALRAEAEALPRVRLAPVDLQWAHVLAEGWASPLRGFM
+REAEYLQSLHFNCIRLPDGGLVNMSLPIVLAIGDADKEQIGDKPDVALEGPDGGVVAILR
+RVEIYPHNKEERIARTWGTTAPGLPYVDEAIASAGNWLIGGDLEVLEPIKYNDGLDHYRL
+SPRQLRNEFDKRGADAVFAFQLRNPVHNGHALLMNDTRRRLLEMGYKNPILLLHPLGGFT
+KADDVPLPVRMEQHSKVLEDGVLDPETTIVSIFPSPMHYAGPTEVQWHAKARINAGANFY
+IVGRDPAGMGHPTEKRDLYNPDHGKKVLSMAPGLEKLNILPFKVAAYDTVAKKMAFFDPS
+RSQDFLFISGTKMRTFAKNGENPPDGFMCPGGWKVLVDYYNSLQAEEATPVPV
+
+================================================================================

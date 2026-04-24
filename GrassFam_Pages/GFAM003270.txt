@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM003270
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             561.5 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31250:SF57
+Panther Family ID:               PTHR31250
+Modal Panther ID:                PTHR31250:SF57
+Modal Panther Description:       IQ DOMAIN-CONTAINING PROTEIN IQM1
+Modal Panther Family ID:         PTHR31250
+Modal Panther Fam Desc:          IQ DOMAIN-CONTAINING PROTEIN IQM3
+Interpro Signature Accession:    PTHR31250
+Interpro Signature Description:  IQ DOMAIN-CONTAINING PROTEIN IQM3
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: IQ domain-containing protein IQM1
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: IQ domain-containing protein IQM1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: IQ domain-containing protein IQM1%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: IQ domain-containing protein IQM1-like; IQ domain-containing protein IQM1-like%2C transcript variant X1; IQ domain-containing protein IQM5-like%2C transcript variant X5
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: IQ domain-containing protein IQM1-like%2C transcript variant X1
+  Gene Descriptions: IQ domain-containing protein IQM1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: IQ domain-containing protein IQM1%2C transcript variant X1
+  Gene Descriptions: IQ domain-containing protein IQM1
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: IQ domain-containing protein IQM1-like; IQ domain-containing protein IQM4-like
+  Gene Descriptions: IQ domain-containing protein IQM1-like; IQ domain-containing protein IQM4-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: IQ domain-containing protein IQM5-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: IQ domain-containing protein IQM5%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: calmodulin binding protein%2C transcript variant X1
+  Gene Synonyms: GRMZM2G031876
+  Gene Descriptions: calmodulin binding protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 555 aa
+
+MGLYRnaWAEVLGiEISSPRtKDgtMVNRISPPWDEQEKlcFSKGkLMpSLSFKqWEGAE
+eaVASVDHKSRPSqINviDDRRnSDvVFMAtasSPrVSSSPKCELDAAAVKLQKVYKSYR
+TRRNLADCAVVVEELWWKALDFASLKHSSISFFNGGKPETAASRWARARTRAAKVGKGLS
+KNGKAQKLALQHWLEAIDPRHRYGHNLHIYYDVWSRSESTEPFFYWLDIGEGKEVNLEKC
+PRSKLQSQCIKYLGPKERQEYEVVVEsGKLVYKKNGVLVHTLDDSKWIFVLSTTKALYVG
+QKKKGSFQHSSFLAGGAITSAGRLVVKEGILKAIWPYSGHYLPTEENFREFIRYLEENGV
+DLTDVKKCPIDKDDEYPLLSKPDAQPNaAVSndTnGAdHntAAAAADEhLSEsEvaDGDv
+HrtTDDGnMSEAEEDDTDVhSHTeeEEEVnsSEQrPPASaAAADhGKNHqTCRWSTGTGP
+RIRCVRDYPQDLQSRALEHVNLSPRLAGSPSRKRDPVPSPRPSPAMILSPRLASVGFQPr
+TVSLTLPDFKRSRLQ
+
+
+BOP CONSENSUS:
+Length: 556 aa
+
+MGLYRRAWSEVLGTEISSPRTHKFDMVNKIPAPWDEQKKNMTLKSQGQEHLFSKATLMHS
+VSFKQWrGGEESTGSVQNKSKQSLINGIQDRRNSDASSPNVSSSPKCELDAAAVKLQKVY
+KSYRTRRNLADCAVVVEELWWKALDFASLKHSSISFFNGGKPETAASRWARARTRAAKVG
+KGLSKNGKAQKLALQHWLEAIDPRHRYGHNLHIYYDVWSRSESTEPFFYWLDIGEGKEIN
+LENCPRSKLQGQCVKYLGPQERQHYEVVIEGGKLmFKQTGVLVHTSDDSKWIFVLSTTKA
+FYVGQKKKGSFQHSSFLAGGAITCAGRLVVKDGILKAIWPYSGHYLPTEENFRDFIRFLQ
+ENgVSLTDVKKSpIDKdDEYPLLSKSDtQPEHVENNnAAAAAEDLTEVEIDGVLTGEAYH
+GsaDHGDMSDAEEDAgTPVDSHTTDTEEEEEVNNISEQRPPASVDrSKNHQTCRWSTGTG
+PRIRCVRDYPQDLQSRALEHVNLSPRLAGSPSRKRDPVPSPRPSPGMILSPRLASVGFQP
+RTVSLTLPDFKRSRLQ
+
+
+PACMAD CONSENSUS:
+Length: 564 aa
+
+MGLYRNEWAEALGIEISSPRAKDGTMVVNRvSPPWDeQEKLCFSKGKLMPSLSFKLWEAE
+AaVASmDHgSRPSQInvDDDRsDSEvVFMATPSPSPRVSSSPKCELDAAAVKLQKVYKSY
+RTRRNLADCAVVVEELWWKALDFASLKHSSVSFFNGGKPETAASRWARARTRVAKLGKGL
+SKNGKAQKLARQHWLEAIDPRHRYGHNLHIYYDVWSKSESTEPFFYWLDIGEGKEVNLEK
+CPRSKLQSQCIKYLGPKERQEYEVVVEsGKLVYKKNGaLVHTLDDSKWIFVLSTTKALYV
+GQKKKGSFQHSSFLAGGAITSAGRLVVKEGILKAIWPYSGHYLPTEENFREFIRYLEENG
+VDLThVKKCPIDKDDEYPLLSKPDAQPNAAVSdDTdGADHnTAsAAADEHmSESEVvDGD
+VHRTTDDGNMSEAEEDDTDtHsHTDtEeEAHSSEqqQqEElPtPPAsvAAAeHGKNHLTC
+RWSTGTGPRIRCVRDYPQDLQSRALEHVNLSPRLtGSPSRKRDPVPSPRPSPAMILSPRL
+ASVGFQPQTaVSLTLPDFKRSRLQ
+
+================================================================================

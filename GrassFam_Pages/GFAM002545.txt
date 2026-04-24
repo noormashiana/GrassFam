@@ -1,0 +1,128 @@
+================================================================================
+GrassFam ID: GFAM002545
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             359.0 aa
+Family Size (Extended Family Size): 41 (44) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR31235
+Modal Panther ID:                PTHR31235:SF255
+Modal Panther Description:       CATIONIC PEROXIDASE SPC4
+Modal Panther Family ID:         PTHR31235
+Modal Panther Fam Desc:          PEROXIDASE 25-RELATED
+Interpro Signature Accession:    cd00693; G3DSA:1.10.420.10:FF:000006; G3DSA:1.10.520.10:FF:000009; G3DSA:1.10.420.10; G3DSA:1.10.520.10; PTHR31517; PR00458; PR00461; PF00141; SSF48113
+Interpro Signature Description:  secretory_peroxidase; Peroxidase; Peroxidase, domain 2; -; Haem peroxidase superfamily signature; Plant peroxidase signature; Heme-dependent peroxidases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi02
+  Gene Products: cationic peroxidase SPC4
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu03H
+  Gene Products: cationic peroxidase SPC4-like
+Ata
+  Gene count: 3
+  Modal chromosome: Ata03D
+  Gene Products: cationic peroxidase SPC4; cationic peroxidase SPC4-like
+Tae
+  Gene count: 18
+  Modal chromosome: Tae03A
+  Gene Products: cationic peroxidase SPC4; cationic peroxidase SPC4-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: cationic peroxidase SPC4-like
+  Gene Descriptions: cationic peroxidase SPC4-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: cationic peroxidase SPC4%2C transcript variant X1
+  Gene Descriptions: cationic peroxidase SPC4
+Pau
+  Gene count: 1
+  Modal chromosome: Pau02
+  Gene Products: cationic peroxidase SPC4-like
+  Gene Descriptions: cationic peroxidase SPC4-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi05K
+  Gene Products: cationic peroxidase SPC4-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: cationic peroxidase SPC4-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: cationic peroxidase SPC4
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: Peroxidase 12
+  Gene Synonyms: GRMZM2G361475
+  Gene Descriptions: Peroxidase 12
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 365 aa
+
+MARAPLLAAAVvAAVAlaCSavAAtEqEAAGsaRQPPVArGLSFDFYRRSCPRAESIVRd
+FVqDAVRKDIGLAAGLLRLHFHDCFVQGCDASVLLDGSATGPGEQQAPPNLTLRPSAFKA
+INDIRDRLERECRGAVVSCSDILALAARDSVVvSGGPsYRVPLGRRDSpRFATqQDVLSG
+LPpPSSnVPsLLAVLrkIgLDATDLVALSGGHTVGLGHCtSFEDRLFPRPDPTmNPtFLG
+RLKRTCPAKGTDRRTVLDVRTPNVFDNKYYVNLVNREGLFVSDQDLFTNAaTRPIVERFA
+RSQRDFFdQFGVSMVKMGQIkVLTGdQGQVRRNCSARNPGTAADgLpWSSLVQTVVDAAA
+ESLGF
+
+
+BOP CONSENSUS:
+Length: 368 aa
+
+MARAPLLAAAVVAAVAVASSLGsGasAAaEQEAAGLRQPPVARGLSFDFYRRSCPRAESI
+VRdFVrDAVRKDIGLAAGLLRLHFHDCFVQGCDASVLLDGSATGPGEQQAPPNLTLRPSA
+FKAVNDIRDRLERECRGAVVSCSDILALAARDSVVaSGGPeYRVPLGRRDSpRFATrQDV
+LSGLPAPSSNVPSLLaVLRpiGLDATDLVALSGGHTVGLAHCSSFEDRLFPRPDPTMNPd
+FLGRLKRTCPAKGTDRRTVLDVRTPNVFDNKYYVNLVNREGLFVSDQDLFTNAaTRPIVE
+RFARSQRDFFeQFGVSMVKMGQIrVLTGDQGQVRRNCSARNPGTaADgLQWSSLVQTVVD
+AAAESLGF
+
+
+PACMAD CONSENSUS:
+Length: 355 aa
+
+MSRAATLAAAAAVAVVLLCsSSTATAnGNARQPPVApGLSFDFYKRSCPKAESIVRSFVQ
+DAVRRDVGLAAGLLRLHFHDCFVQGCDASVLLDGSATGPGEQQAPPNLTLRPTAFKAIND
+IHDRLQKECGGAVVSCSDVLALAARDSVVVSGGPSYKVPLGRRDStSFATQQDVLSGLPP
+PTATVPALLAVLSKINLDATDLVALSGGHTIGLGHCTSFEDRLFPRPDPTLNATFAGqLR
+RTCPAKGTDRRTVLDVRTPNAFDNKYYVNLVNREGLFTSDQDLFTNAgTRpLVeKFARSQ
+KDFFDQFAFSVVKMGQIKVLTGtQGQIRRNCSARNAGtvmLPWSIVEEAAESLVF
+
+================================================================================

@@ -1,0 +1,137 @@
+================================================================================
+GrassFam ID: GFAM012157
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             545.0 aa
+Family Size (Extended Family Size): 19 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11699:SF276
+Panther Family ID:               PTHR11699
+Modal Panther ID:                PTHR11699:SF276
+Modal Panther Description:       MITOCHONDRIAL ALDEHYDE DEHYDROGENASE ALDH2A
+Modal Panther Family ID:         PTHR11699
+Modal Panther Fam Desc:          ALDEHYDE DEHYDROGENASE-RELATED
+Interpro Signature Accession:    cd07142; G3DSA:3.40.309.10:FF:000001; G3DSA:3.40.605.10:FF:000011; G3DSA:3.40.309.10; G3DSA:3.40.605.10; PTHR11699; PF00171; SSF53720
+Interpro Signature Description:  ALDH_F2BC; Mitochondrial aldehyde dehydrogenase 2; ALD5p Mitochondrial aldehyde dehydrogenase; Aldehyde Dehydrogenase; Chain A, domain 2; Aldehyde Dehydrogenase; Chain A, domain 1; ALDEHYDE DEHYDROGENASE-RELATED; Aldehyde dehydrogenase family; ALDH-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu06H
+  Gene Products: benzaldehyde dehydrogenase%2C mitochondrial-like
+Ata
+  Gene count: 1
+  Modal chromosome: AtaUN162610
+  Gene Products: benzaldehyde dehydrogenase%2C mitochondrial
+Tae
+  Gene count: 2
+  Modal chromosome: Tae06A
+  Gene Products: benzaldehyde dehydrogenase%2C mitochondrial-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: benzaldehyde dehydrogenase%2C mitochondrial-like
+  Gene Descriptions: benzaldehyde dehydrogenase%2C mitochondrial-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: benzaldehyde dehydrogenase%2C mitochondrial
+  Gene Descriptions: benzaldehyde dehydrogenase%2C mitochondrial
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau06
+  Gene Products: benzaldehyde dehydrogenase%2C mitochondrial-like
+  Gene Descriptions: benzaldehyde dehydrogenase%2C mitochondrial-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: benzaldehyde dehydrogenase%2C mitochondrial-like; benzaldehyde dehydrogenase%2C mitochondrial-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: aldehyde dehydrogenase family 2 member B7%2C mitochondrial-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: aldehyde dehydrogenase family 2 member B7%2C mitochondrial-like
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: aldehyde dehydrogenase 2
+  Gene Synonyms: aldh2,GRMZM2G125268,GRMZM2G125378,rf2b
+  Gene Descriptions: aldehyde dehydrogenase 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 551 aa
+
+MAARRAASSvLSRrLLARPSAsSPAGKSALLGAGsARRFLPGaLhRFSTAPAAAAAAtEE
+PIQPPVEVKYTQLLINGNFVDAASGKTFPTVDPRTGEVIARVAEGDAEDIDRAVAAARRA
+FDEGPWPRMTAYERCRVLLRFADLIEQHADEIAALETWDgGKTLEQSAGAEVPMvARCMR
+YYAGWADKIHGLVVPADGAHHVQVLHEPIGVAGQIIPWNFPLLMFAWKVGPALACGNAVV
+LKTAEQTPLSALYVASLLHEAGLPEGVLNVVSGFGPTAGAALCSHMGVDKLAFTGSTGTG
+KIVLELAARSNLKPVTLELGGKSPFIVMDDADVDQAVELAHrAvFFNQGQCCCAGSRTFV
+HERVYDEFVEKSKARAlKRVVGDPFRkGVEQGPQIDGEQFKKILrYVQSGVDSGATLVTG
+GDRvGSRGFYIQPTVFADAeDEMKIArEEIFGPVQTILKFSGVEEVIRRANATqYGLAAG
+VFTRSLDAANTLARALRVGTVWVNCYDVFDAAIPFGGYKMSGVGREKGvYsLRNYLQTKA
+VVTPIRDPAWL
+
+
+BOP CONSENSUS:
+Length: 543 aa
+
+MAARRAASSFLSRRLLARPPAgSLLGADSARRFLPGAVYRFSTAPAATADEEPIKPPVEV
+KYTQLLINGNFVDAASGRTFPTVDPRTGEVIARVAEGDAEDINRAVAAARRAFDEGPWPR
+MTAYERCRVLLRFADLIEQHNDEIAALESWDGGKPLEQSAGaEVPMAARCMRYYAGWADK
+IHGMVVPADGPHHVQVLREPIGVAGQIIPWNFPLLMFAWKVGPALACGNAVVLKTAEQTP
+LSALYVASLLHEAGLPDGVLNVVPGFGPTAGAALCSHMGVDKLAFTGSTGTGKIILELAA
+RSNLKPVTLELGGKSPFIVMDDADVDQAVELAHRALFFNQGQCCCAGSRTFVHESVYDEF
+VEKSKARAQRRVVGDPFKKGVEQGPQIDGQQFKKILGYVKSGVDSGATLVTGGDRlGSRG
+FYIQPTVFADVEDEMKIAQEEIFGPIQSILKFRdVGEVVRRANATQYGLAAGVFTgSLDT
+ANAVARALRVGTVWVNCYDVFDAAIPFGGYKMSGVGREKGpYSLGNYLQTKAVVAPLRDP
+AWL
+
+
+PACMAD CONSENSUS:
+Length: 546 aa
+
+MAARRAASSVLSRfLLTRPSPASSPAGKSALLGAGGALLHRFSTAPAAAAAATEEPIQPA
+VEVKHTQLLINGNFVDAASGKTFPTVDPRTGEVIARVAEGDSEDIDRAVAAARRAFDEGP
+WPRMTAYERCRVLLRFADLIERHAEEIAALETWDNGKTLAQAAGAEVPMVARCMRYYAGW
+ADKIHGLVVPADGAHHVQVLHEPVGVAGQIIPWNFPLLMFAWKVGPALACGNTVVLKTAE
+QTPLSALYVASLLHEAGLPEGVLNVVSGFGPTAGAALCSHMGVDKLAFTGSTGTGQIVLE
+LAARSNLKPVTLELGGKSPFIVMDDADVDQAVELAHQAVFFNQGQCCCAGSRTFVHERVY
+DEFVEKSKARALKRVVGDPFRNGVEQGPQIDGEQFKKILRYVQSGVDSGATLVAGGDRVG
+NRGFYIQPTVFADAKDDMKIAREEIFGPVQTILKFSGVEEVIRRANATpYGLAAGVFTRS
+LDAANTLSRALRVGTVWVNCYDVFDAGIPFGGYKMSGVGREKGVYALRNYLQTKAVVTPI
+RDAAWL
+
+================================================================================

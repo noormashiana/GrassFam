@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM005815
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             331.5 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10434:SF60
+Panther Family ID:               PTHR10434
+Modal Panther ID:                PTHR10434:SF60
+Modal Panther Description:       1-ACYL-SN-GLYCEROL-3-PHOSPHATE ACYLTRANSFERASE LPAT1, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR10434
+Modal Panther Fam Desc:          1-ACYL-SN-GLYCEROL-3-PHOSPHATE ACYLTRANSFERASE
+Interpro Signature Accession:    cd07989; TIGR00530; PTHR10434; PF01553; SM00563; SSF69593
+Interpro Signature Description:  LPLAT_AGPAT-like; 1-acylglycerol-3-phosphate O-acyltransferase; 1-ACYL-SN-GLYCEROL-3-PHOSPHATE ACYLTRANSFERASE; Acyltransferase; plsc_2; Glycerol-3-phosphate (1)-acyltransferase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: 1-acyl-sn-glycerol-3-phosphate acyltransferase 1%2C chloroplastic%2C transcript variant X3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: 1-acyl-sn-glycerol-3-phosphate acyltransferase BAT2%2C chloroplastic%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: AtaUN1190_0-51483
+  Gene Products: 1-acyl-sn-glycerol-3-phosphate acyltransferase LPAT1%2C chloroplastic%2C transcript variant X3
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: 1-acyl-sn-glycerol-3-phosphate acyltransferase LPAT1%2C chloroplastic-like%2C transcript variant X1; 1-acyl-sn-glycerol-3-phosphate acyltransferase LPAT1%2C chloroplastic-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: 1-acyl-sn-glycerol-3-phosphate acyltransferase BAT2%2C chloroplastic-like
+  Gene Descriptions: 1-acyl-sn-glycerol-3-phosphate acyltransferase BAT2%2C chloroplastic-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: 1-acyl-sn-glycerol-3-phosphate acyltransferase BAT2%2C chloroplastic
+  Gene Descriptions: 1-acyl-sn-glycerol-3-phosphate acyltransferase BAT2%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau24
+  Gene Products: 1-acyl-sn-glycerol-3-phosphate acyltransferase BAT2%2C chloroplastic-like
+  Gene Descriptions: 1-acyl-sn-glycerol-3-phosphate acyltransferase BAT2%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: 1-acyl-sn-glycerol-3-phosphate acyltransferase BAT2%2C chloroplastic-like%2C transcript variant X1; 1-acyl-sn-glycerol-3-phosphate acyltransferase BAT2%2C chloroplastic-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: 1-acyl-sn-glycerol-3-phosphate acyltransferase 1%2C chloroplastic-like%2C transcript variant X2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: 1-acyl-sn-glycerol-3-phosphate acyltransferase 1%2C chloroplastic%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: uncharacterized LOC100193515
+  Gene Synonyms: GRMZM2G033926,GRMZM2G034276
+  Gene Descriptions: uncharacterized LOC100193515
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 329 aa
+
+MGTLlRPRPAASPAPaaPAGPSSAHVVAGGGarsrPHRVSVAFRSPsPQVLaARWRRRdT
+VVRSDVvAGGAAAAAAGDStQALSDLQVASRVRGVCFYlVTAVAAIFLFVAMVVVHPLVL
+LFDRYRRRAQHYIAKIWATLTISMFYKLEVEGMENLPPNSSPAVYVANHQSFLDIYTLLT
+LGRCFKFISKTSIFMFPIIGWAMYLLGVIPLRRMDSRSQLDCLKRCVDLVKKGASVFFFP
+EGTRSKDGKLGVFKRGAFSVATKTGAPVIPITLIGTGKLMPSGMEGILNSGSVKVIIHRP
+IEGNDAEKLCSEARNVIADTLLLHGYGVH
+
+
+BOP CONSENSUS:
+Length: 325 aa
+
+MGTLVWLRPtAAPAVPAGPSaAHVVAgGGvrGRPRRVSVASRCPnPRVLQAGRCRWLVVR
+SGVTAGAAAADDPEDSSgLSDLQVASRIRGVFFYAVTAVAAIFLFIAMVVVHPLVLLFDR
+HRRRAQHYIAKIWATLTISMFYKLEVEGMENLPPNSSPAVYVANHQSFLDIYTLLTLGRC
+FKFISKTSIFMLPIIGWAMYLLGVIPLRRMDSRSQLDCLKRCVDLVKKGASVFFFPEGTR
+SKDGKLGIFKRGAFSVAaKTGVPVIPITLLGTGKLMPPGMESNLNSGSVKVIIHRPIEGN
+DAEKLCSDARNVIADTLLLHGYGVH
+
+
+PACMAD CONSENSUS:
+Length: 330 aa
+
+MGTLLRPGPAASPLPIASSSAHvAAVGGGGARSsRHRVSVAvFRSPSpQVLATRWRRRRD
+TVVRSDVVAGGAAAAAAGDSTQALSDLQVASRVRGVCFYLVTAVAAIFLFVAMVVVHPLV
+LLFDRYRRRAQHYIAKIWATLTISMFYKLEVEGMENLPPNSSPAVYVANHQSFLDIYTLL
+TLGRCFKFISKTSIFMFPIIGWAMYLLGVIPLRRMDSRSQLDCLKRCVDLVGKGASVFFF
+PEGTRSRDGKLGVFKRGAFSVATKTGAPVIPITLIGTGKLMPSGMEGILNSGSVKVIIHR
+PIQGNNAETLCSEARNVIADTLLLHGYGVH
+
+================================================================================

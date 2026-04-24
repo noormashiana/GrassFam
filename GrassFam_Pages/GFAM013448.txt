@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM013448
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             468.0 aa
+Family Size (Extended Family Size): 20 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48017:SF225
+Panther Family ID:               PTHR48017
+Modal Panther ID:                PTHR48017:SF225
+Modal Panther Description:       OS01G0878700 PROTEIN
+Modal Panther Family ID:         PTHR48017
+Modal Panther Fam Desc:          OS05G0424000 PROTEIN-RELATED
+Interpro Signature Accession:    PTHR48017; PF01490
+Interpro Signature Description:  OS05G0424000 PROTEIN-RELATED; Transmembrane amino acid transporter protein
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: amino acid permease 3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: amino acid permease 4-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: amino acid permease 1
+Tae
+  Gene count: 2
+  Modal chromosome: Tae03B
+  Gene Products: amino acid permease 1-like; amino acid permease 4-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: amino acid permease 5-like
+  Gene Descriptions: amino acid permease 5-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: amino acid permease 5%2C transcript variant X3
+  Gene Descriptions: amino acid permease 5
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: amino acid permease 4-like; amino acid permease 4-like%2C transcript variant X2
+  Gene Descriptions: amino acid permease 4-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: amino acid permease 2-like; amino acid permease 4-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: amino acid permease 4-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: amino acid permease 4
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: Amino acid permease 6
+  Gene Synonyms: GRMZM2G092945
+  Gene Descriptions: Amino acid permease 6
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 468 aa
+
+MDVEKVERKEVEVDDDGRVRTGTVWTATTHAITAVIGSGVLALPWSVAQMGWVLGPIALI
+GCAYITYYTAVLLSDCYRTPDPVHGKRNYTYMDVVRSCLGPRDVVVCGLAQYAILWGTMV
+GYTITTATSIMAVVRTNCHHYrGHDAACsSSGTMYMVlFGLVEVVLSQlPSLEKLTLISV
+VAAVMSFTYSFVGLFLSAAKlASNHaAhGTLLGVKIGAAAGVSASTKTWHfLQALGNIAF
+AYTYSMLLIEIQDTVKSPPSENVTMKRASlYGIGVTTIFYVSLGCIGYAAFGNAAPGNVL
+TGFDEPFWLVDVANVAVVIHLVGAYQVYAQPIFACYEKWLgARWPeSAFFHREYAVRLPG
+GGRAvRFTMCKLVLRTAFVAATTVVSLMLPFFNAVLGLLGAIAFWPLTVYFPVTMYIAQA
+KVAPGSRKWVALQALNVGALVVSLLAAVGSVADMVQRLGHVTIFQTQL
+
+
+BOP CONSENSUS:
+Length: 467 aa
+
+MDVEKVTEVAPEVDDDGRVRTGTVWTATTHAITAVIGSGVLALPWSVAQMGWVLGPIALV
+GCAYITYYTAVLLSDCYRSPDPVHGKRNYTYMDAVRSCLGPRDVVVCGIAQYAILCGAvV
+GYTITAATGIMSVVRSNCRHYKGHGAdCSQEGTMYLVLFGLVEVVLSQLPSLEKVTFISV
+VAAVMSFTYSFVALFLSAAKFASNHrAyGTILGShIGGPGGVSAaTRTWsFLQALGNIAF
+AYTYAMLLIEIQDTVKSPPSENVTMKRASLYGIGVTTAFYVSLGCVGYAAFGNAAPGNIL
+TGFDEPFWLVDLANVAVVIHLVGAYQVYAQPVFACYEKWLRARYPESAFFHREYALRLPG
+RRALRFTMCKLVLRTAFVaATTVVSLMLPFFNAILGLLGAAAFWPLTVYFPVTMYITQAK
+VPRGSrKWVALQALNVGALVVSLLAAVGSVADIVQRLGHVTMFKTQL
+
+
+PACMAD CONSENSUS:
+Length: 470 aa
+
+MDVEKVERKEVEVDDDGRVRTGTVWTATTHAITAVIGSGVLALPWSVAQMGWVLGPIALI
+GCAYITYYTAVLLSDCYRTPDPVHGKRNhTYMDVVRSCLGPRDVVVCGLAQYAILWGTMV
+GYTITTATSIMAVARTDCHHYRGHDAACvSSGTMYMVaFGLVEVVLSQFPSLEKLTLISV
+VAAVMSCTYSFVGLFLSAAKLASNHgAHGTLLGVKIGAAAGVSASTKTWHSLQALGNIAF
+AYTYSMLLIEIQDTVKSPPSENVTMKRASFYGIGVTTIFYVSLGCIGYAAFGNAAPGNVL
+TGFDEPFWLVDVANVAVVIHLVGAYQVYAQPIFACYEKWLGaRWPDSAFFHHEYAVRLPL
+aGGGRAARFTMCKLVVRTAFVAATTVVSLMLPFFNAVLGLLGAIAFWPLTVYFPVTMYIA
+QAKVAPGSRKWVALQALNVGALVVSLLAAVGSVADMVQRLGHVTIFQTQL
+
+================================================================================

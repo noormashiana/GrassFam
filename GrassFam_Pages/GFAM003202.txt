@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM003202
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             648.0 aa
+Family Size (Extended Family Size): 27 (32) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR19375:SF531
+Panther Family ID:               PTHR19375
+Modal Panther ID:                PTHR19375:SF531
+Modal Panther Description:       HEAT SHOCK 70 KDA PROTEIN
+Modal Panther Family ID:         PTHR19375
+Modal Panther Fam Desc:          HEAT SHOCK PROTEIN 70KDA
+Interpro Signature Accession:    cd10233; G3DSA:3.30.420.40:FF:000026; G3DSA:3.30.420.40:FF:000465; G3DSA:2.60.34.10:FF:000002; G3DSA:1.20.1270.10:FF:000028; G3DSA:3.30.30.30:FF:000019; G3DSA:3.90.640.10:FF:000002; G3DSA:1.20.1270.10; G3DSA:2.60.34.10; G3DSA:3.90.640.10; G3DSA:3.30.30.30; G3DSA:3.30.420.40; NF001413; PTHR19375; PR00301; PF00012; SSF53067; SSF100920; SSF100934
+Interpro Signature Description:  ASKHA_NBD_HSP70_HSPA1; Heat shock protein 70; Heat shock cognate 70 kDa protein 2; Heat shock 70 kDa; Heat shock 70 kDa protein; -; Substrate Binding Domain Of DNAk; Chain A, domain 1; Actin; Chain A, domain 4; molecular chaperone DnaK; HEAT SHOCK PROTEIN 70KDA; 70kDa heat shock protein signature; Hsp70 protein; Actin-like ATPase domain; Heat shock protein 70kD (HSP70), peptide-binding domain; Heat shock protein 70kD (HSP70), C-terminal subdomain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: heat shock cognate 70 kDa protein
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: heat shock cognate 70 kDa protein
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: heat shock cognate 70 kDa protein
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03D
+  Gene Products: heat shock cognate 70 kDa protein-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: heat shock 70 kDa protein 4
+  Gene Descriptions: heat shock 70 kDa protein 4
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: heat shock 70 kDa protein 4
+  Gene Descriptions: heat shock 70 kDa protein 4
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: heat shock 70 kDa protein; heat shock 70 kDa protein 4-like
+  Gene Descriptions: heat shock 70 kDa protein; heat shock 70 kDa protein 4-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi09K
+  Gene Products: heat shock 70 kDa protein; heat shock 70 kDa protein 18-like; heat shock 70 kDa protein-like; heat shock cognate 70 kDa protein-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: heat shock 70 kDa protein
+Msi
+  Gene count: 4
+  Modal chromosome: Msi12
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi01
+  Gene Products: heat shock 70 kDa protein; heat shock cognate 70 kDa protein
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: heat shock 70 kDa protein-like; heat shock protein 1
+  Gene Synonyms: GRMZM2G310431
+  Gene Descriptions: heat shock protein 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 648 aa
+
+MAKGEGPAIGIDLGTTYSCVGVWQHDRVEIIANDQGNRTTPSYVAFTDTERLIGDAAKNQ
+VAMNPTNTVFDAKRLIGRRFSDPSVQSDMKLWPFKVIPGPGDKPMIVVqYKGEEKQFAAE
+EISSMVLIKMKEIAEAYLGSTIKNAVVTVPAYFNDSQRQATKDAGVIAGLNVMRIINEPT
+AAAIAYGLDKKASSSGEKNVLIFDLGGGTFDVSLLTIEEGIFEVKATAGDTHLGGEDFDN
+RMVNHFVQEFKRKHKKDISGNPRALRRLRTACERAKRTLSSTAQTTIEIDSLFEGIDFYS
+TITRARFEELNMDLFRKCMEPVEKCLRDAKMDKSTVHDVVLVGGSTRIPKVQQLLQDFFN
+GKELCKSINPDEAVAYGAAVQAAILSGEGNEKVQDLLLLDVTPLSLGLETAGGVMTVLIP
+RNTTIPTKKEQVFSTYSDNQPGVLIQVYEGERARTKDNNLLGKFELSGIPPAPRGVPQIT
+VCFDIDANGILNVSAEDKTTGQKNKITITNDKGRLSKEEIEKMVQEAEKYKAEDEEVKKK
+VDAKNALENYAYNMRNTIKDDKIASKLPAeDKKKIEDAVDGAISWLDSNQLAEVDEFEDK
+MKELEGICNPIIAKMYQGAGADMGGAAGMDEDAPAGGSGAGPKIEEVD
+
+
+BOP CONSENSUS:
+Length: 652 aa
+
+MAKGGEGPAIGIDLGTTYSCVGVWQHDRVEIIANDQGNRTTPSYVGFTDTERLIGDAAKN
+QVAMNPTNTVFDAKRLIGRRFSDPSVQSDMKLWPFKVIPGPADKPMIVVQYKGEEKQFAA
+EEISSMVLIKMKEIGEAYLGTTIKNAVVTVPAYFNDSQRQATKDAGVIAGLNVMRIINEP
+TAAAIAYGLDKKASSSGEKNVLIFDLGGGTFDVSLLTIEEGIFEVKATAGDTHLGGEDFD
+NRMVNHFVQEFKRKHKKDISGNPRALRRLRTACERAKRTLSSTAQTTIEIDSLYEGVDFY
+STITRARFEELNMDLFRKCMEPVEKCLRDAKMDKSTVHDVVLVGGSTRIPKVQQLLQDFF
+NGKELCKSINPDEAVAYGAAVQAAILSGEGNEKVQDLLLLDVTPLSLGLETAGGVMTVLI
+PRNTTIPTKKEQIFSTYSDNQPGVLIQVFEGERARTKDNNLLGKFELSGIPPAPRGVPQI
+TVCFDIDANGILNVSAEDKTAGVKNKITITNDKGRLSKEDIEKMVQEAERYKAEDEELKK
+KVEAKNALENYAYNMRNTIKDDKIASKLPADDKKKIEDAIDGAISWLDTNQLAEADEFED
+KMKELEGVCNPIIAKMYQGAGADMGGMGGAAGMDEDAPAGGSGAGPKIEEVD
+
+
+PACMAD CONSENSUS:
+Length: 648 aa
+
+MAKGEGPAIGIDLGTTYSCVGVWQHDRVEIIANDQGNRTTPSYVAFTDTERLIGDAAKNQ
+VAMNPTNTVFDAKRLIGRRFSDPSVQSDMKLWPFKVIPGPGDKPMIVVNYKGEEKQFAAE
+EISSMVLIKMREIAEAYLGSTIKNAVVTVPAYFNDSQRQATKDAGVIAGLNVMRIINEPT
+AAAIAYGLDKKATSSGEKNVLIFDLGGGTFDVSLLTIEEGIFEVKATAGDTHLGGEDFDN
+RMVNHFVQEFKRKHKKDISGNPRALRRLRTACERAKRTLSSTAQTTIEIDSLFEGIDFYS
+TITRARFEELNMDLFRKCMEPVEKCLRDAKMDKSSVHDVVLVGGSTRIPKVQQLLQDFFN
+GKELCKSINPDEAVAYGAAVQAAILSGEGNEKVQDLLLLDVTPLSLGLETAGGVMTVLIP
+RNTTIPTKKEQVFSTYSDNQPGVLIQVYEGERARTKDNNLLGKFELSGIPPAPRGVPQIT
+VTFDIDANGILNVSAEDKTTGQKNKITITNDKGRLSKEEIEKMVQEAEKYKAEDEEVKKK
+VDAKNsLENYAYNMRNTIKDDKIASKLPAEDKKKIEDAVDGAISWLDSNQLAEVDEFEDK
+MKELEGICNPIIAKMYQGAGAGMGGAAGMDEDAPAGGSGAGPKIEEVD
+
+================================================================================

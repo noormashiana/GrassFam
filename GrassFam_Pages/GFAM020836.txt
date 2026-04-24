@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM020836
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             429.0 aa
+Family Size (Extended Family Size): 21 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22849:SF166
+Panther Family ID:               PTHR22849
+Modal Panther ID:                PTHR22849:SF166
+Modal Panther Description:       U-BOX DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR22849
+Modal Panther Fam Desc:          WDSAM1 PROTEIN
+Interpro Signature Accession:    cd16664; G3DSA:3.30.40.10; PTHR22849; PF25598; SM00504; SSF57850
+Interpro Signature Description:  RING-Ubox_PUB; Zinc/RING finger domain, C3HC4 (zinc finger); WDSAM1 PROTEIN; Plant U-box protein ARM repeat region; Ubox_2; RING/U-box
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: E3 ubiquitin-protein ligase PUB23
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: E3 ubiquitin-protein ligase PUB23-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: E3 ubiquitin-protein ligase PUB23
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: E3 ubiquitin-protein ligase PUB23-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: E3 ubiquitin-protein ligase PUB23-like
+  Gene Descriptions: E3 ubiquitin-protein ligase PUB23-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: E3 ubiquitin-protein ligase PUB23
+  Gene Descriptions: E3 ubiquitin-protein ligase PUB23
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau05
+  Gene Products: E3 ubiquitin-protein ligase PUB23-like
+  Gene Descriptions: E3 ubiquitin-protein ligase PUB23-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi01K
+  Gene Products: E3 ubiquitin-protein ligase PUB22-like; E3 ubiquitin-protein ligase PUB23-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: E3 ubiquitin-protein ligase PUB23-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: E3 ubiquitin-protein ligase PUB23
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: E3 ubiquitin-protein ligase PUB23
+  Gene Synonyms: GRMZM2G168980
+  Gene Descriptions: E3 ubiquitin-protein ligase PUB23
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 426 aa
+
+MdMEEPPHLFLCPISMELMdDPVTVSTGVTYDRRSIERWLFgYGRATCPATMQPLANLDL
+TPNHTLKRVIsSWLDRGSPSsSsSSSPSTSSLSSPAHELATPLSRMLEAERLRSALADLE
+ETPFKVTALKNMRACMAGDVAMQCEFVASGGIQAVGRVMAQALAESGAGGDFSAFTACEE
+AAAVLAlLPLSDaASVGLVLAPECMRPVMALLQRGSAEARLHAMDILTKISNAGAGDWTA
+GVDVDDVLKSLLELLSDEVSTRLSSRALDVLLDVVERSRSGPAKAVEVGAVHVLVELLAD
+ADDRHDAERILLLLKRLCKCPEGRLAFAEHDLSVAAVARTMLRVSeLATQLAVKVLWLVS
+VVAPSEKVLEDMVLTGAVAKLLGLLHVESPPsTKQKTVRMVRINGVFWRQYPCFPTDLRD
+YLRLLD
+
+
+BOP CONSENSUS:
+Length: 430 aa
+
+MDMDMEEPPHLFLCPISMELMEDPVTVSTGVTYDRRSIERWLFSYGRTTCPATMQPLANL
+DLTPNHTLARVISSWLDRGSSSSSSSSSPSTSSLSSPVHELGTPLTRMLEEERLRSALGD
+LEETPFKVTALKSMRSCMAGDVAMQIIFVASGGVEAVGRVMAQALAESGAGGDFSAFTVC
+EEAAAVLAALPLSDEASVGLVLAPECLRPVMALLQRGSAEARLHAMDILTKISSAGAGDH
+WTAGIDVDDVLKSLLELLSDEVSARLSSRALDVLLDVVERSPSGRAKAVEVGAVHVLVEL
+LVVDADDRHVAERILLLLKRLCKCPEGRLAFAEHDLSVAAVARTMLRVSDLATQLAVKVL
+WLVSMVAQSEKVLEDMVLTGAVAKLLGLLHVESAPSTKQKTVRMVRIHGVFWRQYPCFPT
+DLKDYLRLLD
+
+
+PACMAD CONSENSUS:
+Length: 425 aa
+
+MEEEPPHLFLCPISMELMDDPVTVSTGVTYDRRSIERWIFGYGRATCPATMQPLANLDLT
+PNHTLKRVIGSWLDRGSPSTSASSSPSTSSLSSPAHELATPLSRMLEAERLRSALADLEE
+TPFKVTALKNMRARMAGDVAMQCEFVSSGGIQAVARVMAQALAESGAGGDFSAFTACEEA
+AAVLALLPLADAASVGFVLAPECMRPVMALLQRGSAEARLHAMDIVTKISNAGAGDWTAG
+VEVDDVLKSLLELLSDEVSTRLSSRALDVLLDVVERSRsGPAKAVEVGAVHVLVELLADA
+DDRHDAERILLLLKRLCKCPEGRLAFAEHDLSVAAVAKTMLRVSELATQLAVKVLWLVSV
+VAPSEKVLEDMVLTGAVAKLLGLLHVEtPPATKQKTVRMVRINGvFWRQYpCFPTDLRDY
+LRLLD
+
+================================================================================

@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM016757
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             432.0 aa
+Family Size (Extended Family Size): 22 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43343:SF2
+Panther Family ID:               PTHR43343
+Modal Panther ID:                PTHR43343:SF2
+Modal Panther Description:       PDZ DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR43343
+Modal Panther Fam Desc:          PEPTIDASE S12
+Interpro Signature Accession:    cd00990; G3DSA:2.40.10.10:FF:000001; G3DSA:2.30.42.10:FF:000202; G3DSA:2.40.10.10:FF:000103; G3DSA:2.30.42.10; G3DSA:2.40.10.10; PTHR43343; PR00834; PF13365; SSF50494
+Interpro Signature Description:  cpPDZ_AtDEGP1-like; Periplasmic serine protease DegS; Protease Do-like 1, chloroplastic; -; PEPTIDASE S12; HtrA/DegQ protease family signature; Trypsin-like peptidase domain; Trypsin-like serine proteases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: protease Do-like 1%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: protease Do-like 1%2C chloroplastic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: protease Do-like 1%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: protease Do-like 1%2C chloroplastic
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: protease Do-like 1%2C chloroplastic%2C transcript variant X2
+  Gene Descriptions: protease Do-like 1%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: protease Do-like 1%2C chloroplastic
+  Gene Descriptions: protease Do-like 1%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: protease Do-like 1%2C chloroplastic
+  Gene Descriptions: protease Do-like 1%2C chloroplastic
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: protease Do-like 1%2C chloroplastic
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: protease Do-like 1%2C chloroplastic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: protease Do-like 1%2C chloroplastic
+Zma
+  Gene count: 2
+  Modal chromosome: Zma06
+  Gene Products: uncharacterized LOC100191797; uncharacterized LOC100279259%2C transcript variant X3
+  Gene Synonyms: GRMZM2G157156; GRMZM2G348873,pco153568a
+  Gene Descriptions: uncharacterized LOC100191797; uncharacterized LOC100279259
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 432 aa
+
+MAAASSSATACFLSPsPPPRRPRHFLRHLARAAAtkPaPAasRSLALPSSpPWPWPRRLR
+DLVPAEAAGRLLSSAAGSLIVALASAALILGDAGAASAFVVATPRKLQADELATVRLFQE
+NTPSVVYITNLAVRQDAFTLDVLEVPQGSGSGFVWDKSGHIVTNFHVIRGASDLRVTLAD
+QSVYEAQVVGFDQDKDVAVLRIKAPKDKLRPIPVGVSADLLVGQKVYAIGNPFGLDHTLT
+TGVISGLRREISSAATGRPIQDVIQTDAAINPGNSGGPLLDSSGNLIGVNTAIYSPSGAS
+SGVGFSIPVDTVGGIVDQLIKFGKVTRPILGIKFAPDQSVEQLGLSGVLVLDAPPNGPAG
+KAGLQSTKRDAYGRLILGDIITSVNGTKVTNGSDLYRILDQCKVGETVTVEVLRGDHKEK
+IPVVLEPKPDES
+
+
+BOP CONSENSUS:
+Length: 425 aa
+
+MSSAAAACFLSPSPLARPPPRPRHSLRHLARAAAarPPAGPLALPASPRPLRDLGPVAEA
+ARRALASAAGPLVVALASAALILGDAGAASAFVVATPRKLQADELATVRLFKDNTPSVVY
+ITNLAVRQDAFTLDVLEVPQGSGSGFVWDKLGHIVTNFHVIRGASDLRVTLADQSVYEAQ
+VVGFDQDKDVAVLSIEAPKDKLRPLPVGVSADLLVGQKVYAIGNPFGLDHTLTTGVISGL
+RREISSAATGRPIQDVIQTDAAINPGNSGGPLLDSSGNLIGVNTAIYSPSGASSGVGFSI
+PVDTVGGIVDQLIQFGKVTRPILGIKFAPDQSVEQLGLSGVLVLDAPPNGPAGKAGLQST
+KRDAYGRLILGDIITSVNGTKVANGSDLYRILDQCKVGETVTVEVLRGDKKEKIAVVLEP
+KPDET
+
+
+PACMAD CONSENSUS:
+Length: 431 aa
+
+mAAAASSSATACFLSPCPPPRRPRHFLRHLArAAATKPAPAasRSLALPSPWPWARRLrE
+LVPAEAAGRLLSSAAGSLIVALASAALILGDAGAASAFVVATPRKLQADELATVRLFQEN
+TPSVVYITNLAVRQDAFTLDVLEVPQGSGSGFVWDKSGHIVTNFHVIRGASDLRVTLADQ
+SVYEAQVVGFDQDKDVAVLRIKAPKDKLRPIPVGVSADLLVGQKVYAIGNPFGLDHTLTT
+GVISGLRREISSAATGRPIQDVIQTDAAINPGNSGGPLLDSSGNLIGVNTAIYSPSGASS
+GVGFSIPVDTVGGIVDQLIKFGKVTRPILGIKFAPDQSVEQLGLSGVLVLDAPPNGPAGK
+AGLQSTKRDAYGRLILGDIITSVNGTKVTNGSDLYRILDQCKVGETVTVEVLRGDHKEKI
+PVVLEPKPDES
+
+================================================================================

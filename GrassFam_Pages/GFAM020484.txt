@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM020484
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             545.0 aa
+Family Size (Extended Family Size): 22 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10221:SF13
+Panther Family ID:               PTHR10221
+Modal Panther ID:                PTHR10221:SF13
+Modal Panther Description:       TRANSCRIPTION INITIATION FACTOR TFIID SUBUNIT 6
+Modal Panther Family ID:         PTHR10221
+Modal Panther Fam Desc:          TRANSCRIPTION INITIATION FACTOR TFIID SUBUNIT 6
+Interpro Signature Accession:    cd22931; cd08050; G3DSA:1.25.40.770:FF:000004; G3DSA:1.10.20.10:FF:000046; G3DSA:1.10.20.10; G3DSA:1.25.40.770; PTHR10221; PF02969; PF07571; SM00803
+Interpro Signature Description:  HFD_TAF6; TAF6C; transcription initiation factor TFIID subunit 6; Histone, subunit A; -; TRANSCRIPTION INITIATION FACTOR TFIID SUBUNIT 6; TATA box binding protein associated factor (TAF); TAF6 C-terminal HEAT repeat domain; TAF_cls
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: transcription initiation factor TFIID subunit 6
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: transcription initiation factor TFIID subunit 6
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: transcription initiation factor TFIID subunit 6%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: transcription initiation factor TFIID subunit 6-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: transcription initiation factor TFIID subunit 6-like
+  Gene Descriptions: transcription initiation factor TFIID subunit 6-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: transcription initiation factor TFIID subunit 6%2C transcript variant X1
+  Gene Descriptions: transcription initiation factor TFIID subunit 6
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau20
+  Gene Products: transcription initiation factor TFIID subunit 6%2C transcript variant X1
+  Gene Descriptions: transcription initiation factor TFIID subunit 6
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: transcription initiation factor TFIID subunit 6-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: transcription initiation factor TFIID subunit 6
+Msi
+  Gene count: 2
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi01
+  Gene Products: transcription initiation factor TFIID subunit 6%2C transcript variant X1; transcription initiation factor TFIID subunit 6-like%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: uncharacterized LOC100217288
+  Gene Synonyms: GRMZM2G013908,pco097658
+  Gene Descriptions: uncharacterized LOC100217288
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 545 aa
+
+MSIVPKETIEVIAQSVGIPSLPADVSAALAPDVEYRLREIMQEAIKCMRHAKRTVLTADD
+VDSALSLRNVEPVYGFASGDPLRFKRAVGHKDLFYIDDREVDFKEIIEAPLPKAPLDTAV
+VAHWLAIEGVQPAIPENPPIDAIVAPTENKRTEHGKDDGLPVDIKLPVKHVLSRELQMYF
+DKIAELTMSRSDTPLFKEALVSLSKDSGLHPLVPYFSYFIADEVTRSLGDLPVLFALMRV
+VQSLLRNPHIHIEPYLHQLMPSMITCIVAKRLGHRLSDNHWELRDFSANLVASVCRRFGH
+VYHNLQnRLTKTLIHAFLDPaKSLTQHYGAVQGISALGPSAIRLLLLPNLvTYMQLLEPE
+LQLEKQKNEMKRKEAWRVYGALLCAAGKCLYDRLKLFPgLLSPSTRPLLRSNKRVATNNP
+NKRKSSTDLSASQPPLKKMATDvSMNSMASAPMAGNMqGaMDGFStQLPNPGMMQASSSG
+QMVESItSAAIRRDQGSnHAQRVSTVLRQAWKEDQDAGHLLGSLYEVFGEAIFSFVQPPE
+ISlFV
+
+
+BOP CONSENSUS:
+Length: 547 aa
+
+MSIVPKETIEVIAQSVGIPSLPADVSAALAPDVEYRLREIMQEAIKCMRHAKRTVLTADD
+VDSALSLRNVEPVYGFASGDPLRFKRAVGHKDLFYIDDREVDFKEIIEAPLPKAPLDTAV
+VAHWLAIEGVQPAIPENPPIDAIsAPTENKRTEHaKDDGLPVDIKLPVKHILSRELQMYF
+DKIAELTMSRSSTPVFREALVSLSKDSGLHPLVPYFSYFIADEVTRSLADLPVLFALMRV
+VQSLLRNPHIHIEPYLHQLMPSMITCIVAKRLGHRLSDNHWELRDFSANLVASVCRRYGH
+VYHNLQIRLTKTLVHAFLDPHKALTQHYGAVQGISALGPSAIRLLLLPNLQTYMQLLDPE
+LQLEKQSNEMKRKEAWRVYGALLCAAGKCLYERLKLFPNLLSPSTRPLLRSNSRVATNNP
+NKRKSSTDLSASQPPLKKMASDVSMSSMGSAAPgAGNMPGSMDGFSAQLPNPSMMQASSS
+GQKVESMTAAGAIRRDQGNNHAQRVSTVLRQAWKEDQDAGHLLGSLHEVFGEAIFSFIQP
+PELSIFL
+
+
+PACMAD CONSENSUS:
+Length: 545 aa
+
+MSIVPKETIEVIAQSVGIPSLGADVAAALAPDVEYRLREIMQESIKCMRHAKRTVLTADD
+VDSALsLRNVEPVYGFASGDPLRFKRAVGHKDLFYLDDREVDFKEIIEAPLPKAPLDTAV
+VAHWLAIEGVQPAIPENPPIDAIVPPTENKRSEHGKDDGLPVDVKLPVKHVLSRELQMYF
+DKIAELTMSRSDTSLFKEALVSLAKDSGLHPLVPYFSYFIADEVTRSLGDLPVLFALMRV
+VQSLLRNPHIHIEPYLHQLMPSMITCIVAKRLGHRLSDNHWELRDFSANLVASVCRRFGH
+VYHNLQNRLTKTLIHAFLDPAKSLTQHYGAVQGISALGPSAIRLLLLPNLVTYMQLLEPE
+LQLEKQKNEMKRKEAWRVYGALLCAAGKCLYDRLKLFPGLLSPSTRPLLRSNKRVLTNNP
+NKRKSSTDLSASQPPLKKMATDASaNSMASASMGGNMQGAMDGFSTQLANPGMMQASSSG
+QMVESIPSAAIRRDQGSDLAQRVSAVLRQAWKEDQDAGHLLGSLYEVFGEAIFSFVQPPE
+ISLFV
+
+================================================================================

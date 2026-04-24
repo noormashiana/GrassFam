@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM013057
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             427.0 aa
+Family Size (Extended Family Size): 23 (30) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48094:SF8
+Panther Family ID:               PTHR48094
+Modal Panther ID:                PTHR48094:SF8
+Modal Panther Description:       OS01G0217800 PROTEIN
+Modal Panther Family ID:         PTHR48094
+Modal Panther Fam Desc:          PROTEIN/NUCLEIC ACID DEGLYCASE DJ-1-RELATED
+Interpro Signature Accession:    cd03135; G3DSA:3.40.50.880:FF:000015; G3DSA:3.40.50.880; TIGR01383; PTHR48094; PF01965; SSF52317
+Interpro Signature Description:  GATase1_DJ-1; Protein DJ-1 homolog C; -; DJ-1 family glyoxalase III; PROTEIN/NUCLEIC ACID DEGLYCASE DJ-1-RELATED; DJ-1/PfpI family; Class I glutamine amidotransferase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: protein DJ-1 homolog A
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: protein DJ-1 homolog B-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata03D
+  Gene Products: protein DJ-1 homolog A; protein DJ-1 homolog B
+Tae
+  Gene count: 4
+  Modal chromosome: Tae01D
+  Gene Products: protein DJ-1 homolog A-like; protein DJ-1 homolog B-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: protein DJ-1 homolog A-like
+  Gene Descriptions: protein DJ-1 homolog A-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: protein DJ-1 homolog A
+  Gene Descriptions: protein DJ-1 homolog A
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 1
+  Modal chromosome: Pau01
+  Gene Products: protein DJ-1 homolog A-like
+  Gene Descriptions: protein DJ-1 homolog A-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: protein DJ-1 homolog A-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: protein DJ-1 homolog A-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: protein DJ-1 homolog A
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: uncharacterized LOC100284612
+  Gene Synonyms: GRMZM2G024959,GRMZM2G102927
+  Gene Descriptions: uncharacterized LOC100284612
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 425 aa
+
+MAAAASSLARRAASaSRRLLLSRAFASGGGEpAKRVLVPVAAGTEPVEAAATADVLNRAG
+ARVTVATADPAGDDGLVVEAAYGVKLVADGRVADLEGEAFDLIALPGGMPGSVNLRDCKV
+LEKMVKkHAEnGGLYGAICAAPAVTLAYWGMLKGLKATCYPSFMEKFTAEVIPVNSRVVV
+DRNAVTSQGPGTAIEFALALVEQLYGKEKMEEVAGPLYVRPQHGAEYTIEELNSVEWKCS
+GTPQVLVPVANGSEEMEALNLIDVLRRAGANVTVASVEDKLQIVTRRHKFNLIADMMLDE
+AAKMqFDLIVMPGGLqGAQKFASTKKLVDLLKKQAESNKPYGAICASPAHVLEPHGLLKG
+KKATAFPPMAHLLTDQSACEhRVVVDGNLITSRAPGTATEFALAIVEKLFGREKAVSIAK
+ELIFM
+
+
+BOP CONSENSUS:
+Length: 425 aa
+
+MAAAASSLARRAVSWRRLLLSRAFAAAARPAKRVLVPVAAGTEPVEAAATADVLNRAGAR
+VTVATVAsAPAGDEGLLVEAAYGVKLVADGRVADLEGEAFDLIALPGGMPGStNLRDCKV
+LEKMVKmHAEKGGLYGAICAAPAVTLAHWGMLKGLKATCYPSFMEKFTAEVIPVNSRVVV
+DRNVVTSQGPGTAIEFALALVEQLYDKEKMEEVAGPLYVRPQHGAEYTIEELNSVEWKCS
+GTPQVLVPVANGSEEMEALNLIDVLRRAGANVTVASVEDtLQIVTRRHKFNLIADMMLDE
+AAKMEFDLIVMPGGLsGAQKFASTdKLVDLLKKQAGSnKPYGAICASPAHVLEPHGLLKG
+KKATAFPPMAHLLTDQSlCENRVVIDGNLITSRAPGTATEFALAIVEKLFGREKAVSIAK
+ELVFM
+
+
+PACMAD CONSENSUS:
+Length: 426 aa
+
+MAAAASSLVRRAAAAASRRLLLARAFASGGGETAKRVLVPVAAGTEPIEAAATADVLNRA
+GARVTVATADPPGDDGLVVEAAYGVKLVADGRVADLEGEAFDLIALPGGMPGSVNLRDCK
+ALEKMVKtHAENGGLYGAICAAPAVTLAYWGMLKGLKATCYPSFMEKFTAEVIPVNSRVV
+VDRNAVTSQGPGTAIEFALALVEkLYGKEKMEEVAGPLYVRPQHGVEYTIEELNSVEWKC
+SsTPQVLVPVANGSEEMEAiNLIDVLRRAGANVIVASVEEKLQIVTRRHKFNLIADMMLD
+EATEMQFDLIVMPGGLQGAQKFASTKKLVDLLKKQAESNKPYGAICASPAHVLEPHGLLK
+GKKATAFPPMSHLLTDQSACEHRVVVDGNLITSRAPGTATEFALAIVEKLFGRDKAVSIA
+KELIFM
+
+================================================================================

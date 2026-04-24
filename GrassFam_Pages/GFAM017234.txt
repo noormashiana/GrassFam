@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM017234
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             360.0 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR19288:SF75
+Panther Family ID:               PTHR19288
+Modal Panther ID:                PTHR19288:SF75
+Modal Panther Description:       PHOSPHOGLYCOLATE PHOSPHATASE 2
+Modal Panther Family ID:         PTHR19288
+Modal Panther Fam Desc:          4-NITROPHENYLPHOSPHATASE-RELATED
+Interpro Signature Accession:    cd07510; G3DSA:3.40.50.1000:FF:000447; G3DSA:3.40.50.1000:FF:000039; G3DSA:3.40.50.1000; TIGR01460; TIGR01452; PTHR19288; PIRSF000915; PF13344; SFLDG01139; SFLDF00039; SSF56784
+Interpro Signature Description:  HAD_Pase_UmpH-like; -; Phosphoglycolate phosphatase; HAD-IIA family hydrolase; phosphoglycolate/pyridoxal phosphate family phosphatase; 4-NITROPHENYLPHOSPHATASE-RELATED; PGP-type_phosphatase; Haloacid dehalogenase-like hydrolase; C2.A: Pyridoxal Phosphate Phosphatase Like; phosphoglycolate phosphatase 2; HAD-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: phosphoglycolate phosphatase 1B%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: phosphoglycolate phosphatase 1A%2C chloroplastic-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: phosphoglycolate phosphatase 1A%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: phosphoglycolate phosphatase 1A%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: phosphoglycolate phosphatase 1A%2C chloroplastic-like
+  Gene Descriptions: phosphoglycolate phosphatase 1A%2C chloroplastic-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: phosphoglycolate phosphatase 1A%2C chloroplastic
+  Gene Descriptions: phosphoglycolate phosphatase 1A%2C chloroplastic
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu06
+Pau
+  Gene count: 1
+  Modal chromosome: Pau07
+  Gene Products: phosphoglycolate phosphatase 1A%2C chloroplastic-like
+  Gene Descriptions: phosphoglycolate phosphatase 1A%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi07N
+  Gene Products: phosphoglycolate phosphatase 1A%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: phosphoglycolate phosphatase 1B%2C chloroplastic-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: phosphoglycolate phosphatase 1B%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: uncharacterized LOC100193796
+  Gene Synonyms: GRMZM2G018441
+  Gene Descriptions: uncharacterized LOC100193796
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 359 aa
+
+MLLARASPtFLPSTSSSSTPSSQtpPPSASFGRSQRRGGLlAAASPncAARRsVMAAAGA
+VPAAKLEDADALIDSVETFIFDCDGVIWKGDKLIDGVPETLDLLRSKGKRLVFVTNNSTK
+SRKQYGKKFETLGLSVNEEEIFASSFAAAAYLQSIDFPKDKKVYVIGEEGILKELELAGF
+QYLGGPTDGDKKIELKPGFYMEHDKDVGAVVVGFDRYFNYYKVQYGTLCIRENPGCLFIA
+TNRDAVTHLTDAQEWAGGGSMVGAvLGSTKQEPLVVGKPSTFMMDYLAKKFGITTSQICM
+VGDRLDTDILFGQNGGCKTLLVLSGVTSlQMLQSPDNSIQPDFYTNQISDFLTLKAATV
+
+
+BOP CONSENSUS:
+Length: 359 aa
+
+MLLARASPtFLPSTSSSPTPSSQTLPPSASFGRSQRTGGsLTAASPNCAVRRPVMAAAAA
+VPAAKLEDAEALIDSVETFIFDCDGVIWKGDKLIDGVPETLDLLRSKGKRLVFVTNNSTK
+SRKQYGKKFETLGLSVNEEEIFASSFAAAAYLQSIDFPKDKKVYVIGEEGILKELELAGF
+QYLGGPTDGDKKIELKPGFYMEHDKDVGAVVVGFDRYFNYYKVQYGTLCIRENPGCLFIA
+TNRDAVTHLTDAQEWAGGGSMVGAVLGSTKQEPLVVGKPSTFMMDYLAKKFGITTSQICM
+VGDRLDTDVLFGQNGGCKTLLVLSGVTSVQMLQSPDNkIQPDFYTNQISDFLTLKTATV
+
+
+PACMAD CONSENSUS:
+Length: 363 aa
+
+MLQVRASPTFLPSTSSSSPSSSQAPTPSpSFGRSSQRRGGLVFAAAApsarrAARRSVMA
+AAGAAAAAKLEDADALIDSVETFIFDCDGVIWKGDKLIDGVPETLDLLRSKGKRLVFVTN
+NSTKSRKQYGKKFETLGLSVDEEEIFASSFAAAAYLQSIDFPKDKKVYVIGEEGILKELE
+LAGFQYLGGPTDGDKKIELKPGFYMEHDKDVGAVVVGFDRYFNYYKVQYGTLCIRENPGC
+LFIATNRDAVTHLTDAQEWAGGGSMVGAILGSTKQEPLVVGKPSTFMMDYLAKKFGITTS
+QICMVGDRLDTDILFGQNGGCKTLLVLSGVTSLQTLQSPDNSIQPDFYTNQISDFLTLKA
+ATV
+
+================================================================================

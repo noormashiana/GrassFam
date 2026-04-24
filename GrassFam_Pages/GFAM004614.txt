@@ -1,0 +1,126 @@
+================================================================================
+GrassFam ID: GFAM004614
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             371.0 aa
+Family Size (Extended Family Size): 23 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45648:SF7
+Panther Family ID:               PTHR45648
+Modal Panther ID:                PTHR45648:SF7
+Modal Panther Description:       OS12G0126100 PROTEIN
+Modal Panther Family ID:         PTHR45648
+Modal Panther Fam Desc:          GDSL LIPASE/ACYLHYDROLASE FAMILY PROTEIN (AFU_ORTHOLOGUE AFUA_4G14700)
+Interpro Signature Accession:    G3DSA:3.40.50.1110; PTHR45648
+Interpro Signature Description:  SGNH hydrolase; GDSL LIPASE/ACYLHYDROLASE FAMILY PROTEIN (AFU_ORTHOLOGUE AFUA_4G14700)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: GDSL esterase/lipase At1g71250
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: GDSL esterase/lipase At1g71250-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: GDSL esterase/lipase At1g71250-like
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: GDSL esterase/lipase At1g71250-like; GDSL esterase/lipase At1g71250-like%2C transcript variant X1; GDSL esterase/lipase At5g37690-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl11
+  Gene Products: GDSL esterase/lipase At1g71250-like; GDSL esterase/lipase At1g71250-like%2C transcript variant X1
+  Gene Descriptions: GDSL esterase/lipase At1g71250-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa11
+  Gene Products: GDSL esterase/lipase At1g71250; GDSL esterase/lipase At1g71250%2C transcript variant X1
+  Gene Descriptions: GDSL esterase/lipase At1g71250
+Pau
+  Gene count: 1
+  Modal chromosome: Pau23
+  Gene Products: GDSL esterase/lipase At1g71250-like
+  Gene Descriptions: GDSL esterase/lipase At1g71250-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03N
+  Gene Products: GDSL esterase/lipase At1g71250-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha03
+  Gene Products: GDSL esterase/lipase At1g71250-like; GDSL esterase/lipase At1g71250-like%2C transcript variant X1
+Msi
+  Gene count: 3
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: GDSL esterase/lipase At5g08460%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100191707
+  Gene Synonyms: GRMZM2G174782
+  Gene Descriptions: uncharacterized LOC100191707
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 365 aa
+
+MALLLLLLLLLRfVASAAepssSPATALFVLGDSTVSCAATTLPLNLTtPSSSSGPCLFP
+SARRLLPDLLAAKMGLPPPPLISTLNGTAAAAARGVNFGGeyGeRAGVFRMGAVGQQLRL
+AAETLQLLRLEAATPQDASAAAAGAVFVLSFGTDAYARLLARGAEADAAAPKHGRRGlAR
+LLADRVARAVsELYEADVRRVAVMGVAPLGCAPRVMWEGLHlVDGRGCVEEANELIQGYN
+ARLAARLDaLRPeLPGADvVFCDVYKGMMEIISNParYGFEETREACCGLGPFGGTVGCL
+tKEMACPTPQRHVWWDLYSPTEAVnsLLANWSWSvPPgSgdsnTSICRPITLQQLAGrad
+PpaPs
+
+
+BOP CONSENSUS:
+Length: 366 aa
+
+MALLPLLLLLLLRLVASAAASfPATALFVLGDSTASCAATTLPLNLTLTSFSSPCLFPSg
+RRLLPDLLAAKMGLPPPPLISTLNGSAAAAAmGVNFGGEeGESGGAGVFRMGAVGQQLRL
+ATETLQLLRLEAATPqeASAAvAGAVFVVSFGtDAYARLLsRGSEADASAPKHGRRGFAR
+LLAGRVARAVQELYEADVRRVAVLGVpPLGCAPRVMWEGLHLVDGRGCVEEANELVQGYN
+ARVEAQLDALRPELPGADIVFCDVYKGVMEMITNPAAYGFEEARkACCGLGPFGGTIGCL
+TREMVCPTPQGHVWWDLYSpTETVNSLLADWSWSvPPSTdSNTsICRPITLQQLtGhADa
+iSPSvM
+
+
+PACMAD CONSENSUS:
+Length: 361 aa
+
+MALLLLVLLrFAAAAAAESSRSPATALFVLGDSTVSCAASILPLNLTAPSLSAGPCLFPS
+ARRLLPDLLAAKMGLPpPPpISTLNGTAaAAARGVNFGGQYGDRGvFRMGAVGQQLRLAA
+ETLQLLQLEAGTPQDASAAAAGAVFVLSFGTDAYARLLARGPAEADAAAPKHGRRGLGRL
+LADRIARAVSELYEAdVRRVAVMGVAPLGCAPRVMWEGtRALdGGRGCVEEANELIEGYN
+ARLAARLDDLRPQLPGADVVFCDVYKGMMEIISNPgRYGLEETREACCGLGPFRATVGCL
+SKEMACgtPERHVWWDLYSPTEAVDALVANWSWgSSPSGSGamSICSPISLQQLAAgsPP
+A
+
+================================================================================

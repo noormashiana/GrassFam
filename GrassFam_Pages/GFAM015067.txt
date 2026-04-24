@@ -1,0 +1,117 @@
+================================================================================
+GrassFam ID: GFAM015067
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             472.0 aa
+Family Size (Extended Family Size): 24 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23070:SF230
+Panther Family ID:               PTHR23070
+Modal Panther ID:                PTHR23070:SF230
+Modal Panther Description:       OS05G0588900 PROTEIN
+Modal Panther Family ID:         PTHR23070
+Modal Panther Fam Desc:          BCS1 AAA-TYPE ATPASE
+Interpro Signature Accession:    cd19510; G3DSA:3.40.50.300:FF:001122; G3DSA:3.40.50.300; PTHR23070; SSF52540
+Interpro Signature Description:  RecA-like_BCS1; AAA-ATPase ASD, mitochondrial; -; BCS1 AAA-TYPE ATPASE; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: AAA-ATPase At3g50940-like
+  Gene Descriptions: AAA-ATPase At3g50940-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: AAA-ATPase At3g50940
+  Gene Descriptions: AAA-ATPase At3g50940
+Ecu
+  Gene count: 7
+  Modal chromosome: EcuUN1055
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: AAA-ATPase At3g50940-like
+  Gene Descriptions: AAA-ATPase At3g50940-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi03K
+  Gene Products: AAA-ATPase At3g50940-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: AAA-ATPase At3g50940-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi09
+  Gene Products: AAA-ATPase At3g50940
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: mitochondrial chaperone BCS1
+  Gene Synonyms: GRMZM2G175593,GRMZM6G704070
+  Gene Descriptions: mitochondrial chaperone BCS1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 475 aa
+
+MASYDKAfESYKKAiTTAASVAASLMLVRSVVNELVPYEVRdLLFSGFGYLRSrmSSQHT
+IIVEKKNDGFtNNHvYNAVKTYLATRINTDlQQRLRVSSMDENDKMMVSMAEGEEMlDVY
+EGTEFKWCLvCqDNSsDSsNGsGSQqEVrSFEVSFHKKHKEKALKSYLPFILATAKAIKD
+QERTLrIYMTEYSDEWSPIDLHHPSTFDTLAMDQKLKQSIIDDLNRFIKRKDYYKKIGKA
+WKRGYLLYGPPGTGKSSLIAAMANHLRFDIYDLELTEVnSNSDLRRLLVGMSNRSILVVE
+DIDCTIELKQREEGEghDKSNSTEENKGEDKVTLSGLLNFVDGLWSTSGEERIIVFTTNY
+KERLDPALLRPGRMDMHIHMGYCTPESFRILANNYHSIDYHvTYPEIEELIKEVTVTPAE
+VAEVLMRNDDTDVALHDLVDlLKSKMKDANEIKTEHKDANnQLDEKKDdrDsdkK
+
+
+BOP CONSENSUS:
+Length: 484 aa
+
+MASYDKAIESYKKAITTAASVAASVMLVRSVVNELVPYEVRDVLFSGLGYLRSQISSQHT
+IIIEETEGWSHNHVYNAVRAYLATRINtNMQRLRVSSMDESSEKMVVTMEEGEELVDMHE
+GTEFKWCLISRSISADPNNGNGSGQREVRSYELSFHRKHKEKALKSYLPFIIATAKAIKD
+QERILQIYMNEYSDSWSPIDLHHPSTFDTLAMDQKLKQSIIDDLDRFIKRKDYYKRIGKA
+WKRGYLLYGPPGTGKSSLIAAMANHLKFDIYDLELTEVHSNSELRRLLVGMTNRSILVVE
+DIDCSIELKQREAGEERTKSNSTEEDKGEDKVTLSGLLNFVDGLWSTSGEERIIVFTTNY
+KERLDQALLRPGRMDMHIHMGYCTPEAFRILASNYHSIDYHVTYPEIEELIKEVMVTPAE
+VAEALMRNDDTDVALLGLLELLKSKIKDASETKAESKDANKQTEENKDDKAMENKNDSST
+DECT
+
+
+PACMAD CONSENSUS:
+Length: 475 aa
+
+MASYDKAFESYKKALTTAASVAASLMLVRSVVNELVPYEVRdLLFSGFGYLRSrmSSQHT
+IIVEKKNDGFtNNHIYNAVKTYLATRINTDLQQRLRVSSMDENDKMMVSMAEGEEMLDVY
+DGTEFKWCLVCqDNSsDSsNGsGSQqEVrSFEVSFHKKHKEKALkSYLPFILATAKAIKD
+QERTLrIYMTEYSDEWSPIDLHHPSTFDTLAMDQKLKQSIIDDLNRFIKRKDYYKKIGKA
+WKRGYLLYGPPGTGKSSLIAAMANHLRFDIYDLELTEVnSNSDLRRLLVGMSNRSILVVE
+DIDCTIELKQREEGEGHDKSNSTEENKGEDKVTLSGLLNFVDGLWSTSGEERIIVFTTNY
+KERLDPALLRPGRMDMHIHMGYCTPESFRILANNYHSIDYHDTYPEIEKLIKEVTVTPAE
+VAEVLMRNDDTDVALHDLVDlLKSKMKDANEIKTEHKDANnQLDEKKDdRDSDKK
+
+================================================================================

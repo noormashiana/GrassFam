@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM017627
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             428.0 aa
+Family Size (Extended Family Size): 23 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22939:SF125
+Panther Family ID:               PTHR22939
+Modal Panther ID:                PTHR22939:SF125
+Modal Panther Description:       PROTEASE DO-LIKE 14-RELATED
+Modal Panther Family ID:         PTHR22939
+Modal Panther Fam Desc:          SERINE PROTEASE FAMILY S1C HTRA-RELATED
+Interpro Signature Accession:    cd23085; G3DSA:2.40.10.120; G3DSA:2.30.42.10; PTHR22939; PR00834; PF13365; SSF50494
+Interpro Signature Description:  cpPDZ_AtDEGP14-like; -; SERINE PROTEASE FAMILY S1C HTRA-RELATED; HtrA/DegQ protease family signature; Trypsin-like peptidase domain; Trypsin-like serine proteases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: putative protease Do-like 14%2C transcript variant X1
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: putative protease Do-like 14
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: putative protease Do-like 14%2C transcript variant X2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: putative protease Do-like 14; putative protease Do-like 14%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: putative protease Do-like 14%2C transcript variant X1
+  Gene Descriptions: putative protease Do-like 14
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: putative protease Do-like 14%2C transcript variant X1
+  Gene Descriptions: putative protease Do-like 14
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 2
+  Modal chromosome: Pau12
+  Gene Products: putative protease Do-like 14
+  Gene Descriptions: putative protease Do-like 14
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi08K
+  Gene Products: putative protease Do-like 14
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: putative protease Do-like 14%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: putative protease Do-like 14%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100277723
+  Gene Synonyms: cl62390_1,GRMZM2G017804
+  Gene Descriptions: uncharacterized LOC100277723
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 428 aa
+
+MLRnPRRAALLLAAAAAAAGAGaLaDRgDsdTAVtvSASPPLRQALStAAAGLlSgnpLF
+SPWqLPPPyQGFPILNSFASASVSPANLSNQGSGGSSDDSRCCPGCLGRNSIAKAASAVG
+PAVVNIScMQDtHGWvlEKSIGSGTIIDPDGTILTCAHVVADFQSTKAvVRGKVSVTLQD
+GREFEGVVLNADRHSDIAVVKIKSKTPLPAARLGSSSkLRPGDWVVALGCPLSLQNTVTA
+GIVSCVDRKSSDLGLGGIRREYLQTDCAINqGNSGGPLVNLDGEIIGVNVMKVrnADGLS
+FAVPIDSVVKIVENFKKNGRVVRPWLGLKMLDLNPMIIAQLKERSSSFPDVRKGVLVPMV
+TPGSPAEqAGFRPGDVVVEFDGKPVESIKEIIDIMGDKVGVPFKVLVKRANNVTVTLTVI
+PEEADASR
+
+
+BOP CONSENSUS:
+Length: 423 aa
+
+MFRNPRRAALLLAAGAAAAGAGrLlDRGDSATvVTVSASaPLRHLLSTAATGLLSSNPLf
+APWQGGFPILNSFASASVPPTNLSNQgSGGNSDDSRCCPGCLGRNSIANAAAAVGPAVVN
+ISCMQEenGWvLEKSIGSGTIIDPDGTILTCAHVVtDFQSTKPvLKGKVSVSLQDGREFE
+GVVLNADrHSDIAVVKIKSKTPLPAARLGSSCKLRPGDWVVALGCPLSLQNTVTAGIVSC
+VDRKSSDLGLGGIRREYLQTDCAINiGNSGGPLVNLDGEIIGVNVMKVrdADGLSFAVPI
+DSVVKIVEHFKKNGRVVRPWLGLKMLDLNPMVIAQLKERSSSFPDVsKGVLVPMVTPGSP
+AERAGFAPGDVVVEFDGKPVESIKEIIDIMGDKVGVPFKVLVkRAnNVpVtLTVTPEEAD
+ASR
+
+
+PACMAD CONSENSUS:
+Length: 429 aa
+
+MLLRGGRRAALLLAAAAAVAGAGALARRDPDTAVYASASPPLRQALSAAAAEGLRSGtRL
+FSPWLLPPPyQGFPILNSFASASVSPANLSdQGSAGSSDDSRCCPGCLGRNSIAKAASAV
+GPAVVNISsMQDmHGWVlEqSIGSGTIIDPDGTILTCAHVVADFQSTKAVVRGKVSVTLQ
+DGREFEGVVLNADRHSDIAVVKIKSKTPLPAARLGSSSRLQPGDWVVALGCPLSLQNTVT
+AGIVSCVDRKSSDLGLGGLRREYLQTDCAINQGNSGGPLVNLDGEIIGVNVMKVrNADGL
+SFAVPIDSVVKIVENFKKNGRVVRPWLGLKMLDLNPMIIAQLKEKSSTFPDVRKGVLVPM
+VTPGSPAEQAGFRPGDVVVEFGGKPVESIKEIIDIMGDKVGVPFKVLVKRANNVTVTLTV
+IPEEADASR
+
+================================================================================

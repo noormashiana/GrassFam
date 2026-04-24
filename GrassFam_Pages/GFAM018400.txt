@@ -1,0 +1,148 @@
+================================================================================
+GrassFam ID: GFAM018400
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             677.0 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23147:SF166
+Panther Family ID:               PTHR23147
+Modal Panther ID:                PTHR23147:SF166
+Modal Panther Description:       PROTEIN TERMINAL EAR1 HOMOLOG
+Modal Panther Family ID:         PTHR23147
+Modal Panther Fam Desc:          SERINE/ARGININE RICH SPLICING FACTOR
+Interpro Signature Accession:    cd12530; G3DSA:3.30.70.330:FF:001402; G3DSA:3.30.70.330:FF:000750; PTHR23189; PF04059
+Interpro Signature Description:  RRM3_EAR1_like; Terminal EAR1-like 1; Protein terminal ear1 homolog; RNA RECOGNITION MOTIF-CONTAINING; RNA recognition motif 2
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: protein terminal ear1 homolog%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: protein terminal ear1 homolog%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: protein terminal ear1 homolog%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: protein terminal ear1 homolog; protein terminal ear1 homolog%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: protein terminal ear1 homolog%2C transcript variant X1
+  Gene Descriptions: protein terminal ear1 homolog
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: protein terminal ear1 homolog
+  Gene Synonyms: LHD2,ML1,OML1,OsJ_004377,PLA2
+  Gene Descriptions: protein terminal ear1 homolog
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: protein terminal ear1-like
+  Gene Descriptions: protein terminal ear1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: protein terminal ear1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: protein terminal ear1-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi06
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: protein terminal ear1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: terminal ear1
+  Gene Synonyms: GRMZM2G085113,MEI2-like,TE1
+  Gene Descriptions: terminal ear1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 674 aa
+
+MEGGGGSGmGGmPGAPgNLLDAGAQAFYPaVGAPYPlQPLPHQLYCPhPYPAMPvPpPPP
+MAMpmPVPPMAmAmAPQPGYtVPTaTTVVDGPsSRAVVLsLVPPHAqEaDVAQAMAPFGA
+IRsVDASAVASEGVATVHFFDIRAAELAVtCVREQHMRQQSRLGQLYAAAAVSPAWPPpP
+TPQAWDWPHDDcRGLVLGQAVWAHFAAGSDDGaNRGSLVVLSPLPGVSVADLRQVFQAFG
+DLKDVRESAQRPSHKFVDFFDTRDAARALAELNGqELFGRRLvIEFTRPSGPGPRRRGYV
+PHHRPtAPTPPRLQAAWRPAPsPaSQPsASSSSSGSGKAREGVVLLRRSSSKsSAGDQSK
+GGNAGTSHERKsKGGKKvasaasTtSSsSSSTATASGKQqQKGaGSSrGGNWRGRKSGWE
+ARFLFKEPEAAGDAdTqaAPAsEmDTRTTVMIRNIPNKYSQKLLLNMLDNHCIhSNErIa
+ASEGEGQPFSSYDFVYLPIDFNNKCNVGYGFVNLTSPEAAVRLYKAFHKQPWEVYNSRKI
+CQVTYARVQGLEALKEHFKNSKFPCDSDEYLPVaFSPPRDGKqLTEPVPIVGRSPAPSSA
+SGASSPPKSRAASVDPLAQELMPAPSSSGDGASSTTtSTHAPSDHADEDvvGAGSDDddD
+dgLagELrRLGYTD
+
+
+BOP CONSENSUS:
+Length: 676 aa
+
+MDGVGGGGGGAGMGGMPGAPQNILDAGAQEYYPSAGAPYPPPPFLSLPHQLYCPPPfPVM
+PPPMAPMPMPMPMPQPQTVAPQIGLPVPTAATAVDGPASRAVVLSLLPPHTPElEVARAM
+APFGDVRTVDASALASEGVATVHFFDLRSAENAVTAVREQHMRQQCRLSQLYAATTAWPP
+QPPAWDWqQDDCRGLVLGQAVWAHFAAASTLPDDGANRGSLVVLNSLPDVSLSELRQAFQ
+AYGPLKDVRESAQRPNHKFVEFFDTRHAARALAELNGRDFFGHRLILEFTRPSIPGpRRR
+GFVSPRPIVPTPPRLQAAWRPLPSPAKQPsSSSTGTGKARGEVVTTSRSSSKSNAGDRSK
+GGTSqERKGKGKGGKKATIVVDTTSSSPASASEAAATASASGKQQPQKGVVRVGSWRGPK
+SWRGGWETRFEFKQPdAAAgDSNATTAADTDTQEPETRTTVMIRNIPNKYSQKLLLNMLD
+NHCIEYNKKIDAGEGGGEPFSSYDFLYLPIDFNNKCNVGYGFVNLTTPEAAVRLYKAFHK
+QPWEVYNSRKICQVTYARVQGLEALKDHFKNSKFPCDSDEYLPVVFSPPRDGRQLTEPEL
+LVPRSPmPSPSSPRKGQAASVDPLALELMAPPSSSGDGASSTMSTHADEDVHGASGSDDD
+DDGGLGEELQRLGYTD
+
+
+PACMAD CONSENSUS:
+Length: 667 aa
+
+MEGGGGSGIGGFPGApGNLLDAAAQAFYPAVGAPYPLQPLPHQLYCPHPYPAMPVPPPPa
+MAMpVPVPPMAMALAPPQPGYTLPTtTPVVDGPSSRVVVLGLVPPHAQEADVAQAMAPFG
+AIRSVDASAVASEGVATVHFFDIRAAELAVACVREQHMRQQSRLGQLYAAAAVSPAWPPP
+PTPQAWDWPHDDgRGLVLGHAVWAHFAtGADDGDNRGSLVVLSPLPGVSVADLRQVFQAF
+GDLKDVRESAHRPSHKFVDFFDTRDAARALAELNGQELFGRRLVIEFTRPSGPGPRRRGY
+VPHHRPSAPTPPRHQAAWRPAQptSQPSASSSSSSGSVRAREGVVLLRRSSSKASAGDQS
+KGGNAGTSHERKSKGGKnVVSsAsSASSSTATAsGKQaQKGAGSSGGGNWKGRKSGWEAR
+FLFKEPEAAGDADTQAAPASEMDTRTTVMIRNIPNKYSQKLLLNMLDNHCIHSNERIAAS
+GEEGEGQPFSSYDFVYLPIDFNNKCNVGYGFVNLTSPEAAVRLYKAFHKQPWEVYNSRKI
+CQVTYARVQGLEALKEHFKNSKFPCDSDEYLPVAFSPPRDGKlLTEPVPIVGRSPAASSA
+GsSSPPKSRAASVDPLaQELMPAPSSSGDGASSTTTSTHAPSDddhaDDDsEeDRLAGEL
+RRLGYTD
+
+================================================================================

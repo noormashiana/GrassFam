@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM010572
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             367.0 aa
+Family Size (Extended Family Size): 34 (35) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10578:SF70
+Panther Family ID:               PTHR10578
+Modal Panther ID:                PTHR10578:SF70
+Modal Panther Description:       GLYCOLATE OXIDASE 3
+Modal Panther Family ID:         PTHR10578
+Modal Panther Fam Desc:          S -2-HYDROXY-ACID OXIDASE-RELATED
+Interpro Signature Accession:    cd02809; G3DSA:3.20.20.70:FF:000063; G3DSA:3.20.20.70; PTHR10578; PIRSF000138; PF01070; SSF51395
+Interpro Signature Description:  alpha_hydroxyacid_oxid_FMN; peroxisomal (S)-2-hydroxy-acid oxidase GLO1; Aldolase class I; S -2-HYDROXY-ACID OXIDASE-RELATED; Al-hdrx_acd_dh; FMN-dependent dehydrogenase; FMN-linked oxidoreductases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: peroxisomal (S)-2-hydroxy-acid oxidase GLO3%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: peroxisomal (S)-2-hydroxy-acid oxidase GLO3%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: peroxisomal (S)-2-hydroxy-acid oxidase GLO3
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: peroxisomal (S)-2-hydroxy-acid oxidase GLO3; peroxisomal (S)-2-hydroxy-acid oxidase GLO3-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl04
+  Gene Products: glycolate oxidase 2%2C transcript variant X2; glycolate oxidase 3
+  Gene Descriptions: glycolate oxidase 2; glycolate oxidase 3
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: peroxisomal (S)-2-hydroxy-acid oxidase GLO3-like%2C transcript variant 1
+  Gene Synonyms: GLO3,OsGLO3,OsJ_16217
+  Gene Descriptions: peroxisomal (S)-2-hydroxy-acid oxidase GLO3-like
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 3
+  Modal chromosome: Pau13
+  Gene Products: glycolate oxidase 3; glycolate oxidase 3-like; glycolate oxidase 3-like%2C transcript variant X3
+  Gene Descriptions: glycolate oxidase 3; glycolate oxidase 3-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 6
+  Modal chromosome: Pvi07K
+  Gene Products: peroxisomal (S)-2-hydroxy-acid oxidase GLO2-like%2C transcript variant X1; peroxisomal (S)-2-hydroxy-acid oxidase GLO2-like%2C transcript variant X2; peroxisomal (S)-2-hydroxy-acid oxidase GLO2-like%2C transcript variant X5; peroxisomal (S)-2-hydroxy-acid oxidase GLO3; peroxisomal (S)-2-hydroxy-acid oxidase GLO3-like%2C transcript variant X1; peroxisomal (S)-2-hydroxy-acid oxidase GLO3-like%2C transcript variant X4
+Pha
+  Gene count: 3
+  Modal chromosome: Pha07
+  Gene Products: peroxisomal (S)-2-hydroxy-acid oxidase GLO2-like%2C transcript variant X1; peroxisomal (S)-2-hydroxy-acid oxidase GLO3%2C transcript variant X1
+Msi
+  Gene count: 3
+  Modal chromosome: Msi12
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi06
+  Gene Products: peroxisomal (S)-2-hydroxy-acid oxidase GLO2; peroxisomal (S)-2-hydroxy-acid oxidase GLO3%2C transcript variant X2
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: uncharacterized LOC100192687; uncharacterized LOC100285987%2C transcript variant X1
+  Gene Synonyms: GRMZM2G076239,hao1; GRMZM5G853854
+  Gene Descriptions: uncharacterized LOC100192687; uncharacterized LOC100285987
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 367 aa
+
+MELITNVSEYEKLAKEKLPKMVYDYYASGAEDQWTLKENREAFSRILFRPRVLIDVSHIN
+MATNVLGFNISMPIMIAPSAMQKMAHPEGELATARAAASAGTIMTLSSWSTSSVEEVNSV
+GPGIRFFQLYVYKDRNIVRQLVKRAEMAGFKAIALTVDTPRLGRREADIKNRFTLPPHLV
+LKNFEALDLGTMDKTNDSGLASYVASQVDRSLSWKDVKWLQTITSLPILVKGVMTAEDTR
+LAIEYGAAGIIVSNHGARQLDYVPATISCLEEVVREAKGRLPVFLDGGVRRGTDVFKALA
+LGASGVFIGRPVLFSLAVDGEAGVRKVLQMLRDELELTMALSGCTSLREITRAHVITDGD
+RIRRSRL
+
+
+BOP CONSENSUS:
+Length: 367 aa
+
+MEMITNVSEYERLAKEKLPKMVYDYYASGAEDQWTLNENREAFSRILFRPRVLIDVSHIN
+MATNILGFDVSMPIMIAPTAMQKMAHPEGELATARAAASAGTIMTLSSWATSSVERVNSV
+GPGIRFFQLYVYKDRNIVRQLVKRAEMAGFKAIALTVDTPRLGRREADIKNRFNLPPHLV
+LKNFEALDLGKMDKTDDSGLASYVASQVDQSLCWEDVKWLQTITSLPILVKGVMTAEDTR
+LAIEYGAAGIIVSNHGARQLDYVPATISCLEEVVREAKGRLPVFLDGGVRRGTDVFKALA
+LGAAGVFIGRPVLYSLAVDGEAGVRKVLQMLRDELELAMALSGCtSLRDITRAHVVTDGD
+RIRRARL
+
+
+PACMAD CONSENSUS:
+Length: 367 aa
+
+MELITNVTEYEKLAKEKLPKMVYDYYASGAEDQWTLKENREAFSRILFRPRILIDVSHID
+MATNVLGFNISMPIMIAPSAMQKMAHPEGELATARAAASAGTIMTLSSWSTSSVEEVNSV
+GPGIRFFQLYVYKDRNIVRQLVKRAEMAGFKAIALTVDTPRLGRREADIKNRFTLPPHLV
+LKNFEALDLGTMDKTNDSGLASYVAGQVDRTLSWKDVKWLQTITSLPILVKGVVTAEDTR
+LAIEYGAAGIIVSNHGARQLDYVPATISCLEEVVREAKGRLPVFLDGGVRRGTDVFKALA
+LGASGVFIGRPVLFSLAVDGEAGVRKVLQMLRDELELTMALSGCTSLREITRAHVITDSD
+RIGRSRL
+
+================================================================================

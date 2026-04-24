@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM012564
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             405.0 aa
+Family Size (Extended Family Size): 30 (32) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43364:SF11
+Panther Family ID:               PTHR43364
+Modal Panther ID:                PTHR43364:SF11
+Modal Panther Description:       NADP-DEPENDENT OXIDOREDUCTASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR43364
+Modal Panther Fam Desc:          NADH-SPECIFIC METHYLGLYOXAL REDUCTASE-RELATED
+Interpro Signature Accession:    cd19094; G3DSA:3.20.20.100:FF:000005; G3DSA:3.20.20.100; PTHR43364; PF00248; SSF51430
+Interpro Signature Description:  AKR_Tas-like; NADP(H)-dependent aldo-keto reductase; -; NADH-SPECIFIC METHYLGLYOXAL REDUCTASE-RELATED; Aldo/keto reductase family; NAD(P)-linked oxidoreductase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: protein tas; protein tas%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: protein tas-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata04D
+  Gene Products: protein tas; protein tas%2C transcript variant X1
+Tae
+  Gene count: 5
+  Modal chromosome: Tae04A
+  Gene Products: protein tas-like
+Ola
+  Gene count: 4
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: uncharacterized LOC127767380%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127767380
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC4333437
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau04
+  Gene Products: uncharacterized LOC133915849%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133915849
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: protein tas-like; protein tas-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: protein tas%2C transcript variant X2
+Msi
+  Gene count: 3
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi01
+  Gene Products: protein tas; protein tas%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: putative oxidoreductase%2C aldo/keto reductase family protein
+  Gene Synonyms: GRMZM2G077214
+  Gene Descriptions: putative oxidoreductase%2C aldo/keto reductase family protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 405 aa
+
+MQQMAlSAFavTSPSSHGNTLSgLhARrSQRWHrRRvRSQVRAQAQtQLQYrKLGDSDLL
+ISEVTLGTMTFGEQNTEKEAHDMLSYSFDQGINILDTAEIYPVPtnKETQGRTDLYIGRW
+MQSKPRDKVILATKVAGYSERSTFLRDNAEVVRVDAANIKESVEKSLSRLSTDYIDLLQI
+HWPDRYVALFGEFSYNSTKWRPSVPFEDQLKAFQELIDEGKVRYIGVSNETSYGVMEFVH
+AAKlQGLPKIVSIQNSYSLLVRCRFEVDLVEVCHPNNCNVGLLAYSPLAGGVLTGKYLDA
+NSDiSKRSRLNLFPGYMeRYNASLAKEATnEYVKLAKKHGLTPVQLALGFVRDRPFTAST
+IIGATTMDQLKENIDAFTSAPRPLPPQVLDDIEdLFKRYKDPAIL
+
+
+BOP CONSENSUS:
+Length: 405 aa
+
+MQQMALSAFVATPSSSYSNtLPGLtArRSQRWHRRRlRSQVRAQAQsqLQYkKLGDSDLL
+ISEITLGTMTFGEQNTEKEAHDMLSYSFDQGINILDTAEMYPVPpKKETQGRTDLYIGRW
+MQSKPRDKVILATKVSGYSERSTFLRDNAEVVRVDAANIKESVEKSLSRLSTDYIDLLQI
+HWPDRYVPLFGEFSYNSTKWRPSVPFEDQLKAFQELIDEGKVRYIGVSNETSYGVMEFVQ
+AAKLQGLPKIVSIQNSYSLIVRCrFEVDLVEVCHPNNCNVGLLAYSPLAGGVLSGKYLDA
+NSgnsKRSRLNLFPGYMERYNASLAKEATdEYVKLAKKHGLTPVQLALGFVRDRPFTAST
+IIGATTMDQLKENIDAFTSAPRPLPPQVLDDIETLFKRYKDPAIL
+
+
+PACMAD CONSENSUS:
+Length: 405 aa
+
+MQQMAMSSFAVTSPSSHGgTLSALHARHSQRLHkRRVRSQVRAVAQTQLQYqKLGDSDLL
+ISEVTLGTMTFGEQNTEKEAHDILSYSFDQGVNILDTAEIYPVPvNKETQGRTDLYIGRW
+MQSKPRDKIILATKVAGYSERSTFLRDNAEVVRVDAANIKESVEKSLKRLSTDYIDLLQI
+HWPDRYVALFGEFSYNPTKWRPSIPFEEQLKAFQELIDEGKVRYIGVSNETSYGVMEFVH
+AAKtQGLPKIVSIQNSYSLLVRCRFEVDLVEVCHPNNCNVGLLAYSPLAGGVLTGKYLDA
+NtDISKRSRLNLFPGYMARYNASLAKEATNEYVKLAKKHGLTPVQLALGFVRDRPFTASS
+IIGATTMDQLKENIDAFTSAPRPLPQEVLDGIEDLFKRYKDPAIL
+
+================================================================================

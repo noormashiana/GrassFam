@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM020662
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             382.0 aa
+Family Size (Extended Family Size): 26 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43768:SF17
+Panther Family ID:               PTHR43768
+Modal Panther ID:                PTHR43768:SF17
+Modal Panther Description:       TREHALOSE-PHOSPHATE PHOSPHATASE F-RELATED
+Modal Panther Family ID:         PTHR43768
+Modal Panther Fam Desc:          TREHALOSE 6-PHOSPHATE PHOSPHATASE
+Interpro Signature Accession:    cd01627; G3DSA:3.40.50.1000:FF:000122; G3DSA:3.40.50.1000:FF:000073; G3DSA:3.30.70.1020:FF:000004; G3DSA:3.30.70.1020; G3DSA:3.40.50.1000; TIGR00685; PTHR43768; PF02358; SSF56784
+Interpro Signature Description:  HAD_TPP; Trehalose 6-phosphate phosphatase; -; trehalose-phosphatase; TREHALOSE 6-PHOSPHATE PHOSPHATASE; Trehalose-phosphatase; HAD-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: probable trehalose-phosphate phosphatase 2%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 5
+  Modal chromosome: Hvu03H
+  Gene Products: probable trehalose-phosphate phosphatase 2; probable trehalose-phosphate phosphatase 2%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: probable trehalose-phosphate phosphatase 2%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: probable trehalose-phosphate phosphatase 2; probable trehalose-phosphate phosphatase 2%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: probable trehalose-phosphate phosphatase 2%2C transcript variant X2
+  Gene Descriptions: probable trehalose-phosphate phosphatase 2
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: probable trehalose-phosphate phosphatase 2%2C transcript variant X1
+  Gene Synonyms: OsTPP2,TPP2
+  Gene Descriptions: probable trehalose-phosphate phosphatase 2
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau21
+  Gene Products: probable trehalose-phosphate phosphatase 2; probable trehalose-phosphate phosphatase 2%2C transcript variant X1
+  Gene Descriptions: probable trehalose-phosphate phosphatase 2
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: probable trehalose-phosphate phosphatase 2; probable trehalose-phosphate phosphatase 2%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: probable trehalose-phosphate phosphatase 2%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: probable trehalose-phosphate phosphatase 2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: trehalose-phosphate phosphatase%2C transcript variant X1
+  Gene Synonyms: GRMZM2G178546
+  Gene Descriptions: trehalose-phosphate phosphatase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 382 aa
+
+MDLKTSLNSPVIADPLPTLALPAAVMTFTTPTSFPSPGLYLNTpKKKPLPGKIEEVRAAG
+WLDLMmASSPTRKRQiKDViNDVQADDLDLQYRNWMVNYPSALTSFEAITDLAGsKRLAL
+FLDYDGTLSPIVDNPENAvMSDEMRAAVRHVASLFPTAIISGRSRDKVFDFVKLNELYYA
+GSHGMDIMGPVRKTTeSNGVECIRSTDSeGKEVNLFQPASEFLPMIsEVYEKLGESIKDI
+DGARMEDNKFCVSVHYRNVAEDDYkKVFQRVTAVLEDYPCLRLTHGRKVLEVRPVIDWNK
+GKAVEFLLESLGLNESEDVLPIYVGDDRTDEDAFKVLKASNRGFGILVSSIPKESDAFYS
+LRDPAEVMEFLRKLAAWKEQST
+
+
+BOP CONSENSUS:
+Length: 381 aa
+
+MDLKTSHNSPVFVDPLPSLALPMTYTTPTSFPSSGLYLNTPKKKPLPSKIEEVRAAGWLD
+LMLASSPPRKRQSKDFLPHDVQADDLDLRYRNWMVNYPSALTSFEAITELARGKRLALFL
+DYDGTLSPIVDNPANAVMSDEMRAAVRHVASLFPTAIISGRSRDKVFDFVKLTELYYAGS
+HGMDIMGPVRKSESNGHHVECVRSTDSEGKEVNLFQPASEFLPMIAEVFENLSESIKDID
+GARMEDNKFCVSVHYRNVAPHDYETVHQRVTAVLKDYPCLRLTHGRKVLEVRPVIDWNKG
+KAVEFLLESLGLSESDDVLPIYVGDDKTDEDAFKVLKANNHGFGILVSSVPKDSDAFYSL
+RDPSEVMEFLrTLAAWKEGSS
+
+
+PACMAD CONSENSUS:
+Length: 382 aa
+
+MDLKTGLNSPVIADHLPTLALPAAVMTFTTPTSFPSPGLCLNTTKKIPLPGKIEEVRATG
+WLDLMMASSPTRKRQIKDVINDTQADDLDLQYrNWMVDYPSALTSFEAITDLAGSKRLAL
+FLDYDGTLSPIVDNPENALMSDEMRAAVRHVASLFPTAIISGRSRDKVFDFVKLNELYYA
+GSHGMDIMGPVRKTTDSNGVECIRSTDsqGKEVNLFQPASEFLPMItEVYKKLGESVKDI
+DGARMEDNKFCVSVHYRNVAEDDYKKVFQRVTAVLEDYPCLRLTHGRKVFEVRPVIDWNK
+GKAVEFLLESLGLNESEDVLPIYVGDDRTDEDAFKVLKASNRGFGILVSSIPKESDAFYS
+LRDPAEVMEFLRKLAAWKEQST
+
+================================================================================

@@ -1,0 +1,120 @@
+================================================================================
+GrassFam ID: GFAM005779
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             547.0 aa
+Family Size (Extended Family Size): 47 (50) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Weak
+Panther Family ID:               PTHR31225
+Modal Panther ID:                PTHR31225:SF158
+Modal Panther Description:       (E)-BETA-CARYOPHYLLENE SYNTHASE
+Modal Panther Family ID:         PTHR31225
+Modal Panther Fam Desc:          OS04G0344100 PROTEIN-RELATED
+Interpro Signature Accession:    cd00684; G3DSA:1.50.10.130:FF:000001; G3DSA:1.10.600.10:FF:000007; G3DSA:1.50.10.130; G3DSA:1.10.600.10; PTHR31225; PF03936; PF01397; SFLDG01019; SFLDS00005; SSF48576; SSF48239
+Interpro Signature Description:  Terpene_cyclase_plant_C1; Isoprene synthase, chloroplastic; -; Farnesyl Diphosphate Synthase; OS04G0344100 PROTEIN-RELATED; Terpene synthase family, metal binding domain; Terpene synthase, N-terminal domain; Terpene Cyclase Like 1 C Terminal Domain; Isoprenoid Synthase Type I; Terpenoid synthases; Terpenoid cyclases/Protein prenyltransferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Hvu
+  Gene count: 6
+  Modal chromosome: Hvu02H
+  Gene Products: (E)-beta-caryophyllene synthase-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata02D
+  Gene Products: (E)-beta-caryophyllene synthase; (E)-beta-caryophyllene synthase-like
+Tae
+  Gene count: 5
+  Modal chromosome: Tae02A
+  Gene Products: (E)-beta-caryophyllene synthase-like
+Ecu
+  Gene count: 6
+  Modal chromosome: EcuUN4
+Pau
+  Gene count: 4
+  Modal chromosome: Pau16
+  Gene Products: (E)-beta-caryophyllene synthase-like; (E)-beta-caryophyllene synthase-like%2C transcript variant X1
+  Gene Descriptions: (E)-beta-caryophyllene synthase-like
+Svi
+  Gene count: 9
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 5
+  Modal chromosome: Pvi02K
+  Gene Products: (E)-beta-caryophyllene synthase-like; (E)-beta-caryophyllene synthase-like%2C transcript variant X1; (E)-beta-caryophyllene synthase-like%2C transcript variant X3
+Pha
+  Gene count: 2
+  Modal chromosome: Pha02
+  Gene Products: beta-sesquiphellandrene synthase-like
+Msi
+  Gene count: 5
+  Modal chromosome: Msi13
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi07
+  Gene Products: (E)-beta-farnesene synthase; beta-sesquiphellandrene synthase-like
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: (E)-beta-farnesene synthase-like%2C transcript variant X1
+  Gene Synonyms: GRMZM2G016254,GRMZM2G084496
+  Gene Descriptions: (E)-beta-farnesene synthase-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 550 aa
+
+MATTcSPvAlaSQvvaaqqHkPRpYtPSpWGDFFLnHqPCTPSQLLSMKEkAsiKKEEVR
+rIILdAaASSDLvrKLELVDTLQRlGVDYHYkKEIDELLRaVydDedGgSDDLYVTSLRF
+YLLRKHGYnVSSDVFlKFRDEQGNfsSDDVnsLLmLYDAAHLRTRGEEILDniItFNKSR
+LQSmleenLEPeLAEEVRcTLETPRFRRVERVEARRYISVYEKKATRDETILEFAKLDYN
+ILQaLYCeELKeLTIWWKDFqSQTDLrFARDRmVEMHFWMLGVVYEPYYSYSRIMLTKLv
+iFvSLFDDlYDNYSTTEESNIFTtAMERWDEQAAEQLPAyLKALYINILNTTNdIeEELK
+lQKNKHAElVKkLVIDvAKcYHAEVKWRDEHYVPTsVEEHLQISVgSSACMQIinLvFIS
+LGDVTTREavEWAFTYPKIIRgVCIVGRIGNDIVSHEREQaSeHVaSTVQTCMKEYGvTV
+EEANEKLRVIIEEAWMDIVQECLDQKhPMvLLEKAVnlARTMDFMYKREDAYTLssSLKD
+TITSLYVNfV
+
+
+BOP CONSENSUS:
+Length: 539 aa
+
+MAAPVtADLHKPRPYTPSlWGhFFLNHNPCTQSQYLAMKeMASIKKERVRKiILAAgSSS
+DLpMKMELIDTLQRTGVAYHFGKEIQELLcGMHgDEQGfGDDLHiTAsRFYLLRKHGYHV
+SPDVFLKFRDDRGNFASNDvDSLLALYNAAYLRTRGEEVLDDAIIFTKSRLQCMLEHLEP
+wLAEEVRCTLETPsFRRVERVETRRYIPVYEKKATRDEDILEFAKLDFNILQTLYCeELK
+ALTIWWKDFKSQTDLQFARDRMVEmHFWiLGVVYEPQYSYSRVMLTKLvIFVSLFDDFYD
+NYSTTEESNIFTAAMERWDEQAAEQLPAnLKALYINILNTTNDIEEELKHQKNKNAELVK
+eLVIDVAKCYHAEVKWRDEHYVPTSVEEHLQISVRSSACMQIISLVFISMGDVTTrEVLE
+WALTYPKIIRCVCIVGRIGNDMVSHEREQiSEHVvSTVQTCTKEHGITVAEANEKLKVII
+EEAWMDIVHECLHkkHPMVLLEKATDLARTMDFMYKREDAYTLpSSLKETLTSLYVNYI
+
+
+PACMAD CONSENSUS:
+Length: 549 aa
+
+MATTiSPaAlASQvaaqQhkPRpYtPSpWGDFFLtHQPCTPsELLSMKEKAqaKKEEVRR
+IlLDAAASsDLvrKLELVDtLQRLGVDYHYKKEIDeLLRAVYdDeDGGSDDLYVTSLRFY
+LLRKHGYnVSSDVFvKFRDEQGNISSDDVnCLLMLYDAAHLRTHGEEILDNIITFNKSRL
+QSlMekNLEPELAEEVRcTLETPRFRRVERVEARRYISVYEKKATRDdTILEFAKLDYNI
+LQAlYCdELKELTIWWKDFQSrTDLrFARDRlVEMHFWMmGVVYEPYYSYSRIMLTKlvl
+faSLlDDlYDNYSTTEESNIFTTAmERWDEQAaEQLPAyLKaLYiNILnTTNkIvEELKL
+QnNKHAElVKkLVIDtAKsYHAEVKWRDEHYVPTdVEEHLQISvgSSvCMQItNLAFISL
+GDVTTREAVEWAFTYPKIIRGVCIVGRIgNDIMSHEREQASeHVASTVQTCMKQYGVTVE
+EANEKLRvIIEEAWMDIVQECLDQKyPMaLLEKvVNvARTMDFmYKREDAYTLSfSLKDT
+ITSMYVNsV
+
+================================================================================

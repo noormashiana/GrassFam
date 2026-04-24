@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM002555
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             499.0 aa
+Family Size (Extended Family Size): 23 (28) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10763:SF26
+Panther Family ID:               PTHR10763
+Modal Panther ID:                PTHR10763:SF26
+Modal Panther Description:       CELL DIVISION CONTROL PROTEIN 6 HOMOLOG
+Modal Panther Family ID:         PTHR10763
+Modal Panther Fam Desc:          CELL DIVISION CONTROL PROTEIN 6-RELATED
+Interpro Signature Accession:    G3DSA:3.40.50.300:FF:000547; G3DSA:1.10.8.60:FF:000102; G3DSA:1.10.10.10:FF:000532; G3DSA:3.40.50.300; G3DSA:1.10.8.60; PTHR10763; PIRSF001767; SSF52540
+Interpro Signature Description:  Cell division control protein; -; CELL DIVISION CONTROL PROTEIN 6-RELATED; Cdc6; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: cell division control protein 6 homolog
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: cell division control protein 6 homolog
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: cell division control protein 6 homolog
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: cell division control protein 6 homolog
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: cell division control protein 6 homolog%2C transcript variant X1
+  Gene Descriptions: cell division control protein 6 homolog
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: cell division control protein 6 homolog%2C transcript variant X1
+  Gene Descriptions: cell division control protein 6 homolog
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: cell division control protein 6 homolog
+  Gene Descriptions: cell division control protein 6 homolog
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi05K
+  Gene Products: cell division control protein 6 homolog; cell division control protein 6 homolog%2C transcript variant X1
+Pha
+  Gene count: 2
+  Modal chromosome: Pha05
+  Gene Products: cell division control protein 6 homolog
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: cell division control protein 6 homolog
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: uncharacterized LOC100382678%2C transcript variant X1
+  Gene Synonyms: GRMZM2G007659,GRMZM2G047851
+  Gene Descriptions: uncharacterized LOC100382678
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 490 aa
+
+MPTLRSATASaSPAATPSPaAASTPRSVKRRLTPRRAGESPDASRHTSPHRSPHAGaGTV
+CtPKLLSASPKSSRKRLYGDLVAAEKPKWNPRDPAQMRAVKEALHVATVPSCGLVCRDdE
+QRRVLEFCKACVEQEKAGSLYVCGCPGTGKTLSINKVKESLvRWADEMGMETPDsLaINC
+TNLANTSEIFSKILGKFQnRKKGSgKLSPLQQLQSMFSnKESAPRRMMLVIVDEMDYLIT
+RDRAVLHDLFMLTTcPFSRCILIGIANAIDLADRFLPKLESLNCKPLVVTFRAYSKDQIS
+DIIKHRLKVLEYDVFEPLALEFCARKVAAASGDMRKALGVCRSAVEVLEARLQDSSDQEL
+GIVTFDHMDIALSKAFKSAVVDSILCLPQHQQMVLCALANTFQHCKKKATTLGELNKSYI
+EICRSTQVPAVGMLEFSNMCMVLSDQGFMKLGQSKEDKLRRVTLQIDISDITFAFKGNRF
+FQKCLEQPRc
+
+
+BOP CONSENSUS:
+Length: 490 aa
+
+MPTLRSATLSPAPAATPSPTAaTTPSSAKRRMTARRAADSPDSPQFTSPHKSPLAGsGhF
+GAPKMLSASPKSSRKRLYGDLVPAERPKWNPRDPAQMQAVKEALHVATVPSCGLVCRDDE
+QRRVLEFCKACVQQERAGSLYVCGCPGTGKTLSISKVKQSVSRWADEMGMETPDDLSINC
+TNLGNTSDIFSKILEKFQVRKKASGKLSPLQQLQRMFSHKESAPRRMLLVVVDEMDYLIT
+RDRAVLHDLFMLTTlQFSRCILIGIANAIDLADRFLPKLESLNCKPLVITFRAYSKDQIS
+NIINHRLKVLEYDVFEPMAIEFCARKVAAATGDMRKALGVCRSAVEIFESGLQDSSDQGA
+GVVTFDHMDIALSKVFKPAVVNSILCLPQHQQMVLCALANTFQHSRKKATTLGELNKSYI
+EICRSTQVPAVGMLEFSNMCMILSDQGYLKLGQSKEDKLRRVTLQIDISDITFAFKGSRF
+FQKCLEQPKF
+
+
+PACMAD CONSENSUS:
+Length: 490 aa
+
+MPTLRSATANASPAATPSPAAASTPRSVKRRLTPGRAGESPDASRHTSPHRSPHAGAGTV
+CTPKLLSASPKSSRKRLYGDLVAAEKPKWNPRDPAQMRAVKEALHVATVPSCELVCRDNE
+QRRVLEFCKACVEQEKAGSLYVCGCPGTGKTLSINKVKESLVCWADEMGMETPDSLAINC
+TNLANTSEIFSKILGQFQNRKKGSsKLSPLQQLQSMFSNKESAPRRMMLVIVDEMDYLIT
+RDRAVLHDLFMLTTCPFSRCILIGIANAIDLADRFLPKLESLNCKPLVVTFRAYSKDQIS
+DIIKHRLKVLEYDVFEPLALEFCARKVAAASGDMRKALGVCRSAVEVLEARLQDSSDQEL
+GIVTFDHMDIALSKAFKSAVVDSILCLPQHQQMVLCALANTFQHCKKKATTLGELNKSYI
+EICRSTQVPAVGMLEFSNMCMVLSDQGFMKLGQSKEDKLRRVTLQIDiSDITFAFKGNRF
+FQKCLEQPRC
+
+================================================================================

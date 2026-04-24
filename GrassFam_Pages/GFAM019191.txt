@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM019191
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             462.5 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48032:SF16
+Panther Family ID:               PTHR48032
+Modal Panther ID:                PTHR48032:SF16
+Modal Panther Description:       RNA-BINDING (RRM_RBD_RNP MOTIFS) FAMILY PROTEIN
+Modal Panther Family ID:         PTHR48032
+Modal Panther Fam Desc:          RNA-BINDING PROTEIN MUSASHI HOMOLOG RBP6
+Interpro Signature Accession:    cd12325; cd12330; G3DSA:3.30.70.330:FF:000102; G3DSA:3.30.70.330:FF:000051; G3DSA:3.30.70.330; PTHR48032; SM00360; SSF54928
+Interpro Signature Description:  RRM1_hnRNPA_hnRNPD_like; RRM2_Hrp1p; Heterogeneous nuclear ribonucleoprotein 1; -; RNA-BINDING PROTEIN MUSASHI HOMOLOG RBP6; rrm1_1; RNA-binding domain, RBD
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: heterogeneous nuclear ribonucleoprotein 1%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: heterogeneous nuclear ribonucleoprotein 1%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: heterogeneous nuclear ribonucleoprotein 1%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: heterogeneous nuclear ribonucleoprotein 1-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola11
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: heterogeneous nuclear ribonucleoprotein 1
+  Gene Descriptions: heterogeneous nuclear ribonucleoprotein 1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: heterogeneous nuclear ribonucleoprotein 1
+  Gene Descriptions: heterogeneous nuclear ribonucleoprotein 1
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 2
+  Modal chromosome: Pau12
+  Gene Products: heterogeneous nuclear ribonucleoprotein 1-like%2C transcript variant X1; heterogeneous nuclear ribonucleoprotein 1-like%2C transcript variant X2
+  Gene Descriptions: heterogeneous nuclear ribonucleoprotein 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi08K
+  Gene Products: heterogeneous nuclear ribonucleoprotein 1-like; heterogeneous nuclear ribonucleoprotein 1-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: heterogeneous nuclear ribonucleoprotein 1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: heterogeneous nuclear ribonucleoprotein A1-like 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 462 aa
+
+MEADAGKLFIGGISWDTNEDRLREYFDKYGEVVEAVIMRDRATGRARGFGFIVFADPAVA
+ERVIMEKHMIDGRMVEAKKAVPRDDQHALSKSGGSAHGSPGPSRTKKIFVGGLASTVTEA
+DFRKYFEQFGTITDVVVMYDHNTQRPRGFGFITYDSEDAVDKALFKTFHELNGKMVEVKR
+AVPKELSPGPSMRSPVGGFNYVMNRANSFLNGYTQGYNPSPVGGYGMRMDARFGLLSGGR
+SSYPSFGGGYGIGMNFDPGMNPGIGGSSSFNNSLQYGRQLNPYYSGNSGRYNSNISYGGV
+NDNsGSVFNSLARNLWGNSGLNYSSNSASSNSFMSSANGGLGGIGNNNVNWGTPPVPAQG
+AsAGSGYGSGNFGYGSSENNFGLGssAYGRNAGSGGVNTFNQSSNGYGRNFGDSSAGGGG
+SIYGDTTWRSGSELDGTSPFGYGLGNAASDVTAKSSAGYMGH
+
+
+BOP CONSENSUS:
+Length: 463 aa
+
+MEADAGKLFIGGISWDTNEDRLREYFEKYGEVVEAVIMRDRATGRARGFGFIVFADPAVA
+ERVIMEKHMIDGRMVEAKKAVPRDDQQALSKSGGSAHGSPGPSRTKKIFVGGLASTVTEA
+DFRTYFEQFGTITDVVVMYDHNTQRPRGFGFITYDSEDAVDKALFKTFHELNGKMVEVKR
+AVPKELSPGPSMRSPAGGINYVMNRANSFLNGYTQGYSPSPVGGYGMRMDARFGLLSGGR
+SSYPSFGGGYGIGMNFDPGMNPGIGGSSNFNNSVQYGRQINPYYSGNSGRYNSNISYGGV
+NDNSGSVFNSLARNLWGNSGLNYSSNSANSNSFMSSANGGLGGIGNNNVNWGTPPVPAQG
+ANAGSGYGSGNFGYGSTENNFNLSPGAYGRNTGSGGVNTSLNQSSNGYGRNFGDSSAGGG
+GSIYGDTTWRSGSELDGTSPFGYGLGNAASDVTAKSSAGYMGH
+
+
+PACMAD CONSENSUS:
+Length: 461 aa
+
+MEADAGKLFIGGISWDTNEDRLREYFDKYGEVVEAVIMRDRATGRARGFGFIVFADPAVA
+EQVIMEKHMIDGRMVEAKKAVPRDDQHALSKSGGStHGSPGPSRTKKIFVGGLASTVTEA
+DFRKYFEQFGTITDVVVMYDHNTQRPRGFGFITYDSEDAVDKALFKTFHELNGKMVEVKR
+AVPKELSPGPSMRSPVGGFNYVMGRANILNGYTQGYNPSPVGGYGMRMDARFGLLSGGRS
+GYPSFGGSYGIGMNFDPGMNPGIGGGSSFNNSLQYGRQLNPYYSGNSGRFNSSVsYGGVN
+DNNGSVFNSLARNLWGNSGLNYSSNSASSNSFVSSGNGGLSGIGNNNVNWGNPPVPAQGA
+SGGSGYGTGNFGYGSSENNFGLGSSAYGRNAGSGGVNTFNQSTNGYARNFGDSSAGGGSI
+YGDTTWRSGSSELDGTSPFGYGLGNSASDVTAKSSAGYMGH
+
+================================================================================

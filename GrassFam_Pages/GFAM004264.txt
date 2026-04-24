@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM004264
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             381.5 aa
+Family Size (Extended Family Size): 28 (28) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR22835
+Modal Panther ID:                PTHR22835:SF317
+Modal Panther Description:       OS06G0694200 PROTEIN
+Modal Panther Family ID:         PTHR22835
+Modal Panther Fam Desc:          ZINC FINGER FYVE DOMAIN CONTAINING PROTEIN
+Interpro Signature Accession:    cd01837; G3DSA:3.40.50.1110; PTHR22835; PF00657
+Interpro Signature Description:  SGNH_plant_lipase_like; SGNH hydrolase; ZINC FINGER FYVE DOMAIN CONTAINING PROTEIN; GDSL-like Lipase/Acylhydrolase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: acetylajmalan esterase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: acetylajmalan esterase-like
+Ata
+  Gene count: 3
+  Modal chromosome: Ata07D
+  Gene Products: acetylajmalan esterase
+Tae
+  Gene count: 8
+  Modal chromosome: Tae07A
+  Gene Products: acetylajmalan esterase-like; acetylajmalan esterase-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: acetylajmalan esterase-like
+  Gene Descriptions: acetylajmalan esterase-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: acetylajmalan esterase
+  Gene Descriptions: acetylajmalan esterase
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: GDSL esterase/lipase At1g28650-like; acetylajmalan esterase-like
+  Gene Descriptions: GDSL esterase/lipase At1g28650-like; acetylajmalan esterase-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: acetylajmalan esterase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: acetylajmalan esterase-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: acetylajmalan esterase-like%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: alpha-L-fucosidase 2
+  Gene Synonyms: GRMZM2G048904
+  Gene Descriptions: alpha-L-fucosidase 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 376 aa
+
+MASSAAFLlLsLAALHLCCCHGQGgdGgGVtAIYSLGDSITDTGNLvKEAPPGAFETIKH
+LPYGVTFGrPTGRCSDGLLMIDFLAQDMGLPFLNPYLGKNKSFDHGVNFAVAGATAMDPA
+DQFNrTFpMPFaSNSLKLQLRWFKDFMKSTFgTDEEIRKRLQSSLVLVGEIGGNDYNYAF
+FgNKsVSEVEKLIPgVVqTIIDAAKEVLDMGASRVIVPGNFPIGCvPgYLTmmASSEPSD
+YDSaGCLRELNLFAAKHNARLQRAVAgLRASYPDAAIAYADYFNSFLsLLknASaLGFDA
+aSTRKACCGAGGeYNYDwRRMCGvEGAAACADPSAYVSWDGIHMTQAAYKAMSRLIYHGr
+YLQPQILSFPEKNGQT
+
+
+BOP CONSENSUS:
+Length: 376 aa
+
+MASSAAFLLLVVAALHVCCCHGQGGDgGAVAAIYSLGDSITDTGNLAKEAPPGAFETIKH
+LPYGVTFGRPTGRCSDGLLMIDFLAQDMGLPFLNPYLAKNmSFDHGVNFAVAGATAMDPA
+DQFNRtFSMPFTANSLKLQLRWFKDFMKSTFdTDEEIRKRLQSSLVLVGEIGGNDYNFAF
+FGNKSVSEVEKLIPAVVQTIIDATKEVLDMGASRVIVPGNFPIGCLPSYLTAMASPEPSA
+YDSTGCLKDLNLFAAKHNAQLQRAVAGLRASYPDAAIAYADYFNSFLSLLKGAPALGFDe
+NSTHKACCGAGGRYNYDeRRMCGVEGTAVCADPSAYVSWDGIHMTQAAYKAMSRLIYHGR
+YLQPQILSFPEKNGQT
+
+
+PACMAD CONSENSUS:
+Length: 385 aa
+
+MAMASSAAALLLALSLlALHLCCCHGQGADGGdGNGVTAIYSLGDSITDTGNLVKEAPPG
+MFETIKHLPYGVTFGyPTGRCSDGLLMIDFLAQDLGLPFLNPYLGKNKSFDHGVNFAVAG
+ATAVDPADQFNLTVPMPFASNSLKVQLRWFKDFMKSSFGTDeEIRKRLQsSLVLVGEIGG
+NDYNYAFFenKPVAEVEKLIPGVVKTIIDAAKEVLDMGAsRVIVPGNFPIGCVPGYLAMN
+AASSEPADYDSAGCLRELNdFAAKHNSRLQRAVADLQASYPgASVAYADYFNSFLALLHN
+ASSLGFDAASTRKACCGAGGGEYNFDWRRMCGFeGAAACAEPStYVSWDGIHMTQAAYRA
+MSRLIYHGKYLQPQILSFPEKYGQT
+
+================================================================================

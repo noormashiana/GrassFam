@@ -1,0 +1,128 @@
+================================================================================
+GrassFam ID: GFAM004829
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             614.0 aa
+Family Size (Extended Family Size): 17 (17) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24012:SF915
+Panther Family ID:               PTHR24012
+Modal Panther ID:                PTHR24012:SF915
+Modal Panther Description:       POLYADENYLATE-BINDING PROTEIN
+Modal Panther Family ID:         PTHR24012
+Modal Panther Fam Desc:          RNA BINDING PROTEIN
+Interpro Signature Accession:    cd12379; cd12380; G3DSA:1.10.1900.10:FF:000003; G3DSA:3.30.70.330:FF:000003; G3DSA:3.30.70.330:FF:000520; G3DSA:3.30.70.330:FF:000648; G3DSA:3.30.70.330:FF:000651; G3DSA:3.30.70.330; G3DSA:1.10.1900.10; TIGR01628; PTHR24012; PF00658; SM00517; SM00360; SSF54928; SSF63570
+Interpro Signature Description:  RRM2_I_PABPs; RRM3_I_PABPs; Polyadenylate-binding protein; Poly(A) binding protein cytoplasmic 1 like; -; polyadenylate binding protein, human types 1, 2, 3, 4 family; RNA BINDING PROTEIN; MLLE domain; poly_2; rrm1_1; RNA-binding domain, RBD; PABC (PABP) domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: polyadenylate-binding protein 4-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: polyadenylate-binding protein 5-like
+Tae
+  Gene count: 4
+  Modal chromosome: Tae03A
+  Gene Products: polyadenylate-binding protein 3-like; polyadenylate-binding protein 5-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: uncharacterized LOC127776816%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127776816
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: polyadenylate-binding protein 5
+  Gene Descriptions: polyadenylate-binding protein 5
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi04K
+  Gene Products: polyadenylate-binding protein 5-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: polyadenylate-binding protein 3-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi19
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: polyadenylate-binding protein 3
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: uncharacterized LOC100383542
+  Gene Synonyms: GRMZM2G055018,GRMZM2G310362
+  Gene Descriptions: uncharacterized LOC100383542
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 606 aa
+
+MmAsPAttpRPPIAAeavPPaAvlPALGSrASLYVGDLAaSVdEgQLyALFSQVAPVASV
+RVCRDivGGrSLGYGYVNFYSREDAtRALEALNFTPlNGKhIRVMFSNRDPTLRKSGrAN
+vFIKNLEPNIDsKSLYEMFSSFGTILSCKVATDsNGQSKGYGFVQFEsEESAqDAINrLN
+GMLANGkKIFVGLFMRRQEREVKFTNVYIKNLPkEFTDDDLRQEFAPFGEITSAVVMRDa
+DGiSKCFGFVNFEKPECAaEAVKKLNGKsIkDkvLYVGRAQKKsERQAELKeKFEqgRNg
+KveKfqGlNLYLKNLDDSINDEnLRKLFEeFGEIgSCKVMVDSQGRSKGSGFVSFTTaEA
+GHsAINGMNGKIVGKKPLYVGVAQRKEERRAMLmAHFAqRnlAmAAAPYAAPQQVYFGHP
+APGqIPPQAAVFGFPQHFVPGMGPGSPVMMPHNMQRSRHPGQRtGPYRQQQaMIHPNANQ
+siRYMPNARNGAYPAMLPQGFPSAMvSqqpsgssLTTALASAdPEkQhqILGNKLYPLVE
+QLEPEhAGKVTGMLLEMDKaEvLrLlESPEdLRdKVrEAMaVLQRskAgASADPAatAAA
+PSsssA
+
+
+BOP CONSENSUS:
+Length: 592 aa
+
+MAGRPLLAPAVtLRPPGPALGSrASLYVGDLDDGVAEGQLYALFCQVAPVASLRVCRDVT
+GRSLGYAYVNFYSREDAKRALDSLNFTPaNGKHIRVMFSNRDPTLRLSGKANIFIKNLVP
+NIDGKSLSDMFGRYGTILSCKVATHFNGQSKGYGFVQFasETSANDAIDsLNGKLANGKr
+IFVGLFIRRQERQPNISaSNYTNVYVKNLPKEFTHNDLLQEFGPFGTITSAVIMRDnDGI
+SKCFGFVNYgeSECAaEAVKsLNGKmIKDTILYVGRAQKKSERqAELKENFErARNeKFK
+KFEGLNLYVKNLDDSINDLNLRGLFEfFGEIGSCKVMVDSQGRSKGyGFVSFTTIEAANN
+AIDGMNRKIVGKKPLYVGVAQRKEERRAMLVAHFARvrNlGVLAPAvPQNIAPRQFYVGP
+GVPGMFPPQmvGFGYQQnPyPNANQaFTYMPNsmNgnANSVMHQPMVPPgFAQTDStVSt
+PSLvPSKNTTTTALASSnPEKQHlILgemLyPLVEQLEPELGGKVTGMLLELmKALVLRL
+VESAsDTVDLVsvPSsSTlSvsRDAIDPASTASSSSASADgALAPAPSSSSA
+
+
+PACMAD CONSENSUS:
+Length: 611 aa
+
+MASPSTTPrsTIAAeaVPVAEGTPAAVLPPLGSMASLYVGDLAESVDEtQLHAVFSQVAP
+LASVRVCRDIVSGVSLGYGYVNFYSRQEATRALEALNFTPLNGKyIRVMFSNRDPSLRKS
+GRANLFVKNLEPNIDSKNLYEMFSSFGTILSCKVATDSAGQSKGYGFVQYETEESAQDAI
+NRLNGMLANDRKMFVGLHMRRRNREVKFTNVYIKNLPTEFSDDDLRQEFAPFGEITSAVV
+MRDvnGASKCFGFVNFEKPEcAAEAVQKLNGKSInDKVLYVGRAQKKEERQAELKTKFEQ
+GRDGKVEKPNGINLYLKNIDDSINDEGLKKLFEEFGQVtSCKVMVDAQGRSKGSGFVSFT
+TAEAGHSAINGMNGRMVGNKPLYVGLAQPKEERRAMLMAHFAQRNLAMAASPYAGPQQVY
+FGHPAPGQIPPQAAVFGFPQHFVPGMGPGSPVMMPHNMQRSRYPGQRTGPqmYRQQQAMI
+HANANHSIRYMPNARnGAYPAMLPQGFPSAMvSQQHDGSSLTTAVASAgPADQQQILGNK
+LYPLVEQLERDHAGKVTGMLLEMDKvEILQLLESPEALRAKVREAMAVLQRTKAGGSADP
+AAAAAAPTVNA
+
+================================================================================

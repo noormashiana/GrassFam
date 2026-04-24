@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM009457
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             390.0 aa
+Family Size (Extended Family Size): 23 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46609:SF6
+Panther Family ID:               PTHR46609
+Modal Panther ID:                PTHR46609:SF6
+Modal Panther Description:       EXONUCLEASE, PHAGE-TYPE_RECB, C-TERMINAL DOMAIN-CONTAINING PROTEIN-RELATED
+Modal Panther Family ID:         PTHR46609
+Modal Panther Fam Desc:          EXONUCLEASE, PHAGE-TYPE/RECB, C-TERMINAL DOMAIN-CONTAINING PROTEIN
+Interpro Signature Accession:    cd22343; G3DSA:3.90.320.10; PTHR46609; SSF52980
+Interpro Signature Description:  PDDEXK_lambda_exonuclease-like; -; EXONUCLEASE, PHAGE-TYPE/RECB, C-TERMINAL DOMAIN-CONTAINING PROTEIN; Restriction endonuclease-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: uncharacterized LOC100828448%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: uncharacterized LOC123427053%2C transcript variant X4
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: uncharacterized LOC109743683
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: uncharacterized LOC123045809%2C transcript variant X2; uncharacterized LOC123053693; uncharacterized LOC123189572
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl04
+  Gene Products: uncharacterized LOC127769795; uncharacterized LOC127781295
+  Gene Descriptions: uncharacterized LOC127769795; uncharacterized LOC127781295
+Osa
+  Gene count: 2
+  Modal chromosome: Osa04
+  Gene Products: uncharacterized protein; uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC4336211; uncharacterized LOC4345016
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 1
+  Modal chromosome: Pau13
+  Gene Products: uncharacterized LOC133889207%2C transcript variant X2
+  Gene Descriptions: uncharacterized LOC133889207
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: uncharacterized LOC120641307%2C transcript variant X2; uncharacterized LOC120680730
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: uncharacterized LOC112899674%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: uncharacterized LOC8073684
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: Restriction endonuclease type II-like superfamily protein; uncharacterized LOC100193582%2C transcript variant X1
+  Gene Synonyms: GRMZM2G306094,si687047d01
+  Gene Descriptions: uncharacterized LOC100193582
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 391 aa
+
+MRAAVssPPPHCYSRRRATLLDARHVFDHVPQRRLPPLAAGLRApPAAAArRRPaRRSAv
+SAAApACpAASVPrLFRTFLQIPTAFSSTpRVRLTpSAFLPSRRNFEGYIPRSCSGSSLQ
+IYSRSSLLsLSPSSALMVSSQLTSSDVAQRSEEWFALRKDKLTTSTFSTALGFWAGNRRA
+ELWNEKVFGaTEIKLADAARSAMDWGTvHESVAIEQYTSITGRsVGTLGFAVHTEANSGW
+LGASPDGVLGCEPDGGILEVKCPFNKGKPELALPWRAMPYYYMPQVQGLMEIMGRDWVEL
+YCWTPNGSSLFRVPRDRAYWELIHEVLRDFWWGNVMPARELVLLGKDAEARSFEPQPKHR
+LTNLVLFRSRKLASEAKLLCMDVGGHVEFFp
+
+
+BOP CONSENSUS:
+Length: 393 aa
+
+MRAAVsAPPPHSCYSRRRATLLDARHVLDHMPQRRAPPRtAGLRAPPAAAAASSRRTPPL
+RVAGRAAACPAASVPYLFRTLLPIPTAFRSTvRVRLTSPAFLPSRRNFEGYIPQSCSGSS
+LQIYSRSSLLSLSPSSALMVSSQLNSSDVAQRSEEWFALRKDKLTTSTFSTALGFWAGNR
+RSELWSEKVFGSTEIKLEDAARSAMNWGTVNESVAIEQYTSITGRSVGSLGFAVHTEANF
+GWLGASPDGVLGCDPDGGILEVKCPFNKGKPELALPWRAMPYYYMPQVQGLMEIMGRDWV
+ELYCWTPNGSSLFRVPRDRGYWELIHEVLRDFWWGNVMPARELVLLGKEAEARSFEPQPK
+HRLTNLVIFRSRKLASEAKLLCKDIGGHVEFFP
+
+
+PACMAD CONSENSUS:
+Length: 390 aa
+
+MRAAVSSPPPHCYSRRRATLLDARHVFDHVPQRRLPPLAAGLRARPVAAAARRPARRSAV
+SAaAPTCGAASVPRLFRTFLQIPTASSTPRACLTPSAFLPSRRNFEGYIPRSCSSSSLQI
+YSRSSLLTLSPSSALMVSSQLTSSDVAQRSEEWFALRKDKLTTSTFSTALGFWAGNRRAE
+LWNEKVFGATEIKLADTARSAMDWGTNHESVAIEQYTSITGRLVGTLGFAVHTEANSGWL
+GASPDGVLGCEPDGGILEVKCPFNKGKPELALPWRAMPYYYMPQVQGLMEIMGRDWVELY
+CWTPNGSSLFRVPRDRAYWELIHEVLRDFWWGNVMPARELVLLGKDDEARSFEPQPKHRL
+TNLVLYRSRKLASEAKLLCMDVGGHVEFFQ
+
+================================================================================

@@ -1,0 +1,127 @@
+================================================================================
+GrassFam ID: GFAM005154
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             402.0 aa
+Family Size (Extended Family Size): 19 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45676:SF155
+Panther Family ID:               PTHR45676
+Modal Panther ID:                PTHR45676:SF155
+Modal Panther Description:       RING-TYPE E3 UBIQUITIN TRANSFERASE
+Modal Panther Family ID:         PTHR45676
+Modal Panther Fam Desc:          RING-H2 FINGER PROTEIN ATL51-RELATED
+Interpro Signature Accession:    G3DSA:3.30.40.10:FF:000285; PTHR46913
+Interpro Signature Description:  RING-H2 finger protein ATL43; RING-H2 FINGER PROTEIN ATL16
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: RING-H2 finger protein ATL52
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: RING-H2 finger protein ATL52-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: RING-H2 finger protein ATL52
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: RING-H2 finger protein ATL52-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: RING-H2 finger protein ATL51
+  Gene Descriptions: RING-H2 finger protein ATL51
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 1
+  Modal chromosome: Pau07
+  Gene Products: RING-H2 finger protein ATL5-like
+  Gene Descriptions: RING-H2 finger protein ATL5-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: E3 ubiquitin-protein ligase Os04g0590900-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: RING-H2 finger protein ATL52-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: RING-H2 finger protein ATL51
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: putative RING zinc finger domain superfamily protein
+  Gene Synonyms: GRMZM2G171277
+  Gene Descriptions: putative RING zinc finger domain superfamily protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 409 aa
+
+MRPhRRiLFsPGAGDCDpwYGCppPPppPStPtpsPsPSPSPpPipsPPCPPvpSAPSPS
+PaHdGGgGRRDQGGGTqGYGPPPGVGGAGDDHRRRFVtYVLIAAAAiAFVSLILLGVSVA
+VRRRQVRRRRQALLApAAPAaAtNVDDGGNDDPEGGGGGGGVVHHVWYIRTVGLDEAAId
+SIAVTRYRAGAGLLGAADCSVCLGEFQDGELVRLLPKCGHAFHVPCIDTWLRAHVNCPLC
+RSDVLDPAVTAAsGGGiESsSNPPADPDANANAAAEQAAAASDAtlEHEdEESDGqeAsP
+AEEDQQEQPSSPEPPlPQLPCPLPRNVRRAASMDAAIVSTAAdVAALDRLPEAAPEEEQI
+GGRRKRqSCAKaSGSGHRSNLSTDRPApGGvPRSFFSRHCRARSSVLPL
+
+
+BOP CONSENSUS:
+Length: 399 aa
+
+MPlHYRRILFSDDCDPWYGCPsPPAPPFFTPSPSPSPSSPPPIwSPPPPPSPSFSFYFPS
+pPDLAPSPSPVHDGGGGwRDQGGGTYGYGAVDDHRRRFVTYVLcAAAALAFLSLILLGVS
+IAVRRRQLRRRRQALLAQAPAAATNVGNDDPEGGGGGGVVHHVWYIRTVGLDEAAIDSIA
+VTRYRAGSGLLGAADCSVCLGEFnDGELVRLLPKCGHAFHVPCIDTWLRAHVNCPLCRSD
+VIDPAATAAGvGIESNSNPPADPDANANAAAEQAAAASDSTLEHEDEEEDQEAPRVEEDQ
+HEQQPSSPEPEPLPQLPGPLPRNVRRAASMNAAMVSTAADVAALDRLPDAAPEGEEQSGR
+EKHQSGATGHPSTERPAPGGLPRSFFSRHCRARSSVLPL
+
+
+PACMAD CONSENSUS:
+Length: 415 aa
+
+MRPHRRALFPdsGPGAGDCdDGYGCqpPPpVPSTPyhGPAPSPAPASsPvPpCPPVaSPP
+SPaPAHsGRRNQGGGMQGYGPPPPGVGGAGDDHRRHyVrYVLIAAGVIAFVSLILLGVSV
+AVRRRQVRRRRQALLAPAApPPGAgNVDDGGGDPEGGGGGGGVVHHVWYIRTVGLDEAAI
+sSIAVTRYRAGAGLLGAADCSVCLGEFQDGELVRLLPKCGHAFHVPCIDTWLRAHVNCPL
+CRSDVLDPAVTAAsGGGGGGgESSSnPPADPDANANAaAEQAAAASDAiPDHEeEESDGr
+dASPAQEDQQEQsSSPEPPPPQLlCPLPRNVRRAASMDAAIVSTAAeVAALERLPEAAPE
+EEQIGGRRKRTGPSCAKASGSGHRSNLSTDRPApGGVPRSFFSRHSRARSSVLPL
+
+================================================================================

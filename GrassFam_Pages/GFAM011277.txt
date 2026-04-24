@@ -1,0 +1,114 @@
+================================================================================
+GrassFam ID: GFAM011277
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             524.5 aa
+Family Size (Extended Family Size): 16 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR24064
+Modal Panther ID:                PTHR24064:SF667
+Modal Panther Description:       INORGANIC PHOSPHATE TRANSPORTER 1-3-RELATED
+Modal Panther Family ID:         PTHR24064
+Modal Panther Fam Desc:          SOLUTE CARRIER FAMILY 22 MEMBER
+Interpro Signature Accession:    cd17364; G3DSA:1.20.1250.20:FF:000175; G3DSA:1.20.1250.20; TIGR00887; PTHR24064; PF00083; SSF103473
+Interpro Signature Description:  MFS_PhT; Inorganic phosphate transporter 1-6; MFS general substrate transporter like domains; phosphate:H+ symporter; SOLUTE CARRIER FAMILY 22 MEMBER; Sugar (and other) transporter; MFS general substrate transporter
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Ola
+  Gene count: 2
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl03
+  Gene Products: inorganic phosphate transporter 1-1; probable inorganic phosphate transporter 1-3
+  Gene Descriptions: inorganic phosphate transporter 1-1; probable inorganic phosphate transporter 1-3
+Osa
+  Gene count: 2
+  Modal chromosome: Osa03
+  Gene Products: inorganic phosphate transporter 1-1-like; probable inorganic phosphate transporter 1-3
+  Gene Synonyms: OsJ_009086,OsPht1%3B1,OsPT1,PHT1-1,PT1; OsJ_030442,OsPht1%3B3,OsPT1,OsPT3,PHT1-3,PT1,PT3
+  Gene Descriptions: inorganic phosphate transporter 1-1-like; probable inorganic phosphate transporter 1-3
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau03
+  Gene Products: inorganic phosphate transporter 1-1
+  Gene Descriptions: inorganic phosphate transporter 1-1
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: inorganic phosphate transporter 1-1; probable inorganic phosphate transporter 1-3
+Pha
+  Gene count: 2
+  Modal chromosome: Pha09
+  Gene Products: inorganic phosphate transporter 1-1; probable inorganic phosphate transporter 1-3
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: probable inorganic phosphate transporter 1-3
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 524 aa
+
+MAGgQLKVLTTLDQAKTQWYHFMAIVIAGMGFFTDAYDLFCISLVSKLLGRIYYTEPNSP
+nPGSLPPNVSAAVNGVALCGTLAGQLFFGWLGDKLGRKSVYGFTLILMVLCSVASGLSFG
+HTAKGVIATLCFFRFWLGFGIGGDYPLSATIMSEYANKRTRGAFIAAVFAMQGFGILFGA
+IVALVVSAGFRNSYPAPSYQDNPAASLVPEADYVWRIILMFGTIPAALTYYWRMKMPETA
+RYTALIARNAKQAAADMSKVLNtEIEEDADRAERvAgAGANEWGLFSpQFVRRHGLHLVA
+TTSTWFLLDIAFYSQNLFQKDIFSKVGWIPPAKTMNAVEEVFRIARAQALIALCGTIPGY
+WFTVAFIDIiGRFAIQLMGFFMMTVFMLGLAAPYHHWTTAGHHTGFVVMYGFTFFFANFG
+PNSTTFIVPAEIFPARLRSTCHGISAAAGKAGAIIGAFGFLYAAQDPHKPEAGYSPGIGI
+RNALFVLAGTNFLGMIMTLLVPESKGLSLEEISKEtVDDEEAAA
+
+
+BOP CONSENSUS:
+Length: 526 aa
+
+MADGQLKVLTTLDHARTQWYHFMAIVIAGMGFFTDAYDLFCISLVSKLLGRIYYTDlASD
+tPGSLPPNVSAAVNGVALCGTLAGQLFFGWLGDKLGRKSVYGFTLVLMVVCSVASGLSFG
+RTAKGVVATLCFFRFWLGFGIGGDYPLSATIMSEYANKRTRGAFIAAVFAMQGFGILFGA
+IVALIVSAGFRNAYPAPSYADGRAASLVPEADYVWRIILMFGTVPAALTYYWRMKMPETA
+RYTALIARNAKQAAADMSKVLDTEIQEDADRAEAVAAGGAGNEWGLFSRQFVRRHGVHLV
+ATTSTWFLLDIAFYSQNLFQKDIFSKVGWIPPARTMNAVEEVFRIARAQALIALCGTIPG
+YWFTVAFIDVAGRFAIQLMGFAMMTVFMLGLAAPYHHWTTPGNHTGFVVMYGFTFFFANF
+GPNATTFIVPAEIYPARLRSTCHGISAAAGKAGAIVGAFGFLYAAQDPHKPEAGYKPGIG
+IRNALFVLAGTNFLGMLMTLLVPESKGMSLEEVSKENVADDEEATA
+
+
+PACMAD CONSENSUS:
+Length: 524 aa
+
+MAGKQLNVLTTLDQAKTQWYHFMAIVIAGMGFFTDAYDLFCISLVSKLLGRLYYTEPNSP
+NPGSLPPNVSAAVNGVALCGTLAGQLFFGWLGDKLGRKSVYGFTLILMVLCSIASGLSFG
+HTPKGVIATLCFFRFWLGFGIGGDYPLSATIMSEYANKRTRGAFIAAVFAMQGFGILFGA
+IVALVVSAGFRNSYPAPSYQDNPAASLVPEADYVWRIILMFGTIPAALTYYWRMKMPETA
+RYTALIARNAKQAAADMSKVLNsEIEEDADRAGERdAGAGSNEWGLFSAQFVRRHGLHLV
+GTTSTWFLLDIAFYSQNLFQKDIFSKVGWIPPAKTMNAVEEVFRIARAQALIALCGTIPG
+YWFTVAFIDIIGRFAIQLMGFFMMTVFMLGLAVPYHHWTTAGHHTGFVVMYGFTFFFANF
+GPNSTTFIVPAEIFPARLRSTCHGISAAAGKAGAIIGAFGFLYAAQDPHKPEAGYSPGIG
+IRNALFVLAGTNFLGMIMTLLVPESKGLSLEEISKETVDDEEAA
+
+================================================================================

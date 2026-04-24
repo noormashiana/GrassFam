@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM011916
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             358.0 aa
+Family Size (Extended Family Size): 21 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11540:SF68
+Panther Family ID:               PTHR11540
+Modal Panther ID:                PTHR11540:SF68
+Modal Panther Description:       MALATE DEHYDROGENASE
+Modal Panther Family ID:         PTHR11540
+Modal Panther Fam Desc:          MALATE AND LACTATE DEHYDROGENASE
+Interpro Signature Accession:    cd01337; G3DSA:3.90.110.10:FF:000001; G3DSA:3.40.50.720:FF:000013; G3DSA:3.40.50.720; G3DSA:3.90.110.10; TIGR01772; PTHR11540; PIRSF000102; PF00056; PF02866; SSF56327; SSF51735
+Interpro Signature Description:  MDH_glyoxysomal_mitochondrial; Malate dehydrogenase; -; malate dehydrogenase; MALATE AND LACTATE DEHYDROGENASE; Lac_mal_DH; lactate/malate dehydrogenase, NAD binding domain; lactate/malate dehydrogenase, alpha/beta C-terminal domain; LDH C-terminal domain-like; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: malate dehydrogenase%2C glyoxysomal
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: malate dehydrogenase%2C glyoxysomal-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: malate dehydrogenase%2C glyoxysomal
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: malate dehydrogenase%2C glyoxysomal; malate dehydrogenase%2C glyoxysomal-like; malate dehydrogenase%2C glyoxysomal-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: malate dehydrogenase%2C glyoxysomal-like
+  Gene Descriptions: malate dehydrogenase%2C glyoxysomal-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: malate dehydrogenase%2C glyoxysomal-like
+  Gene Descriptions: malate dehydrogenase%2C glyoxysomal-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: malate dehydrogenase%2C glyoxysomal-like
+  Gene Descriptions: malate dehydrogenase%2C glyoxysomal-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: malate dehydrogenase%2C glyoxysomal-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: malate dehydrogenase%2C glyoxysomal-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: malate dehydrogenase%2C glyoxysomal-like%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: malate dehydrogenase%2C glyoxysomal
+  Gene Synonyms: GRMZM2G072744
+  Gene Descriptions: malate dehydrogenase%2C glyoxysomal
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 358 aa
+
+MQPDAnSPSHRIARVAAHLNPtRPQMEEGAsALRPAACRAKGGAPGFKVAILGAAGGIGQ
+PLSLLMKMNPLVSVLHLYDVVNTPGVTADVSHMDTSAVVRGFLGaQQLDAALTGMDLVII
+PAGLPRKPGMTRDDLFNKNAGIVRtLCEGVARCCPNAIVNLISNPVNSTVPIAAEVFKKA
+GTYdPKRLLGVTTLDVARANTFVAEVLGVDPRDVSVPVVGGHAGVTILPLLSQVTPPCSF
+TPDEIkYLTNRIQNGGTEVVEAKAGAGSATLSMAFAAAKFgDACLRAMRGDAGIVECSYV
+ASEVTELPFFATKVRLGRGGAEEILPLGPLNDFERAGLEaAKKELSESIQKGIAFMNK
+
+
+BOP CONSENSUS:
+Length: 357 aa
+
+MHPDATSPSHRIARVAAHLNPTRPQMEEGAALRPAACRAKGGAPGFKVAVVGAAGGIGQS
+LSLLMKMNPLVSVLHLYDVVNTPGVTADVSHMDTSAVVRGFIGQQQLEAALTGMDLVIIP
+AGLPRKPGMTRDDLFNKNAGIVRSICEGVAKSCPNAIVNLISNPVNSTVPIAAEVFKRAG
+TYCPKRLLGVTTLDVARANTFVAEVLGVDPREVNVPVVGGHAGVTILPLLSQVSPPCSFT
+PDEISYLTNRIQNGGTEVVEAKAGAGSATLSMAFAAAKFADACLRGMRGDAGIVECSYVA
+SEVTELPFFATKVRLGRGGAEEILPLGPLNDFERAGLEKAKKELSESIQKGVsFMNK
+
+
+PACMAD CONSENSUS:
+Length: 358 aa
+
+MQPDANAPSHRLARVAAHLNPQRPQMEEGASALRPAACRAKGGAPGFKVAILGAAGGIGQ
+PLSLLMKMNPLVSVLHLYDVVNTPGVTADISHMDTSAVVRGFLGAQQLDAALTGMDLVII
+PAGLPRKPGMTRDDLFNKNAGIVRTLCEGVARCCPDAIVNLISNPVNSTVPIAAEVFKKA
+GTYNPKRLLGVTTLDVVRANTFVAEVLGVDPRDVSVPVVGGHAGVTILPLLSQVTPPSSF
+TQDEIKYLTNRIQNGGTEVVEAKAGSGSATLSMAFAAAKFGDACLRAMRGEAGIVECSYV
+ASEVTELPFFATKVRLGRGGAEEILPLGPLNDFERaGLEAAKKELSESIQKGIAFVNK
+
+================================================================================

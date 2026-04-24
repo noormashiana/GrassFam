@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM010409
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             358.0 aa
+Family Size (Extended Family Size): 31 (32) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43290:SF1
+Panther Family ID:               PTHR43290
+Modal Panther ID:                PTHR43290:SF1
+Modal Panther Description:       GLUCURONOKINASE 1-RELATED
+Modal Panther Family ID:         PTHR43290
+Modal Panther Fam Desc:          MEVALONATE KINASE
+Interpro Signature Accession:    G3DSA:3.30.230.120:FF:000003; G3DSA:3.30.70.890:FF:000030; G3DSA:3.30.230.10; PTHR38710; SSF54211
+Interpro Signature Description:  Probable glucuronokinase 2; glucuronokinase 1; -; WITH PUTATIVE URIDYL PYROPHOSPHORYLASE-RELATED; Ribosomal protein S5 domain 2-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: glucuronokinase 1-like
+Lpe
+  Gene count: 4
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: probable glucuronokinase 2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: probable glucuronokinase 2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: glucuronokinase 1-like; probable glucuronokinase 2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: glucuronokinase 1-like%2C transcript variant X1
+  Gene Descriptions: glucuronokinase 1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: glucuronokinase 1
+  Gene Descriptions: glucuronokinase 1
+Ecu
+  Gene count: 4
+  Modal chromosome: EcuUN642
+Pau
+  Gene count: 1
+  Modal chromosome: Pau22
+  Gene Products: glucuronokinase 1-like
+  Gene Descriptions: glucuronokinase 1-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: glucuronokinase 1-like%2C transcript variant X1; glucuronokinase 1-like%2C transcript variant X6
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: glucuronokinase 1%2C transcript variant X1
+Msi
+  Gene count: 6
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: glucuronokinase 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100216586
+  Gene Synonyms: GRMZM2G033930
+  Gene Descriptions: uncharacterized LOC100216586
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 357 aa
+
+vaaAEMevERRAYARVGLLGNPSDVYGGRALSFTIADFWATVRLRPSpELLIQPHPHHDL
+VAFPSLpaLVsRLQSEGYYGGVRLLMAICKVFYNHCIQNNISLKAENFTLSYDTNIPRQA
+GLSGSSAIVCAALSCLLDFYdVRHLIKVEvRPNLILnAEKELGIVAGLQDRVAQVYGGLV
+YMDFSQEHMDKLGHGIYtPLDVNLLPPLYLIYAENPSDSGKVHSSVRQRWLDGDEFIISS
+MKEVAQLALDGHKALLQKNYTELARLMNRNFDLRReMFGDDVLGsVNIKMVEVARSVGAA
+SKFTGSGGAVVALCPDGDAQVELLkKACQEAGFVVQQIkVAPSVLTdEELaSLlaSp
+
+
+BOP CONSENSUS:
+Length: 364 aa
+
+EMEmEHRAYARVGLLGNPSDVYGGRAVSFAVAGLWATVRLRPSDeLLVQPHPRHDLVAFP
+SLhALVERLDGGGYYGGVRLLLAICKIFHsHCKqNGIALEDKNFTLSYDTNIPRQAGLSG
+SSAIVCAALSCLLDFYnVRDkIrVEVRPNLILNAEKELGIVAGLQDRVAQVYGGLVYMDF
+SQEHMDKLGHGIYTPLDVNLLPPLYLIYAENPSDSGKVHSSVRQRWLDGDEFIISSMKEV
+AQLAYDGHNALLQKNYTELARLMNRNFDLRRQMFGDDVLGeVNIKMVEVARSVGAASKFT
+GSGGAVVAlCPDGDAQAELLKKACqEAGFVVEpIEVAPSaLTEEElASLSYLNPGHVGKD
+KFLS
+
+
+PACMAD CONSENSUS:
+Length: 356 aa
+
+mAAAEMGlERRAYARVGLLGNPSDVYGGRALSFTIADFSATVrLRPSPELLIQPHPHHDL
+VAFPSLPqLVSRLQSEGYYGGVRLLMAICKVFYNHCIQNNISLKAENFTLSYDTNIPRQA
+GLSGSSAIVCAALSCLLDFYDVRHLIKVEmRPNLILDAEKELGIVAGLQDRVAQVYGGLV
+YMDFSQEHMDKLGHGIYmPLDVNLLPPLYLIYAENPSDSGKVHSTVRQRWLDGDEFIISs
+MKEVAQLALDGHKALLQKDYTELARLMNRNFDLRREMFGDDVLGSVNIKMVEVARSVGAS
+SKFTGSGGAVVALCPDGDAQVELLhKACQEAGFVVQQIKVAPSVLTDEELsSLLAS
+
+================================================================================

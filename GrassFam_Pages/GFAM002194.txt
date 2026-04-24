@@ -1,0 +1,126 @@
+================================================================================
+GrassFam ID: GFAM002194
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             308.5 aa
+Family Size (Extended Family Size): 50 (54) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Weak
+Panther Family ID:               PTHR43490
+Modal Panther ID:                PTHR43490:SF110
+Modal Panther Description:       (+)-NEOMENTHOL DEHYDROGENASE
+Modal Panther Family ID:         PTHR43490
+Modal Panther Fam Desc:          (+)-NEOMENTHOL DEHYDROGENASE
+Interpro Signature Accession:    cd05324; G3DSA:3.40.50.720:FF:000396; G3DSA:3.40.50.720; PTHR43490; PR00081; PF00106; SSF51735
+Interpro Signature Description:  carb_red_PTCR-like_SDR_c; (+)-neomenthol dehydrogenase; -; (+)-NEOMENTHOL DEHYDROGENASE; Glucose/ribitol dehydrogenase family signature; short chain dehydrogenase; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi05
+  Gene Products: (+)-neomenthol dehydrogenase-like%2C transcript variant X1; salutaridine reductase-like
+Lpe
+  Gene count: 4
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu01H
+  Gene Products: (+)-neomenthol dehydrogenase-like; salutaridine reductase-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata02D
+  Gene Products: salutaridine reductase-like
+Tae
+  Gene count: 8
+  Modal chromosome: Tae02A
+  Gene Products: (-)-isopiperitenone reductase-like; salutaridine reductase-like; salutaridine reductase-like%2C transcript variant X1
+Ogl
+  Gene count: 3
+  Modal chromosome: Ogl04
+  Gene Products: salutaridine reductase-like; salutaridine reductase-like%2C transcript variant X2
+  Gene Descriptions: salutaridine reductase-like
+Osa
+  Gene count: 3
+  Modal chromosome: Osa04
+  Gene Products: salutaridine reductase; salutaridine reductase%2C transcript variant X2
+  Gene Descriptions: salutaridine reductase
+Ecu
+  Gene count: 4
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 3
+  Modal chromosome: Pau07
+  Gene Products: (+)-neomenthol dehydrogenase-like; short-chain dehydrogenase/reductase 2b-like%2C transcript variant X4; uncharacterized LOC133924643
+  Gene Descriptions: (+)-neomenthol dehydrogenase-like; short-chain dehydrogenase/reductase 2b-like; uncharacterized LOC133924643
+Svi
+  Gene count: 4
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi07N
+  Gene Products: (+)-neomenthol dehydrogenase-like%2C transcript variant X1
+Pha
+  Gene count: 2
+  Modal chromosome: Pha07
+  Gene Products: (+)-neomenthol dehydrogenase-like; (+)-neomenthol dehydrogenase-like%2C transcript variant X1
+Msi
+  Gene count: 5
+  Modal chromosome: Msi12
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi01
+  Gene Products: (+)-neomenthol dehydrogenase
+Zma
+  Gene count: 4
+  Modal chromosome: Zma02
+  Gene Products: (+)-neomenthol dehydrogenase%2C transcript variant X1; uncharacterized LOC100217183%2C transcript variant X1; uncharacterized LOC100282122%2C transcript variant X1
+  Gene Synonyms: GRMZM2G053977; GRMZM2G168976,pco096967; GRMZM2G354909
+  Gene Descriptions: (+)-neomenthol dehydrogenase; uncharacterized LOC100217183; uncharacterized LOC100282122
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 305 aa
+
+MEGAISSpPNTRVAVVTGGNKGIGLEVCRQLAsgGVTVVLTARDETRGaEAVEKLrgLGL
+SdVvFHQLEITDASSIArLADFLKTRFGKLDILVNNAAVGGVEYvQelDTNEEKFsGMDf
+dQRLEWmwKNcRETYDaAKkGVQTNYYGTKHVIEALLPLLQSSSdGRIVNVSSdfGLLRh
+irNEELRQELNDVDNLTEERLDELLDkFLKDFEAGALEAhGWPTaFSAYKVAKAAMNAYS
+RILARRHPELRVNCAHPGYVKTDMTmhSGvLTPEEGARNVVKVALLPDGGPTGAFFaeGe
+EASFV
+
+
+BOP CONSENSUS:
+Length: 305 aa
+
+MEGAISSLPNTRVAVVTGGNKGIGFEVCRQLASGGITVVLTARDETRGaEAVEKLrALGL
+SgVVFHQLEITDASSiAtLADFLKTRFGKLDILVNNAAVGGVEYgQElDTNEEKFaGMDf
+hQRLEWMlKNaRETIDsAKNgVQTNYYGTKHVIEALLPLLQSSSEGRIVNVSSdYGLLRl
+IgNEEVRQELNDIDNLTEERLDELLDKFLKDFEAGALEAHGWPTgFSAYKVAKAAMNAYS
+RILARRHPELRVNCAHPGYVKTDMTMgSGVLTPEEGARNVVKVALLPDGGPTGAYFAeGE
+EASFV
+
+
+PACMAD CONSENSUS:
+Length: 309 aa
+
+MEGAISsPrNTRIAVVTGGNKGIGLEVCRQLAGNGVTVVLTARDEkRGAAAVEKLkgLGL
+SDVLFHQLDITDASSIARLADFLKTRFGKLDILVNNAAvGGVEYvqDpvdgSVTSEEKLS
+GMDRDQRLEWLWRNCRETYDAAKkGLQTNYYGTKHVIEALLPLLqASSDGRIVNVSSDFG
+LLRhFRNEELKQELNDVdNLTEERLDELLDmFLkDFEAGavEARGWPvAFsAYKVAKAAm
+NAYSRILARkHPeLRVNCVHPGYVKTDITlHSGLLTPEEGASRVVkVALLPeGGVTGAFF
+EDGKEASFV
+
+================================================================================

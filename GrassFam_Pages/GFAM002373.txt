@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM002373
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             399.0 aa
+Family Size (Extended Family Size): 23 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR32467
+Modal Panther ID:                PTHR32467:SF249
+Modal Panther Description:       AP2_ERF DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR32467
+Modal Panther Fam Desc:          AP2-LIKE ETHYLENE-RESPONSIVE TRANSCRIPTION FACTOR
+Interpro Signature Accession:    G3DSA:3.30.730.10:FF:000004; G3DSA:3.30.730.10; PTHR32467; SM00380
+Interpro Signature Description:  AP2-like ethylene-responsive transcription factor; AP2/ERF domain; AP2-LIKE ETHYLENE-RESPONSIVE TRANSCRIPTION FACTOR; rav1_2
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: AP2-like ethylene-responsive transcription factor At1g79700
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: AP2-like ethylene-responsive transcription factor At1g16060
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: AP2-like ethylene-responsive transcription factor At1g79700
+Tae
+  Gene count: 5
+  Modal chromosome: Tae03A
+  Gene Products: AP2-like ethylene-responsive transcription factor At1g16060; AP2-like ethylene-responsive transcription factor At1g79700; ethylene-responsive transcription factor WRI1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: ethylene-responsive transcription factor WRI1-like
+  Gene Descriptions: ethylene-responsive transcription factor WRI1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: AP2-like ethylene-responsive transcription factor At1g16060
+  Gene Descriptions: AP2-like ethylene-responsive transcription factor At1g16060
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: AP2-like ethylene-responsive transcription factor At1g16060; ethylene-responsive transcription factor WRI1-like
+  Gene Descriptions: AP2-like ethylene-responsive transcription factor At1g16060; ethylene-responsive transcription factor WRI1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: AP2-like ethylene-responsive transcription factor At1g79700
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: AP2-like ethylene-responsive transcription factor At1g79700
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: AP2-like ethylene-responsive transcription factor At1g16060
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: AP2-like ethylene-responsive transcription factor AIL5
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 401 aa
+
+mmKKPhcaATPLSPSSwASSSSSSSSSSSGSCYVPsSWspkhGgKKKrSsRRRAKNGAgG
+gAVVVPRRrSSIYRGVTRHRgSGKYEAHLWDrHARSpaKtKKGRQVYLGAYDTEEAAART
+YDLAALKYWGSDClLNFPLEtYRQErERMQRMTREaYLAtLRRrSSGFSRGVSkYRGVAK
+HHhNGRWEARIGYAcGKKYLYLGTFGTQEEAARAYDLAAlELRGHgAVTNFDiSSYTDyL
+QPPvpKAQPkPKPKdEPVDEAAPLPkAplPiPtPLLtPKpEPEdeleePlALPPGPVLRD
+ADDVDHAIAEILPALCMDPADFEARYPARRARalGWPpddDsDqLRgLPLPDDVGFEDDI
+EsLFDAPGpAapgAAVPDaSrADAVSyAAATISSLASGRWW
+
+
+BOP CONSENSUS:
+Length: 381 aa
+
+MVTMTATKKQPCRGAAtlSPpsSSSsSSspWGSRIAPSrARTHGRKKKKRGRSgGdAVVV
+PaRrSSIYKGVtRHsiSGRYEAHLWDKHCRSTAQgRRGRQVYLGcYKTEEEAARTYDLAA
+LKCWGSDCGLLNFPVDTYRQERERMQRMTREEYLARLRRNSSGFTRGVSKYRGVTRHHaN
+GRWEARIGyAaGtqYLYLGIFDTQEEAARAYDLAAIRIRGpGAVTNFDADCYVDIPQPLP
+CKAEPDPEPAAARPGPPAPLLPPKvEPKDEPENDEFEREPPPAPALRDDADDVDRAIAEV
+LQALCVDRADFEARYPPRRARVAAGaGWPTPSDsDELPDRPVPGDVGFEDDIESVLFDAP
+GdAeAPSAAATISSLASGRWW
+
+
+PACMAD CONSENSUS:
+Length: 415 aa
+
+MTKPHCAATPLSPSSwassSSLSCVSSAaSSSGSCYVPPSWSPKcGSKKKRSSRRRAKNG
+AGGAvVVPRRtSSIYRGVTRHRgTGKYEAHLWDRHARSPTKnKKGRQVYLGAFDNEEAAA
+RTYDLAALKYWGSeCkLNFPLESYRHEHEKMQRMTREAYLATLRRRSScFSRGASEYRGV
+AKHHHNGRWEARIGYAcGKKYLYLGTFGTQEEAARAYDLAALELRGHAAITNFDISSYTD
+YLQRlEPPVPKAQPKPALKPKdEPVDEAAPLPKArhPiPTPLLTPKPEPEDELgEPLALP
+PGPVLRDADDVDHAIAEILPALCMDPADFEARYPARRARALGWPPDDQLRGLPLPDsVRF
+EDDIETLFDAPGSAGPGQGEVHVQLPAAVVPDVSGADAVSyAAATISSLASGRWW
+
+================================================================================

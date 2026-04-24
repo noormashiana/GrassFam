@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM017359
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             425.0 aa
+Family Size (Extended Family Size): 21 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31480:SF6
+Panther Family ID:               PTHR31480
+Modal Panther ID:                PTHR31480:SF6
+Modal Panther Description:       PHYTOENE SYNTHASE 3, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR31480
+Modal Panther Fam Desc:          BIFUNCTIONAL LYCOPENE CYCLASE/PHYTOENE SYNTHASE
+Interpro Signature Accession:    cd00683; G3DSA:1.10.600.10:FF:000004; G3DSA:1.10.600.10; PTHR31480; PF00494; SFLDG01212; SFLDG01018; SSF48576
+Interpro Signature Description:  Trans_IPPS_HH; Phytoene synthase chloroplastic; Farnesyl Diphosphate Synthase; BIFUNCTIONAL LYCOPENE CYCLASE/PHYTOENE SYNTHASE; Squalene/phytoene synthase; Phytoene synthase like; Squalene/Phytoene Synthase Like; Terpenoid synthases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: phytoene synthase 2%2C chloroplastic
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: phytoene synthase 2%2C chloroplastic-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: phytoene synthase 2%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: phytoene synthase 2%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: phytoene synthase 3%2C chloroplastic
+  Gene Descriptions: phytoene synthase 3%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: phytoene synthase 2%2C chloroplastic
+  Gene Synonyms: OsPSY3,PSY3
+  Gene Descriptions: phytoene synthase 2%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: phytoene synthase 3%2C chloroplastic-like; phytoene synthase 3%2C chloroplastic-like%2C transcript variant X1
+  Gene Descriptions: phytoene synthase 3%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: phytoene synthase 3%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: phytoene synthase 2%2C chloroplastic-like%2C transcript variant X2
+Msi
+  Gene count: 1
+  Modal chromosome: Msi04
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: phytoene synthase 2%2C chloroplastic%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: phytoene synthase 3%2C chloroplastic-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 423 aa
+
+MMSTSRAVtSPACAARRQsDAPgRTAvFLARgghGrRAGrgPAPcSVRAAGSNtIGCLEA
+EPWGGvAPALPGLqVAAPAPGDALAVPSEQRVrEVVLKQAALAAAAPRTARlAePePVAG
+GLkAAFDRCGEVCKEYAKTFYLATQLMTPERRRAIWAIYVWCRRTDELVDGPNASHISAL
+ALDRWESRLEDIFAGRPYDMLDAALSDTVAaFPVDIQPFRDMIEGMRMDLaKSRYRTFDE
+LYLYCYYVAGTVGLMTVPVMGISPDSrAaTETVYKGALALGLANQLTNILRDVGEDARRG
+RIYLPQDELEMAGLSEADIFnGRVTDEWRSFMRGQITRARAFFRQAEEGATELNQESRWP
+VWASLLLYRQILDEIEANDYDNFTKRAYVPKAKKLmALPKAYLRSLMpPSSQtqSQRHYS
+SLT
+
+
+BOP CONSENSUS:
+Length: 404 aa
+
+MLSTgRAVtSPACAAQRrFmgaArRtVVFLAGDhGKRAAPRSVAARAAGSSHPaGCLEAA
+APWSGaavaAPatVSsEEsVRQVVLKQAALAASTTPRKARLAGRDAGVLDAAFDRCGAVC
+KEYAKTFYLATQLMTPERRRAIWAIYVWCRRTDELVDGPNAAHTSALALDRWESRLDDVF
+AGRPYDMLDAALADAVAAFPAVDeRPFRDMIQGMRMDLAKSRYATFDELYLYCYRVAGTV
+GLMTVPVMGVSPDSqAdvETVYAGALALGVANQLTNILRDVGEDARRGRIYLPQDELAMA
+GISEADIFAGRVTDEWRSFMKGQIARARAYFrQAEQGAAELNQESRWPVWASLLLYRQIL
+DEIEANDYDNFTKRAYVPKAKKLAALPKAYLRSLMPPPSqrrrS
+
+
+PACMAD CONSENSUS:
+Length: 425 aa
+
+MMSTSRAVkSPACAARwRQHWSsDAPgRTAtFLARcGRGrRGRGaAPCSVRAAGSNTIGC
+LEAEPWGGVAPALPGLQVAAPAPGDALAVPSEQRVHEVVLKQAALAAAAPRTARIEPEPM
+aGGLKAAFDRCGEVCKEYAKTFYLATQLMTPERRRAIWAIYVWCRRTDELVDGPNASHIS
+ALALDRWESRLEDIFAGRPYDMLDAALSDTVANFPVDIQPFRDMIEGMRMDLKKSRYRTF
+DELYLYCYYVAGTVGLMSVPVMGISPDSRAATETVYKGALALGLANQLTNILRDVGEDAR
+RGRIYLPQDELEMAGLSEADIFNGRVTDEWRSFMRGQITRARSFFRQAEEGATELNQESR
+WPVWASLLLYRQILDEIEANDYNNFTKRAYVPKAKKLMALPKAYLRSLMpPSSQTQSQRH
+YSSLT
+
+================================================================================

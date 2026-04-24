@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM020775
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             445.0 aa
+Family Size (Extended Family Size): 21 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11588:SF116
+Panther Family ID:               PTHR11588
+Modal Panther ID:                PTHR11588:SF116
+Modal Panther Description:       TUBULIN BETA-1 CHAIN-RELATED
+Modal Panther Family ID:         PTHR11588
+Modal Panther Fam Desc:          TUBULIN
+Interpro Signature Accession:    cd02187; G3DSA:3.30.1330.20:FF:000002; G3DSA:3.40.50.1440:FF:000005; G3DSA:1.10.287.600:FF:000002; G3DSA:3.30.1330.20; G3DSA:3.40.50.1440; G3DSA:1.10.287.600; PTHR11588; PR01163; PR01161; PF03953; PF00091; SM00865; SM00864; SSF52490; SSF55307
+Interpro Signature Description:  beta_tubulin; Tubulin beta chain; -; Tubulin/FtsZ, GTPase domain; Helix hairpin bin; TUBULIN; Beta-tubulin signature; Tubulin signature; Tubulin C-terminal domain; Tubulin/FtsZ family, GTPase domain; Tubulin_C_4; Tubulin_4; Tubulin nucleotide-binding domain-like; Tubulin C-terminal domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: tubulin beta-3 chain
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: tubulin beta-3 chain
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: tubulin beta-3 chain
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: tubulin beta-8 chain; tubulin beta-8 chain-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: tubulin beta-8 chain
+  Gene Descriptions: tubulin beta-8 chain
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: tubulin beta-8 chain-like
+  Gene Synonyms: OsTUB8,TUB8,TUBB8
+  Gene Descriptions: tubulin beta-8 chain-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau03
+  Gene Products: tubulin beta-3 chain
+  Gene Descriptions: tubulin beta-3 chain
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: tubulin beta-3 chain; tubulin beta-3 chain-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: tubulin beta-3 chain
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: tubulin beta-3 chain
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: beta tubulin 3; beta tubulin 4
+  Gene Synonyms: GRMZM2G066191,tub4,TUBB4; GRMZM2G108766,tub3,TUBB3
+  Gene Descriptions: beta tubulin 3; beta tubulin 4
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 446 aa
+
+MREILHIQGGQCGNQIGAKFWEVICGEHGVDpTGRYTGTSPQQLERINVYYNEAGGGRYV
+PRAVLMDLEPGTMDSLRSGPIGGIFRPDNFVYGQSGAGNNWAKGHYTEGAELIDSVLDVV
+RKEAENCDCLQGFQVCHSLGGGTGSGMGTLLISKIREEYPDRMMLTFSVFPSPKVSDTVV
+EPYNATLSVHQLVENADECMVLDNEALYDICFRTLKLTNPSFGDLNHLISATMSGVTCCL
+RFPGQLNSDLRKLAVNLIPFPRLHFFMVGFAPLTSRGSQQYRALTVPELTQQMWDAKNMM
+CAADPRHGRYLTASAMFRGKMSTKEVDEQMINVQNKNSSYFVEWIPNNVKSSVCDIPPVG
+LSMASTFVGNSTSIQEMFRRVSEQFTAMFRRKAFLHWYTSEGMDEMEFTEAESNMNDLVA
+EYQQYQDATAEEYDEEEEpAGdEEHA
+
+
+BOP CONSENSUS:
+Length: 445 aa
+
+MREILHIQGGQCGNQIGAKFWEVICGEHGVDPTGQYTGTAPEQLERMDVYFNEAGGNRYV
+PRAVLMDLEPGTMDSLRSGPIGAIFRPDNFVYGQSGAGNNWAKGHYTEGAELIDSVLDVV
+RKEAENSDCLQGFQVCHSLGGGTGSGMGTLLISKIREEYPDRMMLTFSVFPSPKVSDTVV
+EPYNATLSVHQLVENADECMVLDNEALYDICFRTLKLTNPSFGDLNHLISATMSGVTCCL
+RFPGQLNSDLRKLAVNLIPFPRLHFFMVGFAPLTSRGSQQYRALTVPELTQQMWDAKNMM
+CAADPRHGRYLTASAMFRGKMSTKEVDEQMMNVQNKNSSYFVEWIPNNVKSSVCDIPPVG
+LAMSSTFVGNSTSIQEMFRRVSEQFTAMFRRKAFLHWYTSEGMDEMEFTEAESNMNDLVA
+EYQQYQDATAEEEYDEEEEPAADqA
+
+
+PACMAD CONSENSUS:
+Length: 445 aa
+
+MREILHIQGGQCGNQIGAKFWEVICGEHGVDSTGRYSGtSPQQLERINVYYNEAGGGRYV
+PRAVLMDLEPGTMESIRAGPFGGIFRPDNFVYGQSGAGNNWAKGHYTEGAELIDSVLDVV
+RKEAENCDCLQGFQVCHSLGGGTGSGMGTLLISKIREEYPDRMMLTFSVFPSPKVSDTVV
+EPYNATLSVHQLVENADECMVLDNEALYDICFRTLKLTNPSFGDLNHLISATMSGVTCCL
+RFPGQLNSDLRKLAVNLIPFPRLHFFMVGFAPLTSRGSQQYRALTVPELTQQMWDAKNMM
+CAADPRHGRYLTASAMFRGKMSTKEVDEQMINVQNKNSSYFVEWIPNNVKSSVCDIPPVG
+LSMASTFVGNSTSIQEMFRRVSEQFTAMFRRKAFLHWYTSEGMDEMEFTEAESNMNDLVA
+EYQQYQDATAEEYDEEEqDGEEEHA
+
+================================================================================

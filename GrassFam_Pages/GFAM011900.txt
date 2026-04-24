@@ -1,0 +1,128 @@
+================================================================================
+GrassFam ID: GFAM011900
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             548.0 aa
+Family Size (Extended Family Size): 19 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11654:SF320
+Panther Family ID:               PTHR11654
+Modal Panther ID:                PTHR11654:SF320
+Modal Panther Description:       MAJOR FACILITATOR SUPERFAMILY (MFS) PROFILE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR11654
+Modal Panther Fam Desc:          OLIGOPEPTIDE TRANSPORTER-RELATED
+Interpro Signature Accession:    cd17417; G3DSA:1.20.1250.20:FF:000147; G3DSA:1.20.1250.20; PTHR11654; PF00854; SSF103473
+Interpro Signature Description:  MFS_NPF5; Protein NRT1/ PTR family 5.10; MFS general substrate transporter like domains; OLIGOPEPTIDE TRANSPORTER-RELATED; POT family; MFS general substrate transporter
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: protein NRT1/ PTR FAMILY 5.10%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu03H
+  Gene Products: protein NRT1/ PTR FAMILY 5.10-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata03D
+  Gene Products: protein NRT1/ PTR FAMILY 5.10%2C transcript variant X1
+Tae
+  Gene count: 4
+  Modal chromosome: Tae03A
+  Gene Products: protein NRT1/ PTR FAMILY 5.10-like; protein NRT1/ PTR FAMILY 5.10-like%2C transcript variant X1
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: uncharacterized LOC127757904
+  Gene Descriptions: uncharacterized LOC127757904
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: protein NRT1/ PTR FAMILY 5.10%2C transcript variant X2
+  Gene Descriptions: protein NRT1/ PTR FAMILY 5.10
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau01
+  Gene Products: protein NRT1/ PTR FAMILY 5.10-like%2C transcript variant X1
+  Gene Descriptions: protein NRT1/ PTR FAMILY 5.10-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi05K
+  Gene Products: uncharacterized LOC120710279
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: protein NRT1/ PTR FAMILY 5.10
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 548 aa
+
+MDAAAEPLLPQPATAVDHLGRPVSRLTSGRWPAAlFIIGVEISERFAYtGISGNLITYLT
+GPLGQSTASAAAAINAWSGVALLLPLLGAAVADSWLGRYRTVVCASLLYILGLGMLTLSS
+ILAPQQPAQFGDHMDSALSSTSTIHLAFFYiSLYMVAFAQGGHKPCVQAFGADQFDENDP
+EEcASRSSFFNWWYFGTYGGsvVTVSILNYIQDNISWQFGFGIPCIVMSLSLAVFWLGTR
+TYRFYPVRSDGSLFGqVrKhLLSLIRTWHASWCsrSSDDSHCMPTSSSSgaKDNAEMTCF
+PDEAKSVLKLFPIGATCLIYAVVFAQWMTLFTKQASTLDRWIGSLQVPAAALQSLISVSI
+VISIPIYDRILVPLARKYSKNPCGITtLQRIGTGLVISVILMVVAALVEMRRLRIAREYG
+LVDKPEATIPMSFWWVVPQFVLTGLADMFTMVGLQEFFYDQVPDgLRSLGLALYLSIFGI
+GSFISSFLVYAIDrVTSdGGDSWFSDNLNRGHLDYFYWLLAVLSVLGLAAYLYFSQVYVH
+KKKGISAQ
+
+
+BOP CONSENSUS:
+Length: 548 aa
+
+MDAAAEPLLPQPATAVDHLGRPVSRLTSGRWPAALFIIGVEISERFAYtGISGNLITYLT
+GPLGQSTASAAAAINAWSGVALLLPLLGAAVADSWLGRYRTVVCASLLYILGLGMLTLSS
+ILAPQQPAQFGDHMDSALSSTSTiHLAFFYISLYMVAFAQGGHKPCVQAFGADQFDENDP
+EEyASRSSFFNWWYFGTYGGSlVTVSILNYIQDNISWQFGFGIPCvVMSLSLAVFWLGTR
+TYRFYPVRSDGSLFGqVrKHLLSLIRTWHASWCsRSSDDSHCMPTSSSSraKDNAEMTCF
+PDEAKSVLKLFPIGATCLIYAVVFAQWMTLFTKQASTLDRWIGSLQVPAAALQSLISVSI
+VISIPIYDrILVPLARKYSKNPcGITpLQRIGTGLAISVILMVVAALVEMRRLRIAREYG
+LVDKPEATIPMSFWWVVPQFVLTGLADMFTMVGLQEFFYDQVPDdLRSLGLALYLSIFGi
+GSFISSFLVYAIDRVTSDGGDSWFSDNLNRGHLDYFYWLLAVLSVLGLAAYLYFSQVYVH
+KKKGISAq
+
+
+PACMAD CONSENSUS:
+Length: 548 aa
+
+MDAAAEPLLPQPATALDHLGRPVSRrTSGRWPAAVFIIGVEISERFAFlGISGNLITYLT
+GPLGQSTASAAAAINAWSGAALMLPLLGAAVADSWLGRYRTVISASLLYILGLGMLTLSS
+IlVPQQPPQFGDHvDSSvSWTMGIHLAFFYvSLYtVAiAQGGHKPCVQAFGADQFDENDP
+EECASRSSFFNWWYFGTYGGNIITVSILNYIQDNISWQFGFGIPCIAMSLSLAVFWLGTK
+KYRFYPPVSSEGLFGNIGKsLQgWIRRWCASWFPKSSDDSHCATSSSSKGDKynvEKKCF
+PDDAVAVLKLLPIGATCLVYAVVFAQWMTLFTKQASTLDRWIGtLQVPAATLQSLISVSI
+VVFVPIYDRILIPLARKYSKNtCGITTLQRIGIGLVISVILMVVAALVEMRRLRVARDYG
+LVDKPEVTIPMSFWWVVPQFVLSGLADVFTMVGLQEFFYDQVPDGLRSLGLALYLSIFGI
+GSFISSFLVYAIDKVTSRtGDSWFStNLNRGHLDYFYWLLAVLNVFGLAAYLYFSQVYTH
+KKKGVLAQ
+
+================================================================================

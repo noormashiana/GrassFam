@@ -1,0 +1,144 @@
+================================================================================
+GrassFam ID: GFAM021400
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             624.0 aa
+Family Size (Extended Family Size): 24 (27) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12357:SF89
+Panther Family ID:               PTHR12357
+Modal Panther ID:                PTHR12357:SF89
+Modal Panther Description:       YTH DOMAIN-CONTAINING FAMILY PROTEIN
+Modal Panther Family ID:         PTHR12357
+Modal Panther Fam Desc:          YTH  YT521-B HOMOLOGY  DOMAIN-CONTAINING
+Interpro Signature Accession:    cd21134; G3DSA:3.10.590.10:FF:000001; G3DSA:3.10.590.10; PTHR12357; PF04146
+Interpro Signature Description:  YTH; YTH domain family 1, isoform CRA_a; ph1033 like domains; YTH  YT521-B HOMOLOGY  DOMAIN-CONTAINING; YT521-B-like domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: uncharacterized LOC100846631%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: YTH domain-containing protein ECT4-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata01D
+  Gene Products: YTH domain-containing protein ECT1%2C transcript variant X1; YTH domain-containing protein ECT4%2C transcript variant X3
+Tae
+  Gene count: 5
+  Modal chromosome: Tae01A
+  Gene Products: YTH domain-containing protein ECT2-like; YTH domain-containing protein ECT2-like%2C transcript variant X2; YTH domain-containing protein ECT4-like; YTH domain-containing protein ECT4-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl08
+  Gene Products: YTH domain-containing protein ECT3-like
+  Gene Descriptions: YTH domain-containing protein ECT3-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa08
+  Gene Products: YTH domain-containing protein ECT1
+  Gene Descriptions: YTH domain-containing protein ECT1
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN50
+Pau
+  Gene count: 2
+  Modal chromosome: Pau16
+  Gene Products: YTH domain-containing protein ECT2-like%2C transcript variant X1; YTH domain-containing protein ECT4-like%2C transcript variant X1
+  Gene Descriptions: YTH domain-containing protein ECT2-like; YTH domain-containing protein ECT4-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: YTH domain-containing protein ECT2-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: uncharacterized LOC112897071%2C transcript variant X2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: uncharacterized LOC8058007%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: evolutionarily conserved C-terminal region 5%2C transcript variant X1
+  Gene Synonyms: GRMZM2G025488
+  Gene Descriptions: evolutionarily conserved C-terminal region 5
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 623 aa
+
+MESAraGSERaGSMDSQEPradVEQKPVLAEKPKEQtIPSKDEKtvkPTISvDSNVINLP
+SEGQaQAGTSNIGGeHNaAYPQNfYSSQAQPFYYQGSGYENPPNEWDvYPPYMSVEGLEV
+GPaVVYNEDPSLMYHGGYGYDPYAHYSPISTPVPAAVSGDGQLYSPQQFSFSAPYYQQSV
+PPGMPYLSSPTPISQGETMMPIDPTQGAFIADTLSPNSFLFGPRPEWFRSSEGTGSFPSP
+AASPQPfGGVSGaFGQSNFPMASGMmSPQQKPFYGFGTPsDSYGRGFSHGGmFPQATNYG
+GPFPGFGLNGRSSIPIEKGRRRGRGNALLCSCNGPLDFLNEQSRGPRATRPKKQPEDDSK
+DEKPStGVgrElYNRPDFVTEYKNARFFIIKSYSEDNVHKSIKYGVWASTTNGNKKLDSA
+YREAKEKEEHCPIFLLFSVNASAQFCGVAEMIGPVDFEKSVDYWQQDKWTGQFPVKWHIV
+KDVPNNLFRHIILENNDNKPVTNSRDTQEVKLEQGLEMLKIFKDHEDDASILDDFDFYEE
+REKALLENKARLHQQQQiSSSsVVEPKKPLTVPTDLVGHITKSFAQAVRLGEAKtVSPSa
+EKVsGGDSSvaAKPVEVKESGLS
+
+
+BOP CONSENSUS:
+Length: 644 aa
+
+MESARAGSERAGTMDSPEPRIEVEQKPVLASNTKEQTIPsKDEKTVKPTISLDSSVINLP
+SEGQAQAGTSNIGGEHNAAYPQHMYSSQAQPFYYQGPGYENPPNEWDVYPPYVSVEGLEA
+GPAVVYNEDPSMMYHGGYGYDPYAHYSPISTPVPAGVSGDGQLYSPQQFSFSAPYYQQPV
+QPGMPYLSSPTPISQGETMMPIDPTQGAFIADTLSPNSFLFGPRPEWFRSSEGTGSFPSP
+AASPQPFGGVSGPFGQSNFPMASGMMSPQQKSFYGFGTPSDSYGRGFSHSGgFPQATNYG
+GPFPGYGMNGRSFIPIDKGRRRGRGNALLCSCDGSLDFLNEQSRGPRATRPKKQPEDDSK
+DEKPSaGLDQEsYNRtDFVTEYKNARFFIIKSYSEDNVHKSIKYGVWASTTNGNKKLDaA
+YREVKEKEEHCPIFLLFSVNASAQFCGVAEMTGPVNFEKSVDYWQQDKWTGQFPVKWHIV
+KDVPNNLFRHIILENNENKPVTNSRDTQEVKLEQGLEMLKIFKDHEDDASILDDFDFYEE
+REKALLENKARLHQQQQISSSsVAEPKKPSTVPTDLVGHITKtPSVVEPKKPLTVPTDlV
+GHITKTFAQAVRLGEAKSVSPSgdKgpaGDSSVAAKPVEVKESs
+
+
+PACMAD CONSENSUS:
+Length: 619 aa
+
+MESPERVLFGSMDKQEPVADVEQKIGLtEKPKEQPVPSKDEKATVPPISVDSNAIDLPSE
+GQTQAGTSNmDGgHNGAPHNFYASQAQPFYYQGSGYENPPQEWDTYPPYMSVEGLEVGPT
+VVYNEDPSLMFHGGYGYDPYAHYSPIATPVPTAVSGDGQLYSPQQFSFSAPYYQQSVPPG
+MPYLSSPTPISQGDTMMPIDPTQGAFIADTLSPNSFLFGPRPEWFRSSEGTGSFPSPAAS
+PQPsgGVSGAFGQSNFPMASGMpSPHQKPFYGLGSPTDSYGRGFSHGGMFPQASNYGGSF
+PSFGLNGRSSISIEKGRRRGRGNALICSCNGPLDFLNEQSRGPRATKPKKQPEVDSKDEK
+PSTGVGRELYNRPDFVTEYTNARFFIIKSYSEDNVHKSVKYGVWASTTNGNKKLDSAYRE
+AKEKEEHCPIFLLFSVNASAQFCGVAEMIGPVDFEKSVDYWQQDKWTGQFPVKWHIVKDV
+PNNLFRHIILENNDNKPVTNSRDTQEVKLEQGLEMLKIFKNHDDDASILDDFDFYEEREK
+ALQENKARLHQQHlPSSIVVEPKKPLTVPTDLVGHITKSFAQAVRLGEAKTVSPLAEKVS
+GGDSSIPVKPVEVKQSGLS
+
+================================================================================

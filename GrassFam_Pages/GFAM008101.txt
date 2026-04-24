@@ -1,0 +1,126 @@
+================================================================================
+GrassFam ID: GFAM008101
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             560.0 aa
+Family Size (Extended Family Size): 16 (18) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48102:SF6
+Panther Family ID:               PTHR48102
+Modal Panther ID:                PTHR48102:SF6
+Modal Panther Description:       CLP PROTEASE REGULATORY SUBUNIT CLPX1, MITOCHONDRIAL
+Modal Panther Family ID:         PTHR48102
+Modal Panther Fam Desc:          ATP-DEPENDENT CLP PROTEASE ATP-BINDING SUBUNIT CLPX-LIKE, MITOCHONDRIAL-RELATED
+Interpro Signature Accession:    cd19497; G3DSA:3.40.50.300:FF:000560; G3DSA:1.10.8.60:FF:000002; G3DSA:3.40.50.300; G3DSA:1.10.8.60; NF003745; TIGR00382; PTHR48102; PF07724; SM01086; SSF52540
+Interpro Signature Description:  RecA-like_ClpX; CLP protease regulatory subunit CLPX3 mitochondrial; ATP-dependent Clp protease ATP-binding subunit ClpX; -; ATP-dependent protease ATP-binding subunit ClpX; ATP-DEPENDENT CLP PROTEASE ATP-BINDING SUBUNIT CLPX-LIKE, MITOCHONDRIAL-RELATED; AAA domain (Cdc48 subfamily); ClpB_D2_small_2; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: CLP protease regulatory subunit CLPX1%2C mitochondrial
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: CLP protease regulatory subunit CLPX1%2C mitochondrial-like
+  Gene Descriptions: CLP protease regulatory subunit CLPX1%2C mitochondrial-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: CLP protease regulatory subunit CLPX1%2C mitochondrial
+  Gene Descriptions: CLP protease regulatory subunit CLPX1%2C mitochondrial
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: CLP protease regulatory subunit CLPX1%2C mitochondrial-like%2C transcript variant X1
+  Gene Descriptions: CLP protease regulatory subunit CLPX1%2C mitochondrial-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: CLP protease regulatory subunit CLPX1%2C mitochondrial-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: CLP protease regulatory subunit CLPX1%2C mitochondrial-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: CLP protease regulatory subunit CLPX1%2C mitochondrial
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: ATP-dependent Clp protease ATP-binding subunit clpX%2C transcript variant X1
+  Gene Synonyms: GRMZM5G861603
+  Gene Descriptions: ATP-dependent Clp protease ATP-binding subunit clpX
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 558 aa
+
+MSAAVRSRAAAAALSAARRIHAGRAAEQKQQGnSPGALRRPWTLFRRRQQQEqshLPRAA
+AAvlDAVADRGAGGSDGGEPPEIWRQPGEAPGARAGAGAVGRIDVVRVAaPGGEGFDGKD
+GGGEGgGWGGSNLGRRFPTPKEICRGLDKFVIGQQRAKKVLSVAVYNHYKRIYCESLSSR
+SAGDCSESDSCTSDTDMVELEKSNILVMGPTGSGKTLLAKTLARFVNVPFVIADATTLTQ
+AGYVGEDVESILYKLLAAADFDVAAAQQGIVYIDEVDKITKKAESINLSRDVSGEGVQQA
+LLKMLEGTVVSVPEKGARRHPRGDNIQIDTKNILFICGGAFVDLEKTISERRHDSSIGFR
+AQVRSNMRTGGVINAEITSSLLESVESGDLIAYGLIPEFVGRFPILVSLSSLSEDQLVEV
+LTKPKNALGRQYTKLFEMNDVKLHFTEKALRLIAKRAIAKNTGARGLRSILESILTEAMY
+EIPETRTGKDKIDAVVVDEESVGSANQHGIGAKILCGEGALDLYLAKHDNKESTlQQpEK
+SNGESEIDTEAPSRVASM
+
+
+BOP CONSENSUS:
+Length: 555 aa
+
+MSAAVRSRAAAVAATAARRIHAGRAVAEQQGQSPGLRRPWAYFRRRQQQQQSLPRAAPsL
+RGAVAERGAGGSDGGGEPPEIWRQPGEAPGARGGEVGRIDVVRVAGGGGGGDGSDGNEGG
+GGGAGWGGSNLGRRFPTPKEICRGLDKFVIGQERAKKVLSVAVYNHYKRIHCESLSSRSA
+GDCSETDSCTSDTDGVELEKSNILVMGPTGSGKTLLAKTLARFVNVPFVIADATTLTQAG
+YVGEDVESILYKLLAAADFDVAAAQQGIVYIDEVDKITKKAESINLSRDVSGEGVQQALL
+KMLEGTVVSVPEKGARRHPRGDNIQIDTKNILFICGGAFVDLEKTISERRHDSSIGFQAP
+VRSNMRTGSVINAEITSSLLESVESGDLIAYGLIPEFVGRFPILVSLSSLSEDQLVEVLT
+KPKNALGRQYTKLFEMNDVKLHFTEKALRLISKRAIAKNTGARGLRSILESLLTESMYEI
+PEIRTGKDKIDAVVVDEESVGSTNQHGSGAKILCGEGALDLYLDEHNKESTLRRSEKVDG
+EPEIDTETPSRVASM
+
+
+PACMAD CONSENSUS:
+Length: 559 aa
+
+MSAAVRSRAAAAALSAARRIHAGRAAEQKQQGGnSPGALRRPWTLFRRQQQQEHsHLPRA
+AAAVLDAvADrrAGGSDGGEPPEIWRQPGEAPvERAGAGAVGRIDVVRVAAPGGEGFDGK
+DGGGEtGGWGGSNLGRRFPTPKEICRGLDKFVIGQQRAKKVLSVAVYNHYKRIYCESLSS
+RSAGDCSESDSCTSDTDMVELEKSNILVMGPTGSGKTLLAKTLARFVNVPFVIADATTLT
+QAGYVGEDVESILYKLLAAADFDVAAAQQGIVYIDEVDKITKKAESINLSRDVSGEGVQQ
+ALLKMLEGTVVSVPEKGARRHPRGDNIQIDTKNILFICGGAFVDLEKTISERRHDSSIGF
+RAQVRSNMRTGGVINAEITSSLLESVESGDLIAYGLIPEFVGRFPILVSLSSLSEDQLVE
+VLTEPKNALGRQYTKLFEMNDVKLHFTEKALRLIAKRAIAKNTGARGLRSILESILTEAM
+YEIPETRTGKDKIDAVVVDEESVGSANQHGIGAKILCGEGALDLYLAKHDNKESTgQQpE
+KSNGESEIDTEAPSRVASM
+
+================================================================================

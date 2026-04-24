@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM000789
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             513.0 aa
+Family Size (Extended Family Size): 71 (76) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24296:SF265
+Panther Family ID:               PTHR24296
+Modal Panther ID:                PTHR24296:SF265
+Modal Panther Description:       OS01G0804400 PROTEIN
+Modal Panther Family ID:         PTHR24296
+Modal Panther Fam Desc:          CYTOCHROME P450
+Interpro Signature Accession:    cd11064; G3DSA:1.10.630.10; PTHR24296; PF00067; SSF48264
+Interpro Signature Description:  CYP86A; Cytochrome P450; CYTOCHROME P450
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 3
+  Modal chromosome: Bdi02
+  Gene Products: cytochrome P450 94B3
+Lpe
+  Gene count: 4
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 4
+  Modal chromosome: Hvu03H
+  Gene Products: cytochrome P450 94B3-like
+Ata
+  Gene count: 4
+  Modal chromosome: Ata03D
+  Gene Products: cytochrome P450 94B3; cytochrome P450 94B3-like
+Tae
+  Gene count: 10
+  Modal chromosome: Tae03A
+  Gene Products: cytochrome P450 94B3-like; cytochrome P450 94B3-like%2C transcript variant X1; cytochrome P450 94C1-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 6
+  Modal chromosome: Ogl01
+  Gene Products: cytochrome P450 CYP94D108; cytochrome P450 CYP94D108-like
+  Gene Descriptions: cytochrome P450 CYP94D108; cytochrome P450 CYP94D108-like
+Osa
+  Gene count: 6
+  Modal chromosome: Osa01
+  Gene Products: cytochrome P450 CYP94D108
+  Gene Descriptions: cytochrome P450 CYP94D108
+Ecu
+  Gene count: 8
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau02
+  Gene Products: cytochrome P450 CYP94D108-like
+  Gene Descriptions: cytochrome P450 CYP94D108-like
+Svi
+  Gene count: 3
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 10
+  Modal chromosome: Pvi09N
+  Gene Products: cytochrome P450 94B1-like; cytochrome P450 94B3-like; cytochrome P450 94C1-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha05
+  Gene Products: cytochrome P450 94B1-like; cytochrome P450 94B3-like
+Msi
+  Gene count: 5
+  Modal chromosome: Msi04
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi09
+  Gene Products: cytochrome P450 94A2; cytochrome P450 94B3
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: uncharacterized LOC100272850
+  Gene Synonyms: GRMZM5G810393
+  Gene Descriptions: uncharacterized LOC100272850
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 510 aa
+
+MELSLTSSpLlLLLpLLPLLYFLYLRqDPKKQPRAHGLKvYPilGTLPHFVKNQhRFLEW
+STGVmkRSPTHTMSFKaLGLTGGAITANPANVEHILKTNFgNYPKGELtVSMlEDFLGHG
+IFNSDGEQWLWQRKAASYEFsKRSLRNFVVDTVRFEVVERLLPLLeRAaRDGRTLDVQDV
+LERFAFDNICRVAFGEDPACLAEEGMAAPQSAEFMRAFNDAQNAIMARFMSPvKSLWRVK
+RLLNMEPERRMReALATIHGYADRIVRERRERGEAGLARRDDFLSRFAASGEHSDESLRD
+VVTNFlLAGRDTTSSALTWFFWLVSgRPDVEDKIVREIRAVRASSgggtgdATFSFDELR
+dMHYLHAAITESMRLYPPVAMDTHSCKEDDFLPDGTFVGKGWlVTYSAYAMARvEdIWGk
+DCEEFRPERWLDEeGAFRPESPFKYPVFHAGPRMCLGKEMAYIQMKSIVACVLERFSLRf
+VGGEGHPGLVLSLTLRMeGGLPMQVkkRgg
+
+
+BOP CONSENSUS:
+Length: 511 aa
+
+MELSlTSalplLLLlLLPLLYFLYLRqDPKKQPRAHGLKvYPIvGTLPHFVKNQDRFLEW
+STGVMkRSPTHTMsFKvLGLTGGAITANPANVEHILKTNFgNYPKGELvVSMLEDFLGHG
+IFNSDGEQWLWQRKAASYEFNKRSLRNFVVDTVRFEVVERLLPLLERAeRDGRTLDVQDV
+LERFAFDNICrVAFDEDPACLAEEGMAAPQSAEFMrAFNDAQNaIMARFMSPvKWLWRVK
+RLLNMEPERRMReALATIHGYADRIVRERRERGEAGLARrDDFLSRFAASGEHSDESLRD
+VVTNFILAGRDTTSSALTWFFWLVSgRPDVEDKIVREIRAVRASSGSgGtdaATFSfDEL
+ReMHYLHAAITESMRLYPPVAmDTHSCKEDDFLPDGTFVGKGWLVTYCAYAMARLEeIWG
+aDCEEFRPERWLDEEGAFRPESPFKYPVFHAGPRMCLGKEMAYIQMKSIVACVLERFSLR
+YvGGEGHPGLVmSLTLRMeGGLPMQVKkRGg
+
+
+PACMAD CONSENSUS:
+Length: 514 aa
+
+MELSLTSSPaLQLVLLLPLLPLLCLLYLRRDPKKQPRAhGLKvYPLLGTLPHFVKNQHRF
+LEWSTdVlKRdPTHTMSFKALGLTGGAITANPANVEHILKTNFANYPKGELTVSmIEDFL
+GHGIFNSDGEQWLWQRKAASYEFSKRSLRNFVVDAVRFEVVERLLPLLDRAARDGRTLDV
+QDVLERFAFDNICRVAFGEDPACLAEEGMAAPQSAEFMRAFNDAQNAIMARFMSPvKSLW
+RLKRLLNMEPERRLREALgTIHGYADRIVRERRERGEAGLAcRDDFLSRFAASGEHSDES
+LRDVVTNFLLAGRDTTSSALTWFFWLVSTRPDVEDKIVREIRAVRASSsvGsttgaATFS
+FDELRDMHYLHAAITESMRLYPPVAMDTHsCKqDDFLPDGTFVGKGWltTYSAYAMARVE
+DIWGKDCEEFRPERWLGEDGAFRPESPFKYPVFHAGPRMCLGKEMAYIQMKSIVACVFER
+FSFRFVGGEERPGLVLSLTLRMKGGLPMQVnkRS
+
+================================================================================

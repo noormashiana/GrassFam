@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM008278
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             419.0 aa
+Family Size (Extended Family Size): 21 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10177:SF338
+Panther Family ID:               PTHR10177
+Modal Panther ID:                PTHR10177:SF338
+Modal Panther Description:       CYCLIN-B2-2
+Modal Panther Family ID:         PTHR10177
+Modal Panther Fam Desc:          CYCLINS
+Interpro Signature Accession:    cd20511; G3DSA:1.10.472.10:FF:000032; G3DSA:1.10.472.10; PTHR10177; PIRSF001771; PF02984; PF00134; SM00385; SM01332; SSF47954
+Interpro Signature Description:  CYCLIN_AtCycB-like_rpt2; G2/mitotic-specific cyclin-1; -; CYCLINS; Cyclin_A_B_D_E; Cyclin, C-terminal domain; Cyclin, N-terminal domain; cyclin_7; Cyclin_C_2; Cyclin-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: cyclin-B2-2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: cyclin-B2-2-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: cyclin-B2-2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: cyclin-B2-2-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: cyclin-B2-2
+  Gene Descriptions: cyclin-B2-2
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: cyclin-B2-2-like
+  Gene Synonyms: CYCB2,CYCB2-2,CycB2-Os2,CycB2%3B2,cyclin
+  Gene Descriptions: cyclin-B2-2-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: cyclin-B2-2-like
+  Gene Descriptions: cyclin-B2-2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi04N
+  Gene Products: cyclin-B2-2-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: cyclin-B2-2-like%2C transcript variant X2
+Msi
+  Gene count: 3
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: cyclin-B2-2%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: cyclin 3%2C transcript variant X1
+  Gene Synonyms: cyc3,GRMZM2G073671
+  Gene Descriptions: cyclin 3
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 424 aa
+
+MENMRSENyHQGVAMEGVKFAPEMANTNRRALRDIKNIIGGPHQHLAVSKRGLsEKPAAA
+VnAKdQAGFVGHRPVTRKFAATLANQPtsAPLAPIGSERQKRNADTAFHTPADMEsTKMS
+DDIPLPMLSEMDEMMsSELKEIEMEDIEEAAPDIDSCDAGNSLAVVEYVDEIYSFYRRTE
+GLSCVSPNYMSSQTDINEKMRGILIDWLIEVHYKLELLEETLFLTVNIIDRFLARENVVR
+KKLQLVGVTAMLLACKYEEVSVPVVEDLILICDRAYTRADILEMERmIVNTLeFNMSVPT
+PYCFMRRFLKAAQSDKKLELLSFFmIELSLVEYEMLKFqPSMLAAAAIYTAQCTINGFKS
+WNKCCELHTKYSEEQLMDCSRMMVELHQRAAHGKLTGVHRKYSTFRYGCAAKSEPAtFLL
+DARa
+
+
+BOP CONSENSUS:
+Length: 417 aa
+
+MENMRSENHRGAAMEGVKLASEAAANTNRRALRDIKNILGAPHQPQAVSKRGLQEKPAAA
+GAKSQAGAVGHRPVTRKFAATLQTQPANAPLAPIGSERQKRNADTAFHAPSDMECTKASD
+DDLDEMMTNELKEIDMEDTEEEEMPDIDSCDVGNSLAVVEYVDEIYSFYRRTEELSCVSP
+TYMAHQSDINEKMRGILIDWLIEVHYKLELLGETLFLTVNIIDRYLARENVVRKKLQLVG
+VTAMLLACKYEEVSVPVVEDLILICDRAYTREDILEMERMIVDRLEFNMSVPTPYCFMRR
+FLKAAGSDKKLELLSFFLIELSLVDYKMLKFQPSMLAAAAIYTAQCTLNGFKSWNKCCEL
+HTKYSEEQLMDCSTMMVELHQGAArGKLTGVHRKYSTFKYGCAAKSEPAAFLLDARR
+
+
+PACMAD CONSENSUS:
+Length: 424 aa
+
+MENLRSENYHQGVAMEGVKFAPEMANTNRRALSDIKNIIGGPHQHLAVSKRGLSEKPAAA
+VNtKDQAGFVGHRPVTRKFAATLANQPTvAHLAPIGSERQKRNADTAFHTPADMESTKMt
+DDIPLPMLSEMDEvMSSELKEIEMEDIEEAAPDIDSCDAGNSLAVVEYVDEIYRFYRRTE
+GSSCVPTNYMSSQTDINEKMRGILIDWLIEVHYKLELLEETLFLTVNIIDRFLARENVVR
+KKLQLVGVTAMLLACKYEEVSVPVVEDLILICDRAYTRADILEMERRIVNTLKFNMSVPT
+PYCFMRRFLKAAQSEKKLELLSFFMIELSLVEYEMLKFCPSMLAAAAIYTAQCTINGFKS
+WNKCCELHTKYSEEQLMDCSRMMVELHQRAAHGKLTGVHRKYSTFRYGCAAKSEPATFLL
+DARt
+
+================================================================================

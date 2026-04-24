@@ -1,0 +1,126 @@
+================================================================================
+GrassFam ID: GFAM009823
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             456.0 aa
+Family Size (Extended Family Size): 19 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR32141:SF159
+Panther Family ID:               PTHR32141
+Modal Panther ID:                PTHR32141:SF159
+Modal Panther Description:       F-BOX DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR32141
+Modal Panther Fam Desc:          FAMILY NOT NAMED
+Interpro Signature Accession:    PTHR32141; PF24758
+Interpro Signature Description:  -; FBD-associated F-box protein At5g56370, LRR repeats
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: F-box/FBD/LRR-repeat protein At1g13570-like
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: F-box/LRR-repeat protein 13-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: F-box/FBD/LRR-repeat protein At1g13570%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: F-box/FBD/LRR-repeat protein At1g13570-like%2C transcript variant X3; F-box/LRR-repeat protein 13-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: F-box/FBD/LRR-repeat protein At1g13570-like
+  Gene Descriptions: F-box/FBD/LRR-repeat protein At1g13570-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: F-box/FBD/LRR-repeat protein At1g13570
+  Gene Descriptions: F-box/FBD/LRR-repeat protein At1g13570
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau02
+  Gene Products: F-box/FBD/LRR-repeat protein At1g13570-like%2C transcript variant X1
+  Gene Descriptions: F-box/FBD/LRR-repeat protein At1g13570-like
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: F-box/FBD/LRR-repeat protein At1g13570-like%2C transcript variant X1; F-box/FBD/LRR-repeat protein At1g13570-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: F-box/FBD/LRR-repeat protein At1g13570-like%2C transcript variant X2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: F-box/FBD/LRR-repeat protein At1g13570
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 453 aa
+
+MDETLAAVLSYLPPPaVSTTASLSSSspAagDEEDRIsrLPDaLLRNIISRLPTKDAART
+TaLSSRWRsLWASTPLrLDDgGLAPtAVTAALASHPGPVtSARLASEHLASQDPDVVASW
+FASLAAKnVEDLVVVNGSWPvEWRPPSgLLGCAALRRLWLGLCQFPDTSGLAPAFlSLQE
+LGIVHSSmQDRELHAVLPRCPELEtLAFVLTQDYPRYVHIWSGSLqcVVvWrSMVREVHL
+DDAPNLERLLLEPIAGASTHVKIINAPrLKILGYFDVGLHQLKIGpTVIKDGIKVKPNAM
+VRTLRTLALKVQFGVEdQVKLVPLLLRCFPCLETLYIKSVPSESPVNVDVEFWDQVGfTE
+CVySHLKKFVFEAARGEDtELAFVKFVMERAQMLEdMRVFVDDGCSRDVVLSRLSSEGCV
+SADAtVVVERqDmSHAWSFQRASDmsQSDPFGC
+
+
+BOP CONSENSUS:
+Length: 456 aa
+
+MDETLATVLSYLPPPSVSTTASPSSSStASDDDDRISCLPDVLLRNIISRLPTKDAARTT
+ILSSRWRSLWASTPLRLDDAGLVPTAVTAALNSHPGPVTSARLSSEHLAYQEPDVLDSWF
+ASLAAKNVEELSVVNGSWPAECEWRPPPGLLGCASLRRLWLGLCQFPDTSGLAPAFPSLQ
+ELGIVHCSMQDRELHAVLPRCPELESLAFVLTQDYPRYVHIWSGSLQSLVVWRSMVREVH
+LDDAPNLERLLLEPIGGASTHVKIINAPRLKVFGYFDVGLHQLKIGPTVIKDGIGMKVKP
+NAMVRTLRTLALKVQFGVEKQVKLVPLLLRCFPCLETLYIKSSPSESPTNVDVDFWDQVG
+HTECVTSHIKKFVFEAARGEDTELAFVKFVMERAQMLEEMRVFVDDGCSRDVVLSRLSSE
+GCVSADASVVVERQDMSHAWSFqRASNMSQsDPFGC
+
+
+PACMAD CONSENSUS:
+Length: 455 aa
+
+MDETLAAVLSYLPSPAVSssAYLSSSFPAASPADgEEEDRIGRLPDAILRNIVSRLPTKD
+AARTAVLSSRWRHLWASIPLVLDDGAGGLAPAAAAAALASHPGPVRSARLASSQDPEvVA
+SVFASLAARDVEDLLVVVNGSWPVEWRVPSDVLGCAALGRLWIGLCQFPDTSGVAPALLS
+LrELGIVHSSVQDRDLHAVIPRCPELETLAFALTQDYPRYVHIWSgSLRCVVIWKSMLRE
+VHLDDAPNLDRLLVEPIADAATHIKIIKAPKLKILGYFDVGLHQLKIGNTVIKLdTKVKP
+SAMVRTLRTLALKVQFGVEDQVKLVPTLLKCFPCLETLYITSVPSEAPVNVDIEFWDQVG
+FTECVYSHLKKLVLEAVRGEDSELAFAKFVMERAQMLEDMRVLVDGSCSRDVVLSRLSSE
+GCVSADAtVVVERqDGTAWgFQRAIDLLQSDPFGC
+
+================================================================================

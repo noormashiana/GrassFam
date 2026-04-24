@@ -1,0 +1,128 @@
+================================================================================
+GrassFam ID: GFAM010547
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             391.0 aa
+Family Size (Extended Family Size): 22 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43620:SF37
+Panther Family ID:               PTHR43620
+Modal Panther ID:                PTHR43620:SF37
+Modal Panther Description:       GLYCEROPHOSPHODIESTER PHOSPHODIESTERASE
+Modal Panther Family ID:         PTHR43620
+Modal Panther Fam Desc:          GLYCEROPHOSPHORYL DIESTER PHOSPHODIESTERASE
+Interpro Signature Accession:    cd08602; G3DSA:3.20.20.190:FF:000023; G3DSA:3.20.20.190; PTHR43620; PF03009; SSF51695
+Interpro Signature Description:  GDPD_ScGlpQ1_like; Glycerophosphodiester phosphodiesterase GDPD5; Phosphatidylinositol (PI) phosphodiesterase; GLYCEROPHOSPHORYL DIESTER PHOSPHODIESTERASE; Glycerophosphoryl diester phosphodiesterase family; PLC-like phosphodiesterases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: glycerophosphodiester phosphodiesterase GDPD6
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: glycerophosphodiester phosphodiesterase GDPD6-like
+Tae
+  Gene count: 2
+  Modal chromosome: Tae01B
+  Gene Products: glycerophosphodiester phosphodiesterase GDPD6-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: glycerophosphodiester phosphodiesterase GDPD6-like
+  Gene Descriptions: glycerophosphodiester phosphodiesterase GDPD6-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: glycerophosphodiester phosphodiesterase GDPD6
+  Gene Descriptions: glycerophosphodiester phosphodiesterase GDPD6
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau03
+  Gene Products: glycerophosphodiester phosphodiesterase GDPD6-like
+  Gene Descriptions: glycerophosphodiester phosphodiesterase GDPD6-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: glycerophosphodiester phosphodiesterase GDPD6-like; glycerophosphodiester phosphodiesterase GDPD6-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: glycerophosphodiester phosphodiesterase GDPD6-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: glycerophosphodiester phosphodiesterase GDPD6
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100283806
+  Gene Synonyms: GRMZM2G058227,si605064b07
+  Gene Descriptions: uncharacterized LOC100283806
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 391 aa
+
+MASFWHISIIVLVLLFGGSKANPAAPSHSQLDVNHKKPLQTFRPYNIAHRGSNGELPEET
+AAAYLRAIEEGADFIETDILASKDGHLICFHDVTLDATTDVANRTEFAdRKRTYEVQGEN
+VTGWFVVDFTLKELKSLRVKQRfSFRDQRYNGKYQIITFEEYILIALYADRIVGIYPEIK
+NPVFINQHVKWSNGKKFEDKFVETLLKYGYKGEYMSEDWLKQPLFIQSFAPTSLIYISNM
+TNSPKVFLIDDTTiPTQDTNQSYYEITSNAYLAFIRNYVIGIGPWKDTIVPPKDNYLGQP
+TDLVARAHALNLQVHPYTFRNENsYLHFNFHQDPYvEYEYWLNEIGVDGLFTDFTGSLHK
+YQEWTTPYPKKEKNAEALLHEIANMLKnDGY
+
+
+BOP CONSENSUS:
+Length: 391 aa
+
+MASFWHISIVILVLLFGRSGAHPAAPQQGQLDVKHKKPLQTFRPYNIAHRGSNGEIPEET
+AAAYLRAIEEGADFIETDILASKDGHLICFHDVTLDNTTDVSNRTEFANRKRAYEVQGVN
+ETGWFVVDFTLSELKSLRVKQRYSYRDQQYNGKFQIITFDEYILIALYADRVVGIYPEIK
+NPIFINQHVKWSGGKKFEDKFVETLLKYGYKGEYMSEDWLKQPLFIQSFAPTSLIYISNM
+TNSPKVFLIDDVSKPTQDTNQSYYEITSNGYLAFIRKYVVGIGPWKDTIVPPKNNYLGPP
+TDLVARAHALNLQVHPYTYRNEYSFLHFNFHQDPYSEYAYWINEIGVDGLFTDFTGSLHR
+YQEWTTPYQKKEKNAEALLHQIAYMLKDDGY
+
+
+PACMAD CONSENSUS:
+Length: 391 aa
+
+MASFWHISIIVLVLLFGGSKANPAAPPHSQLDVNHKKPLQTFRPYNIAHRGSNGELPEET
+AAAYLRAIEEGADFIETDILASKDGHLICFHDVTLDATTDVANRTEFAdRKRTYEVQGEN
+VTGWFVVDFTLKELKSLRVKQRFSFRDQRYNGKYQIITFEEYILIALYADRIVGIYPEIK
+NPVFINQHVKWSNGKKFEDKFVETLLKYGYKGEYMSEDWLRQPLFIQSFAPTSLIYISNM
+TNSPKVFLIDDTTIPTQDTNQSYYEITSNAYLAFIRNYVIGIGPWKDTIVPPKDNYLGQP
+TDLVARAHALNLQVHPYTFRNENsYLHFNFHQDPYvEYEYWLNEIGVDGLFTDFTGSLHK
+YQEWTTPYPKKqKNAEALLHEIANMLKNDGY
+
+================================================================================

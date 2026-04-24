@@ -1,0 +1,131 @@
+================================================================================
+GrassFam ID: GFAM011123
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             399.0 aa
+Family Size (Extended Family Size): 21 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10015:SF431
+Panther Family ID:               PTHR10015
+Modal Panther ID:                PTHR10015:SF431
+Modal Panther Description:       HSF-TYPE DNA-BINDING DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR10015
+Modal Panther Fam Desc:          HEAT SHOCK TRANSCRIPTION FACTOR
+Interpro Signature Accession:    G3DSA:1.10.10.10:FF:000037; G3DSA:1.10.10.10; PTHR10015; PF00447; SM00415; SSF46785
+Interpro Signature Description:  Heat stress transcription factor B-4; -; HEAT SHOCK TRANSCRIPTION FACTOR; HSF-type DNA-binding; hsfneu3; Winged helix DNA-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: heat stress transcription factor B-2c%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: heat stress transcription factor B-2c-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: heat stress transcription factor B-2c
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: heat stress transcription factor B-2c-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: heat stress transcription factor B-2c%2C transcript variant X3
+  Gene Descriptions: heat stress transcription factor B-2c
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: heat stress transcription factor B-2c-like%2C transcript variant 2
+  Gene Synonyms: HSF24,HSFB2C,OJ1439_F07.16-1,OJ1439_F07.16-2,OsHsf-24
+  Gene Descriptions: heat stress transcription factor B-2c-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: heat stress transcription factor B-2c-like%2C transcript variant X2; heat stress transcription factor B-2c-like%2C transcript variant X4
+  Gene Descriptions: heat stress transcription factor B-2c-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: heat stress transcription factor B-2c-like%2C transcript variant X1; heat stress transcription factor B-2c-like%2C transcript variant X3
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: heat stress transcription factor B-2c-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: heat stress transcription factor B-2c
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: heat stress transcription factor B-2c
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 405 aa
+
+MAEQGAAAAEAAGSEPPpPAPaPAPApAADAAGQRSLPTPFLTKTYQLVEDPAVDDVISW
+NEDGSTFVVWRPAEFARDLLPKYFKHNNFSSFVRQLNTYGFRKIVPDRWEFANDCFRRGE
+KRLLCDIHRRKVVPAPAAPsAGLATAAAAAASGAVTVAAAPIPMALPVTRPGSPALSSDE
+QVLSSNSGSAEEHPQAAPSGSGGLGGagGgSASGDtGEENERLRRENARLTRELGQMKKL
+CNNILLLMSKYASSQQLDASAALSSVVNCSGESSEALPPPPPLPPAILDLMPSCPALATA
+AAGLAADGdPDqAARLFGVSIGLKRtRDdDedGGGEEPADHgGaGAEVKPEASDPrpdpp
+SSSkEpSPDQHPWPIYRPTPVYHSMRPCNGPDQGAGSDQDGSNSR
+
+
+BOP CONSENSUS:
+Length: 392 aa
+
+MAAEHGAAAADGAGAEPPPPAPMPGLAASADAAGQRSLPTPFLTKTYQLVEDPAVDDVIS
+WGEDGSTFVVWRPAEFARDLLPKYFKHNNFSSFVRQLNTYGFRKIVPDRWEFANDCFRRG
+EKRLLCDIHRRKVVQSAGLAAAAAAAAAGAVTVATAAIPMALPVTRSGSPEPQLSSEEQV
+LSSNSGSAEELPlAAPSGSGSGLGGAGAGSSSGDMGEENDRLRRDNARLTRELGQMKKLC
+NNIVSLMSKFASSQQPDGGGSLSSVVNCSGESALAPPPPLPAAILDLMPSCSALATAAGL
+AVDGGPDTSARLFGVSIGLKRARDEEEDGGGEELPnsnGDGADVKPEEAADRRPDGGSED
+RQSWPIYRPKPVYRACNGQDGAGSDQDRSNSR
+
+
+PACMAD CONSENSUS:
+Length: 396 aa
+
+MAEQGGAAGEAAGSEPPAPAPAPAPApAAEAAGQRSLPTPFLTKTYQLVDDPAVDDVISW
+NEDGSTFVVWRPAEFARDLLPKYFKHNNFSSFVRQLNTYGFRKIVPDRWEFANDCFRRGE
+KRLLCDIHRRKVAPAPAAPAAGLATAAAAAASGAVTVAAAPIPMALPVTLPGSPALSSDE
+QVLSSNSGSAEDHPQAAPSGSGGASASGDTGEENERLRRENARLTRELGQMKKLCNNILL
+LMTKYASSQQLDASAALSSVVNCSGESSEAvPPPPPLPPAILDLMPSCPGLATAAAGLVA
+DADPDQAARLFGVSIGLKRtRDDDDTGEEpADHGAGAEVKTEASDPhQhpPSSSKEPSPD
+QHPWPIYRPTPVYHSMRPCNGPDQGAGSDQDGSNSR
+
+================================================================================

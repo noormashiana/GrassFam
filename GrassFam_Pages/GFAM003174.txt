@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM003174
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             514.0 aa
+Family Size (Extended Family Size): 16 (18) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10185:SF17
+Panther Family ID:               PTHR10185
+Modal Panther ID:                PTHR10185:SF17
+Modal Panther Description:       GM01519P-RELATED
+Modal Panther Family ID:         PTHR10185
+Modal Panther Fam Desc:          PHOSPHOLIPASE D - RELATED
+Interpro Signature Accession:    cd09106; cd09107; PTHR10185
+Interpro Signature Description:  PLDc_vPLD3_4_5_like_1; PLDc_vPLD3_4_5_like_2; PHOSPHOLIPASE D - RELATED
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: phospholipase D Z%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: phospholipase D Z
+Tae
+  Gene count: 1
+  Modal chromosome: Tae07D
+  Gene Products: phospholipase D Z-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: uncharacterized LOC127775604%2C transcript variant X2
+  Gene Descriptions: uncharacterized LOC127775604
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC4341683
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau10
+  Gene Products: uncharacterized LOC133883392%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133883392
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi04N
+  Gene Products: phospholipase D Z-like%2C transcript variant X3
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: phospholipase D Z-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: phospholipase D Z
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: phospholipase D Z%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 515 aa
+
+MpSSPHRRRLLLLLPLLLAvAALWGApPAaAgAATCKAWLVQSIPTDMPHLRRVPGVLST
+GDVLQWLSGNATKSLDILAQYWQFLAQPKNPKSGDYGFSESDMkRFGADEGrRVYKALEN
+AADRKIKIRIVQHSGFAPDFDQESADLAAGRPNVQNVTLLFEDWWGSGVVHAKVWISDKK
+DVYIGSANNDWKSLTQVKELGIYFADCPQIAKTVEVYFQNLWTLSTLNSTtYTKVAWDKQ
+WQVSRKVPCWSHFLQPKERCRSPIPLSVDIPYVDGYPsLANPEMIDVsFETPGYKKSTQE
+HYLSYLSFAPPEVSFGKFQADEQGWVDTIKSVKsGGIVRINTMDWLGQSQYATQTVFWPS
+LSSAISEVVFSKNATVRLLVAYWTHFIPNTEKYLKSLLYSNILCASSKYNHCGGKVEIKY
+YVVPGYNETGPALSQGAATGNRYPDFTRVNHGKYAVSDVRANIGTSNLIWDYFYTTAGVS
+FGTYNPSIVSQLQDIFDADWYSPYTVPVKPLEASV
+
+
+BOP CONSENSUS:
+Length: 515 aa
+
+MaPspRRRRRLLLpLLLLAVAALWpAAPAAAAAASCKAWLVQSIPTDMPHLRRVPGVLST
+ADVLQWLSGNATKSLDILAQYWQFLAQPKNPKSGDYGFSESEMARFGADEGrRVYKALEK
+AADRKVKIRIVQHSGFAPDFDQESANLAAGRPNVQNVTLLFGDWWGSGVLHAKVWISDKK
+DVYIGSANNDWKSLTQVKELGIYFADCPQIAKTVEVYFQNLWTLSTLNSTtYTKVAWDKQ
+WQTFRKVPCWSHFLqPEQRCRSPLPLSVDVPYVDGYPSLANPEMLDVLIETPGyKsSTKE
+HHLSYLSFAPPELSFDKFQADEQGWVDTIKSVNSGGMVRISTMDWLGQSQYATQTVFWPS
+LSSAISEVIFSKNATVRlLVAYWTHFIPNTEKYLKSLLYSNILCTSSKYNHCGGKVEIKY
+YVVPGYNETGPALAQGAATGNRYPDFTRVNHGKYAVSDVRANIGTSNLIWDYFYTTAGVS
+FGTYdPSIVSQLQDVFDADWDSPYTVPVKPLEASa
+
+
+PACMAD CONSENSUS:
+Length: 515 aa
+
+MPSSPHRRRLLLLPLLVAAAALWGAppAdAGADTCKAWLVQSIPTDMPHLRRVPGVLSTG
+DVLQWLSGNATKSLDILAQYWQFLAQPNNPKSGDYGFSESDMKRFGADEGrRVYKALENA
+ADRKIKIRIVQHSGFAPDFDQESADLAAGRPNVqNVTLLFEDWWGSGVVHAKVWISDKKD
+VYIGSANNDWKSLTQVKELGIYFADCPQIAKTVEVYFQNLWTLSTLNSTtYTKVAWDKQW
+QVSRKVPCWSHFLQPKERCRSPIPLSVDIPYVDGYPALANPEMIDVSFETPGYKKSTQEH
+YLSYLSFAPPEVTFGKFQADEQGWVDTIKSVKvGGIVRMNTMDWLGQSQYATQTVYWPSL
+SSAISEVVFSKNATVRLLVAYWAHFIPNTEKYLKSLLYSNILCASStYNHCGGKVEIKYY
+vVPGYNETGPALSQGGTATGNRYPGFTRVNHGKYAVSDVRANIGTSNLIWDYFYTTAGVS
+FGTYNPSIVsQLQDIFDADWYSPYTVPVEPLEASV
+
+================================================================================

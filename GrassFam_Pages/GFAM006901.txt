@@ -1,0 +1,123 @@
+================================================================================
+GrassFam ID: GFAM006901
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             589.0 aa
+Family Size (Extended Family Size): 23 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11772:SF37
+Panther Family ID:               PTHR11772
+Modal Panther ID:                PTHR11772:SF37
+Modal Panther Description:       ASPARAGINE SYNTHETASE [GLUTAMINE-HYDROLYZING]
+Modal Panther Family ID:         PTHR11772
+Modal Panther Fam Desc:          ASPARAGINE SYNTHETASE
+Interpro Signature Accession:    cd00712; cd01991; G3DSA:3.60.20.10:FF:000024; G3DSA:3.40.50.620:FF:000055; G3DSA:3.40.50.620; G3DSA:3.60.20.10; NF006949; PTHR11772; PIRSF001589; PF13537; PF00733; SSF52402; SSF56235
+Interpro Signature Description:  AsnB; Asn_synthase_B_C; Asparagine synthetase [glutamine-hydrolyzing]; HUPs; Glutamine Phosphoribosylpyrophosphate, subunit 1, domain 1; asparagine synthase B; ASPARAGINE SYNTHETASE; Asn_synthetase_glu-h; Glutamine amidotransferase domain; Asparagine synthase; Adenine nucleotide alpha hydrolases-like; N-terminal nucleophile aminohydrolases (Ntn hydrolases)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: asparagine synthetase [glutamine-hydrolyzing]%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu03H
+  Gene Products: asparagine synthetase [glutamine-hydrolyzing]%2C transcript variant X1; asparagine synthetase [glutamine-hydrolyzing]-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata03D
+  Gene Products: asparagine synthetase [glutamine-hydrolyzing]
+Tae
+  Gene count: 5
+  Modal chromosome: Tae03A
+  Gene Products: asparagine synthetase [glutamine-hydrolyzing]; asparagine synthetase [glutamine-hydrolyzing]-like; asparagine synthetase [glutamine-hydrolyzing]-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ecu
+  Gene count: 3
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 2
+  Modal chromosome: Pau12
+  Gene Products: asparagine synthetase [glutamine-hydrolyzing]-like
+  Gene Descriptions: asparagine synthetase [glutamine-hydrolyzing]-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Msi
+  Gene count: 2
+  Modal chromosome: Msi14
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: asparagine synthetase [glutamine-hydrolyzing]
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: asparagine synthetase 2; asparagine synthetase [glutamine-hydrolyzing]
+  Gene Synonyms: asn2,AsnS2,GRMZM2G093175
+  Gene Descriptions: asparagine synthetase 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 586 aa
+
+MCGILAVLGCADDsQGKRvRVLELSRRLKHRGPDWSGLHQVGDCYLSHQRLAIIDPASGD
+QPLYNEDKSVVVTVNGEIYNHEqLRaQLSGHkFRTGSDCEVIAHLYEEHGEeFVDMLDGV
+FSFVLLDTRDgSFIAARDAIGVTPLYIGWGIDGSVWISSEMKGLNDDCEHFEIFPPGHLY
+SSKqGGFKRWYNPPWFSEvIPSVPYDPLALRKAFEKAVIKRLMTDVPFGVLLSGGLDSSL
+VAAVTVRHLAGTKAAKRWGTKLHSFCVGLEGSPDLKAAKEVADYLGTVHHEFHFTVQDGI
+DAIEDVIYHTETYDVTTIRASTPMFLMSRKIKSLGVKMVISGEGSDEIFGGYLYFHKAPN
+KEEFHRETCRKIKALHQYDCLRANKATSAWGLEARVPFLDKEFINEAMSIDPEWKMIRPD
+LGRIEKWVLRKAFDDEEQPFLPKHILYRQKEQFSDGVGYSWIDGLKAHAeSNVTDKMMSN
+AKFIYPHNTPTTKEAYYYRMIFERFFPQnSAILTVPGGPSVACSTAKAIEWDAQWSGNLD
+PSGRAALGVHLSAYEQpkHLPATIAAGgSKKPRTIkVaAPGVAIEG
+
+
+BOP CONSENSUS:
+Length: 585 aa
+
+MCGILAVLGCADDSQGKRVRVLELSRRLKHRGPDWSGMHQVGDCYLSHQRLAIIDPASGD
+QPLYNEDKSIVVTVNGEIYNHEELRAQLSSHTFRTGSDCEVIAHLYEEHGENFIDMLDGV
+FSFVLLDTRDnSFIAARDAIGVTPLYIGWGIDGSVWISSEMKGLNDDCEHFEIFPPGHLY
+SSKQGGFKRWYNPPWFSEVIPSVPYDPLALRKAFEKAVIKRLMTDVPFGVLLSGGLDSSL
+VAAVTVRHLAGTKAAKRWGTKLHSFCVGLEGSPDLKAAKEVADYLGTVHHEFtFTVQDGI
+DAIEDVIYHTETYDVTTIRASTPMFLMSRKIKSLGVKMVISGEGSDEIFGGYLYFHKAPN
+KEELHRETCrKIKALHQYDCLRANKATSAWGLEARVPFLDKEFINEAMSIDPEWKMIRPD
+LGRIEKWvLRKAFDDEEQPFLPKHILYRQKEQFSDGVGYSWIDGLKAHAESNVTDKMMSN
+AKFIYPHNTPTTKEAYYYRMIFERFFPQNSAILTVPGGPSVACSTAKAIEWDAQWSGNLD
+PSGRAALGVHLSAYEQEHLPATIAAGTSKKPRMIkvVAPGVAIES
+
+
+PACMAD CONSENSUS:
+Length: 595 aa
+
+MCGILAVLGCADEAshGKDKRARVLELSRRLKHRGPDWSGLRQVGDCYLSHQRLAIIDPA
+SGDQPLYNEDqSVVVTVNGEIYNHQhLRKQLSsAGHKFRTGSDCEVIAHLYEEHGEEFVD
+MLDGVFSFVLLDTRHGSFMAARDAIGVTPLYIGWGIDGSVWISSEMKALNDECEHFEIFP
+PGHLYSSNTGGFRRWYNPPWFSEAIPSVPYDPLALRKAFEKAVvKRLMTDVPFGVLLSGG
+LDSSLVAAVTVRHLAgTEAAKRWGTKLHSFCVGLEGSPDLKAAKEVADYLGTVHHEFHFT
+VQDGIDAIEDVIYHTETYDVTTIRASTPMFLMSRKIKSLGVKMVISGEGSDEIFGGYLYF
+HKAPNKEEFHRETCRKIKALHQYDCLRANKATSAWGLEARVPFLDKEFINEAMSIDPEWK
+MVRPDLGRIEKWVLRKAFDDEEQPFLPKHILYRQKEQFSDGVGYSWIDGLKAHAASNVTD
+KMLSNAKFIFPHNTPTTKEAYYYRMIFERFFPQKSAILTVPGGPSVACSTAKAIEWDAQW
+SGNLDPSGRAALGVHLSAYEqEQDpKHLPATIAAGASKKPRTIrVAAPPGVAIEG
+
+================================================================================

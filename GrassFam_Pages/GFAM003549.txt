@@ -1,0 +1,118 @@
+================================================================================
+GrassFam ID: GFAM003549
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             468.5 aa
+Family Size (Extended Family Size): 30 (32) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR12411
+Modal Panther ID:                PTHR12411:SF1013
+Modal Panther Description:       ORYZAIN BETA CHAIN
+Modal Panther Family ID:         PTHR12411
+Modal Panther Fam Desc:          CYSTEINE PROTEASE FAMILY C1-RELATED
+Interpro Signature Accession:    cd02248; G3DSA:3.90.70.10:FF:000068; G3DSA:2.10.25.160:FF:000002; G3DSA:3.90.70.10; PTHR12411; PF00112; SM00848; SM00645; SSF54001
+Interpro Signature Description:  Peptidase_C1A; Cysteine protease 1; Cysteine proteinases; CYSTEINE PROTEASE FAMILY C1-RELATED; Papain family cysteine protease; Inhibitor_I29_2; pept_c1
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu02H
+  Gene Products: cysteine protease 1-like
+Ata
+  Gene count: 4
+  Modal chromosome: Ata02D
+  Gene Products: cysteine protease 1; cysteine protease 1-like
+Tae
+  Gene count: 10
+  Modal chromosome: Tae02A
+  Gene Products: cysteine protease 1-like
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: cysteine protease 1
+  Gene Descriptions: cysteine protease 1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: cysteine protease 1-like
+  Gene Synonyms: CP1,OsCP1
+  Gene Descriptions: cysteine protease 1-like
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: cysteine protease 1-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha06
+  Gene Products: cysteine protease 1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: cysteine protease 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 468 aa
+
+MAGgGkAAAAVALVlLVLFAaaSsAAAAhPDNaeHGVRGlrRTEAeVRAMYDaWLARHGR
+SYNALGEYdRRFRAFWDNLrFVDAHNARAgARGFRLGMNRFADLTNAEFRAAYLGAgaaG
+RgRnAVGERYRYDGVEaLPESVDWREKGAVAPVKNQGQCGSCWAFSAVGAVEGINKIVTG
+DLVTLSEQELVDCSRNGQNSGCNGGMMDDAFDFIARNGGIDTEEDYPYTAKDGKCDLAKK
+ARtVVSIDGFEDVPrNDElSLqKAVAHQPVSVAIEAGGREFQLYESGVFTGRCGTELDHG
+VVAVGYGTEADGGKDYWLVRNSWGPgWGEGGYIRMERNVTARAGKCGIAMmASYPVKnGP
+NPkPsPPpPEKPVkCDRYSSCPAGSTCCCTYGVRnvCLVWGCCPAEGATCCKDRATCCPS
+DYPVCNAgnRTCAKSKGSPYTVEALiRTPAKRqRTavIsELVDSIFSI
+
+
+BOP CONSENSUS:
+Length: 468 aa
+
+MAGGGkAAAAVALVLALVlFAAASsAAAAhPDYNAeHGVRGLrRTEAEVRAMYDAWLARH
+GRSYNALGEYvRRFRAFWDNLDFVDAHNARAaqRGGFRLGMNRFADLTNAEFRAAYLGAg
+AAGRGRNAVGERYRYDGeEVLPESVDWREKGAVAPVKNQGQCGSCWAFSTVAAVEGINKI
+VTGDLVTLSEQELVECSRNGQNSGCNGGIMDDAFDFIVRNGGIDTEEDYPYTAKEGKCDL
+AKKARTVVSIDGFEDVPeNDELSLMKAVAHQPVSVAIEAGGREFQLYESGVFTGRCGTEL
+DHGVVAVGYGTEADgGKDYWLVRNSWGPGWGEGGYIRMERNVTARAGKCGIAMMASYPVK
+NGPNPKPaPPAPEpKCDRYSSCPAGSTCCCTYGVRkVCLVWGCCPAEGATCCRDrATCCP
+SEYPVCNAgnRTCSKSKNSPYTVDALPRTPAKRqRTAVSELVDSIFSI
+
+
+PACMAD CONSENSUS:
+Length: 460 aa
+
+MAGVGRgLVAVALAFLvLFASPAAADAvRGMARTEAQARAMYDLWLARHGKAYNALGEHD
+RRFRAFWDNLRFVDAHNARAGARGYRLGLNRFADLTNAEFRAAYLSGGGvvRGarNATGE
+RYRYDGVEALPEFVDWRQKGAVAPVKNQGQCGSCWAFSAVGAVEGINQIVTGELVTLSEQ
+ELVDCSKNGQNSGCNGGMMDDAFAFIAGNGGIDTDkDYPYTARDGKCDLVKKARrVVSID
+GFEDVPRNDEKSLQKAVAHQPVTVAIEAGGREFQLYESGVFTGRCGTSLDHGVVAVGYGT
+EDGGrDYWLVRNSWGADWGEAGYIRMERNVgARAGKCGIAMEASYPVKTGPNPGPSPsPP
+TPPVpCDRHSSCPAGSTCCCTYGVRNvCLVWGCCPAEGATCCKDRATCCPADHPVCNART
+RTCAKSRGStDTVEAMLRFPAKRHRGSLIAEELVDSVFsI
+
+================================================================================

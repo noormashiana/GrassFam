@@ -1,0 +1,137 @@
+================================================================================
+GrassFam ID: GFAM013885
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             509.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24286:SF385
+Panther Family ID:               PTHR24286
+Modal Panther ID:                PTHR24286:SF385
+Modal Panther Description:       OS02G0675400 PROTEIN
+Modal Panther Family ID:         PTHR24286
+Modal Panther Fam Desc:          CYTOCHROME P450 26
+Interpro Signature Accession:    cd11043; G3DSA:1.10.630.10:FF:000020; G3DSA:1.10.630.10; PTHR24286; PF00067; SSF48264
+Interpro Signature Description:  CYP90-like; Cytochrome P450 family protein; Cytochrome P450; CYTOCHROME P450 26
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: cytochrome P450 87A3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: cytochrome P450 87A3
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: cytochrome P450 87A3
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: cytochrome P450 87A3; cytochrome P450 87A3-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: cytochrome P450 87A3
+  Gene Descriptions: cytochrome P450 87A3
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: cytochrome P450 87A3-like
+  Gene Synonyms: CYP87A3
+  Gene Descriptions: cytochrome P450 87A3-like
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 1
+  Modal chromosome: Pau13
+  Gene Products: cytochrome P450 87A3
+  Gene Descriptions: cytochrome P450 87A3
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: cytochrome P450 87A3; cytochrome P450 87A3-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: cytochrome P450 87A3
+Msi
+  Gene count: 1
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: cytochrome P450 87A3
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: cytochrome P450 87A3; cytochrome P450 87A3%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 511 aa
+
+MQPYLELASLRLTTTIPLSPRIYSANLLVTSEAMAsMAYIALcaAALAalVALLHWAYRW
+SHPKSaGrLPPGSMGIPLlGETLQFFAPNPTCDLSPFVKERVKRYGSIFKTSIVGRPVVV
+SADPDMNYYVFQQEGKLFESWYPDTFTEIFGRDNVGSLHGFMYKYLKTLVLRLYGQENLK
+AVLLAETDAACRGSLASWAAQPSVELKEGLSTMIFDLTAKKLIGYEPSKSSESLRKNFvA
+FIRGLISFPVNIPGTAYHECMEGRKNAMKVLKGMMKERMADPERrCEDFFDHVIQELRRE
+KPLLTETIALDLMFVLLFASFETTALALTLGVKLLTENPKVVDALREEHEAIaRNRKDPD
+ApVTWAEYRSMTFTnQVIMEMVRLANIVPGIFRKALQDVEIKGYTIPAGWGIMVCPPAVH
+LNPDIYEDPLAFNPWRWQGKPEITGGTKHFMAFGGGLRFCVGTDLSKVLMATFIHnLVTK
+YSWRTVKGGNIVRTPGLGFPDGFHIQLFPRN
+
+
+BOP CONSENSUS:
+Length: 508 aa
+
+MQPYLELASLRITTTIPLSPRIYSTIFLEAMAAMAYIALrGAALAAvVALLHWVYRWRHP
+KSAGTLPPGSMGIPIIGETLQFFAPNPTCGLSPFVRDRVKRYGSMFKTSIVGRPVVVSAD
+PDVNHYVFQNEGKLFESWYPDTFTEIFGRDNVGSLHGFIYKYLKTLVLRLYGQENLKAVL
+LAETDAACRGSLASWAAQPCVDIKDGLSTMIFDLTAKKLIGYEPTKSSESLRENFTAFIR
+GLISFPLNIPGTAYHECMEGRKKAMKVLKGMMKERMADPERKCEDFFDHVIQELRREKPL
+LTETIALDLMFVLLFASFETTALALTLGVKLLTENPRVVDALTEEHEAIVRNREDPDAAV
+TWAEYKSMTFTSQVIMEIVRLANIVPGIFRKALQDVEIKGYTVPAGWGIMVCPPAVHLNP
+EIYEDPLAFNPWRWQGKPEITGGTKHFMAFGGGLRFCVGTDLTKVLMATFIHNLVTKYRW
+KTVKGGNIVRTPGLGFPDGFDIQLFPKN
+
+
+PACMAD CONSENSUS:
+Length: 511 aa
+
+MQPYLQLASprLATTIPLSRKLYtANLLVTSEAMsSMAYIALCAAALAtFVALLrWAYRW
+SHPKSrGRLPPGSMGIPLLGETMQFFAPNPTCDVSPFVKERVRRYGSIFKTSIVGRQVVV
+SADPDMNYFVFQQEGKLFESWYPDTFTEIFGRDNVGSLHGFMYKYLKTLVLRLYGQENLK
+AVLLAETDAACRGSLASWAAQPSVELKEGLSTMIFDLTAKKLIGYEPSKSSESLRKNFVA
+FIRGLISFPVNIPGTAYHECMEGRKNAMKVLKSMMKERMADPERRCEDFFDHVIQELRRE
+KPLLTETIALDLMFVLLFASFETTALALTLGVKLLTENPKVVDALREEHDAIArNRKDPD
+APVTWAEYRSMTFTNQVIMEMVRLANIVPGIFRKALQDVEIKGYTIPAGWGIMVCPPAVH
+LNPDIYEDPLAFNPWRWQgKPEITGGTKHFMAFGGGLRFCVGTDLSRVLMATFIHSLVTK
+YSWRTVKGGNIVRTPGLGFPDGFHIQLfPRN
+
+================================================================================

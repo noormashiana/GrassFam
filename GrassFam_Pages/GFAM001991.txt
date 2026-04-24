@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM001991
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             537.0 aa
+Family Size (Extended Family Size): 23 (29) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46043:SF23
+Panther Family ID:               PTHR46043
+Modal Panther ID:                PTHR46043:SF23
+Modal Panther Description:       SUBFAMILY NOT NAMED
+Modal Panther Family ID:         PTHR46043
+Modal Panther Fam Desc:          ARM REPEAT SUPERFAMILY PROTEIN
+Interpro Signature Accession:    PTHR46043; SSF48371
+Interpro Signature Description:  ARM REPEAT SUPERFAMILY PROTEIN; ARM repeat
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: U-box domain-containing protein 11
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu02H
+  Gene Products: U-box domain-containing protein 11-like; protein CELLULOSE SYNTHASE INTERACTIVE 1-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata02D
+  Gene Products: U-box domain-containing protein 11-like; protein CELLULOSE SYNTHASE INTERACTIVE 1
+Tae
+  Gene count: 6
+  Modal chromosome: Tae02A
+  Gene Products: U-box domain-containing protein 11-like; protein CELLULOSE SYNTHASE INTERACTIVE 1-like; uncharacterized LOC123046451
+Ola
+  Gene count: 1
+  Modal chromosome: Ola11
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: uncharacterized LOC127753870
+  Gene Descriptions: uncharacterized LOC127753870
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: U-box domain-containing protein 17
+  Gene Descriptions: U-box domain-containing protein 17
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 2
+  Modal chromosome: Pau12
+  Gene Products: uncharacterized LOC133886078; uncharacterized LOC133900835
+  Gene Descriptions: uncharacterized LOC133886078; uncharacterized LOC133900835
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi08K
+  Gene Products: uncharacterized LOC120644453; uncharacterized LOC120686570
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: uncharacterized LOC112902796
+Msi
+  Gene count: 1
+  Modal chromosome: Msi10
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 537 aa
+
+MQPPPESGEPAGDaLAECLRLLeeLPAAAASSPAFRRHWPSISASLSSLSASLSHPAFPP
+SAPLLAPLASALSALLSVCGGPpLGHLHTVSLLSSSAASLSQLAADARLLVSPAPagGeG
+sGsDgLLPRLRLGSAVSRAAALDSLAESVGSLPASssAAAVSAVAAMLDSGDLLPASRDK
+AVSVLAAFASSDAACRFLAQESGTVVPHLCRALESGGASAEQACVALEPLTASSRDAAAA
+VAARGGVAALLvACAAGTPASQAAAAGVLRNLAAFPDLLPAFRDEGALPLLVQLVSLGTP
+RAQELALGCLQNLTASDGDEGQRLKVEAFQEGALGCVKDFLDSCRGDEPGLAPAFGLLRN
+MASFRYIAEIAVSAsFVSHVvAALGSDRAsTRTEAAMALAELCnVsSSGKARkEvGDAMP
+RLVWMLEAKAVAERDAAARALAALVAASSSYRKLFKKDEMGIVNAVQLLDPAVRGVDKRF
+PVSVLLAVSQSRRCRKQMVAAGACGFLQGLLAAEVDGAKKLSECLGRGKMLGVFPRT
+
+
+BOP CONSENSUS:
+Length: 533 aa
+
+MQPPPESTGDALAECLRLLdELPAAAASSPAFRRHWPSISASLSSLSASLSHPAFPPSAP
+LLaPLASALSALLSVCGGPPLGHLHTVSLLSSSAASLSQLAADARLLVSPSPAgGEGsGS
+DSLLPRLRLGSAVSRAAALDSLAESVGSLPAShSAAAVSAVAAMLDSGDLLPASRDKAVS
+VLAAFASSDAtCRFLAQESGTVVPHLCRALESGGASAEQACVALEPLTASSRDAAAAVSA
+RGGVAALLVACAAGTPASQAAAAGVLRNIAAFPDLLPAFRDEGALPLLVQLVSLGTPRAQ
+ELALGCLQNLTASDGDEGQRLKVEAFQeGALGCVKDFLESCRGDEPGLAPAFGLLRNMAS
+FRYIAEIAVSAsFVSHVVAALGSDrAsTRTEAAMALAELCnVSSGKARkEVGDAMPRLIW
+MLEAKAVAERDAAARALATLVAASSSYRKLFKKEEMGIVNVVQLLDPAVRGvDKRFPVSV
+LLAVSQSRRCRKQMVAAGACGFLQgLLAAEVDGAKKLSECLGRGKMLGVFPRT
+
+
+PACMAD CONSENSUS:
+Length: 542 aa
+
+PPPPPESGDPGLAECLRLLEAVPAAAASSPAFRRHWPSISASLAALSAALASPAFPPaAP
+LLAPLAAALGALLSVAgDAPRLGHLHTVSLLSSSAASLSQLAADARLLAtPAPPAsAGGG
+gDsGADALISRLRLGSAASRAAALEELAGTAAALPAsSAAAAVSAVAALLDSAGGDLLPa
+SRERAVSVLAAFASSDAACRFLAQESGAVVPHLCRALESGGAGAEHACAALLPLTAASRD
+ASAAVAARGGVAALLAACAGGTPATQAAAAGVLRNLAAFPDLLPWFRDEGALPLLLQLVS
+LGTPRAQELALGCLQNLTAGDGDEGQRLKVEAFQEGALACVKDFLDASRGDEPGLAPALG
+LLRNMASFRYIAEIAASASFVAHVAAALGSDRSpTRTEAALALAELCGNAAGGKSRrELE
+gAVPRLVWMLEAKPVAERDAAARALAALLASSGACRKLFRKDERGVVNAVQLLDPAGARG
+VDRRFPVsVLLAVAQSRRCRKQMVAAGACGFLQGLMAAEVDGAKRLAECLGKGKMLGVFP
+RT
+
+================================================================================

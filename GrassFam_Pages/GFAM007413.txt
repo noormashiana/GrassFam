@@ -1,0 +1,127 @@
+================================================================================
+GrassFam ID: GFAM007413
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             372.0 aa
+Family Size (Extended Family Size): 23 (27) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12835:SF5
+Panther Family ID:               PTHR12835
+Modal Panther ID:                PTHR12835:SF5
+Modal Panther Description:       BIOTIN--PROTEIN LIGASE
+Modal Panther Family ID:         PTHR12835
+Modal Panther Fam Desc:          BIOTIN PROTEIN LIGASE
+Interpro Signature Accession:    cd16442; G3DSA:3.30.930.10; TIGR00121; PTHR12835; PF03099; SSF55681
+Interpro Signature Description:  BPL; Bira Bifunctional Protein; Domain 2; biotin--[acetyl-CoA-carboxylase] ligase; BIOTIN PROTEIN LIGASE; Biotin/lipoate A/B protein ligase family; Class II aaRS and biotin synthetases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi02
+  Gene Products: biotin--protein ligase 2; biotin--protein ligase 2%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: biotin--protein ligase 2-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: biotin--protein ligase 2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: biotin--protein ligase 2-like%2C transcript variant X1; biotin--protein ligase 2-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: biotin--protein ligase 2-like%2C transcript variant X1
+  Gene Descriptions: biotin--protein ligase 2-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: biotin--protein ligase 2%2C transcript variant X1
+  Gene Descriptions: biotin--protein ligase 2
+Pau
+  Gene count: 1
+  Modal chromosome: Pau06
+  Gene Products: biotin--protein ligase 2-like
+  Gene Descriptions: biotin--protein ligase 2-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi01K
+  Gene Products: biotin--protein ligase 2-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: biotin--protein ligase 2-like%2C transcript variant X2
+Msi
+  Gene count: 5
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: biotin--protein ligase 2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: biotin--protein ligase 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 375 aa
+
+MPFPVRLPPPaTTAAAAAATAGAVLAAVALRRYLSSRsRPaASahmSAsAAgAaTTLVlS
+GKSPQDQELLASAAGSLaLGEGEsgGEvAVsLAydAGGGAGFDAAAYMGALRARRFGRWM
+LWSPRiGSTHDLVaQNFAKLPVGVVCVADVQFKGRGRSKNVWESPPGCLMFSFTSQMqDA
+RKLPLMQYVVCLSMTEAIKELCcAKGLPELDVRIKWPNDLYLKGLKVGGILCTSSYEPKV
+YNICTGIGLNVDNEKPTTCLNAALQEaNANSPRLKREDILASFFNKFEnLFEIFSNQGFQ
+ALEEQYYNSWLHSGQRVVVQDAHEGQSVgSVVTIQGLTPtGYLYAIGEDGKSYELHPDGN
+SFDFFTGLVRRKMEA
+
+
+BOP CONSENSUS:
+Length: 371 aa
+
+MPFPtRLPPPATAAAATAAAVLAAVALRRYLSSRSRaAASAHSTSgAPAATTfLVLSGKS
+PQDQQLLASAAGeLSLaEEGGGELAVSLAlDAGGDAGFDAAAYMGALRARRFGRWMLWSP
+RMASTHDLVTQNFAKLPVGVVCVTDVQFKGRGRSKNVWESPPGCLMFSFTSQMNDARKLP
+LMQYVVCLAMTEAIKDLCCAKGLPELDVRIKWPNDLYLKGLKVGGILCTSSYEPKVYNIC
+TGIGLNVDNEKPTTCLNAALQELKANSPRLKREDILASFFNKFEVLFEIFSNQGFQALEE
+QYYNSWLHSGQRVVVQDAHEGQSVNSVVTIqGLTPSGYLYAvGEDGKSYELHPDGNSFDF
+FTGLVRRKMdA
+
+
+PACMAD CONSENSUS:
+Length: 371 aa
+
+MPFPVRLPPPSTTAAAAAATVGAVLAAVALRRYLSASRHRPsAsVSMSAAAGAATTLVAY
+GKSPQEQELLASAAGSVALGEGEsAGEVAVALAYEGAGFDAgAYMSALRARRFGRWMLWT
+PRIGSTQDLIAQNFAKLPVGVVCVADVQFKGRGRSKNVWESPPGCLMFSFTSQMQDARKL
+PLMQYVVCLSITEAIKELCRAKGLPELDVRIKWPNDLYLKGLKVGGILCTSSYEPKVYNI
+CTGVGLNVDNEKPTTCLNAALQEANpTSPrLKREDILAYFFNKFENLFEIFsNQGFQALE
+EQYYNSWLHSGQRVVVQDAHEgqSGSVVTIQGLTPTGYLYAIGEDNKSYELHPDGNSFDF
+FTGLVRRKMEA
+
+================================================================================

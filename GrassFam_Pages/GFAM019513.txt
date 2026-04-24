@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM019513
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             342.0 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24343:SF542
+Panther Family ID:               PTHR24343
+Modal Panther ID:                PTHR24343:SF542
+Modal Panther Description:       SERINE_THREONINE-PROTEIN KINASE SAPK2
+Modal Panther Family ID:         PTHR24343
+Modal Panther Fam Desc:          SERINE/THREONINE KINASE
+Interpro Signature Accession:    cd14662; G3DSA:3.30.200.20:FF:000237; G3DSA:1.10.510.10:FF:000085; G3DSA:3.30.200.20; G3DSA:1.10.510.10; PTHR24343; PF00069; SM00220; SSF56112
+Interpro Signature Description:  STKc_SnRK2; Serine/threonine-protein kinase SAPK2; Serine/threonine-protein kinase SRK2E; Phosphorylase Kinase; domain 1; Transferase(Phosphotransferase) domain 1; SERINE/THREONINE KINASE; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: abscisic acid-inducible protein kinase%2C transcript variant X1
+  Gene Synonyms: SAPK1
+  Gene Descriptions: abscisic acid-inducible protein kinase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: abscisic acid-inducible protein kinase
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: abscisic acid-inducible protein kinase%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: abscisic acid-inducible protein kinase-like%2C transcript variant X1; abscisic acid-inducible protein kinase-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: serine/threonine-protein kinase SAPK1
+  Gene Descriptions: serine/threonine-protein kinase SAPK1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: serine/threonine-protein kinase SAPK1-like
+  Gene Synonyms: OsJ_11114,OsSAPK1,SAPK1
+  Gene Descriptions: serine/threonine-protein kinase SAPK1-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau03
+  Gene Products: serine/threonine-protein kinase SAPK1
+  Gene Descriptions: serine/threonine-protein kinase SAPK1
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: serine/threonine-protein kinase SAPK1; serine/threonine-protein kinase SAPK1-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: serine/threonine-protein kinase SAPK1%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: serine/threonine-protein kinase SAPK1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: uncharacterized LOC100281258%2C transcript variant X1
+  Gene Synonyms: GRMZM2G035809,pco069505(751),SnRK2.1
+  Gene Descriptions: uncharacterized LOC100281258
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 342 aa
+
+MERYEVIRDIGSGNFGVAKLVRDVRTKELFAVKFIERGQKIDEHVQREIMNHRSLKHPNI
+IRFKEVVLTPTHLAIVMEYAAGGELFERICNAGRFSEDEARFFFQQLISGVSYCHSMQVC
+HRDLKLENTLLDGSVAPRLKICDFGYSKSSVLHSQPKSTVGTPAYIAPEVLSRKEYDGKV
+ADVWSCGVTLYVMLVGAYPFEDPDDPRNFRKTITRILSVQYSIPDYVRVSMECRHLLSRI
+FVGNPEQRITIPEIKNHPWFLKNLPIEMTDEYQRSMQLADMNTPSQSLEEVMAIIQEARK
+PGDALKLAGQVACLGSMDLDDIDLDDIDDIDIENSGDFVCAL
+
+
+BOP CONSENSUS:
+Length: 343 aa
+
+MDRYEVVRDIGSGNFGVAKLVRDVRTKEHFAVKFIERGHKIDEHVQREIMNHRSLKHPNI
+IRFKEVVLTPTHLAIVMEYASGGELFQRICNAGRFSEDEGRFFFQQLISGVSYCHSMQVC
+HRDLKLENTLLDGSVAPRLKICDFGYSKSSVLHSQPKSTVGTPAYIAPEVLSRREYDGKV
+ADVWSCGVTLYVMLVGAYPFEDPDEPRNFRKTITRILSVQYSVPDYVRVSMDCiHLLSRI
+FVGNPQQRITIPEIKNHPWFLKNLPVEMTDEYQRSMQLADMNTPSQSLEEVMAIIQEARK
+PGDNALGLAGQVACLGSMDLDDIDFDDIDDIDIENSGDFVCPL
+
+
+PACMAD CONSENSUS:
+Length: 342 aa
+
+MERYEVIRDIGSGNFGVAKLVRDVTTKELFAVKFIERGQKIDEHVQREIMNHRSLKHPNI
+IRFKEVVLTPTHLAIVMEYAAGGELFERICNAGRFSEDEARFFFQQLISGVSYCHSMQVC
+HRDLKLENTLLDGSVAPRLKICDFGYSKSSVLHSQPKSTVGTPAYIAPEVLSRKEYDGKV
+ADVWSCGVTLYVMLVGAYPFEDPDDPRNFRKTITRILSVQYSIPDYVRVSMECRHLLSRI
+FVGNPEQRITIPEIKNHPWFLKNLPIEMTDEYQQSMQLADMNTPEQSLEEVMAIIQEARK
+PGDAVKLAGQVPCLGSMDLDDIDLDDIDDIDIENSGDFVCAM
+
+================================================================================

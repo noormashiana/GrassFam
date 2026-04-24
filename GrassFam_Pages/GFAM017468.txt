@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM017468
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             487.0 aa
+Family Size (Extended Family Size): 18 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10742:SF264
+Panther Family ID:               PTHR10742
+Modal Panther ID:                PTHR10742:SF264
+Modal Panther Description:       POLYAMINE OXIDASE 4
+Modal Panther Family ID:         PTHR10742
+Modal Panther Fam Desc:          FLAVIN MONOAMINE OXIDASE
+Interpro Signature Accession:    G3DSA:3.90.660.10; G3DSA:3.50.50.60; PTHR10742; PF01593; SSF51905; SSF54373
+Interpro Signature Description:  -; FLAVIN MONOAMINE OXIDASE; Flavin containing amine oxidoreductase; FAD/NAD(P)-binding domain; FAD-linked reductases, C-terminal domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: probable polyamine oxidase 4
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: polyamine oxidase 4
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: polyamine oxidase 4; polyamine oxidase 4-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: polyamine oxidase 4
+  Gene Descriptions: polyamine oxidase 4
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: probable polyamine oxidase 2
+  Gene Descriptions: probable polyamine oxidase 2
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 1
+  Modal chromosome: Pau07
+  Gene Products: polyamine oxidase 4
+  Gene Descriptions: polyamine oxidase 4
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: polyamine oxidase 4; polyamine oxidase 4-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: probable polyamine oxidase 2
+Msi
+  Gene count: 1
+  Modal chromosome: Msi12
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: probable polyamine oxidase 2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: uncharacterized LOC100191603
+  Gene Synonyms: GRMZM2G078033,pco077065
+  Gene Descriptions: uncharacterized LOC100191603
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 487 aa
+
+MDPNGLKTGGLLLPTIERRCASPPSVIVIGGGISGVAAARALSNSSFKVTVLESRDRIGG
+RVHTDYSFGCPIDMGASWLHGVCNENSLAPLIGYLGLRLYRTSGDNSVLYDHDLESYALF
+DKdGNQVPKETVAKVGETFERILEETVKVRDEQEHDMPLLQAISIVLERHPHLKLEGLDD
+QVLQWCVCRLEAWFAADADEISLKNWDQERVLTGGHGLMVNGYYPVIQALAQGLDIRLNQ
+RVTKIARQyNGVTVTTEDGTqYfADACIITVPLGVLKANIIKFEPELPSWKSSAIADLGV
+GIENKIAMHFDRVFWPNVEVLGMVGPTPKACGYFLNLHKATGNPVLVYMAAGRFAQEVEK
+LSDKEAVDLVMSHLKKMLPDATEPTQYLVSRWGSDPNSLGSYSCDLVGKPADVCARFSAP
+VENLYFAGEAASAEHSGSVHGAYSSGlAAAEECRKRLLtQKGVPDLVQVAAWEEMAGVVA
+PLQICRT
+
+
+BOP CONSENSUS:
+Length: 489 aa
+
+MDPNSFKTGGLLLPTIERRCASPPSVIVIGGGISGIAAARVLSNSSFEVTVLESRDRIGG
+RVHTDYSFGCPIDMGASWLHGVSNENSLAPLIGHLGLRLYHTSGDNSVLYDHDLESCSLF
+DKNGlQVPmETAAKVGviFERILKETVKLRDEQEHDMPLeQAISMVLERHPDLKLEGLDD
+RVLQWCVCRLEAWFAADADEISLKNWDQEHVLTGGHGLMVDGYyPVIQALAQGLDIRLNQ
+RVTKIARQqNGVTVTIEDGTQYSADACIITVPLGVLKANIIKFEPELPSWKSSAIADLGV
+GIENKVAMHFDKAFWPNVQVLGMVGPTPKTCGYFLNLHKATGNPVLVYMAAGRFAQeVEK
+LSDKEAVeLVMsHLRKMIPDATEPTQYLVSRWGSDPNSLGSYSCDLVGKPSDVCERFSAP
+VESVLYFAGEAASAEHSGAVHGAYSSGmdAAEECRrRLLMqKGVPDLVQVAAACEEMADV
+VAPLQICRT
+
+
+PACMAD CONSENSUS:
+Length: 487 aa
+
+MDPNGLKTGGLLLPTIERRCTSPPSVIVIGGGISGVAAARALSNSSFKVTVLESRDRIGG
+RVHTDYSFGCPIDMGASWLHGVCNENSLAPLIGYLGLRLYRTSDDNSVLYDHDLESYALF
+DKDGNQVPKETVDKVGETFERILEETVKVRDEQEHDMPLLQAISIVFERHPHLKLEGLDD
+QVLQWCVCRLEAWFAADADEISLKNWDQERVLTGGHGLMVNGYYPVIEALAQGLDIRLNQ
+RVTKITRQYNGVKVTTEDGTNYFADACIITVPLGVLKANIIKFEPELPPWKSSAIADLGV
+GIENKIAMHFDRVFWPNVEVLGMVGPTPKACGYFLNLHKATGNPVLVYMAAGRFAQEVEK
+LSDKEAVDLVVSHLKKMLPDATEPTQYLVSRWGSDPNSLGSYSCDLVGKPADVCARFSAP
+VENLYFAGEAASAEHSGSVHGAYSSGLAAAEECRKRLLTQKGVPDLVQVAAWEEVAGAVA
+PLQICRT
+
+================================================================================

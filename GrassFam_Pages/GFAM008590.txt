@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM008590
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             527.0 aa
+Family Size (Extended Family Size): 21 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12395:SF24
+Panther Family ID:               PTHR12395
+Modal Panther ID:                PTHR12395:SF24
+Modal Panther Description:       DECAPPING NUCLEASE
+Modal Panther Family ID:         PTHR12395
+Modal Panther Fam Desc:          DOM-3 RELATED
+Interpro Signature Accession:    PTHR12395; PF08652
+Interpro Signature Description:  DOM-3 RELATED; RAI1 like PD-(D/E)XK nuclease
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: decapping nuclease DXO homolog%2C chloroplastic
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: NAD-capped RNA hydrolase DXO1%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: NAD-capped RNA hydrolase DXO1
+Tae
+  Gene count: 2
+  Modal chromosome: Tae01A
+  Gene Products: NAD-capped RNA hydrolase DXO1-like; NAD-capped RNA hydrolase DXO1-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: NAD-capped RNA hydrolase DXO1
+  Gene Descriptions: NAD-capped RNA hydrolase DXO1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: NAD-capped RNA hydrolase DXO1%2C transcript variant X1
+  Gene Descriptions: NAD-capped RNA hydrolase DXO1
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: NAD-capped RNA hydrolase DXO1-like
+  Gene Descriptions: NAD-capped RNA hydrolase DXO1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: NAD-capped RNA hydrolase DXO1-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: decapping nuclease DXO homolog%2C chloroplastic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: decapping nuclease DXO homolog%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: decapping nuclease DXO homolog%2C chloroplastic
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 529 aa
+
+MDFSEQDVDVFGEDYDVHDGGAEAEADGGGDSSGSSSPSSSSSSSAAASSSSSSGASSRS
+SSGGAGGEGEDGADEGDGeEYDSFDvVPTRGGAAGYRDEERGEdEdEEVEEERDLFGSDN
+EEYVRTPARSNYLVPVLPAIRNTNNHSRGGFGGRGGRGPPLLPRPGGHPGRHNFGYGRFS
+yGNGRNVEGFVSEMKLNKSEETLSRKAVAFQEPCEIACLSRVEGGDVYFDDRSLRLFKRE
+ICDYVGADLNKGFESFIEKRDLGSEGFGDLLACIRNSNIPLQNNIHFVTYRNNLNKILAT
+AYLREPWKMGVHKRnGVVYLDVHKLPERPKSEVERRRCYWGYSFENLATENSIdEDGRGI
+DANVEFCSVIKTKLGAHRIIMGAEMDCCDATDDGRRFYVELKTSRELEYHTVEAYEKEKL
+LRFWIQSFLAGVPYVVVGFRNDAGVLVRTERLRTKDITQKVKAKNYWQGGVCLAFADEVL
+CWLYGTVKENEDYVLQFVHPFNRLELLRAQSPCPEAITLHVQQLSGAAD
+
+
+BOP CONSENSUS:
+Length: 519 aa
+
+MDFSEQDVDVFGEEYDGAEAEAEGGGGGASSGSSSPSSSSSSSAAASSSSSSGASSGRSS
+SpAAGGGDEDGADDGDGGEYDSFDVVPARpAAGYGDEEEEEEEARDLFGSDNEEYVKTPA
+RSNYLVPVLPsIRNTNNFSRGGRGGRGPPLLPRPGGHPGGRNNFGHGGRFSYGNGRNVEG
+FVSEMKLNKSEETLSRKAVAFQEPCEIACYSRVEGGDVYFDDRSLRLFKRNICDYAGEDL
+NKGFETFIEKRDLGSQGFGDLLACIRNSNLPLQNIHFVTYRNNLNKILATAYLKEPWKMG
+VHKRNGVVYLDVHKLPERPQSEIERRRCFWGYSFENLATENSIDEDGRGIDANVEYCSVI
+KTKLGAHRIIMGAEMDCCDATDDGRRFYVELKTSRELEYHTVEKFEKEKLLRFWIQSFLA
+GVSYVVVGFRNDAGVLIRTERLRTKDITQKVKAKNYWQGGVCLAFADEVLCWLYGTVKEN
+EDYVLQFAHPFHRLELLrAQSPCPDAITlHVEQLSGATn
+
+
+PACMAD CONSENSUS:
+Length: 528 aa
+
+MDFSEQDVDVFGEDYDVHDGGAEAEADGGGDSSGSSSPSSSSSSSAAASSSSSSGGSSRS
+SSGGAAGEGEDGADEGDGEEYDSSNLvaTRGaGAAGYRDDERGEDEDEEVEEERDLFGSD
+NEEYVRTPARSNYLVPVLPAIRNTNNHSRGGFGGRGGRGPPLLPRPGGHPGRHNFGYGRF
+GNGRNVEGLVSDMKLNKSEETLSRKAVAFQEPCEIACLSRVEGGgVYFDDRSLRLFKREI
+CDYVGADLNKGFESFIEKKDLGSEGFGDLLACIRNSNIlLQNNIHFVTYRNNLNKILATA
+YLREPWKMGVHKRrGVVYLDVHKLPERPKSEVERRRCYWGYSFENLATENSFSEDGRGID
+ANVEFCSVIKTKLGAHRIIMGAEMDCCDATDDGRRFYVELKTSRELEYHTVEAYEKEKLL
+RFWIQSFLAGVPYVVVGFRNDAGILVRTERLRTKDITQKVKAKNYWQGGVCLAFADEVLC
+WLYGTVRENEDYVLQFVHPFNRLELLRAQSPCPEAITLHVQQLSGAAD
+
+================================================================================

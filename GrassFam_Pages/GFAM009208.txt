@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM009208
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             404.0 aa
+Family Size (Extended Family Size): 19 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43648:SF1
+Panther Family ID:               PTHR43648
+Modal Panther ID:                PTHR43648:SF1
+Modal Panther Description:       ELECTRON TRANSFER FLAVOPROTEIN BETA SUBUNIT LYSINE METHYLTRANSFERASE
+Modal Panther Family ID:         PTHR43648
+Modal Panther Fam Desc:          ELECTRON TRANSFER FLAVOPROTEIN BETA SUBUNIT LYSINE METHYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:3.40.50.150; PTHR43648; PF06325; SSF53335
+Interpro Signature Description:  Vaccinia Virus protein VP39; ELECTRON TRANSFER FLAVOPROTEIN BETA SUBUNIT LYSINE METHYLTRANSFERASE; Ribosomal protein L11 methyltransferase (PrmA); S-adenosyl-L-methionine-dependent methyltransferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: ribosomal protein L11 methyltransferase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: ribosomal protein L11 methyltransferase
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: ribosomal protein L11 methyltransferase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: ribosomal protein L11 methyltransferase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: uncharacterized LOC127773820
+  Gene Descriptions: uncharacterized LOC127773820
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC9268339
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau09
+  Gene Products: uncharacterized LOC133929154
+  Gene Descriptions: uncharacterized LOC133929154
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi03N
+  Gene Products: ribosomal protein L11 methyltransferase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: ribosomal protein L11 methyltransferase%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: ribosomal protein L11 methyltransferase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: uncharacterized LOC100384389
+  Gene Synonyms: GRMZM2G388371
+  Gene Descriptions: uncharacterized LOC100384389
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 405 aa
+
+MLPLVRAGRAPLRRLLSTLSSPRALSPrvPYatSSgGGGgVSPLLLpLSARPSPsRvGgG
+sPAGGArRGmSFCARAVDVGDEAPSSSAAAGSDLSAPYLSVRIRCRKEDAEVLSESLLCF
+GASSVTVDDIADAgNLDEISITSIYAdGEDVGSSVSSAASSAGLdYSPVYETSVGKQCDW
+VAtVQETYESTKVIDGLWVIPKWRTPPDPQATNIIINPGLAFGTGEHPTTKLCLLFLREV
+IKGGEHVLDYGTGTGVLGIAALKMGAALSTGIDIDPQAVTSAsENMLLNGLDSNqMLVYL
+VPTnAQPSCFPSsIDKSEENKPTnNLELKSSRGTYDIVAANILLNPLLELVEDIVGYAKP
+GGIVAVSGILeEQVPKVEEAYSRYLDnISVSEMDGWACLQGTRRA
+
+
+BOP CONSENSUS:
+Length: 407 aa
+
+MLPLARAPLRRLLLSSPqALSlCSPYTTVGRRVGGGGVSPLLLMLSARPSACRVGgGSPA
+AAPTGASSRGRSFCARAVSVDDEAPSSSAAGSVYDLSAPYLSVRIRCRKEDAELLSESLL
+CFGACSVTVDDIADAANLDEISITTIYAHGENVGSSVSNAASSAGLDYSPVYETSVGKQC
+DWVTLVQETYESTKVIDGLWIIPKWRTPPDPQATNIIINPGLAFGTGEHPTTKLCLLFLR
+EVIKGGEHVLDYGTGTGVLGIAALKMGAALSTGIDIDPQAVtSArENMLLNGMDSNRMLV
+YLVPTGAEPSCFSSSIDKSEEnKPtSNLELKSSKGTYDIVAANILLNPLLELVEDIVGYA
+KTGGTVAVSGILCEQVPKVEKAYSRYLDNISVSEMDGWACLQGTRRA
+
+
+PACMAD CONSENSUS:
+Length: 401 aa
+
+MLPSLVRAGRAPLRRLVSTFSSPRALSPRVPYAISSGGGlNLPLYArPSPSRDGsSGPAg
+GARRGMSFCARAVDVGDEApSSSAAAGSDLSAPYLSVRIRCRRQDAEVLSEALLCFGASS
+VTVDDIADAGNLDEISITSIYADGEDVDSSVSSAASSAGLNYSPVYETSVGKQCDWVATV
+QETYESTEVADGLWVVPKWRTPPDPQATNIIINPGLAFGMGEHPTTKLCLLLLREVIKGG
+EHVLDYGTGTGVLGIAALKMGAtQSTGIDIDPQAITSASENLLLNGLHSNQMPVYLVPTN
+AQPSCFPSAIDKSEENKSTNNlDLKSSRGTYDVVAANILLNPLLELVEDIVGYAKPGGIV
+AVSGILEEQVPKVKEVYSRYLDSILVSEMDGWACLQGTRRV
+
+================================================================================

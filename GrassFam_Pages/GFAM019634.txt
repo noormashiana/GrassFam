@@ -1,0 +1,125 @@
+================================================================================
+GrassFam ID: GFAM019634
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             482.0 aa
+Family Size (Extended Family Size): 31 (36) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11564:SF31
+Panther Family ID:               PTHR11564
+Modal Panther ID:                PTHR11564:SF31
+Modal Panther Description:       SIGNAL RECOGNITION PARTICLE 54 KDA PROTEIN
+Modal Panther Family ID:         PTHR11564
+Modal Panther Fam Desc:          SIGNAL RECOGNITION PARTICLE 54K PROTEIN SRP54
+Interpro Signature Accession:    cd17875; G3DSA:3.40.50.300:FF:000022; G3DSA:3.40.50.300; G3DSA:1.10.260.30; G3DSA:1.20.120.140; TIGR01425; PTHR11564; PF00448; PF02978; SM00962; SSF52540; SSF47446
+Interpro Signature Description:  SRP54_G; Signal recognition particle 54 kDa subunit; -; signal recognition particle protein SRP54; SIGNAL RECOGNITION PARTICLE 54K PROTEIN SRP54; SRP54-type protein, GTPase domain; Signal peptide binding domain; SRP54_3; P-loop containing nucleoside triphosphate hydrolases; Signal peptide-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu01H
+  Gene Products: signal recognition particle 54 kDa protein 2-like; signal recognition particle 54 kDa protein 3%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: signal recognition particle 54 kDa protein 3%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: signal recognition particle 54 kDa protein 3; signal recognition particle 54 kDa protein 3-like
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: signal recognition particle 54 kDa protein 2-like
+  Gene Descriptions: signal recognition particle 54 kDa protein 2-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: signal recognition particle subunit SRP54 2
+  Gene Descriptions: signal recognition particle subunit SRP54 2
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau09
+  Gene Products: signal recognition particle subunit SRP54 2-like
+  Gene Descriptions: signal recognition particle subunit SRP54 2-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi03K
+  Gene Products: signal recognition particle 54 kDa protein 2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: signal recognition particle 54 kDa protein 2-like
+Msi
+  Gene count: 8
+  Modal chromosome: Msi06
+Sbi
+  Gene count: 4
+  Modal chromosome: Sbi01
+  Gene Products: signal recognition particle 54 kDa protein 2; signal recognition particle 54 kDa protein 2%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: signal recognition particle 54 kDa protein 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 482 aa
+
+MVLAQLGGSIARALARMSnATVVDEKVLADCLNEIsRALLQADVRFETVRDVKANIKriV
+NLDALAAGTNKRRIIQqAVVgELCRMLDPGKPSFTPSKGKPSVVMFVGLQGSGKTTTCTK
+YADYHRRKGFnPALVCADTFRAGAFDQLKQNATKAKIPFYGSYtESDPVKIAVEGVDRFR
+KEKCDLIIVDTSGRHKQEAALFEEMRQVSEATKPDLVIFVMDGSIGQAAFDQAQAFKQSA
+SVGAVIVTKMDGHAKGGGALSAVAATKSPVIFIGTGEHIpDFEVFDVKPFVSRLLGMGDL
+SGLmDKIQDVMPADQQPELvpKLtEGaFTLRLLYEMFQNLQNMGPLGQLFSMIPGFSAQF
+IEKGkEKEGQAKIKRYMTIMDSMTeAELDsTNPKLMNESRINRIARGSGRLVKEVVDMLE
+EYKRIAKMWSKLPlpnniRnltNNRDSlkplvNAlPPNMLNQLGGlNGLQNMMKQMGskk
+RM
+
+
+BOP CONSENSUS:
+Length: 494 aa
+
+MVLAELGGSISRALARMSSATVVDEnVLRECLNEIARALMQSDVRFKMVCDLQANIRKsV
+NLEALAAGTNKRRIIETAVGKELCKMLDPGKPAFVPKKGKPNVVMFVGLQGSGKTTTCTK
+YAHYHQRKGFKPSLVCADTFRAGAFDQLKQNATKAKIPFYGSYMESDPVKIAVEGLEKFR
+QEKSDLIIIDTSGRHMQEAALFEEMRQVAEATKPDLVIFVMDGSIGQAAFDQAQAFKQSA
+SVGAVIVTKLDGHAKGGGALSAVAATKSPVIFIGTGEHIDDFDVFNVEPFVsRLLGRGDL
+PGLvDKMESIVPADQQSELVAKLiEGAFTLRLmYEQFQNLLKMGPMGQIFSMLPGFSSEL
+MPKGQEKQSKEKIKRYMTIMDSMTnAELDSTNPKLMTESRIlRVARGSGRtVKDVTDMLE
+EYKRLAKMWSKLNVSKLIPPNGKMSkQAIQKMLKlMPPQVVQQMGGKSpLEALvKQMGGG
+KDMSKMLAGMRGGA
+
+
+PACMAD CONSENSUS:
+Length: 478 aa
+
+MVLAQLGGSIARALARMsdATVVDEKVLADCLNEISRALLQADVRFETVRDVKANIKsIV
+NLDALAAGTDKRRIIQKAVVGELCRMLDPGKPSFTPSKGKPSVVMFVGLQGSGKTTTCTK
+YADYYRRKGFNPALVCADTFRAGAFDQLKQNATKAKIPFYGSYtESDPVKIAVEGVDRFR
+KEKCDLIIVDTSGRHKQEAALFEEMRQVSEATKPDLVIFVMDGSIGQAAFDQAQAFKQSA
+SVGAVIVTKMDGHAKGGGALSAVAATKSPVIFIGTGEHIPDFEVFDVKPFVSRLLGMGDL
+SGLMDKIQDVMPADQLvPKLTEGtFTLRLLYEMFQNLQNMGPLGQLFSMIPGLSAQFIEK
+GKEKEGQAKIKRYMTIMDSMTEKELDNTNPKLMNESRINRIARGSGRLVKEVVDMLEEHK
+RIAKMWSKLPlnNnrRpltNNRDSlKPLVNALPPNMLNQLGGLNGLQNMMKQMGSqkR
+
+================================================================================

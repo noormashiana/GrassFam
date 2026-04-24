@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM009223
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             379.0 aa
+Family Size (Extended Family Size): 22 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11741:SF0
+Panther Family ID:               PTHR11741
+Modal Panther ID:                PTHR11741:SF0
+Modal Panther Description:       ELONGATION FACTOR TS, MITOCHONDRIAL
+Modal Panther Family ID:         PTHR11741
+Modal Panther Fam Desc:          ELONGATION FACTOR TS
+Interpro Signature Accession:    G3DSA:3.30.479.20:FF:000012; G3DSA:3.30.479.20; G3DSA:1.10.286.20; TIGR00116; PTHR11741; PF00889; SSF54713
+Interpro Signature Description:  Elongation factor Ts, mitochondrial; Elongation factor Ts, dimerisation domain; -; translation elongation factor Ts; ELONGATION FACTOR TS; Elongation factor TS; Elongation factor Ts (EF-Ts), dimerisation domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: elongation factor Ts%2C mitochondrial
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: elongation factor Ts%2C mitochondrial%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: elongation factor Ts%2C mitochondrial%2C transcript variant X3
+Tae
+  Gene count: 4
+  Modal chromosome: Tae05A
+  Gene Products: elongation factor Ts%2C mitochondrial-like%2C transcript variant X1; elongation factor Ts%2C mitochondrial-like%2C transcript variant X3; uncharacterized LOC123153434
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl08
+  Gene Products: elongation factor Ts%2C mitochondrial
+  Gene Descriptions: elongation factor Ts%2C mitochondrial
+Osa
+  Gene count: 1
+  Modal chromosome: Osa08
+  Gene Products: elongation factor Ts%2C mitochondrial-like
+  Gene Synonyms: EF-Ts,EF-TsMt,EFTS,OJ1051_A08.16
+  Gene Descriptions: elongation factor Ts%2C mitochondrial-like
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN50
+Pau
+  Gene count: 1
+  Modal chromosome: Pau16
+  Gene Products: elongation factor Ts%2C mitochondrial%2C transcript variant X1
+  Gene Descriptions: elongation factor Ts%2C mitochondrial
+Svi
+  Gene count: 1
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi06N
+  Gene Products: elongation factor Ts%2C mitochondrial%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: elongation factor Ts%2C mitochondrial-like%2C transcript variant X2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: elongation factor Ts%2C mitochondrial
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: Elongation factor Ts%2C mitochondrial%2C transcript variant X3
+  Gene Synonyms: EF-Ts,EF-TsMt,EFTS,GRMZM2G095534,pco103788
+  Gene Descriptions: Elongation factor Ts%2C mitochondrial
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 379 aa
+
+MAWGQGARRPILGLLFRAQQQAARGYSSSAFQTHLLStHVPQNGMFrRRFSSEVPASEQM
+NLIKQLRERTSAPIKDVKASLVSCNWDIEAAQKDLRKRGVVLAAKKSSRTAAEGLLAIAQ
+DEKRAAVVELNCETDFVARNDVFQYLASSLAKMALSAQGPGELVFPFGPEYLENMSINLD
+HPKLSGETTVQSAVTEVAAMVGENVKLRRGFMLSTTAHGVVSSYLHTCPQPGLGRIAGLV
+TLEAEDSSAlLDALKRVGSSIAMHIVAAKPLFLSKELVSAAAlENERDILRTQAESSGKS
+QMAMEKMVEGRLRKYFEEVVLLEQKYVVNDSTNIKTVLNDLSKEVGSKVTIGNFIRMEVG
+EGIERpEeADGSEAvAgAA
+
+
+BOP CONSENSUS:
+Length: 372 aa
+
+MAWGQGARRPIlGLLSRAQQQAARGYTSATFQTHLSSSHvAQNGMLRRRFSSEVPASEQM
+NLIKQLRERTSAPIKDVKASLVSCNWDIEDAQKDLRKRGVVLAAKKSSRTAAEGLLAIAQ
+DEKRAVVVELNCETDFVARNDVFQYLASSLAKMALSAQDPGKLVFPFGPAYLENMSINLD
+HPKLSGETTVQSAVTEVAAMVGENVKLRRGFMLSTTAHGVVSSYLHTCPQPGLGRIAGLI
+TLEAEDSSAPLDALKRVGSSIAMHIVAAKPLFLSKELVSAAAVENERDVLRTQAESSGKP
+QMAIEKMVEGRLRKYFEEVVLLEQKYVVNDSTNIKTVLNDLSKEVGSKVTIGNFiRMEVG
+EGIeRPEETAks
+
+
+PACMAD CONSENSUS:
+Length: 379 aa
+
+MAWGQGARRsILGLLFRAQQQAARGYSSSAFQTHqLGTHVPQNGvFlRRFSSEVSSSEQM
+NLIKQLRERTSAPIKDVKASLVtCNWDIEAAQKDLRKRGVVLAAKKSSRTAAEGLLAIAQ
+DEKRAAVVELNCETDFVARNDVFQYLASSLAKMALSAQGPGELFLPFGPEYLENMSINLD
+HPKLSGETTVQSAVTEVAAMVGENVKLRRGFMLSTTAHGVVSSYMHTCPQPGLGRIAGLV
+TLEAEDSSALLDAVKsVGSSIAMHIVATKPLFLSKELVSAAAlENEREILRTQAESSGKS
+QMAMDKMVEGRLRKYFEEVVLMEQKYVLNDSTNIKTVLNDLSKEVGSKVTIGNFIRMEVG
+EGIERtEAADGSEvVAGaA
+
+================================================================================

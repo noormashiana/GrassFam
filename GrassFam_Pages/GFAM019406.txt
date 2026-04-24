@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM019406
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             625.0 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR32057:SF15
+Panther Family ID:               PTHR32057
+Modal Panther ID:                PTHR32057:SF15
+Modal Panther Description:       SELENOPROTEIN O
+Modal Panther Family ID:         PTHR32057
+Modal Panther Fam Desc:          PROTEIN ADENYLYLTRANSFERASE SELO, MITOCHONDRIAL
+Interpro Signature Accession:    NF000658; PTHR32057; PF02696
+Interpro Signature Description:  YdiU family protein; PROTEIN ADENYLYLTRANSFERASE SELO, MITOCHONDRIAL; Protein adenylyltransferase SelO
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: UPF0061 protein azo1574
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: protein adenylyltransferase SelO
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: protein adenylyltransferase SelO
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: protein adenylyltransferase SelO-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: uncharacterized LOC127777277
+  Gene Descriptions: uncharacterized LOC127777277
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4340893
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: uncharacterized LOC133926763; uncharacterized LOC133930356%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133926763; uncharacterized LOC133930356
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: protein adenylyltransferase SelO-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: UPF0061 protein AZOSEA38000
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: UPF0061 protein AZOSEA38000
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: uncharacterized LOC100383148
+  Gene Synonyms: GRMZM2G158595
+  Gene Descriptions: uncharacterized LOC100383148
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 622 aa
+
+MPPQFPTaLpnryPHLLLPRslPLPsASPppRaLRLPPPPtpRhPlRRPLlRGMASsAAG
+eaAPAGTSGaGEAaARPRRALEELAWDHSFVRELPGDPRSDnIPREVLHACYTKVSPSAP
+VDNPKLVAWSdSVADLLDLDHKEFERPDFPQFFSGATPLVGSlPYAQCYGGHQFGSWAGQ
+LGDGRAITLGEVvNSRGERWELQLKGCGKTPYSRFADGLAVLRSSIREFLCSEAMHGLGI
+PTTRALCLVETGKSVVRDMFYDGNAKEEPGAIVCRVAPSFLRFGSYQIHATRGKEDLEIV
+RRLADYTIRHHYPHLENIKKSEGLSFEAAIGDSPAIDLTSNKYAAWAVEVAERTAYLIAR
+WQGVGFTHGVLNTDNMSVLGLTIDYGPFGFLDAFDPSFTPNTTDLPGKRYCFANQPDVGL
+WNIAQFTGPLSSAELISKDEANYVMERYGTKFMDEYQSIMTKKLGLtKYNKQLISKLLNN
+LAVDKVDYTNFFRLLSNVKADRDIPENELLVPLKAALLDIGKERKEAWISWVQTYIEELV
+ESGVPDEERKAAMNSVNPKYILRNYLCQTAIDAAEQGDYEEVRRLLKVMEHPYDEQPGME
+KYARLPPAWAYRPGVCMLSCSS
+
+
+BOP CONSENSUS:
+Length: 622 aa
+
+MPPQLRFPTVLPNLYPHLLLPRSLpSSPPSRRLRLPPPPTpRHPLRRLLFRGMASSATGE
+AAPAAGTSGAGEAsARPRRALEELAWDETFVRELPGDPRSDNIPRQVLHACYTKVSPSAP
+VENPKLVAWSESVADLLDLDHKEFERPDFPRFFSGETPLVGSVPYAQCYGGHQFGSWAGQ
+LGDGRAITLGEVLNSRGERWELQLKGAGKTPYSRFADGLAVLRSSIREFLCSEAMHGLGI
+PTTRALCLVETGKSVVRDMFYDGNSKEEPGAIVCRVAPSFLRFGSYQIHATRGKEDLEIV
+RRLADYTIRHHYPHLENIKKSEGLSFEAAIGDSPAIDLTSNKYAAWAVEVAERTAYLIAR
+WQGVGFTHGVLNTDNMSVLGLTIDYGPFGFLDAFDPSFTPNTTDLPGKRYCFANQPDVGL
+WNIAQFTGPLSAAdLISKDEANYVMERYGTKFMDEYQSIMTKKLGLSKYNKQLISKLLNN
+LAVDKVDYTNFFRLLSNVKADRDIPETELLVPIKAALLDIGKERKEAWISWVQTYIEELV
+ASGVSDEERKATMNRVNPKYVLRNYLCQTAIDAADLGDYEEVRRLLKVMEHPYDEQPGME
+KYARLPPAWAYRPGVCMLSCSS
+
+
+PACMAD CONSENSUS:
+Length: 628 aa
+
+MPPQFPTARLLLTRQLPHRLLPPpPLPSAlSPaPRALRLPPAPLpRGARRRPLLRGMASA
+AAAAPGSqAAAEAPvGGvGAAPRRLALEELPWDHSFVRELPGDPRSDTIPREVLHACYSK
+VSPSAKVDNPKLVAWSDSVADLLDLDHKEFERPDFPQFFSGATPLVGSLPYAQCYGGHQF
+GVWAGQLGDGRAITLGEVVNSRGERWELQLKGCGKTPYSRFADGLAVLRSSIREFLCSEA
+MHGLGIPTTRALCLVETGKSVVRDMFYDGNAKEEPGAIVCRVAPSFLRFGSYQIHASRGK
+EDLEIVRRLADYTIRHHYPHLENMKKSEGLSFEAAIGDSPAIDLTSNKYAAWAVEVAERT
+AYLIARWQGVGFTHGVLNTDNMSVLGLTIDYGPFGFLDAFDPSYTPNTTDLPGKRYCFAN
+QPDVGLWNIAQFTGPLSSAELISQDEANYVMERYGTKFMDEYQSIMTRKLGLTKYNKQLI
+SKLLNNLAVDKVDYTNFFRLLSNVKADPGIPENELLVPLKAALLDIGKERKEAWISWVQT
+YIEELVESGVPDEERKAAMNSVNPKYILRNYLCQSAIDAAEQGDYEEVRRLLKVMQHPYD
+EQPGMEKYARLPPAWAYRPGVCMLSCSS
+
+================================================================================

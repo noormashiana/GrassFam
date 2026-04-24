@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM010300
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             480.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23101:SF110
+Panther Family ID:               PTHR23101
+Modal Panther ID:                PTHR23101:SF110
+Modal Panther Description:       GENOME ASSEMBLY, CHROMOSOME: A10
+Modal Panther Family ID:         PTHR23101
+Modal Panther Fam Desc:          RAB GDP/GTP EXCHANGE FACTOR
+Interpro Signature Accession:    G3DSA:1.20.1050.80:FF:000007; G3DSA:1.10.246.120:FF:000003; G3DSA:1.10.246.120; G3DSA:1.20.1050.80; PTHR23101; PF02204; SSF109993
+Interpro Signature Description:  Vacuolar protein sorting-associated protein 9A; -; VPS9 domain; RAB GDP/GTP EXCHANGE FACTOR; Vacuolar sorting protein 9 (VPS9) domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: vacuolar protein sorting-associated protein 9A%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: vacuolar protein sorting-associated protein 9A-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: vacuolar protein sorting-associated protein 9A
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: vacuolar protein sorting-associated protein 9A-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: vacuolar protein sorting-associated protein 9A
+  Gene Descriptions: vacuolar protein sorting-associated protein 9A
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: vacuolar protein sorting-associated protein 9A
+  Gene Synonyms: GPA2,OsJ_10226,OsVPS9A,VPS9A
+  Gene Descriptions: vacuolar protein sorting-associated protein 9A
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: vacuolar protein sorting-associated protein 9A-like; vacuolar protein sorting-associated protein 9A-like%2C transcript variant X1
+  Gene Descriptions: vacuolar protein sorting-associated protein 9A-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: vacuolar protein sorting-associated protein 9A-like%2C transcript variant X1; vacuolar protein sorting-associated protein 9A-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: vacuolar protein sorting-associated protein 9A-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: vacuolar protein sorting-associated protein 9A
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: uncharacterized LOC100273143%2C transcript variant X1
+  Gene Synonyms: AY110141,GRMZM2G119627
+  Gene Descriptions: uncharacterized LOC100273143
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 482 aa
+
+MEGGGDAFGSSTAPLAWHDFLERMRQPSAAEFVKSIKGFIVTFSNRAPDPEkDSAAVQEF
+LENMEGAFRAHTPWAGSSEEELESAGEGLEKYVMTKLFNRVFASVPEDVKSDEELFEKMS
+LLQQFIRPENLDIKPEYQNETSWLLAQKELQKINMYKAPRDKLACILNCCKVINNLLLNA
+SIVSNDNPPGADEFLPVLIYVTIKANPPQLHSNLLYIQRYRRQTRLVSEAQYFFTNILSA
+ESFIWNIDGESLSMNELDFQRKMDLARERLLGLSAdSENQDNQANLDVqEhRSQnLKANR
+NSDVSLSLKDHVQGPGQDMRRDSDVSgKpVERVQSISDLEKKGATELLNDDDLNKKFQEY
+PFLFARAGDLTVADVENLLNSYKQLVLRYVALSQGMGVSPETpLVQSmQTASDLvvSEEP
+ENVkSVVNnNenSEGSSKTSDDvksENhHSEvSEqmTQQTAVDPSDDqKtlKDEASDQPE
+hA
+
+
+BOP CONSENSUS:
+Length: 482 aa
+
+MEGGADAFGSSTAPLAWHDFLERMRQPSAAEFVKSIKGFIMTFSNRAPDPErDSAAVQEF
+LENMEGAFRAHTPWAGSSEEELESAGEGLEKYVMTKLYNRVFASVPEDVKSDEELFEKIS
+LLQQFIRPENLDIKPEYQNETSWLLAQKELQKINMYKAPRDKLACILNCCKVINNLLMNA
+SHMSHDNPPGADEFLPVLIYVTIKANPPQLHSNLLYIQRYRCQSRLVSEAQYFFTNILSA
+ESFIWNIEAESLSMDERDFQKKMDLARERLLGLSVSSENQENQTNLDVGEHRSQTLKASG
+NSDVNLsLKDHVQGPVQDMKRESDVSSKSVERVQSISDLEKKGATELVKDDDLSKIFQEY
+PFLFARAGDLTVADVDNLLNSYKQLVLKYVALSKGMGVtPETPLVQSMQTASDLQISEEP
+ENVKNVVNSCDSTEeSSKTsEDIKNEIPDSEVgNiSTQQaAVDPSgDQKTLKDESSDQPE
+HA
+
+
+PACMAD CONSENSUS:
+Length: 489 aa
+
+MEGGGDAFGSSTAPLAWHDFLERMRQPSAAEFVKSIKSFIVTFSNRAPDPEKDSAAVQEF
+LENMEGAFRAHTPWAGSSEEELESAGEGLEKYVMTKLFNRVFASVPEDVKSDEELFEKMS
+LLQQFIRPENLDIKPEYQNETSWLLAQKELQKINMYKAPRDKLACILNCCKVINNLLLNA
+SIVSNENPPGADEFLPVLIYVTIKANPPQLHSNLLYIQRYRRQTRLVSEAQYFFTNILSA
+ESFIWNIDGESLSMNELDFQRKMDWARERLLGLSADSENQDNQANPDVQERRSQNLKANR
+NSDVSLSLKDHIQGSGQDMRRDSDVTVSGKPVERVQSVSDLEKKGATELLNDDDLNKKFQ
+EYPFLFARAGDLTIADVESLLNSYKQLVLRYVALAQGMGVSPETTLAQSGQTsSDLVVSE
+EPENVNSVVNNNENSEGISKTSDDVtSENHHSEVVDTeASEQMTQKTAVDSSDDLKVtKD
+EALHQPENA
+
+================================================================================

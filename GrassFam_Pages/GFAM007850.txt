@@ -1,0 +1,122 @@
+================================================================================
+GrassFam ID: GFAM007850
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             446.0 aa
+Family Size (Extended Family Size): 15 (17) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43895:SF149
+Panther Family ID:               PTHR43895
+Modal Panther ID:                PTHR43895:SF149
+Modal Panther Description:       CBL-INTERACTING PROTEIN KINASE 6
+Modal Panther Family ID:         PTHR43895
+Modal Panther Fam Desc:          CALCIUM/CALMODULIN-DEPENDENT PROTEIN KINASE KINASE-RELATED
+Interpro Signature Accession:    cd12195; G3DSA:3.30.310.80:FF:000005; G3DSA:3.30.200.20:FF:000096; G3DSA:1.10.510.10:FF:000279; G3DSA:3.30.310.80; G3DSA:1.10.510.10; PTHR43895; PF00069; SM00220; SSF56112
+Interpro Signature Description:  CIPK_C; Non-specific serine/threonine protein kinase; Kinase associated domain 1, KA1; Transferase(Phosphotransferase) domain 1; CALCIUM/CALMODULIN-DEPENDENT PROTEIN KINASE KINASE-RELATED; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: putative CBL-interacting protein kinase 27
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: putative CBL-interacting protein kinase 27
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: putative CBL-interacting protein kinase 27
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: putative CBL-interacting protein kinase 27
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: putative CBL-interacting protein kinase 27
+  Gene Descriptions: putative CBL-interacting protein kinase 27
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: putative CBL-interacting protein kinase 27
+  Gene Synonyms: CIPK27,OsCIPK27
+  Gene Descriptions: putative CBL-interacting protein kinase 27
+Pau
+  Gene count: 1
+  Modal chromosome: Pau17
+  Gene Products: putative CBL-interacting protein kinase 27
+  Gene Descriptions: putative CBL-interacting protein kinase 27
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: putative CBL-interacting protein kinase 27
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: uncharacterized LOC100191755
+  Gene Synonyms: GRMZM2G412601,pco062034(27)
+  Gene Descriptions: uncharacterized LOC100191755
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 440 aa
+
+MEDAAEGKsVLQGRYELGRVLGHGNFGRVHAARDLRTGRGVAVKVVAKDKVERAGMvEQI
+KREIAVMKMVSHPNIVELHEVMATRSKIYLALELVRGGELFARIsRAGRVREDVARRYFR
+QLVSAVDFCHGRGVYHRDLKPENLLLDEAGNLKVADFGLSALAGHARPDGLLHTACGTPA
+YVAPEVLGGNGYDGAKADLWSCGVILYVLLVGALPFQDDNLMsMYRKMQRGgFLCPSWVS
+kDARKLIGrLLDPNPSTRITVAsLVEtPWFkKTSPVPsPLLEPAPsADARGGnGEDKDEP
+PEALNAFHLISLSEGFDLSPLFDQgPStGRgtRGGgMRFATREPASGVISRLEGLATGGA
+MRVTKSGARGVRLEGAERGRKGRLAVAAEIFSVAPSVLVVDVKKDGGDTMEYRSFCSEEL
+RPALKDIVWAAAAADPPAAA
+
+
+BOP CONSENSUS:
+Length: 444 aa
+
+MEDAAEGKTNVLQGRYELGRVLGHGNFGRVHAARDLRTGRGVAVKVVAKDKVERAGMVEQ
+IKREIAVMKMVSHPNIVELHEVMATRTKIYLALELVRGGELFARISRAGRLREDVARRYF
+RQLVSAVDFCHGRGVYHRDLKPENLLLDEAGNLKVADFGLSALAGHARPDGLLHTACGTP
+AYVAPEVLGGNGYDGAKADIWSCGVILYVLLVGALPFQDENLMSMYRKMQRGGFLCPSWV
+SKDARKLIGRLLDPNPSSRITVASLVESPWFKKTSPIPSPLLEPVPSAAARGNGEDKDEP
+PEALNAFHLISLSAGFDLSPLFDQEPSTGRGARGGVMRFATREPASGVISRLEGLATGGA
+MRVTKSGARGVRLEGAERGRKGRLGVAAEFFSVAPSVLVVDVKKDGGDTMEYRSFCSDEL
+RPALKDIVWAAAAAAAAGDPPAPT
+
+
+PACMAD CONSENSUS:
+Length: 446 aa
+
+MEDAVAADGKSVLQGRYELGRVLGHGNFGRVHAARDLRTGRGVAVKVVAKDKLERAGMAE
+QIKREIAVMKMVSHPNIVELHEVMATRSKIYLALELVRGGELFSRIARaGRVREDVARRY
+FRQLVSAVDFCHGRGVFHRDLKLENLLLDEAGNLKVADFGLSALAGHARSDGLLHTACGT
+PSYVAPEVLGGKGYDGAKADLWSCGVILYVLLVGSLPFHEDNLMVMYRKMQRGEFLCPPW
+VSADARKLIGgLLDPNPSTRITVARLVETPWYQKPLPVLPPLNLKEPAPGPTPDARRASA
+DDKEEPEVLNAFHLISLSEGFDLSPLFDQGRGVGRSSAGGvRFATREAASSVVSRLESLV
+TGRGANMRVTKSGSRGVRLEAVSRGRTGARLAVAAEIFSVAPSVLLVDVKKDGGDTMEYR
+SFCSEELRPALKDIVWASGEDTPGAA
+
+================================================================================

@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM007303
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             520.0 aa
+Family Size (Extended Family Size): 47 (50) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR10353
+Modal Panther ID:                PTHR10353:SF317
+Modal Panther Description:       BETA-GLUCOSIDASE 31
+Modal Panther Family ID:         PTHR10353
+Modal Panther Fam Desc:          GLYCOSYL HYDROLASE
+Interpro Signature Accession:    G3DSA:3.20.20.80:FF:000022; G3DSA:3.20.20.80; PTHR10353; PF00232; SSF51445
+Interpro Signature Description:  Beta-glucosidase 11; Glycosidases; GLYCOSYL HYDROLASE; Glycosyl hydrolase family 1; (Trans)glycosidases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: beta-glucosidase 31
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu05H
+  Gene Products: beta-glucosidase 31-like
+Ata
+  Gene count: 3
+  Modal chromosome: Ata05D
+  Gene Products: beta-glucosidase 31; beta-glucosidase 31-like
+Tae
+  Gene count: 11
+  Modal chromosome: Tae05B
+  Gene Products: beta-glucosidase 31-like; beta-glucosidase 31-like%2C transcript variant X1; beta-glucosidase 31-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: beta-glucosidase 31
+  Gene Descriptions: beta-glucosidase 31
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: beta-glucosidase 31-like%2C transcript variant X1
+  Gene Synonyms: BGLU31,Os9bglu31,OsJ_29984
+  Gene Descriptions: beta-glucosidase 31-like
+Ecu
+  Gene count: 6
+  Modal chromosome: EcuUN50
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: beta-glucosidase 31%2C transcript variant X1; beta-glucosidase 31-like
+  Gene Descriptions: beta-glucosidase 31; beta-glucosidase 31-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi02K
+  Gene Products: beta-glucosidase 31-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha02
+  Gene Products: beta-glucosidase 31-like
+Msi
+  Gene count: 4
+  Modal chromosome: Msi04
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi02
+  Gene Products: beta-glucosidase 31; beta-glucosidase 31-like
+Zma
+  Gene count: 2
+  Modal chromosome: Zma07
+  Gene Products: Beta-glucosidase 11; uncharacterized LOC100501315%2C transcript variant X1
+  Gene Synonyms: GRMZM2G108133; GRMZM2G376416
+  Gene Descriptions: Beta-glucosidase 11; uncharacterized LOC100501315
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 519 aa
+
+MMeaaRALgcAllLLLLlaAVasaAaAAAITRgDFPPGFVFGaGSSAYQVEGAVAEDGRK
+PSIWDTFTHsGYSiDgATgDVTADQYHKYKEDVKLLHEMGVDAYRFSIAWPRLIPDGRGA
+VNPKGLEYYNNLIDELLSYGIQPHVTIYHFDFPQALQDEYNGLLSPRFIDDFTAYADVCF
+KNFGDRVKYWSTVNEPNIEPIGGYDQGILPPRRCSFPFGlsCDnGNSTTEPYIVAHHLLL
+AHASAVSLYREKYQAeQGGrIGLTLLGWWYEPATQTPEDIAAAARMNDFHIGWFMHPLVY
+GDYPPVMRKNVGSRLPSFTAEElKRVrGSFDFVGFNHYiAvYVKADLSkLDQkLRDYMGD
+AAVKYDMPFLkSkNQlpFGLknDFMTSTPWALKKMLeHLQVKYKNPpVMIHENGAAgqPD
+PSGGNtYDDEFRSQYLQDYIEATLqSIRNGSNVQGYFVWSFLDVFEYLFGYRmRFGLYGV
+DFNSEeRTRYQRHSAKWYAGFLRGGELRPVALPggAYSQ
+
+
+BOP CONSENSUS:
+Length: 517 aa
+
+MMPATrALSsvLlLLlAVASpAAAAaITKGDFPPGFIFGTGSSAYQIEGAVAEDGRKPSI
+WDTFTHSGYSVDGATADVTADQYHKYKEDVKLLSDMGVDAYRFSIAWPRLIPDGRGAVNP
+KGLEYYNNLIDELLSHGIQPHVTIYHFDFPQALQDEYNGMLSRKFIDDYTAYADVCFKNF
+GDRVKYWSTVNEPNIEPIGGYDQGILPPRRCSFPFGvLSCDNGNSTTEPYIVAHHLLLAH
+ASAASLYKEKYQAKQGGKIGLTLLGWWYEPATQTPEDIAAAARMNDFHIGWYMHPLVHGD
+YPPVMRKNVGSRLPSFTAEELKRVLGSFDFVGFNHYIAvYVKADLSKLDQeLRDYMGDAA
+VKYDMPFLNSKNQLLFGLKSDFMtSTPWALKKMLEHLQLKYKNPVVMIHENGAASIADPS
+GGNAPDDEFRSQYLQDYIEATLESSRNGSNVQGYFVWSFLDVFEYLFGYRMGFGLYGVDF
+NSEERTRYQRHSAKWFAGFLRGGELRPVALPGKAYSQ
+
+
+PACMAD CONSENSUS:
+Length: 517 aa
+
+smgRALGcAllLLLaALAVaSVeaaAsAAAITRaDFPeGFVFGvGSSAYQVEGAwAEDGR
+KPSIWDTFTHGGYSiDhATGDVAADQYHKYKEDVKLLHEMGVDAYRFSIAWPRLIPDGRG
+AVNPKGLEYYNNLIDELLSYGIQPHVTIYHFDLPQALQDEYNGLLSPRFIEDFTAYADVC
+FrSFGDRVKHWSTVNEPNIEPIGGYDQGiLPPRRCSfPFGfaCaGGNSTTEPYIVAHHLL
+LAHASAVSLYREKYQAEQGGRIGLTLLGWWYEPATQtPdDVAAAARMNDFHIGWFMHPMV
+YGDYPPVMRRNVGSRLPSFTAEEskRVRGSFDFVGFNHYGAvYVKADLSRLDQkLRDYMG
+DAAVKYDMPFLKSrNQfPFGLtNtsTPWALkKMLkHLQVKYKNPPVMIHENGAGhqPDPS
+GgNtYDDEFRSQFLQDYIEATLlSIRNGSNVQGYFVWSFLDVFEYLFGYRfRFGLYGVDF
+nStaRTRYQRHSARWYASFLRGGELRPvALPDGAYSE
+
+================================================================================

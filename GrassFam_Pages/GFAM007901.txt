@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM007901
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             326.0 aa
+Family Size (Extended Family Size): 29 (34) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24056:SF530
+Panther Family ID:               PTHR24056
+Modal Panther ID:                PTHR24056:SF530
+Modal Panther Description:       CELL DIVISION CONTROL PROTEIN 2
+Modal Panther Family ID:         PTHR24056
+Modal Panther Fam Desc:          CELL DIVISION PROTEIN KINASE
+Interpro Signature Accession:    G3DSA:1.10.510.10:FF:000281; G3DSA:3.30.200.20:FF:000231; G3DSA:1.10.510.10; G3DSA:3.30.200.20; PTHR24056; PF00069; SM00220; SSF56112
+Interpro Signature Description:  Cyclin-dependent kinase 2; Cyclin-dependent kinase B2,2; Transferase(Phosphotransferase) domain 1; Phosphorylase Kinase; domain 1; CELL DIVISION PROTEIN KINASE; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: cyclin-dependent kinase B2-1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: cyclin-dependent kinase B2-1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: cyclin-dependent kinase B2-1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: cyclin-dependent kinase B2-1; cyclin-dependent kinase B2-1-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl08
+  Gene Products: cyclin-dependent kinase B2-1
+  Gene Descriptions: cyclin-dependent kinase B2-1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa08
+  Gene Products: cyclin-dependent kinase B2-1-like
+  Gene Synonyms: CDC2Os-3,CDKB2-1,CDKB2%3B1,CDKB%3B2,OsJ_27911,SS224
+  Gene Descriptions: cyclin-dependent kinase B2-1-like
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN50
+Pau
+  Gene count: 2
+  Modal chromosome: Pau16
+  Gene Products: cyclin-dependent kinase B2-1; cyclin-dependent kinase B2-1-like
+  Gene Descriptions: cyclin-dependent kinase B2-1; cyclin-dependent kinase B2-1-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: cyclin-dependent kinase B2-1; cyclin-dependent kinase B2-1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: cyclin-dependent kinase B2-1
+Msi
+  Gene count: 3
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi07
+  Gene Products: cyclin-dependent kinase B2-1
+Zma
+  Gene count: 4
+  Modal chromosome: Zma01
+  Gene Products: cyclin-dependent kinase B2-1; putative cyclin-dependent protein kinase family protein
+  Gene Synonyms: GRMZM2G068193
+  Gene Descriptions: putative cyclin-dependent protein kinase family protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 326 aa
+
+MATLQHQPkPAAAPSTTTGGGLRAMDLYEKLEKVGEGTYGKVYKAREKATGRIVALKKTR
+LPEDDEGVPPTALREVSLLRMLSQDPHVVRLLDLKQGVNKEGQTILYLVFEYMDTDLKKF
+IRGHRANHEKIPAqTVKILMYQLCKGVAFVHGRGVLHRDLKPHNLLMDRKTMALKIADLG
+LSRAITVPLKKYTHEILTLWYRAPEVLLGATHYSTPVDIWSVGCIFAELVTNQPLFPGDS
+ELQQLLHIFKLLGTPNEQVWPGVGKLPNWHEYPQWKPTKLSTLVPGLDADGYDLLEKMLe
+YEPAKRISAKKALEHPYFNDVNKElY
+
+
+BOP CONSENSUS:
+Length: 326 aa
+
+MAALHHQAAAAPVTTTTDGGELRAMDLYEKLEKVGEGTYGKVYKAREKATGRIVALKKTR
+LPEDDEGVPPTALREVSLLRMLSQDSHVVRLLDLKQGQNKEGQTILYLVFEYMDTDLKKF
+IRAHRQNLQKIPVPTVKILMYQLCKGVAFCHGRGVLHRDLKPHNLLMDRKTMALKIADLG
+LSRSFTVPLKKYTHEILTLWYRAPEVLLGAAHYSTPVDIWSVGCIFAELATNQPLFAGDS
+EVQQLLHIFKLLGTPNEQVWPGVSKLPNWHEYPQWNPSKVSDLVHGLDADALDLLEKMLQ
+YEPSKRISAKKAMEHPYFNDVNKELY
+
+
+PACMAD CONSENSUS:
+Length: 326 aa
+
+MATiQHQPkPAAAPSTTTGGGLRAMDLYEKLEKVGEGTYGKVYKAREKATGRIVALKKTR
+LPEDDEGVPPTALREVSLLRMLSQDPHVVRLLDLKQGVNKEGQTILYLVFEYMDTDLKKF
+IRGHRANHEKIPAqTVKILMYQLCKGVAFVHGRGVLHRDLKPHNLLMDRKTMALKIADLG
+LSRAITVPlKKYTHEILTLWYRAPEVLLGATHYSTPVDIWSVGCIFAELVTNQPLFPGDS
+ELQQLLHIFKLLGTPNEQVWPGVGKLPNWHEYPQWKPTKLSTLVPGLDADGYDLLEKMLe
+YEPAKRISAKKALEHPYFNDVNKEvY
+
+================================================================================

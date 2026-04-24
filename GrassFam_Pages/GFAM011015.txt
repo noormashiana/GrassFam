@@ -1,0 +1,131 @@
+================================================================================
+GrassFam ID: GFAM011015
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             359.5 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10615:SF175
+Panther Family ID:               PTHR10615
+Modal Panther ID:                PTHR10615:SF175
+Modal Panther Description:       HISTONE-LYSINE N-METHYLTRANSFERASE ATXR6
+Modal Panther Family ID:         PTHR10615
+Modal Panther Fam Desc:          HISTONE ACETYLTRANSFERASE
+Interpro Signature Accession:    cd10539; G3DSA:2.170.270.10:FF:000038; G3DSA:2.170.270.10; PTHR48442
+Interpro Signature Description:  SET_ATXR5_6-like; Histone-lysine N-methyltransferase ATXR5; SET domain; SET DOMAIN-CONTAINING PROTEIN
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: histone-lysine N-methyltransferase ATXR6
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: histone-lysine N-methyltransferase ATXR6-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: histone-lysine N-methyltransferase ATXR6
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: histone-lysine N-methyltransferase ATXR6-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: histone-lysine N-methyltransferase ATXR6-like
+  Gene Descriptions: histone-lysine N-methyltransferase ATXR6-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: histone-lysine N-methyltransferase ATXR6
+  Gene Descriptions: histone-lysine N-methyltransferase ATXR6
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: histone-lysine N-methyltransferase ATXR6-like
+  Gene Descriptions: histone-lysine N-methyltransferase ATXR6-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: histone-lysine N-methyltransferase ATXR6-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: histone-lysine N-methyltransferase ATXR6-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: histone-lysine N-methyltransferase ATXR6
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: histone-lysine N-methyltransferase ATXR6
+  Gene Synonyms: GRMZM2G305124
+  Gene Descriptions: histone-lysine N-methyltransferase ATXR6
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 363 aa
+
+MGpAtQLRRRTRARtPPsRrPRAaaagDDDDVRCEACGSGdAAAELMLCDGCDRGlHIFC
+LRPILPRVPAGDWFCPSCrSPAstsSsAKSAAavqtKKPKQFPLVQTKIVDFFKIQRsPA
+AAAAESsEgKKRKRKpAGALVVSKKKsRKLLPFnPSEDPARRLRQMASLATALTATGAVF
+SNdLTYVPGMAPRSANRAALEAGGMQVLPREDVETLSLCKRMMERGEWPPLLVVYDPVEG
+FTVEADRFIKDLTIITEYVGDVDYLRNREHDDGDSMMTLLSAAsPSRSLVICPDKRSNIA
+RFINGINNHTPEGRKKQNLKCVRFDVdGECRVLLVANRDISKGERLYYDYNGSEHEYPTH
+HFV
+
+
+BOP CONSENSUS:
+Length: 362 aa
+
+MGPATQQRHRTRAGRPAArRPRvtgADDDGGVRCEACGSGRHADELLLCDGCDRGLHIFC
+LRPILPRVPAGDWFCPSCAsAATsHSAKSAAAVQTKMPKQFPLIQTKIVDFFKIQRRPAA
+AAAEPPEGKKRKRKAAgALVVSKKKSRKLLPFTPSEDPvRRLTQMASLATALTATGAVFS
+NDLTYVPGMAPRSANrSALEAGGMQVLPREDAETLSLCKRMMEQGEWPPLLVVFDPVEGF
+TVEADRHIKDLTIITEYVGDVDYLRNREHDDGDSMMTLLSAAPPSKSLVICPDKRSNIAR
+FINGINNHTPEGRKKQNLKCVRFAIDGECHCLLVANRDISKGERLYYDYNGDEHEYPTHH
+FV
+
+
+PACMAD CONSENSUS:
+Length: 359 aa
+
+MGAAGQLRRRTRARTPPsrAaaGDDDDVRCEACGSGDAAAELMLCDGCDRGFHIFCLRPI
+LPRVPAGDWFCPSCRSPASaKSkSAAAAsapvAKKPKQFPLVQTKIVDFFKIQRSPLAAa
+eSSELKKRKRKPAGALVVSKKKKRKLLPFNPSeDPAQRLRQMASLATALTATGAVFSNHL
+TYQPGMAPRSANRAALEAGGMQVLPKEDVETLsQCQRMMERGEWPPLLVVYDPVEGFTVE
+ADRFIRDLTIITEYVGDVDYLRNREHDDGDSMMTLLSASSPSRSLVICPDRRSNIARFIN
+GINNHTPEGRKKQNLKCVRFDVaGECRVLLVANRDISKGERLYYDYNGSEHEYPTHHFV
+
+================================================================================

@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM019810
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             534.0 aa
+Family Size (Extended Family Size): 25 (28) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10835:SF28
+Panther Family ID:               PTHR10835
+Modal Panther ID:                PTHR10835:SF28
+Modal Panther Description:       SQUALENE MONOOXYGENASE
+Modal Panther Family ID:         PTHR10835
+Modal Panther Fam Desc:          SQUALENE MONOOXYGENASE
+Interpro Signature Accession:    G3DSA:3.50.50.60:FF:000074; G3DSA:3.50.50.60; PTHR10835; PF08491; SSF51905
+Interpro Signature Description:  Squalene monooxygenase 2; -; SQUALENE MONOOXYGENASE; Squalene epoxidase; FAD/NAD(P)-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: squalene monooxygenase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: squalene monooxygenase SE1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: squalene monooxygenase SE1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: squalene monooxygenase SE1-like; squalene monooxygenase SE1-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl03
+  Gene Products: squalene monooxygenase SE1-like; squalene monooxygenase SE1-like%2C transcript variant X1
+  Gene Descriptions: squalene monooxygenase SE1-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa03
+  Gene Products: squalene monooxygenase SE1; squalene monooxygenase SE1%2C transcript variant X1
+  Gene Descriptions: squalene monooxygenase SE1
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: squalene monooxygenase SE1-like
+  Gene Descriptions: squalene monooxygenase SE1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: squalene monooxygenase SE1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: squalene monooxygenase-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: squalene monooxygenase
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100274333; uncharacterized LOC100285558
+  Gene Synonyms: GRMZM2G091456; GRMZM2G105787,pco148653
+  Gene Descriptions: uncharacterized LOC100274333; uncharacterized LOC100285558
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 534 aa
+
+MAAMAAAAGVGLQLIGAAAATLLAAVLVAAVLGRRRRRRrRAPLVEGKPAPEdGCAVADG
+eGAAGDGgTDVIIVGAGVAGSALAYTLGKDGRRVHVIERDLTEPDRIVGELLQPGGYLKL
+IELGLEDCVEEIDAQRVLGYALFKDGKNTKLSYPLEKFHSDVAGRSFHNGRFIQRMRQKA
+ASLPNVQLEQGTVTSLLEENGTVKGVQYKTKSGEELKAYAPLTIVCDGCFSNLRRALCSP
+KVDVPSCFVGLVLENCQLPHPNHGHVILANPSPILFYPISSTEVRCLVDVPGQKVPSIAS
+GEMANYLKTVVAPQIPPEIYDSFIAAIDKGSIRTMPNRSMPAAPHPTPGALLMGDAFNMR
+HPLTGGGMTVALSDIVVLRNLLKPLRNLHDASSLCKYLESFYTLRKPVASTINTLAGALY
+KVFSASPDQARNEMRQACFDYLSLGGVFSNGPIALLSGLNPRPLSLVAHFFAVAIYGVGR
+LMLPLPSPKRMWIGARLISGACGIILPIIKAEGVRQMFFPATVPAYYRAPPeAE
+
+
+BOP CONSENSUS:
+Length: 531 aa
+
+MAAAAGVGQLVGvAAATLLAAVLLAAALGRQRRRRRRAPLEGiPAPEGGCaVADGaGSAA
+VDGPTDVIIVGAGVAGSALAYTLGKDGRRVHVIERDLTEPDRIVGELLQPGGYLKLMELG
+LQDCVDEIDAQRVLGYALFKDGKNTKLSYPLEKFHSDVAGRSFHNGRFIQRMRQKAASLP
+NVQLEQGTVTSLLEENGTVKGVQYKIKSGEELKAYAPLTIVCDGCFSNLRRALCSPKVEV
+PSCFVGLVLENCQLPHANHGHVILANPSPILFYPISSTEVRCLVDVPGQKVPSIASGEMA
+NYLKTVVAPQIPPEIYDSFIAAIDKGSIRTMPNRSMPAAPHPTPGALLMGDAFNMRHPLT
+GGGMTVALSDIVVLRNLLKPLRNLHDASALCKYLESFYTLRKPVASTINTLAGALYKVFS
+SSPDKARDEMRQACFDYLSLGGVCSNGPIALLSGLNPRPLSLVAHFFAVAIYGVGRLMLP
+LPSPKRMWTGARLISGACGIIFPIIKAEGVRQMFFPATVPAYYRAPPEAEF
+
+
+PACMAD CONSENSUS:
+Length: 534 aa
+
+MAAvAAAAGVGLQLIGAAAATLLAAVLVAAVLGRRRRPrARAPLVEGKPAPEAGCAVGDG
+EGAAGDGGTDVIIVGAGVAGSALAYTLGKDGRRVHVIERDLTEPDRIVGELLQPGGYLKL
+IELGLEDCVEEIDAQRVLGYALFKDGRNTKLAYPLEKFHSDVAGRSFHNGRFIQRMRQKA
+ASLPNVQLEQGTVTSLLEENGTVKGVQYKTKSGEELKAYAPLTIVCDGCFSNLRRALCSP
+KVDVPSCFVGLVLENCQLPHPNHGHVILANPSPILFYPISSTEVRCLVDVPGQKVPSIAS
+GEMANYLKTVVAPQIPPEIYDSFIAAIDKGSIRTMPNRSMPAAPHPTPGALLMGDAFNMR
+HPLTGGGMTVALSDIVVLRNLLKPLRNLHDASSLCKYLESFYTLRKPVASTINTLAGALY
+KVFSASPDQARNEMRQACFDYLSLGGVFSNGPIALLSGLNPRPLSLVAHFFAVAIYGVGR
+LMLPLPSPKRMWIGARLISGACGIILPIIKAEGVRQMFFPATVPAYYRAAPtaE
+
+================================================================================

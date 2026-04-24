@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM012089
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             367.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43475:SF1
+Panther Family ID:               PTHR43475
+Modal Panther ID:                PTHR43475:SF1
+Modal Panther Description:       METHYLTHIORIBOSE-1-PHOSPHATE ISOMERASE
+Modal Panther Family ID:         PTHR43475
+Modal Panther Fam Desc:          METHYLTHIORIBOSE-1-PHOSPHATE ISOMERASE
+Interpro Signature Accession:    G3DSA:1.20.120.420:FF:000002; G3DSA:3.40.50.10470:FF:000003; G3DSA:1.20.120.420; G3DSA:3.40.50.10470; TIGR00524; TIGR00512; NF004326; PTHR43475; PF01008; SSF100950
+Interpro Signature Description:  Methylthioribose-1-phosphate isomerase; -; S-methyl-5-thioribose-1-phosphate isomerase; s-methyl-5-thioribose-1-phosphate isomerase; METHYLTHIORIBOSE-1-PHOSPHATE ISOMERASE; Initiation factor 2 subunit family; NagB/RpiA/CoA transferase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: methylthioribose-1-phosphate isomerase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: methylthioribose-1-phosphate isomerase
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: methylthioribose-1-phosphate isomerase
+Tae
+  Gene count: 2
+  Modal chromosome: Tae04B
+  Gene Products: methylthioribose-1-phosphate isomerase; methylthioribose-1-phosphate isomerase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: methylthioribose-1-phosphate isomerase
+  Gene Descriptions: methylthioribose-1-phosphate isomerase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: methylthioribose-1-phosphate isomerase-like%2C transcript variant 2
+  Gene Synonyms: IDI2,M1Pi,OsIDI2,OsJ_33377
+  Gene Descriptions: methylthioribose-1-phosphate isomerase-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 2
+  Modal chromosome: Pau12
+  Gene Products: methylthioribose-1-phosphate isomerase; methylthioribose-1-phosphate isomerase-like
+  Gene Descriptions: methylthioribose-1-phosphate isomerase; methylthioribose-1-phosphate isomerase-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi08K
+  Gene Products: methylthioribose-1-phosphate isomerase; methylthioribose-1-phosphate isomerase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: methylthioribose-1-phosphate isomerase
+Msi
+  Gene count: 2
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: methylthioribose-1-phosphate isomerase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC542191
+  Gene Synonyms: GRMZM2G139533,IDI2,M1Pi,TIDP2941,ZmIDI2
+  Gene Descriptions: uncharacterized LOC542191
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 367 aa
+
+MGESDALQSIVYaRGSLRLLDQRKLPLEVVYIDVKDSADGWNAIRDMVVRGAPAIAIAAA
+LALAVEVSDLDFTGTPAEAASFVSKKLEYLVSSRPTAVNLSDAATKLQtLVSKTAETAKD
+AKAIFQVYIEAAETMLVDDVADNKAIGSHGAEFLQRQLGNSKNISVLTHCNTGSLATAGY
+GTALGVIRALHSGGVLEKAFCTETRPFNQGSRLTAFELVHDKIPATLIADSAAAALMKQG
+qVQAVIVGADRIAANGDTANKIGTYNLAISAKHHGVQFYVAAPVTSIDLSLPSGEQIVIE
+ERSPKELLNSEGGLGKQVAASGISVWNPAFDVTPANLITAIITEKGVITKSDaDGaFDIK
+GFIQSAK
+
+
+BOP CONSENSUS:
+Length: 367 aa
+
+MGESSALQSILYgRGSLRLLDQRKLPLEEVYIDVKDSaDGWNAIRDMVVRGAPAIAIAAA
+LSLAVEVnDhDFTGTPAEAASFVSKKLEYLVSSRPTAVNLSDAATKLQNLVSRTAETAKD
+AKSIFQVFIEAAETMLVDDVADNKAIGSHGAEFLQRQLGSSKNISVLTHCNTGSLATAGY
+GTALGVIRALHSGGVLEKAFCTETRPFNQGSRLTAFELVHDKIPATLIADSAAAALMNNG
+QVQAVIVGADRIAANGDTANKIGTYNLSISAKHHGVQFYVAAPVTSIDLSLPSGKQIVIE
+ERSPKELLNSEGGLGKQVAASGISVWNPAFDVTPANLITAIITEKGVITKSDPDGTFDIK
+GFIeCAK
+
+
+PACMAD CONSENSUS:
+Length: 367 aa
+
+MVGSDALQSIVYARGSLRLLDQRKLPLEVDYIDVKDSADGWNAIRDMVVRGAPAIAIAAA
+LALAVEVSDLDFTGTPAEAASFVSKKLEYLVSSRPTAVNLSDAATKLQTLVSKTAEtAKD
+SKAIFQVYIEAAETMLVDDVADNKAIGSHGAEFLQRQLGNSKnISVLTHCNTGSLATAGY
+GTALGVIRALHSGGVLEKAFCTETRPFNQGSRLTAFELVHEKIPATLIADSAAAALMKQG
+hVQAVIVGADRIAANGDTANKIGTYNLAISAKHHGVQFYVAAPVTSIDLSLPSGEEIVIE
+ERSPKELLNSEGGLGKQVAASGISVWNPAFDVTPANLITAIITEKGVITKTDADGAFDIK
+GFIQSAK
+
+================================================================================

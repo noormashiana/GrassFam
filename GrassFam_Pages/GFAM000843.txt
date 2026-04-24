@@ -1,0 +1,123 @@
+================================================================================
+GrassFam ID: GFAM000843
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             432.5 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45669:SF29
+Panther Family ID:               PTHR45669
+Modal Panther ID:                PTHR45669:SF29
+Modal Panther Description:       OS06G0226100 PROTEIN
+Modal Panther Family ID:         PTHR45669
+Modal Panther Fam Desc:          GLUTAREDOXIN DOMAIN-CONTAINING CYSTEINE-RICH PROTEIN CG12206-RELATED
+Interpro Signature Accession:    cd03031; PTHR45669
+Interpro Signature Description:  GRX_GRX_like; GLUTAREDOXIN DOMAIN-CONTAINING CYSTEINE-RICH PROTEIN CG12206-RELATED
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: uncharacterized protein At5g39865
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: uncharacterized protein At3g28850-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: uncharacterized LOC109754185
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: uncharacterized LOC123150491; uncharacterized LOC123160829; uncharacterized LOC123169122
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: uncharacterized protein At3g28850
+  Gene Descriptions: uncharacterized protein At3g28850
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: uncharacterized protein At3g28850-like
+  Gene Descriptions: uncharacterized protein At3g28850-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: uncharacterized protein At3g28850-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: uncharacterized protein At3g28850-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: uncharacterized protein At3g28850
+Zma
+  Gene count: 2
+  Modal chromosome: Zma06
+  Gene Products: Glutaredoxin family protein; uncharacterized protein At3g28850
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 396 aa
+
+MGCKGSKHALHGGGGGAPEPRrcSGrvARHSVALRSSTLGTLSLDRAAAAAAAAGVSFdG
+GGDEGMmKAGnDveGGAGkLGPRSFaGWcPATPppVaaPPKRQRRAPPRTPTKTPaRdPE
+EINVWELMkGLDDDDeeeEEEdDGHCVERKVrSAPGSPVFDPDvLDAFRKALDELSPdSP
+lPDvVKRgGggDVEKrEIQmFPGIVRARVDVLQEKIDAKTKLAKKASPPPPPESARRVVV
+YLTSLRGIRQTYEDCWSTSAILRSYGVRVDERDLSMHAGFKDELRAALGgGAgrpppLPQ
+VFVDGRHLGGAEEVRRMHEsGELAeALEACDAAPgAagGGGGfAaEaCGGCGGVRFVPCD
+vCSGSCKVFVEDEDGAGAFRRCPECNENGLVRCPVC
+
+
+BOP CONSENSUS:
+Length: 428 aa
+
+MGCKGSKHALHGGGGGGGALEPRKCASGLVARHSVALRSSTLGTLSLDRATAAAAVSFAG
+GEGAGatATAARSGKEGsAGRCRSFAGWFPASPKVEPQPVKRQRLAPPRTPTKTPARdPE
+EINVWELMDGLDDDDaEEEEYdDCVDgQVPSACGSPEFDPDVLSAFREALAELSPPPPDA
+DVvSDGGAVVKKEEIQVFtDVASDGGAVVNKEEIQASDGGAVKKEEIQVFAGVVRARLDV
+LQGRIDSRSQKNPsPPPPPPESARRVVVYLTSLRGIRQTYEDCWAASTILSSYGVHVDER
+DLSMHAGYKDELRDALGAGApAGGVLPQVFVDGWHLGGAEEVRRMHESGELAEALEACEA
+APGAAGGGKEGPGGFAAEPCGGCGGARFVPCDVCSGSCKVFVEDEDGaGAFRRCPDCNEN
+GLLRCPIC
+
+
+PACMAD CONSENSUS:
+Length: 414 aa
+
+MGCKGSKHALHGGCGGAARPPEPRRrSGRLqPPRHSVALRSSTLGTLSLDRAAAAVAAAG
+GVSFDAAAAGGGDEGMMKAGNDVDGGAGTLLGPSRSFGGWRPtTPPPVAAPPKRQKRVVA
+vVAPRTPNKTPVRePEEINVWELMKGLDDDDEDqDEetDrGhCVERKARSAPGSPVFDPE
+ILDAFRKALDELTPDSPLPDFVKRgGGGDVEKREIQMFPGIVRARVsVFQEKINAKTKLA
+KKASPPPPPESAGRVVVYLTSLRGIRQTYEDCWSTSAILRGYGVRVDERDLSMHAGFKDE
+LRAALGGDGgRpPPLPQVFADGRHLGGAEEVRRLHEAGELASALgACDAAPcAaKGGAgA
+QDACaGCGGVRFVPCDgCSGSCKVFVEDEDGaGAGAFRRCPECNENGLVRCPVC
+
+================================================================================

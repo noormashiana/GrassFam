@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM010538
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             366.0 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11728:SF39
+Panther Family ID:               PTHR11728
+Modal Panther ID:                PTHR11728:SF39
+Modal Panther Description:       GLYCEROL-3-PHOSPHATE DEHYDROGENASE [NAD(+)]
+Modal Panther Family ID:         PTHR11728
+Modal Panther Fam Desc:          GLYCEROL-3-PHOSPHATE DEHYDROGENASE
+Interpro Signature Accession:    G3DSA:3.40.50.720:FF:000276; G3DSA:1.10.1040.10:FF:000004; G3DSA:1.10.1040.10; G3DSA:3.40.50.720; TIGR03376; PTHR11728; PIRSF000114; PR00077; PF07479; PF01210; SSF48179; SSF51735
+Interpro Signature Description:  Glycerol-3-phosphate dehydrogenase [NAD(+)]; -; glycerol-3-phosphate dehydrogenase (NAD(+)); GLYCEROL-3-PHOSPHATE DEHYDROGENASE; Glycerol-3-P_dh; NAD-dependent glycerol-3-phosphate dehydrogenase signature; NAD-dependent glycerol-3-phosphate dehydrogenase C-terminus; NAD-dependent glycerol-3-phosphate dehydrogenase N-terminus; 6-phosphogluconate dehydrogenase C-terminal domain-like; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: glycerol-3-phosphate dehydrogenase [NAD(+)]%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: glycerol-3-phosphate dehydrogenase [NAD(+)]%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: glycerol-3-phosphate dehydrogenase [NAD(+)]%2C transcript variant X3
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: glycerol-3-phosphate dehydrogenase [NAD(+)]-like%2C transcript variant X3; glycerol-3-phosphate dehydrogenase [NAD(+)]-like%2C transcript variant X7
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: glycerol-3-phosphate dehydrogenase [NAD(+)]%2C transcript variant X2
+  Gene Descriptions: glycerol-3-phosphate dehydrogenase [NAD(+)]
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: glycerol-3-phosphate dehydrogenase [NAD(+)]
+  Gene Descriptions: glycerol-3-phosphate dehydrogenase [NAD(+)]
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: glycerol-3-phosphate dehydrogenase [NAD(+)]-like%2C transcript variant X3; glycerol-3-phosphate dehydrogenase [NAD(+)]-like%2C transcript variant X4
+  Gene Descriptions: glycerol-3-phosphate dehydrogenase [NAD(+)]-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: glycerol-3-phosphate dehydrogenase [NAD(+)]-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: glycerol-3-phosphate dehydrogenase [NAD(+)]
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: glycerol-3-phosphate dehydrogenase [NAD(+)]
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: glycerol-3-phosphate dehydrogenase
+  Gene Synonyms: GPDH4,GRMZM6G161711
+  Gene Descriptions: glycerol-3-phosphate dehydrogenase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 365 aa
+
+MENGHAKYRVAVIGSGNWGSVASRLIASNTAKLPSFYDEVRMWVFEEILPTGKKLSESIN
+QANENCKYLPGIKLGtNVIADPDLESAVKDANMLVFVTPHQFVEGICKKLVGKLRPGAEA
+ISLIKGMEVKMEGPCMISKLIADTLGINCCVLMGANIANEIAVEKFSEATIGYRKDKEVA
+NRWAKLFTTPYFLVSVVEDIEGVELCGTLKNVVAIAAGLVDGLDMGNNTKAAIMRIGLRE
+MRAFSKLLFPSVRDNTFFESCGVADLITTCLGGRNRRVAEAFARNGGKRSFDELEAEMLH
+GQKLQGVSTAREVYEVLTYRGWQELFPLLSTVHEICIGQLPPTSIVEYSEHTPNLSIIGG
+PTPFY
+
+
+BOP CONSENSUS:
+Length: 366 aa
+
+MENGHAGKHRVAVIGSGNWGSVASRLLASNTAKLPSFHDEVRMWVFEETLPTGEKLSESI
+NQANENCKYLPGIKLGTNVIADPDLESAVKDADMLVFVTPHQFVEGICKKLVGKLRPGVE
+AISLIKGMEVKMEGPCMISKLITDTLGINCCVLMGANIANEIAVEKFSEATIGYREDKEA
+ANRWAKLFTTPYFLVAVVEDIEGVELCGTLKNVVAIAAGLVDGLDMGNNTKAAIMRIGLR
+EMRAFSKLLFPSVRDNTFFESCGVADLITTCLGGRNRRVAEAFARNGGKRSFDELEAEML
+HGQKLQGVSTAREVYEVLTYHGWQELFPLLSTVHEICIGQLPPTSIVEYSEHTPNLSivG
+GSTPCY
+
+
+PACMAD CONSENSUS:
+Length: 365 aa
+
+MENGHAKYRVAVIGSGNWGSVASRLIASNTAKLPSFYDEVRMWVFEEILPTGKKLSESIN
+EENENCKYLPGIKLGkNVIADPDLESAVKDANMLVFVTPHQFVEGICKKLVGKLRPGAEA
+ISLIKGMEVKMEGPCMISKLIADTLGINCCVLMGANIANEIAVEKFSEATIGYRKDKEVA
+NRWAKLFTTPYFLVSVAEDIEGVELCGTLKNIVAIAAGLVDGLDMGNNTKAAIMRIGLRE
+MRAFSKLLFPSVRDNTFFESCGVADLITTCLGGRNRRVAEAFARNGGKRSFDELEAEMLH
+GQKLQGVSTAREVYEVLTYRGWQELFPLLSTVHEICIGQLPPTSIVEYSEHTPNLSIIGG
+PTPFY
+
+================================================================================

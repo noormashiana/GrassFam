@@ -1,0 +1,122 @@
+================================================================================
+GrassFam ID: GFAM012220
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             494.0 aa
+Family Size (Extended Family Size): 18 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR11851
+Modal Panther ID:                PTHR11851:SF203
+Modal Panther Description:       MITOCHONDRIAL-PROCESSING PEPTIDASE SUBUNIT ALPHA-1, MITOCHONDRIAL-RELATED
+Modal Panther Family ID:         PTHR11851
+Modal Panther Fam Desc:          METALLOPROTEASE
+Interpro Signature Accession:    G3DSA:3.30.830.10:FF:000134; G3DSA:3.30.830.10:FF:000022; G3DSA:3.30.830.10; PTHR11851; PF05193; PF00675; SSF63411
+Interpro Signature Description:  Putative mitochondrial-processing peptidase subunit alpha-2 chloroplastic/mitochondrial; mitochondrial-processing peptidase subunit alpha; -; METALLOPROTEASE; Peptidase M16 inactive domain; Insulinase (Peptidase family M16); LuxS/MPP-like metallohydrolase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: mitochondrial-processing peptidase subunit alpha-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: mitochondrial-processing peptidase subunit alpha
+Tae
+  Gene count: 1
+  Modal chromosome: Tae03D
+  Gene Products: mitochondrial-processing peptidase subunit alpha-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: mitochondrial-processing peptidase subunit alpha
+  Gene Descriptions: mitochondrial-processing peptidase subunit alpha
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: mitochondrial-processing peptidase subunit alpha-like; mitochondrial-processing peptidase subunit alpha-like%2C transcript variant X1
+  Gene Descriptions: mitochondrial-processing peptidase subunit alpha-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: mitochondrial-processing peptidase subunit alpha-like; mitochondrial-processing peptidase subunit alpha-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: mitochondrial-processing peptidase subunit alpha-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Zma
+  Gene count: 3
+  Modal chromosome: Zma03
+  Gene Products: mitochondrial-processing peptidase subunit alpha; putative mitochondrial processing peptidase alpha subunit family protein%2C transcript variant X2; uncharacterized LOC100384208%2C transcript variant 1
+  Gene Synonyms: GRMZM2G167767; GRMZM2G174137
+  Gene Descriptions: putative mitochondrial processing peptidase alpha subunit family protein; uncharacterized LOC100384208
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 495 aa
+
+MLSgMMpRLRSSTRlLRKLCGLePAAAARRLSgAEAfASAARetSLLRPLPGLDLPPCLP
+DNLgRSPTRVTTLPNGiRVASEDVPGPSACIGFFVNSGSVYESgETTGVSHLLEKMAFKD
+TaHRSHlnIVqELELAGGNVGASASREQMVYSYDTLKGYMPEAiEILIDCMRNPLFLQEE
+VERQLVLAREEVQELQKNPEKFLHEqLNLVGYSGALANPLIAPEDALARINDkIIQKFYH
+ENFTADRVVLAASGVDHEhLLdyAEpLLsDWHKGSPVEKPKSTYVGGDSRHRADSDMTHV
+ALAFEVPGGWLQERDATIMTVIQTLMGGGGSFSSGGPGKGMHSRLYLRVLNKYHsVQSFS
+AFSNVYDNTGLFGIYLTTPPDFVAKAVDVAISELIAIATPGEVTEVELqRAKNSTISSVL
+MNLESRVIVAEDIGRQLLTYGCRKPIDYFLQCMEEITLDDITTFARKMLSSQPTMASWGD
+VDKVPPYEFVCKRFQ
+
+
+BOP CONSENSUS:
+Length: 501 aa
+
+MLRLRSSARLLRKLCEASRPLGRREVQRVLPTMTRwLSGAASAARSTSLLHPLPGLDLPP
+CLPDQLARLPTRITTLPNGVRVASEDVPGPSACVGVFVASGSIHESPESAGVTHLLEKLA
+FKDTAHRSHMQIVQEVEATGGNVGASASREQMVYSYDTLKAYIPQAVEVLLDSVRNPLFL
+QDEVDRQLALTREEVQEVQKNPEKFLQEVLNLVGYEGAIANPLIAPEEALEIINADIIrK
+FYHENFTADRVVLAASGVDHQqLLDVAEPLLSDWHKGSPVETPKSTYTGGDFRHKAESDM
+THVALAFEVPGGWLKERDATIMTVIQTLMGGGGSFSSGGPGKGMHSRLYLRVLTKYHDVQ
+SFSAFSNVYDsTGLFGIYLTTPPDFVAKAVDIAVQELIAIATPGQVTEVELTRAKNSTIS
+SVLMNLESRVIVAEDIGRQLLTYGCRKPIDHFLQCMDELTLDDITAFAKMLLSSQPTMAS
+YGDVDKVPPYEFVSKRFQRFR
+
+
+PACMAD CONSENSUS:
+Length: 496 aa
+
+MMLSRMLPRLRSSTRVLRKLCGLEPAAAARRLSAAeAFAacARenSLLRPLPGLDLPPCL
+PDNLGRSPTRVTTLPNGIRVATEDVPGPSACIGFFVNSGSVYESGETTGVSYLLEKMAFK
+DTKHRSHLNIVHELELAGGNVGASASREQMVYSYDTLKGYMPEAlEILIDCMRNPLFLQE
+EVERQLVLAREEVQELQKNPERFLHEQLNLVGYSGALANPLIAPEDALARINDKIIQKFY
+HENFTADRVVLAASGVDHEhLLnYAEfLLkDWHKGSPVEKPKSTYVGGDSRHRADSDMTH
+VALAFEVPGGWLQERDATIMTVIQTLMGGGGSFSSGGPGKGMHSRLYLRVLNKYHSVQSF
+SAFSNVYDNTGLFGIYLTTPSDFVAKAVDVAISELIAVATPGEVTEVELQRAKNSTISSV
+LMNLESRVIVAEDIGRQLLTYGCRKPIDYFLQCMEEITLDDVTTFARKMLSSQPTMVSWG
+DVDKVPPYEFVCKRLR
+
+================================================================================

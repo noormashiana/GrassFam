@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM009463
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             447.0 aa
+Family Size (Extended Family Size): 30 (32) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11097:SF31
+Panther Family ID:               PTHR11097
+Modal Panther ID:                PTHR11097:SF31
+Modal Panther Description:       EXORIBONUCLEASE PHOSPHOROLYTIC DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR11097
+Modal Panther Fam Desc:          EXOSOME COMPLEX EXONUCLEASE  RIBOSOMAL RNA PROCESSING PROTEIN
+Interpro Signature Accession:    cd11368; G3DSA:3.30.230.70:FF:000007; G3DSA:3.30.230.70; PTHR11097; PF01138; SSF55666; SSF54211
+Interpro Signature Description:  RNase_PH_RRP45; Exosome complex component RRP45B; -; EXOSOME COMPLEX EXONUCLEASE  RIBOSOMAL RNA PROCESSING PROTEIN; 3' exoribonuclease family, domain 1; Ribonuclease PH domain 2-like; Ribosomal protein S5 domain 2-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: exosome complex component RRP45A%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu06H
+  Gene Products: exosome complex component RRP45A-like%2C transcript variant X1
+Ata
+  Gene count: 2
+  Modal chromosome: Ata06D
+  Gene Products: exosome complex component RRP45A%2C transcript variant X1; exosome complex component RRP45B%2C transcript variant X1
+Tae
+  Gene count: 6
+  Modal chromosome: Tae06A
+  Gene Products: exosome complex component RRP45A-like%2C transcript variant X1; exosome complex component RRP45B-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: exosome complex component RRP45A-like%2C transcript variant X1
+  Gene Descriptions: exosome complex component RRP45A-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: exosome complex component RRP45A%2C transcript variant X1
+  Gene Descriptions: exosome complex component RRP45A
+Ecu
+  Gene count: 3
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: exosome complex component RRP45A-like%2C transcript variant X1; exosome complex component RRP45B-like%2C transcript variant X2
+  Gene Descriptions: exosome complex component RRP45A-like; exosome complex component RRP45B-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi01K
+  Gene Products: exosome complex component RRP45A-like%2C transcript variant X1; exosome complex component RRP45A-like%2C transcript variant X3; exosome complex component RRP45A-like%2C transcript variant X8
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: exosome complex component RRP45A-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: exosome complex component RRP45A-like%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: uncharacterized LOC100384304%2C transcript variant X1
+  Gene Synonyms: cl22768_2,GRMZM2G438622
+  Gene Descriptions: uncharacterized LOC100384304
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 448 aa
+
+MMDqRWRPTVNEREFIEqALQSDLRVDGRRPFDFRKLKIsFGREDGSAEVQLGETrVMGY
+VTAQLVQPYKDRPNEGTLAIFTEFSPMADPAFEPGRPGEsAIELGRVIDRGLRESRAVDM
+ESLCVVAGKHVWSVRVDLHILDNGGNLIDAANIAALAALSTFRRPECTVGGDDGQQVTVH
+DPEVRDPLPLTIHHLPIAVTFAYFGDGNIMVIDPTYKEEAVMGGRMTATINSNGDVCAIQ
+KAGGEGVMSSVIMQCLRIASVKAADITSKIKkeVDsYTTEKALQKVKRtPAsVpKKVNVP
+DVTMKESTHGALEnQTsKaPNDGQQISKGDEDHQNIKRNSPLTvDRTVKHKQTSTFvGGP
+SNWDPYSKGVSLSSLRISQLPDPPaivkDsKHEDAqPMLTESNPEVKSvSNSGaAGESDE
+vQEsRSPKSLKDAVKPKHKRKKKQHGKS
+
+
+BOP CONSENSUS:
+Length: 448 aa
+
+MMDQRWRPTVNEREFIEQALQSDLRVDGRRPFDFRKLKIaFGREDGSAEVeLGETRVMGY
+VTAQLVQPYKDRPNEGTLAIFTEFSPMADPAFEPGRPGEAAIELGRVIDRGLRESRAVDM
+ESLCVVAGKHVWSVRVDLHILDNGGNLIDAANIAALAALSTFRRPECTVGGDDGQQVTVH
+DPEVRDPLPLTIHHLPIAVTFAYFGDGNIMVIDPTYKEEAVMGGRMTATINSNGDVCAIQ
+KAGGEGVMSSVIMQCLRIASVKAADITSKIKrEVDdYTTEKALQKVKRTPALVAKKVNVP
+DVTMKESTHSALENQaSKAPNDGQQISKGDDDHQNIKRISPLTVDRTVKHKQTSTFVGGP
+SNWDPYSKGVSLSSLRISQLPDPPAvpNDnKHEDtEPMLTESNPEVKSVSNSGTAGESDE
+VKESRSPKSLIDAVKPKHKRKKKQHGKS
+
+
+PACMAD CONSENSUS:
+Length: 449 aa
+
+MEHLRWRPTVNERDFIERALQSDLRVDGRHSFDFRKLKITFGREDGSSEVQLGETHVMGY
+VTAQLVQPYRDRPNEGTLAIFTEFSPMADPAFEPGRPGESAIELGRVIDRGLRESRAVDM
+ESLCVVAGKHVWSVRVDLHILDNGGNLIDAANIAALAALSTFRRPECTVGGDDGQQVTVH
+DPEVRDPLPLTIHHMPIAVTFAYFGEGNIVVVDPTYKEEAVMGGRMTATVNSNGDVCAIQ
+KAGGEGVMSSVVMQCLRIASVKAADITSKIKKAVDSYTTEKALKKVKRLPTSVPQKINVT
+DVTMEDKGDGELETQTVKTPSDVQQISKGDEDHQNIKRNSPLTGDRIAKHKQTSTFIGGP
+SNWDPYSKGVSLSSLRISQLPDPATtVKASSHEDAQPMLTESSNAEVKITSSSGAAGESE
+EAQEIGSPKSLKDAIKPKHKRKKKKSDRS
+
+================================================================================

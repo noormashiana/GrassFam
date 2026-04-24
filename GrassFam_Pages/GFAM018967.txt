@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM018967
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             336.0 aa
+Family Size (Extended Family Size): 19 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46111:SF1
+Panther Family ID:               PTHR46111
+Modal Panther ID:                PTHR46111:SF1
+Modal Panther Description:       RIBOSOMAL RNA SMALL SUBUNIT METHYLTRANSFERASE I
+Modal Panther Family ID:         PTHR46111
+Modal Panther Fam Desc:          RIBOSOMAL RNA SMALL SUBUNIT METHYLTRANSFERASE I
+Interpro Signature Accession:    cd11648; G3DSA:3.30.950.10:FF:000002; G3DSA:3.40.1010.10:FF:000007; G3DSA:3.40.1010.10; G3DSA:3.30.950.10; TIGR00096; PTHR46111; PIRSF005917; PF00590; SSF53790
+Interpro Signature Description:  RsmI; Ribosomal RNA small subunit methyltransferase I; -; 16S rRNA (cytidine(1402)-2'-O)-methyltransferase; RIBOSOMAL RNA SMALL SUBUNIT METHYLTRANSFERASE I; MTase_YraL; Tetrapyrrole (Corrin/Porphyrin) Methylases; Tetrapyrrole methylase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: ribosomal RNA small subunit methyltransferase I%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: ribosomal RNA small subunit methyltransferase I%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: ribosomal RNA small subunit methyltransferase I%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: ribosomal RNA small subunit methyltransferase I-like; ribosomal RNA small subunit methyltransferase I-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: uncharacterized LOC127785711%2C transcript variant X2
+  Gene Descriptions: uncharacterized LOC127785711
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4348618
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau21
+  Gene Products: uncharacterized LOC133903526%2C transcript variant X1; uncharacterized LOC133907499
+  Gene Descriptions: uncharacterized LOC133903526; uncharacterized LOC133907499
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi09K
+  Gene Products: ribosomal RNA small subunit methyltransferase I-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: ribosomal RNA small subunit methyltransferase I
+Msi
+  Gene count: 1
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: ribosomal RNA small subunit methyltransferase I%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: Tetrapyrrole (Corrin/Porphyrin) methylase
+  Gene Synonyms: GRMZM2G035594
+  Gene Descriptions: Tetrapyrrole (Corrin/Porphyrin) methylase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 336 aa
+
+MASLLRLQALAPALtvPRRrcLpSPLRLASAATAPLARRLStAASsGSPEqrASEPDLES
+GLYLVATPIGNLEDITLRALRVLKCAnVILSEDTRHSGKLLQHYNIKTPLLSFHKFNERE
+REPSILKRLHEGEAVALISDAGTPGISDPGMELARLCATEKIPVIPIPGPSAAIAALSAS
+GLPTNEFTFVGFLPKHARSRRDRLEISAREAATQIFYVPPHGIHQFLVDAASSFGDSRSC
+VIAREITKLHEEFWRGTLGEANEAFATRQPKGEITVLIEGkLISvDETPSEDFLEHELRE
+LMAKGHTLSAAVKLVtEATSAKKKDVYALALRLFGK
+
+
+BOP CONSENSUS:
+Length: 335 aa
+
+MASLLRLQALFSLTLATPRRLPSHLRCAAAVASPLpRRLPAAASNGSPEQRASETDLESG
+LYLVATPIGNLEDITLRALRVLKCAHVILSEDTRHSGKLLQHYNIKTPLLSFHKFNERER
+EPiILKRLHEGEAVAVISDAGTPGISDPGMELARLCATEKIPVIPIPGPSAAIAALSASG
+LPTeEFTFVGFLPKHGRSRKaRLEVSAREAATQIFYVPPHGIHQFLlDAASSFGDSRSCV
+IAREITKLHEEFWRGTLGEANEAFATRQPKGEITvLIEGNSISiDETPSDDFLEHELREL
+MAKGHALSTAVKLVAEATSAKKKDVYALALRVFGK
+
+
+PACMAD CONSENSUS:
+Length: 336 aa
+
+MASLLRLQALAPALTVPRrRfLlSPLRLASAATAPLARRLSTAASSNsPEPPaSEPDLES
+GLYLVATPIGNLEDITLRALRVLKCANVILSEDTRHSGKLLQHYNIKTPLLSFHKFNERE
+REPSILRRLHEGEAVALISDAGTPGISDPGMELARLCATEKIPVIPIPGPSAAIAALSAS
+GLPSNEFTFVGFLPKHARSRRDRLEISAREAATQIFYVPPHGIHQFLVDAASSFGDSRSC
+VIAREITKLHEEFWRGTLGEANEAFATRQPKGEITVLIEGKLISVDETPSEDFLEHELRE
+LTAKGHTLSAAVKLVTEATSAKKKDVYALALRLFGK
+
+================================================================================

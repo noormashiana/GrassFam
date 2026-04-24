@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM004771
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             510.0 aa
+Family Size (Extended Family Size): 17 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10742:SF405
+Panther Family ID:               PTHR10742
+Modal Panther ID:                PTHR10742:SF405
+Modal Panther Description:       PEROXISOMAL N(1)-ACETYL-SPERMINE_SPERMIDINE OXIDASE
+Modal Panther Family ID:         PTHR10742
+Modal Panther Fam Desc:          FLAVIN MONOAMINE OXIDASE
+Interpro Signature Accession:    G3DSA:3.50.50.60; G3DSA:3.90.660.10; PTHR10742; PF01593; SSF51905
+Interpro Signature Description:  -; FLAVIN MONOAMINE OXIDASE; Flavin containing amine oxidoreductase; FAD/NAD(P)-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: probable polyamine oxidase 5
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: polyamine oxidase 1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: polyamine oxidase 1
+Tae
+  Gene count: 2
+  Modal chromosome: Tae03A
+  Gene Products: polyamine oxidase 1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: polyamine oxidase 1
+  Gene Descriptions: polyamine oxidase 1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: polyamine oxidase 1-like
+  Gene Descriptions: polyamine oxidase 1-like
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: polyamine oxidase 1-like
+  Gene Descriptions: polyamine oxidase 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi05K
+  Gene Products: polyamine oxidase 1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: probable polyamine oxidase 5
+Msi
+  Gene count: 1
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: probable polyamine oxidase 5
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: uncharacterized LOC100383200
+  Gene Synonyms: GRMZM2G035994
+  Gene Descriptions: uncharacterized LOC100383200
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 505 aa
+
+MVAKKPRVVIVGAGvAGLtAAqRLCGAGGDRFEVvVVEAGaRAGGRVLTSEFAGHRVEMG
+ATWVQGIdGSPVYALARDAGALgdeagdLPYERMDGFPDRVLTVAEGGEVVDADrVAkPI
+EELYRGMMEAARAGEAgGGGGVEEYLRRGLRAYQAARPGGgKELEEVEEALLAMHINRER
+TDTSADDLGDLDLAAEGEYRDFPGDHVTIPGGYSRVVEHLVAALPPGTVRLGLRLRRLDW
+GETPVRLHFADGAttLTADHVILTVSLGVLKASLGKDaSAAGAIAFDPPLPQFKREAVAR
+LGFGVVNKLFMEVEAVEaPEPEGGGGDeQLAasAPPeFPFLHMAFRGHVSKIPWWMRGTE
+SICPVHAGSsVALAWFAGREAAHLESLPDDEVIRGVHATLDSFLPAPAGAGATPRWRVKR
+IKRSGWATDPLFLGSYSYVAVGSSGEDLDRMAEPLPRGpeAaAgRApPLRVLFAGEATHR
+THYSTTHAAYLSGVREAdRLLQHYR
+
+
+BOP CONSENSUS:
+Length: 507 aa
+
+MVAKKPRIVIVGAGIAGLSAAQQLCGAGrDKFEVVVVEAGcRAGGRVlTSEFAGHRVEMG
+ATWVQGIVGSPVYALARDAGALREEAADLPYERMDGFPDRVLTVAEGGDVVDADTVAKPI
+EELYRGMMEAARAGEAGGGGGVEEYLRRGLRAYQAARPGGsKELEEVEEALLAMHINRER
+TDTSADDLGDLDLaAEGEYRDFPGDHVTIPGGYTRVVEHLVAALPPGTVRLGLRLRRLDW
+GETPVRLHFADgATTTLTADHVILTVSLGVLKASlGKDVSAAGAIAFDPPLPQFKREAVA
+RLGFGVVNKLFiEVEAVEtPEPeGGDeQLAraApPaFPFLHMAFlGHVAKIPWWMRGTES
+ICPVHAGSTVALAWFAGREAAHLESLPDDEVIRAVHATLDSFLPAPPRRCSGAgAGATPR
+WRVKRIKRSGWATDPLFLGSYSYVAVGSSGEDLDRMAEPLPRGPEADRTPLRVLFAGEAT
+HRTHYSTTHAAYLSGVREADRLLQHYR
+
+
+PACMAD CONSENSUS:
+Length: 501 aa
+
+MVAKKPRVVVVGAGVAGLTAAhRLCAAGGDRFEVTVVEAGARAGGRVLTSEFAGHRVEMG
+ATWVQGVDGSPVYALARDAGALGglGDGaGvLPYERMDGFPDRVLTVAEGGEVVDADRVA
+RPVEELYRGMMEAARAGEASGGGGVEEYLRRGLRAYQAARPGGGKELEEVEEALLAMHIN
+RERTDTSADDLGDLDLAAEGEYRDFPGEHVTIPGGYSRVVDHLVAALPPGTVRLGLRLRR
+LDWSETPVRLHFADGAPtITADHVILTVSLGVLKASLGKDASAAGAIAFDPPLPQFKREA
+VARLGFGVVNKLFMELEAVPAPEPEGGGGqPLAtSAPPEFPFLHMAFRGHVSKIPWWMRG
+TESICPVHAGSSVALAWFAGREAAHLESLPDDEVIRGVHATLDSFLPAPPRWRVKRIKRS
+GWATDPLFLGSYSYVAVGSSGEDLDRMAEPLPRGsDADDGRAPPPRVLFAGEATHRTHYS
+TTHAAYLSGVREAERLLQHYr
+
+================================================================================

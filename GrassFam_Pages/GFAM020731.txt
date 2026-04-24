@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM020731
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             430.0 aa
+Family Size (Extended Family Size): 18 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR42907:SF7
+Panther Family ID:               PTHR42907
+Modal Panther ID:                PTHR42907:SF7
+Modal Panther Description:       TRNA-DIHYDROURIDINE SYNTHASE
+Modal Panther Family ID:         PTHR42907
+Modal Panther Fam Desc:          FMN-LINKED OXIDOREDUCTASES SUPERFAMILY PROTEIN
+Interpro Signature Accession:    cd02801; G3DSA:3.20.20.70; NF008774; PTHR42907; PF01207; SSF51395
+Interpro Signature Description:  DUS_like_FMN; Aldolase class I; tRNA dihydrouridine(20/20a) synthase DusA; FMN-LINKED OXIDOREDUCTASES SUPERFAMILY PROTEIN; Dihydrouridine synthase (Dus); FMN-linked oxidoreductases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: tRNA-dihydrouridine(20/20a) synthase%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: LpeUN26
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: tRNA-dihydrouridine(20/20a) synthase-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: tRNA-dihydrouridine(20/20a) synthase%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: tRNA-dihydrouridine(20/20a) synthase-like; tRNA-dihydrouridine(20/20a) synthase-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: uncharacterized LOC127771056
+  Gene Descriptions: uncharacterized LOC127771056
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC4335364
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN33
+Pau
+  Gene count: 1
+  Modal chromosome: Pau13
+  Gene Products: uncharacterized LOC133887648
+  Gene Descriptions: uncharacterized LOC133887648
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi01K
+  Gene Products: tRNA-dihydrouridine(20/20a) synthase-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: tRNA-dihydrouridine(20/20a) synthase-like%2C transcript variant X1
+Msi
+  Gene count: 1
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: tRNA-dihydrouridine(20/20a) synthase%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: uncharacterized LOC100273106%2C transcript variant X2
+  Gene Synonyms: gpm573,GRMZM2G115805
+  Gene Descriptions: uncharacterized LOC100273106
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 429 aa
+
+MAMRSAARHALLPpLvPAkPGaFlpGRFLPrAPGvRPCRAASSapAPAAGeHLPPLFSVA
+PMMDWTDNHYRTLARLISRHAWLYTEMVVAETIVHQKDNLDRFLAFPAEQHPIVLQIGGS
+NLDNLAKATELANAYSYDEINLNCGCPSGKVAGHGCFGARLMFDPEFVGDAMSAIAANCD
+VPVSVKCRIGVDDRDSYEELCEFVDKVVSKSPTRHFIIHARKALLSGLSPAENRKVPPLK
+YEYYFALLRDFPEVkFTLNGGITTIDQVSASIRQGAHgVMVGRAAYNNPWNMLGHVDSEI
+YGMPTRCSSRRQILESYQVYGDSIIGQYGPSRPNVRQLVKPLLHLFHSEPGNSLWKRKAD
+STLRHCKTLkSFLEETLDAIPDSVLDAPVtREPSsEEGYFADVDSLLPPRYTtLTNGSYE
+SPeLVTAST
+
+
+BOP CONSENSUS:
+Length: 432 aa
+
+MAIAmRSAAWHALLPSLVPAKPGIFFLRSRPGRFLSHAHGLRPCRAASSLPPGEYLPPLF
+SVAPMMDWTDNHYRTLARLISRHAWLYTEMVVAETIVHQKDKLDRFLAFPAEQHPIVLQI
+GGSNLDNLAKATELASGYSYDEINLNCGCPSGKVAGHGCFGARLMYDPEFVGDAMSAIAA
+NCDVPVSVKCRIGVDDRDSYEELCTFVDKVVSKSPTRHFIIHARKALLSGLSPAENRKVP
+PLKYEYYYALLRDFPEVHFTLNGGLTTIEQVSASIRQGAHQVMVGRAAYNNPWNMLGHVD
+SEIYGMPTRCSSRRQILESYQVYGDSIIGQYGISRPNVRQLVKPLLHLFHSEPGNSLWKR
+KADSTLRHCKTLeQFLEETLDAIPDSVLDAPVLmEPSrEQGYFAHVDSLLPPRYtKLANG
+SYESPALVTASS
+
+
+PACMAD CONSENSUS:
+Length: 430 aa
+
+MAMRSAARHALLtPPLAPGIPGAFLRGRFSPRaPGArPCRAASSASAPAAGKHLPPLFSV
+APMMDWTDNHYRTLARLISRHAWLYTEMVVAETIVHQKDNLDRFLAFPEEQHPIVLQIGG
+SNLENLAKATELANAYSYDEINLNCGCPSGKVAGHGCFGARLMFDPEFVGDAMSAIAANC
+DVPVSVKCRIGVDDRDSYEELCEFVDKVVSKSPTRHFIIHARKALLSGLSPAENRKVPPL
+KYEYYFALLRDFPEVKFTLNGGITTIDQVSASIRQGAhGVMVGRAAYNNPWNMLGHVDGE
+IYGKPTRCISRRQILESYQVYGDSIIGQYGPSRPNVRQLVKPLLHLFHSEPGNSLWKRKA
+DSALRHCKTVKSFLEETLDAIPDSVLDKPVTREPSSEEGYFADVDSLLPPRYTTLTNCSY
+GSpELVTAST
+
+================================================================================

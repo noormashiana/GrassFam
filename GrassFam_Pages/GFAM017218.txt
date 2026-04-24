@@ -1,0 +1,143 @@
+================================================================================
+GrassFam ID: GFAM017218
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             646.5 aa
+Family Size (Extended Family Size): 26 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22573:SF58
+Panther Family ID:               PTHR22573
+Modal Panther ID:                PTHR22573:SF58
+Modal Panther Description:       PHOSPHOGLUCOMUTASE (ALPHA-D-GLUCOSE-1,6-BISPHOSPHATE-DEPENDENT)
+Modal Panther Family ID:         PTHR22573
+Modal Panther Fam Desc:          PHOSPHOHEXOMUTASE FAMILY MEMBER
+Interpro Signature Accession:    cd03085; G3DSA:3.30.310.50:FF:000002; G3DSA:3.40.120.10:FF:000005; G3DSA:3.40.120.10:FF:000004; G3DSA:3.40.120.10:FF:000009; G3DSA:3.40.120.10; G3DSA:3.30.310.50; NF005737; PTHR22573; PF24947; PF02878; SSF53738; SSF55957
+Interpro Signature Description:  PGM1; Phosphoglucomutase 5; Phosphoglucomutase, cytoplasmic 1; -; alpha-D-glucose phosphate-specific phosphoglucomutase; PHOSPHOHEXOMUTASE FAMILY MEMBER; Phosphoglucomutase-1, C-terminal domain; Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain I; Phosphoglucomutase, first 3 domains; Phosphoglucomutase, C-terminal domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: phosphoglucomutase%2C cytoplasmic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: phosphoglucomutase%2C cytoplasmic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: phosphoglucomutase%2C cytoplasmic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: phosphoglucomutase%2C cytoplasmic; phosphoglucomutase%2C cytoplasmic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: phosphoglucomutase%2C cytoplasmic 2
+  Gene Descriptions: phosphoglucomutase%2C cytoplasmic 2
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: phosphoglucomutase%2C cytoplasmic 2
+  Gene Descriptions: phosphoglucomutase%2C cytoplasmic 2
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: phosphoglucomutase%2C cytoplasmic 2; phosphoglucomutase%2C cytoplasmic 2-like
+  Gene Descriptions: phosphoglucomutase%2C cytoplasmic 2; phosphoglucomutase%2C cytoplasmic 2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: phosphoglucomutase%2C cytoplasmic 2; phosphoglucomutase%2C cytoplasmic 2-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: phosphoglucomutase%2C cytoplasmic 2
+Msi
+  Gene count: 3
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: phosphoglucomutase%2C cytoplasmic 2
+Zma
+  Gene count: 5
+  Modal chromosome: Zma06
+  Gene Products: phosphoglucomutase 1; phosphoglucomutase 2; phosphoglucomutase%2C cytoplasmic 2-like
+  Gene Synonyms: GRMZM2G023289; GRMZM2G109383
+  Gene Descriptions: phosphoglucomutase 1; phosphoglucomutase 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 646 aa
+
+MIHPLvsSlPSPAIIsPRPRRHRHHTTTPSLPHSRSLHHHRlLRsTPllASRGdRRRiVg
+GAAMgLFTVTKKATTPFEGQKPGTSGLRKKVTVFQQPHYLQNFVQSTFNALPADQVKGAT
+IVVSGDGRYFSKDAVQIITKMAAANGVRRVWVGQNSLMSTPAVSAVIRERIGADGSKATG
+AFILTASHNPGGPTEDFGIKYNMGNGGPAPESVTDKIFSNTTTITEYLIAEDLPDVDISV
+vGVTSFSGPEGPFDVDVFDSSvDYIKLMKTIFDFEAIKKLLTSPKFTFCYDALHGVAGAY
+AKRIFVEELGADESSLLNCVPKEDFGGGHPDPNLTYAKELVERMGLGKSSSNVEPPEFGA
+AADGDADRNMILGKRFFVTPSDSVAIIAANAVQSIPYFASGLKGVARSMPTSAALDVVAK
+NLNLKFFEVPTGWKFFGNLMDAGMCSICGEESFGTGSDHIREKDGIWAVLAWLSILAFKN
+KDNLGGDKLVTVEDIVRQHWATYGRHYYTRYDYENVDAGAAKELMANLVSMQSSLSDVNK
+LIKEIRSDVSDVVAADEFEYKDPVDGSVSKHQGIRYLFGDGSRLVFRLSGTGSVGATIRV
+YIEQYEKDSSKTGRDSQDALAPLVDVALKLSKMQEYTGRSAPTVIT
+
+
+BOP CONSENSUS:
+Length: 582 aa
+
+mMVFSVTKKeTTPYEGQKPGTSGLRKKVTVFQQPHYLANFVQSTFNALPADQVKGATIVV
+SGDGRYFSKDAVQIITKMAAANGVRRVWVGQDSLLSTPAVSAIIRERISADGSKATGAFI
+LTASHNPGGPTEDFGIKYNMGNGGPAPESVTDKIFSNTKTITEYLIAEDLPDVDISVIGV
+TSFTGPEGPFDVDVFDSATDYIKLMKTIFDFESIKKLLASPKFSFCFDGLHGVAGAYAKR
+MFVDELGASESSLLNCVPKEDFGGGHPDPNLTYAKELVDRMGLGKTSNVEPPEFGAAADG
+DADRNMVLGKRFFVTPSDSVAIIAANAVQSIPYFASGLKGVARSMPTSAALDVVAKNLNL
+KFFEVPTGWKFFGNLMDAGMCSVCGEESFGTGSDHIREKDGIWAVLAWLSILAYKNKDNL
+GGDKLVTVEDIVLQHWATYGRHYYTRYDYENVDAEAAKELMANLVKMQSSLSDVNKSIKE
+IQPtVADVVSADEFEYKDPVDGSVSKHQGIRYLFGDGSRLVFRLSGTGSVGATIRIYIEQ
+YEKDSSKTGReSSDALSPLVDVALKLSKIQEYTGRSAPTVIT
+
+
+PACMAD CONSENSUS:
+Length: 647 aa
+
+MIHPLVrSLPSPAIISPRPRRHRHHTTTPSLPSHSRSLHHHRfLRaTPLLASRGDRRRiV
+GGPAMGLFTVTKKATTPFEGQKPGTSGLRKKVTVFQQPHYLQNFVQSTFNALPADQVKGA
+TIVVSGDGRYFSKDAVQIITKMAAANGVRRVWVGQNSLMSTPAVSAVIRERIGADGSKAT
+GAFILTASHNPGGPTEDFGIKYNMGNGGPAPESVTDKIFSNTTTISEYLISEDLPDVDIS
+VVGVTSFSGPEGPFDVDVFDSSVDYIKLMKTIFDFEAIKKLLTSPKFTFCYDALHGVAGA
+YAKHIFVEELGADESSLLNCVPKEDFGGGHPDPNLTYAKELVERMGLGKSSSNVEPPEFG
+AAADGDADRNMILGKRFFVTPSDSVAIIAANAVQSIPYFASGLKGVARSMPTSAALDVVA
+KNLNLKFFEVPTGWKFFGNLMDAGMCSICGEESFGTGSDHIREKDGIWAVLAWLSILAFK
+NKDNLGGDKLVSVEDIVRQHWATYGRHYYTRYDYENVDAGAAKELMANLVSMQSSLSDVN
+KLIKEIRSDVSEVVAADEFEYKDPVDGSVSKHQGIRYLFGDGSRLVFRLSGTGSVGATIR
+VYIEQYEKDSSKTGRDSQDALAPLVDVALKLSKMQEYTGRSAPTVIT
+
+================================================================================

@@ -1,0 +1,120 @@
+================================================================================
+GrassFam ID: GFAM003914
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             457.0 aa
+Family Size (Extended Family Size): 29 (39) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46224:SF36
+Panther Family ID:               PTHR46224
+Modal Panther ID:                PTHR46224:SF36
+Modal Panther Description:       OS03G0680600 PROTEIN
+Modal Panther Family ID:         PTHR46224
+Modal Panther Fam Desc:          ANKYRIN REPEAT FAMILY PROTEIN
+Interpro Signature Accession:    G3DSA:1.25.40.10; PTHR46224; SSF48403; SSF48452
+Interpro Signature Description:  Tetratricopeptide repeat domain; ANKYRIN REPEAT FAMILY PROTEIN; Ankyrin repeat; TPR-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: poly [ADP-ribose] polymerase tankyrase-2-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: ankyrin repeat and protein kinase domain-containing protein 1%2C transcript variant X1
+Tae
+  Gene count: 9
+  Modal chromosome: Tae04A
+  Gene Products: ankyrin repeat and protein kinase domain-containing protein 1-like%2C transcript variant X1; ankyrin repeat domain-containing protein 50-like%2C transcript variant X1; ankyrin-1-like; ankyrin-1-like%2C transcript variant X1; ankyrin-3-like; poly [ADP-ribose] polymerase tankyrase-2-like; poly [ADP-ribose] polymerase tankyrase-2-like%2C transcript variant X1
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl03
+  Gene Products: uncharacterized LOC127766369; uncharacterized LOC127766938
+  Gene Descriptions: uncharacterized LOC127766369; uncharacterized LOC127766938
+Osa
+  Gene count: 3
+  Modal chromosome: Osa03
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC112936131; uncharacterized LOC4329395; uncharacterized LOC9268515
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: ankyrin repeat and SOCS box protein 3-like; tetratricopeptide repeat protein 33-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi01
+  Gene Products: ankyrin repeat and protein kinase domain-containing protein 1-like%2C transcript variant X2; ankyrin-1; tankyrase-2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100194190%2C transcript variant X1
+  Gene Synonyms: GRMZM6G289317
+  Gene Descriptions: uncharacterized LOC100194190
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 458 aa
+
+MegsdFdfRLGiErALRRaLPYPGndSPQMAFFDAAteGDLpRLRELASGKDAEEKAWLA
+DVCiqGvGPLQAAARLGKLDVVRCLVEELGFDVNAGSqiGvTALAAAALDGRMdVVRYLL
+DNGADPNKKDdaGsVPLHCAAKfGHDEAARLLLSRGASVDIAYFHGTPLHIAAyYGKASV
+MKVLLEHHADPNKVSEVLGTPLvATLhATsEGLPESISLKCVKLLVEAGADVNSTNPDTP
+LVVATTYGLTDCIKYLLKAGADPNIPNShCGAMPIEiAASCGRRKHVELLFPLTSPIRTV
+SNWTVDGILAHAKSKHSKPKVEkdDKNTKvQLKLcGEKAVKRKDYrGASKFYTEAIELDP
+TDATLYSNRSLCHLQMTEADkALlDANTCIKLRPEWiKGYYRKGAALMSLKEYKEACDAF
+MAGLKLDPGNAEMEKAFREAVEAMKKDHvARKsFKPSD
+
+
+BOP CONSENSUS:
+Length: 460 aa
+
+MdgSdFrvRLGiERALRRALPYGGLPsnDSPQMAFFDAATeGDLPRLRELASGKDAEGKA
+WLADVCIqGvGPFQAAARLGKVDVCRCMVEELGFDINAGSQiGVTALAAAALDGRMaVvR
+YLLDnGADPNKKDdAGSVPLHCAAKfGHDEAARLLLSRGASVDIAYFHGTPLHIAAyYGK
+ASVMKVLLEHHADPNKVSEvLGTPLtAALsATSeGLPESiSLKCVKLLVEAGADVNStNp
+DTPLVVATTYGLTDCIKYLLKAGADPNIPNSHCGAMPIQLAASCGRRKHVELLFPLTSPI
+RTISNWTVDGILANAKSKHSKPRDKDDkNTKVQLKLCGEKAVKRKDYRGASMFYTEAIEL
+DPTDATLYSNRSLCHLQMTEADmALlDANTCIkLRPEWLKGYYRKGAALMlLKEYKEACD
+AFMAGLKLDPGNAEMEKALREAVEAMKKDHlARKSFKPSD
+
+
+PACMAD CONSENSUS:
+Length: 489 aa
+
+MEgpFDFNMRtiLCLNRRLPYGTTGPDMDFFEAAFEGDLPRLREMASGKDAEEKALLADV
+CFGGLGPLQVAARMGRLDVVRYLVEDLGFDVNHGSAGFGLTALSSAALDGRLDTVRYLLD
+NGADPNLQDELGEVPLHCAAKYGHDEVTELLLSRGASVDLTYFHATPLHIAAVYGKASVM
+KVLLEHHADPNMVSEVLGTPLVATLHATTEGLEESISLKCVKLLVEAGADVNSTDPDTPL
+VVATTHGLTDCIKYLLKAGANANIPNsCCGAMPIEIAAGcGRRKHVEMLFPFTSPIQTVS
+kWTVDGIISHVKSKHLKHSKPKVGQYDESTKVKLKLDGDKdVGRKNHsATSKLYGEAEQY
+GKSTKDELKLNGDKAVGRKDYLTASKLYGKAIELDPADATLYSNRSLCLLQIGEATKALS
+DANSCIKVRPEWvKGYYRKGtALMSLKEYKEACDAFLAGLKLDPsNAvMERMFwEAVEAM
+KDHVGTSID
+
+================================================================================

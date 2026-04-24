@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM017251
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             394.5 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31828:SF6
+Panther Family ID:               PTHR31828
+Modal Panther ID:                PTHR31828:SF6
+Modal Panther Description:       PHOSPHOLIPASE A1-II 1
+Modal Panther Family ID:         PTHR31828
+Modal Panther Fam Desc:          PHOSPHOLIPASE A1-IIGAMMA
+Interpro Signature Accession:    cd00519; G3DSA:3.40.50.1820:FF:000065; G3DSA:3.40.50.1820; PTHR31828; PF01764; SSF53474
+Interpro Signature Description:  Lipase_3; Phospholipase A1-II 3; alpha/beta hydrolase; PHOSPHOLIPASE A1-IIGAMMA; Lipase (class 3); alpha/beta-Hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: phospholipase A1-II 1%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: phospholipase A1-II 1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: phospholipase A1-II 1
+Tae
+  Gene count: 1
+  Modal chromosome: Tae03A
+  Gene Products: phospholipase A1-II 1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl01
+  Gene Products: phospholipase A1-II 1; phospholipase A1-II 4
+  Gene Descriptions: phospholipase A1-II 1; phospholipase A1-II 4
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: phospholipase A1-II 1%2C transcript variant X1
+  Gene Descriptions: phospholipase A1-II 1
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau02
+  Gene Products: putative pentatricopeptide repeat-containing protein At5g52630
+  Gene Descriptions: putative pentatricopeptide repeat-containing protein At5g52630
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: phospholipase A1-II 1; putative pentatricopeptide repeat-containing protein At5g52630
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: phospholipase A1-II 1%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: phospholipase A1-II 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: phospholipase A1-II 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 393 aa
+
+MSSlRGiGNIAkRWRELNGvNYWKGLLDPLDVDLRRNIINYGELSQAAYTGLNRERRSRY
+AGSCLFNRKDFLSRVDVSNPNLYEITKFIYAMCTVSLPDGFMVKSLSKAAWSRQSNWMGF
+VAVATDEGKEVLGRRDVVVAWRGTIRMVEWMDDLDISLVPASEIVlPGSAdNPCVHGGWL
+SVYTSADPGSQYNKqSARYQVLNEVKRLQDLYKnEETSITITGHSLGAALATINATDIVS
+NGYNKSCPVSAFVFGSPRVGNPDFQKAFDSAtDLRLLRVRNSPDVVPKWPKLGYSDVGTE
+LMIDTGESPYLKAPGNPLTWHDMECYMHGVAGTQGSnGGFeLeVDRDIALVNKHEDALKN
+EYSIPSSWWVVQNKGMVKGKDGRWHLADHEDDD
+
+
+BOP CONSENSUS:
+Length: 393 aa
+
+MSSLRGFGNIARRWRELNGVNYWKGLLDPLDVDLRKNIINYGELSQAAYTGLNRERRSRY
+AGSCLFRRKDFLSRVDVSNPNLYEITKFIYAMCTVSLPDgFMIKSLSKAAWSKQSNWMGF
+VAVATDEGKEVLGRRDVVVAWRGTIRMLEWMDDLDISLVPASEIVRPGSADDPRVHGGWL
+SVYTSTDPGSRYNKQSARYQVLDEIKRLQDvYKQEETSITITGHSLGAALATISATDIVS
+NGYNKSCPVSAFVFGSPRVGNSDFQKAFDSAEDLRLLRVRNSPDVVPNWPKLGYSDAGTE
+LMIDTGESPYIKsPGNPLTWHDMECYMHGVAGTQGSNGGFELEVDRDIALVNKHEDALKN
+EYSIPSSWWVVQNKGMVKGKDGRWHLADHEDDD
+
+
+PACMAD CONSENSUS:
+Length: 397 aa
+
+mrKMSLIRGIGNIAKRWRELNGvNYWKGLLDPLDLDLRRNIINYGELSQAAYTGLNRERR
+SRYAGSCLFNRRDFLSRVDVSNPnLYEITKFIYAMCTVSLPDGFMVKSLSKAAWSRQSNW
+MGFVAVATDEGKEVLGRRDVVVAWRGTIRMVEWMDDLDISLVPASEIVLPGSAtNPCVHG
+GWLSVYTSADPGSQYNKESARYQVLNEVKRIQDLYKNEETSITITGHSLGAALATINAID
+IVSNGYNKSCPVSAFVFGSPRVGNPDFQKAFDSAaDLRLLRVRNSPDVVPKWPKLGYNDV
+GTELMIDTGESPYLKAPGNPLTWHDMECYMHGVAGaQGSSGGFkLLVDRDIALVNKHEDA
+LKNEYSIPSSWWVVQNKGMVKGKDGRWHLADHEDDDe
+
+================================================================================

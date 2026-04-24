@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM012025
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             384.0 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43840:SF2
+Panther Family ID:               PTHR43840
+Modal Panther ID:                PTHR43840:SF2
+Modal Panther Description:       METAL TOLERANCE PROTEIN 9
+Modal Panther Family ID:         PTHR43840
+Modal Panther Fam Desc:          MITOCHONDRIAL METAL TRANSPORTER 1-RELATED
+Interpro Signature Accession:    G3DSA:1.20.1510.10:FF:000003; G3DSA:3.30.70.1350:FF:000001; G3DSA:1.20.1510.10; TIGR01297; PTHR43840; PF01545; SSF161111
+Interpro Signature Description:  Metal tolerance protein 11; Cation efflux protein transmembrane domain; cation diffusion facilitator family transporter; MITOCHONDRIAL METAL TRANSPORTER 1-RELATED; Cation efflux family; Cation efflux protein transmembrane domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: metal tolerance protein 7%2C transcript variant X3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: metal tolerance protein 7-like%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: metal tolerance protein 7%2C transcript variant X3
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: metal tolerance protein 7-like%2C transcript variant X3
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: metal tolerance protein 7%2C transcript variant X1
+  Gene Descriptions: metal tolerance protein 7
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: metal tolerance protein 7-like%2C transcript variant 2
+  Gene Synonyms: MTP7,OsJ_00239,OsMTP7,P0504H10.3,P0504H10.5
+  Gene Descriptions: metal tolerance protein 7-like
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: metal tolerance protein 7%2C transcript variant X2; metal tolerance protein 7-like%2C transcript variant X1
+  Gene Descriptions: metal tolerance protein 7; metal tolerance protein 7-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: metal tolerance protein 7%2C transcript variant X4; metal tolerance protein 7-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha05
+  Gene Products: metal tolerance protein 7%2C transcript variant X2; metal tolerance protein 7-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: metal tolerance protein 7-like%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: metal tolerance protein C3%2C transcript variant X1
+  Gene Descriptions: metal tolerance protein C3
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 386 aa
+
+MGSGgggeEkegeAASWRLRVsDgFrvPERFhrqPPFysRvFmGRSHGKQRKIAKYYKKQ
+ENLLKDFSEMETMNELGgLDQNAPTEEELRQLAKSERlAINLSNIINLILFVTKVVASvE
+SlSMAVIASTLDSLLDLLSGFILWFTAHAMKKPNKYSYPIGKRRMQPVGIIVFASVMGTL
+GFQVLIESGRQLITQEHanFdtkQELWMVGSMSSVAVVKFFLMLYCRTFKNEIVRAYAQD
+HFFDVITNSVGLVSALLAVRYKWWMDPVGAILIALYTITTWARTVLENVGTLIGKSAPAE
+YLTKLTYLIWNHHEEIRHIDTVRAYTFGTHYFVEVDIVLPGDMPLSQAHDIGESLQEKLE
+QLPEVERAFVHVDFEFTHRPEHKAEV
+
+
+BOP CONSENSUS:
+Length: 379 aa
+
+MGKEqAAaWRLNVSDLQFrMPERpKerPPFASRVFMRGHGKQRKIAKYYEKQESLLKDFS
+EMESMNELGCLDQNSAPTEEELRQLAKGERLAINLSNIINLVLFVGKVVASVETRSMAVI
+ASTLDSLLDLLSGFILWFTAHAMKKPNKYSYPIGKRRMQPVGIVVFASVMGCLGFQVLIE
+SGRELVTQEHTTFDTWKEMWMVGSMSSVAVVKFFLMLYCRTFKNEIVRAYAQDHFFDVIT
+NSVGLVSALLAVKYKWWMDPVGAILIALYTITTWARTVLENVGTLIGRSAPAEYLTKLTY
+LIWNHHEEIRHIDTVRAYTFGTHYFVEVDVVLPGDMPLSQAHDIGEALQEKLEQLPEVER
+AFVHVDFEFTHRPEHKADV
+
+
+PACMAD CONSENSUS:
+Length: 391 aa
+
+MGSPrQGRGGGSgEeGgeAGSWRLRMdSGFsVPERFHRQPPFYaRIFlGGSHGKQRKIAK
+YYKKQENLLKDFSEMETMNELGGLDQNAPSEEELRQLAKSERFAINLSNIINLILFVTKV
+VASiESLSMAVIASTLDSLLDLLSGFILWFTAHAMKKPNKYNYPIGKRRMQPVGIIVFAS
+VMGTLGFQVLIESGRQLITQEHANFkrKQELWMVGSMSSVAVVKFFLMLYCRTFKNEIVR
+AYAQDHFFDVITNSVGLVsALLAVRYKWWMDPVGAILIALYTITTWARTVLENVGTLIGK
+SAPAEYLTKLTYLIWNHHEEIRHIDTVRAYTFGTHYFVEVDIVLPGDMPLSQAHDIGESL
+QEKLEQLPEVERAFVHVDFEFTHRPEHKAEV
+
+================================================================================

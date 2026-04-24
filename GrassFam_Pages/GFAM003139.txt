@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM003139
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             369.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10578:SF115
+Panther Family ID:               PTHR10578
+Modal Panther ID:                PTHR10578:SF115
+Modal Panther Description:       GLYCOLATE OXIDASE 1
+Modal Panther Family ID:         PTHR10578
+Modal Panther Fam Desc:          S -2-HYDROXY-ACID OXIDASE-RELATED
+Interpro Signature Accession:    cd02809; G3DSA:3.20.20.70:FF:000063; G3DSA:3.20.20.70; PTHR10578; PIRSF000138; PF01070; SSF51395
+Interpro Signature Description:  alpha_hydroxyacid_oxid_FMN; peroxisomal (S)-2-hydroxy-acid oxidase GLO1; Aldolase class I; S -2-HYDROXY-ACID OXIDASE-RELATED; Al-hdrx_acd_dh; FMN-dependent dehydrogenase; FMN-linked oxidoreductases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: peroxisomal (S)-2-hydroxy-acid oxidase GLO5%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: peroxisomal (S)-2-hydroxy-acid oxidase GLO5%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: peroxisomal (S)-2-hydroxy-acid oxidase GLO5
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: peroxisomal (S)-2-hydroxy-acid oxidase GLO5; peroxisomal (S)-2-hydroxy-acid oxidase GLO5%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: glycolate oxidase 5
+  Gene Descriptions: glycolate oxidase 5
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: peroxisomal (S)-2-hydroxy-acid oxidase GLO5-like
+  Gene Synonyms: GLO5,GOX 3,OsGLO5,OsJ_23125
+  Gene Descriptions: peroxisomal (S)-2-hydroxy-acid oxidase GLO5-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 2
+  Modal chromosome: Pau14
+  Gene Products: glycolate oxidase 5; glycolate oxidase 5-like
+  Gene Descriptions: glycolate oxidase 5; glycolate oxidase 5-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: peroxisomal (S)-2-hydroxy-acid oxidase GLO5%2C transcript variant X2; peroxisomal (S)-2-hydroxy-acid oxidase GLO5-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: peroxisomal (S)-2-hydroxy-acid oxidase GLO5%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: glycolate oxidase 1
+  Gene Synonyms: go1,GRMZM2G129246
+  Gene Descriptions: glycolate oxidase 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 369 aa
+
+MGEITNVTEYQAIAKQKLPKMIYDYYASGAEDEWTLQENREAFSRILFRPRILIDVSKID
+MTTTVLGFKISMPIMIAPTAMQKMAHPDGEYATARAASAAGTIMTLSSWATSSVEEVAST
+GPGIRFFQLYVYKDRKVVEQLVRRAERAGFKAIALTVDTPRLGRREADIKNRFVLPPNLT
+LKNFEGLDLGKMDQAADSGLASYVAGQIDRTLSWKDVKWLQTITTLPILVKGVITAEDTR
+LAVENGAAGIIVSNHGARQLDYVPATISALEEVVKAARGQLPVFLDGGVRRGTDVFKALA
+LGAAGVFIGRPVVFSLAAAGEAGVSNVLKMLRDEFELTMALSGCTSLADITRNHVvTEAD
+KLGVMPSRL
+
+
+BOP CONSENSUS:
+Length: 368 aa
+
+MEITNVTEYQAIAKQKLPKMIYDYYASGAEDEWTLQENREAFARILFRPRILIDVSKIDM
+TTTILGFKLSMPIMISPTAMQKMAHPDGEYATARAASAAGTIMTLSSWATSSVEEVASTG
+PGIRFFQLYVYKDRKVVEQLVRRAEKAGFKAIALTVDTPRLGRREADIKNRFVLPPNLTL
+KNFEGLDLGKMDQANDSGLASYVAGQIDRTLSWKDVKWLQSITTMPILVKGVITAEDSRL
+AVENGAAGIIVSNHGARQLDYVPATISALEEVVKGArGQIPVFLDGGVRRGTDVFKALAL
+GAAGVFIGRPVVFSLAVAGEAGVSNVLKMLRDEFELTMALSGCNSLADITRNHVVTEADK
+FGVMPSRL
+
+
+PACMAD CONSENSUS:
+Length: 369 aa
+
+MGEITNVMEYQAIAKQKLPKMAYDYYASGAEDEWTLQENREAFSRILFRPRILIDVSKID
+MTTTVLGFKISMPIMIAPTAMQKMAHPDGEYATARAASAAnTIMTLSSWATSSVEEVAST
+GPGIRFFQLYVYKDRKVVEQLVRRAERAGFKAIALTVDTPRLGRREADIKNRFVLPPNLT
+LKNFEGLDLGKMDQAADSGLASYVAGQIDRTLSWKDVKWLQTITTLPILVKGVITAEDTR
+LAVENGAAGIIVSNHGARQLDYVPATISALEEVVKAARGQLPVFLDGGVRRGTDVFKALA
+LGAAGVFVGRPVVFSLAAAGEAGVSNVLRMLRDEFELTMALSGCTSLADITRNHVITESD
+RLrVMPSRL
+
+================================================================================

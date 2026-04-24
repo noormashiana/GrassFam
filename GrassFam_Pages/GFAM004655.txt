@@ -1,0 +1,122 @@
+================================================================================
+GrassFam ID: GFAM004655
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             530.0 aa
+Family Size (Extended Family Size): 37 (42) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24281:SF9
+Panther Family ID:               PTHR24281
+Modal Panther ID:                PTHR24281:SF9
+Modal Panther Description:       P450
+Modal Panther Family ID:         PTHR24281
+Modal Panther Fam Desc:          STEROID 21-HYDROXYLASE-RELATED
+Interpro Signature Accession:    cd11072; G3DSA:1.10.630.10:FF:000055; G3DSA:1.10.630.10; PTHR47955; PR00463; PF00067; SSF48264
+Interpro Signature Description:  CYP71-like; Cytochrome P450 71A26; Cytochrome P450; CYTOCHROME P450 FAMILY 71 PROTEIN; E-class P450 group I signature
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 3
+  Modal chromosome: Bdi03
+  Gene Products: indole-2-monooxygenase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu05H
+  Gene Products: indole-2-monooxygenase-like
+Ata
+  Gene count: 5
+  Modal chromosome: Ata06D
+  Gene Products: indole-2-monooxygenase; indole-2-monooxygenase%2C transcript variant X2
+Tae
+  Gene count: 10
+  Modal chromosome: Tae06D
+  Gene Products: indole-2-monooxygenase-like; indole-2-monooxygenase-like%2C transcript variant X1
+Ola
+  Gene count: 4
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl08
+  Gene Products: indole-2-monooxygenase-like
+  Gene Descriptions: indole-2-monooxygenase-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa08
+  Gene Products: indole-2-monooxygenase
+  Gene Descriptions: indole-2-monooxygenase
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN4
+Msi
+  Gene count: 6
+  Modal chromosome: Msi12
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: indole-2-monooxygenase
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: 3-hydroxyindolin-2-one monooxygenase-like; Cytochrome P450 71C1
+  Gene Synonyms: BX4,CYP71C1,GRMZM2G172491
+  Gene Descriptions: Cytochrome P450 71C1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 533 aa
+
+MagqmaqlliFSPQaLLsLLLlfLtLVLLRyYlaRRSAnghgrRLPPSPPkLPlIGHLHL
+VGPnPHVSLAELAaKHAGaDGLMLLRLGQVPNLVVSSPRAAEAVLRTHDHVFASRPPSAV
+ADiLlSGpSDVALAPYGEYWRQARRLVTTHLLSArKVqSLRRAREEEVrLVVAKIRaAAA
+AgaAVDMTELLGaFTNDVVCRAVSGKFFREEGRNELFRELIaGNVAaiGGFNLeDYFPsL
+AKVGLLrRvVfAKTfrLKKRWDELLDkIIDDHAaKssslgqHHvhDDhddqQeDqDrDFV
+DVLLSLQqEYnLTRdNVKaILmDMFaAGTDTSYIVLEFAMAELIRKPHLMAKLQAEVRsk
+TPKGQqMVKEDDLgNMsYLKAVVKETLRLHPPaPLLLPHLSMAeCdVNGYtVPAGTRVIV
+NAWALGRDagSWEKADEFmPERFmDsGasAaaDFKGRDFQFLPFGAGRRICPGiNFGMAt
+VEiMLANLVYCFDWELPdGMreEDVDMtDVFGLTMRRKEKLLLVPRIprdvNi
+
+
+BOP CONSENSUS:
+Length: 533 aa
+
+MAgDmqqvLpliFSPQaLLsLLLCFllLVLLRYYLARRSAnncadhGrRLPPSPPKLPLI
+GHLHLVGPDPHVSLAeLArKHGrDGLMLLRLGQVPNLVVSSPRAAEAVLRTHDHVFASRP
+PSAvADVLLsGpSDVAFAPYGEYWRQARKLVTTHLLSARKVRSLRGGREEEVRLVVAKiR
+AAAAAgaAVDMTELLGAFTNDVVCRAVSGKFFREEGRNELFRELIAGNVAAfGGFNLEDY
+FPSLAKVGLLRRVVLARTsRLKKRWDELLDKIIDDHAtKSsslgqHHhddqQEDQERDFV
+DVLLSLQhEYNLTRDNvKAILMDMFAAGTDTSYIVLEFAMAELMRKPHLMAKLQAEVRsK
+TPKGQQmVkEDDLgnMaYLKAVVKETLRLHPPAPLLLPRLSMAECDDVNGYtVPAGTRVI
+VNAWALGRDtgSWEkAEEFmPERFMDvGAkAaaDFKGRDFQFLPFGAGRRICPGMNFGMA
+TVEIMLANLVYCFDWELPdGMREEDVDMTDVFGlTMRRKEKLlLVPRPrdvNi
+
+
+PACMAD CONSENSUS:
+Length: 515 aa
+
+MVLYLVFLALLTFVLLRRMGGRRSGHGIHRLPPSPPGLPIIGHLHLLGSNPHLSLREIAA
+SMHGAAADGFMLLRLGQVPNLVVSSPRAAEAVLRAHDHTFASRPPSAVADILFSYSDVAL
+APYGDYWRLVRRLVTTHVLSAGKVQSLRRARQEEVALAVAKIRDAASTAVDMTEVFCVFT
+NDMVCRAVSGKFFRRLEGRHRAFQVIINSQVILIAGFNLDDCFPWLAKVGGVFARLLFAK
+AFTLKKQWDVLLDEIITEHAAKLEEERHDKVSDDAGQSQEEDADFVHVLLSLQQEYRLTR
+QQVKSILVDMFGAGTDTSSILLEYAMIELIRNPHIMAKVRDEITKNTPKGQDMVKEENLA
+NMSYLRAVIKETLRLYPPTPLLLPHFCMEDCEVNGYTIAAGTRVIVNAWALGRDASAWEK
+ADEFIPERFLDSGSSAATDFRGRDFKFVPFGAGRRMCPGINFGMAVVELMLANLLYCFRW
+ELPAGMAPQDVDMSVKYGLTSRRKEKLLLVPRLAV
+
+================================================================================

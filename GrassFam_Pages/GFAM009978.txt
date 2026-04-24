@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM009978
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             507.0 aa
+Family Size (Extended Family Size): 34 (34) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11011:SF44
+Panther Family ID:               PTHR11011
+Modal Panther ID:                PTHR11011:SF44
+Modal Panther Description:       FATTY ACYL-COA REDUCTASE
+Modal Panther Family ID:         PTHR11011
+Modal Panther Fam Desc:          MALE STERILITY PROTEIN 2-RELATED
+Interpro Signature Accession:    cd05236; G3DSA:3.40.50.720; PTHR11011; PF07993; SSF51735
+Interpro Signature Description:  FAR-N_SDR_e; -; MALE STERILITY PROTEIN 2-RELATED; Male sterility protein; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: probable fatty acyl-CoA reductase 4
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 8
+  Modal chromosome: Hvu04H
+  Gene Products: fatty acyl-CoA reductase 1-like; probable fatty acyl-CoA reductase 4; probable fatty acyl-CoA reductase 4%2C transcript variant X1; probable fatty acyl-CoA reductase 5; probable fatty acyl-CoA reductase 5%2C transcript variant X1
+Ata
+  Gene count: 2
+  Modal chromosome: Ata04D
+  Gene Products: alcohol-forming fatty acyl-CoA reductase; fatty acyl-CoA reductase 1
+Tae
+  Gene count: 7
+  Modal chromosome: Tae04B
+  Gene Products: alcohol-forming fatty acyl-CoA reductase; alcohol-forming fatty acyl-CoA reductase-like%2C transcript variant X1; fatty acyl-CoA reductase 1; fatty acyl-CoA reductase 1-like; probable fatty acyl-CoA reductase 5; probable fatty acyl-CoA reductase 5%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola11
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: fatty acyl-CoA reductase 1-like
+  Gene Descriptions: fatty acyl-CoA reductase 1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: putative fatty acyl-CoA reductase 7
+  Gene Synonyms: OJ1155_H10.32
+  Gene Descriptions: putative fatty acyl-CoA reductase 7
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: fatty acyl-CoA reductase 1-like; probable fatty acyl-CoA reductase 4
+  Gene Descriptions: fatty acyl-CoA reductase 1-like; probable fatty acyl-CoA reductase 4
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: fatty acyl-CoA reductase 1-like; probable fatty acyl-CoA reductase 4
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: fatty acyl-CoA reductase 1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: fatty acyl-CoA reductase 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: Fatty acyl-CoA reductase 1
+  Gene Synonyms: GRMZM2G480516
+  Gene Descriptions: Fatty acyl-CoA reductase 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 509 aa
+
+MVGTLdEarIiGYFKNKSILITGSTGFLGKILVEKILRVQPDVKRIYLPVRAvDAAAAKr
+RVETEViGKELFGLLREkHGkGFQSFIeEKVVPLAGDVMrEnFGVEgaTLRELRlTqELN
+VIVNGAATTNFYERYDVALDVNVMGVKHMCqFAKKCPNLEVLLHVSTAYVAGEKQGLVQE
+RPFKdGETLREGThLDIDAELRLARDLkKQLEADdDsspKAERKAMKELGLARARHFGWP
+NTYVFTKSMGEMMLgQllrGGDVPVVIVRPSIITSVQNDPLPGWIEGTRTIDAILIGYAK
+QNLSCFLADLDLTMDVMPGDMVVNAMMAATVAHASSsasktrkkPpPqpPtVYHVTSSLR
+NPAPYAVLYRTGiRYFeEHPRVGpDGRpVRTRKVrFlgTIAaFHLFMVLRYRLPLELLRL
+LSLLCCGLFGLarLYhDLARKYRFVMqLVDLYGPFALFKGCFDDvNLnKLRLAMAdgDrs
+lFNFDPKTiDWDDYFYRVHIPGVMKYVLK
+
+
+BOP CONSENSUS:
+Length: 512 aa
+
+MVGTLDEaKIIeYFKNKSVLITGSTGFLGKILVEKILRVQPDVKKIYLPVRAVDAAAAKr
+RVETEVVGKELFGLLREKHGdGFDSFIaEKVVPLAGDVMREgFGVDseTLRELRLtdELN
+VIVNGAATTNFYERYDVALDVNVMGVKHMCdFAKKCPNLEVLLHVSTAYVAGEKQGLVQE
+RPFRDGETLREGTHLDIDaELRLAkDLKKQLEADdDsdPKAeRKAMKDLGLTRARHFGWP
+NTYVFTKSMGEMMLGQmmRGGDVPVVIVRPSIITSVQNDPLPGWIEGTRTIDAILIGYAK
+QNLSCFLADLDLTMDVMPGDMVVNAMMAAtVAHASSSrsKtekkPpPqaPAVYHVSSSLR
+HPAPYAVLYRTGiRYFeEHPRVGPDGRtVRTRKVRFLgSIASFHLFMVLkYRLPLELLRL
+LSILCCGLFGLAALYHDLARKYRFVMQLVDLYGPFSLFKGCFDDVNLNKLRLAMAdghhA
+dgSLFNFDPKTIDWDDYFYRVHIPGVMKYVLK
+
+
+PACMAD CONSENSUS:
+Length: 503 aa
+
+MVGTMEEtRIPGYFKNKGILITGSTGFLGKILVEKILRVQPDVKRIYLPVRAPDAASAKK
+RVETEVIGKELFGLLRETHGKGFQSFIEEKVVPLAGDIIHENFGVEGsQLsQMTQELNVI
+VNGAATTNFYERYDVALDVNVMGVKHMCQLAKQCPNLEVILHVSTAYVVGEKQGVIQERA
+FKqGETLREGtElrLDIDAELRLARDYQRQLAGDDAEQKNERKAMKELGLARAREFGWPN
+TYVFTKALGEMTLAQELGGGVPVVIVRPSIITSIQKDPLPGWIEGTRTIDAILIGYAKQN
+LSCFLADLDLTMDVIPGDMVVNAMMAATVAHASPPAaQrRqqQpPPTVYHATSSLRNPAP
+YAVLYRTGiRYFSeHPRVGKDGRPVRTRKVHFFsTVAAFTAYMVVRYRLPLELLRLLNLL
+CCGLLSRLYADLnRKYrFVMRLVDLYGPFALFRGvFDDANVERLRLAMAVADRVaFNFDP
+KTvDWDDYFYKIHIPGVMKYVLK
+
+================================================================================

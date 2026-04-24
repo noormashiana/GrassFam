@@ -1,0 +1,123 @@
+================================================================================
+GrassFam ID: GFAM005858
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             370.0 aa
+Family Size (Extended Family Size): 20 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22893:SF113
+Panther Family ID:               PTHR22893
+Modal Panther ID:                PTHR22893:SF113
+Modal Panther Description:       12-OXOPHYTODIENOATE REDUCTASE 13-RELATED
+Modal Panther Family ID:         PTHR22893
+Modal Panther Fam Desc:          NADH OXIDOREDUCTASE-RELATED
+Interpro Signature Accession:    cd02933; G3DSA:3.20.20.70:FF:000073; G3DSA:3.20.20.70; PTHR22893; PF00724; SSF51395
+Interpro Signature Description:  OYE_like_FMN; 12-oxophytodienoate reductase 3; Aldolase class I; NADH OXIDOREDUCTASE-RELATED; NADH:flavin oxidoreductase / NADH oxidase family; FMN-linked oxidoreductases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: putative 12-oxophytodienoate reductase 12
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: putative 12-oxophytodienoate reductase 12
+Tae
+  Gene count: 2
+  Modal chromosome: Tae02B
+  Gene Products: putative 12-oxophytodienoate reductase 12
+Ola
+  Gene count: 2
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl04
+  Gene Products: putative 12-oxophytodienoate reductase 12; putative 12-oxophytodienoate reductase 13%2C transcript variant X1
+  Gene Descriptions: putative 12-oxophytodienoate reductase 12; putative 12-oxophytodienoate reductase 13
+Osa
+  Gene count: 2
+  Modal chromosome: Osa04
+  Gene Products: putative 12-oxophytodienoate reductase 12; putative 12-oxophytodienoate reductase 13
+  Gene Synonyms: OPR12,OPR5,OsJ_14924,OsOPR12
+  Gene Descriptions: putative 12-oxophytodienoate reductase 12; putative 12-oxophytodienoate reductase 13
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 1
+  Modal chromosome: Pau07
+  Gene Products: putative 12-oxophytodienoate reductase 13
+  Gene Descriptions: putative 12-oxophytodienoate reductase 13
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: putative 12-oxophytodienoate reductase 11; putative 12-oxophytodienoate reductase 13%2C transcript variant X5
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: putative 12-oxophytodienoate reductase 13
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: putative 12-oxophytodienoate reductase 13
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 374 aa
+
+MEPIPLLSPYEMGrFrFSHRvVLAPLTRSRSYGNLPQSHAILYYSQRATEGGLLIsEATG
+VSSDAQGMSLIPHTPGIWTKEQVEAWKPVVDAVHAKGGIFFCQIWHVGRASDMEqEPISS
+TDKPVEKNEDNYMDFStPRsLTVEEIPDVINHFRIAARNAlDAGFDGVEiHGANGFLLEQ
+FMKDGVNDRADkYGGSLQNRCRFALEVVDAVvAEVGpDRVGvRLSPYsnYLGChDSDPDA
+LGVYMARELNRRdILYCNAVEPEMVmvdgGEkMqIPHRLHeMRkAFnGTFMVGGGYDREE
+GNrAVAdGYADMVVYGRLFLANPDLPRRFrLNAPLNKYDRATFYTDDPVVGYTDYPFLED
+dGqtssdsggNGvi
+
+
+BOP CONSENSUS:
+Length: 377 aa
+
+MEPIPLMTPYQMGPFeFSHRVVLAPMTRSRSYGNLPQPHAmeYYsQRATEGGLLISEATG
+VSsDAQGMSAIPHTPGIWTKEQVQAWKPIVDAVHAKGAIFFCQIWHVGRASDMEQEPISS
+TDKPIEKTEENYsMDFSTPRSLTVEEIPDVINHFRIAARNALEAGFDGVEVHAANGYLLD
+QFMKDGVNDRADEYGGSLeNRCRFALEVVDAVSnEvGPyrVGVRLSPYSgCLGCRDSDPD
+ALAVYMARELnRRDVLYLNVVEPEMvaAeDvvGGEALmvIPHRLqAMREAFdGTLMVGGG
+YDREEGNwAVAeGYADLVVYGRLFLANPDLPERFRRnAPLNKYDRATFYTDDPVVGYTDY
+PFLDDDGqtskDgNGVI
+
+
+PACMAD CONSENSUS:
+Length: 370 aa
+
+MESIPLLSPYETGRFRFSHRIVLAPLTRsRSYGNLPQSHAILYYSQRATEGGLLIAEATG
+VSSDAQGMSLIPHTPGIWTKEQVEAWKPVVDAVHAKGGIFFCQIWHVGRASDMEKEPISS
+TDKPVEKNEDDHMDFPIPRCLTVEEIPNVVNHFRVAARNAMDAGFDGVEIHGAHGFLLEQ
+FMKDSVNDRTDKYGGSLQNRCRFALEVVEAVVAEVGSDRVGIRLSPYANYLGCHDSDPDA
+LGVYMAQELNRYSILYCSAVEPEMVMVDGKMQIPHRLHEMRKAFNGTFMVGGGYDREEGN
+RVVADGYADMVVYGRLFLANPDLPRRFHLNAPLNKYDRSTFYTNDPVVGYTDYPFLEDCE
+PlsSttGEgv
+
+================================================================================

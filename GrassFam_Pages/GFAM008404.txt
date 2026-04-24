@@ -1,0 +1,111 @@
+================================================================================
+GrassFam ID: GFAM008404
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             511.0 aa
+Family Size (Extended Family Size): 53 (61) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24281:SF260
+Panther Family ID:               PTHR24281
+Modal Panther ID:                PTHR24281:SF260
+Modal Panther Description:       CYTOCHROME P450
+Modal Panther Family ID:         PTHR24281
+Modal Panther Fam Desc:          STEROID 21-HYDROXYLASE-RELATED
+Interpro Signature Accession:    cd11072; G3DSA:1.10.630.10:FF:000064; G3DSA:1.10.630.10; PTHR47955; PR00463; PF00067; SSF48264
+Interpro Signature Description:  CYP71-like; Cytochrome P450 monooxygenase; Cytochrome P450; CYTOCHROME P450 FAMILY 71 PROTEIN; E-class P450 group I signature
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi04
+  Gene Products: ent-isokaurene C2-hydroxylase%2C transcript variant X1; premnaspirodiene oxygenase%2C transcript variant X1
+Lpe
+  Gene count: 5
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 6
+  Modal chromosome: Hvu02H
+  Gene Products: 5-epiaristolochene 1%2C3-dihydroxylase-like; desmethyl-deoxy-podophyllotoxin synthase-like; ent-isokaurene C2/C3-hydroxylase-like; zealexin A1 synthase-like
+Ata
+  Gene count: 6
+  Modal chromosome: Ata02D
+  Gene Products: cytochrome P450 71D7; desmethyl-deoxy-podophyllotoxin synthase; desmethyl-deoxy-podophyllotoxin synthase-like; zealexin A1 synthase-like
+Tae
+  Gene count: 27
+  Modal chromosome: Tae02A
+  Gene Products: cytochrome P450 71D11-like; desmethyl-deoxy-podophyllotoxin synthase-like; ent-isokaurene C2/C3-hydroxylase-like; zealexin A1 synthase-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola01
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: zealexin A1 synthase
+  Gene Descriptions: zealexin A1 synthase
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi09K
+  Gene Products: desmethyl-deoxy-podophyllotoxin synthase-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 520 aa
+
+MDMDQLSyGSLCLmAVATILLsLILRQALGGKdTGAKLPPGPWNLPVIGSLHHLVGTKLP
+PHRALLRLSRRHGPLMLLRLGEVPtVIVSTPEAAMEVLKTNDLaFATRPSGPTlDiVSsG
+GKGlIFAPYGEHWRQMRKVCVVELLSARQVRRIeSImQaEVAhLVESVaAASSASgsAVV
+DvGKgLArLTNNIIARAVFGGKCRQQEAYLRELDVmAvLVGGFSLVDLFPSSRLVRWLSs
+sgRDvRRSHARvQRILGDIIQERKEKKpsNaaAaAtaRDDEDLLDVLLRLQKEDTLsFPL
+TSEIIGAVIFDIFGAATDTTAsTLEWAMAELIRNPhAMARAKLEVRQrLGHgRsSTITSA
+DLGgLHYLRMVIKETLRLHPsApLIHRASQEdCRVMGYDIPKGTaVMINAFAVGRDPaHW
+GeDAAEFRPERFEgmsVEySQGpqMEFIPFGAGRRQCPGALFATTTmELVLANLLYHFDW
+AIPGGAgPETLDMGEVFGIIVHTRSSLrLQAssacHLQDq
+
+
+BOP CONSENSUS:
+Length: 522 aa
+
+MDMDQLSYGSLCLMAVATILLsLILRQALGGKDTGAKLPPGPWNLPVIGSLHHLVGTKLP
+PHRALLRLSRRHGPLMLLRLGEVPnVIVSTPEAAMEVLKTNDLaFATRPSGPTlDiVSsG
+GKGlIFAPYGEHWRQMRKVCVVELLSARQVRRIeSImQaEvAhLVESVaAASSASgSAVV
+DVGKGLArLTNNIIARAVFGGKCRQQEAYLRELDVmavLVGGFSLVDLFPSSRLVRWLSS
+sgRDvRRSHARvQRILGDIIQERKEKKppNgsAsAAtaRDdEDLLDVLLRLqKEDTLsFP
+LTSEIIGAVIFDIFGAATDTTAaTLEWAMAELIRNPhAMARAKLEVRQrLGHgRsSTITS
+ADLggLHYLRMVIKETLRLHPSApLIHRASQEdCrVMGYDIPKGTaVMINAFAVGRDPAH
+WGeDAAEFRPERFEgmSVEYsSQGpQMEFIPFGAGRRQCPGALFATTTmELVLANLLYHF
+DWAIPGGAGPETLDMGEVFGIIVHTRSSLrLQAssacHLQDq
+
+
+PACMAD CONSENSUS:
+Length: 506 aa
+
+MDEVSIGSWLPLAVLVATVLLSLLRRLLTLDGKPTANARLPPGPWNLPVIGSLHHLAGAP
+PHRALLRLSRRHGPVMLLRVGEVPTVVVSSPEAAAEVMRTRDPVFASRPVGSPVDVVGRG
+GTSLIFAPYGEYWRQMRKVCVVELLSATQVRRVERIRRDEVSRLVQSIIAASASPAVVNL
+SQVLTELSNNVVARAVFGGKCRRQEQYLRELGVVATLAGGFSLPDLFPSSRLVRWLSGAV
+RDMTRSRDRVVSIVGGIVRERREKRRTTTSVAGGGVQDEDLLDVLQRLQEEGSLTLPLTT
+EIISTVVSDMFGAATDTTATTLEWVMAELIRNPQAMSRATLEIRQKLGRGRNDHLGDLRY
+LRMVIKETLRLRPAAPLILRSSQENCRVMGYDIPKGSTVMVNTLSVARDPRYWDKAEEFR
+PERFESSEYKWTHLEFVPFGAGRRQCPGALFATTTMELTLANLLYHFDWTLPGGADPKKL
+DMSEVFGLTVRRRSSLCMLPALRVPH
+
+================================================================================

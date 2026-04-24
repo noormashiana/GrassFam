@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM019496
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             432.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24055:SF72
+Panther Family ID:               PTHR24055
+Modal Panther ID:                PTHR24055:SF72
+Modal Panther Description:       SERINE_THREONINE-PROTEIN KINASE MHK
+Modal Panther Family ID:         PTHR24055
+Modal Panther Fam Desc:          MITOGEN-ACTIVATED PROTEIN KINASE
+Interpro Signature Accession:    cd07830; G3DSA:1.10.510.10:FF:000104; G3DSA:3.30.200.20:FF:000335; G3DSA:1.10.510.10; PTHR24055; PF00069; SM00220; SSF56112
+Interpro Signature Description:  STKc_MAK_like; serine/threonine-protein kinase MAK isoform X1; Serine/threonine-protein kinase MHK; Transferase(Phosphotransferase) domain 1; MITOGEN-ACTIVATED PROTEIN KINASE; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: cyclin-dependent kinase F-3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: cyclin-dependent kinase F-3
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: cyclin-dependent kinase F-3%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: cyclin-dependent kinase F-3-like; cyclin-dependent kinase F-3-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: cyclin-dependent kinase F-3%2C transcript variant X1
+  Gene Descriptions: cyclin-dependent kinase F-3
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: cyclin-dependent kinase F-3-like%2C transcript variant 2
+  Gene Synonyms: CDKF-3,CDKF%3B3
+  Gene Descriptions: cyclin-dependent kinase F-3-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: cyclin-dependent kinase F-3-like%2C transcript variant X1
+  Gene Descriptions: cyclin-dependent kinase F-3-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: cyclin-dependent kinase F-3-like%2C transcript variant X1; cyclin-dependent kinase F-3-like%2C transcript variant X3
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: cyclin-dependent kinase F-3-like%2C transcript variant X4
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: cyclin-dependent kinase F-3%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: putative protein kinase superfamily protein%2C transcript variant X1
+  Gene Synonyms: GRMZM2G045241
+  Gene Descriptions: putative protein kinase superfamily protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 430 aa
+
+MERYKvIREIGDGTCGNVFMAYNiETNEIVAVKKMKRKFYQWEECISLREVKALQKLnHP
+NIVKLKEVTMENHELFFIFEHMECNLYDVIRERQvPFSEeeIRNFMVQILQGLAYMHNNG
+YFHRDLKPENLLVTNGIVKIADFGLAREVSSSPPYTDYVSTRWYRAPEVLLQSSAYTPAI
+DMWAVGAILAELFTLSPLFPGESETDQLYKICtVLGTPDcTVWPEGMNLPRSSSFkFFQI
+PPRNLWELIPNASLEAIDLIQQLCSWDPRRRPTAEQALQHPFFNVcNWVPRPLHDAShTK
+TNEPRAhPRLELNLWDFSTEPDDCFLDLTLSLKPSFPGTDLaNHVPqrTEEEILLYPGFE
+NtPVQSGFWPLVsSDRPiGDVPAMPSWQQAYMVDSQAtLPGFSGSPFGLSLQPNLLENRS
+LAPIRQVNFF
+
+
+BOP CONSENSUS:
+Length: 439 aa
+
+MERYKVIREIGDGTCGNVFRAYNIETNEIVAVKKMKRKFYHWEECISLREVKALQKLNHP
+NIVQLKEVTMENHELFFIFEHMDCNLYDVIRERSAPFSEEEIRKFMLQILQGLVYMHNNG
+YFHRDLKPENLLVTNGIVKIADFGLAREVCSSPPYTDYVSTRWYRAPEVLLQASAYTPSI
+DMWAIGAILAELFTLSPLFPGETETDQLYKICAVLGTPDHSLWPEGMNLPRSSSFQFFQI
+PPRNLWELIPNASLEALDLIKQLCSWDPRRRPTAEQALQHPFFNVRKWVPRPLHDASYsK
+mNEPRATPRLELDLWcFGTESDDLDLTLSLKPSSVSDLGKHVPEHREEENLLYPGYGNPP
+VQPGLWPLMsSSHRPLGEAPAMPSWQQAYMVDSQAATLPAAGGGGGFsGSSPFGLFPLQP
+NLMENRSLAPAPIRQVNFF
+
+
+PACMAD CONSENSUS:
+Length: 430 aa
+
+MERYKLIREIGDGTCGNVFMAYNVETNEIVAVKKMKRKFFQWEECVSLREVKALQKLIHP
+NIVKLKEVTMENHELFFIFEHMECNLYDVIRERQVAFSEGDIRNFMVQILQGLAYMHNNG
+YFHRDLKPENLLVTNGIVKIADFGLAREVSSSPPYTDYVSTRWYRAPEVLLQSSAYTPAI
+DMWAVGAILAELFTLSPLFPGESETDQLYKICTVLGTPDCTVWPEGMNLPRSSSFKFFQI
+PPRNLWELIPNASLEAIDLIQQLCSWDPRRRPTAEQALQHPFFNVCNWVPRPVHDASHTK
+TNEPKAHPRLELNLWDFSTEPDDCFLDLTLSLKPSFPGTDLANHVPQRTEEEILLYSGFE
+NTPVKSGFWPLVPSDRPIGDVPAMPSWQQAYMVDSQASLPGFSGSPFGLSLQPNLLENHS
+LAPIRQVNFF
+
+================================================================================

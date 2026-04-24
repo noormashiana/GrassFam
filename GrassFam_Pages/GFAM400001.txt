@@ -1,0 +1,123 @@
+================================================================================
+GrassFam ID: GFAM400001
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   MT
+Organeller, Te, Etc.:            MT [atp1]
+Median Peptide Size:             507.0 aa
+Family Size (Extended Family Size): 108 (123) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48082:SF6
+Panther Family ID:               PTHR48082
+Modal Panther ID:                PTHR48082:SF6
+Modal Panther Description:       ATP SYNTHASE SUBUNIT ALPHA, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR48082
+Modal Panther Fam Desc:          ATP SYNTHASE SUBUNIT ALPHA, MITOCHONDRIAL
+Interpro Signature Accession:    cd01132; cd18116; cd18113; G3DSA:1.20.150.20:FF:000001; G3DSA:3.40.50.300:FF:000002; G3DSA:2.40.30.20:FF:000001; G3DSA:1.20.150.20; G3DSA:2.40.30.20; G3DSA:3.40.50.300; TIGR00962; NF009884; PTHR48082; PF00306; PF00006; SSF47917; SSF52540; SSF50615
+Interpro Signature Description:  F1-ATPase_alpha_CD; ATP-synt_F1_alpha_N; ATP-synt_F1_alpha_C; ATP synthase subunit alpha; -; F0F1 ATP synthase subunit alpha; ATP SYNTHASE SUBUNIT ALPHA, MITOCHONDRIAL; ATP synthase alpha/beta chain, C terminal domain; ATP synthase alpha/beta family, nucleotide-binding domain; C-terminal domain of alpha and beta subunits of F1 ATP synthase; P-loop containing nucleoside triphosphate hydrolases; N-terminal domain of alpha and beta subunits of F1 ATP synthase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi05
+  Gene Products: ATP synthase subunit alpha%2C chloroplastic
+Hvu
+  Gene count: 33
+  Modal chromosome: HvuUN8
+  Gene Products: ATP synthase subunit alpha%2C chloroplastic; ATP synthase subunit alpha%2C chloroplastic-like; ATP synthase subunit alpha%2C mitochondrial; ATP synthase subunit alpha%2C mitochondrial-like
+Ata
+  Gene count: 8
+  Modal chromosome: Ata01D
+  Gene Products: ATP synthase subunit alpha%2C chloroplastic; ATP synthase subunit alpha%2C chloroplastic-like; ATP synthase subunit alpha%2C mitochondrial; ATP synthase subunit alpha%2C mitochondrial-like
+Tae
+  Gene count: 23
+  Modal chromosome: Tae05D
+  Gene Products: ATP synthase subunit alpha%2C chloroplastic; ATP synthase subunit alpha%2C chloroplastic-like; ATP synthase subunit alpha%2C mitochondrial; ATP synthase subunit alpha%2C mitochondrial-like
+Ola
+  Gene count: 3
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: OglCP
+Osa
+  Gene count: 3
+  Modal chromosome: Osa09
+  Gene Products: ATP synthase subunit alpha%2C chloroplastic; ATP synthase subunit alpha%2C mitochondrial
+  Gene Descriptions: ATP synthase subunit alpha%2C chloroplastic; ATP synthase subunit alpha%2C mitochondrial
+Svi
+  Gene count: 3
+  Modal chromosome: SviUN175
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: ATP synthase subunit alpha%2C chloroplastic
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: ATP synthase subunit alpha%2C mitochondrial
+Msi
+  Gene count: 2
+  Modal chromosome: Msi13
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi02
+  Gene Products: ATP synthase subunit alpha%2C chloroplastic
+Zma
+  Gene count: 24
+  Modal chromosome: ZmaMT
+  Gene Products: ATP synthase subunit alpha%2C chloroplastic; ATP synthase subunit alpha%2C mitochondrial; ATP synthase subunit alpha%2C mitochondrial-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 504 aa
+
+MATLRVDEIHKILRERIEQYNRKVGIENIGRVVQVGDGIARIIGLGEIMSGELVQFAEGT
+RGIALNLESKNVGIVLMGDGLMIQEGSFVKATGRIAQIPVSEAYLGRVVNALAKPIDGKG
+EIIASESRLIESPAPSIISRRSVYEPLQTGLIAIDSMIPIGRGQRELIIGDRQTGKTAVA
+TDTILNQKGQGVICVYVAIGQRASSVAQVVTTFHEEGAMEYTIVVAEMADSPATLQYLAP
+YTGAALAEYFMYRERHTLIIYDDLSKQAQAYRQMSLLLRRPPGREAYPGDVFYLHSRLLE
+RAAKLNSLLGEGSMTALPIVETQSGDVSAYIPTNVISITDGQIFLSADLFNAGIRPAINV
+GISVSRVGSAAQIKAMKQVAGKSKLELAQFAELQAFAQFASALDKTSQNQLARGRRLREL
+LKQSQANPLPVEEQIATIYTGTRGYLDSLEIEQVNKFLDELRKHLKDTKPQFQEIISSSK
+TFTEQAEILLKEAIQEQLERFSLQ
+
+
+BOP CONSENSUS:
+Length: 504 aa
+
+MATLRVDEIHKILRERIEQYNRKVGIENIGRVVQVGDGIARIIGLGEIMSGELVQFAEGT
+RGIALNLESKNVGIVLMGDGLMIQEGSFVKATGRIAQIPVSEAYLGRVVNALAKPIDGKG
+EIIASESRLIESPAPSIISRRSVYEPLQTGLIAIDSMIPIGRGQRELIIGDRQTGKTAVA
+TDTILNQKGQGVICVYVAIGQRASSVAQVVTTFHEEGAMEYTIVVAEMADSPATLQYLAP
+YTGAALAEYFMYRERHTLIIYDDLSKQAQAYRQMSLLLRRPPGREAYPGDVFYLHSRLLE
+RAAKLNSLLGEGSMTALPIVETQSGDVSAYIPTNVISITDGQIFLSADLFNAGIRPAINV
+GISVSRVGSAAQIKAMKQVAGKSKLELAQFAELQAFAQFASALDKTSQNQLARGRRLREL
+LKQSQANPLPVEEQIATIYTGTRGYLDSLEIEQVNKFLDELRKHLKDTKPQFQEIISSSK
+TFTEQAEILLKEAIQEQLERFSLQ
+
+
+PACMAD CONSENSUS:
+Length: 507 aa
+
+MATLRVDEINKILRERIEQYNRKVGIENIGRVVQVGDGIARIIGLGEIMSGELVEFAEGT
+RGIALNLESKNVGIVLMGDGLMIQEGSFVKATGRIAQIPVSEAYLGRVINALAKPIDGRG
+EIVASESRLIESPAPGIISRRSVYEPLQTGLIAIDSMIPIGRGQRELIIGDRQTGKTAVA
+TDTILNQKGQDVICVYVAIGQRASSVAQVVTTFHEEGAMEYTIVVAEMADSPATLQYLAP
+YTGAALAEYFMYRERHTLIIYDDLSKQAQAYRQMSLLLRRPPGREAYPGDVFYLHSRLLE
+RAAKLNSLLGEGSMTALPIVETQSGDVSAYIPTNVISITDGQIFLSADLFNAGIRPAINV
+GISVSRVGSAAQIKAMKQVAGKSKLELAQFAELQAFAQFASALDKTSQNQLARGRRLREL
+LKQSQSNPLPVEEQVATIYTGTRGYLDSLEIEQVKKFLDELRKHLKDTKPQFQEIISSSK
+TFTEQAETLLKEAIQEQLERFSLQEQT
+
+================================================================================

@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM011604
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             416.0 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43804:SF7
+Panther Family ID:               PTHR43804
+Modal Panther ID:                PTHR43804:SF7
+Modal Panther Description:       LD18447P
+Modal Panther Family ID:         PTHR43804
+Modal Panther Fam Desc:          LD18447P
+Interpro Signature Accession:    G3DSA:3.30.160.20:FF:000004; G3DSA:3.30.70.1660:FF:000002; G3DSA:3.30.70.1660; G3DSA:3.30.160.20; NF001859; TIGR00019; PTHR43804; PF00472; PF03462; SM00937; SSF75620
+Interpro Signature Description:  Peptide chain release factor 1; -; peptide chain release factor 1; LD18447P; RF-1 domain; PCRF domain; PCRF_a_2; Release factor
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: peptide chain release factor 1%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: peptide chain release factor 1%2C mitochondrial
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: peptide chain release factor 1%2C mitochondrial
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: peptide chain release factor 1%2C mitochondrial-like%2C transcript variant X1; peptide chain release factor 1%2C mitochondrial-like%2C transcript variant X2; peptide chain release factor 1%2C mitochondrial-like%2C transcript variant X3
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: peptide chain release factor 1%2C mitochondrial%2C transcript variant X1
+  Gene Descriptions: peptide chain release factor 1%2C mitochondrial
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: peptide chain release factor 1%2C mitochondrial%2C transcript variant X2
+  Gene Descriptions: peptide chain release factor 1%2C mitochondrial
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau09
+  Gene Products: peptide chain release factor 1%2C mitochondrial%2C transcript variant X1
+  Gene Descriptions: peptide chain release factor 1%2C mitochondrial
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: peptide chain release factor 1%2C mitochondrial-like%2C transcript variant X1; peptide chain release factor 1%2C mitochondrial-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: peptide chain release factor 1%2C transcript variant X3
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: peptide chain release factor 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: uncharacterized LOC100274396
+  Gene Synonyms: GRMZM2G155512,pco064740
+  Gene Descriptions: uncharacterized LOC100274396
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 415 aa
+
+MQHHLRRCGGGALAALRRlRHFPsAAAASPPAAWRRPcPPRLYSTAEMSQQLPANLVqIM
+EQRMKLIEQRSAYLQEQINQPAASPEEYSRANKEFHKLESTMELIKELRSKQEEIEGLKS
+LVTNSrEEKDMREMAAEELLEAVEEEKRLQHELFRSLLPKDEADERDCILEVRAGTGGEE
+ASLFAMDIFKMYEKYSQKNGWKFDVIDIMESAVKGYKEASGTISGPGAYGKLKFESGIHR
+VQRVPVTEKSGRVHTSAVSVAVLPQADEVDVQLRNEDLRIDTYRSGGSGGQSVNTTDSAV
+RITHiPTGTVVAIQDERSQHMNKAKALKVLRARLYElERHRLHMDRSKLRSEQIGSGDRS
+ERIRTYNFPQGRVTDHRVGITHHSIADVMEGESLDVFIDALLLQEEMDAIASFAA
+
+
+BOP CONSENSUS:
+Length: 415 aa
+
+MQHQIRRCGAVAFAALRRVRHFPHAAAAPPTAAWRCPYTPRLYSTADMSQQLPANLVQIM
+EQRMKLIEQKSAYLQEQINQPAASPEEYSRANKEFHKLESTMELIKELRSKQKEIEGLKS
+LVTNSVEEKDMREMAAEELLEAVEEEKRLQHeLFRTLLPKDEADERDCILEVRAGTGGEE
+ASLFAMDIFKMYEKYSQKNGWKFDtIDIMESAVKGYKEASGTISGPGAYGKLKFESGIHR
+VQRVPVTEKSGRVHTSAVSVAVLPQADEVDVQLRNEDLRIDTYRSGGSGGQSVNTTDSAV
+RITHVPTGTVVAIQDERSQHQNKAKALKVLRARLYELERHRLHtDRSKLRSEQIGSGDRS
+ERIRTYNFPQGRVTDHRVGVTHHSIEDVMEGESLDVFIEALLLQEEMDAIASFAS
+
+
+PACMAD CONSENSUS:
+Length: 416 aa
+
+MQHHLRRCGGGALAALRRLRHnPSSAAASPPAAWRRPCPPPRLYSTAEMSQQLPANLVGI
+MEQRMKLIEQRSAYLQEQINQPAASPEEYSRANKEFRKLESTMELIKELRSKREEIEGLK
+SLVTNAREEKDMREMAAEELLEAVEEEKRLQHELFRSLLPKDEADERDCILEVRAGTGGE
+EASLFAMDIFRMYEKYAQKNGWKFDVIDIMESAVKGYKEASGTISGPGAFGKLKFESGIH
+RVQRVPVTEKSGRVHTSAVSVAVLPQADEVDVQLRNEDLRIDTYRSGGSGGQSVNTTDSA
+VRITHIPTGTVVAIQDERSQHMNKAKALKVLRARLYElERHRLHMDRSKLRSEQIGSGDR
+SERIRTYNFPQGRVTDHRVGITHHSIADVMEGESLDVFIDALLLQEEMDAIASFAA
+
+================================================================================

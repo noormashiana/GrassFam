@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM011741
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             480.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23327:SF42
+Panther Family ID:               PTHR23327
+Modal Panther ID:                PTHR23327:SF42
+Modal Panther Description:       LON PEPTIDASE N-TERMINAL DOMAIN AND RING FINGER PROTEIN C14F5.10C
+Modal Panther Family ID:         PTHR23327
+Modal Panther Fam Desc:          RING FINGER PROTEIN 127
+Interpro Signature Accession:    cd16514; G3DSA:2.30.130.40; G3DSA:3.30.40.10; PTHR23327; PF02190; SSF88697
+Interpro Signature Description:  RING-HC_LONFs_rpt2; -; Zinc/RING finger domain, C3HC4 (zinc finger); RING FINGER PROTEIN 127; ATP-dependent protease La (LON) substrate-binding domain; PUA domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: LON peptidase N-terminal domain and RING finger protein 1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: LON peptidase N-terminal domain and RING finger protein 1%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: LON peptidase N-terminal domain and RING finger protein 1%2C transcript variant X2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: LON peptidase N-terminal domain and RING finger protein 1-like; LON peptidase N-terminal domain and RING finger protein 3-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: uncharacterized LOC127767453%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127767453
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC136355772
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau03
+  Gene Products: uncharacterized LOC133912734%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133912734
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: LON peptidase N-terminal domain and RING finger protein 1-like; LON peptidase N-terminal domain and RING finger protein 1-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: LON peptidase N-terminal domain and RING finger protein 1%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: LON peptidase N-terminal domain and RING finger protein 1%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100278355%2C transcript variant X1
+  Gene Synonyms: GRMZM2G032821,si660076d07
+  Gene Descriptions: uncharacterized LOC100278355
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 480 aa
+
+MaSPGAsFSAALVvEDFPWVEREEEMGMAPDKYREVFDLAQRGARAFRERRFDEAISFYS
+KAqNLRPGDPIILSNRSSAFCrISQLLRERSAADSEYQPLNGLDPTTHAELALKDAEKVv
+sINSNSPRPYLLKAYALILLErYHEAREALLAGLQVDPLSHVLQTCLSDLDRNTNIAAGA
+RRPRLDRTDDFECTLCFKLLFEPVTTPCGHSFCRSCLHQSMDHGNKCPMCRTVLFIGPRT
+YPISVTLSNIIQRNFPEEYAERRSEHETMTYAGVDLMPLFVMDVVLPCQKMALNIFEPRY
+RLMVRRIMEGNHRMGMVAIDSATGTVADCGCEVEILECEPLPDGRFYLEVEGSRRFRILR
+SWDQDGYRVAEVEWLQDIPLPEGSQERRDLIErANGASELARAYIRRARETIRPARRTRH
+LDLESMPGPQDPEKFSFWLVNLINLRPSDRLDLLRLRDTRERISsSLRLLGDAEQGCRVQ
+
+
+BOP CONSENSUS:
+Length: 480 aa
+
+MVTPSASFSAALVVEDFPsLERDDkMEMPPDKYREVFDLAQCGARAFRERRFDEAISFYS
+KAHNLRSGDPIILSNRSSAFCLISQVLRERSAADSEYQPLNGLDPTTHAELALKDAEKVV
+TTHGNSPRPYLLKAYALILLERYQEARESLLAGLQVDPLSHILQTCLSDLDRNTNAAARA
+RCPRLDRTDDFECTLCFKLLFEPVTTPCGHTFCRSCLHQSMDHGNKCPMCRTVLFIGPRT
+YPISVTLSNIIQKNFPEEYAERRSEHENMTYAGIDLMPLFVMDVVLPCQKMALNIFEPRY
+RLMVRRIMEGNHRMGMVAIDSATGTVADCGCEVEILECEPLPDGRFYLEVEGSRRFRILR
+SWDEDGYRVAEIEWFQDVSLPEGSQERRDLIERANEASELARTYIRRARETIRPVRRARH
+FDLESIPGPQDPEKFSFWLVNLINLRPSDKLDLLRLCDTRERISRSLRLLGNAEQGCRVQ
+
+
+PACMAD CONSENSUS:
+Length: 480 aa
+
+MASPGAAFSAALVAEDFPWVErEEEMGMAPDKYREVFDLAQRGTRAFRDRRFDEAISfYS
+KAQNLRPGDPIILGNRSLAFCRISQLLRERSAADSEYQPLNGLDPTTHAELALKDAEKIL
+SINSNSPRPYLLKAYALILLEHYHEAREALLAGLQVDPLSHVLQTCLSDLDRNTNIAAGA
+RRARLDRTDDFECTLCFKLLYEPVTTPCGHSFCRSCLHQSMDHGNKCPMCRTVLFIGPRT
+YPISVTLSNIIQRNFPEEYAERRSEHETMTYAGVDLMPLFVMDVVLPCQKMALNIFEPRY
+RLMVRRIMEGNHRMGMVAIDSATGTVADCGCEVEILECEPLPDGRFYLEVEGTRRFRILR
+SWDQDGYRVAEVEWLQDIPLPEGSQERRELIEMANGASELARAYIRRARETVRTARRTRH
+LDLESMPGPQDPEKFSFWLVNLISLRPSDRLDLLRLRDTRERISSSIRLLSDAEQGCRVQ
+
+================================================================================

@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM016939
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             409.0 aa
+Family Size (Extended Family Size): 21 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43116:SF4
+Panther Family ID:               PTHR43116
+Modal Panther ID:                PTHR43116:SF4
+Modal Panther Description:       PEPTIDE CHAIN RELEASE FACTOR PRFB3, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR43116
+Modal Panther Fam Desc:          PEPTIDE CHAIN RELEASE FACTOR 2
+Interpro Signature Accession:    G3DSA:3.30.160.20; G3DSA:3.30.70.1660; PTHR43116; SSF75620
+Interpro Signature Description:  -; PEPTIDE CHAIN RELEASE FACTOR 2; Release factor
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: peptide chain release factor PrfB3%2C chloroplastic%2C transcript variant X1
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: peptide chain release factor PrfB3%2C chloroplastic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: peptide chain release factor PrfB3%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: peptide chain release factor PrfB3%2C chloroplastic-like; peptide chain release factor PrfB3%2C chloroplastic-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: peptide chain release factor PrfB3%2C chloroplastic
+  Gene Descriptions: peptide chain release factor PrfB3%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: peptide chain release factor PrfB3%2C chloroplastic
+  Gene Descriptions: peptide chain release factor PrfB3%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: peptide chain release factor PrfB3%2C chloroplastic-like%2C transcript variant X1
+  Gene Descriptions: peptide chain release factor PrfB3%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi03K
+  Gene Products: peptide chain release factor PrfB3%2C chloroplastic-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: peptide chain release factor PrfB3%2C chloroplastic%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: peptide chain release factor PrfB3%2C chloroplastic%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: peptide chain release factor 2
+  Gene Synonyms: GRMZM2G137498
+  Gene Descriptions: peptide chain release factor 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 407 aa
+
+MAAAASPAACARASASGSRAGRLARpAALPADGRGDGAAsYKELGLYSLKKRIEDAVVRV
+EtTASSALElEEARRIKQEEVLRkRNLWDNPAKSHETLSALADAIRVVDHLKDLrYKAEE
+AKLISQLSEMDVINGELFKQAYKsSVDASEYLDRYQMYKLLKGPYDKEGACIIVTAVSEG
+VASELWAEKLFGMYTSWARKQGCKVGLVEKIaSTSGHvqsAAMEIESEYMFGTLSGEKGM
+HRMIYSSvENSGTyQALSARVDIIPLFLDRPVNLHLDDNDLEISPSPSEcKKRDrRNGAA
+VRVQHIPSGVTAESSGERSYFANKLKATSRLKAKLLLIARELRVSDmKmInKQAIEDkCN
+RETRRYTFGPQKLVHDLNTGIQLSDLNSVLEGDIEPFIRGRIvSRQG
+
+
+BOP CONSENSUS:
+Length: 409 aa
+
+MATAASPPAAASARASAIRSRAGRLSLPAALPADGRGDTATTYKELGLYSWKRRIEDAVI
+RVELSASNALErEEARRIKHEEVLQSRNLWDNPAKSHETLSALSDAIRAVDHLKDLLYKA
+EEAKLISQLAGMDVINGELFKQAYDISLDASEFLDRYQMYKLLKGPYDKEGACIIVTAGS
+EGVASELWAEKLFgMYTSWARRQGCKEGLVEKIASTSGHiQFAAMEIESEYMFGTLSGEK
+GtHRMIYSSVENSGTyEAISARVDIIPLFLDRPVNFHLDDNDLEISPsPSeCENRDRRNG
+ATVRVQHIPSGVTAESSGERSYFANKLKAVSRLKAKLLIITRELRVPDpKMIEKQAVEEg
+CNRETRRYTFGPQELVHDLNTGIQLSDLNSVLEGDIEPFIRGRIVSRHG
+
+
+PACMAD CONSENSUS:
+Length: 407 aa
+
+MAAAASPAACARASASGPRAGRLAVRAAALPADGRGDGAASYKELGLYSLKKRIEDAVVR
+VETTASSALELEEARRIKQEEVLRKRNLWDNPAKSHETLSALADAIRVVDHLKDLRFKAE
+EAKLISQLSEMDAINGELFKQAYKSSVDASEYLDRYQMYKLLKGPYDKEGACIIVTAVSd
+GVASELWAEKVFGMYTSWARKQGCKVGLIEKIsSTSGHVrSAAMEIESEYMFGTLSGEKG
+MHRMIYSSLENSDtYQALSARVDIIPLFLDRPVNLHLDDNDIEISPSPSEyKKRDSRNGA
+AVRVQHkPSGVTAESSGERSYFANKLKATSRLKAKLLLIARELRVSDmKmINKQAIEDKC
+NRETRRYTFGPQKLVHDLNTGIQLSDLNSVLEGDIEPFIRGRIISRQ
+
+================================================================================

@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM010758
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             416.0 aa
+Family Size (Extended Family Size): 22 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR42698:SF2
+Panther Family ID:               PTHR42698
+Modal Panther ID:                PTHR42698:SF2
+Modal Panther Description:       GTPASE ERA-LIKE, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR42698
+Modal Panther Fam Desc:          GTPASE ERA
+Interpro Signature Accession:    cd04163; cd22534; G3DSA:3.40.50.300:FF:000094; G3DSA:3.30.300.20:FF:000003; G3DSA:3.40.50.300; G3DSA:3.30.300.20; TIGR00436; NF000908; PTHR42698; SSF52540; SSF54814
+Interpro Signature Description:  Era; KH-II_Era; GTPase Era; -; GTPASE ERA; P-loop containing nucleoside triphosphate hydrolases; Prokaryotic type KH domain (KH-domain type II)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: GTPase ERA1%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: GTPase ERA-like%2C chloroplastic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: GTPase ERA-like%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: GTPase ERA-like%2C chloroplastic
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: GTPase ERA-like%2C chloroplastic
+  Gene Descriptions: GTPase ERA-like%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: white stripe leaf6%2C transcript variant 1
+  Gene Synonyms: OJ1781_H11.13,OsJ_19577
+  Gene Descriptions: white stripe leaf6
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: GTPase ERA1%2C chloroplastic; GTPase ERA1%2C chloroplastic-like
+  Gene Descriptions: GTPase ERA1%2C chloroplastic; GTPase ERA1%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: GTPase ERA1%2C chloroplastic; GTPase ERA1%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: GTPase ERA1%2C chloroplastic
+Msi
+  Gene count: 3
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: GTPase Era
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: uncharacterized LOC100216562
+  Gene Synonyms: ERA1,GRMZM2G158024,umc1360,Zm-ERA1
+  Gene Descriptions: uncharacterized LOC100216562
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 414 aa
+
+MELGLALRLVAPPpCLSRRaLaPPPdFlSPCVLRGSRVRASRLEHGAGAVSSGSMTYSGV
+EEEEMvEEEVEEEEeEPaVsTRPRLELIEKPDRSLALLDEYESEELGTSLCANHRSGYVA
+VLGKPNVGKSTLINQIVGQKLSIVTDKPQTTRHRILGICSEPEYQIILYDTPGVIKKEMH
+KLDSMMMKNVRSAIGSADCVLVVVDACKaPEKIDEMLEEGVGNKDTkVPVLLVLNKKDLI
+KPGEIAKKLEWYQKFTNVDDVIPISAKFGHGVDDIKEWILSKLPLGPAYYPKDIASEHPE
+RFFVGEIVREKIFVQYRQEIPYACQVNVVSYKSRPTAKDFIQVEILVEKESQRSIILGKD
+GKAIKMLATASRLDIEDFLQKKVYLEIeVKVKENWRQDERLLKRYGYGGEIQAL
+
+
+BOP CONSENSUS:
+Length: 404 aa
+
+MELGLALRLAAPPARLPRRRylpPPCAPGRSGVRAGRRESRRAGAVSTSGSvSYAVVEEE
+EvEEGEEEEMtRPRLELIEKPDRSLALLDEYESEELGASLCANHRSGYVAVLGKPNVGKS
+TLINQIVGQKLSIVTDKPQTTRHRILGICSEPEYQIILYDTPGVIKKEMHKLDSMMMKNV
+QSAIGNADCVIVVADASKLPEKIDDMLEEGVGNKDTKVPVVLVLNKKDMIKPGEIAKKLE
+WYQKFTDVDDVIPISAKFGHGVDDIKEWILSKLPLGPAYYPKDIASEHPERFFVGEIVRE
+KIFLQYRQEIPYACQVNVTSYKSRPSAKDFIQVEILVERESQRSIILGKDGKAIKTLATA
+SRLDIEDFLQKKVYLEIDVKVKENWRQDERLLKRYGYGGEIQAL
+
+
+PACMAD CONSENSUS:
+Length: 416 aa
+
+MELGLALRLVAPPPPPCLSRRALaLPPDFISPCVLRGRRVRASRLEHGVGVVSNASMTYS
+GVEEEEMVEEEVEEEEAEPaVSTRPRLELIEKPDRSLALLDEYESEELGTSLCANHRSGY
+VAVLGKPNVGKSTLINQMVGQKLSIVTDKPQTTRHRILGICSEPEYQIILYDTPGVIKKE
+MHKLDSMMMKNVRSAIGSADCVLVVVDACKAPEKIDEMLEEGVGNKDIGLPVLLVLNKKD
+LIKPGEIAKKLEWYQKFTNVDDVIPISAKFGHGVDDIKEWILSKLPLGPAYYPKDIASEH
+PERFFVGEIVREKIFVQYRQEIPYSCQVNVVSYKSRPTAKDFIQVEILVEKESQRSIILG
+KDGKAIKMLATASRLDIEDFLQKKVYLEIEVKVKENWRQDERLLKRYGYGGEIQAL
+
+================================================================================

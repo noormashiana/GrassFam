@@ -1,0 +1,144 @@
+================================================================================
+GrassFam ID: GFAM005113
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             681.0 aa
+Family Size (Extended Family Size): 24 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR17605:SF0
+Panther Family ID:               PTHR17605
+Modal Panther ID:                PTHR17605:SF0
+Modal Panther Description:       RIBOSOME BIOGENESIS PROTEIN BOP1
+Modal Panther Family ID:         PTHR17605
+Modal Panther Fam Desc:          RIBOSOME BIOGENESIS PROTEIN BOP1  BLOCK OF PROLIFERATION 1 PROTEIN
+Interpro Signature Accession:    G3DSA:2.130.10.10:FF:000061; G3DSA:2.130.10.10; PTHR17605; PF08145; SM01035; SSF50978
+Interpro Signature Description:  Ribosome biogenesis protein BOP1 homolog; -; RIBOSOME BIOGENESIS PROTEIN BOP1  BLOCK OF PROLIFERATION 1 PROTEIN; BOP1NT (NUC169) domain; BOP1NT_2; WD40 repeat-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi03
+  Gene Products: ribosome biogenesis protein BOP1 homolog
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: ribosome biogenesis protein BOP1 homolog
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: ribosome biogenesis protein BOP1 homolog
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: ribosome biogenesis protein BOP1 homolog; ribosome biogenesis protein BOP1 homolog%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: ribosome biogenesis protein BOP1 homolog
+  Gene Descriptions: ribosome biogenesis protein BOP1 homolog
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: ribosome biogenesis protein BOP1 homolog
+  Gene Synonyms: BOP1,OsJ_24034
+  Gene Descriptions: ribosome biogenesis protein BOP1 homolog
+Pau
+  Gene count: 1
+  Modal chromosome: Pau15
+  Gene Products: ribosome biogenesis protein BOP1 homolog
+  Gene Descriptions: ribosome biogenesis protein BOP1 homolog
+Svi
+  Gene count: 2
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi02K
+  Gene Products: ribosome biogenesis protein BOP1 homolog; ribosome biogenesis protein BOP1 homolog%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: ribosome biogenesis protein BOP1 homolog
+Msi
+  Gene count: 4
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: ribosome biogenesis protein BOP1 homolog
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: ribosome biogenesis protein BOP1 homolog
+  Gene Descriptions: ribosome biogenesis protein BOP1 homolog
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 681 aa
+
+MGHsDGEHehEGDDLSADDSPWSDGvWSEDDDEeSLSFEDSGEGSGSDsDseDAAAAEES
+DSSEDEVAPRNTVGDVPLEWYKDEEHIGYDIDGRKIKKRDREGRIEAYLRNADDAKNWRK
+IYDEYNDEEVQITKEEAKIISRLLKGKTPHANVDPYPDYVDWFEYEDKGHPLSSAPEPKR
+RFVPSKWEQKKVVKLVRAIRNGWIKFDKPKEEPNLYLLWGDETDTADNKRQGLSYIPAPK
+PNLPGHEESYNPSVEYIPTQEEIDSYQLMYEEDRPKFIPRRFESLRSVPAYEKALREGFD
+RCLDLYLCPRTRKKRINIDPESLKPKLPSKKDLRPYPKTCYLEFKGHtGPVKSLSVEaTG
+QWIASGSSDGTIRVWEVETGRCLKVWNVGGDVHHIAWNPSPDRPILAAIVGHDLLLLNAE
+VGdEEtQMRtKeLLkIdEMAPQDDTDDKKPAVRWVKHEKLDGITLIHHKAVSNVEWHfKG
+DYFTTVVPTGDtRAVLLHQLSKKHSHHPFRKLPGLPVAATFHPSQKMFFVATKKFVQVYD
+LQKAQLVKKLESGLREISSISIHPGGDNVIVGSKDGKLCWFDTDLSTRPYKTLKiHSKDI
+TSVTFHRKYPLFASSSEDCTAYVFHGMVYSDLNQNPLIVPLEILRGHSSSDGRGVLDCKF
+HPKQPWLFTAGADSVIRLYCD
+
+
+BOP CONSENSUS:
+Length: 687 aa
+
+MGRADGEDKADDtADLSpDDSPWSDSAWSEDDDDEGSLSFEDSGEGSGSDSDSDGLEEED
+DAAAEESDSSEDEVAPRNTVGDVPLeWYKDEEHIGYDIsGRKIKKRDREGRIEsFLSSAD
+NDDNWRKIWDdYNDEEVQITKEEAKIISRLMKGKTPHANVDPYPDYVDWFEYDGKGHPLS
+NAPEPKRRFVPSKWEQKKVVKLVRAIRKGWIKFDKPKDEPNYYLLWGDDTDTADNKRQGL
+SYIPAPKPNLPGHEESYNPSVEYIPTQEEIDSYQLMYEEDRPKFIPRRFESLRSVPAYEK
+ALREGFDRCLDLYLCPRTRKKRINIDPESLKPKLPSKKDLRPYPRTCYLEFKGHGGPVTS
+LSVEATGQWIASGSSDGTIRVWEVETGRCLKVFNVGADVHHISWNPSPERPILAAIVGRD
+LLLLNAEVGDEETQVRTKqLLHVEEPTPEDDGDKKPAVRWVKNEKFDGITLIHHRAASTV
+EWHSKGDYFTTVVPTGESRAVLLHQLSKKHSHHPFRKLPGLPVAAVFHPTQKMFFVATKK
+FVQVYDLQKAEVVKKLESGLREISSISIHPGGDNVIVGSKDGKLCWFDTDLSTRPYKMLK
+NHSKDITSVTFHRRYPLFASSSEDCTAYVFHGMVYADLNQNPLIVPLEILRGHLSSDRRG
+VLDCKFHPRQPWLFTAGADSVIRLYCD
+
+
+PACMAD CONSENSUS:
+Length: 681 aa
+
+MGHSDGEHEHEGDDLSADDSSWSDGVWSEDDDEESLSFEDSGEGSGSDgESDEAAAAEES
+DSSEDEVAPRNTVGDVPLEWYKDEEHIGYDIDGRKIKKRDREGRIEAYLRNADDAKNWRK
+IYDEYNDEEVQITKEEAKIISRLLKGKTPHTNVDPYPDYVDWFEYEDKGHPLSSAPEPKR
+RFVPSKWEQKKVVKLVRAIRNGWIKFDKPKEErNLYLLWGDETDTADNKRHGLSYIPPPK
+PNLPGHEESYNPSVEYIPTQEEIDSYQLMYEEDRPKFIPKRFESLRSVPAYEKALREGFD
+RCLDLYLCPRTRKKRINIDPESLKPKLPSKKDLRPYPKTCYLEFKGHTSPVKSISVEITG
+QWLASGSCDGTIRVWEVETGRCLKVWNVGGDVRHIAWNPSPDRPILAAVVGHDLLLINAE
+VGSEEMQMRVKELLKIDEMAPQDDTDDKKPAVRWMKHEKLDGITLIHQKAVSNVEWHYKG
+DYFTTVVPTGDTRAVLLHQLTKKHSHHPFRKLPGLPVAATFHPSQKMFFVATKKFVQVYD
+LQKAQLVKKLESGLREISSISIHPGGDNVIVGSKDGKLCWFDTDLSTRPYKTLKIHSKDI
+TSVTFHRKYPLFASSSEDCTAYVCHGMVYSDLNQNPLIVPLEILRGHSSSDGRGVLDCKF
+HPKQPWLFTAGADSVIRLYCD
+
+================================================================================

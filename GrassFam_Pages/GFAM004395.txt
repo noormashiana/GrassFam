@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM004395
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             516.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47965:SF93
+Panther Family ID:               PTHR47965
+Modal Panther ID:                PTHR47965:SF93
+Modal Panther Description:       OS08G0267300 PROTEIN
+Modal Panther Family ID:         PTHR47965
+Modal Panther Fam Desc:          ASPARTYL PROTEASE-RELATED
+Interpro Signature Accession:    cd05472; G3DSA:2.40.70.10:FF:000021; G3DSA:2.40.70.10:FF:000049; G3DSA:2.40.70.10; PTHR13683; PF14543; PF14541; SSF50630
+Interpro Signature Description:  cnd41_like; Aspartyl protease AED1; Acid Proteases; ASPARTYL PROTEASES; Xylanase inhibitor N-terminal; Xylanase inhibitor C-terminal; Acid proteases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: aspartyl protease family protein At5g10770
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: aspartyl protease family protein At5g10770-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: aspartyl protease family protein At5g10770
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: aspartyl protease family protein At5g10770-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl08
+  Gene Products: aspartyl protease family protein At5g10770-like%2C transcript variant X1
+  Gene Descriptions: aspartyl protease family protein At5g10770-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa08
+  Gene Products: aspartyl protease family protein At5g10770%2C transcript variant X1
+  Gene Descriptions: aspartyl protease family protein At5g10770
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN4
+Pau
+  Gene count: 2
+  Modal chromosome: Pau16
+  Gene Products: aspartyl protease family protein At5g10770-like; aspartyl protease family protein At5g10770-like%2C transcript variant X1
+  Gene Descriptions: aspartyl protease family protein At5g10770-like
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: aspartyl protease family protein At5g10770-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: aspartyl protease family protein At5g10770-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: aspartyl protease family protein At5g10770
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100382168
+  Gene Synonyms: GRMZM2G133394
+  Gene Descriptions: uncharacterized LOC100382168
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 513 aa
+
+MAAASSgaRLLLRVLALLAvAgnAAAAGsGaAVVGKSAVLSLRELeWrggAARkiRSsRY
+AQaKrAqMLGEHKKAgAARTATTVLELKHHSLtAIPDdPAARDRYLRRLLAADEARANSL
+QLRnnRAAaaqsqqAaAEVPLTSGIRFQTLNYVTTIALGGSSGSAAANLTVIVDTGSDLT
+WVQCKPCSaCYAQRDPLFDPAGSATYAAVPCNASACAASLKAATGtPGSCAttGGGgSER
+CYYALAYGDGSFSRGVLATDTVGLGGASLDGFVFGCGLSNRGLFGGTAGLMGLGRTELSL
+VSQTASRFGGVFSYCLPATTSGDAsGSLSLGGDaSSYRNTTPVAYTRMIADPAQPPFYFL
+NVTGAAVGGaAVtAsGLGASNVLIDSGTVITRLAPSVYRAVRAEFtRQFGAAGYPAAPGF
+SILDTCYDLTGHDEVKVPLLTLRLEGGADVTVDAAGMLFVVRKDGSQVCLAMASLSYEDQ
+TPIIGNYQQKNKRVVYDTVGSRLGFADEDCSYV
+
+
+BOP CONSENSUS:
+Length: 515 aa
+
+MAAASSSSARGRHLLLRLLALLAVAGNAAAAGSGgVVVGKKSAVLSLRELEWGAAARKIQ
+GRYAQQKKAQILGEHRKAEGAsRATTVLELKHHSPATISDQPAGSEGYLSRLLAADAARA
+ASLQLPRAASTQSRQAAAQVPLTSGIRFQTLNYVTTIALGGDSSGAAANLTVIVDTGSDL
+TWVQCKPCRaCYAQRDPLFDPASSATYAAVPCNASACAASLKEATGAPGFCARGGGGGGS
+ERCYYALGYGDGSFSRGVLATDTVGLGGANLDGFVFGCGLSNRGLFGGTAGLMGLGRTEL
+SLVSQTASRFGGVFSYCLPATTSGDSTGSLSLGGDSSSYRNTTPVAYTRMIADPAQPPFY
+FMNVTGASVGGAAVTASGLGASNVLIDSGTVITRLAPSVYRAVRAEFARQFTAAGYPAAP
+GFSLLDTCYNLTGHDEVNVPLLTLRLEGGADVTVEAAGMLFMARKDGSQVCLAMASLPYE
+DQTPIIGNYQQKNKRVVYDTVRSRLGFADEDCSYh
+
+
+PACMAD CONSENSUS:
+Length: 501 aa
+
+MAAApARLLLRVLALLAvAAAVvGKSAVLSLRELDGRGAARetRSSRYADAKRAEMLGEH
+KKAGAARTATTVLELKHHSLtAIPDDPAARDRYLRRLLAADEARANSLQLRnNnRAAAAs
+TQSgSAEVPLTSGIRFQTLNYVTTIgLGGSSGSPAANLTVIVDTGSDLTWVQCKPCSACY
+AQRDPLFDPAGSATYAAVRCNASACAASLKAATGTPGSCATTGGgSEKCYYALAYGDGSF
+SRGVLATDTVALGGASLDGFVFGCGLSNRGLFGGTAGLMGLGRTELSLVSQTASRYGGVF
+SYCLPATTSGDASGSLSLGGDASSYRNTTPVAYTRMIADPAQPPFYFLNVTGAAVGGTPL
+AAQGLGASNVLIDSGTVITRLAPSVYRAVRAEFTRQFGAAGYPAAPGFSILDTCYDLTGH
+DEVKVPLLTLRLEGGADVTVDAAGMLFVVRKDGSQVCLAMASLSYEDQTPIIGNYQQKNK
+RVVYDTVGSRLGFADEDCSYV
+
+================================================================================

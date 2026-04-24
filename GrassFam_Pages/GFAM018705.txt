@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM018705
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             473.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13932:SF5
+Panther Family ID:               PTHR13932
+Modal Panther ID:                PTHR13932:SF5
+Modal Panther Description:       RADICAL S-ADENOSYL METHIONINE DOMAIN-CONTAINING PROTEIN 1, MITOCHONDRIAL
+Modal Panther Family ID:         PTHR13932
+Modal Panther Fam Desc:          COPROPORPHYRINIGEN III OXIDASE
+Interpro Signature Accession:    TIGR00539; PTHR13932; SFLDG01065; SFLDF00562; SM00729; SSF102114
+Interpro Signature Description:  radical SAM family heme chaperone HemW; COPROPORPHYRINIGEN III OXIDASE; anaerobic coproporphyrinogen-III oxidase like; HemN-like, clustered with heat shock genes; MiaB; Radical SAM enzymes
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: oxygen-independent coproporphyrinogen-III oxidase-like protein sll1917
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: heme chaperone HemW
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: heme chaperone HemW
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: heme chaperone HemW-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl12
+  Gene Products: uncharacterized LOC127756222%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127756222
+Osa
+  Gene count: 1
+  Modal chromosome: Osa12
+  Gene Products: uncharacterized protein%2C transcript variant X2
+  Gene Descriptions: uncharacterized LOC4351951
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu06
+Pau
+  Gene count: 1
+  Modal chromosome: Pau23
+  Gene Products: uncharacterized LOC133906535
+  Gene Descriptions: uncharacterized LOC133906535
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03N
+  Gene Products: heme chaperone HemW-like; heme chaperone HemW-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: oxygen-independent coproporphyrinogen-III oxidase-like protein sll1917
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: oxygen-independent coproporphyrinogen-III oxidase-like protein sll1917
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100285830
+  Gene Synonyms: GRMZM2G105436
+  Gene Descriptions: uncharacterized LOC100285830
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 472 aa
+
+MLRSAFPLVSHLPhRKPPPIRPRPPPVRRYASpAAAtpSPPPslPPLPPASAYVHLPFCR
+KRCHYCDFPIVALGSSSssppGGGGeAEDPRIvDYVRLLLREVAATRPVSDDGVPLETVF
+FGGGTPSLVPPRLVAAVLDALRGRFGLSACPEVSIEMDPGTFDAAKLRELVGVGVNRVSL
+GVQAFQEDLLRACGRAHGLrEVHEAVGIVTACEGLQNWSMDLISSLPNQTEEMWEESLRC
+TVDARPTHVSVYDLQIEQGTKFGQMYTPGVFPLPSETESANFYKIASKRLSEAGYNHYEI
+SSYCKPGYECKHNLTYWQNRPFYAFGLGSASYINGVRFSRPRRMKEYAEWVQKLEDGTWs
+HESRSSDmKDMAMDVVMLSLRTAWGLDLQSFSKSFGKSLTLSLCNTFRPFVESGLVIAMD
+MERqALPhsDFELDLQnEGDFGSRVAFIRLSDPDGFLLSNELISLAFGIISP
+
+
+BOP CONSENSUS:
+Length: 473 aa
+
+MLRSAFPLVFQLPHRKPPPIRPPRPPPVRRYASPAAAvPPPPPPPRPLPPASAYVHLPFC
+RKRCHYCDFPIVALGSSAPSPGGPGEGEDPRIADYVRLLLREVAATRPVSDDGVPLETIF
+FGGGTPSLVPPRLVAAVLDALRGRFGLSACPEVSIEMDPGTFDAAKLRELVGVGVNRVSL
+GVQAFQEELLRACGRAHGLREVHEAVGIVTACEGLQNWSMDLISSLPNQTQEMWEESLRC
+TVDARPTHVSVYDLQIEQGTKFGQIYTPGVFPLPNETDSANFYKIASKRLSEAGYQHYEI
+SSYCKPGYECKHNVTYWQNRPFYAFGLGSASYINGVRFSRPRGMKNYADWVQKLEDGTWC
+HESSvSETKDMAMDSVMLSLRTARGLDLHSFSKSFGEgLTRSLCeTFRPFVESGLVIAMD
+KEReALQFsEFESDLESEGEMtGSRVAFIRLSDPDGFLLSNELISLAFGTISP
+
+
+PACMAD CONSENSUS:
+Length: 475 aa
+
+MLRLAFPLVSHLPPRKPPPIRPRPPPARRYASsAATTsSSpSPPPSLPPLPPASAYVHLP
+FCRKRCHYCDFPIVALGSSSgtTPSGGEAAEDPRIVDYVRLLLREVAATRPVSDDGVPLE
+TVFFGGGTPSLVPPRLVAAVLDALRgRFGLSACPEVSIEMDPGTFDAARLRELVGVGVNR
+VSLGVQAFQEDLLRACGRAHGVKEVHEAVGIVTACEGLQNWSMDLISSLPNQTEEMWEES
+LRCTVDARPTHVSVYDLQIEQGTKFGQMYTPGVFPLPSDTESANFYKIASKRLSEAGYNH
+YEISSYCKPGYECKHNLTYWQNRPFYAFGLGSASYINGVRYSRPRRMKEYAEWVQKLEDG
+TWSHESRSSDMKDMALDVVMLSLRTAWGLDLQSFSKSFGKSLALSLCNTFKPFVESGLVI
+AMDMERRALPHIDFELDLQNEDDFGSRVAFIRLSDPDGFLLSNELISLAFGIISP
+
+================================================================================

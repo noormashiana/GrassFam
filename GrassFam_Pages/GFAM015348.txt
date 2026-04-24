@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM015348
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             324.0 aa
+Family Size (Extended Family Size): 31 (34) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR10366
+Modal Panther ID:                PTHR10366:SF836
+Modal Panther Description:       OS06G0623600 PROTEIN
+Modal Panther Family ID:         PTHR10366
+Modal Panther Fam Desc:          NAD DEPENDENT EPIMERASE/DEHYDRATASE
+Interpro Signature Accession:    cd08958; G3DSA:3.40.50.720:FF:000382; G3DSA:3.40.50.720; PTHR10366; PF01370; SSF51735
+Interpro Signature Description:  FR_SDR_e; NAD(P)-binding Rossmann-fold superfamily protein; -; NAD DEPENDENT EPIMERASE/DEHYDRATASE; NAD dependent epimerase/dehydratase family; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: cinnamoyl-CoA reductase 1; cinnamoyl-CoA reductase 1%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu07H
+  Gene Products: cinnamoyl-CoA reductase 1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: cinnamoyl-CoA reductase 1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: cinnamoyl-CoA reductase 1-like; cinnamoyl-CoA reductase 1-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: cinnamoyl-CoA reductase 1-like%2C transcript variant X1
+  Gene Descriptions: cinnamoyl-CoA reductase 1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: cinnamoyl-CoA reductase 2%2C transcript variant X2
+  Gene Descriptions: cinnamoyl-CoA reductase 2
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: cinnamoyl-CoA reductase 1-like
+  Gene Descriptions: cinnamoyl-CoA reductase 1-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi04K
+  Gene Products: cinnamoyl-CoA reductase 1-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha04
+  Gene Products: cinnamoyl-CoA reductase 2-like
+Msi
+  Gene count: 4
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi10
+  Gene Products: cinnamoyl-CoA reductase 1; cinnamoyl-CoA reductase 1-like%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma09
+  Gene Products: NAD(P)-binding Rossmann-fold superfamily protein%2C transcript variant X1; cinnamoyl-CoA reductase 1
+  Gene Synonyms: GRMZM2G468439
+  Gene Descriptions: NAD(P)-binding Rossmann-fold superfamily protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 323 aa
+
+MEAAGRTrttTVCVTGAGGFVASWLVeRLLArGRYtVHGTVRDPGDAKNAHLAALDGAAE
+RLRLFKADLLDYGSVAAAIAGCDGVFHVACPVPayaipDPEVELLAPAVTGTMNVLKACS
+EAKVKRVVVVSSVSAVMVNPsWPEgKvMDEdCWSDVdyCRTTENWYCLSKTLAELEAFDY
+AKRTGLDVVSVCPSLVIGPLLQPTVNASSSVIVDFLKGDREVKsKLRNFVDVRDVADALL
+LVYETPEASGRYICnSHARqVSDVIdLLKSWYPAYKyAtKFVQVSDEPsFSSKKLEALGW
+KfRPFEETLRDSVESFKAAGVLD
+
+
+BOP CONSENSUS:
+Length: 323 aa
+
+MDGAGRTTTTACVTGAGGFVASWLVKLLLSRGGRYAVHGTVRDPGDAKNAHLAALDGAAE
+RLRLFKADLLDYGSMAAAIAGCDVVFHVACPVLANHTPNPEADLIAPAVTGTMNVLKACS
+EAKVKRVVMVSSVAAVMvNPSWPEGKPMDEDCWSDVDYCRTTENWYyLSKTLAELQAFDY
+AKRSGLDVVTVCPSLVIGPLLQPTVNASSSVIVDFLKGDnEVKSKIRNFVDVRDVADALI
+LVYETPEVSGRYICSSHARKVSDVIDLLKSMYPAYKFANKFVQVDDEPSFSSRKLEMLGW
+KIKPLEETLRDSVESYKAAAVLD
+
+
+PACMAD CONSENSUS:
+Length: 324 aa
+
+MEGAAGRTRmtTVCVTGAGGFVASWLVERLLAGGRYTVHGTVRDPGDAKNAHLAALDGAA
+ERLRLFRADLLDYGSVAAAVAGCDGVFHVASPVPdYAITDPEVELLAPAVTGTMNVLKAC
+SEAKVKRVVVVSSLSAVMVNPgWPqskVMDEACWSDVELCRTTENWYCLSKTLAELEAFD
+YAKRTGLDVVSVCPSLVIGPLLQSTVNASSSVIVDFLKGDREVKlKLRNFVDVRDVADAL
+LLVYETPEASGRYICNSHARQVSDVIkLLKSWYPAYKYATKFVQVSDEPlFSSKKLQALG
+WKFRPFEETLRDSVESFrAAGVLD
+
+================================================================================

@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM003162
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             498.5 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46686:SF5
+Panther Family ID:               PTHR46686
+Modal Panther ID:                PTHR46686:SF5
+Modal Panther Description:       GLYCOSYLTRANSFERASE
+Modal Panther Family ID:         PTHR46686
+Modal Panther Fam Desc:          GLYCOSYLTRANSFERASE
+Interpro Signature Accession:    cd03801; G3DSA:3.40.50.2000; PTHR46686; SSF53756
+Interpro Signature Description:  GT4_PimA-like; Glycogen Phosphorylase B;; GLYCOSYLTRANSFERASE; UDP-Glycosyltransferase/glycogen phosphorylase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: D-inositol 3-phosphate glycosyltransferase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: D-inositol 3-phosphate glycosyltransferase 2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: D-inositol 3-phosphate glycosyltransferase 2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: D-inositol 3-phosphate glycosyltransferase 2-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: uncharacterized LOC127770989
+  Gene Descriptions: uncharacterized LOC127770989
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4325379
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: uncharacterized LOC133884435; uncharacterized LOC133910012
+  Gene Descriptions: uncharacterized LOC133884435; uncharacterized LOC133910012
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: D-inositol 3-phosphate glycosyltransferase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: D-inositol 3-phosphate glycosyltransferase
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: D-inositol 3-phosphate glycosyltransferase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: UDP-Glycosyltransferase superfamily protein
+  Gene Synonyms: GRMZM2G022311
+  Gene Descriptions: UDP-Glycosyltransferase superfamily protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 502 aa
+
+MALLTSLQRPRKqRCPSHPMLSLSPSLLSLLLLvPFLSLLLLHRSSFPSSCSPaLAgLTT
+ARSSRsSASGFaGDLRDIEFSWNHLPFsaSRPPPAKLKIAVFSRKWPVASAPGGMERHAH
+TLHTALAARGHRVHVFTSPPPHTEAAPSPSADGPQLHFLDGePGQWRCDEAWKLYEAEGE
+NDPFDVIHSESVAVFHRWARGVPNLVVSWHGISLEALHSGIYQDLARGEDEPMSPAFNQS
+LGQSVyRVLSEVRFFRSYAHQVAISDSTGEMLRDVYQIPSRRVHVILNGVDEAQFEPDta
+LGRAFREEvGVPKGADLVLGVSGRLVKDKGHPLLYEAFSKLVLRHPNVYLLVAGKGPWEn
+RYMDLGRNAKVLGAVPPGKLKAFYNALDVFVDPTLRPQGLDLTLMEAMQCGKPVVATRFP
+SIKGSIVVDeEFGYMFAPNVESLLESLEAVVaEGARRAAeRGRACREYAKSMFAATKMAL
+AYERLFLCVKNETFCAYPAEFD
+
+
+BOP CONSENSUS:
+Length: 496 aa
+
+MAPTSLQRPRKPRCPSHPMLSLSPALLSLLLLVPFLYLLIHRSSCSPPFSnLTTARRSSS
+SVSGFAGDLRDIEFSWNHLPFtSSKPPPAKLKIAVFSRKWPVATAPGGMERHAHTLHTAL
+AARGHRVHVFTSPPPHTEAAPSPSADGPQLHFLDGTPGQWRCDEAWKLYEAEGENDPFDV
+IHSESVAVFHRYARGVPNLVVSWHGISLEALHSGIYQDLARGEDEPMSPAFNQSLSQSVH
+RVLSEVRFFRSYAHQVAISDSTGEMLRDVYQIPGRRVHVILNGVDEAQFTPDTELGRAFR
+EEIGLPKSADLVLGVSGRLVKDKGHPLLYEAFSKLALRHPNVYLLVAGKGPWESRYMDLG
+RNAKVLGAVPPGKLRAFYNALDVFVDPTLRPQGLDLTLMEAMQCGKPVVATRFPSIKGSI
+VVDEEFGHMFAPNVESLLESLEAVVQDGARRAAERGRACREYARSMFAATKMALAYERLF
+LCVKNETFCAYPSEFD
+
+
+PACMAD CONSENSUS:
+Length: 500 aa
+
+MALLTSPPRPRKQRCPsHpMLSLSPSLLSLILLLPFLSLLLLHRSSFPGSSCSPALAGAA
+SRRgSAaGFsGDLRDIEFSWNHLPFSASRPPPAKLKIAVFSRKWPVASAPGGMERHAHTL
+HTALAARGHRVHVFTSPPPHTEAAPSPSADGPQLHFLDGEPGQWRCDEAWKLYEAEGEND
+PFDVIHSESVAVFHRWARGVDNLVVSWHGISLEALHSGIFQDLARGEEEPMSPALNQTLG
+QSVYRVLSEVRFFRSYAHQVAISDSTGEMLRDVYQIPSRRVHVILNGVDEAQFEPDPaLG
+RAFREEVGVPKGADLVLGVSGRLVKDKGHPLLYEAFSKLVLRHPNVYLLIAGKGPWENRY
+MDLGRNAKVLGAVPPGKLKAFYNALDVFVDPTLRPQGLDLTLMEAMQCGKPVVATRFPSI
+KGSIVVDdEFGYMFAPNVESLLESLEAVVAEGARRAARRGRACREYAKSMFAATKMALAY
+ERLFLCVKNETFCGYPAEFD
+
+================================================================================

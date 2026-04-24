@@ -1,0 +1,140 @@
+================================================================================
+GrassFam ID: GFAM002513
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             574.0 aa
+Family Size (Extended Family Size): 20 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24349:SF167
+Panther Family ID:               PTHR24349
+Modal Panther ID:                PTHR24349:SF167
+Modal Panther Description:       CALCIUM-DEPENDENT PROTEIN KINASE 30
+Modal Panther Family ID:         PTHR24349
+Modal Panther Fam Desc:          SERINE/THREONINE-PROTEIN KINASE
+Interpro Signature Accession:    cd05117; G3DSA:3.30.200.20:FF:000004; G3DSA:1.10.510.10:FF:000067; G3DSA:1.10.238.10:FF:000050; G3DSA:3.30.200.20; G3DSA:1.10.510.10; G3DSA:1.10.238.10; PTHR24349; PF00069; SM00220; SSF47473; SSF56112
+Interpro Signature Description:  STKc_CAMK; Calcium-dependent protein kinase 1; calcium-dependent protein kinase 13; Calcium-dependent protein kinase 7; Phosphorylase Kinase; domain 1; Transferase(Phosphotransferase) domain 1; -; SERINE/THREONINE-PROTEIN KINASE; Protein kinase domain; serkin_6; EF-hand; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: calcium-dependent protein kinase 9
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: calcium-dependent protein kinase 9-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: calcium-dependent protein kinase 9
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: calcium-dependent protein kinase 9; calcium-dependent protein kinase 9-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: calcium-dependent protein kinase 9
+  Gene Descriptions: calcium-dependent protein kinase 9
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: calcium-dependent protein kinase 9-like
+  Gene Synonyms: CPK9,OsCDPK9,OsCPK9
+  Gene Descriptions: calcium-dependent protein kinase 9-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: calcium-dependent protein kinase 9-like; calcium-dependent protein kinase 9-like%2C transcript variant X1
+  Gene Descriptions: calcium-dependent protein kinase 9-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi09N
+  Gene Products: calcium-dependent protein kinase 9-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: calcium-dependent protein kinase 9-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: calcium-dependent protein kinase 9
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: calcium-dependent protein kinase 9
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 576 aa
+
+MGNVCFCGTTSTSPDQPEPdAAkAPPQgrKRPATPPSSQqGsSQEPSPRAsPKPRPRAKP
+KPNPYDWAPPPpqASRGGGGAsAARVLDGVVPHHPRLRVTDKYHLGRELGRGEFGVTRLA
+TDRATRERLACKSIPKRRLRTAVDVADVRREVAIMASLPDHPALVRLRAAYEDADAVHLV
+MELCDGGELFDRIVARGRYTERAAAAAARTVAEVVRACHAHGVMHRDLKPENFLYAGKSE
+DAQLKAIDFGLSVFFRPGERFTEIVGSPYYMAPEVLRRSYGPEVDIWSAGVILYILLCGV
+PPFWAETEQGVARAILRGvLDLqREPWPRISDGAKSLVRQMLQMDPRKRPTAQQVLEHPW
+LQNARKAPNVPLGDVVRARLQQFSaMNRFKKKAMRVIAEHLSVEEVEVIRDMFALMDTDK
+DGRVTLqELKAGLrKVGSKLAEPEMELLMEAADVDGNGYLDYGEFVAITIHLQRLSNDqH
+LRTAFLFFDKDSSGYIERAELADALADDSGHTDDAALDNVLrEVDTDKDGRISFEEFVAM
+MKAGTDWRKASRQYSRERFKTLSNSLIKDGSLsMAR
+
+
+BOP CONSENSUS:
+Length: 570 aa
+
+MGNACLSCCTASSQPElDaAgARPQhRKrPATPPRPSgSSEPSPtAARASPKPRPRPRAK
+AKPNPYAhRGGGsAAlARVLDGVVPHHPRLRVTDKYHLGRELGRGEFGVTRLATDRGAAR
+ERLACKSIPKARLRTAVDVADVRREVAIMASLPDHPALVRLRAAYEDDDAVHLVMELCDG
+GELFDRIVARGRYTERAAAAAARTVAEVVRACHAHGVMHRDLKPENFLYAGKEEDAQLKA
+IDFGLSVFFRPGERFSEIVGSPYYMAPEVLRRSYGPEVDIWSAGVILYILLCGVPPFWAE
+TEQGVARSILRGVLDFDREPWPRISDSAKSLVRQMLEMDPRKRLTARQVLAHPWLQDAKK
+APNVPLGDVVRARLKQFSVMNRFKKKAMRVIAEHLSAEEVEVIKEMFALMDTDNNGRVTL
+eELKAGLARVGSKLAEPEMELLMEAADVDGDGYLDYAEFVAITIHLQRLSNDQHLRTAFL
+FFDRDSSGYIERAELADALADDSGrADDAVVDHVLQEVDTDKDGRVSFEEFVAMMKAGTD
+WRKASRQYSRQRFKTLSNSLIKDGSISMAR
+
+
+PACMAD CONSENSUS:
+Length: 576 aa
+
+MGNVCFCGTTSTSPDQPEPkAsKAPPQGanKRPATPPSSQGsSQEPSPgpKPKPRPKAKP
+KANPYDWAPPPgqASRGGGGAsAARVLDGVVPHHPRLRVTDKYHLGRELGRGEFGVTRLA
+TDRATRERLACKSIPKRRLRTAVDVADVRREVAIMASLPDHPALVRLRAAYEDAEAVHLV
+MELCDGGELFDRIVARGRYTERAAAAAARTVAEVVRACHAHGVMHRDLKPENFLYAGKSE
+DAQLKAIDFGLSVFFRPGERFTEIVGSPYYMAPEVLRRSYGPEVDIWSAGVILYILLCGV
+PPFWAETEQGVARAILRGsLDLQREPWPRISEGAKSLVRQMLQMDPKKRPTAQQVLEHPW
+LQNARKAPNVPLGDVVRARLQQFSAMNKFKKKAMRVIAEHLSVEEVEVIRDMFALMDTDK
+DGRVTLQELKAGLRKVGSKLAEPEMELLMEAADVNGNGYLDYGEFVAITIHLQRLSNDAH
+LRTAFLFFDKDSSGYIERAELADALADEAGHTDEAALNNVLREVDTDKDGRISFDEFVAM
+MKAGTDWRKASRQYSRERFKTLSNSLMKDGSLGMAR
+
+================================================================================

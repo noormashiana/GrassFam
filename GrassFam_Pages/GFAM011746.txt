@@ -1,0 +1,144 @@
+================================================================================
+GrassFam ID: GFAM011746
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             662.0 aa
+Family Size (Extended Family Size): 20 (27) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43272:SF4
+Panther Family ID:               PTHR43272
+Modal Panther ID:                PTHR43272:SF4
+Modal Panther Description:       LONG CHAIN ACYL-COA SYNTHETASE 2
+Modal Panther Family ID:         PTHR43272
+Modal Panther Fam Desc:          LONG-CHAIN-FATTY-ACID--COA LIGASE
+Interpro Signature Accession:    cd05927; G3DSA:3.40.50.12780; PTHR43272; PF00501; SSF56801
+Interpro Signature Description:  LC-FACS_euk; -; LONG-CHAIN-FATTY-ACID--COA LIGASE; AMP-binding enzyme; Acetyl-CoA synthetase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: long chain acyl-CoA synthetase 2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: probable CoA ligase CCL6
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: probable CoA ligase CCL6
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: probable CoA ligase CCL6; probable CoA ligase CCL6%2C transcript variant X1
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: probable CoA ligase CCL6%2C transcript variant X1
+  Gene Descriptions: probable CoA ligase CCL6
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: probable CoA ligase CCL6
+  Gene Descriptions: probable CoA ligase CCL6
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 1
+  Modal chromosome: Pau12
+  Gene Products: probable CoA ligase CCL6
+  Gene Descriptions: probable CoA ligase CCL6
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi08K
+  Gene Products: long chain acyl-CoA synthetase 2-like; long chain acyl-CoA synthetase 2-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: long chain acyl-CoA synthetase 2
+Msi
+  Gene count: 3
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: long chain acyl-CoA synthetase 2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100281785
+  Gene Synonyms: GRMZM2G104847,pco146226a
+  Gene Descriptions: uncharacterized LOC100281785
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 663 aa
+
+MMpEtYTVKVGEATPAAGGRPSAGPVYRSIYAKDGLMeLPQDIQSPWDFFSGAVKKYPKN
+RMLGRRQVTDGKAGDYVWQTYEEVYQKVmRIGSAIRSFGVKPGAHCGIYGSNCPEWVMAM
+QACNSQGICYVPLYDTLGANAVEFIMDHAEISIAFVQESKIKSILAVVPKCTAHLKAIVS
+FGDVTSELKREAEkLGVSCFSWEEFSSMGKQnYELPKKQKDDICTIMYTSGTTGDPKGVI
+ITNRAIIAGVMTTEHLLKETDKVVTEeDSYFSYLPLAHIFDQVIENYCISKGASIGFWQG
+DIRYLMEDVQVMKPTIFCGVPRVYDRIYTGINqKIQSGGMIAKHLFQYAYNYKLaNMRKG
+LKQHEASPFFDKIVFSKIKEGLGGRIRLMLAGAAPLPRHIEEFMRVTSCSVlVQGYGLTE
+SCAGCFTSIANVFSMIGTVGPPVTTIEARLESVPEMGYDALSdaPRGEICLRGHTLFSGY
+YKRPDLTEEVFSDGWFHTGDIGEWQPDGTMKIIDRKKNIFKLSQGEYVAVEVLESAYmQS
+PLVASVWVYGNSFESFLVAVVVPEkQALEDWAAlNNKaGDFAELCNDPKARrYIQDELNQ
+TGKKLGLRGFEMLKAVHLEPVPFSIEKDLITPTFKLKRPQLLKYYKDRIDQLYKDAKmGR
+TAQ
+
+
+BOP CONSENSUS:
+Length: 662 aa
+
+MEkTvYTVKVGEATPAAGGRPAAGPVYRSIYAKDGLMrLPQEIHSPWDFFSGAVKKYPKN
+RMLGRRQVSDGKAGDYVWQTYEQVYQKVIQIGAAIRGFGVKPGAHCAIYGSNCPEWVMAM
+QACNSQGICYVPLYDTLGQNAVEFILDHAEISIAFMQESKIKSIlAVLPKCTAHIKAIVS
+FGDVTIELKREVEQLGVSCFSWEEFSTMGEeIQELPKKQKDDICTIMYTSGTTGEPKGVI
+ITNRAIVAGVTTTEHLLqLTDKVVDEYDSYFSYLPLAHIFDQVIGNYCISKGASIGFWQG
+DIRYLMEDVQVMKPTIFCGVPRVYDRIYTGINQKIQSGGLIAKHLFQYAYNYKLGNLMKG
+FKQHEASPFFDKIVFSKIKEGLGGRIRLMLSGAAPLPRHIEEFMRVTSCSVLAQGYGLTE
+SCSGCFTSIANVISMIGTVGPPVTAVEARLESVPEMGYDALSSAPRGEICLRGHTLFSGY
+YKRPDLTEEVFSDGWFHTGDIGEWQPDGTMKIIDRKKNIFKLSQGEYVAVEVLESAYvQS
+QLVASVWVYGNSFESFLVAVVVPEKQAIEDWAALNgKSGDYAELCNDPKARRYIQDELNQ
+TGKKLGLRGFEMLRAVHLEPVPFSIDKDLITPTFKLKRPQLLKYYKDRVDQLYKDAKMGT
+AQ
+
+
+PACMAD CONSENSUS:
+Length: 662 aa
+
+MPETFTVKVGEATPAAGGRPSAGPVYRSIYAKDGLMELPQDIQSPWDFFSGAVKKYPKNR
+MLGRRQVTDGKAGEYVWQTYEEVYQKVMRIGSAIRSLGVEPGAHCGIYGSNCPEWVMAMQ
+ACNSQGICYVPLYDTLGANAVEFIMDHAEISIAFVQESKIKSILAVVPKCTAHLRAIVSF
+GDFTSEMKkEAEKLGVSCFSWEEFSSMGKQNYELPKKqKDDICTIMYTSGTTGDPKGVII
+TNRAIIAGVMTTEHLLKETDKVITEEDSYFSYLPLAHIFDQVIENYCISKGASIGFWQGD
+IRYLMEDVQVMKPTIFCGVPRVYDRIYTGINMKIQSGGMIAKHLFQYAYNYKLANMRKGL
+KQHEASPFFDKIVFSKIKEGLGGRIRLMIAGAAPLPGQIEEFMRVTSCSVVVQGYGLTES
+CAGCFTSIANVFSMIGTVGPPVTTIEARLESVPEMGYDALSDTPRGEICLRGHTMFSGYY
+KRPSLTEEVFSDGWFHTGDIGEWQPNGAMKIIDRKKNIFKLSQGEYVAVEVLESAYMQSP
+LVASVWVYGNSFESFLVAVVVPERQALEEWAAANNKAGDFAELCNDPKARGYIQDQLNQT
+GKKLGLRGFEMLKAVHLEPVPFSIEKDLITPTFKLKRPQLLKYYKDRIDQMYKDAKEGRT
+AP
+
+================================================================================

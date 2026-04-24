@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM016177
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             379.0 aa
+Family Size (Extended Family Size): 23 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23024:SF418
+Panther Family ID:               PTHR23024
+Modal Panther ID:                PTHR23024:SF418
+Modal Panther Description:       OS09G0462100 PROTEIN
+Modal Panther Family ID:         PTHR23024
+Modal Panther Fam Desc:          ARYLACETAMIDE DEACETYLASE
+Interpro Signature Accession:    G3DSA:3.40.50.1820; PTHR23024; PF07859; SSF53474
+Interpro Signature Description:  alpha/beta hydrolase; ARYLACETAMIDE DEACETYLASE; alpha/beta hydrolase fold; alpha/beta-Hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: probable carboxylesterase 2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: probable carboxylesterase 2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: probable carboxylesterase 2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: probable carboxylesterase 2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: probable carboxylesterase 2
+  Gene Descriptions: probable carboxylesterase 2
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: probable carboxylesterase 2
+  Gene Descriptions: probable carboxylesterase 2
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau20
+  Gene Products: probable carboxylesterase 2
+  Gene Descriptions: probable carboxylesterase 2
+Svi
+  Gene count: 2
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi02K
+  Gene Products: probable carboxylesterase 12%2C transcript variant X1; probable carboxylesterase 12%2C transcript variant X2; probable carboxylesterase 7
+Pha
+  Gene count: 2
+  Modal chromosome: Pha02
+  Gene Products: probable carboxylesterase 12%2C transcript variant X1; probable carboxylesterase 7
+Msi
+  Gene count: 1
+  Modal chromosome: Msi04
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi02
+  Gene Products: probable carboxylesterase 12; probable carboxylesterase 7
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: gibberellin receptor GID1L2
+  Gene Synonyms: GRMZM2G133836
+  Gene Descriptions: gibberellin receptor GID1L2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 378 aa
+
+MVAKiKRQLPTLAKLALLLLaLLLLLAAILLcVFLiPRHHRaPLPPASPPGNASNPDDsi
+VAFDFSPFLIMYKSGRVHRMDGTARVPAGVDEATGVTSKDVVIDhgTGLAARMYLPPApg
+AGGKKkDpGrLPVLVFYHGGAFVIESAFTPKYHdYLNAVvAKARVVAVSVEYRLAPEHPL
+PAAYDDSWqALNWVARNAdSGPEPWLRDRGNLSRLFLAGDSAGANIAHNMAMRAGtGGGL
+DGGAAITGvLLLDPYFWGKrPVGAETTDPATRRQYEATWSFICGGRYGIDDPLVNPLSMP
+AsELRRLACSRVAVTvSGLDDFrpRGlAYAAALRDSGWdGEVEQYETAGERHVYFLDrPK
+sPKSaKELAFVAGYLSRE
+
+
+BOP CONSENSUS:
+Length: 377 aa
+
+MVSKIKRLPTLAKVALLLLVLLLLLAAILLLIFLVPRRRTAPLPPAAPPADNCSSDRAVA
+FDFSPFLVQYRSGCVHRMDGTDRVPAGVDAATGVTSKDVVIDHaTGLGARMYLPPalgAG
+GGKKEKeKDLPVVVFFHGGAFVIMTPFEPKYHDYLNALVAKARVVAVSVDYRLAPEHPLP
+AAYDDSWAALNWVAKNADAGPEPWLRDRGNLSRLFLAGDSAGANIAHNMAMRAGnGSGLE
+GGAAILGVLLLDPYFWGKRPVGAETTDPATRRRYEATWSFVCgGRYGIDDPLINPLAAPA
+sELRRLACARVAVTVSGLDDFEARGKAYAAALNGSGWrGEVVRYETAGERHVYFLDQPAS
+PKSAKELAFAAGYLSRE
+
+
+PACMAD CONSENSUS:
+Length: 374 aa
+
+MVAKTRRQLAKLALLLLALLLLLAAILLCVFLIPRHHRKPLPPASPPGNASNPDDSIVAF
+DFSPYLIMYKSGRVHRLDGTARCsAGVDEATGVTSKDVVIDsGTGLAARMYLPPAPgGKK
+KDLGRLPVLVFYHGGAFVIESAFTPLYHAYLNAVAAKARVVAVSVEYRLAPEHRLPTAYD
+DSWQALNWVARNAaSGPEPWLRDRGNLSRLFVAGDSAGANIAHNMAMRAGTEEGGLDGGA
+AITGLLLLDPYFWGKKPVAGETTDpAtRRQYEATWSFICGGRYGIDDPLVDPLSMPAAEW
+RRLACSRVAVTSSGLDDFRPRGLAYAAALRDSGWDGEVEQYETPGERHVYFLDRPKDPNS
+VKELAFVTGFLSRE
+
+================================================================================

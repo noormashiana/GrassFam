@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM010637
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             524.0 aa
+Family Size (Extended Family Size): 19 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48050:SF11
+Panther Family ID:               PTHR48050
+Modal Panther ID:                PTHR48050:SF11
+Modal Panther Description:       GLYCOSYLTRANSFERASE
+Modal Panther Family ID:         PTHR48050
+Modal Panther Fam Desc:          STEROL 3-BETA-GLUCOSYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:3.40.50.2000; PTHR48050; SSF53756
+Interpro Signature Description:  Glycogen Phosphorylase B;; STEROL 3-BETA-GLUCOSYLTRANSFERASE; UDP-Glycosyltransferase/glycogen phosphorylase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: sterol 3-beta-glucosyltransferase UGT80B1%2C transcript variant X6
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: sterol 3-beta-glucosyltransferase UGT80B1%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: sterol 3-beta-glucosyltransferase UGT80B1%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: O-mycaminosyltylonolide 6-deoxyallosyltransferase-like%2C transcript variant X1; sterol 3-beta-glucosyltransferase UGT80B1-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: sterol 3-beta-glucosyltransferase UGT80B1%2C transcript variant X1
+  Gene Descriptions: sterol 3-beta-glucosyltransferase UGT80B1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: sterol 3-beta-glucosyltransferase UGT80B1%2C transcript variant X1
+  Gene Descriptions: sterol 3-beta-glucosyltransferase UGT80B1
+Pau
+  Gene count: 1
+  Modal chromosome: Pau05
+  Gene Products: sterol 3-beta-glucosyltransferase UGT80B1%2C transcript variant X1
+  Gene Descriptions: sterol 3-beta-glucosyltransferase UGT80B1
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: sterol 3-beta-glucosyltransferase UGT80B1-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: sterol 3-beta-glucosyltransferase UGT80B1%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: sterol 3-beta-glucosyltransferase UGT80B1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: putative acetate/butyrate kinase domain protein
+  Gene Synonyms: GRMZM2G105391
+  Gene Descriptions: putative acetate/butyrate kinase domain protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 524 aa
+
+MAGrGGGGRRPRAVFMAFGTrGDVFPIAALAAAFArDQQQYaVVFITHSAHQSLStHLAA
+SNVRYMPVSSPPVLAAEQLENISyDSVQSNhEpESFSrRKkIIQmEHRKECLSSVEEVFG
+NDPSIhGDFIVINFFALEGWHLAELFQVKCIIAAPYFVPYSAPtSFERQFKQSFPLLYKY
+FQEAPpNTVCWTDIiHWMWALFMESWGSWRNDCLNLSPIPFTDPVTNLPLWHVREESPLL
+LYGFSKEIVECPGYWPSSAHaCGFWFLPMAWQFSCDKCrELSGNfNSSfGGiLCANHsGL
+EHFLMGNSYSSLPIFVGLSSIGSMGFLRNPKAFLMVLKAVIESTDYRFILFSSGYQPLDS
+AIQSIASSVvESSEvEAPALSnDSTLLFNGRLFCFSGSIPYSWLFPRCAAAIHHAGSGST
+AAALLAGIPQVvCPFLLDQFYWAERLHWLGVAPEPLQRQHLIPDnDDAsSINNAADVLlG
+AIRSALSPEIKAQATRIADRLSSEDGIGEALRILKERVLtQNKT
+
+
+BOP CONSENSUS:
+Length: 521 aa
+
+MDGCGGDGRRPRAVFMAFGTHGDVFPIAALAAAFAnDQQQYTVVFITHSAHQSLSTHLAA
+SNVRYMPVASPPALAAEQLDNISYDSVQSNAgPESFSRRKEIIQTEHRKACLASVEEVFG
+NDPSIHSDFIVINFFALEGWHLAELFQVKCIIAAPYFVPYSAPSSFERQFKQSFPLLYKY
+FQEAPPNTVCWTDITHWMWALFMESWGLWRNDCLNLSPIPYTDPVTNLPLWHVRAESPLL
+LYGFSKEIVERPGYWPSSAHVCGFWFLPMAWQFSCDKCRELFSGDFNSSFEGILCANHAG
+LEDFLMGSSYSSLPIFIGLSSIGSMGFLRNPKAFLMVIKAVIESTDYRFILFSSGYQPLD
+SAIRSvASLVVESSVEAPALSnDSTLLFNNRLFCFSGSIPYSWLFPKCAAAIHHAGSGST
+AAALFAGTPQVACPFLLDQFYWAERLHWLGVAPEPLKRQHLIPDIDDAaSVNKAADVLLG
+AIRSALSPEIKAQATVIAQRLASEDGIGEALRILKEKVLPr
+
+
+PACMAD CONSENSUS:
+Length: 524 aa
+
+MAGRGGGGRRPRAVFMAFGTQGDVFPIAALAAAFARDQQqYAVVFITHSAHRSLSAHLAA
+SNVRYMPVSSPPVLAAEQVENISsDSIQSNHErESFSMRKKaIQMEHRKECLSSVEEVFG
+NDPSINGDFIVINFFALEGWHLAELFQVKCIIAAPYFVPYSAPTSFERQFKHNFPLLYKY
+FQEAPANTVCWTDIIHWMWALFTESWGSWRNDCLNLSPIPFTDPVTNLPLWHVREESPLL
+LYGFSKEIVECPGYWPSsAHACGFWFLPMAWQFSCDKCMELSGNtNSSlGGVLCANHSSL
+EHFLvGNsYSSRPIFVGLSSIGSMGFLRNPKAFLMVLKAAIESTDYRFILFSSGYQPLDS
+AIQSIASSvnESSEAEsPSLGgDSTLLFNGRLFCFSGSIPYSWLFPRCAAAIHHAGSGST
+AAALLAGIPQVVCPFLLDQFYWAERLHWLGVAPEPLQRQHLIPDNDDALSIHNAADVLvG
+AIRSALSPEIKAQAARIADRLSFEDGIGEALRILKERVLTQNKT
+
+================================================================================

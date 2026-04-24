@@ -1,0 +1,122 @@
+================================================================================
+GrassFam ID: GFAM010452
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             462.0 aa
+Family Size (Extended Family Size): 18 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43795:SF64
+Panther Family ID:               PTHR43795
+Modal Panther ID:                PTHR43795:SF64
+Modal Panther Description:       GLUTAMATE-OXALOACETATE TRANSAMINASE5
+Modal Panther Family ID:         PTHR43795
+Modal Panther Fam Desc:          BIFUNCTIONAL ASPARTATE AMINOTRANSFERASE AND GLUTAMATE/ASPARTATE-PREPHENATE AMINOTRANSFERASE-RELATED
+Interpro Signature Accession:    cd00609; G3DSA:3.40.640.10:FF:000033; G3DSA:3.90.1150.10; G3DSA:3.40.640.10; PTHR46383; PF00155; SSF53383
+Interpro Signature Description:  AAT_like; Aspartate aminotransferase; Aspartate Aminotransferase, domain 1; -; ASPARTATE AMINOTRANSFERASE; Aminotransferase class I and II; PLP-dependent transferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: bifunctional aspartate aminotransferase and glutamate/aspartate-prephenate aminotransferase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: bifunctional aspartate aminotransferase and glutamate/aspartate-prephenate aminotransferase
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: bifunctional aspartate aminotransferase and glutamate/aspartate-prephenate aminotransferase%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: bifunctional aspartate aminotransferase and glutamate/aspartate-prephenate aminotransferase-like; bifunctional aspartate aminotransferase and glutamate/aspartate-prephenate aminotransferase-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: bifunctional aspartate aminotransferase and glutamate/aspartate-prephenate aminotransferase-like; bifunctional aspartate aminotransferase and glutamate/aspartate-prephenate aminotransferase-like%2C transcript variant X2
+  Gene Descriptions: bifunctional aspartate aminotransferase and glutamate/aspartate-prephenate aminotransferase-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: bifunctional aspartate aminotransferase and glutamate/aspartate-prephenate aminotransferase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: bifunctional aspartate aminotransferase and glutamate/aspartate-prephenate aminotransferase
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: bifunctional aspartate aminotransferase and glutamate/aspartate-prephenate aminotransferase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: uncharacterized LOC100274472
+  Gene Synonyms: GRMZM2G033799,pco075539
+  Gene Descriptions: uncharacterized LOC100274472
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 462 aa
+
+MaSFSSLSTPSSSSSTPSFTLPTKpSPGTGSVSFPRAsESqksRARMAtVRAEAVDTSIS
+PRVSALRPSKTMAITDQATALRQAGVPVIGLAAGEPDFDTPAVIAEAGMNAIRDGaTRYT
+PNAGTLELRKAICKKLQEENGLSYSPDQVLVSNGAKQCITQAVLAVCSPGDEVLIPAPYW
+VSYPEMARLAGATPVILPTSISDNFLLRPESLASVINENSRILILCSPSNPTGSVYPKEL
+LEEIAAIVRKHPRLLVLSDEIYEHIIYQPAKHTSFAALPGMWERTLTVNGFSKAFAMTGW
+RLGYLAAPKHFVSACGKIQSQYTSGASSISQKAGLAALNLGYAGGEAVSTMVKAFQERRD
+YLVRSFRELPGVKISEPQGAFYLFIDFSSYYGSEVEGFGTIKDSESLCMFLLEKAQVALV
+PGDAFGDDKGVRISYAAAMSTLQTAMGKIKEAMALLrPPVAV
+
+
+BOP CONSENSUS:
+Length: 459 aa
+
+MAFSSLSTPSSSSPSSSFTLPTKPSPGAGSLSFSRASTGKFRMAAVRAEAVDTSISPRVS
+ALRPSKTMAITDMASALRQAGVPVIGLAAGEPDFDTPAVIAEAGINAIRDGSTRYTPNAG
+TMELRKAICNKLQEENGLTYSPDQVLVSNGAKQCITQAVLAVCSPGDEVLIPAPFWVSYP
+EMARLAGATPVILPTSISDNFLLKPESLASVITEKSRLLILCSPSNPTGSVYPRELLEEI
+AAIVKKYPRLLVLSDEIYEHIIYHPAKHTSFAALPGMYDRTLTVNGFSKAFAMTGWRLGY
+LAAPKHFVSACGKIQSQYTSGASSISQKAGLAALNLGYAGGEAVSTMVKAFQERRDYLVR
+SFRELPGVKISEPQGAFYLFIDFSSYYGSEVEGFGTIKDSETLCMFLLEKAQVALVPGDA
+FGDDKGVRISYAAALSTLQSAMEKIKDAMALLKAPAAVQ
+
+
+PACMAD CONSENSUS:
+Length: 462 aa
+
+MASFSSLSAPSSSTSTPSFTLPTKTSPGTGSVSFPRARESqKSRARMVTVRAEAVDTTIS
+PRVSALRPSKTMAITDQATALRQAGVPVIGLAAGEPDFDTPAVIAEAGMNAIRDGATRYT
+PNAGTLELRKAICKKLQEENGLSYTPDQVLVSNGAKQCITQAVLAVCSPGDEVLIPAPYW
+VSYPEMARLAGATPVILPTSISDNYLLRPESLASVINENSRILILCSPSNPTGSVYPKEL
+LEEIAAIVRKHPRLLVLSDEIYEHIIYQPAKHTSFASLPGMWERTLTVNGFSKAFAMTGW
+RLGYLAAPKHFVSACGKIQSQYTSGASSISQKAGLAALNLGYAGGEAVSTMVKAFQERRD
+YLVRSFRELPGVKISEPQGAFYLFIDFSSYYGSEVEGFGTIKDSESLCMFLLEKAQVALV
+PGDAFGDDKGVRISYAAAMSTLQTAMGKIKEAMALLRPPVAV
+
+================================================================================

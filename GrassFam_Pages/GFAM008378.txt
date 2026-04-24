@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM008378
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             388.0 aa
+Family Size (Extended Family Size): 27 (27) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23130:SF167
+Panther Family ID:               PTHR23130
+Modal Panther ID:                PTHR23130:SF167
+Modal Panther Description:       CYTOCHROME B561 AND DOMON DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR23130
+Modal Panther Fam Desc:          CYTOCHROME B561 AND DOMON DOMAIN-CONTAINING PROTEIN
+Interpro Signature Accession:    cd09629; cd08760; G3DSA:1.20.120.1770:FF:000007; G3DSA:1.20.120.1770; PTHR23130; PIRSF037471; SM00665
+Interpro Signature Description:  DOMON_CIL1_like; Cyt_b561_FRRS1_like; Cytochrome b561 and DOMON domain-containing protein; -; CYTOCHROME B561 AND DOMON DOMAIN-CONTAINING PROTEIN; UCP037471; 561_7
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: cytochrome b561 and DOMON domain-containing protein At4g12980
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu02H
+  Gene Products: cytochrome b561 and DOMON domain-containing protein At4g12980-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata02D
+  Gene Products: cytochrome b561 and DOMON domain-containing protein At4g12980; cytochrome b561 and DOMON domain-containing protein At4g12980-like
+Tae
+  Gene count: 5
+  Modal chromosome: Tae02A
+  Gene Products: cytochrome b561 and DOMON domain-containing protein At4g12980-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: cytochrome b561 and DOMON domain-containing protein At3g25290-like
+  Gene Descriptions: cytochrome b561 and DOMON domain-containing protein At3g25290-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: cytochrome b561 and DOMON domain-containing protein At3g25290
+  Gene Descriptions: cytochrome b561 and DOMON domain-containing protein At3g25290
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: cytochrome b561 and DOMON domain-containing protein At4g12980-like
+  Gene Descriptions: cytochrome b561 and DOMON domain-containing protein At4g12980-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: cytochrome b561 and DOMON domain-containing protein At4g12980-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: cytochrome b561 and DOMON domain-containing protein At4g12980-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: cytochrome b561 and DOMON domain-containing protein At3g25290
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100281813; uncharacterized LOC100285512
+  Gene Synonyms: GRMZM2G003506; GRMZM2G050159
+  Gene Descriptions: uncharacterized LOC100281813; uncharacterized LOC100285512
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 391 aa
+
+MARPGHtAWLLLgAAvLLlASAATAQDCLSATFSGGRTFLKCNsLPVLGASLHWTYHPEN
+GTADVAFRAPSGtdGWVGWGINPsRGggMaGSSVFIASQDGSGaVSVLMTnLEsTSPSLT
+NgtLKFdVPVpPsAEYSGGAYTIYATVALPGNsTQQNTVWQAGPlSGGsIsPHPTSGaNL
+qSTQRLDFLSGsSTGASNSRLHRRNIHGVLNAVAWGILIPlGAMIARYLRVFESADPAWF
+YLHIACQCSGYILGVAGWGLGLKLGSESkGlTYqPHRNIGIAIFCLATLQVFALLLRPDK
+KNKYRlYWNIYHHSVGYSVIVLAAVNIFKGLDILKPASGYKTAYIVILATLGGIALCLEA
+ITWpIVLRRRKRNqADKAsNGtNGtGWQQGA
+
+
+BOP CONSENSUS:
+Length: 384 aa
+
+MARPGHSTAWLPLLVLLLAAGAAAQQgCLSATFTGGRTFLKCNQLPVLGASLHWTYHAEN
+GTADVAFRAPSGADGWVGWGINPsGtGMAGSNVFIASQSsGAVSVLTTILRnTsPTLDNt
+ALSFDVPVPASAEYAGGAYTIYATVALPGNtTSQNTVWQAGPiSGGrVSPHptSGPNVQS
+vQRLDFLSGTSTGASNSRLHRRNLHGVLNAVGWGVLIPLGAMIARYLRVFEAADPAWFYL
+HITCQISGYALGVAGWGLGLKLGSESKGLTYSTHRNIGIAIFCLATLQVFALFLRPDKKN
+KYRVYWNAYHHSVGYSVIVLAAVNIFKGLNILKPATGWKTSYIVILATLAGVALVLEAIT
+WAIVLRRRKRNqAhGGANGTGVQL
+
+
+PACMAD CONSENSUS:
+Length: 386 aa
+
+MARPTAWLLLGAAVLLLASAATAQDCLSATFSGGRTFGRCNSLPTLGASLHWTYHPENGT
+ADVAFRAPSGTSGWVGWGINPgRgGSMaGSSVFIASQDGSGvVSVLMTNLESTSPSLTPn
+TLKFnVPVGPaAEYSGGAYTIFATIaLPGNsTQQNTVWQAGPLSnGaIspHPTAPANLAS
+TQRLDFLSGSSTGASNSRLHRRNIHGVLNAVAWGILIPtGAIIARYLRVFESADPAWFYL
+HIACQCSGYILGVAGWGLGLKLGSESVGvTYQPHRNIGIAIFCLATLQVFALLLRPDKKN
+KYRLYWNIYHHSVGYSVIILSAINIFKGLDILKPASGYKTAYIVVLATLGGIALCLEAIT
+WPIAIRKRRRNADKAsNGNAGWQQGA
+
+================================================================================

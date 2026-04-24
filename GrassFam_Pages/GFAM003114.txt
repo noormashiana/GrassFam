@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM003114
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             428.0 aa
+Family Size (Extended Family Size): 19 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR20852:SF118
+Panther Family ID:               PTHR20852
+Modal Panther ID:                PTHR20852:SF118
+Modal Panther Description:       GLUTAMINE SYNTHETASE, CHLOROPLASTIC_MITOCHONDRIAL
+Modal Panther Family ID:         PTHR20852
+Modal Panther Fam Desc:          GLUTAMINE SYNTHETASE
+Interpro Signature Accession:    G3DSA:3.10.20.70:FF:000003; G3DSA:3.30.590.10:FF:000004; G3DSA:3.10.20.70; G3DSA:3.30.590.10; PTHR20852; SM01230; SSF55931
+Interpro Signature Description:  Glutamine synthetase, chloroplastic; Glutamine synthetase; -; Glutamine synthetase/guanido kinase, catalytic domain; GLUTAMINE SYNTHETASE; Gln_synt_C_2; Glutamine synthetase/guanido kinase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: glutamine synthetase%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: glutamine synthetase leaf isozyme%2C chloroplastic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: glutamine synthetase leaf isozyme%2C chloroplastic%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: glutamine synthetase leaf isozyme%2C chloroplastic; glutamine synthetase leaf isozyme%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: glutamine synthetase%2C chloroplastic
+  Gene Descriptions: glutamine synthetase%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: glutamine synthetase%2C chloroplastic-like
+  Gene Synonyms: 24K23.12,GLN2,GS2,OsGLN2,OsGS2,OsJ_16481,RGS31
+  Gene Descriptions: glutamine synthetase%2C chloroplastic-like
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: glutamine synthetase%2C chloroplastic%2C transcript variant X1; glutamine synthetase%2C chloroplastic-like
+  Gene Descriptions: glutamine synthetase%2C chloroplastic; glutamine synthetase%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: glutamine synthetase%2C chloroplastic; glutamine synthetase%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: glutamine synthetase%2C chloroplastic
+Msi
+  Gene count: 1
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: glutamine synthetase%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: glutamine synthetase 1%2C transcript variant X2
+  Gene Synonyms: gln1,GLN2,GRMZM2G098290,GRMZM5G885867,gs2
+  Gene Descriptions: glutamine synthetase 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 429 aa
+
+MAQAVVPAMQCQVGVRGKAAVRARPAgAGGRVWGVRRTGRGTSGFKVMALSTETTGVVPR
+LEQLLNMDTTPFTDKIIAEYIWVGGSGIDLRSKSRTISKPVEDPSELPKWNYDGSSTGQA
+PGEDSEVILYPQAIFKDPFRGGNNILVICDTYTPAGEPIPTNKRHRAAQIFSDPKVVsQV
+PWFGIEQEYTLMQRDVNWPLGWPVGGYPGPQGPYYCAVGSDKSFGRDISDAHYKACLYAG
+INISGTNGEVMPGQWEYQVGPSVGIEAGDHIWISRYILERITEQAGVVLTLDPKPIQGDW
+NGAGCHTNYSTKSMREDGGFEVIKKAILNLSLRHDLHISAYGEGNERRLTGLHETASIDd
+FSWGVANRGCSIRVGRDTEAKGKGYLEDRRPASNMDPYtVTALLAETTILWEPTLEAEAL
+AAKKLALKV
+
+
+BOP CONSENSUS:
+Length: 427 aa
+
+MAQAVVPAMQCQVGVRGRSAVRARQPAGRVWGVRRTARGTSGFKVLALGPETTGVVQRMQ
+QLLDMDTTPFTDKIIAEYIWVGGSGIDLRSKSRTISKPVEDPSELPKWNYDGSSTGQAPG
+EDSEVILYPQAIFKDPFRGGNNILVICDTYTPQGEPIPTNKRHRAAQIFSDPKVTSQVPW
+FGIEQEYTLMQRDVNWPLGWPVGGYPGPQGPYYCAVGSDKSFGRDISDAHYKACLYAGIE
+ISGTNGEVMPGQWEYQVGPSVGIDAGDHIWASRYILERITEQAGVVLTLDPKPIQGDWNG
+AGCHTNYSTLSMREDGGFEVIKKAILNLSLRHDLHISAYGEGNERRLTGLHETASISDFS
+WGVANRGCSIRVGRDTEAKGKGYLEDRRPASNMDPYTVTALLAETTILWEPTLEAEALAA
+KKLALKV
+
+
+PACMAD CONSENSUS:
+Length: 428 aa
+
+MAQAVVPAMQCQVGAKAAVRARPAAGAGGRVWGVRRSGRGTSGFKVMAvSTASTGVVPRL
+EQLLNMDTKPYTDKIIAEYIWVGGSGIDIRSKSRTISKPVEDPSELPKWNYDGSSTGQAP
+GEDSEVILYPQAIFKDPFRGGNNILVMCDTYTPAGEPIPTNKRHRAAQIFSDPKVVEQVP
+WFGIEQEYTLLQRDVNWPLGWPVGGYPGPQGPYYCAVGAEKSFGRDISDAHYKACLYAGI
+NISGTNGEVMPGQWEYQVGPSVGIEAGDHIWISRYLLERITEQAGVVLTLDPKPIQGDWN
+GAGCHTNYSTKSMREDGGFEVIKKAILNLSLRHDLHISAYGEGNERRLTGLHETASIDTF
+SWGVANRGCSIRVGRDTEAKGKGYLEDRRPASNMDPYIVTGLLAETTILWEPTLEAEALA
+AKKLALKV
+
+================================================================================

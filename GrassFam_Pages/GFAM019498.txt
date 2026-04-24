@@ -1,0 +1,125 @@
+================================================================================
+GrassFam ID: GFAM019498
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             588.0 aa
+Family Size (Extended Family Size): 15 (16) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43671:SF87
+Panther Family ID:               PTHR43671
+Modal Panther ID:                PTHR43671:SF87
+Modal Panther Description:       SERINE_THREONINE-PROTEIN KINASE NEK1
+Modal Panther Family ID:         PTHR43671
+Modal Panther Fam Desc:          SERINE/THREONINE-PROTEIN KINASE NEK
+Interpro Signature Accession:    cd08215; G3DSA:3.30.200.20:FF:000108; G3DSA:1.10.510.10; PTHR43671; PF00069; SM00220; SSF56112
+Interpro Signature Description:  STKc_Nek; Serine/threonine-protein kinase Nek2; Transferase(Phosphotransferase) domain 1; SERINE/THREONINE-PROTEIN KINASE NEK; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: serine/threonine-protein kinase Nek1%2C transcript variant X9
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: serine/threonine-protein kinase Nek1%2C transcript variant X2
+  Gene Descriptions: serine/threonine-protein kinase Nek1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: serine/threonine-protein kinase Nek1-like
+  Gene Synonyms: NEK1,OsJ_11838,OsNek1
+  Gene Descriptions: serine/threonine-protein kinase Nek1-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: serine/threonine-protein kinase Nek2-like%2C transcript variant X1
+  Gene Descriptions: serine/threonine-protein kinase Nek2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: serine/threonine-protein kinase Nek1-like%2C transcript variant X10; serine/threonine-protein kinase Nek1-like%2C transcript variant X3
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: serine/threonine-protein kinase Nek1-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: serine/threonine-protein kinase Nek1%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: serine/threonine-protein kinase Nek2%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 595 aa
+
+MDQYEVLEQIGKGAFGSALLVRHKVEKKKYVLKKIRLARQTDRTRRSAHQEMQLIATVRN
+PFIVEYKDSWVDKGCYVCIVIGYCEGGDMAEAIKRANDTHFSEEKLCQWLVQLLMALDYL
+HANHILHRDVKCSNIFLTRDQNIRLGDFGLAKILTPDDLASSVVGTPSYMCPELLADIPY
+GTKSDIWSLGCCMYEMTALRPAFKAFDMQALINKITKSIVSPLPTRYSGAFRGLVRSMLR
+RSPEHRPSAAELLKHPHLQPYVLQVHLKSSPSRSIIPVHQSPtEKRMTFPTEPVcRSKGR
+RNSLGNERIVTFSKPSPERNSiSSIpSIKDYTTTQSVKELSIDdSQVEEVTSKTVASRTS
+SIMKTPKtTPwKmMTTLKNRLEPPQASYDRTNHSEQFSRTPVNRSaRlARRASLPLPVFE
+TPKRSSISILEQLESPDVSVNSPRIDRIAEFPLASSEEPLFSIGKPSSSAHGScSAATPP
+FVDRSITKDKCTVQTLRAAAvDGDNGSSDSSSGRNttAAAASSRGSSgSRQRRFDTTSYQ
+QRAEALEGLLEFSAQLLQQERYEELGVLLKPFGPEKVSPRETAIWLTKSFKETGL
+
+
+BOP CONSENSUS:
+Length: 599 aa
+
+MEQYEVLEQIGKGAFGSALLVRHKVEKKKYVLKKIRLARQTDRTRRSAHQEMQLIATVRN
+PFIVEYKDSWVEKGCYVCIIIGYCEGGDMAEAIKRATGDHFSEEKLCKWLVQLLMALDYL
+HANHILHRDVKCSNIFLTRDQSIRLGDFGLAKILTSDDLASSVVGTPSYMCPELLADIPY
+GTKSDIWSLGCCIYEMTALRPAFKAFDMQALISKITKSIVSPLPTRYSGAFRGLIKSMLR
+KSPEHRPSAAELLKHPHLQPYVLQVHLKSSPARNIIPSHQSPIDKVKKMTFPTESMCRSK
+GRRNSLGNERIVTFSKPSPERKFTSSIQSIKDYSTTRSVKDLSIDVSLVEEVSSKTTFTT
+RTSSIVKTPKRTPSKTITTPQLEPPKVSYNRVNRSELLSRTPVNRSARVIRRASLPLPLP
+SSETPKRGVSSISILEQLESPDVSVNSPRIDRIAEFPLASSEDPPFLtLHGRRSPTPTPQ
+HCVIDQSITKDKCMVEAFHIIDVDDDDGRSDSSSGRNNAAAAASSRAGSSESTRQRRFDT
+SSYQQRAEALEGLLEFSAQLLQQERYDELGVLLKPFGPEKVSPRETAIWLTKSFKETGL
+
+
+PACMAD CONSENSUS:
+Length: 599 aa
+
+MDQYEVLEQIGKGAFGSALLVRHKLEKKKYVLKKIRLARQTDRTRRSAHQEMQLIATVRN
+PFIVEYKDSWVDKGCYVCIVIGYCEGGDMAEAIKRANDTHFSEEKLCQWLVQLLMALDYL
+HAHHILHRDVKCSNIFLTRDQNIRLGDFGLAKILTPDDLASSVVGTPSHMCPELLADIPY
+GTKSDIWSLGCCMYEMAALKPAFKAFDMQALINKITKSIVSPLPTRYSGAFRGLVRSMLR
+RSPEHRPSAAELLKHPHLQPYVLQVHLKSSPSRSIIPVHQSPtEKRMTFpAEPVyRSKGR
+RNSLGNERIVTFSKPSPERNSiSSIPSIKDYTTTQSVKELSVDnSQVEEVTSKTVASRTS
+SIMKTPKtTPWKMMTTLKNRLEAPQASYDRTSHtEFSrTPVDNRStRLARRASLPLPVFE
+TPKRSSISILEQLESPDVSVNSPRIDRIAEFPLASSEEPLFSIGKPStSSAHGSCSATPP
+FVDRSITKDKCTAQTLRAAAsDGDNrSSGDDsSSGRNTAtAASSRGSSGSrQrQRRFDTT
+SYQQRAEALEGLLEFSAQLLQQERYEELGILLKPFGPDEKVSPRETAIWLTKSFKETGL
+
+================================================================================

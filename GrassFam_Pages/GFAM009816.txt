@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM009816
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             443.0 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46301:SF25
+Panther Family ID:               PTHR46301
+Modal Panther ID:                PTHR46301:SF25
+Modal Panther Description:       F-BOX DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR46301
+Modal Panther Fam Desc:          F-BOX/KELCH-REPEAT PROTEIN
+Interpro Signature Accession:    G3DSA:2.120.10.80:FF:000059; PTHR31672
+Interpro Signature Description:  F-box only protein 6; BNACNNG10540D PROTEIN
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: F-box only protein 6
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: F-box only protein 6
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: F-box only protein 6
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: F-box only protein 6-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: F-box only protein 6
+  Gene Descriptions: F-box only protein 6
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: F-box only protein 6
+  Gene Descriptions: F-box only protein 6
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: F-box only protein 6-like; F-box only protein 6-like%2C transcript variant X2
+  Gene Descriptions: F-box only protein 6-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: F-box only protein 6-like; F-box only protein 6-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: F-box only protein 6%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: F-box only protein 6
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: F-box only protein 6; uncharacterized LOC100193727
+  Gene Synonyms: gpm531b,GRMZM2G119650
+  Gene Descriptions: uncharacterized LOC100193727
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 443 aa
+
+MGEVAALRQLVGQVQELWDLYGANAHPLPRWYLLDFEHGSIKDDYCGGRTGYNSELLKIM
+EANQSPPRKRPRRDRNREKAPcSNsTEVMqQEIWrEFPEDLFETVIARLPVAAIFRFRTV
+CRKWsSLLGSDSFSqQYSEVPhGLPWFYTITHENANNNVAMYDPSLKKWHHPSVPLAPTK
+IVIPVASVGGLVCLLDLSHRNFYICNPLTQSLKEIPPRSVQAWSRVAVGMVLNGRSSNeG
+YKVMWLGNDGTYEVYDSTKNMWSCPGtFPPSIKLPLALNFRSQPVAVGSTLYFMCAEPDG
+VLSYDVSTGIWRQFaIPLPLHLTDHTLAEFQGRVMLVGLLCKNAATCVCIWELQKMTLLW
+KEVDRMPNIWCLEFYGKHMKMTCLGNSGLLMLSLKAKRMNRLVTYNLLKKEWQKVPDCML
+PCSRKKQWIACGTAFDPCPSALA
+
+
+BOP CONSENSUS:
+Length: 445 aa
+
+MGEVAALRQLVGQVQELWDLYGAVHAHGPLPRWYLLDFEHGSIKDDYCGeRTGYNSELLK
+IMEANQSPPRKRPRRDRNREKASfLNSAEAMKLDIWSEFPEDLFETVIARLPVAAIFRFR
+TVCRKWCSLVGSDNFSQQYSEVPQGMPWFYTITHENANNNVAMYDPSLKKWHHPSVPLAP
+ANIVIPVASAGGLVCLLDLSHRNFYICNPLTQSLKEIPPRSVQAWSRVSVGMVLNGRTSN
+EGYKVMWLRNDGNHEVYDSvQNMWSQPGtFPPSIKLPLALNFRSQPVAVGSTLYFMCSEP
+EGVLSYDVSTGIWIQFIIPLPLHLTDHTLAEFQGRIMLVGLLCKNAATCVCIWELQKMTL
+LWKEVDRMPNIWCLEFYGKHMRMTCLGNSGLLMLSLKAKRMNRLVtYNLvSKEWQKVPDC
+MLPCSRKKQWIACGTAFGPCPSAsP
+
+
+PACMAD CONSENSUS:
+Length: 443 aa
+
+MGEVAALRQLVGQVQELWDLYGANAHPLPRWYLLDFEHGSIKDDYCGGRTGYNSELLKIM
+ETNQSPPRKRPRRDRNREKAPCSNKTEVMQQEIWREFPEDLFETVIARLPVAAIFRFRTV
+CRKWSSLLGSDSFSHQYSEAPRGLPWFYTITHENANNNVAMYDPSLKKWHHPSVPLAPTK
+IVIPVASVGGLVCLLDLSHRNFYICNPLMQSLKEIPPRSVQGWSRVAVGMVLNGRSSSDG
+YKVMWLGNDGTYEVYDSTKNMWSCPGTFPPSIKLPLALNFRSQPVAVGSTLYFMCAEPDG
+VLSYDVSTGIWRQFAIPLPLHLTDHTLAEFQGRVMLVGLLCKNAATCVCIWELQKMTLLW
+KEVDRMPNIWCLEFYGKHMKMTCLGNSGLLMLSLKAKRMNRLVTYNLLKREWQKVPDCML
+PCSRKKQWIACGTAFDPVPSALA
+
+================================================================================

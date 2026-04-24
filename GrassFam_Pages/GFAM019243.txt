@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM019243
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             447.0 aa
+Family Size (Extended Family Size): 23 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47640:SF5
+Panther Family ID:               PTHR47640
+Modal Panther ID:                PTHR47640:SF5
+Modal Panther Description:       RRM DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR47640
+Modal Panther Fam Desc:          TRNA SELENOCYSTEINE 1-ASSOCIATED PROTEIN 1-RELATED-RELATED
+Interpro Signature Accession:    cd12619; G3DSA:3.30.70.330:FF:000301; G3DSA:3.30.70.330:FF:000191; G3DSA:3.30.70.330:FF:000598; G3DSA:3.30.70.330; PTHR47640; SSF54928
+Interpro Signature Description:  RRM2_PUB1; Nucleolysin TIAR-like protein; Oligouridylate-binding protein 1C; -; TRNA SELENOCYSTEINE 1-ASSOCIATED PROTEIN 1-RELATED-RELATED; RNA-binding domain, RBD
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: oligouridylate-binding protein 1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: RNA-binding protein 208
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: RNA-binding protein 208
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: RNA-binding protein 208; RNA-binding protein 208-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl08
+  Gene Products: RNA-binding protein 208
+  Gene Descriptions: RNA-binding protein 208
+Osa
+  Gene count: 1
+  Modal chromosome: Osa08
+  Gene Products: oligouridylate-binding protein 1B
+  Gene Synonyms: OJ1003_A09.12,OsJ_27962,RBP-208
+  Gene Descriptions: oligouridylate-binding protein 1B
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN433
+Pau
+  Gene count: 2
+  Modal chromosome: Pau16
+  Gene Products: RNA-binding protein 208%2C transcript variant X1; RNA-binding protein 208-like%2C transcript variant X1
+  Gene Descriptions: RNA-binding protein 208; RNA-binding protein 208-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: RNA-binding protein 208; RNA-binding protein 208-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: oligouridylate-binding protein 1B-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: oligouridylate-binding protein 1B
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: mRNA 3-UTR binding protein; uncharacterized LOC100282356
+  Gene Synonyms: GRMZM2G166355; GRMZM2G174202,pco100830a
+  Gene Descriptions: mRNA 3-UTR binding protein; uncharacterized LOC100282356
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 445 aa
+
+MNGAGGSHQQQQQRLRQQQQQQQALLMQQALQQQQQYQSGVLAAAAAAAMTQMEPISNGN
+LPPGFDPSTCRSVYVGNVNPNVTESLLIEVFQSAGLVERCKLIRKEKSSFGFVDYYDRRS
+AALAIMTLHGRHIYGQAIKVNWAYASTQREDTSGHFHIFVGDLSSEVNDATLYACFSAYP
+SCSDARVMWDNKTGRSRGYGFVSFRNQQEAETAITEMTGKWLGSRQIRCNWATKNNSEEK
+QETDNHNAVVLTNGSSSNsAMEASQDTGSKENPENNPDCTTVYVGNLGHEVNRDELHRHF
+YNLGVGAIEEVRVQQEKGFGFVRYSTHGEAALAIQMANGLVVRGKPIKCSWGNKPTPPGT
+SSKPLPPPVASYQPVAMAGVPQGFTAAELLAYQRQLALSQAAAGQIAGQHGLAGQVSAGL
+LAAGSQALYDGYPNQSSAQQLMYYN
+
+
+BOP CONSENSUS:
+Length: 447 aa
+
+MNGAGASQQQQQQQQRLRQQQQQQQQALLMQQALQQQQYQSGVLAAAAAAAMTQMEPVSN
+GNLPPGFDPSTCRSVYVGNVHPNVTESLLIEVFQGSGPVERCKLIRKEKSSFGFVDYYDR
+RSAALAIMTLHGRHIYGQAIKVNWAYASTQREDTSGHFHIFVGDLSSEVNDATLYACFST
+YPSCSDARVMWDNKTGRSRGYGFVSFRNQQEAETAITEMTGKWLGSRQIRCNWATKTNAE
+EKQETDNHNAVVLTNGGSSNAAMEANQDTGSKENPENNPDFTTVYVGNLGHEVNRDELHR
+HFYNLGVGAIEEVRVQQEKGFGFIRYSTHGEAALAIQMANGLVVRGKPIKCSWGNKPTPP
+GTSSKPLPPPIASYQPVAMAGVPQGFTAAELLAYQRQLALSQAAAGQIAGQHGLAGQVSA
+GLLAAGSQALYDGYPNQTSAQQLMYYN
+
+
+PACMAD CONSENSUS:
+Length: 445 aa
+
+MNGAGGSHQQQQQRLRQQQQQQALLMQQALQQQQQYQSGVLAAAAAAAMTQMEPISNGNL
+PPGFDPSTCRSVYVGNVNPNVTESLLIEVFQSAGLVERCKLIRKEKSSFGFVDYYDRRSA
+ALAIMTLHGRHIYGQAIKVNWAYASTQREDTSGHFHIFVGDLSSEVNDATLYACFSAYPS
+CSDARVMWDNKTGRSRGYGFVSFRNQQEAETAITEMTGKWLGSRQIRCNWATKNNSEEKP
+ETDNHNAVVLTNGSSSNSATDASQDGGSKENPENNPDCTTVYVGNLGHEVNRDELHRHFY
+NLGVGAIEEIRVQQDKGFGFVRYSTHGEAALAIQMANGLVVRGKPIKCSWGNKPTPPGTt
+SKPLPPPVAPYQPAVAMPGVPQGFTAAELLAYQRQLALSQAAAGQIAGQHGLAGQVSAGL
+LAAGSQALYDGYPNQSSAQQLMYYN
+
+================================================================================

@@ -1,0 +1,118 @@
+================================================================================
+GrassFam ID: GFAM016686
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             353.0 aa
+Family Size (Extended Family Size): 36 (39) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43205:SF23
+Panther Family ID:               PTHR43205
+Modal Panther ID:                PTHR43205:SF23
+Modal Panther Description:       OXIDOREDUCTASE P1, PUTATIVE, EXPRESSED-RELATED
+Modal Panther Family ID:         PTHR43205
+Modal Panther Fam Desc:          PROSTAGLANDIN REDUCTASE
+Interpro Signature Accession:    cd08295; G3DSA:3.40.50.720:FF:000121; G3DSA:3.90.180.10; G3DSA:3.40.50.720; PTHR43205; SSF51735; SSF50129
+Interpro Signature Description:  double_bond_reductase_like; Prostaglandin reductase 2; -; PROSTAGLANDIN REDUCTASE; NAD(P)-binding Rossmann-fold domains; GroES-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: 2-alkenal reductase (NADP(+)-dependent)%2C transcript variant X2
+Tae
+  Gene count: 2
+  Modal chromosome: Tae04A
+  Gene Products: 2-alkenal reductase (NADP(+)-dependent)-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: 2-alkenal reductase (NADP(+)-dependent)-like
+  Gene Descriptions: 2-alkenal reductase (NADP(+)-dependent)-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: NADPH-dependent oxidoreductase 2-alkenal reductase
+  Gene Descriptions: NADPH-dependent oxidoreductase 2-alkenal reductase
+Ecu
+  Gene count: 5
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 1
+  Modal chromosome: Pau19
+  Gene Products: 2-alkenal reductase (NADP(+)-dependent)-like
+  Gene Descriptions: 2-alkenal reductase (NADP(+)-dependent)-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 5
+  Modal chromosome: Pvi08K
+  Gene Products: 2-alkenal reductase (NADP(+)-dependent)-like; 2-alkenal reductase (NADP(+)-dependent)-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: 2-alkenal reductase (NADP(+)-dependent)-like
+Msi
+  Gene count: 11
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi05
+  Gene Products: 2-alkenal reductase (NADP(+)-dependent); 2-alkenal reductase (NADP(+)-dependent)-like
+Zma
+  Gene count: 3
+  Modal chromosome: Zma04
+  Gene Products: NADP-dependent alkenal double bond reductase P2; Putative alcohol dehydrogenase superfamily protein; uncharacterized LOC100278320
+  Gene Synonyms: GRMZM2G110965; cl31479_3,GRMZM2G125196
+  Gene Descriptions: Putative alcohol dehydrogenase superfamily protein; uncharacterized LOC100278320
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 353 aa
+
+MAGsGeEaaAVVqNKKVVLRRHVTGFPTEEDMEIVVDTVeLRVPAGlTAVLVKNLYLSCD
+PWMRGRMSKHDDGaaVPApDFVIGEAMVNFGVGKVIDSTHPEFtAGDLVWGMSGWEEYTL
+VTQPESLhKINHtELPLSYYTGVLGMPGLTAYAGFFEVGKPKKGDFVFVSAASGAVGQvV
+GQLAKIAGCYVVGSAGSDEKVSLLKTKFGFDDAFNYKSETDLgAALKRCLPDGIDIYFDN
+VGGATLDAALLhMRHGGRVVVCGMISQYNLEEPdGVRNLyCIIPKaIRVEGFNVggYFHl
+YaRFEEEMAGYIKeGKVtVVEDVVEGIESAPAALIGLFSGKNVGKQLVAiARa
+
+
+BOP CONSENSUS:
+Length: 350 aa
+
+MAGHGDEVTRNRKVVLRRYVTGYPTAEDMEVVVTTVRPRVPEGTAPAVVVKNLYLSCDPW
+MRGRMTKHDDGDAVPAEDFVLGEALVNFTVGKVVDSTHPEFDAGDLVWGMSGWEEYTLIT
+QTEGLFKINHPELPLSYYTGVLGLAGLTAYAGLFEVGKPKQGETVFVSAASGAVGQIVGQ
+LAKIAGCYVVGSAGSDEKVtLLKSKMGFDDAFNYKKEGnDLGAALRRRLPGGIDVYFDNV
+GGATLDAALLRMRRGGRVVVCGMISQYNLqEHQGVRNLWCIIPKRVRVEGFSVMDYHHLY
+PRFEEEMArYIKAGKVTVVEDVVRGIEKAPEALVGLFSGRNVGKLLVALA
+
+
+PACMAD CONSENSUS:
+Length: 353 aa
+
+MAGSGeeAAAVVQNKKVVLRRHVTGFPTEEDMEIVVDTveLRVPAGlTAVLVKNLYLSCD
+PWMRGRMSKHDDGatVPAPDFVIGEAMVNFGVGKVIDSTHPEFtAGDLVWGMSGWEEYTL
+VTQPESLnKINHtELPLSYYTGVLGMPGLTAYAGFfEVGRPKKGDFVFVSAASGAVGQVV
+GQLAKIAGCYVVGSAGSDEKVSLLKTKFGYDDAFNYKSETDLgAALKRCLPDGIDIYFDN
+VGGATLDAALLHMRHGGRVAVCGMISQYNLEEPDGLRNLyCIIPKAIRVEGFNVggYFHv
+YARFEEEMAGYIKEGKVtVVEDVVEGIESAPAALIGLFSGKNVGKQLVAIARa
+
+================================================================================

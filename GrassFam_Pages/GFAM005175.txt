@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM005175
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             463.0 aa
+Family Size (Extended Family Size): 21 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR35299:SF3
+Panther Family ID:               PTHR35299
+Modal Panther ID:                PTHR35299:SF3
+Modal Panther Description:       RUBISCO ACCUMULATION FACTOR 1.2, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR35299
+Modal Panther Fam Desc:          RUBISCO ACCUMULATION FACTOR 1
+Interpro Signature Accession:    PTHR35299; PF18087; PF18578
+Interpro Signature Description:  RUBISCO ACCUMULATION FACTOR 1; Rubisco Assembly chaperone C-terminal domain; Rubisco accumulation factor 1 alpha helical domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: rubisco accumulation factor 1%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: rubisco accumulation factor 1%2C chloroplastic-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: rubisco accumulation factor 1%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: rubisco accumulation factor 1%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: rubisco accumulation factor 1%2C chloroplastic
+  Gene Descriptions: rubisco accumulation factor 1%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: rubisco accumulation factor 1%2C chloroplastic-like
+  Gene Synonyms: OsJ_31693,RAF1
+  Gene Descriptions: rubisco accumulation factor 1%2C chloroplastic-like
+Pau
+  Gene count: 2
+  Modal chromosome: Pau21
+  Gene Products: rubisco accumulation factor 1%2C chloroplastic-like; rubisco accumulation factor 1%2C chloroplastic-like%2C transcript variant X4
+  Gene Descriptions: rubisco accumulation factor 1%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi09K
+  Gene Products: rubisco accumulation factor 1%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: rubisco accumulation factor 1%2C chloroplastic-like%2C transcript variant X1
+Msi
+  Gene count: 4
+  Modal chromosome: Msi06
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: rubisco accumulation factor 1%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: Rubisco accumulation factor 1%2C chloroplastic
+  Gene Synonyms: GRMZM2G457621,RAF1
+  Gene Descriptions: Rubisco accumulation factor 1%2C chloroplastic
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 459 aa
+
+MLSLSHPHPHPAASTAPRHRrpPRLATAhhRRRRatHiiASAIILPGGGGpGgGGGpGDr
+kLPFTPPPtAPPGQLYQPFHPPPSPLPenYRNLDLTQRLAVLRDRMGrWHEYAPLISSLS
+REGFTPSSIEEATGISGVEQNRLVVASQVRDSLlSDAaFPpDLLpYFDSYGGPDLLYELR
+FLNARQRADAAKHAIDRRLEPKGVRELARSMKDFPQRRGDEGWEAFDRhSPGDCLAYARF
+RQSREAIDvEDRIAELERALqVVETESARARVELEmERArKKAAGEEVEEeEadadARPA
+VPVVRLMYGEVAEASTVLLLPVVRETDGVaAvDlAPRRtKTDADLGIVEVDKGWARWAVV
+PGWGPVAAVADEAVVIELADGRvLPWRSAEeERVLVVANRkRKEVVEEGIYVLEKEGRLV
+VERGkKLAEqGIsqAAAEVVtVVRPPKDEDDMISDDEWD
+
+
+BOP CONSENSUS:
+Length: 471 aa
+
+MLSVSHPHPAASTGPRHRKPLSTAHHRRRRCTYTIAALILPGGGGPRGSPPNGGKLILPG
+GGGGGRGGGGGGGMLPRTPPPTAPPGQLYQPFHPPPSPLPEtYRNLDLTERLAVLRDRMG
+RWYEYAPLISSLSREGFTPASIEEATGMSGVEQNRLVVASQVRDSLISDDFPDDLLHYFD
+SYGGPDLLYELRFLNARQRIVATKHTIERRLESKGVRELARSMKDFPQRRGDEGWDAFDR
+HSAGDCLAYARFRLSREAIANEDRIPELERSLDVVETESARARVELEiERAIKKAAGEEV
+EELEAevDARPAVPVVRLMYGEISEASIVLLLPVVKETDGVKAVDLAPRRSQTDADLGIV
+EVDKGWARWAVLPGWAPVMAVADEAVVIELADGRVLPWRSAENERVLVVADRKRKEVVDE
+GIYVLEKGGKLVVERGkKLLEEGISQAAAEVVTVVRPPKDEEDIIVGDEWD
+
+
+PACMAD CONSENSUS:
+Length: 458 aa
+
+MLSLSHPHPAAASTAPRHQRTPRsAATPVSRRRRASHIAASAILLPGGGGGGGGPGDRKL
+PFTPPPMAPPGQLYQPFHPPPSPLPPSYRNLDLTQRLEVLRDRMGQWHEYAPLISALSRD
+GFTPSSIEEATGISGVEQNCLVVASQVRDSLLDETAAFPPDLLPYFDSYGGPELLYELRF
+LNARQRADAAKHAIDYRLEPKGVRELARSMKDFPRRRGDEGWEAFdGASPADCLAFARFR
+QSREAIDVEDRIAELERALQVVETEsARARVELEMERARKKAAGEEVEEEEDDAASRPAV
+TVVRLQYGEVAEATTVLLLPVVRETDGVAAMESAPRRTKTDVDLGIVEVDKAWARWAVVP
+GWGPVAEAADEAVVVELADGRRLPWRTAEEEPVLVIANRSKKEVVEQGLYVLEKEGRLVV
+ERGRKLAEQGIttAAAEVVIVVRPPKDEDDMISDEEWD
+
+================================================================================

@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM018278
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             518.0 aa
+Family Size (Extended Family Size): 19 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12320:SF52
+Panther Family ID:               PTHR12320
+Modal Panther ID:                PTHR12320:SF52
+Modal Panther Description:       PROTEIN PHOSPHATASE 2C BIPP2C1-RELATED
+Modal Panther Family ID:         PTHR12320
+Modal Panther Fam Desc:          PROTEIN PHOSPHATASE 2C
+Interpro Signature Accession:    PTHR12320; SSF81606
+Interpro Signature Description:  PROTEIN PHOSPHATASE 2C; PP2C-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: probable protein phosphatase 2C 71%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: probable protein phosphatase 2C 71
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: probable protein phosphatase 2C 71
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: probable protein phosphatase 2C 71; probable protein phosphatase 2C 71%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: probable protein phosphatase 2C 71%2C transcript variant X1
+  Gene Descriptions: probable protein phosphatase 2C 71
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: probable protein phosphatase 2C 71
+  Gene Synonyms: OJ1003C07.6,OsJ_030057,OsJ_31268,OsPP2C71
+  Gene Descriptions: probable protein phosphatase 2C 71
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau24
+  Gene Products: probable protein phosphatase 2C 71
+  Gene Descriptions: probable protein phosphatase 2C 71
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: probable protein phosphatase 2C 71; probable protein phosphatase 2C BIPP2C1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: probable protein phosphatase 2C 71
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: uncharacterized LOC100285253
+  Gene Synonyms: gpm564,GRMZM2G071087,PP2C28
+  Gene Descriptions: uncharacterized LOC100285253
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 532 aa
+
+MAELPLAAGLLDLRPGKLSPKPPPPPLPLPARRRPHrtaaAAAVpSPRRAVPELHSTTEL
+ADGSIVFRFAHPkvkvePEPAsrGlGAeTsPDSAVAPASGAVPdPEqGVtGApArVEEPn
+PNAAAeAsPtPPPPDAGAaSAAsEEAPEQaAGSNAGVEAEAGlASgrAvapAESELetDG
+dGVEaGVETTwTGLEErEaVdVSGGaEATGTAGLEDSEAASEGSTAQDFDTDVETESSGS
+SGDEQaAEFGVPLPPaEEVSNKVDWeKDTSEVKSSDRMVPVAsSTLVLSSGAAILPHPSK
+VATGGEDAYFIAcNGWFGVADGVGQWSFEGINAGLYARELMDGCKKFItENQGAsDLRPE
+QVLSKAADEArSPGSSTVLVAHFDGQvLQASNIGDSGFLVIRNGEVYeKSKPMVYGFNFP
+LQIEKGDDPLKLVQNYTIDLEEGDVIVTATDGLFDNVYEQEvAAIISKSLQADLKPAEIA
+EHLAARAQEVGRSGAGRSPFSDAALSvGYLGFSGGKLDDIAVVVSIVRTSEI
+
+
+BOP CONSENSUS:
+Length: 499 aa
+
+MAELPLAGGLLDLRPGKLSPKPPPPPLPMPCRRSPPRSQVAAAVASPCRAVPELHSTTEL
+ADGSVVFHFAHPPVKDrPEPtASGPDADAPASPRPELRVEEPNPHTAADAGEISLASSEA
+PEQAVGSGVGVEAEAGLASGRAVpPADCQLDTDGNGVELGAlEEsETVEAgtTAPAGLEe
+VDADAGASSEGStTQDSDTgVDAESrGDDQGATESGVTIPPpAGEVhNKVDwEKNTSEVK
+SSDRTVPVASSTLLLTSGAAILPHPSKAATGGEDAYFIEhNGWFGVADGVGQWSFEGINA
+GLYARELMDGCKKVIAESEGGsELsPEQVLSKAAAEARSPGSSTVLVAHFDGQLLHASNI
+GDSGFLVIRNGEVhAKSKPMVYGFNFPHQIEKGVDPLTLVENYTIDIEEGDVIITATDGL
+FDNVYEQEvAAMISKSLQADLKPAEMAEHLAARAHEVGRSGAGRSPFSDsAVAAGYLGFS
+GGKLDDTAVVVSIVRRSEI
+
+
+PACMAD CONSENSUS:
+Length: 571 aa
+
+MAELPLAAGLLDLRPCKLSPKPPPPPPLPLPARRRTHATAAAAAAPSPRRAVPELHSTTE
+LADGSIVFRFGHPKPEVLEPQAEPASRGLGvAAeTsPDSRVSPASGAVsGGETEPEPDSE
+QGVTGAGLGAPAgVEqPRPNAAAEvsPTPPPPDAGgETGAASAAdEEAPEQeAGSNAGVE
+EAEARpASAEAIAAAESEYEPEGDGVAVGAGVpTSGAAVETTwTGLEpREGSEDASAVDV
+SGGLEEATGTAGLEDSEAASEGSTAQDFDTDVETESSGSSGDEQGAEFGVPLPtvEQVSN
+KVDWKKDTSEVKSSDRMVpIAqSTLVLSSGAAILPHPSKVATGGEDAYFIAgNGWFGVAD
+GVGQWSFEGINAGLYARELMDGCKKFITENQGAsDLRPEQILSKAADEACSPGSSTVLVA
+HFDGQVLQASNIGDSGFLVIRNGEVYEKSKPMVYGFNFPLQIEKGDDPLKLVQNYTIDLE
+EGDVIVTATDGLFDNVYEHEiAAIISKSLQADLKPAEIAEHLAAKAQEVGRSGAGRSPFS
+DAALSVGYLGFSGGKLDDIAVVVSIVRTSEI
+
+================================================================================

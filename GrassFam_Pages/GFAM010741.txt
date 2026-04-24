@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM010741
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             480.0 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11109:SF13
+Panther Family ID:               PTHR11109
+Modal Panther ID:                PTHR11109:SF13
+Modal Panther Description:       GTP CYCLOHYDROLASE 1
+Modal Panther Family ID:         PTHR11109
+Modal Panther Fam Desc:          GTP CYCLOHYDROLASE I
+Interpro Signature Accession:    G3DSA:1.10.286.10:FF:000006; G3DSA:3.30.1130.10:FF:000008; G3DSA:3.30.1130.10:FF:000007; G3DSA:3.30.1130.10; PTHR11109; PF01227; SSF55620
+Interpro Signature Description:  GTP cyclohydrolase 1; -; GTP CYCLOHYDROLASE I; GTP cyclohydrolase I; Tetrahydrobiopterin biosynthesis enzymes-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: GTP cyclohydrolase 1%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: GTP cyclohydrolase 1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: GTP cyclohydrolase 1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: GTP cyclohydrolase 1; GTP cyclohydrolase 1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: GTP cyclohydrolase 1%2C transcript variant X1
+  Gene Descriptions: GTP cyclohydrolase 1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: GTP cyclohydrolase 1%2C transcript variant X1
+  Gene Descriptions: GTP cyclohydrolase 1
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: GTP cyclohydrolase 1-like%2C transcript variant X1; GTP cyclohydrolase 1-like%2C transcript variant X2
+  Gene Descriptions: GTP cyclohydrolase 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: GTP cyclohydrolase 1-like; GTP cyclohydrolase 1-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: GTP cyclohydrolase 1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: GTP cyclohydrolase 1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: GTP cyclohydrolase 1; uncharacterized LOC100283069
+  Gene Synonyms: GRMZM2G106376; cl581_1,GRMZM2G062420
+  Gene Descriptions: GTP cyclohydrolase 1; uncharacterized LOC100283069
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 482 aa
+
+MGALEEAHLAAAAACACDEEEEEeDDLvlLGGEAAAAGDAMEPAVRALLaGLGEDdRREG
+LRRTPKRVAKAFRDGTRGYRQKVKDIVQGALFPEVGVDKRTGSAGGTGGQVVVRDIELFS
+YCESCLLPFSIQCHVGYVPSGGRVVGLSKLSRVADVFAKRLQNPQRLANEVCGALHASIQ
+PAGVAVALQCWHIPLPENLECKtLQGWIRTSHSSRSGVFEGENSSFWsDFLALLKLRGID
+MEmDsHSASIPWCPLRSHEVPLcNGHCKKsTTNGAISPKSAStPSNMVSAVSSMLLSLGE
+DPLRKELLGTPQRYVQWLMKFRACNLDVKLNGFTLNNaSVYERPGGDAtDHRAIrSELHL
+PFCAQCEHHLLPFYGVVHIGYFDnGSGEGIDRSHFQALVHFYGCKLQVQERMTRQIAEAV
+YSVSHnGAMVVVEANHICMISRGIEKIRSSTATIAVLGQFLTDPSAKAcFLQNVLDTAGs
+AV
+
+
+BOP CONSENSUS:
+Length: 480 aa
+
+MGALEEAHLAAVAACGCDEEEEEDLLVElGGGEAPGDAMEPAVRALLAGLGEDDRREGLR
+RTPKRVAKAFRDGTRGYRQKVKDIVQGALFPEVGVDKRTGSAGGTGGQVVVRDIDLYSYC
+ESCLLPFSIQCHVGYVPSGGRVVGLSKLSRVADVFAKRFQNPQRLANEVCGALHASIQPA
+GVAVAMQCWHIPLPENLKCKnSQGLIRTSHSSRSGVFEGENSSFWNDFVALLKLRGIDME
+MDSHSASLTWCPLRPHEVPLCNGHaKRITTNGAISPKSASiPSNMVSAVSSMLLSLGEDP
+LRKELLGSPQRYVQWLMRFRACNLDVKLNGFTLNSASVYERPGEDATDHRAISSELHLPF
+CAQCEHHLLPFYGVVHIGYFGSGDGEGIDRSHFQALVHFYGCKLQVQERMTRQIAEAVYS
+VSHRGAIVVVEANHICMISRGIEKIRSSTATIAVLGQFSTDSSAKASFLQNVLDTANQEV
+
+
+PACMAD CONSENSUS:
+Length: 471 aa
+
+MGALEEAHLAAAVAAACACEEEDDDLELLgGEAEAAAAgDAMEPAVRALLlGLGEDERRE
+GLRRTPKRVAKAFRDGTRGYRQKVKDIVQGALFPEVGVDKRTGSAGGTGGQVVVRDIELF
+SYCESCLLPFSIQCHVGYVPSGGRVVGLSKLSRVSDVFAKRLQNPQRLANEVCGALHASI
+QPAGVAVALQCWHIPLPENLECKTLQGWIRTSHSSRSGVFEGEnSTFWSDFLALLKLRGI
+DMEvDNHSVSIPWCPLRSHEVPLSNGHCKKSSTNGMVSAVTSMLLSLGEDPLRKELLGTP
+QRYVQWLMKFRACNLDVKLNGFTLgNVSlYERPGGGTaDHGAIRSELHLPFCAQCEHHLL
+PFYGVVHIGYFDNGSGEGIDRSHFQALVHFYGCKLQVQERMTRQIAEAVYSVSHNGAMVV
+VEANHICMISRGIEKIRSNTATIAVLGQFLTDPSAKACFLQNVLDTAGSAV
+
+================================================================================

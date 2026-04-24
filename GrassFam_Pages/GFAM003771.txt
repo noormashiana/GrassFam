@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM003771
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             532.5 aa
+Family Size (Extended Family Size): 24 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47948:SF3
+Panther Family ID:               PTHR47948
+Modal Panther ID:                PTHR47948:SF3
+Modal Panther Description:       OS02G0467000 PROTEIN
+Modal Panther Family ID:         PTHR47948
+Modal Panther Fam Desc:          TRANS-CINNAMATE 4-MONOOXYGENASE
+Interpro Signature Accession:    G3DSA:1.10.630.10:FF:000013; G3DSA:1.10.630.10; PTHR47948; PR00463; PF00067; SSF48264
+Interpro Signature Description:  Trans-cinnamate 4-monooxygenase; Cytochrome P450; TRANS-CINNAMATE 4-MONOOXYGENASE; E-class P450 group I signature
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: cytochrome P450 CYP73A100
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: cytochrome P450 CYP73A100-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata02D
+  Gene Products: cytochrome P450 CYP73A100
+Tae
+  Gene count: 6
+  Modal chromosome: Tae02A
+  Gene Products: cytochrome P450 CYP73A100-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl02
+  Gene Products: cytochrome P450 CYP73A100-like
+  Gene Descriptions: cytochrome P450 CYP73A100-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa02
+  Gene Products: cytochrome P450 CYP73A100
+  Gene Descriptions: cytochrome P450 CYP73A100
+Pau
+  Gene count: 1
+  Modal chromosome: Pau05
+  Gene Products: cytochrome P450 CYP73A100-like
+  Gene Descriptions: cytochrome P450 CYP73A100-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: cytochrome P450 CYP73A100-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: cytochrome P450 CYP73A100-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: cytochrome P450 CYP73A100
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: trans-cinnamate 4-monooxygenase
+  Gene Synonyms: GRMZM2G028677
+  Gene Descriptions: trans-cinnamate 4-monooxygenase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 532 aa
+
+MAVSAaRVAfATAASLAVHWLLKSFLQAqHPALlLLLPAAVFVgIAVgAGGkgGGggAPP
+GPAAVPVFGNWLQVGNDLNHRFLARLSARYGPVFRLRLGVRNLVVVSDPRLATEVLHTQG
+VEFGSRPRNVVFDIFTANGADMVFTEYGDHWRRMRRVMTLPFFTARVVQQYRaMWEAEMD
+AVVSDLRGDsAArGAGvVVRRRLQLMLYNIMYRMMFDARFESVDDPMFVEATRFNSERSR
+LAQSFDYNYGDFIPILRPFLRGYLNKCRDLQTRRLAFFNNNYVEKRRKVMDTPGDKNKLR
+CAIDHILaAEKSGEITPENVIYIVENINVAAIETTLWSIEWALAEVVNHPAVQRKVRgEI
+RDVLGDDEPITESnIHKLPYLQAVIKETLRLHSPIPLLVPHMNLEEAKLGGYTIPKGSKV
+VVNAWWLANNPELWEKPEEFRPERFLGEESnVDATVGGKVDFRFLPFGVGRRSCPGIILA
+LPILALIVGKLVRSFEMVPPPGVEKLDVSEKGGQFSLHIANHSVVAFHPISA
+
+
+BOP CONSENSUS:
+Length: 532 aa
+
+MAASArRVAFATAASLAVYWLLKSFLHAPHPALLPAAAALVAVaIAVGAGGkgGGaGAPP
+GPAAVPVFGNWLQVGNDLNHRFLARLSARYGPVFRLRLGVRNLVVVSDPRLATEVLHTQG
+VEFGSRPRNVVFDIFTANGADMVFTEYGDHWRRMRRVMTLPFFTARVVQQYRAMWEAEMD
+dVVSDLRGDSAARGAGVVVRRRLQLMLYNIMYRMMFDARFESVDDPMFVEATKFNSERSR
+LAQSFDYNYGDFIPILRPFLRGYLNKCRDLQTRRLAFFNnNYVEKRRKVMDTPGDKNKLR
+CAIDHILAAEKSGEITPENVIYIVENINVAAIETTLWSIEWALAEVVNHPdVQRKVRGEI
+RDVLGDDEPITESSISKLPYLQAVIKETLRLHSPIPLLVPHMNLEEASLGGYTIPKGSKV
+VVNAWWLANNPELWEKPEEFRPERFLgEESNVDATVGGKVDFRFLPFGVGRRSCPGIILA
+LPILALIVGKLVRSFEMVPPPGVDKLDVSEKGGQFSLHIANHSVVAFHPISa
+
+
+PACMAD CONSENSUS:
+Length: 532 aa
+
+MAVSAARVAVATAASLAVHWLVRSFLQAQHPALGLLLPAAVFLGIAAtGnssgAGGSAPP
+GPAAVPVFGNWLQVGNDLNHRFLARLSARYGPVFRLRLGVRNLVVVSDPRLATEVLHTQG
+VEFGSRPRNVVFDIFTANGADMVFTEYGDHWRRMRRVMTLPFFTARVVQQYRGMWEAEMD
+AVVSDISADGAAQrAGFVVRRRLQLMLYNIMYRMMFDARFDSVDDPMFVEATRFNSERSR
+LAQSFEYNYGDFIPILRPFLRGYLNKCRDLQTRRLAFFNNNYVEKRRKVMDTPGDKnKLR
+CAIDHILQAEKNGEITPENVIYIVENINVAAIETTLWSIEWALAEVVNHPAVQRKVRDEI
+RDVIGDDEPITESNIHKLPYLQAVIKETLRLHSPIPLLVPHMNLEEAKLGGYTIPKGSKV
+VVNAWWLANNPELWEKPEEFRPERFLGEEKSVDATVGGKVDFRFLPFGVGRRSCPGIILA
+LPILALIVGKLVRSFEMVPPPGVEKLDVSEKGGQFSLHIAKHSVIAFHPISA
+
+================================================================================

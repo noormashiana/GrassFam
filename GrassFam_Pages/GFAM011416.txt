@@ -1,0 +1,148 @@
+================================================================================
+GrassFam ID: GFAM011416
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             708.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10288:SF148
+Panther Family ID:               PTHR10288
+Modal Panther ID:                PTHR10288:SF148
+Modal Panther Description:       KH DOMAIN-CONTAINING PROTEIN HEN4-LIKE
+Modal Panther Family ID:         PTHR10288
+Modal Panther Fam Desc:          KH DOMAIN CONTAINING RNA BINDING PROTEIN
+Interpro Signature Accession:    cd22460; G3DSA:3.30.310.210; PTHR10288
+Interpro Signature Description:  KH-I_PEPPER_rpt2_like; -; KH DOMAIN CONTAINING RNA BINDING PROTEIN
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: KH domain-containing protein At4g18375%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: KH domain-containing protein HEN4-like%2C transcript variant X3
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: KH domain-containing protein HEN4
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: KH domain-containing protein HEN4-like%2C transcript variant X1; KH domain-containing protein HEN4-like%2C transcript variant X5; KH domain-containing protein HEN4-like%2C transcript variant X7
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: RNA-binding KH domain-containing protein RCF3-like%2C transcript variant X2
+  Gene Descriptions: RNA-binding KH domain-containing protein RCF3-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: RNA-binding KH domain-containing protein RCF3%2C transcript variant X3
+  Gene Descriptions: RNA-binding KH domain-containing protein RCF3
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: KH domain-containing protein At4g18375-like; RNA-binding KH domain-containing protein RCF3-like
+  Gene Descriptions: KH domain-containing protein At4g18375-like; RNA-binding KH domain-containing protein RCF3-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: RNA-binding KH domain-containing protein RCF3-like; RNA-binding KH domain-containing protein RCF3-like%2C transcript variant X3
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: RNA-binding KH domain-containing protein RCF3-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: KH domain-containing protein HEN4%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: nucleic acid binding protein%2C transcript variant X3
+  Gene Synonyms: GRMZM2G076705
+  Gene Descriptions: nucleic acid binding protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 713 aa
+
+MASRaTPSKRPFQKNSSDHNGRGKWQKTKHaSSQqsQLKIQPGVPIFRILCPASKSGNVI
+GKGGsIIAKIRQETGVKIRVDEAVPGCDERVIVITAiEKDKEAShEQGkENDGGVAVSAd
+GdHEKDKDNSKEeNDDPEKNNSKEQkDDSEKgnGKEEKDDSEKDHgKEEKDDSEKDHSKE
+EKDDPsVAKDTKsEPERVIPSALKAILlVFDRIFAtEdeNETGDASGAsTPVSLRLLVLY
+SQAGWLLGKgGSVIKQMSADSGCEIRVSKDNLPsCALLnDeLCQITGElDSVRKGLNAVA
+EVLFAHPPKESDVVaGVHpSGSSSRSLFNQSDGLPSGMQSNFHlPFQGPSQANGPFDIID
+lRPNvAPFPTFPEAPMHGHASVPiEPLTFRLLCSsDKVGSIIGKGGNiVKTIQNDTGCEI
+KVLETVPKSDDRIIsISGPAHPGDGISPAQNAILHVQRKImLPTSDKEGPAICRLIVSPN
+QVGCLLGKGGSIIAEMRKLSGAHIVVLSKDKIPRGVPEnDEVVQISGdCEAIQEALMQIT
+ARLRNHLFRDRMPAMGPNMQPPFGLLDSQFGPFaGNHEStSqFHKDFMGRPLDGISAPWT
+vKGMRDVGDPMSISDIPGAAHRGmGGFSGPGQSSMMPNiTAEVLVPRLVIPALCGEDGGC
+LDRIREFSEAKITVAEPIADsMDTAVLISGTPDQMHAARSLVQAFVlSESFAP
+
+
+BOP CONSENSUS:
+Length: 708 aa
+
+MASHAYPSKRPFQKNSSEHNGRAKWQKTKHAPSQQPQLTIQPGVPLIRILCPTEKCGNVI
+GKGGSIIAKIRQENGVKIRVDEAVPGCDERVIVITTvEKDKEASHEQGKENDGGTAVSAD
+GEHEKEKDHSKEEKDDSDNAHGKEEQDDAERDDSKEENDDSSVAKTTKLEPERVIPSAMN
+AILHVFDRIFITESENGTGDASGQKTPVSFRLLVLDSQVGwLLGIRGSVIKQMSADSGCE
+IRVSKENLPLCALLKDELCQINGELDSVRKGLNAVAQVLFTHPPRESDVVPVVHPSGSSS
+rTFNRSDGLPPGMPPNFHLPFQGPSHARGPFDTIDQRPNVAPFPTFPDQRSNIPPFSAFP
+DALMHGNASVPPEPLTFRLLCSSDKVGSIIGKGGNsIKTIQKDTGCEIKILETVPKSDDH
+IIIISGPAHPGDGISPAQNAILHVQRKITPTTSNKEGPAISRLIVSPNQVGCLLGKGGSI
+IAEMRKLSKAHIIVLSKDKIPRGVQEIDEVVQITGDSEAIQEALMQITARLRNNLFRDRM
+ASMGPSMQPPFGLLDPQFGAFAGiHESTSPRIYPNASQFHKDFMGRPLDEMSAPWTTKGM
+QDVGDPMSISGIPGMAHRGMGGFSGPVHSSRPIITGNIMVPRLVIPALCGHDGGCLNmIR
+EFSGAKITIdEPLADSMDTPVMISGTPDQMHAARSLVQAFVLSEPPAP
+
+
+PACMAD CONSENSUS:
+Length: 750 aa
+
+MASRMTPSKRPFQKNSSDHNGRGKWQKTKHSSSHKSQfKIEPGVPIFRILCPASKSGNVI
+GKGGsIIAKIRQETGvRIRVDrAVpGCDERVIFITAIeKDEEASSEQGGENDGGVAVSAG
+GDHEKDKDNSKEnNDDPEKNHSnqEKDDSErDYSNEEKDDSEKDNSKEQnDDSEKeNGKE
+EkDDsEKDHSKEEKDDSEKDHikEEKDhSEKDHSKEEKDDPFVAKDTKSEPERVIPSALK
+AILLVFDRIFAAEDnNETGNASgASTPVSLRLLVLYSQAGWLLGKGGSVIKQMSVDNGCE
+IRVSKDnLPSCALsNDRLCQITGEVDSVRKGLNAVAELLLAHPPKETDvVAGVHSSGSSS
+RSLFSQSDGLPSGMQSNFHIPLQGPSQANGPFDIIDlQPNIAPFPIlPEAPIHGHASVPI
+EsLSFRLLCsKDKVGSIIGKGGNIVKTIQNDTGCEIKVLETVPKTDDRIISISGPAHPGD
+GISPAQNAILHVQRKIMLPTSDKKEGPAICRLIVSPNQVGCLLGKGGSIIAEMRKLSGAF
+IVVLSKDKIPRGVPEhDEVIQISGsCEAIQEALMQITARLRNHLFRDRMPAMGPNMRPPF
+GLLDSQFGPyvGNHESPSLFHKDFMGRPLDGISAPWTVKGMRDVGDPMSISDIPGAGHRE
+LGGFSGPGQSSMMPNLTAEVLVPRLvIPALCGEDGGCLDRIREFSEAKITVAEPIADAMD
+TAVLISGTPDQMHAARSLVQAFViSESFGP
+
+================================================================================

@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM006685
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             489.0 aa
+Family Size (Extended Family Size): 33 (34) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43029:SF32
+Panther Family ID:               PTHR43029
+Modal Panther ID:                PTHR43029:SF32
+Modal Panther Description:       AMMONIUM TRANSPORTER
+Modal Panther Family ID:         PTHR43029
+Modal Panther Fam Desc:          AMMONIUM TRANSPORTER MEP2
+Interpro Signature Accession:    G3DSA:1.10.3430.10:FF:000005; G3DSA:1.10.3430.10; TIGR00836; PTHR43029; PF00909; SSF111352
+Interpro Signature Description:  Ammonium transporter; Ammonium transporter AmtB like domains; ammonium transporter; AMMONIUM TRANSPORTER MEP2; Ammonium Transporter Family
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi02
+  Gene Products: ammonium transporter 3 member 1
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu03H
+  Gene Products: ammonium transporter 3 member 1; ammonium transporter 3 member 1-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata03D
+  Gene Products: ammonium transporter 3 member 1; ammonium transporter 3 member 1-like
+Tae
+  Gene count: 6
+  Modal chromosome: Tae03A
+  Gene Products: ammonium transporter 3 member 1; ammonium transporter 3 member 1-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl01
+  Gene Products: ammonium transporter 3 member 1%2C transcript variant X1; ammonium transporter 3 member 1-like
+  Gene Descriptions: ammonium transporter 3 member 1; ammonium transporter 3 member 1-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa01
+  Gene Products: ammonium transporter 3 member 1-like; ammonium transporter 3 member 1-like%2C transcript variant X1
+  Gene Synonyms: AMT3-1,OsAMT3%3B1,OsJ_04233
+  Gene Descriptions: ammonium transporter 3 member 1-like
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 3
+  Modal chromosome: Pau01
+  Gene Products: ammonium transporter 3 member 1; ammonium transporter 3 member 1-like
+  Gene Descriptions: ammonium transporter 3 member 1; ammonium transporter 3 member 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: ammonium transporter 3 member 1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: ammonium transporter 3 member 1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: ammonium transporter 3 member 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: uncharacterized LOC110991263
+  Gene Descriptions: uncharacterized LOC110991263
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 489 aa
+
+MstAadYNMSvGYsPNGigVPpWLNKGDNAWQMIAATLVGLQSVPGLVILYGSIVKKKWA
+VNSAFMALYAFAAVWLCWVTWGYNMSFGHKLLPFWGKARPALGQgFLLmQAVLPeTTHFf
+KDGsvETaWINPnYPMASMVYFQCVFAAITLILLAGSLLGRMNIKAWMIFVPLWLTFSYT
+IGAFSLWGGGFLFHWGVMDYSGGYVIHLSSGVAGFTAAYWVGPRSTKDRERFPPNNVLLM
+LTGAGILWMGWAGFNGGDPYSANiDSSIAVLNTNICAATSLLVWTCLDVIFFKKPSVIGA
+VQGMITGLVCITPGAGLVQGWAAIVMGILSGSIPWFTMMVVHKRSRLLQqVDDTLGVFHT
+HAVAGFLGGATTGLFAEPtLCpLFLPVTNSRGAFYGGsGGMQLlKQVvGALFIIsWNVVV
+TSLVCLVVRLIVPLRMPEEELAIGDDAVHGEEAYALWGDGEKYDSTKHGWYSDNdTqHNK
+APSGVTQNV
+
+
+BOP CONSENSUS:
+Length: 491 aa
+
+MSTAADYNMSVGYsPNGIVVPPWLNKGDNAWQMIAATLVGLQSMPGLVILYGSIVKKKWA
+VNSAFMALYAFAAVWLCWVTWGYNMSFGHKLLPFWGKARPALGQqFLLMQAVLPESTHFF
+KDGSvETAWINPNYPMASMVYFQCVFAAITLILLAGSLLGRMNIRAWMIFVPLWLTFSYT
+IGAFSLWGGGFLFQWGVMDYSGGYVIHLSSGIAGFTAAYWVGPRSTKDRERFPPNNVLLM
+LTGAGILWMGWAGFNGGDPYSANiDSSIAVLNTNICAATSLLVWTCLDVIFFKKPSVIGA
+VQGMITGLVCITPGAGLVQGWAAIVMGILSGSIPWFTMMVVHKRSRLLQhVDDTLGVFHT
+HAVAGFLGGATTGLFAEPTLCSMFVPVTNSRGAFYGGsGGMQFLKQVVGALFIIGWNVVV
+TSIICLVVRLIVPLRMPEEELAIGDDAVHGEEAYALWGDGEKYDSSKHGWYSDNETNQpR
+NkAPSGVTQNV
+
+
+PACMAD CONSENSUS:
+Length: 488 aa
+
+MssdPyayNMTlGYqPGlGVPhWLNKGDNAWQMVSATLVGLQSVPGLVILYGSIVKKKWA
+VNSAFMALYAFAAVWLCWVTWGYQMSFGEKLLPFWGKAGHALGQGFLLsQAGLPATtHyY
+HnGgvVETpEITPFYPMASMVYFQCVFAAITLILLAGSLLGRMNFKAWMLFVPLWLTFSY
+TIGAFSIWGGGFLFHWGVMDYSGGYVIHLSSGVAGFTAAYWVGPRSTKDRERFPPNNVLL
+MLTGAGILWMGWAGFNGGDPYSANVDSSLAVLNTNICAATSLLVWTCLDVIFFKKPSVIG
+AVQGMITGLVCITPGAGLVQGWAAILMGMLSGSIPWFTMMVVHKRSRLLQQVDDTLGVFH
+THAVAGFLGGATTGLFAHPSLCPLFLPVTNSRGAFYGSGIQLVKQVGGALFIISWNVVVT
+SLVCLVVRLVVPLRMPDDELAIGDDAVHGEEAYALWGDGEKYDSTKHGWYSDNDTQHNKA
+PSGVTQNV
+
+================================================================================

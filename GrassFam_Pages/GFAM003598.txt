@@ -1,0 +1,125 @@
+================================================================================
+GrassFam ID: GFAM003598
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             350.5 aa
+Family Size (Extended Family Size): 18 (18) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46301:SF55
+Panther Family ID:               PTHR46301
+Modal Panther ID:                PTHR46301:SF55
+Modal Panther Description:       OS01G0519100 PROTEIN
+Modal Panther Family ID:         PTHR46301
+Modal Panther Fam Desc:          F-BOX/KELCH-REPEAT PROTEIN
+Interpro Signature Accession:    G3DSA:2.120.10.80:FF:000163
+Interpro Signature Description:  F-box domain containing protein
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: F-box/kelch-repeat protein At5g43190%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: F-box only protein 6-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: protein ABERRANT PANICLE ORGANIZATION 1%2C transcript variant X2
+Tae
+  Gene count: 2
+  Modal chromosome: Tae07A
+  Gene Products: F-box only protein 6-like%2C transcript variant X1; protein ABERRANT PANICLE ORGANIZATION 1-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: F-box/kelch-repeat protein At5g43190-like
+  Gene Descriptions: F-box/kelch-repeat protein At5g43190-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: protein ABERRANT PANICLE ORGANIZATION 1-like%2C transcript variant X1
+  Gene Descriptions: protein ABERRANT PANICLE ORGANIZATION 1-like
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau01
+  Gene Products: protein ABERRANT PANICLE ORGANIZATION 1-like%2C transcript variant X1
+  Gene Descriptions: protein ABERRANT PANICLE ORGANIZATION 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: uncharacterized LOC112891450%2C transcript variant X3
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: F-box/kelch-repeat protein At5g43190%2C transcript variant X4
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: F-box domain containing protein%2C transcript variant X4
+  Gene Synonyms: GRMZM2G020594
+  Gene Descriptions: F-box domain containing protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 351 aa
+
+MAsAsasAAaCPWDALPsHLQERILSLLPLTALLPVAAVSRALRRLLRSPAFHALLSPHR
+LDAFFLLSPRLAVHPLSRRVLpvPplAALSPPSPPLVSSASPSLLITaASLhrLPPLPDG
+SYLLSVVVPPspSSSsSRsYTLVAVTTGAAVRSYTLDSADPSPRWASRGDLPLPFALLGN
+AAVAGDRsrLFVLGRGPDALLVFDLaTGtWeVPPVVMPhGLTTAHLFVFDGRLFLVGGVE
+RFGVVERVVVWQLDddkEAVgWrEVGvMPtEVFDELVAGRHGSFWHFQAADRMGIVCLYN
+AVDGRLVMFDAADGaWTVLPRVSGLDAEESrRWFGHVLEPGVELLLGQRcp
+
+
+BOP CONSENSUS:
+Length: 352 aa
+
+MAADSAAACPWDALPeHLQERILSLLPLTALlPVAAVSRALRRLLRSPAFHALLSPHRLD
+AFFLLSPRLAFHPLSRRLLQVPPSPPLDPSsPSPPLVSSASPSfLVTAASLLRLPpLPDR
+SYLIAVVVPPSPSSSsSRDYTLVAVTTGAAVRSYTLDSADPSPRWVPRGELPLPFALLGN
+AAVAsDRsRLFVLGRGPDALLVLDLeTGqWaVPPVVMPHGLTTAHLFVLDDRLFLVGGVE
+RLGVLERVVVWQLDNdEAVGWvEVATMPsEVFDELVAGRHGSFWHFQAADRMGIVCLYNA
+VDGRLVMFDAVDCvWTkMPRVSGLDAEESrrWFGHVLEPGVELLLGQRSPCS
+
+
+PACMAD CONSENSUS:
+Length: 348 aa
+
+MASAsADAgtCPWDALPsHLQERILSLLPITELLPVAAASRALRRLLRSPAFHALLSPHR
+LDAFFLLSPRLAVHPLSRRVLtTPaLAALSPPSYPLVSSASPSLLITCASLHFLPPIPDG
+sYLLSVVVPPRrSSPSCTLVAVTTGAAVRSYTLDTaDPSPRWASRGDLPLSltLLGNAAV
+sGDRgkLFVLGRGPDALLVFDLATGTWEVlPVVMPQGLTTAHLFVFDGsLFLVGGVERFG
+EVERVVVWrLDDgKEeVWWREVGVMPtEVFDELVAGRHGSFWHFQAADRLGIVCLYNAVD
+GRLVMFDAADGaWTVLPRVSGLDAEESlRWFGHVLEPGVELLLGQrCr
+
+================================================================================

@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM001949
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             407.0 aa
+Family Size (Extended Family Size): 36 (40) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47958:SF171
+Panther Family ID:               PTHR47958
+Modal Panther ID:                PTHR47958:SF171
+Modal Panther Description:       RNA HELICASE
+Modal Panther Family ID:         PTHR47958
+Modal Panther Fam Desc:          ATP-DEPENDENT RNA HELICASE DBP3
+Interpro Signature Accession:    cd18045; cd18787; G3DSA:3.40.50.300:FF:000031; G3DSA:3.40.50.300:FF:000498; G3DSA:3.40.50.300; PTHR47958; PF00271; PF00270; SM00487; SM00490; SSF52540
+Interpro Signature Description:  DEADc_EIF4AIII_DDX48; SF2_C_DEAD; Eukaryotic initiation factor 4A-III; -; ATP-DEPENDENT RNA HELICASE DBP3; Helicase conserved C-terminal domain; DEAD/DEAH box helicase; ultradead3; helicmild6; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi03
+  Gene Products: eukaryotic initiation factor 4A-III homolog A
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu02H
+  Gene Products: eukaryotic initiation factor 4A-III homolog B; eukaryotic initiation factor 4A-III homolog B-like
+Ata
+  Gene count: 3
+  Modal chromosome: Ata02D
+  Gene Products: eukaryotic initiation factor 4A-III homolog B; eukaryotic initiation factor 4A-III homolog B%2C transcript variant X1
+Tae
+  Gene count: 8
+  Modal chromosome: Tae02B
+  Gene Products: eukaryotic initiation factor 4A-III homolog B%2C transcript variant X1; eukaryotic initiation factor 4A-III homolog B-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl01
+  Gene Products: eukaryotic initiation factor 4A-III homolog A; eukaryotic initiation factor 4A-III homolog B
+  Gene Descriptions: eukaryotic initiation factor 4A-III homolog A; eukaryotic initiation factor 4A-III homolog B
+Osa
+  Gene count: 2
+  Modal chromosome: Osa01
+  Gene Products: eukaryotic initiation factor 4A-III homolog A-like; eukaryotic initiation factor 4A-III homolog B-like
+  Gene Synonyms: eIF-4A-III,eIF4A-III,EIF4A3,EIF4A3B,OsRH34,RH34; eIF4A-III,EIF4A3,OsJ_02769,OsRH2,RH2
+  Gene Descriptions: eukaryotic initiation factor 4A-III homolog A-like; eukaryotic initiation factor 4A-III homolog B-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: eukaryotic initiation factor 4A-III homolog A; eukaryotic initiation factor 4A-III homolog B
+  Gene Descriptions: eukaryotic initiation factor 4A-III homolog A; eukaryotic initiation factor 4A-III homolog B
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi01K
+  Gene Products: eukaryotic initiation factor 4A-III homolog B; eukaryotic initiation factor 4A-III homolog B-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha01
+  Gene Products: eukaryotic initiation factor 4A-III homolog A; eukaryotic initiation factor 4A-III homolog A-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: DEAD-box ATP-dependent RNA helicase 2
+Zma
+  Gene count: 2
+  Modal chromosome: Zma04
+  Gene Products: RH2 protein-like; eukaryotic initiation factor 4A-III homolog A
+  Gene Synonyms: GRMZM2G018947,RH2
+  Gene Descriptions: RH2 protein-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 407 aa
+
+MAAATTSRRGPGGARNMDDENLTFETSPGVEVVSSFDQMGIRDDLLRGIYGYGFEKPSAI
+QQRAVLPIInGRDVIAQAQSGTGKTSMISLSVCQIVDTAVREVQALILSPTRELAsQTER
+VMLAIGDymNVQVHACIGGKSIGEDIRKLEnGVHVVSGTPGRVCDMIKRRTLRTRAIKLL
+VLDEADEMLSRGFKDQIYDVYRYLPPELQVVLISATLPHEILEMTSKFMTDPVRILVKRD
+ELTLEGIKQFFVAVEKEEWKFDTLCDLYDTLTITQAVIFCNTKRKVDWLTERMRTNNFTV
+SAMHGDMPQKERDAIMsEFRSGaTRVLITTDVWARGLDVQQVSLVINYDLPNNRELYIHR
+IGRSGRFGRKGVAINFVRKDDIRILRDIEQYYSTQIDEMPMNVADLI
+
+
+BOP CONSENSUS:
+Length: 407 aa
+
+AAAmAAATSSRRGPGPMDDENLTFETSAGVEVVGSFDAMGIREDLLRGIYGYGFEKPSAI
+QQRAVlPIIaGRDVIAQAQSGTGKTSMISLSVCQVVDTNVHEVQALILSPTRELATQTER
+VMQAVGNyMSVSVHACVGGKSIGEDIRKLEhGVHVVSGTPGRVCDMIKRRTLRTRAIKLL
+VLDEADEMLtRGFKDQIYDVYRYLPPELQVVLISATLPHDILEITSKFMTDPVRILVKRD
+ELTLEGIKQFFVAVEKEEWKFDTLCDLYDTLTITQAVIFCNTKRKVDWLTERMRTNNFTV
+SAMHGDMPQKERDAIMSEFRSGTTRVLITTDVWARGLDVQQVSLVINYDLPNNRELYIHR
+IGRSGRFGRKGVAINFVRKDDIRILRDIEQYYSTQIDEMPMNVADLI
+
+
+PACMAD CONSENSUS:
+Length: 407 aa
+
+MAAPTTSRRGPGGARNMDDENLTFETSPGVEVVSSFDQMGIKDDLLRGIYGYGFEKPSAI
+QQRAVLPIINGRDVIAQAQSGTGKTSMISLTVCQIVDTAVREVQALILSPTRELASQTER
+VMLAIGDYLNIQVHACIGGKSIGEDIRRLENGVHVVSGTPGRVCDMIKRRTLRTRAIKLL
+VLDEADEMLSRGFKDQIYDVYRYLPPELQVVLISATLPHEILEMTSKFMTEPVRILVKRD
+ELTLEGIKQFFVAVEKEEWKFDTLCDLYDTLTITQAVIFCNTKRKVDWLTERMRSNNFTV
+SAMHGDMPQQERDAIMgEFRSGATRVLITTDVWARGLDVQQVSLVINYDLPNNRELYIHR
+IGRSGRFGRKGVAINFVRKDDIRILRDIEQYYSTQIDEMPMNVADLI
+
+================================================================================

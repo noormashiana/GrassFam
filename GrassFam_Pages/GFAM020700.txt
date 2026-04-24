@@ -1,0 +1,128 @@
+================================================================================
+GrassFam ID: GFAM020700
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             358.0 aa
+Family Size (Extended Family Size): 17 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46098:SF1
+Panther Family ID:               PTHR46098
+Modal Panther ID:                PTHR46098:SF1
+Modal Panther Description:       TRNA (CYTOSINE(38)-C(5))-METHYLTRANSFERASE
+Modal Panther Family ID:         PTHR46098
+Modal Panther Fam Desc:          TRNA (CYTOSINE(38)-C(5))-METHYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:3.40.50.150; G3DSA:3.90.120.10; TIGR00675; PTHR46098; PF00145; SSF53335
+Interpro Signature Description:  Vaccinia Virus protein VP39; DNA Methylase, subunit A, domain 2; DNA (cytosine-5-)-methyltransferase; TRNA (CYTOSINE(38)-C(5))-METHYLTRANSFERASE; C-5 cytosine-specific DNA methylase; S-adenosyl-L-methionine-dependent methyltransferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: tRNA (cytosine(38)-C(5))-methyltransferase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: tRNA (cytosine(38)-C(5))-methyltransferase 2%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: tRNA (cytosine(38)-C(5))-methyltransferase 2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: tRNA (cytosine(38)-C(5))-methyltransferase 2%2C transcript variant X1; tRNA (cytosine(38)-C(5))-methyltransferase 2-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: tRNA (cytosine(38)-C(5))-methyltransferase 2%2C transcript variant X1
+  Gene Descriptions: tRNA (cytosine(38)-C(5))-methyltransferase 2
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: tRNA (cytosine(38)-C(5))-methyltransferase 2%2C transcript variant X1
+  Gene Descriptions: tRNA (cytosine(38)-C(5))-methyltransferase 2
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau02
+  Gene Products: tRNA (cytosine(38)-C(5))-methyltransferase 2%2C transcript variant X1
+  Gene Descriptions: tRNA (cytosine(38)-C(5))-methyltransferase 2
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi05K
+  Gene Products: tRNA (cytosine(38)-C(5))-methyltransferase 2-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: tRNA (cytosine(38)-C(5))-methyltransferase
+Msi
+  Gene count: 1
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: tRNA (cytosine(38)-C(5))-methyltransferase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: DNA methyl transferase 4%2C transcript variant X3
+  Gene Synonyms: GRMZM2G157589,met4,si687064e06
+  Gene Descriptions: DNA methyl transferase 4
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 372 aa
+
+METPaPWRVLEFYSGIGGMRYSLAASGVRAEVVEAFDINDVANDVYEHNFGHRPCQGNIQ
+TLTASDLDKYKAHAWLLSPPCQPYTRQGLQKHSADARAFSFIKILNLMQNMSFPPQMLFV
+ENVVGFEVSDTHDQLLEVLSsLNFNTQEFILSPLQFGVPYSRPRYFCLAKREPMcFQNPS
+VNNKLLRTPTCLTLNsTsQnSydQnEDELEvVCKPIrDFLEAQSIGDqECSAIISDvKEA
+DGCTPsETvSQDYtVPLNLIERWGNAMDIVYPESKRCCCFTKSYYRYVKGTGSLLATSkN
+LKpVPKEkLEISSLKELGLRFFTPREVANLHSFPSSFrFPDHISLRQQYAMLGNSLSVAV
+VGPLLRYLFAEA
+
+
+BOP CONSENSUS:
+Length: 375 aa
+
+METPpPWRVLEFYSGIGGMRYSLASSGVRAEVVEAFDINDVANDVYEHNFGHRPCQGNIQ
+TLTASDLDKYKAHAWLLSPPCQPYTRQGLQKHSADARAFSFIKILNLMQNMSFPPQMLFV
+ENVVGFEVSDTHDQLLeVLSTLNFNTQEFILSPLQFGVPYSRPRYFCLAKQESMCFQNPS
+VNdKLLRTPTCLTLNtTrTQNSYDQNEDDLEVVCNPIRNFLEAQSlNIGDqECSAIISDF
+KEADGCTPSETASHDYTVPLSLIERWGNAMDIVYPESKRCCCFTKSYYRYVKGTGSVLAT
+SKNLKPVPKENLEISSLnELGLRFFTPREVANLHSFPsSFrFPDHISLRQQYAMLGNSLS
+VAVVAPLLRYLFAET
+
+
+PACMAD CONSENSUS:
+Length: 358 aa
+
+MEAPAPWRVLEFYSGIGGMRYSLMASGVRAEVVEAFDINDVANDVYEHNFGHRPCQGNIQ
+TLTASDLDKYKAHAWLLSPPCQPYTRQGLQKHSADARAFSFIKILNLMQNMSYPPQMLFV
+ENVVGFEVSDTHDQLLEVLSSLNFNTQEFILSPLQFGVPYSRPRYFCLAKREPMRFQNAS
+VNNKLLRTPMCLSLTLNSTSQgSDHQTEEELEPVCKPIKDFLVKEADGGtrNETVLQDYm
+VPLNLIERWGNAMDIVYPESKRCCCFTKSYYRYVKGTGSLLATSENLKWVPEEKLqISSL
+KELGLRFFTPREVANFHSFPSSFnFPDHISLRQQYAMLGNSLSVAVVGPLLRYLFAEA
+
+================================================================================

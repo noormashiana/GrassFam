@@ -1,0 +1,127 @@
+================================================================================
+GrassFam ID: GFAM001375
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             488.0 aa
+Family Size (Extended Family Size): 29 (32) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48049:SF44
+Panther Family ID:               PTHR48049
+Modal Panther ID:                PTHR48049:SF44
+Modal Panther Description:       GLYCOSYLTRANSFERASE
+Modal Panther Family ID:         PTHR48049
+Modal Panther Fam Desc:          GLYCOSYLTRANSFERASE
+Interpro Signature Accession:    cd03784; G3DSA:3.40.50.2000:FF:000063; G3DSA:3.40.50.2000:FF:000179; G3DSA:3.40.50.2000; PTHR48047; SSF53756
+Interpro Signature Description:  GT1_Gtf-like; Glycosyltransferase; Glycogen Phosphorylase B;; GLYCOSYLTRANSFERASE; UDP-Glycosyltransferase/glycogen phosphorylase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: scopoletin glucosyltransferase
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: UDP-glycosyltransferase 73C4-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: UDP-glycosyltransferase 73C4
+Tae
+  Gene count: 4
+  Modal chromosome: Tae01A
+  Gene Products: UDP-glycosyltransferase 73C4-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl05
+  Gene Products: UDP-glycosyltransferase 73C4-like
+  Gene Descriptions: UDP-glycosyltransferase 73C4-like
+Osa
+  Gene count: 3
+  Modal chromosome: Osa05
+  Gene Products: probable UDP-glucosyl transferase 73B6; scopoletin glucosyltransferase
+  Gene Descriptions: probable UDP-glucosyl transferase 73B6; scopoletin glucosyltransferase
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau10
+  Gene Products: UDP-glycosyltransferase 73C4-like
+  Gene Descriptions: UDP-glycosyltransferase 73C4-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi03
+Msi
+  Gene count: 4
+  Modal chromosome: Msi17
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi09
+  Gene Products: UDP-glycosyltransferase 73E1; scopoletin glucosyltransferase
+Zma
+  Gene count: 2
+  Modal chromosome: Zma06
+  Gene Products: Cytokinin-O-glucosyltransferase 1; uncharacterized LOC100273043
+  Gene Synonyms: GRMZM2G042865; GRMZM2G082037
+  Gene Descriptions: Cytokinin-O-glucosyltransferase 1; uncharacterized LOC100273043
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 485 aa
+
+MASAEqSKKLRILLIPFFATSHIGPhTDLAVRLAAARPGaVEPTvAVTPANVsVVRSALE
+RHGPAASGaVKIATYPFPrVDGLpPGVENLSAAGDDAWRIDAAAIDEALTRPAQEALlRE
+lSPDAVVTDvHFFWNSsIAAELGVPCVTFSVIGPFSnLVMrHLgGAVvsDSdsqEVaVPG
+FPGPEIRIPVsELPEFLRRqeKhDGffNPcnAAmARCFGVAvNTFlDLEQqYCElYVRvG
+svKRAYFVGPVSLPLPPAGASagESPCIRWLGSKPSCSVVYVCFGTYAAISgDQLRELAL
+GLEASGKPFLWVVRADGWAPPeGWEERVGERGMLVRGWAPQTAILAHPAVGAFLTHCGSS
+SLLEAAAAGVPMLTWPLVFDQFIEERLVTDVLKIGERVWSGPRSTRYEEREvVPAEAVAR
+AVARFLEPGGTGEAARGRARELAVKAHAAVAEGGSSSRDLRRLIDDLiEARAAAGgatst
+SvAsE
+
+
+BOP CONSENSUS:
+Length: 486 aa
+
+MASTEqvHGKKLRILIVPFFATSHIGPHTDLAVRLAAARPGTVEPTVAVTPANVSVVRSA
+LeRHGhSaASSAVRIATYPFPEVDGLPPGVENLSAAGADAWRIeAAAIDEALTRPAQEAL
+IRELSPDAVFTDVHFFWNSvIAGELGVPCVTFSVIGpFSNLAMrHLGGtVDsDSGCQEVT
+VPgFPGPEIRIPRTELPEFLRCQEKHDRFNPIMAGQARCFGvAVNTFLDLEsQYCELYAR
+lGHVKRAYFVGPVSLPLPPAGASAGESPCIRWLGSMPRCSVVYVCFGTYASISgDQLREL
+ALGLEASGKPFLWVLRAEGWAPPAGWEERVGKRGMLVRGWAPQTAILAHPAVGAFLTHCG
+SSSLLEAAAAGVPMLTWPLVFDQFIEERLVTDVLKIGERVWDGPRSTKEEERETVPAAAV
+ARAVARFLEPGGTGEAARGRAQELAVKAHAAVSEGGSSSCDLRRLIDDLMETReAVGGGD
+tTpSRA
+
+
+PACMAD CONSENSUS:
+Length: 493 aa
+
+MASAKQSKKmRILLIPFFATSHIGPyTDLAVRLAAARPGsVEPTvAVTPANVtVVRSALE
+RHGPAASGtVKIVTYPFPrVDGLAPGVENLSTAGDDAWRIDAAAIDEALTRPAQEALLRE
+RSPDAVVTDfHFFWNSsIAAELGLPCVvFSVIGPFSgLVMrLLgGAVVrDGGSESqEVAV
+PGLPGPEIRIPVSELPEFLRRPpkvqGtFNPCnAAMARCLGVAfNTFADLEQEYCEmyVR
+VGSLKRgYFVGPVSLPLPPAAAGiSESPCIRWLgSKPSCSVVYVCFGTYAAISGDQLREL
+ALGLEASGKPFLWVVRADGWAPPDGWEERVGERGMLVRGWAPQTAILAHPAVGAFLTHCG
+SSSLLEAAAAGVPMLTWPLVFDQFIEERLVTEVLRIGERVWSGARSTRYEEREVVPAEAV
+ARAVARFLEPGGtGEAARGRARDLAVKAHAAVAEGGSSSRDLHRLIDDLIEARAAAGvpT
+SPSVASVETSsNE
+
+================================================================================

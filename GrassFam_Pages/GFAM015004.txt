@@ -1,0 +1,125 @@
+================================================================================
+GrassFam ID: GFAM015004
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             437.5 aa
+Family Size (Extended Family Size): 28 (29) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR31375
+Modal Panther ID:                PTHR31375:SF270
+Modal Panther Description:       OS05G0542900 PROTEIN
+Modal Panther Family ID:         PTHR31375
+Modal Panther Fam Desc:          FAMILY NOT NAMED
+Interpro Signature Accession:    G3DSA:2.160.20.10:FF:000041; G3DSA:2.160.20.10; PTHR31375; PF00295; SSF51126
+Interpro Signature Description:  Putative polygalacturonase; -; Glycosyl hydrolases family 28; Pectin lyase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi02
+  Gene Products: probable polygalacturonase At1g80170
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu01H
+  Gene Products: probable polygalacturonase At1g80170; probable polygalacturonase At1g80170%2C transcript variant X1
+Ata
+  Gene count: 3
+  Modal chromosome: Ata01D
+  Gene Products: probable polygalacturonase At1g80170
+Tae
+  Gene count: 9
+  Modal chromosome: Tae01A
+  Gene Products: probable polygalacturonase At1g80170; probable polygalacturonase At1g80170%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: probable polygalacturonase At1g80170
+  Gene Descriptions: probable polygalacturonase At1g80170
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau09
+  Gene Products: probable polygalacturonase At1g80170
+  Gene Descriptions: probable polygalacturonase At1g80170
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi03N
+  Gene Products: probable polygalacturonase At1g80170%2C transcript variant X3
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: probable polygalacturonase At1g80170%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: probable polygalacturonase At1g80170
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: probable polygalacturonase At1g80170
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 432 aa
+
+MALrArApLLLAALAGAVALLLPGAAEARVLLSLDDFGAVGDGIANDTQAFVDAWkAACA
+TGDNTYLNVPAGKSYQIWPVTLAGPCRgEIKLLISGNIVAPESPeDWgdGDqGQWLHFhG
+VgDLSLSGGGIVDGRGQQWWAgSCeDENCTsYRQhqvAPKALHFEDCQDVSVKGITLQNS
+QRqHLtFTRCsNVEANYLRVTSPEySPGTvGVLVVSSTNVHIKDDLFSVGGDCVSIVGNC
+sDVRLRAISCGPGHGISIGGLGENQSvDyIEKIKmDTLFISNTKNGVRVKTyEgGCGFAR
+KVKFAsIvMRNVaNPIIIDQHYSaSNRGTsCGtPNgSAVAVEKINYIDITGTSATErAVT
+FACSDAMPCRRLSLDGVNLTtVGGGstSAYCHQAFGKsVGdVlPESCLGKEDFVQLQAPt
+AGdtEEEEDdDW
+
+
+BOP CONSENSUS:
+Length: 434 aa
+
+MALRAraPLLLAALAGAVALLLPGAAEARVLLSLDDFGAVGDGIANDTQAFVDAWKAACA
+TGGtTYLNVPAGKSYQIWPVTLAGPCRGEIKLMISGNIIAPESPEEWsDGDQGRWLHFrG
+VGDLSLSGGGIVDGRGQQWWAGSCEDENCTSYRQhEVAPMALHFEDCQDVSVKGITVQNS
+QRQHLVFTRCynVEANYLRVTSPEYSPGTVGVLVVSSTNVHIKDDLFSVGGDCVSIVGNC
+SDVRLRAISCGPGLGISIGGLGENQSNHKIEKIKMDTMFISNTKNGVRVKTYEDGCGFAR
+KVKFAqIMMRNVANPIVIDQHYSaSNRGTPCGTPNGSAVAVEKINYIDITGTSATERAVT
+FACSDAMPCRRLYLDGVNLTTAGGGSTSAYCHQAFGKHVGDVLPESCLGKEDFVQLQAPT
+AGtAQTEDEEDDDW
+
+
+PACMAD CONSENSUS:
+Length: 428 aa
+
+MARGAVLLLLlAAVVAVLLPDAAESRILLTLDDFGAVGDGVADDTKAFADAWTAACAAGD
+NVILNVPAGKTFQIWPLTLAGPCSSEIKLLISGNIVAPESPSDWGqGDRsQWLHFHKVQD
+LKVTGGGIIDGRGQQWWAQSScmgKKNrTAQPAPKAVHFEDCQGISVKGITLQNSQQYHL
+TFTRSSNVEANYLRVTSPEDSIDTKGIHLVDSyNVHVMDNLISTGDDCVSIVGNCTDVRL
+RAISCGPGHGISIGTLGVNNSVDYVEKIKVDTLFISNAENGVRVRTTKsGGGGFARKVKF
+ESIVMRNVTNPIIVDQGNSDHLpDSSEAVpTAATAVQVEKINYIDITGTSASEHAVTFSC
+SDAKPCRHLSLTNVNLTRVDGrKASSYCRKAFGRSIGTVIPESCLSKEDFVQHVPrRSEE
+DDEEDSDS
+
+================================================================================

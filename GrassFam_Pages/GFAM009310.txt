@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM009310
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             478.0 aa
+Family Size (Extended Family Size): 23 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11902:SF42
+Panther Family ID:               PTHR11902
+Modal Panther ID:                PTHR11902:SF42
+Modal Panther Description:       ENOLASE 1, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR11902
+Modal Panther Fam Desc:          ENOLASE
+Interpro Signature Accession:    cd03313; G3DSA:3.30.390.10:FF:000001; G3DSA:3.20.20.120:FF:000002; G3DSA:3.30.390.10; G3DSA:3.20.20.120; TIGR01060; PTHR11902; PIRSF001400; PR00148; PF00113; PF03952; SFLDG00178; SFLDF00002; SM01192; SM01193; SSF51604; SSF54826
+Interpro Signature Description:  enolase; Enolase; Enolase 1; -; phosphopyruvate hydratase; ENOLASE; Enolase signature; Enolase, C-terminal TIM barrel domain; Enolase, N-terminal domain; Enolase_C_3; Enolase_N_3; Enolase C-terminal domain-like; Enolase N-terminal domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: enolase 1%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: enolase 1%2C chloroplastic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: enolase 1%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: enolase 1%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: enolase 1%2C chloroplastic
+  Gene Descriptions: enolase 1%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: enolase 1%2C chloroplastic
+  Gene Descriptions: enolase 1%2C chloroplastic
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: enolase 1%2C chloroplastic-like
+  Gene Descriptions: enolase 1%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: enolase 1%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: enolase 1%2C chloroplastic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: enolase 1%2C chloroplastic
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: enolase; uncharacterized LOC100274470
+  Gene Synonyms: GRMZM2G034848; enolase,GRMZM2G009030
+  Gene Descriptions: enolase; uncharacterized LOC100274470
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 479 aa
+
+MAHPHLLLPSPKPLLPAAATPrRRaRPAVAVRAALSTAstPAkAAAGAEAVRSIRARQIV
+DSRGNPTVEVDLVAGDGRLHRSAVPSGASTGIYEALELRDGDKAVYGGKGVLqAVRNINE
+VIAPKLVGVDVRNQSDVDAIMLDIDGTPNKSKLGANAILGVSLSVCRAGAGAKGVPLYKH
+IQELAGTKELVMPVPAFNVINGGSHAGNNLAMQEFMLLPVGATSFAEALRMGSEVYHVLK
+GIIKAKYGQDACNVGDEGGFAPNVQDNREGLVLLMDAIEKAGYTGKIKIGMDVAASEFLT
+KDGSYDLNFKNQPNDGAHVLSAQRLGDLYKEFVKDFPIVSIEDPFDQDDWSSWASLQSSV
+DIQIVGDDLLVTNPKRIAEAIDKKACNALLLKVNQIGTVTESIQAALDSKAAGWGVMVSH
+RSGETEDNFIADLAVGLASGQIKTGAPCRSERLAKYNQLLRIEEELGNVRYAGEAFRSP
+
+
+BOP CONSENSUS:
+Length: 480 aa
+
+MAHqLLLPSKPLLPATAAATPRRGcGRPVVSVRAAlsASAAtssKAvGAEAVRSIRARQI
+VDSRGNPTVEVDLVAGDGSLHRSAVPSGASTGIYEALELRDGDKAVYGGKGVLTAVRNIN
+EVIAPKLVGVDVRNQSDVDAIMLDIDGTPNKSQLGANAILGVSLSVCRAGASAKGVPLYK
+HIQELSGTKELVMPVPAFNVINGGSHAGNNLAMQEFMLLPVGATSFAEALRMGSEVYHVL
+KGIIKAKYGQDACNVGDEGGFAPNVQDNREGLVLLMDAIEKAGYTGKIKIGMDVAASEFL
+MKDGSYDLNFKNQPNNGAHVLSAQsLCDLYKEFVKDFPIVSIEDPFDQDDWSSWASLQSS
+VDIQIVGDDLLVTNPKRIVEAIDKKACNALLLKVNQIGTVTESIQAALDSKAAGWGVMVS
+HRSGETEDNFIADLAVGLASGQIKTGAPCRSERLAKYNQLVRIEEELGNVRYAGEAFRSP
+
+
+PACMAD CONSENSUS:
+Length: 476 aa
+
+MAHPHLvLPSPKPLLPAAATPSRRAVAVRAALSTASTPAKAAAGAEAVRSIRARQIVDSR
+GNPTVEVDLVAGDGRLHRSAVPSGASTGIYEALELRDGDKAVYGGKGVLQAVRNINEVIA
+PKLVGVDVRNQSDVDAIMLDIDGTPNKSKLGANAILGVSLSVCRAGAGAKGVPLYKHIQE
+LAGIKELVMPVPAFNVINGGSHAGNNLAMQEFMLLPVGATSFAEALRMGSEVYHVLKGII
+KAKYGQDACNVGDEGGFAPNVQDNREGLVLLMDAIEKAGYTGKIKIGMDVAASEFLTKDG
+SYDLNFKNQPNDGAHVLSAQRLGDLYRDFVKDFPIVSIEDPFDQDDWSSWASLQSSVDIQ
+IVGDDLLVTNPKRIAEAIDKKACNALLLKVNQIGTVTESIQAALDSKAAGWGVMVSHRSG
+ETEDNFIADLAVGLASGQIKTGAPCRSERLAKYNQLLRIEEELGNVRYAGEAFRSP
+
+================================================================================

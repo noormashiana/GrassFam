@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM009103
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             475.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR16079:SF4
+Panther Family ID:               PTHR16079
+Modal Panther ID:                PTHR16079:SF4
+Modal Panther Description:       E3 UBIQUITIN-PROTEIN LIGASE CHFR
+Modal Panther Family ID:         PTHR16079
+Modal Panther Fam Desc:          UBIQUITIN LIGASE PROTEIN CHFR
+Interpro Signature Accession:    G3DSA:3.30.40.140:FF:000002; G3DSA:3.30.40.10:FF:000410; PTHR16079; PF17979
+Interpro Signature Description:  Putative RING zinc finger domain superfamily protein; At1g47570; UBIQUITIN LIGASE PROTEIN CHFR; Cysteine rich domain with multizinc binding regions
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: E3 ubiquitin-protein ligase CHFR%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: E3 ubiquitin-protein ligase CHFR%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: E3 ubiquitin-protein ligase CHFR
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: E3 ubiquitin-protein ligase CHFR-like; E3 ubiquitin-protein ligase CHFR-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: uncharacterized LOC127754491%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127754491
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC4349917
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 1
+  Modal chromosome: Pau12
+  Gene Products: uncharacterized LOC133886995
+  Gene Descriptions: uncharacterized LOC133886995
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi08K
+  Gene Products: E3 ubiquitin-protein ligase CHFR-like; E3 ubiquitin-protein ligase CHFR-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: E3 ubiquitin-protein ligase CHFR%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: E3 ubiquitin-protein ligase CHFR
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: putative RING zinc finger domain superfamily protein%2C transcript variant X1
+  Gene Synonyms: GRMZM2G000014
+  Gene Descriptions: putative RING zinc finger domain superfamily protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 474 aa
+
+MDAGECStSkPPqPSASSPsAaGVWAKLVPADSAYPEVEVAEDDAVVCSLVAPAAGGEEV
+AWCEIRRNGGDASSATIRNLSSDAIIVDGRVVQQEaVDIKPGSEIVSGPQKEGHLVYTFE
+ITAAKDHDKNNVKIVLDIENAKCSICLNLWHDVVTVAPCLHNFCNGCFSEWLRRSSSNSR
+DKSQSAACPQCRTAVQSVGRNHFLHNIEEAILQAFSSLQRSDEEIALLESYASVKSNIVL
+GKQKNQSRKRPLPRSSDEiNNADLPCPQCRTEFGGFRCSPGAAHLQCNGCGGMMPARSNt
+SIPQKCLGCDkAFCGAYWCSQGVNSSHCNLICNQETFKMISQRHISRLPDTVHGGNPYEK
+DITERCIQQSGKTLQAVISEWISKFDNKELDRSRLQLNNVDAITSRTYiCNHCYNKFIDF
+LLYWFRVSMPRNLLPPDAADRESCWYGFMCRTQHHRPDHAKKLNHVCRPTRGNP
+
+
+BOP CONSENSUS:
+Length: 469 aa
+
+MDSGECSNSNPSASSPAAAGVWAKLVPADSAYPEVAVAEDDAVVCSLVAPAAGGEELAWC
+EIRRGGDASSATIRNLSSDAIIVDGRVIQQElVDIKPGSkIVPGPQEEGHLVYTFDITAA
+KDHDKNNVKIVLDIENAKCSICLNLWHDVVTVAPCFHNFCNGCFSEWLRRSSSKSRDKSQ
+SAACPQCRTpVQSVGRNHFLHNIEEAILQAFSSLQRSDDEIALLESYASVKSNLVLGKQK
+NQSRKRPLPPASDESNDAEFPCPQCGTEFAGFRCSPRAAHLQCNGCGGMMPARPNTSIQK
+CLGCDGAFCGAYWYSQGVNSSHCNLICNQETFRMISQHHISRLPDTLHGGNPYEKDITER
+CIQQSGKTLQAVISEWIAKFDNKELDRSRLQLNNVEAITSRTYLCNHCYNKFVDFLLYWF
+RVSTPRNLLPADAADRDSCWYGFMCRTQHHRPDHAKKLNHVCRPTRGNP
+
+
+PACMAD CONSENSUS:
+Length: 475 aa
+
+MDAGECSTSKPPQPSsASpSSPAaVWAKLVPADPACPEVEVAEDDSVVCSLVAPAAGGEE
+VAWCEIRRNAGDASSATIRNLSSDAIIVDGtIVKQEcVDIKPGSEIVSGPQKEGHLVYTF
+EITeAKDHDKNNVKIVLDIENAKCSICLNLWHDVVTVAPCLHNFCNGCFSEWLRRSSSNS
+RDKSQSAACPQCRTAVQSVGRNHFLHNIEEAILQAFSSLQRSDEEIALLESYASVKSNIV
+LGKQKNQSRKRPFSRSSDEINNaDLPCPQCRnEFGGFRCSPGAAHLQCNGCGGMMPARSN
+ISIPQKCLGCDKAFCGAYWCSQGVNSSHCNLICNQETFKMISQRHISRLPDTVHGGNPYE
+KDITERCIQQSGKTLQAVISEWISKFDNMEIDRSRLQLNNVDAITSRTYICNHCYNKFID
+FLLYWFRVSMPRNLLPPDAAnRESCWYGFMCRTQHHRPDHAKKLNHVCRPTRGNP
+
+================================================================================

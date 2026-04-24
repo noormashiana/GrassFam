@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM017068
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             373.0 aa
+Family Size (Extended Family Size): 19 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31235:SF292
+Panther Family ID:               PTHR31235
+Modal Panther ID:                PTHR31235:SF292
+Modal Panther Description:       PEROXIDASE 48-RELATED
+Modal Panther Family ID:         PTHR31235
+Modal Panther Fam Desc:          PEROXIDASE 25-RELATED
+Interpro Signature Accession:    cd00693; G3DSA:1.10.420.10:FF:000013; G3DSA:1.10.520.10:FF:000006; G3DSA:1.10.420.10; G3DSA:1.10.520.10; PTHR31235; PR00461; PR00458; PF00141; SSF48113
+Interpro Signature Description:  secretory_peroxidase; Peroxidase; Peroxidase, domain 2; -; PEROXIDASE 25-RELATED; Plant peroxidase signature; Haem peroxidase superfamily signature; Heme-dependent peroxidases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: peroxidase 57%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: putative Peroxidase 48
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: putative Peroxidase 48
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: putative Peroxidase 48; putative Peroxidase 48%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: putative Peroxidase 48
+  Gene Descriptions: putative Peroxidase 48
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: putative Peroxidase 48
+  Gene Descriptions: putative Peroxidase 48
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau02
+  Gene Products: putative Peroxidase 48
+  Gene Descriptions: putative Peroxidase 48
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi05K
+  Gene Products: putative Peroxidase 48
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: peroxidase A2-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: putative Peroxidase 48
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: Peroxidase superfamily protein
+  Gene Synonyms: GRMZM2G067096
+  Gene Descriptions: Peroxidase superfamily protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 365 aa
+
+MLRPPAwGAICLLAVSLVLCTdkLrTDArrSAYALLLDDyeEDdGGDGSSSFSFsFPqTt
+PrGLVFGFYDgTCPDAEeIVSSTVRELYhADPNVAAALVRLFFHDCFIHGCDASVLLDRI
+nGgKSERDAAPNrSLRGFGAVDKIKARLEkACPGTVSCADILALAARDSLVLVGGPTYPV
+LTGRRDSAgSFYDDVGnIPaPNATYAMTLDAFARRGFTERETVALLGAHSIGKVqCRFFr
+DRIYNFAGTGEPDDSIDpDMVGEMRAVCGGDGAAPMEMGYYRQGREVGFGAHYYAKLLeG
+RGILRSDQQLTAGSTVRWVRVYASGaRGEEvFREDFAHAMVKLSALAPLTGSAGQVRISC
+SKPVE
+
+
+BOP CONSENSUS:
+Length: 365 aa
+
+MLRHPvWGAICLLAVSLvLCTDKLCTDARPSAYALLVDDDEEDDGGGDGSSSFSFSSPQt
+TPDELAFGFYDGTCPdAEAIVASTVRELFAADsNVAAALVRLFFHDCFVHGCDASVLLDR
+INGGKSERDAAPNRSLRGFGAVDKIKARLEKQCPGTVSCADILALAARDSLVLVGGPTYP
+VLTGRRDSAGSFYDDVNIPAPNATYAMTLSAFARRGFTERETVALLGAHSIGKVQCRFFR
+DRIYNFAGTGEPDDSLDADMVGEMRAVCsGDGAAPMEMGYYRQGREVGFGAHYYAKLLAG
+RGILRSDQQLTAGSTVRWVRAYASGhRGEEAFREDFAHAMVKLSALAPLTGSAGQVRISC
+SKSVE
+
+
+PACMAD CONSENSUS:
+Length: 373 aa
+
+MSLGPpARGAICLLAAvIIVLSTGgLRSDATRSAAdlSLDDYGEDdgGDSSSFSFTFPET
+SSrGLVFGFYDETCPDAEEIVSSTVRKLYHADPNVAAALVRLFFHDCFIHGCDASVLLDR
+VgGRKSERDAGPNQSLRGmGAVEAIKQRVEAACPGTVSCADILALAARDSLVLVGGPTYP
+VLTGRRDSAQSFYYDAvgGgIPpPNATYAMTLDAFARRGQFTERETVALLGAHSIGKVRC
+RFFADRIYNFAGTGAPDDSIDPDMVGEMRAVCGGDgDGAAPMEMGYYRQGREVGFGAHYY
+AkLLEGRGILRADQQLTAGSTVRWVRVYASGARGEEVFREDFAHAMVKLSALAPLTGSAG
+QVRISCSKPVeDN
+
+================================================================================

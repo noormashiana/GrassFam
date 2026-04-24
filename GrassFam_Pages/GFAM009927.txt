@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM009927
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             465.0 aa
+Family Size (Extended Family Size): 25 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR42841:SF5
+Panther Family ID:               PTHR42841
+Modal Panther ID:                PTHR42841:SF5
+Modal Panther Description:       FAD_NAD(P)-BINDING OXIDOREDUCTASE FAMILY PROTEIN
+Modal Panther Family ID:         PTHR42841
+Modal Panther Fam Desc:          AMINE OXIDASE
+Interpro Signature Accession:    G3DSA:3.50.50.60; PTHR42841; PF01593; SSF51905
+Interpro Signature Description:  -; AMINE OXIDASE; Flavin containing amine oxidoreductase; FAD/NAD(P)-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: protoporphyrinogen oxidase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu02H
+  Gene Products: 15-cis-phytoene desaturase%2C chloroplastic/chromoplastic-like; coproporphyrinogen III oxidase-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: 15-cis-phytoene desaturase%2C chloroplastic/chromoplastic
+Tae
+  Gene count: 2
+  Modal chromosome: Tae02A
+  Gene Products: 15-cis-phytoene desaturase%2C chloroplastic/chromoplastic; coproporphyrinogen III oxidase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: 15-cis-phytoene desaturase%2C chloroplastic/chromoplastic
+  Gene Descriptions: 15-cis-phytoene desaturase%2C chloroplastic/chromoplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: 15-cis-phytoene desaturase%2C chloroplastic/chromoplastic
+  Gene Descriptions: 15-cis-phytoene desaturase%2C chloroplastic/chromoplastic
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN323
+Pau
+  Gene count: 1
+  Modal chromosome: Pau14
+  Gene Products: uncharacterized LOC133891663
+  Gene Descriptions: uncharacterized LOC133891663
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi02K
+  Gene Products: coproporphyrinogen III oxidase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: protoporphyrinogen oxidase
+Msi
+  Gene count: 7
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: protoporphyrinogen oxidase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: coproporphyrinogen III oxidase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 460 aa
+
+MHVHAPHLLPAPPKPHyHAALRFTVSASAApaSPaAaRkAVIVGGGLAGLAAATHLTSLS
+VPFTLVEASDRLGGRVATDVVDGYRLDRGFQIFLTAYPECRRLLDFPALRLRPFYPGALV
+FvGAGEPFYLLSDPFRLPLRSLSAVFSPVGTLsDKVLVGLTRLRAAATPDDVILSAPETT
+TAeHLeqLGFSPSIVERFLRPFLAGIFFDPALDTSSRLFELVFKRLALGDNALPEDGIGA
+IAsQLAARLPAGSVRLNtRAAAIDqSGVTLDTGETIPGeLGVIVAVEQPEAEKLLPQLST
+rEKaKKSERSTVCLYFSTDRAPVQDPILLLNGSGKGIVNNMFFATNVAPSYAPAGKVLVS
+VSLVGSFADREDADLADEVVRELGGWFGAGEVASWTHLRTYRIGFAQPDQTPPTtPAGRD
+PRVGDGLYVCGDHWCSATFDGALVSGRRAAEALAKDRGLS
+
+
+BOP CONSENSUS:
+Length: 469 aa
+
+MRVHAAHLLVPAPPTPRRHAtLRFTVSAAATSvNANQADAAgKQAVIVGGGLAGLAAATH
+LASLSVPFTLLEASDRLGGRVATDEVDGYLLDRGFQIFLTAYPECQRLLDFqALRLQPFF
+PGALVYLGAGEPFHMLSDPFRFPIRSLSSVFSPVGTLPDKLLVGLTRLRAAATPDDVILS
+SPETTTArHLEKLGFSPSIVERFLRPFLAGIFFDPALDTSSRLFELVFKRLALGDNALPE
+AGIGAIAsQLADRLPAGSVRLNARAAAIDPSSGVTLDTGETVSGELGVIVAVEQPEAEKL
+LPQLPaRPKsKKaAERSTVCLYFSADRAAVQEPVLLLNGSGKGIVNNMFFATNVAPSYAP
+AGKVLVSVSLVGSFAGREDAELAGEVVRELGGWFGAGEVASWAHLRTYRIGFAQPDQTPP
+TEPAGRDPRVGDGVYVCGDHWCSATFDGAmVSGRRAAEALAKDrGLSLS
+
+
+PACMAD CONSENSUS:
+Length: 460 aa
+
+MHVPAPHLLPAPPKPHYHAALRFTVSASAAPaSPtAARrAVIVGGGLAGLAAATHLTSLS
+VPFTLVEASDRLGGRVATDVVDGYRLDRGFQIFLTAYPECRRLLDFPALRLRPFYPGALV
+FVGAGEPFYLLSDPFRLPLRSLSAVFSPVGTLSDKVLVGLARLRAAATPDDVILSAPETT
+TGEHLtQLGFSSSIVERFLRPFLAGIFFDPALDTSSRLFELVFKRLALGDNALPEDGIGA
+IAEQLAARLPAGSVRLNTRAVAIDQSGVTLDTGETIPGDLGVIVAVEQPQAEKLLPQLST
+rEKAKKSERSTVCLYFSTDRAPVQDPILLLNGSGKGIVNNMFFATNVAPSYAPAGKVLVS
+VSLVGSFADREDADLADEVVRELGGWFSPGEVASWTHLRTYRIGFAQPDQTPPTTPAGRD
+PRVGDGLYVCGDHWCSATFDGALVSGRRAAEALAKDRGLS
+
+================================================================================

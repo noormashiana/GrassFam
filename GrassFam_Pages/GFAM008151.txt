@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM008151
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             536.0 aa
+Family Size (Extended Family Size): 22 (32) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11647:SF1
+Panther Family ID:               PTHR11647
+Modal Panther ID:                PTHR11647:SF1
+Modal Panther Description:       COLLAPSIN RESPONSE MEDIATOR PROTEIN
+Modal Panther Family ID:         PTHR11647
+Modal Panther Fam Desc:          HYDRANTOINASE/DIHYDROPYRIMIDINASE FAMILY MEMBER
+Interpro Signature Accession:    cd01314; G3DSA:3.20.20.140:FF:000001; G3DSA:3.20.20.140; G3DSA:2.30.40.10; TIGR02033; PTHR11647; SSF51556; SSF51338
+Interpro Signature Description:  D-HYD; Dihydropyrimidinase like 3; -; Urease, subunit C, domain 1; dihydropyrimidinase; HYDRANTOINASE/DIHYDROPYRIMIDINASE FAMILY MEMBER; Metallo-dependent hydrolases; Composite domain of metallo-dependent hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: dihydropyrimidinase%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: dihydropyrimidinase
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: dihydropyrimidinase
+Tae
+  Gene count: 5
+  Modal chromosome: Tae07D
+  Gene Products: dihydropyrimidinase-like; dihydropyrimidinase-like%2C transcript variant X1; uncharacterized LOC123170978
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: dihydropyrimidinase%2C transcript variant X1
+  Gene Descriptions: dihydropyrimidinase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: dihydropyrimidinase
+  Gene Descriptions: dihydropyrimidinase
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau01
+  Gene Products: dihydropyrimidinase%2C transcript variant X1
+  Gene Descriptions: dihydropyrimidinase
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: dihydropyrimidinase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: dihydropyrimidinase-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: dihydropyrimidinase%2C transcript variant X3
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: Dihydropyrimidinase
+  Gene Synonyms: GRMZM2G020002,pco084866
+  Gene Descriptions: Dihydropyrimidinase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 532 aa
+
+MATPCRLlLLLPLLAAVAVAASHPAHEFCAAAGGGAAGCGGGGDGTRILIKGGTVVNAHR
+AEEADVYIEDGVVVAVRPNIPVGDDNVRVIDATGKYVMPGGIDPHTHLEMEFMGTVTIDD
+FFSGHAAALAGGTTMHIDFVIPVNGNLTAGLESYKHKAEKAAMDYGFHMAITKWNDEVSR
+EMEVMVKEHGINSFKFFMAYKGSLMVTDDLLLQGLQKCKSLGALAMVHAENGDAVAEGQQ
+RMIDLGITGPEGHALSRPPILEGEATARAIRLAKFINTPLYVVHVMSIDAMEEIAKAKRE
+GQRVIGEPVVSGLVLDDSWLWDPDFTIASKYVMSPPIREAGHgKALQAALSSGILQLVGT
+DHCTFNSTQKAFGSDDFRKIPNGVNGIEERMHIIWDSMVETGKISVTDYVRVTSTECAKI
+FNIYPRKGAILEGSDADIIILNPERSFVMGAHTHHSRSNTNVYEGRKGKGMVEVTISRGR
+VVWEDGvLNIvPGSGRYVRTPPFGYlFDGIEKSDAAYRASLRAPVQRGKAAA
+
+
+BOP CONSENSUS:
+Length: 535 aa
+
+MATPCRLRLLLlLLAAVAVAASHPAHEFCAAAGGGGGGAgGCGGGGDGTRILIKGGTVVN
+AHRAEEADVYIEDGVVVAVRPNIPVGDDNVKVIDATGKYVMPGGIDPHTHLEMEFMGTVT
+IDDFYSGHAAALAGGTTMHIDFVIPVNGNLTAGLESYKHKAEKSAMDYGFHMAITKWNDE
+VSREMEVMVKEHGINSFKFFMAYKGSLMVTDDLLLQGLQKCKSLGALAMVHAENGDAVAE
+GQQRMIDLGITGPEGHALSRPPVLEGEATSRAIRLAKFVNTPLYVVHVMSIDAMEEIAKA
+KREGQRVIGEPVVSGLVLDDSWLWDPDFATASKYVMSPPIREAGHNKALQAALSSGILQL
+VGTDHCTFNSTQKAFGSDDFRKIPNGVNGIEERMHIIWDSMVETGKITVTDYVRVTSTEC
+AKIFNIYPRKGAILEGSDADIIILNPKRSFVMGARTHHSRSNTNVYEGRKGKGMVEVTIS
+RGRVVWEDGNLNAVPGSGRYVRTPPFGYLFDGIEKSDAVYRASLRAPVrRGKAAA
+
+
+PACMAD CONSENSUS:
+Length: 535 aa
+
+MATPMpAPSLRLLLLLPLLAVAVAASHPAHEFCAAGGDAAGCGGGGDGTRILIKGGTVVN
+AHRAEEADVYIEDGVVVAVRPNIPVGdDNVRVIDATGKYVMPGGIDPHTHLEMEFMGTVT
+IDDFFSGHAAALAGGTTMHIDFVIPVNGNLTAGLESYKQKAAKAAMDYGFHMAITKWNDE
+VAREMEVMVKEHGINSFKFFMAYKGSLMVTDDLLLQGLQKCKSLGALAMVHAENGDAVAE
+GQQRMIDLGITGPEGHALSRPPILEGEATARAIRLAKFINTPLYVVHVMSIDAMEEIAKA
+KREGQRVIGEPVVSGLVLDDSWLWDPDFTIASKYVMSPPIREAGHGKALQAALSSGILQL
+VGTDHCTFNSTQKAFGSDDFRKIPNGVNGLEERMHIIWDSMVETGKISVTDYVRVTSTEC
+AKIFNIYPRKGAILEGSDADIIILNPERSFVMGAHTHHSRSNTNVYEGRKGKGMVEVTIS
+RGRVVWEDGVLNIAPGSGRYVRMPPFGYVFDGIEKSDAAYRASLRAPVQRGKAAA
+
+================================================================================

@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM006119
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             454.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR21257:SF53
+Panther Family ID:               PTHR21257
+Modal Panther ID:                PTHR21257:SF53
+Modal Panther Description:       7-DEHYDROCHOLESTEROL REDUCTASE
+Modal Panther Family ID:         PTHR21257
+Modal Panther Fam Desc:          DELTA(14)-STEROL REDUCTASE
+Interpro Signature Accession:    G3DSA:1.20.120.1630:FF:000006; PTHR21257; PF01222
+Interpro Signature Description:  Putative 7-dehydrocholesterol reductase; DELTA(14)-STEROL REDUCTASE; Ergosterol biosynthesis ERG4/ERG24 family
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: 7-dehydrocholesterol reductase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: 7-dehydrocholesterol reductase%2C transcript variant X4
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: 7-dehydrocholesterol reductase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: 7-dehydrocholesterol reductase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: 7-dehydrocholesterol reductase%2C transcript variant X1
+  Gene Descriptions: 7-dehydrocholesterol reductase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: 7-dehydrocholesterol reductase%2C transcript variant X1
+  Gene Descriptions: 7-dehydrocholesterol reductase
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: 7-dehydrocholesterol reductase; 7-dehydrocholesterol reductase-like
+  Gene Descriptions: 7-dehydrocholesterol reductase; 7-dehydrocholesterol reductase-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: 7-dehydrocholesterol reductase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: 7-dehydrocholesterol reductase
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: 7-dehydrocholesterol reductase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: uncharacterized LOC100282098
+  Gene Synonyms: GRMZM2G027886,pco110886
+  Gene Descriptions: uncharacterized LOC100282098
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 456 aa
+
+MAKPKPSSaaPAAKpAAAAPpPapPkTVHSALVTYtSMLaLLSLCPPFVILLWYTMVHAD
+GSVVRTYEHLREHGvLEGLKAIWPMPTvVAWKIIFGFGLFEAVLQLLLPGKRFEGPISPA
+GNVPVYKANGLQAYAVTLITYLSLWWFGIFNPAIVYDHLGEIYSALVFGSFVFCIFLYIK
+GHVAPSSSDSGSSGNVIIDFYWGMELYPRIGKHFDIKVFTNCRFGMMSWAVLAVTYCIKQ
+YEMNGRVADSMLVNTALMLIYITKFFWWESGYWCTMDIAHDRAGFYICWGCLVWVPSIYT
+SPGMYLVNHPVNLGPQLALSILLAGILCIYINYDCDRQRQEFRRTNGKCSVWGKAPSKIV
+ASYQTTKGETKTSLLLTSGWWGLSRHFHYVPEILSAFFWTVPALFnHFLPYFYVIFLTIL
+LFDRAKRDDDRCSSKYGKYWKMYCNKVPYRVIPGIY
+
+
+BOP CONSENSUS:
+Length: 453 aa
+
+MAKQKQQQPKPAPAAAPPPtepKTAHSPLfTYASMvTLLSLCPPFVILLWYTMVHADGSV
+aRTYEHLRDHGILEGLKAIWPMPTvVAGKIILGFALFEAALQLLLPGKRFEGPISPAGNV
+PVYKANGLLAYAVTLVTYLSLWWFGIFNPAIVYDHLGEIYSALVFGSLVFCLfLYIKGHV
+APSSSDSGSSGNAIIDFYWGMELYPRIGKHFDIKVFTNCRFGMMSWAVLAVTYCIKQYEM
+NGRVADSMLVNTALMLIYITKFFWWESGYWCTMDIAHDRAGFYICWGCLVWVPSIYTSPG
+MYLVNHPVNLGPQLAlSILLAGILCIYINYDCDRQRQEFRRTNGKASVWGKAPSKIVASY
+QTTKGETKTSLLLTSGWWGFSRHFHYVPEILAAFFWTVPALFDHFLPYFYVIFLTILLLD
+RAKRDDDRCSTKYGKYWKMYCNRVPYRVVPGIY
+
+
+PACMAD CONSENSUS:
+Length: 456 aa
+
+MAKPKPSSSAsGAKPAAAAAAPAPPATVHSALVTYTSMLALLSLCPPFVILLWYTMVHAD
+GSVVRTYEHLREHGVLEGLKAIWPMPTvVAWKIIFGFGLFEAVLQLLLPGKRFEGPISPA
+GNVPVYKANGLQAYAVTLITYLGLWWFGIFNPAIVYDHLGEIYSALVFGSFVFCIFLYIK
+GHVAPSSSDSGSSGNVIIDFYWGMELYPRIGKYFDIKVFTNCRFGMMSWAVLAVTYCIKQ
+YEMNGRVADSMLVNTALMLIYITKFFWWESGYWCTMDIAHDRAGFYICWGCLVWVPSIYT
+SPGMYLVNHPVNLGPQLALSILLAGILCIYINYDCDRQRQEFRRTNGKCSVWGKAPSKIV
+ASYQTTKGETKTSLLLTSGWWGLSRHFHYVPEILSAFFWTVPALFNHFLPYFYVIFLTIL
+LFDRAKRDDDRCSSKYGKYWKMYCNKVPYRVIPGIY
+
+================================================================================

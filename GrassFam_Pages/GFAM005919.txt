@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM005919
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             466.0 aa
+Family Size (Extended Family Size): 19 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR21600:SF81
+Panther Family ID:               PTHR21600
+Modal Panther ID:                PTHR21600:SF81
+Modal Panther Description:       21S RRNA PSEUDOURIDINE(2819) SYNTHASE
+Modal Panther Family ID:         PTHR21600
+Modal Panther Fam Desc:          MITOCHONDRIAL RNA PSEUDOURIDINE SYNTHASE
+Interpro Signature Accession:    cd02869; G3DSA:3.30.2350.10; PTHR21600; SSF55120
+Interpro Signature Description:  PseudoU_synth_RluA_like; Pseudouridine synthase; MITOCHONDRIAL RNA PSEUDOURIDINE SYNTHASE
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: RNA pseudouridine synthase 4%2C mitochondrial%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: RNA pseudouridine synthase 4%2C mitochondrial%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: RNA pseudouridine synthase 4%2C mitochondrial%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: RNA pseudouridine synthase 4%2C mitochondrial-like; RNA pseudouridine synthase 4%2C mitochondrial-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: RNA pseudouridine synthase 4%2C mitochondrial%2C transcript variant X1
+  Gene Descriptions: RNA pseudouridine synthase 4%2C mitochondrial
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: RNA pseudouridine synthase 4%2C mitochondrial-like
+  Gene Descriptions: RNA pseudouridine synthase 4%2C mitochondrial-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau20
+  Gene Products: RNA pseudouridine synthase 4%2C mitochondrial%2C transcript variant X1
+  Gene Descriptions: RNA pseudouridine synthase 4%2C mitochondrial
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi02N
+  Gene Products: RNA pseudouridine synthase 4%2C mitochondrial%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: RNA pseudouridine synthase 4%2C mitochondrial-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: RNA pseudouridine synthase 4%2C mitochondrial
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: RNA pseudouridine synthase 4 mitochondrial
+  Gene Synonyms: GRMZM2G110140,pco136381
+  Gene Descriptions: RNA pseudouridine synthase 4 mitochondrial
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 470 aa
+
+MATRMAALLlLRRLAAAgAPkrLQQPYAGLSTAARHDALDdtGeeGGrPGEGNKnRWvEL
+PPFAPLDAnAAARAISRGqGGEIEGcSNSTAIRWVRRCCPHLPASLVQKLFRLRKVKKNa
+VTAETSSTDASAEQlRLRRVSAKDhLVPGDILFLPVNIQESSVAEKTKKFDNRNEIDFLR
+SLEIYKDKAIIVVNKPPGMPVQGGVGIKNSIDVLAPMFEENSSEAPRLVHRLDRDCSGVL
+VLGRTQLSASIMHAIFREKTADALADGTQQVLQRKYVALVIGTPRHPKGLLSAPLAKVVL
+QDGKSERLTVRAGPNTTSVQDALTEYRVIESCPQGYTWLELFPRTGRKHQLRVHCAEVLG
+TPIVGDYKYGRQAHQNWTPLPvPQTIDEELLRKRRLPFGLVLGGGSVAEEQPQLHLHCKQ
+MiLPDISAAVQgLQSeDADrDFSDLEKLSFVAPLPLHMRLSWEILKSVgK
+
+
+BOP CONSENSUS:
+Length: 470 aa
+
+TRMAALLLLRRLAAGGAVARLQQPYAGLATAAARQDALDATGEESGrPDKGNKNRWMELP
+PFAPVDAAAAARAIFRGQGGDEIEGsSNSTAIRWVRRCCPhLPASLVQKLFRLRKVKKNA
+VTAETSSTDASAEQFRLRRVSAKDHLVPGDTLFLPVNIQESSVAEKTRKFDNRNEIDFLR
+SLEIYKDKAIIVVNKPPGMPVQGGVGIKNSIDVLAPMFEENSSDAPRLVHRLDRDCSGVL
+VLGRTQLSASILHAIFREKTADALADGTQQVLQRKYVALVMGTPRHPKGLLSAPLAKVLL
+QDGKSERLTVRAGPNTTSVQDALTEYRVIESCPQGFTWLELFPLTGRKHQLRVHCAEVLG
+TPIVGDYKYGRQAHQDWTPLPVPQTVDEELLRKQRLPFGLVLGGGSVAEEQPQLHLHCKQ
+MMLPDISAAVQGLQSEDAdRDFSGLEKLSFVAPLPLHMRLSWEVLKSVDK
+
+
+PACMAD CONSENSUS:
+Length: 466 aa
+
+MAIRTAALLFRRRAAAAAPKPLQQYvAGLSTAAGHvvLDDGGRSGGGEENKKRWVELPPF
+APLDANAAARAISRGDGGEGACSNATAIRWVRRCCPHLPASLVQKLFRLRKVKKNLVTAD
+TSSTDsIAEQLRLRRVSAKDELVPGDILFLPVNIQESSVAEKTKKFGNKNEIDFLRSLEI
+YKDRAIIVLNKPPGMPVQGGVGIKNSIDILAPMFEDGSSEAPRLVHRLDRDCSGVLVLGR
+TQLSASIMHAIFREKTADALgDGTQQVLQRKYVALVIGRPRHPKGLLSAPLAKVVLQDGK
+SERLTVCAGSNTTSVQDALTEYRVIESCPQGYTWLELFPRTGRKHQLRVHCAEVLGTPIV
+GDYKYGRQAHQNWtPLPMPQTIDEEMLKKRKLPFGLALGGGSVAEEQPQLHLHCKQMILP
+DISAAMQQLQSSDADHDFSDLEKLSFVAPLPLHMRLSWEILKSVGK
+
+================================================================================

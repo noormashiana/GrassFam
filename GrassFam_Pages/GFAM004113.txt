@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM004113
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             708.0 aa
+Family Size (Extended Family Size): 18 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24058:SF63
+Panther Family ID:               PTHR24058
+Modal Panther ID:                PTHR24058:SF63
+Modal Panther Description:       OS05G0466900 PROTEIN
+Modal Panther Family ID:         PTHR24058
+Modal Panther Fam Desc:          DUAL SPECIFICITY PROTEIN KINASE
+Interpro Signature Accession:    cd14133; G3DSA:3.30.200.20:FF:000216; G3DSA:1.10.510.10:FF:000380; G3DSA:1.10.510.10; G3DSA:3.30.200.20; PTHR24058; PF00069; SM00220; SSF56112
+Interpro Signature Description:  PKc_DYRK_like; Putative serine/threonine-protein kinase dyrk2; Serine/threonine-protein kinase ppk15; Transferase(Phosphotransferase) domain 1; Phosphorylase Kinase; domain 1; DUAL SPECIFICITY PROTEIN KINASE; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: dual specificity tyrosine-phosphorylation-regulated kinase mbk-1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: dual specificity tyrosine-phosphorylation-regulated kinase mbk-1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: cyclin-dependent kinase 11.1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: DYRK-family kinase pom1-like%2C transcript variant X1; cyclin-dependent kinase 11.1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: DYRK-family kinase pom1%2C transcript variant X1
+  Gene Descriptions: DYRK-family kinase pom1
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: shaggy-related protein kinase theta-like%2C transcript variant X1; uncharacterized LOC133929053%2C transcript variant X1
+  Gene Descriptions: shaggy-related protein kinase theta-like; uncharacterized LOC133929053
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi03N
+  Gene Products: dual specificity tyrosine-phosphorylation-regulated kinase mbk-1-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Zma
+  Gene count: 2
+  Modal chromosome: Zma06
+  Gene Products: uncharacterized LOC100279465%2C transcript variant X1; uncharacterized LOC100501203%2C transcript variant X1
+  Gene Synonyms: GRMZM2G068192,IDP77; GRMZM2G088361,GRMZM2G088409
+  Gene Descriptions: uncharacterized LOC100279465; uncharacterized LOC100501203
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 710 aa
+
+MSAPGAEEAgmGFPAdHGLARaGVlAgrrGDEStgFDDPQLPPLRLRASyGGAGGALASP
+rSSSSSDtFVSMrSTPSGLLNPYGLWSPPRAPSEASSSEMEFGTAREYDTTDLFFGDNWL
+YDDHLFHrKPESDgSeGEDKFIVGPDVSlQRSEmRELGDGgGRRHVHrKgNADSDGCAEV
+YtCSSPPCsCCYGErKNgeElVRDSCSAVYGRYQIMDDlTEVLDECVAEAFRFRLNandD
+AtLKGdPLVDSKkGeDdgLDLSALEKELQMLSPYLADADALENhGLEHDFRGNdeLDIcm
+VTNEKIADDKEFLKDSYSVHPFPEIsiPEDVYGVEDFGtADTnVQNsTAHKiqEDPKIDp
+ALSkFHQEYEVFELKIFHRKNRTGFEENKEFPIVmDSVVAGRYRVTEYLGSAAFSKVVRA
+HDLRTGMDVCLKIIKNDKDFFDQSLDEIKLLKFVNKYDPaDaHHILRLYDYFYYQEHLFI
+VTELLRANLYEFQKYNQESGDEVYFSLPRIQAIARQCLEALVYLHHLNIVHCDLKPENIL
+MKSYSRCEIKVIDLGSSCFLSDNLsLYVQSRSYRAPEVILGLPYDQKIDIWSLGCILAEL
+YTGEVLFPNESVPIILARMIGTIGPIDMEMLALGQETQKYFTEEYDLFHKNEETGQLEYL
+IPEKSSLRRHLQCPDkKFVDFLSYLLQINPRKRPTAsEALQHRWLShKYR
+
+
+BOP CONSENSUS:
+Length: 714 aa
+
+MARGAEEAVGVVGMGFPADAGHGLALRhGVLAGRRGDEStDSDDPRLPPLRLGASYSASD
+GAGAALASPaSSSSSDAFLSTTSTPSGLLNPYGVWSPPRAPSEASEFGTAREYDTTDLFF
+GENWLYDDHLFHREPEISGKSGDGDEEDKFIVgPDVgEIGDDSGRRHvRSKgNAeAeGCA
+EVYTSPPCSCCHGEMEHKNGREFVRDSWSAVYGRYQIMDDLTEVLDECGADAhQFRRNVN
+DDATLKGGPLVDSRSGDDQEFDLSALEKELQMLSPYLSEDADAANNHRFnHDFRVNDELD
+IDlITDDKIVDDKEFLKdSYSVHPFPEIsiPEDIYEMEDFGPADTNVQNaAHKIDEGPKT
+dIDLASSIFHQEYEEFELRIFHRKNRTGFEENKDFPIVVDSVVAGRYRITEYLGSAAFSR
+VVQAHDLRTGMDVCLKIIKNDKDFFDQSLDEIKLLKFVNKHDPADAHHILRLYDFFYYQE
+HLFIVTELLRANLYEFQKYNQESSDEVYFSLPRIQAIARQCLEALVYLHDLNIVHCDLKP
+ENILMKSYSRCEVKVIDLGSSCFLTDNLSLYVQSRSYRAPEIILGLPYDQRIDIWSLGCI
+FAELYSGEVLFPNESVSTILARMIGTIGPIDTQMLALGQETqKYFTEEYDLFHKNEETGQ
+LEYLIPEKSSLRRHLRCSDSKFVDFLSCLLQINPRKRPTAREALRHRWFSHKYR
+
+
+PACMAD CONSENSUS:
+Length: 692 aa
+
+MSAGFrgEHGLARAASdAeFpGFDDPQLPPLRLRASCGGGAIASPrSSSSSDTFVSMRST
+PSGMLNPCGLWSPPRAPSEASSSEMEFGTAREYDTTDPFFgDNWLYDNHLFHsKPESDGS
+EGEDKFIVGPDVSLQRSEMRELGDGCGRRHVHRDrNADSDGCAEVNaCSSPPCGCCYrER
+KNnEELVRDSCSAVYGRYQIMDDHTEvLDECVAEAFRFRLNAfVDAGDqLVDFKKGEDDG
+LDLSALEKELQMLTPYLADADALENtGLEHDfRGNekLDVCMVTNEENADGKEFLKDSYs
+IHPFPESavPfDVYGVEDFkTADTDVQNSTTHKFQEDPKVDPALSKFHQEYEVFDLKIFH
+RKNRTGFEENKEFPIVMDSVIAGRYRVTEYLGSAAFSKVVRAHDLRTGVDVCLKIIKNDK
+DFFDQSLDEIKLLKFVNKYDPDDDHHILRLYDYFYYQEHLFIVTELLRANLYEFQKYNQE
+SGDEVYFSLPRIQAIARQCLEALVYLHHLNIVHCDLKPENILLKSYSRCEIKVIDLGSSC
+FLSDNLNLYVQSRSYRSPEVILGLPYDQKIDIWSLGCILAELYTGEVLFPNESVPIILAR
+MIGTIGPIDMEMLASGQETQKYFTDDYDLFHKNEETDQLEYLIPEKSSLRRHLQCPDKKF
+VDFLSYLLQINPRKRPTASEALQHRWLSFvYs
+
+================================================================================

@@ -1,0 +1,114 @@
+================================================================================
+GrassFam ID: GFAM019753
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             393.0 aa
+Family Size (Extended Family Size): 19 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12001:SF81
+Panther Family ID:               PTHR12001
+Modal Panther ID:                PTHR12001:SF81
+Modal Panther Description:       SOLANESYL DIPHOSPHATE SYNTHASE
+Modal Panther Family ID:         PTHR12001
+Modal Panther Fam Desc:          GERANYLGERANYL PYROPHOSPHATE SYNTHASE
+Interpro Signature Accession:    cd00685; G3DSA:1.10.600.10; PTHR12001; PF00348; SFLDS00005; SSF48576
+Interpro Signature Description:  Trans_IPPS_HT; Farnesyl Diphosphate Synthase; GERANYLGERANYL PYROPHOSPHATE SYNTHASE; Polyprenyl synthetase; Isoprenoid Synthase Type I; Terpenoid synthases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: solanesyl diphosphate synthase 3%2C chloroplastic/mitochondrial%2C transcript variant X3
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: solanesyl diphosphate synthase 3%2C chloroplastic/mitochondrial-like%2C transcript variant X2; solanesyl-diphosphate synthase 1%2C mitochondrial-like; solanesyl-diphosphate synthase 1%2C mitochondrial-like%2C transcript variant X1
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl08
+  Gene Products: solanesyl-diphosphate synthase 1%2C mitochondrial-like%2C transcript variant X1
+  Gene Descriptions: solanesyl-diphosphate synthase 1%2C mitochondrial-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa08
+  Gene Products: solanesyl-diphosphate synthase 1%2C mitochondrial-like%2C transcript variant X5
+  Gene Descriptions: solanesyl-diphosphate synthase 1%2C mitochondrial-like
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN4
+Pau
+  Gene count: 1
+  Modal chromosome: Pau18
+  Gene Products: solanesyl-diphosphate synthase 1%2C mitochondrial-like%2C transcript variant X4
+  Gene Descriptions: solanesyl-diphosphate synthase 1%2C mitochondrial-like
+Svi
+  Gene count: 4
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: solanesyl-diphosphate synthase 1%2C mitochondrial-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: solanesyl-diphosphate synthase 1%2C mitochondrial-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: solanesyl-diphosphate synthase 1%2C mitochondrial%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 391 aa
+
+MLPGRLLLAGLLRSASTASSAPrmPkNMWDRFTWSSCYFHSTdnTSsKAGLTAKQLDPFA
+LIKDEVSEVTDRLRSMVVAEVPELTSAAGYFFRAGAEGKRTCPTVLLLMASAISMDmaDP
+IVGLENkPRARHMRvAEITEMIHIsSLIHDDVLDDADTRRGMDSLNFtVGKKLAVLAGDF
+LLFRAFSAAVSLDNTEVVSLLATAVNNLVTGELMQMsITPAQRCSMDYYLQKTYYKTAAL
+ISNSCKAIAVLAGQTTEVQALAYQYGRHLGIAYQLIDDILDFTGTSASLGKASLSDIHQG
+IVTAPILFAMEEFPELREIVEQGFDDPSNVdtALKYLsKSQGIERTRLLAAEHAKLAAdA
+IDaLPESEDqVVLnSRQALKDLTQKFmRRTK
+
+
+BOP CONSENSUS:
+Length: 316 aa
+
+MVVAEVPELTSAAGYFFRAGAEGKRTCPTVLLLMASAIRTDTPDSIVGSRNELRARQMRI
+AEITEMIHVASLIHDDVLDdADTRRGMDSLNSAVGNKLAVLAGDFLLFRAFSAAGSLDNT
+EVVSLLATALNNLVTGELMQMtVTPAQRCSMDYYLQKTYYKTAALISNSCKAVAVLAGQT
+AEVAtLAYQYGRHLGIAYQLIDDILDFTGTSASLGKGSLSDIHQGIVTAPVLFAMEEFPE
+LRvSVErGFDDPSDVATALEYLAKSQGIERTRLLATEHAKLAARAIDALPEVGDrVALIS
+RQALKDLAQKLIRRTK
+
+
+PACMAD CONSENSUS:
+Length: 390 aa
+
+MLPGRLLLAGLLRSASTASSAPRMPKNMCYWDRFTWSSCYFHSDNtSSKAGLTAKEQLDP
+FALIKDEVSEVTDRLRSMVVAEVPELTSAAGYFFRAGAEGKRTCPTVLLLMASAISMDMa
+DGLENKPRARHMRVAEITEMIHISSLIHDDVLDDADTRRGMDSLNFTVGKKLAVLAGDFL
+LFRAFSAAVSLDNTEVVSLLATAVNNLVTGELMQMSITPAQRCSMDYYLQKTYYKTAALI
+SNSCKAIAVLAGQTTEVQALAYQYGRHLGIAYQLIDDILDFTGTSASLGKASLSDIHQGI
+VTAPILFAMEEFPELhEIVEQGFDDPSNVdmALKYLSKSQGIERTRLLAAEHAKLAAdAI
+DDLPeSEDQVVLNSRQALKDLTQKFMRRTK
+
+================================================================================

@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM005258
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             412.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR21569:SF1
+Panther Family ID:               PTHR21569
+Modal Panther ID:                PTHR21569:SF1
+Modal Panther Description:       SMALL RIBOSOMAL SUBUNIT PROTEIN US9M
+Modal Panther Family ID:         PTHR21569
+Modal Panther Fam Desc:          RIBOSOMAL PROTEIN S9
+Interpro Signature Accession:    G3DSA:3.30.230.10:FF:000034; G3DSA:3.30.230.10; NF001099; PTHR21569; PF00380; SSF54211
+Interpro Signature Description:  30S ribosomal protein S9; -; RIBOSOMAL PROTEIN S9; Ribosomal protein S9/S16; Ribosomal protein S5 domain 2-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: 30S ribosomal protein S9%2C mitochondrial
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: 30S ribosomal protein S9%2C mitochondrial
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: 30S ribosomal protein S9%2C mitochondrial-like; 30S ribosomal protein S9%2C mitochondrial-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: 30S ribosomal protein S9%2C mitochondrial%2C transcript variant X2
+  Gene Descriptions: 30S ribosomal protein S9%2C mitochondrial
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: small ribosomal subunit protein uS9m%2C transcript variant X2
+  Gene Descriptions: small ribosomal subunit protein uS9m
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 2
+  Modal chromosome: Pau14
+  Gene Products: small ribosomal subunit protein uS9m-like; small ribosomal subunit protein uS9m-like%2C transcript variant X1
+  Gene Descriptions: small ribosomal subunit protein uS9m-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: 30S ribosomal protein S9%2C mitochondrial-like; 30S ribosomal protein S9%2C mitochondrial-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: 30S ribosomal protein S9%2C mitochondrial%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: uncharacterized LOC8072244
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: 30S ribosomal protein S9%2C chloroplastic
+  Gene Synonyms: GRMZM6G832911,pco108199
+  Gene Descriptions: 30S ribosomal protein S9%2C chloroplastic
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 411 aa
+
+MLLRRLLHSSRHLRHGLQTLTPATsAAAApSSSSPLPFRRLPDLLPSRvLSPRLLSTSGR
+DDDtNKPWaFAaDSGDPDPFAdEDAAAAdAGEAPlGSsAAAEEPWAKgFRAEDGENGDVF
+EEIYKEAASAAPAsGEAAPAGddEQWTLSGEDEKKDPFAAAVLGEGiEGIqgEGAGLDEL
+DAGEDpEAELKRQeNkAREKELMETLKGPNRAFGDLIAASGITEdMIDSLILLKDVRGVP
+GLPPLSEIEDEAIQKMNATSSRAEVERQKQEEIAKARVRQVDEKGRAYGTGKRKCSIARV
+WIQPGDGKFIVNEKqFDAYFPILDHRADLLRPFTVTKTLGLWDVTCTVKGGGVSGQVGAI
+RLGISRALQNWEPGLRPYLKAAGYLTRDSRVVERKKPGKAKARKSFQWVKR
+
+
+BOP CONSENSUS:
+Length: 442 aa
+
+MLLRRLLHPSHHLRRGLQTLTTTTNAAAAPSTPHPLSAPLPFRRLPARLLSPRLLSTSGG
+DDDTRRPWAFTQDSGDPDPFADVDPAAAVPGEAPLGSSAVVEDPWSKDFRAEDSDKADVF
+EEIYKDAAAAAPvARKAAPAEPWTWDLEGEKDDPFAARKDAAAAAPTARKAAPAEPWTWD
+lEDEKDDPFAAAVLDVGvEGIADEGAQIEELVDGKEEDAERQRQEdKAREQQLMETLKGP
+DRAFGDLISASGITEDMIDSLILLKDARGVPGLPPLSEIQDRAIQKMNATSSRAEVERQM
+QEEIAKARVRQVDEKGRAYGTGKRKCSIARVWIQPGDGKFVVNDKQFDAYFPILDHRADL
+LRPFTVTKTLGLWDVACTVKGGGVSGQVGAVRLGISRALQNWEPGLRPYLKAAGYLTRDS
+RVVERKKPGKAKARKSFQWVKR
+
+
+PACMAD CONSENSUS:
+Length: 410 aa
+
+MLLRRLLHSSRHFRHGLQTVTPATSASSSSSSSPLPFRRLPDLLPSRVLSPRLLSTSGRD
+DDGNKPWSFAADSGDPDPFAhEDAAADAGEAPPVGSAaAADEPWAKGFGvEDGENGDVFE
+GIYKEAASAAPARGEAAPAGnDEQWTLSGDDEEKDPFAaAVLGEGIEGIQsEGGGLDELD
+AGEDPEAELKRQQNkAREKELMEILKGPNRAFGDLIAASGITEGMIDSLILLKDVRDVPG
+LPPLSEIEDEAIQKLNATSSRAEVERQKQEEIAKARVRQVDEKGRAYGTGKRKCSIARVW
+IqPGDGKFIVNEKEFDAYFPILDHRAELLRPFTVTKTLGLWDVTCTVKGGGVSGQVGAIR
+LGISRALQNWEPGLRPYLKAAGYLTRDSRVVERKKPGKAKARKSFQWVKR
+
+================================================================================

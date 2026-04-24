@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM019439
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             471.0 aa
+Family Size (Extended Family Size): 25 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11680:SF11
+Panther Family ID:               PTHR11680
+Modal Panther ID:                PTHR11680:SF11
+Modal Panther Description:       SERINE HYDROXYMETHYLTRANSFERASE
+Modal Panther Family ID:         PTHR11680
+Modal Panther Fam Desc:          SERINE HYDROXYMETHYLTRANSFERASE
+Interpro Signature Accession:    cd00378; G3DSA:3.90.1150.10:FF:000005; G3DSA:3.40.640.10:FF:000050; G3DSA:3.90.1150.10; G3DSA:3.40.640.10; NF000586; PTHR11680; PIRSF000412; PF00464; SSF53383
+Interpro Signature Description:  SHMT; Serine hydroxymethyltransferase; Aspartate Aminotransferase, domain 1; -; serine hydroxymethyltransferase; SERINE HYDROXYMETHYLTRANSFERASE; PLP-dependent transferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: serine hydroxymethyltransferase 4
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: serine hydroxymethyltransferase 4
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: serine hydroxymethyltransferase 4
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: serine hydroxymethyltransferase 4; serine hydroxymethyltransferase 4-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola11
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: serine hydroxymethyltransferase 4
+  Gene Descriptions: serine hydroxymethyltransferase 4
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: serine hydroxymethyltransferase 4
+  Gene Descriptions: serine hydroxymethyltransferase 4
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 1
+  Modal chromosome: Pau19
+  Gene Products: serine hydroxymethyltransferase 4
+  Gene Descriptions: serine hydroxymethyltransferase 4
+Svi
+  Gene count: 2
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi05K
+  Gene Products: serine hydroxymethyltransferase 4; serine hydroxymethyltransferase 4-like; serine hydroxymethyltransferase 4-like%2C transcript variant X2
+Pha
+  Gene count: 2
+  Modal chromosome: Pha05
+  Gene Products: serine hydroxymethyltransferase 4; serine hydroxymethyltransferase 4-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: serine hydroxymethyltransferase 4
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100192461
+  Gene Synonyms: glycine1,GRMZM2G078143
+  Gene Descriptions: uncharacterized LOC100192461
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 471 aa
+
+MDPVASWGLTPLAgADPEVYDLLEREKRRQRRGIELIASENFTSFAVMEALGSALTNKYS
+EGMPGARYYGGNDVIDEIENLCRSRALAAFRLDAASWGVNVQPYSGSPANFAAYTALLNP
+HDRIMGLDLPSGGHLTHGYYTAGGKKISATSIYFESLPYKVSAATGYIDYEKLEEKALDF
+RPKLIICGGSAYPRDWDYARLRAVADKVGALLLCDMAHISGLVAAQEAANPFEYCDVVTT
+TTHKSLRGPRAGMIFYRKGPKPPKKGQPEGAVYDYEDKINFAVFPSLQGGPHNHQIAALA
+VALQQTMTPGFKAYAKQVKANAVAIGNYLMSKGYKMVTDGTENHLVLWDLRPLGLTGNKV
+EKLCDLCHITLNKNAVFGDSSALAPGGVRIGAPAMTSRGLVEKDFEQIGEFLHQAVTICL
+NIQKEHGKLLKDFNKGLVNNKDIENLKvEVEKFADSFDMPGFTLESMKYKE
+
+
+BOP CONSENSUS:
+Length: 471 aa
+
+MDSVASWGLTPLADADPDVFDLIEREKRRQRSGIELIASENFTSFAVIEALGSALTNKYS
+EGMPGARYYGGNDVIDEIENLCRDRALAAFRLDAASWGVNVQPYSGSPANFAAYTALLNP
+HDRIMGLDLPSGGHLTHGYYTAGGKKISATSIYFESLPYKVSAANGYIDYDKLEEKAMDF
+RPKLIICGGSAYPRDWDYARLRAVADKVGAMLLCDMAHISGLVAAQEAANPFEFCDVVTT
+TTHKSLRGPRAGMIFYRKGPKPAKKGQPEGAVYDYEDKINFAVFPSLQGGPHNHQIAALA
+VALKQTmTPGFKAYAKQVKANAVAVGKYLMSKGYKMVTDGTDNHLVLWDLRPLGLTGNKV
+EKMCDLCSITLNKNAVFGDSSALSPGGVRIGAPAMTSRGLVEKDFEQIAEFLHQAVTICL
+NIQKEHGKLLKDFSKGLVNNKDIENLKVEVEKFAtSFDMPGFTLESMKYKE
+
+
+PACMAD CONSENSUS:
+Length: 471 aa
+
+MDPVATWGLTPLAGADPEIYDLLEREKRRQRRGIELIASENFTSFAVMEALGSPLTNKYS
+EGMPGARYYGGNDVIDEIENLCRSRALAAFRLDPAsWGVNVQPYSGSPANFAAYTALLNP
+HDRIMGLDLPSGGHLTHGYYTAGGKKISATSIYFESLPYKVSATTGYIDYEKLEEKALDF
+RPKLIICGGSAYPRDWDYARLRAVADKVGALLLCDMAHISGLVAAQEAANPFEYCDVVTT
+TTHKSLRGPRAGMIFYRKGPKPPKKGQPEGAVYDYEDKINFAVFPSLQGGPHNHQIAALA
+VALQQTMTPGFKAYAKQVKANAVAIGNYLMSKGYKMVTDGTENHLVLWDLRPLGLTGNKV
+EKLCDLCHITLNKNAVFGDSSALAPGGVRIGAPAMTSRGLVEKDFEQIGEFLHQAVTICL
+NIQKEYGKLLKDFNKGLVNNKDIENLKAEVEKFADSFDMPGFTLESMKYKE
+
+================================================================================

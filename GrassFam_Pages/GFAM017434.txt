@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM017434
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             336.0 aa
+Family Size (Extended Family Size): 22 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10120:SF26
+Panther Family ID:               PTHR10120
+Modal Panther ID:                PTHR10120:SF26
+Modal Panther Description:       PLASTOGLOBULE-LOCALIZED METALLOPEPTIDASE 48, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR10120
+Modal Panther Fam Desc:          CAAX PRENYL PROTEASE 1
+Interpro Signature Accession:    cd01629; cd07325; G3DSA:3.40.50.1000:FF:000088; G3DSA:1.10.720.60:FF:000001; G3DSA:3.30.2010.10:FF:000007; G3DSA:3.40.50.1000; G3DSA:1.10.720.60; G3DSA:3.30.2010.10; TIGR01691; PTHR20371; SFLDF00044; SFLDG01129; SSF56784
+Interpro Signature Description:  HAD_EP; M48_Ste24p_like; Probable bifunctional methylthioribulose-1-phosphate dehydratase/enolase-phosphatase E1; Peptidase M48 family protein; -; Metalloproteases ("zincins"), catalytic domain; acireductone synthase; ENOLASE-PHOSPHATASE E1; enolase-phosphatase; C1.5: HAD, Beta-PGM, Phosphatase Like; HAD-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                4.55%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: uncharacterized LOC100839697
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: uncharacterized LOC123442757
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: protease HtpX homolog
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: protease HtpX homolog; uncharacterized LOC123060223; uncharacterized LOC123077223
+Ola
+  Gene count: 2
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: plastoglobule-localized metallopeptidase 48%2C chloroplastic
+  Gene Descriptions: plastoglobule-localized metallopeptidase 48%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: plastoglobule-localized metallopeptidase 48%2C chloroplastic
+  Gene Descriptions: plastoglobule-localized metallopeptidase 48%2C chloroplastic
+Pau
+  Gene count: 1
+  Modal chromosome: Pau01
+  Gene Products: plastoglobule-localized metallopeptidase 48%2C chloroplastic-like%2C transcript variant X1
+  Gene Descriptions: plastoglobule-localized metallopeptidase 48%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: uncharacterized LOC120676566; uncharacterized LOC120706311
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: uncharacterized LOC112895933
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: uncharacterized LOC8085061
+Zma
+  Gene count: 3
+  Modal chromosome: Zma03
+  Gene Products: putative peptidase M48 family protein%2C transcript variant X3; uncharacterized LOC103654641; uncharacterized LOC109941563
+  Gene Synonyms: GRMZM2G111200
+  Gene Descriptions: putative peptidase M48 family protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 569 aa
+
+MAACAsPTLPRQPVhrRCCWAPKPSSSSSTSrRPRrRrVLVlAAiSARASPAAARGLDAD
+DFRHPLDKQNTLLLRAIPGLNDIGKALLGPVSEQVMVLQNIGSSVLVSpNQLPELHQLmv
+EAAKILNTEAPDLYIRQNPVPNAYTLAINGKKPFVVVHTSLVELLTRKELQAVLAHELGH
+LKCDHGVWLTFANILTMGAYTVPGFGMVAGFLEEQLYRWLRAAELTCDRAALLVVQDPKV
+VISVLMKLAGGCPSLADQLNVDAFLEQARSYDKAASNPVGWYIRNAQTRELSHPLPVMRA
+REIDEWSRSQEYKTLMQKMLQMGLNRCVVLDIEGTTtPISFVTDVLFPYARDNVRkHLdA
+TYhTdqTrdDIALLRAQVeQDLAEGVAGAVPvPPDeAGkDkVIDALVANVEAMIdADRKi
+TsLKQLQGHIWRTGFESQEIKGVVYDDVPPALAEWHAsGIKTYIYSSGSREAQRLIFGNT
+TYGDLRKYLsGFFDTnVGGKRESRSYYEIWQTVGVDRPSQILFLTDVYQEATAAKDAGLE
+VLISIRPGNAPLPENHGFQTITSFAQILT
+
+
+BOP CONSENSUS:
+Length: 548 aa
+
+MAACLSPTLPRqtIHRRRCWTPKPpSSPSTAtYsQRHRyRnIGTSSGAISARASSAAaVA
+RGLDADDFRHPLDKQNTLLLKAIPGLNDIGKALLGPVSEQVMVLQNIGSSVLVSENQLPE
+LHQLMtEAAKILNTEAPDLYIRQNPVPNAYTLAINGKRPFVVVHTSLVELLTRKELQAVL
+AHELGHLKCDHGVWLTFANILTMGAYTVPGLGMVAGFLEEQLFRWLRAAELTCDRAALLV
+VQDPKVVISVLMKLAGGCPSLSDQLNVDAFLEQARSYDKASSNPVGWYIRNAQTRELSHP
+LPRCVVMDIEGTTTPISFVADVLFPYARANARAHLAATYHTqQTrEDIALLRAQIDQDLA
+DGVPGAVPLPPPDDTDQDKtIDALVANVQAMIDADRKLTALKQLQGRVWRRGFeSGEIKG
+EVYDDVVQALAEWDArGIKSYIYSSGSREAQRLIFGNTtaHGDLRRYLSAFFDTNVGGKK
+ESRSYYEIWQTLGVDSPSQILFLTDVYQEATAARDAGLEVLISIRPGNAPLPEDHGFQTI
+TSFAQIST
+
+
+PACMAD CONSENSUS:
+Length: 578 aa
+
+MAASPACAPGLISGPTLPPQPVAFRCCWAPKPSSSSSTSRRPRRRRVLVLAAASARASPA
+AARGLDADDFRHPLDKQNTLLLRAIPGLNDVGKALLGPVSEQVMVLQNIGSSVLVSPNQL
+PDLHQLLVEAAKLLNTEAPDLYIRQNPVPNAYTLAINGKKPFIVVHTSLVELLTRKELQA
+VLAHELGHLKCDHGVWLTFANILTMGAYTVPGFGMVAGFMEEQLYRWLRAAELTCDRAAL
+LVVQDPKVVISVLMKLAGGCPSLADQLNVDAFLEQARSYDKAASNPVGWYIRNAQTRELS
+HPLPVMRAREIDEWSRSQEYKTLMQKmLQMGLNRRSVVLDIEGTTSPISFVTDVLFPYAR
+DNVRKHLDATYGSDETNDDIALLRAQVEQDLAEGVAGAVPVPPDEAGKDEVIDALVANVE
+AMIKADRKITSLKQLQGHIWRTGFEGQEIKGVVFDDVPPALERWHASGIKTYIYSSGSRE
+AQRLIFGNTTYGDLRKYLCGFFDTTVGTKREPRSYYEIWQSVGVDRPSQILFLTDVYQEA
+TAAKAAGLEVLISIRPGNAPLPENHGFQTITTFAEILT
+
+================================================================================

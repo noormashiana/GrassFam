@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM018658
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             600.0 aa
+Family Size (Extended Family Size): 27 (31) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43452:SF5
+Panther Family ID:               PTHR43452
+Modal Panther ID:                PTHR43452:SF5
+Modal Panther Description:       PYRUVATE DECARBOXYLASE 3
+Modal Panther Family ID:         PTHR43452
+Modal Panther Fam Desc:          PYRUVATE DECARBOXYLASE
+Interpro Signature Accession:    cd02005; cd07038; G3DSA:3.40.50.970:FF:000017; G3DSA:3.40.50.1220:FF:000009; G3DSA:3.40.50.970:FF:000021; G3DSA:3.40.50.1220; G3DSA:3.40.50.970; PTHR43452; PIRSF036565; PF02776; SSF52518; SSF52467
+Interpro Signature Description:  TPP_PDC_IPDC; TPP_PYR_PDC_IPDC_like; pyruvate decarboxylase 1; Pyruvate decarboxylase 1; -; PYRUVATE DECARBOXYLASE; Pyruvt_ip_decrb; Thiamine pyrophosphate enzyme, N-terminal TPP binding domain; Thiamin diphosphate-binding fold (THDP-binding); DHS-like NAD/FAD-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu02H
+  Gene Products: pyruvate decarboxylase 2-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata02D
+  Gene Products: pyruvate decarboxylase 2-like
+Tae
+  Gene count: 9
+  Modal chromosome: Tae02A
+  Gene Products: pyruvate decarboxylase 2-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: pyruvate decarboxylase 3
+  Gene Descriptions: pyruvate decarboxylase 3
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: pyruvate decarboxylase 3-like
+  Gene Synonyms: OsJ_024667,PDC,PDC3
+  Gene Descriptions: pyruvate decarboxylase 3-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 1
+  Modal chromosome: Pau14
+  Gene Products: pyruvate decarboxylase 2-like
+  Gene Descriptions: pyruvate decarboxylase 2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi09K
+  Gene Products: pyruvate decarboxylase 2-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: pyruvate decarboxylase 3
+Msi
+  Gene count: 1
+  Modal chromosome: Msi04
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: pyruvate decarboxylase 3
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 600 aa
+
+METGIGSVDGPKgAPSGAVACPATFpASSPtfVGSpEATLGRHLARRLVQVGVSDVFAVP
+GDFNLTLLDHLIAEPGLRLVGCCNELNAGYAADGYARAKGVGACAVTFTVGGLSVLNAIA
+GAYSENLPLICIVGGPNSNDYGTNRILHHTIGLPDFSQELRCFQPVTCYQAVVNNLDDAH
+EQIDKAISTALKESKPVYISVSCNLPGVPHPTFSRDPVPYFLAPRmSNQMGLEAAVEATV
+AFLDKAVKPVMVAGPKLRVAKAGaAFAELADASGYAVATMPSAKGLVPETLPRFIGTYWG
+AVSTAFCAEIVESADAYLFAGPIFNDYSSVGYSFLLKKEKAVIVQPDRVTVGNGPAFGCI
+MMKDFLSELAKRlKKNTTAYENYKRIFVPEGQPPESEPGEPLRVNVLFKHIQKMLTGDSA
+VIAETGDSWFNCQKLKLPDGCGYEFQMQYGSIGWSVGALLGYAQGAtDKRVIACIGDGSF
+QVTAQDVSTMLRCgQnSIIFLINNGGYTIEVEIHDGPYNVIKNWNYTGLVDAIHNGEGNC
+WTAKVTCEEELTAAIETATGDKKDCLCFIEVVAHKDDTSKELLEWGSRVSAANSRPPNPQ
+
+
+BOP CONSENSUS:
+Length: 600 aa
+
+METGIGSVDGPKGAPSGAVACPATFPASSPTFVGSPEATLGRHLARRLVQVGVSDVFAVP
+GDFNLTLLDHLIAEPGLRLVGCCNELNAGYAADGYARAKGVGACAVTFTVGGLSVLNAIA
+GAYSENLPLICIVGGPNSNDYGTNRILHHTIGLPDFSQELRCFTPVTCYQAVVNNLDDAH
+EQIDKAISTALKESKPVYISVSCNLPgVPHPTFSRDPVPYFLAPRMSNQMGLEAAVEATV
+AFLDKAVKPVMVAGPKLRVAKAGAAFAELADASGYAVATMPSAKGLVAETLPRFIGTYWG
+AVSTAFCAEIVESADAYLFAGPIFNDYSSVGYSFLLKKEKAVIVQPDRVTVGNGPAFGCI
+MMKDFLtELGKRLKKNTTAYENYKRIWVPEGQPPESEPGEPLRVNVLFKHIQKMLTGDSA
+VIAETGDSWFNCQKLKLPDGCGYEFQMQYGSIGWSVGALLGYAQGATDKRVIACIGDGSF
+QVTAQDVSTMLRCGQNSIIFLINNGGYTIEVEIHDGPYNVIKNWNYTGLVDAIHNGEGNC
+WTAKVTCEEELTAAIETATGDKKDCLCFIEVVAHKDDTSKELLEWGSRVSAANSRPPNPQ
+
+
+PACMAD CONSENSUS:
+Length: 604 aa
+
+MDTSIIGSVDGHRPAASGAVACPAGCIyTSSAPGGvPGPrDATLGRHLARRLVQVGVSDV
+FAVPGDFNLTLLDHLIAEPGLRLVGCCNELNAGYAADGYARARGVGACAVTFTVGGLSVL
+NAIAGAYSENLPVICvVGGPNSNDYGTNRILHHTIGLPDFSQELRCFQPVTCHQAVVNNL
+DDAHEQIDRAISTALRESKPVYISVSCNLPGLPHPTFtRDPVPYFLAPRLSNqmGLEAAV
+EATVAFLDKAVKPVMVAGPKIRVAKAGeAFVELAEASGYAVAAMPSAKGLVPETLPRFLG
+TYWGAVSTAFCAEIVESADAYLFAGPIFNDYSSVGYSsLLKKDKAVVVQPDRVTVGNGPT
+FGCVMMkDFLSELAkRVRrNTTAYDNYRRIFVPEGQPPECEpGEPLRVNVLFKHIQRMLT
+GDSAVIAETGDSWFNCQKLRLPDGCGYEFQMQYGSIGWSVGALLGYAQGAtgKRVIACIG
+DGSFQVTAQDVSTMLRCEQrSIIFLINNGGYTIEVEIHDGPYNVIKNWNYTGLVDAIHNG
+EGnCWTAKVTCEEELTAAIdTATGErKDCLCFIEVVAHKDDTSKELLEWGSRVSAANSRP
+PNPQ
+
+================================================================================

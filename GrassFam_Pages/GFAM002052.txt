@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM002052
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             427.0 aa
+Family Size (Extended Family Size): 38 (40) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22849:SF168
+Panther Family ID:               PTHR22849
+Modal Panther ID:                PTHR22849:SF168
+Modal Panther Description:       U-BOX DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR22849
+Modal Panther Fam Desc:          WDSAM1 PROTEIN
+Interpro Signature Accession:    cd16664; G3DSA:3.30.40.10; PTHR22849; PF25598; SM00504; SSF57850
+Interpro Signature Description:  RING-Ubox_PUB; Zinc/RING finger domain, C3HC4 (zinc finger); WDSAM1 PROTEIN; Plant U-box protein ARM repeat region; Ubox_2; RING/U-box
+
+
+REXdb Match:                     False
+REXdb Percentage:                2.63%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: E3 ubiquitin-protein ligase PUB23
+Lpe
+  Gene count: 5
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu06H
+  Gene Products: E3 ubiquitin-protein ligase PUB23-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: E3 ubiquitin-protein ligase PUB23
+Tae
+  Gene count: 7
+  Modal chromosome: Tae06B
+  Gene Products: E3 ubiquitin-protein ligase PUB23-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: E3 ubiquitin-protein ligase PUB23-like
+  Gene Descriptions: E3 ubiquitin-protein ligase PUB23-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: E3 ubiquitin-protein ligase PUB23
+  Gene Descriptions: E3 ubiquitin-protein ligase PUB23
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: E3 ubiquitin-protein ligase PUB23-like
+  Gene Descriptions: E3 ubiquitin-protein ligase PUB23-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: E3 ubiquitin-protein ligase PUB23-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: E3 ubiquitin-protein ligase PUB23-like
+Msi
+  Gene count: 10
+  Modal chromosome: Msi08
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi04
+  Gene Products: E3 ubiquitin-protein ligase PUB23
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: E3 ubiquitin-protein ligase PUB23
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 430 aa
+
+MEVSSSssAvEVPhYFLCPISLEVMRDPVTLATGITYDRASIERWLFsDGHATCPVTRRa
+LAPAERDATPNHTLRRLIQAWCAAHqVERFPTPRPPLDSCRVAALVDEGRHGGrrQEaAA
+LREIKAIVAESDRNRRCVEATPGAVDFLVSVVaKHStTSnDSsSKSAeDLlEFvLDSPTS
+TSSPAEDALGVLYSLKPSErSLAQILERnGDFLDTLaSVLRRPSYRSRaYGILLLKAMts
+VMEPARLMTVSaeLVQEVVRVVSDRVSSKAVKAALHVLCRLCPWGRNRVKAVEAGAVAaL
+VELLLDEGGRRvTELAVVAIDHLCGCAEGRSELVAHPAGLAVVSKKAMRVSlaATESAVR
+ALHAVARHSPTPAVLQEMLAVGVVAKLLLVLQVDAGERARaRAKEMLKtHARVWKDSPCL
+QAHLKASYPC
+
+
+BOP CONSENSUS:
+Length: 420 aa
+
+MEGsSVEVPPYFLCPISLEIMRDPVTLATGITYDRcSIERWLSDGHATCPVTQQKLAEAD
+REATPNHTLRRLTQAWCALHAVERFPTPRPPLDACRVAaIVeEGhGAGRQQELAALREIK
+AIVAESDRNRRCVEATPGAVEFLVSVVRNHATASKSAEDLLELSLDSPTSTSSPEEDALS
+VICSLKPSKKSLvRILEkNnDFLDTLVyMLRRPSYRSRCYGILLLKAMVSVMEPARLMAV
+RTEVVQEVVRVVSDRVSAKAVKAALHVLCRLCPWGRNRVKAVEAGAMTVLVELLLDEGGR
+HPTELAVVAIDHLCGCAEGRSDLVAHPAGLAVVAKKAMRVSLTTTESAVRALHAVARHSP
+TPAVLQEMLAVGVVAKLLLVLQVDAGERARAKAKELLKMHARVWKDSPCLQAHLKAhYPC
+
+
+PACMAD CONSENSUS:
+Length: 434 aa
+
+MEVSSSSAAEVPHYFLCPISLEVMRDPVTLATGITYDRASIERWLFTDGHATCPVTRRAL
+APAEMDATPNHTLRRLIQAWCAAHQVERFPTPRPPLDSCRVAALLDEGRHGGDRQgAAAL
+REIKAVVAESERNRRCVEATPGAVDFLASLVAKHSSTSNDSSSKRASGQQDAAADDFVLD
+SPTSTSSPAEDALGVLYSLKPSERSLAQIMERDGDFLDTLASVLRRPSYRSRAYGILLLK
+AMTAVMTPARLMTVSAGLVQEVVRVVSDRVSSKAVRAALHVLCRLCPWGRNRVKAVEAGA
+VAALVELLLDEGGRRVSELAVVAIDHLCGCAEGRSELVAHPAGLAVVSKKVMRVSVVATE
+SAVRALHAVAKHSPTPSVLQEMLAVGVVAKLLLVLQVNAGERAGLRAKEMLKTHARVWKD
+SPCLQTYLRDSYPC
+
+================================================================================

@@ -1,0 +1,131 @@
+================================================================================
+GrassFam ID: GFAM018670
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             542.0 aa
+Family Size (Extended Family Size): 18 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11817:SF21
+Panther Family ID:               PTHR11817
+Modal Panther ID:                PTHR11817:SF21
+Modal Panther Description:       PYRUVATE KINASE
+Modal Panther Family ID:         PTHR11817
+Modal Panther Fam Desc:          PYRUVATE KINASE
+Interpro Signature Accession:    G3DSA:2.40.33.10:FF:000005; G3DSA:3.40.1380.20:FF:000016; G3DSA:3.20.20.60:FF:000025; G3DSA:3.40.1380.20; G3DSA:2.40.33.10; G3DSA:3.20.20.60; TIGR01064; PTHR11817; PR01050; PF00224; SSF51621; SSF52935
+Interpro Signature Description:  Pyruvate kinase; -; pyruvate kinase; PYRUVATE KINASE; Pyruvate kinase family signature; Pyruvate kinase, barrel domain; Phosphoenolpyruvate/pyruvate domain; PK C-terminal domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: pyruvate kinase isozyme A%2C chloroplastic
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: pyruvate kinase isozyme A%2C chloroplastic-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: plastidial pyruvate kinase 1%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: plastidial pyruvate kinase 1%2C chloroplastic-like; pyruvate kinase isozyme A%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: plastidial pyruvate kinase 1%2C chloroplastic-like
+  Gene Descriptions: plastidial pyruvate kinase 1%2C chloroplastic-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: plastidial pyruvate kinase 1%2C chloroplastic
+  Gene Descriptions: plastidial pyruvate kinase 1%2C chloroplastic
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi09N
+  Gene Products: pyruvate kinase isozyme A%2C chloroplastic-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: pyruvate kinase isozyme A%2C chloroplastic-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: pyruvate kinase isozyme A%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100272951%2C transcript variant 1
+  Gene Synonyms: GRMZM2G177947,TIDP3692
+  Gene Descriptions: uncharacterized LOC100272951
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 539 aa
+
+MATSAAATSSFPYLVAASPAARRhGAHRIRASAEGAMDVVSEAELREKGFMGMRKTKLVC
+TVGPACVEALPALARGGMGVARVNLCHGGREWHRAAMREVRRLNEEEGFCVSLMVDTEGS
+QLLVADHGGAASVKAEDGSEWLFTSKKTDEAHPFTMHVNFDKFSEGILVGDELVIDGGMA
+TFEVTEKIGNDLRCKCTDPGLLLPRAKLSFWRNGKLVERNFGLPTLSTKDWADIEFGIAE
+GVDCIALSFVKDANDIKsLKTYLSRRSLEHIKIFAKIESLESLKNLKDIIEASDGVMVAR
+GDLGVQIPLEQIPAIQEAIVeLCRhLNKPVIVASQLLESMVEYPTPTRAEVADVSEAVRQ
+YADAVMLSAESAIGAYPQKALSVLRAASERMESWSREENMQKLLPQYQLAIALPDRISEQ
+ICtSAVEMANNLAVDAIFVYTKHGHMASLLSRNRPNPPIFAFTDNANSRKSMNLYWGVIP
+LQLPLSNSMEDNFKQTIKLMKSKGSVKPGDTVLVVADSDLNRPCAATSVFQSIQVRLVD
+
+
+BOP CONSENSUS:
+Length: 540 aa
+
+MATSAATSSFPSYLfPApASRRSGARPARAAAEGVMDVVSEAELREKGFMGMRKTKLVCT
+VGPACVDALPALARGGMGVARVNLCHGGRDWHRAAMREVRRLNEEEGFCVSLMVDTEGSQ
+LLVADHGGAASVKAEDCSEWLFTSKKTDKAHPFTMHVNFDKFSEGILVGDELVIDGGMAT
+FEVTEKIGsDLRCKCTDPGLLLPRAKLSFWRDGKLVERNFGLPTLSTKDWADIEFGITEG
+VDCIALSFVKDANDIKSLKTYLSRRSLEHIKIFAKIESLESLKNLKDIIEASDGVMVARG
+DLGVQVPLEQIPAIQEAIVELCRNLNKPVIVASQLLESMVEYPTPTRAEVADVSEAVRQY
+ADAIMLSAESAIGAYPEKALSVLRAASERMESWSREENMQRLLPQYQLAIALPDRISEQI
+CTSAVEMANNLAVDAIFVYTKHGHMASLLSRNRPNPPIFAFTDDANTRKSMNLYWGVIPL
+QLPLSNSMDDNFKQTIKLLKSKGSVKPGDSVLVVADSDLNQPCAAATSSVYQSIQVRLVD
+
+
+PACMAD CONSENSUS:
+Length: 542 aa
+
+MAASARTTSSFPYLVAASSPAARRHGAsHRIRASVGEAAMDVVSEAELREKGFMGMRKTK
+LVCTVGPACVEALPALARGGMGVARVNLCHGGREWHRAAMRAVRRLNEEEGFCVSLMVDT
+EGSQLLVADHGGATSVKAEDGSEWIFTNKKADEAHQFTMHVNFDKFSEGILVGDELVIDG
+GMATFEVTEKIGNDLRCKCTDPGLLLPRAKLSFWRNGKLVQRNFGLPTLSTKDWADIEFG
+IAEGVDCIALSFVNDANDIKQLKAYLSRRSLEHIKVFAKIESLESLKNLKDIIEASDGVM
+VARGDLGVQIPLEQIPAIQESIVKLCRHLNKPVIVASQLLESMVEYPTPTRAEVADVSEA
+VRQYADAVMLSAESAIGAYPQKALSVLRAASERMESWSREENMQKLLPQHQLAIALPDRI
+SEQICNCAVEMANNLAVDAIFVYTKHGHMASLLSRNRPNPPIFAFTDNANSRKSMNLYWG
+VIPLHLPLSNSMEDNFNKTISLMKSKGSVKPGDTVLVVSDSDLNRPCAATSVFQSIQVRL
+VE
+
+================================================================================

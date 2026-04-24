@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM020986
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             480.0 aa
+Family Size (Extended Family Size): 19 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11374:SF61
+Panther Family ID:               PTHR11374
+Modal Panther ID:                PTHR11374:SF61
+Modal Panther Description:       UDP-GLUCOSE 6-DEHYDROGENASE 1
+Modal Panther Family ID:         PTHR11374
+Modal Panther Fam Desc:          UDP-GLUCOSE DEHYDROGENASE/UDP-MANNAC DEHYDROGENASE
+Interpro Signature Accession:    G3DSA:3.40.50.720:FF:000032; G3DSA:3.40.50.720:FF:000089; G3DSA:3.40.50.720; TIGR03026; PTHR11374; PIRSF500133; PIRSF000124; PF00984; PF03721; PF03720; SM00984; SSF48179; SSF52413; SSF51735
+Interpro Signature Description:  UDP-glucose 6-dehydrogenase; -; nucleotide sugar dehydrogenase; UDP-GLUCOSE DEHYDROGENASE/UDP-MANNAC DEHYDROGENASE; UDPglc_DH_euk; UDPglc_GDPman_dh; UDP-glucose/GDP-mannose dehydrogenase family, central domain; UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain; UDP-glucose/GDP-mannose dehydrogenase family, UDP binding domain; UDPG_MGDP_dh_C_a_2_a; 6-phosphogluconate dehydrogenase C-terminal domain-like; UDP-glucose/GDP-mannose dehydrogenase C-terminal domain; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: UDP-glucose 6-dehydrogenase 4
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: UDP-glucose 6-dehydrogenase 4-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: UDP-glucose 6-dehydrogenase 4
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: UDP-glucose 6-dehydrogenase 4-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: UDP-glucose 6-dehydrogenase 1
+  Gene Descriptions: UDP-glucose 6-dehydrogenase 1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: UDP-glucose 6-dehydrogenase 1
+  Gene Synonyms: Os-UGD1,UGD1
+  Gene Descriptions: UDP-glucose 6-dehydrogenase 1
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: UDP-glucose 6-dehydrogenase 4-like
+  Gene Descriptions: UDP-glucose 6-dehydrogenase 4-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: UDP-glucose 6-dehydrogenase 4-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: UDP-glucose 6-dehydrogenase 4-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: UDP-glucose 6-dehydrogenase 4
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 480 aa
+
+MVKICCLGAGYVGGPTMAVIALKCPDIEVCVVDISVsRIaAWNSDQLPIYEPGLDEVVKQ
+CRGRNLFFSNDIEKHVAEADIIFVSVNTPTKTRGLGAGKAADLTYWESAARMIADVAKSD
+KIVVEKSTVPVKTAEAIEKILTHNSKGINFQILSNPEFLAEGTAIEDLFKPDRVLIGGRE
+TPEGQKAVKALKDVYAHWVPEDRILTTNLWSAELSKLAANAFLAQRISSVNAISALCEAT
+GANVsEVAYAVGKDSRIGPKFLNASVGFGGSCFQKDILNLVYICECNGLPEVANYWKQVI
+KINDYQKSRFVNRVVSSMFNTVSGKKIAVLGFAFKKDTGDTRETAAIDVCKGLLGDKAKI
+SIYDPQVTEDQIQRDLAMNKFDWDHPIHLQPMSPTAVKQVSVTWDAYEATKGAHGICILT
+EWDEFKTLDYKKIYDSMQKPAFLFDGRNVIDsEKLREIGFIVYSIGKPLDpWLKDMPAVA
+
+
+BOP CONSENSUS:
+Length: 480 aa
+
+MVKICCLGAGYVGGPTMAVIALKCPDIQVVVVDITKSRIDAWNSDTLPIYEPGLDEVVKQ
+CRGKNLFFSNDIEKHVSEADIIFVSVNTPTKTRGLGAGKAADLTYWESAARMIADVAKSD
+KIVVEKSTVPVKTAEAIEKILTHNSNGINFQILSNPEFLAEGTAIQDLFNPDRVLIGGRE
+TPEGQKAVQTLKAVYAHWVPEDQILTTNLWSAELSKLAANAFLAQRISSVNAMSALCEAT
+GANVSEVSYAVGKDSRIGPKFLNASVGFGGSCFQKDILNLVYICECNGLPEVANYWKQVI
+KINDYQKSRFVNRVVSSMFNTVANKKIAVLGFAFKKDTGDTRETPAIDVCKGLLGDKAKI
+SIYDPQVTEDQIQRDLAMNKFDWDHPVHLQPMSPTTTKQVSVTWDAYEATKDAHGICIMT
+EWDEFKTLDYKKIYDSMQKPAFVFDGRNVVDSEKLREIGFIVYSIGKPLDGWLKDMPAVA
+
+
+PACMAD CONSENSUS:
+Length: 480 aa
+
+MVKICCLGAGYVGGPTMAVIALKCPAIEVCVVDISVPRIAAWNSDQLPIYEPGLDEVVKQ
+CRGRNLFFSNDIEKHVAEADIIFVSVNTPTKTRGLGAGKAADLTYWESAARMIADVAKSD
+KIVVEKSTVPVKTAEAIEKILTHNSKGINFQILSNPEFLAEGTAIEDLFKPDRVLIGGRE
+TPEGQKAVKALKDVYANWVPEDRILTTNLWSAELSKLAANAFLAQRISSVNAISALCEAT
+GANVAEVAYAVGKDSRIGPRFLNASVGFGGSCFQKDILNLVYICECNGLPEVANYWKQVI
+KINDYQKSRFVNRVVSSMFNTVSGKKIAVLGFAFKKDTGDTRETAAIDVCKGLLGDKAKI
+SIYDPQVTEDQIQRDLAMNKFDWDHPIHLQPMSPTAVKQVSVTWDAYEATKGAHGICILT
+EWDEFKTLDYKKIYDSMQKPAFLFDGRNVIDAEKMREIGFIVYSIGKPLDPWLKDMPAVA
+
+================================================================================

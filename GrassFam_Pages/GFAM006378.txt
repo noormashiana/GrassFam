@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM006378
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             485.0 aa
+Family Size (Extended Family Size): 34 (36) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23420:SF27
+Panther Family ID:               PTHR23420
+Modal Panther ID:                PTHR23420:SF27
+Modal Panther Description:       ADENOSYLHOMOCYSTEINASE
+Modal Panther Family ID:         PTHR23420
+Modal Panther Fam Desc:          ADENOSYLHOMOCYSTEINASE
+Interpro Signature Accession:    cd00401; G3DSA:3.40.50.720:FF:000004; G3DSA:3.40.50.720; G3DSA:3.40.50.1480; TIGR00936; NF004005; PTHR23420; PIRSF001109; PF00670; PF05221; SM00997; SM00996; SSF52283; SSF51735
+Interpro Signature Description:  SAHH; Adenosylhomocysteinase; -; adenosylhomocysteinase; ADENOSYLHOMOCYSTEINASE; S-adenosyl-L-homocysteine hydrolase, NAD binding domain; S-adenosyl-L-homocysteine hydrolase; AdoHcyase_NAD_2; AdoHcyase_2; Formate/glycerate dehydrogenase catalytic domain-like; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                2.94%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: adenosylhomocysteinase
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu02H
+  Gene Products: adenosylhomocysteinase; adenosylhomocysteinase-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata02D
+  Gene Products: adenosylhomocysteinase
+Tae
+  Gene count: 6
+  Modal chromosome: Tae02A
+  Gene Products: adenosylhomocysteinase-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: adenosylhomocysteinase
+  Gene Descriptions: adenosylhomocysteinase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: adenosylhomocysteinase
+  Gene Descriptions: adenosylhomocysteinase
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 2
+  Modal chromosome: Pau12
+  Gene Products: adenosylhomocysteinase; adenosylhomocysteinase-like
+  Gene Descriptions: adenosylhomocysteinase; adenosylhomocysteinase-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi01K
+  Gene Products: adenosylhomocysteinase%2C transcript variant X1; adenosylhomocysteinase-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha01
+  Gene Products: adenosylhomocysteinase; adenosylhomocysteinase-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: adenosylhomocysteinase
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: adenosylhomocysteinase
+  Gene Synonyms: GRMZM2G015295
+  Gene Descriptions: adenosylhomocysteinase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 485 aa
+
+MALSVEKTSSGREYKVKDLSQADFGRLEIELAEVEMPGLMACRAEFGPSQPFAGARISGS
+LHMTIQTAVLIETLTALGAEVRWCSCNIFSTQDHAAAAIARDSAAVFAWKGETLEEYWWC
+TERCLDWGaGGGPDLIVDDGGDATLLIHEGVKAEEEYEKSGKVPDPESTDNAEFKIVLTI
+IRDGLKaDPKKYRKMKERLVGVSEETTTGVKRLYQMQETGTLLFPAINVNDSVTKSKFDN
+LYGCRHSLPDGLMRATDVMIAGKVAVVCGYGDVGKGCAAALKQAGARVIVTEIDPICALQ
+ALMEGLQVLTLEDVVSEADIFVTTTGNKDIIMVDHMRKMKNNAIVCNIGHFDNEIDMnGL
+ETYPGVKRITIKPQTDRWVFPETNTGIIVLAEGRLMNLGCATGHPSFVMSCSFTNQVIAQ
+LELWKEKSSGKYEKKVYVLPKHLDEKVAALHLGKLGARLTKLTKSQADYISVPVEGPYKP
+AHYRY
+
+
+BOP CONSENSUS:
+Length: 485 aa
+
+MALSVEKTSSGREYKVKDLSQADFGRLELELAEVEMPGLMACRTEFGPSQPFKGARISGS
+LHMTIQTAVLIETLTALGAEVRWCSCNIFSTQDHAAAAIARDSAAVFAWKGETLEEYWWC
+TERCLDWGAGGGPDLIVDDGGDATLLIHEGVKAEEEFEKSGKVPDPESTDNPEFKIVLTI
+IRDGLKTDARKYRKMKERLVGVSEETTTGVKRLYQMQESGTLLFPAINVNDSVTKSKFDN
+LYGCRHSLPDGLMRATDVMIAGKVAVVCGYGDVGKGCAAALKQAGARVIVTEIDPICALQ
+ALMEGIQILTLEDVVSEADIFVTTTGNKDIIMVDHMRKMKNNAIVCNIGHFDNEIDMNGL
+ETYPGVKRITIKPQTDRWVFPETNTGIIVLAEGRLMNLGCATGHPSFVMSCSFTNQVIAQ
+LELWKEKATGKYEKKVYVLPKHLDEKVAALHLGKLGARLTKLTKSQSDYISIPVEGPYKP
+AAYRY
+
+
+PACMAD CONSENSUS:
+Length: 485 aa
+
+MALSVEKTSSGREYKVKDLSQADFGRLEIELAEVEMPGLMACRAEFGPSKPFAGARISGS
+LHMTIQTAVLIETLTALGAEVRWCSCNIFSTQDHAAAAIARDSAAVFAWKGETLEEYWWC
+TERCLDWGEGGGPDLIVDDGGDATLLIHEGVKAEEEYEKTGKIPDPESTDNAEFKIVLTI
+IRDGLKADPKKYRKMKERLVGVSEETTTGVKRLYQMQETGTLLFPAINVNDSVTKSKFDN
+LYGCRHSLPDGLMRATDVMIAGKVAVVCGYGDVGKGCAAALKQAGARVIVTEIDPICALQ
+ALMEGLQVLTLEDVVSEADIFVTTTGNKDIIMVDHMRKMKNNAIVCNIGHFDNEIDMLGL
+ETYPGVKRITIKPQTDRWVFPETNTGIIVLAEGRLMNLGCATGHPSFVMSCSFTNQVIAQ
+LELWKEKSSGKYEKKVYVLPKHLDEKVAALHLGKLGAKLTKLTKSQADYISVPIEGPYKP
+AHYRY
+
+================================================================================

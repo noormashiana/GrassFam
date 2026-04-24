@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM002228
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             484.0 aa
+Family Size (Extended Family Size): 22 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31561:SF177
+Panther Family ID:               PTHR31561
+Modal Panther ID:                PTHR31561:SF177
+Modal Panther Description:       3-KETOACYL-COA SYNTHASE
+Modal Panther Family ID:         PTHR31561
+Modal Panther Fam Desc:          3-KETOACYL-COA SYNTHASE
+Interpro Signature Accession:    cd00831; G3DSA:3.40.47.10; PTHR31561; PIRSF036417; PF08392; SSF53901
+Interpro Signature Description:  CHS_like; -; 3-KETOACYL-COA SYNTHASE; Very_long_ch_3-ktacl-CoA_syn; FAE1/Type III polyketide synthase-like protein; Thiolase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: 3-ketoacyl-CoA synthase 4
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: 3-ketoacyl-CoA synthase 4-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata05D
+  Gene Products: 3-ketoacyl-CoA synthase 4
+Tae
+  Gene count: 4
+  Modal chromosome: Tae05D
+  Gene Products: 3-ketoacyl-CoA synthase 4-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: 3-ketoacyl-CoA synthase 4-like
+  Gene Descriptions: 3-ketoacyl-CoA synthase 4-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: 3-ketoacyl-CoA synthase 4
+  Gene Descriptions: 3-ketoacyl-CoA synthase 4
+Pau
+  Gene count: 1
+  Modal chromosome: Pau20
+  Gene Products: 3-ketoacyl-CoA synthase 4-like
+  Gene Descriptions: 3-ketoacyl-CoA synthase 4-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi01N
+  Gene Products: 3-ketoacyl-CoA synthase 4-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: 3-ketoacyl-CoA synthase 6-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi04
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: 3-ketoacyl-CoA synthase 4
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: acyltransferase
+  Gene Synonyms: GRMZM2G020740
+  Gene Descriptions: acyltransferase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 483 aa
+
+MAMDmAHRDHLLAALHGLLGAATLLLCVLAELLVFALRRhAALYLVPVSAMLLLgRyRRR
+AAAArIGLVDFSCLKPPRRLRLPVAGLLEHFrLIGCFDDGSVEFMTKVIEASGMGNETYF
+PPSLHYIPPAATHAhAIQEAHMLFFPALDDLFAKTGVPPSAVGALVVNCSGFCPAPSLAA
+IIANRYRMRaDVKTFNLSGMGCAAGvIGVDVARGLLRAHAMSYAVVVSAEIVTVGWYSGK
+DQGKLLLNCYFRTGCSAALVTNsRGgAaVPVKYRLVSLTRTNQTANDRSYRSGYREEDDE
+GITGFTLGQGVGRMVSELLRAHLVTLSLSILPWREKLRYaAALLLSMRRRGqDKLAGSGa
+avPLPDFRAAADHFCLPSSGRPMIWRLGQGLGLGEREMEAALMTFHRFGNQSAASLWYQL
+AYLEAKGRVRkGDTVWQLGIGSGLKANSLVWERVAvaDDVAAdGereLGPWmDCIHqYPV
+tET
+
+
+BOP CONSENSUS:
+Length: 482 aa
+
+MAMDMAHKDHLLAAYHGLLAAAgLLLCVLAEALVFALRRsftLYLVPVSAMLLLGRYRRR
+AAGGAVGLVDFSCLKPPRRLRLPVAGLLEHFELIGFFDrGSIEFMTKAIRSSGMGNETYL
+PPALHYLPPASTHAHAIREAHMLFFPALDDLFAKTSVPPSAVGALVVNCSGFCPAPSLAA
+IIANRYRMRADVKTFNLSGMGCSAGSIGVDVAAGLLRAHAMSYAVVVSAEILTVGWYcGK
+DHGKLLLNCNFRTGCSAALLTNStAvPVKYRLVNVTRTNTTANDRSYRAGYREEDDEGIT
+GFTLGQGVGRMVSELLRAHLLTLSLSILPWREKARYtAALLLSMRRRGQDKLAGSSSGAS
+APMPDFRAAADHFCLPSSGKPMILRLGKGLGLGEREMEAALMTFHRFGNQSAASLWYQLA
+YLEAKGRVRKGDTVWQLGIGSGLKANSLVWERVAVADDVAAGGRDALGPWMECIHQYPVW
+Et
+
+
+PACMAD CONSENSUS:
+Length: 480 aa
+
+MDMDIAHRDHLLAALHGvLGVATLLLCLLAELlVFAFRRHAALYLVPVAAMLLFNRLRRR
+AAAAEIGLVDFSCLKPPRRLRIPVAGLLEHFRLIGCFDDGSVEFMTKVIEASGMGNETYF
+PPSLHYIPPAATHADAVQEAHMLFFPTLDDLFAKTGVPPSAVGALVVNCSGFCPAPSLAA
+IIASRYRMRaDVRTFNLSGMGCAAGVVGVDVARRLLLTHAISYAVVVSAEIVTVGWYSGK
+DQGKLLLNCYFRTGCSAALVTSrRGAAATVPVKYRLASLTRTNQIANDRSYRSGYREEDD
+EGITGFTLGQGVGRMVSELLRAHLVTLSLSILPWREKLRYALALLLSSRRRRDGGsNKLA
+RPAVPLPDFRAAADHFCLPSSGRPMIWRLGQGLGLGEREMEAALMTFHRFGNQSAASLWY
+QLAYLEAKGRVRAGDTVWQLGIGSGLKANSLVWERVAGsDGERELGPWADCIHRYPVTET
+
+================================================================================

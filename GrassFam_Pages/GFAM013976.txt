@@ -1,0 +1,118 @@
+================================================================================
+GrassFam ID: GFAM013976
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             398.0 aa
+Family Size (Extended Family Size): 17 (17) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11071:SF461
+Panther Family ID:               PTHR11071
+Modal Panther ID:                PTHR11071:SF461
+Modal Panther Description:       OS02G0761100 PROTEIN
+Modal Panther Family ID:         PTHR11071
+Modal Panther Fam Desc:          PEPTIDYL-PROLYL CIS-TRANS ISOMERASE
+Interpro Signature Accession:    cd01926; G3DSA:1.25.40.10:FF:000029; G3DSA:2.40.100.10:FF:000009; G3DSA:2.40.100.10; G3DSA:1.25.40.10; PTHR11071; PR00153; PF00160; SSF48452; SSF50891
+Interpro Signature Description:  cyclophilin_ABH_like; peptidyl-prolyl cis-trans isomerase D; Peptidyl-prolyl cis-trans isomerase D; -; Tetratricopeptide repeat domain; PEPTIDYL-PROLYL CIS-TRANS ISOMERASE; Cyclophilin peptidyl-prolyl cis-trans isomerase signature; Cyclophilin type peptidyl-prolyl cis-trans isomerase/CLD; TPR-like; Cyclophilin-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: peptidyl-prolyl cis-trans isomerase CYP40
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: peptidyl-prolyl cis-trans isomerase CYP40-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: peptidyl-prolyl cis-trans isomerase CYP40%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: peptidyl-prolyl cis-trans isomerase CYP40-like; peptidyl-prolyl cis-trans isomerase CYP40-like%2C transcript variant X1
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: peptidyl-prolyl cis-trans isomerase CYP40-like%2C transcript variant X1
+  Gene Descriptions: peptidyl-prolyl cis-trans isomerase CYP40-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: peptidyl-prolyl cis-trans isomerase CYP40
+  Gene Descriptions: peptidyl-prolyl cis-trans isomerase CYP40
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: peptidyl-prolyl cis-trans isomerase CYP40-like; peptidyl-prolyl cis-trans isomerase CYP40-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: peptidyl-prolyl cis-trans isomerase CYP40-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: peptidyl-prolyl cis-trans isomerase CYP40
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 392 aa
+
+MEGGGEGaAAPAAAAAvaVRNPRCYLDVSIGGELEGRIVVELYASVVPRTAENFRALCTG
+EKGVSAATGVrLHYKGSCFHRIVKGFMVQGGDITAGDGTGGESIYGLNFEDENFVLKHER
+KGMLSMANAGPNTNGSQFFITTTRTPHLDGKHVVFGRVIKGMGVVRAMEHIsVGEADrPT
+DDIVIVDCGELPEGAnDGVVNFFKDGDMYPDWPIDLDEKPAEVSWWIDAVDSAKSFGNEs
+FKKQDYKTALRKYRKAMRYLDLCWEKEEIDEErSSALRKTKSIILTNSSACKLKLGDlEG
+ALLDADFALREtEGNAKAFFRQGQARMALNnIDAAVESFKqALELEPNDGGIKRELAAAK
+KKIsDRRDqERKAFSKMFQPSGGSEKSDeENS
+
+
+BOP CONSENSUS:
+Length: 394 aa
+
+MEGEGEgAAAPAAAAAAEVSNPRCYLDVSIGGEMEGRIVMDLYASVVPRTAENFRALCTG
+EKGVSAATGARLHYKGSSFHRIIKGFMVQGGDITAGDGTGGESIYGLNFEDENFVLKHER
+KGMLSMANSGPNTNGSQFFITTTRTPHLDGKHVVFGRVVKGMGVVRAMEHVSAGEADLPT
+dDIVIVDCGELPEGSTEGVVNFFKDGDMYPDWPIDLDEKPADVLWWINAVDSAKSFGNEN
+FKKHDYKAALRKYRKAMRYLDICWEKEEIDQENSSALRKTKSIILTNSSACKLKLGDVEG
+ALLDADFALRETEGNAKAFFRQGQARMALKNIDAAVESFQRALELEPNDGGIKRELAAAK
+KKVTDRRNLERKAFSKMFETSGSSEKSDEVLDKN
+
+
+PACMAD CONSENSUS:
+Length: 396 aa
+
+MDDGGEGsAAPAAEAAVVEEVAARNPRCYLDVSIGGELEGRIVVELYASVVPRTAENFRA
+LCTGEKGVGADNGVpLHYKGSCFHRIVKGFMVQGGDITAGDGTGGQSIYGLNFEDENFVL
+KHERKGMLSMANAGPNTNGSQFFITTTRTPHLDGNHVVFGRAIKGMGVVRAMEHIsVDEA
+DRPTDDIVIVDCGELPEGANDGVVNFFKDGDMYPDWPIDLDEKPAEVSWWIDAVESAKAF
+GNESFKKQDYKTALRKYRKAMRYLDLCWEKEDIDEERSTALRKTKSIIFTNSSACKLKLG
+DLEGALLDADFALREREDNAKAFFRQGQVRMALNHIDAAVESFKQALELEPNDGGIKREL
+AAAKKKISDRRDQERKAFSRLFQPSGGSEKSDKENS
+
+================================================================================

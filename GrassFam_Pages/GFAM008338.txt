@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM008338
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             483.0 aa
+Family Size (Extended Family Size): 25 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22624:SF54
+Panther Family ID:               PTHR22624
+Modal Panther ID:                PTHR22624:SF54
+Modal Panther Description:       CYSTEINE PROTEASE ATG4B
+Modal Panther Family ID:         PTHR22624
+Modal Panther Fam Desc:          CYSTEINE PROTEASE ATG4
+Interpro Signature Accession:    PTHR22624; PF03416; SSF54001
+Interpro Signature Description:  CYSTEINE PROTEASE ATG4; Peptidase C54 catalytic domain; Cysteine proteinases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: cysteine protease ATG4B
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: cysteine protease ATG4B-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: cysteine protease ATG4B
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: cysteine protease ATG4B%2C transcript variant X1; cysteine protease ATG4B-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl03
+  Gene Products: cysteine protease ATG4A; cysteine protease ATG4B%2C transcript variant X1
+  Gene Descriptions: cysteine protease ATG4A; cysteine protease ATG4B
+Osa
+  Gene count: 2
+  Modal chromosome: Osa03
+  Gene Products: cysteine protease ATG4A-like%2C transcript variant 1; cysteine protease ATG4B-like%2C transcript variant 1
+  Gene Synonyms: APG4A,ATG4A,OsJ_010666; APG4B,ATG4B
+  Gene Descriptions: cysteine protease ATG4A-like; cysteine protease ATG4B-like
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: cysteine protease ATG4B-like
+  Gene Descriptions: cysteine protease ATG4B-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi07K
+  Gene Products: cysteine protease ATG4B-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: cysteine protease ATG4B-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: cysteine protease ATG4B-like
+Zma
+  Gene count: 4
+  Modal chromosome: Zma10
+  Gene Products: cysteine protease ATG4B; cysteine protease ATG4B-like%2C transcript variant X1; uncharacterized LOC100240690; uncharacterized LOC100240691%2C transcript variant X1
+  Gene Synonyms: Atg4a,GRMZM2G064212; Atg4a,GRMZM2G064212,GRMZM2G458441; Atg4b,GRMZM2G173682
+  Gene Descriptions: cysteine protease ATG4B-like; uncharacterized LOC100240690; uncharacterized LOC100240691
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 488 aa
+
+MTSLPERGeAPPSDSsCEGDAAvAaVASSSSsSEQKEDsSSKQcKASILSSVFTPPFTIF
+EgqQDSSpaCDnRSpKsSSGSYAWSRiLRRFVGSGSMWRLLGCaKVLTSSDVWFLGKCYK
+lSSEESSSDSDSESGHAAFLEDFSSRIWITYRKGFDAISDSKLTSDVNWGCMVRSSQMLV
+AQALIFHHLGRSWRKPsEKPYNPEYIGILHLFGDSEACAFSIHNLLQAGKSYGLAAGSWV
+GPYAMCRAWQTLIRTNREQaEVVdGnENFPMALYVVSGDEDGERGGAPVVCIDVAAQLCy
+DFNKGQSTWSPILLLVPLVLGLDKINPRYIPLLKETFTFPQSLGILGGKPGTSTYIAGVQ
+DDRALYLDPHEVQMAVNIApDNLEADTSSYHCSTVRDLALDLIDPSLAIGFYCRDKDDFD
+DFCSRASELAEKANGAPLFTVVQSVQPSKQMYNQDDGLGCSGssMANNINVDDLDGSGET
+GEEEWQIL
+
+
+BOP CONSENSUS:
+Length: 479 aa
+
+MTSLPERGAAPPSspPsSSCEGDAAVASSSSEQKKDGSPKQCKASILSSVLTIFEPDQDS
+SsNRSpGHASGSYAWSRVLRRIVGGGSMWRFLGCgKALTssDVWFLGKCYKLSSEESSSD
+SDSESGHAAFLEDFSSRIWITYRKGFDAISDSKLTSDVNWGCMVRSSQMLVAQALIFHHL
+GRSWRKPSQKPyNPEYIRILHLFGDSEACAFSIHNLLQAGKSYGLAAGSWVGPYAMCRAW
+QTLIRTNREQPEVvNrNESFPMALYVVSGDEDGERGGAPVVCIDVAAQLCYDFNKDQSTW
+SPILLLVPLVLGLDKINPRYIPLLKETFTFPQSLGILGGKPGTSTYIAGVQDDRALYLDP
+HEVQLAVNIASDNLEADTSSYHCSTVRDMALDLIDPSLAIGFYCRDKDDFDDFCSRASEL
+VEKANGAPLFTVVQSVQPSKQMYNQDDGSGCSGDGmSDNINVEDLDGSGETGEEEWQIL
+
+
+PACMAD CONSENSUS:
+Length: 485 aa
+
+MTSLPERGEAPPSDSpCEedAAAAAVASSSSgSEhKEDSsSKQpKASILSGVFTPPFtIF
+EGQQqSSPaCDAkSPKSSSGSYGWSRILRRFVGSGSMWRLLGCaKVLTSSDVWFLGKCYK
+VSPEEsSSDSDSDSGHAAFLEDFSSRIWITYRKGFDAISDSKLTSDVNWGCMVRSSQMLV
+AQALIFHHLGRSWRKPPEKPYNPeYIGVLHLFGDSEACAFSIHNLLQAGRSYGLAAGSWV
+GPYAMCRAWQTLIRTNREQADAVDGKENFPMALYVVSGDEDGERGGAPVVCIDVAAQLCS
+DFNKGQSTWSPILLLVPLVLGLDKINPRYIPLLKETFTFPQSLGILGGKPGTSTYIAGVQ
+DDRALYLDPHeVQMAVNIAPDNLEADTSSYHCSVVRDLALDQIDPSLAIGFYCRDKDDFD
+DFCSRASELAEKANGAPLFTVVQSIEPSKQMYKQDDGLGCSGSSMANDDDLDGSGEAGEE
+EWQIL
+
+================================================================================

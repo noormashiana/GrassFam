@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM019133
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             579.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31447:SF2
+Panther Family ID:               PTHR31447
+Modal Panther ID:                PTHR31447:SF2
+Modal Panther Description:       RNA DEMETHYLASE ALKBH10B
+Modal Panther Family ID:         PTHR31447
+Modal Panther Fam Desc:          HYDROXYPROLINE-RICH GLYCOPROTEIN FAMILY PROTEIN-RELATED
+Interpro Signature Accession:    G3DSA:2.60.120.590; PTHR31447
+Interpro Signature Description:  -; HYDROXYPROLINE-RICH GLYCOPROTEIN FAMILY PROTEIN-RELATED
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: uncharacterized LOC100841736%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: RNA demethylase ALKBH10B%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: RNA demethylase ALKBH10B%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: RNA demethylase ALKBH10B-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: RNA demethylase ALKBH10B-like
+  Gene Descriptions: RNA demethylase ALKBH10B-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: RNA demethylase ALKBH10B
+  Gene Descriptions: RNA demethylase ALKBH10B
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: RNA demethylase ALKBH10B%2C transcript variant X1; RNA demethylase ALKBH10B-like%2C transcript variant X1
+  Gene Descriptions: RNA demethylase ALKBH10B; RNA demethylase ALKBH10B-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: RNA demethylase ALKBH10B-like; RNA demethylase ALKBH10B-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: uncharacterized LOC112884809
+Msi
+  Gene count: 1
+  Modal chromosome: Msi17
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: uncharacterized LOC8076877
+Zma
+  Gene count: 2
+  Modal chromosome: Zma06
+  Gene Products: oxidoreductase 2OG-Fe(II) oxygenase family protein; oxidoreductase%2C 2OG-Fe oxygenase family protein
+  Gene Synonyms: GRMZM2G060079
+  Gene Descriptions: oxidoreductase%2C 2OG-Fe oxygenase family protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 579 aa
+
+MTTPAAGmPGSPVGSAAAAPEVAARDAVIGWFRGEFAAANAMIDALCGHLAQIGGGAEYD
+AVFAALHRRRLNWFPVLHMQKFYPVADVAAELRRVADARAAAAAAASCCYSEEEAASTVI
+HEPMDELvAVeAEPEPEPEhEQDPvPQDPAPAAEEPDGvVNpAvEHEADgEVDSSGDSSE
+RKAASTEDDAVADGPDHTDQGSQGEHSLPESYPICSDHEECIARPERIKIQKGFMAKESV
+KGHMVNVVKGLKIYEDVFTTSEIMKVADFINEIRQAGRNGELSGETFIFFNKQIKGNKRE
+IIQLGVPLFQPTTEEaNCHIEPIPLVLQAVIDHLVLWRLIPESRKPNSVIINFFDEDEHS
+QPYFKPPHLDNPISTLLLSETTMAFGRSLVTDSNGNYKGPLTLSLKQGSLLVMRGNSADM
+ARHVVCPSSNRRVSITFARVRPSTPVDLSPLPSPTKAMTPWQPQPaaAaQaAPAGMAQKP
+PvGGAIIGYAPAPQAVLAPAAWGMAVRAPVMMVAAAPARPMVMASSGtGGGNInKRMGRS
+GTGVFLPWTVGPKRYNKHLPPRIQKRRFSAMMSPIEAQG
+
+
+BOP CONSENSUS:
+Length: 560 aa
+
+MTTPAAGAPGSPVAAPDQVAARDAVIGWYRGEFAAANAVIDALCGHLAQIGGAEYDAVFA
+ALHRRRLNWFPVLHMQKFYSVADVAAELRRVSDARAAAAAAYSEEEAASTVIHEPMDELV
+VTVAAEPePEPErEHEPIPQAQPDVAVHPVDADREpEADGEDSSGDSSERKAASTEDDAV
+HDGPDNTDQGSQGEHSLPESYPICSDHEECIARPERIKIQKGFMAKESVKGHMVNVVKGL
+KIYEDVFTTSELMKVADFINEIRQAGRNGELSGETFIFFNKQIKGNKREIIQLGVPLFQH
+TTEETNCHIEPIPVVLQAVIDHLVLWRLIPESRKPNSVIINFFDEDEHSQPYFKPPHLDN
+PISTLLLSETSMAFGRSLVTDSNGNYKGPLTLSLKQGSLLVMRGNSADMARHVVCPSSNR
+RVSITFVRVRPSTPVDLSPLPSPTKAMTLWQPPPTAATAGMQKPPHGSNGAIIGYCPAPQ
+AMLAPAWGMAVRAAPVMMVAAPARPMVMAPSSNINKRMGRGGTGVFLPWTVGPKRYNKHL
+PPRIQKRRFSAMMSPIESQG
+
+
+PACMAD CONSENSUS:
+Length: 589 aa
+
+MTTAAGMPGSPVGSAAAAGGPAAPEVAARDAVIGWFRGEFAAANAMIDALCGHLAQIGGG
+GAEYEPVFAALHRRRANWFPVLHMQKFYPVADVtAELRRVADARAAAAAAAGSCCYSEEE
+AASTVIHEPMEDLPAEpEPEPEPEPEhEQDPVQQDPAPAAEEADGAVVNPAvDYHEaDAE
+VDSSGDSSERKAASTEDDTVADGHHTDQGSQGEHSLPESYPICSDHEECIARPERIKIQK
+GFVAKESVKGHMVNVVKGLKIYEDVFTTSEIMKVADFINEIRQAGRNGELSGETFIFFNK
+QIKGNKREIIQLGVPLFQPTTEEANCHIEPIPLVLQAVIDHLVLWRLIPESRKPNSVIIN
+FFDEDEHSQPYFKPPHLDNPISTLLLSETTMAFGRSLVTDSNGNYKGPLTLSLKQGSLLV
+MRGNSADMARHVVCPSSNRRVSITFARVRPSTPVDLSPLPSPTKAMTPWQPQPAtAAQVA
+APACMAQKPPVSGAIIGYAPAPQAVLAPAAWGMAVRAPVMMVAAAPARPMVMASSGtGGG
+GNISKRMGRSGTGVFLPWTVGPKRYNKHLPPRIQKRRFSAMMSPIEAQG
+
+================================================================================

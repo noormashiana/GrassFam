@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM004831
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             491.5 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45826:SF26
+Panther Family ID:               PTHR45826
+Modal Panther ID:                PTHR45826:SF26
+Modal Panther Description:       POLYAMINE TRANSPORTER PUT1
+Modal Panther Family ID:         PTHR45826
+Modal Panther Fam Desc:          POLYAMINE TRANSPORTER PUT1
+Interpro Signature Accession:    G3DSA:1.20.1740.10:FF:000041; G3DSA:1.20.1740.10; PTHR45826; PIRSF006060; PF13520
+Interpro Signature Description:  Amino acid permease, putative; Amino acid/polyamine transporter I; POLYAMINE TRANSPORTER PUT1; AA_transporter; Amino acid permease
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: polyamine transporter PUT1%2C transcript variant X1
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: polyamine transporter PUT1%2C transcript variant X3
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: polyamine transporter PUT1%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: polyamine transporter PUT1%2C transcript variant X3; polyamine transporter PUT1-like%2C transcript variant X1; polyamine transporter PUT1-like%2C transcript variant X3
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: polyamine transporter PUT1%2C transcript variant X2
+  Gene Descriptions: polyamine transporter PUT1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: polyamine transporter PUT1-like
+  Gene Synonyms: OJ1111_E07.11,OsJ_08051,OsPUT1,PUT1
+  Gene Descriptions: polyamine transporter PUT1-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: polyamine transporter PUT1%2C transcript variant X3; polyamine transporter PUT1-like%2C transcript variant X1
+  Gene Descriptions: polyamine transporter PUT1; polyamine transporter PUT1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: polyamine transporter PUT1%2C transcript variant X2; polyamine transporter PUT1-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: polyamine transporter PUT1%2C transcript variant X3
+Msi
+  Gene count: 1
+  Modal chromosome: Msi08
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: polyamine transporter PUT1%2C transcript variant X3
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: polyamine transporter PUT1%2C transcript variant X2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 492 aa
+
+QEKPaQNaaPAaGAAPMGECsTEYRGLPdGnGagAGpPaSLRKVSIVPLVFLIFYEVSGG
+PFGIEDSVGAAGPLLAIAGFLaLPVIWSIPEALITAELGTMFPENGGYVVWVASALGPYW
+GFQQGWMKWLSGVIDNALYPVLFLDYLKSAVPALGGGpPRAFAVLGLTAVLTLLNYRGLT
+VVGWVAICLGVFSlLPFFVMGLISLPKLRPARWLVVDLHNVDWNLYLNTLFWNLNYWDSI
+STLSGEVdNPGKTLPKALFYAVIFVVVGYLYPLLAGTGAVPLDRGQWSDGYFADIAKLLG
+GAWLMWWVQAAAAmSNMGMFVAEMSSDSYQLLGMAERGMLPAFFARRSRHGTPLVGILFS
+ASGVLLLSSMSFQEIVAAENFLYCFGMLLEFLAFVLLRVRRPDAPRPYRVPLGTAGCVAM
+LVPPTALIVVVLALSTLKVALVSLGAVAVGLVLQPaLRFVEKKGWLRFsVNSDLPDIGVg
+hqPAAPDEPLaP
+
+
+BOP CONSENSUS:
+Length: 524 aa
+
+MGSTGRPEVeLAsPrPPPPPPAssGAGSADtGQEKPAQNAqPATGAAPMGEEGTEYRGLP
+GGAGAGAAPAPSPASLSIVPLIFIIFYEVSGGPFGIEDSVGAAGPLLAIAGFLALPVIWS
+VPEALITAELGTMFPENSGYVVWVASALGPYWGFQQGWMKWLSGVIDNALYPVLFLDYLK
+SGVPALGGGAPRTgAVLGLTALLTLLNYRGLTVVGWAAICLGVFSLLPFLVMGFISIPKL
+RPARWLEVDLHNVDWNLYLNTLFWNLNYWDSISTLSGEIrNPAKTLPKALFYAVIFVVVG
+YLYPLLAGTGAVPLDRGQWTDGYFADIAKLLGGAWLMWWMQAAAAMSNMGMFVAEMSSDS
+YQLLGMAERGMLPAFFATRSRYGTPLVGILFSASGVLLLSTMSFQEIVAAENFLYCFGML
+LEFLSFVLLRVRRPDAPRPYRVPLGTAGCVAMLVPATALIVAVLALSTLKVALVSLGAVA
+VGLVLQPvLKFVEKKRWLRFSVNSDLPGIDVnHQPAAPDEPLvV
+
+
+PACMAD CONSENSUS:
+Length: 479 aa
+
+MGECSTEYRGLPDGNGEdAGvASVPAALRKVSIVPLVFLIFYEVSGGPFGIEDSVGAAGP
+LLAIAGFLVLPVIWSIPEALITAELGTMFPENGGYVVWVASALGPYWGFQQGWMKWLSGV
+IDNALYPVLFLDYLKSAVPALGGGPPRAFAVLGLTAVLTLLNYRGLTVVGWVAICLGVFS
+VLPFFVMGLISLPKLRPARWLVVDLHNVDWNLYLNTLFWNLNYWDSISTLSGEVDNPGKT
+LPKALFYAVIFVVVGYLYPLLAGTGAVPLDRGQWSDGYFSDLAKLLGGAWLMWWVQAAAA
+LSNMGMFVAEMSSDSYQLLGMAERGMLPAFFARRSRHGTPLVGILFSASGVLLLSSMSFQ
+EIVAAENFLYCFGMLLEFIAFVLLRVRRPDAPRPYRVPLGTAGCVAMLVPPTALIVVVLA
+LSTLKVALVSLGAVAVGLVLQPlLRFVEKKGWLRFAVNSDLPDIGVGrAPAAADEPLAP
+
+================================================================================

@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM008825
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             424.0 aa
+Family Size (Extended Family Size): 26 (27) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12805:SF1
+Panther Family ID:               PTHR12805
+Modal Panther ID:                PTHR12805:SF1
+Modal Panther Description:       DNA_RNA-BINDING PROTEIN KIN17 WH-LIKE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR12805
+Modal Panther Fam Desc:          KIN17  KIN, ANTIGENIC DETERMINANT OF RECA PROTEIN HOMOLOG
+Interpro Signature Accession:    G3DSA:2.30.30.30:FF:000021; G3DSA:2.30.30.140:FF:000056; G3DSA:1.10.10.2030:FF:000001; G3DSA:2.30.30.140; G3DSA:1.10.10.2030; G3DSA:2.30.30.30; PTHR12805; PF10357; SM01253
+Interpro Signature Description:  DNA/RNA-binding protein KIN17, putative; DNA/RNA-binding protein kin17-like; -; KIN17  KIN, ANTIGENIC DETERMINANT OF RECA PROTEIN HOMOLOG; KIN17 WH-like domain; Kin17_mid_2
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: KIN17-like protein
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu03H
+  Gene Products: KIN17-like protein
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: KIN17-like protein
+Tae
+  Gene count: 5
+  Modal chromosome: Tae03B
+  Gene Products: KIN17-like protein
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: KIN17-like protein%2C transcript variant X1
+  Gene Descriptions: KIN17-like protein
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: KIN17-like protein
+  Gene Descriptions: KIN17-like protein
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau05
+  Gene Products: KIN17-like protein
+  Gene Descriptions: KIN17-like protein
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: KIN17-like protein
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: KIN17-like protein
+Msi
+  Gene count: 3
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi03
+  Gene Products: KIN17-like protein; KIN17-like protein%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma04
+  Gene Products: DNA/RNA-binding protein Kin17 conserved region; antigenic determinant of rec-A protein
+  Gene Synonyms: GRMZM2G117441
+  Gene Descriptions: DNA/RNA-binding protein Kin17 conserved region; antigenic determinant of rec-A protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 424 aa
+
+MGKHEFLTPKAIANRIKAKGLQKLRWYCQMCQKQCRDENGFKCHCMSESHQRQMQVFGQA
+PDRVVEGFSEEFLEsFLTLIRRAHRHSRVAATVVYNEYIADRHHVHMNSTRWATLTEFVK
+FLGREGYCKVEDTPKGWFMTYIDRDSEQAVKARLKRKRIKSDLAEDERQERMIARQIERA
+QKSLAKaNDGDDDAEGEsESGSEeEYSGSDDDgEErEDDsKEANKATGKIAIALQKAAPG
+PKVNPFEDKPKvKFGFDEEDSGtREKEKDEVanKKGKDVKAAEARRSALDELMKEEEKAK
+ERSNRKDYWLCPGIVVKVMSKSLAEKGYYKQKGVVKRVIDKYVGEIEMLESKHVLRVDQD
+ELETVIPQIGGLVRIVNGAYRGSNARLLSVDTEKFCAKVQVEKGLYDGKVLRAVEYEDIC
+KIss
+
+
+BOP CONSENSUS:
+Length: 418 aa
+
+MGKSDFLTPKAIANRIKAKGLQKLRWYCQMCQKQCRDENGFKCHCMSESHQRQMAIFGQA
+PDRVVEGFSDEFLEEFLTLLRRAHRSSRVAATVIYNEFIADRHHVHMNSTRWATLTEFVK
+FLGREGHAKVEDTPKGWFITYIDRDSEQAIKARLKRKRVKSDLAEDERQELMIARQIERA
+QKAQANGEDDDDASADDDLGSEEDEYSGSDEDDQEEqQEDGKEANKPTGKIAIALQRAAP
+PPKVNPFDDKPKMKFGFEEEEEEVPNKKAKVAGKATDTRRSAIDDLMKEEEKAKERSNRK
+DYWLCPGIVVKVMSKSLAEKGYYKQKGLVKRVIDKYVGEIEMLESKHVLRVDQDELETVL
+PQIGGLVRIVNGAYRGSNARLLSVDTERFSAKLQVEKGLYDGKVLKAIEYEDICKVAQ
+
+
+PACMAD CONSENSUS:
+Length: 424 aa
+
+MGKHEFLTPKAIANRIKAKGLQKLRWYCQMCQKQCRDENGFKCHCMSESHQRQMQVFGMA
+PDRVVEGFSEEFLESFLSLIRRAHRHSRVAATVVYNEYIADRHHVHMNSTRWATLTEFVK
+FLGREGYCKVEDTPKGWFMTYIDRDSEQAVKARLKRKRIKSDMAEDERQERMIARQIERA
+QKSLAKPNDGDvAEGESESGSEEEYSGSDDDGEEREDGSKEANKATGKIAIALQKAVPGP
+KVNPFEDKPKVKFGFDEEDDSGtREKEKDEVAKKKGKDVKAAEARRSALDELMKEEEKAK
+ERSNRKDYWLCPGIVVKVMSKSLAEKGYYKQKGVVKKVIDKYVGEIEMLESKHVLRVDQD
+ELETVIPQIGGLVRIVNGAYRGSNARLLSVDTEKFCAKVQVEKGLYDGKVLRAVEYEDIC
+KISS
+
+================================================================================

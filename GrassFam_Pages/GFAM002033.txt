@@ -1,0 +1,140 @@
+================================================================================
+GrassFam ID: GFAM002033
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             712.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43381:SF20
+Panther Family ID:               PTHR43381
+Modal Panther ID:                PTHR43381:SF20
+Modal Panther Description:       TRANSLATION INITIATION FACTOR IF-2, MITOCHONDRIAL
+Modal Panther Family ID:         PTHR43381
+Modal Panther Fam Desc:          TRANSLATION INITIATION FACTOR IF-2-RELATED
+Interpro Signature Accession:    cd01887; cd03702; cd03692; G3DSA:3.40.50.300:FF:000019; G3DSA:2.40.30.10:FF:000008; G3DSA:3.40.50.10050:FF:000001; G3DSA:2.40.30.10; G3DSA:3.40.50.10050; G3DSA:3.40.50.300; TIGR00487; TIGR00231; PTHR43381; PF00009; PF11987; SSF52540; SSF52156
+Interpro Signature Description:  IF2_eIF5B; IF2_mtIF2_II; mtIF2_IVc; Translation initiation factor IF-2; Translation factors; -; translation initiation factor IF-2; small GTP-binding protein domain; TRANSLATION INITIATION FACTOR IF-2-RELATED; Elongation factor Tu GTP binding domain; Translation-initiation factor 2; P-loop containing nucleoside triphosphate hydrolases; Initiation factor IF2/eIF5b, domain 3
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: translation initiation factor IF-2%2C transcript variant X1
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: translation initiation factor IF-2%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: translation initiation factor IF-2%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: translation initiation factor IF-2-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: uncharacterized LOC127784865%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127784865
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC4347576
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: translation initiation factor IF-2-like%2C transcript variant X1; translation initiation factor IF-2-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: translation initiation factor IF-2%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: translation initiation factor IF-2%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: translation initiation factor IF-2%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 712 aa
+
+MAWRMLRRKDVHTGLVNLAFRtDHGGTKHFSSGTlGKLaQFVHsDglKGAANCtpsKHsT
+IRNFHAGVYMLAWSRKKEDVVGLKAPKKEKRVKKEnRTQPPVEAPYVAPKPKItIKSsPD
+KTVEIFDGMTLLDLSKRTGAyISALQsILADLGEKVESEFDSISIDLAELVAMELGVNIR
+RMHTGEGTvEPRPAVVTVMGHVDHGKTSLLDSLRQTSVAAKEAGGITQHIGAFVVEMPSG
+ASITFLDTPGHAAFSAMRARGAAVTDIVVLVVAADDGVMPQTLEAMSHAKAANVPIVVAI
+NKCDKSGADPERVRIQLGSEGLLLEDMGGDVQVVEISAVaKLGLDKLEEALLLQAEMMDL
+KARIDGPAQAFVVEARVDRGRGPLATAIVKSGTLVSGQHIVVGAEWGRIRSLRDTAGKIT
+ESAKPAMPVEIEGLRGLPMAGDDVVVVDSEERARMLSQGRKKKQEKDRLRKIDEgMTEEA
+EIkEETPERVEMPIIVKADVQGSVQAVTDALRSLNSPQVFVNVVHVGVGPISQHDIDLAQ
+ACRAYIVGFNIRsPPSAITQAATQANIKILLHKVIYHLLEEMGRLIVEKAPGTAETQVSG
+EAEVLNIFELKGRSKSKGPDIKIAGCRITDGHFSKSGTMRLLRSGDVVFEGPCASLKREK
+QDAETlDKGNDCGLVIQDCDDFQVGDtIQCLEQVIRKPKFISTQSGAVRIEC
+
+
+BOP CONSENSUS:
+Length: 712 aa
+
+MAWRMLRRKDVHTGLVNLAFRtDHGGTKHFSSGTLGKLsQFVHGNGLQGAANCTvFKQST
+IRNFHAGVYMLAWHRKKEDVVGLKAPKKEKRVRKETRTQPPVEAPYVAPKPKlTIKSSPD
+KIVEIFDGMTLrDLSKRSGAtInALQSILADLGERVESEFDSItIDLAELVgMELGVNIR
+RMHTGEGTVEPRPAVVTVMGHVDHGKTSLLDSLRQTSVAAKEAGGITQHIGAFVVEMQSG
+ASITFLDTPGHAAFSAMRARGAAVTDIVVLVVAADDGVMPQTLEAMSHAKVANVPIVVAI
+NKCDKSGADPERVRIQLGSEGLLLEDMGGDVQVVEISALSKLGLDKLEEALLLQAEIMDL
+KARTDGPAQAFVVEARVDRGRGPLATAIVKSGTLVSGQYIVVGAEWGRIRSLRDTAGKVT
+ESAKPAMPVEIEGLRGLPMAGDDVVVVDSEERARMLSQGRKKKQEKDRLRKIDEnMTEEA
+EIGEETPERVEMPIIVKADVQGSVQAVTDALRSLNSPQVFVNIVHVGVGPVSEHDIDLAQ
+ACRAYIVGFNVRdPPSAITLGATQANIKILLHKVIYHLLEEMGRLIVEKAPGTAETQISG
+EAEVLNIFELKGRSKSKGPDIKIAGCRITDGHFSRTGTMRLLRSGDVVFEGPCASLKREK
+QDADTLDKGtDCGLVIEDCDeFQVGDTIQCLEQVIRKPKFISTQSGAVRIEC
+
+
+PACMAD CONSENSUS:
+Length: 712 aa
+
+MAWRMLRRKDFHTGLVNLAFRKDHGgKKHFSNGtIGNLAQvYRSDRPKHAASCMPSNHFT
+IRNFHAGVYMLAWSRKREDVVGLKAPKKEKRVKKENRTQPPVEAPYVAPKPKIAtKSLPD
+KTVEIFDGMTLLDLSKRTGAYISTLQGILADLGEKVESEFDSISIDLAELVAMELGVNTR
+RMHTGEGTNEPRPAVVTVMGHVDHGKTSLLDALRQTSVAAKEAGGITQHIGAFVVEMPSG
+ASITFLDTPGHAAFSAMRARGAAVTDIVVLVVAADDGVMPQTLEAMSHAKAANVPIVVAI
+NKCDKSGADPERVRIQLGSEGLLLEDMGGDVQVVEISAVAKSGLDKLEEALLLQAEMMDL
+KARIDGPAQAFVVEARVDRGRGPLATAIVKSGTLVSGQHIVVGAEWGRIRSLRDTAGNIT
+ESAKPAMPIEIEGLRGLPMAGDDVVVVDSEERARMLSQGRKKKQEKDRLRKIDEGMADEL
+EIKEETPERVEMPIIVKADVQGSVQAVTDALRSLNSAQVFVNVVHVGVGPISQHDIDLAQ
+ACGAYIVGFNIRSPPIAITQAAARANIKVLLHKVIYHLLEEMGRAIVEKAPGTAETQVSG
+EAEVLNIFELKGRSKSKGPDIKIAGCRITDGHFSKSGTMRLLRSGDVVFEGPCASLKREK
+QDAETIEKGNDCGLVIQDCDDFQVGDIIQCLEQVIRKPKFISTQSGSVRIEC
+
+================================================================================

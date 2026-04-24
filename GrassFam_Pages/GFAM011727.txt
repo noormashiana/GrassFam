@@ -1,0 +1,127 @@
+================================================================================
+GrassFam ID: GFAM011727
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             302.0 aa
+Family Size (Extended Family Size): 29 (30) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10993:SF18
+Panther Family ID:               PTHR10993
+Modal Panther ID:                PTHR10993:SF18
+Modal Panther Description:       LIPOYL(OCTANOYL) TRANSFERASE
+Modal Panther Family ID:         PTHR10993
+Modal Panther Fam Desc:          OCTANOYLTRANSFERASE
+Interpro Signature Accession:    cd16444; G3DSA:3.30.930.10:FF:000086; G3DSA:3.30.930.10; TIGR00214; NF010925; PTHR10993; PF21948; SSF55681
+Interpro Signature Description:  LipB; Octanoyltransferase LIP2p, chloroplastic isoform A; Bira Bifunctional Protein; Domain 2; lipoyl(octanoyl) transferase LipB; OCTANOYLTRANSFERASE; Lipoyl protein ligase A/B catalytic domain; Class II aaRS and biotin synthetases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: plastidial lipoyltransferase 2%2C transcript variant X2
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: octanoyltransferase LIP2p2%2C chloroplastic-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata03D
+  Gene Products: octanoyltransferase LIP2p2%2C chloroplastic
+Tae
+  Gene count: 5
+  Modal chromosome: Tae03B
+  Gene Products: octanoyltransferase LIP2p2%2C chloroplastic-like; octanoyltransferase LIP2p2%2C chloroplastic-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl12
+  Gene Products: octanoyltransferase LIP2p%2C chloroplastic-like%2C transcript variant X1
+  Gene Descriptions: octanoyltransferase LIP2p%2C chloroplastic-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa12
+  Gene Products: octanoyltransferase LIP2p%2C chloroplastic%2C transcript variant X2
+  Gene Descriptions: octanoyltransferase LIP2p%2C chloroplastic
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu06
+Pau
+  Gene count: 2
+  Modal chromosome: Pau22
+  Gene Products: octanoyltransferase LIP2p%2C chloroplastic-like; uncharacterized LOC133906635
+  Gene Descriptions: octanoyltransferase LIP2p%2C chloroplastic-like; uncharacterized LOC133906635
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi03N
+  Gene Products: octanoyltransferase LIP2p%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: octanoyltransferase LIP2p%2C chloroplastic-like%2C transcript variant X3
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: plastidial lipoyltransferase 2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100272694
+  Gene Synonyms: GRMZM2G038922
+  Gene Descriptions: uncharacterized LOC100272694
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 299 aa
+
+MallaspvSaPCcHrAlPFPAAArAaSARsRRGrLrLAAagRSGPtAAAvtdAApvprAA
+rVdRRRCECFDLHrQIVPYAESWAWQKSIVeRRKGLVDtDEDHSDTLIALQHPPVYTLGt
+gSsEEYLHFNvEDAPFEIHRIDRGGEVTYHGPGQLVMYPILNLRYHKkDLHWYlRSLEEV
+IIRALKSAFSIKASRVEGLTGVWVGDQKVAAIGIHvSRWIVYHGLALNVTTDLTPFEmIV
+PCGIKDRGVGSIKeILQKASdGREIDDAsLMDIAYeSLIKEFAElFQLSLEpSPDlsLQ
+
+
+BOP CONSENSUS:
+Length: 302 aa
+
+MVPAAMvVSAPfCHGVLPFPAAARGSSARSRGGRLGLAeGCCsGPvAAAvTDAAPVaGAA
+RVGRRRCELFDLHRQIVPyVDSWGWQKSIVERRKgLVGIDTDTDEDHSDTLIALQHPPVY
+TLGNGNdEKYLNFNIEDSPIEIHRIDRGGEVTYHGPGQLVLYPIINLRYQKKDLvWYQRS
+LEeVIIRALQSAFSIKASRIEGLTGVWVGDQKVAAIGIMCARWIVYHGLALNVTTDLTPF
+QHIVPCGIKgRGVGSIKQILQKASNGRELNDAELMDIAYESLIKEFAEFFQLSLEPSPDL
+yL
+
+
+PACMAD CONSENSUS:
+Length: 293 aa
+
+MALLAsPPSSsChHRAAPFpAAAASARPRRGSLRLAAAGgRSGPTAAPprpRPaaaDRRR
+CECFDLHrQIVPYAEAyAWQKSIVkRRKGLlDrGEDHSDTLIALQHPPVYTLGTDSkEEY
+LHFDvEDAPFEVHRIDRGGEVTYHGPGQLVMYPILNLRYHKmDLHWYFRSLEEVIIRALK
+SAFSIKASRVEGLTGVWVGDQKVAAIGIHVSRMIVYHGLALNVTTDLTPFEMIDPCGIKD
+RGVGSIKEILQKASDGREIDDtSLMDIAYdSLIKEFAELFQLSLDFSPDCSFQ
+
+================================================================================

@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM009827
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             451.0 aa
+Family Size (Extended Family Size): 18 (18) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR32141:SF151
+Panther Family ID:               PTHR32141
+Modal Panther ID:                PTHR32141:SF151
+Modal Panther Description:       F-BOX DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR32141
+Modal Panther Fam Desc:          FAMILY NOT NAMED
+Interpro Signature Accession:    PTHR34145
+Interpro Signature Description:  OS02G0105600 PROTEIN
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: FBD-associated F-box protein At4g10400
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: FBD-associated F-box protein At4g10400-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: FBD-associated F-box protein At4g10400
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: F-box protein At5g03100-like; FBD-associated F-box protein At4g10400-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: F-box/LRR-repeat protein At5g02910-like
+  Gene Descriptions: F-box/LRR-repeat protein At5g02910-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: FBD-associated F-box protein At5g60610
+  Gene Descriptions: FBD-associated F-box protein At5g60610
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau01
+  Gene Products: uncharacterized LOC133920832
+  Gene Descriptions: uncharacterized LOC133920832
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: uncharacterized LOC120674976; uncharacterized LOC120708058
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: uncharacterized LOC112891603
+Msi
+  Gene count: 1
+  Modal chromosome: Msi06
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: uncharacterized LOC8075584
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 445 aa
+
+MGRrPRKRKRRRRpkAGkGAAAdGPDCFSnLPDDVLLAIlSRLPTRsAVTLSALSRRFRh
+LPtLLeRVDSLtLsEPafPvPLRaTPPlLLRRLdiAPhRRIpPSAFRpVLdAAAdHGLSE
+LAVRLhRRARLPKNVLSIRSLaVLSLDTCAVPPWSaVACPcLRTLKLHRVAIkQEiINaI
+LAAAscLeTLEMVYCTGLgGGCTVESSSVRNLLFRPtLEQrEVTlRApGLRTITLYTRPK
+TqsVeLAPAPEVRKAYLHIAKsrekeSFRvRPFLDAGTgLaCLTLRGhAmKLLSsEYKDI
+PKLtVtFQDLRILSVSLDFSSEsEaVFLLKLLESCPNLQQLTLSAAEnKkdealpsFADH
+KerLAKiSCLTtSLvQFKFLGFKPqEYQKeLlVFLLTrakKLKKvGVeFPKSQEAAVKwI
+LSVRrAPIERtSTKYnkyYLELEYs
+
+
+BOP CONSENSUS:
+Length: 449 aa
+
+MARPPAAAaLKRKRRRRPKAGKGAAADLPDFFSNLPDDVVLAIASRLPTRLAVTLSVLAR
+RFRHLPTLYsRLDSVRFSgPASPVPLPAtQPKLLRRLDIAPTKRIKPSALRHVINAAADH
+GLSELAVRLHRRVCLPKNVFAIRSLTVLSLNTCAVPRLSAVACARLRTLKLHRVfIKQvv
+LTAILSAATGLeTLEMVhCTGLDAGCTVESSTVRSFLFmPnLEQREVTLRApGLRTITLY
+TRPKTQKVHLEPSPDVRKAYLHVAKSrEKLlFRMRPFLDAATGLASLTLRGfAvKLLAGE
+YKDIAKLPITFEGLRILSVSLDFSRESEAVFLVKLLESCPSLQQLTVSAAENKktEASFS
+FADHKKMLAKASCLTnSLlQIKFLGFKSGEYQKDLLVFLLNRTnKLKKIGVQFPkSEEAA
+VRWALSVRPAPIERRSTkFNKgYLQLEYP
+
+
+PACMAD CONSENSUS:
+Length: 447 aa
+
+MGRRPRKRRRRHAAAAAGeGPDCFSHLNEDLLRSILSRLPTRSAAtLAAVSRHFRKEVPR
+LLERVDSLTLHEPHFPpPLRvTPPLLLRRLALAPHRAIPPSSFRPILDDAAQHGVSELSF
+RLTRRARLPKNVLSVKSLAVLdLDTCAVPPWSdVACPCLRTLRLHRVAIHQEIINKILAS
+ASCLDTLEMVYCTGLGTGKGGGCTVESSSVRNLVFRPTLKLEQTTIRASGLRTVTLYTRG
+KVKSLELAPAPEVRKAYLHIAKpRTtMESFRVRPFLDAGVRLECLTLRGHAMKVLSSEYE
+DIPKLTVMFQDLRILSVSLDLSSEQETVFLLKLLESCPNLQKFSLSAAETDNdndLPPFT
+DHKERLASISCLTTSLVEFKFLGFKPQEYQKELMVFLLTQAKqLKKVGVEFEKsQAAAVK
+kILSVrRAPIERTStKYksyYMELDYS
+
+================================================================================

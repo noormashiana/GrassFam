@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM003149
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             476.0 aa
+Family Size (Extended Family Size): 40 (42) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48048:SF80
+Panther Family ID:               PTHR48048
+Modal Panther ID:                PTHR48048:SF80
+Modal Panther Description:       GLYCOSYLTRANSFERASE
+Modal Panther Family ID:         PTHR48048
+Modal Panther Fam Desc:          GLYCOSYLTRANSFERASE
+Interpro Signature Accession:    cd03784; G3DSA:3.40.50.2000:FF:000089; G3DSA:3.40.50.2000:FF:000086; G3DSA:3.40.50.2000; PTHR48048; SSF53756
+Interpro Signature Description:  GT1_Gtf-like; Glycosyltransferase; Glycogen Phosphorylase B;; GLYCOSYLTRANSFERASE; UDP-Glycosyltransferase/glycogen phosphorylase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: UDP-glycosyltransferase 88B1
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu01H
+  Gene Products: anthocyanidin 3-O-glucosyltransferase 2-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata01D
+  Gene Products: anthocyanidin 3-O-glucosyltransferase 2
+Tae
+  Gene count: 5
+  Modal chromosome: Tae01B
+  Gene Products: anthocyanidin 3-O-glucosyltransferase 2-like
+Ola
+  Gene count: 5
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: anthocyanidin 3-O-glucosyltransferase 2-like
+  Gene Descriptions: anthocyanidin 3-O-glucosyltransferase 2-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: anthocyanidin 3-O-glucosyltransferase 6
+  Gene Descriptions: anthocyanidin 3-O-glucosyltransferase 6
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 4
+  Modal chromosome: Pau14
+  Gene Products: anthocyanidin 3-O-glucosyltransferase 2-like
+  Gene Descriptions: anthocyanidin 3-O-glucosyltransferase 2-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi02K
+  Gene Products: anthocyanidin 3-O-glucosyltransferase 2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: UDP-glycosyltransferase 71K1-like%2C transcript variant X3
+Msi
+  Gene count: 3
+  Modal chromosome: Msi04
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi02
+  Gene Products: anthocyanidin 3-O-glucosyltransferase 2; anthocyanidin 3-O-glucosyltransferase 2%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: anthocyanidin 3-O-glucosyltransferase
+  Gene Synonyms: GRMZM2G155911
+  Gene Descriptions: anthocyanidin 3-O-glucosyltransferase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 472 aa
+
+MATPTVVLLPVWGAGHLMSMLDAGKRLLARSGGALSLTVLVMQPPTEqyaSEVAGHIRRE
+EASGLDIRFvHLPAVEPPTDcvGIEEFVSRFVQLHAPHVRAAISGLaCPVAALVlDFFCT
+TLLDVSRELAVPAYVYFTAsAAMlALfLRLPALHEEVTVEFEEMEGmVDVPGLPPVPPSS
+LPvPVMDKKNPNYTWFVYHGRRFmEADGiIINTAAELEQSVLAAIADGRCTrGVrAPTVY
+PIGPVISFtPPAEQPHECVRWLDAQPPASVVLLCFGSgGFfTAPQAHEIAHGLERSGHRF
+LWVLRGPPAaGaRqPSDANLaELLPEGFLERTKgKGLVWPTkAPQKEILAHAAVGGFVTH
+GGWNStLESLWFGVPMVPWPLYAEQHLNAFTLVAYMGVAVAMKVDRKRnNFVeAsELERA
+VKeLMGGSEEGRKAREKAMEMKAACRkAVEEGGSSYSALgRLSEElikGavv
+
+
+BOP CONSENSUS:
+Length: 473 aa
+
+MATPTVVLLPVWGaGHLMSMLDAGKRLLARSGGALSLTVLVMQAPtEnyRSEVAGHIRRE
+EASGLDIRFHHLPAVEPPTDcVGIEEFVSRFVQLHAAHVKAAISGLtCPVAALVlDFFCT
+TLLDVSRELAVPAYVYFTAsAAmyALfLRLPALHEEVAVEFEEMEGMVDVPGLPPVPPSS
+LPsPVMDKKNPNYTWFVYHGRRFMEAKGVIINTAAELEQSVLAAIADGRCTrGvPAPTVY
+PVGPVLSltPPAEQPHECVRWLDAQPPASVVLLCFGSgGFSTAPQAHEIAHGLERSGHRF
+LWVLRGPPAAGARQPSDAnLeELLPEGFLERTKEKGLVWPTrAPQKEILAHAAVGGFVTH
+GGWNSTLESLWFGVPMVPWPLYAEQHLNAFTLVAYMGVAVAMEVDRKRNNFVaASELERA
+VKALMDGDSDEGRKAREKAmEMKAACRKAVEEGGSSYSALGRLSEEmInGAnk
+
+
+PACMAD CONSENSUS:
+Length: 473 aa
+
+MATPTVVLLPVWGAGHLMSMLEAGKRLLtRAGRALSLTVLVMPPPTEQLAAEVdGHIRRE
+EASGLDVRFVRLPAVEPPTDFRGIEEFVSRLVQLHAPHVRAAISSLASPVAAvVLDFFCT
+TLLDVSRELAVPAYVYFTaNAAMLALMLRLPALHEEVTVEFEEMEGAVDVPGLPPVPPSS
+LPtPVMDKNNPNYTWFVYHGRRFAEADGIIVNTAAELEQSVLAAIADGRCTRGVRAPTVY
+PIGPVISFtPPtEQPHECVRWLDTQPPASVVLLCFGSGGFFAAPQAHEIAHGLERSGHRF
+LWVLRGPPAPGERHPTDANLAELLPDGFLERTKDRGLVWPTWAPQKEILAHAAVGGFVTH
+GGWNSVLESLWFGVPMAPWPLYAEQHLNAFTLVAyMGVAVAMKVDRKRDNFVEAAELERA
+VKELMGGGEEGRKAREKAMEMKAACRNAVEEGGSSYAALRRLSEqLYKVdTNk
+
+================================================================================

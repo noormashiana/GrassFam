@@ -1,0 +1,126 @@
+================================================================================
+GrassFam ID: GFAM014625
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             461.0 aa
+Family Size (Extended Family Size): 17 (17) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46086:SF18
+Panther Family ID:               PTHR46086
+Modal Panther ID:                PTHR46086:SF18
+Modal Panther Description:       OS04G0657500 PROTEIN
+Modal Panther Family ID:         PTHR46086
+Modal Panther Fam Desc:          ALPHA/BETA-HYDROLASES SUPERFAMILY PROTEIN
+Interpro Signature Accession:    cd00519; G3DSA:3.40.50.1820; PTHR46086; SSF53474
+Interpro Signature Description:  Lipase_3; alpha/beta hydrolase; ALPHA/BETA-HYDROLASES SUPERFAMILY PROTEIN; alpha/beta-Hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: uncharacterized LOC100841180
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: triacylglycerol lipase OBL1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: triacylglycerol lipase OBL1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: triacylglycerol lipase OBL1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: triacylglycerol lipase OBL1-like
+  Gene Descriptions: triacylglycerol lipase OBL1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: triacylglycerol lipase OBL1%2C transcript variant X1
+  Gene Descriptions: triacylglycerol lipase OBL1
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: triacylglycerol lipase OBL1-like; triacylglycerol lipase OBL1-like%2C transcript variant X1
+  Gene Descriptions: triacylglycerol lipase OBL1-like
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi07K
+  Gene Products: triacylglycerol lipase OBL1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: uncharacterized LOC112900177
+Msi
+  Gene count: 1
+  Modal chromosome: Msi12
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: uncharacterized LOC8082524
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 461 aa
+
+MSKLDYCFSNDYMVLRPDRAGPfELLHLLFSPKVGRNRAVDCFTSTEIRSFpRRLAIFLN
+LLLQILLLSLAGPVAALGAAVEFALNLVDNVLHGRMEYPDRSSATYRSlTGLIDRRVDLD
+RSIkPtDSRyHAALCVMASKVAYENEAFIRDVVTRRWQMEFVrFYNCWNEFENAYTAQAF
+VFCDKAAPDAELVVVAFRGTPAFDAARWCADLDPSWYKIPRLGRAHAAYTHALGAQRNIG
+WPKWVEHIKGKPQKVYAYYTIRDAVKELLEANpKARLLVTGHGSGGALAVLFPAVLAYHK
+EKAVLDRLAGVYTFGQPRVGDAMLAMFvERNLDRPKKRHFRiTYGdDPLPRLPnESSAAH
+FLHFGLgLHFDvSYnLKVfrEIPGETSpSSSaaGFVTSRVNSAWELARSVYLGYRRGAYF
+REGWLLLLMRVLAVALPGLPFHRVQDYVNAVvLAAyIPKDn
+
+
+BOP CONSENSUS:
+Length: 462 aa
+
+MSKLDYCFSNDYMVLRPDRASPFDLLHLLFSPKVGRNKAVDCFTSTEIRSFPRRLALFLN
+LLLQILLLSLAGPVAAIGAAVEFALNLiDNVLHGRMEYPDRSSASYRSLTGLIDrRVDLD
+RSIAPADSRYHAALCVMASKVAYENEAFIRDVVTRRWQMEFVKFYNCWNEFEsAYTAQAF
+VFCDKAAPDAELVVVAFRGTPAFDAARWRADLDPSWYKVPRLGRAHAAYTHALGAQRNMG
+WPKWVEHVKGKPQKVYAYYTIRDAVKGLLEASPKARLLVTGHGSGGALAVLFATVMAYHR
+EKAVMDRLAGVYTFGQPRVGDAMLAMFAERNLDRPKKRHFRFTYAGDPLPRLPGVGSPAH
+FLHFGLCLHFDVSYNLKVFTEIPGETASPSSSAAGFVASRVNAARELARSAYLGYwRGAY
+FREGWlLLLMRVLAVALPGLPFHRVHDYVNGVALAARIPKDE
+
+
+PACMAD CONSENSUS:
+Length: 459 aa
+
+MSKLDYCFSNDYMVLRPDRAGPVELLHLLFSPKVGRNRAVDCFTSTEIRSFrRRLAIFLN
+LLLQILLLALAGPLAALGAAVEFVLNLVDNVLHGRMEYPDRSSPTYRSVTGLIDRRVDLD
+RSIKPTDSRFDAALCVMASKLAYENEAFIRNVVTRHWQMEFVRFYNCWNEFQNAYTAQAF
+VFCDKPVDADLIVVAFRGTRPFDAARWCADLDPSWYKIPRLGRAHAAYTHALGAQRNIGW
+PKWVEHIKGKPQKVYAYYTIRDtVKELLEANkKARLLVTGHGSGGALAVLFPAILAYHKE
+KAVLDRLAGVYTFGQPRVGDAMLAMFVERNLDRPKKRHFRITYGDDSLPRLPNESSAVHF
+LHFGLGLHFDKSYKLKVLREIPGEETSSSpLDfVTSRVNSAWELGRsVYLGYRRGAYFRE
+GWLLLLMRVLAVALPGLPFHRVQDYVNAiVLGgYIPKDN
+
+================================================================================

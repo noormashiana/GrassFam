@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM017210
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             400.0 aa
+Family Size (Extended Family Size): 22 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11132:SF496
+Panther Family ID:               PTHR11132
+Modal Panther ID:                PTHR11132:SF496
+Modal Panther Description:       PHOSPHOENOLPYRUVATE_PHOSPHATE TRANSLOCATOR 1, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR11132
+Modal Panther Fam Desc:          SOLUTE CARRIER FAMILY 35
+Interpro Signature Accession:    TIGR00817; PTHR11132; PF03151
+Interpro Signature Description:  Tpt phosphate/phosphoenolpyruvate translocator; SOLUTE CARRIER FAMILY 35; Triose-phosphate Transporter family
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: phosphoenolpyruvate/phosphate translocator 1%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: phosphoenolpyruvate/phosphate translocator 1%2C chloroplastic-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: phosphoenolpyruvate/phosphate translocator 1%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: phosphoenolpyruvate/phosphate translocator 1%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: phosphoenolpyruvate/phosphate translocator 1%2C chloroplastic
+  Gene Descriptions: phosphoenolpyruvate/phosphate translocator 1%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: phosphoenolpyruvate/phosphate translocator 1%2C chloroplastic-like
+  Gene Synonyms: OJ1381_H04.7,OsJ_28749,OsPPT1,PPT1
+  Gene Descriptions: phosphoenolpyruvate/phosphate translocator 1%2C chloroplastic-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: phosphoenolpyruvate/phosphate translocator 1%2C chloroplastic-like
+  Gene Descriptions: phosphoenolpyruvate/phosphate translocator 1%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: phosphoenolpyruvate/phosphate translocator 1%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: phosphoenolpyruvate/phosphate translocator 1%2C chloroplastic-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: phosphoenolpyruvate/phosphate translocator 1%2C chloroplastic
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: plastid phosphate/phosphoenolpyruvate translocator 1; plastid phosphate/phosphoenolpyruvate translocator 2
+  Gene Synonyms: GRMZM2G047404,MZPPT1,ppt1; GRMZM2G103047,MZPPT4,PPT,ppt2
+  Gene Descriptions: plastid phosphate/phosphoenolpyruvate translocator 1; plastid phosphate/phosphoenolpyruvate translocator 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 397 aa
+
+MQSAAAVGLVRPCAARPLvayPSPRRGAGACgGGtQPLLPPRGLRLSARAGLVPASPLEE
+EEnRRCgRHVAAAAgAAAAAeGAGEEAGGGLAKTLQLGALFGLWYLFNIYFNIYNKQVLK
+VLPYPINITTVQFAVGTAIALFMWITGILKRPKISGAQLlAILPLAIVHTMGNLFTNMSL
+GKVAVSFTHTIKAMEPFFSVLLSAIFLGELPTPWVVLSLVPIVGGVALASLTEASFNWAG
+FWSAMASNVTFQSRNVLSKKLMVKKEESLDNINLFSIITVMSFFLLAPVTLLTEGVKVSP
+AVLQSAGLNLKQIYTRSLIAAFCFHAYQQVSYMILARVSPVTHSVGNCVKRVVVIVTSVL
+FFRTPVSPINSLGTGVALAGVFLYSQLKRLKPKPKAA
+
+
+BOP CONSENSUS:
+Length: 408 aa
+
+MQSAAAVGLLRPCGATTAAAPLQLRNPSPRGFGVGVGQPLLPPRGLRLSAVAPRAGISAR
+RIGLVPVSPEQEDERRRGARDVAVAATAAAAGEAGAEEGGGLAKTLQLGALFGLWYLFNI
+YFNIYNKQVLKVFPYPINITNVQFAVGTVIALFMWITGILKRPKISGAQLAAILPLAMVH
+TMGNLFTNMSLGKVAVSFTHTIKAMEPFFSVLLSALFLGEMPTPFVVLSLVPIVGGVALA
+SLTEASFNWAGFWSAMASNVTFQSRNVLSKKLMVKKEESLDNITLFSIITVMSFFLLAPV
+TLLTEGVKVTPTVLQSAGLNLKQIYTRSLIAAFCFHAYQQVSYMILARVSPVTHSVGNCV
+KRVVVIVTSVLFFRTPVSPINSLGTGVALAGVFLYSQLKRLKPKPKTA
+
+
+PACMAD CONSENSUS:
+Length: 399 aa
+
+MQSAAAIGLVRPCAARPLvaYPSPRRGAGACGGGtqPLLPPRGLRLSARAGLVPASPLEE
+EEnRRCRAgRHVAAAAGKVAAAqGAGEEAGGGLaKTLQLGALFGLWYLFNIYFNIYNKQV
+LKVLPYPINITTVQFAVGTAIALFMWITGILKRPKISGAQLLAILPLAIVHTMGNLFTNM
+SLGKVAVSFTHTIKAMEPFFSVLLSAIFLGELPTPWVVLSLLPIVGGVALASLTEASFNW
+AGFWSAMASNVTFQSRNVLSKKLMVKKEESLDNINLFSIITVMSFFLLAPVTLLTEGVKV
+SPAVLQSAGLNLKQIYTRSLIAAFCFHAYQQVSYMILARVSPVTHSVGNCVKRVVVIVTS
+VLFFRTPVSPINSLGTGVALAGVFLYSQLKRLKPKPKAA
+
+================================================================================

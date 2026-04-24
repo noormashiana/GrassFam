@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM006683
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             408.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43807:SF12
+Panther Family ID:               PTHR43807
+Modal Panther ID:                PTHR43807:SF12
+Modal Panther Description:       AMINOTRANSFERASE, CLASSES I AND II FAMILY PROTEIN, EXPRESSED
+Modal Panther Family ID:         PTHR43807
+Modal Panther Fam Desc:          FI04487P
+Interpro Signature Accession:    cd00609; G3DSA:3.90.1150.10:FF:000096; G3DSA:3.40.640.10:FF:000086; G3DSA:3.90.1150.10; G3DSA:3.40.640.10; PTHR43807; PF00155; SSF53383
+Interpro Signature Description:  AAT_like; ATP-binding cassette sub-family A member 3-like Protein; Kynurenine--oxoglutarate transaminase 1; Aspartate Aminotransferase, domain 1; -; FI04487P; Aminotransferase class I and II; PLP-dependent transferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: probable N-succinyldiaminopimelate aminotransferase DapC%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: probable N-succinyldiaminopimelate aminotransferase DapC%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: probable N-succinyldiaminopimelate aminotransferase DapC
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: probable N-succinyldiaminopimelate aminotransferase DapC; probable N-succinyldiaminopimelate aminotransferase DapC%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: uncharacterized LOC127786049
+  Gene Descriptions: uncharacterized LOC127786049
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4348936
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau24
+  Gene Products: uncharacterized LOC133907971%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133907971
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: probable N-succinyldiaminopimelate aminotransferase DapC%2C transcript variant X1; probable N-succinyldiaminopimelate aminotransferase DapC%2C transcript variant X3
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: probable N-succinyldiaminopimelate aminotransferase DapC
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: probable N-succinyldiaminopimelate aminotransferase DapC%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: uncharacterized LOC100283961
+  Gene Synonyms: GRMZM2G174145,TIDP3358
+  Gene Descriptions: uncharacterized LOC100283961
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 409 aa
+
+MERKLSAASRRSAPSPIQQLSHLAQRVGAVNLAEGFPDFPAPAHVKAAAAAAIAADLNQY
+RHVQGICDILAETMKRDHGLDVDPLTDFVICCGQSEAFAAAIFAIIDPGDEVLLFDPAYE
+TYETCIELARGVPVYVPLDPPSWTLNEDKFLKSFTSRTKAVVLNSPHNPTGKVFSKEELL
+IISQACQKMDCFAITDEVYEYITYDENKHISLASLPGMQERTIITSSLSKTYSVTGWRIG
+WACAAANIASAIRNIHVKLTDSAPAPFQEAALIALTSTPDYYtSLKKDYevRRDFILQLL
+KDfGFHISFKPQGSVFVFAELPRSWQISDIDFVTNLINNAGVAAVPGRGFFHtdcDDESY
+HHRYVRFAFCKSDDTLKAAAqKMRKLAdSnGkvWLtGsRQEDQTASASP
+
+
+BOP CONSENSUS:
+Length: 398 aa
+
+MEGKLSEASRRAAPSPIQQLSHLAQRVGAVNLAEGFPDFPAPAHVKAAAAAAIAADLNQY
+RHVQGICDVLAETMKRDHGLDVDPLTDFAICCGQSEAFAAAIFAIIDPGDEVLLFDPAYE
+TYQTCIELARGVPVYVPLDPPSWTLNADKFLKSFTSRTKAVILNSPHNPTGKVFSKEELL
+IISQACQQMDCFAITDEVYEYITYDENKHISLASLPGMQERTIITSSLSKTYSVTGWRIG
+WACAAANIAAAIRNIHVKLTDSAPAPFQEAALIALTSTPDYYESLKKDYAERRDFILQLL
+KNYGFHISFKPQGSVFVFAELPKSWQISDIDFVTNLINNAGVAAVPGRGFFHTDaDDQSY
+HHRYVRFAFCKSDETLKAAAQKMMKPVKSNgKvlHdTk
+
+
+PACMAD CONSENSUS:
+Length: 408 aa
+
+MERRLSAASRRSAPSPIQQLSHLAQRVGAVNLAEGFPDFPAPPHVKAAAAAAIAADLNQY
+RHVQGICDILAETMKRDHGLDVDPLTDFVICCGQSEAFAAAIFAIIDQGDEVLLFDPAYE
+TYETCIELARGVPVYVPLDPPSWTLNEDKFLKSFTSRTKAVVLNSPHNPTGKVFSKEELL
+IIAQACQKMDCFAITDEVYEYITYDENKHISLASLPGMQERTIITSSLSKTYSVTGWRIG
+WACAAASIASAIRNIHVKLTDSAPAPFQEAALIALTSTPDYYTSLKKDYEVRRDFILQLL
+KDFGFHISFKPQGSVFVFAELPRSCQLSDIDFVTKLINDAGVAAVPGRGFFHktCDGESY
+HHRYVRFAFCKGDDTLKAAALKMRKLASrqGepWLTGRQEDQTASASp
+
+================================================================================

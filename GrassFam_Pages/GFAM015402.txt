@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM015402
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             504.0 aa
+Family Size (Extended Family Size): 33 (33) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23070:SF187
+Panther Family ID:               PTHR23070
+Modal Panther ID:                PTHR23070:SF187
+Modal Panther Description:       OS06G0697600 PROTEIN
+Modal Panther Family ID:         PTHR23070
+Modal Panther Fam Desc:          BCS1 AAA-TYPE ATPASE
+Interpro Signature Accession:    G3DSA:3.40.50.300; PTHR23070; SSF52540
+Interpro Signature Description:  -; BCS1 AAA-TYPE ATPASE; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: AAA-ATPase At3g50940
+Lpe
+  Gene count: 4
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: AAA-ATPase At3g50940-like
+Ata
+  Gene count: 1
+  Modal chromosome: AtaUN001150
+  Gene Products: AAA-ATPase At3g50940
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: AAA-ATPase At3g50940-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: AAA-ATPase At3g28580-like
+  Gene Descriptions: AAA-ATPase At3g28580-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa06
+  Gene Products: AAA-ATPase At3g28580; AAA-ATPase At3g50940
+  Gene Descriptions: AAA-ATPase At3g28580; AAA-ATPase At3g50940
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: AAA-ATPase At3g28580-like; AAA-ATPase At3g50940-like
+  Gene Descriptions: AAA-ATPase At3g28580-like; AAA-ATPase At3g50940-like
+Svi
+  Gene count: 3
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi04K
+  Gene Products: AAA-ATPase ASD%2C mitochondrial-like; AAA-ATPase At3g28510-like; AAA-ATPase At3g28580-like; AAA-ATPase At3g50940-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha04
+  Gene Products: AAA-ATPase At3g28580-like; AAA-ATPase At3g50940-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi19
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: AAA-ATPase At3g50940
+Zma
+  Gene count: 2
+  Modal chromosome: Zma05
+  Gene Products: AAA-ATPase At3g28580; cell Division Protein AAA ATPase family
+  Gene Synonyms: GRMZM2G381576
+  Gene Descriptions: cell Division Protein AAA ATPase family
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 506 aa
+
+MEMVLDWRSVGSLIATVMVFRTAmRDFLPPEAEqwLRRLLARVAAAFRpPtgTILIDEAD
+GASGGANDLYDAAQLYLGARCLATAPAVRLHKPRQspRPVASLPDSHTTHDTFrGVRVKW
+TSTARPVERGgGGhNPYNVFGRrGGGGGGDhRSLELQFPRQHRDLIHDHYIPHlIDEATR
+MRLKSRERRLYTNRAAAPGDDHHRLWTSHAFSHPSTFDTLAVDPALREEIRADLLRFAAR
+REHYARVGRAWKRGYLLHGPPGTGKTSLVAAIANLLEFDVYDLELTTVPTNSHLRRLLVS
+TTPKSVVVVEDIDCSLDLSDRnKKKKGGGaDDEdaAQLAMlSPAAAAAMAAmGRESISLS
+GVLNFVDGLWSSCVGERLMVFTTNHPERLDPALLRPGRMDRKIELGYCTPAALRVLAKNY
+LGVGDEGCEDADDDPDTVngLMAEAEGLLAAdVRITPADIAEVFMGCDGAGAAAALRKLV
+GELRRRRDAPAAdAVaPGAsTEETtE
+
+
+BOP CONSENSUS:
+Length: 500 aa
+
+MEMVLDWRSVGSLIATVMVFRTAMRDFIPPEAEQWLRRLLARLAAAFRAPTATILIDEAD
+GASSGATNDLYDAAQLYLGSRCLAAAPAVRLYKPRQssRAVASLPDAHTAHDTFqGVRVK
+WTSTARPVERGAGHNPYNVYGSRGGGgGGDHRSLELQFPRQHRDFVHDtYIPHVIDEATR
+MRLKSRERRLYTNRAAAPGDDHHRLWTSHTFSHPSTFDTLAVDPALREEIRADLLRFAAR
+REHYARVGRAWKRGYLLHGPPGTGKTSLVAAIANLLEFDVYDLELTTVPTNSHLRRLLVS
+TTPKSVVVVEDIDCSLDLSDRKKNsGGADEDNAQLAMLSPAAAAAMAAIGRESISLSGVL
+NFVDGLWSSCVGERLMIFTTNHPERLDPALLRPGRMDRKIELGYCTPAALRVLAKNYLGV
+GEDPeDEDDdvVDGLMAEAEGLLAADVRITPADIGEVFMGCDGAGASAALRKLVGELRRR
+RDAPAVDTVqsgAlTEEKME
+
+
+PACMAD CONSENSUS:
+Length: 509 aa
+
+MEMVLDWRSLGSLLATVMVFRTAvRDFLPPEAEmlLRRFLAWVAAAFRPPrGTILIDEAD
+GASGGANDLYDSAQLYLGARCLATAPTVRLHKPRQSPRPVASLPDSHTTHDTFRGVRVKW
+TSTARTVERGGGGGGgnPYNmFGRGGGGGDQRsLELQFPRQHRDLIHdHYIPHLIDEATR
+MRLKSRERRLYTNRATGPGDDHHRLWTSHAFSHPSTFDTLAVDPALREEIRADLLRFAAR
+RDHYARVGRAWKRGYLLHGPPGTGKTSLVAAIANLLEFDVYDLELTTVPTNSHLRRLLVS
+TTPKSVVVVEDIDCSLDLSDRNKKKKGGGAgaDEEaAAQLAmvSPAAAAAMAVMGRESIS
+LSGVLNFVDGLWSSCVGERLMVFTTNHPERLDPALLRPGRMDRKIELGYCTPPALRVLAK
+NYLGVGDEGCEDADADPDTVNsLMAEAEGLLAAAEVRITPADIAEVFMGCDGAGAAAALR
+KLVGELRRRRDAAAAaAVAPGESTEDTTD
+
+================================================================================

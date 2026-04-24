@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM014958
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             327.0 aa
+Family Size (Extended Family Size): 23 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47990:SF99
+Panther Family ID:               PTHR47990
+Modal Panther ID:                PTHR47990:SF99
+Modal Panther Description:       OS05G0514600 PROTEIN
+Modal Panther Family ID:         PTHR47990
+Modal Panther Fam Desc:          2-OXOGLUTARATE (2OG) AND FE(II)-DEPENDENT OXYGENASE SUPERFAMILY PROTEIN-RELATED
+Interpro Signature Accession:    G3DSA:2.60.120.330:FF:000014; G3DSA:2.60.120.330; PTHR47990; SSF51197
+Interpro Signature Description:  Gibberellin 2-beta-dioxygenase 1; -; 2-OXOGLUTARATE (2OG) AND FE(II)-DEPENDENT OXYGENASE SUPERFAMILY PROTEIN-RELATED; Clavaminate synthase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: gibberellin 2-beta-dioxygenase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: gibberellin 2-beta-dioxygenase 3
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: gibberellin 2-beta-dioxygenase 3
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: gibberellin 2-beta-dioxygenase 3; gibberellin 2-beta-dioxygenase 3-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: gibberellin 2-beta-dioxygenase 3
+  Gene Descriptions: gibberellin 2-beta-dioxygenase 3
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: gibberellin 2-beta-dioxygenase 3-like
+  Gene Descriptions: gibberellin 2-beta-dioxygenase 3-like
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN1076
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: gibberellin 2-beta-dioxygenase 3; gibberellin 2-beta-dioxygenase 3-like
+  Gene Descriptions: gibberellin 2-beta-dioxygenase 3; gibberellin 2-beta-dioxygenase 3-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: gibberellin 2-beta-dioxygenase 3; gibberellin 2-beta-dioxygenase 3-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: gibberellin 2-beta-dioxygenase 3
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: gibberellin 2-beta-dioxygenase
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: gibberellin 2-beta-dioxygenase; gibberellin 2-beta-dioxygenase 3
+  Gene Synonyms: GRMZM2G022679
+  Gene Descriptions: gibberellin 2-beta-dioxygenase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 327 aa
+
+MVVLAnPPVVDQIPLLRSPDPGDyFSGVPVVDLSSPGAARAIVDACERFGFFKVVNHGVA
+AdTMDRAESEAVRFFAQaQADKDRaGPAYPFGYGSKRIGLNGDMGWLEYLLLAVDSASLS
+DACtVPScAAFRAALNEYIAAVRKVAVRVLEAMAEGLGIAPADALSAMVTaeGSDQVFRV
+NHYPPCPALQGLGCSATGFGEHTDPQLISVLRSNGTSGLQIALRDGGQWVSVPSDRDAFF
+VNVGDSLQVLTNGRFKSVKHRVVANSLKSRVSFIYFGGPPLaQRIAPLPQLLGEGEQSLY
+KEFTWGEYKKAAYKSRLGDNRLAQFEK
+
+
+BOP CONSENSUS:
+Length: 326 aa
+
+MVVLASTPAVDHIPLLRSPDPGDYFSGMPVVDLSSPGAPRAIADACERFGFFKLVNHGVP
+aDTMDRLESEAVRFFSLPQADKDRSGPAYPFGYGSKRIGLNGDMGWLEYLLLAVDSASLS
+gACtVPSCALFRAALNEYIAAVRKVAVRVMEAMAEGLGIAPVDALSAMVTAEGSDQVFRV
+NHYPPCHALQGLGCSATGFGEHTDPQLISVLRSNGTSGLQIALQDGQWVSVPSDRDAFFV
+NVGDSLQVLTNGRFKSVKHRVVANSLKSRVSMIYFGGPALTQRIAPLPQLLGEGEQSLYK
+DFTWGEYKKAAYNSRLGDNRLAQFHR
+
+
+PACMAD CONSENSUS:
+Length: 328 aa
+
+MVVLANPPVVDQIPLLRSPGPRDyFSGVPVVDLSSPGAARAIVDACERFGFFKVVNHGVA
+AATMDRAESEAVRFFAQAQADKDRAGPAYPFGYGSKRIGLNGDMGWLEYLLLAVDSASLS
+DACpVPStAAFRsALNEYIAAVRKVAVRVLEAMAEGLGIAPADALSAMVTGqGSDQVFRV
+NHYPPCPALQGLGCSATGFGEHTDPQLISVLRSNGTSGLQIALRDGAQWVSVPSDRDAFF
+VNVGDSLQVLTNGRFRSVKHRVVTNSLKSRVSFIYFAGPPLAQRIAPLPELLGEGEESLY
+KEFTWGEYKKAAYKTRLGDNRLAQFEKk
+
+================================================================================

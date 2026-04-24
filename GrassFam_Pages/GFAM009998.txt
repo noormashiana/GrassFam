@@ -1,0 +1,124 @@
+================================================================================
+GrassFam ID: GFAM009998
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             376.0 aa
+Family Size (Extended Family Size): 23 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10209:SF888
+Panther Family ID:               PTHR10209
+Modal Panther ID:                PTHR10209:SF888
+Modal Panther Description:       FE2OG DIOXYGENASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR10209
+Modal Panther Fam Desc:          OXIDOREDUCTASE, 2OG-FE II  OXYGENASE FAMILY PROTEIN
+Interpro Signature Accession:    G3DSA:2.60.120.330:FF:000026; G3DSA:2.60.120.330; PTHR10209; PF03171; SSF51197
+Interpro Signature Description:  DIBOA-glucoside dioxygenase BX6; -; OXIDOREDUCTASE, 2OG-FE II  OXYGENASE FAMILY PROTEIN; 2OG-Fe(II) oxygenase superfamily; Clavaminate synthase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: 1-aminocyclopropane-1-carboxylate oxidase homolog 4
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: 1-aminocyclopropane-1-carboxylate oxidase homolog 4-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: 1-aminocyclopropane-1-carboxylate oxidase homolog 4
+Tae
+  Gene count: 5
+  Modal chromosome: Tae06A
+  Gene Products: 1-aminocyclopropane-1-carboxylate oxidase homolog 4-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl06
+  Gene Products: 1-aminocyclopropane-1-carboxylate oxidase homolog 4-like; DIBOA-glucoside dioxygenase BX6-like%2C transcript variant X1
+  Gene Descriptions: 1-aminocyclopropane-1-carboxylate oxidase homolog 4-like; DIBOA-glucoside dioxygenase BX6-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa06
+  Gene Products: 1-aminocyclopropane-1-carboxylate oxidase homolog 4%2C transcript variant X1
+  Gene Descriptions: 1-aminocyclopropane-1-carboxylate oxidase homolog 4
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi05N
+  Gene Products: 1-aminocyclopropane-1-carboxylate oxidase homolog 4-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: 1-aminocyclopropane-1-carboxylate oxidase homolog 4-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: 1-aminocyclopropane-1-carboxylate oxidase homolog 4
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: 1-aminocyclopropane-1-carboxylate oxidase
+  Gene Synonyms: GRMZM2G144668
+  Gene Descriptions: 1-aminocyclopropane-1-carboxylate oxidase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 365 aa
+
+MASsAaAAPAsGRAALLKAFDESRTGVRGLVESGVSTVPDLFRHPDPYASVPLAPPGVSI
+PVVDLSLPAPlAAAAAAaAARDWGFFHLVNYHALVPsDYPARALAAVRAFNELPApERAA
+HYGRAVDGGVSYSSNVDLYRSPAASWRDTIQVgLGPtRPDTERIPAVCRAEVLEWEAHAT
+AVARAVMALLSEGLGLgpAALEEASCLEGKVMVCHYYPVCPEPERTMGlVPHTDPGVLTV
+LAQDGVGGLQVKHTNEDGESYWVDAKPVPGALVINVGDLLQIMSNDKYkSVEHRVVMNSR
+EEARVSIAIFFNPGKRGDSVFYGPLPeLVSSENPPKYRNFTMSEFlGTFFKRDLASKALI
+EHFKL
+
+
+BOP CONSENSUS:
+Length: 366 aa
+
+MMASsAAAAPeSDRAALVKAFDESRTGVRGLVESGVSTVPDLFVHPDPYASVPLAPPGVS
+IPVVDLSLPAPLAAAAAAAAARDWGFFHLVNYEALVPSDYPARALAAVRAFNELPAPERA
+AHYGRAmGGGVSYSSNVDLYRSaAASWRDTIQVGFGPTRPDTERIPPVCRSEIVEWEAHA
+TAVARAVMALLSEGLGLgeAALEEASCLEGKVMVCHYYPVCPEPERTMGLVPHTDPGVLT
+VLAQDGVGGLQVKHTNEDGESYWVDAKPVPGALVINVGDLLQIMSNDKYKSVEHRVVMNS
+REEARVSIAVFFNPGKRGDSVFYGPLPELVSSENPPKYRSFTMSEFLGAFFKRDLASKAL
+LEHFKL
+
+
+PACMAD CONSENSUS:
+Length: 375 aa
+
+MASASLPAPAPGRAELLKAFEESRTGVRGLVESGVSSVPEIFRHPDPYASIPLAPPGVSI
+PVVDLSLPFPlAAAAAAEAARTWGFFHLVNYHHALPQPADGGGGGDYPARALAAVRAFNE
+LPPAERAPHYGRTVDGGVNYSTNVDLYNSPAASWRDTIQIMLGPNRRPDLAdRIPAVCSA
+EVLEWEARATAAARAVMGLLSEGLGLGPAALEEASCLEGKVMACHYYPHCPEPERTMGIV
+PHTDPGVLTVLAQDeIGGLQVKHQDEDGRSCWVDVKPVPGALVINVGDLLQIMSNDKYPS
+VEHRVTMNTREEPRVSIAIFFSPGKRGDSVFYGPLPGLVSSENPPKYRNFTMsEFYGTFF
+SRDLASKALIDHFKL
+
+================================================================================

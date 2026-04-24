@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM017821
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             451.0 aa
+Family Size (Extended Family Size): 23 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48094:SF7
+Panther Family ID:               PTHR48094
+Modal Panther ID:                PTHR48094:SF7
+Modal Panther Description:       PROTEIN DJ-1 HOMOLOG C
+Modal Panther Family ID:         PTHR48094
+Modal Panther Fam Desc:          PROTEIN/NUCLEIC ACID DEGLYCASE DJ-1-RELATED
+Interpro Signature Accession:    cd03135; G3DSA:3.40.50.880:FF:000015; G3DSA:3.40.50.880; TIGR01383; PTHR48094; PF01965; SSF52317
+Interpro Signature Description:  GATase1_DJ-1; Protein DJ-1 homolog C; -; DJ-1 family glyoxalase III; PROTEIN/NUCLEIC ACID DEGLYCASE DJ-1-RELATED; DJ-1/PfpI family; Class I glutamine amidotransferase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: protein DJ-1 homolog C
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: protein DJ-1 homolog C
+Ata
+  Gene count: 2
+  Modal chromosome: Ata07D
+  Gene Products: protein DJ-1 homolog C
+Tae
+  Gene count: 6
+  Modal chromosome: Tae07A
+  Gene Products: protein DJ-1 homolog C-like; protein DJ-1 homolog C-like%2C transcript variant X1; protein DJ-1 homolog C-like%2C transcript variant X2; protein DJ-1 homolog C-like%2C transcript variant X4
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: protein DJ-1 homolog C%2C transcript variant X4
+  Gene Descriptions: protein DJ-1 homolog C
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: protein DJ-1 homolog C%2C transcript variant X1
+  Gene Descriptions: protein DJ-1 homolog C
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN50
+Pau
+  Gene count: 1
+  Modal chromosome: Pau16
+  Gene Products: protein DJ-1 homolog C%2C transcript variant X1
+  Gene Descriptions: protein DJ-1 homolog C
+Svi
+  Gene count: 1
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: protein DJ-1 homolog C-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: protein DJ-1 homolog C
+Msi
+  Gene count: 1
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: protein DJ-1 homolog C%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100383711%2C transcript variant X1
+  Gene Synonyms: GRMZM2G117189
+  Gene Descriptions: uncharacterized LOC100383711
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 451 aa
+
+MLSpSkpLLSPTsLpAMaIRaPPHpPNrylpShrRsPPPRSVARAAPTLSATATAVSSPP
+SPKKKVLVPIAMGTEEMEAVILAGVLRRAGADVTLASVEDGLEVEASCGSRIVADKHIAA
+CADQVFDLVALPGGMPGSVRLRDSeILQRITVRQAEEKRLYGAICAAPAVVLMPWGLHKR
+KKITCHPSFIGDLPTFRAVESNVQVSGELTTSRGPGTAFQFALSFVEQLFGPHAAEDVDs
+TLMTQIDADLERSTEVNEVEWSfDHNPqVLIPIANGSEEMEIIMLVDILRRANINVVLAS
+VEKSTNIVGSQRMKIVADKCIlSASDSKYDLIILPGGPAGAERLHRSrILKKLLKEQKQA
+GRMYGGICSSPlILQKQGLLEDKTVTAHPSIVNQLTCQVIDRSKVVIDGNLITGKGLGTV
+vDFSLAIIRKFFGHGRAKsVANGIVFEYPKS
+
+
+BOP CONSENSUS:
+Length: 447 aa
+
+MLSaSKPLLAPTSLtAMAIRPPPHAPTHYAPPHRRTPPFRSiARAAPSpSTAATAVSLPP
+SPKKVLVPIAMGTEEMEAVILAGVLRRAGADVTLASVEDGLEVEASYGTRIIADKsIAAC
+ADQVFDLVALPGGMPGSVRLRDNEILQRIMVRQAEEKRLYGAICAAPAVVLMPWGLHKGR
+KITCHPSFIGDLPTFRAVESNVQVSGELTTSRGPGTAFQFALSFVEQLFGPHAVEDVDST
+LIDAgLERSTEVNRVEWPFDHKPQVLIPIANGSEEMEIIMLVDILRRANINVVLASVDES
+TNIVGSQRMKIVADKCILGASDSKYDLIIIPGGPAGAERLHRSTTLKKLLKEQKQASRMY
+GGICYSPLILQKQGLLQDKTVTAHPSIVNQLTCQVIDRSKVVIDGNLITGKGLGTVMDFS
+LAIVRKFFGHGRAKGVANGMVFDYPKS
+
+
+PACMAD CONSENSUS:
+Length: 451 aa
+
+MLSPWHSLLSPtAPPAMEiRAPLnPPNRSLYSPLRSPPPRSVARAAPTLSATAAAVSSPS
+SPKKKVLVPIAMGTEEMEAVILAGVLRRAGADVTLASVEDGLEVEASCGSRIVADTHIAS
+CADQVFDLVALPGGMPGSVRLRDSDILQRITVRQAEEKRLYGAICAAPAVVLMPWGLHKR
+KKITCHPSFIGDLPTFRAVESNVQVSGELTTSRGPGTtFQFALSFVEQMFGPHAAEDVDR
+ILMTQtDgDLERSTEVNELEWSvDHNPhVLIPIANGSEEMEIIILVDILRRAKINVVLAS
+VEKSPNIVGSQRMKIVADKSItSASDSkYDLIILPGGPAGAERLHRSRILKKLLKEQKQA
+GRMYGGVCSSLKVLQQQGLLEDKiVTAHPAVANELTCQVIDQSKVVIDGNLITGKGLGTV
+VDFALAIIRKFFGHGRAKSVANGIVFEYPKS
+
+================================================================================

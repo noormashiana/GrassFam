@@ -1,0 +1,127 @@
+================================================================================
+GrassFam ID: GFAM001283
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             268.0 aa
+Family Size (Extended Family Size): 73 (74) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31692:SF21
+Panther Family ID:               PTHR31692
+Modal Panther ID:                PTHR31692:SF21
+Modal Panther Description:       EXPANSIN-B1
+Modal Panther Family ID:         PTHR31692
+Modal Panther Fam Desc:          EXPANSIN-B3
+Interpro Signature Accession:    cd22275; G3DSA:2.40.40.10; G3DSA:2.60.40.760; PTHR31692; PR01225; PR00829; PF01357; SSF49590; SSF50685
+Interpro Signature Description:  DPBB_EXPB_N; -; EXPANSIN-B3; Expansin/Lol pI family signature; Major pollen allergen Lol pI signature; Expansin C-terminal domain; PHL pollen allergen; Barwin-like endoglucanases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: major pollen allergen Hol l 1; pollen allergen Phl p 1
+Lpe
+  Gene count: 4
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 5
+  Modal chromosome: Hvu04H
+  Gene Products: major pollen allergen Hol l 1-like; pollen allergen Phl p 1-like
+Ata
+  Gene count: 3
+  Modal chromosome: Ata04D
+  Gene Products: pollen allergen Phl p 1-like
+Tae
+  Gene count: 9
+  Modal chromosome: Tae04B
+  Gene Products: major pollen allergen Hol l 1; pollen allergen Phl p 1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 4
+  Modal chromosome: Ogl03
+  Gene Products: expansin-B1; expansin-B1-like; expansin-B10
+  Gene Descriptions: expansin-B1; expansin-B1-like; expansin-B10
+Osa
+  Gene count: 4
+  Modal chromosome: Osa03
+  Gene Products: expansin-B1; expansin-B1-like; expansin-B10-like; expansin-B13
+  Gene Synonyms: EXPB10,OsaEXPb1.5,OsEXPB10
+  Gene Descriptions: expansin-B1; expansin-B1-like; expansin-B10-like; expansin-B13
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 4
+  Modal chromosome: Pau03
+  Gene Products: major pollen allergen Cyn d 1-like
+  Gene Descriptions: major pollen allergen Cyn d 1-like
+Svi
+  Gene count: 3
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi09K
+  Gene Products: expansin-B11-like
+Pha
+  Gene count: 5
+  Modal chromosome: Pha09
+  Gene Products: expansin-B11-like
+Msi
+  Gene count: 8
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 6
+  Modal chromosome: Sbi01
+  Gene Products: expansin-B11
+Zma
+  Gene count: 10
+  Modal chromosome: Zma05
+  Gene Products: Expansin-B11; expansin-B10-like; expansin-B11-like; uncharacterized LOC100193591; uncharacterized LOC732771
+  Gene Synonyms: EXPB11,GRMZM2G089699,ZmEXPB11; GRMZM2G144856; gpm509,GRMZM2G109973
+  Gene Descriptions: Expansin-B11; expansin-B10-like; uncharacterized LOC100193591; uncharacterized LOC732771
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 268 aa
+
+MmSsSSsqVLVaVVLAaLVGGAwCGPPKVPPGKNITAtYGsKWLDAKATWYGKPTGAGPD
+DNGGACGYKDVNKAPFNGMgACGNiPIFKDGLGCGSCFEIKCDKPaECSGEPVvVhITDM
+NYEPIAAYHFDLAGTAFGAMAKKGEEEKLRKAGIIDMQFRRVKCKYPAGTKVTFHVEKGS
+NPNYLALLVKYVdGDGDVVaVDIKEKGsDewepLKHSWGAIWRIDTPKPLKGPfSVRyTT
+EGGTKtVyEDVIPEGWKPDTaYtAKlQf
+
+
+BOP CONSENSUS:
+Length: 266 aa
+
+AmSSSSVLLVAAVLAAVVcGAHGIPKVPPGPNITASYGnKWLDAKTTWYGKPTGAGPKDN
+GGACGYKEVDKAPFhGMTSCGNiPIFKDGRGCGSCFELKCTKPEACSGEPTiVTITDKNE
+EPIAPYHFDLSGHAFGSMAKKGEEQKLRDAGEVEIKFRRVKCKYPpGTKVNFHVEKgSNP
+NYLALVVKFLQGDGDVVgVDIKeKGkDKWtELKESWGAVWRIDTPhKLIGPFSVRYTTEG
+GTKTvvEDVIPkGWKADTSYEAKGGY
+
+
+PACMAD CONSENSUS:
+Length: 268 aa
+
+MAVsSMwSsssmQVAvVVALAFLVGGAWCGPPKVPPGKNITATYGSDWLEAKATWYGKPT
+GAGPDDNGGACGYKDVNKAPFNSMGACGNsPIFKDGLGCGSCFEIKCDKPAECSGEPVVV
+YITDMNYEPIAAYHFDLAGTAFGAMAKKGEEEKLRKAGIIDMQFRRVKCKYGtKVTFHVE
+KGCNPNYLALLVKYVDGDGDIVAVDIKEKGsDeYePLKHSWGAIWRKDSDKPIKGPiTVR
+ITTEGGTKlVYdDVIPEgWKPDTAYTAK
+
+================================================================================

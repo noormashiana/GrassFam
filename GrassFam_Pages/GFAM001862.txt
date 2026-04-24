@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM001862
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             550.0 aa
+Family Size (Extended Family Size): 31 (33) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR42893:SF23
+Panther Family ID:               PTHR42893
+Modal Panther ID:                PTHR42893:SF23
+Modal Panther Description:       PROTEIN DETOXIFICATION
+Modal Panther Family ID:         PTHR42893
+Modal Panther Fam Desc:          PROTEIN DETOXIFICATION 44, CHLOROPLASTIC-RELATED
+Interpro Signature Accession:    cd13136; TIGR00797; PTHR42893
+Interpro Signature Description:  MATE_DinF_like; MATE family efflux transporter; PROTEIN DETOXIFICATION 44, CHLOROPLASTIC-RELATED
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: uncharacterized LOC100840460
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: protein DETOXIFICATION 44%2C chloroplastic-like%2C transcript variant X1
+Ata
+  Gene count: 2
+  Modal chromosome: Ata04D
+  Gene Products: protein DETOXIFICATION 44%2C chloroplastic%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: protein DETOXIFICATION 44%2C chloroplastic-like; protein DETOXIFICATION 44%2C chloroplastic-like%2C transcript variant X1; protein DETOXIFICATION 44%2C chloroplastic-like%2C transcript variant X3
+Ola
+  Gene count: 2
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: protein DETOXIFICATION 44%2C chloroplastic-like
+  Gene Descriptions: protein DETOXIFICATION 44%2C chloroplastic-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa11
+  Gene Products: protein DETOXIFICATION 44%2C chloroplastic-like%2C transcript variant X1; uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: protein DETOXIFICATION 44%2C chloroplastic-like; uncharacterized LOC112543456
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 1
+  Modal chromosome: Pau23
+  Gene Products: protein DETOXIFICATION 44%2C chloroplastic-like
+  Gene Descriptions: protein DETOXIFICATION 44%2C chloroplastic-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: protein DETOXIFICATION 44%2C chloroplastic; uncharacterized LOC120677962
+Pha
+  Gene count: 2
+  Modal chromosome: Pha06
+  Gene Products: protein DETOXIFICATION 44%2C chloroplastic-like; uncharacterized LOC112898208
+Msi
+  Gene count: 5
+  Modal chromosome: Msi14
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: protein DETOXIFICATION 44%2C chloroplastic%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: uncharacterized LOC100501783%2C transcript variant X1; uncharacterized LOC103630881
+  Gene Synonyms: GRMZM5G890665
+  Gene Descriptions: uncharacterized LOC100501783
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 547 aa
+
+MAATSPTPtRpvAAAltraPSPgpnRVStpsctRrRrRRAtPRWRPPRCRGKPaVTdVVE
+EeAPrgPetnpEgeEEeeAGAGRGaLGWFRLDgVGMDILsIAAPAVLALAADPITALVDT
+AFVGHIGSAELAAVGVSISVFNLVSKLFNVPLLNVTTSFVAEQQAVDANSStTGERDEfS
+TPQEKASEQRKFLPAVSTSLALAAGIGLMEMVALIVGSGTLMNIIGIPVDSPMRAPAEQF
+LTLRAYGAPPIIVALAAQGAFRGFMDTKTPLYAVGAGNLVNAILDAvFIFPLGLGVSGAA
+LATVTSEYLTAFILLWKLNNEVvLFSWNIIGdGIIRYLKSGGLLIGRTIAVfLTLTLSTS
+LAAREGPVPMAGYEICLQVWLTISLLNDALALAGQALLASEYAKGNYKQARmVLYRVLQV
+GGVTGVALAATLFLGFGSLSLLFTDDPAVLDVAQSGVWFVTISQPINAIAFVADGLYYGV
+SDFAYAAYSTLFAGAVSSAFLLVAAPKFGLGGIWAGLTLFMSLRAIAGFWRLGSKGGPWE
+IIWSETe
+
+
+BOP CONSENSUS:
+Length: 550 aa
+
+MAATSPAPMRAAAAAFTLpPlSqRLtRISTVsSVRrRqCRAAHRWRPaRCRGKPAVsGVV
+EDDEEDTSREeLNPEeKEEESAGAGSWGLGWFRLDEVGMDILGIAvPAVLALAADPITAL
+VDTAFVGHIGSVELAAVGVSISVFNLVSKLFNVPLLNVTTSFVAEQQAVDAKYSGVGERD
+EVSSTREQASEKRKFLPAVSTSLALAAGIGLMEMVALIvGSGTLMDIVGIPVDSPMRAPA
+EQFLTLRAYGAPPVVVALAAQGAFRGFMDTKTPLYAVVAGNLVNAILDAIFIFPLGLGVS
+GAALATVTSEYLAAFILLWKLNNELVLFSWNVIGGDIIRYLKSGALLIARTIAVILPLWL
+STSLAARQGPVPMAGYEISLQVWLTISLLNDALALAGQALLASEYAKGNYKQARlVLYRV
+LQIGGVTGvALAATLFLGFGYLSLLFTDDPAVLDVAQSGVWFVTISQPINAIAFVFDGLY
+YGVSDFAYAAYSTLFAGVVSSAFLLVVAPKFGLGGVWAGLTLFMGLRAIAGFWRLGSKGG
+PWEIVWSKTD
+
+
+PACMAD CONSENSUS:
+Length: 549 aa
+
+MAATSPTPTRPVAAAlIRaPSPGPsRVSltCCTRpRRRRATPRWRpPRCSRkGKPVVTDV
+VEEEAPRGPeTERKDEEEAEAgAGRGALGWLRLDGVAADIISIAAPAVLALAADPITALV
+DTAFVGHIGSAELAAVGASvSVFNLVSKLFNVPLLNVTTSFVAEQQAVDANSNTTGqRDE
+FLTPQEKASQQRKVLPAVSTSLALAAGIGLLEMVALIVGSGTLMNIIGIPVDSPMRAPAE
+QFLTLRAYGAPPIIVALAAQGAFRGFLDTKTPLYAVGAGNLLNAILDAVLIFPLGLGVSG
+AALATVTSEYLTAFILLWKLNNEVDLFSWNIIGDGVIRYLKSGGLLIGRTIAVFLTLTLS
+TSLATREGPVPMAGYEICLQVWLTISLLNDALALAGQALLASEYAKGNYKQARmVLYRVL
+QVGGVTGVALAATLFVGFGSLSLLFTDDPAVLDVARSGVWFVTISQPVNAIAFVADGLYY
+GVSDFAYAAYSTFFAGAVSSVFLLvAAPNFGLGGIWAGLTLFMSLRAIAGFWRLGSKGGP
+WEvIWSEsE
+
+================================================================================

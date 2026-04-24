@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM005114
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             435.0 aa
+Family Size (Extended Family Size): 23 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR19855:SF11
+Panther Family ID:               PTHR19855
+Modal Panther ID:                PTHR19855:SF11
+Modal Panther Description:       RIBOSOME BIOGENESIS PROTEIN WDR12
+Modal Panther Family ID:         PTHR19855
+Modal Panther Fam Desc:          WD40 REPEAT PROTEIN 12, 37
+Interpro Signature Accession:    cd00200; G3DSA:2.130.10.10:FF:000399; G3DSA:2.130.10.10; PTHR19855; SSF50978
+Interpro Signature Description:  WD40; Ribosome biogenesis protein WDR12 homolog; -; WD40 REPEAT PROTEIN 12, 37; WD40 repeat-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: ribosome biogenesis protein WDR12 homolog
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: ribosome biogenesis protein WDR12 homolog
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: ribosome biogenesis protein WDR12 homolog
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: ribosome biogenesis protein WDR12 homolog; ribosome biogenesis protein WDR12 homolog%2C transcript variant X1; ribosome biogenesis protein WDR12 homolog%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: ribosome biogenesis protein WDR12 homolog
+  Gene Descriptions: ribosome biogenesis protein WDR12 homolog
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: ribosome biogenesis protein WDR12 homolog
+  Gene Synonyms: OJ1634_B10.122,OsJ_25010,WDR12
+  Gene Descriptions: ribosome biogenesis protein WDR12 homolog
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 2
+  Modal chromosome: Pau14
+  Gene Products: ribosome biogenesis protein WDR12 homolog
+  Gene Descriptions: ribosome biogenesis protein WDR12 homolog
+Svi
+  Gene count: 2
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: ribosome biogenesis protein WDR12 homolog; ribosome biogenesis protein WDR12 homolog%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: ribosome biogenesis protein WDR12 homolog%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: ribosome biogenesis protein WDR12 homolog
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: uncharacterized LOC100192696
+  Gene Synonyms: GRMZM2G050501,pco078642
+  Gene Descriptions: uncharacterized LOC100192696
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 435 aa
+
+MDADPSRQVRVRFVTKLPPPLRAPPAAIAVPADLSRMGLSEIVNSLLLAAEPDHQAQPFD
+FLVDGELVRLPLQQFLLAKGISAERVLELEYVKAVAPRKQEEPCPHDDWVSAVDGSNPSF
+ILTGCYDGLARlWKDAAVCTQILEGHSGAITSARFINKGVETEGSLHVVTGSKDRSLRLF
+KCDTSVSMDYPKRVGAYKILRGHTSSVQSIAVDPSrDMLCSGSWDsTIKLWAVEGSEEDG
+DAVSLKKRRMNSDSSGPEESQLEGSATSTLLGHTQCVTAVAWPEQQTIYSASWDHSVRQW
+DVQTVKETWNMFCGKALNCLDCGGEGSSLIAAGGSDPVLRVWDPRKPGTLAPVFQFSSHS
+SWITACKWHPSSWFHLVSSSFDGKVMLWDLRTAWPLASVDSHKDKVLCADWWKGDSVISG
+GADSKLCISSGIEIV
+
+
+BOP CONSENSUS:
+Length: 435 aa
+
+MDADtSRQVRVRFVTKLPPPLRAPPTAIAVPAELSRMGLSEIVNSLLLSAEPDHQAQPFD
+FIVDGELVRMPLHQFLLAKGISAERVLELEYIKAVAPRKQEPPLPHDDWVSAVDGSNPSF
+ILTGCYDGLARIWKDAAECTQVLEGHSGAITSASFINKGVETDGSLHVVTGSKDRSLRLF
+KFDTSVTIGSSKRIGAYKILPGHTSSIQSIAVDPSRNMICSASWDTTIKLWAVEGSEEDG
+DTVSVKKRRMNSDaSGPEESQLEGSASSTLLGHTQCVSSVAWPEQRTIYSASWDHSVRQW
+DAQTGRETWNMFCGKALNCLDCGGEGSSLIAAGGSDPVLRVWDPRKPGTTAPIFQFSSHS
+SWISACKWHPSSWFHLISSSFDGKVMLWDLRTAWPLASVDSHKDKVLCADWWKGDSVISG
+GADSKLCISSGVEIA
+
+
+PACMAD CONSENSUS:
+Length: 435 aa
+
+MDADPSRQVRVRFVTKLPPPLRAPPAAIAVPADLSRMGLSEIVNSLLAAAEPDHQAQPFD
+FLVDGELVRLPLQQFLLAKGISAERVLELEYVKAVAPRKQEEPCPHDDWVSAVDGSNPSF
+ILTGCYDGLARLWKDAAVCTQILEGHSDAITSTRFINKGVETEGSLHVVTGSKDRSLRLY
+KCDTSVSMDYPKRVGAYKILRGHTSSVQSISVDPSgDMLCSGSWDSTIKLWAVEGSEEDG
+DAVSLKKRRMNSDSSGPEESQLEGSATSTLLGHTQCVTAVTWPEQQTIYSASWDHSVRQW
+DVQTVKETWNMFCGKALNCLDCGGEGSSLIAAGGSDPVLRVWDPRKPGTLAPVFQFSSHS
+SWITACKWHPSSWFHLVSSSFDGKVMLWDLRTAWPLASVDSHKDKVLCADWWKGdSVISG
+GADSKLCISSGIEIV
+
+================================================================================

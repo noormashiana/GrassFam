@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM007894
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             562.0 aa
+Family Size (Extended Family Size): 28 (32) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR28637:SF14
+Panther Family ID:               PTHR28637
+Modal Panther ID:                PTHR28637:SF14
+Modal Panther Description:       CDT1 GEMININ-BINDING DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR28637
+Modal Panther Fam Desc:          DNA REPLICATION FACTOR CDT1
+Interpro Signature Accession:    cd08674; G3DSA:1.10.10.1420:FF:000002; PTHR28637; SSF46785
+Interpro Signature Description:  Cdt1_m; CDT1-like protein a chloroplastic; DNA REPLICATION FACTOR CDT1; Winged helix DNA-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: CDT1-like protein a%2C chloroplastic%2C transcript variant X3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: CDT1-like protein a%2C chloroplastic%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: CDT1-like protein a%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: CDT1-like protein a%2C chloroplastic; CDT1-like protein a%2C chloroplastic%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: CDT1-like protein a%2C chloroplastic
+  Gene Descriptions: CDT1-like protein a%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: CDT1-like protein b
+  Gene Descriptions: CDT1-like protein b
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau21
+  Gene Products: CDT1-like protein b
+  Gene Descriptions: CDT1-like protein b
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: CDT1-like protein b; CDT1-like protein b%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: CDT1-like protein b
+Msi
+  Gene count: 6
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi01
+  Gene Products: CDT1-like protein b%2C transcript variant X1; CDT1-like protein b%2C transcript variant X4
+Zma
+  Gene count: 3
+  Modal chromosome: Zma01
+  Gene Products: CDT1-like protein a chloroplastic%2C transcript variant X1; CDT1a protein%2C transcript variant X1; CDT1a protein%2C transcript variant X2
+  Gene Synonyms: GRMZM2G004924; GRMZM2G028335; GRMZM2G032209
+  Gene Descriptions: CDT1-like protein a chloroplastic; CDT1a protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 562 aa
+
+MSEGnsTQLDLEKGLpQMSNDNDSSSPATmHKMKvDTEDSGSKIESPTPEKpESRSKGVV
+VSSLARNLLAERYKDRFANQLlEDEDETDDEDYNdSvSPggSRSlvSeSIELLEKHKDLL
+NLFNRMESSIRLLRLRKKMtTFnNIATQVEVLTKRKFLYSHLAQMKHLFPEAIQIKRILL
+HDEKSLCMYADMEITLVMDVVECTSPDQSPSMAICEAFYSKLLrFLDAHHKGiDIPEAIL
+PEPFNSRPREKLYLEAlHNGHAAEPpLQGstEnGFSNASHFPQSFQKLMSQKIIADGTEK
+TQLLSDPAELSSVSAYDTEGpNRSPKKQDkHASVPVNSEISATPSRHLISCCQESTPKQG
+TSESPLLAgTPAMQTPKRPLPTPLEKlETTCGHISEPRSASSARRSLNTSLKFEGGSPSY
+HDgMEHEaTAKKglFSEDSSSFNKSLEENDPVFFTDKDKTNQVDpVeTQEKlASLRvTFD
+IVCDISrSTKNSLITKQELFHNILANNLEIEETGEIEEQLHILEDLAPDWISKKVINGGE
+ILYSIePITDQNSVRaRLVEaV
+
+
+BOP CONSENSUS:
+Length: 561 aa
+
+MVEGKSVQVDLEKGLNQMPNDSNSTSPATMQKMKPDMEDSGsKtESPTPEKPESGREEIV
+VSSLATNLLSERYKDRLAEKLLGNEDETDDEDDNesALPDGSQSPVSNELLEKHKNLLNL
+FNRMESSIRLLRLRKKMTTFTNIATQVEVLTKRKFLYSHLAQMKHLFPEAIQINRILLHD
+EKSLCMYADMEITLLMDAVECSNPQESPAMAICEAFRSKLLCFLGSHHKDIDIPEATLPE
+PFNSREELYLDALHNGHSAEGVLEFSSENGFSNASHFPQSFQKLMSQKSIAKVTEKTRLL
+SDPVEVTSLGADDTGGPDRSSNKHVSVPVKTNISDTPNRHLISFCENSTPKQGISNSPSM
+AETPAMQTPKRPLPTPVAKHETSSRHGSEARSTSSARRSLIMFSPSKFdESPSDHDPDTS
+KLDKDGVtSITEPEVTTGKCLFPEETfTFTNLLVENDNKTNQVSSmNSQEKLDSLRVTFD
+IVCGISGSTKNSLITKQELFHNILANNLEIEETGEIEEQLHILEDLSPDWISKELRGGEI
+LYSIKQIPDQKSVRERLTEVI
+
+
+PACMAD CONSENSUS:
+Length: 562 aa
+
+MSEGNTTQLDLEKGLPQvSNDNDSSSPATvHKMKVDTEDsGSKIESPTPEKlESRSKGVV
+VSSLARNLLAERYKDRFANQLVEDEGDTDDEDYNdSVSPGvSRSLiSeSIELLEKHKDLL
+NLFNRMESSIRLLRLRKKMATFNNIATQVEILTKRKLSYSHLAQMKHLFPEAIQIKRILL
+HDEKSLCMYADMEITLVMDVVECTSPDQSPSMAICEAFYSKLLrFLDAHHKGTDIPEAIL
+PEPFNSRPREKLYLEAvhNGHAAEPPLQGTTEDGfSNASHFPQSFQKLMSQKIIADGTEK
+TQLLSDPAELSSVSAYDTEGtNRSPKKQDkHAPVPVNSEISATPSRHLISCCQESTPKQG
+TSESPLLAGTPAMQTPKRPLPTPLEKLEaTCGHISEPRSASSARRSLNTSLKFEGGSPSY
+HDGMEHEATAKKGIFSEDSSSFNKSLEENDPVFFTDKDKINqvDPVeTQEKMASLRsTFD
+IVCDISRSTKNSLITKQELFHNILANNLEIEEtGEIEEQLHILEDLAPDWISKKVINGGE
+ILYSIEPITDQNSVRARLVEAV
+
+================================================================================

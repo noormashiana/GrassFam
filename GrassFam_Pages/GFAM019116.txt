@@ -1,0 +1,122 @@
+================================================================================
+GrassFam ID: GFAM019116
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             460.0 aa
+Family Size (Extended Family Size): 15 (15) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23315:SF250
+Panther Family ID:               PTHR23315
+Modal Panther ID:                PTHR23315:SF250
+Modal Panther Description:       RING-TYPE E3 UBIQUITIN TRANSFERASE
+Modal Panther Family ID:         PTHR23315
+Modal Panther Fam Desc:          U BOX DOMAIN-CONTAINING
+Interpro Signature Accession:    cd16664; G3DSA:1.25.10.10:FF:000330; G3DSA:1.25.10.10; G3DSA:3.30.40.10; PTHR23315; SM00504; SSF48371; SSF57850
+Interpro Signature Description:  RING-Ubox_PUB; RING-type E3 ubiquitin transferase; -; Zinc/RING finger domain, C3HC4 (zinc finger); U BOX DOMAIN-CONTAINING; Ubox_2; ARM repeat; RING/U-box
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: U-box domain-containing protein 9
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: U-box domain-containing protein 9
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: U-box domain-containing protein 9
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: U-box domain-containing protein 9-like; U-box domain-containing protein 9-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: U-box domain-containing protein 9-like
+  Gene Descriptions: U-box domain-containing protein 9-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: U-box domain-containing protein 9
+  Gene Descriptions: U-box domain-containing protein 9
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 1
+  Modal chromosome: Pau13
+  Gene Products: U-box domain-containing protein 9-like
+  Gene Descriptions: U-box domain-containing protein 9-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi07K
+  Gene Products: U-box domain-containing protein 9-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: U-box domain-containing protein 9-like%2C transcript variant X3
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 455 aa
+
+MAKPAPAEEDAAALRRRLRRLVAAvTAGGAGAeAFDEAAAALAALREAEVGGGRKGAGGE
+EtRSAaEAesVPAQFLCPISSkIMRDPVVVESGQTYDRRfIeEWFSAGNQmCPQTQQVLL
+NTTLIPNlLVRSMIaQWCTENGFaLPPvENQEEDHvtNSEQKTFDEIFNKITSSSNSTER
+KQAIKdLRLLTKRsSEFRAVLEERPDSISQMIFARSTPGLQNDPQVLEDMVTIILNFSLH
+DSNKKIIGDDPEAIPFLIWALKSGDMGSRSNSAAAIFTLSALDSNKEKIGELGAMEPLID
+LLEHGSIIAKKDAASAIFNLCLLHENRSIATRsGIVDVAMRAIdDQSLVEESLAILALLS
+SNYEMVElITEFgGATCMLRAIRESECKRSKENAvVVLFSICMYNRtKLKEVEADENtNG
+SLAsLAQNGTPRARRKAAAILEKMKRTMHNRHSSC
+
+
+BOP CONSENSUS:
+Length: 458 aa
+
+MAKPPPAEEEAAALRRRLRRLVATITAGGAGAEAFDEAAAALAALREAEVGGSRKGARGE
+ETRSAnEAESVPAQFLCPISSKIMRDPVVVESGQTYDRRyIAEWFSAGNQMCPQTQQVLL
+NTTLIPNLLIRSMIAQWCTENGFALSPLENQEEDHvCNSEQRTFDEIFNKITSSSNSTER
+KQAIKGLRLLTKRSSEFRAVLEERPDSISQMTFARFSNPGLQNDPQVVEDMVTIILNFSL
+HDSNKKIIGDDPEAIPFLIWALKSGDMGSRSNSAAAIFTLSALDSNKEKIGELGAIEPLI
+DLLEHGSIIAKKDAASAIFNLCMLHENRSIATRSGIVDVAIRAIGDQSLVEESLAILALL
+SSNYDMVELMIEFGGATCMLQAMRESECKRSKENAAVVLFSICMYNRAKLKEVEADENTN
+GSLASLAQNGTPRARRKAAAILEMMKKTKTMHNRHSSC
+
+
+PACMAD CONSENSUS:
+Length: 464 aa
+
+MAKPAPAEEDAAALRRRLRRSLAAVAAGGAAADVYDEAAAALEALREAELGtGGRKGGGG
+GGEGRRPAAEGGEEKEAVPVPpQFLCPISSRIMsDPVIVASGQTYDRRsIEEWFSAGNQL
+CPQTQQALLnTTLIPNHLVRSMILQWCTENRFNLPPVENQEENNVTNSDQKTFDEIFKKI
+TSSPKStEMRQAIKDLRLlTKQNSDFRAVLGERPDSISRMIFARSTPGLQNDPQVLEDMV
+TIILNFSLHDSNKKVIGDDPEAIPFLIWALKSGDMGSRGNSAAAIFTLSALDSNKEKIGE
+LGAMGPLVDLLDNGNIIAKKDAASAIFNLCLLHENKSRATKNGIVDVAMRAIDDQLLVDG
+SLAILALLSSNHEVVEMITEFDGTACMLRAIRESECSRSKENAVVVLFAICMFNRTKLKE
+VEADEKINGSLALLAQsGTSRARRKAVGILEKMKRNMHNRHSSC
+
+================================================================================

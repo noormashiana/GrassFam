@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM020031
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             512.0 aa
+Family Size (Extended Family Size): 23 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23500:SF10
+Panther Family ID:               PTHR23500
+Modal Panther ID:                PTHR23500:SF10
+Modal Panther Description:       SUGAR TRANSPORT PROTEIN MST8
+Modal Panther Family ID:         PTHR23500
+Modal Panther Fam Desc:          SOLUTE CARRIER FAMILY 2, FACILITATED GLUCOSE TRANSPORTER
+Interpro Signature Accession:    cd17361; G3DSA:1.20.1250.20:FF:000002; G3DSA:1.20.1250.20; TIGR00879; PTHR23500; PR00171; PF00083; SSF103473
+Interpro Signature Description:  MFS_STP; Sugar transport protein 13; MFS general substrate transporter like domains; sugar porter family MFS transporter; SOLUTE CARRIER FAMILY 2, FACILITATED GLUCOSE TRANSPORTER; Sugar transporter signature; Sugar (and other) transporter; MFS general substrate transporter
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: sugar transport protein MST8-like
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: sugar transport protein MST8-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: sugar transport protein MST8
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: sugar transport protein MST8; sugar transport protein MST8-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl01
+  Gene Products: sugar transport protein MST7; sugar transport protein MST8
+  Gene Descriptions: sugar transport protein MST7; sugar transport protein MST8
+Osa
+  Gene count: 2
+  Modal chromosome: Osa01
+  Gene Products: sugar transport protein MST7-like; sugar transport protein MST8-like
+  Gene Descriptions: sugar transport protein MST7-like; sugar transport protein MST8-like
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: sugar transport protein MST8; sugar transport protein MST8-like
+  Gene Descriptions: sugar transport protein MST8; sugar transport protein MST8-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: sugar transport protein MST8-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: sugar transport protein MST8-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: sugar transport protein 1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: sugar transport protein MST8
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 512 aa
+
+MAGGafdekgKnYPGKMTVFVFLACLVASSGGLIFGYDIGISGGVTSMDPFLiRFFPSVY
+AKEQEVVETNQYCKFDSvLLTLFTSSLYLAALVASLFASvITRKCGRRvTMLGGGVIFLV
+GAILNGFAqNVAMLIIGRILLGIGVGFSNQAVPLYLSEMAPAKMRGMLNISFQLMITVGI
+LAANLINYFTAKIaGGWGWRISLGLAAVPAVIMAGGSIFLPDTPNSLVARGKEEEARAML
+RRIRGTdDVGLEYDDLVAASEASKAIENPWrTLLERRYRPQLAMAiLIPTLQQLTGINVV
+MFYAPVLFKTIGFGGTASLMSAVITGLVNMFATFVSIATVDRLGRRKLLLQGGcQMILAQ
+FVLGTLIAvKFGTdGVAnISRsYAIGVVFCICVFVSAFAWSWGPLGWLVPSEIFPLEIRS
+AAQSaVVVFNMAFTFIIAQIFLMMLCRLKFGLFYFFGAwELlMTlFVYFFLPETKGIPIE
+EMDRIWGnHWYWKRFVdGnGgnRKVQlTSTAV
+
+
+BOP CONSENSUS:
+Length: 515 aa
+
+MAvGGALaKSDGdKNYPGnMTVFVFLACLVASSGGLIFGYDIGISGGVTSMDPFLIRFFP
+SVYAKEQEVVDTNQYCKFDSvLLTLFTSSLYLAALVASLFASVITRKLGRRmTMLGGGVV
+FLVGAILNGFAmNIAMLIIGRILLGIGVGFSNQAVPLYLSEMAPAKMRGMLNISFQLMIT
+VGILAANLINYFTAKISGGWGWRISLGLAAVPAVIMAGGSLFLPDTPNSLVARGKEEEAR
+AMLRRIRGTHDIGLEYDDLVAASEASKAIENPWKTLLERRYRPQLAMAILIPTLQQLTGI
+NVVMFYAPVLFKTIGFGGTASLMSSVISGGVNMLATFVSIATVDRLGRRKLLLEGGCQMI
+lAQFVLGTLIwIKFGTDGVANISRSYAIGVVFCICVFVSAFAWSWGPLGWLVPSEIFPLE
+IRSAAQSMVVVFNMAFTFIIAQIFLMMLCRLKFGLFYFFGACELLMTAFVYFFLPETKGI
+PIEEMDRIWGtHWYWKRFVEGnGgrRKVQmTSssv
+
+
+PACMAD CONSENSUS:
+Length: 509 aa
+
+MAGGSFTEKGKQYPGKMTVFVFLACLVASSGGLIFGYDIGISGGVTSMDPFLkKFFPSVY
+AKEQEVVETNQYCKFDSVLLTLFTSSLYLAALVASLFAGYITKkCGRRVSMLGGGVIFLV
+GAVLNGLAQNVAMLIIGRIFLGIGVGFSNQSVPLYLSEMAPAKMRGMLNISFQLMITIGI
+LAANLINYFTAKIPGGWGWRIGLGLAAVPAVIMVGGSIFLPDTPNSLVARGKvEsARAML
+RRIRGTDDVsLEFDDLVAASEATkAIeNPWSTLLQRRYRPQLAMAlLIPTLQQLTGINVV
+MFYAPVLFKTIGFGGTASLMSAVITGLVNMFATFVSIATVDRLGRRKLLLQGGTQMILAQ
+FVLGTLIAVKFGTSGVAEISRPYAIGVVFCICVFVSAFAWSWGPLGWLVPSEIFPLEIRS
+AAQSAVVVFNMIFTFVIAQIFLMLLCRLKFGLFYFFGAWEVAMTLFVYFFLPETKGIPIE
+EMDRIWGNHWYWKRFVDgNRKVELTSTAV
+
+================================================================================

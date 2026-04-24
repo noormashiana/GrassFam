@@ -1,0 +1,126 @@
+================================================================================
+GrassFam ID: GFAM002233
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             338.0 aa
+Family Size (Extended Family Size): 18 (18) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23044:SF61
+Panther Family ID:               PTHR23044
+Modal Panther ID:                PTHR23044:SF61
+Modal Panther Description:       3'-5' EXORIBONUCLEASE 1-RELATED
+Modal Panther Family ID:         PTHR23044
+Modal Panther Fam Desc:          3'-5' EXONUCLEASE ERI1-RELATED
+Interpro Signature Accession:    cd06133; G3DSA:3.30.420.10:FF:000096; G3DSA:3.30.420.10; PTHR23044
+Interpro Signature Description:  ERI-1_3'hExo_like; Uncharacterized exonuclease domain-containing protein At3g15140; -; 3'-5' EXONUCLEASE ERI1-RELATED
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: uncharacterized exonuclease domain-containing protein At3g15140%2C transcript variant X1
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: uncharacterized exonuclease domain-containing protein At3g15140%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: uncharacterized exonuclease domain-containing protein At3g15140
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: uncharacterized exonuclease domain-containing protein At3g15140-like; uncharacterized exonuclease domain-containing protein At3g15140-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: uncharacterized exonuclease domain-containing protein At3g15140%2C transcript variant X1
+  Gene Descriptions: uncharacterized exonuclease domain-containing protein At3g15140
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: uncharacterized exonuclease domain-containing protein At3g15140%2C transcript variant X1
+  Gene Descriptions: uncharacterized exonuclease domain-containing protein At3g15140
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau08
+  Gene Products: uncharacterized exonuclease domain-containing protein At3g15140-like
+  Gene Descriptions: uncharacterized exonuclease domain-containing protein At3g15140-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi02K
+  Gene Products: uncharacterized exonuclease domain-containing protein At3g15140
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: uncharacterized exonuclease domain-containing protein At3g15140%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: uncharacterized exonuclease domain-containing protein At3g15140
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: uncharacterized LOC100193112
+  Gene Synonyms: cl10665_1,GRMZM2G143525
+  Gene Descriptions: uncharacterized LOC100193112
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 332 aa
+
+MALARVSsSSrlrLLPSsLLHSFLRPFSSSvSPlRsSHrRSsPIAAALSQASPSPhAARE
+GqVMEAPRPsSRRPWKPTCLYYTQGKCTMMNDALHLEKFNHNLsMDLPVNASAADKVKPQ
+KLDYFLVLDLEGKVEILEFPVVMIDAQSMEFIDSFHRFVRPTAMSEQRItEYIEGKYGKF
+GVDRVWHDTAIPFKEVLQEFEDWIGNHNLWKKEQGGSLNSAAFVTCGNWDLKTKVPEQCK
+VSKIKLPSYFMEWINLKDIYLNFYNRRATGMMTMMRELQmPIVGSHHLGIDDSKNIARVV
+QRMLADGAVIQITAKRQSATGDVKFLFKNRIR
+
+
+BOP CONSENSUS:
+Length: 339 aa
+
+MALARVSSSSRLLLLPSSTTTSSLLHSFLRPFSTSSVStRRLSHPRSLPIDASLSQASPL
+PpAAREEGEVAEAPRsTSRRPWKPTCLYYTQGKCTMMDDALHLEKFNHNLSMDLPVNASA
+ADKVKPQKLDYFLVLDLEGKVEILEFPVVMIDAHSMEFIDSFHRFVRPTAMSEQRIrEYI
+EGKYGKFGVDRVWHDTAIPFgEVLQEFEDWIGGHKLWKQKQGESLNSAAFVTCGNWDLKT
+KVPEQCKVSKIKLPSYFMEWINLKDIYLNFYNRRATGMMTMMRELQIPIVGSHHLGIDDA
+KNITRVVQRMLADGAVIQITARRQPDTsDVKFLFKNRIR
+
+
+PACMAD CONSENSUS:
+Length: 332 aa
+
+MALARVSPSSlARLLpSPLLQSFLRPFSSdfSPLRSSRRRSSPIAAAFSLASQSPHAARE
+GQVMEAPRPSSRRPWKPTCLYYTQGKCTMMNDAMHLEKFSHNLMMDLPVNASAtDKVKPQ
+KLDYFLILDLEGKVEILEFPVVMIDAQSMEFIDSFHRFVRPTAMSEQRITEYIEGKYGKF
+GVDRVWHDTAIPFKEVLQEFEDWlGNHNLWKKEQGGSLNSAAFVTCGNWDLKTKVPEQCK
+VSKIKLPTYFMEWINLKDIYLNFYSRRATGMMTMMRELQMPIVGSHHLGIDDSKNIARVV
+QRMLADGAVIQITAKRQSATGDVKFLFKDRIR
+
+================================================================================

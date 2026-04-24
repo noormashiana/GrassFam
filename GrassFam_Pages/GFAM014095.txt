@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM014095
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             477.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47826:SF1
+Panther Family ID:               PTHR47826
+Modal Panther ID:                PTHR47826:SF1
+Modal Panther Description:       OS03G0164700 PROTEIN
+Modal Panther Family ID:         PTHR47826
+Modal Panther Fam Desc:          OS03G0164700 PROTEIN
+Interpro Signature Accession:    G3DSA:3.40.1190.20; PTHR47826; PF00294; SSF53613
+Interpro Signature Description:  -; OS03G0164700 PROTEIN; pfkB family carbohydrate kinase; Ribokinase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: 2-dehydro-3-deoxygluconokinase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: fructokinase-1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: fructokinase-1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: fructokinase-1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: probable fructokinase-4
+  Gene Descriptions: probable fructokinase-4
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: probable fructokinase-4
+  Gene Descriptions: probable fructokinase-4
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: fructokinase-1-like; uncharacterized LOC133916865%2C transcript variant X1
+  Gene Descriptions: fructokinase-1-like; uncharacterized LOC133916865
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: 2-dehydro-3-deoxygluconokinase-like; fructokinase-1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: 2-dehydro-3-deoxygluconokinase
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: ribokinase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100192801
+  Gene Synonyms: GRMZM2G169320
+  Gene Descriptions: uncharacterized LOC100192801
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 477 aa
+
+MALQTLNPHRHPAaVSPaPlPLPRRGPPQPlLHLPPRRRLAGGAARPRAVAVAVSGAVNE
+ARRRGPPqeGGeeGKETDLATLGNLCVDVVLSVPQLPPAQREERKAYMERLAASPPDQKF
+WEAGGNCNLAFAAARLGLRCSTLGHVGEEIYGKFLLDVLQAEGISVVGMLENTDATACRQ
+AYETLLCWVLVDPFQRHGFCSRADFSeEPAFSWIRKLPADIRTAIHHSKILFCNGYAFDE
+FFPDVIASSIDCAIDAGTAVFFDPGPRGKSLLHGTLDEQRALEHALRLSDVLLLTSDEAE
+SLTNIRNPIQAGQELLKRGIRTKQVVIKMGSKGSIMITKNAVSCAPSFKInVVDTVGCGD
+SFTAAIAFGFLHDLPAVSTLTLANAVGAATATGCGAGRNVAHLDKVLQLLRESDLNEEDT
+tWtELIEGsSlCPEVSVLSkTAVNGFSeRlVHVPVcgVVSDLLsMLEAVsERSTVQA
+
+
+BOP CONSENSUS:
+Length: 473 aa
+
+MALQTLNPATVSRAPLPLARRHPPQPFPHLPPRRRVAGGGVRPRAAVAVAVSGAVNEARR
+RPPpEGGEGKETDLATLGNLCVDVVLSVPCLPPAQRDERLAYMEGLAASPPDQKYWEAGG
+NCNLAFAAARLGLRCSTLGHVGEEVYGKFLLDVLEAEGISVVGMLENADVTACRqAYETL
+LCWVLVDPFQRHGFCSRADFSKEPAFSWIRKLPAETKTAIHHSKILFSNGYAFDEFSPDV
+IASAIDCAIDAGTSVFFDPGPRGRSLLHGNLDEQRALEHALRLSDVLLLTSDEAESLTNI
+RNPIQAGQELLRRGTRTKWVVIKMGSKGSIMITESAVSCAPSFKIRVVDTVGCGDSFTAA
+IAFGFLHNLPAISTLALANAVGAATATGCGAGRNVAHLDKVLNLLRESDLNEEGTTWTEL
+IEGCSACPEVSVLSKTPVNGFSDRLVNVVPVsGVVSDLLSMLEVAPERSTVQA
+
+
+PACMAD CONSENSUS:
+Length: 479 aa
+
+MALQTLNPHRHPAAVSPTPAPVPRRGHPPQPLLHLPPRRRLAGGAARPRAVAAAVSGAVN
+EARRRGPPhgGGEeGGKETDLATLGNLCVDVVLSVPQLPPAQREERKAYMERLAASPPDQ
+KFWEAGGNCNLAFAAARLGLRCSTLGHVGEEIYGKFLLDVLQAEGISVVGMLENTDATAC
+RQAYETLLCWVLVDPFQKHGFCSRADFSEEPAFSWIRKLPADIRTAIHHSKILFCNGYAF
+DEFFPDVIASSIDCAIDAGTAVFFDPGPRGKSLLHGTLDEQRALEHALRLSDVLLLTSDE
+AESLTNIRNPIqAGQELLKRGIRTKQVVIKMGSKGSIMITKNtVSCAPSFKINVVDTVGC
+GDSFTAAIAFGFLHDLPAVNTLTLANAVGAATATGCGAGRNVAHLDKVLQLLREADLNEE
+DTAWSELIEGSSLCPEVSVLSRTAvNGFSEhiVHVPVcdVVSDLLPMFEAVSERSTVQA
+
+================================================================================

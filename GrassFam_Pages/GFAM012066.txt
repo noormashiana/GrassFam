@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM012066
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             348.0 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43330:SF8
+Panther Family ID:               PTHR43330
+Modal Panther ID:                PTHR43330:SF8
+Modal Panther Description:       METHIONINE AMINOPEPTIDASE 1D, MITOCHONDRIAL
+Modal Panther Family ID:         PTHR43330
+Modal Panther Fam Desc:          METHIONINE AMINOPEPTIDASE
+Interpro Signature Accession:    cd01086; G3DSA:3.90.230.10; TIGR00500; PTHR43330; PF00557; SSF55920
+Interpro Signature Description:  MetAP1; Creatinase/methionine aminopeptidase superfamily; methionine aminopeptidase, type I; METHIONINE AMINOPEPTIDASE; Metallopeptidase family M24; Creatinase/aminopeptidase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: methionine aminopeptidase 1D%2C chloroplastic/mitochondrial
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: methionine aminopeptidase 1D%2C chloroplastic/mitochondrial%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: methionine aminopeptidase 1D%2C chloroplastic/mitochondrial
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: methionine aminopeptidase 1D%2C chloroplastic/mitochondrial-like; methionine aminopeptidase 1D%2C chloroplastic/mitochondrial-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: methionine aminopeptidase 1D%2C chloroplastic/mitochondrial%2C transcript variant X1
+  Gene Descriptions: methionine aminopeptidase 1D%2C chloroplastic/mitochondrial
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: methionine aminopeptidase 1D%2C chloroplastic/mitochondrial%2C transcript variant X1
+  Gene Descriptions: methionine aminopeptidase 1D%2C chloroplastic/mitochondrial
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau05
+  Gene Products: methionine aminopeptidase 1D%2C chloroplastic/mitochondrial
+  Gene Descriptions: methionine aminopeptidase 1D%2C chloroplastic/mitochondrial
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: methionine aminopeptidase 1D%2C chloroplastic/mitochondrial-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: methionine aminopeptidase 1D%2C chloroplastic/mitochondrial%2C transcript variant X3
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: methionine aminopeptidase 1D%2C chloroplastic/mitochondrial
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: methionine aminopeptidase%2C transcript variant X1
+  Gene Synonyms: GRMZM2G101412,GRMZM2G101438
+  Gene Descriptions: methionine aminopeptidase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 347 aa
+
+MASPSSPRLLSSFLGDRLGALSARPLLRsAAPGSRRVTYQATRTLCNLVDILFNRRSRDD
+slENNPRRLRPGKVSPRLSVPnHIQRPPYVNSRQRPGMNNGPEIHDEKGIECMRASGKLA
+AQVLKFAGTLVkPGITTDEIDKAVHQMIIDNGAYPSPLGYCGFPKSVCTSVNECICHGIP
+DSRPLEDGDIINIDVTVYLNGYHGDTSATFLCGDVDDEAKKLVQVTKECLDKAISICAPG
+VEInRIGRTIQDHADKFKFGVVRQFVGHGVGKVFHAEPVVLHFRNNEWGRMMLNQTFTIE
+PMLTIGStNPVIWSDDWTAVTEDGSLSAQFEHTILITEDGvEILTQC
+
+
+BOP CONSENSUS:
+Length: 349 aa
+
+MASPPSPRLLCALLGDRLGALSARPLLRtAAPGRGHRRVTCQATRTLSSLVDALFNRRSR
+DDSLENNPRRLRPGKVSPRLTVPSHIQRPPYVNSRQRPQMNdGPEIHDEKGIECMRASGK
+LAAQVLKFAGTLVNPGITTDEIDKAVHQMIIDNGAYPSPLGYCGFPKSVCTSVNECICHG
+IPDSRPLEDGDIINIDVTVYLNGYHGDTSATFLCGDVDDEAKKLVQVTKESLDKAISICA
+PGVEINRIGRTIQDHADKFKYGVVQQFVGHGVGKVFHAEPAVLHFRNNEKGRMILNQTFT
+IEPMLTIGSTNSTIWSDDWTAVTEDGSLSAQFEHTLLITEDGVEILTQC
+
+
+PACMAD CONSENSUS:
+Length: 347 aa
+
+MASPSSPRLLSSFLGDRLALSsRPLLLRSAAPGSRRVAYQATRTLCNLVDILFNRRSRDD
+APENNPRRLRPGKVSPRLSVPNHIQRPPYVNSRQRPGVNNGPEIHDEKGIECMRASGKLA
+AQVLKFAGTLVKPGITTDEIDKAVHQMIIDNGAYPSPLGYCGYPKSVCTSVNECICHGIP
+DSRPLEDGDIINIDVTVYLNGYHGDTSATFLCGDVDDEAKKLVQVTRECLDKAISICAPG
+VEIKRIGRTIQDHADKFKFGVVRHFVGHGVGKVFHAEPVVLHFRNNEWGRMMLNQTFTIE
+PMLTIGSINPVMWSDDWTAVTEDGSLSAQFEHTILITEDGPEILTQC
+
+================================================================================

@@ -1,0 +1,127 @@
+================================================================================
+GrassFam ID: GFAM017348
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             282.0 aa
+Family Size (Extended Family Size): 31 (31) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR20883:SF15
+Panther Family ID:               PTHR20883
+Modal Panther ID:                PTHR20883:SF15
+Modal Panther Description:       PHYTANOYL-COA DIOXYGENASE DOMAIN-CONTAINING PROTEIN 1
+Modal Panther Family ID:         PTHR20883
+Modal Panther Fam Desc:          PHYTANOYL-COA DIOXYGENASE DOMAIN CONTAINING 1
+Interpro Signature Accession:    G3DSA:2.60.120.620; PTHR20883; PF05721; SSF51197
+Interpro Signature Description:  q2cbj1_9rhob like domain; PHYTANOYL-COA DIOXYGENASE DOMAIN CONTAINING 1; Phytanoyl-CoA dioxygenase (PhyH); Clavaminate synthase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: phytanoyl-CoA dioxygenase 1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: phytanoyl-CoA dioxygenase 1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: phytanoyl-CoA dioxygenase 1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: phytanoyl-CoA dioxygenase 1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl03
+  Gene Products: phytanoyl-CoA dioxygenase 1; phytanoyl-CoA dioxygenase 2%2C transcript variant X1
+  Gene Descriptions: phytanoyl-CoA dioxygenase 1; phytanoyl-CoA dioxygenase 2
+Osa
+  Gene count: 2
+  Modal chromosome: Osa03
+  Gene Products: phytanoyl-CoA dioxygenase 1-like; phytanoyl-CoA dioxygenase 2-like%2C transcript variant X3
+  Gene Synonyms: OsJ_12289; OsJ_18897,P0486C01.8
+  Gene Descriptions: phytanoyl-CoA dioxygenase 1-like; phytanoyl-CoA dioxygenase 2-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: phytanoyl-CoA dioxygenase 1%2C transcript variant X1; phytanoyl-CoA dioxygenase 1-like
+  Gene Descriptions: phytanoyl-CoA dioxygenase 1; phytanoyl-CoA dioxygenase 1-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 5
+  Modal chromosome: Pvi09K
+  Gene Products: phytanoyl-CoA dioxygenase 1-like; phytanoyl-CoA dioxygenase 1-like%2C transcript variant X1; phytanoyl-CoA dioxygenase 2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: phytanoyl-CoA dioxygenase 1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: phytanoyl-CoA dioxygenase 1
+Zma
+  Gene count: 4
+  Modal chromosome: Zma01
+  Gene Products: Phytanoyl-CoA dioxygenase%2C transcript variant X1; phytanoyl-CoA dioxygenase 2; phytanoyl-CoA dioxygenase 2%2C transcript variant X2
+  Gene Synonyms: GRMZM2G086003
+  Gene Descriptions: Phytanoyl-CoA dioxygenase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 282 aa
+
+MPPAGSLTADQLSFFEaNGYLVLESFSSAEEVRAMRDRMAELVAGFDGAnSSVFSTKDHR
+QLKDDYFFKSAENISFFFEEKAFGDDGCLKQPKELSINKVGHALHELDPVFKKFSFSESV
+SSLFSSLGYKRPAVIQSMYIFKQPGIGGEVVPHQDNTFLYTEPrSCTGLWLALEDATItN
+GCLWAIPGSHKNGLKRRMIRDENGTHFDRPSPsYDQKEFVPLEVKSGDLVVIHGDLIHQS
+FENLSPvSRHALSLHVVDTEGCEWSKDNWIQRKTAPEPLYVS
+
+
+BOP CONSENSUS:
+Length: 282 aa
+
+MPPAGSLTADQLSFFDANGYLVLESFSSAEEVQAMRDRMAELVDGFDGADSSVFSTKDHR
+QLKDDYFFKSAENISFFFEEKAFGDDGCLRQPKELSINKVGHALHEHDPVFKKFSFSENV
+SSLFSSLGYKRPAVIQSMYIFKQPGIGGEVVPHQDNTFLYTEPLSCTGLWLALEDATITN
+GCLWAIPGSHKNGLKRRMIRDENGTHFDRPSPLYDQKEFVPLEVKSGDFVVIHGDLVHQS
+FENLSPVSRHALSLHVVDTEGCKWSKDNWIQRKTAPEPLYVS
+
+
+PACMAD CONSENSUS:
+Length: 282 aa
+
+MPPAGSLTADQLSFFETNGYLVMDSFSSAEEVREMRDRMAELVAGFDGANSsVFSTKDHR
+QLKDDYFFKSAENISFFFEEKAFGDDGCLKQPKELSINKVGHALHELDPVFKKFSFSESV
+ASLFSSLGYKRPAVmQSMYIFKQPGIGGEVVPHQDSTFLYTEPRTCTGLWLALEDATINN
+GCLWAIPGSHKKGLVRRMIRDENGTHFDRPSPSYDQKEFVPLEVKSGALVVIHGDLIHQS
+FENLSPASRHALSLHVVDTEGCEWSKDNWiQRKTAPEPLYVS
+
+================================================================================

@@ -1,0 +1,144 @@
+================================================================================
+GrassFam ID: GFAM008799
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             639.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR32472:SF10
+Panther Family ID:               PTHR32472
+Modal Panther ID:                PTHR32472:SF10
+Modal Panther Description:       DNA REPAIR PROTEIN RADA-LIKE PROTEIN
+Modal Panther Family ID:         PTHR32472
+Modal Panther Fam Desc:          DNA REPAIR PROTEIN RADA
+Interpro Signature Accession:    cd01121; G3DSA:3.40.50.300:FF:002364; G3DSA:3.30.230.10:FF:000053; G3DSA:3.40.50.300; TIGR00416; PTHR32472; PR01874; SSF52540; SSF54211
+Interpro Signature Description:  RadA_SMS_N; DNA repair protein RadA; DNA repair protein radA isogeny; -; DNA REPAIR PROTEIN RADA; DNA repair protein radA signature; P-loop containing nucleoside triphosphate hydrolases; Ribosomal protein S5 domain 2-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: DNA repair protein RadA%2C transcript variant X1; DNA repair protein RadA-like
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: DNA repair protein RadA
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: DNA repair protein RadA%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: DNA repair protein RadA-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: uncharacterized LOC127776807
+  Gene Descriptions: uncharacterized LOC127776807
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4340150
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau10
+  Gene Products: uncharacterized LOC133930853%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133930853
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: DNA repair protein RadA-like; DNA repair protein RadA-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: DNA repair protein RadA%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: DNA repair protein RadA
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: uncharacterized LOC100384790
+  Gene Synonyms: GRMZM2G062638
+  Gene Descriptions: uncharacterized LOC100384790
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 638 aa
+
+MLHPtAAMLRSPSSLRSLLRLSRRLPLnrlRPPNPRLPSPPLsARPRFLSSSSSStPGGa
+GWATYDPLTDsLsPSAAlPSASASDPEaPAESdAWGVFDPVAGRIVMQgsPPPSsptpsE
+EeEEEEEEvEEKGKARPsGGKgEtRWSsVAAARRAAGKGGKeRvSYVCSNCGEGfSQWWG
+TCRHCqAvGTLTKYVPGaDgaAsAEGSHHAgRSWIPQKSKEMVPQSLqEVTKGvDQAEWR
+IPLpGsFGMEIARVLGGGIVPGSLVLVGGDPGVGKSSLMLQLASIVSEGfkdeESSPVVY
+VSGEESIEQIGNRADRMSItSkNLYLYSSTDIEDILDKIQPLSPRALIIDSIQTVYLrsF
+AGSAGNlvQVKECTSALLRFAKLTNIPVFLIGHVTKTGDIAGPRLLEHIVDVVLYMEGER
+CLSHRLLRSVKNRFGSTDELGVFEMSEfGLQAVLNPSEMFLTEHDSDSEILAGLAVAVVL
+DGSRTFAIEVQALCVSGSprsGQVVGIPSsRADVIISVLMKQAGLKLQDNaIFLNVVSGF
+eLTETAGDLAIAASICSSFLEFPIPNDIAFIGEIGLGGELRTVPRMDKRVMAIAKLGYKK
+CVVPKTSEKLLKPLnLDIEILPCSNLKEFINTVFRPQg
+
+
+BOP CONSENSUS:
+Length: 635 aa
+
+MLRTTAAMLPSPSSLRALLRLSRRaPlPRLRPPSPPLLPHLRpLSSSSPParDGWATYDP
+LAPPEPLSSAaAAAASNPEtPADSdsSWGVFDPVAGRIVMQaHPPPpPPPSSSDREEvEE
+EEEVVEVKGKARPSGGKrEpRWADVATARRAaGKGGKApRVSYVCSNCGEGFSQWWGTCR
+hCQAVGTLTKYVPGADpdyAAEGSHHAgRSWIPQKSKEMVPQSLrEVTKGFDQAGWRIPL
+PGTFGNEIARVLGGGVVPGSLVLVGGDPGVGKSSLMLQLASIVSEGSEDHGSSPVVYVSG
+EESIEQIANRADRMSIRSRNLYLYSSTDIEDILDKIQPLSPRALIVDSIQTVYLsAFAGS
+AGNQVQVKECTSALLSFAKLTNIPVFLIGHVTKTGDIAGPRvLEHIVDVVLYMEGERCLS
+HRLLRSVKNRFGSTDELGVFEMSEyGLQAVLNPSEMFLTEHDSDSEILAGLAVAVVLDGS
+RTFAIEVQALCVSGSpgqGqVVGIPSsRADvIISVLMKQAGLKLQDNVIFLNVVSGFeLT
+ETAGDLAIAASICSSFLEFPIPNDIAFIGEIGLGGELRTVPRMDKRVMAIAKLGYRKCVV
+PKTSEKLLKPLDLDIEILPCNNLKEFINTVFRPEv
+
+
+PACMAD CONSENSUS:
+Length: 649 aa
+
+MPHPSAAMLRSPSSLRSLLHLSRRLLRPPNPRLPRPlNPRLPSYPLSARPRFLSSSSSPT
+tGGAGWATYDPVTDSLSASAALPSPSASDSEAPAESDAWGVYDPVAGRIVKQGSPPPSSS
+TtAAEEEEEEEGeGalEgEEKGRVRASARVAKAQTSWSSVAAPRKPAGKGGKERfSYVCS
+NCKEGDSQWWGiCRHCNAaGTveKYVPGTDGnASAEGSHHIgRSWIPQKSKEMVPQSLQE
+VNKGVNQAEWRIPLSGSFGMEISRVLGGGIVPGSLILVGGDPGVGKSSLMLQLASNILEG
+FKVEESSPVVYVSGEESIEQIGNRADRMSITSSNLYLYSGTDIEDILDKIQPLSPRALII
+DSIQTVYVRSFAGSAGNLSQVKECTSALLRFAKLTNIPVFLIGHVTKTGDIAGPRLLEHI
+VDVVLYMEGERCSSHRLLRSVKNRFGSTDELGVFEMAEFGLQAVLNPSQMFLTEHDSDSE
+ILAGLAVAVILDGSRTFAIEVQALCVSGSHRSGQVVGIPtRRADVIISVLMKQAGLKLQD
+NAIFLNVVSGFELTETAGDLAIAASICSSFLEFPIPNDVAFIGEVGLGGELRTVPRMDKR
+VMAIAKLGYKKCVVPKTSEKLLKPLNLDIEILPCSNLKQFINTIFRPQG
+
+================================================================================

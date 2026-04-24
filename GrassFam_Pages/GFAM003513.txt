@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM003513
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             523.0 aa
+Family Size (Extended Family Size): 23 (33) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12746
+Panther Family ID:               PTHR12746
+Modal Panther ID:                PTHR12746
+Modal Panther Description:       NONSENSE-MEDIATED MRNA DECAY PROTEIN 3
+Modal Panther Family ID:         PTHR12746
+Modal Panther Fam Desc:          NONSENSE-MEDIATED MRNA DECAY PROTEIN 3
+Interpro Signature Accession:    PTHR12746; PF21192; PF04981
+Interpro Signature Description:  NONSENSE-MEDIATED MRNA DECAY PROTEIN 3; NMD3 OB-fold domain; NMD3 family
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: 60S ribosomal export protein NMD3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: 60S ribosomal export protein NMD3
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: 60S ribosomal export protein NMD3
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: 60S ribosomal export protein NMD3-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: uncharacterized LOC127786294
+  Gene Descriptions: uncharacterized LOC127786294
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4349477
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN372
+Pau
+  Gene count: 1
+  Modal chromosome: Pau24
+  Gene Products: uncharacterized LOC133907013
+  Gene Descriptions: uncharacterized LOC133907013
+Svi
+  Gene count: 2
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi05N
+  Gene Products: 60S ribosomal export protein NMD3-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: 60S ribosomal export protein NMD3
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: 60S ribosomal export protein NMD3
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: nonsense-mediated mRNA decay NMD3 family protein
+  Gene Synonyms: GRMZM2G134844; GRMZM2G169931
+  Gene Descriptions: nonsense-mediated mRNA decay NMD3 family protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 525 aa
+
+MMPGSAPPAGGSGMFVPAATAGTVLCCMCGVSMQPNPANMCARCLRARVDITEGVPRHAA
+VVYCPDCSSYLQPPRSWLRAGPESPELMQILLRRLNRPLARLRVSLSGAEFVFSEPHSKR
+LRLKLRLRREVLHGIVLEQTHPVEFVVHDRLCDSCARAQANPDQWVAVVQLRQHVPHRRT
+FLYLEQLLLKHGQASLAIRVAAAPGGLDFFFGSRSHAARLVDFLATVAPIQTqTAKQLVS
+HDTKSSVYNYKYTFSVEICPICREDLIALSPQASRDLGGLGPLVLCVKVTNAIALLDPLT
+LRVHHLEEKKYRVYNFKAALTSKQLVEYIVLDIEQESPEITIDGSRYQLAYAQVARVSDF
+GKNDTIFTVRTHLGHLLNPGDLALGYDLYGANLNDDDMDTAMtRySLPEVVLVKKSYEKR
+PRTRRWKLKRLPVEEDAGNKAKGEEERRLDEYEaFLRDLEqDPELRFnINLYKNEDYRSE
+MASTVGDDVPTVPIEELIEDLTLGDDEEDEGEEAVEGNthAGMVE
+
+
+BOP CONSENSUS:
+Length: 521 aa
+
+MMPGSAPPAAGSGMFVPTQTAGTVLCCICGVSMQPNPANMCARCLRARVDITEGVPRNAA
+VVYCPDCFSYLQPPRSWLRAGPESPELLQILLRRLKHPLARLRVSLSGAEFVFSEPHSKR
+LRLKLRLRREVLNGIVLEQTHPVEFVVHDRLCDSCARAQANPDQWVAVVQLRQHVPHRRT
+FLYLEQLLIKHGQAALAIRVASAPGGLDFFFGSRSHAARLVDFLGTVAPIQTNTAKQLVS
+HDTKSFIYNYKYTFSVEICPICREDLIALSPKASRDLGGLGPLVLCTKVTNAIALLDPLT
+LRVHHLEEKKYRVYNFKAALTSKQLVQYMVLDIEpESPEITIDGSRYQLAYAQVARMSDF
+GKNDTVFTVRTHLGHRLNPGDLALGYDLYGANMNDDDMDKALLRQNLPEVILVKKSYEKR
+PRTRRWKLKRLPVEEDLGNKAKGEEERREDEYdmFlRDLErDPELRFgINLYKNEDYRSE
+MASTIGDDVPTVPIEELIEDLTLGDDEEDEEEEGADAGMVE
+
+
+PACMAD CONSENSUS:
+Length: 525 aa
+
+MMPGSAPPAGGAGMFVPAATAGTVLCCMCGVSMQPNPANMCARCLRARVDITEGVPRHAA
+VVYCPDCSSYLQPPRSWLRATPESPELMQILLRRINRPLARLRVSLSGAEFVFSEPHSKR
+LRLKLRLRREVLHGVVLEQTHPVEFVVHDRLCDSCSRAQANPDQWVAVVQLRQHVPHRRT
+FLYLEQLLLKHGQASLAIRVAAAPGGLDFFFGSRSHAARLVDFLATVAPIQTQTAKQLVS
+HDTKSSVYNYKYTFSVEICPICREDLIALSPQASRDMGGLGPLVLCVKVTNAIALLDPLT
+LRVHHLEEKKYRVYNFKAALTSKQLVEYIVLDIEQESPEISIDGSRYQLAYAQVARVSDF
+GKNDTIFTVRTHLGHLLNPGDHALGYDLYGANLNDDDMDTAMTRYSLPEVVLVKKSYEKR
+PRTRRWKLKRLPVEEDAANKAKGEEEKRLDEYEAFLRDLEQDPEMRFKINLYKNEDYRSE
+MASTVGDDVPTVPIEELIEDLTLGDDEEDEGDEAVEGNTqAGMVE
+
+================================================================================

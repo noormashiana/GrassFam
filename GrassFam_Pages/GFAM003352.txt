@@ -1,0 +1,144 @@
+================================================================================
+GrassFam ID: GFAM003352
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             606.0 aa
+Family Size (Extended Family Size): 33 (36) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR42918
+Modal Panther ID:                PTHR42918:SF9
+Modal Panther Description:       LYSINE--TRNA LIGASE
+Modal Panther Family ID:         PTHR42918
+Modal Panther Fam Desc:          LYSYL-TRNA SYNTHETASE
+Interpro Signature Accession:    cd04322; cd00775; G3DSA:3.30.930.10:FF:000051; G3DSA:2.40.50.140:FF:000050; G3DSA:3.30.930.10; G3DSA:2.40.50.140; NF001756; TIGR00499; PTHR42918; PIRSF039101; PR00982; PF00152; SSF55681; SSF50249
+Interpro Signature Description:  LysRS_N; LysRS_core; Lysine--tRNA ligase; Bira Bifunctional Protein; Domain 2; -; lysine--tRNA ligase; LYSYL-TRNA SYNTHETASE; LysRS2; Lysyl-tRNA synthetase signature; tRNA synthetases class II (D, K and N); Class II aaRS and biotin synthetases; Nucleic acid-binding proteins
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: lysine--tRNA ligase; lysine--tRNA ligase%2C transcript variant X1
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu04H
+  Gene Products: lysine--tRNA ligase; lysine--tRNA ligase-like%2C transcript variant X1
+Ata
+  Gene count: 2
+  Modal chromosome: Ata04D
+  Gene Products: lysine--tRNA ligase
+Tae
+  Gene count: 10
+  Modal chromosome: Tae03B
+  Gene Products: lysine--tRNA ligase; lysine--tRNA ligase-like; lysine--tRNA ligase-like%2C transcript variant X1; lysine--tRNA ligase-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: lysine--tRNA ligase
+  Gene Descriptions: lysine--tRNA ligase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: lysine--tRNA ligase-like
+  Gene Synonyms: LysRS
+  Gene Descriptions: lysine--tRNA ligase-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: lysine--tRNA ligase%2C transcript variant X1; lysine--tRNA ligase-like
+  Gene Descriptions: lysine--tRNA ligase; lysine--tRNA ligase-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: lysine--tRNA ligase%2C transcript variant X2; lysine--tRNA ligase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: lysine--tRNA ligase
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: lysine--tRNA ligase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: Lysine--tRNA ligase cytoplasmic
+  Gene Synonyms: GRMZM2G146589,pco072809(80)
+  Gene Descriptions: Lysine--tRNA ligase cytoplasmic
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 603 aa
+
+MADGEGSASGLAEKLAGLSaGGGGEEPQLSKNAKKREEKRKKLEEERRLKEEEKKNKAAA
+AAASGKPQKAsAADDEDMDPTQYYENRLKTLDSLKAtGVNPYPHKFpVgISVAeYIEKYK
+SLsdGEKLaDVTECLAGRIMNKRTSSSKLFFYDLYGDGVKVQVMADARTSELeETEFSKY
+HSGVKRGDIVGICGYPGKSnRGELSVFPRKFVVLSPCLHMMPRQKgEGSAVPtPWtPGMG
+RNIEnYVLRDQETRYRQRYLDLMVNHEVRHIFKTRSKVVSFIRKFLDeReFLEVETPMMN
+MIAGGAAARPFVTHHNELNMrLYMRIAPELYLKELVVGGLDRVYEIGKQFRNEGIDLTHN
+PEFTTCEFYMAYADYNDLMELTETMLSGMVKELTGGYKIKYHANGVDNPPIEIDFTPPFR
+RIDMIqeLEAMAnLnIPKDLSSDEANKYLIdACAKYDVKCPPPQTTsRLLDKLVGHFLEE
+TCVNPTFIINHPEIMSPLAKWHRSRPGLTERFELFVNKHEVCNAYTELNDPVVQRQRFEE
+QLKDRQSGDDEAMALDETFCTALEYGLPPTGGWGLGIDRLTMLLTDSQNIKEVLLFPAMK
+PQE
+
+
+BOP CONSENSUS:
+Length: 599 aa
+
+MADGADGLAEKLAGlsADGGEEPqLSKNAQKREEKRKKQEEqRRLKEEEKKNKAAAgAAs
+GaPQqgaAADDEEMDPTQYYENRLKmLDSLKAaGVNPYPHKFlAaISVADYIEKYKSLga
+GEKLlDVTESLAGRIMsKRtSSSKLFFYDLYGDGVKVQVMADASTSELEETEFSKFHSvV
+KRGDIVGICGYPGKSsRGELSIFPRKlVVLSPCLHMMPRQKSEGSAVpTcWvPGMGRNIE
+KYVLRDQETRYRQRYLDLMVNHEVRHIFKTRSKVVSFIRRFLDELnFLEVETPMMNMIAG
+GAAARPFVTHHNELNMkLYMRIAPELYLKELVVGGLDRVYEIGKQFRNEGIDLTHNPEFT
+TCEFYMAYADYNDLMELTETMLSGMVKELTGGYKIKYHANGVDNPPIEIDFTPPFRRIDM
+IqgLESMAKLdIPKDLSSDEANKYLIDACAKYDVKCPPPQTTTRLLDKLVGHFLEETCVN
+PTFIINHPEIMSPLAKWHRSRPGLTERFELFVNKHEVCNAYTELNDPVVQRQRFEEQLKD
+RQSGDDEAMALDETFCTALEYGLPPTGGWGLGIDRLTMLLTDSQNIKEVLLFPAMKPQl
+
+
+PACMAD CONSENSUS:
+Length: 616 aa
+
+MADGAGSASGLEEKLAGLSTGGGGGDkQNPPPAGEGGEEPQLSKNAKKREEKRKKLEEER
+RLKEEEKKNKAAAAAASGKPQKASAADDDDMDPTQYYENRLKTLDSLKATGVNPYPHKFP
+VGISVAEYIEKYKsLSDGEKLTDVTECLAGRIMNKRTSSSKLFFYDLYGGGMKVQVMADA
+RTSELDEAEFSKYHSGVKRGDIVGICGYPGKSNRGELSVFPKKFVVLSPCLHMMPRQKGE
+GSAVPAPWTPGMGRNIENYVLRDQETRYRQRYLDLMVNHEVRHIFKTRSKVVSFIRKFLD
+DREFLEVETPMMNMIAGGAAARPFVTHHNELNMRLFMRIAPELYLKELVVGGLDRVYEIG
+KQFRNEGIDLTHNPEFTTCEFYMAYADYNDLMELTETMLSGMVKELTGGYKIKYHANGVT
+NPPIEIDFTPPFRRIDMIKDLEAMANLNIPKDLSSDEANRYLIEACAKYDVKCPPPQTTS
+RLLDKLVGHFLEETCVNPTFIINHPEIMSPLAKWHRSRPGLTERFELFVNKHEVCNAYTE
+LNDPVVQRQRFEEQLKDRQSGDDEAMALDETFCTALEYGLPPTGGWGLGIDRLTMLLTDS
+QNIKEVLLFPAMKPQE
+
+================================================================================

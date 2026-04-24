@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM016110
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             311.5 aa
+Family Size (Extended Family Size): 30 (30) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10165:SF199
+Panther Family ID:               PTHR10165
+Modal Panther ID:                PTHR10165:SF199
+Modal Panther Description:       OS09G0308900 PROTEIN
+Modal Panther Family ID:         PTHR10165
+Modal Panther Fam Desc:          LIPID PHOSPHATE PHOSPHATASE
+Interpro Signature Accession:    cd03390; G3DSA:1.20.144.10:FF:000001; G3DSA:1.20.144.10; PTHR10165; PF01569; SSF48317
+Interpro Signature Description:  PAP2_containing_1_like; Lipid phosphate phosphatase 2; Phosphatidic acid phosphatase type 2/haloperoxidase; LIPID PHOSPHATE PHOSPHATASE; PAP2 superfamily; Acid phosphatase/Vanadium-dependent haloperoxidase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: lipid phosphate phosphatase 2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu05H
+  Gene Products: lipid phosphate phosphatase 2%2C transcript variant X4; lipid phosphate phosphatase 2-like%2C transcript variant X1
+Ata
+  Gene count: 3
+  Modal chromosome: Ata03D
+  Gene Products: lipid phosphate phosphatase 2%2C transcript variant X1; lipid phosphate phosphatase 2%2C transcript variant X2; lipid phosphate phosphatase 2%2C transcript variant X3
+Tae
+  Gene count: 7
+  Modal chromosome: Tae02A
+  Gene Products: lipid phosphate phosphatase 2-like%2C transcript variant X1; lipid phosphate phosphatase 2-like%2C transcript variant X2; lipid phosphate phosphatase 2-like%2C transcript variant X4; lipid phosphate phosphatase 2-like%2C transcript variant X6
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: lipid phosphate phosphatase 2-like
+  Gene Descriptions: lipid phosphate phosphatase 2-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: lipid phosphate phosphatase 2
+  Gene Descriptions: lipid phosphate phosphatase 2
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: lipid phosphate phosphatase 2-like%2C transcript variant X1; lipid phosphate phosphatase 2-like%2C transcript variant X2
+  Gene Descriptions: lipid phosphate phosphatase 2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: lipid phosphate phosphatase 2-like%2C transcript variant X5
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: lipid phosphate phosphatase 2-like%2C transcript variant X4
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: lipid phosphate phosphatase 2-like%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: lipid phosphate phosphatase 3%2C transcript variant X1; lipid phosphate phosphatase 3%2C transcript variant X2
+  Gene Synonyms: GRMZM2G024615; GRMZM2G050658
+  Gene Descriptions: lipid phosphate phosphatase 3
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 312 aa
+
+MADIQLGCYTIKSHGaKlARLHMYDWIILLLLAVIDGLLNIIEPFHRFVGKDMMTDLRYP
+LKGNTVPFWAVPLIGIVLPCAIFGGIYFKKKNFYDLHHGILGILYSVLITAVITDAIKDG
+VGRPRPDFFWRCFPDGKDVYDNVTTGVICHGEKSVIKEGHKSFPSGHsSWSFAGLGFLAW
+YLAGKITVFDRKGHIAKLCIVFLPLLTAALVAVSRVDDYWHHWQDVFAGAlIGLTVASFC
+YLQFFPYPFDADALWPHAYTlQLAEARNSRNANSYSVRPTEIETVNIPGhGGIALRDTSP
+ILntVESGrRsR
+
+
+BOP CONSENSUS:
+Length: 315 aa
+
+MADIQLGCYTIKSHGAKVARLHMYDWIILLLLAVIDGLLNIIEPFHRFVGKDMMTDLRYP
+LKGNTVPFWAVPLIGIVLPCAIFGGIYFKKKNFYDLHHGILGILYSVLITAVITDAIKDG
+VGRPRPDFFWRCFPDGKDLYDNVTTGVLCHGEKSVIKEGHKSFPSGHSSWSFAGLGFLTW
+YLTGKIAVFDRKGHIAKLCIIVLPLLTAALVAVSRVDDYWHHWQDVFAGAIIGLTVASFC
+YLQFFPYPYDADGLWPHAYTLQLAEARNSGiANSFSVRPTEETVETEEGqGqGGIALRDT
+sPILDTmEsGRRyGN
+
+
+PACMAD CONSENSUS:
+Length: 309 aa
+
+MADQLGCYTIRSHGMILARLHMYDWIILLLLAVIDGLLNIIEPFHRFVGKDMMTDLRYPM
+KGNTVPFWAVPLIGIILPWAIFvGIYFKKKNFYDLHHGILGILYSVLITAVITDAIKDGV
+GRPRPDFFWRCFPDGNDVYDNITTGVICHGEKSVIKEGHKSFPSGHTSWSFAGLGFLAWY
+LAGKITAFDRKGHVAKLCIVFLPLLTAALVAVSRVDDYWHHWQDVFAGALIGLTVASFCY
+LQFFPYPFDADAFWPHAYTVQLAEERNSRNANSYSVRPTEIETVNIPGHGGITLRDTLND
+VESGSgRRL
+
+================================================================================

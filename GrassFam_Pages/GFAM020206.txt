@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM020206
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             352.0 aa
+Family Size (Extended Family Size): 28 (29) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR43422
+Modal Panther ID:                PTHR43422:SF9
+Modal Panther Description:       THIAMINE THIAZOLE SYNTHASE 2, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR43422
+Modal Panther Fam Desc:          THIAMINE THIAZOLE SYNTHASE
+Interpro Signature Accession:    G3DSA:3.50.50.60:FF:000070; G3DSA:3.50.50.60; TIGR00292; PTHR43422; PF01946; SSF51905
+Interpro Signature Description:  Thiamine thiazole synthase, chloroplastic; -; sulfide-dependent adenosine diphosphate thiazole synthase; THIAMINE THIAZOLE SYNTHASE; Thi4 family; FAD/NAD(P)-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: thiamine thiazole synthase 2%2C chloroplastic
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu03H
+  Gene Products: thiamine thiazole synthase 2%2C chloroplastic; thiamine thiazole synthase 2%2C chloroplastic-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: thiamine thiazole synthase 2%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03B
+  Gene Products: thiamine thiazole synthase 2%2C chloroplastic; thiamine thiazole synthase 2%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: thiamine thiazole synthase%2C chloroplastic
+  Gene Descriptions: thiamine thiazole synthase%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: thiamine thiazole synthase%2C chloroplastic-like
+  Gene Descriptions: thiamine thiazole synthase%2C chloroplastic-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 1
+  Modal chromosome: Pau13
+  Gene Products: thiamine thiazole synthase 2%2C chloroplastic
+  Gene Descriptions: thiamine thiazole synthase 2%2C chloroplastic
+Svi
+  Gene count: 2
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: thiamine thiazole synthase 2%2C chloroplastic; thiamine thiazole synthase 2%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: thiamine thiazole synthase 2%2C chloroplastic
+Msi
+  Gene count: 4
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi02
+  Gene Products: thiamine thiazole synthase 1%2C chloroplastic; thiamine thiazole synthase 2%2C chloroplastic
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: thiamine biosynthesis 1; thiamine biosynthesis 2
+  Gene Synonyms: GRMZM2G018375,thi1,thi1-1; GRMZM2G074097,thi1-2,thi2
+  Gene Descriptions: thiamine biosynthesis 1; thiamine biosynthesis 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 353 aa
+
+MAAMATTASSLLKSSFAGARLPAAtRtPSSVVVATPRaAGaICnSISSStPPYDLTSFKF
+SPIKESIVSREMTRRYMTDMITYADTDVVIVGAGSAGLSCAYELSKDPSVSIAIVEQSVS
+PGGGAWLGGQLFSAMVVRKPAHLFLDELGVAYDEAEDYVVIKHAALFTSTVMSRLLARPN
+VKLFNAVAVEDLIVKqGRVGGVVTNWALVSMNHDTQSCMDPNVMEAKVVVSSCGHDGPFG
+ATGVKRLQDIGMIsAVPGMKALDMNTAEDEIVRLTREVVPGMIVTGMEVAEIDGAPRMGP
+TFGAMMISGQKAAHLALKALGRPNAIDGTiKnVSPALRpEFVLASKDDEVVDA
+
+
+BOP CONSENSUS:
+Length: 351 aa
+
+MAAMATTASSLLKTSFAGARLPAAARTPSCVATPRAGAICNSISSSTPPYDLNAFKFSPI
+KESIVSREMTRRYMTDMITYADTDVVIVGAGSAGLSCAYELSKDPSISIAIIEQSVSPGG
+GAWLGGQLFSAMVVRKPAHLFLDELNIEYDEQEDYVVIKHAALFTSTVMSRLLARPNVKL
+FNAVAVEDLIVKEnRVAGVVTNWALVSMNHDTQSCMDPNVMEAKVVVSSCGHDGPFGATG
+VKRLQDIGMIqAVPGMKALDMNTAEDAIVRLTREVVPGMIVTGMEVAEIDGAPRMGPTFG
+AMMISGQKAAHLALKALGRPNGIDGTLKNVTPALHPEMILAStNNGDIVDA
+
+
+PACMAD CONSENSUS:
+Length: 350 aa
+
+MATTASSLLKSSFAGARLPAATRaPSSVVVATPRaAGPICASISSSNPPYDLTSFRFSPI
+KESIVSREMTRRYMTDMITYADTDVVIVGAGSAGLSCAYELSKDPSVSIAIVEQSVSPGG
+GAWLGGQLFSAMVVRKPAHLFLDELGVAYDEAEDYVVIKHAALFTSTVMSRLLARPNVKL
+FNAVAVEDLIVKQGRVGGVVTNWALVSMNHDTQSCMDPNVMEAKVVVSSCGHDGPFGATG
+VKRLQDIGMISAVPGMKALDMNTAEDEIVRLTREVVPGMIVTGMEVAEIDGAPRMGPTFG
+AMMISGQKAAHLALKALGRPNAVDGTiqtVSPALREEFVIASKDDEVVDA
+
+================================================================================

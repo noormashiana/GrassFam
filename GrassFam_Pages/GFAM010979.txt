@@ -1,0 +1,103 @@
+================================================================================
+GrassFam ID: GFAM010979
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             471.0 aa
+Family Size (Extended Family Size): 13 (15) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR10625
+Modal Panther ID:                PTHR10625:SF6
+Modal Panther Description:       HISTONE DEACETYLASE
+Modal Panther Family ID:         PTHR10625
+Modal Panther Fam Desc:          HISTONE DEACETYLASE HDAC1-RELATED
+Interpro Signature Accession:    cd09991; G3DSA:3.40.800.20:FF:000023; G3DSA:3.40.800.20; PTHR10625; PIRSF037913; PF00850; SSF52768
+Interpro Signature Description:  HDAC_classI; Histone deacetylase; Histone deacetylase domain; HISTONE DEACETYLASE HDAC1-RELATED; HDAC_I_euk; Arginase/deacetylase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: histone deacetylase 1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: histone deacetylase 2-like
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: histone deacetylase 2-like
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: histone deacetylase 1-like
+  Gene Descriptions: histone deacetylase 1-like
+Osa
+  Gene count: 3
+  Modal chromosome: Osa11
+  Gene Products: histone deacetylase 1-like; histone deacetylase 19; uncharacterized protein
+  Gene Descriptions: histone deacetylase 1-like; histone deacetylase 19; uncharacterized LOC9269367
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 1
+  Modal chromosome: Pau12
+  Gene Products: histone deacetylase 19-like
+  Gene Descriptions: histone deacetylase 19-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi09
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 471 aa
+
+MDMGgNSLPSPSCpDGrKRRVCYYYDPGISnVDYGEGHvMVPrRVAMAHsLVAsYGLLnD
+MtRLRTRPATpEELlaFHDqKYVDLLrDLTPAgYnsDgkLRRtAEeHGIGpVRRwDGacT
+NDNPVIDgLWdYCLrYAGGSLAAARALcsGdhDIAINWSGGMHHACRGkAnGFCYVNDIV
+LAIKqLLgRFRRVLYVDIDAHHGDGVEkAFlDSNQVMTLSFHQYgGdFFPGTGaidDVGe
+GAGrYhALNVPLkaGmgDqgYHeLFKPIVGKAMqVFQPDAVVLQCGADSLSGDRLAGLeL
+SVRGHAECVryLRGFNLPLLLLGGGGYTINHVASCWCYETAVAVGKEEIPDDIPhHGYdH
+YYrSQGYKLHYrTEapgSrrsgEtKdaavIRvKALEHLSaincAPSvQFhErrGaAaqgm
+DVddLyDrsPeEEEEDPmERLHRlCgnaDLkgfFieLGRKhrLSsRKDKlK
+
+
+BOP CONSENSUS:
+Length: 472 aa
+
+MDMGgNSLPSPSCpDGRKRRVCYYYDPGISNVDYGEGHvMVPRRVAMAHsLVASYGLLND
+MTRLRTRPAtPEELLAFHDQKYVDLLGDLTPAgYmsDgaLRRtAEEHGIGPVRRwDGact
+NDNPVIDGLwgYCLsYAGGSLAAARALCgGDHDVAINWSGGMHHACRGhAnGFCYVNDIV
+LAIKQLLGRFRRVLYVDIDAHHGDGVEkAFaDSNQVMTLSFHQYgsqFFPGTGSIDDVGk
+GAGRYHALNVPLKkGMDDQGYHELFKPIVGKAMQVFQPEAVVLQCGADSLSGDRLAGLEL
+SVGGHAECVrYLRGFNAPLLLLGGGGYTINHVASCWCYETAVAVGKEDEIPDEIPHHPYD
+HYYRsQGYKLQYRTEApgSrRsGrNKdAavIRVKALEHLSAIncAPSvQFHERRAAaqGm
+DVgDLCYDDRdDeEEEEDPMeRLHRLCDNADLrGiFiELGPGLRKRrksssC
+
+
+PACMAD CONSENSUS:
+Length: 415 aa
+
+MVPHRVtMTHALINAYGLLDDMDLLRVAPATEEDLELAHDpEYIrFLRDLTPADYNADpK
+TQREAEKYnLGEvTNDNPVIENLWDYCQRYAGGSLAAARALASGrYKIAINWSGGMHHAC
+KGKASGFCYVNDIVVAIKALLDRFRRVLYVDIDAHHGDGVETAFLEDSRVMTVSFHQYGG
+EFFPRTGAVVDVGEGDGVCRTLNVPLEAGTGDGRYHQLFGPIVDRVMAVFrPDAIVMQCG
+ADSLAGDRLAGLGLSVRGHAKCVSLVRGYGLPLLLLGGGGYTINHVASCWCYETAVAIGK
+EIPDDIPQHGYQHYYQSQGYKLHYHTESSSRGNtETKHMVKIKRRVMqHLErLSALMPKP
+StQEEPPRrVDIDVDALVDDSPRDEDPVEvLHRRCGEvDLTEFLTyLGRKHPKRK
+
+================================================================================

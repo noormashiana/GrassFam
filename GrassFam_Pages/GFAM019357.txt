@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM019357
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             446.5 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13464:SF0
+Panther Family ID:               PTHR13464
+Modal Panther ID:                PTHR13464:SF0
+Modal Panther Description:       SAP30-BINDING PROTEIN
+Modal Panther Family ID:         PTHR13464
+Modal Panther Fam Desc:          TRANSCRIPTIONAL REGULATOR PROTEIN HCNGP
+Interpro Signature Accession:    PTHR13464; PF07818
+Interpro Signature Description:  TRANSCRIPTIONAL REGULATOR PROTEIN HCNGP; HCNGP-like protein
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: SAP30-binding protein%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: SAP30-binding protein%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: SAP30-binding protein
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: SAP30-binding protein-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: uncharacterized LOC127772151%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127772151
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC9270029
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: uncharacterized LOC133908790; uncharacterized LOC133921267
+  Gene Descriptions: uncharacterized LOC133908790; uncharacterized LOC133921267
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: reticulon-4-like%2C transcript variant X1; uncharacterized LOC120708117
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: serine/arginine repetitive matrix protein 1%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: serine/arginine repetitive matrix protein 1%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: Putative HCNGP-related transcriptional regulator family protein%2C transcript variant X1; transcription regulator
+  Gene Synonyms: GRMZM2G015881
+  Gene Descriptions: transcription regulator
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 441 aa
+
+MASDTEGIAALFSMYNDDEEEEDADEPnPPSPAPPAAATSSSPLSPQAGGEdSNPSpAPP
+SPPLPEEsAGRKTLASPHPSPALPPLPSRRSSSPFAVSSPSPLRPPsSAPPADLPRPPRR
+GALAIVDYAHDEMAMSPEQEDGEIMSGihrfGSDAQaAEGNLEERTLSGTVHImTPNtqA
+EMSQHpDAPEQNQVGTDMAVDVTGAEiEDAQVEETtDISTNGENDDPLSRFLPPPVTTKC
+SAALQQKINKFLAYKRAGKSFNAEVRNRKDYRNPDFLQHAVRYQEIDQIGTCFSKDVFDP
+YGYDKSDYYDEIEADMKRELERKEQEKKRSPKVEFItGGVQPPIsASIPKIPALAGVaTL
+PVPAEGVQKETRPNKKSKWDKVDGDvKNPAVPSGHDNLSATvSAALLTSANVGAGYAAFA
+QQKRKEAEEKRTSDYKSDRRS
+
+
+BOP CONSENSUS:
+Length: 452 aa
+
+MASDTEGIAALFSMYNDDDEEDADEPGPPSPPPPAAATSPSTSPRTgGESSNPNSNPNPS
+PEHSPPPLPEEQAGRKTLASPQVSPALPPLPSRRSPlPFAVSSPSPSRPPLSAPPPDLPR
+PPRRGSLAIVDYAHDEMAMSPDQEDGEIMSGIGGLGSDAQDAEGILEERvLSGTVHILTP
+NVLSETSQHLDAPEQNQvGADVpVDVTGTEAEDARVEEASDISTNVQNDDPLSRFLPPPV
+TTKCSTALQQKINKFLGYKRSGKSFNAEVRNRKDYRNPDFLQHAVRYQEIDQIGTCFSKD
+VFNPYGYDKSDYYDEIEADMKRELERKEQEKKRNPRVDFTSSGVQPPINpSIAKISAAIS
+AAAVAGVSVPASADTVQKEARPNKKSKWDKVDGDTKNPAApSGLDNRSAAGGSATLLTSE
+NAGAGGYAAFAQQKRKEAEERRTSDYKSDRRS
+
+
+PACMAD CONSENSUS:
+Length: 448 aa
+
+MASDTEGIAALFSMYNDDEEEEDADEPNPPSPAPPAAAAAPAVTSSSPLsPQAGGEDPNP
+SLAPPSPPLPEESAGRKTLASPHPSPARGLLPPLPSRRSSSPFAVSSPSPLRGPSSAPPA
+DLPRPPRRGALAIVDYAHDEMAMSPEQEDGEIMSGtHRFGSDAQAAEGNLEERTLSGTVH
+IMTPNTQAEMSQHPDAPEQNQVGTDMAVDVTRAEIEDAQVEETTDISTNGENDDPLSRFL
+PPPVTtKCSAALQQKINRFLAYKRAGKSFNAEVRNRKDYRNPDFLQHAVRYQEIDQIGTC
+FSKDVFDPYGYDKgDYYDEIEADMKRELERKEQEKKRSPKVEFItGGVQPPISASIPKIP
+ALAGVaTLPVPAEGVQKETRPNKKSKWDKVDGDVKNPAVPSGHDNLSATVSAALLTSANV
+GAGYAAFAQQKRKEAEEKRSDYKSDRRS
+
+================================================================================

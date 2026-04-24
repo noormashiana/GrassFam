@@ -1,0 +1,127 @@
+================================================================================
+GrassFam ID: GFAM002313
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             486.0 aa
+Family Size (Extended Family Size): 16 (16) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11751:SF409
+Panther Family ID:               PTHR11751
+Modal Panther ID:                PTHR11751:SF409
+Modal Panther Description:       ALANINE TRANSAMINASE
+Modal Panther Family ID:         PTHR11751
+Modal Panther Fam Desc:          ALANINE AMINOTRANSFERASE
+Interpro Signature Accession:    cd00609; G3DSA:3.90.1150.10:FF:000151; G3DSA:3.40.640.10:FF:000012; G3DSA:1.10.287.1970; G3DSA:3.90.1150.10; G3DSA:3.40.640.10; PTHR11751; PF00155; SSF53383
+Interpro Signature Description:  AAT_like; Alanine aminotransferase 2; alanine aminotransferase 2; -; Aspartate Aminotransferase, domain 1; ALANINE AMINOTRANSFERASE; Aminotransferase class I and II; PLP-dependent transferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: alanine aminotransferase 2
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: alanine aminotransferase 2-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: alanine aminotransferase 2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: alanine aminotransferase 2-like; alanine aminotransferase 2-like%2C transcript variant X1; alanine aminotransferase 2-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: alanine aminotransferase 2
+  Gene Descriptions: alanine aminotransferase 2
+Pau
+  Gene count: 1
+  Modal chromosome: Pau24
+  Gene Products: alanine aminotransferase 2-like
+  Gene Descriptions: alanine aminotransferase 2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi09N
+  Gene Products: alanine aminotransferase 2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: alanine aminotransferase 2-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: alanine aminotransferase 2%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: uncharacterized LOC100216685%2C transcript variant X1
+  Gene Synonyms: GRMZM2G088018,GRMZM2G088028,GRMZM2G088064
+  Gene Descriptions: uncharacterized LOC100216685
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 486 aa
+
+MsPASARALTVDSLNPKVLALADHLGGAIARRAQCMQkELETNPGSHPFDEIIYCNLSNP
+QSlGQQPNKFFREVLALCDYPHLLerSvTSSlFSSDAIARAREILDLIPGRATGGYSHCQ
+GTEGLRNAIAAGIASRDgFPCNAEDIFLTDGAAPPVHMMMHLLIRDEKDGILCPIPSHSL
+YTSSMVLqGATLVPYYLDESRGWGVSISDLKKQLDGARSkGItVRGLVVVNPGNPTGQVL
+VEENQCEIVEFCRNEnLVLLADEVYQENIYTDEKKFiSFKKIARSMGyGEGDISLISFHS
+VSNGYYGECGRRGGYMEVTGFNSEVRKQVYKVASLSSCSNISGQILMSLVMNPPKVGDES
+YTSYQAERDgILSSLSRCAEAMVcAFNSLEGVTCSKAEGAMFVFPSVRLPKRAIAAAEAm
+NTkPDVFYALRLLENTGIVVVPGSVFGQVPGTWHFRCTILPQEEKiqLIISRFkAFHEAF
+MEEFRD
+
+
+BOP CONSENSUS:
+Length: 486 aa
+
+MSPASARALTVDSLNPKVLALADHLGGAVARRAQRMQKELETNPGLYPFNEIIYCNLSNP
+HYLGQQPIKFFREVLALCDYPHLLNCSVTSSIFSSDAITRAREILDLIPGRAMGGYSHCQ
+GTEGLRNAIAAGIATRDAFPCNAEDIFLTDGAAAPVHMVMHLLIRDEKDGILCPIPSHFL
+YTSSMVLCGATLVPYYLDESGGWAVSISDLKKQLDGARSEGITVRGLVVVNPGNPTGQVL
+VkENQCEIVEFCRNENLVLLADEVYQENVYTDEKKFISFKKIARSMGFGEGDISLISFHS
+VSNGYYGECGRRGGYMEVTGFNSEVRKQVYKVASLSSCSNLAGQVLVSLVMNPPKVGDES
+YTSYREERDRIMLSLSRCAEAMVQAFNSLEGLTCSKAEGAMFVFPSVRLPKRAIAAAEAM
+NTKPDVFYALRLLENTGIVVLPGSVFGQVPGTWHFRCTILQQEEKiQLIIyRFKAFHEAF
+MEEFRD
+
+
+PACMAD CONSENSUS:
+Length: 484 aa
+
+MAPCALTVDSLNPKVLALADHLGdDAIARRAQCIQNEIETKPGSHPFDEIIYCNLSNPQS
+MGQQPNKFFREVLALCDYPHLLEQSETNSLFSSDAIARAREILDLFPGRATGGYSHCQGT
+EGLRDvIAAGITSRDGFPCNAEDIFLTDGAAPPVHMMMHLLIRDEKDGILCPIPSHSLYT
+SSMVLQGATLVPYYLDESRGWGVSMSDLKKQLDGARSKGVvVRGLVVINPGNPTGHVLVE
+ENQREIVEFCRnEDLVLLADEVYQENIYTDEKKFkSFKKIARSMGYGEGDISLVSFHSVS
+NGYYGECGRRGGYMEVTGFNSEVKKQVYKVASLSSCSNISGQILMSLVMNPPtVGDESYT
+SYQAERDGILSSFSRCAEAMVCtFNRLEGVTCSKAEGAMFVFPSVRLPKKAIAAAEEsNT
+qPDVFYALRLLENTGIVVVPGSVFGQVHGTWHFRCTILPqEEKIPLIISRFMAFHEaFME
+EFRD
+
+================================================================================

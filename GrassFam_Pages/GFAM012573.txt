@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM012573
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             517.0 aa
+Family Size (Extended Family Size): 21 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48105:SF26
+Panther Family ID:               PTHR48105
+Modal Panther ID:                PTHR48105:SF26
+Modal Panther Description:       NADPH-DEPENDENT THIOREDOXIN REDUCTASE 3
+Modal Panther Family ID:         PTHR48105
+Modal Panther Fam Desc:          THIOREDOXIN REDUCTASE 1-RELATED-RELATED
+Interpro Signature Accession:    cd02949; G3DSA:3.50.50.60:FF:000064; G3DSA:3.40.30.10:FF:000182; G3DSA:3.50.50.60; TIGR01292; PTHR48105; PR00368; PR00469; PF07992; SSF51905
+Interpro Signature Description:  TRX_NTR; Thioredoxin reductase; -; thioredoxin-disulfide reductase; THIOREDOXIN REDUCTASE 1-RELATED-RELATED; FAD-dependent pyridine nucleotide reductase signature; Pyridine nucleotide disulphide reductase class-II signature; Pyridine nucleotide-disulphide oxidoreductase; FAD/NAD(P)-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: thioredoxin reductase NTRC
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: thioredoxin reductase NTRC
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: thioredoxin reductase NTRC
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: thioredoxin reductase NTRC; thioredoxin reductase NTRC-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: thioredoxin reductase NTRC
+  Gene Descriptions: thioredoxin reductase NTRC
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: thioredoxin reductase NTRC-like
+  Gene Synonyms: OsJ_25429,OsNtrC
+  Gene Descriptions: thioredoxin reductase NTRC-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 2
+  Modal chromosome: Pau14
+  Gene Products: thioredoxin reductase NTRC; thioredoxin reductase NTRC-like
+  Gene Descriptions: thioredoxin reductase NTRC; thioredoxin reductase NTRC-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: thioredoxin reductase NTRC; thioredoxin reductase NTRC-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: thioredoxin reductase NTRC
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: thioredoxin reductase NTRC
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: uncharacterized LOC100216789
+  Gene Synonyms: GRMZM2G136522,GRMZM2G136578
+  Gene Descriptions: uncharacterized LOC100216789
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 517 aa
+
+MAVTRVAVAAALSAAPPSSRRRRaALPSSCRPLPAAsRASKALRAAAAPAAGAVDEEAPA
+SSPPSDpSKGVENLVIIGSGPAGYTAAIYAARANLKPVVFEGYQVGGVPGGQLMTTTEVE
+NFPGFPDGITGPDLMDRMRKQAERWGAELHQEDVEFVNVKSSPFVIRSSDREVKCHSVII
+ATGATAKRLRLPREDEFWSRGISACAICDGASPLFKGQVLAVVGGGDTATEEAIYLTKYA
+RHVHLLVRKDQLRASKAMQDRVLNNPNITVHFNTEAVDVVSNDKGQMSGIQLKRiDTGEE
+SVLEVKGLFYGIGHTPNSQLLQGQIELDSAGYILVKEGSAKTSVDGVFAAGDVQDHEWRQ
+AVTAAGSGCIAALSVERYLVANDLLVEFHQPVREETKKEITDKDVEMGFDISHTKHKGQY
+ALRKLYHESPRLICVLYTSPTCGPCRTLKPILSKVIDEYDEyVHFVEIDIEEDPEIAEAA
+GIMGTPCVQFFKNKEMLRTVSGVKMKKEYREFIESNK
+
+
+BOP CONSENSUS:
+Length: 520 aa
+
+MAVTRLAVAAALSSAPPSSsRsRGRatpsSCRPLPAASCSRASKALRAaAAPAADAVDEE
+APASPPPSDPGRGVENLVIIGSGPAGYTAAIYAARANLKPVVFEGYQVGGVPGGQLMTTT
+EVENFPGFPDGITGPDLMDKMRKQAERWGAELHQEDVEFVDVKSRPFVIRSSDREVKCHS
+VIIATGATAKRLRLPREEEFWSRGISACAICDGASPLYKGQVLAVVGGGDTATEEAIYLT
+KYACHVHLLVRRDQLRASKAMQDRVLNNPNITVHFNTEAVDVVGNTKGQMSGIQLRRIDT
+GEESVLEVKGLFYGIGHTPNSQLLQGQIELDSSGYILVEEGTAKTSVDGVFAAGDVQDHE
+WRQAVTAAGSGCIAALSVERYLVSNDLLVEFHQPVREEKKKEIEGKDVEMGFDITHTKHR
+GQYALRKLYHGSPRLILVLYTSPTCGPCRTLKPILNKVIDEYDEyVHFVEIDIEEDPEIA
+EAAGIMGTPCVQFFKNKEMIRTFSGVKMKKEYREFIESNK
+
+
+PACMAD CONSENSUS:
+Length: 516 aa
+
+MAVTRVAVAAALSAAPPSSRRRRVALPSSCRLLPAARAPKALqAAAAPAAGAVDEETPAA
+SPPSDaSKGVENLVIIGSGPAGYTAAIYAARANLKPVVFEGYQVGGVPGGQLMTTTEVEN
+FPGFPEGITGPDLMDRMRKQAERWGAELHQEDVEFVNVKSSPFVIRSSDREVKCHSLIIA
+TGATAKRLRLPREDEFWSRGISACAICDGASPLFKGQVLAVVGGGDTATEEAIYLTKYAR
+HVHLLVRKDQLRASKAMQDRVLNNPNITVHFNTEAMDVVSNDKGQMSGIQLKRtDTGEES
+VLEVKGLFYGIGHTPNSQLLQGQIELDSAGYILVKEGSAKTSVDGVFAAGDVQDHEWRQA
+VTAAGSGCIAALSVERYLVANDLLVEFHQPVQEETKKDITDKDVEMGFDISHTKHKGQYA
+LRKIYHESPRLICVLYTSPTCGPCRTLKPILSKVIDEYDEyVHFVEIDIEEDPEIAEAAG
+IMGTPCVQFFKNKEMLRTVSGVKMKKEYREFIESNK
+
+================================================================================

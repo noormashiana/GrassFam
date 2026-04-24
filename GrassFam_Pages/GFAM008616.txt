@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM008616
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             561.0 aa
+Family Size (Extended Family Size): 32 (33) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10801:SF20
+Panther Family ID:               PTHR10801
+Modal Panther ID:                PTHR10801:SF20
+Modal Panther Description:       DELTA(24)-STEROL REDUCTASE-RELATED
+Modal Panther Family ID:         PTHR10801
+Modal Panther Fam Desc:          24-DEHYDROCHOLESTEROL REDUCTASE
+Interpro Signature Accession:    G3DSA:3.30.465.10:FF:000012; G3DSA:3.30.465.10; PTHR10801; SSF56176
+Interpro Signature Description:  delta(24)-sterol reductase isoform X1; -; 24-DEHYDROCHOLESTEROL REDUCTASE; FAD-binding/transporter-associated domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: delta(24)-sterol reductase; delta(24)-sterol reductase%2C transcript variant X1
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: delta(24)-sterol reductase%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: delta(24)-sterol reductase%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: delta(24)-sterol reductase-like%2C transcript variant X1; delta(24)-sterol reductase-like%2C transcript variant X2
+Ola
+  Gene count: 2
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: delta(24)-sterol reductase
+  Gene Descriptions: delta(24)-sterol reductase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: delta(24)-sterol reductase
+  Gene Descriptions: delta(24)-sterol reductase
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: delta(24)-sterol reductase-like; delta(24)-sterol reductase-like%2C transcript variant X1
+  Gene Descriptions: delta(24)-sterol reductase-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 6
+  Modal chromosome: Pvi01K
+  Gene Products: delta(24)-sterol reductase-like%2C transcript variant X1; delta(24)-sterol reductase-like%2C transcript variant X2; delta(24)-sterol reductase-like%2C transcript variant X4
+Pha
+  Gene count: 3
+  Modal chromosome: Pha01
+  Gene Products: delta(24)-sterol reductase-like; delta(24)-sterol reductase-like%2C transcript variant X2
+Msi
+  Gene count: 4
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi04
+  Gene Products: delta(24)-sterol reductase; delta(24)-sterol reductase-like
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: nana plant2
+  Gene Synonyms: DWF1,GRMZM2G057000
+  Gene Descriptions: nana plant2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 561 aa
+
+MADLQEPLVRrKRKKVLVDYLVQFRWILVIFVVLPISALIYFNIYLGDMWSAMKSEKKRQ
+KQHDENVQKVVKRLKQRNPKKDGLVCTARKPWIAVGMRNVDYKRARHFEVDLSAFRNILE
+IDKERMVAKVEPLVNMGQITRATCPMNLALAVVAELDDLTVGGLINGYGIEGSSHLYGLF
+SDTVVAMEVVLADGRVVRATKDNEYSDLFYGIPWSQGTLGFLVSAEIKLIPIKEYMRLTY
+TPVKGtLKEIAQAYADSFAPRDGDPAKVPDFVEGMVYTEsEGVMMTGVYASKEEAKKKGN
+KINSVGWWFKPWFYQHAQTALKRGEFVEYIPTREYYHRHTRCLYWEGKLILPFGDQFWFR
+FLLGWLMPPKVSLLKATQGEAIRNYYHDNHVIQDMLVPLYKVGDALEFVHREMEVYPLWL
+CPHRLYKLPVKTMVYPEPGFEHQHRQGDTSYAQMFTDVGVYYAPAAVLRGEEFNGAEAVH
+RLEQWLIENHSYQPQYAVSELNEKDFWRMFDASHYEHCRrKYGAVGTFMSVYYKSKKGRK
+TEKEVQEAEAAILEPAYADEA
+
+
+BOP CONSENSUS:
+Length: 561 aa
+
+MADLQEPLVRPKRKKVLVDYLVQFRWILVIFVVLPISALIYFNIYLGDMWSAMKSEKKRQ
+KEHDDNVQKVVKRLKQRNPKKDGLVCTARKPWIAVGMRNVDYKRARHFEVDLSAFRNILE
+IDpERMVAKVEPLVNMGQISRATCPMNLSLAVVAELDDLTVGGLINGYGIEGSSHLYGLF
+SDTVVALEIVLADGRVVRATKDNEYSDLFYGVPWSQGTLGFLVSAEIKLIPIKEYMRLTY
+TPVKGpLKEvAQAYADSFAPRDGDPAKVPDFVEGMVYtATEGVMMTGVYASKEEAKKKGN
+KINSVGWWFKPWFYQHAQTALKKGEFVEYIPTREYYHRHTRCLYWEGKLILPFGDQFWFR
+FLFGWLMPPKVSLLKATQGEAIRNYYHDNHVIQDMLVPLYKVGDALEFVHhEMEVYPLWL
+CPHRLYKLPVKTMVYPEPGFEHHQRQGDTSYAQMFTDVGVYYTPAcIFRGEEFNGAEAVK
+RLEQWLIENHSYQPQYAVSELNEKDFWRMFDASHYEHCRQKYGAVGTFMSVYYKSKKGRK
+TEKEVQEAEAAILEPAYADEA
+
+
+PACMAD CONSENSUS:
+Length: 561 aa
+
+MADVHEPLVRRKRKKVLVDYLVQFRWILVIFVVLPISALIYFNIYLGDMWSAMKSEKKRQ
+KQHDENVQKVVKRLKQRNPKKDGLVCTARKPWIAVGMRNVDYKRARHFEVDLSAFRNILE
+IDKERMVAKVEPLVNMGQITRATCPMNLALAVVAELDDLTVGGLINGYGIEGSSHLYGLF
+SDTVVAMEVVLADGRVVRATKDNEYSDLFYGIPWSQGTLGFLVSAEIKLIPIKEYMKLTY
+TPVKGtLKEIAQAYADSFAPRDGDPAKVPDFVEGMVYTESEGVMMTGVYASKEEAKKKGN
+KINCVGWWFKPWFYQHAQTALKRGEFVEYIPTREYYHRHTRCLYWEGKLILPFGDQFWFR
+FLLGWLMPPKVSLLKATQGEAIRNYYHDNHVIQDMLVPLYKVGDALEFVHREMEVYPLWL
+CPHRLYKLPVKTMVYPEPGFEHQHRQGDTSYAQMFTDVGVYYAPAAVLRGEEFNGAEAVH
+RLEQWLIENHSYQPQYAVSELNEKDFWRMFDASHYEHCRRKYGAVGTFMSVYYKSKKGRK
+TEKEVQEAEAAILEPAYADEA
+
+================================================================================

@@ -1,0 +1,122 @@
+================================================================================
+GrassFam ID: GFAM000656
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             452.0 aa
+Family Size (Extended Family Size): 17 (31) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13683:SF338
+Panther Family ID:               PTHR13683
+Modal Panther ID:                PTHR13683:SF338
+Modal Panther Description:       CHLOROPLAST NUCLEOID DNA-BINDING PROTEIN CND41-LIKE
+Modal Panther Family ID:         PTHR13683
+Modal Panther Fam Desc:          ASPARTYL PROTEASES
+Interpro Signature Accession:    G3DSA:2.40.70.10:FF:000016; G3DSA:2.40.70.10:FF:000010; G3DSA:2.40.70.10; PTHR13683; PF14543; PF14541; SSF50630
+Interpro Signature Description:  Probable aspartic protease At2g35615; Aspartyl protease family protein 2; Acid Proteases; ASPARTYL PROTEASES; Xylanase inhibitor N-terminal; Xylanase inhibitor C-terminal; Acid proteases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: aspartyl protease family protein 2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: aspartyl protease family protein 2-like
+Tae
+  Gene count: 2
+  Modal chromosome: Tae03A
+  Gene Products: aspartyl protease family protein 2-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: aspartyl protease family protein 2-like
+  Gene Descriptions: aspartyl protease family protein 2-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: aspartyl protease family protein 2
+  Gene Descriptions: aspartyl protease family protein 2
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: aspartyl protease family protein 2-like
+  Gene Descriptions: aspartyl protease family protein 2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: aspartyl protease family protein 2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: aspartyl protease family protein 2-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: aspartyl protease family protein 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 450 aa
+
+MAppKLlLlLvLvSfsAnATQPPrTLHVPVVHRDAVFPPPPGAtPGSLLRRRHAADAARY
+TAqlASLHststDDDDRLHSPVmSGLPFDSGEYFAviGVGTPSTrALVVIDTGSDLIWLQ
+CkPCRHCYRQlTPLYDPRsSSTYRrIPCSSPRCRdLRYPGCDaRTGGCvYmVVYGDGSaS
+sGDLATDRLVFsNDThVHNVTLGCGHDNEGLFdSAAGLLGVGRGnLSFPTQVAPAYGRVF
+aYCLGDRTSRArsSSSYLVFGRTPEpPSTAFTPLrTNPRRPSLYYVDMVGFSVGGERVTG
+FSnASLALDPATGRGGVVVDSGTAISRFARDAYAAVRDAFDARAAAaGMRKLAtnfSVFD
+ACYDLRGrGhAtArVPsIVLHFAGGADMALPPaNYLiPVqGGdRRTYfCLGLEAADDGLN
+VLGNVQQQGFRVVFDVErERIGFAPNGCSv
+
+
+BOP CONSENSUS:
+Length: 437 aa
+
+MAPLKtvLlLLLLFSASNAcQPPrTLHIPVVHRDAVFPPPPGAKRGSLLsRRLAADAARY
+AALVASsSTAHTgRLHSPVMSGLPFeSGEYFASVGVGTPSTtALLVIDTGSDLVWLQCKP
+CRRCYRQMSPLYDPRGSSTYRQIPCSSPQCrpLQGCDgSTGGCGYtMVYGDGSSStGNLA
+TDRLVFSNDTSVdNVTLGCGHDNEGLFDSSAGLLGVGRGagSlATQVAPtYGRYFAYCLG
+DRTSvRSSSSYLVFGRTPEPPSTAFTPLLSNPRRPSLYYVNMAGFSVGGERVTGFSNASL
+sLDPATGRGGVVVDSGTSISRLPRDAYAALRDAFDARAAAAGMRRLARGISVFDACYDLR
+GvpaASVPaVVLHFAGGADVALPPENYFIPEqGGRYHCLALEATDDGLSVLGNVQQQGFR
+VVFDVEKERVGFAPNGC
+
+
+PACMAD CONSENSUS:
+Length: 451 aa
+
+MALPslLLpLVLVSFTAsATQPPRTLHVPVVHRDAVFPPaPGAtPGsLLRrRHAADAAHY
+TAQLASlHtiAaDDDDRLRSPVLSGlPFDSGEYFAVIGVGDPSTRALVVIDTGSDLIWLQ
+CAPCRHCYRQLTPLYDPRSSSTHRRIPCASPRCRDVLRYPGCDARTGGCVYMVVYGDGSA
+SSGDLATDRLVFPNDTHVHNVTLGCGHDNeGLFESAAGLLGVGRGqLSFPTQLAAAYGRV
+FSYCLGDRMSRAqdSSSYLVFGRTPELPSTAFTPLRTNPRRPSLYYVDMVGFSVGGERVT
+GFSnASLALDPATGRGGIVVDSGTAISRFARDAYAAVRDAFDSRAAAgGMRKLAtNFSVF
+DACYDLRGrGhATVRVPSIVLHFAGGADMALPpANYLVPVeGGDRRTYFCLGLQAADDGL
+NVLGNVQQQGFGVVFDVEReRIGFaPNGCSV
+
+================================================================================

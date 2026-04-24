@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM008036
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             376.0 aa
+Family Size (Extended Family Size): 24 (27) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43725:SF8
+Panther Family ID:               PTHR43725
+Modal Panther ID:                PTHR43725:SF8
+Modal Panther Description:       CHLOROPLAST STEM-LOOP BINDING PROTEIN OF 41 KDA B, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR43725
+Modal Panther Fam Desc:          UDP-GLUCOSE 4-EPIMERASE
+Interpro Signature Accession:    cd05265; G3DSA:3.40.50.720:FF:000313; G3DSA:3.40.50.720; PTHR43725; SSF51735
+Interpro Signature Description:  SDR_a1; Chloroplast stem-loop binding protein of 41 kDa b, chloroplastic; -; UDP-GLUCOSE 4-EPIMERASE; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: chloroplast stem-loop binding protein of 41 kDa b%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 6
+  Modal chromosome: Hvu02H
+  Gene Products: chloroplast stem-loop binding protein of 41 kDa b%2C chloroplastic-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: chloroplast stem-loop binding protein of 41 kDa b%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: chloroplast stem-loop binding protein of 41 kDa b%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl12
+  Gene Products: chloroplast stem-loop binding protein of 41 kDa b%2C chloroplastic
+  Gene Descriptions: chloroplast stem-loop binding protein of 41 kDa b%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa12
+  Gene Products: chloroplast stem-loop binding protein of 41 kDa b%2C chloroplastic
+  Gene Descriptions: chloroplast stem-loop binding protein of 41 kDa b%2C chloroplastic
+Pau
+  Gene count: 1
+  Modal chromosome: Pau22
+  Gene Products: chloroplast stem-loop binding protein of 41 kDa b%2C chloroplastic
+  Gene Descriptions: chloroplast stem-loop binding protein of 41 kDa b%2C chloroplastic
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: chloroplast stem-loop binding protein of 41 kDa b%2C chloroplastic-like; chloroplast stem-loop binding protein of 41 kDa b%2C chloroplastic-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: chloroplast stem-loop binding protein of 41 kDa b%2C chloroplastic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi14
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: chloroplast stem-loop binding protein of 41 kDa b%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: uncharacterized LOC100193292%2C transcript variant X1
+  Gene Synonyms: csu70,GRMZM2G080546,GRMZM2G165655,umc347
+  Gene Descriptions: uncharacterized LOC100193292
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 376 aa
+
+MAATASLKSSLLLPSPISDFSGAAvSISAQkRRRSWQPRGARMQVSAAADSKNILVMGGT
+RFIGVFLSRLLVKEGHQVTLFTRGKAPITQQLPGESDAEYAEFSSKVLHLKGDRQDFDFV
+KTSLAAKGFDVVYDINGREAVEVePILDALPNLEQYIYCSSAGVYLKSDLLPHFETDAVD
+PKSRHKGKLETESLLEtRGVNWTSIRPVYIYGPLNYNPVEEWFFHRLKAGRPIPIPGAGN
+QITQLGHVKDLATAFnLVLGNPKASKQVFNISGAKYVTFDGLARACAKAGGFPEPEIVHY
+NPKDFDFGKKKAFPFRDQHFFASVEKAskELGWTPEFDLVEGLTDSYNLDFGRGTFRKEA
+DFTTDDMILGKKLVTV
+
+
+BOP CONSENSUS:
+Length: 377 aa
+
+MAAASVSLKSSLLLSSPLSDFSGAAISISAQNRRRSWQPRGARMQVAAAADSKNILVMGG
+TRFIGLFLSRKLVQEGHQVTLFTRGKAPITQQLPGESDAEYAEFSSKVLHLKGDRQDFDF
+VKTSLSAKGFNVVYDINGREATEVSPILEALPNLEQFIYCSSAGVYLKSDLLPHFETDAV
+DPKSRHKGKLETESLLETSGVNWTSIRPVYIYGPLNYNPVEEWFFHRLKAGRPIPIPNAG
+NQITQLGHVKDLATAFIKVLGNPKASKQVYNISGSKYVTFDGLARACAKAGGFPEPEIIH
+YNPKDFDFGKKKAFPFRDQHFFASVEKASKDLGVTPEYDLVDGLTDSYNLDFGRGTFRKE
+ADFTTDDMILGKKLVSV
+
+
+PACMAD CONSENSUS:
+Length: 376 aa
+
+MAATASLKSSLLLPSPISDFSGAAVSVSAQKRRRSWQPRGARVQVSAAADSKNILVMGGT
+RFIGVFLSRLLVKEGHQVTLFTRGKAPITQQLPGESDAEYAEFSSKVQHLKGDRQDFEFV
+KTSLAAKGYDVVYDINGREAVEVEPIIDALPNLEQYIYCSSAGVYLKSDLLPHCEvDAVD
+PKSRHKGKLETESLLTSRGVNWTSIRPVYIYGPLNYNPVEEWFFHRLKAGRPIPIPGAGN
+QITQLGHVKDLATAFNLVLGNPKASQQIFNISGAKYVTFDGLARACAKAGGFPEPELVHY
+NPKDFDFGKKKAFPFRDQHFFASIEKATRELGWTPEFDLVEGLTDSYNLDFGRGTFRKAA
+DFTTDDMILGKKLATV
+
+================================================================================

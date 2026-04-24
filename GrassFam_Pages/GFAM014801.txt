@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM014801
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             458.0 aa
+Family Size (Extended Family Size): 21 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24012:SF866
+Panther Family ID:               PTHR24012
+Modal Panther ID:                PTHR24012:SF866
+Modal Panther Description:       OS05G0373400 PROTEIN
+Modal Panther Family ID:         PTHR24012
+Modal Panther Fam Desc:          RNA BINDING PROTEIN
+Interpro Signature Accession:    cd12361; cd12362; G3DSA:3.30.70.330:FF:000302; G3DSA:3.30.70.330:FF:000216; G3DSA:3.30.70.330:FF:000334; G3DSA:3.30.70.330; PTHR24012; SM00360; SSF54928
+Interpro Signature Description:  RRM1_2_CELF1-6_like; RRM3_CELF1-6; RNA-binding protein BRN1; RNA-binding protein BRN1 isoform X1; -; RNA BINDING PROTEIN; rrm1_1; RNA-binding domain, RBD
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: RNA-binding protein BRN1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: RNA-binding protein BRN1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: RNA-binding protein BRN1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: RNA-binding protein BRN1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: RNA-binding protein BRN1-like
+  Gene Descriptions: RNA-binding protein BRN1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: RNA-binding protein BRN1
+  Gene Descriptions: RNA-binding protein BRN1
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: RNA-binding protein BRN1-like; RNA-binding protein BRN1-like%2C transcript variant X1
+  Gene Descriptions: RNA-binding protein BRN1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: RNA-binding protein BRN1-like; RNA-binding protein BRN1-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: RNA-binding protein BRN1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: RNA-binding protein BRN1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: RNA-binding protein BRN1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 455 aa
+
+MAEDGGDRDQQQQQPAAAGaGGGhEdgeGRgEESVKLFVGQVPKQMTEAELAAMFRdVAL
+VDEVTVIRDRATKVSRGCCFLICPSREEADKAVNAYHNKRTLPGASSPLQVKYADGELER
+LEHKLFVGMLPKNVTDAEMTDLFSQYGNIKDLQILRGSQQTSKAGCAFLKYETKEQAVAA
+IEALNGKHKIEGSSVPLVVKWADTEKERQARKAQKAQFQSSNMSNANAMQQtSLFGALQM
+GYVPQYNGFGYQPQGTYGLMQYPLSPMQNQAAFQNMVQPVNQGSSIRGVNSELSPNSVPR
+SFNSMQLGSPYSPlPGMQYPGSYPGGAINsRPFmNSHNSiKVPNANAnSPTSSSTSSNPG
+PQIEGPPGANLFIYHIPQEFGDQDLANAFQSFGRVLSAKVFVDKATGVSKCFGFVSYDSP
+ASAQAAISMMNGFQLGGKKLKVQLKRDNSKHSKPF
+
+
+BOP CONSENSUS:
+Length: 460 aa
+
+MAEDAGDRDQQQQQQPAAAAGvGGGHACGEDGGGRDESSVKLFVGQVPKLMTEAELAAMF
+RDVAVVDEVTVIRDKATKASRGCCFLICPSREEADKAVNAYHNKRTLPGAPSPLQVKYAD
+GELERLEHKLFIGMLPKNVTDAEMTDLFSQYGNIKDLQILRGSQQTSKAGCAFLKYETKE
+QAVAAIEALNGKHKIEGSSVPLVVKWADTEKERQARKAQKAQFPPSNMSNANAMQQSSLF
+GALQMGYVPPYNGFGYQPQGTYGLMQYPLSPMQNQAGFQNMVQPVNQGSSIRGVNSELSP
+NSVpRSFNSMQLGSPYPAGPGMQYPGSYPGGGINSRPYMNSHNSVKVPNANATSPTSSST
+SSNTGPQLEGPPGANLFIYHIPQEFGDQDLANAFQSFGRVLSAKVFVDKATGASKCFGFV
+SYDSPASAQAAISMMNGFQLGGKKLKVQLKRDNSKHNKLY
+
+
+PACMAD CONSENSUS:
+Length: 453 aa
+
+MAEDGGDRDQQQQQPAAAAGGAGAEGRSRESVKLFVGQVPKQMSEAELAAMFRGVALVDE
+VTVIRDRATRVSRGCCFLICPSREEADKAVTAYHNKCTLPGASSPLQVKYADGELERLEH
+KLFVGMLPKNVTDAEMTDLFSKYGNIKDLQILRGSQQTSKAGCAFLKYETKEQAVAAIEA
+LNGKHKIEGSSVPLVVKWADTEKERQARKAQKAQFQSSNMLNANAMQQTSLFGALQMGYV
+PQYNGFGYQPQGTYGLMQYPPLSPMQNQAAFQNMVQPVNQGSSIRGANSELSPNSVPRSF
+NSTQLGSPYSPLPGmQYPGvYPGGAINNRPFANSHNSIKVQNSNANSPTSSGASSNPGPQ
+IEGPPGANLFIYHIPQEFGDHDLANAFQSFGRVLSAKVFVDKATGVSKCFGFVSYDSPAS
+AQAAISMMNGFQLGGKKLKVQLKRDNSKHSKPF
+
+================================================================================

@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM020101
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             534.0 aa
+Family Size (Extended Family Size): 27 (28) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11353:SF214
+Panther Family ID:               PTHR11353
+Modal Panther ID:                PTHR11353:SF214
+Modal Panther Description:       T-COMPLEX PROTEIN 1 SUBUNIT DELTA
+Modal Panther Family ID:         PTHR11353
+Modal Panther Fam Desc:          CHAPERONIN
+Interpro Signature Accession:    cd03338; G3DSA:3.50.7.10:FF:000010; G3DSA:3.50.7.10; G3DSA:3.30.260.10; G3DSA:1.10.560.10; NF041082; NF041083; TIGR02342; PTHR11353; PR00304; PF00118; SSF54849; SSF52029; SSF48592
+Interpro Signature Description:  TCP1_delta; T-complex protein 1 subunit delta; GroEL; -; thermosome subunit alpha; thermosome subunit beta; CHAPERONIN; Tailless complex polypeptide 1 (chaperone) signature; TCP-1/cpn60 chaperonin family; GroEL-intermediate domain like; GroEL apical domain-like; GroEL equatorial domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: T-complex protein 1 subunit delta
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu06H
+  Gene Products: T-complex protein 1 subunit delta-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: T-complex protein 1 subunit delta
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: T-complex protein 1 subunit delta-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl02
+  Gene Products: T-complex protein 1 subunit delta; T-complex protein 1 subunit delta-like
+  Gene Descriptions: T-complex protein 1 subunit delta; T-complex protein 1 subunit delta-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa02
+  Gene Products: T-complex protein 1 subunit delta
+  Gene Descriptions: T-complex protein 1 subunit delta
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: T-complex protein 1 subunit delta-like
+  Gene Descriptions: T-complex protein 1 subunit delta-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: T-complex protein 1 subunit delta-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: T-complex protein 1 subunit delta
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: T-complex protein 1 subunit delta
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: putative TCP-1/cpn60 chaperonin family protein; uncharacterized LOC100191456
+  Gene Synonyms: GRMZM2G085909; GRMZM2G122767,umc1329
+  Gene Descriptions: putative TCP-1/cpn60 chaperonin family protein; uncharacterized LOC100191456
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 533 aa
+
+MAAAAAApAPSRKTETYTDTKRRDDVRGANIAAARAVADAVRTSLGPRGMDKMISSGDQE
+VIITNDGATILSRMSLLQPAARMLAELSRSQDAAAGDGTTTVVVLAGSLLRRAQSLLSAG
+AHPTAAADALHRLATRAVEVLHGMAIPIELSDRDSLVKSASTALNSKVVSQYStLLSPLA
+VDAALSVVDPAHPDLLDLRDIRIVKKLGGTVDDTELVRGLIFDKKASHAAGGPTRVENAK
+IAVIQFQISPPKTDIEQSVIVSDYAQMDRILREERNYILGMVKKIKAAGCNVLLIQKSIL
+RDAVTDLSLHYLAKAKILVVKDVERDEIEFITKTLNCLPIANIEHFReDKLGYADLVEEV
+SVGEGKVVKITGIRDMGRTATVLVRGSNQLVIDEAERSLHDALCVIRCLVNKRFLIAGGG
+APEIEMSMQLAAWAKELqGMESYCIKEFADALEVIPYTLAENAGLNPISIVTELRNRHAR
+GEKNAGINVRKGQITNILEENVVQPLLVSTSAITLACECVRMILKIDDIVTVR
+
+
+BOP CONSENSUS:
+Length: 534 aa
+
+MAApAVAAAPSARKTETYTDTKRRDDVRGANIAAARAVADAVRTSLGPRGMDKMISSGDQ
+EVIITNDGATILSRMSLLQPAARMLAELSRSQDAAAGDGTTTVVVLAGSLLRRAQSLLAA
+GAHPTAAADSLHRLAARAVQVLEGMAIPIELTDRDSLVKSASTALNSKVVSQYSSLLAPL
+AVDAALSVVDPAHPELLDLRDIRIIKKLGGTVDDTELVRGLIFDKKASHAAGGPSRIENA
+KIAVIQFQISPPKTDIEQSVIVSDYAQMDRILREERNYILGMVKKIKASGCNVLLIQKSI
+LRDAVTELSLHYLAKAKILVVKDVERDEIEFITKTLNCLPIANIEHFREDKLGYADVVEE
+VSVGDGKIVKITGIRDMGRTATVLVRGSNQLVIDEADRSLHDALCVIRCLVNKRFLIAGG
+GAPEIEMSMQLAAWSKELHGMESYCIKEFADALEVIPYTLAENAGLNPIAIVTELRNRHA
+KGEKNTGINVRKGQITNILEENVVQPLLVSTSAISLACECVRMILKIDDIVTVR
+
+
+PACMAD CONSENSUS:
+Length: 535 aa
+
+MAAAAAApAPSRKTETYTDTKRRDDVRGANIAAARAVADAVRTSLGPRGMDKMISSGDQA
+QEVIITNDGATILSRMALLQPAARMLAELSRSQDAAAGDGTTTVVVLAGSLLRRAQSLLS
+AGAHPTAAADALHRLATRAVEILHgMAIPIELSDRESLVKSASTALNSKVVSQYSTLLSP
+LAVDAALSVVDPAHPDLLDLRDIRIVKKLGGTVDDTELVRGLIFDKKASHAAGGPTRVEN
+AKIAVIQFQISPPKTDIEQSVIVSDYAQMDRILREERNYILGMVKKIKAAGCNVLLIQKS
+ILRDAVTDLSLHYLAKAKILVVKDVERDEIEFITKTLNCLPIANIEHFRTDKLGYADLVE
+EVSVGEGKVVKITGIRDMGRTATVLVRGSNQLVIDEAERSLHDALCVIRCLVNKRFLIAG
+GGAPEIEMSMQLAAWAKELQGMESYCIKEFAEALEVIPYTLAENAGLNPISIVTELRNRH
+ARGEKNAGINVRKGQITNILEENVVQPLLVSTSAITLACECVRMILKIDDIVTVR
+
+================================================================================

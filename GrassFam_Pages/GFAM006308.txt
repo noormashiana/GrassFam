@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM006308
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             431.5 aa
+Family Size (Extended Family Size): 22 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11937:SF519
+Panther Family ID:               PTHR11937
+Modal Panther ID:                PTHR11937:SF519
+Modal Panther Description:       ACTIN-RELATED PROTEIN 3
+Modal Panther Family ID:         PTHR11937
+Modal Panther Fam Desc:          ACTIN
+Interpro Signature Accession:    cd10221; G3DSA:3.30.420.40:FF:000803; G3DSA:3.90.640.10:FF:000006; G3DSA:3.30.420.40:FF:000029; G3DSA:3.90.640.10; G3DSA:3.30.420.40; PTHR11937; PF00022; SM00268; SSF53067
+Interpro Signature Description:  ASKHA_NBD_Arp3-like; Actin-related protein 3; Actin-related protein 3 (ARP3); Actin; Chain A, domain 4; -; ACTIN; Actin; actin_3; Actin-like ATPase domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: actin-related protein 3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: actin-related protein 3%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: actin-related protein 3%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: actin-related protein 3%2C transcript variant X1; actin-related protein 3-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: actin-related protein 3%2C transcript variant X1
+  Gene Descriptions: actin-related protein 3
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: actin-related protein 3-like
+  Gene Synonyms: ARP3,OJ1568_B05.15,OsJ_007159,OsJ_07378
+  Gene Descriptions: actin-related protein 3-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: actin-related protein 3; actin-related protein 3-like
+  Gene Descriptions: actin-related protein 3; actin-related protein 3-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: actin-related protein 3; actin-related protein 3-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: actin-related protein 3
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: actin-related protein 3
+Zma
+  Gene count: 2
+  Modal chromosome: Zma04
+  Gene Products: Actin-related protein 3%2C transcript variant X1; uncharacterized LOC100281189%2C transcript variant X1
+  Gene Synonyms: GRMZM2G092459; cl6346_1
+  Gene Descriptions: Actin-related protein 3; uncharacterized LOC100281189
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 431 aa
+
+MDAlSRPAVVIDNGTGYTKMGFAGNVEPCFITPTVVAVNDSFSgSAPATRGApAKGNWLA
+QHSAGVMADLDFYIGEEALARSRASSTYSLSYPIRNGQVENWDTMERFWQQCIFNYLRCD
+PEDHYFLLTESPLTAPETREYTGEIMFETFNVPGLYIAVQPVLALAAGYTTTKCEMTGVV
+VDVGDGATHIVPVADGYVIGSSIRSIPLTGKDVTQFIQQLLKERGEHIPPEESFDVARRv
+KEMYCYTSSDIVKEFNKHDREPSKYIKHWTGIKPKTGAKYTCDIGYERFLGPEIFFNPEI
+YNNDFTTPLQVVIDKCIQSSPIDTRRALYKNIVLSGGSTMFKDFHRRLQRDLKKIVDARV
+RASNaRLsGDAKAQPIEVNVVSHPIQRYAVWFGGSVLASTAEFYEACHTKAEYEEYGASI
+CRSNPVFKGMY
+
+
+BOP CONSENSUS:
+Length: 427 aa
+
+MDPTSRPAVVIDNGTGYTKMGFAGNVEPCFITPTAVAVNESFSDQTRATAKGNWLAQHSA
+GVMADLDFLIGEEALARSRSSSTYSLSYPIRNGQVDNWDTMEKFWQQCIFNYLRCDPEDH
+YFLLTESPLTPPETREYTGEIMFETFNVPGLYIAVQPVLALAAGYTTTKCEMTGVVVDVG
+DGATHIVPVADGYVIGNSISSIPLTGKDVTQFIQQLMKERGEHIPPEESFDVARRAKEMY
+CYTCSDIVKEFNKHDREPSKYIKRLTGIKPKTGAPYTCDIGYERFLGPEIFFHPEIYNND
+FTTPLQDVIDKCIQSSPIDTRRALYKNIVLSGGSTMFKDFHRRLQRDLKKIVDVRVRASN
+ARLGGDAKAQPVEVNVVSHPIQRYAVWFGGSVLASTAEFYEACHTKAEYEEYGASICRSN
+PVFKGMY
+
+
+PACMAD CONSENSUS:
+Length: 433 aa
+
+MDALSRPAVVIDNGTGYTKMGFAGNVEPCFITPTVVAVNDSFSgSAQPApRGAPAKGNWL
+AQHSAGVMADLDFYIGEEALARSRASSTYSLSYPIRNGQVENWDTMERFWQQCIFNYLRC
+DPEDHYFLLTESPLTAPETREYTGEIMFETFNVPGLYIAVQPVLALAAGYTTTKCEMTGV
+VVDVGDGATHIVPVADGYVIGSSIRSIPITGKDVTQFVQQLLKERGENIPPEESFDVARR
+IKEMYCYTSSDIVKEFNKHDREPSKYIKHWTGIKPKTGAKYTCDIGYERFLGPEIFFNPE
+IYNNDFTTPLQVVIDKCIQSSPIDTRRALYKNIVLSGGSTMFKDFHRRLQRDLKKIVDAR
+VRASNtRLISGDAKAQPIEVNVVSHPIQRYAVWFGGSVLASTAEFYEACHTKAEYEEYGA
+SICRSNPVFKGMY
+
+================================================================================

@@ -1,0 +1,125 @@
+================================================================================
+GrassFam ID: GFAM006706
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             475.0 aa
+Family Size (Extended Family Size): 20 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR19918:SF65
+Panther Family ID:               PTHR19918
+Modal Panther ID:                PTHR19918:SF65
+Modal Panther Description:       ANAPHASE-PROMOTING COMPLEX SUBUNIT 4-LIKE WD40 DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR19918
+Modal Panther Fam Desc:          CELL DIVISION CYCLE 20  CDC20   FIZZY -RELATED
+Interpro Signature Accession:    cd00200; G3DSA:2.130.10.10; PTHR19918; PF24807; SSF50998
+Interpro Signature Description:  WD40; -; CELL DIVISION CYCLE 20  CDC20   FIZZY -RELATED; CDC20/Fizzy WD40 domain; Quinoprotein alcohol dehydrogenase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: cell division cycle 20.2%2C cofactor of APC complex
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: cell division cycle 20.2%2C cofactor of APC complex-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: cell division cycle 20.2%2C cofactor of APC complex
+Tae
+  Gene count: 5
+  Modal chromosome: Tae02A
+  Gene Products: cell division cycle 20.2%2C cofactor of APC complex-like; cell division cycle 20.5%2C cofactor of APC complex-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: cell division cycle 20.2%2C cofactor of APC complex-like%2C transcript variant X1
+  Gene Descriptions: cell division cycle 20.2%2C cofactor of APC complex-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: cell division cycle 20.2%2C cofactor of APC complex%2C transcript variant X1
+  Gene Descriptions: cell division cycle 20.2%2C cofactor of APC complex
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 1
+  Modal chromosome: Pau13
+  Gene Products: cell division cycle 20.2%2C cofactor of APC complex-like
+  Gene Descriptions: cell division cycle 20.2%2C cofactor of APC complex-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: cell division cycle 20.2%2C cofactor of APC complex-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: cell division cycle 20.2%2C cofactor of APC complex-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 475 aa
+
+MDAGSNSISSQKSSsRaAAPRPPLQEAGSRPYMPSLSTASRNPSAKCYGDRFIPeRSAMD
+MDMAHYLLTEPRKDKENPAAASPAKEAYRKLLAEKLLNNRTRILAFRNKPPEPENiLTDL
+RADAASvQAKPAKQRRHIPQSAERTLDAPELVDDYYLNLLDWGSSNVLSIALGNTVYLWD
+ASSGSTSELVTVDEDyGPVTSVSWAPDGRHIAVGLNSSDVQLWDTSSNRLLRTLRGVHEL
+RVGSLAWNNNILTTGGMDGKIVNNDVRIRNHVVQTYHGHEQEVCGLKWSGSGQQLASGGN
+DNLLHIWDVSMASSVQSAGRTQWLHRLqDHLAAVKALAWCPFQSNLLASGGGGGDRCIKF
+WNTHTGACLNSVDTGSQVCALLWNKNERELLSSHGFTQNQLTLWKYPSMVKMAELNGHTS
+RVLFMAQSPDGCTVASAAADETLRFWNVFGTPEAAPKAAAKASHTGIFNSFNHIR
+
+
+BOP CONSENSUS:
+Length: 472 aa
+
+MDAGSHSISSEKSSRYVAPRPPLQEAGSRPYMPSLSTASRNPSAKCYGDRFIPDRSAMDM
+DMAHYLLTEPRKDKENAAASPSKEAYRKLLAEKLLNNRTRILSFRNKPPEPESILTELRA
+DAASIQAKPAKQRRYIPQSAERTLDAPELVDDYYLNLLDWGSSNVLSIALGNTVYLWDAT
+NSSTSELVTVDEDNGPVTSVSWAPDGRHIAVGLNSSDVQLWDTSSNRLLRTMRGVHESRV
+GSLAWNNNILTTGGMDGKIVNNDVRIRNHVVQTYQGHQQEVCGLKWSGSGQQLASGGNDN
+LLHIWDVSMASSVPSAGRTQWLHRLEDHLAAVKALAWCPFQSNLLASGGGGSDRCIKFWN
+THTGACLNSVDTGSQVCSLVWNKNERELLSSHGFTQNQLTLWKYPSMVKMAELTGHTSRV
+LFTAQSPDGLTVASAAADETLRFWNVFGTPEAPKTTTKGSHTGMFNSSNHIR
+
+
+PACMAD CONSENSUS:
+Length: 474 aa
+
+MDAGSNSISSQKSGSRRAAPPRPpLQEAGSRPYMPPLSTGPRNPSAKCYGDRFIPERSAM
+DMDLAHYLLTEPRKGKENPAAASPAKEAYRKLLAEKLLNNRTRILAFRNKPPEPENMLTD
+LRSDAVQAKPAKQRRHIPQSSERTLDAPELADDYYLNLLDWGSSNVLSIALGSTVYLWDA
+SSGSTSELVTVDDDYGPVTSVSWAPDGRHIAVGLNSSDVQLWDTTSNRLLRTLRGVHELR
+VGSLAWNNSILTTGGMDGKIVNNDVRIRNNVVQTYHGHEQEVCGLKWSGSGQQLASGGND
+NLLHIWDVSMSSSVQSAGRTQWLHRLQDHLAAVKALAWCPFQSNLLASGGGGGDRCIKFW
+NTHTGACLNSVDTGSQVCALLWNKNERELLSSHGFTQNQLTLWKYPSMVKMAELNGHTSR
+VLFMAQSPDGCTVASAAADETLRFWNVFGTPEAAPKAAAKASHTGIFNSFNHIR
+
+================================================================================

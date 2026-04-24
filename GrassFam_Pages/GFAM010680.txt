@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM010680
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             471.0 aa
+Family Size (Extended Family Size): 27 (28) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR13036
+Modal Panther ID:                PTHR13036:SF4
+Modal Panther Description:       GLYCOSYLTRANSFERASE SUBFAMILY 4-LIKE N-TERMINAL DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR13036
+Modal Panther Fam Desc:          BETA1,4 MANNOSYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:3.40.50.2000:FF:000083; G3DSA:3.40.50.2000:FF:000109; PTHR13036
+Interpro Signature Description:  UDP-glycosyltransferase TURAN isoform X1; Chitobiosyldiphosphodolichol beta-mannosyltransferase; BETA1,4 MANNOSYLTRANSFERASE
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: UDP-glycosyltransferase TURAN%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: UDP-glycosyltransferase TURAN%2C transcript variant X2
+Ata
+  Gene count: 2
+  Modal chromosome: Ata04D
+  Gene Products: UDP-glycosyltransferase TURAN; UDP-glycosyltransferase TURAN%2C transcript variant X1
+Tae
+  Gene count: 5
+  Modal chromosome: Tae04A
+  Gene Products: UDP-glycosyltransferase TURAN-like; UDP-glycosyltransferase TURAN-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl03
+  Gene Products: UDP-glycosyltransferase TURAN-like; UDP-glycosyltransferase TURAN-like%2C transcript variant X1
+  Gene Descriptions: UDP-glycosyltransferase TURAN-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa03
+  Gene Products: UDP-glycosyltransferase TURAN%2C transcript variant X1
+  Gene Descriptions: UDP-glycosyltransferase TURAN
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: UDP-glycosyltransferase TURAN; UDP-glycosyltransferase TURAN-like
+  Gene Descriptions: UDP-glycosyltransferase TURAN; UDP-glycosyltransferase TURAN-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: UDP-glycosyltransferase TURAN-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: UDP-glycosyltransferase TURAN
+Msi
+  Gene count: 3
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: UDP-glycosyltransferase TURAN%2C transcript variant X3
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: beta-1%2C4-mannosyltransferase%2C transcript variant X1
+  Gene Synonyms: GRMZM2G049484
+  Gene Descriptions: beta-1%2C4-mannosyltransferase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 472 aa
+
+AMAeEAGRRKRAAVVVLGDIGRSPRMQYHSLSLANQAGMEVDIVANGGSDPHLSLRENPS
+IHIHEMKSVQLTGISKISGALALLLKAAIQFIMLIWFLCFKIPRPDVFiVQNPPSVPTLA
+AVKLASWLRGAKFIVDWHNFGYTLLGLSHGRSHIIVKIYFWFEKHFGRMADGAFCVTKAM
+QHELAQNWGIkATVLYDQSPEFFHPASLTEKHELFSRLGNSICSAMGNADCISVEKEVED
+mNTTVFTSKIDGEvFLKPNRPALVVSSTSWTPDEDFSILLEAALMYDRRVAATLGEDDSM
+DEGQLWIDIKNGKQFVYPRLLFIITGKGPDRKKYEEQIKRLKLRRVAFRTMWLASEDYPL
+LLGSADLGVSLHTSSSGLDLPMKVVDMFGCGLPVCAASFSCIEELVKVNkNGLLFSTSSE
+LADELMMLFKGFPEECDtLKSLKeGALsTGSSSKWSTEWETNALPLVNQVIG
+
+
+BOP CONSENSUS:
+Length: 471 aa
+
+MAeEAGRRKRAAVVVLGDIGRSPRMQYHSLSLANQAGMEVDIVANGGSDPHLSLRENPSI
+HIHEMKSVQLSGISKISGALALLLKAAIQFIMLIWFLCFKIPRPDVFIVQNPPSVPTLAA
+VKLVSWLRGAKFIVDWHNFGYTLLGLSHGRSHVIVKIYFWFEKHFGRMADGAFCVTKAMQ
+HELAQNWGIKATVLYDHSPEFFHPASLTEKHELFCRLGNSICSAMGSADCISVEKEVEDK
+NTTVLTSKIDGGVfLKPNRPALVVSSTSWTPDEDFSILLEAALMYDRRVAATLGEEDSMD
+EGQLWIDIKNGKQFDYPRLLFIITGKGPDRKKYEEQIKRLKLRRVAFRTMWLASEDYPLL
+LGSADLGVSLHTSSSGLDLPMKVVDMFGCGLPVCAASFSCIEELVKVNrNGLLFSTSSEL
+ADELMMLFKGFPEECDTLKSLKDGALSTGSSSKWSTEWETNALPLVNQVIG
+
+
+PACMAD CONSENSUS:
+Length: 472 aa
+
+MAAsAtGRRKRAAVVVLGDIGRSPRMQYHSLSLANQAGMEVDIVANGGSDPHLSLRENPS
+IHIHEMKTVQLTGISKISGALALLLKAAVQFILLVWFLCFKIPRPDVFvVQNPPSVPTLA
+AVKLASWLRGAKFIVDWHNFGYTLLGLSHGRSHIIVKIYFWFEKHFGQMADGAFCVTKAM
+QHELAQNWGIRATVLYDQSPDFFHPASLMEKHGLFSRLGNSICSAMGNADCISVEKEVED
+MNTTVFTSKIDGEvFLKPNRPALVVSSTSWTPDEDFSILLEAALMYDRRVAATLGEDDSM
+DEGQLWIDIKNGKQFVYPRLLFIITGKGPDRKKYEDQIKRLKLRRVAFRTMWLASEDYPL
+LLGSADLGVSLHTSSSGLDLPMKVVDMFGCGLPVCAASFSCIEELVKVNKNGLLFSTSSE
+LADELMMLFKGFPEECNALKSLKEGAMkTASSSKWSTEWETNALPLVNQVIG
+
+================================================================================

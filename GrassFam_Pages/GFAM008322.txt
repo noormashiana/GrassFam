@@ -1,0 +1,128 @@
+================================================================================
+GrassFam ID: GFAM008322
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             460.0 aa
+Family Size (Extended Family Size): 54 (56) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43379:SF3
+Panther Family ID:               PTHR43379
+Modal Panther ID:                PTHR43379:SF3
+Modal Panther Description:       CYS_MET METABOLISM PLP-DEPENDENT ENZYME FAMILY PROTEIN
+Modal Panther Family ID:         PTHR43379
+Modal Panther Fam Desc:          CYSTATHIONINE GAMMA-SYNTHASE
+Interpro Signature Accession:    cd00614; G3DSA:3.40.640.10:FF:000046; G3DSA:3.90.1150.10:FF:000033; G3DSA:3.90.1150.10; G3DSA:3.40.640.10; PTHR43379; PIRSF001434; PF01053; SSF53383
+Interpro Signature Description:  CGS_like; Cystathionine gamma-lyase; Cystathionine gamma-synthase; Aspartate Aminotransferase, domain 1; -; CYSTATHIONINE GAMMA-SYNTHASE; CGS; Cys/Met metabolism PLP-dependent enzyme; PLP-dependent transferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: probable cystathionine gamma-synthase 2
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 7
+  Modal chromosome: Hvu02H
+  Gene Products: cystathionine gamma-synthase 1%2C chloroplastic-like; probable cystathionine gamma-synthase 2
+Ata
+  Gene count: 4
+  Modal chromosome: Ata02D
+  Gene Products: cystathionine gamma-synthase 1%2C chloroplastic-like; probable cystathionine gamma-synthase 2
+Tae
+  Gene count: 14
+  Modal chromosome: Tae02B
+  Gene Products: cystathionine gamma-synthase 1%2C chloroplastic-like; probable cystathionine gamma-synthase 2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 4
+  Modal chromosome: Ogl10
+  Gene Products: cystathionine gamma-synthase 1%2C chloroplastic-like; probable cystathionine gamma-synthase 2
+  Gene Descriptions: cystathionine gamma-synthase 1%2C chloroplastic-like; probable cystathionine gamma-synthase 2
+Osa
+  Gene count: 3
+  Modal chromosome: Osa10
+  Gene Products: probable cystathionine gamma-synthase 2
+  Gene Descriptions: probable cystathionine gamma-synthase 2
+Ecu
+  Gene count: 7
+  Modal chromosome: Ecu01
+Svi
+  Gene count: 2
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi09N
+  Gene Products: cystathionine gamma-synthase 1%2C chloroplastic-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha09
+  Gene Products: cystathionine gamma-synthase 1%2C chloroplastic-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: probable cystathionine gamma-synthase 2
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: probable cystathionine gamma-synthase 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 459 aa
+
+MArSSSLvvnKaSPteQRRLLRpRRSPKRVTAlSPEALLqATLpgAeQqdDaGVvAAATA
+pkRdatlSDETLAVHAGEKmGKnGaadTDSIATPIVSGTTHWFKSSdDLIAFKEGRRHSF
+EYGRYGNPTVKVLEDKISALERAEaTLVTSSGMNAIVATLLALVPPGGHVVTTTECYSEA
+RAFIRDKLSKMGIKVTFVELNDMEtLKAVLDQGDVTLFYTDSPTNPHLKCIDIKLVAELC
+HRKGALVCIDSTLASPINQKPLTLGADIVVHSATKYIAGHHDVIAGCISGSEALISRIRA
+WHHDLGGAISPDAAYMIIRGLKTMALRVETQNRTALRMARLLENHPKIERVYYPGLeSSP
+WHhIAKSQMTGfGGVVSFEVASDLHGVMRFVDALEIPFIATSLGGCESLVQQPAVMSFWG
+QSDEEKAKNGIKDNLVRFSFGIEKFEDLRDDILQALEKI
+
+
+BOP CONSENSUS:
+Length: 460 aa
+
+MARSSSPlVNKASpTEQRRLLRARRSSKRVTALSPEALLdATLPGAEQqdDaGVVAAATA
+PKRDATLSDETLAVHAGEKMGKNGAMDTDSIATPIVSGTTHWFKSSdDLIAFKEGRRHSF
+EYGRYGNPTVKVLEDKISALERAESTLVTSSGMNAIVATLLALVPPGAGHVVTTTECYSE
+ARAFIRDKLSKMGIKVTFVELNDMETLKAVLDQGDVTLFYTDCPTNPHLKCIDIKLVAEL
+CHRKGALVCIDSTLASPINQKPLTLGADIVVHSATKYIAGHHDVIAGCISGSeALISRIR
+AWHHDLGGAISPDAAYMIIRGLKTMALRVETQNRTALRMARLLENHPKIERVYYPGLlSS
+PWHdIAKSQMTGFGGVISFEVASDLHGVMRFIDALEIPFIATSLGGCESLVQQPAVMSFW
+GQSdEEKAKNGIKDNLVRFSFGIEKFEDLRDDILQALEKI
+
+
+PACMAD CONSENSUS:
+Length: 455 aa
+
+MAPSTSLgKISSLPRQQRRLLQPLnSPKHKRVAAspPAsLLQELfgdAQaGEhatpPkPR
+RASDETLAVHAGEKLGKGatGAgTDSIATPIVSGTTHWFKSSEDLIAFKEGRRHSFEYGR
+YSNPTVKVLEDKISALERAEATLVTSSGMNAIVATLLALVPPGGHVVTTTDCYSEARAFI
+RDRLSKMGIRSTFIDLDDMESLkAVLDQNDVTLFYADSPTNPLLKCVDIRLVAELCHRKG
+ALVCIDSTLASPINQKPLTLGADIVLHSATKYMAGHHDVIAGCVSGSEALISKIRAWHHD
+LGGAISPNAAYMIIRGLKTMALRVEAHNRTALqMARMLERHPKIERVHYPGLESSPWHqV
+AKSQMTGYGGVVSFEVKSDLhGTMRFVDALEIPFIATSLGGCESLVQQPAVMSFWGqSDE
+EKAKNGIKDNLVRFSFGIEKFEDLRDDILQALEKI
+
+================================================================================

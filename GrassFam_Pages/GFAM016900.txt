@@ -1,0 +1,142 @@
+================================================================================
+GrassFam ID: GFAM016900
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             610.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47928:SF100
+Panther Family ID:               PTHR47928
+Modal Panther ID:                PTHR47928:SF100
+Modal Panther Description:       PENTATRICOPEPTIDE REPEAT-CONTAINING PROTEIN CHLOROPLASTIC_MITOCHONDRIAL
+Modal Panther Family ID:         PTHR47928
+Modal Panther Fam Desc:          REPEAT-CONTAINING PROTEIN, PUTATIVE-RELATED
+Interpro Signature Accession:    G3DSA:1.25.40.10:FF:000690; G3DSA:1.25.40.10; PTHR47926; PF14432
+Interpro Signature Description:  Pentatricopeptide repeat-containing protein; Tetratricopeptide repeat domain; PENTATRICOPEPTIDE REPEAT-CONTAINING PROTEIN; DYW family of nucleic acid deaminases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: pentatricopeptide repeat-containing protein At5g48910
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: pentatricopeptide repeat-containing protein At5g48910-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: pentatricopeptide repeat-containing protein At5g48910
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: pentatricopeptide repeat-containing protein At5g48910-like; pentatricopeptide repeat-containing protein ELI1%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: pentatricopeptide repeat-containing protein At5g48910-like%2C transcript variant X1
+  Gene Descriptions: pentatricopeptide repeat-containing protein At5g48910-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: pentatricopeptide repeat-containing protein At1g08070%2C chloroplastic%2C transcript variant X1
+  Gene Descriptions: pentatricopeptide repeat-containing protein At1g08070%2C chloroplastic
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 1
+  Modal chromosome: Pau14
+  Gene Products: pentatricopeptide repeat-containing protein At5g48910-like
+  Gene Descriptions: pentatricopeptide repeat-containing protein At5g48910-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi02N
+  Gene Products: pentatricopeptide repeat-containing protein At5g48910-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: pentatricopeptide repeat-containing protein At5g48910-like%2C transcript variant X2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: pentatricopeptide repeat-containing protein At5g48910-like
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: pentatricopeptide repeat-containing protein At5g48910
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 608 aa
+
+MRARGGGAAAaRPEHLAAHARLVKSAdPDAFLVTTVMRGYLRASLPLQALLLLRgLLPRA
+PRLLANSFSLSLALQAcAAaAASvPAtLpLGASLHARALKSGFAAADLFVRTALVEMYAK
+sGRADLARAAFDEAPRRDVFLCNVMLAAYVARGEVAEARKVFDGMRDRDLVSWNTMIHGY
+AVRGEVGMAREIFDGTEDRDAFSWSSMMSAYAKGRRSKEALELWREMRAArVaPDCITMV
+SVLSACSDMGALAVGAEVHQFVESNRVEVDVKLGTALIDMYAKCGDIENSLRVFHSMPVK
+DVLTWSSMIIGLANHGLGHDALSLFSeMiSEGLQPNEITFIGVLIACTHVGLVSDGKKYF
+SSMSeVHGVvPRVEHYGCMVDLLGRSGHVEEARQLIRSMPFEPDAVIWRALLGACRIHKN
+VEVAEEAMAKLRVLDPLADGHYVLLSNIYAQANSWEGVAEMRKTIRRENIQRIPGRSSIE
+WQNTIHEFVSGDRSHPRSEEIYKMLEEMMDRLRQAGYRPMTSLVLQDIDEQSKERALAEH
+SEKLAIAFGLLTTPARSTLRITKNLRACEDCHSAIKLISLVYdRKLIVRDRNRFHHFSEG
+QCSCKDYW
+
+
+BOP CONSENSUS:
+Length: 608 aa
+
+MRARGGAAAAPRPEHLAAHARLVKSADADAFVVSTVMRAYLRASLPLQALLvLRGLLPRA
+PRLLANSFSLSLALQACAAAAASsAAtrpLGASLHARALRSGFAAADLFVRTALVEMYAK
+SGRAeLARAAFDEAPRRDVFLCNVMLAAYVARGEVAEARKVFDGMRdRDLVSWNTMIHGY
+AVRGDVGMAREIFDGTSDRDAFSWSSMISAYAKGRRSKEALELWREMRAAsIAPDCITMV
+SVLSACSDMGALAIGAEVHRFVESNRVEVDMKLGTALVDMYAKCGDIENSLKVFrAMPVK
+DVLTWSSMIIGLANHGLGHDALSLFSEMISEGLQPNEITFVGVLIACTHVGLVSDGKKYF
+SSMtDVHGVVPRVEHYGCMVDLLGRAGHVEEAMQLIRSMPFEPDAIIWRALLGACRIHKN
+VEIAEEAMAKLRVLDPLADGHYVLLSNIYAQANSWEGVAEMRKTIRRENIQRVPGRSSIE
+WENTVHEFVSGDRSHPRIEEIYKMLEEMMDRLrQAGYRPMTSLVLQDIDEQSKKRALAEH
+SEKLAIAFGLLTTPpRSTLRITKNLRACEDCHSAIKLISLVYDRKLIVRDRNRFHHFSEG
+QCSCKDYW
+
+
+PACMAD CONSENSUS:
+Length: 610 aa
+
+MRARGGGAAARPEHLAAHARLVKSACPDAFLVTTAMRGYLRACLPLQALLLLRSLLPRAP
+RLLGNSFSLSLALQAtAAvSGSVPAtLgLGLGAASLHACALKSGFAAADLFVRTALVEAY
+AKAGRADLARAAFDEAPRRDVFLCNVMLAAYVARGEVAEARKVFDGMRDRDLVSWNTMIH
+GYAVkGEVSMAREIFDGMEDRDAFSWSSMMSAYAKGRRSKEALELWREMRAArVnPDCIT
+MVSVLSACGDMGALAVGAEVHQFVESNGVEVDVKLGTALIDMYAKCGDIENSLRVFHSMP
+AKDVLTWSSMIIGLANHGLGHDALSLFSRMtSEGLQPNEITFIGVLIACTHLGLVSDGKK
+YFSSMSVVHGVaPKVEHYGCMVDLLGRSGHIEEARQLIRDMPFEPDAVIWRALLGACRIY
+KNVEVAEEAMAKLRVLDPHADGHYVLLSNIYAQANSWEGVAEMRrTLRRESIQRIPGRSS
+IEWQNTIHEFVSGDRSHPRSKEIYKMLEEMMDRLRQAGYKPMTGLVLQDIDEQSKERALA
+EHSEKLAIAFGLLTTPARSTLRITKNLRACEDCHSAIKLISLvYnRKLIIRDRNRFHHFS
+EGQCSCKDYW
+
+================================================================================

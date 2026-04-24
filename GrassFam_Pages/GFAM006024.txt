@@ -1,0 +1,111 @@
+================================================================================
+GrassFam ID: GFAM006024
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             565.0 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43859:SF12
+Panther Family ID:               PTHR43859
+Modal Panther ID:                PTHR43859:SF12
+Modal Panther Description:       4-COUMARATE--COA LIGASE
+Modal Panther Family ID:         PTHR43859
+Modal Panther Fam Desc:          ACYL-ACTIVATING ENZYME
+Interpro Signature Accession:    cd12118; G3DSA:3.40.50.12780:FF:000003; G3DSA:3.30.300.30:FF:000008; G3DSA:3.30.300.30; G3DSA:3.40.50.12780; NF006020; PTHR43859; PF00501; SSF56801
+Interpro Signature Description:  ttLC_FACS_AEE21_like; Long-chain-fatty-acid--CoA ligase FadD; 2,3-dihydroxybenzoate-AMP ligase; -; acyl-CoA synthetase; ACYL-ACTIVATING ENZYME; AMP-binding enzyme; Acetyl-CoA synthetase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: benzoate--CoA ligase%2C peroxisomal
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 5
+  Modal chromosome: Hvu05H
+  Gene Products: trans-cinnamate:CoA ligase%2C peroxisomal-like; trans-cinnamate:CoA ligase%2C peroxisomal-like%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: trans-cinnamate:CoA ligase%2C peroxisomal
+Tae
+  Gene count: 5
+  Modal chromosome: Tae05B
+  Gene Products: trans-cinnamate:CoA ligase%2C peroxisomal-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: trans-cinnamate:CoA ligase%2C peroxisomal-like
+  Gene Descriptions: trans-cinnamate:CoA ligase%2C peroxisomal-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: trans-cinnamate:CoA ligase%2C peroxisomal
+  Gene Descriptions: trans-cinnamate:CoA ligase%2C peroxisomal
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 565 aa
+
+MDSLPKRDANYVPLSPVTFLPRAAAVYADRTSVVCGgTaFTWRQTHdRClRLAAALQALa
+VSRNDVVSVLAPNTPALYEMHFAVPMAGAViNAINTRLDAAGVAAILRHAaPKLLFVDYQ
+YIRVATDALKSimdsaLPLLVVIDDIDaPTGARVGELEYEQLVARGDPARHPPReVvDEW
+DAVALNYTSGTTSAPKGVVYSHRGAYLSTVGLLLQWGVGHEPVYLWSLPMFHCNGWTFTW
+GVAARGGANVCVRAPTADAMYSAIADHGVTHMCAAPVLFNVLLDAhREPLPRAVEVLTGG
+APPPAALLERVERLGFHVTHAYGMTEATGPAMVCEWRERWDALPAPERAaLKARQGVSAL
+SLAGADVKDLKTMaSVPRDGATLGEIVLRGSSVMKGYYKNPEATdAAFRGGWFLTGDVGV
+VHPDGYVEIKDRSKDVIISGGENISSVEVEAALYGHPAVqEAAVVAMPHPHWGETPCAFV
+ALKKEFDSGAGEVSEEElVSFCRSKMAHFMVPRKVVFVDELPKNATGKVQKLALRERARG
+LRPRASDKKkPDPTRPaTLTAlSRL
+
+
+BOP CONSENSUS:
+Length: 565 aa
+
+MDSLPKRDANYVPLSPVTFLPRAAAVYADRTSVVCGGTaFTWRQTHDRClRLSAALQALg
+VsRNDVVSVLAPNTPALYEMHFAVPMAGAVINAINTRLDAAGVAAILRHAAPKLLFVDYQ
+YIRVATDALKSImdsaLPLLVVIDDIDAPTGARVGELEYEqLVARGDPARHPPReVvDEW
+DAVALNYTSGTTSAPKGVVYSHRGAYLSTVGLLLQWGVGHEPVYLWSLPMFHCNGWTFTW
+GVAARGGANVCVRAPTADAMYSAIADHGVTHMCVAPVLFNVLLDAhREPLPRAVEVLTGG
+APPPAALLERVERLGFHVTHAYGMTEATGPAMVCEWRERWDALPAPERAALKARQGVSAL
+SLAGADVKDLKTMaSVPRDGtTLGEIVLRGSSVMKGYYKNPEATdAAFRGGWFLTGDVGV
+VHPDGYVEIKDRSKDVIISGGENISSVEVEAALYGHPAVrEAAVVAMPHPHWGETPCAFV
+ALKKEFDSGAGEVSEEELVsFCRSKMAHFMVPRKVVFVDELPKNATGKVQKLALRERARG
+LRPRASDKKkPdPTRPaTLTALSRL
+
+
+PACMAD CONSENSUS:
+Length: 484 aa
+
+MDGSSLPKRDANFVPLSPITFLPRAASAYADRTSIVYGSISFTWRQTYQRCCRLAAAIQQ
+LAVSRNDVVSVLAPNTPALYEMHFTVPMAGAVLNAINTRLDAPNVAAIIKHAEPKVLFVD
+YQYITVATKALQQSVSMDMGDHRRTMPLLVVIDDIEKRTGVTVPAPSGEGDGHHQLPVLE
+YEQMVARGDTARHPPRPVEDKWDTVALNYTSGTTSAPRGSSVYLWSLPMFHCNGWMLTWG
+MAACGGANVYIREPTAEAMYAAFATHGVTHMCAAPVCEWRHQWDALPPSERARLKADADV
+IKDLKTMQSVPRDGATLGEIVLRGSNVMMGYLKDPGATEAAFRGMWFLTGDVGVIHPDGY
+VEIKYRSKDVIISGGENISSVEVEATLYQHPAVQEAAVVAMPHPHWGETPCAFVALKREF
+KVTKEEEILSFGRNKLPHFMAPRMVIFVDSLPKNSTGKVQKVELRQRAQRLTKTPTTAAV
+SSRL
+
+================================================================================

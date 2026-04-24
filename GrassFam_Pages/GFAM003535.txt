@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM003535
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             367.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13994:SF29
+Panther Family ID:               PTHR13994
+Modal Panther ID:                PTHR13994:SF29
+Modal Panther Description:       NUDIX HYDROLASE 2
+Modal Panther Family ID:         PTHR13994
+Modal Panther Fam Desc:          NUDIX HYDROLASE RELATED
+Interpro Signature Accession:    cd04670; G3DSA:3.90.79.10:FF:000015; G3DSA:3.40.630.30:FF:000016; G3DSA:3.40.630.30; G3DSA:3.90.79.10; PTHR13994; PF18290; SSF55811
+Interpro Signature Description:  NUDIX_ASFGF2_Nudt6; Nudix hydrolase 8; nudix hydrolase 2; -; Nucleoside Triphosphate Pyrophosphohydrolase; NUDIX HYDROLASE RELATED; Nudix hydrolase domain; Nudix
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: nudix hydrolase 2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu06H
+  Gene Products: nudix hydrolase 2-like; nudix hydrolase 2-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: nudix hydrolase 2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: nudix hydrolase 2-like; nudix hydrolase 2-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: nudix hydrolase 2
+  Gene Descriptions: nudix hydrolase 2
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: nudix hydrolase 2%2C transcript variant X1
+  Gene Descriptions: nudix hydrolase 2
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: nudix hydrolase 2-like; nudix hydrolase 2-like%2C transcript variant X1
+  Gene Descriptions: nudix hydrolase 2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi04K
+  Gene Products: nudix hydrolase 2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: nudix hydrolase 2-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: nudix hydrolase 2%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma06
+  Gene Products: nudix hydrolase 2; uncharacterized LOC100192595%2C transcript variant X1
+  Gene Synonyms: GRMZM2G101693; cl11332_1,GRMZM2G162605
+  Gene Descriptions: nudix hydrolase 2; uncharacterized LOC100192595
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 363 aa
+
+MAAHSLSLSLPITSRAPLALRRLLLPRRlaArsaAPRGLplcsAPPRPRrAlLGpGGAGR
+RqRGGLGSRAMSSSTNSTVAAESAvAEnSGDVEpLPFVNDKHGGVIIEMTTPMDPQVFSA
+SLKAALSKWREQGIRGVWIKLPIsLSNLIQPAVEEGFWYHHAEETYLMLAYWLPNTTHTL
+PVNATHRVGVGAFVMNDKREVLAVQEKSGVLRGLGVWKFPTGVVEPGEDINiGAVREVKE
+ETGIDAEFVEVLAFRQSHKAFFDKSDLFFVCLLRPLSFDITKQDSEIEACQWMPVEEFAA
+QPFVQKHELVKYILEVGLAKVDKEYAGFSPISIKSAFTDKlSLFYMNRRDLDKASGSsin
+TQK
+
+
+BOP CONSENSUS:
+Length: 363 aa
+
+MAAHSLSipLPTRAPLLRLLLRRRGLAhSAAPprLPVCSAPPRhRRgALFLGPGGAGrRq
+RSGVGSRTMSASIYSTvVDAESAMTkNGGDVELLPFVNDKHGGVIIEMTtPMDPQvFSAS
+LKSLLSKWREQGIRGVWIKLPISLANLIQSAVEEGFWYHHAEETYLMLAYWLPNTTHTLP
+VNATHRVGVGAFVMNDKREVLVVQEKSGVLRGLGIWKFPTGVVEPGEDINIGVVREVKEE
+TGVDTEFVEVLAFRQSHKAYFEKSDLFFVCILRPLSFDITKQESEIEDAQWMPVEEFAAQ
+PFVQKHELVKYILEVGLAKvDKEYAGFSPISIKSAFTDKQSLFYMNRRDLEKASGSINTQ
+KDS
+
+
+PACMAD CONSENSUS:
+Length: 371 aa
+
+MAAHSLSLSLPIITRSRVPLALRRLLLPHRRvAArdQAhRGLASAAsSSRARPLGLGGRP
+PRPRAALLGyGGAGRRrsGGLGrRAMSSSTNSTVAAELSVAErSGnVEPLPFVNDKHGGV
+IIEMTTPMDPGVFSASLKAALAKWREQGIRGVWIKLPITLSNLIPPVVEEGFWYHHAEET
+YLMLAYWLPNTTHTLPVNATHRVGVGAFIMNDKREVLAVQEKSGVLRGLGVWKFPTGVVE
+PGEDINVGAVREVKEETGIDAEFVEVLAFRQSHKSFFDKSDLFFVCLLRPLSYDITKQDS
+EIEACQWMPVEEFAAQPFVQKHELVKYILEVGLAKVDKEYAGFSPISIKSAFTDKLSLFY
+MNRRDLDRASG
+
+================================================================================

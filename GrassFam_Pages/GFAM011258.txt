@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM011258
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             381.0 aa
+Family Size (Extended Family Size): 25 (27) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22854:SF14
+Panther Family ID:               PTHR22854
+Modal Panther ID:                PTHR22854:SF14
+Modal Panther Description:       INDOLE-3-GLYCEROL-PHOSPHATE SYNTHASE
+Modal Panther Family ID:         PTHR22854
+Modal Panther Fam Desc:          TRYPTOPHAN BIOSYNTHESIS PROTEIN
+Interpro Signature Accession:    cd00331; G3DSA:3.20.20.70:FF:000146; G3DSA:3.20.20.70; NF001372; NF001377; PTHR22854; PF00218; SSF51366
+Interpro Signature Description:  IGPS; Indole-3-glycerol phosphate synthase chloroplastic; Aldolase class I; indole-3-glycerol phosphate synthase TrpC; TRYPTOPHAN BIOSYNTHESIS PROTEIN; Indole-3-glycerol phosphate synthase; Ribulose-phoshate binding barrel
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: indole-3-glycerol phosphate synthase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: indole-3-glycerol phosphate synthase%2C chloroplastic-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: indole-3-glycerol phosphate synthase%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: indole-3-glycerol phosphate synthase%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: uncharacterized LOC127783659%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127783659
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: uncharacterized protein%2C transcript variant X2
+  Gene Descriptions: uncharacterized LOC4346529
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: uncharacterized LOC133897566; uncharacterized LOC133902483
+  Gene Descriptions: uncharacterized LOC133897566; uncharacterized LOC133902483
+Svi
+  Gene count: 2
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi02N
+  Gene Products: indole-3-glycerol phosphate synthase-like; indole-3-glycerol phosphate synthase-like%2C transcript variant X1
+Pha
+  Gene count: 2
+  Modal chromosome: Pha02
+  Gene Products: indole-3-glycerol phosphate synthase%2C chloroplastic-like; indole-3-glycerol phosphate synthase-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: indole-3-glycerol phosphate synthase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: indole-3-glycerol phosphate synthase
+  Gene Synonyms: GRMZM2G106950
+  Gene Descriptions: indole-3-glycerol phosphate synthase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 380 aa
+
+MESLLAAAsASvPAAvFSPsSSSSSSsPsvLRtaVaGgARAVRCaAAKdSILYALEHDEM
+FNSaEVIQWESGKSINSIAAAQGIRIRRRCRPRYPSEGsGADRAVPRNILEQIIWDKEVE
+VSQRKAKKPLkkVvESAeHAPPPRDFvGALtAArRRNGVPALIAEVKKASPSRGVLREhF
+NPVEIAQAYEKNGAACLSILTDEKHFQGSFENLETVRNSGVnCPLLCKEFVIDIWQIYYA
+RSKGADAILLIAAVLPDLDIKYMLRVCKSLGMTALIEVHDERELDRVLKIDGVELIGINN
+RSLETFEVDTANTnMLLEKRGDIIrkKGIlVVGESGLFTPDDVAYVQNAGVSAVLVGESL
+iTQEDPGRAIAGLFGKELLh
+
+
+BOP CONSENSUS:
+Length: 377 aa
+
+MESLLAAAPFHVAAFSSvSSPSsHSPSVLRSvRGGGRAVRCAAAKEAILYALEHDEMFNS
+EEVIQWESGKTINSIAAAQGIRIRRRCRPRYPSEGSGDDKAVPRNILEQIVWDKEVEVSQ
+RKAKKPLKSVVESSEHAPPARDFIGALTAAHRRNGVPALIAEVKKASPSRGVLRENFNPV
+EIAQAYEKNGAACLSILTDEKHFQGSFENLETVRNSGVQCPLLCKEFVIDIWQIYYARSK
+GADAILLIAAVLPDLDMKYMLRICKNLGMTALIEVHDERELDRVLRIDGVELIGINNRSL
+ETFVVDTSNTRMLMEKRGDIIREKGILVVGESGLFTPDDVAYVQSAGVSAVLVGESLIKE
+EDPGRAIAGLFGKELLS
+
+
+PACMAD CONSENSUS:
+Length: 383 aa
+
+MESSILAAASVvRASVPATVFSPsSSSSsPaLRTgspAARAVRCrAassSsAAvLYaLEg
+DEMFNSAEVIQWESGKSiNAIAAAQGIRIRRRCRPRYPSEGvGADRAVPRNVLEQIIWDK
+EVEVSQRKAKaPLqkVmESAqRAPPPRDFvGALrAARRRNGVPALIAEVKKASPSRGLLR
+DHFNPVEIAHAYEKNGAACLSILTDEKHFQGSFENLETVRNSGVNCPLLCKEFVIDIWQI
+YYARSKGADAILLIAAVLPDLDIKYMLRVCRSLGMTALVEVHDERELDRVLKIDGVQLIG
+INNRSLGTFEVDTANTNMLLEKRGDIIrKKgImVVSESGLFTPDDVAYVQNAGVsAVLVG
+ESLVTQEDPGRAIAGLFGKELLh
+
+================================================================================

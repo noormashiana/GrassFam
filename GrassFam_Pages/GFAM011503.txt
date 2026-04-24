@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM011503
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             356.0 aa
+Family Size (Extended Family Size): 49 (54) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43128:SF14
+Panther Family ID:               PTHR43128
+Modal Panther ID:                PTHR43128:SF14
+Modal Panther Description:       L-LACTATE DEHYDROGENASE
+Modal Panther Family ID:         PTHR43128
+Modal Panther Fam Desc:          L-2-HYDROXYCARBOXYLATE DEHYDROGENASE (NAD(P)(+))
+Interpro Signature Accession:    cd05293; G3DSA:3.40.50.720:FF:000018; G3DSA:3.90.110.10; G3DSA:3.40.50.720; TIGR01771; PTHR43128; PIRSF000102; PR00086; PF00056; PF02866; SSF51735; SSF56327
+Interpro Signature Description:  LDH_1; Malate dehydrogenase; -; L-lactate dehydrogenase; L-2-HYDROXYCARBOXYLATE DEHYDROGENASE (NAD(P)(+)); Lac_mal_DH; L-lactate dehydrogenase signature; lactate/malate dehydrogenase, NAD binding domain; lactate/malate dehydrogenase, alpha/beta C-terminal domain; NAD(P)-binding Rossmann-fold domains; LDH C-terminal domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: L-lactate dehydrogenase B
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu02H
+  Gene Products: L-lactate dehydrogenase A; L-lactate dehydrogenase B; L-lactate dehydrogenase B-like
+Ata
+  Gene count: 3
+  Modal chromosome: Ata02D
+  Gene Products: L-lactate dehydrogenase A; L-lactate dehydrogenase B; L-lactate dehydrogenase B-like
+Tae
+  Gene count: 10
+  Modal chromosome: Tae07B
+  Gene Products: L-lactate dehydrogenase A-like; L-lactate dehydrogenase B; L-lactate dehydrogenase B-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl02
+  Gene Products: L-lactate dehydrogenase A-like; L-lactate dehydrogenase B-like
+  Gene Descriptions: L-lactate dehydrogenase A-like; L-lactate dehydrogenase B-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa02
+  Gene Products: L-lactate dehydrogenase A; L-lactate dehydrogenase B
+  Gene Descriptions: L-lactate dehydrogenase A; L-lactate dehydrogenase B
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 4
+  Modal chromosome: Pau05
+  Gene Products: L-lactate dehydrogenase A-like; L-lactate dehydrogenase-like
+  Gene Descriptions: L-lactate dehydrogenase A-like; L-lactate dehydrogenase-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi01K
+  Gene Products: L-lactate dehydrogenase A-like; L-lactate dehydrogenase-like
+Pha
+  Gene count: 3
+  Modal chromosome: Pha01
+  Gene Products: L-lactate dehydrogenase A-like; L-lactate dehydrogenase-like
+Msi
+  Gene count: 6
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi04
+  Gene Products: L-lactate dehydrogenase; L-lactate dehydrogenase B
+Zma
+  Gene count: 2
+  Modal chromosome: Zma05
+  Gene Products: Lactate/malate dehydrogenase family protein; lactate dehydrogenase1
+  Gene Synonyms: GRMZM2G173192; cl2158_1,GRMZM2G128929,LDH
+  Gene Descriptions: Lactate/malate dehydrogenase family protein; lactate dehydrogenase1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 354 aa
+
+MKKASSLSELGFDAnGASSGFFRPVADGggsTPTSHRRRLTKVSVIGAGNVGMAIAQTIL
+TRDLADEIALVDALPDKLRGEMLDLQHAAAFLPRTRLVSDTDlAVTRGSDLAIVTAGARQ
+IPGETRLNLLQRNVALFRKIVPALAEHSPDALLLIVSNPVDVLTYVAWKLSGFPVSRVIG
+SGTNLDSSRFRFLLAEHLDVNAQDVQAYMVGEHGDSSVAVWSSVSVAGMPVLKSLQESHS
+SFDEEALEGIRRAVVDSAYEVISLKGYTSWAIGYSVANLVASLLRDQRRIHPVSVLArGF
+HGIPDDHEVFLSLPARLGRAGVLGVADMELTEEEARRLRRSAKTLWENCQLLGL
+
+
+BOP CONSENSUS:
+Length: 392 aa
+
+MSHKTTIDHFHFHFQERSTSPLAFHPVSEGGRSRSRSRDMKKASSLSELGFDAEGASSGF
+FRPVADGGSTPTSHRRRLTKISVIGAGNVGMAIAQTILTRDMADEIALVDAVPDKLRGEM
+LDLQHAAAFLPRVRLVSDTDLAVTRGSDLAIVTAGARQIPGESRLNLLQRNVALFRKIVP
+ALAEHSPEALLLIVSNPVDVLTYVAWKLSGFPASRVIGSGTNLDSSRFRFLLAEHLQVNA
+QDVQAYMVGEHGDSSVAIWSSMSVAGMPVLKSLRESHQSFDEEALEGIRRAVVDSAYEVI
+SLKGYTSWAIGYSVASLAASLLRDQHRIHPVSVLASGFHGIPQDHEVFLSLPARLGRAGV
+LGVAEMELTEEEARRLRRSAKTLWENCQLLDL
+
+
+PACMAD CONSENSUS:
+Length: 354 aa
+
+MKKASSLSELGFDAnGASSGFFRPVaDGgdsTPTSHRRRLTKVSVIGAGNVGMAIAQTIL
+TRDLADEIALVDALPDKLRGEMLDLQHAAAFLPRTRLVSDTDmAVTRGSDLAIVTAGARQ
+IPGETRLNLLQRNVALFRKIVPALAEHSPDALLLIVSNPVDVLTYVAWKLSGFPVSRVIG
+SGTNLDSSRFRFLLAEHLDVNAQDVQAYMVGEHGDSSVAVWSTVSVAGMPVLKSLQESHS
+SFDEEALEGIRRAVVDSAYEVISLKGYTSWAIGYSVANLVASLLRDQRRIHPVSVLArGF
+HGIPDDHEVFLSLPARLGRGGVLGVADMELTEEEARRLRRSAKTLWENCQLLGL
+
+================================================================================

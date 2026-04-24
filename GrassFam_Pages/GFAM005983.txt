@@ -1,0 +1,126 @@
+================================================================================
+GrassFam ID: GFAM005983
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             318.0 aa
+Family Size (Extended Family Size): 26 (27) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR42760:SF93
+Panther Family ID:               PTHR42760
+Modal Panther ID:                PTHR42760:SF93
+Modal Panther Description:       3-OXOACYL-[ACYL-CARRIER-PROTEIN] REDUCTASE
+Modal Panther Family ID:         PTHR42760
+Modal Panther Fam Desc:          SHORT-CHAIN DEHYDROGENASES/REDUCTASES FAMILY MEMBER
+Interpro Signature Accession:    cd05333; G3DSA:3.40.50.720:FF:000194; G3DSA:3.40.50.720; NF009466; TIGR01830; NF005559; PTHR42879; PR00081; PF00106; SSF51735
+Interpro Signature Description:  BKR_SDR_c; 3-oxoacyl-[acyl-carrier-protein] reductase, chloroplastic; -; 3-oxoacyl-ACP reductase FabG; 3-oxoacyl-[acyl-carrier-protein] reductase; glucose 1-dehydrogenase; 3-OXOACYL-(ACYL-CARRIER-PROTEIN) REDUCTASE; Glucose/ribitol dehydrogenase family signature; short chain dehydrogenase; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: 3-oxoacyl-[acyl-carrier-protein] reductase 4
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: 3-oxoacyl-[acyl-carrier-protein] reductase 4-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata02D
+  Gene Products: 3-oxoacyl-[acyl-carrier-protein] reductase 4; 3-oxoacyl-[acyl-carrier-protein] reductase 4-like
+Tae
+  Gene count: 4
+  Modal chromosome: Tae02A
+  Gene Products: 3-oxoacyl-[acyl-carrier-protein] reductase 4-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl02
+  Gene Products: 3-oxoacyl-[acyl-carrier-protein] reductase 4-like
+  Gene Descriptions: 3-oxoacyl-[acyl-carrier-protein] reductase 4-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa02
+  Gene Products: 3-oxoacyl-[acyl-carrier-protein] reductase 4
+  Gene Descriptions: 3-oxoacyl-[acyl-carrier-protein] reductase 4
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: 3-oxoacyl-[acyl-carrier-protein] reductase 4-like
+  Gene Descriptions: 3-oxoacyl-[acyl-carrier-protein] reductase 4-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: 3-oxoacyl-[acyl-carrier-protein] reductase 4-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: 3-oxoacyl-[acyl-carrier-protein] reductase 4-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: 3-oxoacyl-[acyl-carrier-protein] reductase 4
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: 3-oxoacyl-[acyl-carrier-protein] reductase 4-like; uncharacterized LOC100273168
+  Gene Synonyms: GRMZM2G351023; fab1,GRMZM2G099696,uaz99
+  Gene Descriptions: 3-oxoacyl-[acyl-carrier-protein] reductase 4-like; uncharacterized LOC100273168
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 315 aa
+
+tAAAAAAAAAVSSPAAprArAAaAAARRGFVTFGGAAARSPALRSGRGfSGVRTHVAAVE
+QAVVKDATKLEAPVVVVTGASRGIGKATALALGKAGCKVLVNYARSSKEAEeVSKEIEAS
+GGEAITFGGDVSKEADVESMMKAALDKWGTIDVLVNNAGITRDTLLMRMKKSQWQDVIDL
+NLTGVFLCTQAATKVMMKKKKGRIINIASVVGLTGNVGQANYSAAKAGVIGFTKTVAREY
+ASRNINVNAIAPGFIASDMTAELGEELEKKILSTIPLGRYGQPEEVAGLVEFLALNPAAS
+YITGQVLTIDGGMVM
+
+
+BOP CONSENSUS:
+Length: 323 aa
+
+MAAAATAAAVSSPAVTAPLPRAASAAARRGFVSFGGAAARPSALRSDRLRAAAaGFSSGV
+RTHVAAVEQAVVQDATKLEAPVVVVTGASRGIGKAvALALGKAGCKVLVNYARSSKEAEA
+VSkEIEASGGQAITFGGDVSKEADVESMMKAALDKWGTIDILVNNAGITRDTLLMRMKKS
+QWQDVIDLNLTGVFLCTQAATKVMMKKKKGRVINIASVVGLTGNAGQANYSAAKAGVIGF
+TKTVAREYASRNINVNAIAPGFIASDMTAELGEELEKRILSTIPLGRYGQPEEVAGLVEF
+LALNPAASYITGQVLTIDGGMVM
+
+
+PACMAD CONSENSUS:
+Length: 316 aa
+
+MaAAAAAAAAAVSSPAAPRAGAAAASRRGFVTFGGGAARSSPALRSGRGFSGVRTHVAAV
+EQAVVKDATKLEAPVVVVTGASRGIGKATALALGKAGCKVLVNYARSSKEAEDVSKEIEA
+SGGEAITFGGDVSKEADVESMMKAALDKWGTIDVLVNNAGITRDTLLMRMKKSQWQDVID
+LNLTGVFLCTQAATKVMMKKKKGRIINIASVVGLTGNVGQANYSAAKAGVIGFTKTVARE
+YASRNINVNAIAPGFIASDMTAELGEELEKKILSTIPLGRYGQPEEVAGLVEFLALNPAA
+SYITGQVLTIDGGMVM
+
+================================================================================

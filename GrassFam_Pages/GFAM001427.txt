@@ -1,0 +1,128 @@
+================================================================================
+GrassFam ID: GFAM001427
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             436.0 aa
+Family Size (Extended Family Size): 28 (28) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11662:SF445
+Panther Family ID:               PTHR11662
+Modal Panther ID:                PTHR11662:SF445
+Modal Panther Description:       MAJOR FACILITATOR SUPERFAMILY (MFS) PROFILE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR11662
+Modal Panther Fam Desc:          SOLUTE CARRIER FAMILY 17
+Interpro Signature Accession:    cd17380; G3DSA:1.20.1250.20:FF:000199; G3DSA:1.20.1250.20:FF:000220; G3DSA:1.20.1250.20; PTHR11662; PF07690; SSF103473
+Interpro Signature Description:  MFS_SLC17A9_like; Probable anion transporter 7; MFS general substrate transporter like domains; SOLUTE CARRIER FAMILY 17; Major Facilitator Superfamily; MFS general substrate transporter
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi03
+  Gene Products: probable anion transporter 7%2C transcript variant X1; probable anion transporter 7%2C transcript variant X2
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu01H
+  Gene Products: probable anion transporter 7%2C transcript variant X1; probable anion transporter 7%2C transcript variant X2
+Ata
+  Gene count: 2
+  Modal chromosome: Ata01D
+  Gene Products: probable anion transporter 7; probable anion transporter 7%2C transcript variant X1
+Tae
+  Gene count: 4
+  Modal chromosome: Tae01D
+  Gene Products: probable anion transporter 7; probable anion transporter 7%2C transcript variant X1
+Ola
+  Gene count: 2
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl11
+  Gene Products: probable anion transporter 6; probable anion transporter 7%2C transcript variant X2
+  Gene Descriptions: probable anion transporter 6; probable anion transporter 7
+Osa
+  Gene count: 2
+  Modal chromosome: Osa11
+  Gene Products: probable anion transporter 6; probable anion transporter 7%2C transcript variant X1
+Pau
+  Gene count: 3
+  Modal chromosome: Pau03
+  Gene Products: probable anion transporter 7; probable anion transporter 7%2C transcript variant X1; probable anion transporter 7%2C transcript variant X2
+  Gene Descriptions: probable anion transporter 7
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: probable anion transporter 7%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: probable anion transporter 7
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: probable anion transporter 7%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: inorganic phosphate cotransporter%2C transcript variant X1; putative anion transporter 5
+  Gene Synonyms: GRMZM2G017047; GRMZM2G048363
+  Gene Descriptions: inorganic phosphate cotransporter; putative anion transporter 5
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 436 aa
+
+MvRMKFPKRYVIVLLTFICTNVCYIERVGFSIAYTVAADAIGVNQANKGMILSMFYYGYV
+LSQIPGGWAAQRIGGRRVLLLSFvLWSLICGLIPLDPNRVVILVLSRLFVGVAQGFIFPA
+IHTVLAQWVPPQERSRSVSLTTSGMYLGAACGMLFFPSLVKHMGPQSVFFVEAVLGVAWS
+VIWLKFSSEPPRTDLPKVSMPKVASREKIKAQAGGVVAPRTVKIPWRRIIFSLPVWAIVV
+NNFTFHYALYVLMNWLPTYFELGLKLSLQDMGSSKMLPYFNMFIFSNIGGVVADHLITRR
+ILSVTKTRKLLNTIGFVVSAVALMALPLFsTPSGTVICSSISLGFLALGRAGFAVNHMDV
+APKFAGIVMGVSNTAGTLAGIVGVGLTGNILEAAKASNMDLTnSETWKTVFFVPAYLCIF
+SSVIFLIFSTGEKIFE
+
+
+BOP CONSENSUS:
+Length: 436 aa
+
+MARMKIPKRYVIVLLTFICTNVCYIERVGFSIAYTVAADAINVNQANKGLILSMFYYGYV
+LSQIPGGWAAQRLGGRRVLLLSFLLWSLICGLIPLDPNRvVILVLSRLFVGVAQGFIFPA
+IHTVLAQWVPPQERSRSVSLTTSGMYLGAACGMLFFPSLVKHMGPQSVCLVEAVLGVAWS
+VIWLKFSSEPPRTDLPKVAMPKVASREKIKAQSvGVVAPRTVKIPWRRIIFSLPVWAIVV
+NNFTFHYALYVIMNWLPTYFELALKLSLQDMGSSKMLPYFNMFIFSNIGGVVADHLITKR
+ILSVTKTRKLLNTIGFVVSAVALMALPSFGTPSGTVICSSVSLGFLALGRAGFAVNHMDV
+APKFAGIVMGVSNTAGTLAGIVGVGLTGNILEAAKASNMDLTNSETWKTVFFVPAYLCIF
+SSVIFLIFSTGEKIFE
+
+
+PACMAD CONSENSUS:
+Length: 436 aa
+
+MVRMRFPKRYVIVLLTFICTNVCYIERVGFSIAYTVAADAIGVNQANKGMILSMFYYGYV
+LSQIPGGWAAQRIGGRRVLLLSFVLWSMICGLIPLDPNRVTILVLSRLFVGVAQGFIFPA
+IHTVLAQWVPPQERSRSVSLTTSGMYLGAACGMLFFPSLVKHMGPQSVFFVEAVLGVAWS
+VIWLKFSSDPPRTDLPKVSMPKVASRDMIKAQAGGVVAPRTVKIPWRRIIFSLPVWAIVV
+NNFTFHYALYVLMNWLPTYFELGLKLSLQDMGSSKMLPYFNMFIFSNIGGVVADHLITRR
+ILSVTKTRKLLNTIGFVVSAFALMALPLFSTPSGTVMCSAISLGFLALGRAGFAVNHMDV
+APKFAGIVMGVSNTAGTLAGIVGVGLTGNILEAAKASNKDLTDSETWKTVFFVPAYLCIF
+SSVIFLIFSTGEKIFE
+
+================================================================================

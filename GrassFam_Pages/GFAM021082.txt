@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM021082
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             436.5 aa
+Family Size (Extended Family Size): 24 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31503:SF54
+Panther Family ID:               PTHR31503
+Modal Panther ID:                PTHR31503:SF54
+Modal Panther Description:       VACUOLAR CATION_PROTON EXCHANGER
+Modal Panther Family ID:         PTHR31503
+Modal Panther Fam Desc:          VACUOLAR CALCIUM ION TRANSPORTER
+Interpro Signature Accession:    G3DSA:1.20.1420.30:FF:000012; G3DSA:1.20.1420.30:FF:000008; TIGR00378; TIGR00846; PTHR31503
+Interpro Signature Description:  Vacuolar cation/proton exchanger; calcium/proton exchanger; VACUOLAR CALCIUM ION TRANSPORTER
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: vacuolar cation/proton exchanger 2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: vacuolar cation/proton exchanger 2%2C transcript variant X3
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: vacuolar cation/proton exchanger 2%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: vacuolar cation/proton exchanger 2%2C transcript variant X1; vacuolar cation/proton exchanger 2-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: vacuolar cation/proton exchanger 2%2C transcript variant X2
+  Gene Descriptions: vacuolar cation/proton exchanger 2
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: vacuolar cation/proton exchanger 2-like%2C transcript variant 2
+  Gene Synonyms: CAX2,OsCAX2
+  Gene Descriptions: vacuolar cation/proton exchanger 2-like
+Ecu
+  Gene count: 3
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: vacuolar cation/proton exchanger 2%2C transcript variant X3; vacuolar cation/proton exchanger 2-like%2C transcript variant X3
+  Gene Descriptions: vacuolar cation/proton exchanger 2; vacuolar cation/proton exchanger 2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: vacuolar cation/proton exchanger 2%2C transcript variant X1; vacuolar cation/proton exchanger 2-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: vacuolar cation/proton exchanger 2%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: vacuolar cation/proton exchanger 2%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100286108%2C transcript variant X1; vacuolar cation/proton exchanger 2%2C transcript variant X2
+  Gene Synonyms: GRMZM2G053004,pco137126
+  Gene Descriptions: uncharacterized LOC100286108
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 436 aa
+
+MMGAEKaaLGFEAEGDELELASPAGSPaPaRKMQSLDFEHIGSLAAVAESLSPGSKWRRA
+LTSVRVVIFQAKINVLLPFGPLAIMLHYLSGkHQGWVFLFSLIGITPLAERLGYATEQLA
+CYTGPTVGGLLNATFGNATEMIISIYALKNGMIRVVQQSLLGSILSNMLLVLGCAFFAGG
+LVHSDRDQVFNKASAVVNSGLLLMAVLGLMFPAVLHFTHSEAQYGKSEVALSRFSSCIML
+VAYASYLFFQLKSHRSmYSPIGeEEEATEDEEDEKEITQGEAICWLFVLTIWISILSGYL
+VDAIQGASESLNLPVAFISVILLPIVGNAAEHASAIMFAMKNKLDITLGVAIGSSTQISM
+FVIPFCVVIGWMMGQEMDLNFQLFETATLFITVLVVAFMLQEGTSNYFKGLMLILCYLIV
+AASFFVHVDPDATDNn
+
+
+BOP CONSENSUS:
+Length: 433 aa
+
+MMGAADKAELGFEEEDDMAAGTPPPARKMQSLDFEHIGSLAAVAESLSPRSKWRMALRSI
+RIVIFQAKINVLLPFGPLAITLHYLSGNHQGWVFLFSLVGITPLAERLGYATEQLACYTG
+PTIGGLLNATFGNATEMIISIYALKNGMIRVVQQSLLGSILSNMLLVLGCAFFAGGLAHP
+NRDQVFNKASAVVNSGLLLMAVLGLMFPAVLHFTHSEAHYGKSEVSLSRFSSCIMLVAYA
+SYLFFQLKSQRSLYSPIGEEEESTEDEEDEKEITQGEAISWLFVLTIWISILSGYLVDAI
+QGASESLNMPLAFISVILLPIVGNAAEHASAIMFAMKNKLDITLGVAIGSSTQISMFVIP
+FCVVIGWMMGEEMDLNFQLFETATLFITVLVVAFMLQEGTSNYFKGLMLILCYLIVAASF
+FVHVDPKSTGDNK
+
+
+PACMAD CONSENSUS:
+Length: 436 aa
+
+MMgAEKPALGFQAEGDELELASPAGSPAPPPRKMHSLDFEHIGSLAAVAESLSPGSRWRR
+ALTSVRVVIFQAKINVLLPFGPLAIMLHYLSGKHQGWVFLFSLIGITPLAERLGYATEQL
+ACYTGPTVGGLLNATFGNATEMIISIYALKNGMIRVVQQSLLGSILSNMLLVLGCAFFAG
+GLVHSDRDQVFNKASAVVNSGLLLMAVLGLMFPAVLHFTHSEAQYGKSEVALSRFSSCIM
+LVAYASYLFFQLKSHRSMYSPIGDEEEAtEDEEDEKEITQwEAICWLFILTIWISVLSGY
+LVDAIQGASESLNLPVAFISVILLPIVGNAAEHASAIMFAMKNKLDITLGVAIGSSTQIS
+MFVIPFCVVIGWMMGQEMDLNFQLFETATLFITVLVVAFMLQEGTSNYFKGLMLILCYLI
+VAASFFVHVDPDAten
+
+================================================================================

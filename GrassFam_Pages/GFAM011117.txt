@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM011117
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             385.0 aa
+Family Size (Extended Family Size): 25 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43070:SF3
+Panther Family ID:               PTHR43070
+Modal Panther ID:                PTHR43070:SF3
+Modal Panther Description:       HOMOSERINE DEHYDROGENASE
+Modal Panther Family ID:         PTHR43070
+Modal Panther Fam Desc:          FAMILY NOT NAMED
+Interpro Signature Accession:    G3DSA:3.40.50.720:FF:000393; G3DSA:3.30.360.10:FF:000006; G3DSA:3.40.50.720; G3DSA:3.30.360.10; PTHR43070; PIRSF036497; PF00742; SSF55347
+Interpro Signature Description:  Homoserine dehydrogenase; Bifunctional aspartokinase/homoserine dehydrogenase; -; Dihydrodipicolinate Reductase; domain 2; HDH_short; Glyceraldehyde-3-phosphate dehydrogenase-like, C-terminal domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: bifunctional aspartokinase/homoserine dehydrogenase 1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: bifunctional aspartokinase/homoserine dehydrogenase 1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: bifunctional aspartokinase/homoserine dehydrogenase 1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: bifunctional aspartokinase/homoserine dehydrogenase 1-like; homoserine dehydrogenase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl11
+  Gene Products: uncharacterized LOC127753776%2C transcript variant X1; uncharacterized LOC127756491%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127753776; uncharacterized LOC127756491
+Osa
+  Gene count: 2
+  Modal chromosome: Osa11
+  Gene Products: homoserine dehydrogenase; uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: homoserine dehydrogenase; uncharacterized LOC4351381
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 1
+  Modal chromosome: Pau22
+  Gene Products: uncharacterized LOC133904419
+  Gene Descriptions: uncharacterized LOC133904419
+Svi
+  Gene count: 2
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi03N
+  Gene Products: bifunctional aspartokinase/homoserine dehydrogenase-like; homoserine dehydrogenase-like%2C transcript variant X1
+Pha
+  Gene count: 2
+  Modal chromosome: Pha03
+  Gene Products: homoserine dehydrogenase-like%2C transcript variant X1
+Msi
+  Gene count: 1
+  Modal chromosome: Msi15
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: bifunctional aspartokinase/homoserine dehydrogenase 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: bifunctional aspartokinase/homoserine dehydrogenase
+  Gene Synonyms: GRMZM2G151977
+  Gene Descriptions: bifunctional aspartokinase/homoserine dehydrogenase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 384 aa
+
+MPAPVKSVLPVVLLGCGGVGRHLLRHIVSCRPLHANQGVAIRVVGVADSSSLLVADDVHS
+SGLDDALLTdLCAAKSAGSPLSSLLgRGHCQLFnNPEARgKVIDAATmLGRTTGLVLVDC
+SATYDTVGLLKDAVDHGCCVVLANKKPLTGAYEDFqKLVSNFRRIRFESTVGAGLPVIAS
+VTRIIASGDPVSRIVGSLSGTLGYVMSELEDGKrFSEVVKTAKSLGYTEPDPRDDLGGMD
+VARKALILARLLGQQISMENINVESLYPSELGPDAMSTkDFLESGLVQLDKSMEERVKAA
+SLRGNVLRYVCEIGSTGCQVGLkELPKDSALGRLRGSDNVVEIYSRCYESSPLVIQGAGA
+GNDTTAAGVLADIiDLQDLFQKTA
+
+
+BOP CONSENSUS:
+Length: 385 aa
+
+MPQAQARSVLPVVLLGCGGVGRHLLRHIVSCRPLHANQGVAIRVVGVADSSSLLVADDLR
+AsGLDDALLaDLCAAKSAGSPLSSLLARGHCQLFNKPEAMGKVIDAATMLGRTTGLVLVD
+CSATYDTVGvLKDAVDHGCCVVLANKKPLTCAYEDFEKLTSNFRQIRFESTVGAGLPVIA
+SVTRIIASGDPVSRIVGSLSGTLGYVMSELEDGKrFSEVVKTAKSLGYTEPDPRDDLSGM
+DVARKALILARLLGQQISMENINVESLYPSELGPEVMSTtDFLESGLvQLDESIEERVKA
+ASLRGNVLRYVCVIESTGCQVGLQEVPKDSALGRLRGSDNVVEIYSRCYESSPLVIQGAG
+AGNDTTAAGVLADIIDLQDLFQkrA
+
+
+PACMAD CONSENSUS:
+Length: 384 aa
+
+MPTPVKSVLPVVLLGCGGVGRYLLRHIVSCRPLHANQGVAIRVVGVADSSSLLVADDVHS
+SGLDDALLThLCAAKSAGSPLSSLLGQGhCQLFkNPEARsKVIDAATTLGRTTGLVLVDC
+SATYDTVSLLKDAVDHGCCIVLANKKPLTGAYEDFQKLVSNFRRIRFESTVGAGLPVIAS
+VTRIIASGDPISRIVGSLSGTLGYVMSELEDGKKFSEVVKTAKSLGYTEPDPRDDLGGMD
+VARKALILARLLGQQISMDNINVESLYPSELGPDAVSTEDFLESGLVQLDKSMEERVKAA
+SSRGNVLRYVCEIGStGCQVGLKELPKDSALGRLRGSDNVVEIYSRCYESSPLVIQGAGA
+GNDTTAAGVLADImDLQDLFQKTA
+
+================================================================================

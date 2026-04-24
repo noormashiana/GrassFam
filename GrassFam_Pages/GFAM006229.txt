@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM006229
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             471.0 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24286:SF10
+Panther Family ID:               PTHR24286
+Modal Panther ID:                PTHR24286:SF10
+Modal Panther Description:       ABSCISIC ACID 8'-HYDROXYLASE 1
+Modal Panther Family ID:         PTHR24286
+Modal Panther Fam Desc:          CYTOCHROME P450 26
+Interpro Signature Accession:    cd11043; G3DSA:1.10.630.10:FF:000014; G3DSA:1.10.630.10; PTHR24286; PF00067; SSF48264
+Interpro Signature Description:  CYP90-like; Abscisic acid 8; Cytochrome P450; CYTOCHROME P450 26
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: abscisic acid 8'-hydroxylase 1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: abscisic acid 8'-hydroxylase 1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: abscisic acid 8'-hydroxylase 1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: abscisic acid 8'-hydroxylase 1; abscisic acid 8'-hydroxylase 1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: abscisic acid 8'-hydroxylase 1
+  Gene Descriptions: abscisic acid 8'-hydroxylase 1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: abscisic acid 8'-hydroxylase 1-like
+  Gene Synonyms: ABA8OX1,CYP707A5,OJ1218_D07.28,OsABA8ox1,OsJ_007800
+  Gene Descriptions: abscisic acid 8'-hydroxylase 1-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: abscisic acid 8'-hydroxylase 1; abscisic acid 8'-hydroxylase 1-like
+  Gene Descriptions: abscisic acid 8'-hydroxylase 1; abscisic acid 8'-hydroxylase 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: abscisic acid 8'-hydroxylase 1; abscisic acid 8'-hydroxylase 1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: abscisic acid 8'-hydroxylase 1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: abscisic acid 8'-hydroxylase 1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma04
+  Gene Products: putative cytochrome P450 superfamily protein; uncharacterized LOC100274595
+  Gene Synonyms: GRMZM2G126505,umc1299; GRMZM2G179147
+  Gene Descriptions: putative cytochrome P450 superfamily protein; uncharacterized LOC100274595
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 469 aa
+
+MGAFLLFVCLLAPFVLACAVRGRRRRAgAsSasACGKALPLPPGSMGWPYVGETFQLYSS
+KNPNVFFARKQNRYGPIFKTHILGCPCVMVSSPEAARFVLVTQAHLFKPTFPASKERMLG
+PQAIFFQQGDYHAHLRRLVSRAFSPEAIRASVPAIEAIALRSLrSWDGqLVNTFQEMKTY
+ALNVALLSIFGEEEMRYIEELKQCYLTLEKGYNSMPVNLPGTLFHKAMKARKRLGAIVAH
+IISARRERQRGSDLLASFLDgREALTDAQIADNVIGVIFAARDTTASVLTWMVKFLGDHP
+AVLKAVIEEQeEIARSKgSSGEPLTWADTRRMRMTSRVIQETMRVASILSFTFREAVEDV
+EYQGYLIPKGWKVLPLFRNIHHSPDHFPCPEKFDPSRFEVAPKPNTFMPFGNGTHSCPGN
+ELAKLEMLVLFHHLATKYRWSTSKSESGVQFGPFALPLNGLPMTFTRKD
+
+
+BOP CONSENSUS:
+Length: 476 aa
+
+MGAFILFLCLLVPFVLACAVRARKGaAGRSSSGGGKKGsSSLPLPPGSMGWPYVGETTQL
+YSSKNPNVFFARKRNKYGPIFKTHILGCPCVMVSSPEAAKFVLVTQAHLFKPTFPASKER
+MLGPQAIFFQQGDYHAHLRRLVSRAFSPEAIRGSVPAIEAIALRSLgSWDGLqVNTFQEM
+KTYALNVALLSIFGEEEMQYIEELKQCYLTLEKGYNSMPVNLPGTLFHKAMKARKRLGAI
+VAHIISARRERERGSDLLGSFMDGREALTDDQIADNAIGVIFAARDTTASVLTWMVKFLG
+DNPAVLKAVTEEHAEIAREKELSGEPLSWADTRRMRMTGRVIQETMRVASILSFTFREAV
+EDVEYQGYLIPKGWKVLPLFRNIHHNPDHFPCPEKFDPSRFEVAPKPNTFMPFGNGTHSC
+PGNELAKLEMLVLCHHLATKYRWSTSKSESGVQFGPFALPINGLPMTFTRKdDkKA
+
+
+PACMAD CONSENSUS:
+Length: 468 aa
+
+MGALLLFVCLLAPFVLACAVRGRRRRAaAPSACGKALPLPPGSMGWPYVGETFQLYSSKN
+PNVFFARKQNRYGPIFKTHILGCPCVMVSSPEAARFVLVTQAHLFKPTFPASKERMLGPQ
+AIFFQQGDYHAHLRRLVSRAFSPEAIRASVPAIEAIALRSLRSWDGQLVNTFQEMKLYAL
+NVALLSIFGEEEMRYIEELKQCYLTLEKGYNSMPVNLPGTLFHKAMKARKRLGAIVAHII
+SARRERRQRGSDLLASFLDDREALTDAQIADNVIGVIFAARDTTASVLTWMVKFLGDHPS
+VLKAVIEEQQEIARSKGSSDEPLTWADTRRMRMTSRVIQETMRVASILSFTFREAVEDVE
+YQGYLIPKGWKVLPLFRNIHHSPDHFPCPEKFDPSRFEVAPKPNTFMPFGNGTHSCPGNE
+LAKLEMLVLFHHLATKYRWSTSKSESGVQFGPFALPLNGLPMTFTRKD
+
+================================================================================

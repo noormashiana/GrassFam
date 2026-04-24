@@ -1,0 +1,127 @@
+================================================================================
+GrassFam ID: GFAM005472
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             292.0 aa
+Family Size (Extended Family Size): 31 (34) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR21227:SF3
+Panther Family ID:               PTHR21227
+Modal Panther ID:                PTHR21227:SF3
+Modal Panther Description:       TRNA-INTRON LYASE
+Modal Panther Family ID:         PTHR21227
+Modal Panther Fam Desc:          TRNA-SPLICING ENDONUCLEASE SUBUNIT SEN2
+Interpro Signature Accession:    cd22363; G3DSA:3.40.1350.10:FF:000005; G3DSA:3.40.1350.10; PTHR21227
+Interpro Signature Description:  tRNA-intron_lyase_C; tRNA-splicing endonuclease subunit Sen2-1; -; TRNA-SPLICING ENDONUCLEASE SUBUNIT SEN2
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: probable tRNA-splicing endonuclease subunit Sen2%2C transcript variant X1
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu03H
+  Gene Products: probable tRNA-splicing endonuclease subunit Sen2
+Ata
+  Gene count: 2
+  Modal chromosome: Ata03D
+  Gene Products: probable tRNA-splicing endonuclease subunit Sen2
+Tae
+  Gene count: 6
+  Modal chromosome: Tae03A
+  Gene Products: probable tRNA-splicing endonuclease subunit Sen2; probable tRNA-splicing endonuclease subunit Sen2%2C transcript variant X5
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl06
+  Gene Products: probable tRNA-splicing endonuclease subunit Sen2; probable tRNA-splicing endonuclease subunit Sen2%2C transcript variant X2
+  Gene Descriptions: probable tRNA-splicing endonuclease subunit Sen2
+Osa
+  Gene count: 2
+  Modal chromosome: Osa06
+  Gene Products: probable tRNA-splicing endonuclease subunit Sen2; probable tRNA-splicing endonuclease subunit Sen2%2C transcript variant X1
+  Gene Descriptions: probable tRNA-splicing endonuclease subunit Sen2
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 3
+  Modal chromosome: Pau08
+  Gene Products: probable tRNA-splicing endonuclease subunit Sen2; probable tRNA-splicing endonuclease subunit Sen2%2C transcript variant X1
+  Gene Descriptions: probable tRNA-splicing endonuclease subunit Sen2
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: probable tRNA-splicing endonuclease subunit Sen2; probable tRNA-splicing endonuclease subunit Sen2%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: probable tRNA-splicing endonuclease subunit Sen2%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: probable tRNA-splicing endonuclease subunit Sen2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: tRNA-splicing endonuclease subunit Sen2%2C transcript variant X1
+  Gene Synonyms: GRMZM2G036991
+  Gene Descriptions: tRNA-splicing endonuclease subunit Sen2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 290 aa
+
+MDLPGPRWKKGKDGKDFAALAAANPMSSIVAELQASLkgSKlVATLSsrGGDAiLGVnPq
+QAaLLNRAAFGRAVENAGAEKQWFQLGPEEVFYLCHALKCIaVESEnKKqMSEGELWDHL
+CSASESFPEMYKAYSHLRSKNWVVRSGLQYGADFVAYRHHPALVHSEFAVVVVPEGkeFG
+gRCGRLKVWSDLLCALRASGSVAKTLLVLTISSssCELsSPDCLEQLVVHERTITRWIPQ
+QCREQRCEPCREEAnkEEQdHTREtVVFNYWGVILGFTVLSSLLVYKLKF
+
+
+BOP CONSENSUS:
+Length: 292 aa
+
+MDMsGPRWKKGKDGKDFAALAAAqPMSSIVAELQSSLKGSKLVATLSsrGGDAvLGVNPQ
+QAvLLNRAAFGRALENAGAEKQWFQLGAEEVFYLCHALkCIvVESesKKlMSEGELWDHL
+CSASESFPEMYKAYSHLRSKNWVVRSGLQYGADFVAYRHHPALVHSEFAVVVVPEGaEFG
+GRCGRLKVWSDLLCALRASGSVAKTLLVLTISSSvCELSSPDCLEQLVVHERTITRWIAQ
+QCREQRCEPsREEANKEEQDHtRETVVFNYWGVILGFTVLSSLLVYKLRFRQ
+
+
+PACMAD CONSENSUS:
+Length: 304 aa
+
+MDLPGPRWKKGKDGKDFAALAAANPMSsIVAELQASLRDSEAVAILSgdGrDAILaVGph
+QAaLLNRAAFGRAVEnAGeErQWFQLGPEEVFFLCHALKCITVESENKKrMGEgELWDLL
+aSTSEpFPEMYKAYEHLRLKNWVVRSGLQYGADFVAYRHHPALVHSEFAVIVVPEGKaFG
+TRCGRMKVWSDLLCALRASGSVAKTLLVLTISTrSCELGSlDCLEQLIVHERTITRWIPQ
+QCREQQDKPRREEtNRDEQRQKqCREEASrEEQEHTREGVVFSYWGVILSFTILSSLLVY
+KLKF
+
+================================================================================

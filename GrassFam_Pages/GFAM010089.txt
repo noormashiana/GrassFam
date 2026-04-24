@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM010089
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             439.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31585:SF2
+Panther Family ID:               PTHR31585
+Modal Panther ID:                PTHR31585:SF2
+Modal Panther Description:       FOLATE-BIOPTERIN TRANSPORTER 7-RELATED
+Modal Panther Family ID:         PTHR31585
+Modal Panther Fam Desc:          FOLATE-BIOPTERIN TRANSPORTER 1, CHLOROPLASTIC
+Interpro Signature Accession:    TIGR00788; PTHR31585; PF03092; SSF103473
+Interpro Signature Description:  folate/biopterin family MFS transporter; FOLATE-BIOPTERIN TRANSPORTER 1, CHLOROPLASTIC; BT1 family; MFS general substrate transporter
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: probable folate-biopterin transporter 7
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: probable folate-biopterin transporter 7
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: probable folate-biopterin transporter 7
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: probable folate-biopterin transporter 7
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: probable folate-biopterin transporter 7%2C transcript variant X1
+  Gene Descriptions: probable folate-biopterin transporter 7
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: probable folate-biopterin transporter 7%2C transcript variant X1
+  Gene Descriptions: probable folate-biopterin transporter 7
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau11
+  Gene Products: probable folate-biopterin transporter 7
+  Gene Descriptions: probable folate-biopterin transporter 7
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi03K
+  Gene Products: probable folate-biopterin transporter 7; probable folate-biopterin transporter 7%2C transcript variant X1; probable folate-biopterin transporter 7%2C transcript variant X4
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: probable folate-biopterin transporter 7
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: probable folate-biopterin transporter 7
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: transporter%2C folate-biopterin transporter%2C transcript variant X1
+  Gene Synonyms: GRMZM2G053921
+  Gene Descriptions: transporter%2C folate-biopterin transporter
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 439 aa
+
+MEKEQKvEGERAAAAArRRWVIGVGFWVQGFRLFPWLGVNFFLKDGMGVAASSLQILQAS
+ANLPMVAKPLLGLLSDAVPIRGHRRLPYVAIGALLQAISWLAIALWPsISLPVLTIFLLL
+SNFGASICEVANDAIVAEAGKQATSSSGSGQLQSFAWMFGSSAGALGNLLGGIALSYFSP
+KIMFLFFAILLVLQFFTTVAIPESSLKLPKAATNLSAlSSIRKQvKELSCALCMPEIFWS
+IIWFSVSYAVIPFLLGTMFFYQTEVLRLDSSVIGLSKVFGQVALLAWSMAYNKYFKTMSA
+RKVLSVLQFiTALVMLSDVLFVQGVYRKVGIPDSIYTIVFSGLLEGLMFFKVLPFSVLIA
+KLCPSGCEGSVMAFVMSALALATIISGYLGVALAEFMGVSGDDFSALPaCLLIEAACTML
+PLCCSSLIKERREKEKKEE
+
+
+BOP CONSENSUS:
+Length: 438 aa
+
+MEKEQKVEGERAAAAATQRWVIGVGFWVQGFRLFPWLGVNFFLKDGMGVPSSSLQILQAS
+ATLPMVAKPLLGLLSDAVPIRGCRRLPYVAIGALLQAVSWLGIALWPSLSLPVLTIFLLL
+SNFGASICEVANDAIVAEAGKQATSSSGGQLQSFACMFGSSAGALGNLLGGIALSYFSPK
+LMFLFFAILLVLQFFTTVAIPESSLKLPKAtTNTSVISSIRKQTKELSYALCMPEIFWSI
+IWFSVSYAAIPFLLGTMFFYQTEVLRLDSSIIGLSKVFGQVALLAWSMAYNKCFKTTSAR
+KVLSALQFITAVVMLSDVLFVQGVYRKVGIPDSlYTIVFSGLLEGLMFFKVLPFSVLIAs
+LCPSGCEGSVMAFVMSALALSTIISGYLGVALAEFMGVSGDDFSALPVCLLIEAACTMLP
+LFCSSWIKERKGKEKKEE
+
+
+PACMAD CONSENSUS:
+Length: 439 aa
+
+MEKEEKQEvEGAAAAARRRLVIGVGFWVQGFRLFPWLGVNFFLKDGMGVAASSLQILQAS
+ANLPMVAKPLLGLLSDAVPIRGHRRLPYVAIGALLQAISWLAIALWPAISLPVLTIFLLL
+SNFGASICEVANDAIVAEAGKQvTSSSGSGQLQSFAWMFGSSAGALGNLLGGIALSYFSP
+KIMFLFFAILLLLQFFTTVAIPESSLKLPKAATNLSALTSIRKQVKELSCALCMPEMFWS
+IIWFTVSYAVIPFLLGTMFFYQTEVLRLDSSVIGLSKVFGQVALLAWSMSYNKYFKTMSA
+RKVLSVLQFVTALVMLSDVLFVQGIYRKIGIPDSIYTIVFSGLLEGLMFFKVLPFSVHIA
+KLCPAGCEGSVMAFVMSALALATIVSGYLGVALAAFMGVSGDDFSALPACLLIEAACTML
+PLCCSSLIKERREKEKKEE
+
+================================================================================

@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM020814
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             457.0 aa
+Family Size (Extended Family Size): 23 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11003:SF282
+Panther Family ID:               PTHR11003
+Modal Panther ID:                PTHR11003:SF282
+Modal Panther Description:       TWO-PORE POTASSIUM CHANNEL 3
+Modal Panther Family ID:         PTHR11003
+Modal Panther Fam Desc:          POTASSIUM CHANNEL, SUBFAMILY K
+Interpro Signature Accession:    G3DSA:1.10.287.70:FF:000150; G3DSA:1.10.287.70:FF:000102; PTHR11003
+Interpro Signature Description:  Two pore potassium channel c; Two-pore potassium channel 3; POTASSIUM CHANNEL, SUBFAMILY K
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: two pore potassium channel c
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu05H
+  Gene Products: two pore potassium channel c-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: two pore potassium channel c
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: two pore potassium channel c-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: two pore potassium channel c
+  Gene Descriptions: two pore potassium channel c
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: two pore potassium channel c
+  Gene Synonyms: KCO3,OsJ_28764,OsKCO3,TPKC
+  Gene Descriptions: two pore potassium channel c
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: two pore potassium channel c-like; two pore potassium channel c-like%2C transcript variant X1
+  Gene Descriptions: two pore potassium channel c-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi02K
+  Gene Products: two pore potassium channel c-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: two pore potassium channel c-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: two pore potassium channel c%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: two pore potassium channel c; two pore potassium channel c%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 455 aa
+
+MDTEPLLPTHLLHPLPEHSeVShFSPPPSPCPSPASSYKDRIIFGAHpPPPPPPPPPPPP
+PphrAHyRRiSVDGFrDLDLPSCSSSPPSPPSDPEDPSSAPgaPSLFdFIAGGRTNLHRS
+RTAPAMAPLSAAALAAAAAAGDQPPPPPRRPAIVLHAFLFLLAYLALGVTFYAAAPANFT
+SSAGPTHPVADALYFCIVTLCTIGYGDITPATPAAKLFSISFVLVGFGFVDILLSGMVSY
+VLDLQEHLLITALKNPRSARKHRHNYIFDIKKGRMRIRMKVALALGVVAICVGVGAAVLR
+KVESLGWLDAVYLAVMSVTTVGYGDHAFRTLaGRLFASAWLLVSTLAVARAFLYLAEMRI
+DKRHRAMANWVLSRDMTVSEFLAADIDNNGYVTKSEFVVYKLKEMGKISEKDIMMICDQF
+QRLDTGNCGKITLSDLLESHHLVaEPRDKKKGKKS
+
+
+BOP CONSENSUS:
+Length: 457 aa
+
+MDTEPLLPTTAPQPLHPLPEHAtVSNFDLAPPsSPCPSPASSYKDRLIFGPHdPPPPPPP
+PPPPPspRHYRRISVGHADPFRDYDHPSCSSSPPSDEEgQPQPTTPSLFNLISGRTNLHR
+SRTAPAMAPLSAAVLAASAqADHQNPPPPPRRPAIVLHAFLFLLAYLALGVTFYAAFPAN
+FTSSAGPTHPVVDALYFCIVTLCTIGYGDITPASPAAKLFAISFVLIGFGFVDILLSGMV
+SYVLDLQEHLLITAIKNPRSARKHRHNYIFDIKKGRMRVRMKVALALGVVAICVGVGATV
+LRKVENMGWLDAVYLAVMSVTTVGYGDHAFRTLqGRLFASAWLLVSTLAVARAFLYLAEM
+RIDKRHRAMANWVLSRDMTVSEFLAADIDNNGYVTKSEFVVYKLKEMGKISDKDIKMIVE
+QFQRLDSGNCGKITLSDLLQSHHLGHEPRDMKRGKNS
+
+
+PACMAD CONSENSUS:
+Length: 460 aa
+
+MDTEPLLPTHLLHSLPEHSEVSHFSpPPSPCPSPASSYKDRIIFGAHPPPPPPPPPPPPP
+PHrAHrRRsSVDGLhDLDLPSCSSSPPSPPSDPEDPSSASAGGGAPSLFDFIAvAAGART
+NLHRSRTAPAMAPLSAAALAAAAAAGDQpPAPPKRPAIVLHAFLFLLAYLALGVTFYAAA
+PANFTSSAGPTHPVADALYFCIVTLCTIGYGDITPATPAAKLFSISFVLVGFGFVDILLS
+GMVSYVLDLQEHLLITALKNPTSARKHRHNYIFDVKKGRMRIRMKVALALGVVAvCVGVG
+AAVLRKVESLGWLDAVYLAVMSVTTVGYGDQAFRTLAGRLFASAWLLVSTLAVARAFLYL
+AEMRIDKRHRAMANWVLSRDMTVSEFLAADIDNNGYVTKSEFVVYKLKEMGKISEKDIMM
+ICDQFQRLDTGNCGKITLSDLLESHHLVaEPRDKKKGKKS
+
+================================================================================

@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM019349
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             407.0 aa
+Family Size (Extended Family Size): 19 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22807:SF16
+Panther Family ID:               PTHR22807
+Modal Panther ID:                PTHR22807:SF16
+Modal Panther Description:       SAM-DEPENDENT MTASE RSMB_NOP-TYPE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR22807
+Modal Panther Fam Desc:          NOP2 YEAST -RELATED NOL1/NOP2/FMU SUN  DOMAIN-CONTAINING
+Interpro Signature Accession:    G3DSA:3.40.50.150; PTHR22807; PR02010; SSF53335
+Interpro Signature Description:  Vaccinia Virus protein VP39; NOP2 YEAST -RELATED NOL1/NOP2/FMU SUN  DOMAIN-CONTAINING; RNA (C5-cytosine) methyltransferase subfamily 9 signature; S-adenosyl-L-methionine-dependent methyltransferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: uncharacterized LOC100835950
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: ribosomal RNA small subunit methyltransferase B%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: ribosomal RNA small subunit methyltransferase B%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: rRNA (cytosine-C(5))-methyltransferase NOP2C-like%2C transcript variant X1; ribosomal RNA small subunit methyltransferase B-like; ribosomal RNA small subunit methyltransferase B-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: uncharacterized LOC127764397%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127764397
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: rRNA (cytosine-C(5))-methyltransferase NOP2C%2C transcript variant X1
+  Gene Descriptions: rRNA (cytosine-C(5))-methyltransferase NOP2C
+Pau
+  Gene count: 1
+  Modal chromosome: Pau18
+  Gene Products: rRNA (cytosine-C(5))-methyltransferase NOP2C-like%2C transcript variant X1
+  Gene Descriptions: rRNA (cytosine-C(5))-methyltransferase NOP2C-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: ribosomal RNA small subunit methyltransferase B%2C transcript variant X1; uncharacterized LOC120677645
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: multisite-specific tRNA:(cytosine-C(5))-methyltransferase trm4b
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: uncharacterized LOC8074085%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: NOL1/NOP2/sun family protein%2C transcript variant X6
+  Gene Synonyms: GRMZM5G845163
+  Gene Descriptions: NOL1/NOP2/sun family protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 405 aa
+
+MDSpEgSvSDRrEEqqpASLPLPAAFLEFLsENGLDPAlYSmADTIPRYIRLKPGMESqI
+aEIEsELKCdLeKVSWLPDFYAIPPEIQIAGSKAYQQGKIYGIDAASGAAILALDVQPGD
+HVLDLCAAPGAKLCMLADMLGSTGSLTGVDVAKHRLAACRTMLQKYSLGDRtRLFVADGT
+SFSILPVNSNLGsMEGSIGiEDNGSTFSEWTSKRSWKDRQKSKKANAAGSPHLlSTSEPE
+LIYYGKHSGLVGLrKsDVLCPSvDDEACTSGYDKVLVDAECTHDGSIKHIQKFEFWGWKT
+LDRRVLDAERTDNLLHLQLgLLTNGFKLLKTGGSLVYSTCSLTVAQNENVVQQFLSKHPS
+AELQKIDlADSWPCRSGGIPKTLRFDPATSQTSGLFVAKFsKLPT
+
+
+BOP CONSENSUS:
+Length: 404 aa
+
+MDSSEIPPSDRREEQPpASLPLPAAFLEFLGENGLDPmLYSKADTIPRYIRLKPGtESsV
+VTEIESELKCDLmKVSWLPDFYAIPPEIQIAGSKAYQQGKIYGIDAASGAAILALDVQPG
+DHVLDLCAAPGAKLCMLADMLGSTGSLTGVDVAKHRLAACRTMLQKYSLGDRSRLFVADG
+TSFSILPVNSNLGSMEASVGIEDNGSIFSEWTSKRSWKDRQKSKKAKAAGSPHPPSTSEP
+ELIYYGKDSGLVGLQKRYVLHPSTDAAACTSGYDKVLVDAECTHDGSIKHIQKFEFWGWK
+TLDRRVLNVERTGNLLHLQLGLLTNGFKLLKTGGSLVYSTCSLTVAQNENVVQQFLSKHP
+SAELLKIDPADSWPCRSGSIQKTLRFDPATSQTSGLFVAKFVKL
+
+
+PACMAD CONSENSUS:
+Length: 408 aa
+
+MEEpDCPEGSVPERGGErQtASLPLPPAFLEFLSENGLDPAVYSMAATIPRYIRLKPGME
+SQIAEIEGELKCGLEKVSWLPGFYAIPPEIQIAGSKAYQQGKIYGIDAASGAAILALDVR
+PGDHVLDLCAAPGAKLCMLADMLGSTGSLTGVDVAKHRLSACRTMLQKYSLGDRTRLFVA
+DGTLFSILPVNSNLRRMEGSIGLEENGSTFSEWTSRRSWKDRQKTKKANATGSQHLLAtS
+EPELIYYGKHSGLVGLRKSDVLCPSVDDEACTSGYDKVLVDAECTHDGSIKHIQKFEFWG
+WKTLDRRVLDAERTDNLLQLQLHLLTNGFKLLKTGGSLVYSTCSLTVAQNENVVQQFLST
+QPSADLQKIDLADnWPCRSGGIPKTLRFDPATSQTSGLFVAKFSKLPT
+
+================================================================================

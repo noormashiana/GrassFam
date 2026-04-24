@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM014955
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             360.5 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12210:SF111
+Panther Family ID:               PTHR12210
+Modal Panther ID:                PTHR12210:SF111
+Modal Panther Description:       OS05G0513200 PROTEIN
+Modal Panther Family ID:         PTHR12210
+Modal Panther Fam Desc:          DULLARD PROTEIN PHOSPHATASE
+Interpro Signature Accession:    cd07521; G3DSA:3.40.50.1000:FF:000019; G3DSA:3.40.50.1000; PTHR12210; PF03031; SM00577; SSF56784
+Interpro Signature Description:  HAD_FCP1-like; Mitochondrial import inner membrane translocase subunit TIM50; -; DULLARD PROTEIN PHOSPHATASE; NLI interacting factor-like phosphatase; forpap2; HAD-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: mitochondrial import inner membrane translocase subunit TIM50
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: mitochondrial import inner membrane translocase subunit TIM50-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: mitochondrial import inner membrane translocase subunit TIM50
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: mitochondrial import inner membrane translocase subunit TIM50-like%2C transcript variant X1; mitochondrial import inner membrane translocase subunit TIM50-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: mitochondrial import inner membrane translocase subunit TIM50-like
+  Gene Descriptions: mitochondrial import inner membrane translocase subunit TIM50-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: mitochondrial import inner membrane translocase subunit TIM50
+  Gene Descriptions: mitochondrial import inner membrane translocase subunit TIM50
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau02
+  Gene Products: mitochondrial import inner membrane translocase subunit TIM50-like%2C transcript variant X1
+  Gene Descriptions: mitochondrial import inner membrane translocase subunit TIM50-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: mitochondrial import inner membrane translocase subunit TIM50-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: mitochondrial import inner membrane translocase subunit TIM50
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: mitochondrial import inner membrane translocase subunit TIM50
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: uncharacterized LOC100274327
+  Gene Synonyms: GRMZM5G896568,pco077290a
+  Gene Descriptions: uncharacterized LOC100274327
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 359 aa
+
+MSRVARSRLLPRISALSFSTASPAAAAASSsSseAaAAAAAAaASEaSSaAGDPSSqPPP
+aARKPWGlLKaAaFAAVsAAvGATGYVSYAYSLDEVDQMTREFRKNSKqPIPEDlSGFEK
+FQAMAYSAAMKVPVAAIELYLDVRSQIEDQIRGFSEPvSDKLLPDLpPQEQHVFTLVLDL
+NETLVYSDWKRERGWRTFKRPGVDAFLEHLGKFYEIVVYSDQLSMYVDPVVDRLDPKGnV
+RHRLSRVATKYENGKHYRDLSKLNRNPAQVIYISGHALESCLQPENCVpIKPWKLEnDDT
+QLLDLIPFLEYVAMARPSDIRAVLASYQGRDIAAEFIERSKEHQRRMQEQKqQGRIWRR
+
+
+BOP CONSENSUS:
+Length: 357 aa
+
+MSrIARSRLALTLRsSAAPFSTiSPAAAASlASKEAPAAADASsAPKeAAAAGDPSPAPP
+SGARSsFGLLKAGIlTAVTAALGATGYVTYAYSLDEVDQMTREFRKNSKlPISEDLSGFE
+KFKAMAYSETMKVPAAAIDLYLDVRSQIEDQIQGFVEPSSEKLLPDLPPQEQHVFTIVLD
+LNETLVYSDWKRERGWRTFKRPGVDAFLEHLAKFYEVVVYSDQLSMYVDPVMERLDaKGC
+VRHRLSRVATKYVNGKHYRDLSKLNRDPARVIYISGHALESCLQPENCLPIKPWKLEAED
+TQLIDLIPLLEYVAtARVSDIRPVLASFEGRDIAAEFIERSRRvqEQKqQHGRIWRR
+
+
+PACMAD CONSENSUS:
+Length: 359 aa
+
+MSRVAsSRLLPRISALSFCTASPAAAAASSSSSTAAAAAAAAAASEASSTAGDPSSQPPP
+AARKPWGALKFAAFAAVSAAVGGTGYVSYAYSLEEVDQMTRELRKKSKhPIPEDASGFEK
+FQAMAYSAAMKVPVAAIEvYLDVRSQIEDQIRGFSEPVSDKLLPDLaPQEQHVLTLVLDL
+NETLVYSDWKRERGWRTFKRPGVDAFLEHLGKFYEIVVYSDQLSMYVDPVVDRLDPKGNI
+RHRLSRVATKYENGKHYRDLSKLNRNPAQVLYISAHALESSLQPENSVqIKPWKLENDDT
+QLLDLIPFLEYVAMARPSDIRAVLASYQGsDIAAEFIERSKEHQRRMQEQKkSGRIWRR
+
+================================================================================

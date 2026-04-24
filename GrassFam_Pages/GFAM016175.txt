@@ -1,0 +1,131 @@
+================================================================================
+GrassFam ID: GFAM016175
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             379.0 aa
+Family Size (Extended Family Size): 35 (37) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23024:SF358
+Panther Family ID:               PTHR23024
+Modal Panther ID:                PTHR23024:SF358
+Modal Panther Description:       OS09G0460300 PROTEIN
+Modal Panther Family ID:         PTHR23024
+Modal Panther Fam Desc:          ARYLACETAMIDE DEACETYLASE
+Interpro Signature Accession:    G3DSA:3.40.50.1820; PTHR23024; PF07859; SSF53474
+Interpro Signature Description:  alpha/beta hydrolase; ARYLACETAMIDE DEACETYLASE; alpha/beta hydrolase fold; alpha/beta-Hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: probable carboxylesterase 12
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu05H
+  Gene Products: 2-hydroxyisoflavanone dehydratase-like; probable carboxylesterase 2; tuliposide A-converting enzyme 2%2C chloroplastic-like
+Ata
+  Gene count: 3
+  Modal chromosome: Ata05D
+  Gene Products: 2-hydroxyisoflavanone dehydratase; 2-hydroxyisoflavanone dehydratase-like; probable carboxylesterase 2
+Tae
+  Gene count: 9
+  Modal chromosome: Tae05A
+  Gene Products: 2-hydroxyisoflavanone dehydratase-like; probable carboxylesterase 2; tuliposide A-converting enzyme 2%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl09
+  Gene Products: 2-hydroxyisoflavanone dehydratase-like; tuliposide A-converting enzyme b1%2C amyloplastic-like
+  Gene Descriptions: 2-hydroxyisoflavanone dehydratase-like; tuliposide A-converting enzyme b1%2C amyloplastic-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa09
+  Gene Products: 2-hydroxyisoflavanone dehydratase; tuliposide A-converting enzyme b1%2C amyloplastic
+  Gene Descriptions: 2-hydroxyisoflavanone dehydratase; tuliposide A-converting enzyme b1%2C amyloplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau20
+  Gene Products: 2-hydroxyisoflavanone dehydratase-like
+  Gene Descriptions: 2-hydroxyisoflavanone dehydratase-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: 2-hydroxyisoflavanone dehydratase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: probable carboxylesterase 2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: probable carboxylesterase 12%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: gibberellin receptor GID1L2
+  Gene Synonyms: GRMZM2G003246
+  Gene Descriptions: gibberellin receptor GID1L2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 375 aa
+
+rRALCHKIPCCGRTePRIlSTPwiPAiWPGSVanGrrPSqKnPSylrKpAvfSTKaTPsP
+sSMAMEpdADEVvFESPAHFRIYKSGRIERLNRPPvLPAGLDEATGVTSKDVVLDAdTGL
+SVRLYLPKLQEPSKKLPVLVYFHGGAFLIESAdSATYHnYVNPLAAAAGVLVVSVDYRLA
+PEHPLPAAYDDSWAALQWAASAQDEWIAEHGDtARLFLAGDSAGANIVHDMLMRAASNDG
+GPRIEGAILLHPWFGGStPIEGEPEAAaAvTgmLWsYACPGAVGGADDPRMNPLAPGAPA
+LEKLGCaRMLVCAGlkDGLAARDRAYYDAVAASAWrGtAAWLESEGEGHVFFLeKPECEN
+AKQLMDRVVAFIAGA
+
+
+BOP CONSENSUS:
+Length: 313 aa
+
+MAMEADADtVVFEAPAHFRIYKSGKIDRLNRPPILPAGVDEATGVTSKDVVLDADTGLSV
+RLYLPKLQEPSTKLPVLVYFHGGsFLIESADSSTYHNYVNALAAAAGVLAVSVDYRLAPE
+HPLPAAYDDSWAALQWAASAQDGWIAEHGDTARLFLAGDSAGANIVHDMLMRAASNDGsP
+RVEGAILLHPWFGGSTpvEGEPPAAAMVTGMLWSYACPGAVGGADDPRMNPLAPGAPALE
+rLGCVRMLVTAGLaDGLAARNRAYYDAVAASaWRGTAAWlGSEGEGHVFFLEKPGCENAK
+QLMDRVVAFIAGA
+
+
+PACMAD CONSENSUS:
+Length: 376 aa
+
+MrRALCHKIPCCGRTErRILSTPWIPAIWPGSVANGINFPSQKNPSYLRKPAtFSTKATP
+tPSSTAMEPGADEVAFESPAHFRIYKSGRIERLNRPPVLPAGLDEATGVTSKDVVLDAGT
+GLSVRLYLPKLQEPSKKLPVLVYFHGGAFLLESAGSATYHTYVNPLAAAAGVLVVSVSYR
+LAPEHPLPAAYEDSWAALQWAASAqDEWIAEHGDVARLFLAGDSAGANIVHDMLMRASGn
+GGPRIEGAILLHPWFGGNAPIEGEPEGAaAATAGLWTYACPGAVGGADDPRMNPLAPGAP
+pLEKLGCARMLVCAGKKDALYVRDRAYYEAVAASAWPGDVAWLESEGEEHVFFLPKPECE
+NAKQLMDRVVAFIAGA
+
+================================================================================

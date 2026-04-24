@@ -1,0 +1,123 @@
+================================================================================
+GrassFam ID: GFAM009314
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             394.5 aa
+Family Size (Extended Family Size): 24 (27) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43880:SF29
+Panther Family ID:               PTHR43880
+Modal Panther ID:                PTHR43880:SF29
+Modal Panther Description:       ENOYL REDUCTASE (ER) DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR43880
+Modal Panther Fam Desc:          ALCOHOL DEHYDROGENASE
+Interpro Signature Accession:    G3DSA:3.90.180.10:FF:000007; G3DSA:3.40.50.720:FF:000003; G3DSA:3.40.50.720; G3DSA:3.90.180.10; PTHR43880; SSF51735; SSF50129
+Interpro Signature Description:  Alcohol dehydrogenase 6; S-(hydroxymethyl)glutathione dehydrogenase; -; ALCOHOL DEHYDROGENASE; NAD(P)-binding Rossmann-fold domains; GroES-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: alcohol dehydrogenase-like 2%2C transcript variant X1; alcohol dehydrogenase-like 7
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: alcohol dehydrogenase-like 7
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: alcohol dehydrogenase-like 2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: alcohol dehydrogenase-like 2; alcohol dehydrogenase-like 7%2C transcript variant X1
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl07
+  Gene Products: alcohol dehydrogenase-like 2; alcohol dehydrogenase-like 2%2C transcript variant X1
+  Gene Descriptions: alcohol dehydrogenase-like 2
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: alcohol dehydrogenase-like 2%2C transcript variant X1
+  Gene Descriptions: alcohol dehydrogenase-like 2
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 2
+  Modal chromosome: Pau14
+  Gene Products: alcohol dehydrogenase-like 2%2C transcript variant X1
+  Gene Descriptions: alcohol dehydrogenase-like 2
+Svi
+  Gene count: 2
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: alcohol dehydrogenase-like 2
+Pha
+  Gene count: 2
+  Modal chromosome: Pha02
+  Gene Products: alcohol dehydrogenase-like 2%2C transcript variant X1; alcohol dehydrogenase-like 7
+Msi
+  Gene count: 1
+  Modal chromosome: Msi04
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi02
+  Gene Products: alcohol dehydrogenase-like 2; alcohol dehydrogenase-like 2%2C transcript variant X2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 390 aa
+
+MEQntAAKPIRCKAAVSKAAGQPLEMEEVEVAPPRAHEVRIKIlCTSLCHTDiTFWRMKD
+FPamyPSILGHEAVGVVESVGEHVqEVAVGDTVVPVFLAQCGECpDCLSdRSNICSgLPy
+RPGLMPRDGTTRFSLAATGEPVHNFLSVSSFAEYTVVDVAHVVKLgpalPPEKACLLSCG
+VSTGVGAAWKVAAVEPGSTVAVFGLGAVGLAVAQGsKMRGAKRIIGVDLNPDKFeIGKRL
+GITDFINPNDTGEKTVSEVIKEMTGGGADYCFECIGSTSVMAEAFqSSRmGWGKTIvLGV
+DGgaAPISIPSsDIlRGRSVVGSLFGGIKPKDDIPVLAQKYLDKELELDEFITHeMGFDD
+INRAFDLLTQGKCLRCIIWMDGAKengsgg
+
+
+BOP CONSENSUS:
+Length: 400 aa
+
+MEQNTATKPIRCKAAVSKVAGQPLEMEEVEVAPPRAHEVRIKILCTSLCHTDVTFWRMKG
+FPGrHPSILGHEAAGVVESVGEHVHEVAVGDTVVPVFsAQCGDCPDCLSDRSNICSGLPA
+gPGMPRDGTTRFSFAATGEPIhNFLsVSSFTEYTVVDVaHVVRLDPGVPPEKACLLSCGV
+STGVGAAWKVAAVEPGSSVAVFGLGAVGLAVAQGCRMRGAKRIIGVDLNPEKrDIGKRLG
+ITDFINPNDTGEKTVSEVIKEMTGGGADYCFECIGSTSVMAEAFQSSRkGWGKTIVLGVS
+nGvAPISIPSHDILrGRSVVGSLFGGLKPKtDIPILAQKYLDKELELDEFVTHEMGFeDI
+NaAFELLTQGKCLRCIIWMDGAKENGSVGVENGRACKAKA
+
+
+PACMAD CONSENSUS:
+Length: 388 aa
+
+MEQntARPIRCKAAVSKAPGQPLEMEEVEVAPPRAHEVRVRIvCTSLCHTDITFWRMKDF
+PAMYPSILGHEAVGVVESVGEHVQEVAVGDTVVPVFLPQCGECADCLSARSNICSALPYR
+PGLMPRDGTTRFSLAATGEPVHnFLSVSSFAEYTVVDVAHVVKLGpALPPEKACLLSCGV
+STGVGAAWKVAAVEPGSTVAVFGLGTVGLAVAQGSKMRGAKRIIGVDLNPDKFEIGKRLG
+ITDFVNPNDTGEKTVSEVIKEMTGGGADYCFECIGSvSVMAEAFKSSRtGWGKTVILGTD
+GsAAPISISSSDIKRGRSVTGSLLGGIKPKDDIPVLAQKYLDKELELDEFITHQMGFDDI
+NRAFDLLAQGKCLRCIIWMDGAKqngaA
+
+================================================================================

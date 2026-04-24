@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM012071
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             600.0 aa
+Family Size (Extended Family Size): 20 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43326:SF6
+Panther Family ID:               PTHR43326
+Modal Panther ID:                PTHR43326:SF6
+Modal Panther Description:       METHIONINE--TRNA LIGASE
+Modal Panther Family ID:         PTHR43326
+Modal Panther Fam Desc:          METHIONYL-TRNA SYNTHETASE
+Interpro Signature Accession:    cd07957; cd00814; G3DSA:2.170.220.10:FF:000001; G3DSA:1.10.730.10:FF:000028; G3DSA:1.10.730.10; G3DSA:3.40.50.620; G3DSA:2.170.220.10; TIGR00398; NF008900; PTHR43326; PR01041; PF09334; SSF47323; SSF52374
+Interpro Signature Description:  Anticodon_Ia_Met; MetRS_core; methionine--tRNA ligase, mitochondrial; Methionine--tRNA ligase, chloroplastic/mitochondrial; -; HUPs; methionine--tRNA ligase; METHIONYL-TRNA SYNTHETASE; Methionyl-tRNA synthetase signature; tRNA synthetases class I (M); Anticodon-binding domain of a subclass of class I aminoacyl-tRNA synthetases; Nucleotidylyl transferase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: methionine--tRNA ligase%2C chloroplastic/mitochondrial
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: methionine--tRNA ligase%2C chloroplastic/mitochondrial
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: methionine--tRNA ligase%2C chloroplastic/mitochondrial
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: methionine--tRNA ligase%2C chloroplastic/mitochondrial-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: methionine--tRNA ligase%2C chloroplastic/mitochondrial
+  Gene Descriptions: methionine--tRNA ligase%2C chloroplastic/mitochondrial
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: methionine--tRNA ligase%2C chloroplastic/mitochondrial
+  Gene Descriptions: methionine--tRNA ligase%2C chloroplastic/mitochondrial
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau04
+  Gene Products: methionine--tRNA ligase%2C chloroplastic/mitochondrial
+  Gene Descriptions: methionine--tRNA ligase%2C chloroplastic/mitochondrial
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: methionine--tRNA ligase%2C chloroplastic/mitochondrial-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: methionine--tRNA ligase%2C chloroplastic/mitochondrial%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: methionine--tRNA ligase%2C chloroplastic/mitochondrial
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: methionine--tRNA ligase%2C chloroplastic/mitochondrial
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 600 aa
+
+MAAGRAFLgAPCSSLAAGARRLAFASPPpRpLAPALHRRVRGRCcASaSSSPDAASAPEP
+YVLTTPLYYVNAPPHMGSAYTTIAADAIARFQRLLEKrVIFITGTDEHGEKIATSAEASG
+RNPKEHCDaISNSYKMLWADLDIEYDKFIRTTDpKHEAVVNDFYSRVLSSGDIYRADYEG
+LYCVSCEEYKDEKELaENNCCPVHLKPCVPRKEDNYFFALSKYQHKLEELLTRNPDFVRP
+SHRLNEVQGWIKSGLRDFSISRASVEWGIPVPNDTKQTIYVWFDALLGYISALLDDGEQA
+SLQQAVDRGWPASLHLIGKDILRFHAVYWPAMLMSAGISVPDAVFGHGFLTKDGMKMGKS
+LGNTLEPKDLVeRFGADAVRYFFLREVEFGNDGDYSEERFINIVNAHLANTIGNLLNRTL
+GLLKKNCKSTLAFDSIAAADGnSFRnNVENLVDKAKhHYENLLLSSACETVLEIGNLGNL
+YIDEQAPWSCFKQGGESAEKAAKDLVIILETMRIIAIALSPITPSLSLRIYTQLGFTEDQ
+FRtLRWEDTKWGGLKAGQVMMEPKPVFARIETETEEkaQASSKAAKGGKKKARSKGLVEA
+
+
+BOP CONSENSUS:
+Length: 600 aa
+
+MAAGRAFFCAPSSIGATARRLAFASPPARPLASAPHRRGRGRCCASISSSSDASAPAPPP
+YVLTTPLYYVNAPPHMGSAYTTIAADAVARFQRLLEKRVIFITGTDEHGEKIATSAEASG
+RNPKEHCDIISNSYKMLWADLDIEYDKFIRTTDPKHEAVVNDFYSRVLSSGDIYRADYEG
+LYCVSCEEYKDEKELgENNCCPVHLKPCVPRKEDNYFFALSKYQHKLEELLTrNPNFVRP
+SHRLHEVEGWIKSGLRDFSISRASVEWGIPVPNDTKQTIYVWFDALLGYLSASLDDGEQA
+SLQQAVDRGWPASLHLIGKDILRFHAVYWPAMLMSAGISVPDAVFGHGFLTKDGMKMGKS
+LGNTLEPKDLVGRFGADAVRYFFLREVEFGNDGDYSEERFINTVNAHLANTIGNLLNRTL
+GLLKKNCNSTLAFDSIAAADGNSFKNNVENLVDKAKGHYENLSLTSACETVLEIGNLGNL
+YIDEQAPWSCFKQGGESAEKAAKDLVIILETMRIIAIALSPITPSLSLRIYTQLGFTEDQ
+FRTLRWDDTKWGALKAGQAMMEPKPIFAKIETEvEEKDQASPKEGKGGKKKARSKGLVEA
+
+
+PACMAD CONSENSUS:
+Length: 600 aa
+
+MAAGRAFLGAPCSSLAAGARRLAFASPPPRALTPALRRRVrGRCVASVSSSPDAASAPEP
+YVLTTPLYYVNAPPHMGSAYTTIAADAIARFQRLLEKKVIFITGTDEHGEKIATSAEASG
+RNPKEHCDAISSSYKTLWADLDIEYDKFIRTTDrKHEAVVNEFYSRVLnSGDIYRADYEG
+LYCVSCEEYKDEKELAENNCCPVHLKPCVeRKEDNYFFALSKYQHKLEELLTRNPDFVRP
+SHRLNEVQGWIKSGLRDFSISRASVEWGIPVPNDTKQTIYVWFDALLGYISALLDDGEQA
+SLQQAVDRGWPASLHLIGKDILRFHAVYWPAMLMSAGLSVPDAVFGHGFLTKDGMKMGKS
+LGNTLEPKDLVERFGADAVRYFFLREVEFGNDGDYSEERFINIVNAHLANTIGNLLNRTL
+GLLKKNCKSTLAFDSIAAADGVpFRDNVENLVDKAKHHYENLLLSSACETVLEIGNLGNL
+YIDEQAPWSCFKQGGESAEKAAKDLVIILETMRIIAIALSPITPSLSLRIYTQLGFTEDQ
+FRVLRWEDTKWGGLKAGQVMMEPKPVFARIETETEEEAQASSKAAKGGKKKArSKGLVEA
+
+================================================================================

@@ -1,0 +1,126 @@
+================================================================================
+GrassFam ID: GFAM006876
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             583.0 aa
+Family Size (Extended Family Size): 15 (15) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46043:SF2
+Panther Family ID:               PTHR46043
+Modal Panther ID:                PTHR46043:SF2
+Modal Panther Description:       ARM REPEAT SUPERFAMILY PROTEIN
+Modal Panther Family ID:         PTHR46043
+Modal Panther Fam Desc:          ARM REPEAT SUPERFAMILY PROTEIN
+Interpro Signature Accession:    G3DSA:1.25.10.10; PTHR46043; SSF48371
+Interpro Signature Description:  -; ARM REPEAT SUPERFAMILY PROTEIN; ARM repeat
+
+
+REXdb Match:                     False
+REXdb Percentage:                6.67%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: armadillo repeat-containing protein 3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: uncharacterized LOC123396083%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: armadillo repeat-containing protein 3%2C transcript variant X2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: armadillo repeat-containing protein 3-like%2C transcript variant X2; vacuolar protein 8-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: uncharacterized LOC127784613
+  Gene Descriptions: uncharacterized LOC127784613
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: vacuolar protein 8
+  Gene Descriptions: vacuolar protein 8
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: uncharacterized LOC133897859; uncharacterized LOC133902107
+  Gene Descriptions: uncharacterized LOC133897859; uncharacterized LOC133902107
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: putative ARM repeat-containing protein containing family protein%2C transcript variant X1
+  Gene Synonyms: GRMZM2G411260
+  Gene Descriptions: putative ARM repeat-containing protein containing family protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 582 aa
+
+MTPPPPSPPPPAAADALAQILHALLPPLLLAAASVnALHSRWRALHATLLALQSSLASAP
+ASAASHPLFADLVASLLPALRSLHALSARCQDPALPGGRLRLQSDLDIAASSLSLLLHDL
+SLLLRSGLLSVDSSASSPNAIVLQVPAAAASRADKSLFIRDAFARLQIGGLDLKLKALAS
+LLELLGNDPAAEAANIVATDGDVAALLRMLDASSHSALRDRAAAAVALLATACAASRKVV
+FDEGGLGPLLRVLDSGSAPATRERAVVAIEAITADAGSAWAVSAYGGVSILINACRPGSG
+SLAVQALAVAALKNVVSIDDVRSALVEEGGLPVLVDLLASGTTDTQKSAALCLWSLASMG
+DLETQQQIVQDGALPPLLQALHITSDLDLQDSVLRAIHALAVVPAAARTLCSSPLFFAQL
+TDLMCRGGSILLQQMAADMVADLAPGVSDDTKRCMAPCVGTLVKMMEVAKPATVQESAGR
+ALLALMTLKSNRKELVRDEKNLTRLVQMLDPRNEEIDKKYPVSVLLALAMGGGNGTRRRL
+ADAGACQHLQKLADAEVPCAKKALQRISSNRFKSLLSRGWNN
+
+
+BOP CONSENSUS:
+Length: 582 aa
+
+MTPPPPSPPPPAAADALAQILHALLPPLLLAAASANALHSRWRALHATLLALQSSLASAP
+APAAsHPLFADLVASLLPALRSLHALSARCQDPALPGGRLRLQSDLDIAASSLTLLLHDL
+SLLLRSGLLSVDSSASSPNAIVLQVPAAAASRSDKSLFIRDAFARLQIGGLDLKLKALAS
+LLELLGNDPAAEAANIVAADGDVAALLRMLDASAHSALRDRAAAVVALLATACsASRKAV
+FDEGGLGPLLRVLDSASAPATRERAVVAIEAITADAGSAWAVSAYGGVSILINACRPGSG
+SLAVQALAVAALKNVVSIDDVRSALVEEGGLPVLVDLLASGTTDTQKNAALCLWSIASMG
+DLETQQQIVQDGALPPLLQALHITTDLDLQNSVLRAIHvLAVVPSAARTLCSSPLFFAQL
+TDLMRRGGSILLQQMAADMIADLAPGVSDDTKRCMAPCVGTLVKMMEVAKPASVQESAGR
+ALLALMTLKSNRKELVRDEKNLTRLVQMLNPRNEEIDKKYPVSVLLALAMGGGNGTRRRL
+ADAGACQHLQKLADAEVPCAKKALQRISSSRFKSLLSRGWNN
+
+
+PACMAD CONSENSUS:
+Length: 581 aa
+
+MTPPrSPPPPAAADALAQILHALLPPLLLAAASVKALHSRWRALQGTLLALQSSLASAPA
+SAASHPLFADLVASLLPALRSLHALSVRCQDPGLPGGRLRLQSDLDMAASSLSLLLHDLS
+LLLRSGLLSVDSAASSPNAIVLQVPASAASRADKSLFVRDAFARLQIGGLDLKLKALVSL
+LDLLGDDPTAEAAQVVATEGDVAALLRLLDASSHSALRDRAVTAVAHLATACAASRRVVF
+DEGGLGPLLRVLDSGSAPATRERAAAAVVAITADAGSAWALSAYGGVSILVNACRPGSGS
+PAVQALAVAALKNVASIDDVRSALVEEGGLPVLVDLLASGTAGTQKSAALCLWSLASMGD
+HETQSQIVQAGALSPLLQALHIASDQDLQDSVLRAIHALTSVPAAARTLCSSPLFFAQLT
+DLICRCGSILLQQMAADMVADLAPTVSDDTKRCMAPCIGTLVKMMEVAKPATVQESAGRA
+LLALLTLKSNRKGFVRDEKSVTRLVQMLDPRNEEIDKKYPVSIFLALAMGGGNGTRRRLV
+DAGSCQHLQKLADAEVPGAKKALQRISNSRLKSLLSIGWQN
+
+================================================================================

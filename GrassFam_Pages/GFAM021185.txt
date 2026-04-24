@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM021185
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             524.0 aa
+Family Size (Extended Family Size): 48 (63) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR10579
+Modal Panther ID:                PTHR10579:SF125
+Modal Panther Description:       VWFA DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR10579
+Modal Panther Fam Desc:          CALCIUM-ACTIVATED CHLORIDE CHANNEL REGULATOR
+Interpro Signature Accession:    G3DSA:3.40.50.410; PTHR10579; SSF53300
+Interpro Signature Description:  von Willebrand factor, type A domain; CALCIUM-ACTIVATED CHLORIDE CHANNEL REGULATOR; vWA-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: uncharacterized LOC112272381
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 4
+  Modal chromosome: Hvu05H
+  Gene Products: E3 ubiquitin-protein ligase WAV3-like; E3 ubiquitin-protein ligase WAV3-like%2C transcript variant X2
+Ata
+  Gene count: 5
+  Modal chromosome: Ata05D
+  Gene Products: E3 ubiquitin-protein ligase WAV3; E3 ubiquitin-protein ligase WAV3-like; probable E3 ubiquitin-protein ligase EDA40; probable E3 ubiquitin-protein ligase WAVH2
+Tae
+  Gene count: 12
+  Modal chromosome: Tae05A
+  Gene Products: E3 ubiquitin-protein ligase WAV3-like; probable E3 ubiquitin-protein ligase EDA40; probable E3 ubiquitin-protein ligase WAVH2
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl12
+  Gene Products: E3 ubiquitin-protein ligase WAV3-like
+  Gene Descriptions: E3 ubiquitin-protein ligase WAV3-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa12
+  Gene Products: E3 ubiquitin-protein ligase WAV3
+  Gene Descriptions: E3 ubiquitin-protein ligase WAV3
+Ecu
+  Gene count: 3
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau19
+  Gene Products: E3 ubiquitin-protein ligase WAV3-like
+  Gene Descriptions: E3 ubiquitin-protein ligase WAV3-like
+Svi
+  Gene count: 5
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 8
+  Modal chromosome: Pvi03K
+  Gene Products: E3 ubiquitin-protein ligase WAV3-like; E3 ubiquitin-protein ligase WAV3-like%2C transcript variant X1; E3 ubiquitin-protein ligase WAV3-like%2C transcript variant X2; E3 ubiquitin-protein ligase WAVH1-like; uncharacterized LOC120697018; uncharacterized protein sll0103-like
+Pha
+  Gene count: 3
+  Modal chromosome: Pha03
+  Gene Products: E3 ubiquitin-protein ligase WAV3-like; probable E3 ubiquitin-protein ligase EDA40
+Msi
+  Gene count: 2
+  Modal chromosome: Msi10
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: uncharacterized LOC8064996
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 523 aa
+
+MAFNDDEKPPaSNaGSTKGLVTIkiPkYsKDDAALTADTVTAvVEInATSSTAVREGLDL
+VAVLDVSGSMaGdKIESmKKAMQFVIMKLTPVDRLSIVTFSssAtRLcPLRSMTqAAQtD
+LKAiVDGLvAgGGTNIKAGLETGLAVlAGRVhTKARTANIFLMSDGqQTsGDARQVDPGe
+VAVYTFGFGkdTDHkLLSDIAKKSPGGTFSsVPDGsNlSAPFSQLLGGLLTVVAQDVqLT
+LTPKteDGDLDtMvVAPGTDYTqTTDaatGVITIKFGTLFSGEgRKVaVnlTLkDssaTs
+EEYDAtLAEAQHSYtAQGrPrdrQtPQdIqIvRTPnPSqppgASsKARqVQAEiARRqHA
+eAIrqARlLADagkLeEARYKLVDAQNALEDIVLDDGeKLVnsLRAELlQLLkLMETQEL
+YeAqGRPYALASETSHGRQRYAARGDDgDaVRLFATPRMDTYLEQAKkFEEDPTAPVPtA
+DDDVKEEIAANPlAAISapLAfYLrnAIQALQAIEKiVAPsTk
+
+
+BOP CONSENSUS:
+Length: 521 aa
+
+MaFNDDEKPpspNAGSTKGLVTIaiPAYSRDDVALTADeVTAVVELnATSSAAVREGLDL
+VAVLDVSGSMqGdKLeSMKKAMQFVIMKLTPVDRLSIVTFdSsArRLCPLRSMTQAAQtD
+LKAIVDGLvAgGGTNIKAGLDlALAVLAGRVtTkSRTPNVFLMSDGQQTsGDARQVDPGe
+VAVYTFGFGkgTDHKLLSDiAKKSPGGTFSaVPDGtNLSAPFSQLLGGLLTVVAQDVQLT
+LTPKtADGDLDkMTVAPGTDYTqTTDgkTGvITIKFGTLFSGEaRKVAVNFTLrDSdeTE
+EYDAtLAEAQHSYagQktrQGQtPEnIlIvRTPNPsdPtsAGvkaRsVLAEeARRrHAdA
+IGeAslLADAekLeEARYKLvDAQNALEDIVLDDGEKMVnaLRAELLQLLtLMETQELYE
+ArGRPYALASiTSHGRQRyAaRGDEgDvVRLFATPRMDTYLEQAKkFEEDPTePLPSADD
+DVKEEIAANPlAAISAPLAFYLkvAIQALQaIEKlVAPpTk
+
+
+PACMAD CONSENSUS:
+Length: 523 aa
+
+MAFNDDEKPPtSNTGSTKGLVTIKPVKYFKDDAALTADTVTAEVEINATSSTTVREGLDL
+VAVLDVSGSMageKIESlKKAMtFVIMKLTPVDRLSIVTFSDgATRLsPLRSMTPAAQnD
+LKALVDGLqArGGTNIQAGLETGLAVIAgRVnTKARTANIFLMSDGhQnsGDARQVDPGQ
+VAIYTFGFGsdTDHQLMSDIAkKSPGGTFSSVPDGSkVSLPFSQLLAGLLTVVAQDVELT
+LTPKTDeGDVDTIVVAPGTDYtqtTDAaTGVITIKFGTLFAGEGRRVVITLTLKDVSATn
+sEEYDApLAEAQHSFTAQGRPRDpQVPQDIQIrRTPTPSQAPGASSKARQVQAEIARRqH
+AEAIRQARLLADdGqLeeARyKLVDAQNALEDIVLDDGqKLVnSLRAELqQLIkLMETeE
+LYeAqGRPYALASETSHGRQRYAARGGDEDDVRLFATPRMDTYREQAKNFEKDPTAPVPT
+ADEDVKQEVaANPLaAISTELAYYLRnAIEALQAIEKIVAPST
+
+================================================================================

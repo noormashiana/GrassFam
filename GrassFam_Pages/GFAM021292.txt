@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM021292
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             363.5 aa
+Family Size (Extended Family Size): 26 (29) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR32096:SF61
+Panther Family ID:               PTHR32096
+Modal Panther ID:                PTHR32096:SF61
+Modal Panther Description:       WRKY TRANSCRIPTION FACTOR 22
+Modal Panther Family ID:         PTHR32096
+Modal Panther Fam Desc:          WRKY TRANSCRIPTION FACTOR 30-RELATED-RELATED
+Interpro Signature Accession:    G3DSA:2.20.25.80:FF:000007; G3DSA:2.20.25.80; PTHR32096; SM00774; SSF118290
+Interpro Signature Description:  WRKY transcription factor 22; WRKY domain; WRKY TRANSCRIPTION FACTOR 30-RELATED-RELATED; WRKY_cls; WRKY DNA-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: WRKY transcription factor 22
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: WRKY transcription factor 22-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: WRKY transcription factor 22
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: WRKY transcription factor 22; WRKY transcription factor 22-like; probable WRKY transcription factor 27
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: probable WRKY transcription factor 27
+  Gene Descriptions: probable WRKY transcription factor 27
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: probable WRKY transcription factor 27
+  Gene Descriptions: probable WRKY transcription factor 27
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: probable WRKY transcription factor 27
+  Gene Descriptions: probable WRKY transcription factor 27
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi01N
+  Gene Products: WRKY transcription factor 22-like; probable WRKY transcription factor 27
+Pha
+  Gene count: 2
+  Modal chromosome: Pha01
+  Gene Products: probable WRKY transcription factor 27
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: probable WRKY transcription factor 27
+Zma
+  Gene count: 2
+  Modal chromosome: Zma04
+  Gene Products: WRKY39v2 - superfamily of TFs having WRKY and zinc finger domains; uncharacterized LOC100192069
+  Gene Synonyms: GRMZM2G038158; GRMZM2G048450
+  Gene Descriptions: WRKY39v2 - superfamily of TFs having WRKY and zinc finger domains; uncharacterized LOC100192069
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 367 aa
+
+MEEErCFNNWDLDAVVRLGCRRRLSPPrQsdDPFASFLPPPPqKEKPvaPapApEPAKEp
+EpDAGWRFPDLgAGGGQDGDELLrALLAAqPPLPQPLPTPpPPPPPPQQQQQPaVtavDV
+PpPQvrAAPASARAQPSGRQVPGGVPRSKRRKNQVKKVVCHVPADGSSSDVWAWRKYGQK
+PIKGSPYPRGYYRCSSSKGCAARKQVERSRsDPNTFILTYTGEHNHAAPTHRNSLAGTTR
+HKFPSSAAPQPPPPSVVVgGAgaGDAQhQQPSPSPtSTttAGLSPTTPLRTPSMEEDqDE
+EEDELLVEDMEMAGEDELLFLNtDaDdAApLePMSSLFDvVDEPFLsSPWVTAttGEPAT
+GAAGAGS
+
+
+BOP CONSENSUS:
+Length: 365 aa
+
+MEeDAGCYYLgGGGNDWDLNAVVRFACRGRVSPPPPRSdDPFSSFlPPPaPVVEpvdhgm
+pDAAWSLPDLPVdGnGgSadVDELSkAFFAPSaPLPtSPqPPPPQQQQQpAaPtnqEmVP
+MQQdeAvPPPmlQtAGrQGPvGEGsRSKRKKKvVKKVVKRVAADGVSADPWAWRKYGQKP
+IKGSPYPRGYYRCSTdKACEARKMVERCRDDPNSFILTYTGGEHNHPAPtHRNSLAGTTR
+NKQqAPsPAarpQpAPpsvAvegsaAAAAEPSPgQSTSGGmSPTTPLRTPSMEEyNQEEE
+eDEAAGLveDvEMAGEDELLKLLggSDNACVHGGdtpiSSLFDvVEETFVVTPWvTApGG
+AAGWS
+
+
+PACMAD CONSENSUS:
+Length: 373 aa
+
+MEEERCFNNWDLDAVVRLGCRRRLSPPRQpDPFASLLPPPPQKEKPVaPAPAPEPAKEPE
+aDAGWRFPDLcAGGGQDGDELLRALLAAQPPLPQPLPTPtpPPPPPPQQQqQPVVTAVDV
+PPPQVRAAPASAPARAQPSGRQVPGGVPRSKRRKNQVKKVVCHVPADGSSSDVWAWRKYG
+QKPIKGSPYPRGYYRCSSSKGCAARKQVERSRaDPNTFILTYTGEHNHAAPTHRNSLAGT
+TRHKFPSSAAPQPPPPSVVVGGAGaGDAQHQHQQPSPSPTSTSTAGLSPTTPLRTPSMEE
+DdDEEEDELLVEDMEMAGEDELLFLNTDADaAAPLEPMSSLFDvVDEPFLSSPWVtAstt
+AGEPATGAAGAGS
+
+================================================================================

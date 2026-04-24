@@ -1,0 +1,146 @@
+================================================================================
+GrassFam ID: GFAM008821
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             690.0 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48444:SF1
+Panther Family ID:               PTHR48444
+Modal Panther ID:                PTHR48444:SF1
+Modal Panther Description:       DNA TOPOISOMERASE 6 SUBUNIT B
+Modal Panther Family ID:         PTHR48444
+Modal Panther Fam Desc:          DNA TOPOISOMERASE 6 SUBUNIT B
+Interpro Signature Accession:    cd00823; G3DSA:3.30.230.10:FF:000050; G3DSA:1.10.8.50:FF:000006; G3DSA:3.30.230.10; G3DSA:3.30.565.10; NF003218; PTHR48444; PF09239; SSF54211
+Interpro Signature Description:  TopoIIB_Trans; DNA topoisomerase 6 subunit B; -; DNA topoisomerase VI subunit B; DNA TOPOISOMERASE 6 SUBUNIT B; Topoisomerase VI B subunit, transducer; Ribosomal protein S5 domain 2-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: DNA topoisomerase 6 subunit B
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: DNA topoisomerase 6 subunit B
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: DNA topoisomerase 6 subunit B
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: DNA topoisomerase 6 subunit B; DNA topoisomerase 6 subunit B-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: DNA topoisomerase 6 subunit B
+  Gene Descriptions: DNA topoisomerase 6 subunit B
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: DNA topoisomerase 6 subunit B-like
+  Gene Synonyms: OsJ_28656,OsTOP6B,P0651G05.4,topo6
+  Gene Descriptions: DNA topoisomerase 6 subunit B-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau20
+  Gene Products: DNA topoisomerase 6 subunit B%2C transcript variant X1
+  Gene Descriptions: DNA topoisomerase 6 subunit B
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: DNA topoisomerase 6 subunit B%2C transcript variant X3; DNA topoisomerase 6 subunit B-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: DNA topoisomerase 6 subunit B
+Msi
+  Gene count: 4
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: DNA topoisomerase 6 subunit B%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: DNA topoisomerase 6 subunit B%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 690 aa
+
+MDDSgDGGAtAGgTKKKPsAAAAKGKATGKGKAASKAsPkAKESSLLKQKSPAEFFAENK
+NIAGFDNPGKSLYTTMRELVENALDSAESISELPDIEITIEEITKSKFNTMIGLVDRERV
+DEALYDDFESeKAREKRLAKEARFQETQAKNAALGKKVKEAPAARGKGRGEAAFFRVTCK
+DNGRGMPHDDIPNMLGRVLSGTKYGLRQTRGKFGLGAKMALIWSKMSTGLPIEIKSSMKG
+QNYISFCRLDIDIHKNVPHVHLHEKRENKDHWHGAEIQVIIEGNWTTHRSKILHYMRQMA
+VITPYAQFLFRFLSDAADKNLTIKFARRTDVMPPVPLQTKHHPSAVDLLLIKRLItETTK
+QNLLQFLQHEFVNISKaHAERLIGEMGPDFSAKTTVKSLTSQQLVRIHQLFRQAKFDDPS
+GNCLSPAGEYNLRLGIIKELHPDLVATHASSPQVFEGHPFIVEAGISIGGKDVKQGLNIF
+RFANRIPLLFEQGADVITRTALKRINWSSYKINQQQDKIGVFVSIVSTKIPFKGTGKEYI
+GDDITEISSAVKSALKQCCLQLKSKIVKKLQARERQDRKRNLNRYIPDVARAIMETLGEI
+ADESPPKRPRYDKEDEELLEKVNSEEVTEMTFRDCLTQHVEQVDYEMALEYAMQSGVSEE
+PREAIYLNSLEGSYKFVDFQSPVFVFRFIP
+
+
+BOP CONSENSUS:
+Length: 690 aa
+
+MDDSSDGGATAGGTKKKPSAAAAKGKATGKGKAtSKAsPKAKESSLLKQKSPAEFFAENK
+NIAGFDNPGKSLYTTMRELVENALDSAESISELPDIEITIEEITKSKFNTMIGLVDRERV
+DEALYDDFESSKAREKRLAKEARFQETQAKNAALGKKVKDTPAARGKGRGEASFFRVTCK
+DNGRGMPHEDIPNMFGRVLSGTKYGLRQTRGKFGLGAKMALIWSKMSTGLPIDIKSSMKG
+QNYITFCRLDIDIHKNVPHIHLHEKRENNDHWHGAEIQVIIEGNWTTHRSRILHYMRQMA
+VITPYAQFLFRFLSDAAEKNLTIKFARRTDVMPPVPLLTKHHPSAVDLLLIKRLITDTTK
+PNLLQFLQHEFVNISKAHADRLIGEMGPDFSAKTTVNSLTSQQLVRIHQLFRQAKFDDPS
+GNCLSPAGEYNLRLGIIKELHPDLVATHASSPQVFEGHPFIVEAGVSIGGKDVKQGLNIF
+RFANRIPLLFEQGADVITRTALKRINWSIYKINQQQDKIGVFVSIVSTKIPFKGTGKEYI
+GDDITEIADAVKSALKQCCLQLKSKIVKKLQAREQQDRKRNLNKYIPDVARTIMETLGEL
+ADESPPKRPRYDKEDEELLEKINSEEVTEMTFRDCLTQHVEQVDYEMALEYAMQSGVSEE
+PREAIYLNSLEGSYKFVDFQSPAFVFRFIP
+
+
+PACMAD CONSENSUS:
+Length: 691 aa
+
+MDTSdDEATAAAAETKKKTPAAAAKGKATGKGKAAAKPKASAKESSLLKQKSPAEFFAEN
+KNIAGFDNPGKSLYTTMRELVENALDSAESISELPDIEITIEEITKTKFNTMIGLVDRQR
+VDEALYDDFESEKAREKRLAKEARFQETQAKNAALGKKVKEAPSVRGKGRGEAAFFKVTC
+KDNGRGMPHDDIPNMLGRVLSGTKYGLRQTRGKFGLGAKMALIWSKMSTGLPIEIKSSMK
+GQNYTSFCRLDIDIHKNVPHVHLHEKRENKTHWHGAEIQVIIEGNWTTHRSKILHYMRQM
+AVITPYAQFLFRFLSDAADKNLTIKFARRTDVMPPVPLQTKHHPSAVDLLLIKRLVAETT
+KQNLLQFLQHEFVNISKPHAERLIGEMGPDFSPKMTVKSLTSQQLVRIHQLFRQAKFDDP
+SGNCLSPAGEYNLRLGIIKELHPDMVATHASSPQVFEGHPFIVEAGISIGGKDVKQGLNI
+FRFANRIPLLFEQGADVITRTALKRINWSSYKINQQQDKIGVFVSIVSTKIPFKGTGKEY
+IGDDITEISSAVKSALKQCCLQLKSKIVKKLQARERQDRKRNLNRYIPDVARAIMETLVE
+IADQSPPKRPRYDKEDEELLEKVNSQEVTEMTFRDCLTQHVEQVDYEMALDYAMQSGVSE
+EPREAIYLNSLEGSYKFVDLQSPVFVFRFVP
+
+================================================================================

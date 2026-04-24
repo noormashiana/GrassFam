@@ -1,0 +1,131 @@
+================================================================================
+GrassFam ID: GFAM012241
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             395.5 aa
+Family Size (Extended Family Size): 22 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24055:SF515
+Panther Family ID:               PTHR24055
+Modal Panther ID:                PTHR24055:SF515
+Modal Panther Description:       MITOGEN-ACTIVATED PROTEIN KINASE SIPK
+Modal Panther Family ID:         PTHR24055
+Modal Panther Fam Desc:          MITOGEN-ACTIVATED PROTEIN KINASE
+Interpro Signature Accession:    cd07858; G3DSA:3.30.200.20:FF:000046; G3DSA:1.10.510.10:FF:000013; G3DSA:3.30.200.20; G3DSA:1.10.510.10; PTHR24055; PF00069; SM00220; SSF56112
+Interpro Signature Description:  STKc_TEY_MAPK; Mitogen-activated protein kinase; Phosphorylase Kinase; domain 1; Transferase(Phosphotransferase) domain 1; MITOGEN-ACTIVATED PROTEIN KINASE; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: mitogen-activated protein kinase 1-like
+  Gene Descriptions: mitogen-activated protein kinase 1-like
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: mitogen-activated protein kinase 1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: mitogen-activated protein kinase 1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: mitogen-activated protein kinase 1; mitogen-activated protein kinase 1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: mitogen-activated protein kinase 1
+  Gene Descriptions: mitogen-activated protein kinase 1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: mitogen-activated protein kinase 1-like
+  Gene Synonyms: MAPK6,MPK1,OsMAPK6,OsSIPK,sipk
+  Gene Descriptions: mitogen-activated protein kinase 1-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: mitogen-activated protein kinase 1; mitogen-activated protein kinase 1-like
+  Gene Descriptions: mitogen-activated protein kinase 1; mitogen-activated protein kinase 1-like
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: mitogen-activated protein kinase 1; mitogen-activated protein kinase 1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: mitogen-activated protein kinase 1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: mitogen-activated protein kinase 1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma06
+  Gene Products: MAP kinase 2; uncharacterized LOC100286386
+  Gene Synonyms: GRMZM2G002100,MPK7; GRMZM2G020216,MAPK,mpk2,MPK5,ZmMPK5
+  Gene Descriptions: MAP kinase 2; uncharacterized LOC100286386
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 397 aa
+
+MDGGAQPPDTEMADAGAGGGGQPPQQPAaGgGGGMMENIQATLSHGGRFIQYNIFGNVFE
+VTAKYKPPILPIGKGAYGIVCSALNSETGEQVAIKKIANAFDNKIDAKRTLREIKLLRHM
+DHENIVAIRDIIPPPQReAFNDVYIAYELMDTDLHQIIRSNQALSEEHCQYFLYQILRGL
+KYIHSANVLHRDLKPSNLLLNANCDLKICDFGLARTTSETDFMTEYVVTRWYRAPELLLN
+SSEYTAAIDVWSVGCIFMELMDRKPLFPGRDHVHQLRLLMELIGTPNEADLDFVNENARR
+YIRQLPRHARQSFPEKFPHVQPLAIDLVEKMLTFDPRQRITVEGALAHPYLASLHDISDE
+PVCSMPFSFDFEQHALSEEQMKDLIYQEALAFNPDYQ
+
+
+BOP CONSENSUS:
+Length: 392 aa
+
+MDGGAQPPDaEMAEAGAAAAAAAGgAPGGAMENIQATLSHGGRFIQYNIFGNVFEVTAKY
+KPPILPIGKGAYGIVCSALNSETGEQVAIKKIANAFDNKIDAKRTLREIKLLRHMDHENI
+VAIRDIIPPAQRTSFNDVYIAYELMDTDLHQIIRSNQALSEEHCQYFLYQILRGLKYIHS
+ANVLHRDLKPSNLLLNANCDLKICDFGLARTTSETDFMTEYVVTRWYRAPELLLNSSEYT
+AAIDVWSVGCIFMELMDRKPLFPGRDHVHQLRLLMELIGTPNEADLDFVNENARRYIRQL
+PRHARQSLSEKFPHVHPSAIDLVEKMLTFDPRQRITVEGALAHPYLASLHDISDEPVCTM
+PFSFDFEQHALSEEQMKDLIHQEGLAFNPDYQ
+
+
+PACMAD CONSENSUS:
+Length: 396 aa
+
+MDGGGQPPDTEMTDAGAGGGGQPPQQPAGGGGGMMENIQATLSHGGRFIQYNIFGNVFEV
+TAKYKPPILPIGKGAYGIVCSALNSETGEQVAIKKIANAFDNKIDAKRTLREIKLLRHMD
+HENIVAIRDIIPPPQREAFNDVYIAYELMDTDLHQIIRSNQALSEEHCQYFLYQILRGLK
+YIHSANVLHRDLKPSNLLLNANCDLKICDFGLARTTSETDFMTEYVVTRWYRAPELLLNS
+SEYTAAIDVWSVGCIFMELMDRKPLFPGRDHVHQLRLLMELIGTPNEADLDFVNENARRY
+IRQLPRHARQSFPEKFPHVQPLAIDLVEKMLTFDPRQRITVEGALAHPYLASLHDISDEP
+VCSMPFSFDFEQHALSEEQMKDLIYQEALAFNPDYQ
+
+================================================================================

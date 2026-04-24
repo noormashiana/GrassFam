@@ -1,0 +1,131 @@
+================================================================================
+GrassFam ID: GFAM008862
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             371.0 aa
+Family Size (Extended Family Size): 25 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11800:SF18
+Panther Family ID:               PTHR11800
+Modal Panther ID:                PTHR11800:SF18
+Modal Panther Description:       DNA-DIRECTED RNA POLYMERASE RPOA_D_RPB3-TYPE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR11800
+Modal Panther Fam Desc:          DNA-DIRECTED RNA POLYMERASE
+Interpro Signature Accession:    cd07032; G3DSA:2.170.120.12:FF:000004; G3DSA:3.30.1360.10; G3DSA:2.170.120.12; PTHR11800; SM00662; SSF55257; SSF56553
+Interpro Signature Description:  RNAP_I_II_AC40; RNA polymerase I subunit 43; -; DNA-DIRECTED RNA POLYMERASE; rpoldneu2; RBP11-like subunits of RNA polymerase; Insert subdomain of RNA polymerase alpha subunit
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: DNA-directed RNA polymerases I and III subunit rpac1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: DNA-directed RNA polymerases I and III subunit rpac1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: DNA-directed RNA polymerases I and III subunit rpac1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: DNA-directed RNA polymerases I and III subunit rpac1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl02
+  Gene Products: uncharacterized LOC127764653; uncharacterized LOC127767331
+  Gene Descriptions: uncharacterized LOC127764653; uncharacterized LOC127767331
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: uncharacterized protein%2C transcript variant X2
+  Gene Descriptions: uncharacterized LOC4332531
+Ecu
+  Gene count: 3
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau14
+  Gene Products: uncharacterized LOC133890831%2C transcript variant X2
+  Gene Descriptions: uncharacterized LOC133890831
+Svi
+  Gene count: 2
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: DNA-directed RNA polymerases I and III subunit rpac1-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: DNA-directed RNA polymerases I and III subunit rpac1%2C transcript variant X2
+Msi
+  Gene count: 3
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: DNA-directed RNA polymerases I and III subunit rpac1%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100191943
+  Gene Synonyms: GRMZM2G025356,si946076e12
+  Gene Descriptions: uncharacterized LOC100191943
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 371 aa
+
+MPKKGTKSKKeVDDVPnQQENKLPDYLELQRTRVVCKADAPIHTQGFQYSGAFAAMGVDN
+SVSVEKFCKNFKIEINRLTEDDMEFDMIGVDASIANAFRRILIAEVPTMAIEKVFMVDNT
+SVIADEVLSHRLGLIPLDADPRLFDYISENDVPNERNTIVYKLHVSCeKGSQRITVKSGE
+LEWLPEGSQLSMASPAQSGDKQKTFTSFSQSQKeILEKPLGVKFKDITIARLGPGQAIEL
+EAHAVKGVGKVHAKWSPVATAWYRMLPEVVlLKEIEgdDAEELVKKCPVNVFDIEDLGNG
+gKRAVVAKPRACTLCRECVMGPtGeQVELRRVRDHFIFTIESTGALPPEVLFTEAVKILE
+EKCERVISELS
+
+
+BOP CONSENSUS:
+Length: 355 aa
+
+MENrDGSSLPDFLELQRTRVLCKADAPTHTEGFQYSGAFAAMGVDTSVSVEKFCKNFKIE
+INRLTEDDMEFDMIGVDASIANAFRRILIAEVPTMAIEKVFMVDNTSVIADEVLSHRLGL
+IPLDADPRLFDYISDDVPNERNTIVYKLHVSCEKGSQRLTVKSGQLEWLPEGSQLTMASP
+AQSGDKQKTYTSFGQSQqNTSERPLGVKYKDITIARLGPGQAIELEAHAVKGVGKVHAKW
+SPVATAWYRMLPEVVLLKEIKDGDAEELVKKCPVNVFDIEDLGNGEKRAVVAKPRACTLC
+RECVrPtdDQVELRRVRDHFIFTIESTGALPPEVLFTEAVKILEEKCERVISELS
+
+
+PACMAD CONSENSUS:
+Length: 371 aa
+
+MPKKGTKSKKeVDDVPdQQENKLPDYLELQRTRVVCNADAPIHTQGFQYSGAFAAMGVDN
+SVSVEKFCKNFKIEINRLTEDDMEFDMIGIDASIANAFRRILIAEVPTMAIEKIFMVDNT
+SVIADEVLSHRLGLIPLDADPRLFDYISENDVPNERNTIVYKLHVSCPKGSQRITVKSGE
+LEWLPEGSQLSMASPAQSGDKQKTFTSFSQSQKEILEKPLGVKFKDITIARLGPGQAIEL
+EAHAVKGVGKVHAKWSPVATAWYRMLPEVVILKqIEGDDAEELVKKCPVNVFDIEDLGNG
+GKRAVVAKPRACTLCRECVMGPnGeKIELRRVRDHFIFTIESTGALPPEVLFTEAVKILE
+EKCERVISELS
+
+================================================================================

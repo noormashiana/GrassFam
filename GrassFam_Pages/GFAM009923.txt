@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM009923
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             412.5 aa
+Family Size (Extended Family Size): 34 (34) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10961:SF47
+Panther Family ID:               PTHR10961
+Modal Panther ID:                PTHR10961:SF47
+Modal Panther Description:       FAD DEPENDENT OXIDOREDUCTASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR10961
+Modal Panther Fam Desc:          PEROXISOMAL SARCOSINE OXIDASE
+Interpro Signature Accession:    G3DSA:3.30.9.10:FF:000024; G3DSA:3.30.9.10; G3DSA:3.50.50.60; PTHR10961; PF01266; SSF51905
+Interpro Signature Description:  Putative sarcosine oxidase; -; PEROXISOMAL SARCOSINE OXIDASE; FAD dependent oxidoreductase; FAD/NAD(P)-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi04
+  Gene Products: probable sarcosine oxidase; probable sarcosine oxidase%2C transcript variant X1
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu05H
+  Gene Products: probable sarcosine oxidase
+Ata
+  Gene count: 3
+  Modal chromosome: Ata05D
+  Gene Products: probable sarcosine oxidase; probable sarcosine oxidase%2C transcript variant X1
+Tae
+  Gene count: 7
+  Modal chromosome: Tae05B
+  Gene Products: probable sarcosine oxidase; probable sarcosine oxidase%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: probable sarcosine oxidase
+  Gene Descriptions: probable sarcosine oxidase
+Osa
+  Gene count: 2
+  Modal chromosome: Osa09
+  Gene Products: probable sarcosine oxidase
+  Gene Descriptions: probable sarcosine oxidase
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: probable sarcosine oxidase
+  Gene Descriptions: probable sarcosine oxidase
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: probable sarcosine oxidase
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: probable sarcosine oxidase
+Msi
+  Gene count: 3
+  Modal chromosome: Msi04
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi02
+  Gene Products: probable sarcosine oxidase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: uncharacterized LOC100283462%2C transcript variant X1
+  Gene Synonyms: GRMZM2G052266,pco143515
+  Gene Descriptions: uncharacterized LOC100283462
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 411 aa
+
+MAAsnaEsgprRFDVIVVGAGIMGSCAAHAAASRGARVLLLERFDLLHHRGSSHGESRTI
+RATYPQPHYPPMVRLSRRLWDDAQRDAGYrVLTPTPHLDLGPRDDPALvAAIANGGATEV
+AaGaDAarwpWAGVFRVPDGWTAAsSELGGVMKATKAVAMFQALAAKmGAVVRDRTEVVD
+VAKrGEGtIVVKTSSGEEFHGaKCIITVGAWTSKLVKSVTGaDLPVQPvHTLICYWKVKP
+GHErELTTEAGFPTFASYGDPYIYSTPSMEFPGLIKIAMHGGPPCDPDGRDWaTGpGegG
+LVEPVARWIDEVMPGHVDTAGGPViRQpCMYSMTPDEDFVIDFLGGEFGKDVVVGAGFSG
+HGFKMGPAVGRILAEMALDGEARTAAEAGVELrHFRIGRFeGNPkGNAtsf
+
+
+BOP CONSENSUS:
+Length: 410 aa
+
+MAApPAERSFDVIVVGAGIMGSCAAHAAASRGARVLLLERFDLLHQRGSSHGESRTIRAT
+YPQPHYPPMVRLARRLWDDAQRDAGYrVLTPTPHLDLGPRDDPAFvAAvANGGATELAAA
+aDApRPAWAeAFRVPEGWAAAsSELGGVMKATKAVAMFQALAAKMGAVVRDRTEVVDVAR
+qGEGtTIVVKTSSGEEFHGGKCIITVGAWTSKLVKSVTGADLPVQPLHTLICYWKVKPGH
+ErELTTEAGFPTFASYGDPYIYSTPSMEYPGLIKIAMHGGPPCDPDGRDWAiGpGEgGLV
+EPVARWIDEVMPGhVDTAGGPVlRQPCMYSMTPDEDFVIDFLGGEEFGKDVVVGAGFSGH
+GFKMGPAVGRILAEMALDGESGTAAEAGVELrHFRIGRFEGNPmGNAtSf
+
+
+PACMAD CONSENSUS:
+Length: 410 aa
+
+MAASNGEgaPGRFDVIVVGAGIMGSCAAYAASSRGARVLLLERFDLLHHRGSSHGESRTI
+RATYPQAHYPPMVRLSRRLWEEAQADAGYRVLTPTPHLDLGPRDDPALrAAIRNGGAAEV
+AGGsSWPWAGVFRVPDGWTAAsSELGGVMKATKAVAMFQALAVKKGAVVRDRTEVVDVTK
+RGEGSILVRTSSGEEFHGAKCIVTVGAWTSKLVKSVTGMDLPVQPVHTLICYWKVKPGHE
+sELTpEAGFPTFASYGDPYIYSTPSMEFPGLIKIAMHGGPPCDPDSRDWSTGAAdLVEPV
+ARWIDAVMPGHVDTAGGPVIRQSCMYSMTPDEDYVIDFLGGEFGKDVVVGAGFSGHGFKM
+GPAVGRILAEMAMDGEARTAAEAGVDLrPLRIGRFVDNPKGNLsdsGDQG
+
+================================================================================

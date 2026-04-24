@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM008323
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             472.0 aa
+Family Size (Extended Family Size): 23 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11808:SF82
+Panther Family ID:               PTHR11808
+Modal Panther ID:                PTHR11808:SF82
+Modal Panther Description:       CYSTATHIONINE BETA-LYASE
+Modal Panther Family ID:         PTHR11808
+Modal Panther Fam Desc:          TRANS-SULFURATION ENZYME FAMILY MEMBER
+Interpro Signature Accession:    cd00614; G3DSA:3.40.640.10:FF:000009; G3DSA:3.90.1150.10:FF:000013; G3DSA:3.40.640.10; G3DSA:3.90.1150.10; TIGR01329; PTHR11808; PF01053; SSF53383
+Interpro Signature Description:  CGS_like; Cystathionine gamma-synthase homolog; Cystathionine beta-lyase; -; Aspartate Aminotransferase, domain 1; cystathionine beta-lyase; TRANS-SULFURATION ENZYME FAMILY MEMBER; Cys/Met metabolism PLP-dependent enzyme; PLP-dependent transferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: cystathionine beta-lyase%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: cystathionine beta-lyase%2C chloroplastic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: cystathionine beta-lyase%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: cystathionine beta-lyase%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: cystathionine beta-lyase%2C chloroplastic
+  Gene Descriptions: cystathionine beta-lyase%2C chloroplastic
+Osa
+  Gene count: 2
+  Modal chromosome: Osa06
+  Gene Products: cystathionine beta-lyase%2C chloroplastic%2C transcript variant X1
+  Gene Descriptions: cystathionine beta-lyase%2C chloroplastic
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN293
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: cystathionine beta-lyase%2C chloroplastic-like
+  Gene Descriptions: cystathionine beta-lyase%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: cystathionine beta-lyase%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: cystathionine beta-lyase%2C chloroplastic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: cystathionine beta-lyase%2C chloroplastic%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: Cystathionine beta-lyase chloroplastic
+  Gene Synonyms: gpm602a,GRMZM2G167156
+  Gene Descriptions: Cystathionine beta-lyase chloroplastic
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 472 aa
+
+aAAAAPTAaARLFLLHSTPsPSLPSPnsaaaSAQtLRlPsPRLaLSRRMAGaPPAAIAGa
+SGDSERDLSASAVSlEALgAVeASDSGLEaKEPSVATILTSFENSFDmYGALSTPLYQTA
+TFKQPSATDYGpYDYTRSGNPTRDVLQSLMAKLEKADQAFCFTSGMAALAAVTHLLQAGQ
+EIVAGEDIYGGSDRLLSQVVPRNGIVVKRVDTTKISDVaSAIGPLTKLVWLESPTNPRQQ
+ITDIKKISEIAHSHGALVLVDNSIMSPVLSRPIELGADIVMHSATKFIAGHSDLMAGILA
+VKGESLAKEIAFLQNAEGSGLAPFDCWLCLRGIKTMALRVEKQQANAQKIAEFLASHPRV
+KQVNYAGLPDHPGRSLHYSQAKGAGSVLSFLTGSLALSKHVVETTKYFNVTVSFGSVKSL
+ISLPCFMSHASIPAsVREERGLTDDLVRISVGIEDVeDLIADLDRALRSGPA
+
+
+BOP CONSENSUS:
+Length: 472 aa
+
+MAAAAAATPAaRLFLLHSsPpSSLPCPNPSPSSAQTPRLAyPRLALSHRMAAAPAAIAGP
+SGDSERDLSASAVSaEALGAVESSGDGLERKEPSVATILTSFENSFDkYGALSTPLYQTA
+TFKQPSATVNGpYDYTRSGNPTRDVLQSLMAKLEKADQAFCFTSGMAALAAVTHLLQSGQ
+EIVAGEDIYGGSDRLLSQVVPRNGIVVKRVDTTKINDVTAAIGPLTKLVWLESPTNPRQQ
+ITDIKKISEIAHSHGALVLVDNSIMSPVLSRPIELGADIVMHSATKFIAGHSDLMAGILA
+VKGESLAKEIAFLQNAEGSGLAPFDCWLCLRGIKTMALRVEKQQDNAQKIAEFLASHPRV
+KQVNYAGLPDHPGRSLHYSQAKGAGSVLSFLTGSLSLSKHVVETTKYFNVTVSFGSVKSL
+ISLPCFMSHASIPSSVREERGLTDDLVRISVGIEDVDDLIADLDYALRSGPA
+
+
+PACMAD CONSENSUS:
+Length: 471 aa
+
+MAAAAPTApARLFLLQSTPSPNPSsnSAAAqAQaLRvPspRLaLSRRMAGgPPAAIAGAS
+GGSERDLSASAVSmEALESVVASDSGLEAKEPSVATILTSFENSFDMYGALSTPLYQTAT
+FKQPSATDYGPYDYTRSGNPTRDVLQSLMAKLEKADQAFCFTSGMAALAAVTHLLQAGQE
+IVAGEDIYGGSDRLLSQVVPRNGIVVKRVDTTKISDVASAIGPSTKLVWLESPTNPRQQI
+TDIKKISEIAHSHGALVLVDNSIMSPVLSRPIELGADIVMHSATKFIAGHSDLMAGILAV
+KGESLAKEIAFLQNAEGSGLAPFDCWLCLRGIKTMALRVEKQQANAQKIAEFLASHPRVK
+QVNYAGLPDHPGRSLHYSQAKGAGSVLSFLTGSLALSKHVVETTKYFNVTVSFGSVKSLI
+SLPCFMSHAAIPAAVREeRGLTDDLVRISVGIEDVEDLIADLDRALRTGPA
+
+================================================================================

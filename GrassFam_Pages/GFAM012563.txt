@@ -1,0 +1,118 @@
+================================================================================
+GrassFam ID: GFAM012563
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             311.0 aa
+Family Size (Extended Family Size): 33 (33) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR11732
+Modal Panther ID:                PTHR11732:SF251
+Modal Panther Description:       NADP-DEPENDENT OXIDOREDUCTASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR11732
+Modal Panther Fam Desc:          ALDO/KETO REDUCTASE
+Interpro Signature Accession:    cd19125; G3DSA:3.20.20.100:FF:000010; G3DSA:3.20.20.100; PTHR11732; PIRSF000097; PR00069; PF00248; SSF51430
+Interpro Signature Description:  AKR_AKR4C1-15; NADPH-dependent aldo-keto reductase, chloroplastic; -; ALDO/KETO REDUCTASE; AKR; Aldo-keto reductase signature; Aldo/keto reductase family; NAD(P)-linked oxidoreductase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu01H
+  Gene Products: NADPH-dependent aldo-keto reductase%2C chloroplastic-like; NADPH-dependent aldo-keto reductase%2C chloroplastic-like%2C transcript variant X4; aldo-keto reductase family 4 member C10-like
+Ata
+  Gene count: 3
+  Modal chromosome: Ata01D
+  Gene Products: NADPH-dependent aldo-keto reductase%2C chloroplastic; NADPH-dependent aldo-keto reductase%2C chloroplastic%2C transcript variant X1
+Tae
+  Gene count: 10
+  Modal chromosome: Tae01B
+  Gene Products: NADPH-dependent aldo-keto reductase%2C chloroplastic-like; NADPH-dependent aldo-keto reductase%2C chloroplastic-like%2C transcript variant X1; NADPH-dependent aldo-keto reductase%2C chloroplastic-like%2C transcript variant X2; aldo-keto reductase family 4 member C10-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: uncharacterized LOC127774242
+  Gene Descriptions: uncharacterized LOC127774242
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: NADPH-dependent aldo-keto reductase%2C chloroplastic-like
+  Gene Descriptions: NADPH-dependent aldo-keto reductase%2C chloroplastic-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau09
+  Gene Products: NADPH-dependent aldo-keto reductase%2C chloroplastic-like%2C transcript variant X2
+  Gene Descriptions: NADPH-dependent aldo-keto reductase%2C chloroplastic-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha03
+  Gene Products: NADPH-dependent aldo-keto reductase%2C chloroplastic-like; NADPH-dependent aldo-keto reductase%2C chloroplastic-like%2C transcript variant X1
+Msi
+  Gene count: 4
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi03
+  Gene Products: NADPH-dependent aldo-keto reductase%2C chloroplastic; NADPH-dependent aldo-keto reductase%2C chloroplastic%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: uncharacterized LOC100381673%2C transcript variant X2
+  Gene Synonyms: GRMZM2G178533,TIDP2673
+  Gene Descriptions: uncharacterized LOC100381673
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 311 aa
+
+MAESFVLNTGARIPSVGLGTAQiEPGVVeEAVYAAVKAGYRHIDCAPAYRNEKEIGLALK
+KLFEEGVVKREDLFITSKLWSGNHAPEDVPEGIDTTLqDLQLDYLDLFLIHAPVRsKKGA
+ipTpENyLPpDIPATWGAMEKLYDSGKARAIGVSNFSCKRMEDLLAIARVPPAVNQVECH
+PGWQQMKLRELCQSKGVHLSAYSPLGkPGSPGstGPSVLSNPIVISIAEKLQKTPAQVAL
+RWGLQMGQSVLPKStNEtRIKENlnIFDWSIPEDLMAKFSEIqQVKlLRAEFVVHPQGIY
+KTVEDFWDGEI
+
+
+BOP CONSENSUS:
+Length: 311 aa
+
+MAESFVLNTGARIPSVGLGTAKaEPGVVrEAVYAAVKAGYRHIDCAPAYRNEKEIGLALK
+KLFDEGVVKREDLFITSKLWSGNHAPEDVPEGIDTTLEDLQLDYLDLFLIHAPVRsKKGA
+IpTpENYLPvDIPATWGAMEKLYDSGKARAIGVSNFSCKRMEDLLAIARVPPAVNQVECH
+PGWQQMKLRELCQSKGVHLSAYSPLGkPGSPGsTGPSFLSNPIVISVAEKLQKTPAQVAL
+RWGLQMGQSVLPKStNETRIKENlsIFDWSIPEDLMAKFSEIQQVKvLRAEFVVHPQGIY
+KTVEDFWDGEI
+
+
+PACMAD CONSENSUS:
+Length: 311 aa
+
+MAKSFLLNTGAAIPSVGLGTWQISPGVVEDAIRAALQAGYHHIDCSPQYGNQKEVGFALR
+KLFEEGILKREDLFITSKLWCTDHDPEDVPEAIDNTLQHLQLDYLDLYLVHGPVRAKKGT
+RLSTENILKPDIPATWKAMEKLYDSGKARAIGVSNFSCKKLEDLLAVARVPPAVNQVECH
+PVWQQDKLRKLCQSKGIHLSAYAPLGSPGSPGNDGPDVLSHPTVISIANKLQKTPAQVAL
+RWGIQMGQSVLPKSDNEAWTRENIDLFDWSIPDELMAKFSEIKQVRLFKYEFVTHPTSFY
+KSVEDFWDGEI
+
+================================================================================

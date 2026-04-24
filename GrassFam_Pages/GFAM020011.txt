@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM020011
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             423.0 aa
+Family Size (Extended Family Size): 26 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46521:SF2
+Panther Family ID:               PTHR46521
+Modal Panther ID:                PTHR46521:SF2
+Modal Panther Description:       SUCROSE-PHOSPHATASE 3-RELATED
+Modal Panther Family ID:         PTHR46521
+Modal Panther Fam Desc:          SUCROSE-PHOSPHATASE 2-RELATED
+Interpro Signature Accession:    cd02605; G3DSA:3.40.50.1000; G3DSA:3.90.1070.10; TIGR01484; TIGR01485; TIGR01482; PTHR46521; PF05116; PF08472; SFLDS00003; SFLDF00043; SSF56784
+Interpro Signature Description:  HAD_SPP; -; HAD-IIB family hydrolase; sucrose-phosphate phosphatase; sucrose-phosphate phosphatase subfamily; SUCROSE-PHOSPHATASE 2-RELATED; Sucrose-6F-phosphate phosphohydrolase; Sucrose-6-phosphate phosphohydrolase C-terminal; Haloacid Dehalogenase; sucrose-phosphatase; HAD-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: probable sucrose-phosphatase 3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: probable sucrose-phosphatase 3%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: probable sucrose-phosphatase 3%2C transcript variant X5
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: probable sucrose-phosphatase 3; probable sucrose-phosphatase 3%2C transcript variant X2; probable sucrose-phosphatase 3%2C transcript variant X6
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: probable sucrose-phosphatase 3
+  Gene Descriptions: probable sucrose-phosphatase 3
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: probable sucrose-phosphatase 3%2C transcript variant X1
+  Gene Descriptions: probable sucrose-phosphatase 3
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau11
+  Gene Products: probable sucrose-phosphatase 3%2C transcript variant X1
+  Gene Descriptions: probable sucrose-phosphatase 3
+Svi
+  Gene count: 2
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi03N
+  Gene Products: probable sucrose-phosphatase 3; probable sucrose-phosphatase 3%2C transcript variant X2
+Pha
+  Gene count: 2
+  Modal chromosome: Pha03
+  Gene Products: probable sucrose-phosphatase 3; probable sucrose-phosphatase 3%2C transcript variant X3
+Msi
+  Gene count: 4
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi09
+  Gene Products: probable sucrose-phosphatase 3; sucrose-phosphatase 2%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: sucrose-phosphatase%2C transcript variant X6
+  Gene Synonyms: GRMZM2G097641,SPP2,ZmSPP2
+  Gene Descriptions: sucrose-phosphatase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 423 aa
+
+MDRLDGSARLMIVSDLDQTMVDHdDPENLSLLRFEALWEAEFSQDSLLVFSTGRTPISYK
+GLRKdKPLITPDITIMSVGTVIAYGEEMiRDVGWEEyLNNkWDRDIVVEETAKFPQLKPQ
+PERNQGPHKVSFFVDKQGAQEVMDSLPQKLEKRGLDVKIIYSSGEALDVLPQGAGKGQAL
+vYLLNKFNSqGKPPNNTLVCGDSGNDAELFSVPSVHGVMVSNAQEELLQWYEENAKDNPK
+IIHATERCAAGIMQAIGHFKLGPNVSARDLEFPYPKvDTIKPADVVVKFYVLYEKWRRGE
+VqKSSSVmQYLKSITHlNGTIIHPSGsERSLHASIDALSSCYGDKQGkKFRAWVDRLVTS
+PIGTSNWLVRFDNWEMEGDVRYCCRTTLLLNMKPETPEGLELTHIHKTWLEGHSAGSEHT
+FIL
+
+
+BOP CONSENSUS:
+Length: 423 aa
+
+MDRLDGSARLMIVSDLDQTMVDHCDPENSALLRFEALWESEYSQDSLLVFSTGRTPVSYR
+GLRKrKPLLTPDITIMSVGTVIAYGQEMTPDVGWEEFLNNKWDRDIVVQETAKFPQLKPQ
+PERNQGPHKVSFFVDKQGAQEVINSLPQKLEQLGLDVKIIYSSGEALDVLPRGAGKGQAL
+IYLLEKFNSCGKPPNNVLVCGDSGNDADLFSVPSAYGVMVSNAQEELLQWYEENGKDNpK
+LLHATERCASGIMQAIGHFKLGPSFSVRDLEFPYPKVDTIKPADVVVKFYVLYEKWRRGE
+VQKSPSVIQYLKSITHQNGTLIHPCGMERSLHASIDALSSCYGDKQGKKFRAWVDRLVTS
+PIGTSNWLVRFDNWEMEGDVQYCCRTTLLLNTKPETPEGLELTHIHKTWLEGYSAGNDHT
+FIL
+
+
+PACMAD CONSENSUS:
+Length: 423 aa
+
+MDKLDGSARLMIVSDLDQTMIDHDDrENLSLLRFEALWEAEFSQDSLLVFSTGRTPISYK
+GLRKdKPLITPDITIMSVGTVIAYGEEMIRDVGWEEYLNNNWDRnIVVEETAKFPQLKPQ
+PERNQGPHKVSFFVDKQGAQEVMDsLPQKLEKRGLDVKIVYSSGeALDVLPQGAGKGQAL
+qYLLNKLNSqGKPPNNTLVCGDSGNDAELFSVPSVHGVMVSNAQEELLQWYEENAKdNPK
+IIHATERCAAGIMQAIGHFKLGPNVSARDLEFPYPKADTIKPADVVVKFYVLYEKWRRGE
+LPKSSSVmQYLKSITHLNGTIIHPSGSErSLHASIDALSSCYGDKQGnKFRVWVDRLVTS
+PIGTSNWLVRFDNWEMEGgARYCCRTTLLLNMKPETPEGLELTHIHKTWVEGHSAGSEHT
+FIL
+
+================================================================================

@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM001210
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             405.0 aa
+Family Size (Extended Family Size): 19 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43780:SF7
+Panther Family ID:               PTHR43780
+Modal Panther ID:                PTHR43780:SF7
+Modal Panther Description:       D-CYSTEINE DESULFHYDRASE 2, MITOCHONDRIAL
+Modal Panther Family ID:         PTHR43780
+Modal Panther Fam Desc:          1-AMINOCYCLOPROPANE-1-CARBOXYLATE DEAMINASE-RELATED
+Interpro Signature Accession:    G3DSA:3.40.50.1100:FF:000081; G3DSA:3.40.50.1100:FF:000050; G3DSA:3.40.50.1100; PTHR43780; PIRSF006278; SSF53686
+Interpro Signature Description:  D-cysteine desulfhydrase 2 mitochondrial; D-cysteine desulfhydrase 2, mitochondrial; -; 1-AMINOCYCLOPROPANE-1-CARBOXYLATE DEAMINASE-RELATED; ACCD_DCysDesulf; Tryptophan synthase beta subunit-like PLP-dependent enzymes
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: uncharacterized LOC100828695
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: putative D-cysteine desulfhydrase 2%2C mitochondrial%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: putative D-cysteine desulfhydrase 2%2C mitochondrial
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: putative D-cysteine desulfhydrase 2%2C mitochondrial; putative D-cysteine desulfhydrase 2%2C mitochondrial%2C transcript variant X1; putative D-cysteine desulfhydrase 2%2C mitochondrial%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: putative D-cysteine desulfhydrase 2%2C mitochondrial%2C transcript variant X1
+  Gene Descriptions: putative D-cysteine desulfhydrase 2%2C mitochondrial
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: putative D-cysteine desulfhydrase 2%2C mitochondrial%2C transcript variant X1
+  Gene Descriptions: putative D-cysteine desulfhydrase 2%2C mitochondrial
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau02
+  Gene Products: putative D-cysteine desulfhydrase 2%2C mitochondrial
+  Gene Descriptions: putative D-cysteine desulfhydrase 2%2C mitochondrial
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: putative D-cysteine desulfhydrase 2%2C mitochondrial%2C transcript variant X3; putative D-cysteine desulfhydrase 2%2C mitochondrial%2C transcript variant X5
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: putative D-cysteine desulfhydrase 2%2C mitochondrial%2C transcript variant X2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: putative D-cysteine desulfhydrase 2%2C mitochondrial%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: D-cysteine desulfhydrase 2 mitochondrial
+  Gene Synonyms: GRMZM2G469747
+  Gene Descriptions: D-cysteine desulfhydrase 2 mitochondrial
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 405 aa
+
+MRPTPALAAGGRTVANlLSATEWMLPSPATQVHTISVLPSHSPSPrpeFAFSNLTTALrs
+sGGKGdEqGsPRFqVVRDDLLHPLANGNKARKLDALLPLLRRRGATDVVTCGGCQSAHAA
+AVAVHCAEWGIRPHILLRGEQLDVPTGYNLISLMFGNVTYASRSVYAQRDEMLYEHAkKV
+AGtSGTVMWADDIIGEDLvVDEDTvdeNgSRRVVIVKEGAGtVQALLGVMRLVEYLSgLS
+SFgKDEKVHIVVDAGTGTTAVGLALGAVCLGLqWRVTAVMLADTLERYKEQEKSLISDFK
+KLCHEdyHgMVEtDTHDgLVQWVERFSPRRFGKVLdGEIAmCRQVAQQTGILLDPMYTLA
+AWEQAVDLCRGDSRAKVvMIHTGGTLGLFGLAQRYSpQFtAtEQs
+
+
+BOP CONSENSUS:
+Length: 405 aa
+
+MRPAPVLAAGGRTVGNILSATEWMLPSPATQVHTISVLPSHSPSPAPQFAFSNLTTAlKS
+SGGKGDEQGtPRFdVVRDDLLHPLANGNKARKLDALLPLLRRRGATDVITCGGCQSAHAA
+AVAVHCAEWGIRPHLLLRGEQLDVPTGYNLISLMFGNVTYASRSVYAHRDEMLYEHAKKV
+AGTSGTVLWADDIVRDDLAVDEETVLENDSRRVVIIKEGAGTVQALLGVMRLVEHLSNLS
+SFHNDEEVHIVVDAGTGTTAVGLALGAVCLGLHWRVTAVMLADTLERYKEQEKSLISDFK
+GLCHEDCHemVGTDGLVHWVDRFSPRRFGKVLgGEIASCRQVAQQTGILLDPVYTLAAWE
+QAVDLCrGDGRGAKVAMIHTGGTLGLFGLAQRYPQHFaATANgQA
+
+
+PACMAD CONSENSUS:
+Length: 405 aa
+
+MRPTPALAAGGRTVAsLLSATEWMLPSPATQVHTISVLPSQSPTPRhEFAFSNLTTSLRN
+GGGKGGEtGSpRFQVVRDDLLHPLANGNKARKLDALLPLLRRrGATDIVTCGGCQSAHAA
+AVAVHCAEWGIRPHILLRGEQLDVPTGYNLISLMFGNVTYASRSLYAQRDEMLYEHAIKV
+AGsSGTVMWADeIIGEDLVVDEDTTDGNgSRRVMIVKEGAGSVQALLGVMRLVEYLSGLT
+LFGKDEKVHIVVDSGTGTTAVGLALGAVCLGLQWRVTAVMLADTLERYKQREKSLVSDFE
+KVfPEiYHGMVEDdTHDsLVQWVERFSPRRFGKVLDGEIAMCRQVAQQTGILLDPMYTLA
+AWEQAVDLCRGDSEAKVVMIHTGGTLGLFGLAQRYSPQFTTGEQS
+
+================================================================================

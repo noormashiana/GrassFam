@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM017688
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             500.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12049:SF7
+Panther Family ID:               PTHR12049
+Modal Panther ID:                PTHR12049:SF7
+Modal Panther Description:       PROTEIN ARGININE METHYLTRANSFERASE NDUFAF7, MITOCHONDRIAL
+Modal Panther Family ID:         PTHR12049
+Modal Panther Fam Desc:          PROTEIN ARGININE METHYLTRANSFERASE NDUFAF7, MITOCHONDRIAL
+Interpro Signature Accession:    G3DSA:3.40.50.12710:FF:000001; G3DSA:3.40.50.12710; PTHR12049; PF02636; SSF53335
+Interpro Signature Description:  Protein arginine methyltransferase NDUFAF7; -; PROTEIN ARGININE METHYLTRANSFERASE NDUFAF7, MITOCHONDRIAL; Putative S-adenosyl-L-methionine-dependent methyltransferase; S-adenosyl-L-methionine-dependent methyltransferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: protein arginine methyltransferase NDUFAF7%2C mitochondrial
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: protein arginine methyltransferase NDUFAF7%2C mitochondrial
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: protein arginine methyltransferase NDUFAF7%2C mitochondrial
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: protein arginine methyltransferase NDUFAF7 homolog%2C mitochondrial-like%2C transcript variant X1; protein arginine methyltransferase NDUFAF7%2C mitochondrial-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: uncharacterized LOC127760202
+  Gene Descriptions: uncharacterized LOC127760202
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC4324444
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: uncharacterized LOC133905815%2C transcript variant X1; uncharacterized LOC133915001%2C transcript variant X3
+  Gene Descriptions: uncharacterized LOC133905815; uncharacterized LOC133915001
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: protein arginine methyltransferase NDUFAF7%2C mitochondrial-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: protein arginine methyltransferase NDUFAF7%2C mitochondrial
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: protein arginine methyltransferase NDUFAF7 homolog%2C mitochondrial%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: putative ACR family protein%2C transcript variant X1
+  Gene Synonyms: GRMZM2G086052,midA
+  Gene Descriptions: putative ACR family protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 500 aa
+
+MLRSPAAALLRRLAPRVSGGGcGsaTRRRLPPPIaSSlLARFSSTPTSSSSPPPPSSAag
+RDEEAEDdELpgSsGDaGARLSISVDRSGLYNPPEHSHEPSSDSELVKHLKSIIKFRSGP
+ISVAEYMEEVLTNPQSGFYINRDVFGESGDFITSPEVSQMFGEMIGVWAMCLWEQMGqPE
+KVNLIELGPGRGTLLADLLRGSAKFVNFTKALNINLVECSPTLQKVQYNTLKCEDEPVGD
+gKRTVSKLCGAPVyWHASLEQVPSGSPTIIIAHEFYDALPIHQFQKASRGWCEKMVDLAE
+DSSFRFVLSPQPTASLIFLSKRCGWASSEELEKVEHIEVCPKAMELTEQIADRISSDGGG
+ALIIDYGKNGIVSDSLQAIRKHKFVHILDDPGSADLSAYVDFASIRHSAlEASDDISVHG
+PMTQSQFLGSLGINFRVEALLQNCTEEQAESLRTGYWRLVGDGEAPFWEGPDDQTPIGMG
+TRYLAMAIVNKKQGTPVPFE
+
+
+BOP CONSENSUS:
+Length: 499 aa
+
+MLRSPAAALLRRLAPRLtGCSVGAGSSTRRtLPPyISSSfLARFSSTPTSPPPPSSvGAR
+DDEAEDDkLQGsSsDSGARLSISVDRSGLYsPPEHSHEPSSDSELVKHLKSIIKFRSGPI
+SVAEYMEEVLTNPQSGYYMNRDVFGESGDFITSPEVSQMFGELIGVWAMCLWEQMGQPEK
+VNLIELGPGRGTLLADLLRGSAKFVNFTKALNINLVECSPTLQKVQYNTLKCEDESVGDE
+KRTVSKLCGAPVYWHASLEQVPSGlPTIIVAHEFFDALPIHQFQKGSRGWCEKMVDLAGD
+SSFRFVLSPQPTASLIFLSKRCQWASSEELEKVEQIEVCPKAMEITEQIADRISSDGGGA
+LIIDYGKNGIVSDSLQAIRKHKFVHILDDPGSADLSAYVDFAAIKHSAkEASDDISVHGP
+MTQSQLLGSLGINFRVEALMQNCDEKQAESLRTGYWRLVGDGEAPFWEGPDDQTPIGMGT
+RYLAMAIVNKKQGSPVPFE
+
+
+PACMAD CONSENSUS:
+Length: 501 aa
+
+MLRGPAAALLRRLAPHVSGGGCGGATHRRLPPPIASSLLARFSSAPTTSSSPPSSSSAAG
+RDEEAeDEELPEISNGDAGARLSISVDRSGLYNPPEHSHEPSSDSELVKHLKSIIKFRSG
+PISVAEYMEEVLTNPQSGFYINRDVFGESGDFITSPEVSQMFGEMIGVWAMCLWEQMGkP
+EKVNLIELGPGRGTLLADLLRGSAKFVNFTKALNINLVECSPTLQKIQYNTLKCEDEPVD
+DGKRTVSKLCGAPVCWHASLEQVPSGSPTIIIAHEFYDALPIHQFQKASRGWCEKMVDLA
+EDSSFRFVLSPHPTASLIYLSKRCGWASSEELEKVEHIEVCPKAMELTEQIADRISSDGG
+GALIIDYGKNGIVSDSLQAIRKHKFVHILDDPGSADLSAYVDFASIRHSALEASDDISVH
+GPMTQSQFLGSLGINFRVEALLQNCTEEQAESLRTGYWRLVGDGEAPFWEGPEDQTPIGM
+GTRYLAMAIVNKKQGTPVPFE
+
+================================================================================

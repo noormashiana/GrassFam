@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM014068
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             563.0 aa
+Family Size (Extended Family Size): 21 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46043:SF1
+Panther Family ID:               PTHR46043
+Modal Panther ID:                PTHR46043:SF1
+Modal Panther Description:       OS03G0116900 PROTEIN
+Modal Panther Family ID:         PTHR46043
+Modal Panther Fam Desc:          ARM REPEAT SUPERFAMILY PROTEIN
+Interpro Signature Accession:    PTHR46043; PF23005; SSF48371
+Interpro Signature Description:  ARM REPEAT SUPERFAMILY PROTEIN; Domain of unknown function (DUF7032); ARM repeat
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: uncharacterized LOC100846680
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: vacuolar protein 8-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: ARM REPEAT PROTEIN INTERACTING WITH ABF2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04B
+  Gene Products: ARM REPEAT PROTEIN INTERACTING WITH ABF2-like; vacuolar protein 8-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: U-box domain-containing protein 4-like%2C transcript variant X3
+  Gene Descriptions: U-box domain-containing protein 4-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: protein ARABIDILLO 2
+  Gene Descriptions: protein ARABIDILLO 2
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: vacuolar protein 8-like; vacuolar protein 8-like%2C transcript variant X3
+  Gene Descriptions: vacuolar protein 8-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: U-box domain-containing protein 4-like%2C transcript variant X2; vacuolar protein 8-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: U-box domain-containing protein 4-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: U-box domain-containing protein 4%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: vacuolar protein 8
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 560 aa
+
+MSLRGDPAAAGpGeETAEELLARVRGMVPAALaAAtAAgGFPGRWKAIAAKLEaLPACLS
+DLSSHPCFARNALCRELLQSVAATLAEAAELAARCREPPaDGKLQTQSAIDALaGRLDLN
+LRDCALLVKTGVLSDAsGPSPPaEaAAatAaAqADVRELLARLQIGHtEAKsRAVDGLLD
+ALrrDEKSVLSVLGRANVSALVQLLTASAPKVREKAATVICQLAESGACEGLLVSEGVLP
+PLIRLAESGSLVGREKAVlTLQRLSASPDVARAIVGHGGAGPLIEICQTGDSVSQSAAAG
+ALKNLSAVPEVRQALADEGIVRVMVgLLDCGTVLGSKEHAAECLQNLTSGnDSLRRAVVS
+EGGLRSLLLYLDGPLPQESAVsALRNLVGAVSPDSLVSLGVLPRLAHVLRVGSiGAQQAA
+AAAICRISSSAEMKRaVGEHGCvPLLVRMLEAKSNGAREVAAQALASLVScPpNAREVRK
+DeKSVPSLVQLLDPSPANTAKKYAIACLLTLSaAKRCKKLMISHGAIGYLKKLSDMDVAG
+ArKLLERLERGkLRSLFSRk
+
+
+BOP CONSENSUS:
+Length: 565 aa
+
+MSVRGDPAAAApGEETAEELLARVRGMVPAAVGAATAAEGFPGRWKAIAAKLGaLPARLS
+DLSSHPCFARNALCRELLHSVAATLADAAELAARCRGPPRDGKLQTQSAIDALGARLDVN
+LRDCALLVRTGVLSDSDASAvPAAPAAAQADVRELLARLQIGHAEAKsRAVDGLLDALNR
+DEKSVVSvLGRANVSALVQLLTAPAPKAREKAAMVICRLAESGGGACEGLLVSEGALPPL
+IRLAESGSSLVGREKAVLTLQRLSASPDVARAIAGHGGVRPLIEICQTGDSVSQSAAAGA
+LKNLSAvPEARQALADEGIVRVMVsLLDyGTVLGSKEHAADCLQNLTSGGDSFRRAVAHD
+GGLRSLLLYLDAPSPQESAVRALGNMVDAISPDTIVSLGVLPRLAHALRVGStGAQQAAA
+AAICRISASGStDMKRLVGEHGCIPLLVRMLDAKSaGAREVAAQAVASLAAGHPGNAREV
+RRDERSVPSLVQLLDPSPANTAKKYAIACLltLSPAKRCKKLMISHGAIGYLKKLSDMEV
+AGARDLLERLEERGKLRSIFGSKNQ
+
+
+PACMAD CONSENSUS:
+Length: 558 aa
+
+MSLRGDPAAAGdETAEELLERVRGMVPAALAAARAAGGFPGRWKAIAAKLEaLPACLSDL
+SSHPCFAKNALCRELLQSVAATLAEAAELAGRCREPPaDGKLRTQSAIDALSGKLDLNLR
+DCALLVKTGVLSDASGPSPPAEAAAgtAPAhADVRELLARLQIGHTEAKNRAVDGLLEAL
+RrDERSVLSVLGRANVSAMVQLLTASAPVVREKAATVVCQVAESGSCEGLLVSEGVLPPL
+IRLAESGSLVGREKAAiTLQRLSvSPDVARAIVGHGGAGPLIEICQTGDSVSQSAAAGAL
+KNLSAVPEVRQALADEGIVRVMVgLLDCGAVAGSKEHAAECLQNLTSSNDgLRRAVVSEG
+GLRSLLLYLDGPLPQEPAVGALRNLVGAVSPDSLVSLGVLPRLVHVLRVGSIGAQQAAAA
+AICRISSSAEMKRAVGEHGCvPLLVRLLEAKSNGAREVAAQALASLVSCPANAREMKKDD
+KcVPSLVQLLDPSPANTAKKYAIACLLTLSAaKRCKKLMISHGAIGYLKKLSDMDVAGAK
+KLLERLERGsLRSLFSRn
+
+================================================================================

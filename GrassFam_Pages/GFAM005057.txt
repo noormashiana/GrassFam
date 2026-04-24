@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM005057
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             432.0 aa
+Family Size (Extended Family Size): 42 (42) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR31642
+Modal Panther ID:                PTHR31642:SF56
+Modal Panther Description:       PUTRESCINE HYDROXYCINNAMOYLTRANSFERASE 2
+Modal Panther Family ID:         PTHR31642
+Modal Panther Fam Desc:          TRICHOTHECENE 3-O-ACETYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:3.30.559.10; PTHR31642; PF02458
+Interpro Signature Description:  -; TRICHOTHECENE 3-O-ACETYLTRANSFERASE; Transferase family
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: hydroxycinnamoyltransferase 4
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu07H
+  Gene Products: hydroxycinnamoyltransferase 4-like
+Ata
+  Gene count: 5
+  Modal chromosome: Ata07D
+  Gene Products: hydroxycinnamoyltransferase 4; hydroxycinnamoyltransferase 4-like
+Tae
+  Gene count: 10
+  Modal chromosome: Tae07D
+  Gene Products: hydroxycinnamoyltransferase 4-like
+Ola
+  Gene count: 3
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl06
+  Gene Products: hydroxycinnamoyltransferase 4; hydroxycinnamoyltransferase 4-like
+  Gene Descriptions: hydroxycinnamoyltransferase 4; hydroxycinnamoyltransferase 4-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa06
+  Gene Products: hydroxycinnamoyltransferase 4-like; putrescine hydroxycinnamoyltransferase 2-like
+  Gene Synonyms: HCT4,OsHCT4,P0568D10.3
+  Gene Descriptions: hydroxycinnamoyltransferase 4-like; putrescine hydroxycinnamoyltransferase 2-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: hydroxycinnamoyltransferase 4-like
+  Gene Descriptions: hydroxycinnamoyltransferase 4-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi04N
+  Gene Products: hydroxycinnamoyltransferase 4-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha04
+  Gene Products: hydroxycinnamoyltransferase 4-like
+Msi
+  Gene count: 4
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi10
+  Gene Products: hydroxycinnamoyltransferase 4
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: hydroxycinnamoyltransferase 4
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 429 aa
+
+MAmVEVLSSELVVPAEeTPAGAVWLSNLDLAARRGYTPTVYFYRPNGePGFFaADAVKDS
+LARALVAFYPLAGRLGLDgTGRVQIDCTGEGAVFVTARSeHYALeDLMNEFVPCgEMRDL
+LVPPTPAPNPPCaLLFAQVTRLRCGGVVLGLALHHSVVDARSAAHFVETWASIARGgtGD
+APVPPCFDHRLLAARPaRAVLYDHPEYKPEPAPVHAVtAgSTYASAIITlSKqQVsALKA
+RCAGASTFRAVVALVWQCACRARaLPpDAETRLYSMIDMRARLAPPLPpGYFGNAVIRTS
+asATVGEVVSNPVgYAARRARAATSQGDDYARSLVDYLEGVDaMNLPRSGISRAHLRAIS
+WMGMSLSDADFGWGAPAFMGPALMYYSGFVYVMNAPGKDGAVALALSLEPESMPEFRKVF
+ADELARLel
+
+
+BOP CONSENSUS:
+Length: 429 aa
+
+MAmVeVLSSElVVPAEaTPGGSVWLSNLDLAARRGYTPTVYFYRPNGEPGFFAADAMKDS
+LARALVAFYPLAGRLGLDGaGRVQVDCTGEGVVFVTARSeHYALEDLMNEFVPCGEMRDL
+FVPPTPAPNPPCALLLVQVTRLRCGGVVLGqAMHHSVVDARSAAHFVETWASISRGaTgd
+pPVPPCFDHTLLAARPQsRAVLYDHPEYKPEPAPVDPVSASTYASAIITvSKQQVGALRA
+RCAGASTFRAVVALVWQCACRARALPPdAETRLYSMIDMRaRLdPPLPaGYFGNAVIRTS
+TsATVGEVVSSPVvHAARRARAATSQGDDYARSLVDYLEGVDTMNLPRSGISRAHLRAIS
+WMGMSLSDADFGWGAPAFMGPALMYYSGFVYVMNAPGKDGALALALSLEPESMPEFRKVF
+ADELARLEL
+
+
+PACMAD CONSENSUS:
+Length: 430 aa
+
+MAtVELLTTELVVPAEETPAGAVWLSNLDLAARRGYTPTVYFYRtNGKPEFFEADAVKDS
+LARALVAFYPLAGRLGLDAATGRVQIDCTGEGAVFVTARSEYALDDLLNEFVPCDEMRDL
+LVPATPAPNPPCPLLFAQVTRLRCGGVVLGLALHHSVVDARSAAHFVETWASIARGGGGD
+APLPPCFDHRLLSARPTRAVLYDHPEYKPEPAPeHAVAAGStYASAIITLTKAQVSALKA
+RCAGASTFRAVVALVWQCACRARSLPaDAETRLFSMVDMRARLAPPLPPGYFGNAVIRTS
+ALATVGEVVgNPVGYAARRALAATSQGDDYARSLVDYLEGVDAMNLPRSGISRAHLRAIS
+WMGMSLHDSDFGWGAPVFMGPALMYYSGFVYVMQAPGKDGAVALALSLEPESMPEFRKVF
+AEEvARLqtI
+
+================================================================================

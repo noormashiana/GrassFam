@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM019578
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             417.0 aa
+Family Size (Extended Family Size): 35 (38) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10598:SF0
+Panther Family ID:               PTHR10598
+Modal Panther ID:                PTHR10598:SF0
+Modal Panther Description:       SET1_ASH2 HISTONE METHYLTRANSFERASE COMPLEX SUBUNIT ASH2
+Modal Panther Family ID:         PTHR10598
+Modal Panther Fam Desc:          SET1/ASH2 HISTONE METHYLTRANSFERASE COMPLEX SUBUNIT ASH2
+Interpro Signature Accession:    cd12872; G3DSA:2.60.120.920:FF:000043; G3DSA:2.60.120.920; PTHR10598; SM00449; SSF49899
+Interpro Signature Description:  SPRY_Ash2; Protein TRAUCO; -; SET1/ASH2 HISTONE METHYLTRANSFERASE COMPLEX SUBUNIT ASH2; SPRY_3; Concanavalin A-like lectins/glucanases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi04
+  Gene Products: protein TRAUCO
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: protein TRAUCO-like%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: protein TRAUCO
+Tae
+  Gene count: 4
+  Modal chromosome: Tae05B
+  Gene Products: protein TRAUCO-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl11
+  Gene Products: protein TRAUCO-like
+  Gene Descriptions: protein TRAUCO-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa11
+  Gene Products: protein TRAUCO
+  Gene Descriptions: protein TRAUCO
+Ecu
+  Gene count: 3
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 2
+  Modal chromosome: Pau19
+  Gene Products: protein TRAUCO-like
+  Gene Descriptions: protein TRAUCO-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi03K
+  Gene Products: protein TRAUCO-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha03
+  Gene Products: protein TRAUCO-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi05
+  Gene Products: protein TRAUCO
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: protein TRAUCO; uncharacterized LOC100192531
+  Gene Synonyms: GRMZM2G145666
+  Gene Descriptions: uncharacterized LOC100192531
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 424 aa
+
+MADAAAAFAsPPSPPSPAMQPPSDlSPPPPADTPASaAAAqTPSLPDTPASADPDTPFSD
+AAPADASDADaSAvAPPDADApGDgEDDGINnPSGGARKHMTLAPPAPPSKKSKKKGGNS
+VWTRPnSRKGKKKAKQPGgavAGpaGAAgGgrPrPSaGGEEEFlLVPAPRLAAERNDDAP
+dLPVLLSRVFKSERIEVSDDRLTAGSTKGYRMVRATRGVAAGAWYFEVKVVHLGsTGHTR
+LGWATNkADLQTPVGYDaYGFGYRDiDGAKVHKAWRDKYADEGYGEGDVLGFYISLPDGE
+lYEPKQPDLVqYKGMPFHVQVPKEEQKTPDPVPGSEICYFKNGVCQGTAFkDIPGGRYYP
+AASMYTLPNEPNCvVKFNFGPDFEFFPQDFGGLPVPQPMSEVPYQAYELKNEGPAENGiA
+EKts
+
+
+BOP CONSENSUS:
+Length: 415 aa
+
+MADAAPPSPAMLPPSDSdLLLPPtDAPTPEAAARTPNLPDTPASAADPETPFSDAATASD
+ADASAVAPLYAAAVDDAEDDGINDPSGAARKHMTLAPPAPPSKKSKKKGGNCVWTRPNSR
+KGKKKAKQPgHAvAGGAGASGGGRPRPSCGEDEFLLTPAPRLAAERNDDGPELPVLLSRV
+YKSEKIEVSEDRLTAGSTKGYRMIRATRGVASGAWYFEVKVlHLGSSGHTRLGWATNKAD
+IQTPVGCDsFGFSYRDVDGSKVYKAWRDkYADEGYGEGDVLGFYISLPQGELYEPKQPDL
+VKYKGMPFHAQGLKDEKKTPDPVPGSEIVYFKNGVCQGTAFEDIPGGRYYPAASMYTLPD
+EPNCEVRFNFGPDFtFFPEDFGGRPVPRPMSEVPYQAYELKNEGPAENGnAEKAG
+
+
+PACMAD CONSENSUS:
+Length: 423 aa
+
+MADDAAAFASPPSPPSPAMQPPSDLSPPPPSSPPADTPASAAaQTPSLPDTPASLDPDTP
+FSDAAPADASDADtPALAPPDAPGDGEDDGITNPSGGsRKHMTLAPPAPPSKKSKKKGGN
+SVWTRPASRKGKKKARQPGGHGPGGAAtGsHPgPSAGGEEEFqLVPATRLAAERSDDAAg
+QPVLLSRVFKSERIELSDDRLTAASTKGYRMVRATRGVAAGAWYFEVKVVHLGATGHTRL
+GWATNRADLQTPVGYDAYGFGYRDIDGAKVHKAWRDKYADEGYGEGDVLGFYISLPDGER
+YEPKQPDLIQYKGMPFHVQVPKEEQKTPDPVPGSEICYFKNGVCQGSAFKDIPGGRYYPA
+ASMYTLPNEPNCVVKFNFGPDFEFFPQDFGgLPIPQPMSEVPHQAlEVKNEGPaENGIAE
+KTS
+
+================================================================================

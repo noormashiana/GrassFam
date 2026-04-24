@@ -1,0 +1,105 @@
+================================================================================
+GrassFam ID: GFAM001382
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             482.0 aa
+Family Size (Extended Family Size): 15 (16) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48047:SF49
+Panther Family ID:               PTHR48047
+Modal Panther ID:                PTHR48047:SF49
+Modal Panther Description:       GLYCOSYLTRANSFERASE
+Modal Panther Family ID:         PTHR48047
+Modal Panther Fam Desc:          GLYCOSYLTRANSFERASE
+Interpro Signature Accession:    cd03784; G3DSA:3.40.50.2000:FF:000103; G3DSA:3.40.50.2000:FF:000064; G3DSA:3.40.50.2000; PTHR48047; SSF53756
+Interpro Signature Description:  GT1_Gtf-like; Glycosyltransferase; Glycogen Phosphorylase B;; GLYCOSYLTRANSFERASE; UDP-Glycosyltransferase/glycogen phosphorylase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu02H
+  Gene Products: UDP-glycosyltransferase 92A1-like; crocetin glucosyltransferase 3-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata02D
+  Gene Products: UDP-glycosyltransferase 92A1-like
+Tae
+  Gene count: 5
+  Modal chromosome: Tae02A
+  Gene Products: UDP-glycosyltransferase 92A1-like
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: UDP-glycosyltransferase 92A1-like
+  Gene Descriptions: UDP-glycosyltransferase 92A1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: UDP-glycosyltransferase 92A1
+  Gene Descriptions: UDP-glycosyltransferase 92A1
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: UDP-glycosyltransferase 92A1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: UDP-glycosyltransferase 92A1-like
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: UDP-glycosyltransferase 92A1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 476 aa
+
+MAPETDHHRRADHVVLFPFMAQGHLAPFRCLAALVRRCRPDARVTVVATpGTAeSLRAHL
+DaDGIsVHALPFrPADASqQLIDLFLASESLRPAFHQFIaGLRrSDPrADVHVVADMFLA
+WTaDVARGDpGVTHSVLLTTGGYGSALYFSLWNSVPLVPNdDDDecFRLPSFPDIrVHRS
+QLTDHLAAADGGDAWSTFIRRQIAAFSRADALLVNTAEKLEPKGLSMLRQWLNNVPIFPV
+GPLLRAASSSSpqETttsSPILAWLDKQPPGSVLYVSFGSLYTISASQmtELAMGLEKSG
+HKFVWVVQPAADVNGESpPeGLPDGFAERMEAAGRGLVVRCWAPQVEILAHpATGAFLTH
+CGWNSAQESLAaGVPMVGWPLSAEQFYNAKLLAEEMGVCVELARGaAAAVTRDEVAEAVE
+RVLGETSrVRAAMRRKAAEMKEVIDAARDGDGEeSSLGVTRRFLDAMARTSSCsRs
+
+
+BOP CONSENSUS:
+Length: 477 aa
+
+MAPETDHHRRADHVVLFPFMAQGHLAPFRCLAALVRRCRPDARVTVVATsGTADSlRAHL
+DdDGIsVHALPFrPADASQQLIDLFLASESLRPAFHQFIVGLRRSDPrADVHVVADMFLA
+WTADVARGDPGVTHSVLLTTGGYGSALYFSLWNSVPLVPNdDDDECFRLPSFPDIRVHRS
+QLTDHLAAADGGDAWSTFIRRQIAAFSRADALLVNTAEKLEPKGLSMLRQWLNNVPIFPV
+GPLLRAASSSSPEETttsSPILAWLDKQPPGSVLYVSFGSLYTISASQATELAMGLEKSG
+HKFVWVVQPAADVNGSESPSSGLPDGFAERMEAAGRGLVVQCWAPQVEILAHPATGAFLT
+HCGWNSAQESLAaGVPMVGWPLSAEQFYNAKLLAEEMGVCVELARGAAAAVTRDEVAEAV
+ERVLGETSrVRAAMRRKAAEMKEVIDAARDGDGEESSLGVTRRFLDAMARTSSCSRs
+
+
+PACMAD CONSENSUS:
+Length: 478 aa
+
+MVAAERRAHVVLFPFMAQGHLAPFRCLAELARRARPGARVTVVATPGTAGPLRASLAADG
+LGGDVGVHALPFDPAGHGLPAGAhTTAGIGSHQLITLFAASESLRPAFRHLVAGLRAADP
+GADVHVMADMFLGWTLDVAREAGASHSAVLTTGGYGAAVYFSLWNSVPLPADDAFPLPPF
+PDVTVRRSQLTDHLAAADGKDAWSTFVSKQIAAFARTDALLVNTAENLEPKGLAMLRQLF
+NVPIYPVGPLLRATPPAPAsGAKtGGAILAWLDKQPPGSVLYVSFGSQYTIGASQMMELA
+AGLERSAHRFVWVIRPPAGSDVNGEFRPEWLPEGFRERAEAGGRGLVARCWAPQVEILAH
+AATGAFLTHCGWNSVQESLGSGVPLLGWPLSAEQFYNAKVLAEEMGVCVEVARGtRAALS
+tEKLAAAVEAVLGDTAERAGMRRRAAEMREVIAAARESGGNGSSLKVMEKFFADVVHC
+
+================================================================================

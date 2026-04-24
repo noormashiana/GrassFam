@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM016571
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             347.0 aa
+Family Size (Extended Family Size): 70 (72) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43205:SF75
+Panther Family ID:               PTHR43205
+Modal Panther ID:                PTHR43205:SF75
+Modal Panther Description:       OS12G0226400 PROTEIN
+Modal Panther Family ID:         PTHR43205
+Modal Panther Fam Desc:          PROSTAGLANDIN REDUCTASE
+Interpro Signature Accession:    cd08295; G3DSA:3.40.50.720:FF:000121; G3DSA:3.40.50.720; G3DSA:3.90.180.10; PTHR43205; PF16884; SSF50129; SSF51735
+Interpro Signature Description:  double_bond_reductase_like; Prostaglandin reductase 2; -; PROSTAGLANDIN REDUCTASE; N-terminal domain of oxidoreductase; GroES-like; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 5
+  Modal chromosome: Bdi04
+  Gene Products: 2-alkenal reductase (NADP(+)-dependent)
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 4
+  Modal chromosome: Hvu02H
+  Gene Products: 2-alkenal reductase (NADP(+)-dependent)-like
+Ata
+  Gene count: 5
+  Modal chromosome: Ata05D
+  Gene Products: 2-alkenal reductase (NADP(+)-dependent); 2-alkenal reductase (NADP(+)-dependent)-like
+Tae
+  Gene count: 14
+  Modal chromosome: Tae05B
+  Gene Products: 2-alkenal reductase (NADP(+)-dependent)-like; 2-alkenal reductase (NADP(+)-dependent)-like%2C transcript variant X1; 2-alkenal reductase (NADP(+)-dependent)-like%2C transcript variant X2; 2-alkenal reductase (NADP(+)-dependent)-like%2C transcript variant X3
+Ola
+  Gene count: 2
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 6
+  Modal chromosome: Ogl12
+  Gene Products: 2-alkenal reductase (NADP(+)-dependent)-like
+  Gene Descriptions: 2-alkenal reductase (NADP(+)-dependent)-like
+Osa
+  Gene count: 6
+  Modal chromosome: Osa12
+  Gene Products: 2-alkenal reductase (NADP(+)-dependent); 2-alkenal reductase (NADP(+)-dependent)%2C transcript variant X1
+  Gene Descriptions: 2-alkenal reductase (NADP(+)-dependent)
+Ecu
+  Gene count: 10
+  Modal chromosome: Ecu06
+Pau
+  Gene count: 2
+  Modal chromosome: Pau22
+  Gene Products: 2-alkenal reductase (NADP(+)-dependent)-like
+  Gene Descriptions: 2-alkenal reductase (NADP(+)-dependent)-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 5
+  Modal chromosome: Pvi03K
+  Gene Products: 2-alkenal reductase (NADP(+)-dependent)-like; 2-alkenal reductase (NADP(+)-dependent)-like%2C transcript variant X2; NADPH-dependent oxidoreductase 2-alkenal reductase-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha03
+  Gene Products: 2-alkenal reductase (NADP(+)-dependent)-like; 2-alkenal reductase (NADP(+)-dependent)-like%2C transcript variant X2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi14
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: 2-alkenal reductase (NADP(+)-dependent)
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: NADP-dependent oxidoreductase P2
+  Gene Synonyms: GRMZM2G080650
+  Gene Descriptions: NADP-dependent oxidoreductase P2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 346 aa
+
+AAAAAEVSNKRVILKRYVTGFPtEDDMEVVTATARLAVPPGSAAVVVKNLYlSCDPYMRn
+RMTkHeEPSYVPDFVPGEVLtnFGVSKVVaSGHPDFKaGDLVWGMTGWEEYTLITNPESL
+FKINHPELPLSYYTGVLGMPGLTAYAGFFDVAKPKKGDYVFVSAASGAVGQLVGQLAKIT
+GCYVVGSAGSDEKVNLLKTKFGFDDAFNYKKEQDLNAALKRCFPEGIDIYFENVGGAMLD
+AVLLNMRlHGRIAVCGMISQYNLEQPEGVRNLFCiVTKRiRMEGFmVfDYfGtYRKFEEE
+MAGYLKEGKItYVEDVAEGIEkAPAALIGLFyGRNVGKQLVAVARE
+
+
+BOP CONSENSUS:
+Length: 346 aa
+
+AAAAAEVSNKRVILKRYVTGFPTEDDMELVTAtARLAVPPGSAAVvVKNLYLSCDPYMRn
+RMTrHeEPSYVPDFVPGEVLtTFGVSKVVeSGHPDFKAGDLVWGMTGCEEYTLITNPESL
+FKINHPELPLSYYTGVLGMPGLTAYAGFFDVAKPKKGDYVFVSAASGAVGQLVGQLAKIT
+GCYVVGSAGSDEKVNLLKTKFGFDDAFNYKKEQDLNAALKRCFPEGIDIYFENVGGAMLD
+AVLLNMRLHGRIAvCGMISQYNLEQPEGVRNLFCiVTKRIRMEGFiVtDYFGTYRKFEEE
+MAGYLKEGKITYVEDVAEGIEnvPAALIGLFyGRNvGKQLVAVARE
+
+
+PACMAD CONSENSUS:
+Length: 350 aa
+
+AvAaAAeGEEVPNRRVILKRYVTGFPSEDDMEVVtGTARLAVPPGSAAVVVKNLYVSCDP
+YMRgRMTKHErPSYVPDFVPGEVLVNFGVSKVVASGHPDFKVGDLVWGmTGWEEYTLIPN
+PESFFKINHPElPLSYYTGVLGMPGLTAyAGFFDVAKPKKGDYVFVSAASGAVGQIVGQL
+AKLTGCYVVGSAGSDEKVNLLKTKFGFDEAFNYKKEQDLNAALKRYFPEGIDIYFENVGG
+AMLDAVLlNMRnHGRIPVCGMISQYNLEqPEGVrNLFqLVaKRvRMEGFmVsDYfGeYRK
+FEEEMVGYLKEGKInYVEDVAEGLEKAPAALIGLFTGRNVGKQLVAVARE
+
+================================================================================

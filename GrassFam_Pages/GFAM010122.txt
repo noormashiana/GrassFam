@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM010122
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             525.0 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43085:SF10
+Panther Family ID:               PTHR43085
+Modal Panther ID:                PTHR43085:SF10
+Modal Panther Description:       FRUCTOKINASE-LIKE 1, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR43085
+Modal Panther Fam Desc:          HEXOKINASE FAMILY MEMBER
+Interpro Signature Accession:    cd01167; G3DSA:3.40.1190.20:FF:000021; G3DSA:3.40.1190.20; PTHR43085; SSF53613
+Interpro Signature Description:  bac_FRK; Fructokinase-like 2, chloroplastic; -; HEXOKINASE FAMILY MEMBER; Ribokinase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: fructokinase-like 1%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: fructokinase-like 1%2C chloroplastic%2C transcript variant X3
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: fructokinase-like 1%2C chloroplastic%2C transcript variant X2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: fructokinase-like 1%2C chloroplastic; fructokinase-like 1%2C chloroplastic%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: fructokinase-like 1%2C chloroplastic%2C transcript variant X3
+  Gene Descriptions: fructokinase-like 1%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: fructokinase-like 1%2C chloroplastic%2C transcript variant X2
+  Gene Descriptions: fructokinase-like 1%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau02
+  Gene Products: fructokinase-like 1%2C chloroplastic%2C transcript variant X3
+  Gene Descriptions: fructokinase-like 1%2C chloroplastic
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: fructokinase-like 1%2C chloroplastic
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: fructokinase-like 1%2C chloroplastic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: fructokinase-like 1%2C chloroplastic%2C transcript variant X5
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: uncharacterized LOC100281184
+  Gene Synonyms: GRMZM2G466780
+  Gene Descriptions: uncharacterized LOC100281184
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 524 aa
+
+MAMAsPaFLLPsLFPKPtlLAAPLHPSLPRgRhLRCSPNGAAVPESPKPAPRRGRKKSPS
+PSpPKAKATRRRTKKAgQDSDSEGEEEPAKRtsRRTRKSKQEAKQEEvEAQAAShGTEET
+iqeAEEEDgvEvGSDyDDGEDFPYEWPPLVCCFGAPRWEFVPTVRVSDRQMHPDQYSTWL
+HLQWEPPEFARAPGSAASNVAIALTRLGGRAAVLGKVGDDDFGRELVYRMNCERVQTRAI
+RFDGkAATAtARMKVsFRDREDGKGGTKLVAETVKSAAEDSLRKtEINVDVLKEARMFHF
+NSEVLLTPSMHDTLFRAIELSKKFGSKIFFDLNLPLPLWtSRDETKEVINRAWKEADIIE
+VSRDELEFLLDHEYYEYKRnTPPQYYLEGFHLTRNWPQYYHYTPEEIAPIWHDGIKLLLV
+TYGTLRIHYYTPKFHGCVVGTEDALITPYTTDRTGSGDAVVAAAIRKLTTCPEMYEDQDT
+LERQLRFAVAAGIISQWTIGAVRGFPTESATQNLKEQVYVPSMW
+
+
+BOP CONSENSUS:
+Length: 524 aa
+
+MAMAAASPFLLLQPLAPKPHRPFGPLHPSLLRTRLLRCSPNGAAAPEPPPKPTPRRGRKK
+ASEPGSSPPKAKATRRKTKKAGQESDSEGEEEPAKPKtRRTKKSPKQEAKQqqEEEdAvA
+EEPKsAAREEDaGSDGDDGADLPYEWPPLVCCFGAPRWEFVPTVRVSDQQMHPDQYSTWL
+HLQWEPPEFARSPGSASSNVAIALTRLGGRAAVLGKVGDDDFGHELVYRMNRERVQTRAI
+RFDGAASTAIARMKVGFRDREDGsGGTsLVAETVKSSAEDSLhKDEINADVLKEARMLHF
+NSEVLLTPSMHdTLFRTIELSKKFGSKIFFDLNLPLPLWRSRDETKEFINRAWNEADIIE
+VSRDELEFLLDHKYYEYKRATPPQYYLDGFHLTRNWPQYYHYTPEEIAPIWHDGIKLLLV
+TYGTLRIHYYTPKFHGCVVGTEDALITPTTTDRTGSGDAIVAAAIRKLTTCPEMYEDQDT
+LERELRFAVAAGIISQWTIGAVRGFPTESATQNLKEQVYVPSMW
+
+
+PACMAD CONSENSUS:
+Length: 523 aa
+
+MAMAaPAFLLPSLFPKPTLLAAPLHsSLPRGRqLRCSPNGAAVPESPKPASRRGRKKSPS
+PSAPKAKATRRRTKKADQDSDSEGEEEPAKRTsRRTRKSKEEAKQEEVAQAAShGTEETI
+QEAEEEDGVEVGSDYDDGEDFANEWPPLVCCFGAPRWEFVPTVRVSDRQMHPDQYSTWRH
+LQWEPPEFARAPGSAASNVAIALTRLGGRAAVLGKVGDDDFGRELVYRMNCERVQTRAIK
+FDGKAATATARMKVSFRDREDGKGGTKLVAETVKSAAEDSLRKTEINVDVLKEARMFHFN
+SEVLLNPSMHDTLFRAIELSKKFGSKVFFDLNLPLPLWTSRDKTKEVINRAWKEADIIEV
+SRDELEFLLDHEYYEYKRNTPPQYYLEGFHFTRNWPQYYHYSPEEIAPIWHDGIKILLVT
+YGTLRIHYYTPKFHGCVVGTEDALITPYTTDRTGSGDAVVAAAIRKLTTCPEMYEDQDTL
+ERQLRFAVAAGIISQWTIGAVRGFPTESAAQNLKEQVYVPSMW
+
+================================================================================

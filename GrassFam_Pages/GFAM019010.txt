@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM019010
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             529.0 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47531:SF2
+Panther Family ID:               PTHR47531
+Modal Panther ID:                PTHR47531:SF2
+Modal Panther Description:       RING_U-BOX SUPERFAMILY PROTEIN
+Modal Panther Family ID:         PTHR47531
+Modal Panther Fam Desc:          RING/U-BOX SUPERFAMILY PROTEIN
+Interpro Signature Accession:    G3DSA:3.30.40.10:FF:000388; PTHR47531
+Interpro Signature Description:  Putative RING zinc finger domain superfamily protein; RING/U-BOX SUPERFAMILY PROTEIN
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: E3 ubiquitin-protein ligase RLIM
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: uncharacterized LOC123439701
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: uncharacterized LOC109780106%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: E3 ubiquitin-protein ligase RLIM-like; E3 ubiquitin-protein ligase RNF6-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: uncharacterized LOC127774754
+  Gene Descriptions: uncharacterized LOC127774754
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: E3 ubiquitin-protein ligase RLIM
+  Gene Descriptions: E3 ubiquitin-protein ligase RLIM
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: uncharacterized LOC133885895; uncharacterized LOC133928813%2C transcript variant X2
+  Gene Descriptions: uncharacterized LOC133885895; uncharacterized LOC133928813
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: E3 ubiquitin-protein ligase RLIM-like; E3 ubiquitin-protein ligase RLIM-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: E3 ubiquitin-protein ligase RLIM
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: E3 ubiquitin-protein ligase RLIM
+Zma
+  Gene count: 2
+  Modal chromosome: Zma06
+  Gene Products: Putative RING zinc finger domain superfamily protein; RING/U-box superfamily protein
+  Gene Synonyms: cl11898_1b,GRMZM2G060999
+  Gene Descriptions: RING/U-box superfamily protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 534 aa
+
+MGSGSSKAAssSSSSSAAseAGGEvKRgNGsGKGRRGRSLLPLPSSSCFRGsTtPCdgDA
+SaAAPPpgVESSKGGETASLPSLTHtaKSDEDAlamPKShPGEGttAPSSDSERDQDDDV
+LQNAAATSTavAANQSPNPSDRSRPRFGVNFGLSRAVSLGSSVACSILSSGLSTSANPGE
+grGNVDdSSDAnISQQGGAsTAGIDSTLDMLRDSVTAQARAARQARRNLLESEDANLRnS
+YRRMGSQEPFEGSVRFSRTLSVGRLRDRVLRRTPFSDGLFTPSLLYDRAVWPSGNASARQ
+DSAVMQRTNSDRSSELRSDPSTNSmYNSsSETLREASNRDLLERRSAFLERRRRIRSQVR
+ALQRLGSRFENLSGHERSCILSGQHRTGNCNCRTSSRPGNPDEETSTRASISRIVMLAEA
+LFEVLDEIHQQSAALSSSRPSFSSIGSVPAPREIVEcLPVKVYRKPLKHQTEEAAQCYIC
+LVEYEEGDCVRILPCNHEFHLTCVDKWLKEIHRVCPLCRGDVCRSDaSsIGKvS
+
+
+BOP CONSENSUS:
+Length: 521 aa
+
+MGSGSSKAASASpSpGGGEAKKRNGKPRGRSLMRLPSYSCFRGFTPECDASSSLPAPPPP
+LGVESSKGGETPSLTHIGISDEDAPSAPKSNPsEGRTaPSSDTDRDQDDDVLQNVTATsT
+AVDDnQSPNPSDRSRPCFGVNFGLSRAVSLGSSVACSIMSSGLSTSANPsiGNVDHSSDA
+NIPQQGGASTSGIYSSLDMLRDSVTTQARAAHQARRNLLESEDANLRYSHRRMGPQEPSE
+GSVRFSRTLSVGRLRDRVLRRTPFSDSLFTSSLYDRPVWPAGNASARQDSSVMQRTNSDR
+gSEPQSEPSTNSTYNSGSATLREASNRDLLERRSAFLERRRRIRSQVRALQRLGSRFENL
+SGHERSCILSGQHRTGNCNCRTSSRPGNSDEETGTRASISRIVMLAEALFEVLDEIHQQS
+AALSSRPSFPSIGSVPAPKEIVESLPVKVYRKPLKHQTDEAAQCYICLVEYEEGDCVRIL
+PCNHEFHLTCVDKWLKEIHRVCPLCRGDVCRSDSSSIGKFS
+
+
+PACMAD CONSENSUS:
+Length: 532 aa
+
+MGSGSSKATtsSSSSSSsTAAEAGGEVKRGNGSGKGRRGRSLLPLPSSSCFRGSTTPCEG
+DASAApPvdVEsNKGGETASLPSLTHTAKSDEDALAMPKSHPGEGTAAPSSDSERDQDDD
+VLQNAAATSTSAAANQLPNPSDRSRPRFGVNFGLSRAVSLGSSVACSILSSGLSTSANPG
+EGRGDVDDSSDAGISQQGGALTAGIDSTLDMLRDSVTAQARAARQARRNLLESEDASLRN
+SYRRMGSQEPFEGSVRFSRTLSVGRLRDRVLRRTPFSDGLFTPSLLYDRAVWPSGNASAR
+QDSAVMQRTNSDRSSELRSDPSTNDLYNSSSEREASNRDLLERRSAFLERRRRIRSQVRA
+LQRLGSRFENLSGHERSCILSGQHRTGNCNCRTSSRqGNPDEETSTRASISRIVMLAEAL
+FEVLDEIHQQSAALSSSRPSFSSIGSVPAPREIVECLPVKVYRKPLKYQTEEAAQCYICL
+VEYEEGDCVRILPCNHEFHLTCVDKWLKEIHRVCPLCRGDVCRSDApIGKVS
+
+================================================================================

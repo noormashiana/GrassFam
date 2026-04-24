@@ -1,0 +1,127 @@
+================================================================================
+GrassFam ID: GFAM008486
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             340.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43580:SF2
+Panther Family ID:               PTHR43580
+Modal Panther ID:                PTHR43580:SF2
+Modal Panther Description:       CYTOKINE-LIKE NUCLEAR FACTOR N-PAC
+Modal Panther Family ID:         PTHR43580
+Modal Panther Fam Desc:          OXIDOREDUCTASE GLYR1-RELATED
+Interpro Signature Accession:    G3DSA:3.40.50.720:FF:000058; G3DSA:1.10.1040.10:FF:000016; G3DSA:1.10.1040.10; G3DSA:3.40.50.720; PTHR43580; PIRSF000103; PF03446; PF14833; SSF51735; SSF48179
+Interpro Signature Description:  Putative oxidoreductase GLYR1 homolog; Glyoxylate/succinic semialdehyde reductase 2; -; OXIDOREDUCTASE GLYR1-RELATED; HIBADH; NAD binding domain of 6-phosphogluconate dehydrogenase; NAD-binding of NADP-dependent 3-hydroxyisobutyrate dehydrogenase; NAD(P)-binding Rossmann-fold domains; 6-phosphogluconate dehydrogenase C-terminal domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: glyoxylate/succinic semialdehyde reductase 2%2C chloroplastic%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: glyoxylate/succinic semialdehyde reductase 2%2C chloroplastic%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: glyoxylate/succinic semialdehyde reductase 2%2C chloroplastic
+Tae
+  Gene count: 2
+  Modal chromosome: Tae03B
+  Gene Products: glyoxylate/succinic semialdehyde reductase 2%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: glyoxylate/succinic semialdehyde reductase 2%2C chloroplastic
+  Gene Descriptions: glyoxylate/succinic semialdehyde reductase 2%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: glyoxylate/succinic semialdehyde reductase 2%2C chloroplastic
+  Gene Descriptions: glyoxylate/succinic semialdehyde reductase 2%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: glyoxylate/succinic semialdehyde reductase 2%2C chloroplastic-like
+  Gene Descriptions: glyoxylate/succinic semialdehyde reductase 2%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: glyoxylate/succinic semialdehyde reductase 2%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: glyoxylate/succinic semialdehyde reductase 2%2C chloroplastic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: glyoxylate/succinic semialdehyde reductase 2%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: glyoxylate/succinic semialdehyde reductase 2%2C chloroplastic
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 341 aa
+
+MMAAAaLLCARAAPALlpPLRRGsRrLVSCSAaaSSSSsdGGGGVEFQGKVGFLGLGIMG
+APMASNLIKAGCDVTVWNRTKSKCDPLLSLGAKYEPSPAqVASSCDVTFAMLADPESAAE
+VACGANGAAEGMAPGKGYVDVSTVDgATSKLIGERITSTGASFLEAPVSGSKKPAEDGLL
+IFLTAGDESLYKRVAPLLDVMGKSRFYLGDVGNGAAMKLVVNMVMGSMMVSFSEGLLLSE
+KVGLDPNTLVEVISQGAISAPMFSLKGPSMVKAAYPTAFPLKHQQKDLRLALALAESVSQ
+SIPTVAAANELYKvAKSLGLADqDFSAVIEALKAKVQSSQQ
+
+
+BOP CONSENSUS:
+Length: 337 aa
+
+MMAAAFLLCPRVALPLRRGSRLLVSCSASSSSSSSDAAGGVGFQGRVGFLGLGIMGAPMA
+SNLIKAGCDVTVWNRTKSKCDPLLSLGAKFESSPARVASSCDVTFAMLADPESAfEVACG
+ANGAAEGMAPGKGYVDVSTVDDATSKLIGKRITSTGASFLEAPVSGSKKPAEDGLLIFLT
+AGDESLYKRVAPLLDVMGKSRFYLGDVGNGAAMKLVVNMVMGSMMVSFAEGLLLSEKVGL
+DPNTVVEVISQGAINAPMFSLKGPSMVKAAYPTAFPLKHQQKDLRLALALAESVSQPIPT
+AAAANELYKVAKSLGLADQDFSAVIEALKAKVQSSQH
+
+
+PACMAD CONSENSUS:
+Length: 340 aa
+
+MAAAAFLcARAAPALlPPSRRLsRRLvvSRAAAASSSGqGGGGVEFQGKVGFLGLGIMGA
+PMASNLIKAGCDVTVWNRTKSKCDPLLSLGAKYEPSPAQVASSCDVTFAMLADPQSAAEV
+ACGAnGAAEGLAPGKGYVDVSTVDGATSKLIGERITSTGASFLEAPVSGSKKPAEDGLLI
+FLTAGDESLYKRVAPLLDVMGKSRFYLGDVGNGAAMKLVVNMVMGSMMVSFSEGLLLSEK
+VGLDPNTLVEVISQGAISAPMFSLKGPSMVKAAYPTAFPLKHQQKDLRLALALAESVSQS
+IPTVAAANELYKAAKSLGLADHDFSAVIEALKAKVQSSQQ
+
+================================================================================

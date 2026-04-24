@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM020010
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             423.0 aa
+Family Size (Extended Family Size): 27 (27) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46521:SF2
+Panther Family ID:               PTHR46521
+Modal Panther ID:                PTHR46521:SF2
+Modal Panther Description:       SUCROSE-PHOSPHATASE 3-RELATED
+Modal Panther Family ID:         PTHR46521
+Modal Panther Fam Desc:          SUCROSE-PHOSPHATASE 2-RELATED
+Interpro Signature Accession:    cd02605; G3DSA:3.40.50.1000; G3DSA:3.90.1070.10; TIGR01482; TIGR01485; TIGR01484; PTHR46521; PF05116; PF08472; SFLDG01141; SFLDF00043; SSF56784
+Interpro Signature Description:  HAD_SPP; -; sucrose-phosphate phosphatase subfamily; sucrose-phosphate phosphatase; HAD-IIB family hydrolase; SUCROSE-PHOSPHATASE 2-RELATED; Sucrose-6F-phosphate phosphohydrolase; Sucrose-6-phosphate phosphohydrolase C-terminal; C2.B.1: Sucrose Phosphatase Like; sucrose-phosphatase; HAD-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: sucrose-phosphatase 2%2C transcript variant X2
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: probable sucrose-phosphatase 1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: sucrose-phosphatase 2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: probable sucrose-phosphatase 1; sucrose-phosphatase 2
+Ola
+  Gene count: 2
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl01
+  Gene Products: probable sucrose-phosphatase 1; sucrose-phosphatase 2
+  Gene Descriptions: probable sucrose-phosphatase 1; sucrose-phosphatase 2
+Osa
+  Gene count: 2
+  Modal chromosome: Osa01
+  Gene Products: probable sucrose-phosphatase 1; sucrose-phosphatase 2-like
+  Gene Synonyms: OsJ_001789,OsJ_01840,OsSPP1,SPP1; OsJ_005195,OsSPP2,SPP2
+  Gene Descriptions: probable sucrose-phosphatase 1; sucrose-phosphatase 2-like
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: sucrose-phosphatase 1; sucrose-phosphatase 1-like%2C transcript variant X3
+  Gene Descriptions: sucrose-phosphatase 1; sucrose-phosphatase 1-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: sucrose-phosphatase 1%2C transcript variant X2; sucrose-phosphatase 1-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: sucrose-phosphatase 1%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: sucrose-phosphatase 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: sucrose-phosphatase 1%2C transcript variant X1
+  Gene Synonyms: GRMZM2G055489,spp1,ZmSPP1
+  Gene Descriptions: sucrose-phosphatase 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 423 aa
+
+MDKLnGSARLMIVSDLDHTMVDHHDEENLSLLRFGALWESVYCQDSLLVFSTGRSPTLYK
+ELRKEKPMLTPDITIMSVGTEITYGEAMVPDDGWEEYLNNKWDRNIVVEETAkFSELKLQ
+PETEQRPHKVSFLVDKKsAQEVIKSLSEKLEKRGLDAKIIYSGGQDLDILPQGAGKGQAL
+AYLLKKLSSCGKPPNNTLVCGDSGNDAELFSIPGVHGVMVSNAQEELLQWYAENAKDNPK
+IIHATERCAAGIIQAIGHFKLGPNVSPRDVEFPYaKEdSFKPTDAVVKFYVLYEKWRRAE
+VPKSDSVIQYFKNITHANGVIIHPAGLElSLHASIDALGSCYGDKQGKKYRAWVDRLvIt
+QTGSDSWLVRFDLWESEGDVRVCCLTSLALnvKPEtPEGFVVTHIHKTWLKGYSSGVEQS
+SKL
+
+
+BOP CONSENSUS:
+Length: 422 aa
+
+MDKLKGSARLMIVSDLDHTMVDHHDEENLSLLRFGALWESVYCQDSLLVFSTGRSPTLYK
+ELRKEKPMLTPDITIMSVGTEITYGEAMVPDDGWEEYLNNKWDRNIVLEETAKFSELKLQ
+VETEQRPHKVSFLVDKKnAQEVIKSLSEKFEKRGVDAKIIYSGGQDLDILAQGAGKGQAL
+AYLLKKLGSCGKTPNNTLVCGDSGNDAELFSIPGVHGVMVSNAQEELLQWyAENAKDNPK
+IIHATERCAAGIIQAIGHFKLGPNVSPRDVEFPYVKEDPFKPTaAVVKFYVLYEKWRRAD
+VPKADSVIQYFKNITDANGVIIHPSGLELSIHSSIDELASCYGDKQGKKYRSWVDRLVIS
+QTASDSWLVRFDLWEAEGDAWvCCLTTLALNVKPETPGGFVVTHIHKTWLKGYSGvEQSS
+KL
+
+
+PACMAD CONSENSUS:
+Length: 423 aa
+
+MDKLNGSARLMIVSDLDHTMVDHHDEENLSLLRFgALWESVYCQDSLLVFSTGRSPTLYK
+ELRKEKPMLTPDITIMSVGTEITYGEAMVPDDGWEEYLNNKWDRNIVVqETASFSELKLQ
+PETEQRPHKVSFFVDKKSAQEVIKSVAEKLEKRGLDAKIIYSGGQDLDILPQGAGKGQAL
+AYLLKKLSSCGKPPNNTLVCGDSGNDAELFSIPGVHGVMVSNAQEELLQWYtENAKDNPK
+IIHAsERCAAGIIQAIGHFKLGPNVSPRDVeFPYAKEASFKPTDAVVKFYVLYEKWRRAE
+VPKSDSVIQYFKNITHANGVIIHPAGLElSLHASIDALGSCYGDKQGKKYRAWVDRLFIT
+QTGSDSWVVRFDLWESEGDVRVCSLSSLALsLKtESPEGFVLTHIHKTWLNGYSSGVEQA
+SKL
+
+================================================================================

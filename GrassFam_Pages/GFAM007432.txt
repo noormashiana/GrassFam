@@ -1,0 +1,145 @@
+================================================================================
+GrassFam ID: GFAM007432
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             665.0 aa
+Family Size (Extended Family Size): 21 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR19375:SF501
+Panther Family ID:               PTHR19375
+Modal Panther ID:                PTHR19375:SF501
+Modal Panther Description:       BNAC07G48050D PROTEIN
+Modal Panther Family ID:         PTHR19375
+Modal Panther Fam Desc:          HEAT SHOCK PROTEIN 70KDA
+Interpro Signature Accession:    cd10241; G3DSA:2.60.34.10:FF:000002; G3DSA:3.30.420.40:FF:000026; G3DSA:1.20.1270.10:FF:000015; G3DSA:3.90.640.10:FF:000002; G3DSA:3.30.420.40; G3DSA:2.60.34.10; G3DSA:3.90.640.10; G3DSA:1.20.1270.10; NF001413; PTHR19375; PR00301; PF00012; SSF53067; SSF100934; SSF100920
+Interpro Signature Description:  ASKHA_NBD_HSP70_BiP; Heat shock 70 kDa; Heat shock protein 70; Luminal-binding protein 5; -; Substrate Binding Domain Of DNAk; Chain A, domain 1; Actin; Chain A, domain 4; molecular chaperone DnaK; HEAT SHOCK PROTEIN 70KDA; 70kDa heat shock protein signature; Hsp70 protein; Actin-like ATPase domain; Heat shock protein 70kD (HSP70), C-terminal subdomain; Heat shock protein 70kD (HSP70), peptide-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: heat shock 70 kDa protein BIP1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: luminal-binding protein 3
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: luminal-binding protein 2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: luminal-binding protein 2; luminal-binding protein 2%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: heat shock 70 kDa protein BIP1
+  Gene Descriptions: heat shock 70 kDa protein BIP1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: heat shock 70 kDa protein BIP1-like
+  Gene Synonyms: BIP,OJ1442_E05.10,OsBiP1,OsJ_05115
+  Gene Descriptions: heat shock 70 kDa protein BIP1-like
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: heat shock 70 kDa protein BIP1; luminal-binding protein 2
+  Gene Descriptions: heat shock 70 kDa protein BIP1; luminal-binding protein 2
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: heat shock 70 kDa protein BIP1; heat shock 70 kDa protein BIP1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: heat shock 70 kDa protein BIP1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: luminal-binding protein 2
+Zma
+  Gene count: 2
+  Modal chromosome: Zma04
+  Gene Products: Binding protein homolog 1; Binding protein homolog 2
+  Gene Synonyms: b-70,bip1,BIPE2,GRMZM2G114793; bip2,BIPE3,GRMZM2G415007
+  Gene Descriptions: Binding protein homolog 1; Binding protein homolog 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 664 aa
+
+MDRVRGSAFLLGVLLAGSLFAFSVAKEETKKLGTVIGIDLGTTYSCVGVYKNGHVEIIAN
+DQGNRITPSWVAFTDSERLIGEAAKNQAAVNPERTIFDVKRLIGRKFEDKEVQRDMKLVP
+YKIVNKDGKPYIQVKIKDGENKVFSPEEISAMILGKMKETAEAYLGKKINDAVVTVPAYF
+NDAQRQATKDAGVIAGLNVARIINEPTAAAIAYGLDKKGGEKNILVFDLGGGTFDVSILT
+IDNGVFEVLATNGDTHLGGEDFDQRIMEYFIKLIKKKYSKDISKDNRALGKLRREAERAK
+RALSNQHQVRVEIESLFDGTDFSEPLTRARFEELNNDLFRKTMGPVKKAMEDAGLEKSQI
+HEIVLVGGSTRIPKVQQLLRDYFDGKEPNKGVNPDEAVAFGAAVQGSILSGEGGDETKDI
+LLLDVAPLTLGIETVGGVMTKLIPRNTVIPTKKSQVFTTYQDQQTTVSIQVFEGERSMTK
+DCRLLGKFDLSGIPPAPRGTPQIEVTFEVDANGILNVKAEDKGTGKSEKITITNEKGRLS
+QEEIDRMVREAEEFAEEDKKVKERIDARNQLETYVYNMKNTVGDKDKLADKLESEEKEKV
+EEALKEALEWLDDNQSAEKEDYEEKLKEVEAVCNPIVSAVYQRSGGAPGGADgEGGVDDE
+HDEL
+
+
+BOP CONSENSUS:
+Length: 665 aa
+
+MDRVRGSALLLGVLLAGSLFALCAAKEEAKKLGTVIGIDLGTTYSCVGVYKNGHVEIIAN
+DQGNRITPSWVGFTDGERLIGEAAKNQAAVNPERTVFDVKRLIGRKFEDKEVQRDMKLVP
+YKIVNKEGKPYIQVKIKDGETKVFSPEEISAMILGKMKETAEAYLGKKINDAVVTVPAYF
+NDAQRQATKDAGVIAGLNVARIINEPTAAAIAYGLDKRGGEKNILVFDLGGGTFDVSILT
+IDNGVFEVLATNGDTHLGGEDFDHRIMDYFIKLIKKKHGKDISKDNRALGKLRREAERAK
+RALSNQHQVRVEIESLFDGTDFSEPLTRARFEELNNDLFRKTMGPVKKAMDDAGLEKTQI
+HEIVLVGGSTRIPKVQQLLRDYFDGKEPNKGVNPDEAVAFGAAVQGSILSGEGGDETKDI
+LLLDVAPLTLGIETVGGVMTKLIPRNTVIPTKKSQVFTTYQDQQTTVSIQVFEGERSMTK
+DCRLLGKFDLSGIPPAPRGTPQIEVTFEVDANGILNVKAEDKGTGKSEKITITNEKGRLS
+QEEIDRMVKEAEEFAEEDKKVKERIDARNQLETYVYNMKNTVGDKDKLADKLESEEKEKV
+EEALKEALEWLDENQTAEKEDYEEKLKEVEAVCNPIVSAVYQRSGGAPGGEGADGGVDDE
+DHDEL
+
+
+PACMAD CONSENSUS:
+Length: 665 aa
+
+MDRVRGSAFLLGVLLAGSLFAFSVAKEETKKLGTVIGIDLGTTYSCVGVYKNGHVEIIAN
+DQGNRITPSWVAFTDSERLIGEAAKNQAAVNPERTIFDVKRLIGRKFEDKEVQRDMKLVP
+YKIVNKDGKPYIQVKIKDGENKVFSPEEISAMILGKMKDTAEAYLGKKINDAVVTVPAYF
+NDAQRQATKDAGVIAGLNVARIINEPTAAAIAYGLDKKGGEKNILVFDLGGGTFDVSILT
+IDNGVFEVLATNGDTHLGGEDFDQRIMEYFIKLIKKKYSKDISKDNRALGKLRREAERAK
+RALSNQHQVRVEIESLFDGTDFSEPLTRARFEELNNDLFRKTMGPVKKAMEDAGLEKSQI
+HEIVLVGGSTRIPKVQQLLRDYFDGKEPNKGVNPDEAVAFGAAVQGSILSGEGGDETKDI
+LLLDVAPLTLGIETVGGVMTKLIPRNTVIPTKKSQVFTTYQDQQTTVSIQVFEGERSMTK
+DCRLLGKFDLSGIPPAPRGTPQIEVTFEVDANGILNVKAEDKGTGKSEKITITNEKGRLS
+QEEIDRMVREAEEFAEEDKKVKERIDARNQLETYVYNMKNTVGDKDKLADKLESEEKEKV
+EEALKEALEWLDDNQSAEKEDYEEKLKEVEAVCNPIVSAVYQRSGGAPGGGADGEGGVDD
+DHDEL
+
+================================================================================

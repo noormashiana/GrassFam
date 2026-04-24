@@ -1,0 +1,145 @@
+================================================================================
+GrassFam ID: GFAM002968
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             682.0 aa
+Family Size (Extended Family Size): 42 (47) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13318:SF37
+Panther Family ID:               PTHR13318
+Modal Panther ID:                PTHR13318:SF37
+Modal Panther Description:       F-BOX DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR13318
+Modal Panther Fam Desc:          PARTNER OF PAIRED, ISOFORM B-RELATED
+Interpro Signature Accession:    G3DSA:3.80.10.10:FF:000276; G3DSA:3.80.10.10:FF:002344; G3DSA:3.80.10.10:FF:001072; G3DSA:3.80.10.10; PTHR13318; SSF52047
+Interpro Signature Description:  F-box/LRR-repeat protein 3; Ribonuclease Inhibitor; PARTNER OF PAIRED, ISOFORM B-RELATED; RNI-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: F-box/LRR-repeat protein 3
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: F-box/LRR-repeat protein 3
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: F-box/LRR-repeat protein 3
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: F-box/LRR-repeat protein 3-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl11
+  Gene Products: F-box/LRR-repeat protein 3-like
+  Gene Descriptions: F-box/LRR-repeat protein 3-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa11
+  Gene Products: F-box/LRR-repeat protein 3
+  Gene Descriptions: F-box/LRR-repeat protein 3
+Ecu
+  Gene count: 3
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 3
+  Modal chromosome: Pau12
+  Gene Products: F-box/LRR-repeat protein 3-like%2C transcript variant X1
+  Gene Descriptions: F-box/LRR-repeat protein 3-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi03N
+  Gene Products: F-box/LRR-repeat protein 3-like%2C transcript variant X1; F-box/LRR-repeat protein 3-like%2C transcript variant X2
+Pha
+  Gene count: 2
+  Modal chromosome: Pha03
+  Gene Products: F-box/LRR-repeat protein 3-like%2C transcript variant X1
+Msi
+  Gene count: 11
+  Modal chromosome: Msi13
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi05
+  Gene Products: F-box/LRR-repeat protein 3
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: F-box/LRR-repeat protein 3%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 680 aa
+
+MAaAaHRHPKRRRLSPAPtaaaPPLDSLADELLFLVLDRVAAADPRALKSFALASRACHA
+AESRHRRVLRPLRADLLPAALARYPsAsRLDLSLCARVPDAALAAlSsssaSSLRAVDLS
+RSRGFGAAGLAALAAACPdLADLDLSNGVDLGDAAAAEVARARrLQRLSLSRCKPLTDMG
+LGCVAVGCPDLRELSLKWCLGvTDLGlqLLALKCKKLTtLDLSYTMITKdSFPAIMKLPN
+LQVLTLVGCiGIDDDALGSLEKECSKSLQVLDMShCQNVTDVGVSSIVKSvPNLLELNLS
+YCCPVTPSMvrSFQkIPKLQTLKLEGCKFMADGLKaIGtSCVSLRELSLSKCSGVTDTEL
+SFVVSRLKNLLKLDITCCRNITDVSLAAITSSCTSLISLRMESCSHVSSgGLQLIGKrCS
+HLEELDLTDSDLDDEGLKALAGCSKLSSLKIGICLRISDEGLtHIGKSCPeLRDIDLYRC
+GGISDDGVTQIAQGCPMLESINLSYCTEITDRSLmSLSKCAKLNTLEIRGCPrVSSaGLS
+EIAMGCRLLSKLDIKKCFEINDVGMLYLSQFSHSLRQINLSYCSVTDIGLLSLSSICGLQ
+NMTIVHLAGITPNGLiAALMVCGGLTKVKLHeAFKSMMPPHMLKNVEARGCVFQWIDKPF
+KVEVEPCDVWKQQSQDVLVR
+
+
+BOP CONSENSUS:
+Length: 679 aa
+
+MAmATHtHLpKRRRlCpvpvApaPlDsLADELLFLVLDRVAAADPRALKSFALASRACHA
+AESRHRRVLRPYRADLLrAALARYPtAsRLDLTLCPRVPDAALAALSsAPPSLRAVDLSR
+SRGFGApGLAALVAACPnLADLDLSNGVDLGDAAAAEVARARGLQRLSLSRCKPiTDMGL
+GCIAVGCPDLRELSLNWCLGITDLGVQLLALKCKKLrtLdLSYTMISKDCLPAIMKLPNL
+EVLALVGCVGIDDDALtSLEnECSKSLQVLDMSNCrNVTHVGVSSVVKAMPNLLELNLSY
+CCpVTPSMGsCFQMIPKLQTLKLDGCKFMADGLKSIGiSCVSLRELSLSKCSGVTDTDLS
+FVVSRLKNLLKLDITCNRNITDVSLAAITSSCPSLISLRMESCSHVSSEGLRLIGKRCCH
+LEELDITDSDLDDEGLKALSGCSKLSSLKIGICMRISDEGLIHIGKSCPELRDIDLYRSG
+GISDEGVTQIAQGCPMLESINLSYCTEITDvSLrSLSKCAKLNTLEIRGCPSVSSAGLSE
+IAtGCRLLSKLDIKKCFAINDVGMLFLSQFSHSLRQINLSYCSVTDIGLLSLSSICGLQN
+MTIVHLAGVTPNGLmAALMVsGGLTKVKLHAAFRSMMPPHMLKVVEARGCaFQWIDKPFQ
+VEQERCDIWkQQSqDVLVr
+
+
+PACMAD CONSENSUS:
+Length: 682 aa
+
+MAAAAaHRHPKRRRLSPAPtPaaAPPLDSLADELLFLVLDRVAAADPRALKSFALASRAC
+HAAESRHRRlLRPLRADLLPAALARYPSATRLDLSLCARVPDAALAAvSvSSgSSLRAVD
+LSRSRGFGAAGLAALAaACPDLADLDLSNGVDLGDAAAAEVARMRrLRRLSLSRCKPLTD
+MGLGCVAVGCpDLRELSLKWCLGVTDLGLqLLALKCKKLTSLDLSYTMITKdSFPAIMKL
+PNLQVLTLVGCIGIDDDALGSLEKECSKSLQVLDMSHCQNITDVGVSSIVKSvPNLLELD
+LSYCCPVTPSMVRSFQKIpKLRTLKLEGCKFMADGLKAIGtSCVSiRELSLSKCSGVTDT
+ELSFAVSRLKNLLKLDITCCRNITDVSLAAITSSCTSLISLRMESCSHVSSGALQLIGKH
+CSHLEELDLTDSDLDDEGLKALARCSKLSSLKIGICLKISDEGLTHIGKSCPKLRDIDLY
+RCGGISDDGVIQIAQGCPMLESINLSYCTEITDRSLMSLSKCTKLNTLEIRGCPRVSStG
+LSEIAMGCRLLSKLDIKKCFEINDVGMLYLSQFSHSLRQINLSYCSVTDIGLLSLSSICG
+LQNMTIVHLAGITPNGLtAALMVCGGLTKVKLHEAFKSMMPPHMLKNVEARGCVFQWINK
+PFKVEVEPCDVWKQQSQDVLVR
+
+================================================================================

@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM002814
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             520.0 aa
+Family Size (Extended Family Size): 16 (18) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22298:SF121
+Panther Family ID:               PTHR22298
+Modal Panther ID:                PTHR22298:SF121
+Modal Panther Description:       ENDOGLUCANASE 18
+Modal Panther Family ID:         PTHR22298
+Modal Panther Fam Desc:          ENDO-1,4-BETA-GLUCANASE
+Interpro Signature Accession:    G3DSA:1.50.10.10:FF:000020; G3DSA:1.50.10.10; PTHR22298; PF00759; SSF48208
+Interpro Signature Description:  Endoglucanase; -; ENDO-1,4-BETA-GLUCANASE; Glycosyl hydrolase family 9; Six-hairpin glycosidases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: endoglucanase 18
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: endoglucanase 18-like
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: endoglucanase 18-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: endoglucanase 18
+  Gene Descriptions: endoglucanase 18
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: endoglucanase 18-like
+  Gene Descriptions: endoglucanase 18-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau10
+  Gene Products: endoglucanase 18-like
+  Gene Descriptions: endoglucanase 18-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: endoglucanase 18-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi19
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: endoglucanase 18
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: endoglucanase 18-like
+  Gene Synonyms: Cel9,cellulase,GRMZM2G153987
+  Gene Descriptions: endoglucanase 18-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 516 aa
+
+MARCVRCCCWLLVLTLVALAVTAAVVFVRyRNGGGvFPvPGvPDHKYAEALAVALQFFQV
+QKSGKLVNNeIPWRGDSALDDGqEAGLDLSKGMYDAGDHmKFGFPMAFTATMLSWSVLEY
+GGAMRAAKQRDSALDALrWIMDYLVNAHPSDDVLYIQVGDPKADHKCWERPETMSEKRPL
+TKITAKSPGSDVAAETAAAMAAASLVYKPINATYSSSLLDHAERLFAFADKHRGSYTRTF
+PELSAYYNSTTYQDELLWAASWLYHATGNhSYLAYATGKNGkDFADLGNPRYFSWDDKRA
+GTQVLLSRVSFFASQGSDVAQDnGLGSYKQTADAVMCILLPDSETAAFRTEGGLLYVAEW
+NSLQHPVASAFLAAVYSDYMLTSGKTELTCSGQSFSPADLRKFAKSQADYVLGDNPMKLS
+YLVGYGDSYPQRVHHRGASIPADVDTGCDGQEWLESPdPNPNVATGALVGGPFKNDSFVD
+EReNVMQNEATTYNSALIVGLLSGLLSTSSVAQSLS
+
+
+BOP CONSENSUS:
+Length: 517 aa
+
+MARCVRCCCCVLVLLLVALGITAAVVFVRNRNGGGDrPVPGSVDHKYAEALAVALQFFQV
+QKSGKLVKNEIPWRGDSAVDDGQEAGLDLSRGMYDAGDHIKFGFPMAFTATMLSWSVLEY
+GGAMEAAKQRDSALDALRWIMDYLVNAHPSDDVLYIQVGDPEADHKCWERPETMSEKRPL
+TKITAKSPGSDVAAETAAAMAAASLVYKPIDAtYSSSLLGHAEQLFAFADRHRGAYTRTF
+PELSKYYNSTTYQDELLWASGWLFHATGNGSYLAYATGKNGEDFADLGNPRYFSWDDKRP
+GTQVLLSRVSFFASQGSGVAqDNGLESYKQTADAVMCILLPDSETAAFRTEGGLLYVAEW
+NSLQHPVASAFLAAVYSDYMLTSGKTELTCGGQSFSPADLRKFAQSQADYVLGDNPMKLS
+YLVGYGDSYPQRVHHRGASIPADVNTGCGGQEWLESPDPNPNVATGALVGGPFKNDSFVD
+ERQNVMQNEATTYNSALIVGLLSGLLSTSSVAQSLSS
+
+
+PACMAD CONSENSUS:
+Length: 520 aa
+
+MARCCGCSVRCCCWLLVLTLLALAVTAAVVFARYKNGGQVFPLPGVPDPKYAEALAVALR
+FFQVQKSGKLVNNTIPWRGDSALRDGKEAKLDLSKGMYDAGDHMKFGFTLAFTGTMLSWS
+VLEYGDAMRAAKQRDAAMDALGWIMEFLVNAHPSDDVLYIQVGDPKSDHKCWERPETMSE
+KRPLTKITAKSPGSDVAAETAAAMAAASLVYKPINGTYSSSLLDHAERLFAFADKHRGSY
+TRTFPELSAYYNSTTYQDELLWAASWLYHATGNHSYLSYATGKNGKEFADLGNPRYFSWD
+DKRAGTEVLLSRVSFFASDGSDAGQDEVLGSYKDTAEAVMCILLPESDTAAFRTEGGLLY
+VAEWNSLQHPVASAFLANVYSNYMATSGKSELTCSGKSFTALDLRKFAKSQADYVLGDNP
+MKLSYLVGYGDSYPQRVHHRGASIPADVDTGCDGQEWLKSPKPNPNVATGALVGGPFKND
+SFVDDRENVRQNEPTTYNSALVVGLLSSLLSTSPVAKSLS
+
+================================================================================

@@ -1,0 +1,124 @@
+================================================================================
+GrassFam ID: GFAM011490
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             295.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31356:SF61
+Panther Family ID:               PTHR31356
+Modal Panther ID:                PTHR31356:SF61
+Modal Panther Description:       L-ASCORBATE PEROXIDASE 3, PEROXISOMAL-RELATED
+Modal Panther Family ID:         PTHR31356
+Modal Panther Fam Desc:          THYLAKOID LUMENAL 29 KDA PROTEIN, CHLOROPLASTIC-RELATED
+Interpro Signature Accession:    cd00691; G3DSA:1.10.520.10:FF:000003; G3DSA:1.10.420.10:FF:000003; G3DSA:1.10.520.10; G3DSA:1.10.420.10; PTHR31356; PR00459; PR00458; PF00141; SSF48113
+Interpro Signature Description:  ascorbate_peroxidase; Cytosolic ascorbate peroxidase; L-ascorbate peroxidase, cytosolic; -; Peroxidase, domain 2; THYLAKOID LUMENAL 29 KDA PROTEIN, CHLOROPLASTIC-RELATED; Plant ascorbate peroxidase signature; Haem peroxidase superfamily signature; Peroxidase; Heme-dependent peroxidases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: probable L-ascorbate peroxidase 3%2C peroxisomal%2C transcript variant X1
+Lpe
+  Gene count: 4
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: probable L-ascorbate peroxidase 3%2C peroxisomal
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: probable L-ascorbate peroxidase 3%2C peroxisomal
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: probable L-ascorbate peroxidase 3%2C peroxisomal
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: probable L-ascorbate peroxidase 3%2C peroxisomal
+  Gene Descriptions: probable L-ascorbate peroxidase 3%2C peroxisomal
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: probable L-ascorbate peroxidase 3%2C peroxisomal
+  Gene Synonyms: APX3,OsAPx03,OsAPx3,OsJ_013310
+  Gene Descriptions: probable L-ascorbate peroxidase 3%2C peroxisomal
+Pau
+  Gene count: 1
+  Modal chromosome: Pau13
+  Gene Products: probable L-ascorbate peroxidase 3%2C peroxisomal
+  Gene Descriptions: probable L-ascorbate peroxidase 3%2C peroxisomal
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: probable L-ascorbate peroxidase 3%2C peroxisomal
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: probable L-ascorbate peroxidase 3%2C peroxisomal
+Msi
+  Gene count: 1
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: probable L-ascorbate peroxidase 3
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: APx3 - Peroxisomal Ascorbate Peroxidase
+  Gene Synonyms: GRMZM2G004211
+  Gene Descriptions: APx3 - Peroxisomal Ascorbate Peroxidase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 293 aa
+
+MSSaaAPVVDAEYMAEIERARRDLRALIASKSCAPIMLRLAWHDAGTYDKkTNTGGPNGS
+IRFPEEySHAANAGLKIAIDLLEPIKQKHPKITYADLYQLAGVVAVEVTGGPTIDFVPGR
+KDSSVCPEEGRLPDAKQGASHLRdVFYRMGLSDKDIVALSGGHTLGKARPDRSGFDGAWT
+KDPLKFDNSYFVELLKGDSeGLLKLPTDKVLVEDPeFRRYVELYAKDEDAFFRDYAESHK
+KLSELGFTPPRStLLaKSRdKaKSLLtQTAAGVAVAAAVVAWAYICESNKKLg
+
+
+BOP CONSENSUS:
+Length: 295 aa
+
+MSSAAgPVVDAEYvAEIERARRDLRALIASKSCAPIMLRLAWHDAGTYDKaTNTGGPNGS
+IRFPEELRHAANAGLKIAVDLLEPIKQKHPKITYADLYQLAGVVAVEVTGGPTIDFVPGR
+RDSSVcPEEGRLPDAKQGASHLREVFYRMGLTDKDIVALSGGHTLGKARPDRSGFDGAWT
+KDPLKFDNSYFIELLKGDSnGLLKLPTDKVLVEDPaFRRYVELYAKDEDAFFRDYAESHK
+KLSELGFTPSRATLLAWKSRDKAKRvVTrTTAVFAVAVAVIACAYICESKKRLsG
+
+
+PACMAD CONSENSUS:
+Length: 292 aa
+
+MSEvAPVVDAEYMAEIERARRDLRALIASKNCAPIMLRLAWHDAGTYDAKTKTGGPNGSI
+RFPQEYSHSANAGIKIAIDLLEPIKQKHPKITYADLYQLAGVVAVEVTGGPTIDFVPGRK
+DSSVCPEEGRLPDAKQGASHLRDVFYRMGLSDKDIVALSGGHTLGRARPERSGFDGAWTK
+DPLKFDNSYFVELLKGDSEGLLKLPTDKALVEDPEFRRYVElYAKDEEAFFRDYAESHKK
+LSELGFTPPRSAFSCKSGNKQKSLLVQAAAGVAVAAAVVAWAYLCESNKKIG
+
+================================================================================

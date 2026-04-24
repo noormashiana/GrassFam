@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM012745
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             472.5 aa
+Family Size (Extended Family Size): 28 (28) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48011:SF1
+Panther Family ID:               PTHR48011
+Modal Panther ID:                PTHR48011:SF1
+Modal Panther Description:       NPK1-RELATED PROTEIN KINASE-LIKE PROTEIN
+Modal Panther Family ID:         PTHR48011
+Modal Panther Fam Desc:          CCR4-NOT TRANSCRIPTIONAL COMPLEX SUBUNIT CAF120-RELATED
+Interpro Signature Accession:    cd06606; G3DSA:1.10.510.10:FF:000466; G3DSA:1.10.510.10; PTHR48011; PF00069; SM00220; SSF56112
+Interpro Signature Description:  STKc_MAPKKK; MAP kinase kinase kinase18; Transferase(Phosphotransferase) domain 1; CCR4-NOT TRANSCRIPTIONAL COMPLEX SUBUNIT CAF120-RELATED; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi02
+  Gene Products: mitogen-activated protein kinase kinase kinase 18
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu03H
+  Gene Products: mitogen-activated protein kinase kinase kinase 18-like; serine/threonine-protein kinase ATG1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: mitogen-activated protein kinase kinase kinase 18
+Tae
+  Gene count: 2
+  Modal chromosome: Tae03A
+  Gene Products: mitogen-activated protein kinase kinase kinase 17-like; mitogen-activated protein kinase kinase kinase 18-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl01
+  Gene Products: mitogen-activated protein kinase kinase kinase 17-like; mitogen-activated protein kinase kinase kinase 18-like
+  Gene Descriptions: mitogen-activated protein kinase kinase kinase 17-like; mitogen-activated protein kinase kinase kinase 18-like
+Osa
+  Gene count: 3
+  Modal chromosome: Osa10
+  Gene Products: mitogen-activated protein kinase kinase kinase 17; mitogen-activated protein kinase kinase kinase 18; mitogen-activated protein kinase kinase kinase 18-like
+  Gene Descriptions: mitogen-activated protein kinase kinase kinase 17; mitogen-activated protein kinase kinase kinase 18; mitogen-activated protein kinase kinase kinase 18-like
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN158
+Pau
+  Gene count: 3
+  Modal chromosome: Pau01
+  Gene Products: mitogen-activated protein kinase kinase kinase 17-like; mitogen-activated protein kinase kinase kinase 18-like
+  Gene Descriptions: mitogen-activated protein kinase kinase kinase 17-like; mitogen-activated protein kinase kinase kinase 18-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: mitogen-activated protein kinase kinase kinase 17-like; mitogen-activated protein kinase kinase kinase 18-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: mitogen-activated protein kinase kinase kinase 18-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: mitogen-activated protein kinase kinase kinase YODA
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: MAP kinase kinase kinase18; mitogen-activated protein kinase kinase kinase 18
+  Gene Synonyms: GRMZM2G305066
+  Gene Descriptions: MAP kinase kinase kinase18
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 467 aa
+
+MATAVSGRWTRVRTLGRGASGAVVSLAADDASGALFAVKSApAgAAEQLRREGsILSALR
+SPHVLPCLGFRAAAGGECQLFLEFAPGGSLADVAARSGGRLdERAVRAYAADVARGLAYL
+HGRSLVHGDVKARNVVVGADGRAKLADFGCARAVGSdRPIGGTPAFMAPEVARGEEQGPA
+ADVWALGCTVVEMATGRAPWSDMDDlLAAVHRIGYTDAVPEVPAWLSAEAKDFLARCFAR
+NPRDRCTAAQLLEHPFLASAGCGVKAEEAAAKWVSPKSTLDAALWESDtDEsDDEGDvSE
+SPAqRIKALAgPCSALPDWDSDEGWIeVLNEQCEACDLvPtpAakEmAGEDECQLLSEAl
+ETEaeFiDADAEgdDPECsVAVGLTApSiEQQeEfCSGLwSDPsVFpVntchesEmtkSf
+LlqNCplfvpSSVLlfvlqnDYpihiglrrsrlPnLvCDdTRnevLf
+
+
+BOP CONSENSUS:
+Length: 425 aa
+
+MEAAVGGSWTRVRTLGRGASGAVVSLAADDLSGALFAVKSAPAAAAEQLRREGDILSGLS
+SPHVLPCLGFRAeAAGECQLFLEFAPGGSVADVAARSGGRLEECAIRAYAADVARGLAYL
+HGRSLVHGDVKGRNVVVGADGRAKIADFGCARTVGSDRPIGGTPAFMAPEVARGEEQGPA
+ADVWALGCTVIEMATGRAPWSDMDDVLAAMHRIGYTDAVPEVPAWLSAEAKHFLAMCFAR
+NARDRCTAAQLLEHPFLASAGCGVKPEEAAtKWVSPKSTLDAALWESDTEDeDEDMSESP
+AERIRALASPCSAFPDWDSDEGWIDVLNESREACDAAAEDErASSGEEAlETEAEfSGSA
+YVEDADRVGTVGLTTLSIEQQneFCSGLFSDPpVFPVNFLDESEITESLLHRTiTlITVP
+lSIPC
+
+
+PACMAD CONSENSUS:
+Length: 475 aa
+
+MATAVSGRWTRVRTLGRGASGAVVSLAADAASGALFAVKSApAGAAAAEQLRREGsILSA
+LRSPHVLPCLGFRAAADGECQLFLEFAPGGSLADVAARSGGRLDERAVRAYAADVARGLA
+YLHGRSLVHGDVKARNVVVGADGRAKLADFGCARAVGSARPIGGTPAFMAPEVARGEEQG
+PAADVWALGCTVVEMATGRAPWSDvDDLLAAVHRIGYTDAVPEVPAWMSAEAKDFLARCF
+ARNPRDRCTAAQLLEHPFLASAGCGVKAEEVAAEWVSPKSTLDAALWESDsDDDSDDEGD
+VSESPAQRIKALAGPCSALPDWDSDEGDWIEVLdEQCEACnLVPTKEAAKEMAGEDECQL
+LSEaLETEVDFIDADAEGdDPECSVAVGLlAAPSvEQQEEqCSGSWSDPsVFlvatCHnI
+EMSKsFLLqNCPLfvpSSVLllvlqlLmDYPihIgLrrSRLPNLvCDATRpetLF
+
+================================================================================

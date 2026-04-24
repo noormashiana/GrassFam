@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM010791
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             632.0 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12103:SF22
+Panther Family ID:               PTHR12103
+Modal Panther ID:                PTHR12103:SF22
+Modal Panther Description:       HAD-SUPERFAMILY HYDROLASE, SUBFAMILY IG, 5'-NUCLEOTIDASE
+Modal Panther Family ID:         PTHR12103
+Modal Panther Fam Desc:          5'-NUCLEOTIDASE DOMAIN-CONTAINING
+Interpro Signature Accession:    cd07522; G3DSA:3.40.50.1000:FF:000076; G3DSA:3.40.50.1000; TIGR02244; PTHR12103; PF05761; SSF56784
+Interpro Signature Description:  HAD_cN-II; Haloacid dehalogenase hydrolase; -; HAD-IG family 5'-nucleotidase; 5'-NUCLEOTIDASE DOMAIN-CONTAINING; 5' nucleotidase family; HAD-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: 5'-nucleotidase domain-containing protein 4%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: 5'-nucleotidase domain-containing protein 4
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: 5'-nucleotidase domain-containing protein 4
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: 5'-nucleotidase domain-containing protein 4-like; 5'-nucleotidase domain-containing protein 4-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: uncharacterized LOC127766694%2C transcript variant X2
+  Gene Descriptions: uncharacterized LOC127766694
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4327102
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 1
+  Modal chromosome: Pau02
+  Gene Products: uncharacterized LOC133894346
+  Gene Descriptions: uncharacterized LOC133894346
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: 5'-nucleotidase domain-containing protein 4-like%2C transcript variant X1; 5'-nucleotidase domain-containing protein 4-like%2C transcript variant X5
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: 5'-nucleotidase domain-containing protein 4
+Msi
+  Gene count: 3
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: cytosolic purine 5'-nucleotidase%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 632 aa
+
+MADpvELVRRLCLRfPPRpSPPQRSrPpPRPRcLLRArpRLPrPPLSLRCRALDASkPaA
+VEGErsEEdglEDEEESYFSVTSSRLSEVDYLGESTKGDLNVRREHLEALGGNGKSTLHG
+PIEEIAWKEAREAETLLSDLGIADPFSVRHSPRGIFCTRTLNLRSISVIGYDMDYTLIHY
+NVMAWEGRAYDYGMANLKSMGFPVDDLEFDPDLVIRGLIMDKEKGNLVKADRFGYIKRVM
+HGTQMLSTRAVSEIYGRELVDLRKESRWEFLNTLFSVSEAVMFMQMVDKLDQGLVPAELG
+PLDYKGLYNAVSKALFRAHVEGQLKSEIMAEPERFVEPDPELPLALLDQKEAGKRLLLIT
+NSDYHYTNKMMNHAFNRFLPNDMGWRDLFEMVIVSARKPEFFQISHPLYEVVTDDGLMRP
+CFKANSGGLYSGGSAQMVEKSLDIHGDEILYVGDHIFTDVSQSKVHLRWRTALICRELED
+EFDALIkSHaQKEKLVTLIQQKEIVGDLFNQLRLALQRRTNSRPAQTLAATCMDDQELTE
+SMQKLLIVMQRLDEKIgPMLESDGELFNKRWGWLSRAGLWDKSHLTRQIEKYADIYTSRV
+SNFLHYTPFMYFQSQEQTLAHDVHSYSRgQsQ
+
+
+BOP CONSENSUS:
+Length: 626 aa
+
+MADPVELVRRLCLrFPPRLPRSRVPPPQPRCLVgARLRLPrSpLSLRCRALDASKPSAVe
+GEPSEEYDDDEEPYFSVTSSRLSEVDYLGESTKGDLNVRRRHLDALGGNGKSTLHGPIEE
+IAWKEARQAETLLSDLGIADPLTVRNSPRGIFCTRTLNLRSISVIGYDMDYTLIHYNVMA
+WEGRAYDYGMANLKSMGFLVDDLEFDPDLVIRGLIMDKVKGNLVKADRFGYIKRVMHGTQ
+MLPTRAVSEIYGRELVDLRKEDTWEFLNTLFSVSEAVMFMQMVDKLDQGLVPAELGPLDY
+KGLYNAVSKALFRAHVEGQLKSEIMAEPERFVEPDPELPLALLDQKEAGKRLLLITNSDY
+HYTNKMMNHAFNRFLPNDMGWRDLFEMVIVSARKPEFFQISHPLYEVVTnDGLLRPCFKA
+NSGGLYSGGSAQMVEKSLDIHGDEILYVGDHIFTDVSQSKVHLRWRTALICRELEDEFDA
+LIkSHvQKEKLVTLIQQKEIVGDLFNQLRLALQRRTNSRPAQTLAATCMNDQELTESMQK
+LLIVMQRLDEKIVPLLESDGELFNKRWGWLSRAGLWDKSHLTRQIEKYADIYTSRVSNFL
+HYTPFMYFRSQEQTLAHDVHSYSRgQ
+
+
+PACMAD CONSENSUS:
+Length: 634 aa
+
+MADAAELVRLLrLRAPPRPSPPQRSGPsPRPQRLLRALPRRRPPLSLRCRALDASrPAAV
+EGERGEEDGLEDEEESYFSVTSSGLSEVDYLGESTRGDLNVRRERLEALGGNGeSTLHGP
+IEEIAWKEAgEAETLLHDLGIADPFSVRHSPRGIFCTRTLNLRSISVIGYDMDYTLIHYN
+VMAWEGRAYDYGMDNLKSMGFPVDDLKFDPDLVIRGLVIDKEKGNLVKPDRFGYIKRAMH
+GTQMLSTRaVSEIYGRELVDLRKESRWEFLNTLFSVSEAVMFMQMVDKLDQGLVPAELGP
+LDYKGLYNAVSKALFRAHVEGQLKREIMAEPERFVEPDPELPLALLDQKEAGKKLLLITN
+SDYHYTNKMMNHAFNRFLPNDVGWRDLFEMVIVSARKPEFFQLSHPLYEVVTDDGLMRPC
+FKANSGGLYSGGSAQMVEKSLDIHGDEILYVGDHIYTDVSQSKVHLRWRTALICRELEDE
+FDALVqSHgQKEKLVTLIQQKEIVGDLFNQLRLAQQRRSNSRPAQTLAATCMDDQELTES
+MQKLLIVMQRLDEKIGPMLESDGELFNKRWGWLSRAGLWDKSHLTRQIEKYADIYTSRVS
+NFLHYTPFMYFQSQEQTLAHDAHSYSGGesIKVQ
+
+================================================================================

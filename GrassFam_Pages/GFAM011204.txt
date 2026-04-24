@@ -1,0 +1,126 @@
+================================================================================
+GrassFam ID: GFAM011204
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             270.0 aa
+Family Size (Extended Family Size): 22 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23133:SF5
+Panther Family ID:               PTHR23133
+Modal Panther ID:                PTHR23133:SF5
+Modal Panther Description:       IMIDAZOLEGLYCEROL-PHOSPHATE DEHYDRATASE
+Modal Panther Family ID:         PTHR23133
+Modal Panther Fam Desc:          IMIDAZOLEGLYCEROL-PHOSPHATE DEHYDRATASE HIS7
+Interpro Signature Accession:    cd07914; G3DSA:3.30.230.40:FF:000002; G3DSA:3.30.230.40:FF:000003; G3DSA:3.30.230.40; NF002111; NF002108; NF002114; PTHR23133; PF00475; SSF54211
+Interpro Signature Description:  IGPD; Imidazoleglycerol-phosphate dehydratase; Imidazoleglycerol-phosphate dehydratase HisB; Imidazole glycerol phosphate dehydratase; domain 1; imidazoleglycerol-phosphate dehydratase HisB; IMIDAZOLEGLYCEROL-PHOSPHATE DEHYDRATASE HIS7; Ribosomal protein S5 domain 2-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: imidazoleglycerol-phosphate dehydratase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu02H
+  Gene Products: imidazoleglycerol-phosphate dehydratase 3%2C chloroplastic%2C transcript variant X1; imidazoleglycerol-phosphate dehydratase 3%2C chloroplastic-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: imidazoleglycerol-phosphate dehydratase 1%2C chloroplastic%2C transcript variant X2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: imidazoleglycerol-phosphate dehydratase 1%2C chloroplastic-like%2C transcript variant X3; imidazoleglycerol-phosphate dehydratase 2%2C chloroplastic%2C transcript variant X1; imidazoleglycerol-phosphate dehydratase 3%2C chloroplastic%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: imidazoleglycerol-phosphate dehydratase 3%2C chloroplastic-like
+  Gene Descriptions: imidazoleglycerol-phosphate dehydratase 3%2C chloroplastic-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: imidazoleglycerol-phosphate dehydratase
+  Gene Descriptions: imidazoleglycerol-phosphate dehydratase
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: imidazoleglycerol-phosphate dehydratase 3%2C chloroplastic-like; imidazoleglycerol-phosphate dehydratase 3%2C chloroplastic-like%2C transcript variant X1
+  Gene Descriptions: imidazoleglycerol-phosphate dehydratase 3%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi04N
+  Gene Products: imidazoleglycerol-phosphate dehydratase 3%2C chloroplastic-like; imidazoleglycerol-phosphate dehydratase 3%2C chloroplastic-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: imidazoleglycerol-phosphate dehydratase
+Msi
+  Gene count: 1
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: imidazoleglycerol-phosphate dehydratase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: Imidazoleglycerol-phosphate dehydratase 1 chloroplastic
+  Gene Synonyms: GRMZM2G094255,TIDP3748
+  Gene Descriptions: Imidazoleglycerol-phosphate dehydratase 1 chloroplastic
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 270 aa
+
+MTTARFVStSpsRLSSapASPvPKSsGrvSGRgVAFPARPyGfSLRLRSPVMAAAGVGGN
+GSPtAPgDSTGSSRIGEVKRVTKETNVHVKINLDGTGVADCSTGIPFLDHMLDQLASHGL
+FDVYVKATGDTHIDDHHSNEDIALAIGTALLQALGDRKGINRFGHFTAPLDEAAVEVILD
+LSGRPHLSCGLDIPTeRVGTYDTQLVEHFFQSLVNTSGMTLHIRQLAGKNSHHIIEAtFK
+AFARALRQATEYDLRRrGTVPSSKGVLSRS
+
+
+BOP CONSENSUS:
+Length: 269 aa
+
+MTTAPFVSPSLSRLHSARASpFPKsSVgSGAGVAFPARPYGSSLRLRSPVMAASGVGGNG
+SPMAPEDSTVSSRLGEVKRVTKETNVHVKINLDGTGVANSSTGIPFLDHMLDQLASHGLF
+DVYVKATGDTHIDDHHSNEDIALAIGTALLQALGDRKGINRFGHFTAPLDEAAVEVILDL
+SGRPHLSCGLSIPTERVGTYDTQLVEHFFQSLVNTSGMTLHIRQLAGNNSHHIIEATFKA
+FARALRQATEYDLRRRGTIPSSKGVLSRS
+
+
+PACMAD CONSENSUS:
+Length: 271 aa
+
+MTTARFVSTSPARLSyTPTSPvPkSLGRvsGRVPAFPARPrGFSLRLRSSPVMAAAGVGG
+NGSPTAPGDSTGSSRIGEVKRVTKETNVHVKINLDGTGVADCSTGIPFLDHMLDQLASHG
+LFDVYVKATGDTHIDDHHSNEDIALAIGTALLQALGDRKGINRFGHFTAPLDEAAVEVIL
+DLSGRPHLSCGLDIPTQRVGTYDTQLVEHFFQSLVNTSGMTLHIRQLAGKNSHHIIEAsF
+KAFARALRQATEYDLRRHGTVPSSKGVLSRS
+
+================================================================================

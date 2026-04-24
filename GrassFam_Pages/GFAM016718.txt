@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM016718
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             315.5 aa
+Family Size (Extended Family Size): 22 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR21299:SF1
+Panther Family ID:               PTHR21299
+Modal Panther ID:                PTHR21299:SF1
+Modal Panther Description:       PANTOATE--BETA-ALANINE LIGASE
+Modal Panther Family ID:         PTHR21299
+Modal Panther Fam Desc:          CYTIDYLATE KINASE/PANTOATE-BETA-ALANINE LIGASE
+Interpro Signature Accession:    cd00560; G3DSA:3.30.1300.10:FF:000001; G3DSA:3.40.50.620:FF:000160; G3DSA:3.40.50.620; G3DSA:3.30.1300.10; TIGR00018; PTHR21299; PF02569; SSF52374
+Interpro Signature Description:  PanC; Pantothenate synthetase; Pantoate--beta-alanine ligase; HUPs; -; pantoate--beta-alanine ligase; CYTIDYLATE KINASE/PANTOATE-BETA-ALANINE LIGASE; Pantoate-beta-alanine ligase; Nucleotidylyl transferase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: pantoate--beta-alanine ligase
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: pantoate--beta-alanine ligase
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: pantoate--beta-alanine ligase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: pantoate--beta-alanine ligase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: pantoate--beta-alanine ligase
+  Gene Descriptions: pantoate--beta-alanine ligase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: pantoate--beta-alanine ligase-like%2C transcript variant 2
+  Gene Synonyms: panC
+  Gene Descriptions: pantoate--beta-alanine ligase-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau21
+  Gene Products: pantoate--beta-alanine ligase
+  Gene Descriptions: pantoate--beta-alanine ligase
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi09N
+  Gene Products: pantoate--beta-alanine ligase%2C transcript variant X1
+Pha
+  Gene count: 2
+  Modal chromosome: Pha09
+  Gene Products: pantoate--beta-alanine ligase-like; pantoate--beta-alanine ligase-like%2C transcript variant X1
+Msi
+  Gene count: 3
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: pantoate--beta-alanine ligase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: Pantoate--beta-alanine ligase
+  Gene Synonyms: GRMZM5G876146
+  Gene Descriptions: Pantoate--beta-alanine ligase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 315 aa
+
+mAAAAgEPEVIRDKAAMRAWSRRRRAEGKTVALVPTMGFLHEGHLSLVSAAAAASAGPVA
+VVVSIYVNPSQFAPTEDLATYPSDLAGDLRKLAsTGAVaAVFnPPDLYVRGsAvrprAgA
+SGGAvSCLEEAGGDGHETWIRVERLEKGLCGSSRPVFFRGVATVVAKLFNIVEPDVAVFG
+KKDYQQWRvICRMVRDLDFAIEIIGSEIVREADGLAMSSRNVHLSrEEREKALSISRSLV
+NARTAALNGSNhSqQIKDQIVQTLTEAGGQVDYVEIVEQESLVPVErIDRPVVICVAAWF
+GKVRLIDNIEIqtqS
+
+
+BOP CONSENSUS:
+Length: 312 aa
+
+mAAAAGEPEVIRDKAAMRAWSRRRRAEGKTVVLVPTMGFLHEGHLSLVSAAAAVpGPVAV
+VVSIYVNPSQFAPTEDLATYPSDLAGDLRKLASTGAVHAVFNPPDLYvRGAAvSGRrAgA
+AsSCLEAGGDGHETWIRVERLEKGLCGASRPVFFRGVATVVAKLFNVVEPDVAVFGKKDY
+QQWRLICRMVRDLDFAIEIIGSEIVREADGLAMSSRNVHLSpEEREKALSISRSLVNART
+AALNNSNSASkHIKnQIVQTLTEAGGRVDYVEIVEQESLVPVETIDRPVVICVAAWFGKV
+RLIDNIEIHtQS
+
+
+PACMAD CONSENSUS:
+Length: 316 aa
+
+AAAAAHEPEVIRDKAAMRAWSRRRRAEGKAVALVPTMGFLHEGHLSLVSAAVAASAGPVA
+VVVSIYVNPSQFAPTEDLATYPSDFAGDLRKLAATGVVAAVFCPPDLYVRGSAGRPsAGA
+SGGAVSCLEDAGGHAHETWIRVERLEKGLCGSSRPVFFRGVATVVAKLFNIVEPDIAVFG
+KKDYQQWRVICRMVRDLDFAIEIIGSEIVREADGLAMSSRNVHLShEEREKALSISRSLV
+NARTAALNGNNHSQQIKDQIVQTLTEAGGQVDYVEIVEQESLVPVERIDRPcVICVAAWF
+GKVRLIDNIEIQspSS
+
+================================================================================

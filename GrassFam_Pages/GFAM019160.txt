@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM019160
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             403.0 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR15111
+Panther Family ID:               PTHR15111
+Modal Panther ID:                PTHR15111
+Modal Panther Description:       RNA POLYMERASE II SUBUNIT 5-MEDIATING PROTEIN  NNX3
+Modal Panther Family ID:         PTHR15111
+Modal Panther Fam Desc:          RNA POLYMERASE II SUBUNIT 5-MEDIATING PROTEIN  NNX3
+Interpro Signature Accession:    cd23159; G3DSA:1.10.287.370:FF:000009; PTHR15111
+Interpro Signature Description:  Prefoldin_URI1; Prefoldin chaperone subunit family protein; RNA POLYMERASE II SUBUNIT 5-MEDIATING PROTEIN  NNX3
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: RNA polymerase II subunit 5-mediating protein homolog
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: RNA polymerase II subunit 5-mediating protein homolog
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: RNA polymerase II subunit 5-mediating protein homolog%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: RNA polymerase II subunit 5-mediating protein homolog; RNA polymerase II subunit 5-mediating protein homolog%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: uncharacterized LOC127783581
+  Gene Descriptions: uncharacterized LOC127783581
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC9272710
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: uncharacterized LOC133909525%2C transcript variant X1; uncharacterized LOC133928026%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133909525; uncharacterized LOC133928026
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: RNA polymerase II subunit 5-mediating protein homolog; RNA polymerase II subunit 5-mediating protein homolog%2C transcript variant X3
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: RNA polymerase II subunit 5-mediating protein homolog%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: nuclear polyadenylated RNA-binding protein 3-like
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: Prefoldin chaperone subunit family protein; unconventional prefoldin RPB5 interactor%2C transcript variant X1
+  Gene Synonyms: GRMZM2G010065
+  Gene Descriptions: Prefoldin chaperone subunit family protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 403 aa
+
+MAAPRKGTATPLGAVFSPEETKRAVARVAEAIADRRAELGRLQGFVADNAALVSLVqRLP
+DELSHEIMVPFGGAAFFPGRLIHTNELLVLLGEGYYAERSAKQTTEILHRRGMELEAQVE
+AMKATISDLEAEAKFFESTAAEASEGLVEIREEYDEDTEiNSSKSEASSSsGGMSDKDRE
+HARIMARLDELEMEEKEAGSTSEEEgDDDDDDDEDAGTSEDGEENEESGNALSDGNEHhS
+SSFGASFSGSGGNDRSHGNIQLKSALKKPGGkEmLkGiSHAPSAHTSHPVFPGQTSITNS
+EVqVpRKAVSFeDDKHvVSSSKSPSLPLDPKySAPGLKnSSDPaPSRDRKIISSGRKAFT
+GSIIEHDDNLSaIQPPrSNSSeKPGTSASSRPMSRFKMQKGGR
+
+
+BOP CONSENSUS:
+Length: 377 aa
+
+MATARKGTATPLGSVFSPEETRRAVSRVAQAVADRRADLARVQGFFADNAALVSLVQRLP
+DELSHQIMVPFGGAAFFPGSLIHTNELLVLLGDGYYADRSAKQTTEILHRRGMELEAQME
+AIKATISDLEAEAKFFESTAAEASEGLVEIREEYDEDTEInSSKTEASSSSGGISDEEHA
+RMMARFDELEMLEKEAGSTSEDEGDDDDDDDEDAGTSEDGEENGDTLSYGNEHDNVSFGA
+SVSGSGGNDQSQGNAQLKSALKKLGGKEaLQGSSLAPSGSTSITNSEVQASLRKAVSFKD
+ENGQIVSSSRYSSGPKVSSSRDRKILSSGQKAFTGSIVEHDDGLSAIQQPRSNDSEKAAS
+SASSRPVSRFKMQKGGR
+
+
+PACMAD CONSENSUS:
+Length: 402 aa
+
+MAAPRKGTATPLGAVFSPEETKRAVARVAESIADRRAELGRLQGFVADNAALVSLVNRLP
+DELSHEIMVPFGGAAFFPGRLIHTNELLVLLGEGYYAERSAKQTTDILHRRGqELEAQVE
+AMKATISDLEAEAKFFESTATEASEGLVEIREEYDEDTEtNSSKSEASvATGGMSDKDRE
+HARIMARLDELEMEEKEAGSTSEEEDDDDEDDGGAGTSEDGEENkESGNALSDGNEHHSS
+SFGASFSGSGGNDRSHGNIQLKSALKKPGGDEMLRGISHTPSAHTSHPVFPGQTSITNSE
+VRVRTKAVSFEDDKHVVSSSKSPsLPLDPiySAPGLKnSSDPtPSRDRKIISSGRKAFTG
+SIIEHDDNLStIQPSVGNSLAKPGTSASSRPMSRFKMQKGGR
+
+================================================================================

@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM019183
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             592.5 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12271:SF53
+Panther Family ID:               PTHR12271
+Modal Panther ID:                PTHR12271:SF53
+Modal Panther Description:       RNA URIDYLYLTRANSFERASE
+Modal Panther Family ID:         PTHR12271
+Modal Panther Fam Desc:          POLY A  POLYMERASE CID  PAP -RELATED
+Interpro Signature Accession:    cd05402; G3DSA:1.10.1410.10:FF:000018; G3DSA:3.30.460.10:FF:000067; G3DSA:3.30.460.10; G3DSA:1.10.1410.10; PTHR12271; PF22600; SSF81301; SSF81631
+Interpro Signature Description:  NT_PAP_TUTase; Terminal uridylyltransferase cid1; Beta Polymerase, domain 2; -; POLY A  POLYMERASE CID  PAP -RELATED; Poly(A) RNA polymerase, mitochondrial-like, central palm domain; Nucleotidyltransferase; PAP/OAS1 substrate-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: UTP:RNA uridylyltransferase 1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: UTP:RNA uridylyltransferase 1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: UTP:RNA uridylyltransferase 1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: UTP:RNA uridylyltransferase 1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: UTP:RNA uridylyltransferase 1%2C transcript variant X1
+  Gene Descriptions: UTP:RNA uridylyltransferase 1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: UTP:RNA uridylyltransferase 1%2C transcript variant X1
+  Gene Descriptions: UTP:RNA uridylyltransferase 1
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau06
+  Gene Products: UTP:RNA uridylyltransferase 1-like%2C transcript variant X1
+  Gene Descriptions: UTP:RNA uridylyltransferase 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: UTP:RNA uridylyltransferase 1-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: UTP:RNA uridylyltransferase 1%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: UTP:RNA uridylyltransferase 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: uncharacterized LOC100383501
+  Gene Synonyms: GRMZM2G065097,GRMZM2G132340,TIDP3746
+  Gene Descriptions: uncharacterized LOC100383501
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 582 aa
+
+MAGGDAarPlADgFLRFLLPAPKPRPAAPtAPARLvPPHRLVAPPpPvPpllRPEERLFI
+VPPTRPDWLPPPPPRfPvPPPRRvsPsPGAAvRPRPFPPgggPrrRnAGRFAGNGARGRs
+pparRraGGGaRaGfQRPKAAAAarKEKKAWVAVEKKGEdGGDeDrAAvsEGYSGGDEaG
+vEaEDQLEPEdEQDgDGhRrGLDrdlknSLlmAGDQECsDgGGGERPSEqLmSQSNQvPR
+LQgRTRRgwVECRHDIDTFTPGLLSLYESLKPSEEHKSKQsQLVDSLAKSVSKEWPNAQL
+HLYGSCANSFGTSHSDVDVCLEMEIGTgStVEvLLRLAEiLRgDNFDNVEAITSARVPIV
+RMSDPGSGFSCDICINNLFAVANTKLLKDYAQIDqRLLQLAFLVKHWAKLRGVNETYRGT
+LSSYAYVLMCISFLQLREPKILPCLQAMEPTYTMVVDDTECAYFDEVHQLqDFGAENKES
+IAELLWAFFHYWAFQHDYRkDVISVRMGKTISKQEKNWTTRVGNDRHLMCIEDPFETGHD
+LGRVVDRQTIRILREEFERAAAVLQYDDDPCVTLFEPYnYEn
+
+
+BOP CONSENSUS:
+Length: 590 aa
+
+MAGGDAKPLADgAFLRFLLPSPKPePTPPPPARLAPPHCLVAPPQPDPpPPRPDERLFIV
+PPTRPAWLPPQPrPPPPFPvPPpRRVHPAAGAaRNAGRFAGRGGQVRRRvGDFAGNRgRA
+GPeRRRAGGGLavKaNGGEARAGaRRAAAAarREKKVWVAVEKKGgnGGSDADDQAAvGG
+GYAGGDEAGGSvEGEEQLEPDDQDGDGRRLGEELEDSLLIAGDHEcHDsDGGEqsSENlM
+SQSNQSRRLRIRTRTGWMECRHDIGTFASGLLSIYESLKPSEEHKSKQSQLIDSLTKSVS
+KEWPNAQLHLYGSCANSFGTSHSDVDVCLEIDIGTGSEVELLLRLAEILRGDNFDSVEAI
+TSARVPIVRMLDAGSGFSCDICINNLFAVANTKLLKDYAQIDGRLLQLASIVKHWAKLRG
+VNETYRGTLSSYAYVLMCISFLQLREPKILPCLQAMEPTYTMVVDDTECAYFDEVHQLrD
+FGAENKETIAELLWAFFHYWAFQHDYRKDVISIRMGKIISKKEKNWTTRVGNDRHLICIE
+DPFETGHDLGRVVDRQTIRIIREEFERAAAvLQHDDDPCVTLFEPYNYEn
+
+
+PACMAD CONSENSUS:
+Length: 595 aa
+
+MAGDDdAaeHAAEpPPrPVADPFLRFLIPAPKPRPAAPTAPARLVPPHRLVAPPpPvPAL
+LRPEERLFIVPPTRPDWLPPPaPRpPPPPPHSPSPPGAAVRPRPFPPaNEPRTRNAGRFA
+GhVNGARGRSPAApLpsdGGGRsGFQRPKAAAApheKEKKAWVAVEKKGEDAGDEDRAAl
+SEGYSGGDEGGvEAEDQLEPEqEQEdGGHRRLLDREDDVKNSLpMAGNQECSDaGGGERP
+SEQLvPQSNQVPrLQGRMRRsQVECRHDIDTFTPGLLALYESLKPSEEHKSKQKQLVDSL
+AKSVSKEWPNAQMHLYGSCANSFGTSHSDVDVCLEMEIGTeSTVEVLLRLADVLRtDNFE
+NVEAITSARVPIVRMSDPGSGFSCDICINNLFAVANTKLLKDYAQIDQRLLQLAFLVKHW
+AKLRGVNETYRGTLSSYAYVLMCINFLQLREPKILPCLQAMEPTYTLTVDGTECAYFDEV
+HQLQDFGAeNKESIAELLWAFFHYWAFhHDYRRDVISVRLGKTISKQEKNWTTRVGNDRH
+LMCIEDPFETGHDLGRVVDRQTIRILREEFERAAAVLQYDDDPCVTLFEPYdYEN
+
+================================================================================

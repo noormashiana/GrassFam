@@ -1,0 +1,147 @@
+================================================================================
+GrassFam ID: GFAM018031
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             692.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48012:SF34
+Panther Family ID:               PTHR48012
+Modal Panther ID:                PTHR48012:SF34
+Modal Panther Description:       PROTEIN KINASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR48012
+Modal Panther Fam Desc:          STERILE20-LIKE KINASE, ISOFORM B-RELATED
+Interpro Signature Accession:    cd06609; G3DSA:1.10.510.10:FF:000207; G3DSA:1.10.510.10; PTHR48012; PF00069; SM00220; SSF56112
+Interpro Signature Description:  STKc_MST3_like; serine/threonine-protein kinase dst1 isoform X1; Transferase(Phosphotransferase) domain 1; STERILE20-LIKE KINASE, ISOFORM B-RELATED; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: serine/threonine-protein kinase svkA%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: serine/threonine-protein kinase 24-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: serine/threonine-protein kinase svkA%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: serine/threonine-protein kinase svkA-like; serine/threonine-protein kinase svkA-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: uncharacterized LOC127778993
+  Gene Descriptions: uncharacterized LOC127778993
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4343333
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 2
+  Modal chromosome: Pau14
+  Gene Products: uncharacterized LOC133890458; uncharacterized LOC133892607
+  Gene Descriptions: uncharacterized LOC133890458; uncharacterized LOC133892607
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: serine/threonine-protein kinase 4-like; serine/threonine-protein kinase svkA-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: serine/threonine-protein kinase svkA-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: serine/threonine-protein kinase 25%2C transcript variant X3
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: GCK-like kinase MIK
+  Gene Synonyms: GRMZM2G027756,MIK,MIK-KD1,MIK-KD2
+  Gene Descriptions: GCK-like kinase MIK
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 694 aa
+
+MSDSASMAAAIEARFSNRDLIGRGSFGDVYKGFDKELnKEVAIKVIDLEEAEDDIEDIQK
+EISVLSQCRCPYITDYYGSYLHQTKLWIVMEYMAGGSVADLLQAGPPLDEMSIACILRDL
+LHAIEYLHSEGKIHRDIKAANILLTESGDVKVADFGVSAQLTKTMSRRKTFVGTPFWMAP
+EVIQNSDGYNEKADIWSLGITAIEMAKGEPPLADIHPMRVLFMIPRENPPQLDEHFSKPM
+KEFVSLCLRKNPAERPSAKELLKHRFIKNARKTPKLLERIRERPKFAVKGSMDATQNGQT
+HIEEDDyGTGTIKVDRTKDAASPSSQGTVRKAAGWDFPDRSEGTGTVRVGlRPPQITSTK
+DGRFDMPQSPNTPKRTADRENQWRTSwTGSEESsSTNLSqREAQsDRGRLESSTEDNDQS
+VSGSGTVVLRSPRASQVYSAAsNHSSKPPSRFSSYEDMSsSGTVVRNQSEEPETPRSSRS
+RLGIQEKtSNASLEDSAiNLAEAKAALQAGFRKGNARERPVINRHEKESHEPRfSGVNSQ
+EVQSENVDMQKGRKSRQLsDGQSAPRASSSVASPALSSLIIPSLKEATGDKFERPVVHAF
+LDSLMDLEHEIPGSCEVLVGRLLHRLGSSKDSSLQSLQETAiSIFTKKPEPPSEpASNKK
+LASTPPLAAPTVSPLARFLLTRWQNQVSQDLNSV
+
+
+BOP CONSENSUS:
+Length: 692 aa
+
+MSDSASMAAATEARFSNRDLIGRGSFGDVYRGFDKELSKEVAIKVIDLEEAEDDIEDIQK
+EISVLSQCRCPYITDYYGSYLHQTKLWIVMEYMAGGSVADLLQAGPPLDEISIACILRDL
+LHAVEYLHSEGKIHRDIKAANILLTESGDVKVADFGVSAQLTKTMSRRKTFVGTPFWMAP
+EVIQNSDGYNEKADIWSLGITAIEMAKGEPPLADIHPMRVLFMIPRENPPQLDEHFSKPM
+KEFVSLCLRKNPAERPSAKELLKHRFIKNARKTPKLLERIRERPKFTVKGSIDATQNGQT
+HIEEDDYGGTIKVERNTRHAASPSSQGTVRKAAGWDFPDRSEGTGTVRGGLRPPQITSTK
+DGRFDMPQNPSTLKRTADRENQWRTSGTGSEESsSTNMSKKEAQTDHGRLESSTEYNDQS
+VSGSGTVVLRSPRASQVYPAGPNHSSKPPSRFSSYEDMSISGTVVRNQtEEAETPRSSRS
+RLGTQEKTSNASLEDSATNLAEAKAALQAGFRKGNARERPVTNKHEKESHEPRFSGVNSH
+EVRSENVDSQKGRKSRQPSDGQSAPRASAASPALSSLIIPSLKEATGDKYEGPVVHAVLS
+SLMDLEqEIPGSCEVLVGRILHRLGSSKDSSLQSLNETAISIFTKKPEPPSEPaSNKKQA
+STPPLAAPTVSPLARFLLTRWQNQVSQDLNSV
+
+
+PACMAD CONSENSUS:
+Length: 689 aa
+
+MSDSASMAAAIEARFSSRDLIGRGSFGDVYKGFDKELNKEVAIKVIDLEEAEDDIEDIQK
+EISVLSQCRCPYITDYYGSYLHQTKLWIVMEYMAGGSVADLLQAGPPLDEMSIACILRDL
+LHAIEYLHSEGKIHRDIKAANILLTESGDVKVADFGVSAQLTKTMSRRKTFVGTPFWMAP
+EVIQNSEGYNEKADIWSLGITAIEMAKGEPPLADIHPMRVLFMIPRENPPQLDEHFSKPM
+KEFVSLCLRKNPAERPSAKELLKHRFIKNARKTPKLLERIRERPKFAAKsMDATQNGQTH
+vEEDDVGTGTIKVDRAKDAAPPLSQGTVRKATGWDFPDRSEGTGTVRVVSRPPQIASTKD
+GRFDmPQSPNTPrRTADRENQWRTSWTGSEESLSQRDTQSERGRLESSTDDNDQSVSGSG
+TVVLRSPRASQLYSAASNHSSKPPSRFSSYEDMSSSGTVVRSQSEDPETPRSSRSRLGIQ
+EKASSASLEDSAINLAEAKAALQAGLRKGNARERPVINRHEKESHEHRSSGVNSQEVQSE
+sVDMQKGRKSRQLPDGQSASRASSSVASPAISSLIIPSLKEATGDKFERPAVHAFLDSLM
+DLEHEIPGSCEVLIGRLLHRLGSSKDSSLQGLQETAASVFTKKPEPPSEqASnKKLANTP
+PLAAPTVSPLARFLLTRWQNQVSQDLNSV
+
+================================================================================

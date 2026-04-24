@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM002346
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             506.0 aa
+Family Size (Extended Family Size): 28 (30) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48480:SF1
+Panther Family ID:               PTHR48480
+Modal Panther ID:                PTHR48480:SF1
+Modal Panther Description:       AMINOPEPTIDASE P N-TERMINAL DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR48480
+Modal Panther Fam Desc:          FAMILY NOT NAMED
+Interpro Signature Accession:    cd01087; G3DSA:3.90.230.10:FF:000002; G3DSA:3.40.350.10; G3DSA:3.90.230.10; PTHR48480; PF00557; SM01011; SSF53092; SSF55920
+Interpro Signature Description:  Prolidase; Xaa-Pro aminopeptidase 3; -; Creatinase/methionine aminopeptidase superfamily; Metallopeptidase family M24; AMP_N_2; Creatinase/prolidase N-terminal domain; Creatinase/aminopeptidase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: xaa-Pro dipeptidase
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu01H
+  Gene Products: xaa-Pro dipeptidase-like; xaa-Pro dipeptidase-like%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: xaa-Pro dipeptidase
+Tae
+  Gene count: 8
+  Modal chromosome: Tae01B
+  Gene Products: xaa-Pro dipeptidase-like; xaa-Pro dipeptidase-like%2C transcript variant X1; xaa-Pro dipeptidase-like%2C transcript variant X7
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: uncharacterized LOC127764295
+  Gene Descriptions: uncharacterized LOC127764295
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4328771
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau05
+  Gene Products: uncharacterized LOC133918670
+  Gene Descriptions: uncharacterized LOC133918670
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: xaa-Pro dipeptidase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: xaa-Pro dipeptidase
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: xaa-Pro dipeptidase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: uncharacterized LOC100283733
+  Gene Synonyms: GRMZM2G021110,pco081178
+  Gene Descriptions: uncharacterized LOC100283733
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 506 aa
+
+MAAsstSSLAPPeVPMELHAGNRDRLVAALRAHLSASARPLRGLVLLQGGEEQTRYCTDH
+LELFRQESYFAYLFGVREPGFYGAIDIASGQSILFAPRLPaDYAVWMGEIKPLSYFKDtY
+KVDmVFYVDEIAQVLQDRFSdHGKPLLFLLYGKNTDSGNYSKPASFEGMEKFDTDLSTLH
+PILTECRVIKSDMELALIQYANDVSSEAHIEVMRQAKPGMKEYQLESIFLHHvYMYGGCR
+HCSYTCICATGeNSSVLHYGHAAAPNDRTLNDGDMALMDMGAEYNFYGSDITCSYPINGK
+FNSNQtIVYNAVLKAHNAVISHMqPGVKWmDMHKLAEQtILESLKKEqIIHGDVdDMMAQ
+RLGAVFMPHGLGHLLGIDTHDPGGYPEGLERPKEPGLSSLRTIRELKEGMVITVEPGCYF
+IDALLrpARDDPISSKFFNWEEIEKYKSFGGVRIESDVYVTAQGCKNLTNCPRETWEIEA
+VMAGAPWPlRASsSsAtAAENGLPKA
+
+
+BOP CONSENSUS:
+Length: 501 aa
+
+pMasSSLAPPeVPMELHAGNRDRLVAALRAHLSASARPLRGLVLLQGGEEQTRYCTDHLE
+LFRQESYFAYLFGVREPGFYGAIDIASGQSILFAPRLPPDYAVWMGEIKPLSYFKDRYKV
+DlVFYVDEIAQVLQDRFSEHGKPLLFLLYGKNTDSGNYSKPASFEGIEKFDTDLSTLHPI
+LTECRVIKSDMELALIQYANDVSSEAHIEVMRQAKPGMKEYQLESIFLHHAYMYGGCRHC
+SYTCICATGENSSILHYGHAAAPNDRTLNDGDMALMDMGAEYNFYGSDITCSYPINGKFN
+SNQTIVYNAVLKAHNAVISHMQPGVKWIDMHKLAEQTILESLKKEnIIHGDIgDMMaRRL
+GAVFMPHGLGHLLGIDTHDPGGYPEGLERPKEPGLSSLRTIRELKEGMVITVEPGCYFID
+ALLRPARDDPISSKFFNWEEIEKYKSFGGVRIESDLYVTAQGCKNLTNCPRETWEIEAVM
+AGAPWPsRASvSSTENGLPKA
+
+
+PACMAD CONSENSUS:
+Length: 507 aa
+
+MAASStSSLAPPAVPMELHAGNRDRLVAALRGHLSASARPLRGLVLLQGGEEQTRYCTDH
+LELFRQESYFAYLFGVREPGFYGAIDIASGQSILFAPRLPADYAVWMGEIKPLSYFRDTY
+KVDMVFYVDEIAQVVQDRFGDHGKPLLFLLHGKNTDSGNFSKPASFEGMEKFDTDLSTLH
+PILTECRVIKSDLELALIQYANDVSSEAHIEVMRRARPGMKEYQLESIFLHHVYMYGGCR
+HCSYTCICATGDNSAVLHYGHAAAPNDRTLNDGDMALMDMGAEYHFYGSDITCSYPINGK
+FNSSQIIIYNAVLKAHNAVISHMRPGVNWMDMHKLAERAILESLRKEQILQGDVDDMMAQ
+RLGAVFMPHGLGHLLGIDTHDPGGYPEGLERPKEPGLSSLRTTRELKEGMVITVEPGCYF
+IDALLTKARNDPISSKFFNWQEVEKYKSFGGVRIESDVYVTAQGCRNLTNCPRETWEIEA
+VMAGAPWPLPASSSmAAAAENGVSKAs
+
+================================================================================

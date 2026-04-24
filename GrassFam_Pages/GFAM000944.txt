@@ -1,0 +1,112 @@
+================================================================================
+GrassFam ID: GFAM000944
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             471.0 aa
+Family Size (Extended Family Size): 46 (54) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47975:SF18
+Panther Family ID:               PTHR47975
+Modal Panther ID:                PTHR47975:SF18
+Modal Panther Description:       RECEPTOR-LIKE SERINE_THREONINE-PROTEIN KINASE SD1-6
+Modal Panther Family ID:         PTHR47975
+Modal Panther Fam Desc:          S-LOCUS LECTIN KINASE FAMILY PROTEIN
+Interpro Signature Accession:    G3DSA:1.10.510.10:FF:000870; G3DSA:3.30.200.20:FF:000465; G3DSA:3.30.200.20; G3DSA:1.10.510.10; PTHR45707; PIRSF000654; PF00069; SM00220; SSF56112
+Interpro Signature Description:  OSJNBa0016N04.16-like protein; Cysteine-rich receptor-like protein kinase 6; Phosphorylase Kinase; domain 1; Transferase(Phosphotransferase) domain 1; C2 CALCIUM/LIPID-BINDING PLANT PHOSPHORIBOSYLTRANSFERASE FAMILY PROTEIN; ILK; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu05H
+  Gene Products: protein PSK SIMULATOR 1-like%2C transcript variant X1; protein PSK SIMULATOR 1-like%2C transcript variant X2
+Ata
+  Gene count: 3
+  Modal chromosome: Ata03D
+  Gene Products: U-box domain-containing protein 12; protein PSK SIMULATOR 1%2C transcript variant X1; putative cysteine-rich receptor-like protein kinase 33
+Tae
+  Gene count: 9
+  Modal chromosome: Tae07B
+  Gene Products: protein PSK SIMULATOR 1-like; putative receptor-like protein kinase At4g00960; receptor-like serine/threonine-protein kinase SD1-6; receptor-like serine/threonine-protein kinase SD1-6%2C transcript variant X2; serine/threonine-protein kinase PBL27-like%2C transcript variant X1; uncharacterized LOC123112627%2C transcript variant X1; uncharacterized LOC123122118; uncharacterized LOC123159779%2C transcript variant X3
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: cysteine-rich receptor-like protein kinase 44
+  Gene Descriptions: cysteine-rich receptor-like protein kinase 44
+Ecu
+  Gene count: 13
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 4
+  Modal chromosome: Pau19
+  Gene Products: cysteine-rich receptor-like protein kinase 29%2C transcript variant X2; cysteine-rich receptor-like protein kinase 44%2C transcript variant X1; protein PSK SIMULATOR 1-like; receptor-like serine/threonine-protein kinase SD1-7%2C transcript variant X1
+  Gene Descriptions: cysteine-rich receptor-like protein kinase 29; cysteine-rich receptor-like protein kinase 44; protein PSK SIMULATOR 1-like; receptor-like serine/threonine-protein kinase SD1-7
+Svi
+  Gene count: 2
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi08N
+  Gene Products: protein PSK SIMULATOR 1-like; putative receptor-like protein kinase At4g00960; putative receptor-like protein kinase At4g00960%2C transcript variant X1
+Msi
+  Gene count: 6
+  Modal chromosome: Msi04
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi05
+  Gene Products: putative receptor-like protein kinase At4g00960%2C transcript variant X3; receptor-like kinase LIP2%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: putative protein kinase superfamily protein%2C transcript variant X1
+  Gene Synonyms: GRMZM2G094541
+  Gene Descriptions: putative protein kinase superfamily protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 333 aa
+
+MDstAtdRDvLEkKLQDPtAsPiSLPLEFLKdITcNFSTEqELGRGGYGVVYKGVLRSGK
+iIAVKKLFDshLLnDdqFqnEVTnLMGiKHqNIVQLVGYCAETRwEAiKLPnGknVMAEi
+rKRLLCFEYLpNKSLDKHISDESSGLDWNmRYEIIKGICSGLHFLHgECHIVHLDLKPEN
+ILMDdtMmPKIADFGLSRLLGeQKSrTITgnrAGTlGYMAPEYldrGVVSpKADIFSLGV
+IIIEIITGrRDYPyFQQnssqsTEtSlqQFTEkVLgsWRNrfeeePkYTSpEiYteQVKq
+CItIALeCVDPDsnKRPtacDIiEmLtgeeptc
+
+
+BOP CONSENSUS:
+Length: 459 aa
+
+MSvGSKSGDDPSLNVSSqGMasthdeLEKKLQDSNATPMsLPLEFLKAITCDFSTESvLG
+EGGYGVVYKGVLRSGKiIAVKKLFEIRLKEeTFQNEVsYLMGIKHQNIVQFLGYCAESsW
+EAIEqPSGSGKyIlAElPKRLLCFEYVCNKSLDKHISDESSGLEWNMRYeIIKGICnGLH
+FLHEECHmVHLDLKPENILMDSTMtPKIADFGLSRIFGEQQSRIITDNRAGTCGYMAPEY
+LIRGVVSNKADIFSlGVIVIEIITGrRDYPYFQQDSSqstATSFQQFTEKVLESWRNRFt
+STPnYKtvEKYarQVKQCVTIALnCVDPSMEKRPTAKDIIEMLNvlDKMvtheELPSvVQ
+CvDmLqALNTTvSndLTPqSITneMLnKeTtSKqVdnAKSEGLLptPTpEsstIrqsyKw
+gvKAsNKRQSTTDTTSVRGAWIATGDIwDYIMQKSVCea
+
+
+PACMAD CONSENSUS:
+Length: 329 aa
+
+MDsTATDRDVLEeKLQDPtAsPISLPyeFLKDITgNFSTEQELGRGGYGVVYKGVLRSGq
+iIAVKKLfDshLLdDDqFqKEVTNLMGiKHkNIVQLVGYCAETRwEAiKLPnGknVMAEi
+RKRLLCFEYLpNKSLDKYISDESSGLDWNkRYEIIKGICSGLHYLHgeChIVHLDLKPEN
+ILMDdtMmPKIADFGLSRLLGaQKSqTITgsiAGTlGYMAPEYidqGVISpKADIFSLGV
+IIIEIITGrRDYPmisqsTEtSlkQFTenVLGkWRNrfeeepkYTSPeiYTEQVKqCItI
+ALeCVdPDSnkRPdicDIiemLTgEeptC
+
+================================================================================

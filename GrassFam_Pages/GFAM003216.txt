@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM003216
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             501.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR19443:SF19
+Panther Family ID:               PTHR19443
+Modal Panther ID:                PTHR19443:SF19
+Modal Panther Description:       HEXOKINASE-10
+Modal Panther Family ID:         PTHR19443
+Modal Panther Fam Desc:          HEXOKINASE
+Interpro Signature Accession:    G3DSA:3.30.420.40:FF:000034; G3DSA:3.30.420.40; G3DSA:3.40.367.20; PTHR19443; PR00475; PF00349; PF03727; SSF53067
+Interpro Signature Description:  Phosphotransferase; -; HEXOKINASE; Hexokinase family signature; Hexokinase; Actin-like ATPase domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: hexokinase-10
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: hexokinase-10-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: hexokinase-10-like
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: hexokinase-10-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: hexokinase-10
+  Gene Descriptions: hexokinase-10
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: hexokinase-10-like
+  Gene Synonyms: HXK10,HXK7,OJ1005_E12.7
+  Gene Descriptions: hexokinase-10-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau09
+  Gene Products: hexokinase-10-like%2C transcript variant X1
+  Gene Descriptions: hexokinase-10-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: hexokinase-10-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: hexokinase-10-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: hexokinase-10
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: hexokinase-1
+  Gene Synonyms: GRMZM2G046686
+  Gene Descriptions: hexokinase-1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 501 aa
+
+MGrAQWLrVAagCaAAVTCAVAAAmVARRavAwrRWnRAVAVVRgfEEsCATPTERLQRV
+VNSLAVEMFAGLASEgASKVRMLLTCVDaLPDGSEEGIYYAIDLGGTSFRVMKLELGpGS
+tIINKKVEHQPIPEELTKGTSEDLFNLIASALKNFIEREGGkDEGRALGFTFSFPVRQfS
+ISSGSLIRWTKEFSIEEAVGKDVAQCLNEALVRNGLNLQVTALVNNAVGTLAMGHYYDED
+TVAAVIIGAGTNASYIERNaAITKCqGLLTNSgqTVVNVEWGSFRPPQIPLTPYDICFnn
+ETrNYYDQaFEKMISGVYLGEIARLVFQkMAQESDVFGssVngLSTPFILSTPCLAAIRE
+DDSPDLREVGRVLEEHLKIQDVPLKTRRLVvRVCDIITRRAARLAAAGIVAILQKIGRDG
+TLCGTTrVRKIRGePKRSVVAIEGGLYQGYSVFREYLNEAVdEILGEEIASTVSLRVMEE
+GSGIGAALLAASYSSTRQNSa
+
+
+BOP CONSENSUS:
+Length: 499 aa
+
+MGGAGWLRVAAAGCAAVTCALATAMVARRVvAWRRWLRAVAVLRDVEESFATPTERLQRV
+VNSLAVEMFAGLASEDASKVRMLLTCVDsLPDGSEEGIYYAIDIGGTSFRVLKVELGAGS
+TIINQKVEHQPIPKELTKGTSEDFFNsIASTLKNFIEREGDEGRALGFTFSFPVRQFSIT
+SGSLIRWTKEFSIEEAVGKDVAQCLNEALERNGLNLKVNALMNNTVGTLALGHYYDEDTI
+AAVIIGAGTNACYIERNEAITKCQGLLTNSGRTVVNVEWGSFRPPQIPLTPYDICFNNET
+pNYYDQGFEKMISGVYLGEIARLVFHKMAQESDVFGTDVDGLAIPFILSTPCLAAIREDD
+SLDLREVGSILEEHLKIHNVPLKTRRLVQRVCDIITRRAARLAAAGIVAILQKLGRDGTL
+CGTTRVRSMTGVPKRSVIAIEGGLYQgYSVFREYLNEAVLEILGEEIAATVVLRVVEEGS
+GmGAALIAAAYSSTRqNSI
+
+
+PACMAD CONSENSUS:
+Length: 501 aa
+
+MGRAQWLSVAVGCAAAVTCAVAAALVARRAvARcRWNRAVAVVRGFEEGCATPTERLQRV
+VNSLAVEMFAGLASEGASKVRMLLTCVDaLPDGSEEGIYYAIDLGGTSFRVMKLELGSGS
+MVINKKVEHRPIPEELTKGTSEDLFNLIALALKNFIEREGGkDEGRALGFTFSFPVRQvS
+ISSGSLIRWTKEFSIEEAVGKDVAQCLNEALVRNGLNLQVTALVNNAVGTLAMGHYYDED
+TVAAVIIGAGTNASYIERSAAITKCRGLLTNSDLTVVNVEWGSFRPPQIPLTPYDICFnE
+kkRNHYDQAFEKMISGVYLGEIARLVLQRMAQESDVFGSSVNCLSTPFIFSTPCLAAIRE
+DDSPDLRVVGRVLEEHLKIQDVPLKTRRLVVRICDIVTRRAARLAAAGIVAVLQKIGRDG
+TLCGTTnVRKIRGEPKRSVVAIEGGLYQGYSVFREYLNEAVDEILGDEIASTVSLRVMEE
+GSGIGAALLAASYSSTRQNSA
+
+================================================================================

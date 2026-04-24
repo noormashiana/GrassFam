@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM007067
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             367.0 aa
+Family Size (Extended Family Size): 21 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13040:SF2
+Panther Family ID:               PTHR13040
+Modal Panther ID:                PTHR13040:SF2
+Modal Panther Description:       AUTOPHAGY PROTEIN 5
+Modal Panther Family ID:         PTHR13040
+Modal Panther Fam Desc:          AUTOPHAGY PROTEIN 5
+Interpro Signature Accession:    G3DSA:3.10.20.90:FF:000370; G3DSA:1.10.246.190:FF:000002; G3DSA:3.10.20.620:FF:000002; G3DSA:3.10.20.90; G3DSA:1.10.246.190; G3DSA:3.10.20.620; PTHR13040; PF20638
+Interpro Signature Description:  Autophagy protein 5; -; Autophagy protein Apg5, helix rich domain; AUTOPHAGY PROTEIN 5; Autophagy protein ATG5, UblA domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: autophagy protein 5%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: autophagy protein 5
+Ata
+  Gene count: 2
+  Modal chromosome: Ata06D
+  Gene Products: autophagy protein 5; autophagy protein 5%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06B
+  Gene Products: autophagy protein 5-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: autophagy protein 5%2C transcript variant X1
+  Gene Descriptions: autophagy protein 5
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: autophagy protein 5-like
+  Gene Synonyms: APG5,ATG5,OJ1217_F02.1,OJ1442_E05.32,OsJ_004990
+  Gene Descriptions: autophagy protein 5-like
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: autophagy protein 5-like; autophagy protein 5-like%2C transcript variant X2
+  Gene Descriptions: autophagy protein 5-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: autophagy protein 5-like; autophagy protein 5-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: autophagy protein 5%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: autophagy protein 5
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: autophagy protein 5
+  Gene Synonyms: atg5,GRMZM2G098420
+  Gene Descriptions: autophagy protein 5
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 370 aa
+
+MAAaheEAAAWSEEAARRVWGGAVPLQVHLHDADVTALPPPPPFLTLGPRIGYLPLLVPv
+IKAHFSSaLPPGVDTVWFEYKGLPLKWYIPIGVLFDLLCADPERPWNLIVHFRGYPSEIL
+SPCEGEDSVKWSYMNSLKEAAFIITGNSKNVMNMSQADQvALWESVmKGNLDGYmNISTR
+LKLGPFEEDgLVRTSSlErQQGSDEPESPGSgKPCRVPVRLYVRrVQEDLEYLEDAIPVS
+DWESVSYINRPFEIRKEEGRSYITLEHALqTLLPEFFSSKPtaRADDsqpAetpDSAPDD
+SDTTPRSsqeaEPASASPQEADVAKKAKVKLVRVQGIELDMDIPFLWVANNLKNPEcYLH
+ICVYVGTRKQ
+
+
+BOP CONSENSUS:
+Length: 370 aa
+
+MAAApRDEeAAAWSEEAARrVWGGAVPLQVHLHDADVTALPPPPPFLTLGPRIGYFPLLV
+StIKAHFSSSLPPGVDTVWFEYKGLPLKWYIPIGVLFDLLCADPERPWNLTVHFRGYPAD
+ILSPCEGEDSVKWNYNNSLKEAAFIITGNSKNVMNMSQADQLAMWESVRKGDLDSYMNIS
+TKLKLGPFEEDFLVRTSSLEpRQGSDEPESPGSVKPCRVPVRLYVRRVQEDLEYLEDAIP
+VSDWESVSYINRPFEIRKEEGRSYITLEHALETLLPEFFSSKPTARAADPEPAsTTPDSa
+PDDSDTTPGTPrDEkPASASPQEtDVAKKaKVKLVRVQGIELDMDIPFLWVANNLKNPEC
+YLHVCVYVGA
+
+
+PACMAD CONSENSUS:
+Length: 374 aa
+
+MAAPHDEAAAWSEEAARRVWGGAVPLQVHLHDADVTALPPPPPFLTLGPRIGYLPLLIPV
+IKAHFSNALPPGVDTVWFEYKGLPLKWYVPIGVLFDLLCADPERPWNLIVHFRGYPSEIL
+SPCEGEDSVKWSYMNSLKEATFIITGNSKSVMNMSQADQVALWESVMKGNLDGYKNISTR
+LKLGPFEEDGLVRTAStERQRQQSSDEPESPGSGKPCRVPVRLYVRnVQEDLEDIEDAvP
+VSDWESVSYINRPFEIRKVEGRSYITLEHALQTLLPEFFSSKPAGRADDSQHAGALDSAA
+DsSDtTNSSRSSQEAEQASASLREAGIAKKAKVKLVRVQGIELDMDIPFLWVANNLKNPE
+YYLHICVYVGTRKQ
+
+================================================================================

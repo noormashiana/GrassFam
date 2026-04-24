@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM007493
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             452.0 aa
+Family Size (Extended Family Size): 21 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR16019:SF5
+Panther Family ID:               PTHR16019
+Modal Panther ID:                PTHR16019:SF5
+Modal Panther Description:       BSD DOMAIN-CONTAINING PROTEIN 1
+Modal Panther Family ID:         PTHR16019
+Modal Panther Fam Desc:          SYNAPSE-ASSOCIATED PROTEIN
+Interpro Signature Accession:    G3DSA:1.10.3970.10; PTHR16019
+Interpro Signature Description:  BSD domain; SYNAPSE-ASSOCIATED PROTEIN
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: BSD domain-containing protein 1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: BSD domain-containing protein 1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: BSD domain-containing protein 1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: BSD domain-containing protein 1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: uncharacterized LOC127779685
+  Gene Descriptions: uncharacterized LOC127779685
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4344109
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 2
+  Modal chromosome: Pau14
+  Gene Products: uncharacterized LOC133891001%2C transcript variant X1; uncharacterized LOC133893496
+  Gene Descriptions: uncharacterized LOC133891001; uncharacterized LOC133893496
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: BSD domain-containing protein 1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: BSD domain-containing protein 1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: BSD domain-containing protein 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: BSD domain-containing protein
+  Gene Synonyms: GRMZM2G111672
+  Gene Descriptions: BSD domain-containing protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 438 aa
+
+MDFFKSILAEPDPDPASPPPEpEPEpEPAGSASSpPAAPAgGGGGGWGFGGLLKTLTSQS
+ETVLEAYRRDLAEFGTGLRRETEVLREAAARAARDLPSSAHALDGLADIVAQGKDALSQV
+AAAAAAsPaSaHSDGGDSEPSSASGHVRYSRFEAQLRALQADPATFTADPEDAEDFAAWs
+kGFSLDERqdEIEALCYESDALEAMVDRLVPDtVESEVFWARYFYRVHKLKQQEDARAKL
+VKRVIAQEEDEDLSWEVDDEDEEEEQQKedAKEeAikQEPIKEEvKhEVeEKENERvVEE
+srVEAVEEAgALEKEqKNADePQPeVFGSSmVVVDEEEKEepSKSNVEESGDKKEGAKHE
+TSDSSKDSDYSIVSRQRTATEEEDLEWDEIEDLGEHEEKKGSTHGSSPALKEELRKRLSV
+AEDDEDLSWDIEDDDDKA
+
+
+BOP CONSENSUS:
+Length: 446 aa
+
+MDFLFNSLAAPDPASPPPEPEpAGSsSSSPSpPADSDGGGWGFGGLLKTLTSQSETVLEA
+YRRDLAEFSTGLRRETDALREAAAQAARDLPSSALALDGLADIVAQGKGAIAQVAATAAA
+SAASpPAPSDAGDSDPSSASGHLRYYSRFEAQLRALQSDPATFTADPEDAEDFAAWRAGF
+SVDERQDEIEALCYESDAVEGMVDRLVPDAVEGEVFWARYFYRVHKLKQQEDARAKLVKR
+VIAQEEEEDLSWEVDDEVEEEEPAKEEgIKQAPIKEEPKPEVQERENEKLEEEGRVnAVE
+EAGALDKEQKNADAPQPEVFGSSMVVVDKEEKEDASKLNVEESSDKKTVAEEPHSSTGDD
+AVKEGTKHETSDSSKDSDYSMVSRQRTATEEDLEWDEIEDLGEHEEKKGSAHGSSSAPKE
+ELRKRLSVAEDDEDLSWDIEDDDDKA
+
+
+PACMAD CONSENSUS:
+Length: 459 aa
+
+MDFFKSILAEPDPDPASPPPEQEPEPePAGSASSPAPAGGGGGWGFGGLLKTLTSQSETV
+LEAYRRDLAEFGTGLRRETEVLREAAARAARDLPSSAHALDGLADIVAQGKDALSQVAAA
+AAAPpSAHSDGGDSEPSSASGAHVRYSRFEAQLRALQADPATFTADPEDAEDFAAWSKGF
+SLDERKeEIEALCYDSDALEAMADRLVPDTVESEVFWARYFYRVHKLKQQEDARAKLVQR
+VIAQEEDEDLSWEVDDEDEEEEQQKEDAKELAARRQEpIKEEVKHEVeeKENERVVEESK
+VEAVEEAAaLEKEeKNADEPQPVVLGSSLVVVDEEEEQKNADEPQPVVLGSSLVVVDEEE
+KEEPSKSNVEESGDKKEGAKHETSDSSKDSDYSIVSRQRTmEEEDLEWDEIEDLGEHEEK
+KGSTHdSSPALKEELRKRLSVAEDDEDLSWDIEDDDDKA
+
+================================================================================

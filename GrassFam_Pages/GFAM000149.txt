@@ -1,0 +1,118 @@
+================================================================================
+GrassFam ID: GFAM000149
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             467.0 aa
+Family Size (Extended Family Size): 33 (40) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR44586:SF6
+Panther Family ID:               PTHR44586
+Modal Panther ID:                PTHR44586:SF6
+Modal Panther Description:       OS11G0579600 PROTEIN
+Modal Panther Family ID:         PTHR44586
+Modal Panther Fam Desc:          F-BOX DOMAIN CONTAINING PROTEIN, EXPRESSED
+Interpro Signature Accession:    PTHR44586; PF03478
+Interpro Signature Description:  F-BOX DOMAIN CONTAINING PROTEIN, EXPRESSED; KIB1-4 beta-propeller
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: putative F-box protein At2g33200
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: uncharacterized LOC109770751
+Tae
+  Gene count: 4
+  Modal chromosome: Tae07A
+  Gene Products: uncharacterized LOC123150266; uncharacterized LOC123154334; uncharacterized LOC123160650; uncharacterized LOC123166479
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl11
+  Gene Products: probable F-box protein At4g22165; uncharacterized LOC127754049%2C transcript variant X2
+  Gene Descriptions: probable F-box protein At4g22165; uncharacterized LOC127754049
+Osa
+  Gene count: 2
+  Modal chromosome: Osa11
+  Gene Products: F-box only protein 7; probable F-box protein At4g22165
+  Gene Descriptions: F-box only protein 7; probable F-box protein At4g22165
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: F-box protein At5g25290-like; F-box protein SKIP23-like
+  Gene Descriptions: F-box protein At5g25290-like; F-box protein SKIP23-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 9
+  Modal chromosome: Pvi08N
+  Gene Products: F-box only protein 7-like; F-box protein At5g25290-like; putative F-box protein At4g22180; putative F-box protein At4g22660; uncharacterized LOC120645767; uncharacterized LOC120667491; uncharacterized LOC120685066
+Pha
+  Gene count: 2
+  Modal chromosome: Pha08
+  Gene Products: uncharacterized LOC112902818; uncharacterized LOC112903019
+Msi
+  Gene count: 2
+  Modal chromosome: Msi10
+Zma
+  Gene count: 5
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC103645435; uncharacterized LOC103645441; uncharacterized LOC118473219; uncharacterized LOC118473221; uncharacterized LOC118476154
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 461 aa
+
+MyTSSRlfRMkLLCNLLLsAFpkISSTSLMKTsqLvHPSLVdAPTmGsespdLPQDILmd
+IFAlLEiPDLVRAGSVCSSWRAAYTSLCSTGhCKLQQTPCLLYTSESaGaRAAGLYSLAE
+KKAYTLTLPDPPIRSRYIIGSSYGWIITADERSELHLVNPITGDQIALPSVTTIEQVKPI
+FDDeGaVCnYEYSWYTGedwvSDtPSIFDLSELRDkLFYKAFLSSDPSTGDYFVVLIHNP
+HcQLSFARAGDDKWTWLPPHssYEDCLFkGGLLYAtTqlGEIHeFDLGAPAVThKIFLgR
+VKDiYsERIYIVQAScGEmLQIWRSDatPrGDDEDEyDsDlELELDwVhkTsmIKVHKVE
+PTSKKLVEISSLGeNVLFLGHNQSLCLhAEEYPQLKANHvYFTDDdpLYtTgFKNnRRDI
+GVFDLENNsSEEIVSPQLWSNWPTPVWLVPNPRRMSLAlHn
+
+
+BOP CONSENSUS:
+Length: 401 aa
+
+MELPQDVLMSIFSTLEVPDLVRAGSVCSSWRSAYTSICSLGHCKPQQTPCLLYTFESDGT
+KSTGLYSLVEKKAYVLTLQDLPSRHIIGSSYGWIVTADERSELHLVNPITGKQIALPSVT
+TIKQVKPIYDDSGAVKRYKYSWYTGQVTVSDSSSILYYKAIVSSDPSGGNYTVVLIHNPY
+LQLSIARPGDDKWTWLPPYSDYEDCIFRDGLLYALTSLGEIHMYDLTGPNVARKIVMNKV
+KGFLYENMYIVRTSCGNLLQVWRSYDPLDEEDEDHSFDPESEHDSQSYVWNTTTIKVHKV
+SLVERMLVEISSLGENVLILGHNQTLCLRAEEYPQLKANHVYFTDNRELYLKGYKNNHRD
+IGVLNLENNRREEIVSPQLWSNWPPPVWMTPNPRRMSLETH
+
+
+PACMAD CONSENSUS:
+Length: 464 aa
+
+MdIvyRASRMkLLCNLLLsAFpkIFASTSLMKTsqLvHPSLVdAPTmGSespDLPQDILm
+dIFAlLEiPDLVRAGSVCSSWRAAYTSLCsTGsCkLQQTPCLLYTSESaGaRAAGLYSLA
+EKKAYTLTLPDPPIRSRYIIGSSYGWIITADERSELHLVNPITGDQIALPSVTTIEQVKP
+IFDDEGaVCnYEYSWYTGedwvSdtPSIFDLSELRDkLFYKAFLSSDPSTGDYFVVLIHN
+PHsQLSFARAGDDKWTWLPPHtsYEDCLFqGgLLYAtTqlGEIHtFDLGAPAVThKIFLg
+RVKDiYsERIYIVQAScGEmLQIWRSDaIPrGDDEDEYDSDlELELPwhSVnKTsmIKVH
+KVEPTSKKLVEISSLGeNVLFLGHNQSLCLhAEEYPQLKANHvYFTDDdpLYvTgFKNnR
+RDIGVFDLENNsSEEIVSPQLWSNWPTPVWLVPNPRRMSLAlHn
+
+================================================================================

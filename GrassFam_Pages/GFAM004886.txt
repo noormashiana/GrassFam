@@ -1,0 +1,123 @@
+================================================================================
+GrassFam ID: GFAM004886
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             475.0 aa
+Family Size (Extended Family Size): 41 (48) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11206:SF176
+Panther Family ID:               PTHR11206
+Modal Panther ID:                PTHR11206:SF176
+Modal Panther Description:       PROTEIN DETOXIFICATION
+Modal Panther Family ID:         PTHR11206
+Modal Panther Fam Desc:          MULTIDRUG RESISTANCE PROTEIN
+Interpro Signature Accession:    cd13132; TIGR00797; PTHR11206; PF01554
+Interpro Signature Description:  MATE_eukaryotic; MATE family efflux transporter; MULTIDRUG RESISTANCE PROTEIN; MatE
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi02
+  Gene Products: protein DETOXIFICATION 16; protein DETOXIFICATION 16%2C transcript variant X1
+Lpe
+  Gene count: 4
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu07H
+  Gene Products: protein DETOXIFICATION 16-like; protein DETOXIFICATION 16-like%2C transcript variant X1
+Ata
+  Gene count: 4
+  Modal chromosome: Ata07D
+  Gene Products: protein DETOXIFICATION 16; protein DETOXIFICATION 16-like
+Tae
+  Gene count: 10
+  Modal chromosome: Tae07A
+  Gene Products: protein DETOXIFICATION 16-like; protein DETOXIFICATION 16-like%2C transcript variant X1
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl10
+  Gene Products: protein DETOXIFICATION 16-like
+  Gene Descriptions: protein DETOXIFICATION 16-like
+Osa
+  Gene count: 3
+  Modal chromosome: Osa10
+  Gene Products: protein DETOXIFICATION 16; protein DETOXIFICATION 16%2C transcript variant X1; protein DETOXIFICATION 16%2C transcript variant X2
+  Gene Descriptions: protein DETOXIFICATION 16
+Ecu
+  Gene count: 3
+  Modal chromosome: Ecu01
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi09N
+  Gene Products: protein DETOXIFICATION 16-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha03
+  Gene Products: protein DETOXIFICATION 16-like
+Msi
+  Gene count: 5
+  Modal chromosome: Msi16
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: transparent testa 12 protein
+  Gene Synonyms: GRMZM2G119496; GRMZM2G132995
+  Gene Descriptions: transparent testa 12 protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 474 aa
+
+MeKPSVDEQPLLVGVERdENAAAaEAKRLLRLAGPLVASGILQcALQLVSVMFVGHLGEL
+PLAGASLATSLANVTGFSLLVGMASALDTLCGQAFGARQYHLLGVYKQRAMLVLALACVP
+IALVWANTaRILLLLGQDpAIAAEAGAYARWLIPsLVPYVPLVCHIRFLQTQSIVVPVMA
+SSAVTaLSHVLVCWALVHKAGMGSKGAALAtAVSYStNLAILsLYTRLSGACKRTWTGFS
+MEAFKELRQFAELAvPSAMMVCLEWWSFELLVLLSGLLPNPKLETSVLSICLNTGALMFM
+VPSGLCTAISTRVSNELGAGRPQAAKLATRVVvCMALsaGSVISITMILLRkFWGYMYSN
+EEEVVTYIARMIPVLAISFFIDGIHTSLSGVLTGCGEQKIGARVNLAAFYLAGIPLAVLL
+AFVLHLNGMGLWLGIVCGSLTKLVLLmWIVLSINWEKEAIKAKDMVLGSSLPVA
+
+
+BOP CONSENSUS:
+Length: 474 aa
+
+MQKPSVDEQPLLGPVERdENAAAaEAKRLLRLAGPLVASGILRcALQLVSVMFVGHLGEL
+PLAGASLATSLANVTGFSLLVGMASALDTLCGQAFGARQYHLLGVYKQRAMLVLALACVP
+IALVWANTARILLLLGQDPAIAAEAGAYARWLIPALVPYVPLVCHIRFLQTQSIVVPVMA
+SSAVTSLSHVLVCWALVHKAGMGSKGAALAtAVSYSTNLAILSLYTRLSGACKRTWTGFS
+MEAFKELRQFAELAVPSAMMVCLEWWSFELLVLLSGLLPNPKLETSVLSICLNTGALMFM
+VPSGLCTAISTRVSNELGAGRPQAAKLATRvVvCMALfeGSVISITMILLRKFWGYMYSN
+EEEVVTYIARMIPVLAISFFIDGIHTSLSGVLYGCGEQKIGARVNLAAFYLAGIPLAVLL
+AFVLHLNGMGLWLGIVCGSLTKLVLLmWIVLSINWEKEAIKAKDMVLGSSLPVA
+
+
+PACMAD CONSENSUS:
+Length: 472 aa
+
+MEnKAgTEEPLLvpRPENTAAAEAKRLLRLAGPLVASCILQNVVQLVSVMFVGHLGELPL
+AGASLASSLANVTGFSLLaGMASALDTLCGQAFGARQYGLLGVYKQRAMLVLALACVPIA
+VVWANAGQILvLIGQDrDIAAEAGAYSRWLILsLVPYVPLaCHIRFLQTQSIVVPVMASS
+GVTALSHVLVCWALVFKAGMGSKGAALSgAISYSVNLAMLALYVRFSSACKRTWTGFSTE
+AFrELlRFTELAIPSAMMVCLEWWSFELLVLLSGLLPNPKLETSVLSICLNTGALLFMVP
+FGLCTAISTRVSNELGAGqPQAAKLATRVVMCIALSAGLLLASTMILLRNFWGYMYSNEP
+EVVTYIARMIPVLAISFFTDGLHSSLSGVLTGCGEQKIGARVNLGAFYLAGIPMAVLLAF
+VLHLNGMGLWLGIVCGSLTKLVLLMWITLRINWEKEATKAKETVFSSSLPIA
+
+================================================================================

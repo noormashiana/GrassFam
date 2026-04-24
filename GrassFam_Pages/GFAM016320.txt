@@ -1,0 +1,128 @@
+================================================================================
+GrassFam ID: GFAM016320
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             384.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45621:SF209
+Panther Family ID:               PTHR45621
+Modal Panther ID:                PTHR45621:SF209
+Modal Panther Description:       OS10G0395000 PROTEIN
+Modal Panther Family ID:         PTHR45621
+Modal Panther Fam Desc:          OS01G0588500 PROTEIN-RELATED
+Interpro Signature Accession:    cd14066; G3DSA:3.30.200.20:FF:000228; G3DSA:1.10.510.10:FF:000258; G3DSA:3.30.200.20; G3DSA:1.10.510.10; PTHR45621; PF07714; SSF56112
+Interpro Signature Description:  STKc_IRAK; Serine/threonine-protein kinase BIK1; Probable serine/threonine-protein kinase PBL8; Phosphorylase Kinase; domain 1; Transferase(Phosphotransferase) domain 1; OS01G0588500 PROTEIN-RELATED; Protein tyrosine and serine/threonine kinase; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: serine/threonine-protein kinase RIPK-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: serine/threonine-protein kinase RIPK
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: serine/threonine-protein kinase RIPK-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: serine/threonine-protein kinase RIPK-like
+  Gene Descriptions: serine/threonine-protein kinase RIPK-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: serine/threonine-protein kinase RIPK
+  Gene Descriptions: serine/threonine-protein kinase RIPK
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau21
+  Gene Products: serine/threonine-protein kinase RIPK-like
+  Gene Descriptions: serine/threonine-protein kinase RIPK-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: serine/threonine-protein kinase RIPK-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: serine/threonine-protein kinase RIPK-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: serine/threonine-protein kinase RIPK%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: putative protein kinase superfamily protein%2C transcript variant X1
+  Gene Synonyms: GRMZM2G110968
+  Gene Descriptions: putative protein kinase superfamily protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 381 aa
+
+MGKPKSSSTSWSALFGLGCFSSSHadrSgDSGskNAAKVASRPPaPAPLPLPSPEDLSLS
+LAGSgVeAFTVEELRtATRDFSMSNFVGEGGFGPVYKGRVDERlKPGVRAQAVAVKLLDL
+EGSQGHKEWLAEVIFLGQLRHPHLVKLIGYCYEDEHRLLVYEFMARGSLEKHLFKKYSAS
+LPWSTRLKIAIGAAKGLAFLHEAAKPVIYRDFKTSNILLDSDYTAKLSDFGLAKDGPGED
+ETHVSTRVMGTQGYAAPEYIMTGHLTTKSDVYSFGVVLLELLTGRKAVDKNRPPREQSLV
+EWARPCLHDSRRLdRVMDRrLdGQYSTRAAQKAAAIAYQCLSVSPKSRPQMSAVVEALEs
+LLALDDGvVEPFVYTAPPENK
+
+
+BOP CONSENSUS:
+Length: 379 aa
+
+MGKTSWSALFGLGCFSSHRDHASDDSRPPRPAPLPnDDGLKtGsGVTPSPEDLSvSLAGS
+GVEAFTVDELRTATRDFSTSNFVGEGGFGPVYKGYVDERLKPGVRAQAVAVKLLDLEGSQ
+GHKEWLAEVVLLGQLRHPHLVKLIGYCCEDEHRLLVYEFMARGSLEKHLYKrYTASLPWS
+TRLKIAIGAAKGLAFLHDAAKPIIYRDFKTSNILLDSDYqAKLSDFGLAKDGPDGDETHV
+STRVMGTQGYAAPEYIMTGHLTTKSDVYSFGVVLLELLTGRKVVDKNRPPREQSLVEWAR
+PYfLHDSsRRLDRAIDRSLDGQYSALAAQKAAAMAYRCLSVSPKSRPQMSAVVEALEPLL
+AMDDGvVEPFVYTAPpENK
+
+
+PACMAD CONSENSUS:
+Length: 386 aa
+
+MGKPKSSSTSWSALFGLGCFSSSHADRSGDSGSGSKNAAKVASSSRPPAPAPAPLPSPED
+LSLSLAGSDVLAFTVEELRvATRDFSMSNFVGEGGFGPVYKGRVDERVRPGLRQPQAVAV
+KLLDLEGSQGHKEWLAEVIFLGQLRHPHLVKLIGYCYQDEHRLLVYEFMARGSLEKHLFK
+KYSASLPWStRLKIAIGAAKGLAFLHEAAKPVIYRDFKTSNILLDSDYTAKLSDFGLAKD
+GPGEDETHVSTRVMGTQGYAAPEYIMTGHLTTKSDVYSFGVVLLELLTGRKAVDKNRPPR
+EQNLVEWARPCLRDSRRLeRVMDRRLnGQYPTRAAQKAAAIAHQCLSVSPKSRPQMSAVV
+EALESLLALDDGVVEPFVYTAPPENK
+
+================================================================================

@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM003470
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             358.5 aa
+Family Size (Extended Family Size): 38 (40) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10366:SF738
+Panther Family ID:               PTHR10366
+Modal Panther ID:                PTHR10366:SF738
+Modal Panther Description:       NAD-DEPENDENT EPIMERASE_DEHYDRATASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR10366
+Modal Panther Fam Desc:          NAD DEPENDENT EPIMERASE/DEHYDRATASE
+Interpro Signature Accession:    cd08958; G3DSA:3.40.50.720:FF:000409; G3DSA:3.40.50.720; PTHR10366; SSF51735
+Interpro Signature Description:  FR_SDR_e; NADPH HC toxin reductase; -; NAD DEPENDENT EPIMERASE/DEHYDRATASE; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: putative anthocyanidin reductase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: putative anthocyanidin reductase
+Ata
+  Gene count: 3
+  Modal chromosome: Ata07D
+  Gene Products: putative anthocyanidin reductase; putative anthocyanidin reductase%2C transcript variant X1
+Tae
+  Gene count: 6
+  Modal chromosome: Tae07D
+  Gene Products: putative anthocyanidin reductase
+Ola
+  Gene count: 3
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: uncharacterized LOC127777040
+  Gene Descriptions: uncharacterized LOC127777040
+Osa
+  Gene count: 2
+  Modal chromosome: Osa06
+  Gene Products: NADPH HC-toxin reductase 1; NADPH HC-toxin reductase 1%2C transcript variant X1
+  Gene Descriptions: NADPH HC-toxin reductase 1
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau10
+  Gene Products: NADPH HC-toxin reductase 1-like
+  Gene Descriptions: NADPH HC-toxin reductase 1-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi04K
+  Gene Products: putative anthocyanidin reductase; putative anthocyanidin reductase%2C transcript variant X1
+Pha
+  Gene count: 3
+  Modal chromosome: Pha04
+  Gene Products: putative anthocyanidin reductase; putative anthocyanidin reductase%2C transcript variant X1; putative anthocyanidin reductase%2C transcript variant X2
+Msi
+  Gene count: 7
+  Modal chromosome: Msi19
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi07
+  Gene Products: putative anthocyanidin reductase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: Helminthosporium carbonum susceptibility 1%2C transcript variant X1
+  Gene Synonyms: GRMZM5G881887,hm1
+  Gene Descriptions: Helminthosporium carbonum susceptibility 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 357 aa
+
+MAEEGnSgssGVRVCVTGGAGFIGSWLVRKLLEkGYTVHATLRnTGDEEKAGLLRRLVPG
+AAERLrLFEADLFDAATFAPAIAGCQFVFLVATPsGLEAAgSKYKsTAEAAVDAVRVILR
+QCEESKTVKRVIHTASVSAASPLkkssSAGAAGYKDFISESCWTpLDVDYPLRSAHFDKY
+ILSKLQSEkELLSYNDGESPAFEVVTLPLGLVAGDTVLGRaPETvESAVSPVSRnEPYFm
+LPRILQRLLGSLPLVHVDDVCDALIFCMEQPSIAGRFLCAAAYPTIHDIlDHYASKFPHL
+DlLRETEAVARVQPEgDKLGELGFRYKYGMEEILDSSVACAARLGSLDASKLSVQqg
+
+
+BOP CONSENSUS:
+Length: 362 aa
+
+MAEEGNSAGSGGRGVRVCVTGGAGFIGSWLVRKLLEAGYTVHATLRSIGDEGKAGLLRRL
+VPGAAPPERLVLFEADLYDAASFAPAIAGCQFVFLVANPSAHEAAASKYKTSAEAAtDGV
+RVILRLCAESKTVKRVIHTASVTAASPLTKSSSAAAAVYSDFISESCWTLLDVDYPLRSV
+HFDKYIESKVLSEKELLSYNDGESPAFEVVTLSLGLVGGDTVLSHLPETVESMVAPVTKQ
+EPYFMLPRILQRLLGSVPLVHVDDVCsALIFCMEQPALSGRFLCAAAYPTIHDILDHYSS
+KYPHLDLLREtDEVARVQPEkNKLGELGFRYKYGVEEILDESIDCAVRLGSLDASKLIVQ
+QE
+
+
+PACMAD CONSENSUS:
+Length: 353 aa
+
+MAEEsSSGVRVCVTGGAGFIGSWLVKKLLEKGYTVHATLRNTGDEEKAGLLRRLVPGAAE
+RLRLFeADLFDAATFAPAIAGCQFVFLVATPYGLEAAGSKYKSTAEAAVDAVRAILRQCE
+ESKTVKRVIHTASISAASPLKEkgSGvAGYKDFISESCWTPLDVDYPLRSAHFDKYILSK
+LQSEQELLSYNgGESPAFEVVTLPLGLVAGDTVLGRAPETLEsAVSPVSRNEayFGLpRL
+LQqLLGSLPLVHVDDVCDALvFCMERPSIAGRFLCAAAYPTIHDVvdHYAnKFPHLDILR
+ETEAVARVQPeGDKLGELGFRYKYGMEEILDSSVACAARLGSLDAAKLSVQKG
+
+================================================================================

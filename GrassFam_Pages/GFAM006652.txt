@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM006652
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             568.0 aa
+Family Size (Extended Family Size): 31 (34) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48017:SF239
+Panther Family ID:               PTHR48017
+Modal Panther ID:                PTHR48017:SF239
+Modal Panther Description:       AMINO ACID TRANSPORTER TRANSMEMBRANE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR48017
+Modal Panther Fam Desc:          OS05G0424000 PROTEIN-RELATED
+Interpro Signature Accession:    G3DSA:1.20.1740.10:FF:000047; PTHR22950; PF01490
+Interpro Signature Description:  Amino acid transporter AVT1A; AMINO ACID TRANSPORTER; Transmembrane amino acid transporter protein
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: amino acid transporter AVT1C
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: amino acid transporter AVT1C-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata06D
+  Gene Products: amino acid transporter AVT1C; amino acid transporter AVT1C-like
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: amino acid transporter AVT1C-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: amino acid transporter AVT1C-like%2C transcript variant X1
+  Gene Descriptions: amino acid transporter AVT1C-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: amino acid transporter AVT1C%2C transcript variant X1
+  Gene Descriptions: amino acid transporter AVT1C
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: amino acid transporter AVT1C-like
+  Gene Descriptions: amino acid transporter AVT1C-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi01N
+  Gene Products: amino acid transporter AVT1C-like; amino acid transporter AVT1C-like%2C transcript variant X1
+Pha
+  Gene count: 2
+  Modal chromosome: Pha01
+  Gene Products: amino acid transporter AVT1C-like
+Msi
+  Gene count: 4
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi04
+  Gene Products: amino acid transporter ANTL2; vacuolar amino acid transporter 1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma06
+  Gene Products: uncharacterized LOC100216569%2C transcript variant X2; uncharacterized LOC100284302
+  Gene Synonyms: GRMZM2G105192; GRMZM2G134888
+  Gene Descriptions: uncharacterized LOC100216569; uncharacterized LOC100284302
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 565 aa
+
+MRSsVSERSLIIESDDDDDthPAhsasAaAtRHgHDEEGsGSDSDSSSSSSSCATPRrGs
+tsSSYTQQWPQSYRQSIDILSSVQSPNLSFLGTPTLSRLSNSFLTNSFRGKTPEIISNLV
+KPLLRPTTSDEQQQQQHEDTRKSSQYLLPSRKPSLQQIPEDQKPLVVGHEVSPYQqCSYT
+QGVMNGINVLCGVGILSTPYAIKQGGWLGLVILCLFALLAWYTGVLLRRCLDSKEGLETY
+PDIGHAAFGTTGRIAISIILYVELYACCIEYLILESDNLSKLFPNAHLTIGSLTLNSHVF
+FAILTTIIVMPTTWLRDLSCLSYISAGGVIASILVVICLFWVGVVDnVGFENKGTALNLP
+GIPIAIGLYGYCYSGHGVFPNIYSSLKNRNQFPSILFTCIGLSTILFAGAAVMGYKMFGE
+ATESQFTLNLPENLVVSKVAVWTTVANPITKYALTIIPLAMSLEELLPPNQQKYSNIIML
+RSALVVSTLLIALSVPFFGLVMALVGSLFAMLVTYILPCACFLAILKtKVTWHQIAACSF
+IIvVGVCCACVGTYSSLSkIIQNYT
+
+
+BOP CONSENSUS:
+Length: 565 aa
+
+MKSLLGEERSFIIESDDDDEEDPAHRgDGvGHGDDGSSSDSSSCATPRGGDSQPNSYTNQ
+WPQSYRQSIDILSSVQSPSLGFLGTPTLSRLSNSFLNSSFLNNSFRGKTPEIvSNLVKPL
+IRPTTSDEQQQQQQQHEDIRKSSQYLLPSRKPSLQQIPEDQKPLVVGHEVSPYQQCSYTQ
+GAMNGINVLCGVGILSTPYAIKQGGWLGLVILVVFALLAWYTGVLLRRCLDSKEGLQTYP
+DIGHAAFGTTGRIAISIILYVELYACCIEYLILESDNLSKLFPNVHLtIGGLTINSHVFF
+AILTTLVVMPTTWLRDLTCLSYISAGGVVASILVVICLCWIGVVDHVGFENKGTALNLPG
+IPIAIGLYGYCYSGHGVFPNIYSSLKNRNQFPSILFTCIGFSTILFTAAAVMGYKMFGES
+TESQFTLNLPENLVVSKIAVWATVANPITKYALTITPLAMSLEELLPRSQQKYSNIImLR
+SALVVSTLIIALSVPFFALVMALIGSLFAMLVTYILPCACFLAILKAKATWYQTATCSFI
+IAVGVTCACVGTYSSLSGIVQNYtT
+
+
+PACMAD CONSENSUS:
+Length: 565 aa
+
+MRSSVSERSLIIESDDDDDThSqpAAAatrRRHgHDEEEQGsGSDSDSSSSSSSCATPRR
+GPtSSsYTQQWPQSYRQSIDILSSVQSPNLSFLGTPTLSRLSNSFITNSFRGKTPEIISN
+LVKPLLrPTTSDEQQQHEDTRKSSQYLLPSRKPSLQQIPEDQKPLVVGHEVSPYrNCSYT
+QGVMNGINVLCGVGILSTPYAIKQGGWIGLVILCLFALLAWYTGVLLRHCLDSKEGLETY
+PDIGHAAFGTTGRIVISIILYVELYACCIEYLILESDNLSKLFPNAHLTIGSLTLNSHVF
+FAILTTIIVMPTTWLRDLSCLSYLSAGGVIASILVVICLFWVGVVDNVGFENKGTALNLP
+GIPIAIGLYGYCYSGHGVFPNIYSSLKNRNQFPSILFTCIGLSTiLYAGAAVMGYKMFGE
+ATESQFTLNLPDNLVVSKVAVWTTVANPITKYALTIIPLAMSLEELLPPNQQKYSNIIML
+RSALVVSTLLIALSVPFFGLVMALVGSLLAMLVTYILPCACFLAILKTKVGWHQIAACSF
+IIVVGVCCACVGTYSSLSKIIQNYT
+
+================================================================================

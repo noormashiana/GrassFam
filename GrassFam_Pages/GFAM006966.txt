@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM006966
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             410.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12917:SF1
+Panther Family ID:               PTHR12917
+Modal Panther ID:                PTHR12917:SF1
+Modal Panther Description:       AT13091P
+Modal Panther Family ID:         PTHR12917
+Modal Panther Fam Desc:          ASPARTYL PROTEASE DDI-RELATED
+Interpro Signature Accession:    cd05479; G3DSA:2.40.70.10:FF:000005; G3DSA:2.40.70.10; PTHR12917; PF09668; SSF50630
+Interpro Signature Description:  RP_DDI; DNA damage inducible 1 homolog 2; Acid Proteases; ASPARTYL PROTEASE DDI-RELATED; Aspartyl protease; Acid proteases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: DNA damage-inducible protein 1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: protein DNA-DAMAGE INDUCIBLE 1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: protein DNA-DAMAGE INDUCIBLE 1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: protein DNA-DAMAGE INDUCIBLE 1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: protein DNA-DAMAGE INDUCIBLE 1
+  Gene Descriptions: protein DNA-DAMAGE INDUCIBLE 1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: protein DNA-DAMAGE INDUCIBLE 1
+  Gene Descriptions: protein DNA-DAMAGE INDUCIBLE 1
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: protein DNA-DAMAGE INDUCIBLE 1-like; protein DNA-DAMAGE INDUCIBLE 1-like%2C transcript variant X1
+  Gene Descriptions: protein DNA-DAMAGE INDUCIBLE 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: protein DNA-DAMAGE INDUCIBLE 1-like%2C transcript variant X1; protein DNA-DAMAGE INDUCIBLE 1-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: DNA damage-inducible protein 1%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: DNA damage-inducible protein 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: protein DNA-DAMAGE INDUCIBLE 1%2C transcript variant X2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 409 aa
+
+MKVTVMTADEQILTLDVDPDESVENLKALLEVETRVPLQQQQLHFNGKEMQNsEKLSAIG
+VhDGDLVMMVpSNeRaSQDimRLNPDGSAVNPQAFQQHIRGDSQLMAQLLQNDPsLAQAI
+LGDDINELQNILRSRHQQRlELKRKQEEELALLYADPFDVEAQKKIEAAIRQKGIDENWE
+AALEHNPEAFARVVMLYVDMEVNGVPLKAFVDSGAQSTIISKSCAERCGLLRLLDQRYRG
+VAVGVGQSEILGRIHVAPIKIGHlFYPCSFTVLDAPNMEFLFGLDMLRKHQCMIDLKDNV
+LRVGGGEVSVPFLQEKDIPSHIRDEEKLSKLASLSQAtGESSKAREGTPDvPQrtPPAGA
+PAANPPQGGDFEAKVTKLVELGFDRASVIQALKLFNGNEEQAAAFLFGG
+
+
+BOP CONSENSUS:
+Length: 410 aa
+
+MKLTVMTADEQILNLDVDPDESVENLKALLEVETQVPLQQQLLHFNGKEMNNAEKLSAIG
+VHDGDLVMMVASNNRTSQDIMRLNPDGSAVNPQAFQQHIRGDSQLMAQLLQNDPSLAQAI
+LGDDITELQNILRSHHQQRLQLKRKQEEELALLYADPFDVEAQKKIEAAIRQKGIDENWE
+AAIEHNPEAFGRVVMLYVDMEVNGVPLKAFVDSGAQSTIISKDCAERCGLLRLLDQRYRG
+VAIGVGQSEILGRIHVAPIKIGHAFYPCSFTVLDAPNMEFLFGLDMLRKHQCIIDLKDNV
+LRVGGGEVSVPFLQEKDIPSHIRDGEKSSNLASSSQGAAGESSKAREKTPDVPPRSSPAG
+APAViPPQGGDFEAKVTKLVELGFDRASVIQALKLCNGNEDQAAGFLFGG
+
+
+PACMAD CONSENSUS:
+Length: 409 aa
+
+MKVTVMTADEQILTLDVDPDESVENLKALLEVETRVPLRQQQLHFNGKEMQNSEKLSaIG
+VrDGDLVMMLPSSERASQDvlRvNPDGTAVNPQAFQQHIRGDSQLMAQLLQNDPQLAQAI
+LGDDINELQNILRSRHQQRMELKRKQEEELALLYADPFDVEAQKKIEAAIRQKGIDENWE
+AALEHNPEAFARVVMLYVDMEVNGVPLKAFVDSGAQSTIISKSCAERCGLLRLLDQRYRG
+VAVGVGQSEILGRIHVAPIKIGHLFYPCSFTVLDAPNMEFLFGLDMLRKHQCMIDLKDNV
+LRVGGGEVSVPFLQEKDIPAHIRDEEKLSKLASLGQATGESSKAREGTPDlPQrTPPAGA
+PVANPPQGGDFEAKVTKLVELGFDRASVvQALKLFNGNEEQAAAFLFGG
+
+================================================================================

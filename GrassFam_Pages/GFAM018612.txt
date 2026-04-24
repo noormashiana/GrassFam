@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM018612
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             578.0 aa
+Family Size (Extended Family Size): 19 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22953:SF96
+Panther Family ID:               PTHR22953
+Modal Panther ID:                PTHR22953:SF96
+Modal Panther Description:       PURPLE ACID PHOSPHATASE 15
+Modal Panther Family ID:         PTHR22953
+Modal Panther Fam Desc:          ACID PHOSPHATASE RELATED
+Interpro Signature Accession:    cd00839; G3DSA:2.60.40.380; G3DSA:3.60.21.10; PTHR22953; SSF56300; SSF49363
+Interpro Signature Description:  MPP_PAPs; -; ACID PHOSPHATASE RELATED; Metallo-dependent phosphatases; Purple acid phosphatase, N-terminal domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: purple acid phosphatase 23%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu05H
+  Gene Products: purple acid phosphatase 23-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: purple acid phosphatase 23%2C transcript variant X2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: purple acid phosphatase 23-like%2C transcript variant X1; purple acid phosphatase 23-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl08
+  Gene Products: purple acid phosphatase 23%2C transcript variant X4
+  Gene Descriptions: purple acid phosphatase 23
+Osa
+  Gene count: 1
+  Modal chromosome: Osa08
+  Gene Products: purple acid phosphatase 23%2C transcript variant X1
+  Gene Descriptions: purple acid phosphatase 23
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN4
+Pau
+  Gene count: 1
+  Modal chromosome: Pau16
+  Gene Products: purple acid phosphatase 23-like%2C transcript variant X1
+  Gene Descriptions: purple acid phosphatase 23-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: purple acid phosphatase 23-like%2C transcript variant X1; purple acid phosphatase 23-like%2C transcript variant X3
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: purple acid phosphatase 23%2C transcript variant X1
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: purple acid phosphatase 23%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100191449%2C transcript variant X4
+  Gene Synonyms: GRMZM2G014193,PAPc
+  Gene Descriptions: uncharacterized LOC100191449
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 569 aa
+
+MAaPtATsAAAGtLHsRHLHCRaLLLLLlVlsCLaLLVDGGGIPTTLDGPFtPATRAFDR
+SLRQGSDDVPLTDPRLAPRARPPAPEQIALAASADAtSLWVSWVTGRAQVGSHLTPLDPt
+AVRSEVWYGERPAsAAATVgYPHVARGSAEVYSQLYPYPGLLNYTSGVIHHVRLRGLRPA
+TRYYYRCGDSSLkGGLSDERSFtTLPAPApGAYPRRVAVVGDLGLTGNSTSTVDHLARND
+PSLVLMVGDMTYANQYRTTGGRGVPCFSCSFPDAPIRESYQPRWDGWGRFMEPLTSKIPM
+MVIEGNHEIEPQGHGGAVTFASYLARFAVPSEESGSNTKFYYSFNAGGIHFIMLGAYVDY
+NRTGAQYSWLEKDLQRVDRRVTPWVVAAWHsPWYNSYSSHYQEFECMRQEMEGLLYQHGV
+DIVFSGHVHAYERMNRVFNYTLDPCGPVYITIGDGGNIEKIDIDHADDPGKCPSPGDNHP
+EFGGVCHLNFTSGPAKGKFCWERQPEWSAFRESSFGHGILEVVNSTYALWTWHRNQDAYG
+EnSVGDQIYIVRQPDKCLLQPtsviSqdW
+
+
+BOP CONSENSUS:
+Length: 576 aa
+
+MGAMATSTIAGtLHSRHLHCRtLLLLLPYLPIAFLLVDGGGIPTTLDGPFTPATRAFDRS
+LRQGSEDVPLSDPRLAPRARPPSPEQIALAASADPTSLWVSWVTGRAQVGSHLTPLDPTA
+VRSEVWYGERPASADTVGHPHVARGSAEVYSQLYPYPGLLNYTSGVIHHVRLVGLRPSTR
+YYYRCGDSSLKGGLSDERSFvTLPAPAPDAYPRRVAVVGDLGLTGNSTSTVDHLARNDPS
+MILMVGDMTYANQYRTTGGRGVPCFSCSFPDAPIRESYQPRWDGWGRFMEPLASRVPMMV
+TEGNHEIEPQGHGGAVTFASYLARFAVPSEESGSNTKFYYSFNAGGIHFIMLGAYVDYNR
+TGAQYSWLEKDLQKVDRRVTPWVVASWHtPWYNSYSSHYQEFECMRQEMEGLLYQHGVDI
+VFSGHVHAYERMNRVFNYTLDPCGPVYITIGDGGNIEKIDIDHADDPGKCPSPGDNQPEF
+GGVCHLNFTSGPAKGKFCWERQPEWSAFRESSFGHGILEVVNSTYALWTWHRNQDTYGEH
+SVGDQIYIVREPDKCLLQPRGVISQDWTVPRRDALL
+
+
+PACMAD CONSENSUS:
+Length: 566 aa
+
+MASPATpTvAAAGrRHCRRrLALPLLLLVPSCLALLVEAGGIPTTLDGPFPPATRAFDRA
+LRQGSDDVPLTDPRLAPRARPPAPEQIALAASADADSLWVSWVTGRAQVGSDLTPLDPAA
+VRSEVWYGERSAAAAASYPHVATGSAEVYSQLYPYPGLLNYTSGAIHHVRLRGLRPATRY
+YYRCGDSSLPGGLSDERSFTTLPAtGAGSYPRRVAVVGDLGLTGNSTATVDHLAQNDPSL
+VLMVGDMTYANQYRTTGGKGVPCFSCSFPNAPIRESYQPRWDGWGRFMEPITSKIPLMVI
+EGNHEIEPQGHGGEVTFASYLARFAVPSKESGSNTKFYYSFNAGGIHFIMLGAYVDYNRT
+GAQYSWLEKDLQRVDRRVTPWVVAAWHPPWYNSYSSHYQEFECMRQEMEELLYrHRVDIV
+FSGHVHAYERMNRVFNYTLDPCGPVYITIGDGGNIEKIDIDHADDPGKCPSPGDNHPEFG
+GVCHLNFTSGPAKGKFCWDRQPEWSAYRESSFGHGILEVVNSTYALWTWHRNQDAYGENS
+VGDQIYIVRQPDKCLLQPTSASSLNW
+
+================================================================================

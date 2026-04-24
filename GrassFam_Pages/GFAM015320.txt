@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM015320
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             395.0 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48033:SF15
+Panther Family ID:               PTHR48033
+Modal Panther ID:                PTHR48033:SF15
+Modal Panther Description:       OS06G0566100 PROTEIN
+Modal Panther Family ID:         PTHR48033
+Modal Panther Fam Desc:          RNA-BINDING (RRM/RBD/RNP MOTIFS) FAMILY PROTEIN
+Interpro Signature Accession:    G3DSA:3.30.70.330:FF:000051; G3DSA:3.30.70.330:FF:000580; G3DSA:3.30.70.330; PTHR48033; SM00360; SSF54928
+Interpro Signature Description:  Heterogeneous nuclear ribonucleoprotein 1; RNA-binding (RRM/RBD/RNP motifs) family protein; -; RNA-BINDING (RRM/RBD/RNP MOTIFS) FAMILY PROTEIN; rrm1_1; RNA-binding domain, RBD
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: heterogeneous nuclear ribonucleoprotein A0
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: heterogeneous nuclear ribonucleoprotein A0-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: heterogeneous nuclear ribonucleoproteins A2/B1%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: heterogeneous nuclear ribonucleoprotein 1-like%2C transcript variant X1; heterogeneous nuclear ribonucleoprotein A0-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: glycine-rich RNA-binding protein 3%2C mitochondrial-like
+  Gene Descriptions: glycine-rich RNA-binding protein 3%2C mitochondrial-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4328758
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: glycine-rich RNA-binding protein 3%2C mitochondrial-like; uncharacterized LOC133918649
+  Gene Descriptions: glycine-rich RNA-binding protein 3%2C mitochondrial-like; uncharacterized LOC133918649
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: glycine-rich RNA-binding protein 8-like%2C transcript variant X1; heterogeneous nuclear ribonucleoprotein A0-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: heterogeneous nuclear ribonucleoprotein A2 homolog 1-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: heterogeneous nuclear ribonucleoprotein A3
+Zma
+  Gene count: 2
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100193339%2C transcript variant X1; uncharacterized LOC100382538
+  Gene Synonyms: GRMZM2G167356,IDP1623; cl3001_1a,GRMZM2G139643
+  Gene Descriptions: uncharacterized LOC100193339; uncharacterized LOC100382538
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 391 aa
+
+MAGYPEDNQHALNGYEEEEVDEEEGHPGRRGGRDGGdGYGDAGGEDGRGAGGDSSGKIFV
+GGVAWETTEESFSKHFEKYGAITDSVIMKDKHTKMPRGFGFVTFSDPSVIDKVLEDEHVI
+DGRTVEVKRTVPREEMSTKDGPKTRKIFIGGLPPSLTEDELKDHFSSYGKVVEHQIMLDH
+STGRSRGFGFVTFESEDSVERVISEGRMRDLGGKQVEIKKAEPKKHGSDHSSNGRSSHGG
+GGYRSSYRSGGAAaGGGsSSGGGGGGGGYGYGGGYRSAAAGYYYDSGAGAGYGYGRGYGY
+GGNAGFGSGFGGGYGGSMYGGAYGAYGAYGGGAYGGGAYGGGAYGGGAYGGAPGGYGAGG
+YGSYGGAGGAGGaGGGSAGARGSSRYHPYGK
+
+
+BOP CONSENSUS:
+Length: 401 aa
+
+MAGYPEDNQHAMNGYEEEVEEVEEVDEEGRPGRRGRRDGGDGGGYGDAGGDDGRAGGGDS
+SGKIFVGGVAWETTEESFSKHFGKYGAITDSVIMKDKHTKMPRGFGFVTFSDPSVIDKVL
+EDEHNIDGRTVEVKRTVPREEMSSKDGPKTRKIFVGGLPSTLTEDDLRDHFSSYGNVVEH
+QIMVDHSTGRSRGFGFVTFESEDSVERVISEGRMRDLGGKQVEIKKAEPKKHGGDHSSNG
+RSSHSGGGGYRSSYRSGGAAAGGGSSSGGGGGGGYGYGAGHRSAAAGSYYDSTGYGYGRG
+GYGAAYGGNAGYGSGFGGGYGGSMYGGAYGAYGAYGGGAYGGGAYGGGAYGGGAYGGGAY
+GGGAPGGYGAGGYGSYGGAGGGGGGGSAGGRGSSRYHPYGK
+
+
+PACMAD CONSENSUS:
+Length: 389 aa
+
+MAGYPEDNQHALNGYEEEEVDEEEGHPGRRGGRDGGSGYGDAGGEDGRGAGGDSSGKIFV
+GGVAWETTEETFSKHFEKYGAITDSVIMKDKHTKMPRGFGFVTFSDPSVIDKVLEDEHVI
+DGRTVEVKRTVPREEMTTKDGPKTRKIFIGGLPPSLTEDELKDHFSSYGKVVEHQIMLDH
+STGRSRGFGFVTFESEDSVERVISEGRMRDLGGKQVEIKKAEPKKHGSDHSSNGRSSHGG
+GGYRSSYRSGGGGGGSSSGGGGGGGGYGYGGAYRSAAAGYGYDGGAGAGYGYGRGYGYGG
+NAGFGSGFGGGYGGSMYGGAYGAYGAYGGGAYGGGAYGGGAYGGGAYGGAPGGYGTGGYG
+SYGGAGGAGGAGGGSTGARGSSRYHPYGK
+
+================================================================================

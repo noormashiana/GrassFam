@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM011692
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             510.0 aa
+Family Size (Extended Family Size): 26 (29) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31652:SF2
+Panther Family ID:               PTHR31652
+Modal Panther ID:                PTHR31652:SF2
+Modal Panther Description:       LIMR FAMILY PROTEIN
+Modal Panther Family ID:         PTHR31652
+Modal Panther Fam Desc:          LIMR FAMILY PROTEIN DDB_G0283707-RELATED
+Interpro Signature Accession:    PTHR31652; PF04791
+Interpro Signature Description:  LIMR FAMILY PROTEIN DDB_G0283707-RELATED; LMBR1-like membrane protein
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: LIMR family protein Os06g0128200
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: LIMR family protein Os06g0128200
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: LIMR family protein Os06g0128200
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: LIMR family protein Os06g0128200%2C transcript variant X1; LIMR family protein Os06g0128200-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: LIMR family protein Os06g0128200
+  Gene Descriptions: LIMR family protein Os06g0128200
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: LIMR family protein Os06g0128200-like
+  Gene Synonyms: OsJ_19972
+  Gene Descriptions: LIMR family protein Os06g0128200-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: LIMR family protein Os06g0128200; LIMR family protein Os06g0128200-like
+  Gene Descriptions: LIMR family protein Os06g0128200; LIMR family protein Os06g0128200-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: LIMR family protein Os06g0128200; LIMR family protein Os06g0128200-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: LIMR family protein Os06g0128200
+Msi
+  Gene count: 5
+  Modal chromosome: Msi19
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: LIMR family protein Os06g0128200
+Zma
+  Gene count: 2
+  Modal chromosome: Zma06
+  Gene Products: LIMR family protein Os06g0128200; uncharacterized LOC100191580
+  Gene Synonyms: gpm220,GRMZM2G012284
+  Gene Descriptions: uncharacterized LOC100191580
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 510 aa
+
+MGDFNVALVIVAAVVSVLVLLVSVYLLVNYQHPDDANQAYFPKLVVVLGLTVAVLSILML
+PADVANRQACRRAVYNGACsLTLPMKTLWLVVYIvDAVLVFLVIPFAMFYYEGDQDKSVG
+KRLrTALIWVVASAVVCGLVLGILYGLVGKVDFTVRHLSSSVQTFPNSFSGFSSGQPCIS
+PLTRQCAASTAPANSQTTWTMRATFPEYVVALATIVGSVLFTIFGGVGIACLPLGLIFSF
+VRRPKAVITRSQYIKEATELGKKARELKKAAEALHQEERSGNKGRKWRKNVKAVEKELLL
+LEDDMKALEEMYPQGEQAEATWAFTVLGYIGKLIFGVVGLIVSIAWVAHIVIYLLIDPPL
+SSFLNEVFIKLDGVWGLLGTAAFAFFCFYLLIAVIAGEMMLGLKLVFITIHPMKWGGTLM
+NSFLFNVGLILLCSISVIQFCATAFAYYAQATAAQEIFGHTLQSLRGIKYLYKYNVFQYG
+FVALAILTLFYYAIFGWRKRKPTGRFQLSN
+
+
+BOP CONSENSUS:
+Length: 510 aa
+
+MGDFNVALVIVAAVVSVLVLLVSVYLLVNYQHPDDANQAYFPKLVVVLGITVAVLSILML
+PADVANRQACRRAVYSGACSLTLPMKTLWLVVYIADAVLVFLVIPFAMFYYEGDQDKSVG
+KRLKSALIWVVASAVVCGLILGILYALIGKVDFTVRHLSSSVQTFPNQFgAFTSGQPCIA
+PLTRQCSANTAPANSQTTWTMRATFPEYVVALATIVGSVLFTIFGGVGIACLPLSLIFSF
+VRRPKAVITRSQYIKEATELGKKAKELKKAAEALHQEERSGNKGRKWRKNVKAVEKELLL
+LENDMNALEEMYPQGEKAEATWAFTVLAYIGKLIFGIVGLIVSIAWVAHIVIYLLVDPPL
+SSFLNEIFIKLDSVWGLLGTAAFAFFCFYLLIAVIAGEMMLGLKLVFITIHPMKWGGTLM
+NSFLFNVGLILLCSISVIQFCATAFAYYAQATAAQEIFGHTLQSLRGIKYLYKYNVFQYG
+FVALAILTLFYYALFGWRKRKPTGRFQLSN
+
+
+PACMAD CONSENSUS:
+Length: 510 aa
+
+MGDFNLALVIVAVVVSVLVLLVSVYLLVNYQHPDDANQAYFPKLVVVLGLTVAVLSILML
+PADVANRQACRKAVYNGACsLTLPMKTLWLVVYIVDAVLVFLVIPFAMFYYEGDQDKSVG
+KRLRTALIWVVASAVVCGLVLGILYGLVGKVDFTVRHLSSSVQTFPNSFSGFSSGQPCIS
+qLPRQCAASTAPANSLTTWTMRATFPEYVVALTTIVGSVLFTIFGGVGIACLPLGLIFSF
+VRRPKAVITRSQYIKEATELGKKARELKKAAEALHQEERSGNKGRKWRKNVKAVEKELLL
+LEDDMKALEEMYPQGEQAEATWAFTVLGYIGKLIFGVVGLIISIAWVAHIVIYLLIDPPL
+SSFLNEVFIKLDGVWGLLGTAAFAFFCFYLLIAVIAGEMMLGLKLVFITIHPMKWGGTLM
+NSFLFNVGLILLCSISVIQFCATAFAYYAQATAAQEIFGHTLQSLRGIKYLYKYNVFQYG
+FVALAILTLFYYAIFGWRKRKPTGRFQLSN
+
+================================================================================

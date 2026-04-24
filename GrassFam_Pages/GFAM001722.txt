@@ -1,0 +1,126 @@
+================================================================================
+GrassFam ID: GFAM001722
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             344.0 aa
+Family Size (Extended Family Size): 21 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31595:SF54
+Panther Family ID:               PTHR31595
+Modal Panther ID:                PTHR31595:SF54
+Modal Panther Description:       OS07G0540000 PROTEIN
+Modal Panther Family ID:         PTHR31595
+Modal Panther Fam Desc:          LONG-CHAIN-ALCOHOL O-FATTY-ACYLTRANSFERASE 3-RELATED
+Interpro Signature Accession:    PTHR31595; PIRSF037006
+Interpro Signature Description:  LONG-CHAIN-ALCOHOL O-FATTY-ACYLTRANSFERASE 3-RELATED; Wax_synthase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: probable long-chain-alcohol O-fatty-acyltransferase 5
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: acyl-CoA--sterol O-acyltransferase 1-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata02D
+  Gene Products: probable long-chain-alcohol O-fatty-acyltransferase 4; probable long-chain-alcohol O-fatty-acyltransferase 5
+Tae
+  Gene count: 2
+  Modal chromosome: Tae02A
+  Gene Products: probable long-chain-alcohol O-fatty-acyltransferase 4; probable long-chain-alcohol O-fatty-acyltransferase 5
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl04
+  Gene Products: probable long-chain-alcohol O-fatty-acyltransferase 5
+  Gene Descriptions: probable long-chain-alcohol O-fatty-acyltransferase 5
+Osa
+  Gene count: 2
+  Modal chromosome: Osa04
+  Gene Products: probable long-chain-alcohol O-fatty-acyltransferase 5
+  Gene Descriptions: probable long-chain-alcohol O-fatty-acyltransferase 5
+Pau
+  Gene count: 1
+  Modal chromosome: Pau07
+  Gene Products: probable long-chain-alcohol O-fatty-acyltransferase 5
+  Gene Descriptions: probable long-chain-alcohol O-fatty-acyltransferase 5
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: probable long-chain-alcohol O-fatty-acyltransferase 5; probable long-chain-alcohol O-fatty-acyltransferase 5%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: probable long-chain-alcohol O-fatty-acyltransferase 1
+Msi
+  Gene count: 1
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: probable long-chain-alcohol O-fatty-acyltransferase 5
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: wax synthase
+  Gene Synonyms: GRMZM2G111423
+  Gene Descriptions: wax synthase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 344 aa
+
+MAGGDLRSLAAVsAAVTAAMcYvRFAARRLRPGLPRLAAFLPVLAVLPFLPLAFRALHPR
+AISGFFLAWLAEFKLLLLAsGQGPLHPSLPLPAFVAVASgPVRLRDpgPDKaqAtrSGLG
+LVsSAVMAALLAaIVSLYRYkERMNqYVLLTLYSvHVYLALELVLAaAAAAARALLGmDL
+EPQFDRPYLSASLRDFWGRRWNLSVPAvLRPCVyRPVRARLGAAAGVLAAFlVSGLMHEl
+MFyYITLRPPTGEATAFFALHGACAVAEgWWAAHegWPRPPRavATPLTLAFVlVTGFWL
+FFPPITRPGADKqVIAECEAmVAFVRDAGaWAAGSVRSVLsGRS
+
+
+BOP CONSENSUS:
+Length: 344 aa
+
+MAGGDLRSLAAVSAAVTAAMCYVRFAARRLRPGLPRLAAFLPVLAVLPFLPLAFRAlHPR
+AISGFFLAWLAEFKLLLLAaGQGPLHPSLPLPAFVAVASGPVRLRgdgPKAqgtSSGLGL
+VSSAVMAALLAVIVSLYRYKERMNQYVLLTLYSlHVYLALELVLAsAAAAARALLGMDLE
+PQFDRPYLSASLRDFWGRRWNLSVPAVLRPCVYRPVRARLGsGAAGVLAtFLVSGLMHEL
+MFYYITLRPPTGEATAFFALHGACAVAEAWWARHeGWWRPPRlVATPLTLAFVlvTAFWL
+FFPPITRPGADKvVIAECEAAVAFVRDAGAWAAGSVRSvwTGrS
+
+
+PACMAD CONSENSUS:
+Length: 342 aa
+
+MAGGDLGSLAAVVAAVTACMGYARFAARRLRPGLPRLAALLPVLAVLPFPPLAFRALHPR
+AISGFFLAWVAEFRLLLLASGQGPLHPSLPLPAFVAVATLPVTLRDPkKSSAaRPGLGLV
+ESAAMAALLAAIVSLYRYEERMNGYVLLTLYSVHVYLALELVLAAAAAAARALLGLDLEP
+QFDRPYLSASLRDFWGRRWNLSVPALLRQCVFRPVRARLGAPAGVLAAFAVSGLMHEAMF
+SYITLRPPTGEAAAFFALHGACAVAEGWWAAHERWPRPPRALATPLTLAFVGVTGFWLFF
+PPITRPGADKQVIAESEAMVAFLRDAAGWAVDSARSVLSGRS
+
+================================================================================

@@ -1,0 +1,125 @@
+================================================================================
+GrassFam ID: GFAM009063
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             556.5 aa
+Family Size (Extended Family Size): 20 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47926:SF353
+Panther Family ID:               PTHR47926
+Modal Panther ID:                PTHR47926:SF353
+Modal Panther Description:       DYW DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR47926
+Modal Panther Fam Desc:          PENTATRICOPEPTIDE REPEAT-CONTAINING PROTEIN
+Interpro Signature Accession:    G3DSA:1.25.40.10; PTHR47926; PF14432
+Interpro Signature Description:  Tetratricopeptide repeat domain; PENTATRICOPEPTIDE REPEAT-CONTAINING PROTEIN; DYW family of nucleic acid deaminases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: pentatricopeptide repeat-containing protein At2g15690%2C mitochondrial
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: pentatricopeptide repeat-containing protein At2g15690%2C mitochondrial-like
+  Gene Descriptions: pentatricopeptide repeat-containing protein At2g15690%2C mitochondrial-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: pentatricopeptide repeat-containing protein At2g15690%2C mitochondrial-like
+  Gene Descriptions: pentatricopeptide repeat-containing protein At2g15690%2C mitochondrial-like
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN365
+Pau
+  Gene count: 1
+  Modal chromosome: Pau09
+  Gene Products: pentatricopeptide repeat-containing protein At2g15690%2C mitochondrial-like
+  Gene Descriptions: pentatricopeptide repeat-containing protein At2g15690%2C mitochondrial-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi03K
+  Gene Products: pentatricopeptide repeat-containing protein At2g15690%2C mitochondrial-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: pentatricopeptide repeat-containing protein At2g15690%2C mitochondrial-like
+Msi
+  Gene count: 4
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi03
+  Gene Products: pentatricopeptide repeat-containing protein At2g15690
+Zma
+  Gene count: 2
+  Modal chromosome: Zma06
+  Gene Products: pentatricopeptide repeat (PPR) superfamily protein
+  Gene Synonyms: GRMZM2G017821; GRMZM2G073551
+  Gene Descriptions: pentatricopeptide repeat (PPR) superfamily protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 566 aa
+
+MAAtAAIHLRPLRSvAFSSARSRSLLHLLARPLSSSQSSYAYHPSPSAAAAAPNHVHQPq
+QQQWaPPRNPPPPGPPPQWSPQGHPPPPPRNYqQQPPPPPPRgYGPPPPqQPPPPRGyGP
+PQHPPPPHGYGPPPPgQhpPPPPPrGYGPPPPQHQAPPPPpHGYGPPPPQqQpPPPPHGY
+GPPPPQQhATPPPPPPEPVAGPGELMGLCREGRVKDAVELLAKGARADPPAFYELAAACS
+NPKLLEELRKVHDFFLRSPFRGDLRVNNKLLEMYAKCAAMPHARRTFDNMPDRDMDSWHI
+MIDGYSVNGLGDEALRLFELMKECMAPTSHTYvLVLNACANSEAIEEAFLYFDAMSRDHG
+IEPGVEHYVGIIEVLGKSGHLNEALEYIEKLPFEPNAMVWESLLNLARMNGDIDLEDRAE
+ELLVSLDPSKaNPKKLPTPPPKRRLGINMLDGRNKLVEYRLPPKIEKKVVNEQRYVPDTR
+YVLHDIDQEAKEQALLYHSERLAIAYGLISTPARTPLRIIKNLRICGDCHNAIKIMSRIV
+GRELIVRDNKRFHHFKDGKCSCGDYW
+
+
+BOP CONSENSUS:
+Length: 501 aa
+
+tAAAAAIRRPLLRSVALSSSRSRSLLHLLSRPLSYSYPPSASPNHvHPHQQQWQPSPPPP
+PPWSPQGPPPQSPPGNYYQQQAPPPPRHYYGPPQHQPRYNYGPPQPQAPPPPRNGYGPPP
+PPPSQQQQQREPVVGPGELIGLGREGRVKEAVELLDKGARADPQAFYELAAACSNPKLLE
+ELRKIHDFFLRSPFRADLQVNNKMLEMYAKCAAMNHARRTFDHMPDRNMDSWHIMIEGYA
+VNGLGDVALQLFEEMKKYGIAPTAHTFTLVLNACANSEAIEEAFLYFDAMSRDHGIEPGV
+EHYVGIIEVLGKSGHLNEAVEYIEKLPFEPTATVWESLLNLARMNGDIDLEDRAEELLVS
+LDPTKVNPKKLPTPPPKRRLGINMLDGRNKLVEYRLPPKIEKKVVNEQRYVPDTRYVLHD
+IDQEAKEQALLYHSERLAIAYGLISTPARTPLRIIKNLRICGDCHNAIKIMSRIVGRELI
+VRDNKRFHHFKDGKCSCGDYW
+
+
+PACMAD CONSENSUS:
+Length: 576 aa
+
+MAAtAAIHLRPLRSvAFSSARSRSLLHLLARPLSSSQSSYAYHPSPtPAAAAAPNHVHQP
+QQQQWAPPRNPPPPGPPPQWSPQGHPPPPPPRNYQQQPPQPPPPPRGYGPPPPQQPPPPR
+GHGPPPPHQHVPPPPPHGHGPPPPgQhpPPPPPPRGYGPPPPQHQAPPPPpHGYGPPPPQ
+QQpPPPPHGYGPPPPQQHATPPPPPPEPVAGPGELMGLCREGRVKDAVELLAKGARADPP
+AFYELAAACSNPKLLEELRKVHDFFLRSPFRGDLRVNNKLLEMYAKCAAMPHARRTFDNM
+PDRDMDSWHIMIDGYSVNGLGDEALRLFELMKECMAPTSHTYVLVLNACANSEAIEEAFL
+YFDAMSRDHGIEPGVEHYVGIIEVLGKSGHLNEALEYIEKLPFEPNAMVWESLLNLARMN
+GDIDLEDRAEELLVSLDPSKANPKKLPTPPPKRRLGINMLDGRNKLVEYRLPPKIEKKVV
+NEQRYVPDTRYVLHDIDQEAKEQALLYHSERLAIAYGLISTPARTPLRIIKNLRICGDCH
+NAIKIMSRIVGRELIVRDNKRFHHFKDGKCSCGDYW
+
+================================================================================

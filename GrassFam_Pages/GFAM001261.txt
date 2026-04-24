@@ -1,0 +1,127 @@
+================================================================================
+GrassFam ID: GFAM001261
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             271.0 aa
+Family Size (Extended Family Size): 80 (81) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22595:SF187
+Panther Family ID:               PTHR22595
+Modal Panther ID:                PTHR22595:SF187
+Modal Panther Description:       ENDOCHITINASE A
+Modal Panther Family ID:         PTHR22595
+Modal Panther Fam Desc:          CHITINASE-RELATED
+Interpro Signature Accession:    cd00325; G3DSA:3.30.20.10:FF:000001; G3DSA:1.10.530.10:FF:000052; G3DSA:1.10.530.10; G3DSA:3.30.20.10; PTHR22595; PIRSF001060; PF00182; SSF53955
+Interpro Signature Description:  chitinase_GH19; Endochitinase (Chitinase); Endochitinase PR4; -; Endochitinase, domain 2; CHITINASE-RELATED; Endochitinase; Chitinase class I; Lysozyme-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: chitinase 5
+Lpe
+  Gene count: 5
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu02H
+  Gene Products: chitinase 4-like; chitinase 5-like; chitinase 5-like%2C transcript variant X1
+Ata
+  Gene count: 4
+  Modal chromosome: Ata02D
+  Gene Products: chitinase 5
+Tae
+  Gene count: 9
+  Modal chromosome: Tae02D
+  Gene Products: chitinase 4-like; chitinase 5; chitinase 5-like
+Ola
+  Gene count: 3
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl04
+  Gene Products: chitinase 4; chitinase 5
+  Gene Descriptions: chitinase 4; chitinase 5
+Osa
+  Gene count: 2
+  Modal chromosome: Osa04
+  Gene Products: chitinase 4-like; chitinase 5-like
+  Gene Synonyms: Cht4,OsChia2b,OsJ_15306; chia4a,chitinase,Cht5,OsChia4a,OsJ_15308
+  Gene Descriptions: chitinase 4-like; chitinase 5-like
+Ecu
+  Gene count: 4
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: endochitinase A-like
+  Gene Descriptions: endochitinase A-like
+Svi
+  Gene count: 8
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 11
+  Modal chromosome: Pvi07K
+  Gene Products: endochitinase A-like; endochitinase B-like
+Pha
+  Gene count: 6
+  Modal chromosome: Pha07
+  Gene Products: endochitinase A-like; endochitinase B-like
+Msi
+  Gene count: 9
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 6
+  Modal chromosome: Sbi06
+  Gene Products: endochitinase A; uncharacterized LOC8060195
+Zma
+  Gene count: 5
+  Modal chromosome: Zma02
+  Gene Products: Endochitinase B; Endochitinase EP3; endochitinase A; endochitinase A-like
+  Gene Synonyms: GRMZM2G051921; chiA,chitinase,GRMZM2G051943; chiB,chitinase,GRMZM2G005633
+  Gene Descriptions: Endochitinase B; Endochitinase EP3; endochitinase A
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 273 aa
+
+MAnSPPtilavLALGLALLCAAGPAAAQNCGCQPGyCCSKYGYCGTTdaYCGdGCqSGPC
+tgSGGGGGsGAnVeSVVTDAFFNGIKSQAGnGCEGKnFYTRsAFLsAAnAYPGFAhGGSe
+dDGKREIAAFFAHVTHETGHfCYIsEINasnnYCDasntQWPCapGKKYYGRGPLQISWN
+YNYGPAGrsIGFDGLgNPDrVAQDPViaFKTALWFWMNNVHQVMPQGFGATtRAINGALE
+CNGKNPAqMNARVGYYkqYCqQLGVDPGnNLTC
+
+
+BOP CONSENSUS:
+Length: 274 aa
+
+MAkSPMAMlaFLALGLAALVLSAAGlAAAQNCGCQaNECCSqYGYCGTtdaYCGqGCqSG
+PCtgSGGGSGvpVESVVTdAFFNGIKSQAgNGCAGKSFYTRQSFLdGARANPdFGKGRTS
+DDGKREIAAFFAHVTHETGHMCYIEEInGASqdYCDetNTQWPCtPGKaYYGRGPLQLSW
+NYNYGAAGkSiGFDGLnNPEkVAQDPavaFKAALWFWMNNVHQVvPQGFGATTRAINGgV
+ECNGKNPaAVNARAGYYrDYCrQFGVDPGNNLTC
+
+
+PACMAD CONSENSUS:
+Length: 273 aa
+
+MAnSPPTILAVLALGLALLCAAGPAAAQNCGCQPGYCCSKfGYCGTTDdYCGeGCqSGPC
+tsGGGGGGgGANVASVVTDAFFNGIKSQAGnGCEGKNFYTRSAFLsAAnaYPGFAHGGSE
+veGKREIAAFFAHVTHETGHFCYISEINKsNnYCDaSnrQWPCApGKKYYGRGPLQISWN
+YNYGPAGRsIGFDGLGNPDrVAQDPVIAFKTALWFWMNNVHqVMPQGFGATIRAINGALE
+CNGkNPAQMNARVGYYkQYCQQLGVDPGsNLTC
+
+================================================================================

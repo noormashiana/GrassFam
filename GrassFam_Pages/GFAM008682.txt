@@ -1,0 +1,126 @@
+================================================================================
+GrassFam ID: GFAM008682
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             561.0 aa
+Family Size (Extended Family Size): 14 (14) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22912:SF204
+Panther Family ID:               PTHR22912
+Modal Panther ID:                PTHR22912:SF204
+Modal Panther Description:       DIHYDROLIPOYL DEHYDROGENASE
+Modal Panther Family ID:         PTHR22912
+Modal Panther Fam Desc:          DISULFIDE OXIDOREDUCTASE
+Interpro Signature Accession:    G3DSA:3.30.390.30:FF:000001; G3DSA:3.50.50.60:FF:000043; G3DSA:3.50.50.60; G3DSA:3.30.390.30; TIGR01350; PTHR22912; PIRSF000350; PR00411; PF02852; PF07992; SSF51905; SSF55424
+Interpro Signature Description:  Dihydrolipoyl dehydrogenase; Putative dihydrolipoyl dehydrogenase; -; dihydrolipoyl dehydrogenase; DISULFIDE OXIDOREDUCTASE; Hg-II_reductase_MerA; Pyridine nucleotide disulphide reductase class-I signature; Pyridine nucleotide-disulphide oxidoreductase, dimerisation domain; Pyridine nucleotide-disulphide oxidoreductase; FAD/NAD(P)-binding domain; FAD/NAD-linked reductases, dimerisation (C-terminal) domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: dihydrolipoyl dehydrogenase 1%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: dihydrolipoyl dehydrogenase 1%2C chloroplastic-like
+  Gene Descriptions: dihydrolipoyl dehydrogenase 1%2C chloroplastic-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: dihydrolipoyl dehydrogenase 1%2C chloroplastic
+  Gene Descriptions: dihydrolipoyl dehydrogenase 1%2C chloroplastic
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: dihydrolipoyl dehydrogenase 1%2C chloroplastic-like; dihydrolipoyl dehydrogenase 1%2C chloroplastic-like%2C transcript variant X2
+  Gene Descriptions: dihydrolipoyl dehydrogenase 1%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: dihydrolipoyl dehydrogenase 1%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: dihydrolipoyl dehydrogenase 1%2C chloroplastic-like%2C transcript variant X1
+Msi
+  Gene count: 1
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: dihydrolipoyl dehydrogenase 1%2C chloroplastic-like%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: dihydrolipoyl dehydrogenase%2C transcript variant X1
+  Gene Synonyms: GRMZM2G145595
+  Gene Descriptions: dihydrolipoyl dehydrogenase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 563 aa
+
+MYSTAMSLSAASAAVAGaAAsRPDAIRPAgLRFCGLRREALGLRSLRsSPQvvAARRsVA
+AAAAAGNGAAGSGGFDYDLVIIGAGVGGHGAALHAVEKGLKTAIIEGDVVGGTCVNRGCV
+PSKALLAVSGRMRELQDEHHMKSLGLQVSSpGYDRQAVADHANNLASKIRSNLTNSMKAL
+GVDILTGiGTIVGKQKVRYGKVGFPDNEITARNIIIATGSVPFVPKGIEIDGKTVFTSDH
+ALKLESVPDWIAIVGSGYIGLEFSDVYTALGSEVTFVEALDQLMPGFDPEIAKLAQRILI
+NPRKIDYHTGVFASKITPAKDGKPVLIELIDAKTKEHKETLEVDAALIATGRAPFTKGLG
+LENINVVTQRGFVPVDERMQVMDADGNAVPNLYCIGDANGKLMLAHAASAQGISVVEQIS
+GKDNILNHLSIPAACFTHPEISMVGLTEPQAREKADKEGFEISVVKTSFKANTKALAENE
+GDGLAKMIYRPDTGEILGVHILGLHAADLIHEASNAIALGTRVQDIKFAVHAHPTLSEVL
+DELFKAAKVNtGVsHSVNEPVAA
+
+
+BOP CONSENSUS:
+Length: 560 aa
+
+MYSTAMSLSAAAAVAGGgARPDAIRPAeLRFCGLRREALGLRSLRAPPQAAAApRKVAAA
+ATGNGAAGSGGFDYDLVIIGAGVGGHGAALHAVEKGLKTAIIEGDVVGGTCVNRGCVPSK
+ALLAVSGRMRELQDEHHMKSLGLQVSSsGYDRQAVADHANNLASKIRSNLTNSMKALGVD
+ILTGFGTvVGKQKVRYGKVGFPDNEITARNIIIATGSVPFVPNGIEIDGKTVFTSDHALK
+LESVPDWIAIVGSGYIGLEFSDVYTALGSEVTFVEALDQLMPGFDPEIAKLAQRILINPR
+KIDYHTGVFASKITPAKDGKPVLIELIDAKTKEHKETLEVDAALIATGRAPFTKGLGLEN
+vNVVTQRGFVPVDERMQVMDADGNAVPNLYCIGDANGKLMLAHAASAQGISVVErISGKD
+NILNHLSIPAACFTHPEISMVGLTEPQAREKADKEGFEISVVKTSFKANTKALAENEGDG
+LAKMIYRPDTGEILGVHILGLHAADLIHEASNAIALGTRVQDIKFAVHAHPTLSEVLDEL
+FKAAKVNAGVPHSVNEPVAA
+
+
+PACMAD CONSENSUS:
+Length: 565 aa
+
+MYSTAMSLSAASAAVASGAAASRPDAIRPVAGLRFCGLRREALGLRSpRSSPQVVAARRS
+VAAAATAGNGAAGSGGFDYDLVIIGAGVGGHGAALHAVEKGLKTAIIEGDVVGGTCVNRG
+CVPSKALLAVSGRMRELQDEHHMKSLGLQVSSPGYDRQAVADHANNLASKIRSNLTNSMK
+ALGVDILTGIGTIVGKQKVRYGKVGFPDNEITARNIIIATGSVPFVPKGIEIDGKTVFTS
+DHALKLESVPDWIAIVGSGYIGLEFSDVYTALGSEVTFVEALDQLMPGFDPEIAKLAQRI
+LINPRKIDYHTGVFASKITPAKDGKPVLIELIDAKTKEHKETLEVDAALIATGRAPFTKG
+LGLENINVVTQRGFVPVDERMQVMDADGNVVPNLYCIGDANGKLMLAHAASAQGISVVEQ
+ISGRDNILNHLSIPAACFTHPEISMVGLTEPQAREKADKEGFEISVVKTSFKANTKALAE
+NEGDGLAKMIYRPDTGEILGVHILGLHAADLIHEASNAIALGTRVQDIKFAVHAHPTLSE
+VLDELFKAAKVNtGVSHSVNEPVAV
+
+================================================================================

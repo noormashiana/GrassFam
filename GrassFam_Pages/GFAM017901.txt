@@ -1,0 +1,115 @@
+================================================================================
+GrassFam ID: GFAM017901
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             460.0 aa
+Family Size (Extended Family Size): 17 (17) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12271:SF107
+Panther Family ID:               PTHR12271
+Modal Panther ID:                PTHR12271:SF107
+Modal Panther Description:       PROTEIN HESO1
+Modal Panther Family ID:         PTHR12271
+Modal Panther Fam Desc:          POLY A  POLYMERASE CID  PAP -RELATED
+Interpro Signature Accession:    G3DSA:3.30.460.10; G3DSA:1.10.1410.10; PTHR12271; SSF81631; SSF81301
+Interpro Signature Description:  Beta Polymerase, domain 2; -; POLY A  POLYMERASE CID  PAP -RELATED; PAP/OAS1 substrate-binding domain; Nucleotidyltransferase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: protein HESO1-like
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe03
+Tae
+  Gene count: 4
+  Modal chromosome: Tae03A
+  Gene Products: protein HESO1-like; protein HESO1-like%2C transcript variant X1
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: protein HESO1-like
+  Gene Descriptions: protein HESO1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: protein HESO1%2C transcript variant X2
+  Gene Descriptions: protein HESO1
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: protein HESO1-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: protein HESO1-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: protein HESO1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 496 aa
+
+MIyrVpNYDVLKkCIEDILStIKPVEDDRnKRLcAIQELADSIYSVGALRGAAVKPFGSF
+vSNLYAKSGDLDVSVDLsNgSrLPISKrKKQNaLRELMRALQIRGVARyMEFIPNARVPI
+LQYvSNQFGISCDISINNYPGRIKSRIFYWINTIDERFGDMVLLVKEWAKAQNINDPKNG
+TLNSYSLCLLVIFHFQTCEPAILPPLKEIYDGNvAeEtVfYDEKhVDEVCaANIARFLRQ
+NMGQRNQSSLShLLASFFHKFfrIrvLSSKVISTYTGRlERIQDNPsWMAKSYSLFVEDP
+FERPDNAARAVDAEEleRIerAFNHaSsRFvsGALtDRDELLSLLCTPaVGSiLGgvRAN
+RYTNTLPSQLYSPvAANLYDNQHHQQARGSTGSRSsSQSQGYATGRQtArpDQYHKQPQA
+YNaERMTaGQyQNvnRPevYTtGLqTAVPlQtRSQASGSRTVGrYQNQQRRREYSPYQHA
+GTTRHEPASSSNTWQw
+
+
+BOP CONSENSUS:
+Length: 443 aa
+
+MIWRVPNYDVLEKCTEDILSLIKPVEGDRNKRLYAIQELVDTIYSVGALRGASVKPFGSF
+VSQLYAKSGDLDVSVELFNALNLPTSKRKKQDTLREVRRALQKRGVARHMEFIPTARVPV
+LQYVSNQYGISCDISISNYPGRIKSKILYWINTLDDRFGDMVLLVKEWAKAQNINDPKNG
+TLNSYSLCLLVLFHFQTCEPAILPPMKEIYDvNImgDISERAyYNEKHLDEVCsiNIAKF
+RRQNmGQRNQSSLSHLLATFFhKFfRIDvlSSkVISTYTGRLeRIQDNPyWMDKSYsLFV
+EDPFqRPDNAARTVgvfEFQDIVrAFsNAsNkFvSDALTDRNgLLSLLCTPEVGSKLGgR
+AtAsRYtNtlPARGGSRSGQRAVHsPtPQqYNttRQAtvHHQtQsrrQvYTSDRQTssRR
+LHNGSAyssrsRisSSrSyGQYw
+
+
+PACMAD CONSENSUS:
+Length: 519 aa
+
+MIyyVhsYeLLKACIEDILSTIKPVEDDRKKRLCAIQELADSIYSVGALRGAAVKPFGSF
+ISNLYAKSGDLDVSVDLrSGSRLPISKqKKQNALRELMRALQIRGVARYMEFIPNARVPI
+lQYMSNQFGISCDISINNYPGRIKSRIFYWINTIDERFGDMVLLVKEWAKAQNINDPKNG
+TLNSYSLCLLVIFYFQTCEPAILPPLKEIYDGdVAkEtVFYDEKyVDEVCaANIARFLRQ
+NMGQRNQSSLSrLLASFFHKFLGIRgLSSKVISTYTGRFERIQDNPSWMAKSYSLFVEDP
+FERPDNAARAVDAEEMERIErAFNHvSSRFvgGALnDRDELVSLLCTPAVGSILGGVRAN
+RCTNTPPShQLYSPAAANLYDNQHHQQARGSTGSRSSSQSQGYATGrQtArPDQYHKQPQ
+AYNAEGMTAGQYQNVnRPEAYTTGLQTAVPLQYNDYTRSHASGSRTVGRYQNQQQRREYS
+PYQHSGTTRHEPAGGRWFHDAPARDSGYQASSSNTAWQW
+
+================================================================================

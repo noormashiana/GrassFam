@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM002815
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             500.5 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22298:SF135
+Panther Family ID:               PTHR22298
+Modal Panther ID:                PTHR22298:SF135
+Modal Panther Description:       ENDOGLUCANASE 19
+Modal Panther Family ID:         PTHR22298
+Modal Panther Fam Desc:          ENDO-1,4-BETA-GLUCANASE
+Interpro Signature Accession:    G3DSA:1.50.10.10:FF:000020; G3DSA:1.50.10.10; PTHR22298; PF00759; SSF48208
+Interpro Signature Description:  Endoglucanase; -; ENDO-1,4-BETA-GLUCANASE; Glycosyl hydrolase family 9; Six-hairpin glycosidases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: endoglucanase 4
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: endoglucanase 4-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata05D
+  Gene Products: endoglucanase 4; endoglucanase 4-like
+Tae
+  Gene count: 6
+  Modal chromosome: Tae05A
+  Gene Products: endoglucanase 4-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: endoglucanase 4
+  Gene Descriptions: endoglucanase 4
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: endoglucanase 4-like
+  Gene Synonyms: GLU14,OsCel9F,OsGLU14
+  Gene Descriptions: endoglucanase 4-like
+Pau
+  Gene count: 1
+  Modal chromosome: Pau06
+  Gene Products: endoglucanase 4-like
+  Gene Descriptions: endoglucanase 4-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: endoglucanase 4-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: endoglucanase 4
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: endoglucanase 4-like
+  Gene Synonyms: Cel17,cellulase,GRMZM2G141911
+  Gene Descriptions: endoglucanase 4-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 499 aa
+
+MsSsKACmStllvAVLCLvAGaRsAAAFNYADALDKAvLFFEAQRSGKLPPGQRVAWRAD
+SGLSDGSAsnVDLVGGYYDAGDNVKFGLPMAFTVTMLSWSVVEFGGAMPgGQLaNAEAAV
+RWGADYLLKAATATPGALYVQVADPYQDHRCWERPEDMDTPRaVYKVTPQSPGSDVAGET
+AAALAAASLVFRARDPAYSSKLLRAARQVFDFADRYRGSYSDSLSSVVCPFYCSYSGYhD
+ELLWAAtWLHLASSPSPSSqDVYMSYInSNGHTLGAEQDDFTvSWDDKRVATKVLLSKVF
+LQnRVegLRlYKAHADkYICSLVPGAgGFQSQYTPGGLLFKEGDSNMQYVTSTAFLLLTY
+AKYLsSTGGAASCGSTAVTPSTLVSLAKKQVDYILGANPAGMSYMVGFGARYPRRVHHRG
+ASMPSVRDHPARIGCDEGFRYLHSSDPDRNVLVGAVVGGPDqSDsYSDSRDNYAQAEPST
+YTNAPLVGALAFFAGARsa
+
+
+BOP CONSENSUS:
+Length: 499 aa
+
+MGSSKACMStyLIAVLCLVAGARsAAAFNYADALDKAVLFFEAQRSGKLPPGQRVAWRAD
+SALSDGNASNVDLVGGYYDAGDNVKFGLPMAFTVTMLSWSVVEFGGAMPgGQLANAEAAV
+RWGSDYLLKAATATPGALYVQVADPYQDHRCWERPEDMDTPRAAYKVTPQSPGSDVAGET
+AAALAAASLVFRARDPAYSSKLLRAARQVFDFADRYRGSYSDSLSSVVCPFYCSYSGYkD
+ELLWAATWLHLASSPSPSSQGVYMSYINSNGHTLGAEQDdYTVSWDDKRAATKVLLSKVF
+LQNRVEGLRtYKAHADKYICSLVPGAGGFQSQYTPGGLLFKEGDSNMEYVTSTAFLLLTY
+AKYLSSTGGAASCGSTAVTPSTLVSLAKKQVDYILGANPAGMSYMVGFGARYPRRVHHRG
+ASMPSVRDHPARIGCDEGFHYLHSSDPDRNVLVGAVVGGPDQSDSYSDSRDNYAQAEPST
+YTNAPLVGALAFFAGARSA
+
+
+PACMAD CONSENSUS:
+Length: 511 aa
+
+MAmvRSSsKAAVtLAlvVAVLCLTAGGNGVAAFNYADALDKALLFFEAQRSGKLPPGQRV
+TWRGDSGLSDGSAAGVDLVGGYYDAGDNVKFGLPMAFTVTMLSWSVLEFMPrAqlEAGRA
+AVRWGADYLLKAAAAAPDALYVQVADPYQDHRCWERPEDMDTPRSVYKVTPDKPGSDVAG
+ETAAALAAASLVFRTCDPAYSSKLLQTAQKVFDFADRYRGSYSDSLSSVACPFYCSYSGY
+HDELLWAAAWLHMATAAGKGAGNSSSDVYLSYIYSNGHTLGAEQDDFTFSWDDKRVGTKV
+LLSKAFLQGrGKGKadDALRLYKAHADtYVCSLVPGAAGFQsSQYTPGGLLFKEGDSNMQ
+YVTSTAFLLLAYAKYLAGAGAtVSCGGGAVPPSALVAVAKRQVDYILGANPAgMSYMVGF
+GARYPRHVHHRGASMPSVRDHPARIGCDEGFRYLHSADPDANVLVGAVVGGPDGSDAFTD
+SRDNYAQTEPSTYTNAPLVGALAFFAGGRHR
+
+================================================================================

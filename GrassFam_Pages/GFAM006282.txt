@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM006282
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             422.5 aa
+Family Size (Extended Family Size): 20 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31096:SF23
+Panther Family ID:               PTHR31096
+Modal Panther ID:                PTHR31096:SF23
+Modal Panther Description:       ACT DOMAIN-CONTAINING PROTEIN ACR10
+Modal Panther Family ID:         PTHR31096
+Modal Panther Fam Desc:          ACT DOMAIN-CONTAINING PROTEIN ACR4-RELATED
+Interpro Signature Accession:    cd04927; PTHR31096; PF24926; PF24931; PF24914
+Interpro Signature Description:  ACT_ACR-like_2; ACT DOMAIN-CONTAINING PROTEIN ACR4-RELATED; ACT domain-containing protein ACR9, C-terminal; ACR9-like, ACT-like domain; ACT domain-containing protein ACR10, N-terminal
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: ACT domain-containing protein ACR10
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: ACT domain-containing protein ACR10-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: ACT domain-containing protein ACR10
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: ACT domain-containing protein ACR10-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola11
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: ACT domain-containing protein ACR10
+  Gene Descriptions: ACT domain-containing protein ACR10
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: ACT domain-containing protein ACR10%2C transcript variant X1
+  Gene Descriptions: ACT domain-containing protein ACR10
+Pau
+  Gene count: 1
+  Modal chromosome: Pau20
+  Gene Products: ACT domain-containing protein ACR10%2C transcript variant X1
+  Gene Descriptions: ACT domain-containing protein ACR10
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: ACT domain-containing protein ACR10-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: ACT domain-containing protein ACR10
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: ACT domain-containing protein ACR10
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: uncharacterized LOC100193524%2C transcript variant X1; uncharacterized LOC100283831
+  Gene Synonyms: GRMZM2G174888,GRMZM2G178333; GRMZM2G703231,pco080190
+  Gene Descriptions: uncharacterized LOC100193524; uncharacterized LOC100283831
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 421 aa
+
+MGIPSDEVVQIRHADAAGDPTVVTVSCPDKTGLGCDLCRVVLLFGLNVVKGDMSTDGRWC
+YIVLWVlPRRGRPVpVaWDLLKDRLvQLCPVAAPFGFDtAYLAAAGLQDAppPaPQVFLL
+KLCCYDRMGLLHDVTRVLCELELTIRRVKVSTTPDGRVLDLFFITDARELLHTKSRREEA
+YDKLQSVLGDSLTSCEIDSATEDMSSCLQASASLtPaVmEQMFNtDlIEEQSIrSRSdst
+LSVTMDNSLSPVHTLIQIQCGDHKGLLYDIMRTVKDCNIQISYGRFYAsQNGRCEVDLFA
+VQSDGKKILDQQKQRaLCSRLRMELLRPLRVALVNRGPDTELLVANPVEVSGKGRPLVFY
+DITLALKNLHKRIFLAEIGRHVVeDREWEVYRVHLGEDHELSsSLRSKIVDGVTNMLMGW
+D
+
+
+BOP CONSENSUS:
+Length: 422 aa
+
+MGIPSPSDEVVQIRHGDvAGDPTVVTVSCPDKTGLGCDLCRLVLLFGLNVLKGDMSTDGR
+WCYIVLWVVARRGRppVAWDLLKERLVeLCPVPAPFGVDSAYLAAAGLQePAgEPQVFLL
+KFCCYDRMGLLHDVTCVLCEMELTIRRVKVSTTPDGRVMDLFFITDARELLHTKSRREEA
+YEKLQSVLGDSVTSCEIESATEDMSSCLQASALLSPLVLEQMFSVDVIEEQSSRSRSdSr
+LSVTMDNSLSPVHTLIQIQCGDHKGLLYDIMRTVKDCNIQISYGRFYAGQKGRCEVDLFA
+VQSDGKKILDQQKQRtMCSRLRTELLRPLRVALVNRGPDaELLVANPVEVSGKGRPLVFY
+DITLALKNLHRRVFLAEIGRHVVDDREWEVYRVHLGEDDHELSCSVRSKIVDGVTNMLMG
+WD
+
+
+PACMAD CONSENSUS:
+Length: 421 aa
+
+MGIPSDEVVQIRHADAAGEPTVVTVSCPDKTGLGCDLCRVVLLFGLSVVKGDMSTDGRWC
+YIVLWVLPRRGRPVPVPWDLLKDRLLQLCPVAAPFGFDTAYLAAAGLQDAAPPAPRLFLL
+KLYCFDRMGLLHDVTRVLCELELTIRRVKVSTTPDGSVLDLFFITDARELLHTKSRREEA
+YDKLESVLGDSLTSCEIDPAtEDMLSCLQACASLTPAVMEQMFNTDLIEEQSISTRGGNT
+ISVTMDNSLSSVHTLIQIQCGDHKGLLYDIMRTVKDCNIQISYGRFYASQNGRCEVDLFV
+VQSDGKKILDQQRQRALCCRLRMELLRPLRVALVNRGPDTELLVANPVEVSGKGRPLVFY
+DITLALKNLQKRIFLAEIGRHVVEDREWEVYRVHFGEEHDLSSALRSKIVDGVTNMLMGW
+D
+
+================================================================================

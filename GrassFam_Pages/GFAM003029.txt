@@ -1,0 +1,120 @@
+================================================================================
+GrassFam ID: GFAM003029
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             355.0 aa
+Family Size (Extended Family Size): 47 (52) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Weak
+Panther Family ID:               PTHR47991
+Modal Panther ID:                PTHR47991:SF105
+Modal Panther Description:       FE2OG DIOXYGENASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR47991
+Modal Panther Fam Desc:          OXOGLUTARATE/IRON-DEPENDENT DIOXYGENASE
+Interpro Signature Accession:    G3DSA:2.60.120.330:FF:000018; G3DSA:2.60.120.330; PTHR47991; PF14226; PF03171; SSF51197
+Interpro Signature Description:  2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein; -; OXOGLUTARATE/IRON-DEPENDENT DIOXYGENASE; non-haem dioxygenase in morphine synthesis N-terminal; 2OG-Fe(II) oxygenase superfamily; Clavaminate synthase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: protein SRG1
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 6
+  Modal chromosome: Hvu07H
+  Gene Products: 2-oxoglutarate-dependent dioxygenase 11-like; codeine O-demethylase-like%2C transcript variant X1; protein SRG1-like
+Ata
+  Gene count: 5
+  Modal chromosome: Ata07D
+  Gene Products: 2-oxoglutarate-dependent dioxygenase 11; jasmonate-induced oxygenase 4%2C transcript variant X1; protein SRG1; protein SRG1-like
+Tae
+  Gene count: 17
+  Modal chromosome: Tae07D
+  Gene Products: 2-oxoglutarate-dependent dioxygenase 11-like; flavonol synthase/flavanone 3-hydroxylase-like; jasmonate-induced oxygenase 4-like; jasmonate-induced oxygenase 4-like%2C transcript variant X1; jasmonate-induced oxygenase 4-like%2C transcript variant X2; protein SRG1-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl02
+  Gene Products: 2-oxoglutarate-dependent dioxygenase 11-like; protein SRG1-like%2C transcript variant X2
+  Gene Descriptions: 2-oxoglutarate-dependent dioxygenase 11-like; protein SRG1-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa06
+  Gene Products: protein LATERAL BRANCHING OXIDOREDUCTASE 1%2C transcript variant X1
+  Gene Descriptions: protein LATERAL BRANCHING OXIDOREDUCTASE 1
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN321
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: probable 2-oxoglutarate-dependent dioxygenase At5g05600; protein SRG1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: protein SRG1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: uncharacterized LOC100281145
+  Gene Synonyms: gpm626,GRMZM2G000423
+  Gene Descriptions: uncharacterized LOC100281145
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 356 aa
+
+MESmGeaRtMtVQELAGALGtPDVPAQYVVRgHhDQQLAaAVvAPVPVIDLGRLskqDGg
+AADEAAKLRSALESWGLFLVSNHGVDAAVMDgMMaASREFFRQPLEEKQRYTNLIgGEqF
+QfEGYGNDrVsSPDQILDWTDRLYLKVEPEDERrIALWPAHPEtFRDvLHEFTKKCGgVK
+DdLLRAMAKLLELDDDDYFVDQFGEKAlTnARCSYYPeCPRPELVFGLKPHSDGTVVTVL
+MVDDsVGGLQVLRDGVWWDVPIVPHTLLiIIGDQtEIMSNGIFKSPVHRVVTNAKKERLS
+VALDYSVDPEREIEPSAQLIDEKRPALYrKVKVKDYIAgLYeHFSQGkMVIDTvKI
+
+
+BOP CONSENSUS:
+Length: 356 aa
+
+MGSmGtaRaMtVQELAGALGtPDVPAQYVVRgHhDQQLAaAVVAPVPVIDLGRLskqDGg
+aADEAAKLRSAiESWGLFLVSNHGVDAAVMDgMMAASREFFRQPLEEKQRYTNLIGGEQF
+QfEGYGNDrVSSPDQILDWTDRLYLKVEPEDERrIALWPAHPEtFRDaLHEFTKKCGGVK
+DdLLRAMAKLLELDDDDYFVDQLGEKPlTNARCSYYPECPRPELVFGLKPHSDGTVVTVL
+MVDDsVGGLQVLRDGVWWDVPIVPHTLLiIIGDQTEIMSNGIFKSPVHRVvTNAKKERLS
+VALDYSVDPEREIEPSAQLINEKRPALYrKVKVKDYIAglYeHFSQGtMVIDTvKI
+
+
+PACMAD CONSENSUS:
+Length: 357 aa
+
+MESAGGEARPVLLPPVQELAsqlGAADDVPARYVARAGNDAEKATVTAPVPVIDLGRLCQ
+PGGGSAADEASKLRLALESWGLFLVTNHGIEASLMDAMMDASREFFRQPLEEKQKHSNMv
+DGKHFQLEGYGNDRVaSEDQVLDWCDRLYLKVEPQDERNLdLWPARLRDVLHeFTAqCTr
+VKDRLLPEMAKLLELDDDYFiDQFGDKADTYARFSYYPPCPRPDLVFGLKPHSDGTFiSL
+LMVDNSVGGLQVLRDGVWYDVPTRPHTLLINLGDQMEIMSNGIFKSPVHRVVTNAEKERL
+SVVLFYSVDPEREIqPAdKLIDENHPALYKKVKVKEYIAGLYEHFSQGkMVIETAKI
+
+================================================================================

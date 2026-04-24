@@ -1,0 +1,121 @@
+================================================================================
+GrassFam ID: GFAM005576
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             289.0 aa
+Family Size (Extended Family Size): 41 (41) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31062:SF127
+Panther Family ID:               PTHR31062
+Modal Panther ID:                PTHR31062:SF127
+Modal Panther Description:       XYLOGLUCAN ENDOTRANSGLUCOSYLASE_HYDROLASE
+Modal Panther Family ID:         PTHR31062
+Modal Panther Fam Desc:          XYLOGLUCAN ENDOTRANSGLUCOSYLASE/HYDROLASE PROTEIN 8-RELATED
+Interpro Signature Accession:    cd02176; G3DSA:2.60.120.200; PTHR31062; PIRSF005604; PF00722; SSF49899
+Interpro Signature Description:  GH16_XET; -; XYLOGLUCAN ENDOTRANSGLUCOSYLASE/HYDROLASE PROTEIN 8-RELATED; EndGlu_transf; Glycosyl hydrolases family 16; Concanavalin A-like lectins/glucanases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: probable xyloglucan endotransglucosylase/hydrolase protein 12
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu02H
+  Gene Products: probable xyloglucan endotransglucosylase/hydrolase protein 12
+Ata
+  Gene count: 5
+  Modal chromosome: Ata02D
+  Gene Products: probable xyloglucan endotransglucosylase/hydrolase protein 12
+Tae
+  Gene count: 13
+  Modal chromosome: Tae02D
+  Gene Products: probable xyloglucan endotransglucosylase/hydrolase protein 12; xyloglucan endotransglucosylase/hydrolase protein 24-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: probable xyloglucan endotransglucosylase/hydrolase protein 26
+  Gene Descriptions: probable xyloglucan endotransglucosylase/hydrolase protein 26
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: probable xyloglucan endotransglucosylase/hydrolase protein 26
+  Gene Descriptions: probable xyloglucan endotransglucosylase/hydrolase protein 26
+Ecu
+  Gene count: 7
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: probable xyloglucan endotransglucosylase/hydrolase protein 12; xyloglucan endotransglucosylase/hydrolase protein 24-like
+  Gene Descriptions: probable xyloglucan endotransglucosylase/hydrolase protein 12; xyloglucan endotransglucosylase/hydrolase protein 24-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: probable xyloglucan endotransglucosylase/hydrolase protein 12; xyloglucan endotransglucosylase/hydrolase protein 22-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: probable xyloglucan endotransglucosylase/hydrolase protein 12
+Msi
+  Gene count: 1
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: xyloglucan endotransglucosylase/hydrolase protein 24
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: probable xyloglucan endotransglucosylase/hydrolase protein 12
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 289 aa
+
+MESSRRALLLVAVAAAAIGLAsASFRDNCDIKWNPENAAFSDDGHGLTMSLKSNSSGCLL
+QTKKQFIYGSVSTLIKLVPGNSAGTVTTYYTSSVGDDHDEIDFEFLGNETGQPYTLHTNV
+FADGVGKKEMQFVPWFDPTADFHaYTISWTPCMIVWYVDDVPIRVFRNYRDKGIAYPIKR
+PMFGYSSIWSAEDWATQGGRVKADWSKAPFVAgYRDMVLDVCPCDGaDSCVYGCaGAFSH
+GGrqQNCAGLSDqQRgKMQeVQKthRIYDYCVDYKDNKKPGPECSLPQY
+
+
+BOP CONSENSUS:
+Length: 289 aa
+
+MESSRRALLLVAVAAaAIGLASASFRDNCDIKWNPENAAFSDDGHGLTMSLKSNSSGCLL
+QTKKQFIYGSVSTLIKLVPGNSAGTVTTYYTSSVGaDHDEIDFEFLGNETGQPYTLHTNV
+FADGVGKKEMQFVPWFDPTADFHAYTISWTPCMIVWYVDDVPIRVFRNYRDKGIAYPIKR
+PMFGYSSIWSAEDWATQGGRVKADWSKAPFVAGYRDMVLDVCPCDGaDSCVYGCAGAFSH
+GGRQQNCAGLTDQQRaKMlEVQKtHRIYDYCVDYRDNKKPGPECSLPQY
+
+
+PACMAD CONSENSUS:
+Length: 288 aa
+
+MesSRALLLVAVAAAVAGLAAANFRDDCDIPWEPQNARFTSDGNGLSMSLVSNySGCMLR
+TKKQFIYGTVSTLIQLVPGNSAGTVTTYYASSVGDNHDEIDFEFLGNETGQPYTFHTNIY
+ANGVGNKEMQFKPWFDPTTGYHNYTISWSPCMIVWYVDSVPIRVFRNYQsShGVAFPTSR
+PMFAYSSIWAAEDWATQGGRVKTDWSKAPFVANYqNIHLDICECGsYGGCATsCPAAAAq
+YNGACQLSPAElGQMQWVQgNYRIYDYCVDyKRWtNGQKPVECGLPQY
+
+================================================================================

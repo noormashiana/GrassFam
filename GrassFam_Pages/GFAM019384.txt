@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM019384
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             442.0 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47104:SF1
+Panther Family ID:               PTHR47104
+Modal Panther ID:                PTHR47104:SF1
+Modal Panther Description:       SEC14P-LIKE PHOSPHATIDYLINOSITOL TRANSFER FAMILY PROTEIN
+Modal Panther Family ID:         PTHR47104
+Modal Panther Fam Desc:          SEC14P-LIKE PHOSPHATIDYLINOSITOL TRANSFER FAMILY PROTEIN
+Interpro Signature Accession:    cd00170; G3DSA:3.40.525.10; PTHR47104; SSF52087
+Interpro Signature Description:  SEC14; -; SEC14P-LIKE PHOSPHATIDYLINOSITOL TRANSFER FAMILY PROTEIN; CRAL/TRIO domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: SEC14 cytosolic factor
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: SEC14 cytosolic factor-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: uncharacterized LOC109732589
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: SEC14 cytosolic factor-like; SEC14 cytosolic factor-like%2C transcript variant X1; uncharacterized LOC123098220
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: uncharacterized LOC127765709
+  Gene Descriptions: uncharacterized LOC127765709
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: SEC14 cytosolic factor
+  Gene Descriptions: SEC14 cytosolic factor
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: uncharacterized LOC133911919; uncharacterized LOC133914433
+  Gene Descriptions: uncharacterized LOC133911919; uncharacterized LOC133914433
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: uncharacterized LOC120646837; uncharacterized LOC120693124
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: uncharacterized LOC112876723
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: uncharacterized LOC8056879
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: CRAL/TRIO domain containing protein%2C transcript variant X1; Sec14p-like phosphatidylinositol transfer family protein
+  Gene Synonyms: GRMZM2G051689; GRMZM5G879116
+  Gene Descriptions: CRAL/TRIO domain containing protein; Sec14p-like phosphatidylinositol transfer family protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 439 aa
+
+MAMDKVDAKEREKIEAVRKLLRKQAPLSAKQAQYCNDACVERFLRsRGESVKKAAKHLRT
+VLSWRETVGADHIMADEFSAELADGVAYVAGHDDDGRPVVVFRIKQDYPKFHSQKSFVRL
+LVFTLEVAVACMSRFVDQFVLLFDASFFRSASAFLNLLMGTLKIVADYYPGRLHRAFVID
+PPSLFSVLWKGVRPFVELAPATAVVCSLDFEDSLEDASFTAYPRTASLRFEPsAAaLVvG
+KAGVGSASSRFSVTPTDNPLKPWYLSTTPASVGSRSVVPTSSSPSLVGASPLSARSFSFA
+SPAARSTTPPFqRGGgGAPLTPSSAaKGQKTPPPPQqQQFPRTPRPSFLQSPSMLFAFRK
+DGQASRVERERESFLPFLRFYRRPYDEISYRAKMRPPLGGLIAIVgEKFKQKPVQQPLRR
+HAGLHHHQHHHHqHQhQRI
+
+
+BOP CONSENSUS:
+Length: 441 aa
+
+MAMEKVDAKDREKIEAVRKvMRKQAPLSPKQAEYCNDACVERFLRARGDSVKKAAKTLRA
+VLSWRETIGADHIIADEFSGELSEGMAYVAGHDDENRPVVVFKIKQDDYPKYQPQKSFVR
+FLVFTLEVAVASMNRFVDQFVLLFDASFFRSASAFLNLLMGTLKIVADYYPGRLHRAFVI
+DPPSLFSVMWKGVRPFVELAPATAVVCSLDFEDSLEDASFTAYPRTASLRFEPSVAAVLT
+TGKGGgAVGSASSRFAFSVSDNALKPWYLSTTPAPGPRSVVPSSSPSLVGASPLSARSFS
+FASPAARSTPPVQQQRAARAPPTPSAAKGGQKTPSPLPQQQQFPRTPRPSFLQSPFTFRK
+DGQASRVERERESFLPFLRFYRRPYDEITYRAMMRRPLGGLIAIVDEKFRPmsAQQPLRR
+HAGALHHQHHHHQHQHQHQRI
+
+
+PACMAD CONSENSUS:
+Length: 441 aa
+
+MAIDKVDAKEREKIEAVRKLLRKQAPLSAKQAQYCNDACVERFLRSRGESVKKAAKHLRT
+VLSWRETVGADHIMADEFSAELADGVAFVAGHDDDGRPVVVFRIKQDYPKFHSQKSFVRL
+LVFTLEVAVACMSRFVDQFVLLFDASFFRSASAFLNLLMGTLKIVADYYPGRLHRAFVID
+PPSLFSVLWKGVRPFVELAPATAVVCSLDFEDSLEDASFTAYPRTASLRFEPAAAAVVGK
+AGVGSASSRFSVTPTDNPIKPWYLSTIPASVGSRSVVPTSSSPSLVGASPLSARSFSFAS
+PAALRSTAATPPPFPRGGGGAPLTPSSAAKGQKTPPPPqPQQFPRTPRPSFLQSPSMLFA
+FRKDGQASRVERERESFLPFLRFYRRPYDEISYRAKMRPPLGGLISIVGEKFKQKPVQQP
+LRRHAGLHQQHHHHYQQQQRI
+
+================================================================================

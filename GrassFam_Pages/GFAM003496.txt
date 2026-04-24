@@ -1,0 +1,144 @@
+================================================================================
+GrassFam ID: GFAM003496
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             671.0 aa
+Family Size (Extended Family Size): 19 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR21092:SF0
+Panther Family ID:               PTHR21092
+Modal Panther ID:                PTHR21092:SF0
+Modal Panther Description:       NICASTRIN
+Modal Panther Family ID:         PTHR21092
+Modal Panther Fam Desc:          NICASTRIN
+Interpro Signature Accession:    G3DSA:3.40.630.10:FF:000075; G3DSA:3.40.630.10; PTHR21092; PF18266; PF05450
+Interpro Signature Description:  Nicastrin; Zn peptidases; NICASTRIN; Nicastrin small lobe; Nicastrin large lobe
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: nicastrin
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: nicastrin
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: nicastrin%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: nicastrin-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: nicastrin
+  Gene Descriptions: nicastrin
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: nicastrin
+  Gene Descriptions: nicastrin
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau06
+  Gene Products: nicastrin
+  Gene Descriptions: nicastrin
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: nicastrin-like; nicastrin-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: nicastrin%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: nicastrin%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100501623
+  Gene Synonyms: GRMZM2G168337
+  Gene Descriptions: uncharacterized LOC100501623
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 672 aa
+
+MAAGSAApLLAAvAClvLAVLAPAVSGDGATLESVPDLVKAMYvNIESFPCVRLLNLSGE
+IGCSNPGHeKVIAPIVRFkNssDQLVQPSTVLLPLDQMsDFFLRVSNDPELYqKVAGVLV
+ESNGVNnnLLELSPDRKFPQdDFAPYSNvSHDWNPAGSGIMWNRYDFPVFLLSEESTQTL
+QKIADKNEKSnNGYqANVAEFDLVMQTTKAqTHDSESCLKEQSCLPLGGQSVWASLPPmS
+NgSTEHQKPIIMViASQDSASFFRDRSLGADSPISGLIALLTAVDALSHLHDLSNLKKQL
+VFAVFNGEAWGYLGSRKFLQELDEGADSVNGINSLMIDQVLEIGSVGKAIsqGYPLFYAH
+AsGNSSISKKILDALQSASkSLGSDNVKVKpAASSNPGVPPSSLMSFmRKNTSTSGVVLE
+DFDSqFSNRFYHSYLDNPANINSSSIAAAAALVARSLYILASADsvVDLMTLNTIKVNVS
+LVEELIGCLLTCDPGLSCGIVKSFISPSNSCPSHYVGVFQDsPSGTQFPSYADDTSRFVW
+NFLADRTSTLAGNKSSCTGKCgDEGEVCVGAEVEGGGRCVVSTTRYVPAYSTRLKFEDNA
+WHVLPANSSDPMGAADPVWTESYWNTIGLRVYAVQdtTYDWLILLAGLiITAASYcAVhV
+GRaYISKvtKRD
+
+
+BOP CONSENSUS:
+Length: 670 aa
+
+MAAGSAAPLLAAVACAVLVlLAPAVSGDAATLESVPDLVKAMYVNIESFPCVRLLNLSGE
+IGCSNPGHGLVIAPIVRFKNSdDQLAQPSAVLLPLDQMPAFFLRVSNDPELYHKVAGVLV
+ESNGDKLLELSPDRKFPQEDFAPYSNVSHDWNPAGSGIMWNRYDFPVFLLSEESTQTLRK
+IADKNEKSnNGYQANVAEFDLVMQTTKAETHGSESCLKEQSCLPLGGQSVWASLPPMSNA
+SaEHQKPIIMVVASQDSASFFRDRSLGADSPISGLIALLTAVDALSHLHDLGKLKKQLVF
+AAFDGEAWGYLGSRKFLQELDEGDDSVNGINSSMIEQVLEIGSVGKGISQGDTLFYAHAS
+RNSSISKKILDGLQSGSDSLGSDNVKVKPAASSNPGVPPSSLMSFMRKNTSTSGVVLEDF
+DSQFSNRFYHSHLDSPANINSSSIAAAAALVARSLYILATADMPVDLMTLNTIKVNVTLV
+EELIGCLLTCDPGLSCGIvKSFISPSNsCPSHYVGVFQDSPSSTQFPSYADDTSRFIWNF
+LADRTSTLAGNvSSCTGKCnNESEVCVGGEVEGGGRCVVSTTRYVPAYSTRLKFEDNAWH
+VLPANSSDPMGAADPVWTESYWNTIGLRVYAVQSTTSDRLILLAGLAVTAASYLGVvVGR
+aYISKITKRD
+
+
+PACMAD CONSENSUS:
+Length: 672 aa
+
+MAAGSAASLVAAAVCLALAVLAPAVSGDGATLESVPDLVKAMYLNIESFPCVRLLNLSGE
+IGCSNPGSEKVIAPIVRLRKGSDQLVQPSTVLLPLDQMSDFFLRVSNDPELHQKVAGVLI
+ESNGVNNDLQELSPDRKFPQDDFAPYSNHSHDWNPAGSGIMWNRYNFPVFLLSEESTrTL
+QKVSEKNEKTGNGYKANVAEFDLVMQTTKAQTHDSASCLKEQSCLPLGGHSVWASLPPLK
+NGSTEHQKPLILAITSQDSASFFRDRSLGSDSPISGLIALLTAVDALSHIHDLSNLKKQL
+VFAVFNGEAWGYLGSRKFLQELDEGADSVNGISSLMIDQVLEIGSVGKAILEEYPSFYVH
+AEGNSSASKKILDALQSASKSLGSDNVKVKQAASSNPGVPPSSLMSFIRKNTSTSGVVLE
+DFDSHFSNRFYHSYLDNPVNINSSSIAAAAALVARSLYILASDDSVVDLMTLNTIKVNVS
+LVEELIGCLLTCNPGLSCGLVKSFISPSNSCPSHYVGVFLDDPSGTQFPSYADDTSRFVW
+NFLADRTSTLAGNKSSCTGKCGDEGEVCVGAEVEGGGRCVVSTTRYVPAYSTRVKFEDNA
+WHVLPANSSDPMGAADPVWTESYWNTIGLRVYAVQDSTYDWLILLAGLSITAASYCAVHV
+GRtYISKVVKRD
+
+================================================================================

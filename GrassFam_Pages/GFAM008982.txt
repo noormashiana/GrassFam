@@ -1,0 +1,104 @@
+================================================================================
+GrassFam ID: GFAM008982
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             483.0 aa
+Family Size (Extended Family Size): 27 (28) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31549:SF118
+Panther Family ID:               PTHR31549
+Modal Panther ID:                PTHR31549:SF118
+Modal Panther Description:       DUF247 DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR31549
+Modal Panther Fam Desc:          PROTEIN, PUTATIVE (DUF247)-RELATED-RELATED
+Interpro Signature Accession:    PTHR31170; PF03140
+Interpro Signature Description:  BNAC04G53230D PROTEIN; Plant protein of unknown function
+
+
+REXdb Match:                     False
+REXdb Percentage:                3.70%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 4
+  Modal chromosome: Bdi02
+  Gene Products: UPF0481 protein At3g47200
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu02H
+  Gene Products: UPF0481 protein At3g47200-like
+Ata
+  Gene count: 5
+  Modal chromosome: Ata02D
+  Gene Products: UPF0481 protein At3g47200; UPF0481 protein At3g47200-like; uncharacterized LOC109747521
+Tae
+  Gene count: 10
+  Modal chromosome: Tae02A
+  Gene Products: UPF0481 protein At3g47200-like; uncharacterized LOC123056209
+Ola
+  Gene count: 2
+  Modal chromosome: Ola11
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu02
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi08K
+  Gene Products: uncharacterized LOC120645709
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: UPF0481 protein At3g47200-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 463 aa
+
+VEgWVVDMEKKLeDAEPPAKVeRWPKHCIFRVPlRFKmVDGmaSSVFKPQTVSLGPFHHD
+DKDLKPMEEHKLRAVRHLLrRdhSKlTLGELVAAVEeVADELEDAYMDLGDEWRGEENRG
+KFLEMMITDGCFLLEVMRtAsagGKgSIPKDYaHGDPVFSWHGIQHIKPFVQRDMLMVEN
+QLPLRLLekIVAVEeGtsPSaaSINSMVLKFLEREDAPEGTGLGLHPLDIYRTSRLKgts
+qiKsNrKvlHRGmPtTptakEvgvvRPqrVVPRSAWKLSEAGIRFlPSKTsCLDDIeLdN
+GRLYMPKVemDDSTAYRiHNMMAFEAMHVGTgNDVTAYVLFVKDLIDSADDVRLLvRKGI
+LEHDLADDDdAVVRLFNsLTRDVsKNWeSqLCrVRddVEhHYrsNhlRVFLYEsWAnLKn
+KYFrSPWTLLALVTAILLVVGDIVQAVYAVmSYDPnkgKPKmh
+
+
+BOP CONSENSUS:
+Length: 465 aa
+
+NVEgWVVDMEKKLEDAEPPAKVeRWPKHCIFRVPLRFKMKMVDGraSSVFKPQTVSLGPF
+HHDDKDLKPMEEHKLRAVRHLLhRdsSKlTLGeLVAAVEkVADELEDAYMDLGDEWRGEE
+NRGKFLEMMITDGCFLLEVMRTAigGKgSIPKDYeHGDPVFSWHGIQHIKPFVQRDMLMV
+ENQLPLRLLEkIVAVEeGTsPSaaSINSMVLKFLEREDAPEGTGLGLHPLDIYRTSRLKG
+tSQiKsNrKvLHRGmPtTptakEvgvvRPqrVVPRSAWKLSEAGIRFLPSKTsCLDDIeL
+hNGRLYMPKVeMDDSTAYRIHNMMAFEAMHVGTGNDVTAYVLFVKDLIDSADDVRLLvRK
+GILEHDLADDDdAVVRLFNsLTRDVSKNWkSqLCrVRdDVEHHYrSNhLRVFLYEsWSnL
+KsKYFRSPWTLLALVTAILLVVGDIVQAVYAViSYDPNkGKPKmh
+
+
+PACMAD CONSENSUS:
+Length: 465 aa
+
+MWVVDMQKtLDVAELPATvEKWPRHSIFRVPPRFRtVHGGVYKPQTVALGPFHHGDPDLR
+PMEEHKRRAVARLLRRAGRTLGELAAAVEEVAGELEDAYAGLGAEWRGENRGRFLEMMVA
+DGCFLLEVMRRrSrDYAPsDPVFSRHAvGHIAPFVQRDMLMVENQLPLLLLHRIVAVEGG
+KAPDESSINRLVLKFLGVDgDCAAGvGPRLGLHPLDLYRRSLLSNQyNHKTyCCyPtSTV
+GRAARmCQyLPtysETkqvPpvPRSrsRpPPLPPRSAQRLWEAGIRFIRSETGFLDDIEF
+DSGtRRLRMPrVALDDSTEYKFHNvMAFEALHGGAGSNDVTAFVLFMRDMVDSAGDVALL
+RREGVLWHDLAGSDWAVVRLFNRLTRDVAKTGESRLCAVRDrVEDYCNDSWRVFVFESWA
+KLRNTYLTSPWAFVALVVtIFLLGTDITQTAYAVMSYELTKHRHG
+
+================================================================================

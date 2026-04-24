@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM010330
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             445.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR42685:SF13
+Panther Family ID:               PTHR42685
+Modal Panther ID:                PTHR42685:SF13
+Modal Panther Description:       GERANYLGERANYL DIPHOSPHATE REDUCTASE
+Modal Panther Family ID:         PTHR42685
+Modal Panther Fam Desc:          GERANYLGERANYL DIPHOSPHATE REDUCTASE
+Interpro Signature Accession:    G3DSA:3.50.50.60:FF:000083; G3DSA:3.50.50.60; TIGR02028; TIGR02023; TIGR02032; PTHR42685; SSF51905
+Interpro Signature Description:  Geranylgeranyl diphosphate reductase; -; geranylgeranyl reductase; geranylgeranyl diphosphate reductase; geranylgeranyl reductase family protein; GERANYLGERANYL DIPHOSPHATE REDUCTASE; FAD/NAD(P)-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: geranylgeranyl diphosphate reductase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: geranylgeranyl diphosphate reductase%2C chloroplastic-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: geranylgeranyl diphosphate reductase%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: geranylgeranyl diphosphate reductase%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: uncharacterized LOC127773849
+  Gene Descriptions: uncharacterized LOC127773849
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4326207
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 1
+  Modal chromosome: Pau01
+  Gene Products: geranylgeranyl diphosphate reductase%2C chloroplastic-like
+  Gene Descriptions: geranylgeranyl diphosphate reductase%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: geranylgeranyl diphosphate reductase%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: geranylgeranyl diphosphate reductase%2C chloroplastic-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: geranylgeranyl diphosphate reductase%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: geranylgeranyl diphosphate reductase%2C chloroplastic-like
+  Gene Synonyms: GRMZM2G419111
+  Gene Descriptions: geranylgeranyl diphosphate reductase%2C chloroplastic-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 445 aa
+
+aMAAAaCHSPARLsISCSaSSSSSAPARPLRVAVVGGGPAGASAAEALASAGArAFLLER
+SPAGAKPCGGAIPLCMLDEFAIPRDLVDRRVTRMRVLSPSNLAADFSRALPPGAHIPMLR
+REVLDSFLRRRAADAGATLVPGLVTSLSLPAGPaDPYLVHYISSssGpgpGRsVLEVDAV
+VGADGANSRVAREVGAGDYSTAIAFQERIRLPDAAMAYYDDLAEMYVGGDVSPDFYGWVF
+PKCDHVAVGTGTVAAKPEIKRLQSGIRARAGPKIAGGRVVKVEAHPIPEHPRPRRVVGRV
+ALVGDAAGYVTRCSGEGIYFAAKSGRLCGQAMAEEWRrTGAVTEAGLRRGYLRRWDDEFL
+LMFRFLDLLQRVFYGGNAGREALVEMCADEYVQRRTFESYLyKRMVPGEPWGDLRLLWRT
+VASMVRCGVLGREVeRLRRLELQqA
+
+
+BOP CONSENSUS:
+Length: 446 aa
+
+MAMAAAVCHSPARLSISCSYSSSHSAPARPLRVAVVGGGPAGASAAEALASAGAQAFLLE
+RSPAGAKPCGGAIPLCMLDEFAIPLGLVDRRVTRMRVLSPSNLAADFSRALPPGAHIPML
+RREVLDSFLRTRAADAGATLVPGLVTSLSLPAGPTDPYLVHYISSGDGPSPTRSVLEVDA
+VVGADGANSRVAREVGAGDYSTAIAFQERIRLPDKAMEYYDDLAEMYVGGDVSPDFYGWV
+FPKCDHVAVGTGTVAAKPEIKKLQSGIRARAGPKIAGGRVIKVEAHPIPEHPRPRRVVGR
+VALVGDAAGYVTRCSGEGIYFAAKSGRLCGQAMAKEWRLTGAVTEGGIRRGYLRRWDDEF
+LLTFRFLDLLQRVFYGDNAGREALVEMCADEHVQRRTFDCYLHKRMAPGEPWADLQLLWR
+TAGSMVRCSVLGKEVQRLRRLELLQA
+
+
+PACMAD CONSENSUS:
+Length: 443 aa
+
+MAAAACYSPARIAISCSATtSSSAPARPLRVAVVGGGPAGASAAEALASAGARTFLLERS
+PAGAKPCGGAIPLCMLDEFAIPRDLVDRRVTRMRVVSPSNLAADFSRALPPGAHIPMLRR
+EVLDSFLRRRAAeAGAELVPGLVTSLSLPAGPADPYLVHYISSSsGeGaGRGVLEVDAVV
+GADGANSRVAREVGAGDYTTAIAFQERIRLPDAAMAYYDDLAEMYVGGDVSPDFYGWVFP
+KCDHVAVGTGTVAAKPEIKRLQSGIRARAGPKIAGGRVVKVEAHPIPEHPRPRRVVGRVA
+LVGDAAGYVTRCSGEGIYFAAKSGRLCGQAMAEEWARTGAVTEAGLRRGYLRRWDDEFLL
+MFRFLDLLQRVFYGGNAGREALVEMCADEYVQRRTFESYLYKRMVPGEPWGDLRLLWRTV
+ASMVRCGVIGREVERLRRLELQA
+
+================================================================================

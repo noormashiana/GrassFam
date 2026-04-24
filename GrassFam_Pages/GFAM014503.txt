@@ -1,0 +1,121 @@
+================================================================================
+GrassFam ID: GFAM014503
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             467.0 aa
+Family Size (Extended Family Size): 17 (18) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45621:SF43
+Panther Family ID:               PTHR45621
+Modal Panther ID:                PTHR45621:SF43
+Modal Panther Description:       OS04G0543000 PROTEIN
+Modal Panther Family ID:         PTHR45621
+Modal Panther Fam Desc:          OS01G0588500 PROTEIN-RELATED
+Interpro Signature Accession:    cd14066; G3DSA:1.10.510.10:FF:000240; G3DSA:1.10.510.10; G3DSA:3.30.200.20; PTHR45621; PF07714; SSF56112
+Interpro Signature Description:  STKc_IRAK; Lectin-domain containing receptor kinase A4.3; Transferase(Phosphotransferase) domain 1; Phosphorylase Kinase; domain 1; OS01G0588500 PROTEIN-RELATED; Protein tyrosine and serine/threonine kinase; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: probable serine/threonine-protein kinase PBL19
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: probable serine/threonine-protein kinase PBL19
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: probable serine/threonine-protein kinase PBL19; probable serine/threonine-protein kinase PBL19%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: probable serine/threonine-protein kinase PBL19
+  Gene Descriptions: probable serine/threonine-protein kinase PBL19
+Osa
+  Gene count: 2
+  Modal chromosome: Osa04
+  Gene Products: probable serine/threonine-protein kinase PBL19; probable serine/threonine-protein kinase PBL19%2C transcript variant X1
+  Gene Descriptions: probable serine/threonine-protein kinase PBL19
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 1
+  Modal chromosome: Pau13
+  Gene Products: probable serine/threonine-protein kinase PBL19
+  Gene Descriptions: probable serine/threonine-protein kinase PBL19
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Msi
+  Gene count: 1
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: probable serine/threonine-protein kinase PBL19
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: probable serine/threonine-protein kinase PBL19
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 465 aa
+
+MGCLrLFrDRwRSKRRPEatAPAPApsayAAVSTEArSsASVPAAAASfASSAcATStSE
+ASGARPAASKSSGSgSSARSIPELYEERGArsLREFGLRELRgATrDFSPLLMVGEGGFG
+CVYRGVLRLPGGgPHGTPVAVKRLNPNGRQGHKEWLAEVHFLGVVEHPNLVKLVGYCAsQ
+TDRGPQRLLVYEFMPNKTLDDHLFNRAHPVLPWDVRLQIALGAAEGLLYLHEGLELQIIY
+RDFKASNVLLDEEFRPKLSDFGLAREGPSEGQTHVSTAVMGTYGYAAPDYVQTGHLTTKS
+DVWSFGVVLYEILTARRSIERNRPKNEQKLLEWVRRHPAeSEQFGEIMDARLEGRYSMRG
+AREVAKLANGCLAKHAKDRPTMrEVVERLRQAMRHtELDGvVvAaeqgSSpLhEAPtTPp
+aEDAaAAAvAARRRMLHLAALGENAnAHARRRLMLMRAAAAAtPT
+
+
+BOP CONSENSUS:
+Length: 467 aa
+
+MGCLCLFRDKWRRKRRPEsSAPASQAAAASyYAACTtPasHnVSVPAAAASTASPACSAT
+ATSTSDGSGARPASSKSLGSSARSIPELYGERGAhSLREFGLRELRGATADFSPLLMVGm
+GGFGCVYRGALRLPGGNPHGTAVAVKRLNPNGGQGHKEWLAEVQFLGIVEHPNLVKLVGY
+CATQTDQGPQRLLVYEFMPNKTLDDHLFNPEHPVLPWDVRLQVALGAAEGLLYLHEGLEL
+QIIYRDFKAANILLDEEFRPKLSDFGLAREGPSEGQTHVSTAVMGTYGYAAPDYVQTGHL
+TTKSDVWSFGVVMYEILTARRSVEKKRPKNEQKLLEWVRRHPADSEQFGeIIDTRLEGRY
+SMRGAREIAKLANSCLAKYAKDRPtMvEVVERLKLAMQHKELDGqDVRSvEESSLLHEAP
+TTPPMEDEAAVSARRRMLHLAALGENANAHARRRLMLMRAAAPRTcT
+
+
+PACMAD CONSENSUS:
+Length: 474 aa
+
+MGCLRLFhGRskSCKRRPeAtAPAPAPAASSTVSTEARSsASAPAASASFASSSANVSEA
+SGARPAASGSGSGSGSASSARSIPELYEERGARLREFGLRELRVATRDFSPLLMVGEGGF
+GCVYRGVLRLPGGGPDGTPVAVKRLNPNGRQGHKEWLAEVHFLGVVEHRNLVKLIGFCAS
+ETDRGPQRLLVYEFMPNKTLDDHLFNRAYPVLPWEVRLQIALGAAEGLLYLHEGLELQII
+YRDFKASNVLLDEEFRPKLSDFGLAREGPSEGQTHVSTAVMGTFGYAAPDYVQTGHLTTK
+SDVWSFGVVLYEILTARRSIERNRPRNEQKLLDWVRRHPPESeQFGEIMDARLQGRYPtR
+GAREVAKLANGCLAKHArDRPTMREVVEgLRQAMRHTEMDGVVDAAeECQGSPPrdEeeA
+tPGAEDAsASAVAaAAEARKRRMLHLAALGGAADAHARRRLMLMRAAAAAAAPT
+
+================================================================================

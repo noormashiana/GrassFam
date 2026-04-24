@@ -1,0 +1,146 @@
+================================================================================
+GrassFam ID: GFAM020627
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             663.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR21780:SF0
+Panther Family ID:               PTHR21780
+Modal Panther ID:                PTHR21780:SF0
+Modal Panther Description:       TRANSMEMBRANE PROTEIN 209
+Modal Panther Family ID:         PTHR21780
+Modal Panther Fam Desc:          TRANSMEMBRANE PROTEIN 209
+Interpro Signature Accession:    PTHR21780; PF09786
+Interpro Signature Description:  TRANSMEMBRANE PROTEIN 209; Cytochrome B561, N terminal
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: transmembrane protein 209
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: transmembrane protein 209
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: transmembrane protein 209
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: transmembrane protein 209-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: uncharacterized LOC127767161
+  Gene Descriptions: uncharacterized LOC127767161
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4332493
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau04
+  Gene Products: uncharacterized LOC133916336
+  Gene Descriptions: uncharacterized LOC133916336
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: transmembrane protein 209-like; transmembrane protein 209-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: transmembrane protein 209
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: transmembrane protein 209
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: uncharacterized LOC100279033
+  Gene Synonyms: cl59287_1,GRMZM2G154316
+  Gene Descriptions: uncharacterized LOC100279033
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 665 aa
+
+MEFqHGGSPGGGGGGKARDKFSVYQNPSLTRALASRSARPSLPVLLLLAlsPIASASSLL
+ALSSREgQLfKVAGRAGlSvaAAVFVFRLVEAALGLVALFTLPAFFRALMLYNGKKALAK
+EDKVVLSERQLGLLGLKTTGSEGGGMGEQTKRPPKAKPSTPSEPIVPIRRSSFSYTPSRp
+LGQSRIGSSHLSPGGERLTTALQMSPSTPLQKPVSSPSTPWSRKSSGSAKGIQTEAMLDQ
+FLAgLDENIDkITDSAtKTATPPATITSFGVASPVSVTTSTTPSGAARSTPLRPVRMSPG
+SHQKYSTPPKKGEGELPPPMSLEQAVEAFENLGVYPEIEQWRDNLRQWFSSVLMNPLVQK
+IKTSHIQVKQTTATVGASVTVSQVGSDLPSTTPPVSLSPLGGTKDWQPTVTVDEDGILNQ
+LRsALLHSRDAPVAQTFGSPQQPQsNPLLPAIQACIDAITEHQRLNTLMKGELIKGLLPQ
+SSVRADYTVQRVQELAEGTCLKNYDYMGHGDGYGKSEKKWTSELPTDSHLLLYLFAAFLE
+HPKWMLHVDPTSYSGAQSSKNPLFLGVLPPKERFPEKYVALISGVPAIIHPGALILAVGK
+QSPPIFALYWDKKLQFSLQGRTALWDAILLLCHQINVGYGGVVRGIHIGSSALNILSVLD
+SDMES
+
+
+BOP CONSENSUS:
+Length: 663 aa
+
+MEFRHGGSPGGGGGDGKPREKFSVYQNPSLTRALASRSVRPSLPVLLLLALSPIASASSL
+MALSSREGQLFKVAGRAGLSMAAVVFVVRLVEAALGLVALLTLPAFFRALMLYNGkKALA
+KEDKVVLSERQLGLLGLKTTGSEGSPMGEQTKKPPKAKPSTPSEPIVPIRRSSFSYTPSR
+VQPRIGSSHLSPGSERLTTLQMSPSTPLQKPVSSPSTPWSRKSSGSAKGIQTEAMLDQFL
+ATLDENIDNVTDSASKTATPPATITSFGIASPVSVTTSTTPSGATRSTPLRPVRMSPGSH
+QKYSTPPKKGEGELPPPMSLEQAVDAFENLGVYPEIEQWRNNLRQWFSSVLMNPLVQKIK
+SSHIQVKQTTASIGASVNVSQVGSDLPSTTPPVSLSPLGGTKDWQPTVTVDEDGILNQMR
+aALLQSRNAPVAQTFGSPQQPQSNPLLPAIQACIDAITEHQRLNALMKGELIKGLLPQSS
+VRADYTVHRVQELAEGTCLKNYDYMGYRDGYGKSEKKWTSELPTDSHLLLYLFAAFLEHP
+KWMLHVDPTSYSGAQSSKNPLFLGVLPPKERFPEKYVALISGVPAIIHPGALVLAVGKQS
+PPVFALYWDKKLQFSLQGRTALWDAILLLCHQINVGYGGIVRGTHIGSSALNILSVLDSD
+MES
+
+
+PACMAD CONSENSUS:
+Length: 659 aa
+
+MGSQHGGGGKARDMFSVYQNPSLTRALDSRSARPSVtVLLVLAVLPVASASSLLALSSRE
+EQLaKlAGRAGISVlAAVFVFRLVEAALGLVALFTLLgFFRALMLYNGKKALAKDDKVVL
+SERQLGLLGLKtAGSEGGGMGEQTKRPPKTKPSTPSEPIVPIRRSSFSYTPSRPLGQSRI
+GSSHLSPGGERLTTALQMSPSTPLQKSVSSPSTPWSRKSSGSAKGIQTEAMLDQFLAGLD
+ENIDKITDSETKTtTPPATITSFGVATPVSiTTSTTPSGAARSTPLRPVRMSPGSHQKYS
+TPPKKGEGELPPPMSLEQAVEAFENLGVYPEIEQWRDSLRQWFSSVVMNPLVQKIKTSHT
+QVKQTTATVGASVTVSQVGSDLPSTTPPVsLSPLGGTKDWQPTVTVDEDGILNQLRSALL
+HSRDAPVAQTFGSPQQPQqNPLLPAIQACIDAITEHQRLNTLMKGELIKGLLPQSSVRAD
+YTVQRVQELAEGTCLKNYDYMGHGNGYGKSEKKWTSELPTDSHLLLYLFAAFLEHPKWML
+HVDPTSYSGAQSSKNPLFLGVLPPKERFPEKYVALISGVPAIIHPGALILAVSKQSPPIF
+ALYWDKKqQFSLQGRTALWDAILLLCHQINVGYGGVVRGIHIGSSALNLLSVIDSDsES
+
+================================================================================

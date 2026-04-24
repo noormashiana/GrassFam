@@ -1,0 +1,148 @@
+================================================================================
+GrassFam ID: GFAM017145
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             713.0 aa
+Family Size (Extended Family Size): 47 (55) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10362:SF34
+Panther Family ID:               PTHR10362
+Modal Panther ID:                PTHR10362:SF34
+Modal Panther Description:       PHENYLALANINE AMMONIA-LYASE
+Modal Panther Family ID:         PTHR10362
+Modal Panther Fam Desc:          HISTIDINE AMMONIA-LYASE
+Interpro Signature Accession:    cd00332; G3DSA:1.20.200.10:FF:000009; G3DSA:1.10.275.10:FF:000009; G3DSA:1.10.274.20:FF:000001; G3DSA:1.10.275.10; G3DSA:1.20.200.10; G3DSA:1.10.274.20; TIGR01226; PTHR10362; PF00221; SSF48557
+Interpro Signature Description:  PAL-HAL; Phenylalanine ammonia-lyase; -; Fumarase/aspartase (Central domain); phenylalanine ammonia-lyase; HISTIDINE AMMONIA-LYASE; Aromatic amino acid lyase; L-aspartase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 5
+  Modal chromosome: Bdi03
+  Gene Products: phenylalanine ammonia-lyase
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: phenylalanine ammonia-lyase
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: phenylalanine ammonia-lyase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: phenylalanine ammonia-lyase; phenylalanine ammonia-lyase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 3
+  Modal chromosome: Ogl02
+  Gene Products: phenylalanine ammonia-lyase; phenylalanine ammonia-lyase-like
+  Gene Descriptions: phenylalanine ammonia-lyase; phenylalanine ammonia-lyase-like
+Osa
+  Gene count: 3
+  Modal chromosome: Osa02
+  Gene Products: phenylalanine ammonia-lyase; phenylalanine ammonia-lyase-like
+  Gene Synonyms: OsJ_007359,PAL06,ZB8
+  Gene Descriptions: phenylalanine ammonia-lyase; phenylalanine ammonia-lyase-like
+Ecu
+  Gene count: 3
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 3
+  Modal chromosome: Pau06
+  Gene Products: phenylalanine ammonia-lyase-like
+  Gene Descriptions: phenylalanine ammonia-lyase-like
+Svi
+  Gene count: 3
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi01N
+  Gene Products: phenylalanine ammonia-lyase; phenylalanine ammonia-lyase-like
+Pha
+  Gene count: 4
+  Modal chromosome: Pha01
+  Gene Products: phenylalanine ammonia-lyase; phenylalanine ammonia-lyase-like
+Msi
+  Gene count: 5
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi04
+  Gene Products: phenylalanine ammonia-lyase
+Zma
+  Gene count: 3
+  Modal chromosome: Zma05
+  Gene Products: phenylalanine ammonia-lyase
+  Gene Synonyms: GRMZM2G063917; GRMZM2G170692
+  Gene Descriptions: phenylalanine ammonia-lyase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 713 aa
+
+MECENGrVAANGDgLCMATPRADPLNWGKAAEELMGSHLDEVKRMVAEYRQPLVKIEGAS
+LRIAQVAAVAAGAGEARVELDESARERVKASSDWVMNSMMNGTDSYGVTTGFGATSHRRT
+KEGGALQRELIRFLNAGAFGTGTDGHVLPAEATRAAMLVRINTLLQGYSGIRFEILEAIV
+KLLNANVTPCLPLRGTVTASGDLVPLSYIAGLVTGRENSVAVAPDGtKVNAAEAFKIAGI
+QGGFFELQPKEGLAMVNGTAVGSGLASTVLFEANILAILAEVLSAVFCEVMNGKPEYTDH
+LTHKLKHHPGQIEAAAIMEHILEGSSYMKLAKKLGELDPLMKPKQDRYALRTSPQWLGPQ
+IEVIRAATKSIEREINSVNDNPLIDVSRSKALHGGNFQGTPIGVSMDNTRLAIAAIGKLM
+FAQFSELVNDYYNNGLPSNLSGGRNPSLDYGFKGAEIAMASYCSELQFLGNPVTNHVQSA
+EQHNQDVNSLGLISSRKTAEAIEILKLMSSTFLIALCQAVDLRHIEENVKSAVKSCVMTV
+AKKTLSTNSTGGLHVARFCEKDLLQEIEREAVFAYADDPCSANYPLMKKLRNVLVERALA
+NGaAEFNAETSVFAKVAQFEEELRAALPKAVEAARAAVENGTAAIPNRITECRSYPLYRF
+VREELGAVYLTGEKTRSPGEELNKVLVAINQGKHIDPLLECLKEWNGEPLPIC
+
+
+BOP CONSENSUS:
+Length: 712 aa
+
+MECENGqVAANGNGLCMAaQHADPLNWGKAAEELTGSHLDEVKRMVAEYRQPVVTIEGAS
+LSIAKVAAVAAAGEAkVELDESARERVKASSDWVMNSMMNGTDSYGVTTGFGATSHRRTK
+EGGALQRELIRFLNAGAFGTGSDGHVLPAgATRAAMLVRINTLLQGYSGIRFEILEAIAK
+LLNANVTPCLPLRGTITASGDLVPLSYIAGLVTGRENSVAVAPDGsKVNAAEAFKIAGIH
+GGFFELQPKEGLAMVNGTAVGSGLASTVLFEANILAVLAEVISAVFCEVMNGKPEFTDHL
+THKLKHHPGQIEAAAIMEHILEGSSYMKLAKKLGDLDPLMKPKQDRYALRTSPQWLGPQI
+EVIRAATKSIEREINSVNDNPLIDVSRGKAIHGGNFQGTPIGVSMDNTRLAIAAIGKLMF
+AQFSELVNDFYNNGLPSNLSGGRNPSLDYGFKGAEIAMASYCSELQFLGNPVTNHVQSAE
+QHNQDVNSLGLISSRKTAEAIEILKLMSSTFLVALCQAIDLRHIEENVKSAVKSCVMTVA
+KKTLSTNSTGGLHVARFCEKDLLQEIDREAVFAYADDPCSpNYPLMKKLRGVLVERALAN
+GmAEFDAETSVFAKVAqFEEELRatLPpAVEAARAAVESGTAatPNRITECRSYPLYRFV
+REELGTVYLTGEKTRSPGEELNKVLVAINQGKHIDPLLECLKEWNGEPLPIC
+
+
+PACMAD CONSENSUS:
+Length: 714 aa
+
+MECENGRVAATNGDgLCMATPRADPLNWGKAAEELMGSHLDEVKRMVAEYRQPLVKIEGA
+SLRIAQVAAVAAGAGEARVELDESAReRVKASSDWVMNSMMNGTDSYGVTTGFGATSHRR
+TKEGGALQRELIRFLNAGAFGTGTDGHVLPAEATRAAMLVRINTLLQGYSGIRFEILEAI
+VKLLNANVTPCLPLRGTVTASGDLVPLSYIAGLVTGRENSVAVAPDGTKVNAAEAFKIAG
+IQGGFFELQPKEGLAMVNGTAVGSGLASTVLFEANILAILAEVLSAVFCEVMNGKPEYTD
+HLTHKLKHHPGQIEAAAIMEHILEGSSYMKLAKKLGELDPLMKPKQDRYALRTSPQWLGP
+QIEVIRAATKSIEREINSVNDNPLIDVARSKALHGGNFQGTPIGVSMDNTRLAIAAIGKL
+MFAQFSELVNDYYNNGLPSNLSGGRNPSLDYGFKGAEIAMASYCSELQFLGNPVTNHVQS
+AEQHNQDVNSLGLISSRKTAEAIEILKLMSSTFLIALCQAVDLRHIEENVKSAVKSCVMT
+VAKKTLSTNSTGGLHVARFCEKDLLQEIEREAVFAYADDPCSANYPLMKKLRNVLVERAL
+ANGAAEFNAETSVFAKVAQFEEELRAALPKAVEAARAAVENGTAAIPNRItECRSYPLYR
+FVREELGAVYLTGEKTRSPGEELNKVLVAINQGKHIDPLLECLKEWNGEPLPIC
+
+================================================================================

@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM009309
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             446.0 aa
+Family Size (Extended Family Size): 25 (31) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11902:SF31
+Panther Family ID:               PTHR11902
+Modal Panther ID:                PTHR11902:SF31
+Modal Panther Description:       ENOLASE 1
+Modal Panther Family ID:         PTHR11902
+Modal Panther Fam Desc:          ENOLASE
+Interpro Signature Accession:    cd03313; G3DSA:3.30.390.10:FF:000001; G3DSA:3.20.20.120:FF:000002; G3DSA:3.30.390.10; G3DSA:3.20.20.120; TIGR01060; PTHR11902; PIRSF001400; PR00148; PF00113; PF03952; SFLDF00002; SFLDS00001; SM01193; SM01192; SSF51604; SSF54826
+Interpro Signature Description:  enolase; Enolase; Enolase 1; -; phosphopyruvate hydratase; ENOLASE; Enolase signature; Enolase, C-terminal TIM barrel domain; Enolase, N-terminal domain; Enolase_N_3; Enolase_C_3; Enolase C-terminal domain-like; Enolase N-terminal domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: enolase 1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: enolase 1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: enolase 1%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: enolase 1; enolase 1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: enolase 1
+  Gene Descriptions: enolase 1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: enolase 1
+  Gene Descriptions: enolase 1
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau10
+  Gene Products: enolase 1
+  Gene Descriptions: enolase 1
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi04K
+  Gene Products: enolase 1; enolase 1-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha04
+  Gene Products: enolase 1; enolase 1-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi10
+  Gene Products: enolase 1; enolase 1-like
+Zma
+  Gene count: 2
+  Modal chromosome: Zma06
+  Gene Products: enolase 1; enolase 1-like
+  Gene Synonyms: eno1,GRMZM2G064302,pENO1,Pgh1
+  Gene Descriptions: enolase 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 446 aa
+
+MAVTIqSVKARQIFDSRGNPTVEVDVGLSDGSFARGAVPSGASTGIYEALELRDGGSDYL
+GKGVLKAVSNVNsIIGPAIIGKDPTEQVDIDNFMVQQLDGTSNEWGWCKQKLGANAILAV
+SLAVCKAGAMVKKIPLYQHIANLAGNKTLVLPVPAFNVINGGSHAGNKLAMQEFMILPTG
+ASSFKEAMKMGVEVYHNLKSIIKKKYGQDATNVGDEGGFAPNIQENKEGLELLKAAIEKA
+GYTGKVVIGMDVAASEFFSEKDKTYDLNFKEDNNDGSnKISGDSLKDLYKSFVSEYPIVS
+IEDPFDQDDWaTYAKLTDEIGQQVQIVGDDLLVTNPTRVAKAISEKTCNALLLKVNQIGS
+VTESIEAVRMSKRAGWGVMASHRSGETEDTFIADLSVGLATGQIKTGAPCRSERLAKYNQ
+LLRIEEELGDAAVYAGAKFRAPVEPY
+
+
+BOP CONSENSUS:
+Length: 448 aa
+
+MaaAVTIQSVKARQIFDSRGNPTVEVDIGLSDGSFARGAVPSGASTGIYEALELRDGGSD
+YLGKGVLKAVSNVNAIIGPALIGKDPTEQVDIDNFMVQQLDGTSNEWGWCKQKLGANAIL
+AVSLAVCKAGAMVKKIPLYQHIANLAGNKTLVLPVPAFNVINGGSHAGNKLAMQEFMILP
+TGASSFKEAMKMGVEVYHHLKSIIKKKYGQDATNVGDEGGFAPNIQENKEGLELLKAAIA
+KAGYTGKVVIGMDVAASEFYSEKDQTYDLNFKEDNNDGSHKISGDSLKDLYKSFVSEYPI
+VSIEDPFDQDDWATYAKMTgEIGQQVQIVGDDLLVTNPTRVAKAISEKTCNALLLKVNQI
+GSVTESIEAVSMSKRAGWGVMASHRSGETEDTFIADLSVGLATGQIKTGAPCRSERLAKY
+NQLLRIEEELGDAAVYAGANFRAPVEPY
+
+
+PACMAD CONSENSUS:
+Length: 446 aa
+
+MAVTITSVKARQIFDSRGNPTVEVDVGLSDGSFARGAVPSGASTGIYEALELRDGGSDYL
+GKGVLKAVsNVNSIIGPAIVGKDPTEQVDIDNFMVQQLDGTSNEWGWCKQKLGANAILAV
+SLAVCKAGAMVKKIPLYQHIANLAGNKTLVLPVPAFNVINGGSHAGNKLAMQEFMILPTG
+ASSFKEAMKMGVEVYHNLKSIIKKKYGQDATNVGDEGGFAPNIQENKEGLELLKAAIEKA
+GYTGKVVIGMDVAASEFFSEKDKTYDLNFKEENNDGSNKISGDSLKDLYKSFVSEYPIVS
+IEDPFDQDDWSTYAKLTDEIGQQVQIVGDDLLVTNPTRVAKAINEKTCNALLLKVNQIGS
+VTESIEAVRMSKRAGWGVMASHRSGETEDTFIADLSVGLATGQIKTGAPCRSERLAKYNQ
+LLRIEEELGAAAVYAGAKFRAPVEPY
+
+================================================================================

@@ -1,0 +1,131 @@
+================================================================================
+GrassFam ID: GFAM003048
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             377.0 aa
+Family Size (Extended Family Size): 35 (37) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR42938:SF26
+Panther Family ID:               PTHR42938
+Modal Panther ID:                PTHR42938:SF26
+Modal Panther Description:       FORMATE DEHYDROGENASE, MITOCHONDRIAL
+Modal Panther Family ID:         PTHR42938
+Modal Panther Fam Desc:          FORMATE DEHYDROGENASE 1
+Interpro Signature Accession:    cd05302; G3DSA:3.40.50.720:FF:000057; G3DSA:3.40.50.720:FF:001366; G3DSA:3.40.50.720; NF005750; PTHR42938; PF02826; SSF52283; SSF51735
+Interpro Signature Description:  FDH; Formate dehydrogenase; Formate dehydrogenase chloroplastic/mitochondrial; -; NAD-dependent formate dehydrogenase; FORMATE DEHYDROGENASE 1; D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain; Formate/glycerate dehydrogenase catalytic domain-like; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                2.86%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: formate dehydrogenase%2C mitochondrial
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: formate dehydrogenase%2C mitochondrial
+Ata
+  Gene count: 3
+  Modal chromosome: Ata04D
+  Gene Products: formate dehydrogenase 2%2C mitochondrial; formate dehydrogenase%2C mitochondrial; formate dehydrogenase%2C mitochondrial-like%2C transcript variant X1
+Tae
+  Gene count: 6
+  Modal chromosome: Tae04D
+  Gene Products: formate dehydrogenase 2%2C mitochondrial-like; formate dehydrogenase%2C mitochondrial; formate dehydrogenase%2C mitochondrial-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: formate dehydrogenase 1%2C mitochondrial%2C transcript variant X2
+  Gene Descriptions: formate dehydrogenase 1%2C mitochondrial
+Osa
+  Gene count: 2
+  Modal chromosome: Osa06
+  Gene Products: formate dehydrogenase 1%2C mitochondrial-like; formate dehydrogenase 2%2C mitochondrial-like
+  Gene Synonyms: OsJ_21395; P0404G03.8
+  Gene Descriptions: formate dehydrogenase 1%2C mitochondrial-like; formate dehydrogenase 2%2C mitochondrial-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau10
+  Gene Products: formate dehydrogenase%2C mitochondrial
+  Gene Descriptions: formate dehydrogenase%2C mitochondrial
+Svi
+  Gene count: 2
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: formate dehydrogenase 1%2C mitochondrial; formate dehydrogenase 1%2C mitochondrial-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: formate dehydrogenase 1%2C mitochondrial
+Msi
+  Gene count: 3
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi04
+  Gene Products: formate dehydrogenase 1%2C mitochondrial; formate dehydrogenase 2%2C mitochondrial
+Zma
+  Gene count: 6
+  Modal chromosome: Zma05
+  Gene Products: formate dehydrogenase 1%2C mitochondrial; formate dehydrogenase 2; formate dehydrogenase 2%2C mitochondrial
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 376 aa
+
+MAMWRAAARQLVDRALGSRAAHTSAGSKKIVGVFYKAGEYADKNPNFVGCVEGALGIRdW
+LESQGHHYIVTDDKEGpNSELEKHIEDMHVLITTPFHPAYVTAERIKKAKNLELLLTAGI
+GSDHIDLPAAAAAGLTVAEVTGSNTVSVAEDELMRILILLRNFLPGYQQVVQGEWNVAGI
+AHRAYDLEGKTVGTVGAGRIGRLLLQRLKPFNCNLLYHDRLQINPELEKEIGAKFEEDLD
+AMLPKCDVIVINTPLTEKTRGMFNKERIAKMKKGVIIVNNARGAIMDTQAVADACSSGHI
+AGYGGDVWFPQPAPKDHPWRYMPNHAMTPHISGTTIDAQLRYAAGVKDMLDRYFKGEDFP
+VQNYIVKEGqLASQYQ
+
+
+BOP CONSENSUS:
+Length: 377 aa
+
+MAAMCRAAARQLVDRAVGSRAAHTSAGSKKIVGVFYQAGEYADKNPNFVGCVEGALGIRD
+WLESKGHHYIVTDDKEGLNSELEKHIEDMHVLITTPFHPAYVTAERIKKAKNLELLLTAG
+IGSDHIDLPAAAAAGLTVAEVTGSNTVSVAEDELMRILILLRNFLPGYQQVVKGEWNVAG
+IAHRAYDLEGKTVGTVGAGRIGRLLLQRLKPFNCNLLYHDRLQINPELEKEIGAKFEEDL
+DAMLPKCDVIVINTPLTEKTRGMFNKEKIAKMKKGVIIVNNARGAIMDTQAVADACSSGH
+IAGYGGDVWFPQPAPKDHPWRYMPNHAMTPHISGTTIDAQLRYAAGVKDMLDRYFKGEDF
+PAENYIVKEGELASQYK
+
+
+PACMAD CONSENSUS:
+Length: 376 aa
+
+MAMWRAAARQLVDRALGSRAAHTSAGSKKIVGVFYKAGEYADKNPNFVGCVEGALGIRnW
+LESQGHHYIVTDDKEGPNSELEKHIEDMHVLITTPFHPAYVTAERIKKAKNLELLLTAGI
+GSDHIDLPAAAAAGLTVAEVTGSNTVSVAEDELLRILILLRNFLPGYQQVVQGEWNVAGI
+AHRAYDLEGKTVGTVGAGRIGRLLLQRLKPFNCNLLYHDRLQIDPELEKEIGAKFEEDLD
+AMLPKCDVIVINTPLTEKTRGMFNKERIAKMKKGVIVVNNARGAIMDTQAVADACSSGHI
+AGYGGDVWFPQPAPKDHPWRYMPNHAMTPHISGTTIDAQLRYAEGVRDMLDRYFKGEDFP
+VQNYIVKEGQLASQYQ
+
+================================================================================

@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM008313
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             462.0 aa
+Family Size (Extended Family Size): 24 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10177:SF202
+Panther Family ID:               PTHR10177
+Modal Panther ID:                PTHR10177:SF202
+Modal Panther Description:       CYCLIN-SDS
+Modal Panther Family ID:         PTHR10177
+Modal Panther Fam Desc:          CYCLINS
+Interpro Signature Accession:    G3DSA:1.10.472.10:FF:000100; G3DSA:1.10.472.10:FF:000106; PTHR10177; SSF47954
+Interpro Signature Description:  Cyclin-SDS; CYCLINS; Cyclin-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: cyclin-SDS-like%2C transcript variant X4
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: cyclin-SDS-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata04D
+  Gene Products: cyclin-SDS-like
+Tae
+  Gene count: 4
+  Modal chromosome: Tae04D
+  Gene Products: cyclin-SDS-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: cyclin-SDS-like%2C transcript variant X6
+  Gene Descriptions: cyclin-SDS-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: cyclin-SDS-like%2C transcript variant 1
+  Gene Synonyms: OsJ_09984,OsSDS,SDS
+  Gene Descriptions: cyclin-SDS-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: cyclin-SDS-like%2C transcript variant X1; cyclin-SDS-like%2C transcript variant X2
+  Gene Descriptions: cyclin-SDS-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: cyclin-SDS-like; cyclin-SDS-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: cyclin-SDS-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: cyclin-SDS-like
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: cyclin%2C N-terminal domain containing protein%2C transcript variant X5; cyclin-SDS-like
+  Gene Synonyms: Cyclin-SDS,GRMZM2G093157
+  Gene Descriptions: cyclin%2C N-terminal domain containing protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 456 aa
+
+MPPTMLAPVPTRPRSNPFRRRRGAAPLLPDQIAAAAAGKRPAESSTSASSCFySEVISTS
+STSLAAAQRPEKRPRRQDaDEARPAGSECSEVIGGARARPAEVEASESSCLGSVLESDLA
+CPEQLADDAEATEYSSACDELTPSEpEEEEVLSGPSrCaDYSLSPLlDSPsTsDDDDDAA
+PSaTFSLFLDFAKQFVPCVHPKAhAVtDaALDLLeGKRFEDLDDEESYERFRRRERRGVV
+ARDYTEVYsSMPGSYGRLVVEQRVVMVNWIIEHSHvMKLQPeTvFMGIGLMDRFLTRGYm
+KGlRNLQLLGIACITLATRIEENQPYNCVLQKtFKVGINtYSRSEVVAMEWLVQEVLNFQ
+CFVTTTHHFLWFYLKAAKADDKVEDLAKYLALLSLLDHKqLSFWPSTVAAAVVALACLAT
+DKESSCHLVMETHMRTKDDDLPECLMSLEWLINYAS
+
+
+BOP CONSENSUS:
+Length: 463 aa
+
+MPPTMLAPVPTRPRSHPFRRRRDAAAPLPAQIAAAMAGKRPAESSTSASSSFRSEVVSTT
+TATSSAALAAAQRPEKRPRRQDSGEARPAASECSEVIGGATARPAEVEASESSCLRSVLH
+PDLACPELLADDAEATEYSSACDELTQSDAEEEVLSAPSPCTDYSLSPLLDTSSSSSSED
+DDDDDgAPPSYTFSLFLDYAKQFVPCVQHKAHAVADAVPIPEWKQFDDLEDEESYEQFRR
+RERRGVVACDYTEVYASMsGNcGRHVVEQRSVMVNWIIEHGHVTELQPETLFLGIGLMDR
+FLTRGYLKGSRNVQLLGIACITLATRIEENQPYNSIMQKSFmVGINLYSRSEVVAMEWLV
+QEVLDFQCFVTTVHNFLWFYLKAAKADDKVEDLAKHLALLTLLDHKHLSYWPSTVAASVV
+ALACLATDKESSCHRVMETHSRTKDDDLPECLMSLEWLINYAS
+
+
+PACMAD CONSENSUS:
+Length: 454 aa
+
+MPPTMLAPVPTRPRSNPFRRRRGAAPLLLDQTAAAAAKRPAESSTSASSCFYSEVISnSS
+TSLAAYQRPEKRPRRQDADEARPAGSECSEVIGGARVRPAEVEASESSCLGSVLESDLAC
+PEQLADdAEATEYSSACDELTPSEPDEEEVLSGPsRCAeYSLSPLISSPLTEDDnDDAPS
+ATFSLFLDFAKQFVPCVHPKARAVTsAALDLLTGRRFEDLDDEESYERFRRRERREAVAR
+DYTEVYSSMPGSYGPLVVEQRVVMVNWIIEHSrLMKLQPVTMFMGIGLMDRFLTQGYMKG
+LRNLQLLGIACITLATRIEENQPYNCVLQKTFKVGINTYSRSEVVAMEWLVQEVLNFKCF
+VTTTHHFLWFYLKAAKADDRVADLANYLALLSLLNHKQLSFWPSTVAAAVVALACLATDK
+ESSCHLVMETHMRTQDDDLPECLMSLEWLInYvS
+
+================================================================================

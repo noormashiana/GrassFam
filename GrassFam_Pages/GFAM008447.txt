@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM008447
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             468.0 aa
+Family Size (Extended Family Size): 38 (44) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24286:SF169
+Panther Family ID:               PTHR24286
+Modal Panther ID:                PTHR24286:SF169
+Modal Panther Description:       CYTOCHROME P450 85A1
+Modal Panther Family ID:         PTHR24286
+Modal Panther Fam Desc:          CYTOCHROME P450 26
+Interpro Signature Accession:    cd11043; G3DSA:1.10.630.10:FF:000045; G3DSA:1.10.630.10; PTHR24286; PF00067; SSF48264
+Interpro Signature Description:  CYP90-like; Cytochrome P450 85A1; Cytochrome P450; CYTOCHROME P450 26
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: cytochrome P450 85A1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu02H
+  Gene Products: cytochrome P450 85A1-like
+Ata
+  Gene count: 5
+  Modal chromosome: Ata02D
+  Gene Products: cytochrome P450 85A1; cytochrome P450 85A1-like
+Tae
+  Gene count: 13
+  Modal chromosome: Tae02D
+  Gene Products: cytochrome P450 85A1-like; cytochrome P450 85A1-like%2C transcript variant X1
+Ola
+  Gene count: 2
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: cytochrome P450 85A1
+  Gene Descriptions: cytochrome P450 85A1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: cytochrome P450 85A1-like
+  Gene Synonyms: C6-oxidase,CYP85A1,DWARF,OJ1519_A12.12,OsCYP85A1,OsDWARF
+  Gene Descriptions: cytochrome P450 85A1-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 3
+  Modal chromosome: Pau03
+  Gene Products: cytochrome P450 85A1; cytochrome P450 85A1-like; cytochrome P450 85A1-like%2C transcript variant X1
+  Gene Descriptions: cytochrome P450 85A1; cytochrome P450 85A1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: cytochrome P450 85A1; cytochrome P450 85A1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: cytochrome P450 85A1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: cytochrome P450 85A1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: putative cytochrome P450 superfamily protein
+  Gene Synonyms: Dwarf2,GRMZM2G103773
+  Gene Descriptions: putative cytochrome P450 superfamily protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 468 aa
+
+MALLLVLVGVVVGVVVASSLLLRWNEVRYGRRrGLPPGTMGWPLFGETTEFLKQGPSFMK
+qRRLRYGRLFRTHILGCPTVVCMDPELNRRMLLQGEggGLVPGYPQSMLDILGRNNIAAV
+HGPLHRAMRGAMLGLVRPAMIRaSLLPKIDAFMRsHLhGWAGsVVDIQAKTKEMALLSAL
+RQIAGITAGPLSDALKTELYTLVLGTISLPINLPGTsYYQGLQARKKLVSMLEQMIAERR
+SSGqAHDDMLDALLRSGdDGTREKLSDEQIIDLLITLIYSGYETMSTTSMMAVKYLSDHP
+kALEeLRREHLDIRKGKSPEEAIDYnDFKSMtFTRAVIFETLRLATVVNGLLRKTTQDVE
+MNGYVIPKGWRIYVYTREINYDPFMYPDPMTFNPWRWLEKNMESHPHFMLFGGGGRMCPG
+KEVGTVEIATFLHYFVTRYRWEEEGkNTILKFPRVEAPNGLHIRVQDY
+
+
+BOP CONSENSUS:
+Length: 472 aa
+
+MALLLVLVGVVVGVVVASSLLLRWNEVRYGRRKeGrGCLPPGTMGWPLFGETTEFLKQGP
+SFMKqRRLRYGRLFRTHILGCPTVVCMDPELNRRMLLQGEaGGLVPGYPQSMLDILGRNN
+IAAVHGPLHRvMRGAMLGLVRPAALRtSLLPKIDAFMRDHLhGWAGSVVDVQAKTKEMAL
+LSALRQIAGITAGPLSDALKTELYTLVLGTISLPINLPGTSYYQGFQARKKLVSMLEQMI
+AERRSSGQAHDDMLDALLRSGDDGTREKLSDEQIIDLLIALIYSGYETMSTTSMMAVKYL
+SDHPRALEELRREHLDIRKGKSPEEAISYEDFKSMAFTRAVIFETLRLATVVNGLLRKTT
+QDVEMNGYVIPKGWRIYVYTREINYDPFMYPDPMTFNPWRWLEKNMESHPHFMLFGGGGR
+MCPGKEVGTAEIATFLHYFVTRYRWEEEGKNTILKFPRVEAPNGLHIRVQDY
+
+
+PACMAD CONSENSUS:
+Length: 466 aa
+
+MALLLLLvvVaLGVVVASSLLLRWNEVRYSRRRGLPPGTMGWPLFGETTEFLKQGPSFMK
+ARRLRYGSLFRTHILGCPTVVCMDPELNRRTLASEGAGFVPGYPQSMLDILGPNNIAAVH
+GPLHRAMRGAMLALTRPhMIRAALLPKIDAFMRAHLHGWAGRRVDIQEMTKEMALLSALR
+QIAGISAGPLSDALKAELYTLVLGTFSLPINIPGTNYSKGLQARKKLVAMLRQMIADRRS
+SGCAQDDMLDALLSGNEGTRAKLSDDQIIDLLITLIYSGYETVSTTSMMAVKYLSDNPKA
+LEQIRKEHLDIRKGKSPEDALDWNDYKSMTFTKAVIYETLRLATVVNGLLRKTTQDVEMN
+GYVIPKGWRIYVYTREINYDPFLYPEPMVFNPWRWLEKNLESHPHFMLFGGGARMCPGKE
+VGTVEIATFLHYFVTRYRWEEEGNNTISKFPRVAAPNGLHIRVQDY
+
+================================================================================

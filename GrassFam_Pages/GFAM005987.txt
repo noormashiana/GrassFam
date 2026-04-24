@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM005987
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             462.0 aa
+Family Size (Extended Family Size): 37 (43) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11712:SF328
+Panther Family ID:               PTHR11712
+Modal Panther ID:                PTHR11712:SF328
+Modal Panther Description:       3-OXOACYL-[ACYL-CARRIER-PROTEIN] SYNTHASE
+Modal Panther Family ID:         PTHR11712
+Modal Panther Fam Desc:          POLYKETIDE SYNTHASE-RELATED
+Interpro Signature Accession:    cd00834; G3DSA:3.40.47.10:FF:000027; G3DSA:3.40.47.10; TIGR03150; NF004970; NF005589; PTHR11712; PIRSF000447; PF02801; PF00109; SSF53901
+Interpro Signature Description:  KAS_I_II; 3-oxoacyl-[acyl-carrier-protein] synthase 2; -; beta-ketoacyl-ACP synthase II; beta-ketoacyl-ACP synthase; POLYKETIDE SYNTHASE-RELATED; KAS_II; Beta-ketoacyl synthase, C-terminal domain; Beta-ketoacyl synthase, N-terminal domain; Thiolase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: 3-oxoacyl-[acyl-carrier-protein] synthase I%2C chloroplastic
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu02H
+  Gene Products: 3-oxoacyl-[acyl-carrier-protein] synthase I%2C chloroplastic-like
+Ata
+  Gene count: 3
+  Modal chromosome: Ata02D
+  Gene Products: 3-oxoacyl-[acyl-carrier-protein] synthase I%2C chloroplastic; 3-oxoacyl-[acyl-carrier-protein] synthase I%2C chloroplastic-like
+Tae
+  Gene count: 9
+  Modal chromosome: Tae02A
+  Gene Products: 3-oxoacyl-[acyl-carrier-protein] synthase I%2C chloroplastic-like; 3-oxoacyl-[acyl-carrier-protein] synthase I%2C chloroplastic-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: 3-oxoacyl-[acyl-carrier-protein] synthase I%2C chloroplastic-like
+  Gene Descriptions: 3-oxoacyl-[acyl-carrier-protein] synthase I%2C chloroplastic-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: 3-oxoacyl-[acyl-carrier-protein] synthase I%2C chloroplastic
+  Gene Descriptions: 3-oxoacyl-[acyl-carrier-protein] synthase I%2C chloroplastic
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: 3-oxoacyl-[acyl-carrier-protein] synthase I%2C chloroplastic-like
+  Gene Descriptions: 3-oxoacyl-[acyl-carrier-protein] synthase I%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi02K
+  Gene Products: 3-oxoacyl-[acyl-carrier-protein] synthase I%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: 3-oxoacyl-[acyl-carrier-protein] synthase I%2C chloroplastic-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi12
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi02
+  Gene Products: 3-oxoacyl-[acyl-carrier-protein] synthase I%2C chloroplastic
+Zma
+  Gene count: 2
+  Modal chromosome: Zma06
+  Gene Products: uncharacterized LOC100279707; uncharacterized LOC100279917
+  Gene Synonyms: GRMZM2G012863; GRMZM2G135498
+  Gene Descriptions: uncharacterized LOC100279707; uncharacterized LOC100279917
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 461 aa
+
+MQSLLLPTAAAAPAAAPRRRrrPGRVSVRASAAAAAAAPRRETDPKKRVVITGMGLVSVF
+GNDVDAYYDRLLAGESGIGPIDRFDASKFPTRFAGQIRGFSSEGYIDGKNDRRLDDCLRY
+CIVSGKKALEAAGLALGSKPMEKIDKARAGVLVGTGMGGLTVFSDGVQNLIEKGYRKITP
+FFIPYAITNMGSALLGMDIGFMGPNYSISTACATSNYCFYAAANHIRRGEADIMIAGGTE
+AAIIPIGVGGFVACRALSQRNDDPKTASRPWDKDRDGFVMGEGAGVLVMESLEHAMKRDA
+PIIAEYLGGAVNCDAYHMTDPRSDGLGVSSCIKQSLEDAGVAPEEVNYINAHATSTLAGD
+LAEVNAIKQVFKDPSGIKINATKSMIGHCLGAAGGLEAIATIKAITTGWVHPSINQFNPE
+EAVEFDTVPNVKKQHEVNVGISNSFGFGGHNSVVVFAPFKP
+
+
+BOP CONSENSUS:
+Length: 464 aa
+
+MQSLLVPTAAACAAPpsaSGRRPRPGRVSVRASASAAAAAPPRRETDPKKRVVITGMGLV
+SVFGNDVDAYYDRLLAGESGVGPIDRFDASKFPTRFAGQIRGFSSEGYIDGKNDRRLDDC
+LRYCIVSGKKALESAGLALGSDAMaKIDKARAGVLVGTGMGGLQVFSDGVQNLLEKGYRK
+ITPFFIPYAITNMGSALLGMDIGFMGPNYSISTACATSNYCFYAAANHIRKGEADVMIAG
+GTEAAIIPIGVGGFVACRALSQRNDDPKTASRPWDKERDGFVMGEGAGVLVMESLEHAMK
+RGAPIVAEYLGGAVNCDAYHMTDPRADGLGVSSCIRQSLQDAGVAPEEVNYINAHATSTL
+AGDLAEMNAIKQVFKDPSGIKVNATKSMIGHCLGAAGGLEAIATIKAINTGLVHPSINQF
+nREPAVEFDTVPNVKvEHEINVGISNSFGFGGHNSVVVFAPFKP
+
+
+PACMAD CONSENSUS:
+Length: 461 aa
+
+MQSLLLPTAAAAPAAAPRGRRrLPGRVSVRASAAAAAAPRRETDPKKRVVITGMGLVSVF
+GNDVDAYYDRLLAGESGIGPIDRFDASKFPTRFAGQIRGFSSEGYIDGKNDRRLDDCLRY
+CIVSGKKALEAAGIAHGSKPMEKIDKARAGVLVGTGMGGLTVFSDGVQNLIEKGYRKITP
+FFIPYAITNMGSALLGMDIGFMGPNYSISTACATSNYCFYAAANHIRRGEADIMIAGGTE
+AAIIPIGVGGFVACRALSQRNDDPKTASRPWDKDRDGFVMGEGAGVLVMESLEHAMKRDA
+PIIAEYLGGAVNCDAYHMTDPRSDGLGVSSCIKQSLEDAGVAPEEVNYINAHATSTLAGD
+LAEVNAIKQVFKDPSGIKINATKSMIGHCLGAAGGLEAIATVKAITTGWVHPSINQFNPE
+EAVEFDTVPNVKKQHEVNVGISNSFGFGGHNSVVVFAPFKP
+
+================================================================================

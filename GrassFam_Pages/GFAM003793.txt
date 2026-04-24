@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM003793
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             413.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31307:SF12
+Panther Family ID:               PTHR31307
+Modal Panther ID:                PTHR31307:SF12
+Modal Panther Description:       OS02G0565000 PROTEIN
+Modal Panther Family ID:         PTHR31307
+Modal Panther Fam Desc:          TRIHELIX TRANSCRIPTION FACTOR ASIL2
+Interpro Signature Accession:    G3DSA:1.10.10.60:FF:000104; PTHR31307
+Interpro Signature Description:  trihelix transcription factor ASIL2; TRIHELIX TRANSCRIPTION FACTOR ASIL2
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: trihelix transcription factor ASIL2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: trihelix transcription factor ASIL2-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: trihelix transcription factor ASIL2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: trihelix transcription factor ASIL2-like
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: trihelix transcription factor ASIL2-like
+  Gene Descriptions: trihelix transcription factor ASIL2-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: trihelix transcription factor ENAP2
+  Gene Descriptions: trihelix transcription factor ENAP2
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: trihelix transcription factor ASIL2-like; trihelix transcription factor ENAP1-like
+  Gene Descriptions: trihelix transcription factor ASIL2-like; trihelix transcription factor ENAP1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: trihelix transcription factor ASIL1-like; trihelix transcription factor ASIL2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: trihelix transcription factor ASIL2-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: trihelix transcription factor ASIL2
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: 6b-interacting protein 1; uncharacterized LOC100274197
+  Gene Synonyms: GRMZM2G021831,THX15; GRMZM2G392168
+  Gene Descriptions: 6b-interacting protein 1; uncharacterized LOC100274197
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 405 aa
+
+MDDDDDVSPSaSPSPASSPPLPASALPVADPVTVASAPPGGplALALPIQRTAASLYASA
+GGGGGGGGGGREDAWSEGATSALIDAWGERFVALGRGSLRHPQWQEVADAVSSRDGYSKA
+PKSDVQCKNRIDTLKKKYKIERAKPVSSWQFFDRLDvLLAPTYGqKPGsGGGGGGHNsNG
+RnpVPAALRVGFPQRSRTPLMPAAaAAvKRRAPSPEPSASSESSDGFPPvPALPAANGKR
+RRTDEGRaDGGSGGDRaQGLRELAQAIRRFGEAYERVETAKLEQAAEMERRRlDFARELE
+SQRVQFFLNTQMELTQaKNHASPAAAAvPAGATTVGGSSRRMSsvtDAGgSSNHHsRYRi
+SHGDRHRHAPRPHYQYHDNNmAaAAAASDGEQSDDEEDDnEEESQ
+
+
+BOP CONSENSUS:
+Length: 413 aa
+
+MDDDDNSPSPSLSPASSSPLPVASALPVADPVTVASAPPGGPLTLALPIQKHGSYPSHGG
+GGGGGGGREDAWSEGATSALIDAWGERFVALGRGSLRHPQWQEVAEAVSSRDNYSKAPKS
+DVQCKNRIDTLKKKYKIERAKPVSSWQFYDRLDVLLAPTYNQKPAAHPNGRNAVPTALRA
+GFPQRSRTPLMPAsAPVKRRAPSPElSASSESSDGFPPEPALPAANGKRRRTDEGRVDGf
+SGGDRSQGMRELAQAIRRFGEAYERVETAKLEQAAEMERQRLDFARELESQRVQFFLNTQ
+KELSQGKsHISPAAAASHSQVGAATVGGSSRRMASVPDSTSRRMAPFPDARTSSNHHDRY
+RASDGSRHHHRPApRPHYQYHENNMADSAAASDGEQSDDEEEEEDDDNEEESQ
+
+
+PACMAD CONSENSUS:
+Length: 403 aa
+
+MDDDDDVSPDASPSPpSSPSSALPVADPVTVAAAPPGGamAVALPIHRTAASLYASAGGG
+GGGGGGGREDAWSEGATSALIDAWGERFVALGRGSLRHPQWQEVADAVSSRDGYSKAPKS
+DVQCKNRIDTLKKKYKVERAKPVSSWQFFDRLDFLLAPTYGnKPGSGGGGGGHNSNSRSP
+vPAALRVGFPQRSRTPLMPAAASAAKRRAPSPEPSVSSESSDGFPPVPALPAANGKRRRT
+DEGRADGGSGGDRAQGLRELAQAIRRLGEAYERVEAAKLEQAAEMERRRMDFAQELESQR
+VQFFLNTQMELTQAKNHASPAtAAVPAGATTVGGSSRRMSmvTDAGGSSNHHSRYRISHG
+DRHRHAPRPHYQQYHDNNHAaAAAASEGEQSDEEEDDyEEESQ
+
+================================================================================

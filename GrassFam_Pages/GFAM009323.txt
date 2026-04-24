@@ -1,0 +1,124 @@
+================================================================================
+GrassFam ID: GFAM009323
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             509.5 aa
+Family Size (Extended Family Size): 60 (63) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47956:SF13
+Panther Family ID:               PTHR47956
+Modal Panther ID:                PTHR47956:SF13
+Modal Panther Description:       ENT-CASSADIENE HYDROXYLASE
+Modal Panther Family ID:         PTHR47956
+Modal Panther Fam Desc:          CYTOCHROME P450 71B11-RELATED
+Interpro Signature Accession:    cd11072; G3DSA:1.10.630.10:FF:000008; G3DSA:1.10.630.10; PTHR47955; PR00463; PF00067; SSF48264
+Interpro Signature Description:  CYP71-like; Cytochrome P450 71D8; Cytochrome P450; CYTOCHROME P450 FAMILY 71 PROTEIN; E-class P450 group I signature
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: ent-cassadiene C2-hydroxylase
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 7
+  Modal chromosome: Ogl02
+  Gene Products: ent-cassadiene hydroxylase; ent-cassadiene hydroxylase-like; ent-isokaurene C2/C3-hydroxylase; ent-isokaurene C2/C3-hydroxylase-like
+  Gene Descriptions: ent-cassadiene hydroxylase; ent-cassadiene hydroxylase-like; ent-isokaurene C2/C3-hydroxylase; ent-isokaurene C2/C3-hydroxylase-like
+Osa
+  Gene count: 10
+  Modal chromosome: Osa02
+  Gene Products: ent-cassadiene hydroxylase-like; ent-isokaurene C2/C3-hydroxylase-like
+  Gene Synonyms: CYP71Z6,OsJ_07206; CYP71Z7,OsJ_07207,P0689H05.7
+  Gene Descriptions: ent-cassadiene hydroxylase-like; ent-isokaurene C2/C3-hydroxylase-like
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau21
+  Gene Products: dolabradiene monooxygenase-like
+  Gene Descriptions: dolabradiene monooxygenase-like
+Svi
+  Gene count: 5
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 8
+  Modal chromosome: Pvi01N
+  Gene Products: zealexin A1 synthase-like
+Pha
+  Gene count: 3
+  Modal chromosome: Pha01
+  Gene Products: ent-cassadiene hydroxylase-like; ent-isokaurene C2/C3-hydroxylase-like
+Msi
+  Gene count: 12
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 4
+  Modal chromosome: Sbi01
+  Gene Products: ent-cassadiene C2-hydroxylase; ent-isokaurene C2-hydroxylase
+Zma
+  Gene count: 3
+  Modal chromosome: Zma05
+  Gene Products: dolabradiene monooxygenase; putative cytochrome P450 superfamily protein; zealexin A1 synthase
+  Gene Synonyms: CYP71Z18; GRMZM2G122654
+  Gene Descriptions: putative cytochrome P450 superfamily protein; zealexin A1 synthase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 506 aa
+
+MEDKvLLAVAVaVLLVVLSKLKslLaTKPKLNLPPGPWTLPLIGSLHHLVSSPlihRaMR
+dLAqKHGPLMmLrLGEVPaLVVSSPEAAQAILKTHDltFADRHlNaTlatlTFgGtDLaF
+gPYGERWRQLRKICVlELLSAARVQSFqRIREEEVARFvrsLAASAAAGAAVDLSkMISk
+LINDtFVRESVGSRCKYQDEYLDALhTAvrQTSgLTVADLFPSSRLmQMLGTAPRKALAC
+RkRMeRILeQIIQErKEAMDrGDKtahEsFLsVLLRLQKEGstPIPLTNetIvaLMFDMF
+gAGSDTSSTTLNWcMTELIRsPAvMAKAQAEVREAFKGKstITEDDLArAgLSYLKLVIK
+EaLRLHCPvPLLiPRkCRETCQVMGYDIPKGTaVFVNVWAICRDPKYWeDAEEFKPERFE
+NnNLDYKGTNFEFLPFGSGRRMCPGINLGLANIELALASLLYHFDWKLPdGMEPKDVDmw
+EApGLVAsKkTSLiLHPVTRIAPanA
+
+
+BOP CONSENSUS:
+Length: 516 aa
+
+MEDKLlLLALavSVLlaVVISKLVSyATKPRLNLPPGPWTLPLIGSlHHLVMsSpsiHRS
+MRALAEKHGPLMQLWLGEVPAVVVSSPEAAeEVLRsQDLrFADRHLTtTtaaisFGGRDv
+aFAPYGERWRHLRKLCTQELLTAARVRSFRRVREEEVARLVRDLAAsAAAGgaAVNLtER
+iakLvNDiVvRCSVGGRCkyRDEFLdALhtAlkQTTWLtVADLFPSSKLARMLgtAPRrA
+LASRKKMERIIEQIIQERKdqmeddSgaGDgdgeAAagKeCFLDVLLRLQKEGGTPIPIT
+NEvIVVLLFDMFSGGSETSSTTLIWTMAELIRsPRVMAKAQAEVRQAFQGKnTITEDDiv
+gLSYLKMVIKESLRLHCPvPLLgPRKCRETCKVMGYDVPKGTSVFVNaWAICRDSKYWED
+AEEFKPERFENnsIDYKGnNFEFLPFGSGRRICPGINLGlANvElPLASLLYHFDWKLPN
+GMlPKDLDMqEAPGLVAAKrTSLnvCPVTRIAPSsa
+
+
+PACMAD CONSENSUS:
+Length: 506 aa
+
+MEDKvLLAVAVaVLLVVLSKLKSLLVtKPKLNLPPGPWTLPVIGSLHHLVSSPLiyRAMR
+dLAhKHGPLMMLRLGEVPTLVVSSPEAAQAItKTHDitFADRhtNATlaiLTFnGTDLvF
+GPYGERWRQLRKICVLELLSAARVQSFQRIREEEVARFmqsLAASAAAGAAVDLSKMISr
+FINDTFVRESVGSRCKYQDEYLDAlhTAvRqTSgLTVADLFPSSRLMQmLGTAPRKALAC
+RdRitRILeQIIQEkKEAMDRGDKTahESFisVLLRLQKEgSlPIPLTNDTIvALMFDMF
+GAGSDTSSTTLNWCMTELIRsPAAMARAQAEVREAFKGKStITEDDLArAgLSYLKLViK
+EALRLHcPvPLLIPRqCRETCQVMGYDIPKGTaVFVNVWAICRDPKYWDDAEEFKPERFE
+nsNLDYKGTNYEFLPFGSGRRMCPGiNLGLANIELALASLLYHFDWKLPdGMEPKDVDVw
+EAaGLVAkKkTsLILHPVTRIAPANA
+
+================================================================================

@@ -1,0 +1,125 @@
+================================================================================
+GrassFam ID: GFAM005032
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             377.0 aa
+Family Size (Extended Family Size): 29 (29) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR19134:SF492
+Panther Family ID:               PTHR19134
+Modal Panther ID:                PTHR19134:SF492
+Modal Panther Description:       PROTEIN-TYROSINE-PHOSPHATASE PTP1
+Modal Panther Family ID:         PTHR19134
+Modal Panther Fam Desc:          RECEPTOR-TYPE TYROSINE-PROTEIN PHOSPHATASE
+Interpro Signature Accession:    G3DSA:3.90.190.10:FF:000045; G3DSA:3.90.190.10; PTHR19134; PR00700; PF00102; SM00194; SM00404; SSF52799
+Interpro Signature Description:  Tyrosine-protein phosphatase non-receptor type 12; Protein tyrosine phosphatase superfamily; RECEPTOR-TYPE TYROSINE-PROTEIN PHOSPHATASE; Protein tyrosine phosphatase signature; Protein-tyrosine phosphatase; PTPc_3; ptp_7; (Phosphotyrosine protein) phosphatases II
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi04
+  Gene Products: protein-tyrosine-phosphatase PTP1; uncharacterized LOC100838116%2C transcript variant X3
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: protein-tyrosine-phosphatase PTP1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: protein-tyrosine-phosphatase PTP1%2C transcript variant X3
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: protein-tyrosine-phosphatase PTP1-like; protein-tyrosine-phosphatase PTP1-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: protein-tyrosine-phosphatase PTP1-like
+  Gene Descriptions: protein-tyrosine-phosphatase PTP1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: protein-tyrosine-phosphatase PTP1
+  Gene Descriptions: protein-tyrosine-phosphatase PTP1
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 3
+  Modal chromosome: Pau12
+  Gene Products: protein-tyrosine-phosphatase PTP1-like
+  Gene Descriptions: protein-tyrosine-phosphatase PTP1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi08K
+  Gene Products: protein-tyrosine-phosphatase PTP1-like; protein-tyrosine-phosphatase PTP1-like%2C transcript variant X1; protein-tyrosine-phosphatase PTP1-like%2C transcript variant X8
+Msi
+  Gene count: 4
+  Modal chromosome: Msi10
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: protein-tyrosine-phosphatase PTP1%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: uncharacterized LOC100382937%2C transcript variant X1
+  Gene Synonyms: GRMZM2G416491
+  Gene Descriptions: uncharacterized LOC100382937
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 320 aa
+
+aSKRRReATGNSaGFDPLDPdADPPPRaLTpDQVKHCKKALKvLDKKLkKPAAIsKEFrS
+LPDIRTsLQSAQKFTVARSPANReRNRYTDVLPFDETRVRLQSSTGNDYINASLIKiDGR
+DQTKFISTQGPLVNTFEDFWQMVYENhCPVIVMLTKFDgvKCDEYLPLSKGQgdYGKFtI
+KITKtRkDGQLVLRGVKVQrDESDrVHSLLHIEYSEWPDHGVPNdSadVRrILKRLYyIP
+REHPIVAHCSAGIGRTGAYITIHNTIERILLGEQgAvDLVETVkKFRSQRPGMVQTEEQY
+KFCYqAIaDELKDLISNSKH
+
+
+BOP CONSENSUS:
+Length: 296 aa
+
+TPDQVKHCKTALKVLDKKLKKPAAIFDDFRGLPAIRTSLQLAQKFTVARSPANRERNRYT
+DVLPFDETRIKLQSSTGNqTSSNDYINASLIKYDDKDQTKFISTQGPLVNTFEDFWQMVF
+ENSCPVIVMLTKFDiVKCDEYLPLSKGQGDYGRFNIKItETRqDGeLTLRSVKVQHNESD
+RVHTVLHIQHSTWPDHGVPdDSSTVRKILKRLYyIPKEHPIVAHCSAGIGRTGAYITIHN
+TIERILLGEQAATDLVETVgKFRSQRPGMVQTEEQYKFCYHAIVDELKDLIrNSKh
+
+
+PACMAD CONSENSUS:
+Length: 361 aa
+
+TATPTTPPAASPaSIHASKRRRrgTdATGNSPLRGGgGSaPRrssSpPPPpsmAGFDPLD
+PdADPPPRALTaDQVRhCKKALKALEKKLGKPAALSKEFYSLPDIRTELQSaQKFTVARk
+PENRARNRYTDVLPFDETRVRLqSSTGNDYINASLIEIDGRdqTKFISTQGPLtNTIEDF
+WQMVYDNHCPVIVMVTKFDGLKCDEYLPLSKGQDIFGKFTIKITKtRKDGQLVLRGVEVQ
+RDESDEVHSLLHIEYSEWPDHGVPNsStDVRRILKRLYHIPRErPIVAHCSAGIGRTGAY
+ITIHNTIERILLGEQGAVDLVETVKKFRSQRPGMVQTEEQYKFCYQAIaDELKDLVSsSK
+H
+
+================================================================================

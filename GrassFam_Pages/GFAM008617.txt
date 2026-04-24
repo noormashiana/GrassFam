@@ -1,0 +1,126 @@
+================================================================================
+GrassFam ID: GFAM008617
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             290.5 aa
+Family Size (Extended Family Size): 24 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR43149
+Modal Panther ID:                PTHR43149:SF1
+Modal Panther Description:       DELTA(3,5)-DELTA(2,4)-DIENOYL-COA ISOMERASE, MITOCHONDRIAL
+Modal Panther Family ID:         PTHR43149
+Modal Panther Fam Desc:          ENOYL-COA HYDRATASE
+Interpro Signature Accession:    cd06558; G3DSA:3.90.226.10:FF:000024; G3DSA:1.10.12.10:FF:000004; G3DSA:3.90.226.10; G3DSA:1.10.12.10; NF004794; PTHR43149; PF00378; SSF52096
+Interpro Signature Description:  crotonase-like; Delta3,5-delta2,4-dienoyl-CoA isomerase; -; crotonase/enoyl-CoA hydratase family protein; ENOYL-COA HYDRATASE; Enoyl-CoA hydratase/isomerase; ClpP/crotonase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: delta(3%2C5)-Delta(2%2C4)-dienoyl-CoA isomerase%2C peroxisomal
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: delta(3%2C5)-Delta(2%2C4)-dienoyl-CoA isomerase%2C peroxisomal
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: delta(3%2C5)-Delta(2%2C4)-dienoyl-CoA isomerase%2C peroxisomal%2C transcript variant X6
+Tae
+  Gene count: 5
+  Modal chromosome: Tae03A
+  Gene Products: delta(3%2C5)-Delta(2%2C4)-dienoyl-CoA isomerase%2C peroxisomal-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: delta(3%2C5)-Delta(2%2C4)-dienoyl-CoA isomerase%2C peroxisomal
+  Gene Descriptions: delta(3%2C5)-Delta(2%2C4)-dienoyl-CoA isomerase%2C peroxisomal
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: delta(3%2C5)-Delta(2%2C4)-dienoyl-CoA isomerase%2C peroxisomal
+  Gene Descriptions: delta(3%2C5)-Delta(2%2C4)-dienoyl-CoA isomerase%2C peroxisomal
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: delta(3%2C5)-Delta(2%2C4)-dienoyl-CoA isomerase%2C peroxisomal-like
+  Gene Descriptions: delta(3%2C5)-Delta(2%2C4)-dienoyl-CoA isomerase%2C peroxisomal-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi05K
+  Gene Products: delta(3%2C5)-Delta(2%2C4)-dienoyl-CoA isomerase%2C peroxisomal-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: delta(3%2C5)-Delta(2%2C4)-dienoyl-CoA isomerase%2C peroxisomal
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: delta(3%2C5)-Delta(2%2C4)-dienoyl-CoA isomerase%2C peroxisomal
+Zma
+  Gene count: 2
+  Modal chromosome: Zma04
+  Gene Products: delta(3%2C5)-Delta(2%2C4)-dienoyl-CoA isomerase%2C peroxisomal-like; delta3%2C5-delta2%2C4-dienoyl-CoA isomerase
+  Gene Synonyms: GRMZM2G146885
+  Gene Descriptions: delta3%2C5-delta2%2C4-dienoyl-CoA isomerase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 290 aa
+
+MAGGGsSDAEAELRRGFKTLAVTRPDPSAAVYEVRLNRPAQRNALSPdAFAEIPRAMALL
+DRlPAARAVVLSAAGPHFCAGIELGGPGNPLTApsaRGADPAAAAEGLRRAILgMQAALT
+AvErCRKPVIAAVHGACVGGGVDLVAACDIRYCSKDATFVLKEVDMAIVADLGALQRLPR
+IVGYGNAADLALTGRKITAMEAKEMGLVSRVFDSKQELDAGVAKIAKEISEKSAWAVMGT
+KAVLLRSRDITVEQGLEHVATWNAGMLRSNDLkEAIKAFLEKRKPVFSKL
+
+
+BOP CONSENSUS:
+Length: 290 aa
+
+MAGGGSSDAEAELRRGFKALAVTRPDPAAAVYEVRLSRPAQRNALSPDSFAEIPRAMALL
+DRvPAARAVVLSAAGPHFCAGIELGGPGNPLTAPfSRGADPAAAAEGLRRAILGMQAALT
+AVELCRKPVIAAVHGACVGGGVDLVAACDIRYCSKDATFVLKEVDMAIVADLGALQRLPR
+IVGYGNAADLALTGRRITAAEAKEMGLVSRVFDSKQELDAGVAKIAKEISEKSANAVMGT
+KAVLLRSRDITVEQGLEHVATWNSGMLRSNDLMEAIKAFMEKRKPVFSKL
+
+
+PACMAD CONSENSUS:
+Length: 291 aa
+
+MAGGDRgsSDAEAELRRGFETLAVTRPDPSAGVYEVRLNRPAQRNALSPAAFAEIPRAMS
+LLDRLPtARAVVLSAAGPHFCAGIELGGPGNPLAAASAGADPVAAAEGLRRAILDMQAAL
+TAIERCRKPVIAAVHGACVGGGVDVVAACDIRCCSRDATFVLKEVDMAIVADLGALQRLP
+RIVGYGNAADLALTGRKITAMEAKEMGLVSRVFDSKKELDAGVAKIAKEIAEKSAWAVMG
+TKAVLLRSRDVTVEQGLEHVATWNAGMLRSNDLKEAIRAFLEKRKPVFSKL
+
+================================================================================

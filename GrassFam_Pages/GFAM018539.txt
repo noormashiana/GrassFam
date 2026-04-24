@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM018539
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             582.5 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45968:SF6
+Panther Family ID:               PTHR45968
+Modal Panther ID:                PTHR45968:SF6
+Modal Panther Description:       PROTEIN, PUTATIVE, EXPRESSED-RELATED
+Modal Panther Family ID:         PTHR45968
+Modal Panther Fam Desc:          OSJNBA0019K04.7 PROTEIN
+Interpro Signature Accession:    G3DSA:3.50.50.60; G3DSA:3.30.410.40; PTHR45968; PIRSF000137; PF05199; SSF51905; SSF54373
+Interpro Signature Description:  -; OSJNBA0019K04.7 PROTEIN; Alcohol_oxidase; GMC oxidoreductase; FAD/NAD(P)-binding domain; FAD-linked reductases, C-terminal domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: protein HOTHEAD
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: protein HOTHEAD-like%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: protein HOTHEAD-like
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: protein HOTHEAD-like; protein HOTHEAD-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: protein HOTHEAD-like
+  Gene Descriptions: protein HOTHEAD-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: protein HOTHEAD
+  Gene Descriptions: protein HOTHEAD
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau21
+  Gene Products: protein HOTHEAD-like; protein HOTHEAD-like%2C transcript variant X2
+  Gene Descriptions: protein HOTHEAD-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: protein HOTHEAD-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: protein HOTHEAD-like%2C transcript variant X2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: protein HOTHEAD
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100382402
+  Gene Synonyms: GRMZM2G434500
+  Gene Descriptions: uncharacterized LOC100382402
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 581 aa
+
+MAPGLASSvALVLAAVLGSLCLVALSEDEQLENLRFVRHAQDAPLVSHYNYIVIGGGTAG
+CPLAATLSEHSRVLLLERGGLPYRNMSNQQHFTDALADTSPASPAQRFISEDGVVNARAR
+VLGGGSCLNAGFYTRASNdYVRAAGWDARLVNSSYRWVERALVFRPDVPPWQAALRDALL
+EAGVTPDNGFTFDHVTGTKIGGTIFDNSGQRHTAADFLRHARPRGLTVlLYATVSRILFR
+QQEGVPYPVAYGVVFADPLGVQHRVYLRDGaKNEVILSAGTLGSPQLLMLSGVGPQAHLE
+AHGIQVLVDQPMVGQGVADNPMNSVFIPSPVPVgLSLVQVVGITRSGSFIEGVSGSEFGI
+PVSDGARRLARSFGLFSPQTGQLGTLPPKQRTPEALQRAAEAMRRLDRRAFRGGFILEKI
+LGPVSSGHIELRSTDPRANPAVTFNYFQEAEDLERCVHGIQTIERVIQSRAFSNFTYANA
+SVESIFTDSANFPVNLLPRHVNDSRSPEQYCRDTVMTIWHYHGGCQVGAVVDDDYRVFGV
+QRLRVIDSSTFKYSPGTNPQATVMMLGRYMGVKIQAERWRK
+
+
+BOP CONSENSUS:
+Length: 582 aa
+
+QMALGRARSPALVLAAAVLGSLClVALSEDEQLENLRFVQHAQDAPLVSHYNYIVVGGGT
+SGCPLAATLSEHSRVLLLERGGLPYRNMSNQEHFTDALADTSLASPAQRFVSTDGVVNAR
+ARVLGGGSCLNAGFYTRASNEYVRTAGWDARLVNSSYRWVERALVFRPDVPPWQAALRDA
+LLEAGVTPDNGFTFDHVTGTKIGGTIFDNNGQRHTAADFLRHARPRGLTVVLYATVSRIL
+FRSQEGVPYPVAYGVVFADPLGVQHRVYLRDGgKNEVILSAGTLGSPQLLMLSGVGPQAH
+LEAHGIQVLVDQPMVGQGVADNPMNSVFIPSPVPVGLSLVQVVGITKSGSFIEGVSGSEF
+GIPVSDGARRLASFGLFSPQTGQLGTLPPGQRTPEALQRAAEAMRRLDRRAFRGGFILEK
+ILGPVSTGHIELRTTDPRANPAVTFNYFQEAEDLERCVRGIQTIERVIQSRAFSNFTYAN
+TTVESIFTDSANFPVNLLPRHVNDSRSPEQYCRETVMTIWHYHGGCHVGAVVDDNYRVFG
+VRGLRVIDSSTFRYSPGTNPQATVMMLGRYMGIKIQAERWRK
+
+
+PACMAD CONSENSUS:
+Length: 581 aa
+
+MAPGLASSVALVLAavLGSLCLVALSEDEpLENLRFVRRAQDAPLVSqYNYIVIGGGTAG
+CPLAATLSEHSRVLLLERGGLPYRNMSNQQHFTDALADTSPASPAQRFISEDGVVNARAR
+VLGGGSCLNAGFYTRASNDYVRAAGWDARLVNSSYRWVERALVFRPDVPPWQAALRDALL
+EAGVTPDNGFTFDHVTGTKIGGTIFDNSGQRHTAADFLRHARPGGLTVLLYATVSRILFR
+QQEGVPYPVAYGVVFTDPLGVQHRVYLRDGAKNEVILSAGTLGSPQLLMLSGVGPQAHLE
+AHGIQVLVDQPMVGQGVADNPMNSVFIPSPVPVaLSLVQVVGITRSGSFIEGVSGSEFGI
+PVSEGARRLARNFGLFSPQTGQLGTLPPKQRTPEALQRAAEAMRRLDRRAFRGGFILEKI
+LGPVSSGHIELRSADPRANPAVTFNYFQEsEDLeRCVHGIETIERVIQSRAFANFTYANA
+SVESIFTDSANFPVNLLPRHVNDSRTPEQYCKDTVMTIWHYHGGCQVGAVVDDDYRVFGV
+QRLRVIDSSTFKYSPGTNPQATVMMLGRYMGVKIQAERWRK
+
+================================================================================

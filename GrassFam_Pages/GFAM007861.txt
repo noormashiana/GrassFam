@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM007861
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             550.0 aa
+Family Size (Extended Family Size): 23 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13780:SF48
+Panther Family ID:               PTHR13780
+Modal Panther ID:                PTHR13780:SF48
+Modal Panther Description:       CBS DOMAIN-CONTAINING PROTEIN CBSCBSPB1
+Modal Panther Family ID:         PTHR13780
+Modal Panther Fam Desc:          AMP-ACTIVATED PROTEIN KINASE, GAMMA REGULATORY SUBUNIT
+Interpro Signature Accession:    cd06409; cd17782; cd17781; G3DSA:3.10.580.10; PTHR13780; SSF54631
+Interpro Signature Description:  PB1_MUG70; CBS_pair_MUG70_2; CBS_pair_MUG70_1; -; AMP-ACTIVATED PROTEIN KINASE, GAMMA REGULATORY SUBUNIT; CBS-domain pair
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: CBS domain-containing protein CBSCBSPB1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: CBS domain-containing protein CBSCBSPB1-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: CBS domain-containing protein CBSCBSPB1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: CBS domain-containing protein CBSCBSPB1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: CBS domain-containing protein CBSCBSPB1-like
+  Gene Descriptions: CBS domain-containing protein CBSCBSPB1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: CBS domain-containing protein CBSCBSPB1
+  Gene Descriptions: CBS domain-containing protein CBSCBSPB1
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: CBS domain-containing protein CBSCBSPB1-like
+  Gene Descriptions: CBS domain-containing protein CBSCBSPB1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: CBS domain-containing protein CBSCBSPB1-like%2C transcript variant X1; CBS domain-containing protein CBSCBSPB1-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: CBS domain-containing protein CBSCBSPB1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: CBS domain-containing protein CBSCBSPB1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: CBS domain-containing protein CBSCBSPB1; uncharacterized LOC100279329
+  Gene Synonyms: GRMZM2G133621; GRMZM2G171622
+  Gene Descriptions: CBS domain-containing protein CBSCBSPB1; uncharacterized LOC100279329
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 552 aa
+
+MDGGaGAGGHHsGRRSISSSsGSRRRgPPAENGHGHDAAAASRRSSASISRGtSSSLTGE
+RTVKRLRLSKALTIPDHTTVYEACRRMASRRVDAVLLTDSNALLCGILTDKDITTRVIAR
+ELKLEETPVSKVMTRNPVFVLaDTLAVEALQKMVQGKFRHLPVVENGEVIALLDIAKCLY
+DAIARMERAAEKGKAIAAAVEGVEKHWGTAVSGPNNFIETLRERMFRPSLSTIISENSKV
+VTVAPTDTVLTASKKMLELKVSSAVVAIENKPGGILTSRDILMRVIAQNLPPESTTVEKV
+MTQSPECATVDTPILDALHTMHDGKFLHLPVLDRDGNVVTVVDVLHITHAAIATVGNSGA
+AGSEATSAMMQRFWDSAMSIGPLDDDDDSRSEGSTKVASEATDIGRSAFFPASGLSNTFG
+FKIQDKQGRMHRFNCETSSLTELITSILQRVGDDIDRKNLPQILYEDEDHDKVILSSDSD
+LIAAVDHARQIGWKSLRLHLDYAGVGRRKRGGGSSDFEYAGKDAWASAYSAVAAGAALVA
+GLGVMAYLKRAG
+
+
+BOP CONSENSUS:
+Length: 551 aa
+
+MDGAGGGGGGpHpSRRSISSAAGPRRRGPSMENGHDAAAtAARRSSATISRTTStVTGER
+TVKRLRLSKALTIPDHTTVYEACRRMAARRVDAVLLTDSNALLCGILTDKDITTRVIARE
+LKLEDTPVSKVMTRNPLFVLGDTLAVEALQKMVQGKFRHLPVVDNGEVIALLDIAKCLYD
+AIARMERAAEKGRAIAAAVEGVEKHWGTSVSGPNTFVETLRERMFRPSLSTIISENSKVA
+TVAPTDTVLTASKKMLELKVSSAVVAIENKPGGILTSRDILMRVIAQNLPPESTTVGKVM
+TQSPECATIDTPILEALHTMHDGKFLHLPVLDRDGSVVTVVDVLHITHAAIATVGNSGAT
+GSEATSSMMQRFWDSAMSSGPLDDDDDSRSEGSTKVASEAADiGRSAFFPASGLSNTFGF
+KIQDKQGRMHRFNCETSSLTELITSILQRLGDDIDKlNLPQILYEDDDHDKVILSSDTDL
+IAAVDHARQIGWKSLRLHLDYAGVGRRKRGaVSSDFEYAGRDAWASAYGTVAAGAALVAG
+LGVMAYLKRAG
+
+
+PACMAD CONSENSUS:
+Length: 551 aa
+
+MDGGAGAGGHGsGRRSVSSSSGSRRRlPPAENGHGHDGAASRRSSVSISRGnSTSLTGER
+TVKRLRLSKALTIPDHTTVHEACRRMASRRVDAVLLTDSNALLCGILTDKDITTRVIARE
+LKMEETPVSKVMTRNPVFVLADTLAVEALQKMVQGKFRHLPVVENGEVIALLDIAKCLYD
+AIARMERAAEKGKAIAAAVEGVEKHWGTAVSGPNNFIETLRERMFRPSLSTIISENSKVV
+TVAPTDTVLTASKKMLELKVSSAVVAIENKPGGILTSRDILMRVIAQNLPPESTTVEKVM
+TQSPECATVDTPILDALHTMHDGKFLHLPVLDRDGNVVTVVDVLHITHAAIATVGNSGAA
+GSEATSAMMQRFWDSAMSIGPLDDDDDSRSEGSTKVASEATDIGRSAFFPASGLSNTFGF
+KIQDKQGRMHRFNCETSSLTDLITSILQRVGDDIDRKNLPQILYEDEDHDKVILSSDSDL
+IAAVDHARQIGWKSLRLHLDYAGVGRRKRGGGSSDFEYAGKDAWASAYSAVAAGAALVAG
+LGVMAYLKRsG
+
+================================================================================

@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM005465
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             358.0 aa
+Family Size (Extended Family Size): 43 (43) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR43768
+Modal Panther ID:                PTHR43768:SF56
+Modal Panther Description:       TREHALOSE-PHOSPHATE PHOSPHATASE 9-RELATED
+Modal Panther Family ID:         PTHR43768
+Modal Panther Fam Desc:          TREHALOSE 6-PHOSPHATE PHOSPHATASE
+Interpro Signature Accession:    cd01627; G3DSA:3.40.50.1000:FF:000175; G3DSA:3.40.50.1000:FF:000099; G3DSA:3.30.70.1020:FF:000004; TIGR00685; PTHR43768; PF02358; SSF56784
+Interpro Signature Description:  HAD_TPP; Trehalose 6-phosphate phosphatase; trehalose-phosphatase; TREHALOSE 6-PHOSPHATE PHOSPHATASE; Trehalose-phosphatase; HAD-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: trehalose 6-phosphate phosphatase RA3
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: trehalose 6-phosphate phosphatase RA3-like
+Ata
+  Gene count: 3
+  Modal chromosome: Ata02D
+  Gene Products: trehalose 6-phosphate phosphatase RA3
+Tae
+  Gene count: 9
+  Modal chromosome: Tae02A
+  Gene Products: trehalose 6-phosphate phosphatase RA3-like; trehalose 6-phosphate phosphatase RA3-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: probable trehalose-phosphate phosphatase 3
+  Gene Descriptions: probable trehalose-phosphate phosphatase 3
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: probable trehalose-phosphate phosphatase 3
+  Gene Synonyms: OsTPP3,TPP3
+  Gene Descriptions: probable trehalose-phosphate phosphatase 3
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 3
+  Modal chromosome: Pau15
+  Gene Products: trehalose 6-phosphate phosphatase RA3-like
+  Gene Descriptions: trehalose 6-phosphate phosphatase RA3-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi02K
+  Gene Products: trehalose 6-phosphate phosphatase RA3-like; trehalose 6-phosphate phosphatase RA3-like%2C transcript variant X1
+Pha
+  Gene count: 2
+  Modal chromosome: Pha02
+  Gene Products: trehalose 6-phosphate phosphatase RA3-like
+Msi
+  Gene count: 4
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi02
+  Gene Products: probable trehalose-phosphate phosphatase 3; probable trehalose-phosphate phosphatase 3%2C transcript variant X1
+Zma
+  Gene count: 3
+  Modal chromosome: Zma07
+  Gene Products: ramosa 3%2C transcript variant X1; trehalose 6-phosphate phosphatase RA3-like%2C transcript variant X2; uncharacterized LOC677667
+  Gene Synonyms: GRMZM2G014729,ra3; GRMZM5G840145,si603015d01b,SRA
+  Gene Descriptions: ramosa 3; uncharacterized LOC677667
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 356 aa
+
+MTKHAAFAAEDAVTAVAAPAQPGRHFtSFPPrRARDCRKAAAgRMDLAasGVvmaGSLLD
+SMKASSPRHAAGADHeDWMEKHPSALawFEsVLAAAKGKQIVMFLDYDGTLSPIVEDPDR
+AVMTEEMRDAVRGVAEHFPTAIVSGRCRDKVFNFVKLeELYYAGSHGMDIKGPTkvSNHt
+KAKAeaVLCQPAsEFLPVIeEVYrTLTAKMESIPGAmVENNKFCLSVHFRCVqEEEWdAL
+gEEVRSVLKeYPDLrLTKGRKVLEIRPSIKWDKGNALeFLLESLGYAGRnDVFPIYIGDD
+RTDEDAFKVLRNMGQGIGILVTKFPKETSASYSLREPAEVKEFLRKLVKSkgtKkd
+
+
+BOP CONSENSUS:
+Length: 358 aa
+
+MTNHAAFAAEDAVTAVAAPAQPGRHFaSFPPRRARDCRKAALGRMDLATSGVLMAGSLLD
+SMKASSPRHAMSPAGADHEEWIEKHPSALEWFEGVLAAAEGKQIVMFLDYDGTLSPIVED
+PDRAVMTEEMRDAVRGVAQHFPTAIVSGRCRDKVFNFVKLEELYYAGSHGMDIKGPTKVS
+NHKAKADEVLCQPATEFLPVIQEVYETLTAKMESIPGAMVENNKFCLSVHFRCVEEAEWD
+ALGREVRAVLedYPDLCLTKGRKVLEIRPSIkWDKGNALkFLLKSLGYAGRGDVFPIYIG
+DDRTDEDAFKVLRNMGQGIGILVTKFPKETSASYSLREPAEVKEFLRKLVKSNGTKKG
+
+
+PACMAD CONSENSUS:
+Length: 355 aa
+
+MTKHAAFAAeDAVTAVAAPAQPGRHFTSFPPpkGARgDCRKAAAvhmDpAAAGaVagGSW
+fESMKASSPRrADAEHDDWMEKHPSALAeFESvLAAAKGKQIVMFLDYDGTLSPIVkDPD
+rAVMSEEMRDAVRGVAEHFPTAIVSGRCRDKVFNFVKLAELYYAGSHGMDIKGPTaQSKH
+tKAKAEAVlcQPASEFLPVIEEVYRTLTAkteaIPGAtVENNKFCLSVHFRCVQEEKWrA
+LEEQVRSVLKEYPDLRLThGRKVLEIRPSIKWDKGNALEFLLESLGFAGsNDVFPIYIGD
+DRTDEDAFKVLRNMGQGIGILVSKIPKETaASYSLREPSEVKEFLrKLVKSKQrD
+
+================================================================================

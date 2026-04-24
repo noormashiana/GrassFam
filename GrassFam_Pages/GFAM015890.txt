@@ -1,0 +1,110 @@
+================================================================================
+GrassFam ID: GFAM015890
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             512.0 aa
+Family Size (Extended Family Size): 95 (99) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24296:SF39
+Panther Family ID:               PTHR24296
+Modal Panther ID:                PTHR24296:SF39
+Modal Panther Description:       OS08G0263000 PROTEIN
+Modal Panther Family ID:         PTHR24296
+Modal Panther Fam Desc:          CYTOCHROME P450
+Interpro Signature Accession:    cd11064; G3DSA:1.10.630.10; PTHR24296; PF00067; SSF48264
+Interpro Signature Description:  CYP86A; Cytochrome P450; CYTOCHROME P450
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: noroxomaritidine synthase
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 18
+  Modal chromosome: Hvu05H
+  Gene Products: alkane hydroxylase MAH1-like; alkane hydroxylase MAH1-like%2C transcript variant X1; noroxomaritidine synthase 1-like; noroxomaritidine synthase 2-like; noroxomaritidine synthase-like
+Ata
+  Gene count: 12
+  Modal chromosome: Ata02D
+  Gene Products: alkane hydroxylase MAH1; noroxomaritidine synthase 1; noroxomaritidine synthase 1-like; noroxomaritidine synthase 1-like%2C transcript variant X1; noroxomaritidine synthase 2; noroxomaritidine synthase 2-like; noroxomaritidine synthase-like
+Tae
+  Gene count: 51
+  Modal chromosome: Tae02B
+  Gene Products: alkane hydroxylase MAH1-like; noroxomaritidine synthase 1-like; noroxomaritidine synthase 2-like; noroxomaritidine synthase 2-like%2C transcript variant X1; noroxomaritidine synthase 3-like; noroxomaritidine synthase-like
+Ogl
+  Gene count: 4
+  Modal chromosome: Ogl08
+  Gene Products: alkane hydroxylase MAH1-like; noroxomaritidine synthase 2-like
+  Gene Descriptions: alkane hydroxylase MAH1-like; noroxomaritidine synthase 2-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa03
+  Gene Products: alkane hydroxylase MAH1
+  Gene Descriptions: alkane hydroxylase MAH1
+Ecu
+  Gene count: 3
+  Modal chromosome: Ecu05
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: noroxomaritidine synthase-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 512 aa
+
+MSIsFSQELLISTLLVLLVPLYLYlRsSsRSKNPSVLPTNWPIlHMLPSLvANlHNLHDY
+lTlVLAGSGHNFRAHGPPGTGMRFFiTCDPANVRHIFTTNYtNFPKGAEFAAIFDIMgGS
+lFTIDGEPwRRQRAKiqsVLSSPRLVAsMAACCRDKVENgLLPLFaHMASTGTPFDMQEL
+MSRFMFDLAATPLFGVDPGLLSsDMPPMDAAVAMDTVMEVGFFRHtMPASCWKaMRwLNI
+GPERKLaAAHtVLRgFvvEMMERRKiNtchvGndeeqEsVDILSSYINDPDYADdDLLhA
+tLIsYMLAGRDTIGTTLtWiFYNLAQNPnIVSIIRNELSPIASrKvAtGaGAMVIFEPEE
+TKSLVYLRAaLYETLRLYPPAPiERKTVVADDIMPSGHEVHAGDTIlISLYSMGRMEglW
+GKDCLdYNPdRWLSEDGNKLRYVPSHKFLAFNSGPRmClGKDIAVMQMKTIVAAVVWNFD
+VEVVEGQSIQPKlSCILQMKNGLIVKLKKREm
+
+
+BOP CONSENSUS:
+Length: 512 aa
+
+MSIsFSQELLISTLLVLLVPLYLYlRsSsRSKNPSVLPTNWPIlHMFPSLvANlHNLHDY
+lTlVLAGSGHNFRAHGPPGTGMRFFiTCDPANVRHIFTTNYtNFPKGAEFAAIFDIMgGS
+lFTIDGEPwRRQRAKiqsVLSSPRLVAsMAACCRDKVENgLLPLFaHMASTGTPFDMQEL
+MSRFMFDLAATPLFGVDPGLLSsDMPPMDAAVAMDTVMEVGFFRHtMPASCWKaMRwLNI
+GPERKLaAAHtVLRrFvvEMMERRKiNtchvGndeeqEsVDILSSYINDPDYADdDLLhA
+tLIsYMLAGRDTIGTTLtWiFYNLAQNPnIVSIIRNELSPIASrKvAtGaGAMVIFEPEE
+TKSLVYLRAaLYETLRLYPPAPiERKTVVADDIMPSGHEVHAGDTIlISLYSMGRMEgvW
+GKDCLdYNPdRWLSEDGNKLRYVPSHKFLAFNSGPRmClGKDIAVMQMKTIVAaVVWNFD
+VEVVEGQSIQPKpSCILQMKNGLIVKLKKREm
+
+
+PACMAD CONSENSUS:
+Length: 511 aa
+
+MALSFSELLLPSLVFLLALYLYIKSRRPRNHFLLKHWPLVGFLPSIAANRHNFQDFIAAV
+LAATEHNYKMQGPPGTNLRFLLTSDPTNVQYMFTKNFANYPKGDEFATVFAVLSGTIFTV
+DGEPWRQQRTKIQHVLKRPELLDVMSRCCQDKVVGGLMPLLSHMAATGTPFDMADMLGRL
+VYDLTVMLVFGEDPGSLSAGVGTPPVAAALDAVMEVGFFRHTVPMFCWKILSRLNVGPER
+KLKAAEELLRGFVAETIHRRIGAARHTDEVDILSHYINDADYLTLTDSREPTEFLQRTFI
+NFLVALRDPVGAALPWFVYHLATNPGAVSGIRKELAPIAAARKSAAADDATVVVFEPDET
+KGLVYLRAALFESLRLHPPGPIERKTVLADDVLPSGHKVRAGETVLVSVYGMGRMESLWG
+EDCLEYRPERWLTDDGAGLRHVPSYKFASFNTGPRSCPGKNIAVAQMTCIAAAVVWNFDV
+EVVEGHAGEPKLSVVLQMKNGLMVNVKQREG
+
+================================================================================

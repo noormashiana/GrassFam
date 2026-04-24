@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM006122
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             352.0 aa
+Family Size (Extended Family Size): 21 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13045:SF0
+Panther Family ID:               PTHR13045
+Modal Panther ID:                PTHR13045:SF0
+Modal Panther Description:       7-METHYLGUANOSINE PHOSPHATE-SPECIFIC 5'-NUCLEOTIDASE
+Modal Panther Family ID:         PTHR13045
+Modal Panther Fam Desc:          5'-NUCLEOTIDASE
+Interpro Signature Accession:    cd07504; G3DSA:3.40.50.1000:FF:000166; G3DSA:1.10.150.340:FF:000001; G3DSA:3.40.50.1000; G3DSA:1.10.150.340; PTHR13045; PF05822; SFLDG01128; SFLDS00003; SSF56784
+Interpro Signature Description:  HAD_5NT; Cytosolic 5-nucleotidase; Cytosolic 5-nucleotidase 3-like; -; 5'-NUCLEOTIDASE; Pyrimidine 5'-nucleotidase (UMPH-1); C1.4: 5'-Nucleotidase Like; Haloacid Dehalogenase; HAD-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                4.76%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: 7-methylguanosine phosphate-specific 5'-nucleotidase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: 7-methylguanosine phosphate-specific 5'-nucleotidase A%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: 7-methylguanosine phosphate-specific 5'-nucleotidase A
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: 7-methylguanosine phosphate-specific 5'-nucleotidase A-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: uncharacterized LOC127766753
+  Gene Descriptions: uncharacterized LOC127766753
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4333582
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: uncharacterized LOC133912959%2C transcript variant X1; uncharacterized LOC133915792
+  Gene Descriptions: uncharacterized LOC133912959; uncharacterized LOC133915792
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: 7-methylguanosine phosphate-specific 5'-nucleotidase A-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: 7-methylguanosine phosphate-specific 5'-nucleotidase%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: 7-methylguanosine phosphate-specific 5'-nucleotidase A
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: uncharacterized LOC100284093
+  Gene Synonyms: GRMZM2G157310,pco072227
+  Gene Descriptions: uncharacterized LOC100284093
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 353 aa
+
+MRPMTSPPLLSPSPCpLLRRLLrlSRAPRRRNPTappPPPPTLRRRLPLLLPAAMSSAST
+TaPDSVVADPdALARKVAAIRAAGPAKLQVIADFDGTLTRYWYDGARGQSSHGLLRQGNE
+EYDAKREALYEHYHPIEICPDIPLPEKAKLMEEWWEKTHGLLIEGGLTYEAIKKSVADAA
+IAFRDGVVELFEFLEERDIPVLVFSAGLADIIEEVFRQKLHRSFKNIKIVSNRMVFNEEG
+RLVAFKGKTIHVLNKNEHALDMAAPVHDNLGDPNGSIDDYSLVKKRTNVLLLGDHIGDLG
+MSDGLNYENRIAVGFLNaNIEKSLKDYSkAFDIVYLNDAPMRGVVELVSELCP
+
+
+BOP CONSENSUS:
+Length: 351 aa
+
+MRPMTSPLLLSPSPCRLLRRLFSRAPRRRNPTTPRPLpPHLGRRLPLrLPASMSSSStRt
+PDSVVADADALARKVAAIRAAGPAKLQVIADFDGTLTRYWYDGSRGQSSHGLLRQGNEEF
+DAKREALFEHYHPIEINPDIPLPEKAKLMEEWWGKTHGLLIEGGLTQEAIKKSVADAAIA
+FRDGVVELFEFLEARDIPVLVFSAGLADIIEEVFRQKLHRSFKNIKIVSNRMVFNEEGCL
+VAFKGKTIHVLNKNEHSLDMAAPVHDSLGDPNGStDDYSLVKKRTNVLLLGDHIGDLGMS
+DGLNYENRIAAGFLNTNIEKSLKDYSEAFDIVYLNDASMRGVVELVSDLCP
+
+
+PACMAD CONSENSUS:
+Length: 354 aa
+
+MRPMTSPPLLSPSPCPLLLRlLRLSRAPRRRNPTAAPpPPyTFRRRLLLLLPAAMSSSAS
+TTAPDSVVADPtALARKVAAIRAAGPAKLQVIADFDGTLTRYWYDGARGQSSHGLLRQGN
+EEYDAKREALYEHYHPIEICPDIPLPEKAKLMEEWWEKTHGLLIEGGLTYEAIKKSVSDA
+AIAFRDGVVELFEYLEERDIPVLVFSAGLADIIEEVFRQKLHRSFKNIKVVSNRMVFNEE
+GRLVAFKGKTIHVLNKNEHALDMAAPVHDNLGDPNGSIDDYSLVKKRTNVLLLGDHIGDL
+GMSDGLNYENRIAVGFLNANIEKSLKDYSKAFDIVYLNDAPMrGVVELVSELCP
+
+================================================================================

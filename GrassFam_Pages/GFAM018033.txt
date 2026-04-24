@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM018033
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             520.0 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11042:SF155
+Panther Family ID:               PTHR11042
+Modal Panther ID:                PTHR11042:SF155
+Modal Panther Description:       PROTEIN KINASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR11042
+Modal Panther Fam Desc:          EUKARYOTIC TRANSLATION INITIATION FACTOR 2-ALPHA KINASE  EIF2-ALPHA KINASE -RELATED
+Interpro Signature Accession:    G3DSA:1.10.510.10:FF:000531; G3DSA:3.30.200.20:FF:000356; G3DSA:1.10.510.10; G3DSA:3.30.200.20; PTHR11042; PF00069; SM00220; SSF56112
+Interpro Signature Description:  Wee1-like protein kinase; WEE protein kinase; Transferase(Phosphotransferase) domain 1; Phosphorylase Kinase; domain 1; EUKARYOTIC TRANSLATION INITIATION FACTOR 2-ALPHA KINASE  EIF2-ALPHA KINASE -RELATED; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: wee1-like protein kinase%2C transcript variant X3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: wee1-like protein kinase
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: wee1-like protein kinase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: wee1-like protein kinase
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: wee1-like protein kinase
+  Gene Descriptions: wee1-like protein kinase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: wee1-like protein kinase
+  Gene Synonyms: WEE1
+  Gene Descriptions: wee1-like protein kinase
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: wee1-like protein kinase; wee1-like protein kinase%2C transcript variant X1
+  Gene Descriptions: wee1-like protein kinase
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi01K
+  Gene Products: wee1-like protein kinase
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: wee1-like protein kinase
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: wee1-like protein kinase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC541768
+  Gene Synonyms: GRMZM5G878541,wee1
+  Gene Descriptions: uncharacterized LOC541768
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 517 aa
+
+MLRTKTPRPRGGKARRRAtpAAtkvKAqmAAAAEGSSPSGELSLQLEHVSLfSFLSDRPa
+aglTPFEALLEEEsdpDPtPPPPLPPPPPPQASPMDADEPMEEKDCCILSQDFFCTPDYI
+TPEMPQlANeFDADKENIPCPKSPEKSVNaRSKRYRRDCSPKGLESTDFSFdQQITPVqF
+DSLsQDDSEEEQmmQPaLQKRGSYVSQSAVALRCRVTPPPCIKNPYLNTDPrIDDnVYGG
+RQCKSSGFSPSIGGDGLSRYRTDFHEIEKIGhGNFSVVFKVLnRIDGCLYAVKRSIKQLH
+NDMERRQAVKEVQALAALGsHENIVGYFTSWFENEQLYIQMELCDRCLSMNRNQPLKcGE
+ALELLYQICKGLDFIHERGIAHLDVKPDNIYVRNGIYKLGDFGCATLIDRSLAIEDGDSR
+YMPPEMLNDKYEHLDKVDIFSLGAAVYELIRGTPLPESGPQFTSLREGKIALLPGCPMQF
+QSLIKSMMDPDPVRRPSAKEILRHPIFEKLHKAPAKK
+
+
+BOP CONSENSUS:
+Length: 508 aa
+
+MLRTKTPRPRGGSKSRRRFTPPATKAQAAAAAGSSPSGELSQKLEHVTLFPlFADrPfAS
+PKPFGELLEeSPAPAPAPAPAPPQAAPVDADVPMEDRDACILSQDFFCTPDYLTPDAPQL
+ASSFDADKENIPCPQSPEKSVARSKRYKRDSSPKGRsTDLLEaDSQEITPVRFSLSQDDS
+EEEQMAQPSSQKRGSYVPHSARVLRSQVTPPPCIKNPYNMDPRIDDNVFCVRQCKSSGSS
+PSIGADGLSRYRTDFHEIEQIGrGNFSVVFKVLRRIEGCLYAVKRSIKQLHNDMDRRQAL
+KEVHTLVALGNHENIVGYFTSWFETEKLYIQMELCDRSLSVNGDKPLEFGDALELLYQIC
+KGLDFIHGRGVAHLDVKPDNIYVRNGVYKLGDFGCATLIDRSLAIEEGDSRYMPPEMLNE
+KHEHLDKVDIFSLGAAVYELIRGTPLPVSGHQFASLREGKISLLPGHPMQFQSLIKSMMD
+PDPVRRPSAKEILRHPIFEKLRNASAKK
+
+
+PACMAD CONSENSUS:
+Length: 527 aa
+
+MLRTKTPRPRGGKARRAPgAASAVKpAAAEGRSPSGELSLQLEHVSLISFLSDRRPAAPA
+sGLTPFEALLEEEdsGYRADPTPPPPLPQPQSMPPPPPPPQASPMDADEPMEEKDCCILS
+QDFFCTPDYITPEMPQVANEFDDDKENIPCPKSPEKSANPRSKRYRTDCSPKGLESTDFS
+FDQQITPVQFDSLtRDDSEEEQPMQPALeKRGGYVSQSAVALRCRVMPPPCVKNPYLNTD
+PCIDDAVYGGRQCNSAGFSPSIGGNGLSRYRTDFHEIEKIGHGNFSVVFKVLNRIDGCLY
+AVKRSIKQLHNDMERRQAVKEVQAMAALGSHENIVRYFTSWFENEQLYIQMELCDRCLSM
+NRNQPLKCGEALELLYQICKGLDFIHERGIAHLDVKPDNIYVRNGIYKLGDFGCATLINR
+SLAIEDGDSRYMPPEMLNDKYEHLDKVDIFSLGAAIYELIRGTPLPESGPHFTSIREGKI
+ALLPGCPMQFQSLIKSMMDPDPVRRPSAKEILRHPsFEKLHKAPAKK
+
+================================================================================

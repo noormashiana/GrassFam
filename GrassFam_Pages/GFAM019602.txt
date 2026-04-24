@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM019602
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             320.0 aa
+Family Size (Extended Family Size): 30 (31) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24320:SF242
+Panther Family ID:               PTHR24320
+Modal Panther ID:                PTHR24320:SF242
+Modal Panther Description:       SHORT-CHAIN DEHYDROGENASE TIC 32, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR24320
+Modal Panther Fam Desc:          RETINOL DEHYDROGENASE
+Interpro Signature Accession:    cd05327; G3DSA:3.40.50.720; PTHR48476; SSF51735
+Interpro Signature Description:  retinol-DH_like_SDR_c_like; -; SHORT-CHAIN DEHYDROGENASE TIC 32, CHLOROPLASTIC-LIKE; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: short-chain dehydrogenase TIC 32%2C chloroplastic
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu03H
+  Gene Products: short-chain dehydrogenase TIC 32 B%2C chloroplastic-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata03D
+  Gene Products: short-chain dehydrogenase TIC 32 B%2C chloroplastic%2C transcript variant X1; short-chain dehydrogenase TIC 32 B%2C chloroplastic-like
+Tae
+  Gene count: 6
+  Modal chromosome: Tae03A
+  Gene Products: short-chain dehydrogenase TIC 32 B%2C chloroplastic-like; short-chain dehydrogenase TIC 32 B%2C chloroplastic-like%2C transcript variant X1; short-chain dehydrogenase TIC 32 B%2C chloroplastic-like%2C transcript variant X3
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: short-chain dehydrogenase TIC 32 B%2C chloroplastic-like
+  Gene Descriptions: short-chain dehydrogenase TIC 32 B%2C chloroplastic-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: short-chain dehydrogenase TIC 32 B%2C chloroplastic%2C transcript variant X2
+  Gene Descriptions: short-chain dehydrogenase TIC 32 B%2C chloroplastic
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: short-chain dehydrogenase TIC 32 B%2C chloroplastic-like; short-chain dehydrogenase TIC 32 B%2C chloroplastic-like%2C transcript variant X1
+  Gene Descriptions: short-chain dehydrogenase TIC 32 B%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi05K
+  Gene Products: short-chain dehydrogenase TIC 32 B%2C chloroplastic-like; short-chain dehydrogenase TIC 32 B%2C chloroplastic-like%2C transcript variant X1
+Pha
+  Gene count: 2
+  Modal chromosome: Pha05
+  Gene Products: short-chain dehydrogenase TIC 32%2C chloroplastic-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: short-chain dehydrogenase TIC 32%2C chloroplastic%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: retinol dehydrogenase 11%2C transcript variant X1
+  Gene Synonyms: GRMZM2G162527
+  Gene Descriptions: retinol dehydrogenase 11
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 320 aa
+
+MGILSLITGKAGASGFGSASTAEQVTDGVDASRLTViITGGASGIGLETSRVFALRGAHV
+IIAARNTEAASEARKtIMEkNPtARIDVLKLDLSSLKSVRAFADQFNSMNLPLNILINNA
+GVMFCPFQLSEDGVEMQFATNHLGHFLLTNLLLDNMKATAKSTGIEGRIVNLSSVAHlHT
+YPKGIqFDKLNDEKiYNDKMAYGQSKLANILHAKELSRRLKEEGANITVNSVHPGLIMTN
+LMRHSFvLMKAIQVATYILWKNVPQGAATTCYVGLNPQLKGVTGKYFADCNEEKTSKLAK
+SDeLAKQLWEFSEELIKSAK
+
+
+BOP CONSENSUS:
+Length: 320 aa
+
+MGILSLITGKPGASGFGSGSTAEQVTeGVDAsgLTVIVTGGSSGIGLETSRVFALRGAHV
+IIAARNTEAASEARKRItEaNPtARVDVLKLDLSSLKSVRAFADQFNSMNLPLNILINNA
+GVMFCPFQLSEDEVEMQFATNHLGHFLLTNLLLDNMKATAKSTGIEGRIVNLSSVAHLHT
+YPKGIQFDqLNDKKTYNDKMAYGQSKLANILHAKELSRRLKEEGANITVNCVHPGLIMTN
+LMRHSFALMKAIQVVTYLfWKNVPQGAATTCYVGLNPQLKGVTGKYFADCNEEKTSKlAK
+SDALAKQLWEFSEELIRSAK
+
+
+PACMAD CONSENSUS:
+Length: 320 aa
+
+MGILSLITGKAGASGFGSASTAEQVTDGVDASRLTVVITGGASGIGLETSRVFALRGAHV
+IIAARNTEAASEARKTIMEKNPTARIDVLKLDLSSLKSVRAFADQFNSMKLPLNILINNA
+GVMFCPFQLSKDGVEMQFATNHLGHFLLTNLLLDNMKATAKSTGIEGRIVNLSSVAHhHT
+YPKGIDFDKLNDEKIYNDKMAYGQSKLANLLHAKELSRRLKEEGANITVNSVHPGLIMTN
+LMRHSFVLMKvLQVATYILWKNVPQGAATTCYVGLNPQLrGVTGKYFADCNVEKTSKLAr
+SEELAKQLWDFSEELIKSAK
+
+================================================================================

@@ -1,0 +1,127 @@
+================================================================================
+GrassFam ID: GFAM014934
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             341.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR32227:SF416
+Panther Family ID:               PTHR32227
+Modal Panther ID:                PTHR32227:SF416
+Modal Panther Description:       OS05G0495900 PROTEIN
+Modal Panther Family ID:         PTHR32227
+Modal Panther Fam Desc:          GLUCAN ENDO-1,3-BETA-GLUCOSIDASE BG1-RELATED-RELATED
+Interpro Signature Accession:    G3DSA:3.20.20.80:FF:000010; G3DSA:3.20.20.80; PTHR32227; PF00332; SSF51445
+Interpro Signature Description:  glucan endo-1,3-beta-glucosidase, basic; Glycosidases; GLUCAN ENDO-1,3-BETA-GLUCOSIDASE BG1-RELATED-RELATED; Glycosyl hydrolases family 17; (Trans)glycosidases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: putative glucan endo-1%2C3-beta-glucosidase GVI
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: putative glucan endo-1%2C3-beta-glucosidase GVI
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: putative glucan endo-1%2C3-beta-glucosidase GVI
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: putative glucan endo-1%2C3-beta-glucosidase GVI; putative glucan endo-1%2C3-beta-glucosidase GVI%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: putative glucan endo-1%2C3-beta-glucosidase GVI
+  Gene Descriptions: putative glucan endo-1%2C3-beta-glucosidase GVI
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: putative glucan endo-1%2C3-beta-glucosidase GVI
+  Gene Descriptions: putative glucan endo-1%2C3-beta-glucosidase GVI
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau01
+  Gene Products: putative glucan endo-1%2C3-beta-glucosidase GVI
+  Gene Descriptions: putative glucan endo-1%2C3-beta-glucosidase GVI
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi05N
+  Gene Products: putative glucan endo-1%2C3-beta-glucosidase GVI
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: putative glucan endo-1%2C3-beta-glucosidase GVI
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: putative glucan endo-1%2C3-beta-glucosidase GVI
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: putative glucan endo-1%2C3-beta-glucosidase GVI
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 340 aa
+
+MiALWVAACSLLLwCSSfSGVEGIGVNYGMIGNNLPSPDKVIALYKAnNITDVRLFHPDT
+tVLaALRGSGLGVVLGTLNEDLARLASDASFAASWVQSYVQPFAGAVRFRYINAGNEVIP
+GDlAAlVLPAMQNLESALRAAGLGgVPVTTAVATSVLGSSYPPSQGAFSEAALPtVGPIV
+SFLASRsTPLLVNVYPYFAYSADPSSVPLDYALLSSSaAAAVTDGGVeYtNMFDAILDAV
+YAALERAGGGesLEVVVSETGWPSGGGGAGASVENAAAYvNNLVRHVGRGTPRRPGKAVE
+TYIFAMFNENQKPEGVEQhFGLFQPDMTEVYHVDFsAASS
+
+
+BOP CONSENSUS:
+Length: 338 aa
+
+MIALWVAACSLLSWCSSLSGVEGIGVNYGMMGSNLPSPDKVVALYKANNITDVRLFHPDT
+nVLEALRGSGLGVVLGTLNSDLAPLASDASYAASWVQSYVQPFAGAVSFRYINAGNEVIP
+GESAALVLPAMQNLEAALRAAGLSVPVTTAVATSVLGTSYPPSQGAFSEAALPTVGPIVS
+FLASRGTPLLVNVYPYFAYSADPSSVPLDYALLSSSAAVAVTDNGVEYANMFDAILDAVY
+AAVEKAGGGESLELVVSETGWPSGGGGYGASVENAAAYINNLVRHVGRGTPRRPGKAVET
+YIFAMFNENQKPEGVEQYFGMFQPDMSQVYHVDFSASS
+
+
+PACMAD CONSENSUS:
+Length: 344 aa
+
+MMaALWIAACSLLLcSSFSGVEGIGVNYGMIANNLPSPDKVIALCKARNITDVRLFHPDT
+TVLAALRGSGLGVVLGTLNEDLARLASDpSFAASWVQSYVQPFAGAVRFRYVTAGNEVIP
+GDLAAyVLPAMQNLESALRAAGLGGVPVTTAVSTSVLGSSYPPSQGAFSEAALPSVGPIA
+SFLASRSTPLLVNVYPYFAYSADPSSVPLDYALLQSASAgAAVTDGGVsYTNMFDAIVDA
+VYAALERAGAPgGLEVVVSETGWPSGGGGAGASVGNAAAYVNNVVRHVGSGRGTPRRPGK
+AVEAFVFAMFNENQKPEGVEQHFGLFQPDMTEVYHVDFTAASSS
+
+================================================================================

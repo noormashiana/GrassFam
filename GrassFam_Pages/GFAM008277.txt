@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM008277
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             437.5 aa
+Family Size (Extended Family Size): 26 (30) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR10177
+Modal Panther ID:                PTHR10177:SF419
+Modal Panther Description:       CYCLIN-B1-5
+Modal Panther Family ID:         PTHR10177
+Modal Panther Fam Desc:          CYCLINS
+Interpro Signature Accession:    cd20567; cd20511; G3DSA:1.10.472.10:FF:000032; G3DSA:1.10.472.10; PTHR10177; PIRSF001771; PF00134; PF02984; SM00385; SM01332; SSF47954
+Interpro Signature Description:  CYCLIN_AtCycB-like_rpt1; CYCLIN_AtCycB-like_rpt2; G2/mitotic-specific cyclin-1; -; CYCLINS; Cyclin_A_B_D_E; Cyclin, N-terminal domain; Cyclin, C-terminal domain; cyclin_7; Cyclin_C_2; Cyclin-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: cyclin-B1-5
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu01H
+  Gene Products: cyclin-B1-5-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata01D
+  Gene Products: cyclin-B1-5
+Tae
+  Gene count: 5
+  Modal chromosome: Tae01B
+  Gene Products: cyclin-B1-5; cyclin-B1-5-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: cyclin-B1-5
+  Gene Descriptions: cyclin-B1-5
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: cyclin-B1-5
+  Gene Synonyms: CYCB1-5,CycB1%3B5,OsJ_018267
+  Gene Descriptions: cyclin-B1-5
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: cyclin-B1-5-like; cyclin-B1-5-like%2C transcript variant X2
+  Gene Descriptions: cyclin-B1-5-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: cyclin-B1-5-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: cyclin-B1-5
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: cyclin 1
+  Gene Synonyms: csh9,cyc1,CYC1b,cyclin-A1,Cyclin1,GRMZM2G034647
+  Gene Descriptions: cyclin 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 447 aa
+
+MATRHhrHAAAAPQPANRGAAVpAGKQKaAAAAGRPaGGNRRALGDIGNVVHAHVLDGKI
+QLPEGINRPITRSFGAQLLKKAQAnaAlANKNAVAvPPAARAApKPAkKVPvKavPRPEq
+AAKIvTGSDENRKPSEgAAgsSAqKtSRKKVVhTLTTVLsHRSKEACGLTEKPKELIEDI
+DKLDGDNELAVVDYIEDIYkYYKtAQHEsRPIDYMGSQPEiNPKMRAILtDWLVEVhHKF
+ELMPETLYLTIYiIDRFLSLQAVPRRELQLVGmAAMLIACKYEEIWAPEVNDFISIADNA
+YSRQQILsMEKnILNSMeWNLTVPTPYVFLVRFAKAAGSDKELEHMIFFFAELALMEYGm
+VTvrPSLVAASAVYAARCTLKRSPLWTETLKHHTGFaEpQLlEPAKmLVmAHAAAPeSKL
+KAIYKKYSsEQFGRVALhPPAVAQrLA
+
+
+BOP CONSENSUS:
+Length: 436 aa
+
+MATRHNQHAAAAPQPANRGAAVPAGKQKgAAAGGRPAGGNRRALGDIGNVVHAHVLDGKI
+QLPAGINRPITRSFGAQLLKKAQAePSKNgVAVPPAARAALKPVAKKVPVKPAAPRPEPA
+AKIVTGSDENRKPSEvaApsKtSRKKVVHTLTTVLnHRSKEACIdDIDKLDGDNELAVVD
+YIDDIYkYYKeAQHEcRPIDYMGSQPEINPKMRAILtDWLVEVTHKFELMPESmYLTIYV
+IDRFLSLQAVPRRELQLVGvAAMLIACKYEEIWAPEVNDFISIADNsYSRQQILSMEKNI
+LNSMAWNLTVPTPYVFLVRFAKAAGSDKELEHMIFFFAEMALMEYGLVTVRPSLVAASAV
+YAARCTLKRSPIWTETLKHHTGFaEpQLLEPAKvLVMAHAAAPESKLKAIYKKYSsEQYG
+RVSLRPPAVAAPQRLA
+
+
+PACMAD CONSENSUS:
+Length: 443 aa
+
+MATRNHRAAAAPQPANRGAAVlAGKQKdAAAAGRPTRRALGDIGNVAtDVLDGkIqLPEG
+INRPITRSFGAQLLKNAALANKNAVAPAqPVAARAVPKPARKAPAKPVPRPEQAPKIAtg
+PeENRKPSEGAAGSSssvQKNSRKKvVcTLTTVLtARSKaACGLTEKPKELIEDIDKLDG
+DNQLAlVDYVEDIYTFYKTAQHESRPsDYMGsQPEltpKMRAILTDWlIEVHqRFeLMPE
+TLYLTIYIVDRYLSLQPVPRRELQLVGmAAMLIACKYEEIWAPEVNDFIhIsDcAFSRQQ
+ILvMEKAILNsMEWNLTVPTPYHFLVRFAKAAGSgDKQLEHMIyFFGELALMDYrMVTty
+PStVAAsAVYAARLTLRKSPLWTETLKHHTGLHEqQLMEGAkILVrSHAAAPDGKLKTVY
+qKYAAEQFGRVALHPPAAlPGLV
+
+================================================================================

@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM006157
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             502.5 aa
+Family Size (Extended Family Size): 24 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23070:SF80
+Panther Family ID:               PTHR23070
+Modal Panther ID:                PTHR23070:SF80
+Modal Panther Description:       AAA1
+Modal Panther Family ID:         PTHR23070
+Modal Panther Fam Desc:          BCS1 AAA-TYPE ATPASE
+Interpro Signature Accession:    cd19510; G3DSA:3.40.50.300:FF:001122; G3DSA:3.40.50.300; PTHR23070; PF25568; SSF52540
+Interpro Signature Description:  RecA-like_BCS1; AAA-ATPase ASD, mitochondrial; -; BCS1 AAA-TYPE ATPASE; At3g28540-like, AAA+ ATPase lid domain; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: AAA-ATPase At3g28510-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: AAA-ATPase At3g28510
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: AAA-ATPase At3g28510-like
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: AAA-ATPase At3g28580-like
+  Gene Descriptions: AAA-ATPase At3g28580-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: AAA-ATPase At3g28580
+  Gene Descriptions: AAA-ATPase At3g28580
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: AAA-ATPase ASD%2C mitochondrial-like
+  Gene Descriptions: AAA-ATPase ASD%2C mitochondrial-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi03K
+  Gene Products: AAA-ATPase ASD%2C mitochondrial-like; AAA-ATPase At3g28580-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha08
+  Gene Products: AAA-ATPase ASD%2C mitochondrial-like; AAA-ATPase At3g28510-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: AAA-ATPase At3g28580
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: AAA-ATPase ASD mitochondrial
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 502 aa
+
+MaaasllsGLNSGVVLSLIAVLWTVVWQNLQHLQLQQFFgRHLSRHARRLAAMVDPYLSV
+TIAEYEGGRMKRSDAYEEVKAYLSaAtSRGVRHLRAEGAKDADKLVLSMVDGEEVaDEFq
+GATVWWWAYSKPPPRqDgaAawWGGGGGAQEERRFYRLFFLERHRELVLDTYLPRVRQQG
+RAVMVKNRQRKLFTNISTHQWSDGGYmRSAWSHVVFEHPKTFATLAMDPAkKKEImDDLD
+MFKNGKDYYARVGKAWKRGYLLYGPPGTGKSAMIAAMANYLDYDIYDIELTSVHSNTDLR
+KLFIETTSKSIIVIEDIDCSLDLTGARKKKKaAEEDDKDKKDGGParpGeKKDTSSKVTL
+SGLLNFIDGLWSACGGERIIVFTTNHVEKLDPALIRRGRMDKHIEMSYCGFEAFKFLAKT
+YLDVDsHeLFgAVGELLREVDMTPADVAENLTPKSLDDdADSCLaaLVKALEEAKEKKAS
+GGgeqDqqeEEEggvVaAVDKE
+
+
+BOP CONSENSUS:
+Length: 510 aa
+
+MRGMeGASSAaGVWGGLNSGVVLSLIAVLWTVVWQNLQHLQLQHFVKRHLGRHARRLAAL
+VDPYLSVTIAEYDGGRMRRAEAYEEVKAYLAAsTSRSARHLRAEGAkDADRLVLSMVDGE
+EVsDvLLPEEGGGaVFWWAYSRPPPqQDRRWGGGGGGGDEENRRFYRLFFLDRHREQVLN
+AYLPRVRRQGRAVMVQNRRRKLFTNISTHQFSDGGYaRSAWTHVPFEHPKTFATLAMDPA
+sKKEVmDDLDAFKAGKeWYERVGKAWKRGYLLHGPPGTGKSAMIAAMANHLDYDVYDIEL
+TSVHSNTDLRKLFIGTTSKSIIVIEDIDCSLDLTGARpKKKDAAPEDdDKAsKGDKKGAA
+DASSKVTLSGLLNFIDGLWSACGGERVIVFTTNHLEKLDPALIRRGRMDKHIEMSYCRgP
+AFEFLAKAYLGVDEHELFGaVGALLrEVDMTPADVAENLTPKSADDDADSCLRGLVAALE
+KAREDKASGGGqEKQPEEEDGGVVAAVDKE
+
+
+PACMAD CONSENSUS:
+Length: 495 aa
+
+MEASmLSGLNSGVVLSLIAVLWTVVWQNLQHLQLQQFFGRHLSRHARRLAAMVDPYLSVT
+IAEYEGGRMKRSDAYEEVKAYLSDACSRGVRHLRAEGAKDADKLVLSMVDGEEVADEFQG
+ATVWWWAYSKsPPRSDGAAAWWGGGGAQEERRFYRLFFLERHRELVLDTYLPRVRQLGRA
+VMVKNRQRKLFTNISTHQWSDGGYMRSAWSHVVFEHPKTFATLAMDPAkKKEItDDLDMF
+KNGKDYYARVGKAWKRGYLLYGPPGTGKSAMIAAMANYLDYDIYDIELTSVHSNTDLRKL
+FIETTSKSIIVIEDIDCSLDLTGARKKKKAAEEDDKDKKDGAAParApGEKKDTSSKVTL
+SGLLNFIDGLWSACGGERIIVFTTNHVEKLDPALIRRGRMDKHIEMSYCGFEAFKFLAKT
+YLDVDSHPLFDAVGELLREVqMTPADVAENLTPKSLDDGPDSCLAALVKALEEAKEKKAS
+GGnEQDEQDEEEQPq
+
+================================================================================

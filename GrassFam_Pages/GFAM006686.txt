@@ -1,0 +1,128 @@
+================================================================================
+GrassFam ID: GFAM006686
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             466.0 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43029:SF11
+Panther Family ID:               PTHR43029
+Modal Panther ID:                PTHR43029:SF11
+Modal Panther Description:       AMMONIUM TRANSPORTER
+Modal Panther Family ID:         PTHR43029
+Modal Panther Fam Desc:          AMMONIUM TRANSPORTER MEP2
+Interpro Signature Accession:    G3DSA:1.10.3430.10:FF:000005; G3DSA:1.10.3430.10; TIGR00836; PTHR43029; PF00909; SSF111352
+Interpro Signature Description:  Ammonium transporter; Ammonium transporter AmtB like domains; ammonium transporter; AMMONIUM TRANSPORTER MEP2; Ammonium Transporter Family
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: putative ammonium transporter 4 member 1%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: ammonium transporter 2 member 5-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: ammonium transporter 2 member 5-like
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: ammonium transporter 2 member 5-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: putative ammonium transporter 4 member 1
+  Gene Descriptions: putative ammonium transporter 4 member 1
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: putative ammonium transporter 4 member 1; putative ammonium transporter 4 member 1%2C transcript variant X1
+  Gene Descriptions: putative ammonium transporter 4 member 1
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi09K
+  Gene Products: putative ammonium transporter 4 member 1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: putative ammonium transporter 4 member 1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: putative ammonium transporter 4 member 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: putative ammonium transporter 4 member 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 465 aa
+
+MATEAAPEWLDKGDNAWQLAAATLVGLQSVPGLVILYGSIVKKKWAVNSAFMALYAFAAT
+FVCWCLWAFRMSFGDRLLPFVGRPDFAALDQAFLTqQGFAGAYPAATLLFFQFVFAAITL
+ILVAGSLLGRvNFRAWMLFVPLWLTFSYTVGAFSvWSPNGFLFKAGVMDFAGGYVIHLSS
+GIAGFTAAYWVGPRTAKDREAFPPNNILLTLAGAGLLWMGWTGFNGGAPYAANIDASVAV
+VNTHLCTATSLLVWLCLDCFVFGRPSVIGAVQGMITGLVCITPAAGLVQGWAAMLMGvvS
+GSVPWCTMMVLHKRSRfLKRVDDTLAVLHTHGVAGSLGGVLTGVLAEPRLCRLFFGDDPR
+YVGLVYAVRDGRAAAGLRQVGVQLAGIAFVVALNVvVTSAVCLvVGlLVPLRLSEEQLAA
+GDDAIHGEDAYAVWGDGETYEQSVHGNHgYPMTANPMASKADEMI
+
+
+BOP CONSENSUS:
+Length: 466 aa
+
+MATEAAPEWLEKGDNAWQLAAAALVGLQSVPGLVILYGSIVKKKWAVNSALMALYAFAAT
+MVCWCLWGFRMSFGDRLLPFVGRPDFAGLDAAGFLSAQGFAGAYPAATLLFFQFVFAAIT
+LILVAGSLLGRMNFRAWMIFVPLWLTFSYTVGAFSVWSPNGFLFKAGVMDFAGGYVIHLS
+SGIAGFTAAFWVGPRTAKDREAFPPNNILLTLAGAGLLWMGWTGFNGGAPYAANIDASVA
+VVNTHLCTATSLLVWLILDCFVFGRPSAIGAVQGMITGLVCITPAAGLVQGWAAMLMGLV
+SGSVPWFTMMVLHKRCRvLRHVDDTLAILHTHGVAGSLGGLMTGLLAEPRLCRLFFGDDP
+RYVGFVYAVRGGRVSAGLRQMGVQLAGIAFIVALNVVVTSIVCLLVRVAVPLRLSEEQLA
+AGDDAIHGEDAYAVWGDGETYEQSVHGSRRYQMTANPMSSKVDEII
+
+
+PACMAD CONSENSUS:
+Length: 465 aa
+
+MATEAAPEWLDKGDNAWQLAAATLVGLQSVPGLVILYGSIVKKKWAVNSAFMALYAFAAT
+FVCWCLWAFRMSFGDRLLPFVGRPDLAALDQAFLTQQGFAGAYPAATLLFFQFVFAAITL
+ILVAGSLLGRVNFRAWMLFVPLWLTFSYTIGAFSLWSPNGFLFKAGVMDFAGGYVIHLSS
+GIAGFTAAYWVGPRTAKDREAFPPNNILLTLAGAGLLWMGWTGFNGGAPYAANIDASVAV
+VNTHLCTATSLLVWLCLDCfVFGRPSVIGAVQGMITGLVCITPAAGLVQGWAAMLMGVvS
+GSVPWCTMMVLHKRSRFLKRVDDTLAVLHTHGVAGSLGGVLTGVLAEPRLSRLFFGDDPR
+YVGLVYAvKDGRAAAGLRQVGMQLAGIAFVVALNVAVTSAVCLVVGLLVPLRLSEEQLAA
+GDDAIHGEDAYAVWGDGETYEQSVHGNHgYPMTSNPVASKADEMI
+
+================================================================================

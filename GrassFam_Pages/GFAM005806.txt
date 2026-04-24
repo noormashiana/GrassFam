@@ -1,0 +1,122 @@
+================================================================================
+GrassFam ID: GFAM005806
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             581.0 aa
+Family Size (Extended Family Size): 17 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47926:SF345
+Panther Family ID:               PTHR47926
+Modal Panther ID:                PTHR47926:SF345
+Modal Panther Description:       (WILD MALAYSIAN BANANA) HYPOTHETICAL PROTEIN
+Modal Panther Family ID:         PTHR47926
+Modal Panther Fam Desc:          PENTATRICOPEPTIDE REPEAT-CONTAINING PROTEIN
+Interpro Signature Accession:    G3DSA:1.25.40.10:FF:000344; G3DSA:1.25.40.10:FF:000989; G3DSA:1.25.40.10; PTHR47926
+Interpro Signature Description:  Pentatricopeptide repeat-containing protein; Pentatricopeptide repeat-containing protein At1g31430; Tetratricopeptide repeat domain; PENTATRICOPEPTIDE REPEAT-CONTAINING PROTEIN
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: pentatricopeptide repeat-containing protein At2g22410%2C mitochondrial
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: DNA polymerase zeta processivity subunit%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: putative pentatricopeptide repeat-containing protein At5g37570
+Tae
+  Gene count: 2
+  Modal chromosome: Tae07B
+  Gene Products: DNA polymerase zeta processivity subunit-like%2C transcript variant X2; putative pentatricopeptide repeat-containing protein At5g37570
+Ola
+  Gene count: 2
+  Modal chromosome: Ola07
+Pau
+  Gene count: 2
+  Modal chromosome: Pau16
+  Gene Products: DNA polymerase zeta processivity subunit-like%2C transcript variant X1; putative pentatricopeptide repeat-containing protein At5g37570
+  Gene Descriptions: DNA polymerase zeta processivity subunit-like; putative pentatricopeptide repeat-containing protein At5g37570
+Svi
+  Gene count: 1
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi06K
+  Gene Products: DNA polymerase zeta processivity subunit-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: DNA polymerase zeta processivity subunit%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: DNA polymerase zeta processivity subunit%2C transcript variant X2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 581 aa
+
+MclsSRIfvGKsKPFSIAkSSfPEnKcILSvPIPRLSHCHIPLLLSrAIVSGLLLKLPLV
+HSVLRSLSLGPVPSLSLSFLSLLRHSGYMTLDNYSLNIALSATARLPSVSVGAQLHSLSV
+KLGLVSDTFVLNSLINMYSSCSYPsTARlVLDSAPQGACDtVSWNTIIAGYLRGGMPNKA
+LQAFGQMAKEQVrLDDVTLLNALVASARTgtVKVGRLCHALVVVNGfGINCYMGSSLISM
+YAKCGLVEDARKVFDGMHERNVVCWTSMISGYTQLGKFKEAVkLFRDMQIsGMKADDATI
+ATVVSSCAQMGALDLGRYVHAYCDVHGLGKELSVKNSLIDMYSKCGDIKKAYEIFCGLTK
+RDVFSWTAMIMGFAVNGLCGEALDLFAQMEGEGKVMPNEVTFLGVLTSCSHGGLVEQGYH
+HFQRMSmVYNLAPRIEHYGCMVDLLGRAKLLAEAEQFIKEMPIAPDVVVWRSLLFACRAC
+GEVGLAEYVAERILELEPKKCAGHVLLSNVYATTSRWVDVNKLRTsMDsSRMSKQPGCSF
+IEVDGCVHEFFAGDESHLETEAIYNILLGINELLVAESLLv
+
+
+BOP CONSENSUS:
+Length: 580 aa
+
+MCLSSRMLDGKTRSFSTVRKSFPESKYVLSVPISRLSHRHLPLLLSYATVSGLLLrVPLL
+HSVLRSLSSGPVPSLSLSFLSLLRRSGYMPLDNYSLSAALSTAARMPSVVVGAQLHALSV
+KLGLSSDTFVLNTLINMYSSCSYPSTARSVLDSAPQGASDVVSWNTIIAGYLHGGMPNKA
+LQAFSQMAKGQVMLDEVTLLNALVACARTCTMKVGRLCHALLVTNGFEINCYMGSSLISM
+YAKCGLVEDARRVFDGMPERNVVCWTSMISGYTQLGQSKEAVKLFRDMQIAGVKVDDATI
+ATVVSSCGQMGALDLGRYVHAYCDVHGLGKDISVKNSLIDMYSKCGDIKKAYEIFCGMVK
+RDDFSWTVMIMGFAVNGLSGEALDLFAQMEEEGEVMPNEITFLGVLTSCSHGGLVEQGYH
+HFHRMSSIYGIAPRIEHYGCMVDLLGRAKLLAEAEQFIKEMPIAPDVVMWRSLLFACRAC
+GEVGLAEYVAERIQVLEPNRCGGDVLLSTVYATTSRWVDVNKVRTGMYSSRKTKQPGCSF
+IEVDGCVHEFFSGDESHFETEAIYNTLLGINELLVAESFM
+
+
+PACMAD CONSENSUS:
+Length: 581 aa
+
+MstpSQIFVGKSKPFYIAKSSCPENKCILSISIPRLSHCHIPLLLSRsIVSGLLLKLPLV
+HSVLRSLSLGPVPSLSLSFLSLLRHSGYMTLDNYSLNIALSATARLPSVSVGAQLHSLSV
+KLGLVSDTFVLNSLINMYSSCSYPATARLVLDSAPQGACDtVSWNTIISGYLRGGMPNKA
+LQAFGQMAKEQVrLDDVTLLNALVASARTGtVKVGRLCHALVVVNGvGINCYMGSSLISM
+YAKCGLVEDARKVFDGMHERNVVCWTSMISGYTQLGKFKEAVnLFRDMQItGMKADDATI
+ATVVSSCAQMGALDLGRYVHAYCDVHGLGKELSVKNSLIDMYSKCGDIKKAYEIFCGLTK
+RDVFSWTAMIMGFAVNGLCGEALDLFAQMEGEGKVMPNEVTFLGVLTSCSHGGLVEQGYH
+HFQRMSMVYNLAPRIEHYGCMVDLLGRAKLLTEAEQFIKEMPIAPDVVVWRSLLFACRAC
+GEVGLAEYVAERILELEPKKCAGHVLLSNVYATTSRWVDVNKLRTSMDgSRMSKQPGCSF
+IEVDGCVHEFFAGDESHLETEAIYNILLGINELLVAESLLV
+
+================================================================================

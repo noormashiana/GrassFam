@@ -1,0 +1,124 @@
+================================================================================
+GrassFam ID: GFAM001938
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             577.5 aa
+Family Size (Extended Family Size): 36 (41) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11685:SF359
+Panther Family ID:               PTHR11685
+Modal Panther ID:                PTHR11685:SF359
+Modal Panther Description:       RING-TYPE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR11685
+Modal Panther Fam Desc:          RBR FAMILY  RING FINGER AND IBR DOMAIN-CONTAINING
+Interpro Signature Accession:    cd20346; G3DSA:1.20.120.1750:FF:000027; G3DSA:1.20.120.1750; PTHR11685
+Interpro Signature Description:  BRcat_RBR_ANKIB1; RBR-type E3 ubiquitin transferase; -; RBR FAMILY  RING FINGER AND IBR DOMAIN-CONTAINING
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: probable E3 ubiquitin-protein ligase ARI5
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: probable E3 ubiquitin-protein ligase ARI5
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: probable E3 ubiquitin-protein ligase ARI7
+  Gene Descriptions: probable E3 ubiquitin-protein ligase ARI7
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: probable E3 ubiquitin-protein ligase ARI5
+  Gene Descriptions: probable E3 ubiquitin-protein ligase ARI5
+Ecu
+  Gene count: 8
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 2
+  Modal chromosome: Pau12
+  Gene Products: probable E3 ubiquitin-protein ligase ARI5
+  Gene Descriptions: probable E3 ubiquitin-protein ligase ARI5
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi08K
+  Gene Products: probable E3 ubiquitin-protein ligase ARI10; probable E3 ubiquitin-protein ligase ARI5%2C transcript variant X1; probable E3 ubiquitin-protein ligase ARI5%2C transcript variant X2; probable E3 ubiquitin-protein ligase ARI7
+Pha
+  Gene count: 2
+  Modal chromosome: Pha08
+  Gene Products: probable E3 ubiquitin-protein ligase ARI10%2C transcript variant X1; probable E3 ubiquitin-protein ligase ARI5
+Msi
+  Gene count: 9
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 5
+  Modal chromosome: Sbi05
+  Gene Products: probable E3 ubiquitin-protein ligase ARI7; probable E3 ubiquitin-protein ligase ARI8; uncharacterized LOC8070213
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: uncharacterized LOC103648198
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 570 aa
+
+MasGdGdggGrnKRGDgDGEnGrnKRcrvaAgstrDDGEsGDDGteDYggsgDEaDDDGg
+ggGEDyiYDYsDDdDvEeAEvDdadaveraEkRYVVLTEDDVRARQeaDTAKVAEVLSIP
+pGFAAVLLRHFKWRagRVQEEWFSDDRRVRDAVGLPADgGGvpVPtAlsrreLVCAICFg
+rfpAGrtRSAGCsAHFYCdeCWRGYiRAAVgDGPRCLSLRCPDPSCSAAVVRELVDAVAd
+AADRaRYARFALRSYVEESGGRIKWCPGPGCTRAVEFlGcAaadAaDVFCdCRHGFCWsC
+GEEAHRPVSCgTVRAWLAKNsSDSETANWVLANTKHCPKCRRPIEKNQGCNHMTCsPPCG
+HhFCWLCLdPAgrnHygCeGYRPrhpaaagasgavetaEEqRRRQAKASLDRYLYHYERW
+AANlkSLekAlkDMAeLERSELErMAAaVGvPAteLaFLTeAYEQVADGRRVLRWAHAYG
+YFLDPERDAAKReLFDdLQdqANswLERLHgCAELERKELFcsdgdpavvrEllraYKeK
+leNLTgVTRtFlgNLVKAFETDLPEvkavn
+
+
+BOP CONSENSUS:
+Length: 492 aa
+
+MSDAEETRVHVAPVTYVVLTEDEVLRRQAEDTAGVAEVLSIPPAFAALLLRRYKWMPSNL
+QDDWFSDDRRVRDSAGLPSGGGAPVVATALSPRPLVCAICFRRYPAGATRSASCSSHFYC
+SNCWRGYVGAAVGDGPRCLSLRCPDPACSAAVVRGLVDAVAGAADRERYARFALRSYVEE
+SGGRIKWCPGAGCSLAVEFVGCTRYDATDVFCKCRHGFCWSCGEEAHRPVSCGTVRAWLA
+KNKSDSETANWVLANTKVCPKCRRAIEKNNGCNHMSCPCGHHFCWLCFKPAGTQGHYACE
+GDVYRPATQSKSKETKEEATARQARASLDRYLFHYERWAGNLKSLEKARQDMDKLERSEL
+EEMAAAVGVKAVTELEFVTEAYKEIVYGRRVLRWAHAYGYYLDPERDSKKRELFDYLQGE
+ANSSLEQLHKCAEVDRKKIFPSHGESSKVMVKKVLKDYRIRMVNLTVASRTFMGNLVKAF
+ETNLSEVYTMNW
+
+
+PACMAD CONSENSUS:
+Length: 567 aa
+
+MasGddgggrnKRcRgAGDDgDGEnGRsKRcrvaAgstgDDGEsGDDGteDYggsdDEdD
+GDGsGEDyiYDYsDDdedEeaEvddadaaerkEkRYvVLTEDDVRARQEADTAKVAEVLS
+IPpGFAAVLLRHFKWRagRVQEEWFSDDRRVRDAVGLPADGvPVPtAlsrreLVCAICFg
+rfpAGRtRSAGCAHFYCdeCWRGYiRAAVgDGARCLSLRCPDPSCSAAVVRELVDAVAdA
+ADRaRYARFALRSYVEESGGRIKWCPGPGCTRAVEFlGgAagdAaDVFCdCrHGFCWsCG
+EEAHRPVSCgTVRAWLAKNsSDSETANWVLANTKHCPKCRRPIEKNQGCNHMTCrPPCGH
+hFCWLCLdPaGrnHygCnGyRpqhdkagagGaetaEEqRRRQAKASLDRYLYHYERWAAN
+rsSLekAlkDMAeLERSELErMAAaVGvPAteLaFLTeAYEQVADGRRVLRWAHAYGYFL
+DPERDAAKRgLFDdLQdqANswLERLHgCAELERKELFcadgepAVvrEllraYKeKLEN
+LTgVTRtFlgNLVKAFETDLPEvkavk
+
+================================================================================

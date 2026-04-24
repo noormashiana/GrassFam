@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM018936
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             398.0 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10210:SF120
+Panther Family ID:               PTHR10210
+Modal Panther ID:                PTHR10210:SF120
+Modal Panther Description:       RIBOSE-PHOSPHATE PYROPHOSPHOKINASE 5, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR10210
+Modal Panther Fam Desc:          RIBOSE-PHOSPHATE DIPHOSPHOKINASE FAMILY MEMBER
+Interpro Signature Accession:    G3DSA:3.40.50.2020:FF:000007; G3DSA:3.40.50.2020; TIGR01251; NF002320; NF002758; PTHR10210; PF13793; SM01400; SSF53271
+Interpro Signature Description:  Ribose-phosphate pyrophosphokinase; -; ribose-phosphate diphosphokinase; ribose-phosphate pyrophosphokinase; RIBOSE-PHOSPHATE DIPHOSPHOKINASE FAMILY MEMBER; N-terminal domain of ribose phosphate pyrophosphokinase; Pribosyltran_N_2; PRTase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: ribose-phosphate pyrophosphokinase 1%2C chloroplastic%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: ribose-phosphate pyrophosphokinase 1%2C chloroplastic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: ribose-phosphate pyrophosphokinase 1%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: ribose-phosphate pyrophosphokinase 1%2C chloroplastic; ribose-phosphate pyrophosphokinase 1%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: ribose-phosphate pyrophosphokinase 1%2C chloroplastic
+  Gene Descriptions: ribose-phosphate pyrophosphokinase 1%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: ribose-phosphate pyrophosphokinase 1%2C chloroplastic-like
+  Gene Descriptions: ribose-phosphate pyrophosphokinase 1%2C chloroplastic-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau06
+  Gene Products: ribose-phosphate pyrophosphokinase 1%2C chloroplastic
+  Gene Descriptions: ribose-phosphate pyrophosphokinase 1%2C chloroplastic
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: ribose-phosphate pyrophosphokinase 1%2C chloroplastic%2C transcript variant X1; ribose-phosphate pyrophosphokinase 1%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: ribose-phosphate pyrophosphokinase 1%2C chloroplastic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: ribose-phosphate pyrophosphokinase 1%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: EC synthetase%2C transcript variant X2
+  Gene Synonyms: GRMZM2G038791
+  Gene Descriptions: EC synthetase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 398 aa
+
+MPLPSSpsSAAVAAAASPLAARSRGLLRRsRSgPAVVRCkKvDsLRAVNGsPPCIPVSDR
+SLLTPVTLPVFrDaNIRNDTRLRIFSGTANPSLSQEIASYLGLELGKINIKRFADGEIYV
+QLQESVRGCDVFLVQPSCPPANENLMELLIMIDACRRASAKNITAVIPYFGYARADRKSQ
+GRESIAAKLVANMITEAGANRVLVCDLHSSQAMGYFDIPVDHVYGQPVILDYLASKTICS
+NDLVVVSPDVGGVARARAFAKKLSDAPLAIVDKRRHGHNVAEVMNLIGDVRGKVAVMMDD
+MIDTAGTIAKGAELLHQEGAREVYACCTHAVFSPPAIERLSSGLFQEVIITNTIPLKEEK
+nFPQLTILSVANLLGETIWRVHDDCSVGHEPYSSLDID
+
+
+BOP CONSENSUS:
+Length: 403 aa
+
+MPLPSSSSAAAVAAGPAASPLAARSRGRLLRPRSGPAAVRCQRVDPVRLRAVNGSPPCVP
+LSDRSPWTPvTMPIFGDANIRKDDTRLRIFSGTANPSLAQEIASYMGLELGKINIKRFAD
+GEIYVQLQESVRGCDVFLVQPSCPPANENLMELLIMIDACRRASAKNITAVIPYFGYARA
+DRKSQGRESIAAKLVANMITEAGANRVLVCDLHSSQAMGYFDIPVDHVYGQPVILDYLAS
+KTICSNDLVVVSPDVGGVARARAFAKKLSDAPLAIVDKRRHGHNVAEVMNLIGDVRGKVA
+VMMDDMIDTAGTIAKGAELLHQEGAREVYACCTHAVFSPPAIERLSSGLFQEVIITNTIP
+LKEEKNFPQLTILSVANLLGETIWRVHDDCSVGHAPYSTLDID
+
+
+PACMAD CONSENSUS:
+Length: 398 aa
+
+MPLCHSPTSAAVAAAASPIAARSGGLLRRSRPAPAVVRCKKIDSLRAINGAPPCIPVSDR
+SLLTPVTLPVFRDPSMRNDTRLRIFSGTANPSLSQEIASYLGLELGKINIKRFADGEIYV
+QLQESVRGCDVFLVQPTCPPANENLMELLIMIDACRRASAKNITAVIPYFGYARADRKSQ
+GRESIAAKLVANMITEAGANRVLVCDLHSSQAMGYFDIPVDHVYGQPVILDYLASKTICS
+NDLVVVSPDVGGVARARAFAKKLSDAPLAIVDKRRHGHNVAEVMNLIGDVRGKVAVMMDD
+MIDTAGTIAKGAELLHQEGAREVYACCTHAVFSPPAIERLSSGLFQEVIITNTIPLKEEK
+TFPQLTILSVANLLGETIWRVHDDCSVGHEPYSSLDID
+
+================================================================================

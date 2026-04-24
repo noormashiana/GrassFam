@@ -1,0 +1,145 @@
+================================================================================
+GrassFam ID: GFAM006627
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             745.0 aa
+Family Size (Extended Family Size): 18 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10638:SF41
+Panther Family ID:               PTHR10638
+Modal Panther ID:                PTHR10638:SF41
+Modal Panther Description:       AMINE OXIDASE
+Modal Panther Family ID:         PTHR10638
+Modal Panther Fam Desc:          COPPER AMINE OXIDASE
+Interpro Signature Accession:    G3DSA:3.10.450.40:FF:000005; G3DSA:3.10.450.40:FF:000037; G3DSA:2.70.98.20:FF:000004; G3DSA:2.70.98.20; G3DSA:3.10.450.40; PTHR10638; PF01179; SSF49998; SSF54416
+Interpro Signature Description:  Amine oxidase; Copper amine oxidase, catalytic domain; -; COPPER AMINE OXIDASE; Copper amine oxidase, enzyme domain; Amine oxidase catalytic domain; Amine oxidase N-terminal region
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: primary amine oxidase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: primary amine oxidase-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: primary amine oxidase
+Tae
+  Gene count: 2
+  Modal chromosome: Tae02B
+  Gene Products: primary amine oxidase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: amine oxidase [copper-containing] gamma 2-like
+  Gene Descriptions: amine oxidase [copper-containing] gamma 2-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: amine oxidase [copper-containing] gamma 2-like
+  Gene Descriptions: amine oxidase [copper-containing] gamma 2-like
+Pau
+  Gene count: 2
+  Modal chromosome: Pau13
+  Gene Products: amine oxidase [copper-containing] gamma 2-like%2C transcript variant X1
+  Gene Descriptions: amine oxidase [copper-containing] gamma 2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: primary amine oxidase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: primary amine oxidase-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi12
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: primary amine oxidase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: primary amine oxidase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 742 aa
+
+MDHSTSLLRLIFLALGAALVLLVVRSAFRLPRGIDTPTASLFDDAAGSSCTRFsPWACRQ
+grrtKsKPkPPSHEsDVPRHPLDPLTVtEVNRARELLRAHPPFASSPSSLFVHSLALDEP
+DKPVVLsWRKGADPLPPRRAVAVVRFRGEAhVLAVDLAgGAVTPLPVPASGYPTMTMDEQ
+VSLCfAPFsDPAFNATIRRRGVRlSDVACLPISLGWYGPTEENRRLIKsQCFSAEGTANF
+YMRPIEGLTVLVDMDTrEVvHISDRGAGIPIPAAANTDYRyArHmQeegDatstdglGFQ
+tVRAPSMEPAPSGPGFELVDGHTVRWGGWEFHLKADARAGMVVSRARVQDPaTGAHREVM
+YKGMASELFVPYMDPTEAWYFKTYMDAGEYGFGLQAMPLVPLNDCPRHARYLDGVFVAAD
+GRPYVRENMICVFERYAGDIAWRHSESPITGMDIRESRPKVTLVARMAASVANYDYIMDW
+EFQMDGLIRIKVGLSGILMVKGTpYSHMNQVRqNEDMHGTLLSENVIGVIHDHYVTFRLD
+MDVDGADNSFVRVEMARQETAPGESPRRSYLKATRHVArTEKDAQVRLKLYEPAEFHVVN
+PTKKTRVGNPVGYKVVPAGTAASLLDPEDPPQKRGAFTNNQIWVTPYNKSEEWAGGLFVY
+QSKGEDTLATWSERDRPIENKDLVLWYTLGFHHIPCQEDFPIMPTVSSSFDLKPVNFFES
+NPILKQRPTmEnDLPVCAAtAt
+
+
+BOP CONSENSUS:
+Length: 736 aa
+
+MDYSTSLLRLTFLALGAALVLLVARSAFRLPLAIDAPAASFLHGAGGCTRFSPWACRQPR
+TkKStPRRPSHESDVPRHPLDPLTVTEVNRARELLRAHPPFASAPSSLAVHALALDEPDK
+PVVRRWRKGAHALPPRRAVAVVRFRGESHVLAVDLaaGAVTPLPVPASGYPTMTMDEQTA
+LCAAPFsDPAFNATIRRRGVRLsDVACLPISPGWYGPAEDGGRRLIKSQCYSTEGTANFY
+MRPIEGLTVLVDMDTGKVVHISDRGAGIPIPAAKNTDYRhAANDDpqAtDRFGYQTVRAP
+SMEPAPEGPGFEvEDGHTVRWAGWEFHLKADARAGMVVSRATVQDPATGARREVMYKGMA
+SELFVPYMDPTEAWYFKTYMDAGEYGFGLQAMPLVPLNDCPRHARYMDGVFVAADGRPYV
+RENMICVFERYAGDIAWRHSESPITGMDIRESRPKVTLVARMAASVANYDYIVDWEFQTD
+GLIRIKVGLSGILMVKGTPYSHMNQVRQNEEMHGTLLSENVIGVIHDHYVTFRLDMDVDG
+ADNSFVRVDMARQDTAPGESPRRSYLKATRHVASTEKDArVRLKLYEPAEFHVINPTKKT
+RVGNPVGYKVVPAGTAASLLDPEDPPQKRGAFTNNQIWVTPYNKSEEWAGGLFVYQSKGE
+DTLATWSERDRPIENKDLVLWYTLGFHHIPCQEDFPIMPTVSSSFDLKPVNFFESNPILK
+QRPTQENDLPVCAATA
+
+
+PACMAD CONSENSUS:
+Length: 745 aa
+
+MDHSTSLLRLIFLALGAALVLLVVRSAFRLPRGIDTPTTSLFDDAAAAGSSCTRFAPWGC
+RQADRtKPKPKPPSHEnDVPRHPLDPLTVgEINRARELLRAHPPFASSPSSLFVHSLALD
+EPDKPVVLsWRKGADPLPPRRAVAVVRFRGEAFVLAVDLAGGAVTPLPVPASGYPTMTMD
+EQVSLCyAPFsDPAFNATIRRRGVRMSDVACLPISLGWYGPTEENRRLIKIQCFSAEGTA
+NFYMRPIEGLTVLVDMDTrEVIhISDRGAGIPIPAAANTDYRYARHMQEEGDpATStaGL
+GFQKVRAPSMEPAPSGPGVELVDGHTVRWGGWEFHLKADARAGMVVSRARVQDPGTGAHR
+EVLYKGMASELFVPYMDPTEAWYFKTYMDAGEYGFGLQAMPLVPLNDCPRHARYLDGVFV
+AADGRPYVRENMICVFERYAGDVAWRHSESPITGMDIRESRPKVTLVARMVASVANYDYI
+MDWEFQMDGLVRIKVGLSGILMVKGTAYSHLnQAReNEDMHGTLLSENVIGVIHDHYVTF
+RLDMDVDGADNSFVRVEMARQETgPGESPRRSYLKATRHVARTEKDAQVRLKLYEPAEFH
+VVNPtKKTRVGNPVGYKVVPAGTAASLLDPEDPPQKRGAFTNNQIWVTPYNKSEEWAGGL
+FVYQSKGEDTLATWSDRDRPIENKDLVLWYTLGFHHIPCQEDFPIMPTVSSSFDLKPVNF
+FESNPILKQRPTKEDDLPVCAAaAa
+
+================================================================================

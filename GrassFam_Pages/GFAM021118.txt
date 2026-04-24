@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM021118
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             473.0 aa
+Family Size (Extended Family Size): 28 (32) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12000:SF19
+Panther Family ID:               PTHR12000
+Modal Panther ID:                PTHR12000:SF19
+Modal Panther Description:       VACUOLAR-PROCESSING ENZYME
+Modal Panther Family ID:         PTHR12000
+Modal Panther Fam Desc:          HEMOGLOBINASE FAMILY MEMBER
+Interpro Signature Accession:    cd21115; G3DSA:1.10.132.130:FF:000001; G3DSA:3.40.50.1460:FF:000005; G3DSA:3.40.50.1460; G3DSA:1.10.132.130; PTHR12000; PIRSF019663; PIRSF500139; PR00776; PF20985; PF01650
+Interpro Signature Description:  legumain_C; Vacuolar-processing enzyme beta-isozyme; -; HEMOGLOBINASE FAMILY MEMBER; Legumain; AE; Hemoglobinase (C13) cysteine protease signature; Legumain, prodomain; Peptidase C13 family
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: vacuolar-processing enzyme
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: vacuolar-processing enzyme-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata05D
+  Gene Products: vacuolar-processing enzyme; vacuolar-processing enzyme%2C transcript variant X4
+Tae
+  Gene count: 4
+  Modal chromosome: Tae05A
+  Gene Products: vacuolar-processing enzyme-like; vacuolar-processing enzyme-like%2C transcript variant X7
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl05
+  Gene Products: vacuolar-processing enzyme-like
+  Gene Descriptions: vacuolar-processing enzyme-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa05
+  Gene Products: vacuolar-processing enzyme
+  Gene Descriptions: vacuolar-processing enzyme
+Ecu
+  Gene count: 6
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau11
+  Gene Products: vacuolar-processing enzyme-like
+  Gene Descriptions: vacuolar-processing enzyme-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi03K
+  Gene Products: vacuolar-processing enzyme-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: vacuolar-processing enzyme-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: vacuolar-processing enzyme
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: Vacuolar-processing enzyme gamma-isozyme
+  Gene Descriptions: Vacuolar-processing enzyme gamma-isozyme
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 464 aa
+
+MARLRCLLLLFLvQLLLLVAGDFLRLPSEkDVVGTRWAVLIAGSNGYYNYRHQADVCHAY
+QIMKKGGLKDENIIVFMYDDIAGNrDNPRPGVIINHPkGGDVYAGVPKDYTGkDVNVNNF
+LAALLGDKSKVTGGSGKVVsSGPDDHVFVYYSDHGGPGVLGMPSDEYLYANDLVRTLKKK
+HAGGGYKSLVFYLEACESGSIFEGLLPGNIGVYATTAANAEESSWGTYCPGDDeGPPPEY
+DTCLGDLYSVAWMEDSDvHNLRTESLKQQYEVVKDRTSAhGTYSLGSHVMQYGDLgLNdQ
+SLFlFIGTNPANDNATFgrDNSLRrLSGGRVNQRDADLVYFWQKYRRSAEGTAEKgEARR
+RLVEVMARRSRVDSSVELIGGLLFGSEEGsKVLGAVRPAGQPLVDDWDCLKSvVRaYEER
+CGPLAQYGMKHMRSLANICNAGVREEAMDKVASQACAAnpSSLF
+
+
+BOP CONSENSUS:
+Length: 474 aa
+
+MARLSCSPLLLLLFLSSQLALLVAGEFLRLPSEKDVVGTRWAVLIAGSNGYYNYRHQADV
+CHAYQIMKKGGLKDENIIVFMYDDIAGNRDNPRPGVIINHPKGGDVYAGVPKDYTGADVN
+ANNFLAALLGDKSKLTGSGSGKVVSSGPDDHIFVYYADHGGPGILGMPGDEEYLYANDLV
+RTLEKKHAGGAGYKSLVFYLEACESGSIFEGLLPGNISVYATTAANAEESSWGTYCPGDD
+EGAPPPEYDTCLGDLYSVAWMEDSDAHNLNAESLKQQYERVRDRTSAaGTYSLGSHVMQY
+GDLGLNDQSLFLYIGTNPANDNASFVQGSSSTSRQLPGGRVNQRDADLVHFWHKYRRSAE
+GSAEKGEARRRLVETMARRSRVDSSVELIGGLLFGSEEGAKVLGAVRPAGQPVVDDWDCL
+KSVVRRFQERCGPLTQYGMKHMRSLANLCNAGVREEAMDKAASQACAANPSSLF
+
+
+PACMAD CONSENSUS:
+Length: 467 aa
+
+MAARLRCLLLFLVQLLLLVSAASGARWQDFLRLPSEGSGAGGTRWAILIAGSNGYYNYRH
+QADVCHAYQIMKKGGLKDENIIVFMYDDIAhSPDNPRPGVIINHPAGGDVYAGVPKDYTG
+KDVTVKNFLAALLGNRSAVTGGSGKVVASGPDDHVFVYYSDHGGPGVLGMPSDDYLYAKD
+LVQTLKKKHAAGGYKSLVFYLEACESGSIFEGLLPkDIGVYATTAANAEESSWGTYCPGD
+EqGPPPEFDTCLGDLYSVAWMEDSDVHNLRTESLKQQYEVVKDRTSAHGTYSLGSHVMQY
+GDQKQsAQSLYQFIGTNPANDNATFGRDNSLRRFSGAVNQRDADLVYFWQKYRKSAEGTP
+EKAEARKRLLrVMSRRSRVDSSMELIGGLLFGSDEGSKVLGAVRPAGQPLADDWDCLKAM
+VRAYEEQCGSLAQYGMKHMRSFANICNAGVGEEAMAKVASQACAVVR
+
+================================================================================

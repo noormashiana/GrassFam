@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM005276
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             403.0 aa
+Family Size (Extended Family Size): 26 (33) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR11626
+Modal Panther ID:                PTHR11626:SF5
+Modal Panther Description:       SQUALENE SYNTHASE
+Modal Panther Family ID:         PTHR11626
+Modal Panther Fam Desc:          FARNESYL-DIPHOSPHATE FARNESYLTRANSFERASE
+Interpro Signature Accession:    cd00683; G3DSA:1.10.600.10:FF:000012; G3DSA:1.10.600.10; TIGR01559; PTHR11626; PF00494; SFLDG01018; SFLDS00005; SSF48576
+Interpro Signature Description:  Trans_IPPS_HH; Squalene synthase 1; Farnesyl Diphosphate Synthase; squalene synthase; FARNESYL-DIPHOSPHATE FARNESYLTRANSFERASE; Squalene/phytoene synthase; Squalene/Phytoene Synthase Like; Isoprenoid Synthase Type I; Terpenoid synthases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: squalene synthase; squalene synthase%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: squalene synthase 1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: squalene synthase 1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: squalene synthase 1-like; squalene synthase 1-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl03
+  Gene Products: squalene synthase 1-like; squalene synthase 8-like%2C transcript variant X1
+  Gene Descriptions: squalene synthase 1-like; squalene synthase 8-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa03
+  Gene Products: squalene synthase; squalene synthase 8%2C transcript variant X1
+  Gene Descriptions: squalene synthase; squalene synthase 8
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: squalene synthase 1-like; squalene synthase 1-like%2C transcript variant X3
+  Gene Descriptions: squalene synthase 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: squalene synthase 1-like; squalene synthase 1-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: squalene synthase 1%2C transcript variant X2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: squalene synthase
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: squalene synthase 1; uncharacterized LOC100191601
+  Gene Synonyms: GRMZM2G029396; GRMZM2G108225,sqs1
+  Gene Descriptions: squalene synthase 1; uncharacterized LOC100191601
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 403 aa
+
+MGALSRPEEVvALVKLRVAAGQIKRQIPPEEHWAFAYSMLQKVSRSFALVIQQLGPELRN
+AVCIFYLVLRALDTVEDDTSIPTEVKVPILQEFYRHIYNRDWHYSCGTNhYKVLMDKFHh
+VSTAFLELGqGYQKAIEEITRRMGAGMAKFICKEVETVDDYDEYCHYVAGLVGYGLSRLF
+HAAGTEDLAPDSLSNSMGLFLQKTNIIRDYLEDINEIPKSRMFWPREIWSKYADKLEDFK
+YEENSEKAVQCLNDMVTNALIHAEDCLQYMSALKDhAIFRFCAIPQIMAIGTCALCYNNV
+NVFRGVVKMRRGLTARvIDETNSMSDVYTAFYEFSSLLESKIDDNDPNAALTRKRVDsIK
+qTCKSSGLLKRRGYDLDKSpYrPMLIMIVLLLVAIiLGVLYtK
+
+
+BOP CONSENSUS:
+Length: 404 aa
+
+MGvLSRPEEVaALVKLRVAAGRIRRQIPPeEHWAFAYDMLQRVSRSFALVIQQLGPDLRN
+AVCVFYLVLRALDTVEDDTSIPtEVKLPILqEFYRHIYNPDWHFSCGTkDYKVLMDnFRy
+VSTAFLELGqGYQeAIEEITRRMGAGMAKFICKEVETVDDYDEYCHYVAGLVGYGLSRLF
+HAtGTEDLAPDsLSNSMGLFLQKtNIIRDYLEDINEIPKsRMFWPREIWSKYVDKLEDLK
+YEENSEKAVQCLNDMVTNALIHAEDCLQYMSALKDntnFRFCAIPQIMAIGTCAICYNNV
+NVFRGVVKMRRGLTARvIDETKSMSDVYTAFYEFSSLLESKIDDNDPNAaLTRKRVDAIK
+KTCKSSGLLKRRGYDLEKSKYNMPMLIMLVLLLVAIvLGVLYgK
+
+
+PACMAD CONSENSUS:
+Length: 403 aa
+
+MGALSRPEEVVALVKLRVAAGQIKRQIPPEEHWAFAYSMLQKVSRSFALVIQQLGPELRN
+AVCIFYLVLRALDTVEDDTSIPTEVKVPILQEFYRHIYNRDWHYSCGTNHYKVLMDKFHH
+VSTAFLELGQGYQKAIEEITRRMGAGMAKFICKEVETVDDYDEYCHYVAGLVGYGLSRLF
+YAAGTEDLAPDSLSNSMGLFLQKTNIIRDYLEDINEIPKSRMFWPREIWSKYADKLEDFK
+YEENSEKAVQCLNDLVTNALIHAEDCLQYMSALKDHAIFRFCAIPQIMAIGTCALCYNNV
+NVFRGVVKMRRGLTARVIDETNSMSDVYTAFYEFSSLLESKIDDNDPNAALTRKRVDSIK
+QTCKSSGLVKRRGYHLDKSPYKPMLIMIVLLLVAIlFGVLYTK
+
+================================================================================

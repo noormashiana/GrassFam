@@ -1,0 +1,112 @@
+================================================================================
+GrassFam ID: GFAM010502
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             540.0 aa
+Family Size (Extended Family Size): 13 (14) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11130:SF4
+Panther Family ID:               PTHR11130
+Modal Panther ID:                PTHR11130:SF4
+Modal Panther Description:       GLUTATHIONE SYNTHETASE
+Modal Panther Family ID:         PTHR11130
+Modal Panther Fam Desc:          GLUTATHIONE SYNTHETASE
+Interpro Signature Accession:    G3DSA:3.40.50.1760:FF:000002; G3DSA:3.30.1490.50:FF:000001; G3DSA:3.30.1490.80:FF:000010; G3DSA:1.10.1080.10:FF:000005; G3DSA:3.30.1490.80; G3DSA:3.30.1490.50; G3DSA:3.40.50.1760; G3DSA:3.30.470.20; G3DSA:1.10.1080.10; TIGR01986; PTHR11130; PIRSF001558; PF03199; PF03917; SSF56059; SSF52440
+Interpro Signature Description:  Glutathione synthetase; -; Glutathione Synthetase; Chain A, domain 3; glutathione synthase; GLUTATHIONE SYNTHETASE; GSHase; Eukaryotic glutathione synthase; Eukaryotic glutathione synthase, ATP binding domain; Glutathione synthetase ATP-binding domain-like; PreATP-grasp domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: glutathione synthetase%2C chloroplastic%2C transcript variant X1
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: glutathione synthetase%2C chloroplastic-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: glutathione synthetase%2C chloroplastic%2C transcript variant X2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: glutathione synthetase%2C chloroplastic-like%2C transcript variant X1; glutathione synthetase%2C chloroplastic-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl12
+  Gene Products: uncharacterized LOC127756247
+  Gene Descriptions: uncharacterized LOC127756247
+Osa
+  Gene count: 1
+  Modal chromosome: Osa12
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4351923
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu06
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi03N
+  Gene Products: glutathione synthetase%2C chloroplastic-like%2C transcript variant X2
+Msi
+  Gene count: 1
+  Modal chromosome: Msi15
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 540 aa
+
+MAAANAlTGASvSrgGGASmSGSVtAVCPRSVVAARPSSRTSsLRPARCAVVGTAAPVVA
+TVEGgDGRsFEQLAVPPGLVDELVEEALVWCSQHGLVVGDKNHPRSGKAPGVGLLHAPFA
+LLPMSFPKVYWDQALELAPLFNELVDRVSLDGEFLQQTLARTKEVDpFTRRLLDIHSKMM
+ELNKKEdIQLGLTRSDYMVDGATDkLLQVELNTISTSSNGLACGVSELHRNLIRhHEREL
+GLDPASVVGNTAItQHAEALArAWAEYNNQSAVVLVVVQAEERYMYDQYWITVALREMYG
+VTTIRKTMAEIEAEGeLRPDGTLVINGRPVAVVYFRAGYSPnDYPSEAEWRARLLIERSS
+AIKCPSIAHHLVGTKKIQQELAKENVLERFLDNKSDIEKVRKCFAGLWSLENDsIVMSAI
+ESPELFVLKPQREGGGNNIYGDNLRETLIRLRKDGSNELAAYILMQRIFPPASPSYLVRE
+GTCVRDNAVSEFGIFGAYLRNKDKVIINDQCGYLMRTKAASLNEGGVVAGYAFLNSIFLT
+
+
+BOP CONSENSUS:
+Length: 540 aa
+
+MAAANALTGASVSRGGSASMSGSVTAVCPRSVVAARPTSRTSSLRPARCGVVGTAAPVVA
+TAEGGDRRRFEQLAVPQGLVDELVEEALVWCSQHGLVVGDKNHPRSGKAPGVGLLHAPFA
+LLPMSFPKVYWEQALELAPLFNELVHRVSLDGDFLQQTLARTKEVDPFTRRLLDIHSKMM
+ELNKKEDIQLGLTRSDYMVDGATDKLLQVELNTISTSSNGLACGVSELHRNLIRHHEREL
+GLDPtSVVGNTAItQHAEALAtAWAEYNNQSAVVLVVVQAEERYMYDQYWITVALREMYG
+VTTIRKTMAEIEAEGDLRPDGTLVINGRPVAVVYFRAGYSPADYPSEAEWRARLLIERSS
+AIKCPSIAHHLVGTKKIQQELAKENVLERFLDNKSDIENVRKCFAGLWSLENDsIVNSAI
+ESPELFVLKPQREGGGNNIYGDNLRETLIRLRKDGSNEiAAYILMQRIFPPASPSYLVRE
+GTFVRDNVVSEFGIFGAYLRNKDKVIINDQCGYLLRTKAASLNEGGVVAGYAFLNSIFLT
+
+
+PACMAD CONSENSUS:
+Length: 462 aa
+
+MVDELVEEALVWCSQHGLVVGDKNHPRSGKAPGVGLLHAPFSLLPMSFPRVYWDQALELA
+PLFNELVDRVSLDGEFLQQTLARTKQVDLFTRRLLDIHSEMMKLNKHENIRLGLTRSDYM
+VDGATNSLLQVELNTISTSSNGLACGVSELHRNLVRMHERELGLEQASVMGNTAITQHAE
+ALARAWEEYNNQSAVVLVVVQQEERYMYDQYWITVALKERYGVRTIRKTLAAIEAEGELR
+PDGTLvVNGRPVAVVYFRAGYSPSDYPSETEWRARQLIERSSATKCPSISYHLVGTKKIQ
+QELAKENVLERFLDNKTDIEKVRQCFAGLWSLENDSVVMSAIESPELFVLKPQREGGGNN
+IYGDNLRNTLVRLRRYGSNELAAYILMQRIFPPASPCYLVREGVCARENAVSEFGIFGAY
+LRNKDRVIINNQCGYLMRTKAATLNEGGVVTGYAFLNSIFLT
+
+================================================================================

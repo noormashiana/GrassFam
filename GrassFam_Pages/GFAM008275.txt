@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM008275
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             431.0 aa
+Family Size (Extended Family Size): 24 (27) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10177:SF372
+Panther Family ID:               PTHR10177
+Modal Panther ID:                PTHR10177:SF372
+Modal Panther Description:       CYCLIN-B1-3
+Modal Panther Family ID:         PTHR10177
+Modal Panther Fam Desc:          CYCLINS
+Interpro Signature Accession:    G3DSA:1.10.472.10:FF:000154; G3DSA:1.10.472.10; PTHR10177; PIRSF001771; PF00134; PF02984; SM01332; SSF47954
+Interpro Signature Description:  Cyclin-B1-4; -; CYCLINS; Cyclin_A_B_D_E; Cyclin, N-terminal domain; Cyclin, C-terminal domain; Cyclin_C_2; Cyclin-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: cyclin-B1-3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: cyclin-B1-3-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: cyclin-B1-3
+Tae
+  Gene count: 2
+  Modal chromosome: Tae03A
+  Gene Products: cyclin-B1-3-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: cyclin-B1-3
+  Gene Descriptions: cyclin-B1-3
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: cyclin-B1-3-like
+  Gene Synonyms: CycB1-1,CYCB1-3,CYCB1%3B1,CycB1%3B3
+  Gene Descriptions: cyclin-B1-3-like
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN206
+Pau
+  Gene count: 1
+  Modal chromosome: Pau02
+  Gene Products: cyclin-B1-3-like
+  Gene Descriptions: cyclin-B1-3-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: cyclin-B1-3-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: cyclin-B1-3-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: cyclin-B1-3
+Zma
+  Gene count: 5
+  Modal chromosome: Zma07
+  Gene Products: cyclin-B1-3; cyclin5
+  Gene Synonyms: cl1316_1b,GRMZM2G005619
+  Gene Descriptions: cyclin5
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 450 aa
+
+MASRRQAGPGAAVPAQEqKGDAARLVRRPMATVPQQaAARsRRALvDVGNLMNGRPALAN
+RQKQVVVAAeNCrKAVPQAAARSRRpLADVgNLINgRpApANRQKpvvAAaDRnGKAVKL
+KENNKVKPEVIVISSDSEKEKKnsGGqRvSRRVPTLTsILTKCSRASDGVISSPKKvdtY
+DIDAPDAhNELAVVEYVEDIYRFYKSTEGTCLPLSTYMSSQTEINERMRAILIDWIIEVQ
+HRLmLMPETLYLTVYIIDQYLSMENVPRKELQLVGVSAMLIACKYEEIWAPLVKDLLCLS
+DNAFSREQVLtKEKAILNKLQWNLTVPTMYMFIVRYLKAAMGDKELENMAFFYAELALVQ
+YSMLVYpPSVTAAAAVYAARCTLgMnPLWSDILEHHTGLaEPQLLDCARRLiSLHslAPE
+SKQKAVYrKYSnPKLGAVSLYSPaKKLLsv
+
+
+BOP CONSENSUS:
+Length: 414 aa
+
+MASRRQAgAgAsDVLAQEHKGDAKlVRRPKAaVAQQPAARpRRALiDVSNrmNGRAALAV
+PNRqKAVAVAAADKCRKAIKqQKENNRVKPEVIVISSDSENEKKNPGKRAASRRAPIQTL
+TsILTKCSReSDGVISStKKvsATYNIDASDAHNELAVVDYVEDIYRFYKSTEGSsRPLC
+TYMSSQTDINERMRAILIDWLIEVHHRLMLMPETLYLTVYIIDQYLSMENVLRKELQLVG
+VSAMLIACKYEEIWAPLVKELLVISDNAFSREQVLSTEKSILNKLQWNLTVPTVYMFlLR
+YLKAAMGDKELENMAFFYAELALVQYSMLVYSPSVTAAAAVYAARCTLnMSPlWSDiLEH
+HTGLgESQLLeCARRLASLHSTAAsSKQKVVYNKYAnPKLGAVSLYSPAKRLlI
+
+
+PACMAD CONSENSUS:
+Length: 453 aa
+
+MASKRQaGPGaAVPAQEQKiGDAARLVRRPMATVPQQAAARgRRALvDVGNLMNGRPALA
+NRQKQVVVAAeNCrKAVPQAAARSRRpLADVgNLINgRpAPANRQKPLvAAsDRNGKAVK
+LKEcsKVKPEVIVISSDSEKEKKAKvSGGQRVcRRVPTLTdILTKCSRASDGVISSPKKt
+dpYDIDAPDAcNELAVVEYVEDIYRFYKSTEGTCLPLSSYMSSQAEINERMRAILIDWII
+EVQHRLtLMPETLYLTVYIIDQYLSMESVPRKELQLVGISAMLIASKYEEIWAPLVKDLL
+CLCDNAFTRDQVLTKEKAILDrLHWNLTVPTMYMFIVRYLKAAMGDKELENMAFFYSELA
+LVQYTMLVYPPSVTAAAAVYAARsTLgMNPLWTDILEHHTGLtEPQLLDCARRLISFHAL
+APESKQKAVYRKYSnPKLGAVSLqSPdKKLLSV
+
+================================================================================

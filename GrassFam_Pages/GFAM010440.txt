@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM010440
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             498.0 aa
+Family Size (Extended Family Size): 24 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48467:SF1
+Panther Family ID:               PTHR48467
+Modal Panther ID:                PTHR48467:SF1
+Modal Panther Description:       GLUTAMATE SYNTHASE 1 [NADH], CHLOROPLASTIC-LIKE
+Modal Panther Family ID:         PTHR48467
+Modal Panther Fam Desc:          GLUTAMATE SYNTHASE 1 [NADH], CHLOROPLASTIC-LIKE
+Interpro Signature Accession:    G3DSA:3.50.50.60:FF:000036; G3DSA:3.40.50.720; G3DSA:3.50.50.60; PTHR48467; PIRSF000362; SSF51971
+Interpro Signature Description:  NADPH:adrenodoxin oxidoreductase, mitochondrial; -; GLUTAMATE SYNTHASE 1 [NADH], CHLOROPLASTIC-LIKE; FNR; Nucleotide-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: NADPH:adrenodoxin oxidoreductase%2C mitochondrial%2C transcript variant X3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu03H
+  Gene Products: NADPH:adrenodoxin oxidoreductase%2C mitochondrial-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: NADPH:adrenodoxin oxidoreductase%2C mitochondrial%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: NADPH:adrenodoxin oxidoreductase%2C mitochondrial-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: NADPH:adrenodoxin oxidoreductase%2C mitochondrial
+  Gene Descriptions: NADPH:adrenodoxin oxidoreductase%2C mitochondrial
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: NADPH:adrenodoxin oxidoreductase%2C mitochondrial
+  Gene Descriptions: NADPH:adrenodoxin oxidoreductase%2C mitochondrial
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN4
+Pau
+  Gene count: 1
+  Modal chromosome: Pau06
+  Gene Products: NADPH:adrenodoxin oxidoreductase%2C mitochondrial%2C transcript variant X1
+  Gene Descriptions: NADPH:adrenodoxin oxidoreductase%2C mitochondrial
+Svi
+  Gene count: 2
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: NADPH:adrenodoxin oxidoreductase%2C mitochondrial-like%2C transcript variant X1; NADPH:adrenodoxin oxidoreductase%2C mitochondrial-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: NADPH:adrenodoxin oxidoreductase%2C mitochondrial%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: NADPH:adrenodoxin oxidoreductase%2C mitochondrial%2C transcript variant X1
+Zma
+  Gene count: 3
+  Modal chromosome: Zma04
+  Gene Products: NADPH:adrenodoxin oxidoreductase%2C mitochondrial-like; NADPH:adrenodoxin oxidoreductase%2C mitochondrial-like%2C transcript variant X3; uncharacterized LOC100285690%2C transcript variant X1
+  Gene Synonyms: pco114328(55)
+  Gene Descriptions: uncharacterized LOC100285690
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 503 aa
+
+MGRGLLLSRArRLMLFLRPllYSASGPtRAfAASsREPLHVCVVGSGPAGFYTADKMLKG
+HEGAQVDIIDRLPTPFGLVRSGVAPDHPETKIVVNQFSRVAANgRCSFFGNVTLGRDVSL
+SELRKTYDVVVLAYGAESDRSLGIPGEDLRGIHSAREFVWWYNGHPDMCNLAPDLKNTDS
+AVVLGQGNVALDVARILLRCTTELAtTDIADYALDALRGSTIRKVYLVGRRGPVQAACTA
+KELREILGLKNVrVCIKEADLvTSPADEEEMRNSRIKRRVYELLSKAAtaHqeNNdNDQK
+ELHFVFFRRPTRFLPSEDGSTVGAVELEKTlLKDDgVTGKQVAVGTGEFEDLKCGLVLKS
+IGYKSLPVEGLPFDKYRGVVPNLRGRVLSSESETATVEpGLYVVGWLKRGPTGIVATNLH
+CAEETVASILEDDkKGVFtdPSDSKKQGRRGLLEILEQKNvRFVPFdGWEKIDSKEKMAG
+ELKNKPREKITTWnELLeAANEG
+
+
+BOP CONSENSUS:
+Length: 499 aa
+
+MGRrLLLPHTRRLMLFLRPMRYSASATAGSSRDPLHVCVVGSGPAGFYTAEKMLKGHEGV
+QVDIIDRLPTPFGLVRSGVAPDHPETKIVVNQFSRVAANPRCSFFGNVTLGSDVSLSELR
+KTYDVVVLAYGAESDRSFGIPGEDLRGIHSAREFVWWYNGHPDMCNLAPDLTNTDSAVVL
+GQGNVALDVARILLRCTTELASTDIAGYALDALRSSTIRKVYLVGRRGPVQAACTAKELR
+EILGLKNVNVCIKEADLVTSPADKEEMRNSRIKRRVYELLSKAATVHQENNDNDQKELHF
+VFFRKPTKFLPSEDGSTVGAVELEKTLLKDDGATGKQVAVGTGEFEDLKCGIVLKSIGYK
+SLPVEGLSFDKYRGVVPNLRGRVLSSESETATVEPGLYVVGWLKRGPTGIVATNLHCAEE
+TVDSILEDDRKGVFTDPSGPKRQGRRGLLEILEQKNARYVPFDGWEKIDSKEKaAGELKN
+KPREKITRWNELLEAAREG
+
+
+PACMAD CONSENSUS:
+Length: 498 aa
+
+MARGLRLLSRAVGRLRPLLVQGPTRGFSASApEPLHVCVVGSGPAGFYTADRMLKGHEGA
+QVDIIDRLPTPFGLVRSGVAPDHPETKIVVNQFSRVAANGRCSFFGNVTLGRDISLSELR
+KTYHAVVLAYGAESDRSLGIPGEDLKGIHSAREFVWWYNGHPDMCDLSPDLKNTESAVVL
+GQGNVALDVARILLRCKTELATTDITDYALDALRGSTIRKVYLVGRRGPVQAACTAKELR
+EILGLKNVRICIKEADLvTSPADEEEMRNSRIQRRVYELLSKAASAHgDNNYNDQKELHF
+VFFRRPTRFIPSENGSTVGAVQLEKTvLKGDEVTGKQVAVGTGEFEDLKCGLVLKSIGYK
+SLPVQGLPFDKNRGVVPNLRGRVLSSESETATVEtGLYVVGWLKRGPTGIVATNLHCAEE
+TVASILEDDKKGVLRPPSDSKKHGRTGLLEILEQKNVRFVPFSGWEKIDSmEKMAGQLRN
+KPREKITTWDGLQKAANE
+
+================================================================================

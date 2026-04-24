@@ -1,0 +1,110 @@
+================================================================================
+GrassFam ID: GFAM002285
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             470.0 aa
+Family Size (Extended Family Size): 29 (30) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31896:SF65
+Panther Family ID:               PTHR31896
+Modal Panther ID:                PTHR31896:SF65
+Modal Panther Description:       ACETYLTRANSFERASE
+Modal Panther Family ID:         PTHR31896
+Modal Panther Fam Desc:          FAMILY REGULATORY PROTEIN, PUTATIVE (AFU_ORTHOLOGUE AFUA_3G14730)-RELATED
+Interpro Signature Accession:    G3DSA:3.30.559.10; PTHR31896; PF02458
+Interpro Signature Description:  -; FAMILY REGULATORY PROTEIN, PUTATIVE (AFU_ORTHOLOGUE AFUA_3G14730)-RELATED; Transferase family
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 3
+  Modal chromosome: Bdi01
+  Gene Products: uncharacterized acetyltransferase At3g50280
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu07H
+  Gene Products: protein ENHANCED PSEUDOMONAS SUSCEPTIBILITY 1-like; uncharacterized acetyltransferase At3g50280-like
+Ata
+  Gene count: 4
+  Modal chromosome: Ata07D
+  Gene Products: BAHD acyltransferase DCR-like; protein ENHANCED PSEUDOMONAS SUSCEPTIBILITY 1; protein ENHANCED PSEUDOMONAS SUSCEPTIBILITY 1-like; uncharacterized acetyltransferase At3g50280
+Tae
+  Gene count: 9
+  Modal chromosome: Tae07D
+  Gene Products: protein ENHANCED PSEUDOMONAS SUSCEPTIBILITY 1-like; uncharacterized acetyltransferase At3g50280-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl06
+  Gene Products: protein ENHANCED PSEUDOMONAS SUSCEPTIBILITY 1-like; uncharacterized acetyltransferase At3g50280-like
+  Gene Descriptions: protein ENHANCED PSEUDOMONAS SUSCEPTIBILITY 1-like; uncharacterized acetyltransferase At3g50280-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa06
+  Gene Products: protein ENHANCED PSEUDOMONAS SUSCEPTIBILITY 1; uncharacterized acetyltransferase At3g50280
+  Gene Descriptions: protein ENHANCED PSEUDOMONAS SUSCEPTIBILITY 1; uncharacterized acetyltransferase At3g50280
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN4
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi03K
+  Gene Products: uncharacterized acetyltransferase At3g50280-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 469 aa
+
+MPSPsSmVRVVSSRTVKPPPRPRERIPLTSWDVSMLSANYIQKGLLFhpPpspSStAaVV
+DHLAAALADALahYYPVAGRFVTeQHRDdtGAVVGCSVSIDCDGQGVEVVHAVADGVtmA
+DVvPPDADVPrVVaSFFPLtDAVNYDGHELPLFAVQVTELADGVFVGFAYNHALSDGTAF
+WDFLNAWAEIARARLglAPAPssPpPLFERWSPDGGaAAPvVLPCADVSELIERlpPPPL
+RERMLHFSAESLAALKERARqELLAAGDAAGAAALTRFQALSSLLWRCITRARRLAPEQE
+TvCRAAINNRGRLRPqLPaEYFGNSIYAIGTEPVRAsELLeRGHGWAAAAVGRAVAAHTD
+AsIRARVAAWTAKPmVYThRfFDPtGTMMGSSPRFDMYGCDFGWGKPVAARSGkANKfDG
+KTSLYPGREGGGSiDAEVtLsPEHMAALElDdEFWAAVSPDapvplpeK
+
+
+BOP CONSENSUS:
+Length: 471 aa
+
+MPSPSmVRVVSSRTVKPPPRPRERIPLTSWDVSMLSANYIQKGLLFhpPpspLSTtAaVV
+DHLAAALAdALvhYYPVAGRFVTdqHRDdtGAVVGCSVSIDCDGQGVEVVHAVADGVtmA
+DVvPPDADVPrVVasFFPLtDAVNYDGHELPLFAVQVTELADGVFVGFAYNHALSDGTAF
+WDFLNAWAEIARARLglAPAPSsPrPlFERWSPDGGaAAPVVLPCADVSELIERapPpPL
+RERMLHFSAESLAALKERAReELLAAGDaAGAAALTRFQALSSLLWRCITRARRLAPEQE
+TtCRAAINNRGRLRPqLPqEYFGNsIYAIGTEPVRAsELLERGHGWAAAAVGRAVAAHTD
+AsIRARVAAWTAKPmVYThRfFDPtGTMMGSSPRFDMYGCDFGWGKPVAARSGkANKfDG
+KTSLYPGREGGGSiDAELTLsPEHMAALElDdEFWAAVtPDapvpapeKKa
+
+
+PACMAD CONSENSUS:
+Length: 461 aa
+
+MSSsPSPVRVVSRRTVKPPPRPRERIPLTSWDTAMLStNYIQKGLLFArPPLSTAGLVDH
+LEAALADALAVYYPVAGRFVTIQHRDGDVAAGCSVSVDCGGQGAEILLAVADGVAAADVV
+PPDADVPSVVRSFFPLAgAVCYDGHELPLFAAQVTELADGCVFLGFACNHALADGAAFWN
+FLNAWAEIARtRLAPPDSRRTTTSRPPLLERWSPDGGDAAPAVLPCADPSALVERLwpPP
+LRERMLHFSEESLvALKERARRELLsAGDAAGAAAVTRFQALASLtWRsITRARRLAPEr
+ETVCRAAINNRGRLRPPLPAEYFGNSIDsVATsPVRASELLAPGGHGWAAAAVGRAVAAH
+TDADIRARAAAWtAqPvVYTMRwFDAAGVmIGSSPRFDMYGCDFGWGKALAARSGKANKw
+DGKASLFPGRDGGIDAEVVLLPEHMAALEQDkELWAAVSPP
+
+================================================================================

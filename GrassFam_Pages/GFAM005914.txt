@@ -1,0 +1,126 @@
+================================================================================
+GrassFam ID: GFAM005914
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             297.0 aa
+Family Size (Extended Family Size): 33 (34) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43296:SF6
+Panther Family ID:               PTHR43296
+Modal Panther ID:                PTHR43296:SF6
+Modal Panther Description:       2,4-DIENOYL-COA REDUCTASE [(3E)-ENOYL-COA-PRODUCING]
+Modal Panther Family ID:         PTHR43296
+Modal Panther Fam Desc:          PEROXISOMAL 2,4-DIENOYL-COA REDUCTASE
+Interpro Signature Accession:    cd05369; G3DSA:3.40.50.720:FF:000084; G3DSA:3.40.50.720; PTHR43296; PR00081; PF13561; SSF51735
+Interpro Signature Description:  TER_DECR_SDR_a; Short-chain dehydrogenase reductase; -; PEROXISOMAL 2,4-DIENOYL-COA REDUCTASE; Glucose/ribitol dehydrogenase family signature; Enoyl-(Acyl carrier protein) reductase; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: peroxisomal 2%2C4-dienoyl-CoA reductase
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: peroxisomal 2%2C4-dienoyl-CoA reductase [(3E)-enoyl-CoA-producing]
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: peroxisomal 2%2C4-dienoyl-CoA reductase [(3E)-enoyl-CoA-producing]
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: peroxisomal 2%2C4-dienoyl-CoA reductase [(3E)-enoyl-CoA-producing]-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: peroxisomal 2%2C4-dienoyl-CoA reductase [(3E)-enoyl-CoA-producing]
+  Gene Descriptions: peroxisomal 2%2C4-dienoyl-CoA reductase [(3E)-enoyl-CoA-producing]
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: Trans-2-enoyl-CoA reductase (TER) and 2%2C4-dienoyl-CoA reductase (DECR)%2C transcript variant X2
+  Gene Descriptions: Trans-2-enoyl-CoA reductase (TER) and 2%2C4-dienoyl-CoA reductase (DECR)
+Ecu
+  Gene count: 5
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 1
+  Modal chromosome: Pau13
+  Gene Products: peroxisomal 2%2C4-dienoyl-CoA reductase [(3E)-enoyl-CoA-producing]
+  Gene Descriptions: peroxisomal 2%2C4-dienoyl-CoA reductase [(3E)-enoyl-CoA-producing]
+Svi
+  Gene count: 2
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi07K
+  Gene Products: peroxisomal 2%2C4-dienoyl-CoA reductase [(3E)-enoyl-CoA-producing]-like; peroxisomal 2%2C4-dienoyl-CoA reductase [(3E)-enoyl-CoA-producing]-like%2C transcript variant X1
+Pha
+  Gene count: 2
+  Modal chromosome: Pha07
+  Gene Products: peroxisomal 2%2C4-dienoyl-CoA reductase; peroxisomal 2%2C4-dienoyl-CoA reductase-like
+Msi
+  Gene count: 4
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi06
+  Gene Products: peroxisomal 2%2C4-dienoyl-CoA reductase; peroxisomal 2%2C4-dienoyl-CoA reductase%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: peroxisomal 2%2C4-dienoyl-CoA reductase-like; uncharacterized LOC100194355
+  Gene Synonyms: GRMZM2G005107,GRMZM2G005155; GRMZM2G025243,si707083e03
+  Gene Descriptions: peroxisomal 2%2C4-dienoyl-CoA reductase-like; uncharacterized LOC100194355
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 297 aa
+
+MESPFRADVLRGKAALVTGGGSGICFEIAAQLARHGAqVAIMGRRREVLDKAVAALRSeG
+LRAVGFDGDVRKQEDAARVLAATVEHFGKLDILVNGAAGNFLASPEDLTPKGFRTVLDID
+TVGTYTMCYEALKYLKKGGPGRGPSTGGLIINISATLHYTAaWYQIHVSAAKAGVDSITR
+SLALEWGTDYDIRVNGIAPGPIQDTPGlRKLAPEEMsKGkREMMPLFKLGEKwDIAMAAL
+YLASDAGKYVNGTTLVVDGGLWLSHPRHIPKEEVKELSKVVEKKVRtSGVGVPSSKL
+
+
+BOP CONSENSUS:
+Length: 299 aa
+
+MATESPFRADVLRGKAALVTGGGSGICFEIAAQLARHGAHVAIMGRRREVLDKAVAALRS
+EGLRAVGFQGDVRNQEDAARVLASTVEHFGKLDILVNGAAGNFLASPEDLTPKGFRTVLE
+IDTVGTYTMCYEALKYLKKGGPGRGPSTGGLIINISATLHYTASWYQIHVSAAKAGVDSI
+TRSLALEWGTDYEIRVNGIAPGPIGGTPGLRKLAPDEMGKGKREMMPLFKLGETRDIAMA
+ALYLASDAGKYVNGTTLVVDGGLWLSHPRHIPKEEVKELSKVIEKKVRASGVGVPSSKL
+
+
+PACMAD CONSENSUS:
+Length: 297 aa
+
+MESPFRADVLKGKAALVTGGGSGIGFEIAAQLARHGAQVAIMGRRREVLDKAVAALRSQG
+LRAVGFDGDVRKQEDAARVLAATVEHFGKLDILVNGAAGNFLASPEDLTPKGFRTVLDID
+TVGTYTMCYEALKYLKKGGPGRGPSTGGLIINISATLHYTAaWYQIHVSAAKAGVDSITR
+SLALEWGTDYDIRVNGIAPGPIQDTPGMRKLAPEEMSKGrREMMPLFKFGEKWDIAMAAL
+YLASDAGKYVNGTTLVVDGGLWLSHPRHIPKEEVKeLSKVVEKKVRTSGVGVPSSKL
+
+================================================================================

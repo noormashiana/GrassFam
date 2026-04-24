@@ -1,0 +1,150 @@
+================================================================================
+GrassFam ID: GFAM021034
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             742.5 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31862:SF1
+Panther Family ID:               PTHR31862
+Modal Panther ID:                PTHR31862:SF1
+Modal Panther Description:       UPF0261 DOMAIN PROTEIN (AFU_ORTHOLOGUE AFUA_1G10120)
+Modal Panther Family ID:         PTHR31862
+Modal Panther Fam Desc:          UPF0261 DOMAIN PROTEIN (AFU_ORTHOLOGUE AFUA_1G10120)
+Interpro Signature Accession:    cd15488; G3DSA:3.40.50.12030; G3DSA:3.40.50.12020; G3DSA:3.20.20.70; NF002674; PTHR31862; PF09370; PF06792; PF23189; SSF51621
+Interpro Signature Description:  Tm-1-like; Uncharacterised protein family UPF0261, NC domain; Uncharacterised protein family UPF0261, NN domain; Aldolase class I; hypothetical protein; UPF0261 DOMAIN PROTEIN (AFU_ORTHOLOGUE AFUA_1G10120); Phosphoenolpyruvate hydrolase-like; Uncharacterised protein family (UPF0261) N-terminal domain; Uncharacterised protein family (UPF0261) C-terminal domain; Phosphoenolpyruvate/pyruvate domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: UPF0261 protein RA0729; UPF0261 protein mll9388
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: toMV susceptible protein tm-1(GCR26)
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: toMV susceptible protein tm-1(GCR26)
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: toMV susceptible protein tm-1(GCR26)-like; toMV susceptible protein tm-1(GCR26)-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: toMV susceptible protein tm-1(GCR26)
+  Gene Descriptions: toMV susceptible protein tm-1(GCR26)
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: toMV susceptible protein tm-1(GCR26)
+  Gene Descriptions: toMV susceptible protein tm-1(GCR26)
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau10
+  Gene Products: toMV susceptible protein tm-1(GCR26)%2C transcript variant X1
+  Gene Descriptions: toMV susceptible protein tm-1(GCR26)
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: toMV resistance protein Tm-1(GCR237)-like%2C transcript variant X3; toMV susceptible protein tm-1(GCR26)-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: UPF0261 protein RA0729%2C transcript variant X1
+Msi
+  Gene count: 1
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: UPF0261 protein RA0729
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: TIM-barrel signal transduction protein isoform 2
+  Gene Synonyms: GRMZM2G132464
+  Gene Descriptions: TIM-barrel signal transduction protein isoform 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 744 aa
+
+MEVLCIGTADTKLEELLFLAARLRSsLAAsGSdPKVQVSIVDVSTTKtvttQDsKDItvI
+ARDTVLSCypDVdQHnLPDDRGEAIALMSKALQSFLKnRYESGTLVGAVGLGGSGGTALI
+APALRSLPLGVPKLIVSTVASGHTAPYVGTSDLVLFPSVVDICGINSVSRVILSNAAAAV
+AGMVHGILMASsESDETdTKpTVGITMFGVTTPCVNAVKDRLNKEGYETLVFHATGVGGK
+AMEELVRGGFIQGVLDITTTEVADHIVGGIMACDETRFDAIIDNKIPLVLSVGALDMVNF
+GARDTIPpAFADRKIHVHNEQVSLMRTTVEENKKFAqFIADKiNKSSSkVTVCLPQKGIS
+AIDAPGMPFYDPEATSTLLDELNTRIvKTDNREVKLLPYHINDPEFANALVDAFLSMDvK
+ASStiTQKNNMVQPKQDtNkKESSSGQKtSDSSIIWRPPVDFPDARPETLQKTKSILHKL
+KQQIsEGIPVIGAGAGTGISAKFEEAGGVDLIVLYNSGRFRMAGRGSLAGLLPFADANAI
+VLEMANEVLPVVKGVPVLAGVCATDPFRRMDYFLKQLEAIGFCGVQNFPTVGLFDGNFRQ
+NLEETGMGYSLEVEMISRAHsMGFLTTPYAFNPEEAAAMAKAGAHIIVAHMGLTTAGSIG
+AKTAATLDDSVvRVQAIADAALGVNPDIIVLCHGGPISGPrEAEFILKNTNRVHGFYGAS
+SMERLPVEQAITNTMREYKRISLK
+
+
+BOP CONSENSUS:
+Length: 743 aa
+
+MEVLCIGTADTKLEELLFLAARLRSSLAAASaPKVQVSIVDVSTTKTVPTQDSKDIAVIA
+RDTVLSCYPDssQQDLPDDRGEAIALMSKALQSFLKNRYEaGTLVGAVGLGGSGGTALIA
+PALRSLPLGVPKLIVSTVASGNTAPYVGTSDLVLFPSVVDICGINSVSRVILSNAASAVA
+GMVHGILMASSESDETDTKLTVGITMFGVTTqCANAVKDRLNKEGYETLVFHATGVGGKA
+MEELVRGGFIQGVLDITTTEVADHIVGGIMACDETRFDAAIDKKIPLVLSVGALDMVNFG
+AHDTIPpAFSDRKIHVHNEQISLMRTTVEENKKFAQFIADKLNKSsStVTVCLPQKGISA
+IDAPGMPFYDPEATSALLDELNTRIVKTENRQVKLLPYHINDPEFANALVDAFLSMDIKA
+SstITQKNNMVLPKQDtNeKESSSGQKTSDSSIIWRPPVDFPDARPETLQKTKSILHKLK
+QQIGEGIPVIGAGAGTGISAKFEEAGGVDLIVLYNSGRFRMAGRGSLAGLLPFADANAIV
+LEMANEVLPVVKEVPVLAGVCATDPFRRMDYFLKQLEAIGFCGVQNFPTVGLFDGNFRQN
+LEETGMGYSMEVEMISRAHSMGFLTTPYAFNPEEGAAMAKAGAHIIVAHMGLTTAGSIGA
+KTAATLDDSVaRVQAIADAAvGVNPDIIVLCHGGPISGPREAEFILKNTNRVHGFYGASS
+MERLPVEQAITNTMREYKRISLK
+
+
+PACMAD CONSENSUS:
+Length: 737 aa
+
+MEVLCIGTADTKLEELLFLAArLRSALAATGSDPKVQVSIVDVSTTEKTTAQDlKDITFI
+PRNTVLSCHLGVDQHNLPDDRGEAIALMSKALQSFLKKRYDSGTLVGAVGLGGSGGTALI
+APALRSLPLGVPKLIVSTVASGHTTPYVGTSDLVLFPSVVDICGINSVSRVILSNAAAAF
+AGMVHGILLASNESDETATKPTIGITMFGVTTPCVNAVKDRLNKEGYETLVFHATGVGGK
+AMEELVRGGFIQGVLDVTTTEVADHIVGGVMACDETRFDAIIENKIPLVLSVGALDMVNF
+GARDTIPLAFADRKIHVHNEQVSLMRTTVEENKKFARFIADKINKSSSKVTVCLPQKGIS
+AIDAPGMPFYDPEATSTLLGELNTLIQRTDIREVKLLPYHINDPEFANALVDAFLSMDVK
+ASSsAQPKQDlNkKKSSSGQKISDSSIIWRPPVDFPDAKPETLQKTRSILHKLKQQISEG
+IPVIGAGAGTGISAKFEEAGGVDLIVLYNSGRFRMAGRGSLAGLLPFADANAIVLEMANE
+VLPVVKGVPVLAGVCATDPFRRMEYFLRQLETIGFCGVQNFPTVGLFDGNFRQNLEETGM
+GYSLEVEMISRAHNMGFLTTPYAFNPEEAAAMAKAGAHIIVAHMGLTTAGSIGAMTAVTL
+DDSVVRVQAIADAALGINPDIIVLCHGGPISGPQEAEFILKNTNRVHGFYGASSMERLPV
+EQAITNTMREYKRISLK
+
+================================================================================

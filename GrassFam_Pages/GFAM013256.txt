@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM013256
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             558.0 aa
+Family Size (Extended Family Size): 34 (36) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46950:SF2
+Panther Family ID:               PTHR46950
+Modal Panther ID:                PTHR46950:SF10
+Modal Panther Description:       OS01G0664100 PROTEIN
+Modal Panther Family ID:         PTHR46950
+Modal Panther Fam Desc:          MAGNESIUM TRANSPORTER CORA-LIKE FAMILY PROTEIN
+Interpro Signature Accession:    PTHR46950
+Interpro Signature Description:  MAGNESIUM TRANSPORTER CORA-LIKE FAMILY PROTEIN
+
+
+REXdb Match:                     False
+REXdb Percentage:                2.94%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi02
+  Gene Products: uncharacterized LOC100821306; uncharacterized LOC100827368
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu03H
+  Gene Products: uncharacterized LOC123444034; zinc transport protein ZntB-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata03D
+  Gene Products: uncharacterized LOC109739134%2C transcript variant X1; uncharacterized LOC109783230
+Tae
+  Gene count: 6
+  Modal chromosome: Tae03A
+  Gene Products: uncharacterized LOC123061422%2C transcript variant X1; uncharacterized LOC123061665; uncharacterized LOC123065426%2C transcript variant X1; uncharacterized LOC123070288; uncharacterized LOC123078738; zinc transport protein ZntB-like%2C transcript variant X1
+Ola
+  Gene count: 3
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: uncharacterized LOC127760066
+  Gene Descriptions: uncharacterized LOC127760066
+Osa
+  Gene count: 2
+  Modal chromosome: Osa01
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4324600; uncharacterized LOC4327867
+Ecu
+  Gene count: 4
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: uncharacterized LOC133908418%2C transcript variant X2; uncharacterized LOC133917668%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133908418; uncharacterized LOC133917668
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: uncharacterized LOC120673823%2C transcript variant X1; uncharacterized LOC120710086%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: uncharacterized LOC112895836%2C transcript variant X1
+Msi
+  Gene count: 3
+  Modal chromosome: Msi06
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: uncharacterized LOC8061820
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: uncharacterized LOC100278854%2C transcript variant X3
+  Gene Synonyms: gpm894,GRMZM2G002297
+  Gene Descriptions: uncharacterized LOC100278854
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 564 aa
+
+MDGEPRWHgSFPGNvRQELkHSFGsAKEASPsSDLWTGGLVCAFEFVRGHGFASPaNLSR
+NSSSQSKDLPAMDPsrLPPpVAKnvSDGSeDGDEPRPpCKHGKAsPESYWAPIGWRRIAE
+LVEMVDGDAAWDGQGMmsLMDDGDQCCDITVADVAAPYWQRPAGPTWWCHVTAGHPAVDA
+WLAgARWLHPAIrVALRDESMLISEKMKHLLYEVPVRVAGGLLFELLGQSVGDPARDEDD
+IPIVLRAWQAQNFLITALHVKGSApNINVIGVTEVQELLSACGSTAPKSIHEVIAHLASR
+LARWDDRLWRKYVFGAADEIELKFVNRRNQEDLNLLCIIFNQDIRRLATQVIRVKWSLHA
+REEIIFELLKYLGGtTTKSLLEGIKKDTRQMIEEQEAVRGRLFTIQDVMQSTVRAWLQDK
+SLRITHNLTIFGGCGLILSIITGLFGINVDGIPGAKNTPYAFALFSGLLFLVGFLLIIVG
+IVYFGLQKPISDEQVQVRKLELQQLVSMFQHEAETHAKVREGVLRSDLPPRAADLIYDKv
+RKLGRYfSFvAKCEPaLQGyHLvs
+
+
+BOP CONSENSUS:
+Length: 562 aa
+
+MDGEPRWHgSFPGNvRKELiHSLGSSaKEASPqSDLWTGGLVCAFEFVRGHGFASPANLS
+RNNSSQSKDLSAMDPTKLPiTKLGDGEEPRPACKHGKASpESYWVPIGWRRIAELVEMVE
+GDAAWDGQGMgGLMDDGDQCCDITVADVAAPYWQRPAGPTWWCHVTAGHPAVDAWLAGAR
+WLHPAIRVALRDESMLISEKMKHLLYEVPVRVAGGLLFELLGQSVGDPAGDEDDIPIVLR
+AWQAQNFLITALHVKGSAPNINVIGVTEVQELLSACGSTAPKSIHEVVAHLASRLARWDD
+RLWRKYVFGAADEIELKFVNRRNQEDLNLLCIIFNQDIRRLATQVIRVKWSLHAREEIIF
+ELLQYLRGTTTRSLLEAIRKDTRQMIEEQEAVRGRLFTIQDVMQSTVRAWLQDKSLRITH
+NLTIFGGCGLILSIITGLFGINVDGIPGAKNTPYAFALFSGLLFLvGFMLIIVGIVYFGL
+QKPISDEQVQVRKLELQQLVSMFQHEAETHAKVREGVLRSDLPPRAADLIYDKVRKLGRY
+FSFEAKCEPaLQGYHLVSLCTL
+
+
+PACMAD CONSENSUS:
+Length: 575 aa
+
+MStvGEPRWNMQELKHSFDVAKEASPSSELWTGGLICAFEFVRGRGLASPTGLSRNSSVQ
+SKDLLPAMDGSRKPPPVAKNLSDGSDDGDDPRPPACRHGKGPPEGYWAPIGWARIAELVA
+MVDGDTAWDGQQGMMSLVNGDSQYCCDDDDIITVADVAAPYWQRPAGPTWWCHVTAGHPA
+VDAWLAAARWLHPAVSVALRDETMLISEKMKHLLYEVPVRVSGGLLFELLGQSVGDPARD
+EDDIPIVLRAWQAQNFLITALHVKGAASNVNVIGVTEVQELLSACGSVAPKSIHEVIAHL
+ACRLARWDDRLWRKYVFGAADEIELKFVNRRNQEDLNLLCIIFNQDIRRLATQVIRVKWS
+LHARDEIIFELLKYLGGNTTKSLLQGIKKDTRQMIEEQEAVRGRLFTIQDVMQSTVRAWL
+QDKSLRITHNLTIFGGCGLILSIITGLFGINVDGIPGAKKTPYAFALFSGLLFLVGFLLI
+IVGIIYFGLQKPISDEQVQIRKLELQQLVSMFQHEAETHGKVREGVLRSDLPPRAADLIY
+DKAQERSECGSVVTSCPALKKLqGVLQIRALFRGL
+
+================================================================================

@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM017498
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             438.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12755:SF6
+Panther Family ID:               PTHR12755
+Modal Panther ID:                PTHR12755:SF6
+Modal Panther Description:       POLYRIBONUCLEOTIDE 5'-HYDROXYL-KINASE CLP1
+Modal Panther Family ID:         PTHR12755
+Modal Panther Fam Desc:          CLEAVAGE/POLYADENYLATION FACTOR IA SUBUNIT CLP1P
+Interpro Signature Accession:    G3DSA:2.60.120.1030:FF:000001; G3DSA:2.40.30.330:FF:000002; G3DSA:3.40.50.300:FF:001231; G3DSA:3.40.50.300; G3DSA:2.60.120.1030; G3DSA:2.40.30.330; PTHR12755; PF16575; PF06807; PF16573
+Interpro Signature Description:  Protein CLP1 homolog 5; Protein CLP1 homolog; -; Clp1, DNA binding domain; CLEAVAGE/POLYADENYLATION FACTOR IA SUBUNIT CLP1P; mRNA cleavage and polyadenylation factor CLP1 P-loop; Pre-mRNA cleavage complex II protein Clp1; N-terminal beta-sandwich domain of polyadenylation factor
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: protein CLP1 homolog
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: protein CLP1 homolog
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: protein CLP1 homolog
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: protein CLP1 homolog
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: protein CLP1 homolog
+  Gene Descriptions: protein CLP1 homolog
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: protein CLP1 homolog
+  Gene Synonyms: P0027A02.1
+  Gene Descriptions: protein CLP1 homolog
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau06
+  Gene Products: protein CLP1 homolog
+  Gene Descriptions: protein CLP1 homolog
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: protein CLP1 homolog
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: protein CLP1 homolog
+Msi
+  Gene count: 3
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: protein CLP1 homolog
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: pre-mRNA cleavage complex II protein Clp1%2C transcript variant X1
+  Gene Synonyms: GRMZM2G038588
+  Gene Descriptions: pre-mRNA cleavage complex II protein Clp1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 439 aa
+
+MAAAgaAAAGAAApQPPRQyKLDPQSELRVEVLPDAPLRVRLVaGTAEIFGTELPPEGWV
+PVPPRSKIAIFTWHGATVELDGVSESEYTSDETPMVIYVNTHAILDARRARARAAAAQGG
+DLEASQGPRVIVVGPTDSGKSTLCKMLLSWAAKLGWKPTYVDLDIGQGSITIPGCISATP
+IEKPIDIVDGIPLEMPLAYFYGHPNPSINPDVYKVLMKELAQTLEkQFSGNAESRAAGMV
+INTMGWVEGLGYELLLNAIETFKANVVLVLGQEKLWKMLKDAVQSKPNIDVVKLHKSEGV
+VLRNSKYRQKTRSFRIKEYFYGIANDLAPHSNIVNFSDVSVYRIGsGHQAPRSALPIGAE
+PVADPTRLVAVNISTDMVHTVLAVSYAKEPDEIISSNVAGFIHVTDVDIQRKKLTYIAPC
+PGDLPSRLLIASSLTWYEA
+
+
+BOP CONSENSUS:
+Length: 438 aa
+
+MAATGAAAPAPAAVQPPRQFKLDPQSELRVEVLPDATLRVRLVSGTAEIFGTELPPEGWV
+TVPPRSKIAIFTWHGATVELDGVSESEYTSDETPMVIYVNTHAILDARRARARAAQGGDL
+EASQGPRVIVVGPTDSGKSTLCKMLLSWAAKLGWKPTYVDLDIGQGSITIPGCISATPIE
+KPIDIVDGIPLEMPLAYFYGHPNPSINPDVYKALMRELAQTLETQFSGNAESRAAGMVIN
+TMGWVEGLGYELLLNAIEIFKANVVLVLGQEKLWKMLKDAVQSKPNIDVVKLHKSEGVVL
+RNSKYRQKTRSFRIKEYFYGIANDLAPHSNVVNFSDVSVYRIGSGHQAPRSALPIGAEPV
+ADPTRLVAVNISTDMVHTVLAVSYAKEPDEIISSNVAGFIHVTDVDIQRKKLTYIAPCPG
+DLPSRLLIASSLTWYEQA
+
+
+PACMAD CONSENSUS:
+Length: 437 aa
+
+MATTAgAGAAAPQPPRQYKLAPQSELRVEVLPDAPLRVRLVTGTAEIFGTELPPEGWVPV
+PPRSKIAIFTWHGATVELDGVSESEYtSDETPMVIYVNTHAILDARRARARAAAAQGGDL
+EASQGPRVIVVGPTDSGKSTLCKMLLSWAAKLGWKPTYVDLDIGQGSITIPGCISATPIE
+KPIDIVDGIPLEMPLVYFYGHPNPSINPDVYKVLMKELAKTLEKQFSGNAESRAAGMVIN
+TMGWVEGLGYELLLNAIETFKANVVLVLGQEKLWKMLKDAVQSKPNIDVVKLHKSEGVVL
+RNSKYRQKTRSFRIKEYFYGIANDLAPHSNIVNFSDVSVYRIGGGHQAPRSALPIGAEPV
+ADPTRLVAVNISTDMIHTVLAISYAKEPDEIISSNVAGFIHVTDVDIQRKKLTYIAPCPG
+DLPSRLLIASSLTWYEA
+
+================================================================================

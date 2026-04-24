@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM018808
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             348.0 aa
+Family Size (Extended Family Size): 25 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12161:SF16
+Panther Family ID:               PTHR12161
+Modal Panther ID:                PTHR12161:SF16
+Modal Panther Description:       REGULATOR OF VPS4 ACTIVITY IN THE MVB PATHWAY PROTEIN
+Modal Panther Family ID:         PTHR12161
+Modal Panther Fam Desc:          IST1 FAMILY MEMBER
+Interpro Signature Accession:    G3DSA:1.20.1260.60:FF:000002; G3DSA:1.20.1260.60; PTHR12161; PF03398
+Interpro Signature Description:  Vacuolar protein sorting-associated protein IST1; -; IST1 FAMILY MEMBER; Regulator of Vps4 activity in the MVB pathway
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: uncharacterized LOC100836100
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: uncharacterized LOC123447434
+Ata
+  Gene count: 2
+  Modal chromosome: Ata04D
+  Gene Products: uncharacterized LOC109778831; uncharacterized LOC123493353
+Tae
+  Gene count: 5
+  Modal chromosome: Tae04B
+  Gene Products: uncharacterized LOC123087117; uncharacterized LOC123090843; uncharacterized LOC123094337; uncharacterized LOC123095849; uncharacterized LOC123095854
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: uncharacterized LOC127768742
+  Gene Descriptions: uncharacterized LOC127768742
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4333874
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: uncharacterized LOC133913139; uncharacterized LOC133915613
+  Gene Descriptions: uncharacterized LOC133913139; uncharacterized LOC133915613
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi09K
+  Gene Products: uncharacterized LOC120647844; uncharacterized LOC120650020; uncharacterized LOC120691348
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: uncharacterized LOC112877567
+Msi
+  Gene count: 1
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: uncharacterized LOC8062916
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: Regulator of Vps4 activity in the MVB pathway protein
+  Gene Synonyms: GRMZM2G132958
+  Gene Descriptions: Regulator of Vps4 activity in the MVB pathway protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 348 aa
+
+MGRRLDVLLGRTTKQTARLKSLLGLAvTRLGVVRGHRQVRCAQARGDVEQLLRLGHPDRA
+LLRAEQVIREQNtLDVLLlLEAYCaLiAERAALVDAHRECPEELREAAAGLVYAAARCGD
+LPELQEVRaLLAAKFGReFVSAAAELRSGCGVNAKIVQKLSTKQPSLESRQMVLQEIAAE
+KGIpVRvhEpPcEDSGRSNHgHRKkrhDDERrRaPrvDDpeEDISaDSAQRYKDVEAAAQ
+AAFESAATAAAAAKAAMELSRGesRGPDDRrRRGRAhmDDEtLHGGEDLaDGKKFERIGH
+vRNYSSEiEDLPEDEANHGNvAvsELKHhEqrdppRSrPASVRTKRGF
+
+
+BOP CONSENSUS:
+Length: 346 aa
+
+MGRTLDVLLGRTTKQTARLKSLLGLATKRIAVVRAHREVRCAQARGDVEQLLRQGHPDRA
+LLRAEQVIRERdTLDALLLLDAYCALLADRSALLDAHReCPEELREAAAGLCYAAARCGD
+LPELQEARALLAAKFGRGFASaAAELRAGCGVNAKLVQRLSTALPSLESRQMVLLEIGAD
+KDIPVRLHsDAASYhHEDSAGRSHHGHGHRKKRHDDDDERRHATPRADgpEGDkADSkLT
+FKDVEEAAQAAFESAATAAAAAKAAIELSRAGSGSpDDRYRRNPGRAHADDEtLHGGEDL
+ADgKKFGRIGHVRNYSSDAEDLPEKrGEeQDTPRSRPASVRTNRgL
+
+
+PACMAD CONSENSUS:
+Length: 347 aa
+
+MGRRLDVLLGRTTKQTARLKSLLGLAVTRLGVVRGHRQVRCAQARGDVEQLLRLGHPDRA
+LARAEHVVREQNALDVLAELEAYCnLIvERAALVDAHRECPEELREAAAGLVYAAARCGD
+LPELQEVRnILAAKFGREFVSAASeLRSGCGVNPKIVQKLSTKQPSLESRQMVLQEIAAE
+KGIAVRVYEPPCEDSGRSNHNHRKTKQDeERIRTPPVDDLDEDISGDSAQRYKDVEAAAQ
+AAFESAASAAAAAKAAMELSRGEPRGPGDRRKTGRtQMDpESkKeDEvlDGKKFEKIGHA
+RNYSSEiEILPEDEANHGNVAvNELKHHEQREPARGKPASVRTKWGF
+
+================================================================================

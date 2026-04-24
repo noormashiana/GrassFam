@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM005896
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             370.0 aa
+Family Size (Extended Family Size): 19 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47990:SF31
+Panther Family ID:               PTHR47990
+Modal Panther ID:                PTHR47990:SF31
+Modal Panther Description:       2-OXOGLUTARATE (2OG) AND FE(II)-DEPENDENT OXYGENASE SUPERFAMILY PROTEIN
+Modal Panther Family ID:         PTHR47990
+Modal Panther Fam Desc:          2-OXOGLUTARATE (2OG) AND FE(II)-DEPENDENT OXYGENASE SUPERFAMILY PROTEIN-RELATED
+Interpro Signature Accession:    G3DSA:2.60.120.330:FF:000001; G3DSA:2.60.120.330; PTHR47991; PF14226; PF03171; SSF51197
+Interpro Signature Description:  Protein SRG1; -; OXOGLUTARATE/IRON-DEPENDENT DIOXYGENASE; non-haem dioxygenase in morphine synthesis N-terminal; 2OG-Fe(II) oxygenase superfamily; Clavaminate synthase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: probable 2-oxoglutarate-dependent dioxygenase ANS
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: protein SRG1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: protein SRG1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: protein SRG1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: protein SRG1
+  Gene Descriptions: protein SRG1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: protein LATERAL BRANCHING OXIDOREDUCTASE 1
+  Gene Descriptions: protein LATERAL BRANCHING OXIDOREDUCTASE 1
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau02
+  Gene Products: protein SRG1
+  Gene Descriptions: protein SRG1
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi05N
+  Gene Products: protein SRG1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: protein SRG1%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: protein SRG1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: uncharacterized LOC100280091%2C transcript variant X1
+  Gene Synonyms: GRMZM2G025870
+  Gene Descriptions: uncharacterized LOC100280091
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 363 aa
+
+MaSAAVCSqqemAggEIKIGQVDDVQELQRACldTVPERYIRDGDDRPDGANVCAhAhIP
+VIDVGELrRGgDELdKLRLACEEWGFFQVVNHGIegELLDEMEKLaREFFMLPLEEKEKY
+PMAPGGIQGYGHAFVFSEDQKLDWCNMLALGVEPAFIRQPKLWPTTPAaFtETLErYSAE
+VRaLCrRLLaHIAETLGLAPGTFaGMFGEAVQAVRMNFYPPCPRPELVLGLSAHSDGSAV
+TVLQQDAsCAGLQVLrdGAWVPVHPVPHALVVNLGDSLEVLTNGRYKSVEHRAVTNGEQD
+RLSVVTFYAPAYDVELGPLPELVtDgEPCRYRRFNHGEYSRHYVTSRLEGKKTLEFAKIN
+ptt
+
+
+BOP CONSENSUS:
+Length: 366 aa
+
+MASAAVCSPKQQQQQqeDGGVVKIGRVDDVQELQRACvDDVPERYvRDGDDRPGGANVCA
+HAEIPVIDAGELRRGGGDELEKLRLACEEWGFFQVVNHGIEGELLDEMERLSREFFMLPL
+EEKERYPMAPGGIQGYGHAFVFSEDQKLDWCNMLALGVSPAFIRQPkLWPTTPAAFTDTL
+ERYSAEVRALCHRLLEHIAETLGLAPGTFAGMFGDAVQAVRMNFYPPCPRPELVLGLSAH
+SDGSAVTVLQQDAGRAGLQVLRGGAWVPVHPVPHALVVNLGDSLEVLTNGRYKSVEHRAV
+TNGEQDRLSVVTFYAPAYDVELGPLPELVADGEPCRYRRFNHGEYSRHYVTSKLEGKKTL
+DFAKIN
+
+
+PACMAD CONSENSUS:
+Length: 367 aa
+
+IGAmAMAeAEIKIGQVDDVQELHRTGLsTVPDRYIRDGDDRPDGDNVCALAHIPVIDVGE
+LPRgDELnKLRLACEEWGFFQVVNHGIAhELLDEMEKLTREFFMLPLEEKEKYPMAPGGI
+QGYGHAFVFSEDQKLDWCNMLALGVEPAFIRQPKLWPTtPAgFkETLErYSAEVRgLCRR
+LLAHIAETLGLAPATFGDMFGEAVQAVRMNFYPPCPRPELVLGLSAHSDGSAVTVLQQDM
+SCAGLQVRKdGAWVPVHPIPHALVINLGDTLEVLTNGRYKSVEHRAVTNGEQDRLSVVTF
+YAPAYDVELGPLPEFVTDEAPCRYRRFNHGEYSRHYVTSRLEGKKTLEFAKINppTTTAP
+EETCTCt
+
+================================================================================

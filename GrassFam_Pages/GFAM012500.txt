@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM012500
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             394.0 aa
+Family Size (Extended Family Size): 24 (32) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43245:SF57
+Panther Family ID:               PTHR43245
+Modal Panther ID:                PTHR43245:SF57
+Modal Panther Description:       NAD-DEPENDENT EPIMERASE_DEHYDRATASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR43245
+Modal Panther Fam Desc:          BIFUNCTIONAL POLYMYXIN RESISTANCE PROTEIN ARNA
+Interpro Signature Accession:    cd05257; G3DSA:3.40.50.720; PTHR43245; PF01370; SSF51735
+Interpro Signature Description:  Arna_like_SDR_e; -; BIFUNCTIONAL POLYMYXIN RESISTANCE PROTEIN ARNA; NAD dependent epimerase/dehydratase family; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: UDP-D-apiose/UDP-D-xylose synthase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: UDP-D-apiose/UDP-D-xylose synthase
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: UDP-D-apiose/UDP-D-xylose synthase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: UDP-D-apiose/UDP-D-xylose synthase; UDP-D-apiose/UDP-D-xylose synthase-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: UDP-D-apiose/UDP-D-xylose synthase
+  Gene Descriptions: UDP-D-apiose/UDP-D-xylose synthase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: UDP-D-apiose/UDP-D-xylose synthase-like
+  Gene Synonyms: OJ1656_A11.20,OsJ_04912
+  Gene Descriptions: UDP-D-apiose/UDP-D-xylose synthase-like
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: UDP-D-apiose/UDP-D-xylose synthase; UDP-D-apiose/UDP-D-xylose synthase-like
+  Gene Descriptions: UDP-D-apiose/UDP-D-xylose synthase; UDP-D-apiose/UDP-D-xylose synthase-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: UDP-D-apiose/UDP-D-xylose synthase; UDP-D-apiose/UDP-D-xylose synthase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: UDP-D-apiose/UDP-D-xylose synthase
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: UDP-D-apiose/UDP-D-xylose synthase
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: bifunctional polymyxin resistance arnA protein
+  Gene Synonyms: GRMZM2G063949,pco119463; GRMZM2G167872
+  Gene Descriptions: bifunctional polymyxin resistance arnA protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 394 aa
+
+MSsSPsaAaaRlDLDGNPVAPLTICMIGAGGFIGSHLCEKLMAETpHVVLAVDVYCDKIR
+HLVDPAPPHLAGRISFHRLNIKNDSRLEGLIKMADLTINLAAICTPADYNTRPLDTIYSN
+FIDALPVVKYCSENnKRLIHFSTCEVYGKTIGSFLPKDHPLRKEPEFYVLKEDESPCIFG
+PIVKQRWSYACAKQLIERLIFAEGAENGLEFTIVRPFNWIGPRMDFIPGVDGPSEGVPRV
+LACFSNNLLRREPLKLVDGGQSQRTFVYIKDAIEAVvLMIENPARANGHIFNVGNPNNEV
+TVRELAEMMTEVYANVSGEPPLDEPMIDVSSkQFYGEGYDDSDKRIPDMTIINKQLGWNP
+KTPLKDLLETTLTYQHKTYKEAVKRQMSQASASS
+
+
+BOP CONSENSUS:
+Length: 391 aa
+
+MPASGGRtDLDGnPVAPLTICMIGAGGFIGSHLCEKLMAETPHVVLAVDVYCDKIRHLVD
+PpPPHLAGRISFHRLNIKNDSRLEGLIKMADLTINLAAICTPADYNTRPLDTIYSNFIDA
+LPVVKYCSENsKRLIHFSTCEVYGKTIGSFLPKDHPLRKEPEFYVLTEDESPCIFGPIVK
+QRWSYACAKQLIERLVFAEGAENGLEFTIVRPFNWIGPRMDFIPGVDGPSEGVPRVLACF
+SNNLLRREPLKLVDGGESQRTFVYIKDAIEAVLLMIENPARANGHIFNVGNPDNEVTVRE
+LAEMMTEVYAKVSGEPPLEEPVIDVSAKQFYGEGYDDSDKRIPDMTLINKQLGWNPKTPL
+KDLLETTLTYQHKTYKEAVKTQMSQATAtSS
+
+
+PACMAD CONSENSUS:
+Length: 394 aa
+
+MSSSPSpAAARLDLDGNPVAPLTICMIGAGGFIGSHLCEKLMAETrHVVLAVDVYCDKIR
+HLVDPAPPHLAGRISFHRLNIKNDSRLEGLIKMADLTINLAAICTPADYNTRPLDTIYSN
+FIDALPVVKYCSENNKRLIHFSTCEVYGKTIGSFLPKDHPLRKEPEFYVLKEDESPCIFG
+PIVKQRWSYACAKQLIERLIFAEGAENGLEFTIVRPFNWIGPRMDFIPGVDGPSEGVPRV
+LACFSNNLLRREPLKLVDGGQSQRTFVYIKDAIEAVVLMIENPARANGHIFNVGNPNNEV
+TVRELAQMMTEVYANVSGEAPLDEPMIDVSSSQFYGEGYDDSDKRIPDMTIINKQLGWNP
+KTPLKDLLETTLTYQHKTYKEAVKRQMSQASASS
+
+================================================================================

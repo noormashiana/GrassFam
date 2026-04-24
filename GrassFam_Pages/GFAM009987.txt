@@ -1,0 +1,124 @@
+================================================================================
+GrassFam ID: GFAM009987
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             356.0 aa
+Family Size (Extended Family Size): 48 (54) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47991:SF131
+Panther Family ID:               PTHR47991
+Modal Panther ID:                PTHR47991:SF131
+Modal Panther Description:       FE2OG DIOXYGENASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR47991
+Modal Panther Fam Desc:          OXOGLUTARATE/IRON-DEPENDENT DIOXYGENASE
+Interpro Signature Accession:    G3DSA:2.60.120.330:FF:000018; G3DSA:2.60.120.330; PTHR47991; PF03171; SSF51197
+Interpro Signature Description:  2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein; -; OXOGLUTARATE/IRON-DEPENDENT DIOXYGENASE; 2OG-Fe(II) oxygenase superfamily; Clavaminate synthase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: protein SRG1
+Lpe
+  Gene count: 4
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 8
+  Modal chromosome: Hvu06H
+  Gene Products: protein SRG1-like; protein SRG1-like%2C transcript variant X1
+Ata
+  Gene count: 8
+  Modal chromosome: Ata07D
+  Gene Products: protein SRG1; protein SRG1-like
+Tae
+  Gene count: 13
+  Modal chromosome: Tae07B
+  Gene Products: protein SRG1-like; protein SRG1-like%2C transcript variant X1
+Ola
+  Gene count: 2
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl06
+  Gene Products: protein SRG1-like
+  Gene Descriptions: protein SRG1-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa06
+  Gene Products: protein LATERAL BRANCHING OXIDOREDUCTASE 1
+  Gene Descriptions: protein LATERAL BRANCHING OXIDOREDUCTASE 1
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN321
+Pau
+  Gene count: 1
+  Modal chromosome: Pau10
+  Gene Products: protein SRG1-like
+  Gene Descriptions: protein SRG1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi04K
+  Gene Products: protein SRG1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: protein SRG1-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: protein SRG1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 355 aa
+
+MADdqPWKIVeIPPIVQELAaGVQEPPSRYVVPEQDRPAaAgSEMPEPIPIVDLSRLSAN
+SADEvAKLRSALENWGLFLAVGHGMEPSFLgEVMKVTREFFKLPLEEKQKYSNLVNGkEF
+RiEGYGNDMVVSEKQiLDWCDRLYLiVEPESRRiYSLWPTQPPSFRDILsEYTVRCReIA
+NLVLrnLAKLLgLhEdYFVdMldEkAlTYARFNYYPrCPKPDhVLGLKPHTDASVITVVF
+IDDnVSGLQVQKnGVWYdVPIVPNALLVNvGDvMEImSNGFFKSPVHRVVTNAEKERvSL
+VMFYTlDPEkEIEPvPELVDEKRPRRYRKmKTKDYlAkLFETFARGTLAIDTVKI
+
+
+BOP CONSENSUS:
+Length: 355 aa
+
+MADgqpWKIVeIPPIVQELVAGVQEPPSQYVVPEQDRPAvAGSEMPEPIPIVDLSRLSAN
+SADEvAKLRSALENWGLFLAVGHGMEPSFLGEVMKVTREFFKLPLEEKQKYSNLVdGkEf
+RiEGYGNDMVVSEKQiLDWCDRLYLiVEPESRRiYSLWPTQPPSFRDILsEYTVRCREIA
+NLVLrnLAKLLnLhEDYFVnMlDEkAlTYARfNYYPrCPKPDHVLGLKPHTDASVITVVF
+IDDnVSGLQLQKNGVWYnVPIVPNALLVNvGDvMEImSNGFFKSPVHRVVTNAEKERLSL
+VMFYTlDPErEIEPvPELVDEKRPRRYRKmKTKDYlaKLFETFARGTLAIDTVKI
+
+
+PACMAD CONSENSUS:
+Length: 367 aa
+
+MADDQPWKIPPIVQELAAGVQEPPSRYVVREQDRPAAAAAAAMPEPIPIVDLSRLSAADD
+GGgDDEvAKLRSALQNWGLFLAVGHGMEPGFLAEMMqVTRGFFNLPlEEKQKYSNLVNGK
+EFRFEGYGNDMVLSEDQILDWCDRLYLIVEPESRvVrSLWPAQPPAFsDVLREYTARCRe
+IAGVVLASLARLLGLHEGRFVGMMsEGVAMTHARFNYYPRCPrPDrVlGLKPHSDASVIT
+VVLIDDAVSGLQVQKPNDGGGVWYDVPIVPNALLVNVGDAIEIMSNGlFtSPVHRAVTNA
+ErDRVSLAMFYTLDPEKEIEPLPELVDEKRPRRYGKTTTKDYLAvLFERFARGaRAmDTV
+KIstnDD
+
+================================================================================

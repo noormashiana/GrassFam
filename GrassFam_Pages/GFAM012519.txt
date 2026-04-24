@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM012519
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             328.0 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45274:SF2
+Panther Family ID:               PTHR45274
+Modal Panther ID:                PTHR45274:SF2
+Modal Panther Description:       NAD(P)-BINDING ROSSMANN-FOLD SUPERFAMILY PROTEIN
+Modal Panther Family ID:         PTHR45274
+Modal Panther Fam Desc:          NAD(P)-BINDING ROSSMANN-FOLD SUPERFAMILY PROTEIN
+Interpro Signature Accession:    G3DSA:3.40.50.720; PTHR45274; PF00106; SSF51735
+Interpro Signature Description:  -; NAD(P)-BINDING ROSSMANN-FOLD SUPERFAMILY PROTEIN; short chain dehydrogenase; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: dehydrogenase/reductase SDR family member 7
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: dehydrogenase/reductase SDR family member 7
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: dehydrogenase/reductase SDR family member 7%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: dehydrogenase/reductase SDR family member 7-like; dehydrogenase/reductase SDR family member 7-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: uncharacterized LOC127754553
+  Gene Descriptions: uncharacterized LOC127754553
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4350245
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN162
+Pau
+  Gene count: 1
+  Modal chromosome: Pau12
+  Gene Products: uncharacterized LOC133887089%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133887089
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi08K
+  Gene Products: dehydrogenase/reductase SDR family member 7-like%2C transcript variant X1; dehydrogenase/reductase SDR family member 7-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: dehydrogenase/reductase SDR family member 7
+Msi
+  Gene count: 2
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: dehydrogenase/reductase SDR family member 7%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: uncharacterized LOC100282413%2C transcript variant X1
+  Gene Synonyms: GRMZM2G003692,pco131508b
+  Gene Descriptions: uncharacterized LOC100282413
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 328 aa
+
+MLLLLLFAlLAGAAAFLLFKFATVVDGDlTLVSRGPPRRERVDGKVVWITGASRGIGEVL
+AMQFASLGAKLILSARNKeELERVKqNIlSKHPDSRVEVLPMDLSSGEESLKEVVHaAES
+LFSNAGVDYMIHNAAFERPKRGALEETEEGLKATFNVNVFGTITLTRLLAPyMLDRGMGH
+FVVMSSAAGKVPaPGQALYSASKHALNGYFASLRSELCTKGIKVTVVCPGPIETPQSSGA
+tSSSQRHSSEKRVSVERCAELTIVAATHGLKEAWISYQPVLaVMYLVQYMPTIGYWLMDK
+VGAKRLDAAAKKGNAYSWNLlFGGKKSA
+
+
+BOP CONSENSUS:
+Length: 328 aa
+
+MmLLLfALLAGAGAaAFLLFKFATaDGDFTLLSRGrPRREKVDGKVVWITGASRGIGEVL
+SMQFASLGAKLILSARNKEELERVKHNIISKHPDSRVEVLPMDLSSDEESLKEVVHSAES
+LFSSAGIDYMMHNAAFERPKRGALEETEEGLKATFhVNVFGTITLTRLLAPSMLDRGMGH
+FVVMSSAAGKVPTPGQALYSASKHALNGYFASLRSELCTKGIKVTVVCPGPIETPvSSGA
+TSSSQRHSSEKRVSVERCAELTIVAATHGLKEAWISYQPVLAVMYVVQYMPTIGcWLMDK
+VGAKRVDAAAKKGNAYSWNLLFGGKKSA
+
+
+PACMAD CONSENSUS:
+Length: 328 aa
+
+MLLLLLFAvLAGAAAFLLFKFATVVDGDLTLVSRGPPRRERVDGKVVWITGASRGIGEVL
+AMQFANLGAKLILSARNKDELERVKQNILSKNPDSRVEVLPMDLSAGEESLKEVVHvAES
+LFSNAGVDYMIHNAAFERPKRGALEESEEGLKATlNVNVFGTITLTRLLAPYMLDRGMGH
+FVVMSSAAGKVPAPGQAIYSASKHALNGYFASLRSELCTKGIKVTVVCPGPIETPQSSAA
+ASSVQrHSSEKRVSVERCVELTIVAATHGLKEAWISYQPVLTVMYLVQYMPTIGYWLMDK
+VGAKRLDAAAKKGNTYSWNLIFGGKKSA
+
+================================================================================

@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM003295
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             577.0 aa
+Family Size (Extended Family Size): 58 (59) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR11709
+Modal Panther ID:                PTHR11709:SF472
+Modal Panther Description:       LACCASE
+Modal Panther Family ID:         PTHR11709
+Modal Panther Fam Desc:          MULTI-COPPER OXIDASE
+Interpro Signature Accession:    cd13875; cd13897; cd13849; G3DSA:2.60.40.420; TIGR03389; PTHR11709; PF07731; PF07732; PF00394; SSF49503
+Interpro Signature Description:  CuRO_2_LCC_plant; CuRO_3_LCC_plant; CuRO_1_LCC_plant; -; laccase; MULTI-COPPER OXIDASE; Multicopper oxidase; Cupredoxins
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 3
+  Modal chromosome: Bdi03
+  Gene Products: laccase-21; putative laccase-9
+Lpe
+  Gene count: 7
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu06H
+  Gene Products: putative laccase-9
+Ata
+  Gene count: 4
+  Modal chromosome: Ata07D
+  Gene Products: putative laccase-9
+Tae
+  Gene count: 10
+  Modal chromosome: Tae07B
+  Gene Products: putative laccase-9
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl01
+  Gene Products: putative laccase-1; putative laccase-9
+  Gene Descriptions: putative laccase-1; putative laccase-9
+Osa
+  Gene count: 2
+  Modal chromosome: Osa02
+  Gene Products: laccase-21-like; putative laccase-9
+  Gene Synonyms: LAC21
+  Gene Descriptions: laccase-21-like; putative laccase-9
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: laccase-21-like
+  Gene Descriptions: laccase-21-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi01K
+  Gene Products: laccase-21-like; putative laccase-9
+Pha
+  Gene count: 3
+  Modal chromosome: Pha01
+  Gene Products: laccase-21-like; putative laccase-9
+Msi
+  Gene count: 10
+  Modal chromosome: Msi08
+Sbi
+  Gene count: 4
+  Modal chromosome: Sbi04
+  Gene Products: laccase-21; putative laccase-9
+Zma
+  Gene count: 2
+  Modal chromosome: Zma04
+  Gene Products: laccase-like; putative laccase-9
+  Gene Synonyms: GRMZM2G169033,lac3
+  Gene Descriptions: laccase-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 577 aa
+
+MgGVAKmPAlLWLLGVVLAFGVAASPAQaSrnnHYDFfIKETNyTRLChEKTILTVNGQF
+PGPTIYARKGDVVIVNVYNQGnKNITIHWHGVDQPRNPWSDGPEYITQCPIQPGANFTYR
+IILSEEEGTLWWHAHSDFDRATVHGAIVIHPKrGTtYPFkKPHKEIPIILGEWWNADVnq
+LLEEakRTGGEVNISDANTINGQPGDLFPCSKngTFKmPVEHGKTYLLRIINAGLTNDMF
+FgVAGHRLTVVGTDGRYLKPFTVdHIMISPGQTMDALLEAnRAtNGSsNgRYYMAARTFA
+SNpglpVNNSTATAILEYTDAPPsAGPPDFPNLPaVNDiaAATAYTAQLRSLvSKdHPVD
+VPmhVDEHMLVTIAVNVLPCaaNETCgGPgGnRLAASLNNVSFvnPsVDILDAYYySIrG
+VYEpDFPNKPPFFFNFTDdNpPvErWfTKRGTKVKVVEYGAVVEVVFQDTAILGAEsHPM
+HLHGFsFYVVGRGFGNFDkdKDPATYNLVDPPYQNTVSVPKAGWAAIRFRAANPGVWFMH
+CHFDRHTVWGMDTVFIVKdGKTPeAKMMPRPPNMPKC
+
+
+BOP CONSENSUS:
+Length: 573 aa
+
+MGvAKiPAvLWLLGAVltLGvSVsPAQGAKTRHHDFFIKEsNYTRLCKEKTVLTVNGQFP
+GPTIYARKGDlVIVNVYNQGDKNITIHWHGVDQPRNPWSDGPEYITQCPIQPGgNFTYRV
+ILSEEEGTLWWHAHSDFDRTTVHGAIVIHPKLGTTFPFKKPHKEIPVILGEWWnADVNHL
+LEEAeRTGGEINISDANTINGQPGDLFPCSKaGTFKiPVQhGKTYLLRIINAGLsNDLFF
+GVAGHnLTVVGTDGRYTKPFTVKHIMISPGQTMDALLEADRASnGRYYMAARTFASNPnI
+evNNSTATAIVEYMDAPPARAGpPeFPNLPgVNDIDsATAYTAQLRSLASKDHPVDVPrq
+VDEHMLITIAVNVLPCAgNeTCgGPdGNRlAASLNNVSFqnPSVDILDAYYrSVRGVYEA
+DFPNKPPFFFNFTDDNdPvERWaTKRGTKVKVVEYGAVVEVVFQDTsILGAENHPMHLHG
+FAFYVVGRGFGNFDEqKDPATYNLVDPPYQNTVSVPKAGWAAIRFRATNPGVWFMHCHFD
+RHvVWGMsTVFIVKDGKaPEAKMMPRPPNMPtC
+
+
+PACMAD CONSENSUS:
+Length: 584 aa
+
+MRPTMGGVAKMPAAGLCWLLLGVVLAFGVAASPAQASRNTHYDFVIKETKVTRLCHEKTI
+LAVNGQFPGPTIYARKGDVVvVNVYNQGNKNITLHWHGVDQPRNPWSDGPEYITQCPIQP
+GANFTYRIIFTEEEGTLWWHAHSDFDRATVHGAIVIHPKRGSAYPYpKPHKEmPIILGEW
+WNADVEQvLLEtqRTGGDVNISDANTINGQPGDfAPCSKNDTFRMpVEHGKTYLLRVINA
+GLTNEMFFAVAGHRLTVVGTDGRYLKPFTVDhIMISPGQTMNvLLEANRATNGSGNSRYY
+MAARPFFTNiGLPVNdKNTTAILEYTDAPPSAGPPDsPnLPAvnDtAAATAYTAQLRSLV
+TKEHPIDVPMeVDEHMLVTISVNTLPCGANETCtGPGGtRLAASLNNVSFVpPtVDILDA
+YYySISGVYEPDFPNKPPFFFNFTAPdPPvELqLTKRGTKVKVVEYGTVVEVVFQDTAIL
+GAESHPMHLHGFSFYVVGRGFGNFDKDKDPATYNLVDPPYQNTVSVPtGGWAAIRFRAAN
+PGVWFMHCHFDRHTVWGMDTVFIVKNGKTPdAQMMPRPPNMPKC
+
+================================================================================

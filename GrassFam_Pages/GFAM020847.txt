@@ -1,0 +1,117 @@
+================================================================================
+GrassFam ID: GFAM020847
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             653.5 aa
+Family Size (Extended Family Size): 18 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45647:SF50
+Panther Family ID:               PTHR45647
+Modal Panther ID:                PTHR45647:SF50
+Modal Panther Description:       U-BOX DOMAIN-CONTAINING PROTEIN 57
+Modal Panther Family ID:         PTHR45647
+Modal Panther Fam Desc:          OS02G0152300 PROTEIN
+Interpro Signature Accession:    cd16655; G3DSA:3.10.20.90:FF:000050; G3DSA:3.10.20.90; G3DSA:1.10.510.10; G3DSA:3.30.40.10; PTHR45647; PF12436; PF00069; SM00504; SSF56112
+Interpro Signature Description:  RING-Ubox_WDSUB1-like; Ubiquitin carboxyl-terminal hydrolase 13; -; Transferase(Phosphotransferase) domain 1; Zinc/RING finger domain, C3HC4 (zinc finger); OS02G0152300 PROTEIN; ICP0-binding domain of Ubiquitin-specific protease 7; Protein kinase domain; Ubox_2; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: U-box domain-containing protein 57
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu02H
+  Gene Products: U-box domain-containing protein 57-like; U-box domain-containing protein 57-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: U-box domain-containing protein 57%2C transcript variant X1
+Tae
+  Gene count: 6
+  Modal chromosome: Tae04B
+  Gene Products: U-box domain-containing protein 57-like; U-box domain-containing protein 57-like%2C transcript variant X1; ubiquitin C-terminal hydrolase 12-like
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: U-box domain-containing protein 57-like
+  Gene Descriptions: U-box domain-containing protein 57-like
+Osa
+  Gene count: 4
+  Modal chromosome: Osa03
+  Gene Products: U-box domain-containing protein 57; U-box domain-containing protein 57-like; U-box domain-containing protein 57-like%2C transcript variant X2; ubiquitin C-terminal hydrolase 12
+  Gene Synonyms: OsPUB57,PUB57
+  Gene Descriptions: U-box domain-containing protein 57; U-box domain-containing protein 57-like; ubiquitin C-terminal hydrolase 12
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: U-box domain-containing protein 57
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 651 aa
+
+MPpdhrtIKVARDEDLRSQIGsDGFYFDLVDFDRVRAFQVPVdTTIirFKEELAeEFGTP
+VQFQRLWLfqRRQNGTrRPsRPLnteEkKLSVGrLfSddVKLFLEVLNPsSPRNLNREDl
+LVFLKLYDPEQTQLRYIGTLFVKaSSRPSDILPKLRSLAGFCADEEIELYEEIKFEPnVM
+CEAIDIHhTFTvNQIeNGDIICYQKrPKScnqHlYPSVkLFLeHVHdLKkEqRKIcALEE
+EIVeLKRQSDlQIEEAKMECdQLKHERDNAVRQVnELRDQNsQiILEFsiTdLEQATEHF
+KDLCKVGDTEYGrVYKGIIHNTTVAIKLSkSeSLFQQEVSVLRQGRHPNIVTFIGmCSEV
+SALVYEWLPnGNLEDRIVCANnSPPLSWhiRTQIIGEVCCALLFLHShKPnALVHGDLRP
+CNILIDANYRSKLCNFGMSTLFLQPGtCPPNLTARLPYMDPEFLTTGELTPLSDVYSLGV
+IILRLLTGMPPLaIAKKVaEALESDSLHLLIDKSAGDWPYtQAKQLALLGLSCVEMTREK
+RPDLLTEVWTVVEPLvRKPPAASWPYvQSASrGSCcPAHFICPILMEIMNDPQMASDGFT
+YEAEAIRRWLDgGNNRSPMTNLALPNRvLIPNRALRSSIQEYLQQQvqqav
+
+
+BOP CONSENSUS:
+Length: 649 aa
+
+MPqdHrtIKVARDEDLRSQIGsDGFYFDLVDFDRVRAFQVPVdtTvirFKEELAkEFGTP
+VQFQRLWLcqRRQNGTrRPSRPLnTEEkKLSVGrLfSDDVKLFLEVLNPSSPRNLNREDL
+LVFLKLYDPEQTQLRYIGTLFVKcSSRPSDILPKLRSLAGFCADEEIELYEEIKFEPNVM
+CEALDIHHTFTVNQIenGDIICFQKrPKScnQHlYPSVklFLEHVLtkEgRKICALEEEI
+VeLKRQSDlQIEKAKMECsQLKHERDNAVRQVNELrDQNsQiILEFsfTnLEQATEHFKD
+LCKVGDTEYGrVYKGIIHNTTVAIKLSkSESLFQQEVSVLRQGRHPNIVTFIGmCSEVSA
+LVYEWLPkGNLEDRIVCANgSPPLSWhIRTQIIGEVCCALLFLHShKPNALVHGDLRPCN
+ILIDANYRSKLCNFGMSTLFLQPGsCPPNLTARLPYMDPEFLTTGELTPLSDVYSLGVII
+LRLLTGMPPLAIAKKVsEALESDSLHLLIDKSAGDWPYtQAKQLALLGLSCVEMTREKRP
+DLLTEVWTVVEPLvRKPPAASWPYvQSASrgSCcPAHFICPILmEIMNDPQMASDGFTYE
+AEAIRRWLDGGNNRSPMTNLALPNRvLIPNRALRSSIQEYLQQQvqprS
+
+
+PACMAD CONSENSUS:
+Length: 647 aa
+
+MSRLRTVRVVREEDLRSQIGLSGRYFDLVDFTRVQVFQVVVSTPIRRFKEQLAQEFGTPV
+QSQRLWLWVQRQNRTFRPYTPLTPQEETLSVGMKSSRKSNEVYLFLEVLRPLPVRNPIST
+EYVLVFLKLYDPGQSQLRYVSTLVVKASSRPSRILPKLRTLAGLHEYEEIELYEEVNFKP
+TLMCVRIDIRLTFTYSQIQNGDIICYQKRPTLEERYPNVRLFFQHVLGQKEVQMRIQALQ
+EEVVMLRQQVCENEAKMECDQLKQERDNAMRQVDELRDQNRHVNLEFSLVDLEQATENFS
+DVCNVGDTEYGRVYKGNVHKTMVAIKLSCSQSLFQREVSVLRKGRHPNIVTIIGICSEAS
+ALVYEWLPNGNLEDRIVSTNNSTPLSWSQRTQILGDVCCTLLFLHSSKPSAMVHGDLRPC
+NILIDTSYRSKLCNFGLSNLFLEPGTFSTNLTVRLPYMDPEFLTTGELTPQSDVYSLGVI
+ILRVLTGMSPISIAKKVASALKSDTLHLMIDKSAGNWPYTQAMQLALLGVSCVEMTRERR
+PDLLTKVWTVVEPMVTRPPVAYFQSSSGPAHFFCPIRMEIMNDPQVASDGFTYESEAIRH
+WLDRGNTRSPMTNLKLPNRKLIPNYILRSCIWEYLELQRQQGRRLHP
+
+================================================================================

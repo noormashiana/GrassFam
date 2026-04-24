@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM012632
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             555.0 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31826:SF7
+Panther Family ID:               PTHR31826
+Modal Panther ID:                PTHR31826:SF7
+Modal Panther Description:       NICALIN
+Modal Panther Family ID:         PTHR31826
+Modal Panther Fam Desc:          NICALIN
+Interpro Signature Accession:    cd03882; G3DSA:3.40.630.10:FF:000082; PTHR31826; PIRSF011018; SSF53187
+Interpro Signature Description:  M28_nicalin_like; Nicalin; NICALIN; Zn-dependent exopeptidases
+
+
+REXdb Match:                     False
+REXdb Percentage:                4.55%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: nicalin
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: nicalin
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: nicalin
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: nicalin-1-like; nicalin-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl08
+  Gene Products: uncharacterized LOC127782785
+  Gene Descriptions: uncharacterized LOC127782785
+Osa
+  Gene count: 1
+  Modal chromosome: Osa08
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC4344424
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN4
+Pau
+  Gene count: 2
+  Modal chromosome: Pau16
+  Gene Products: uncharacterized LOC133895398; uncharacterized LOC133898696
+  Gene Descriptions: uncharacterized LOC133895398; uncharacterized LOC133898696
+Svi
+  Gene count: 1
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: nicalin-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: nicalin
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: nicalin
+Zma
+  Gene count: 2
+  Modal chromosome: Zma04
+  Gene Products: nicalin; uncharacterized LOC100284604%2C transcript variant X1
+  Gene Synonyms: GRMZM2G021784,TIDP3169; GRMZM2G451366
+  Gene Descriptions: nicalin; uncharacterized LOC100284604
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 555 aa
+
+MSPSGEVVASISSALAVaLVLLACVELGDAAAAVGVYRLIQYDLAGAPLGSRAAALNHHA
+AALPLPAGADLSRSALVAPLLDLPLSFLREYLAEKKHLGGLLILLPTNLSdKngAGNNDD
+KGQVKgVLAELEKLLVHEEVPYPVYFAFHDDNFDNLLADIRKIASSGQPASATTGGYKLV
+VSSAEPRKVSSPTISNIQGWLPGLKGEGDtEQLPTIAIVANYDTFGAAPALSVGSDSNGS
+GVVALLEIARLFSRLYSNPKTRGKYNLLFGLTSGGPYNYNGTSKWLRSFDQRVRESIDYA
+ICLNSVGSWSNDLWMHVSKPPENPYIKQIFEDFSDVSKEMGVSVGIKHKKINVSNPRVAW
+EHEQFSRFRVTALTLSEMSTPPEFLESTGGLHDTRESaDVESVIRTVRLVSESLARHIYG
+LKGRNIDVFAENSSLAINPHYIrSWLDLLSRTPRVAPFLQKNDPFIAALKKELSEHTADV
+HVQNDVLDGMFTFYDATKATLNVYQVASVTFDLLFLLVLGSYLIVLFSFLVITTRGLDDL
+INIFRRPPSRKVKGA
+
+
+BOP CONSENSUS:
+Length: 555 aa
+
+MSPSGEVVASVSSALAVLLVLLACVELGDAAAAVGVYRLIQYDLAGAPLGSRAAALNHHA
+AALPLPAGADLSRSALVAPLLDLPLSFLREYLAEKKHLGGLLILLPRNLSAKNVEGNNDD
+KGQPKNVLAELEKLLMHEEVPFPVYFAFHDDNLDNLLADIRKIASSGQPASASTGGYKLV
+VPSAEPKKVSSPTISNIQGWLPGSKGEGDAEQLPTIAIVANYDTFGAAPALSVGSDSNGS
+GAVALLEIARIFSRLYSSPKTRGKFNLLFGLTSGGPYNYNGTSKWLRSFDQRVRESIDYA
+ICLNSVGSWSNDLWMHVSKPPENPYIKQIFEDFSDVSKEMGISVGIKHKKINVSNSRVAW
+EHEQFSRFRVTALTLSELSTPPEFLESTGGLYDTRESADVESVMRTVRLVSESLARHIYG
+LRGRNIDVFAENSSLAISPHYIRSWLDLFSRTPRVAPFLQKNDPFIvALKKELSEHTTDV
+HVQNDVLDGMFTFYDATKSTLNVYQVASVTFDLLFLLVLGSYLIVLFSFLVITTRGLDDL
+INIFRRPPSRKVKGA
+
+
+PACMAD CONSENSUS:
+Length: 555 aa
+
+MSPSGEVLASISSALAVALVLLACVELGDAAAAVGVYRLIQYDLAGAPLGSRAAVLNHHA
+AALPLPAGADLSRSALVAPLLDLPLSFLREYLVEKKHLGGLLILLPTKLGDKDGAGNNDD
+KGQVKGVLAELEKLLVHEEVPYPVYFALHDDnFDNLLADIRKIASSGQPASATTGGYKLV
+VSSAEPRKVSSPTISNIQGWLPGLKGEGDTEQLPTIAIVANYDTFGAAPALSVGSDSNGS
+GVVALLEIARLFSRLYSNPKTRGKYNLLFGLTSGGPYNYNGTSKWLRSFDQRVRESIDYA
+ICLNSVGSWSNDLWMHVSKPPENPYIKQIFEDFSDVSKEMGVSVGIKHKKINVSNPRVAW
+EHEQFSRFRVTALTLSEMStPPEFLESTGGLHDTRESTDVESVIRTVRLVSESLARHIYG
+LKGRNIDVFAENSSLAINPHYIQSWLDLLSRTPRVAPFLQKNDPFIAALKKELSEHTADV
+HVQNDALDGMFTFYDATKATLNVYQVASVTFDLLFLLVLGSYLIVLFCFLVITTRGVDDL
+INIFRRPPSRKLKGA
+
+================================================================================

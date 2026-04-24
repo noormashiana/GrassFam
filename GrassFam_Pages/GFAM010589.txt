@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM010589
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             494.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12203:SF121
+Panther Family ID:               PTHR12203
+Modal Panther ID:                PTHR12203:SF121
+Modal Panther Description:       GLYCOSYL TRANSFERASE CAP10 DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR12203
+Modal Panther Fam Desc:          KDEL  LYS-ASP-GLU-LEU  CONTAINING - RELATED
+Interpro Signature Accession:    PTHR12203; PF05686; SM00672
+Interpro Signature Description:  KDEL  LYS-ASP-GLU-LEU  CONTAINING - RELATED; Glycosyl transferase family 90; cap10
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: O-glucosyltransferase rumi homolog%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: protein O-glucosyltransferase 1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: protein O-glucosyltransferase 1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: protein O-glucosyltransferase 1; protein O-glucosyltransferase 1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: uncharacterized LOC127773327%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127773327
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4337819
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau11
+  Gene Products: uncharacterized LOC133884304
+  Gene Descriptions: uncharacterized LOC133884304
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: O-glucosyltransferase rumi-like; protein O-glucosyltransferase 1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: protein O-glucosyltransferase 1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: protein O-glucosyltransferase 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: lipopolysaccharide-modifying protein%2C transcript variant X1
+  Gene Synonyms: GRMZM2G166665
+  Gene Descriptions: lipopolysaccharide-modifying protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 487 aa
+
+MGGYvPAEGGGGRGRAgRYPPLSSLVVSTIAAFSAVIVlAVLHSAYDDALSRTRTLLGHN
+LEPTPWHPFPHDKGRPPARAALRCAPSLACLPPLSQPrPpAAnASssarrRQCPAYFAAI
+RRDLAPWRRAGGGGGVTRALLDAARRRASMRVTITGGGRRLHVDLYYACVQSRALFTVWS
+LLQLMRRYPGRVPDVDLMFDCMDRPAINRTEHGGGDPGAPPPPPLFRYCTTRDHFDIPFP
+DWSFWGWPETNIEPWSREFRSIKqGAKAtKWpDRVPTAYWKGNPDVASPLRLALLGCNDT
+NLWRAEIMRQNWeEEAKSGYQNSKLSSQCTHRYKIYAEGFAWSVSLKYILSCGSMALLID
+PqYEDFFSRGLEPRVNHWPVSrvGMCESIRDAVEWGNAHPaEAERVGRRGQRLMQELrMD
+AVYDYMLHLLTEYAaLMDFRPAPPPTAQEACEGSVLCLADDKQRRFLEASAAEPAtaEPC
+VMPPsdG
+
+
+BOP CONSENSUS:
+Length: 486 aa
+
+MGGYTPEGGGgRAARAGRYPPLASLVVSTIAAFSAVIVIAVLHSAYDDALSRTRTLLGHN
+LEPTPWHPFPHDKGRPPPRAALRCASYLSCLPPLSQPKPAAAaAANASRPRQCPSYFAAI
+RRDLAPWRRRDGGGGGITRALLESARrRASMRVTITGGGTRLHVDLYYACVQSRALFTVW
+SLLQLMRRYPGRVPDVDLMFDCMDRPAINRTEHtGEGAPPPPPLFRYCTTRDHFDIPFPD
+WSFWGWPETHIEPWSREFRSIKQGSRRVKWPDRVPTAYWKGNPDVASPLRLALLACNDTN
+LWRAEIMRQNWEEEAKSGYQNSKLSSQCTHRYKIYAEGFAWSVSLKYILSCGSMALLIDP
+LYQDFFSRGLEPRVNHWPVSTVGMCESIRDAVEWGNAHPEEAERVGRRGQRLMQELGMDT
+VYDYMLHLLTEYAaLLDFRPAPPptAQEACAGSVLCLADDrQRRFLEASAAyPATAEPCS
+MPPSDG
+
+
+PACMAD CONSENSUS:
+Length: 491 aa
+
+MGGYVPAEgGGGRGRGARYPPLSALVVSAIAAFSAVIVLAVvHSAYDDALSRTRTLLGHN
+LEPTPWHPFPHDKGRPPARAALRCAPSIACLPPLSRPRPPPaAtNnAAssSSSAPRRQCP
+AYFAAIRRDLAPWRRAGgGrGVTRALLDAARRRASMRVTITGGGRRLHVDLYYACVQSRA
+LFTVWSLLQLMRRYPGRVPDVDLMFDCMDRPAVNRTEHGaGDPAAPPPPPLFRYCTTRDH
+FDIPFPDWSFWGWPETNIEPWSREFKSIKaGAKATKWADRVPTAYWKGNPDVASPLRLAL
+LGCNDTNLWRAEIMRQNWTDEAKSGYQHSKLSSQCTHRYKIYAEGFAWSVSLKYILSCGS
+MALLIEPQYEDFFSRGLDPRVNYWPVSRpGMCESIRDAVDWGNANPAEAERVGRRGQRLM
+QDLRMAAVYDYMLHLLTEYAALMDFRPAPPPTAQEACEGSVLCLADDKQRRFLEASAAEP
+AVDEPCVLPPE
+
+================================================================================

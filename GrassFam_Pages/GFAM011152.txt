@@ -1,0 +1,131 @@
+================================================================================
+GrassFam ID: GFAM011152
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             365.0 aa
+Family Size (Extended Family Size): 29 (29) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR31642
+Modal Panther ID:                PTHR31642:SF210
+Modal Panther Description:       HXXXD-TYPE ACYL-TRANSFERASE FAMILY PROTEIN
+Modal Panther Family ID:         PTHR31642
+Modal Panther Fam Desc:          TRICHOTHECENE 3-O-ACETYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:3.30.559.10
+Interpro Signature Description:  -
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: tryptamine hydroxycinnamoyltransferase 1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: putrescine hydroxycinnamoyltransferase 3-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata06D
+  Gene Products: uncharacterized LOC109770270; uncharacterized LOC109779203
+Tae
+  Gene count: 4
+  Modal chromosome: Tae06B
+  Gene Products: benzyl alcohol O-benzoyltransferase-like; uncharacterized LOC123135212; uncharacterized LOC123137749; uncharacterized LOC123144976
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: agmatine hydroxycinnamoyltransferase 1-like
+  Gene Descriptions: agmatine hydroxycinnamoyltransferase 1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: protein ECERIFERUM 26-like
+  Gene Descriptions: protein ECERIFERUM 26-like
+Ecu
+  Gene count: 3
+  Modal chromosome: EcuUN50
+Pau
+  Gene count: 2
+  Modal chromosome: Pau06
+  Gene Products: hydroxycinnamoyl-CoA:piscidic acid hydroxycinnamoyltransferase-like; uncharacterized LOC133895895
+  Gene Descriptions: hydroxycinnamoyl-CoA:piscidic acid hydroxycinnamoyltransferase-like; uncharacterized LOC133895895
+Svi
+  Gene count: 2
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: hydroxycinnamoyltransferase 2-like; uncharacterized LOC120711291
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: uncharacterized LOC112882737
+Msi
+  Gene count: 3
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi04
+  Gene Products: agmatine hydroxycinnamoyltransferase 1; uncharacterized LOC8073973
+Zma
+  Gene count: 2
+  Modal chromosome: Zma04
+  Gene Products: HXXXD-type acyl-transferase family protein; transferase family protein
+  Gene Synonyms: GRMZM2G032276; GRMZM2G038243
+  Gene Descriptions: HXXXD-type acyl-transferase family protein; transferase family protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 365 aa
+
+MAAtpAAPqVHIESvQTALPTRaVEPGRTRpIAVAAPPLPAAALQRRaRVVLYYRADdAA
+aAPWEEAiWVKESLSEALADHPEMAGRLRRRADGSWEVKLNDAGVRfvqATVEATvEDFL
+ADKDRARkEAALAPWtDVnAEDPDMCALlFMQLTRFQGDGGYAVGVSCSLmLcDPLSLAR
+FLLSWARTHAEMKAQNKvApiPMMQYaaYFQRPetmtrRIRSiPLDsFAADGahAETVLF
+RAaAaAgaGAPgDHRALAaACVDqASERLGAdkrPsRFSLVVvprdDnrGgtTVETCTAD
+gQPkkGGgGHkLEVAQWqELGLEELvLRDSKPVHVSYSIVtGGDEGLVVVMPDGdGFLVT
+ATVPK
+
+
+BOP CONSENSUS:
+Length: 354 aa
+
+MAATPAsPQVHIESVQTGLPTRVVEPDRTRvIAVAAPPLPATALQRRLRAVLYYRGDDAP
+WEEGIWVKESLGEVLCFFPEMAGRLRRRADGSWEVKLNDAGVRFQQATVEvTMEDFLADK
+eRARKEAALAPWVDVSAEDPDMCSLLFMQLNRFQDGGYAVGVSCTVLLADPLSLARFLLA
+WARTHAEMKEQgKVAPtPMMQYMAYFQRPEICCKRIRSFPIDSVAADGVHAQTVLFRAAA
+tGDpRALAAACIDRASEELGADRPSRFTLVVAPgDPARGATTVETSVTADGLKKGGAGHA
+LEAAqWSELGLEELTLRDvKPVHVSYRIVtGGDEGLVVVMPDGDGFLVTATVPK
+
+
+PACMAD CONSENSUS:
+Length: 370 aa
+
+MAPapaArrVHIEsLQTAVPTRAVEPGRARPVsVAAPPLPAAALQRRARVVLYYRAdADG
+aaPWEEAlWAKESLSEAVADHPEMAGRLRRRADGSWEVKLNDAGVRLVLATAEATVDDFL
+gAGDKDRARWEAALAPWTDVNAEDPDMCALcFVQLTRFQGDGGYAVGVSCSLMLCDPLSL
+ARFLLSWARTHAEMKArNKaATiPMMQYAsYFQRPgTMTrRiKSIPLDAFAAAAGaaaET
+VLFRARPGsGAPsDHRALARACVDQASERLGAGkvPprFSvVVVARDGVGDnPrGMSVET
+CtADgQPvgGGGsGhKLEVAQWQELGLEELVLRdSKPVHVSYSIVTGGDEGLVVVMPDGk
+GFLVTATVPK
+
+================================================================================

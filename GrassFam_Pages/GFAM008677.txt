@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM008677
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             558.5 aa
+Family Size (Extended Family Size): 22 (28) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11136:SF0
+Panther Family ID:               PTHR11136
+Modal Panther ID:                PTHR11136:SF0
+Modal Panther Description:       DIHYDROFOLATE SYNTHETASE-RELATED
+Modal Panther Family ID:         PTHR11136
+Modal Panther Fam Desc:          FOLYLPOLYGLUTAMATE SYNTHASE-RELATED
+Interpro Signature Accession:    G3DSA:3.40.1190.10:FF:000012; G3DSA:3.40.1190.10; TIGR01499; PTHR11136; SSF53623
+Interpro Signature Description:  Dihydrofolate synthetase; -; bifunctional protein FolC; FOLYLPOLYGLUTAMATE SYNTHASE-RELATED; MurD-like peptide ligases, catalytic domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: dihydrofolate synthetase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: dihydrofolate synthetase%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: dihydrofolate synthetase
+Tae
+  Gene count: 2
+  Modal chromosome: Tae05B
+  Gene Products: dihydrofolate synthetase-like; dihydrofolate synthetase-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl12
+  Gene Products: dihydrofolate synthetase
+  Gene Descriptions: dihydrofolate synthetase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa12
+  Gene Products: dihydrofolate synthetase%2C transcript variant X1
+  Gene Descriptions: dihydrofolate synthetase
+Ecu
+  Gene count: 3
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 1
+  Modal chromosome: Pau22
+  Gene Products: dihydrofolate synthetase%2C transcript variant X2
+  Gene Descriptions: dihydrofolate synthetase
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: dihydrofolate synthetase-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: dihydrofolate synthetase
+Msi
+  Gene count: 2
+  Modal chromosome: Msi14
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: dihydrofolate synthetase
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: dihydrofolate synthetase%2C transcript variant X1; uncharacterized LOC100285263
+  Gene Synonyms: GRMZM2G304915,si605087f07a
+  Gene Descriptions: uncharacterized LOC100285263
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 556 aa
+
+MLGRFPVaLRlSRGLLRGSSrRRGLSAMAGGgEEGqLGgFFEYMERLRNYERSGVPRGAG
+TDSDDGFDLGRMRRLLRRLGDPHTHFPAVHIAGTKGKGSTAAFLSNIMREQGYNVGCYSS
+PHLLTIRERISVGNDGGPVSVrLLSDLFDqAKEAIDESIESENGALTHFEVFTALSFLLF
+SRENVDIAIVEAGLGGARDATNVIRSTELAASVITTVGkEHLAALGGSLQSIAVAKSGII
+KQGRPVVIGGPFSaDIEQIIRDRAFLTQSPVISACDPGIKSITKCIgWDNGKPYQSCDIs
+IKISNDMPLSIELHDVKLQLLGDHQRQNAVTASCTALCLReLGWDISDASIQAGLEKTQL
+PGRSQFLTQEEASVLGLDGASTVLIDGAHTEASAKALSDVIKTVrPEGPLALVVGMANDK
+EHLAFAEQLLSGrRPDVVLLTEASIAGGTSRaMPASSLKEIWiAAArDqGIeCvDIGTIS
+GaEAPEhIdnLAaSsSSGKPPMLIGCQDaPFScDLIkAASQLLerSRGgggAaPGLICVT
+GSLHLVASVLQQLEqH
+
+
+BOP CONSENSUS:
+Length: 556 aa
+
+MVsRFPVSLRWSRGLLRgSsRRRGVSAMAGGGEEGqLGEFLEYMDRLRNYERSGVPRGAG
+TDSDDGFDLGRMRRLLRRLGDPHTHYPAVHIAGTKGKGSTAAFLSNIMREQGYNVGCYSS
+PHLLTIRERISVGQHGGPVSAALLRDLFDlAKEAIDESIESENGALTHFEVFTALSFLLF
+SRENVDvAIVEAGLGGARDATNVIRNtELAASVITTVGKEHLAALGGSLQSIAVAKSGII
+KEGRPVVIGGPFSTDIEQIIRDRAFLTQSPVISACDtGIRSITRCIGWDYAKPYQSCDIV
+VKISNDMPLSvELHDVKLQLLGDHQRQNAVTASCTALCLRELGWNvSDASIRAGLEKTQL
+PGRSQFLTQDEASVLGLDGASTILIDGAHTEASAKALSDVIKTVEPEGPLALIVGMAsDK
+EHLAFAAQLLSGRRPDVVLLTEAgIAGGTARSMPASSLRDIWTGAAlgQGIECaDIGaIT
+GDEAPtVIDHLAPaAGTDKPAPMLIGCGAAPFSrDLmKAASRLLrRaDGGGAARgGLICV
+TGSMHMVSSVLQQLEQ
+
+
+PACMAD CONSENSUS:
+Length: 559 aa
+
+MLGRFPvALRLPRGLLRGSSaRRGLSAMAGGeeEGpLGDFFEYMERLRNYERSGVPRGAG
+TDSDDGFDLGRMRRLLRRLGDPHTHFPAVHIAGTKGKGSTAAFLSNIMREQGYNVGCYSS
+PHLLTIRERISVGNDGGPVPVRLLSDLFDEAKEAIDESIESENGALTHFEVFTALSFLLF
+SQENVDIAIIEAGLGGARDATNVIRSTELAASVITTVGREHLAALGGSLQSIAIAKSGII
+KQGRPVVIGGPFSADIEQIIRDRAFLTQSPVISACDPGIKSITKCIDWDNGKPYQrCDIS
+IKISNDmPLSIELHDVNLQLLGDHQRQNAVTASCTALCLRNLGWDISDASIQAGLEETQL
+PGRSQFLTqEEASVLGLDGASTVLIDGAHTEASAKALSgVIETVRPEGPLALVVGMANDK
+EHLAFAEQLLSGsRPDVVLLTEASIAGGtSRAMPASSLKEvWIAAARDlGInCVDIGTIS
+GAETPEHIaNLAaSSSSsSGrKpMvIGCQDdtPFSCdLIrAASQLLEESRGsDdAaPGLI
+CVTGSLHLVASVLQQLGRH
+
+================================================================================

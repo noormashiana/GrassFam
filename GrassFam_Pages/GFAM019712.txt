@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM019712
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             463.0 aa
+Family Size (Extended Family Size): 29 (29) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12801:SF145
+Panther Family ID:               PTHR12801
+Modal Panther ID:                PTHR12801:SF145
+Modal Panther Description:       SMALL RNA DEGRADING NUCLEASE 1-RELATED
+Modal Panther Family ID:         PTHR12801
+Modal Panther Fam Desc:          RNA EXONUCLEASE REXO1 / RECO3 FAMILY MEMBER-RELATED
+Interpro Signature Accession:    cd06145; G3DSA:3.30.420.10:FF:000080; G3DSA:3.30.420.10; PTHR12801; SM00479
+Interpro Signature Description:  REX1_like; Small RNA degrading nuclease 3; -; RNA EXONUCLEASE REXO1 / RECO3 FAMILY MEMBER-RELATED; exoiiiendus
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: small RNA degrading nuclease 1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: small RNA degrading nuclease 1-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata02D
+  Gene Products: small RNA degrading nuclease 1-like; small RNA degrading nuclease 3
+Tae
+  Gene count: 4
+  Modal chromosome: Tae02D
+  Gene Products: small RNA degrading nuclease 1-like; small RNA degrading nuclease 3-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: small RNA degrading nuclease 1-like
+  Gene Descriptions: small RNA degrading nuclease 1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: small RNA degrading nuclease 1
+  Gene Descriptions: small RNA degrading nuclease 1
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 1
+  Modal chromosome: Pau13
+  Gene Products: small RNA degrading nuclease 1-like
+  Gene Descriptions: small RNA degrading nuclease 1-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: small RNA degrading nuclease 1-like; small RNA degrading nuclease 3-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: small RNA degrading nuclease 3-like%2C transcript variant X1
+Msi
+  Gene count: 8
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: small RNA degrading nuclease 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: small RNA degrading nuclease 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 463 aa
+
+MAKRLAGAEKEVLVEIVRFTQKNGLKGaDGGWKDFLARNDKKFGASVSDPKKRTRDVLLA
+FLqTFSKDFQKYFGKLVKRHKERSAiqQYMNDFPDKVSPEQKLVQLTAEHPEYRKNYcFP
+SYQEGWKVLRIGkVSSlMSSsAMLAIDCEMVLCHDGTEAVVRVCVVDNnLEVKLDtLVNP
+lKAIADYRTHITGVSKKDLEGVTSSLVDVQKSLKKILSKGKILIGHSLYRDLcALKfDYS
+QVIDTAYIFKYANLPTTASASLNSLCKSVLGYSVREEGEPHNCLKDAEAAMNLVLAKLKH
+GFNDPIEIAaSSVPESDqmKLLAHRIPVYLPCQELcKIFSGNPSIDEKIDSRIRGEFYST
+CISFNDIDEVEKAFEELDGQETKDSGGRLQKhVLLKRDNGDVVSFYVRKMVYGSrlNqsE
+VpKKRPQPTEdaEPKKEdADGDqQKKkRtSKKHvkKAKasVVE
+
+
+BOP CONSENSUS:
+Length: 463 aa
+
+MGERLAGAEKEVLVEIVRFTQKNGLKGAEGGWKDFLARNDKKFGASVSDPKKRTKDVLLA
+FLVTFSKDFQKYFRKLVRRHAERRAIEQYMNEFSGKISPEQKLVQLTTEHLEYRKNYYFP
+SYQEGWKVMRIGKVSSSMNSGAMLAIDCEMVLCHDGTEAVVRVCVVDNKLEVKLDTLVNP
+LKAVADYRTHITGVSKKDLEGVTCSLVDVQKSLKKILAKGKILVGHSLYRDLYALKFDYS
+RVIDTAYIFKYANLPTTSSASLNSLCKSVCGYSVREEGEPHNCLKDAEAAMNLVTAKLKH
+GFNDPIEIAENSVPESDQMKLLAHRIPVYLPCQELLKIFSGNPSIDEKIDSRIRGEFYST
+CISFNDIDEADKAFDELDGQETKDSSGRLQKSVLLKRDNGDVAGFFVRKMVYGSRLNNSE
+VSKKRPQPTENtEQKKEDANGDKRKRQRTSKKHAKKAKAPVVE
+
+
+PACMAD CONSENSUS:
+Length: 459 aa
+
+MAKRLAAAEKEVLVEVVRFTQKNGLKGSDGGWKDFLARNDRKFGASVSDPRKRSRDVLLA
+FLQTFSKDFQKYFGKLVKRQKERSAVQQYMnDFPDeVSPEQKLVQLTAEHPEYRKNYCFP
+SYQEGWKVLRIGEVSSLvSSSAMLAIDCEMVLCnDGTEAVVRVCVVDNNLEVKLDILVNP
+SKAITDYRTHITGVSKKDLEGVTSSLVDVQKSLKRiLSKGKILIGHSLHRDLCALKIDYS
+QVIDTAYIFKYANLPTTASASLNSLCKSVLGYSVREEGEPHNCLKDAEAAMNLVLAKLKH
+GFNDPIEVAASSVTESDVLKLLAHRIPVYLPCQELCKIFSGNPSIDDKIDSRIRGEFYST
+CISFNeiDEVEKAFEELDGQmTKDSGGRLQKHVLLKRDNGDVVSFYVRKMVYgSQPNQFE
+VPKKRPQPTEDAEPKKEHADGDQQKKKRKSKKHVNKENa
+
+================================================================================

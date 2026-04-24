@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM020207
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             331.0 aa
+Family Size (Extended Family Size): 23 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10953:SF248
+Panther Family ID:               PTHR10953
+Modal Panther ID:                PTHR10953:SF248
+Modal Panther Description:       THIF-TYPE NAD_FAD BINDING FOLD DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR10953
+Modal Panther Fam Desc:          UBIQUITIN-ACTIVATING ENZYME E1
+Interpro Signature Accession:    G3DSA:3.40.50.720:FF:000404; G3DSA:3.40.50.720; PTHR10953; SSF69572
+Interpro Signature Description:  SUMO-activating enzyme subunit 1B-2; -; UBIQUITIN-ACTIVATING ENZYME E1; Activating enzymes of the ubiquitin-like proteins
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: SUMO-activating enzyme subunit 1A%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: SUMO-activating enzyme subunit 1A-like%2C transcript variant X1
+Ata
+  Gene count: 2
+  Modal chromosome: Ata03D
+  Gene Products: SUMO-activating enzyme subunit 1A; SUMO-activating enzyme subunit 1A-like
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: SUMO-activating enzyme subunit 1A-like; SUMO-activating enzyme subunit 1A-like%2C transcript variant X2; SUMO-activating enzyme subunit 1A-like%2C transcript variant X3
+Ola
+  Gene count: 1
+  Modal chromosome: Ola11
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: SUMO-activating enzyme subunit 1A-like
+  Gene Descriptions: SUMO-activating enzyme subunit 1A-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: SUMO-activating enzyme subunit 1A%2C transcript variant X2
+  Gene Descriptions: SUMO-activating enzyme subunit 1A
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 1
+  Modal chromosome: Pau19
+  Gene Products: SUMO-activating enzyme subunit 1A-like
+  Gene Descriptions: SUMO-activating enzyme subunit 1A-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi07N
+  Gene Products: SUMO-activating enzyme subunit 1A-like; SUMO-activating enzyme subunit 1A-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: SUMO-activating enzyme subunit 1A-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: SUMO-activating enzyme subunit 1A
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100284284%2C transcript variant X1
+  Gene Synonyms: GRMZM2G149108,pco115798
+  Gene Descriptions: uncharacterized LOC100284284
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 330 aa
+
+MDGGGGGAEEELTAQETALYDRQIRVWGVDAQKRLSKAHVLVCGMNGTTIEFCKNIVLAG
+VGSLSLMDDHiVTEDDLNANFLIPPDESIYGGRSRAEVCCESLKDFNPMVRVSVEKGDPS
+LIDGEFLDKFDIIVVSCASLKTKLFINDNCRKRSKHIAFYsIDCKDSCGEIFVDLQkHSY
+VQKKPGGEtEQQELTYPSLQEAISVPWKNLPKKTTKLYFAMRVLEnYELSEGRsPGETTL
+SDlPAVLARRKDMCDrMSLnESQIPTALlERLLAAGKKEHPPVCAILGGILGQEVIKSIS
+CKGDPIKNFFYFDAADGKGVmEDIPPPPad
+
+
+BOP CONSENSUS:
+Length: 329 aa
+
+MGGGGGAEEELTAQETALYDRQIRVWGVDAQKRLSKAHVLVCGVNGTTIEFCKNIVLAGV
+GSLSLMDDHIVTEDDLNANFLIPHDESvYGGkSRAEVCCESLKDFNPMVRVAVAKGDPSL
+IDGtFiDRFDIIVVSCASLKTKLFINDNCRKRSKHIAFYSVECKDSCGEIFVDLQNHSYL
+QKKPGGEPEQQELtYPSLQEAISVPWKnLPKKTTKLYYAMRVLESYESSEGRdPGETSLS
+DLPAVLArRKDMCDRMSLdESQIPTsLLERLLAAGKKEHPPVCAILGGILGQEVIKSISC
+KGDPIKNFFYYDAADGKGvMEDIPPTPeD
+
+
+PACMAD CONSENSUS:
+Length: 329 aa
+
+MDGGGGAEGELTAQETALYDRQIRVWGVDAQKRLSKAHVLVCGMNGTTIEFCKNIVLAGV
+GSLSLMDDHmVTEDDLNANFLIPPDESIYGGRSRAEVCCESLKDFNPMVRVSVEKGDPSL
+IDGEFLDKFDIVVVSgASLKTKLFINENCRKRSKHIAFYAIDCKDSCGEIFVDLQKHSYV
+QKKPGGETEQQELTYPSLQEAISVPWNNLPKKTAKLYFAMRVLENYELSEGRSPGETTLS
+DIPAVLARRKDMCDKMSLNESQIPTALMERLLAAGKKEHPPVCAILGGILGQEVIKSISC
+KGDPIKNFFYFDAADGKGVIEDIPPPPan
+
+================================================================================

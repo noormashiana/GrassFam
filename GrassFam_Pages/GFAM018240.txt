@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM018240
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             391.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47992:SF24
+Panther Family ID:               PTHR47992
+Modal Panther ID:                PTHR47992:SF24
+Modal Panther Description:       PROTEIN PHOSPHATASE 2C 29-RELATED
+Modal Panther Family ID:         PTHR47992
+Modal Panther Fam Desc:          PROTEIN PHOSPHATASE
+Interpro Signature Accession:    cd00143; G3DSA:3.60.40.10:FF:000020; G3DSA:3.60.40.10; PTHR47992; PF00481; SM00332; SSF81606
+Interpro Signature Description:  PP2Cc; Probable protein phosphatase 2C 42; -; PROTEIN PHOSPHATASE; Protein phosphatase 2C; PP2C_4; PP2C-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: probable protein phosphatase 2C 29
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: probable protein phosphatase 2C 29%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: probable protein phosphatase 2C 29%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: probable protein phosphatase 2C 29; probable protein phosphatase 2C 29%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: probable protein phosphatase 2C 29
+  Gene Descriptions: probable protein phosphatase 2C 29
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: probable protein phosphatase 2C 29
+  Gene Synonyms: OsPP2C29
+  Gene Descriptions: probable protein phosphatase 2C 29
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau03
+  Gene Products: probable protein phosphatase 2C 29
+  Gene Descriptions: probable protein phosphatase 2C 29
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: probable protein phosphatase 2C 29
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: probable protein phosphatase 2C 29
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: probable protein phosphatase 2C 29
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: uncharacterized LOC100191524
+  Gene Synonyms: GRMZM2G130943,pco124760
+  Gene Descriptions: uncharacterized LOC100191524
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 390 aa
+
+MRGLRRWLPFCCCCCFGGGGgGRGGSVADGLVWDVALKAHASGDYSVAVAQANEALEDQA
+QVLASPAATLVGVYDGHGGPEAARFVNARLFSLIQEFAAENGGLSAEVIqKAFGATEEEF
+vGMVQKSWPSQPRImSVGSCCLVGAIEgGTLYVANLGDSRAVLGRRAaaGGKGrrRVVAE
+RLSRDHNVADEDVRREVAEMHPDDSHIVLNSHGVWRIKGIIQVSRSIGDVYLKKPDiCRn
+NPaLQQSLCPFPLRRPVMSAVPSITTRrLRPGDRFvIFASDGLWEQLSDEAAVGIVArSP
+RKGVAMRLVRAAQLEAARKKEVKYEkIRTIEKGqRRHFHDDITVVVLFLDkCRGAArSGA
+gdIDGTYAPVDVFSlSPAGDhEDPTRPVLR
+
+
+BOP CONSENSUS:
+Length: 388 aa
+
+MRGSRWCCCCFGRGGGGGRSGSVGDDGLVWDVGLKAHASGEYSVAVAQANEALEDQAQVL
+VSPAATLVGVYDGHGGPDAARFVNARLFSLIQEFASQSGGLSAQVIKRAFGATEEEFMGM
+VEKSWPSQPRLMSVGSCCLVGAIEDGTLYVANLGDSRAVLGRRAStGGKKRRRVVAERLS
+RDHNVADEEVRREVAEAHPDDPHIVMSSHGVWRIKGIIQVSRSIGDAYLKRPDLCSPAVM
+QSLCPFPLRRPVMSAVPSVTSRRLRPGDQFIIFASDGLWEQLSDEAAVGIVSRSPRKGVA
+MRLVRAAQLEAARKKDIKYESIAAIEKGRRRRFHDDITVVVLFLDNRCeGTPQPTAGAGG
+IDGTRAPVDVFSLGPDDHGDDPTRPVLR
+
+
+PACMAD CONSENSUS:
+Length: 389 aa
+
+MRGLRRWLPFGGGCCCCGgGgGGGGGVADGLVWDVALKAHASGDYSIAVAQANEALEDQA
+QVLAAPgATLVGVYDGHGGPEAARFVNRRLFSLIQdFAAENGGLSAEVLQKAFGATEEEF
+vGMVQKSWPSQPRIVSVGSCCLVGAIEGGTLYVANLGDSRAVLGRRdggGRGKRVVAERL
+SRDHNVADEDVRREVAEMHPDDSHIVLNSHGVWRIKGIIQVSRSIGDVYLKKPDICRNNP
+MLQQSLCPFPLRRPVMSAVPSITTRELRPGDRFLIFASDGLWEQLSDEAAVGIVAsSPRK
+GVAMRLVRAAQLEAARKKEVKYEKIRTIEKGQRRHFHDDITVVVLFLDKCRGAARSGPED
+IDGTYAPVDVFSCSPAGDHEDPTRPVLRR
+
+================================================================================

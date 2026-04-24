@@ -1,0 +1,128 @@
+================================================================================
+GrassFam ID: GFAM021501
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             374.0 aa
+Family Size (Extended Family Size): 19 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22765:SF454
+Panther Family ID:               PTHR22765
+Modal Panther ID:                PTHR22765:SF454
+Modal Panther Description:       ZINC FINGER, C3HC4 TYPE FAMILY PROTEIN
+Modal Panther Family ID:         PTHR22765
+Modal Panther Fam Desc:          RING FINGER AND PROTEASE ASSOCIATED DOMAIN-CONTAINING
+Interpro Signature Accession:    G3DSA:3.30.40.10:FF:000430; PTHR15710
+Interpro Signature Description:  E3 ubiquitin-protein ligase RDUF2; E3 UBIQUITIN-PROTEIN LIGASE PRAJA
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: E3 ubiquitin-protein ligase RNF38
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: E3 ubiquitin-protein ligase CIP8-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: E3 ubiquitin-protein ligase SIRP1
+Tae
+  Gene count: 2
+  Modal chromosome: Tae06B
+  Gene Products: E3 ubiquitin-protein ligase SIRP1-like; E3 ubiquitin-protein ligase SIRP1-like%2C transcript variant X2
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: uncharacterized LOC127764803
+  Gene Descriptions: uncharacterized LOC127764803
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4328578
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau06
+  Gene Products: uncharacterized LOC133922496
+  Gene Descriptions: uncharacterized LOC133922496
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi01N
+  Gene Products: E3 ubiquitin-protein ligase SIRP1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: E3 ubiquitin-protein ligase SIRP1-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: E3 ubiquitin-protein ligase AIP2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100273811
+  Gene Synonyms: GRMZM2G336761
+  Gene Descriptions: uncharacterized LOC100273811
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 361 aa
+
+MAGFAGDDPFDFgDDsDGeeFCYDPFDDygGDGDEGEelCGGPFdlDdgDGEEfCiSGFA
+FRDGDDdggdVLVGeDeASSDEePILETLGRSFDSDGGLSQFyPHLVSALLvEDtSEEEE
+LSrNDGlEgErGavvEEdDdDDDDGiGlMLSGFdLDPRPVVGGFqtLVDADEsdEEVTSD
+DDmGEgGGLmLSGFDLvPPPvvvrpFRMVVGaEDTDSDDaDLvDVLAGrVgEAfRRLPAS
+RAAVEGLPEVaLSEEEAShGCAVCKDviAAGQsVVRLPCKHYFHGDCIRPWLAIRNTCPV
+CRfQLPTGDAeYDqRrSrtgvaSVaQQGAPaQSGGtGAGsGATvGAGDAtECsGEPEQGs
+S
+
+
+BOP CONSENSUS:
+Length: 321 aa
+
+MADDSDGEGFCADPFDGGDSCDCCCDDDDEGEWSCGAPCDDDSNVEEICRDPrDNVVVvD
+DEDEGEVEEALCHDDDEGESDGSLcDEDAEGEqLSDDDECEGDDEDEGkpDGESEDFcEN
+PHDEDVGaErGGGGGFRGLFVSrFllsDaSDISDSDHsdSEVEEAGGGEGLTPSGFDqTP
+SPGAFRMaVGvEDSDSDTvSTgSvYEDDYEFskRPASRQAVEGLPEMILSEEEATCGCAV
+CKDVFASGQRVVFLPCKHYFHGDCIlPWLAMRSTCPVCRYQLPTDDTgSGQRqSHQLRVL
+LPVDrQGASQQsGDsATTGrG
+
+
+PACMAD CONSENSUS:
+Length: 373 aa
+
+MAGFAGDDPFGFDFDFeDDGDggpFCYDPFDDYGGDGDEGEGLIGGPFvLDyGDGEEfCI
+SGFAFRDGDgDGGDvLMGEDqAsqSSHEEPILETLGRSFDSDGGLSQFYPHLVSALELED
+TSEEEDISRNARGGGGLElERGAVvEEAADDDDDGIGLMLSGFtLDPRPVVGGFQTLVDA
+DEEVTSDDDMGEvGGLMLSGFDLVAPrvVVRPFRMVVGGEDTDSDDADwNLLDvLAGRVG
+EAARRLPASRAAVEGLPEVALSEEEASHGCAVCKDGIAAGQSVLRLPCKHYFHGECIRPW
+LAIRNTCPVCRFELPTGDAEYDRRRSRTGVASVAQQGAPAQSGGtGAGsGATVGAGDDAT
+ECsGENRPEQGtS
+
+================================================================================

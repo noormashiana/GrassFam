@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM016938
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             413.0 aa
+Family Size (Extended Family Size): 22 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43804:SF8
+Panther Family ID:               PTHR43804
+Modal Panther ID:                PTHR43804:SF8
+Modal Panther Description:       PEPTIDE CHAIN RELEASE FACTOR APG3, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR43804
+Modal Panther Fam Desc:          LD18447P
+Interpro Signature Accession:    G3DSA:3.30.70.1660:FF:000002; G3DSA:3.30.70.1660:FF:000014; G3DSA:3.30.160.20:FF:000004; G3DSA:3.30.160.20; G3DSA:3.30.70.1660; G3DSA:6.10.140.1950; TIGR00019; NF001859; PTHR43804; PF03462; PF00472; SM00937; SSF75620
+Interpro Signature Description:  Peptide chain release factor 1; -; peptide chain release factor 1; LD18447P; PCRF domain; RF-1 domain; PCRF_a_2; Release factor
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: peptide chain release factor APG3%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: peptide chain release factor APG3%2C chloroplastic%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: peptide chain release factor APG3%2C chloroplastic%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: peptide chain release factor APG3%2C chloroplastic-like; peptide chain release factor APG3%2C chloroplastic-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: peptide chain release factor APG3%2C chloroplastic
+  Gene Descriptions: peptide chain release factor APG3%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: peptide chain release factor APG3%2C chloroplastic
+  Gene Descriptions: peptide chain release factor APG3%2C chloroplastic
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 2
+  Modal chromosome: Pau12
+  Gene Products: peptide chain release factor APG3%2C chloroplastic-like; peptide chain release factor APG3%2C chloroplastic-like%2C transcript variant X1
+  Gene Descriptions: peptide chain release factor APG3%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi08K
+  Gene Products: peptide chain release factor APG3%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: peptide chain release factor APG3%2C chloroplastic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: peptide chain release factor APG3%2C chloroplastic%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100279745
+  Gene Synonyms: GRMZM2G070723
+  Gene Descriptions: uncharacterized LOC100279745
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 411 aa
+
+MEAFLAGFRAPPRAsAVPtArPPPplPlFhGRRRRRPSSSVVCMAEPYLIAKLDSAEKAW
+KEMSVRLADPDIVSDPSEYQKLAQSVAELDQVVTTYRQFKDCERQIEETKALQKENEDDP
+DMAEMIASELESLSNQLAELEEKLKLLLLPSDPLDSRNILLEVRAGAGGDEAGIWAGDLV
+RMYQKYCERNNWKFKPVSCSEAEMGGYKTYVMEVKGKQVYSKLKFESGVHRVQRVPQTET
+MGRVHTSTATVAIMPEADEVDVVIDPKDIELKTARSGGAGGQNVNKVETAVDLIHKPTGI
+RIFCTEERSQLQNKERAFQLLRAKLYEIKLREQQESIRNQRKLQVGTGARSEKIRTYNYK
+DNRVTDHRLKMNFELTSFLLGDIESAVQSCATMEQQELLEEMATSVGAVKV
+
+
+BOP CONSENSUS:
+Length: 412 aa
+
+MEAFLAGFRAPPRASAVPTARSPPPSPFFLGTRRRKPSSSASVVCMAEPHLISKLDSTEK
+AWKEMSIRLGDPDIVSDPSEYQKLAQSVSDLGEVVTAYRQFKECERQIEETKALQKENGD
+DPDMAEMIASELESLSNQLAELEERLTVLLLPSDPLNSRNILLEVRAGTGGDEAGIWAGD
+LVRMYQRYCELNNWKFKPVSCSEAEKGGYKTYVMEVKGKQVYSKLKFESGVHRVQRVPQT
+ETMGRVHTSTATVAIMPEADEVDVVIDPKDIELKAARSGGAGGQNVNKVETAIDLIHKPT
+GIRIFCTEERSQLQNKERAFQLLRAKLYEIKLREQQESIRTQRLLQVGTGARSEKIRTYN
+YKDNRVTDHRLKMNFVLSSFLLGDIESAVQSCAALEQKELLEEMATSSAVKA
+
+
+PACMAD CONSENSUS:
+Length: 412 aa
+
+MEAFLAGlFRAPPRAVPAARGtPlPGLPLFHGRRRRRPSSSVVCMAEPYLIAKLDSAEKA
+WKEMSVRLADPDIVSDPSEYQKLAQSVAELDQVVTTYRQFKDCERQLEETKALEKENEDD
+PDMaEMIASELEALSNQLAELEEKLKLLLLPSDPLDSRNILLEVRAGAGGDEAGIWAGDL
+VRMYQKYCERNNWKFKPVSCSEAEMGGYKTYVMEVKGKQVYSKLKFESGVHRVQRVPQTE
+TMGRVHTSTATVAIMPEADEVDVVIDPKDIELKTARSGGAGGQNVNKVETAVDLIHKPTG
+IRIFCTEERSQLQNRERAFQLLRAKLYEIKLREQQESIRNQRKLQVGTGARSEKIRTYNY
+KDNRVTDHRLKMNFELTSFLLGDIESAVQSCATMEQQELLEEMAsSVGAAKV
+
+================================================================================

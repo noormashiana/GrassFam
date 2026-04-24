@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM001093
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             447.0 aa
+Family Size (Extended Family Size): 79 (107) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31642:SF240
+Panther Family ID:               PTHR31642
+Modal Panther ID:                PTHR31642:SF184
+Modal Panther Description:       AGMATINE COUMAROYLTRANSFERASE-2
+Modal Panther Family ID:         PTHR31642
+Modal Panther Fam Desc:          TRICHOTHECENE 3-O-ACETYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:3.30.559.10:FF:000014; G3DSA:3.30.559.10:FF:000008; G3DSA:3.30.559.10; PTHR31642; PF02458
+Interpro Signature Description:  Tryptamine hydroxycinnamoyl transferase; -; TRICHOTHECENE 3-O-ACETYLTRANSFERASE; Transferase family
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: agmatine coumaroyltransferase-1-like
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 5
+  Modal chromosome: Hvu02H
+  Gene Products: agmatine coumaroyltransferase-1; agmatine coumaroyltransferase-1-like; agmatine coumaroyltransferase-2-like
+Ata
+  Gene count: 3
+  Modal chromosome: Ata02D
+  Gene Products: agmatine coumaroyltransferase-1-like; agmatine coumaroyltransferase-2; agmatine coumaroyltransferase-2-like
+Tae
+  Gene count: 11
+  Modal chromosome: Tae02B
+  Gene Products: agmatine coumaroyltransferase-1; agmatine coumaroyltransferase-1-like; agmatine coumaroyltransferase-2; agmatine coumaroyltransferase-2-like
+Ola
+  Gene count: 6
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl04
+  Gene Products: agmatine coumaroyltransferase-2-like; agmatine hydroxycinnamoyltransferase 1
+  Gene Descriptions: agmatine coumaroyltransferase-2-like; agmatine hydroxycinnamoyltransferase 1
+Osa
+  Gene count: 2
+  Modal chromosome: Osa04
+  Gene Products: agmatine coumaroyltransferase-2; agmatine hydroxycinnamoyltransferase 1-like
+  Gene Synonyms: AHT1,OsAHT1,OsJ_16526
+  Gene Descriptions: agmatine coumaroyltransferase-2; agmatine hydroxycinnamoyltransferase 1-like
+Ecu
+  Gene count: 10
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: agmatine coumaroyltransferase-2-like
+  Gene Descriptions: agmatine coumaroyltransferase-2-like
+Svi
+  Gene count: 8
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 14
+  Modal chromosome: Pvi07N
+  Gene Products: agmatine coumaroyltransferase-2-like
+Pha
+  Gene count: 8
+  Modal chromosome: Pha06
+  Gene Products: agmatine coumaroyltransferase-2-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: agmatine coumaroyltransferase-2
+Zma
+  Gene count: 3
+  Modal chromosome: Zma04
+  Gene Products: agmatine coumaroyltransferase-2
+  Gene Synonyms: GRMZM2G175082
+  Gene Descriptions: agmatine coumaroyltransferase-2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 440 aa
+
+MKITVHSSKAVKPdYGACGVAPGsTADVVPLTVLDKANFDTYISVIYAFRPPAPPNAVLE
+AGLARALVDYREWAGRLGVDAnGdRAILLNDAGARFVEATADVALDSVMPLKPTPEVLSL
+HPSGDDGPEELMLIQVTRFACGSLVVGFTTQHIVSDGRATGNFFLAWSQATRGAAIDPVP
+VHDRASFFqPRDPPhVEYEHRGVEFKPYEKVddDdvcGGhdDDDEVVVNKVHFSREFISK
+LKAQASAGAPRPYSTLQCVVAHLWRCMTmARGLDGGESTSVAIAVDGRARMSPQVPDGYT
+GNVVLWARPTATAGELVtRPLKHAVELINREVARINDGYFKSFIDFANSGAVEKERLVAT
+ADAAEMVLSPNIEVDSWLRIPFYDLDFGGGRPFFFMPSYLPVEGLLILLPSFlGDGSVDA
+YVPLFSRDMDTFKNCCYtLD
+
+
+BOP CONSENSUS:
+Length: 440 aa
+
+MKITVHSSKAVKPDYGACGVAPGsTADVVPLTVLDKANFDTYISVIYAFRPPAPPNAVLE
+AGLARALVDYREWAGRLGVDAnGDRAILLNDAGARFVEATADVALDSVMPLKPTPEVLSL
+HPSGDDGPEELMLIQVTRFACGSLVVGFTTQHIVSDGRATGNFFVAWSQATRGaAIDPVP
+VHDRASFFqPRDPPhVEYEHRGVEFKPYEKvdDvvcgggdgDDDEVVVNKVHFSREFISK
+LKAQASAGApRPYSTLQCVVAHLWRcMTMARGLDGGESTSVAIAVDGRARMSPQVPDGYT
+GNVVLWARPTTTAGELVTRPLKHAVELISREVARINDGYFKSFIDFANSGAVEKERLVAT
+ADAAEMVLSPNIEVDSWLRIPFYDMDFGGGRPFFFMPSYLPVEGLLILLPSFLGDGSVDA
+YVPLFSRDMDTFKNCCYtLD
+
+
+PACMAD CONSENSUS:
+Length: 438 aa
+
+MKITVQSSKAVKPAYPGGVAPAGAPGVVPLTVLDKANFDTYISVIYAFRPPAPANAALEA
+GLARVLVEYREWAGRLGVDAQGNRAILLNDEGARFVEATADVTLDSVMPLKPTPAVLSLH
+PSGDDAVELMLIQVTRFACGSLVVGFTTQHIVADGRATNNFFLAWSQATRGAALDPVPVH
+DRESFFRPRDPPLVEFEHRGVEFKPYEKHVVESqHAGhDDEEEVVVQKVHFSREFISRLK
+SRASAGLPRPYSTLQCVVAHLWRCMTTARGLDEGQSTSVCIAVDGRARMSPQVPDGYTGN
+VVLWARPTATAGELVAKPLQHAVGLINREVARINDGYFKSFIDFASSGAVEKERLVAAAD
+AAEMVLSPNIEVDSWLRIPFYDLDFGGGRPFFFMPSYLPVEGLLILLPSFVGDGSVDAYV
+PLFSRDMDTFKNCCYAME
+
+================================================================================

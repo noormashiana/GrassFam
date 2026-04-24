@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM013426
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             526.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24296:SF150
+Panther Family ID:               PTHR24296
+Modal Panther ID:                PTHR24296:SF150
+Modal Panther Description:       OS01G0858350 PROTEIN
+Modal Panther Family ID:         PTHR24296
+Modal Panther Fam Desc:          CYTOCHROME P450
+Interpro Signature Accession:    cd11064; G3DSA:1.10.630.10; PTHR24296; PF00067; SSF48264
+Interpro Signature Description:  CYP86A; Cytochrome P450; CYTOCHROME P450
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: cytochrome P450 94C1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: cytochrome P450 94C1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: cytochrome P450 94C1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: cytochrome P450 94C1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: cytochrome P450 94C1-like
+  Gene Descriptions: cytochrome P450 94C1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: cytochrome P450 94C1
+  Gene Descriptions: cytochrome P450 94C1
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: cytochrome P450 94C1-like
+  Gene Descriptions: cytochrome P450 94C1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: cytochrome P450 94C1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: cytochrome P450 94C1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: cytochrome P450 94C1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: uncharacterized LOC100382251
+  Gene Synonyms: GRMZM2G171139
+  Gene Descriptions: uncharacterized LOC100382251
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 524 aa
+
+MGADATTLHVAAHALASSLQPQVAAVFFASAACTVALAVLLASLRLRPPWWCACAVCEAY
+VTASWAGEFDNLCDWYAHLLRRAPGRTVHVHVLGNVLTANPATVDHMLRGRFDNYPKGAP
+FSAILADFLGRGIFNVDGDSWLFQRKLAAAELASPALRAFAAgVVASELRCRLIPLLHSA
+SsGGGGEKLLDLQDVFRRFAFDCICRISFGLDPGCLELSLPMSAFADAFDTASMLSARRA
+TAPMHVFWKLKRLLNVGEERELRDAIRLVDtLAAEVIRQRRKLGSAASGDDLLSRFMGSI
+NDDKYLRDIVVSFMLAGRDTVASALTAFFLLLSDHPdVAtAIRDEVSRVAGGRDgHpAAA
+TSEKLKDMHYVHAALYECMRLFPPVQFDSKFAAGDDTLPDGTFVARGTRVTYHAYAMGRM
+ESVWGPDCAEFRPERWLRDGRFVPESPYRYPVFQGGVRVCIGKELAIMEMKAVIVAVVQS
+FDIEAVGRSSRRPKFAPGLTATFAGGVPVRVRRRARASgLRPPS
+
+
+BOP CONSENSUS:
+Length: 524 aa
+
+MGGAGADSTTLHVAAHALASSLQPQVAAVFFASAVCTLALAVLLGSMRLRPPWWCACAVC
+EAYLTASWTGEFDNLCDWFAHLLRREPGRTVHVHVLGNVLTANPATVEHMLRGRFDNYPK
+GAPFSAILADFLGRGIFNVDGDsWLFQRKLAAAELASPAIRAFTAsVVASELRCRLIPLL
+HSASAGQgGsEKLLDLQDVFRRFAFDCICKISFGLDPGCLELSLPMSAFADAFDTASMLS
+ARRATAPMHVVWKLKRLLNIGDERELRDAIGLVDDLAAEVIRQRRKLGSATSGDDLLSRF
+MGSINDDKYLRDIVVSFMLAGRDTVASALTAFFLLLSDHPHVADAIRDEVSRVAGGRaDD
+HPTIATSDKLKDMHYVHAALYECMRLFPPVQFDSKFAAGEDTLPDGTPVAKGTRVTYHAY
+AMGRMESVWGPDCAEFRPERWLRGGRFVPESPYRYPVFQGGVRVCIGKELAIMEMKAAIV
+AVVQSFDIETVGRSSRRPKFAPGLTATFAGGVPVRVRRRArasG
+
+
+PACMAD CONSENSUS:
+Length: 525 aa
+
+MGADATTLHVAAqALASSLQPQVVAAVFFASAACTVALAVLLASLRLRPPWWCACAVCEA
+YVTASWAGEFDNLCDWYAHLLRRAPGRTVHVHVLGNVLTANPPTVDHMLRGRFDNYPKGA
+PFSAILADFLGRGIFNVDGDSWLFQRKLAAAELASPALRCFAAGVVASELRCRLIPLLHS
+ASSGGGGEKLLDLQDVFRRFAFDCICRISFGLDPGCLELSLPMSAFADAFDTASMLSARR
+ATAPMHVFWKLKRLLNVGEERELRDAIRLVDTLAAEVIRQRRKLGTAASGDDLLSRFMGS
+INDDKYLRDIVVSFMLAGRDTVASALTAFFLLLSDHPDVATAIRDEVSRVAGgRDGHtAA
+ATSEKLKDMHYVHAALYECMRLFPPVQFDSKFAAGDDTLPDGTFVARGTRVTYHAYAMGR
+MESVWGPDCAEFRPERWLRDGRFVPESPYRYPVFQGGVRVCVGKELAIMEMKSVIVSVVQ
+SFDIEAVGRSSHRPKFAPGLTATFAGGVPVRVRRRARASALRPPS
+
+================================================================================

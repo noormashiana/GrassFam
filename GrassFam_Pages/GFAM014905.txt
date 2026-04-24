@@ -1,0 +1,149 @@
+================================================================================
+GrassFam ID: GFAM014905
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             724.0 aa
+Family Size (Extended Family Size): 23 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24058:SF63
+Panther Family ID:               PTHR24058
+Modal Panther ID:                PTHR24058:SF63
+Modal Panther Description:       OS05G0466900 PROTEIN
+Modal Panther Family ID:         PTHR24058
+Modal Panther Fam Desc:          DUAL SPECIFICITY PROTEIN KINASE
+Interpro Signature Accession:    cd14133; G3DSA:1.10.510.10:FF:000380; G3DSA:3.30.200.20:FF:000216; G3DSA:3.30.200.20; G3DSA:1.10.510.10; PTHR24058; PF00069; SM00220; SSF56112
+Interpro Signature Description:  PKc_DYRK_like; Serine/threonine-protein kinase ppk15; Putative serine/threonine-protein kinase dyrk2; Phosphorylase Kinase; domain 1; Transferase(Phosphotransferase) domain 1; DUAL SPECIFICITY PROTEIN KINASE; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: probable serine/threonine-protein kinase yakA%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: serine/threonine-protein kinase PRP4 homolog
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: DYRK-family kinase pom1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: DYRK-family kinase pom1-like; cyclin-dependent kinase 11.2-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: serine/threonine-protein kinase PKH2-like
+  Gene Descriptions: serine/threonine-protein kinase PKH2-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4327402
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN334
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: DYRK-family kinase pom1-like%2C transcript variant X1; uncharacterized LOC133923855%2C transcript variant X1
+  Gene Descriptions: DYRK-family kinase pom1-like; uncharacterized LOC133923855
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: DYRK-family kinase pom1-like; serine/threonine-protein kinase MRK1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: shaggy-related protein kinase theta-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: serine/threonine-protein kinase ppk15%2C transcript variant X2
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: ATP binding protein%2C transcript variant X1; uncharacterized LOC100191468%2C transcript variant X1
+  Gene Synonyms: GRMZM2G357873; GRMZM2G448633
+  Gene Descriptions: ATP binding protein; uncharacterized LOC100191468
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 725 aa
+
+MAAPGLDEVMAFLTDHGFAGAASALRDDVLARTAAGDpgpdAALDPQLPPLRMPASASGA
+GAGtPAPASPGSSSGSASSSAFVSMRSSPSGLLNPYGLWSPRHSQSDASSSEMEFGTARQ
+YDTTDLFFQEGWLYDDHLFPSKLDDEDDEDKEEDKFVLGAHGGSgqvEmGKLGAGHyHRH
+EHiGNDgCEGCAEVYTCSSPLCGCCGGGLKNEDgLEVVRSSSSTVYGRYQIMDDQTEILD
+DCAqDGFQLKQSGDvVLECDLPRDPGrGDDrSELSVVEKELQMLSSFDTDADADIVANHG
+VHDvTDNGELDdSiEKNLKSSSDKEYLKEGyRIQPFPESGDPDDaYEFGDVGPLNtDVQH
+STALKAEEDPETNIDLALSNFHREYEVFELRIIHRKNRTGFEENKDFPIVLNSVIAGRYY
+VTEYLGSAAFSKVVQAHDLQTGMDVCLKIIKNDKDFFDQSLDEIKLLKFVNKYDPLDEHH
+VLRLYDYFYHQEHLFIVTELLRANLYEFQKYNQESGGEVYFTLPRIQAIARQCLEALVYL
+HHLRIIHCDLKPENILIKSYSRCEIKVIDLGSSCFLTDNLCLYVQSRSYRAPEVILGLPY
+DQRIDIWSLGCILAELYTGEVLFPNEPVSMMLAQMIGIIGPIDMEMLELGQETHKYFTDD
+YDLFTKNEETDQLEYLIPEKSSLRRHLQCPDSEFVDFLSYLLQINPRKRPTAdEALQHPW
+LSSAY
+
+
+BOP CONSENSUS:
+Length: 726 aa
+
+MAAPGLDEVMAFLTDHGFASTASALRDDVLGRAADGEPGPAAALDPQLPPLRMSASaSGG
+GAGLPPPASPGSSSGSASSSAFVSMRSSPSGLLNPYGVWSSqHSLSDASSSEMEFGTARQ
+YDTTDLFFQEGWLYDDHIFHTKPDDGGRDKEEDKFVLGAHGGSGPAETFVLGPGDYCRHE
+HAGNDGCEGCAEVYTCSSPLCGCCAGGLKNFEELEVVrNSSSAVYGRYKIMDDQTEILDE
+CGpDVFQMKQSGDaVLECDLPRDSGQVDERlELNVVEKELQMLSSFDTYDDAeIaASPVq
+VRHVTDNVELDDsnENNLKSSSDKEYLKESYSLHPFPETDDYDDTYEFGDVGPLNTDVrK
+SATLIAEKEDPESNIDQAVSNFHQEYEVFELRIVHRKNRTGFEaNKDFPIVLNSVIAGRY
+YVTEYLGSAAFSKVVQAHDLQTGIDICLKIIKNDKDFFDQSLDEIKLLKFVNKYDPSDEH
+HVLRLYDYFYHQEHLFIVTELLRANLYEFQKYNQDSGGDLYFTFPRIQAIARQCLEALVY
+LHHLRIIHCDLKPENILIKSYSRCEIKVIDLGSSCFLTDSLCLYVQSRSYRAPEVILGLP
+YDQRIDIWSLGCILAELYTGEVLFPNEPVSMMLARMIGIIGPIDMEMLALGQETHKYFTD
+DYDLFTKNEETGQLEyLlPEKSSLRHHLRCPDPQFVDFLSYLLQINPRKRPTASEALEHP
+WLSSEY
+
+
+PACMAD CONSENSUS:
+Length: 720 aa
+
+MAAPGLDQVMAFLTDHGFAGAASALRDDVLARTAAGDgarDAALDPqLPPLRMPGSASGA
+GgGTPAPASPGSSSGSASSSAFVSMRSTPSGLLNPYGLWSPRHSQSDASSSEMEFGTARQ
+YDTTDLFFQEGWLYDDHLFPSKLDDEDDEGKEEDKFVLGAHDGSEQVEIGKLGAGHnHRH
+EHIGgDRCEGCAEVYTCSSPLCGCCGGGLKNDGLEVARSSSSTVYGRYQIMDDQTEILDD
+CAQDGFQLKQSGDVmLECGMPRDPGRGDDDSELSVVEKELQMLSSFDTDAVANHGVHDFT
+DNGELngScDKNLKSSSDKEYLKEGHRIQPFPESGDPDDAYEFQNVGSLNADVQHSTALK
+AEEDpETNIDLALSNFHREYEVFELRIIHRKNRTGFEENKDFPIVLNSVIAGRYYVTEYL
+GSAAFSKVVQAHDLQTGMDVCLKIIKNDKDFFDQSLDEIKLLKFVNKYDPLDEHHVLRLY
+DYFYHQEHLFIVTELLRANLYEFQKYNQESGGEVYFTLPRIQVIARQCLEALVYLHHLRI
+IHCDLKPENILIKSYSRCEIKVIDLGSSCFLTDNLCLYVQSRSYRAPEVILGLPYDQRID
+IWSLGCILAELYTGEVLFPNEPVSMMLAQMIGIIGPIDMEMLELGQETQKYFTDDYDLFT
+KNEETDQLEYLIPEKSSLRRHLQCPDSEFVDFLSYLLQINPRKRPTADEALQHPWLSFAY
+
+================================================================================

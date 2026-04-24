@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM009990
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             311.0 aa
+Family Size (Extended Family Size): 41 (43) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10209:SF590
+Panther Family ID:               PTHR10209
+Modal Panther ID:                PTHR10209:SF794
+Modal Panther Description:       FE2OG DIOXYGENASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR10209
+Modal Panther Fam Desc:          OXIDOREDUCTASE, 2OG-FE II  OXYGENASE FAMILY PROTEIN
+Interpro Signature Accession:    G3DSA:2.60.120.330:FF:000006; G3DSA:2.60.120.330; PTHR10209; PF14226; SSF51197
+Interpro Signature Description:  2-oxoglutarate-Fe(II) type oxidoreductase hxnY; -; OXIDOREDUCTASE, 2OG-FE II  OXYGENASE FAMILY PROTEIN; non-haem dioxygenase in morphine synthesis N-terminal; Clavaminate synthase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: 2-oxoglutarate-Fe(II) type oxidoreductase hxnY%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu01H
+  Gene Products: 2-oxoglutarate-Fe(II) type oxidoreductase hxnY; 2-oxoglutarate-Fe(II) type oxidoreductase hxnY-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata01D
+  Gene Products: 2-oxoglutarate-Fe(II) type oxidoreductase hxnY
+Tae
+  Gene count: 6
+  Modal chromosome: Tae01A
+  Gene Products: 2-oxoglutarate-Fe(II) type oxidoreductase hxnY-like
+Ola
+  Gene count: 6
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 3
+  Modal chromosome: Ogl10
+  Gene Products: 2-oxoglutarate-Fe(II) type oxidoreductase hxnY-like; 2-oxoglutarate-Fe(II) type oxidoreductase hxnY-like%2C transcript variant X1; 2-oxoglutarate-Fe(II) type oxidoreductase hxnY-like%2C transcript variant X2
+  Gene Descriptions: 2-oxoglutarate-Fe(II) type oxidoreductase hxnY-like
+Osa
+  Gene count: 3
+  Modal chromosome: Osa10
+  Gene Products: 2-oxoglutarate-Fe(II) type oxidoreductase hxnY%2C transcript variant X1; 2-oxoglutarate-Fe(II) type oxidoreductase hxnY%2C transcript variant X2; 2-oxoglutarate-Fe(II) type oxidoreductase hxnY-like
+  Gene Descriptions: 2-oxoglutarate-Fe(II) type oxidoreductase hxnY; 2-oxoglutarate-Fe(II) type oxidoreductase hxnY-like
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau24
+  Gene Products: 2-oxoglutarate-Fe(II) type oxidoreductase hxnY
+  Gene Descriptions: 2-oxoglutarate-Fe(II) type oxidoreductase hxnY
+Svi
+  Gene count: 2
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi02N
+  Gene Products: 2-oxoglutarate-Fe(II) type oxidoreductase hxnY-like; 2-oxoglutarate-Fe(II) type oxidoreductase hxnY-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: 2-oxoglutarate-Fe(II) type oxidoreductase hxnY-like%2C transcript variant X2
+Msi
+  Gene count: 3
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: 2-oxoglutarate-Fe(II) type oxidoreductase%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: uncharacterized LOC100384325%2C transcript variant X1
+  Gene Synonyms: GRMZM2G175797
+  Gene Descriptions: uncharacterized LOC100384325
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 311 aa
+
+MMAGSLDLPVVDLASPDLRAAAeSVRQACVEHGFFYVTNHGVDdGLLEAVFAESKgFFDL
+PMEEKMlLQRnSNHRGYTPPYAEKLDASSEFVGDLKESFYIGPiGDgDMqNDpNQWPSEE
+RFPSWKETMKLYiAAvLDTGKRILSLIALGLDLDAEFFQKIGALDCPSTFLRLLHYPGEV
+NESDSGNYGASAHSDYGmITLLVTDGTPGLQICREKDRhPQLWEDVHHIDGALIVNIGDL
+LERWTNCVFRSTLHRVVAVGKERYSVAFFLDPNPDTVVQCLESCCSEAcPPRFPPItSGD
+YIkGRLNSTYK
+
+
+BOP CONSENSUS:
+Length: 311 aa
+
+MAGGSLDLPVVDLASPDLKSAVDAVRKACVESGFFYVTNHGIQDGLLEALFAESKKFFEL
+PLEEKMLLQRNSAHRGYTPPYAEKLDASSEFQGDLKESFYIGAVGDVDMPNDPNQWPPKE
+RFPSWKDTMKLYHAAALAAGKRILSLIALSLDLEAEFFQNIGAVDCSSEVIRLLHYPGEV
+NESDNGNYGASAHSDYGMITLLATDGTPGLQICREKDRHPQLWEDVRHVDGTLIVNIGDL
+LERWTNCVFRSTLHRVVAVGRERYSAAYFLDPRPDLVVQCLESCCCEAYPPRFPPITAGD
+YLKERLSATYK
+
+
+PACMAD CONSENSUS:
+Length: 310 aa
+
+MAGsVDLPVVDLASPDLRAAAeSVRQACVEHGFFYVTNHGVDRGLLEAVFAESKGFFDLP
+MEEKMkLlRsaNHRGYTPPYAEKLDASSEFVGDLKESFYIGPIGDGDmQNDLNQWPSEEr
+FPSWKETMKLYIAAVLDTGtRILSLIALGLDLDAEFFHKIGALnCPSTFLRLLHYPGEVN
+ESDSGNYGASAHSDYGAITLLVTDGTPGLQICREKDRnPQLWEDVHHIDGALIVNIGDLL
+ERWTNCVFRSTLHRVVAVGKERYSVAFFLDPNPDTLVqCLESCCSEAdPPRFPPIKSGDY
+ItGRINSTYK
+
+================================================================================

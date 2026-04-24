@@ -1,0 +1,145 @@
+================================================================================
+GrassFam ID: GFAM012561
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             648.0 aa
+Family Size (Extended Family Size): 30 (32) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23406:SF94
+Panther Family ID:               PTHR23406
+Modal Panther ID:                PTHR23406:SF94
+Modal Panther Description:       NADP-DEPENDENT MALIC ENZYME, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR23406
+Modal Panther Fam Desc:          MALIC ENZYME-RELATED
+Interpro Signature Accession:    cd05312; G3DSA:3.40.50.720:FF:000067; G3DSA:3.40.50.10380:FF:000002; G3DSA:3.40.50.720; G3DSA:3.40.50.10380; NF010052; PTHR23406; PIRSF000106; PR00072; PF00390; PF03949; SM01274; SM00919; SSF53223; SSF51735
+Interpro Signature Description:  NAD_bind_1_malic_enz; Malic enzyme; -; oxaloacetate-decarboxylating malate dehydrogenase; MALIC ENZYME-RELATED; ME; Malic enzyme signature; Malic enzyme, N-terminal domain; Malic enzyme, NAD binding domain; malic_2; Malic_M_2; Aminoacid dehydrogenase-like, N-terminal domain; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: NADP-dependent malic enzyme%2C chloroplastic
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: NADP-dependent malic enzyme%2C chloroplastic%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: NADP-dependent malic enzyme%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: NADP-dependent malic enzyme%2C chloroplastic; NADP-dependent malic enzyme%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: NADP-dependent malic enzyme%2C chloroplastic
+  Gene Descriptions: NADP-dependent malic enzyme%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: NADP-dependent malic enzyme%2C chloroplastic-like
+  Gene Synonyms: ME6,NADP-ME,OsJ_00690
+  Gene Descriptions: NADP-dependent malic enzyme%2C chloroplastic-like
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: NADP-dependent malic enzyme%2C chloroplastic; NADP-dependent malic enzyme%2C chloroplastic-like
+  Gene Descriptions: NADP-dependent malic enzyme%2C chloroplastic; NADP-dependent malic enzyme%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: NADP-dependent malic enzyme%2C chloroplastic; NADP-dependent malic enzyme%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: NADP-dependent malic enzyme%2C chloroplastic
+Msi
+  Gene count: 6
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi03
+  Gene Products: NADP-dependent malic enzyme%2C chloroplastic; NADP-dependent malic enzyme%2C chloroplastic%2C transcript variant X1
+Zma
+  Gene count: 3
+  Modal chromosome: Zma06
+  Gene Products: NADP malic enzyme 3; NADP-dependent malic enzyme%2C chloroplastic%2C transcript variant X1; NADP-dependent malic enzyme%2C transcript variant X1
+  Gene Synonyms: GRMZM2G085019,me3,NADP-ME; GRMZM2G122479,me2
+  Gene Descriptions: NADP malic enzyme 3; NADP-dependent malic enzyme
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 645 aa
+
+MLSARTAAAAASPASLWKRGGGSEGGSCDGCRTYRETVRRRAAAVkVRAApPRRVEAVAM
+GSAAETEkEeEkEVAAAGGGVEDpYGEDRATEELPVTPWAFSVASGYTLLRDPHHNKGLA
+FTEKERDAHYLRGLLPPAVVSQELQIKKIMHNLRQYQVPLQRYMAMMDLQERNERLFYKL
+LIDNVEELLPVVYTPTVGEACQKYGSIFRQPQGLYVSLRDKGKVLEVLRNWPeRNIQVIV
+VTDGERILGLGDLGCQGMGIPVGKLALYTALGGVRPSACLPITIDVGTNNEkLLNDEFYI
+GLRQKRATGEEYHELMEEFMaAVKQIYGEKVLIQFEDFANHNAFDLLAKYSKSHLVFNDD
+IQGTASVVLAGLLSALKVVGGTLAEHTYLFLGAGEAGTGIAELIALEISKQTKAPIEECR
+KKVWLVDSKGLIVDSRKnSLQPFKKPWAHEHEPLTTLlDAVQSIKPTVLIGTSGVGRTFT
+KEVVEAMASFNERPIIFSLSNPTSHSECTAEEAYNWTQGRAVFASGSPFDPVEYDGKtFV
+PGQSNNAYIFPGFGLGLVISGAIRVHEDMLLAASEALAdQATQENFDKGSIFPPFTNIRK
+ISAhIAAAVAAKAYELGLATRLPPPRDLVKYAESCMYTPVYRNYR
+
+
+BOP CONSENSUS:
+Length: 641 aa
+
+MLSARTAAAASPAASLWKRGGGAGGRGDGCTSClEVRRRAAAVtVRAAqPKRVEAVAMES
+AAETAAEKEVAAAGGGVEDKYGEDRATEELPVTPWAFSVASGYTLLRDPHHNKGLAFTEK
+ERDAHYLRGLLPPGVVSQDLQVKKIMHNLRQYKVPLQRYVAMMDLQERNERLFYKLLIDN
+VEELLPVVYTPTVGEACQKYGSIFRRPQGLYVSLRDKGKVLDVLRNWPERNIQVIVVTDG
+ERILGLGDLGCQGMGIPVGKLSLYTALGGVRPSACLPITIDVGTNNEQLLNDEFYIGLRQ
+RRATGEEYHELMEEFMDAVKQIYGEKVLIQFEDFANHNAFDLLAKYSKSHLVFNDDIQGT
+ASVVLAGLLSSLKVVGGTLAEHTYLFLGAGEAGTGIAELIALEISKQTNAPIEECRKKVW
+LVDSKGLIVSSRKdSLQPFKKSWAHEHEPVTTLLDAVkSIKPTVLIGTSGVGRAFTKEVI
+EAMASFNERPVIFSLSNPTSHSECTAEEAYNWTQGRAVFASGSPFDPVEYNGKIyVPGQA
+NNAYIFPGFGLGVVISGAIRVHEDMLLAASETLAaQATQENFDKGSIFPPFTNIRKISAL
+IAASVAAKAYELGLATRLPRPRDLEKYAESCMYTPVYRSYR
+
+
+PACMAD CONSENSUS:
+Length: 647 aa
+
+MISARTAAAAASPASpWKRGGRSEGGGSCDGCRTYRnTLRRRAAAAKVRAlPPRRVEAVA
+MGSAAETEtEeEveEVAAAgGGVEDPYGEDRATEELPVtPWAFSVASGYTLLRDPHHNKG
+LAFTEKERDAHYLRGLLPPAVVSQELQIKKIMHNLRQYQVPLQRYMAMMDLQERNERLFY
+KLLIDNVEELLPVVYTPTVGEACQKYGSIFRQPQGLYVSLRDKGKVLEVLRNWPHRNIQV
+ICVTDGERILGLGDLGCQGMGIPVGKLALYTALGGVRPSACLPITIDVGTNNEKLLNDEF
+YIGLRQKRATGEEYHELMEEFMAAVKQIYGEKVLIQFEDFANHNAFDLLeKYSKSHLVFN
+DDIQGTASVVLAGLLAALKVVGGTLAEHTYLFLGAGEAGTGIAELIALEISKQTKAPIEE
+CRKKVWLVDSKGLIVDSRKNSLQSFKKPWAHEHEPLTTLYDAVQSIKPTVLIGTSGVGRT
+FTKEVVEAMASFNERPIIFSLSNPTSHSECTAEEAYNWTQGRAVFASGSPFAPVEYDGKT
+FVPGQSNNAYIFPGFGLGLVISGAIRVHEDMLLAASEALADQATQENFDKGSIFPPFTNI
+RKISAHIAAAVAAKAYELGLATRLPPPRDLVKYAESCMYTPVYRNYR
+
+================================================================================

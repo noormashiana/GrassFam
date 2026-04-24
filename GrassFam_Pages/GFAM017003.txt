@@ -1,0 +1,121 @@
+================================================================================
+GrassFam ID: GFAM017003
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             345.0 aa
+Family Size (Extended Family Size): 49 (50) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR31235
+Modal Panther ID:                PTHR31235:SF359
+Modal Panther Description:       PEROXIDASE
+Modal Panther Family ID:         PTHR31235
+Modal Panther Fam Desc:          PEROXIDASE 25-RELATED
+Interpro Signature Accession:    cd00693; G3DSA:1.10.520.10:FF:000009; G3DSA:1.10.420.10:FF:000001; G3DSA:1.10.420.10; G3DSA:1.10.520.10; PTHR31517; PR00461; PR00458; PF00141; SSF48113
+Interpro Signature Description:  secretory_peroxidase; Peroxidase; Peroxidase, domain 2; -; Plant peroxidase signature; Haem peroxidase superfamily signature; Heme-dependent peroxidases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 4
+  Modal chromosome: Bdi05
+  Gene Products: cationic peroxidase SPC4; peroxidase 2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 7
+  Modal chromosome: Hvu02H
+  Gene Products: cationic peroxidase SPC4-like; peroxidase 2-like; peroxidase 42-like%2C transcript variant X5; peroxidase P7-like
+Ata
+  Gene count: 6
+  Modal chromosome: Ata02D
+  Gene Products: cationic peroxidase SPC4; peroxidase 2; peroxidase 31; peroxidase 42%2C transcript variant X2; peroxidase P7
+Tae
+  Gene count: 15
+  Modal chromosome: Tae02A
+  Gene Products: cationic peroxidase SPC4-like; peroxidase 12-like; peroxidase 2-like; peroxidase 31-like; peroxidase 42-like%2C transcript variant X1; peroxidase P7-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: cationic peroxidase SPC4
+  Gene Descriptions: cationic peroxidase SPC4
+Ecu
+  Gene count: 4
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: cationic peroxidase SPC4-like; peroxidase 66-like
+  Gene Descriptions: cationic peroxidase SPC4-like; peroxidase 66-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi07N
+  Gene Products: cationic peroxidase SPC4-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: cationic peroxidase SPC4-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: cationic peroxidase SPC4-like
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: peroxidase 12; uncharacterized LOC100279351
+  Gene Synonyms: GRMZM2G108153; GRMZM2G136525
+  Gene Descriptions: peroxidase 12; uncharacterized LOC100279351
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 350 aa
+
+MASsRailvlvlvAaLLaPAAsSsAsaaFISmPtDlVpvspPvtlAnGLSvyFHaDSCPQ
+LETIVRSaVeaALqqeVALAAGLLRIFFHDCFPQGCDASvLLTGpNSERqLPPNvTLQqR
+ALQLIEDIRAKVHAACGPTVSCADITALATRDAVnlAGGPaYdVPLGRLDSLAPAsSSDV
+FdLPqPTatADTLLnAFkSRNLDPaDLVALSGAHTVGKARCSSFgNRFsEdDDFaRcLAA
+NCSaDgNRLQDLDVlTPiVFDNkYFiNLtlGKGVLTSDQvLvsDpRTsWLVqGFAdNHWW
+FFdQFrTSMVKLSQLQGPQGNVGEIRRNCFrPNgqSilaTAGDEGLAASA
+
+
+BOP CONSENSUS:
+Length: 344 aa
+
+MASSRAILAMGLLAAVLSPAlSsRSFISMPTDvsPPVtLAnGLSYDYHADSCPQLQDIVW
+SIVESAVLGEIALAAGLLRIFFHDCFPQGCDASVLLTGpNSELQLPPNLTLQPRALQLIE
+DVRVKVHAACGPTVSCADItALATRDAVFVSGGSEYDVPLGRLDSLEPAPSSAVFDLPQs
+TADAnTLInAFKTRNLEPvDLVALSGAHTVGKAHCSSFNNRFSEDADFARRLAANCSSDp
+NRLQDLDVTTPIVFDNKYFtNLmEGKGVFTSDQVLtaDwRTdWAVKGLAENKWWFYGQFR
+DSMVKLSQLQPqGNVGEIRRNSCFVPNGQSIPATAGDEGFAASA
+
+
+PACMAD CONSENSUS:
+Length: 344 aa
+
+MAMSGRvlAaAVGLLLAAAAsVSARPvLtpLtSrpAasgngLSVYFHLDSCPQLETIVRS
+tVDAALRQNVRLTAGLLRiFFHDCFPQGCDASILLDNGERnLPPNVGLQQEALQLIEDIR
+AKVHAACGPTVSCADITVLATRDAVNLAGGPAFTVPLGRLDSlAPASsNDVFTLPPPTsT
+VDELLsAFaSKNLSDPADLVALSGAHTVGKARCSSFGAVsGPAtDDITRClTaTCSAaGS
+GDRLRDLDFLTPeVFDNLYFIELTLKKNKGVMLPSDQGLVTDPRTSWLVQGFADNHWWFF
+DQFgTSMVKMSQLKGPQGNVGEIRRNCFRPNTnssGDEGLAASA
+
+================================================================================

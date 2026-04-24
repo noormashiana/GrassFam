@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM010500
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             527.0 aa
+Family Size (Extended Family Size): 21 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11130:SF2
+Panther Family ID:               PTHR11130
+Modal Panther ID:                PTHR11130:SF2
+Modal Panther Description:       GLUTATHIONE SYNTHETASE
+Modal Panther Family ID:         PTHR11130
+Modal Panther Fam Desc:          GLUTATHIONE SYNTHETASE
+Interpro Signature Accession:    cd00228; G3DSA:3.30.1490.50:FF:000001; G3DSA:3.40.50.1760:FF:000002; G3DSA:3.30.1490.80:FF:000010; G3DSA:1.10.1080.10:FF:000005; G3DSA:3.30.470.20:FF:000092; G3DSA:3.30.1490.50; G3DSA:3.30.1490.80; G3DSA:3.30.470.20; G3DSA:3.40.50.1760; G3DSA:1.10.1080.10; TIGR01986; PTHR11130; PIRSF001558; PF03199; PF03917; SSF56059; SSF52440
+Interpro Signature Description:  eu-GS; Glutathione synthetase; -; Glutathione Synthetase; Chain A, domain 3; glutathione synthase; GLUTATHIONE SYNTHETASE; GSHase; Eukaryotic glutathione synthase; Eukaryotic glutathione synthase, ATP binding domain; Glutathione synthetase ATP-binding domain-like; PreATP-grasp domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: glutathione synthetase%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Ata
+  Gene count: 2
+  Modal chromosome: Ata04D
+  Gene Products: glutathione synthetase%2C chloroplastic%2C transcript variant X2; glutathione synthetase%2C chloroplastic-like
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: glutathione synthetase%2C chloroplastic%2C transcript variant X2; glutathione synthetase%2C chloroplastic-like; glutathione synthetase%2C chloroplastic-like%2C transcript variant X2
+Ola
+  Gene count: 2
+  Modal chromosome: Ola11
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: glutathione synthetase%2C chloroplastic-like%2C transcript variant X2
+  Gene Descriptions: glutathione synthetase%2C chloroplastic-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: glutathione synthetase%2C chloroplastic%2C transcript variant X1
+  Gene Descriptions: glutathione synthetase%2C chloroplastic
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 1
+  Modal chromosome: Pau19
+  Gene Products: glutathione synthetase%2C chloroplastic-like
+  Gene Descriptions: glutathione synthetase%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi08K
+  Gene Products: glutathione synthetase%2C chloroplastic-like; glutathione synthetase%2C chloroplastic-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: glutathione synthetase%2C chloroplastic-like%2C transcript variant X1
+Msi
+  Gene count: 1
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: glutathione synthetase%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: Glutathione synthetase chloroplastic%2C transcript variant X1
+  Gene Synonyms: GRMZM2G379252
+  Gene Descriptions: Glutathione synthetase chloroplastic
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 527 aa
+
+MSSCVSHHHQvrrRLpvPlPRPAAASFAPPlRRRAVraaAMSAEAPpGVAPAEpAAgtpr
+qAAVLAEMVEeAAVWCAVHGLVVGDRAdPRSGTVPGVGLVHAPFSLLPaRFPASFWKQAC
+ELAPIFNELVDRVSLDGEFLQaSLSRTKQVDDFTARLLEIHeKMMAVNKKEDIRLGLHRS
+DYMLDSETNSLLQIELNTISSSFPGLGSLVSELHRTLLNQYGKVLGLDSKRIPRNWAAtQ
+FAEALGKAWaEYNNDSAVVMMVVQPEERNMYDQYWLvNHLKESYGVtTIRKTLAQVEAEG
+QVLTDGTLVVDGRTVAVVYFRAGYAPTDYPSEAEWRARLLMEQSSAIKCPSISYHLVGTK
+KIQQELAKPNVLERFLDNKEDIAKLRKSFAGLWSLDNEEIVKSAIEKPDLFVLKPQREGG
+GNNIYGHDLReTLIKLQKEQGEALAAYILMQRIFPKASLTPLVrGGVCFEDLTISELGIY
+GAYLRNKDKVVlNNQCGYLMRTKVSSSNEGGVAAGFAVLDSILLTDE
+
+
+BOP CONSENSUS:
+Length: 526 aa
+
+MSSCVSSPHHhCcSRLvAPaPRAvLAAAdfCApPyRRRVGSRAMSAEAPtGVAPAaggka
+AAVvAEMaEeAAVWCAVHGLVVGDRAdPRSGTVPGVGLVHAPFSLLPTRFPASFWKQACE
+LAPIFNELVDRVSLDGkFLQgSLSRTKQVDDFTARLLEIHAKMMAVNKKEDIRLGLHRSD
+YMLDSETNSLLQIELNTISTSFPGLGSLVSELHRTLLNQYGEVLGLDSERIPRNWAAiQF
+AEALGKAWvEYNNeSAVVMMVVQaEERNMYDQYWLINHLKESHGVMTIRKTLAQVEAEGL
+VLPDGTLVVDGRtVAVVYFRAGYAPNDYPSEVEWSARLLIEQSSAIKCPSISYHLVGTKK
+IQQELAKPSVLERFLDNKEDIAKLRKCFAGLWSLDNEEIVKSAIEKPDLFVLKPQREGGG
+NNLYGHDLRETLIRLQKEQGEALAAYILMQRIFPRASLTQLVQGGVCFEDLTISELGIFG
+AYLRNKDKVVINNQCGYLMRTKVSSSNEGGVAAGFAVLDSILLTDE
+
+
+PACMAD CONSENSUS:
+Length: 530 aa
+
+MSSSCVSHHHQVVRpRaGgRLPlPAAASFAPPAPRRRRAARAAAMSAEApPGVAPAEEgp
+GTtQAAVLAEMVEEAAVWCAVHGLVVGDRANPRSGTVPGVGLVHAPFSLLPARFPASFWK
+QACELAPIFNELVDRVSLDGEFLQAALSRTKQVDEFTARLLEIHEKMMAINKKEDIRLGL
+HRSDYMLDSETNSLLQIELNTISSSFPGLGSLVSELHRTLLNQYGKVLGLDSKRIPRNWA
+ATQFAEALGKAWAEYNNDSAVVLMVVQPEERNMYDQYWLVNHLKESYGVTTIRKTLAQVE
+AEGQVLTDGTLVIDGRTVAVVYFRAGYAPTDYPSEAEWRARLLMEQSSAIKCPSISYHLV
+GTKKIQQELAKPNVLERFLDNKEDIAKLRKSFAGLWSLDNEEIVKSAIEKPDLFVLKPQR
+EGGGNNIYGHDLRDTLIKLQKEQGESLAAYILMQRIFPKASLTPLVRGGDCFEDLTISEL
+GIYGAYLRNKDKVILNNQSGYLMRTKVSSSNEGGVAAGFAVLDSVLLTDE
+
+================================================================================

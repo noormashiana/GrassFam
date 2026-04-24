@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM006562
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             429.5 aa
+Family Size (Extended Family Size): 24 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11929:SF194
+Panther Family ID:               PTHR11929
+Modal Panther ID:                PTHR11929:SF194
+Modal Panther Description:       ALPHA-(1,3)-FUCOSYLTRANSFERASE 10
+Modal Panther Family ID:         PTHR11929
+Modal Panther Fam Desc:          ALPHA- 1,3 -FUCOSYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:3.40.50.11660:FF:000003; G3DSA:3.40.50.11660; PTHR11929; PIRSF037334; PF00852; SSF53756
+Interpro Signature Description:  Alpha-(1,4)-fucosyltransferase; -; ALPHA- 1,3 -FUCOSYLTRANSFERASE; FucT_plant; Glycosyltransferase family 10 (fucosyltransferase) C-term; UDP-Glycosyltransferase/glycogen phosphorylase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: alpha-(1%2C4)-fucosyltransferase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: alpha-(1%2C4)-fucosyltransferase
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: alpha-(1%2C4)-fucosyltransferase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: alpha-(1%2C4)-fucosyltransferase-like; alpha-(1%2C4)-fucosyltransferase-like%2C transcript variant X2
+Ola
+  Gene count: 2
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl04
+  Gene Products: alpha-(1%2C4)-fucosyltransferase-like
+  Gene Descriptions: alpha-(1%2C4)-fucosyltransferase-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa04
+  Gene Products: alpha-(1%2C4)-fucosyltransferase
+  Gene Descriptions: alpha-(1%2C4)-fucosyltransferase
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN563
+Pau
+  Gene count: 1
+  Modal chromosome: Pau23
+  Gene Products: alpha-(1%2C4)-fucosyltransferase
+  Gene Descriptions: alpha-(1%2C4)-fucosyltransferase
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: alpha-(1%2C4)-fucosyltransferase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: alpha-(1%2C4)-fucosyltransferase
+Msi
+  Gene count: 2
+  Modal chromosome: Msi14
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: alpha-(1%2C4)-fucosyltransferase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: 4-alpha-L-fucosyltransferase%2C transcript variant X1
+  Gene Synonyms: a4Lea
+  Gene Descriptions: 4-alpha-L-fucosyltransferase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 425 aa
+
+MLfPKRINYVAPMLASAAILLLLLSGYFELPSISSSLSTPAPlLPGAGATRFPTALDSVG
+SReRsPFTSLLaAFsAWDAAVGCPRIRAKLAAAnPGAnATaaSAmASITGGAAWGGARCE
+ELKTRHVGVLVKGWTWIPDALDGVYTCRCGVSCVWSKSAAAVDRPDALLFEGATPPPQRM
+KGLPLRVYLDLEASRKPTGFEDIFIGYHANDDVQVTYAGKSFHTSRSYHVSTEKRNDALI
+YWSSSRCLPHRDKLAKDFLSLVPHHSFGRCLNNVGGPDMALSMYPVCSTNDNGtPHWWDH
+LHCAMSHYKFVLAIENTKTESYVTEKLFYALEAGSVPIYFGAPNVWDFVPPNSIIDASKF
+SSLKELASYVKALANDPVAYAEYHAWRRCGVLGNFGRAREMSLDTLPCRLCELVSKRGGR
+SADAL
+
+
+BOP CONSENSUS:
+Length: 430 aa
+
+MRAPPMLVPKRINYVAPMLASALILLLLLSGYFELPSITSSLSTPfSPTVPAAGATGSRR
+FgTALDSVGSRERSAFTSTLAAFSAWDAAVGCPRIRAKIGAANATTASAMASITGGAGWG
+GARCEEMKTRHVGVFVKGWTWIPDALDGVYTCRCGVSCVWSKAAAVVDRPDALLFEGATP
+PLQRMKGLPLRVYLDLEASRKPTGFEDIFIGYHANDDVQVTYAGKSFHTSRSYHVSTEKT
+NDALIYWSSSRCLPHRDKLAKDFLSLVPHHSFGKCLNNVGGPDMALSMYPVCSNNGNGSP
+HWWDHLHCAMSHYKFVLAIENTKTESYVTEKLFYALEAGSVPIYFGAPNVWDFIPPNSAI
+DASKFSSLKELASYVKALANDPVAYAEYHAWRRCGVLGNFGRTREMSLDTLPCRLCELVS
+KRGGRSADSF
+
+
+PACMAD CONSENSUS:
+Length: 424 aa
+
+MLFRKRINYVAPMLASAAILLLLLSGYFELPSISSLSTPAPLLPGGAtRFPTALDSVGSR
+DRDPFTSLLEAFnaWDAAVGCPRIRAKLAAAeLPsAnAtATAAsAAVTGGAAWgGARCEE
+LaARHVGVLVKGWTWIPDALDGVYTCRCGVSCVWSKSAAAVDRPDALLFEGATPPPQRMK
+GLPLRVYLDLEASRKPTGFEDIFIGYHANDDVQvTYAGKSFHTSRSYHISTEKRNDALIY
+WSSSRCLPHRDKLAKDFLSLVPHHSFGRCLNNVGGPDMALSMYPVCSTNDNGTPHWWDHL
+HCAMSHYKFVLAIENTKTESYVTEKLFYALEAGSVPIYFGAPNVWDFVPPNSIIDASKFS
+SLKELASYVKaLANDPVAYAEYHAWRRCGVLGNFGRAREMSLDTLPCRLCELVSKRGGKS
+ADAL
+
+================================================================================

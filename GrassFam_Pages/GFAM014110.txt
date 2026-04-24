@@ -1,0 +1,123 @@
+================================================================================
+GrassFam ID: GFAM014110
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             447.5 aa
+Family Size (Extended Family Size): 16 (17) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR42924:SF17
+Panther Family ID:               PTHR42924
+Modal Panther ID:                PTHR42924:SF17
+Modal Panther Description:       OS03G0192000 PROTEIN
+Modal Panther Family ID:         PTHR42924
+Modal Panther Fam Desc:          EXONUCLEASE
+Interpro Signature Accession:    cd07438; G3DSA:1.10.150.650:FF:000002; G3DSA:1.10.150.650; G3DSA:3.20.20.140; PTHR42924; SSF89550
+Interpro Signature Description:  PHP_HisPPase_AMP; PHP domain-containing protein; -; EXONUCLEASE; PHP domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: 3'%2C5'-nucleoside bisphosphate phosphatase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: 3'%2C5'-nucleoside bisphosphate phosphatase-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: 3'%2C5'-nucleoside bisphosphate phosphatase%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: 3'%2C5'-nucleoside bisphosphate phosphatase-like; 5'-3' exoribonuclease-like
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: uncharacterized LOC127761619%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127761619
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC107276601
+Pau
+  Gene count: 1
+  Modal chromosome: Pau06
+  Gene Products: uncharacterized LOC133920366
+  Gene Descriptions: uncharacterized LOC133920366
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi01K
+  Gene Products: 3'%2C5'-nucleoside bisphosphate phosphatase-like%2C transcript variant X1
+Pha
+  Gene count: 2
+  Modal chromosome: Pha01
+  Gene Products: 3'%2C5'-nucleoside bisphosphate phosphatase-like; 3'%2C5'-nucleoside bisphosphate phosphatase-like%2C transcript variant X1
+Msi
+  Gene count: 1
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: 3'%2C5'-nucleoside bisphosphate phosphatase%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 446 aa
+
+MPtTRPAAtsTEEEeaVVVAAsAAAnAAAPDADDREqQqKKRrRkKKKKKKRRRAPSEEE
+vAALRSVLRWARRGEAGDDeeADCghalrAGRRRPRVAVELHAHSARSDGSLSPAALVER
+AHRNGVKVLALTDHDTMAGVPEAMEaAKefSIRIIPGVEISAVYSPSnGSGAEEPVHILA
+YYGSWGPAKPQELERFLsSIREGRYTRAKEMLlKLRsLGMPMKLEDVCnIAGNGVAPGRL
+HVARAMVEAGYVENLRQAFSRYLYDGGPAYATGSEPAGESVVQLVCRTGGVAVLAHPWAL
+KNPvAVIKDLKAAGLHGIEVYRSDGKLSGLSDLADTYELLKLGGSDYHGRDDKEEPDVGS
+VDLPVLAVFrFLEvAQPIWHNAIKEIFAniTERTTgLNGSKGcrRtSSAgDLCnLCLSSp
+DLEeTDaSEVEVLRTEfADIvLsNrS
+
+
+BOP CONSENSUS:
+Length: 451 aa
+
+MTTTRPAATTEEEEemVvAASAAANAAPPDADDREQQKKaRARrKKKKKKRRRAPSEEEL
+AALRSVLRWARRGEAGDDDEADCGHLLPAGRRRPRVAVELHAHSARSDGSLSPAALVERA
+HRNGVKVLALTDHDTMAGVAEAMETAKEFSIRIIPAVEISAVYSPSNGSGANEPVHVLAY
+YGSWGPAKSQELEKVLSSIREGRYTRAKEMLSKLRSLGMPLnFEDVSNIAGNGVAPGRVH
+VARAMVEAGYVDNLRQAFSRYLYDGGPAYATGSEPAGESVVQLICRTGGIAVLAHPWALK
+NPVPVIKDLKAAGLHAIEVYRSDGKLSGLSDLADTYELLKLGGSDYHGRDDKEEPDIGSV
+DLPVLAFFRFLEAAQPIWCNAIKEIFANTTERTGLNGSKGChRTSSVDDLCNMCLSSPEL
+EETDDSEVEVLRTEFADIILSNRSCKTLIEQ
+
+
+PACMAD CONSENSUS:
+Length: 440 aa
+
+MPPPAGASTEEDavVVVAADAIATSAPDAGDPEvQqRKGRRRRKKRRPRAPTEEEVAARR
+SVLRWACPGREVVGDDEAAeAGRARVRRPRVAVELHAHSARSDGSLSPAELVERAHRNGV
+KVLALTDHDTMAGVPEAVEAAKRYPIRIIPGVEISAVHSPSDEGSGAEEPVHILAYYGSW
+GPARPQELERFLAGIREGRYARANQMLLKLRDLGMPMKLEDVCKIAGNGVAPGRLHVARA
+MVDAGYVENLRQAFSRYLYDGGPAYATGSEPTGESVVQLVCRTGGVAVLAHPWALKNPAA
+VIKNLKAAGLHGIEVYRSDGKVSGLSDLADTYELLKLGGSDFHGRDDKEEPDVGSVDLPV
+LAVFKFLEVAKPIWHNAIREIFASISKRTTDLNGSNGFRRISSAGDFCILRLSSEDpELT
+DASEVEVLRTEVADIVLTHQ
+
+================================================================================

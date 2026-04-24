@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM006142
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             480.0 aa
+Family Size (Extended Family Size): 32 (34) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR23070
+Modal Panther ID:                PTHR23070:SF89
+Modal Panther Description:       AAA+ ATPASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR23070
+Modal Panther Fam Desc:          BCS1 AAA-TYPE ATPASE
+Interpro Signature Accession:    cd19510; G3DSA:3.40.50.300; PTHR23070; SSF52540
+Interpro Signature Description:  RecA-like_BCS1; -; BCS1 AAA-TYPE ATPASE; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: AAA-ATPase At3g50940%2C transcript variant X1
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: AAA-ATPase At3g50940-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: AAA-ATPase At3g50940-like
+Tae
+  Gene count: 2
+  Modal chromosome: Tae02A
+  Gene Products: AAA-ATPase At3g50940-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl07
+  Gene Products: AAA-ATPase At3g50940-like; AAA-ATPase At5g17760-like
+  Gene Descriptions: AAA-ATPase At3g50940-like; AAA-ATPase At5g17760-like
+Osa
+  Gene count: 3
+  Modal chromosome: Osa07
+  Gene Products: AAA-ATPase At3g50940; AAA-ATPase At5g17760
+  Gene Descriptions: AAA-ATPase At3g50940; AAA-ATPase At5g17760
+Ecu
+  Gene count: 7
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 2
+  Modal chromosome: Pau15
+  Gene Products: AAA-ATPase At3g50940-like
+  Gene Descriptions: AAA-ATPase At3g50940-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi02K
+  Gene Products: AAA-ATPase At3g50940-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha02
+  Gene Products: AAA-ATPase At3g50940-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi04
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi02
+  Gene Products: uncharacterized LOC8080127; uncharacterized LOC8080130
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 470 aa
+
+MDLSSAAASPSYgKAVDTYKKAVATAATVTAYAVLARGMARELLPhDLRAAAsWAASLvR
+ARLEPpPAERRTvVIKRsdGdsrsdgdNgLYdDVRaYLATRIDPHSMRRLCLSGGvrGar
+kVLSMepGDSMTDVFEGVeFTWtSVaGeGRhgdgpeSLELSFDAEHTDMALGRYVPFITA
+tVEEARRRDRaLkIFMNEGSSWRGIsHHHPATFDTLAMDPeLKQSViADLDRFLKRKDYY
+RRIGKAWKRGYLLYGPPGTGKSSLVAAMANYLRFNLYDLDLSEVryNsaLQRLLiGMpNR
+SILVIEDIDCCFSAaSREDGKDrktdaraDdghgpdsdDcsQqqqnITLSGLLNFIDGLW
+STSGEERIIVFTTNYKDRLDPALLRPGRMDMHVYMGYCGWEAFKTLARNYFLVDDHPLFP
+EIQELLsgVEVTPAEVSEMLLRSEDADVALqGLvEFLgEKKQGkkegvkA
+
+
+BOP CONSENSUS:
+Length: 466 aa
+
+MDsPSAAaSPSyyKLVDTYKKAAATAASVTAYAVLARGMARELLPHDLRAAVSWGASLVR
+ARLEPRPAERRTVVVRRlDGygiNCvnfNsFYDDVhAYLATRIDPRSMRRLCLSGGGaRK
+VMSMDpGDSMTDVFEGVqFtWTSVsGEGRkgpDSLELSFDAEHTDMALGRYVPSITAeVE
+QARRRDRaLKIFMNEGsSWRGISHHHPATFDTLAMDPpTKQAVvADLDRFLKRKEYYRRI
+GKAWKRGYLLYGPPGTGKSSLVAAVANYLRFNLYDLDLSEVryNSALQRLLIGMPNRSIL
+VIEDIDCCFSATSREDGKERKTPArtnYGhGDDDSDDCSnKSITLSGLLNFIDGLWSTSG
+EERVIIFTTNYKDRLDPALLRPGRMDMHIYMGYCGWEAFKTLARNYFLVDDHPLFPEIQE
+LLAeVEVTPAEVSEMLLRnEDADvALlGLVEFLTEKKQGkKDSvKA
+
+
+PACMAD CONSENSUS:
+Length: 478 aa
+
+MDLSsAvaaAsPSYGKAvEAYKKAVATAATATAYvVLARGMARELLPDELRAAARWAASL
+LRARLeppPaERRTlVIKRspgySrhDGDNGLYdeARaYLATRIDPHAMrRLCLsVRGGV
+gGagqvLSMEpGDSMtDVFEGVkFTWaSVAGeGRsgasseSLELSFDAEHTDMALGRYVP
+FITATVEEARRQdRaLrIFMNEGSSWRGItHHHPATFDTLAMDPeLKQSViADLDRFLKR
+KDYYRRIGKAWKRGYLLYGPPGTGKSSLVAAMANYLRFNLYDLDLSEVrgNttLQRLLtg
+MsNKSILVIEDIDCCFSAASREDgKDqSGDqvdDDDSSeDspPdpwsspkAQQrqnITLS
+GLLNFIDGLWSTSGEERIIVFTTNYKDRLDPALLRPGRMDMHVYMGYCGWEAFKTLARNY
+FLVDDHPLFPEIQELLSgVEVTPAEVSEMLLRSEDADVALQGlaeFLgEKKQgikEGn
+
+================================================================================

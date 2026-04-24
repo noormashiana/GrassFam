@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM008880
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             778.0 aa
+Family Size (Extended Family Size): 23 (27) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10887:SF479
+Panther Family ID:               PTHR10887
+Modal Panther ID:                PTHR10887:SF479
+Modal Panther Description:       DNA2_NAM7 HELICASE HELICASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR10887
+Modal Panther Fam Desc:          DNA2/NAM7 HELICASE FAMILY
+Interpro Signature Accession:    cd18808; G3DSA:3.40.50.300:FF:000326; G3DSA:3.40.50.300; PTHR10887; PF13087; PF13086; SSF52540
+Interpro Signature Description:  SF1_C_Upf1; P-loop containing nucleoside triphosphate hydrolase; -; DNA2/NAM7 HELICASE FAMILY; AAA domain; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: helicase SEN1
+Ata
+  Gene count: 3
+  Modal chromosome: Ata07D
+  Gene Products: helicase SEN1-like; probable helicase senataxin; uncharacterized ATP-dependent helicase C29A10.10c-like
+Tae
+  Gene count: 6
+  Modal chromosome: Tae02A
+  Gene Products: helicase sen1-like; uncharacterized ATP-dependent helicase C29A10.10c-like; uncharacterized LOC123153943; uncharacterized LOC123167263
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: uncharacterized ATP-dependent helicase C29A10.10c-like
+  Gene Descriptions: uncharacterized ATP-dependent helicase C29A10.10c-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: helicase sen1
+  Gene Descriptions: helicase sen1
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 3
+  Modal chromosome: Pau07
+  Gene Products: helicase SEN1-like; helicase sen1-like
+  Gene Descriptions: helicase SEN1-like; helicase sen1-like
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi01N
+  Gene Products: helicase sen1-like; uncharacterized ATP-dependent helicase C29A10.10c-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: uncharacterized ATP-dependent helicase C29A10.10c-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi12
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 830 aa
+
+MNQDLFRDKVNRFFGLKSYLDSPLLEEmRAEMSSNLEsLPnhSSTVsIRSLVPkiKGvKn
+spLYRVTVArRRGArSPCIGDIVvLtDAMPrRPSDLASnGgSYCLAHVKDVsRDkrsFvI
+RASKkIeDansYAFaVSLLSFIPYaRIWRCLDYdAAVKRspaLVKvVAGeAtqqSTSLGS
+SpRpeTGGTDvlvaGrLSAFGLNDSQTgAILSCVSAVQrGggSSKFSLIWGPPGTGKTKT
+ISVLLLllmTmQsKcRVLTCAPTNTAISQVASRLLALRKQHPdADGGCHGDLLLFGNReR
+MaIDgDLsEIFLDTRVKrLkKCFSPATGWRhCLvSLEvFLgdPiTlrfQYqeACkQKDGT
+kLpESSFvRSRFHqIFQKLSkCFrTIMSHVPRaiiLEKNYkNIaSLtKMLeDFSKLLGrK
+iAGNqVavdVFMTTsgeKCDGSagGvhsSElVetLRrsMaAILGVTRTLlRDLkLPvTRs
+ffrIKKFCLrSASLIFCTVSGSAKLNgQKMDLLLIDEAAQLKECESLIPLQVSGLKHAVL
+IGDECQLPATVKSKVSDsALLGRSLFERLSLLGHKKHLLNMQYRMHPSISIFPNLSFYDK
+KILDGPNVTQtrHERSYLqGAMFGPYSFINIDGREDRGRSKRNMAEVAAILEILHsLKkA
+CiStGQGVSVGVICPYAAQVEAIQgkIGDVKAMRPLvLRVNSVDGFQGSEEDVIILSTVR
+SNstGSIGFLSNRRRANVALTRARHCLWILGNAATLsGSGSIWGELVRDAVDRRCFFDWD
+DGAGVSsaVsrgArlIGpEHGrnAaafDTdsDevGcEDDICGALGSLRLA
+
+
+BOP CONSENSUS:
+Length: 791 aa
+
+MSSnLetQPNnSSsIQSLVplpKGarqtPLYRVTISGACSPCIGDIVVLSAAMPLRPSDL
+ASDGaSYCLAHVkDVhngrSFVVRASKRIDDVnSYAFVVSLLSFIPYqRIWRCLRYrAAV
+KRDdsLVKAIAGEaemssmQLSTSLTGGTDVLLvSGRLSAFGLNeSQTGAILSCVSAVQC
+GGGGGtSSKvSLIWGPPGTGKTKTISVLLLsaMtMATSQSKwRVLTCAPTNTAICQVASR
+LLALRKQHPDACAGgCHGDLLLFGNRqRMpIDgDLdEIFLDTRVKrLsKCFSPeTGWRrC
+LLSLEVFLrDPIALryQYQlAIkqeDGTkLpeySFvRSRFHrIfQKLSkCFrTIMSHVPr
+hrILEKNYnNIALLtKMLgDFSKLLGvkkAGNQVvTssrqlgrQrhGLtMGYHSSeTVrt
+LRekMtAILgVTRTLLRDLqLPlTrefseIKKFClrSASLIFCTVSGSAKLegQKMDLLL
+IDEAAQLKECESLIPLQVSGLKHAVLIGDECQLPATVKSKVSDsALLGRSLFERLGLLGH
+KKHLLNMQYRMHPSISIFPNLSFYDKQILDGPNVTQTkHERSYLPGAMFGPYSFINIDGR
+EDRGRSKRNMAEVAAILeILhSLKqACiSAGQVVSVGVICPYAAQVEAIQGkIGDVKAMR
+PLVLRVNSVDGFQGSEEDVIILSTVRSNSIGFLSNRRRANVALTRRHCLWILGNAATLSG
+SGSIWGELVRDAVERRCFFDWDDGeGlSPAVSRrArlIGPerGraASAFDTqEvGCeGDg
+ICdALGSLRLA
+
+
+PACMAD CONSENSUS:
+Length: 865 aa
+
+MGKGNGGRSKPDDELVNLIFSWSLQDVMNQDLFRDKVNTIPDRFFGLEGYLDSFRIPLLE
+EMRAEMSSNLESLPSHSSTVSIRSLVPKImGTKNSMLYRVTVARRRGARSPFVGDIIMLT
+DAtPRRPAELASNGGSYCLAHVKNVSRDKFnFEIRASKKIEgAssYAFAVSLLSFIPYVR
+IWRCLDYDAAVKRSPgLVKFVAGDAmSTSFhgSSarPETVGTGADVAAkLSAFKLNDSQT
+DAvLSCVsATrRNGAsKFSLIWGPPGTGKTKTISVLLLLLLTSQTKCRVLTCAPTNTAIS
+QVAARLVsLRKQHsAaDGGCHGDLLLFGNRERMSIDSDLSEIFLDTRVKRLKKCFSPATG
+WRHCLVSLEvFLGEPrTVsfQYNEACLQKDGTKLPESSFVRSRFHQIFQmLSNCFtTIMS
+HVPRAIvLEKNYKNIVSLIKMLEDFSKLLDRKIAGNDVAVDVFMTTSDtKCDDSAGaVGn
+SELVEKLMRQKAAILGVTRTLIRDLKLPVTRSDFRIKKFCLVSASFVFCTVSGSAKLNnQ
+KMDLLLIDEAAQLKECESLIPLQLSGLKHAVLIGDECQLPATVKSKVADTALLGRSLFER
+LSLLGQKKHLLNIQYRMHPSISIFPNLSFYDKKILDGPNVTQErHvRSYLQGAMFGPYSF
+INIDGREDPGRSKRNMAELTVIMEILHNLKnACRSTRQGVSVGVICPYAAQVEAIQQeIG
+DAKAMHPLALRVNSVDGFQGSEEDVIILSTVRSNsAGSIGFLSNVRRANVALTRARHCLW
+ILGNATTLRGSGSIWgELVRDAVDRRCFFDWDDGAGVSSSVPPPCGAGPTGCEHGWNAPD
+vDLRPACCVYEADICGSLGSLRLAE
+
+================================================================================

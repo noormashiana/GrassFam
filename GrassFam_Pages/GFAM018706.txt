@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM018706
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             404.0 aa
+Family Size (Extended Family Size): 20 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR30544:SF5
+Panther Family ID:               PTHR30544
+Modal Panther ID:                PTHR30544:SF5
+Modal Panther Description:       RADICAL SAM CORE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR30544
+Modal Panther Fam Desc:          23S RRNA METHYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:1.10.150.530:FF:000009; G3DSA:3.20.20.70:FF:000014; G3DSA:3.20.20.70; TIGR00048; PTHR30544; PIRSF006004; SFLDS00029; SFLDF00275
+Interpro Signature Description:  Putative dual-specificity RNA methyltransferase RlmN; Probable dual-specificity RNA methyltransferase RlmN; Aldolase class I; 23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN; 23S RRNA METHYLTRANSFERASE; Cfr; Radical SAM; adenosine C2 methyltransferase (RlmN-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: probable dual-specificity RNA methyltransferase RlmN
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: probable dual-specificity RNA methyltransferase RlmN
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: probable dual-specificity RNA methyltransferase RlmN
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: probable dual-specificity RNA methyltransferase RlmN
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: uncharacterized LOC127772181
+  Gene Descriptions: uncharacterized LOC127772181
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4326401
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau01
+  Gene Products: uncharacterized LOC133929726
+  Gene Descriptions: uncharacterized LOC133929726
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi05N
+  Gene Products: probable dual-specificity RNA methyltransferase RlmN
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: probable dual-specificity RNA methyltransferase RlmN
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: probable dual-specificity RNA methyltransferase RlmN
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: Radical SAM superfamily protein; probable dual-specificity RNA methyltransferase RlmN
+  Gene Synonyms: GRMZM2G168412
+  Gene Descriptions: Radical SAM superfamily protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 397 aa
+
+MAAPQHVRAAPLARALRlRArASAAAPPkSQeTSRRALLGLSEPELRQLAVDLGQQSYRG
+KQLHDLLYKSRAKQIQEFnYVPKVFREALVGAGWsVGRSPVHHAVTASDGTTKILLKLED
+NRLIETVGIPVDDDKGSSRLTACVSSQVGCPLRCSFCATGKGGFARNLqpHEIVEQVLAI
+EEsFKHRVTNVVFMGMGEPMLNLKSVLEAHRCLNKELKIGQRMMTISTVGVPNTIKKLAS
+HKLQSTLAVSLHAPNQKLRETIVPSAKSYPLEALMDDCKNYFLETGRRVSFEYTLLAGIN
+DEKEHAEELAeLLHTCGGGYHVNLIPYNPIEGSEYKRPYRKVVQAFVDALEARKITVSVR
+QTRGLDANAACGQLRNEFQKNPLLESSPPSEPNLVPA
+
+
+BOP CONSENSUS:
+Length: 405 aa
+
+MAAPQQVRAVPLARALRLRTRASAAAPPETSRRALLGLTEPELRQLAVDLGQQSYRGKQL
+HDLVYKNRAKQVEEFAYVPKVFREALVGAGWnVGRSPVHHAVTATDGTTKILLKLEDNRL
+VETVGIPVDDRGTPRLTACVSSQVGCPLRCSFCATGKGGFARNLKGHEIVEQVLAIEESF
+KHRVTNVVFMGMGEPMLNLKAVLEAHQCLNKELKIGQRMMTISTVGVPNTISKLASHKLQ
+STLAVSLHAPNQRLRETIVPSAKAYPLEALMDDCKNYFLETGRRVSFEYTLLAGINDEKA
+HAEELAALLHACGGGYHVNLIPYNPVEGSEYKRPYRKAIQAFVDALESRKITVSVRQTRG
+LDANAACGQLRNEFQKNPLLESSPPSEPNQLLESSTPSEPSLVPA
+
+
+PACMAD CONSENSUS:
+Length: 401 aa
+
+MAAPQHVRAAPLARALRARATATAtAAPApIkSQGTSRRALLGLSEPqLRQLALDLGQQS
+YRGKQLHDLLYKSRAKQIQEFNHVPKAFREALLGAGWSVGRSPVHHAVTASDGTTKILLK
+LEDNRLIETVGIPVDDDNKGSSRLTACVSSQVGCPLRCSFCATGKGGFARNLQPHEIVEQ
+VLAIEEtFKHRVTNVVFMGMGEPMLNLKSVLEAHRCFNKELKIGQRMMTISTVGVPNTIK
+MLASHKLQSTLAVSLHAPNQKLRETIVPSAKSYPLGALMDDCKNYFLETGRRVSFEYTLL
+AGINDEKEHAEELAELLRTCGGGYHVNLIPYNPIEGSEYKRPYRKVVQAFVDALEARKIT
+VSVRQTRGLDANAACGQLRNEFQKNPLLESSPSTEPnLVPA
+
+================================================================================

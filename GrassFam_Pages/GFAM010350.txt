@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM010350
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             370.5 aa
+Family Size (Extended Family Size): 32 (34) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46368:SF10
+Panther Family ID:               PTHR46368
+Modal Panther ID:                PTHR46368:SF10
+Modal Panther Description:       GFO_IDH_MOCA-LIKE OXIDOREDUCTASE N-TERMINAL DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR46368
+Modal Panther Fam Desc:          FAMILY NOT NAMED
+Interpro Signature Accession:    G3DSA:3.40.50.720; G3DSA:3.30.360.10; PTHR46368; SSF55347; SSF51735
+Interpro Signature Description:  -; Dihydrodipicolinate Reductase; domain 2; Glyceraldehyde-3-phosphate dehydrogenase-like, C-terminal domain; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                3.12%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: uncharacterized oxidoreductase At4g09670
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu01H
+  Gene Products: uncharacterized oxidoreductase At4g09670-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata01D
+  Gene Products: uncharacterized oxidoreductase At4g09670
+Tae
+  Gene count: 6
+  Modal chromosome: Tae01A
+  Gene Products: uncharacterized oxidoreductase At4g09670-like
+Ola
+  Gene count: 3
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: uncharacterized oxidoreductase At4g09670
+  Gene Descriptions: uncharacterized oxidoreductase At4g09670
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: uncharacterized oxidoreductase At4g09670
+  Gene Descriptions: uncharacterized oxidoreductase At4g09670
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau24
+  Gene Products: uncharacterized oxidoreductase At4g09670-like
+  Gene Descriptions: uncharacterized oxidoreductase At4g09670-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi09N
+  Gene Products: uncharacterized oxidoreductase At4g09670-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: uncharacterized oxidoreductase At4g09670-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi01
+  Gene Products: uncharacterized oxidoreductase At4g09670
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100281254
+  Gene Synonyms: GRMZM2G409133
+  Gene Descriptions: uncharacterized LOC100281254
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 368 aa
+
+MSSAAAPeepPRPVRFGIMGCASIARKLARAMLLAPaAAVAAVGSRSEeKARLFAADNGL
+pAgTRLHGSYEALLDDPDVDAVYLPLPTSLHVRWATAAAARGKHVLLEKPTALCAADLDA
+ILAACEAaGVQFMDSTMWMHHPRTAKMRELVADKDTIGDVRvINSvFSFRANEDFLQNDI
+RVKPDLDALGALGDiGWYCIRAILWAVDYELPKtVIALRdPVKNQAGVLLACGATLYWAD
+GKtATFhCSFLTNLTMDiTVVGTNGTLHVTDFVIPYEEKSApFSVASKSNFAELHtGWDP
+lPSKHVVTTDLPQEALMVQEFcRLVQnIRDAGgKPEGKWPAITRKTQVVmDAVKASIDKG
+fEPVDVAS
+
+
+BOP CONSENSUS:
+Length: 369 aa
+
+MsASSAAAPEpPRPVRFGIMGCASIARKLARAMLLAPAAaVAAVGSRSEgKARLFAADNG
+LPAgTRLHGSYEALLDDPdVDAVYLPLPTSLHVKWATAAAARGKHVLLEKPTALCAADLD
+AILAACEAsGVQFMDSTMWMHHPRTAKMRELVADQaTIGDVRVINSmFSFRANEDFLQND
+IRVKPDLDALGVLGDIGWYCIRAILWAVDYELPKNVIALRhPVKNQAGVLLACGATLYWA
+DGKvATFHCSFLTNLTMDLTVVGTNGTLHVTDLVIPYEEKSGPFSVASKSNFAELHTGWD
+PhPSKHVVTTDLPQEALMVQEFCRLVQGIRDAGaKPEGKWPAITRKTQVVMDAVKTSIDN
+GFESVDVAS
+
+
+PACMAD CONSENSUS:
+Length: 369 aa
+
+MSSAAAPDQpPRPVRFGILGCAsIARKLARAMLLAPGAAVAAVGSRSEEKARLFAADNGL
+DvAtTRLHGSYEALLDDPDVDAVYLPLPTSLHVRWATAAAARGKHVLLEKPTALCAADLD
+AILAACDAAGVQFMDSTMWMHHPRTAKMREvVDDKDAIGDIKvINSVFSFRANEDFLQND
+IRVKPDLDALGALGDvGWYCIRAILWAVDYELPKTVIALRDPVKNRAGVLLACGATLYWA
+DGKTATFsCSFLTNLTMDITLVGTNGTLHVTDFVIPYEEKSAEFSVASKSNFAELHIGWD
+PLPSKHVVATDLPQEALMVQEFARLVQNIRDAGgKPEGKWPAITRKTQVVLDAVKASIDK
+GSEPVEVAS
+
+================================================================================

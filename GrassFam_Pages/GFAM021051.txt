@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM021051
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             414.0 aa
+Family Size (Extended Family Size): 46 (64) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31081:SF21
+Panther Family ID:               PTHR31081
+Modal Panther ID:                PTHR31081:SF21
+Modal Panther Description:       UREIDE PERMEASE
+Modal Panther Family ID:         PTHR31081
+Modal Panther Fam Desc:          UREIDE PERMEASE 1-RELATED-RELATED
+Interpro Signature Accession:    PTHR31081; PF07168
+Interpro Signature Description:  UREIDE PERMEASE 1-RELATED-RELATED; Ureide permease
+
+
+REXdb Match:                     False
+REXdb Percentage:                2.17%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi04
+  Gene Products: ureide permease 1; ureide permease 1%2C transcript variant X1
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu05H
+  Gene Products: ureide permease 1-like; ureide permease 1-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: ureide permease 1
+Tae
+  Gene count: 7
+  Modal chromosome: Tae05B
+  Gene Products: ureide permease 1-like; ureide permease 1-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl12
+  Gene Products: ureide permease 2-like%2C transcript variant X1
+  Gene Descriptions: ureide permease 2-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa12
+  Gene Products: ureide permease 1-like%2C transcript variant X4; ureide permease 2%2C transcript variant X2
+  Gene Descriptions: ureide permease 1-like; ureide permease 2
+Ecu
+  Gene count: 6
+  Modal chromosome: Ecu06
+Pau
+  Gene count: 2
+  Modal chromosome: Pau22
+  Gene Products: ureide permease 1-like; ureide permease 2-like%2C transcript variant X2
+  Gene Descriptions: ureide permease 1-like; ureide permease 2-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 8
+  Modal chromosome: Pvi03K
+  Gene Products: ureide permease 1-like; ureide permease 1-like%2C transcript variant X1; ureide permease 1-like%2C transcript variant X2; ureide permease 1-like%2C transcript variant X6; ureide permease 2-like
+Pha
+  Gene count: 3
+  Modal chromosome: Pha03
+  Gene Products: ureide permease 1-like; ureide permease 1-like%2C transcript variant X1; ureide permease 2-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi14
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi08
+  Gene Products: ureide permease 1; ureide permease 1-like%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: uncharacterized LOC100502471
+  Gene Synonyms: GRMZM2G091891
+  Gene Descriptions: uncharacterized LOC100502471
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 444 aa
+
+MDHVLACASSLVPCQEVvEGPLLNSLLSIKQGLKMFIIEDKGGAIAlMlASLLFLGTWPA
+VLTLLERRGRLPQHTYLDYSITNLLAAVLIALTFGQLGDSKhNMPNFFTQLSQDNWPSVL
+FAMAGGVVLSIGNLSTQYAWAYVGLSVTEVISSSMVVVIGTTLNYFLDNRINRAEILFTG
+VACFLVAVILGSAVHASNAADNEEKLSgSTNtYKLGtNGsvEPsKqVIDKDAPKDlENGA
+SAAkyaTKAEAGTAEYLIELEERRSIKVFGSSTFIGLGIVFFSGVCFSLFSPAFNLATND
+QWHTLKDGVPHLVVYTAFFYFSISCFVIGIGLNILFLYRPMAGVPKSSFKAYLNDWEGRQ
+WALLAGFLCGFGNGFQFMGGQAAGYAAADAVQALPLVSTFWGILLFGEYRKSSRKTYILL
+gFMLLMFIAAVATLMASSGHRSTK
+
+
+BOP CONSENSUS:
+Length: 409 aa
+
+MFIIEDKGGAIALMCASLLFLGTWPAVLTLLERRGRLPQHTYLDYSITNLLAAVLIALTF
+GQLGDSKHNMPNFFTQLSQDNWPSVLFAMAGGVVLSIGNLSTQYAWAYVGLSVTEVISSS
+MVVVIGTTLNYFLDNRINRAEILFTGVACFLVAVILGSAVHASNAADNEEKLSESTNtYK
+LGTnGGTEPgKQVIDKDAPKDmENGASAEYATKAEAGTAEYLIELEERRSIKVFGSSTFI
+GLGIVFFSGVCFSLFSPAiNLATNDQWHTLKDGVPHLVVYTAFFYFSISCFVIGIGLNIL
+FLYRPMAGVPKSSFKAYLNDWEGRQWALLAGFLCGFGNGFQFMGGQAAGYAAADAVQALP
+LVSTFWGILLFGEYRKSSKKTYTLLVFMLLMFIAAVATLMASAGHRSTK
+
+
+PACMAD CONSENSUS:
+Length: 441 aa
+
+MDHVLACASSPLTCHkVLEgPLLSSLSSVRaGLTMYvIEDKGGAIAlMLASLLFLGTWPA
+VLTLLERRGRLPQHTYLDYSITNLLAAVLIALTFGQLGDSKDGMPNFFTQLSQDNWPSVL
+FAMAGGVVLSVGNLSTQYAWAYVGLSVTEVISSSMVVVIGTTLNYFLDNRINRAEILFpG
+VACFLVAVILGSAVHASNAADNEEKLNASNKLGtNGSVEPSKGvpDKDAPKDLENGASGT
+KHVTKAEAGTAEYLIELEERRSIKVFGSSTFIGLGIVFFSGVCFSLFSPAFNLATNDQWH
+TLKDGVPHLVVYTAFFYFSISCFVIGIGLNILFLYRPMAGVPKSSFKAYLNDWNGRQWAL
+LAGLLCGFGNGFQFMGGQAAGYAAADAVQALPLVSTFWGILLFGEYRKSSRKTYILLGFM
+LFMFIAAVATLMASSGHRSTK
+
+================================================================================

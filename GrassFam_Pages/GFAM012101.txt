@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM012101
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             383.0 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR11006
+Modal Panther ID:                PTHR11006:SF107
+Modal Panther Description:       METHYLTRANSFERASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR11006
+Modal Panther Fam Desc:          PROTEIN ARGININE N-METHYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:3.40.50.150:FF:000116; G3DSA:2.70.160.11:FF:000001; G3DSA:2.70.160.11; G3DSA:3.40.50.150; PTHR11006; PF22528; SSF53335
+Interpro Signature Description:  probable protein arginine N-methyltransferase 1; Blast:Protein arginine N-methyltransferase 1; -; Vaccinia Virus protein VP39; PROTEIN ARGININE N-METHYLTRANSFERASE; Arginine methyltransferase oligomerization subdomain; S-adenosyl-L-methionine-dependent methyltransferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: probable protein arginine N-methyltransferase 1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: probable protein arginine N-methyltransferase 1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: probable protein arginine N-methyltransferase 1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: probable protein arginine N-methyltransferase 1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: probable protein arginine N-methyltransferase 1
+  Gene Descriptions: probable protein arginine N-methyltransferase 1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: probable protein arginine N-methyltransferase 1
+  Gene Synonyms: OsJ_027926,PRMT1
+  Gene Descriptions: probable protein arginine N-methyltransferase 1
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: probable protein arginine N-methyltransferase 1; probable protein arginine N-methyltransferase 1%2C transcript variant X1
+  Gene Descriptions: probable protein arginine N-methyltransferase 1
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: probable protein arginine N-methyltransferase 1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: probable protein arginine N-methyltransferase 1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: probable protein arginine N-methyltransferase 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: uncharacterized LOC100283446
+  Gene Synonyms: GRMZM2G003038,uaz7c01c10
+  Gene Descriptions: uncharacterized LOC100283446
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 384 aa
+
+MDRRKGGsRDANGGLAEATASRLRFEddeEAAEEVGMEVEESPDAEGEEqAaEEVIGSDK
+TSADYYFDSYSHFGIHEEMLKDVVRTKSYQNVITQNSFLFKDKIVLDVGAGTGILSLFCA
+KAGAKHVYAIECSQMADMAKEIVKtNGYSdVITVIKGKVEEIELPVPKVDVIISEWMGYF
+LLFENMLNTVLYARDKWLADDGVVLPDKASLHLTAIEDAEYKEDKIEFWNNVYGFDMSCI
+KKQAMMEPLVDTVDANQIVTNCQLLKTMDISKMTPGDASFTVPFKLVAERNDYIHALVAY
+FNVSFTKCHKLMGFSTGPRSKATHWKQTVLYLEDVvTICEGETLsGSMTVAPNKKNPRDI
+DIKLKYSINGHRCQVSRTQhYKMR
+
+
+BOP CONSENSUS:
+Length: 382 aa
+
+MDRRKGSGSRDANGGLAEATASRLRFEDADEVAGEVGMEVEESPAAAAAgEEVIGNDKTS
+ADYYFDSYSHFGIHEEMLKDVVRTRSYQNVITQNNFLFKDKIVLDVGAGTGILSLFCAKA
+GAKHVYAIECSQMADMAKEIVKTNGFSEVITVIKGKVEEIELPVPKVDVIISEWMGYFLL
+FENMLDTVLFARDKWLADDGVVLPDKASLHLTAIEDAEYKEDKIEFWNNVYGFDMSCIKK
+QAMMEPLVDTVDQNQIVTNCQLLKTMDISKMSSGDASFTVPFKLVAERNDFIHALVAYFN
+VSFTKCHKLMGFSTGPRSKSTHWKQTVLYLEDVVTICEGETLSGSMTVANNKKNPRDIDI
+TLKYAINGNRCKVSRTQHYKMR
+
+
+PACMAD CONSENSUS:
+Length: 384 aa
+
+MDRRKGGNRDANGGLAEATASRLRFDSDEEAEEVGMEVEESPDAEGEEEQAAAEVIGSDK
+TSADYYFDSYSHFGIHEEMLKDVVRTKTYQNVITQNSFLIKDKIVLDVGAGTGILSLFCA
+KAGAKHVYAIECSQMADMAKEIVKANGYSDVITVIKGKVEEIELPVPKVDVIISEWMGYF
+LLFENMLNTVLYARDKWLADGGVVLPDKASLHLTAIEDAEYKEDKIEFWNNVYGFDMSCI
+KKQAMMEPLVDTVDANQIVTNCQLLKTMDISKMTPGDASFTVPFKLVAERNDYIHALVAY
+FDVSFTKCHKLMGFSTGPRSKATHWKQTVLYLEDVITICEGETLTGSMTVTPNKKNPRDI
+DIKLKYSINGHRCQVSRTQFYKMR
+
+================================================================================

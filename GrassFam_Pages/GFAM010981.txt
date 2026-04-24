@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM010981
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             517.0 aa
+Family Size (Extended Family Size): 25 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10625:SF22
+Panther Family ID:               PTHR10625
+Modal Panther ID:                PTHR10625:SF22
+Modal Panther Description:       HISTONE DEACETYLASE 2
+Modal Panther Family ID:         PTHR10625
+Modal Panther Fam Desc:          HISTONE DEACETYLASE HDAC1-RELATED
+Interpro Signature Accession:    G3DSA:3.40.800.20:FF:000001; G3DSA:3.40.800.20; PTHR10625; PIRSF037913; PR01271; PF00850; SSF52768
+Interpro Signature Description:  Histone deacetylase; Histone deacetylase domain; HISTONE DEACETYLASE HDAC1-RELATED; HDAC_I_euk; Histone deacetylase signature; Arginase/deacetylase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: probable histone deacetylase 19
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: probable histone deacetylase 19
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: probable histone deacetylase 19%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: probable histone deacetylase 19%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl02
+  Gene Products: histone deacetylase 2%2C transcript variant X1; histone deacetylase 3%2C transcript variant X1
+  Gene Descriptions: histone deacetylase 2; histone deacetylase 3
+Osa
+  Gene count: 2
+  Modal chromosome: Osa02
+  Gene Products: histone deacetylase 2-like%2C transcript variant X1; histone deacetylase 3-like
+  Gene Synonyms: HDA703,HDAC3,OJ1006_D05.27-1,OJ1006_D05.27-2,OsHDAC3
+  Gene Descriptions: histone deacetylase 2-like; histone deacetylase 3-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: probable histone deacetylase 19%2C transcript variant X1; probable histone deacetylase 19%2C transcript variant X7
+  Gene Descriptions: probable histone deacetylase 19
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi01K
+  Gene Products: probable histone deacetylase 19; probable histone deacetylase 19%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: probable histone deacetylase 19
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: probable histone deacetylase 19%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma04
+  Gene Products: histone deacetylase HDA101%2C transcript variant X1; uncharacterized LOC100193206
+  Gene Synonyms: GRMZM2G163572; GRMZM2G172883,hda101,rpd3
+  Gene Descriptions: histone deacetylase HDA101; uncharacterized LOC100193206
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 517 aa
+
+MDPSSAGSGGNSLPSVGPDGQKRRVCYFYDPEVGNYYYGQGHPMKPHRIRMTHSLLARYG
+LLnQMQVLRPNPARDRDLCRFHADDYInFLRSVTPETQQDQIRaLKRFNVGEDCPVFDGL
+YSFCQTYAGASVGGAVKLNHGHDIAINWSGGLHHAKKCEASGFCYVNDIVLAILELLKHH
+ERVLYVDIDIHHGDGVEEAFYTTDRVMTVSFHKFGDYFPGTGDIRDIGHSKGKYYSLNVP
+LDDGIDDESYQSLFKPIMGKVMEVFRPGAVVLQCGADSLSGDRLGCFNLSIRGHAECVKY
+MRSFNVPLLLLGGGGYTIRNVARCWCYETGVALGQELEDKMPVNEYYEYFGPDYTLHVAP
+SNMENKNTRhQLDDIRSKLLDNLSKLRHAPSVQFQERpPDTELPEPDEDQEDPDERHDPD
+SDMElDDHKPvEeSARRSIlGIRVKREFgENETKdQDGsRVTSEHRGlEPMAEDIGSSKQ
+APQADANAMAVDEPGNVKNEPESSTKLPDQPAmYHKP
+
+
+BOP CONSENSUS:
+Length: 507 aa
+
+MDPSSAGAGGNSLPSVGPDGQKRRVCYFYDPEVGNYYYGQGHPMKPHRIRMTHSLLAQYG
+LLDQMQVLRPNPARDRDLCRFHADDYISFLRSVTPETQQDQIRALKRFNVGEDCPVFDGL
+YSFCQTYAGASVGGAVKLNHGHDIAINWSGGLHHAKKCEASGFCYVNDIVLAILELLKHH
+QRVLYVDIDIHHGDGVEEAFYTTDRVMTVSFHKFGDYFPGTGDVRDIGHSKGKYYSLNVP
+LDDGIDDESYQSLFKPIMAKVMEVFRPGAVVLQCGADSLSGDRLGCFNLSIRGHAECVKY
+MRSFNVPLLLLGGGGYTIRNVARCWCYETGVALGQELEDKMPvNEYYEYFGPDYTLHVAP
+SNMENKNTryQLDnIRtKLLDNLSKLRHAPSVQFQERPPDTELPEPDEDQEDQDERHDPD
+SDMELDYHTPLEDSARRsTIQGtRVKRESAGtETKDQDGsRVTtEHRGPEPMAEDiGPSK
+QAPtvDANAMAVDEPGNVKTESGSSTK
+
+
+PACMAD CONSENSUS:
+Length: 517 aa
+
+MDPSSAGSGGNSLPSVGPDGQKRRVCYFYDPEVGNYYYGQGHPMKPHRIRMTHSLLARYG
+LLNQMQVYRPNPARDRDLCRFHADDYINFLRSVTPETQQDQIRLLKRFNVGEDCPVFDGL
+YSFCQTYAGASVGGAVKLNHGHDIAINWSGGLHHAKKCEASGFCYVNDIVLAILELLKHH
+ERVLYVDIDIHHGDGVEEAFYTTDRVMTVSFHKFGDYFPGTGDIRDIGHSKGKYYSLNVP
+LDDGIDDESYQSLFKPIMGKVMEVFRPGAVVLQCGADSLSGDRLGCFNLSIRGHAECVKY
+MRSFNVPLLLLGGGGYTIRNVARCWCYETGVALGQELEDKMPVNEYYEYFGPDYTLHVAP
+SNMENKNTRhQLDDIRSKLLDNLSKLRHAPSVQFQERvPDTELPEPDEDQdDPDERHDPD
+SDMEVDDHKAVEESTRRSILGIRVKREFGENETKVQDGgRVTSEHRGLEPMAEDIGSSKQ
+APQADANAMAIDEPGNVKNEPESSTKLPDQPAMYHKP
+
+================================================================================

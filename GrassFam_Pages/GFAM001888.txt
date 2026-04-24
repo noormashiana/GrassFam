@@ -1,0 +1,126 @@
+================================================================================
+GrassFam ID: GFAM001888
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             618.0 aa
+Family Size (Extended Family Size): 20 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR27009:SF363
+Panther Family ID:               PTHR27009
+Modal Panther ID:                PTHR27009:SF363
+Modal Panther Description:       PROTEIN KINASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR27009
+Modal Panther Fam Desc:          RUST RESISTANCE KINASE LR10-RELATED
+Interpro Signature Accession:    cd14066; G3DSA:3.30.200.20:FF:000059; G3DSA:1.10.510.10:FF:000590; G3DSA:3.30.200.20; G3DSA:1.10.510.10; PTHR27009; PF00069; SM00220; SSF56112
+Interpro Signature Description:  STKc_IRAK; S-receptor-like serine/threonine-protein kinase; PR5-like receptor kinase; Phosphorylase Kinase; domain 1; Transferase(Phosphotransferase) domain 1; RUST RESISTANCE KINASE LR10-RELATED; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: rust resistance kinase Lr10%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: rust resistance kinase Lr10-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata03D
+  Gene Products: rust resistance kinase Lr10; rust resistance kinase Lr10-like
+Tae
+  Gene count: 7
+  Modal chromosome: Tae03D
+  Gene Products: rust resistance kinase Lr10-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: rust resistance kinase Lr10
+  Gene Descriptions: rust resistance kinase Lr10
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi05N
+  Gene Products: rust resistance kinase Lr10-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: rust resistance kinase Lr10-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: rust resistance kinase Lr10-like
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: rust resistance kinase Lr10
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 620 aa
+
+MFnALVVALLFSvLNYGINRATASSDGDFFqNCPPSRCSEGGTEIRFPFRLATSPpSCGA
+PGMELaCSrEADTILLHPILGLCKVTAIDYRyGtLNVIPLEESWTRCPLQKISsTNLSTS
+VYIPYGGEtAtLVRCSRELIPtEKAGTRPGmGDSIVGPISCLSNTSQFiYLMdGsEPMyI
+LPLDCTVVSNGIStPyDYDIksavLFnERAKRVIAFGETTLTWSVPNITNIClDCErNGH
+pCGFSSQRRQAFCKrQGSRVKVIAATSSVATFVVLLLTAATALYRSLKSKVDEEVRLKIE
+MFLKAYGTSKPTRYTFSEVKKiTRRFKDKLGQGGFGSVYKGQLANGVPVAVKMLENSKSe
+GEEFMNEVATIGRIHHANVVRLLGFCSEGTRRALIYEFMPNGSLEKYIFAQESDiCRELL
+APNKMLEIASGIARGIEYLHQGCNQRILHFDIKPHNILLDYSFSPKISDFGLAKLCARDH
+SIVTLTAARGTMGYIAPELYSRNFGRISSKSDVYSFGMLVLEMVSGRRNSDPWIENQNEV
+YIPEWIYEKISTGQELESsREMTQEEKDTVRKLAIVALWCIQWNPKNRPSMtKVLNMLTG
+TLQSLTMPPKPFVSSPGHQI
+
+
+BOP CONSENSUS:
+Length: 625 aa
+
+MFEALVVALLFSVLNYGINRATASGDGDFFHNCPPSRCSEGGTEIRFPFRLATSPQSCGA
+PGLELACSREADTILLHPILGLCKVTAIDYrFGgLNVIPLEESWTRCPLQKISTTNLSTS
+VYIPDSYGGETAiLVRCSRELIPtEKAGTRPGmGDSIVGPISCLSNTSQFiYLMDGSEPM
+YILPLDCTVVSNGIsTPwDYDIKsavLFTERARRVIAFGETTLTWSVPNITDICLDCERN
+GHPCGFSSQRRQAFCKRQGSRVKVIAATSSVATFVVLLLTAATALYRSLKSKVDEEVRLK
+IEMFLKAYGTSKPTRYTFSEVKKVTRRFKDKLGQGGFGSVYKGQLANGVPVAVKMLENSK
+SDGEEFMNEVATIGRIHHANVVRLLGFCSDGTRRALIYEFMPNGSLEKYIFAqESDICRE
+LLAPNKMLEIASGIARGIEYLHQGCNQRILHFDIKPHNILLDYSFSPKISDFGLAKLCTR
+DHSIVTLTAARGTMGYIAPELYSRNFGRISSKSDVYSFGMLVLEMVSGRRNSDPWIENQN
+EVYIPEWIYEKISTEQELESSREMTQEEKDTVRKLAIVALWCIQWNPKNRPSMPKVLNML
+TGTLQSLTMPPKPFVSSPGHPMPQI
+
+
+PACMAD CONSENSUS:
+Length: 609 aa
+
+MSNAlAVALVLSSLNYGITMATASSDESFFQKCPASSCSEGGPEIRFPFRLvTSPLSCGA
+PGMELVCSKADTILVHPNLGLCKVIAIEYRysTIiIVPLAeSKCPFQKIISTNLSTDVYR
+PYGDrATLVSCStEFRPSnqAsvAGPISCLsNTSQFtYLVsSFQSMDFLPLDCMVLSNSI
+SIPYPsnNNMdFNETAKGTIAFGETMLRWSVPNITNVCQnCEdEGRLCGFrSETRQAFCK
+SKKHSSHLKVIAVTTPVATlLVvSAMAAAALYLALKSKYDEEIHmKVEMFLnTYSTSKPT
+RYTFSEVKKITRRFNNkLGQGGFGSVYKGELSNGVPVAVKMLENSTGEGEEFINEVATIG
+TIHHANVVRLLGFCSErSRRALIYEFMPNASLEKYIFSQeSDTSGQEkLTPNKMLEIATG
+IARGIEYLHQGCNQRILHFDIKPSNILLDYNFKPKISDFGLAKLCARDQSIVTLTAARGT
+MGYIAPELYSRNFGTVSYKSDVYSFGMVVLEMMSGKRRSMyPqTENQNDVYIPEWIYEKI
+VTGQELELiREMTQGEKDIMRKLAIVALWCIQWNPANRPSMTKVVNMLTDSLQSLKMPPK
+PFVSSFGQQ
+
+================================================================================

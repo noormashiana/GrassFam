@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM019626
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             535.5 aa
+Family Size (Extended Family Size): 26 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12174:SF90
+Panther Family ID:               PTHR12174
+Modal Panther ID:                PTHR12174:SF90
+Modal Panther Description:       SIGNAL PEPTIDE PEPTIDASE-LIKE 3
+Modal Panther Family ID:         PTHR12174
+Modal Panther Fam Desc:          SIGNAL PEPTIDE PEPTIDASE
+Interpro Signature Accession:    cd02132; G3DSA:3.50.30.30:FF:000007; G3DSA:3.50.30.30; PTHR12174; PF04258; SM00730
+Interpro Signature Description:  PA_GO-like; Signal peptide peptidase-like 3; -; SIGNAL PEPTIDE PEPTIDASE; Signal peptide peptidase; psh_8
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: signal peptide peptidase-like 2
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: signal peptide peptidase-like 2
+Ata
+  Gene count: 2
+  Modal chromosome: Ata07D
+  Gene Products: signal peptide peptidase-like 2; signal peptide peptidase-like 2%2C transcript variant X2
+Tae
+  Gene count: 6
+  Modal chromosome: Tae04A
+  Gene Products: signal peptide peptidase-like 2%2C transcript variant X1; signal peptide peptidase-like 2%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola11
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: signal peptide peptidase-like 2
+  Gene Descriptions: signal peptide peptidase-like 2
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: signal peptide peptidase-like 2
+  Gene Synonyms: OsJ_33780,OsSPPL2,SPPL2
+  Gene Descriptions: signal peptide peptidase-like 2
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 2
+  Modal chromosome: Pau12
+  Gene Products: signal peptide peptidase-like 2%2C transcript variant X1
+  Gene Descriptions: signal peptide peptidase-like 2
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi08K
+  Gene Products: signal peptide peptidase-like 2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: signal peptide peptidase-like 2%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: signal peptide peptidase-like 2%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: Signal peptide peptidase-like 3%2C transcript variant X1
+  Gene Synonyms: GRMZM2G082330
+  Gene Descriptions: Signal peptide peptidase-like 3
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 536 aa
+
+MATpRRrsLLPfAAAAlLLVLLLAGGAAADDASSDDDAGapRTPGCSNKFQLVKVKNWVN
+GTEGTTVVGLSARFGAPLPRDIHEAQKTFAVLANPfDCCSNLTSKLTNSVALATRGECAF
+TAKAktAQAGGAaGLLVINDNEELYKMVCSENDTSINVTIPVVMIPQSAGKKLKDFLDHG
+ASVEVQLYSPNRPVVDLSACFLWIMAVGTIVCASLWTEFVACEQVDERYNQLTRKDGPNS
+GTNYREDKEIFEISAKGAIVFIIVASVFLLLLFYFMSSWFVWVLIVLFCIGGIEGMHVCL
+VTLLsRIFKDCGQKTVQLPFLGEVLtLSVGIVPFCvVFAILWAVYRHASFAWIGQDILGI
+CLMITVLQMARLPNIRVASALLSAAFVYDIFWVFISPLIFHESVMIAVARGDNSGESIPM
+LLRIPRFFDPWGGYDMIGFGDIIFPGLLVAFSYRFDRASKKGILNGYFLWLTVGYAVGLF
+LTYLALFLMDGHGQPALLYLVPCTLGVIVILGWiRGELHDLWNYGRSRtENLVDEP
+
+
+BOP CONSENSUS:
+Length: 534 aa
+
+MAIhRRRELLLPALAAvLLLLLLAGrAAADDASSDDRGHDASPGCSNKFQLVKVKNWVNG
+TEGTTVVGLSARFGAsLPRTIhEAQRTFAALTNPpDCCSNSTSKLTNSIALAaRGGCPFT
+AKAEFAQAAGAAGLvIINDDEELYKMVCGDNDTSINVTIPVVMIPHSAGKNLKDLLDHGA
+RVEVQLYSPNRPVVDLSACFLWIMAVGTIVCASLWSEFVACEQIDErYNQLTRQPGPNSG
+TNNTQDKEILEITAKGAGVFIIVASVFLLLLFYFMSSWvAWLLIVLFCIGGIEGMHVCLV
+TIISRIfKDWGNNTVQLPFYGEVLALSVGIVPFCTVFAILWAVYRHSSFAWIGQDILGIC
+LMITVLQMARLPNIRVASALLSAAFVYDIFWVFISPLIFHESVMIAVASGDsSGEAIPML
+LRIPRFFDPWGGYDMIGFGDIIFPGLLVAFSYRFDRAGKKGILNGYFLWLTVGYAVGLFL
+TYLALFLMDGHGQPALLYLVPCTLGvIVVLGWIRGELPHLWNYGRRPENsVGEV
+
+
+PACMAD CONSENSUS:
+Length: 535 aa
+
+MATdRRASRLPFAAALLLVLLLAGGAAADDASSDDDAGtpRTPGCSNKFQLVKVKNWVNG
+TEGTTVVGLSARFGAPLPRDIHEAQKSFAVLANPFDCCSNLTSKLTNSVALATRGECAFT
+AKAKTAQAGGAtGLLVINDNEELYKMVCSENDTSINVTIPVVMIPQSAGKKLKDFLDHGA
+SVEVQLYSPNRPvVDLSACFLWIMAVGTIVCASLWTEFVACEQVDERYNQLTRKDGPNTG
+TNYREDKEIFEISAKGAIVFIIVASVFLLLLFYFMSSWFVWVLIVLFCIGGIEGMHVCLV
+TLLARIFKDCGQKTVQLPFLGEVLILSVGIVPFCVVFAILWAVYRHASFAWIGQDVLGIC
+LMITVLQMARLPNIRVASALLSAAFVYDIFWVFISPLIFHESVMIAVARGDNTGESIPML
+LRIPRFFDPWGGYDMIGFGDIIFPGLLVAFSYRFDRASKKGILNGYFLWLTVGYAVGLFL
+TYLALFLMDGHGQPALLYLVPCTLGVIVILGWLRGELHDLWNYGKsRTENLVDEP
+
+================================================================================

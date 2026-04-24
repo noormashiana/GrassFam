@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM006906
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             459.0 aa
+Family Size (Extended Family Size): 21 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11879:SF57
+Panther Family ID:               PTHR11879
+Modal Panther ID:                PTHR11879:SF57
+Modal Panther Description:       ASPARTATE AMINOTRANSFERASE 3, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR11879
+Modal Panther Fam Desc:          ASPARTATE AMINOTRANSFERASE
+Interpro Signature Accession:    cd00609; G3DSA:3.90.1150.10:FF:000001; G3DSA:3.40.640.10:FF:000052; G3DSA:3.90.1150.10; G3DSA:3.40.640.10; NF006719; PTHR11879; PR00799; PF00155; SSF53383
+Interpro Signature Description:  AAT_like; Aspartate aminotransferase; Aspartate Aminotransferase, domain 1; -; aromatic amino acid transaminase; ASPARTATE AMINOTRANSFERASE; Aspartate aminotransferase signature; Aminotransferase class I and II; PLP-dependent transferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: aspartate aminotransferase%2C cytoplasmic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: aspartate aminotransferase%2C cytoplasmic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: aspartate aminotransferase%2C cytoplasmic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: aspartate aminotransferase%2C cytoplasmic; aspartate aminotransferase%2C cytoplasmic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: aspartate aminotransferase%2C cytoplasmic
+  Gene Descriptions: aspartate aminotransferase%2C cytoplasmic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: aspartate aminotransferase%2C cytoplasmic-like
+  Gene Descriptions: aspartate aminotransferase%2C cytoplasmic-like
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: aspartate aminotransferase%2C cytoplasmic; aspartate aminotransferase%2C cytoplasmic-like
+  Gene Descriptions: aspartate aminotransferase%2C cytoplasmic; aspartate aminotransferase%2C cytoplasmic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: aspartate aminotransferase%2C cytoplasmic; aspartate aminotransferase%2C cytoplasmic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: aspartate aminotransferase%2C cytoplasmic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: aspartate aminotransferase%2C cytoplasmic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: uncharacterized LOC100273311
+  Gene Synonyms: GRMZM2G094712,pco118382
+  Gene Descriptions: uncharacterized LOC100273311
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 457 aa
+
+MaPANVRAAQaPSADRRLSTLVRHLLPSSPRRtAATADtsATLESFPTMASQGSSVFAGl
+AQAPEDPILGVTVAYNKDPSPVKVNLGVGAYRTEEGKPLVLNVVRRAEQMLINNPSRVKE
+YLPITGLAEFNKLSAKLIFGADSPAIQENRVATVQCLSGTGSLRVGGEFLARHYHERTIY
+IPQPTWGNHPKVFTLAGLTVRSYRYYDPATRGLDFqGLLEDLSSAPSGAIVLLHACAHNP
+TGVDPTLDQWEQIRQLMRSKSLLPFFDSAYQGFASGSLDKDAQSVRMFVADGGELLMAQS
+YAKNMGLYGERVGALSIVCGSADVAVRVESQLKLVIRPMYSNPPLHGASIVATILKDSEM
+FNEWTvELKAMADRIISMRQQLFDALKsRGTPGDWSHIIKQIGMFTFTGLNSEQVAFMRQ
+EYHIYMTSDGRISMAGLSsRTVPHLADAIHAAVTKLK
+
+
+BOP CONSENSUS:
+Length: 455 aa
+
+MPTANVRAAQPSADRRLSTLVRHLLPSSPRTSAATATSADSSLQPFPTMASPSVFAGIAQ
+GPEDPILGVTVAYNKDPSPVKVNLGVGAYRTEEGKPLVLNVVRRAEQMLIqNESRVKEYL
+PITGLADFNKLSAKLIFGADSPAIQENRVATVQCLSGTGSLRVGGEFLARHYHERTIYIP
+QPTWGNHPKVFTLAGLTVRSYRYYDPATRGLDFQGLLEDLSSAPSGAIVLLHACAHNPTG
+VDPTLEQWEQIRQLMRSKALLPFFDSAYQGFASGSLDKDAQSVRMFVADGGELLMAQSYA
+KNMGLYGERVGALSIVCGSADVAVKVESQLKLVIRPMYSNPPLHGASIVATILKDSAMFD
+EWTlELKAMADRIISMRQQLFNALKIRETPGDWSHIIKQIGMFTFTGLNSDQVAFMRQEY
+HIYMTSDGRISMAGLSSRTVPHLADAIHAAVTKLK
+
+
+PACMAD CONSENSUS:
+Length: 459 aa
+
+MAPANVRAAQAQaPSADRRLSTLVRHLLPSSPRRTAAAADTSATLESFPTMASQGSSVFA
+ALAQAPEDPILGVTVAYNKDPSPVKVNLGVGAYRTEEGKPLVLNVVRRAEQMLINNPSRV
+KEYLPITGLAEFNKLSAKLIFGADSPAIQENRVATVQCLSGTGSLRVGGEFLARHYHERT
+IYIPQPTWGNHPKVFTLSGLTVRSYRYYDPATRGLDFKGLLEDLSSAPSGSIVLLHACAH
+NPTGVDPTIDQWEQIRQLMRSKSLLPFFDSAYQGFASGSLDKDAQSVRMFVADGGELLMA
+QSYAKNMGLYGERVGALSIVCGSADVAVRVESQLKLVIRPMYSNPPLHGASIVATILRDS
+EMFNEWTVELKAMADRIISMRQQLFDALKSRGTPGDWSHIIKQIGMFTFTGLNSEQVAFM
+RQEYHIYMTSDGRISMAGLSMRTVPHLADAIHAAVTQLK
+
+================================================================================

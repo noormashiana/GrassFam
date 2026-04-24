@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM007712
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             441.0 aa
+Family Size (Extended Family Size): 24 (27) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11073:SF53
+Panther Family ID:               PTHR11073
+Modal Panther ID:                PTHR11073:SF53
+Modal Panther Description:       CALRETICULIN
+Modal Panther Family ID:         PTHR11073
+Modal Panther Fam Desc:          CALRETICULIN AND CALNEXIN
+Interpro Signature Accession:    G3DSA:2.10.250.10:FF:000002; G3DSA:2.60.120.200:FF:000339; G3DSA:2.60.120.200:FF:000018; G3DSA:2.10.250.10; G3DSA:2.60.120.200; PTHR11073; PIRSF002356; PR00626; PF00262; SSF49899; SSF63887
+Interpro Signature Description:  Calreticulin; Calreticulin 3; Calreticulin 1b; Calreticulin/calnexin, P domain; -; CALRETICULIN AND CALNEXIN; Calreticulin signature; Calreticulin family; Concanavalin A-like lectins/glucanases; P-domain of calnexin/calreticulin
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: calreticulin
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: calreticulin-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: calreticulin
+Tae
+  Gene count: 4
+  Modal chromosome: Tae05B
+  Gene Products: calreticulin-like; calreticulin-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: calreticulin-like
+  Gene Descriptions: calreticulin-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: calreticulin-like%2C transcript variant X1
+  Gene Descriptions: calreticulin-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau03
+  Gene Products: calreticulin-like
+  Gene Descriptions: calreticulin-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: calreticulin-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: calreticulin-like%2C transcript variant X1
+Msi
+  Gene count: 4
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: calreticulin-like%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 443 aa
+
+MAVLeRSSSAAAVAALIALASVAAVAGEVFFQEKFDDGWEDRWVKSEWKKDDNTAGEWNH
+TSGKWNGDADDKGIQTSEDYRFYAISAQYPEFSNKDKTLVLQFSVKHEQKLDCGGGYVKL
+LGGDVDQKKFGGETPYSIMFGPDICGYATKKVHAILTKNGKNHLIKKEVPCETDQLTHVY
+TLIIRPDATYSILIDNvEKQSGSIYDDWDILPPKKIRDPEAKKPEDWDDKEYIPDPEDKK
+PEGYDDIPKEITDPDAKKPEDWDDEEDGEWTAPTIPNPEYKGPWKQKKIKNPNYKGKWKA
+PLIDNPDFKDDPYIYAFDSLKHIGIELWQVKSGTLFDNILITDDPEYAKKFAEETWGKHK
+DAEKAAFDEAEKKRLEEESANtKDDDdDDADEDEDDADDDKADtAadEAKDSADAKpqKV
+SADEKpEEiSKDASAEEKKHDEL
+
+
+BOP CONSENSUS:
+Length: 434 aa
+
+MAVLARSAAAVAALAllALVSAVAGEVFFQEKFDDGWEDRWVKSEWKKEDNTAGEWNHTS
+GKWNGDADDKGIQTSEDYRFYAISAQYPEFSNKDKTLVLQFSVKHEQKLDCGGGYVKLLG
+ADVDQKKFGGETPYSIMFGPDICGYATKKVHAILTKNGKNHLIKKEVPCETDQLTHVYTL
+ILRPDATYSILIDNVEKQSGSVYDDWDILPAKKKRDPEAKKPEDWEDEEYIPDPEDKKPE
+GYDDIPKEITDPDATKPEDWDDEEDGEWTAPTIPNPEYKGPWiQKKIKNPNFKGKWKAPL
+IDNPEFKDDPYIYAFDSLKHIGIELWQVKSGTLFDNILITDDPEYAKKFAEETWGKHKDA
+EKAAFDEAEKKRLEEESANsKtDDNDDAaDEDEDDDGKAagaSDqTKEKPQdASaDEKVE
+EISKDASSDKKDEL
+
+
+PACMAD CONSENSUS:
+Length: 448 aa
+
+MAVLERSSSPAAAAVAALIALASVAgVAGEVFFQEKFDDGWEDRWVKSDWKKDDNTAGEW
+NHTSGKWNGDADDKGIQTSEDYRFYAISAQYPEFSNKDKTLVLQFSVKHEQKLDCGGGYV
+KLLGGDVDQKKFGGDTPYSIMFGPDICGYATKKVHAILTKNGKNHLIKKEVPCETDQLTH
+VYTLIIRPDATYSILIDNdEKQSGSIYDDWDILPPKKIKDPEAKKPEDWDDKEYIPDPED
+KKPEGYDDIPKEIPDPDAKKPEDWDDEEDGEWTAPTIPNPEYKGPWKQKKIKNPDYKGKW
+KAPLIDNPDYKDDPYIYAFDSLKHIGIELWQVKSGTLFDNILITDDPEYAKKFAEETWGK
+qKDAEKAAFDEAEKKRLEEESASTKDDDDDLDADEDEDDADDDKADTAAEEAKDSADAKP
+EDGKVAADEKPEEdSKDASAEEKKHDEL
+
+================================================================================

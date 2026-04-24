@@ -1,0 +1,113 @@
+================================================================================
+GrassFam ID: GFAM002007
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             552.0 aa
+Family Size (Extended Family Size): 11 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31225:SF217
+Panther Family ID:               PTHR31225
+Modal Panther ID:                PTHR31225:SF217
+Modal Panther Description:       TERPENE SYNTHASE METAL-BINDING DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR31225
+Modal Panther Fam Desc:          OS04G0344100 PROTEIN-RELATED
+Interpro Signature Accession:    cd00684; G3DSA:1.50.10.130:FF:000001; G3DSA:1.10.600.10:FF:000007; G3DSA:1.50.10.130; G3DSA:1.10.600.10; PTHR31225; PF03936; PF01397; SFLDG01019; SFLDS00005; SSF48576; SSF48239
+Interpro Signature Description:  Terpene_cyclase_plant_C1; Isoprene synthase, chloroplastic; -; Farnesyl Diphosphate Synthase; OS04G0344100 PROTEIN-RELATED; Terpene synthase family, metal binding domain; Terpene synthase, N-terminal domain; Terpene Cyclase Like 1 C Terminal Domain; Isoprenoid Synthase Type I; Terpenoid synthases; Terpenoid cyclases/Protein prenyltransferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu05H
+  Gene Products: alpha-copaene synthase-like; beta-eudesmol synthase-like
+Tae
+  Gene count: 1
+  Modal chromosome: Tae05B
+  Gene Products: alpha-copaene synthase-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: (-)-germacrene D synthase-like%2C transcript variant X1
+  Gene Descriptions: (-)-germacrene D synthase-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: alpha-copaene synthase
+  Gene Descriptions: alpha-copaene synthase
+Pau
+  Gene count: 1
+  Modal chromosome: Pau03
+  Gene Products: alpha-copaene synthase-like
+  Gene Descriptions: alpha-copaene synthase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: (+)-delta-cadinene synthase isozyme C2-like%2C transcript variant X1
+Msi
+  Gene count: 1
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: alpha-copaene synthase%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 553 aa
+
+MMGCRVIAQGYRVLDERRHAVDYRPSVWGDYFIKNPTLPHTYeKSLEWMtERRDvLInEA
+RkkLvglhDPLAEMKLIDALQRLGVSYHFKDEIdaSLqKLsSvEFdNEnFHeISLQFRLL
+RQeRYYMSCDVFQSFMDNQGNLKATLQSDVRALLALYEAAHLGTPNEQFLkeAQRqTTSL
+LKSMVDHLEKPLADKVRHALETPSFRRMKRLEARLYIPLYEEDKEECNEmLLELAKLDFY
+LLQrIHREEVKEICEWYHGLESPRKLFYARHRPAEAYFWALGVYYEPQYAKARKLLAKFI
+ATITPYDDTFDNYGiWEELQPFADVMQRWDMKEvEQLGECYKDYARFMFGTMIEIENALP
+KDIaRRNVNFIRdIINEVCKGYVTEIvWRDSKYIPPLEEHLKVTLVTCFYWAINCTAFVV
+FEENVTEEILKWMSKFPQIVKDSCIVSRLMDDIVAHEFETERNNVATAVTCYMKEYkTTK
+EEASEVLWNdVENAWKDMNKEYLTlTSIPSSLLIRVINLARMMETMYKeIDGYTDSAILK
+EWISLLLeQPItF
+
+
+BOP CONSENSUS:
+Length: 551 aa
+
+MAgRVIAQGYRVVDERRHEVDYRsSVWGDYFIRNPTLPHnyKSLEWMTERRDkLIlEaRd
+kLVvLCDPLAEMKMIDALQRLGVSYHFKEEIDnKLEkLsSvKFdnENFHkISLQFRLLRQ
+qRyYMSCDVFQSFMDNQGNLkATLQSDVRALLALYEAAHLGTPNEQFLKEAQRkTTSLLK
+SmVDHLEKPLADKVKHALETPSFRRMKRLEARLYIPLYQEDKEECNEMLLELAKLDFYLL
+QRLHREEVKEICEWYYGLESPRKLFYARHRPAEAYFWALGVYYEPQYAKARKLLAKFIAT
+ITPYDDTFDNYGvWEELQPFADVMQRWDMKevEQLGECYKdYARFMFGTMIEIEnALPKD
+IatRNVNvIKnIINEVCKGYVTEIVWRDSKYIPPLEEHLKVTLVTCFYWAINCTAFVVFE
+ENVTEEVLqWMSKFPQIVKDSCIVSRLMDDIVAHEFETERNNVATAVTCYMKEYgTTKEV
+ASEvLWnDVENAWKDMNKEYLtLTSIPSSLLIRVINLARMMETMYKKIDGYTDSAILKnW
+ISLLLEQPiTF
+
+
+PACMAD CONSENSUS:
+Length: 540 aa
+
+MAAAREVqSsSMGCRVIAQGYKVLDErRHAVDYRPSVWGDYFIKNPTLPHTYEKSLEWMK
+ERRDVLINEAKKvLTGKHDPMAEMKLVDAVQRLGISYHFQDEIHASLQKLKSMEFsNESF
+HEISLQFWLLRQERYYVSCDVFQSFMDNQQNLKvSLySDVRALLALYEAAHLGTPNEQFL
+IqAQRQTTSLLRSMVDHLEKPLADKVRHALQTPSFRRMKRLEARLYIPLYEEDKEDCNEL
+vLELAKLDFYLLQQIHREEVKEICEWYHGLESPRKLFYARHRPTEAYFWALGVYYEPQYA
+KARKLLAKFIATITPYDDTFDNYGIWEELQPFADVMQRWDMKEVEGLNGCYSDFARFMFG
+TMIEIENALPKDIGRRNVNFIRDIINEVCKGYVTEIGWRDSKYIPPFVVFEENVTEEILK
+WMSKFPQIVKDSCIISRLMDDIVAHEFETERNNVATAVTYMKEYKTTKEEASDVLWNSVE
+HAWKSMNHEYLTWTSIPSSLLIRVINLARMMETMYKEIDGYTDSKLLKEWISILLDQPIL
+
+================================================================================

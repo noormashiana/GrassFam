@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM015048
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             533.0 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31375:SF103
+Panther Family ID:               PTHR31375
+Modal Panther ID:                PTHR31375:SF103
+Modal Panther Description:       OS05G0578600 PROTEIN
+Modal Panther Family ID:         PTHR31375
+Modal Panther Fam Desc:          FAMILY NOT NAMED
+Interpro Signature Accession:    G3DSA:2.160.20.10:FF:000019; G3DSA:2.160.20.10; PTHR31375; PF00295; SSF51126
+Interpro Signature Description:  polygalacturonase At1g48100; -; Glycosyl hydrolases family 28; Pectin lyase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: polygalacturonase At1g48100-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: polygalacturonase At1g48100
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: polygalacturonase At1g48100-like; polygalacturonase At1g48100-like%2C transcript variant X1; polygalacturonase At1g48100-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: polygalacturonase At1g48100-like
+  Gene Descriptions: polygalacturonase At1g48100-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: polygalacturonase At1g48100
+  Gene Descriptions: polygalacturonase At1g48100
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau11
+  Gene Products: polygalacturonase At1g48100-like%2C transcript variant X2
+  Gene Descriptions: polygalacturonase At1g48100-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: polygalacturonase At1g48100-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: polygalacturonase At1g48100-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: polygalacturonase At1g48100
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: uncharacterized LOC100273736
+  Gene Synonyms: GRMZM2G002034
+  Gene Descriptions: uncharacterized LOC100273736
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 527 aa
+
+MRLgLKGLTFLLLLVLLVLCSsVhlCDARSGKHWRQNRAPSTSMLRRKGKGKSSgSHKQn
+GKGnQSPYQPSPSTPvSPSGSPVQGKGgQAPTMPsPsGGsGYTlPSPPPPLqPPPPPsPP
+AAPSQDTVFNVVDFGAKGDGVTDDTQAFEAAWAAACKVEASTVLVPSELEFVVGPISFSG
+PYCKPNILFQLDGTILAQTSARVWGSGLLQWLEFTKLTGIAIQGSGVINGRGQEWWTYSD
+PNDDDDdDAYnVELEKMPQIKPTALRFYGSSNVTVTGITIVNSSQCHLKFDSCQGVMVHD
+LTISSPENSPNTDGIHLQNSKeVNIHHTNLACGDDCVSIQTGCSDINIHNVNCGPGHGIS
+IGGLGRYNTKACVSNITVRDVNMFKTMTGVRIKTWQGGSGLVQGIRFSNIQVSEVQTPII
+IDQFYCDKTTCRNQTSAVAVSGVQYENIRGTFTIKPAHFACSDSSPCSEITLTGIQLKPL
+IVPQYHLYNPFCWQAFGELYTPTIPPISCLQIGKPAGNSVLSDgDLC
+
+
+BOP CONSENSUS:
+Length: 528 aa
+
+MgLMSKGLAVLLLvVLLALSSGVGFCDARSGKHWRQNRGPSTTMFRRKGKGKNGGGSPPH
+SHRQYGKGhQSPAMPAPPSPGGGNGHASPSPPPPLLPPQAPPvPRSPPPPLPPSLPPPEA
+PSQGtVFNVVAFGARGDGVTDDTQAFEAAWAAACKVEASTVLVPPELEFVVGPISFSGPN
+CKPNILFQLDGTISAKTGARAWGSGLLQWLEFTKLNGISIQGSGVINGQGKEWWTYSDSN
+DDDDDMDSYTDQELEKMPQIKPTALRFYGSSNVRVTGISIVNSPQCHLKFDSCQGVMVHN
+LTISSPENSPNTDGIHLQNSKDVNIHHTDLACGDDCISIQTGCSDVNIHNVNCGPGHGIS
+IGGLGRYNTKACVSNITVRDVNMFKTMTGVRIKTWQGGSGLVQGIRFSNIHMSEVQTPIM
+IDQFYCDKTsCTNQTSAVAVSGVQYENIRGTFTIKPAHFACSDSSPCSEITLTGIQLRPL
+IVPQYHtCSSPFCWQAFGELYTPTIPPISCLQLGKPAGNRVLSDHDQC
+
+
+PACMAD CONSENSUS:
+Length: 528 aa
+
+MRLGLKGLTFLLLLVLLVLCSSVHLCDARSGKHWRRSRAPSTSlLRRKGKAKSSSSHKQN
+GKGNQSPYQPSPStSPASPSGSPVQGKGgQAPTMPTPSGGSGYTLPPPPPLQPPPPPSPP
+AAPSSQDTVFNVVDFGAKGDGVTDDTQAFEAAWAAACKVEASTVLVPSELEFVVGPISFS
+GPYCKPNILFQLDGTILAQTSARVWGSGLLQWLEFTKLTGIAIQGSGVINGRGQEWWTYS
+DPNDDDDDDAyyVELDKMPQIKPTALRFYGSSNVTVTGITIVNSSQCHLKFDSCQGVMVH
+DLTISSPENSPNTDGIHLQNSKEVNIHHTNLACGDDCVSIQTGCSDINIHNVNCGPGHGI
+SIGGLGRYNTKACVSNVTVRDVNMFKTMTGVRIKTWQGGSGLVQGIRFSNIQVSEVQTPI
+IIDQFYCDKTTCRNQTSAVAVSGVQYENIRGTFTIKPAHFACSDSSPCSeITLTGIQLKP
+LiVPQYHLYNPFCWQAFGELYTPTVPPISCLQIGKPAGNSVLSDGDLC
+
+================================================================================

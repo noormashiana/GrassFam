@@ -1,0 +1,128 @@
+================================================================================
+GrassFam ID: GFAM020997
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             464.0 aa
+Family Size (Extended Family Size): 21 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11926:SF950
+Panther Family ID:               PTHR11926
+Modal Panther ID:                PTHR11926:SF950
+Modal Panther Description:       UDP-GLYCOSYLTRANSFERASE 76C1
+Modal Panther Family ID:         PTHR11926
+Modal Panther Fam Desc:          GLUCOSYL/GLUCURONOSYL TRANSFERASES
+Interpro Signature Accession:    cd03784; G3DSA:3.40.50.2000:FF:000199; G3DSA:3.40.50.2000:FF:000040; G3DSA:3.40.50.2000; PTHR11926; SSF53756
+Interpro Signature Description:  GT1_Gtf-like; UDP-glycosyltransferase 76C1; Glycogen Phosphorylase B;; GLUCOSYL/GLUCURONOSYL TRANSFERASES; UDP-Glycosyltransferase/glycogen phosphorylase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: UDP-glycosyltransferase 76B1; UDP-glycosyltransferase 76C2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: UDP-glycosyltransferase 76B1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: UDP-glycosyltransferase 76B1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: DIMBOA UDP-glucosyltransferase BX8-like%2C transcript variant X1; DIMBOA UDP-glucosyltransferase BX9-like; UDP-glycosyltransferase 76B1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: UDP-glycosyltransferase 76C2-like
+  Gene Descriptions: UDP-glycosyltransferase 76C2-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: UDP-glycosyltransferase 76C2
+  Gene Descriptions: UDP-glycosyltransferase 76C2
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 1
+  Modal chromosome: Pau14
+  Gene Products: UDP-glycosyltransferase 76C2-like%2C transcript variant X1
+  Gene Descriptions: UDP-glycosyltransferase 76C2-like
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi02N
+  Gene Products: UDP-glycosyltransferase 76C2-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi04
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: UDP-glycosyltransferase 76C2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: cytokinin-N-glucosyltransferase 1
+  Gene Synonyms: GRMZM2G117878
+  Gene Descriptions: cytokinin-N-glucosyltransferase 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 457 aa
+
+MAGgDGArRgRVVLFPLPFQGHLSPMLQLAgALHARGLAvTVLHTtFNAPDPAaHPGFaF
+VAVPDgIPdAVAAtkDGIAKILAmNAAMEASGCVRDALASLLeGePRPACLVIDstLPAA
+QKAAAeLGLPTlVLHTGSAAcFRLFRSYAMLHDKGYLPAQESELdrPVKELPPLRVSDLF
+DPSKyPNkEmANKILdlATETTTNSSGaVINTFEALEtPELEAIRDELAasGIPVFAIGP
+LHKLStiDGAeSSLLeQDRSCIEWLDtQAPGSVLYVSFGSVVpVtrDEFtEVAWGLANSG
+rPFLWVVRRGLViGVekpELPEGFErAVEGRGKVVrWAPQQEVLAHrAVGGFWTHNGWNS
+TLESIYEGVPMLSRPlFGDQLATGRYVeDvWrIGvLLEGKLERGKIEkAIrrLMEgeEGA
+emRERAKELKeKArmCLeSgGSTQqAVDKLVDHILSL
+
+
+BOP CONSENSUS:
+Length: 460 aa
+
+MAGADGGPRGHVALFPLPFQGHLSPMLQLADALHGRGLAITVLHTTFNAPDPAAHPEFaF
+VAVPDGGMPDAVAAAKDGIGKILAMNDAMEASGCVRDALAALLSEEPRPACLVIDTSLPA
+AQKAAAELGLPTVVLHTGSAAAiRLFRSYAMLHDKGYLPAQEHELDrPVKELPPIRVSDL
+FDPSKYPNpEMANKILDtATETTtNSSGvVINTFEALETPELEAiRsELAASGVgVFAIG
+PLHKLStIGGAgSSLLEQDRSCIEWLDaQAaGSVLYVSFGSVAPVSRDDFeEVAWGLANS
+GRPFLWVVRRGLVIGSGSeDpELPEGFERAAEGRGKVVRWAPQQEVLAHRAVGGFWTHSG
+WNSTLESIcEGVPMLCRPLFGDQLANGRYVEEVWrtGaLLvGKLERGKIEeAIARFMEGE
+DGAaMRERAKELQrKAMeCLsngGSTQLAVDKLVDHMLSL
+
+
+PACMAD CONSENSUS:
+Length: 463 aa
+
+MArGDGpgPARgARVVLFPLPFQGHISPMLQLAGALHARGLAVTVLHTAFNAPDPARHPG
+FSFVAVPDAIPEAVAATtNGIAKILALNAAMEASGHVRDALASLLAEEGePRLACLViDS
+TLTAAQKAAAGLGLPTLVLHTGSAACFRLFRSYDMLHDKGYLPATESNLHMPVKELPPLQ
+VRDLFDPSKLPNKEIGQKILnLATETTTNSSGAILNTFEALESHELeMIRDELADKGIPP
+FAVGPLHKLtSnDGGAETSLLNQDRSCIEWLDTQAPGSVLYVSFGSVVHVTQDEFmEVAW
+GLANSGKPFLWVVRRGLVLGVEKqELPEGFmsAVEGRGKVIEWAPQQEVLAHPAVGGFWT
+HNGWNSTLESIYEGVPMLSRPIFGDQLATGRYVrDiWKIGVLLEGVLERGkVEKAIrKLM
+EEDEGveIRERAKdLKEKVRMCLESSGSSQQAVDKLVDHILSL
+
+================================================================================

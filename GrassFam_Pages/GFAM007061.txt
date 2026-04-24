@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM007061
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             513.0 aa
+Family Size (Extended Family Size): 21 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23070:SF124
+Panther Family ID:               PTHR23070
+Modal Panther ID:                PTHR23070:SF124
+Modal Panther Description:       ATPASE, AAA FAMILY PROTEIN, EXPRESSED
+Modal Panther Family ID:         PTHR23070
+Modal Panther Fam Desc:          BCS1 AAA-TYPE ATPASE
+Interpro Signature Accession:    G3DSA:3.40.50.300; PTHR23070; SSF52540
+Interpro Signature Description:  -; BCS1 AAA-TYPE ATPASE; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: AAA-ATPase At2g46620
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: AAA-ATPase At2g46620
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: AAA-ATPase At2g46620
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: AAA-ATPase At2g46620-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: AAA-ATPase At2g46620-like
+  Gene Descriptions: AAA-ATPase At2g46620-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: AAA-ATPase At2g46620
+  Gene Descriptions: AAA-ATPase At2g46620
+Pau
+  Gene count: 2
+  Modal chromosome: Pau21
+  Gene Products: AAA-ATPase At2g46620-like
+  Gene Descriptions: AAA-ATPase At2g46620-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: AAA-ATPase At2g46620-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: AAA-ATPase At2g46620-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: AAA-ATPase At2g46620
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: AAA-ATPase At2g46620
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 513 aa
+
+MpLDGGGGGGVvGaLAYAALAVvALRLVLSYKSAAHAaRRaWRWADEWAQAYQYYEVPRl
+AGDGAENPLFRKAAAYVASLPSLEDADAACVLSSAaKSNDFSLQLGPGHTARDAFLGARL
+AWTNAGaeRLVLRVRRHDRTRVLRPYLQHVESVADEMElRRRELRLYANTGGdGAPRWAS
+APFTHPATLDTVAMDPELKARVRADLESFLKGRAYYHRLGRVWRRSYLLYGpPGTGKSTF
+AAAMARFLGYDVYDIDLSRGGCDDLRALLLDTAPRSLILVEDLDRYLRGGDGETAAARTA
+RVLSFMDGLSSCCGEERVMVFTMSGGKDGVDPAVLRPGRLDVHIHFTMCDFEGFKALASN
+YLGLKDHKLYPQVEEGFHAGARLSPAELGEIMLANRGSPSRALRTVISALQHVAPPPPpa
+QPQRTStAARPPRLTSRWSGHLDEASAAASEASAASQSPRGGGGFAKDAPIREFKKLYGL
+IKYRSRKDgGVVPVDDAASpNGRGSDASsEKDR
+
+
+BOP CONSENSUS:
+Length: 503 aa
+
+MPLDGGGGGAAVMFLAYAALAVVALRAVLSYKSAAHAARRLWRWADEWAQAYQYYEVPRF
+vgGGnDGAENPLFRKAAAYVASLPSLEDADAACVLSSASKSNDFSLQLGPGHTAHDAFLG
+ARLAWTNAGERLVLRVRRHDRTRVLRPYLQHVESVADEMELRRRELRLYANTGAvAPRWA
+SAPFTHPATLDTVAMDPELKTRVRSDLESFLKGRAYYHRLGRVWRRSYLLYGPPGTGKST
+FAAAMARFLGYDVYDIDLSRAGTDDLRALLLDTAPRSLILVEDLDRYLRGGDGETSAARA
+ARVLGFMDGLSSCCGEERVMVFTMSGGKEGVDPAVLRPGRLDVHIHFTMCDFEGFKALAS
+NYLGLKDHKLYPQVEEGFHAGARLSPAELGEIMLANRGSPSRALRTVISALQHVVAPRTS
+SAARPPRLTSRwSGHLDESSPAAESQSPAGGGGGFGKDAPMREFKKLYGLIKIRSRKEGG
+VVPVDDTASANGRGSDASTEKDR
+
+
+PACMAD CONSENSUS:
+Length: 515 aa
+
+MALDGGGVwGGVIGALVYGALAVvALRLVLSYKSAAHALRRAWRWADEWAQAYQYYEVPR
+LAGDGAENPLFRKAAAYVASLPSLEDADAACVLSSAAKSNDFALQLGPGHTARDAFLGAR
+LAWTNAGAGRLVLRVRRHDRTRVLRPYLQHvESVADEMEARRRELRLYANAGGDGAPRWA
+SAPFTHPATLDTVAMDPELKARVRADLESFLKGRAYYHRLGRVWRRSYLLYGAPGTGKST
+FAAAMARFLGYDVYDIDLSRGGCDDLRALLLDTTPRSLILVEDLDRYLRGGDGETAAART
+ARVLSFMDGLSSCCGEERVMVFTMSGGKDGVDPAVLRPGRLDVHIHFTMCDFEGFKALAS
+NYLGLKDHKLYPQVEEGFHAGARLSPAELGEIMLANRGSPSRALRTVISALQHVAPSPPP
+AQPQRTsTAARPPRLTSRWSGHLDyASAAASEASAAgQSPRGGGGFAKDAPIREiKKLYG
+LIKYRSRKDAGVVPVDDSAASPNGRGSDvSSEKDR
+
+================================================================================

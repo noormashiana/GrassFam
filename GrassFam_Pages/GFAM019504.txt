@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM019504
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             380.0 aa
+Family Size (Extended Family Size): 21 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47985:SF3
+Panther Family ID:               PTHR47985
+Modal Panther ID:                PTHR47985:SF3
+Modal Panther Description:       SERINE_THREONINE-PROTEIN KINASE PBL21-RELATED
+Modal Panther Family ID:         PTHR47985
+Modal Panther Fam Desc:          OS07G0668900 PROTEIN
+Interpro Signature Accession:    cd14066; G3DSA:3.30.200.20:FF:000244; G3DSA:1.10.510.10:FF:000543; G3DSA:1.10.510.10; G3DSA:3.30.200.20; PTHR47985; PF00069; SM00220; SSF56112
+Interpro Signature Description:  STKc_IRAK; Serine/threonine-protein kinase CDL1-like; Transferase(Phosphotransferase) domain 1; Phosphorylase Kinase; domain 1; OS07G0668900 PROTEIN; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: probable serine/threonine-protein kinase PBL21
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: probable serine/threonine-protein kinase PBL21%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: probable serine/threonine-protein kinase PBL21%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04B
+  Gene Products: probable serine/threonine-protein kinase PBL21%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: probable serine/threonine-protein kinase PBL21
+  Gene Descriptions: probable serine/threonine-protein kinase PBL21
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: probable serine/threonine-protein kinase PBL21
+  Gene Descriptions: probable serine/threonine-protein kinase PBL21
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau03
+  Gene Products: probable serine/threonine-protein kinase PBL21
+  Gene Descriptions: probable serine/threonine-protein kinase PBL21
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: probable serine/threonine-protein kinase PBL21
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: probable serine/threonine-protein kinase PBL21
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: probable serine/threonine-protein kinase PBL21
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: probable serine/threonine-protein kinase PBL21; putative protein kinase superfamily protein%2C transcript variant X1
+  Gene Synonyms: GRMZM2G009869
+  Gene Descriptions: putative protein kinase superfamily protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 381 aa
+
+MGCFGCFAPEAreGDeDLKPSKLaHHCpDDSSGADARRKVAPDVgNGYAHSFTFKDLLVA
+TGYFNEANFIGEGGFGKVYKGKINGQMVAVKQLARDGVQGRNEFLVEVLMLTVLNHPNLV
+SLVGFCAQGDERLLVYEYMPFGSLESHLFDVPLGKkPLDWNTRVRIAVGVAEGLSYLHNV
+ADPPIIYRDMKAANILLgEDFSPKLSDFGLAKVGPVGDRTHVSTRVMGTYGYCAPDYVVS
+GKLTMKSDIYSFGVLLLELITGRRIYDASRPKPEQSLLTWSRPFLHDKRKFHRLADPALl
+GCYPsSALNQLVVISIMCLQDQPHVRPIIADVVIGLNHVASQPYapERPPASMSSPAySG
+SPQYVrTPSRRRGGRRvAQYA
+
+
+BOP CONSENSUS:
+Length: 388 aa
+
+MGCFGCFAPAARRGAGDLKPSKLAHHCTDDSSVADARRKVAPDVGSGCAHSFTFKDLLVA
+TGYFNEANFIGEGGFGKVYKGKISKTNSQGASDAQMVAVKQLARESVQGRKEFLVEVLML
+TVLSHPNLVSLVGFCAQGDERLLVYEYMPFGSLESHLFDVPHGKQPLDWNTRVKIAVGVA
+EGLSYLHNVADPPIIYRDMKAANILLDEDFSPKLSDFGLAKVGPVGDRTHVSTRVMGTYG
+YCAPDYVVSGKLTMKSDIYSFGVLLLELITGRRIYDASRPKPEQSLLTWSRPFMHDKRKF
+HRLADPALRGSYPPSALNQLVVISIMCLQDQPHVRPIIADVVIGLNHVASQPYASLASMG
+SPAYSGSPQYsRTPSRRRGGRRVSQYAS
+
+
+PACMAD CONSENSUS:
+Length: 373 aa
+
+MGCFGCFAPEADEDLKPSKPDDSSGADARRKVAPDVANGYAHSFTFKDLLVATGYFNEAN
+FIGEGGFGKVYKGKINGQMVAVKQLAQDGVQGRNEFLVEVLMLTVLNHrNLVSLVGFCAQ
+GDERLLVYEYMPFGSLESHLFDVPLGKKPLDWNTRVRIAVGVAEGLSYLHNVADPPVIYR
+DMKAANILLGEDFSPKLSDFGLAKVGPVGDRTHVSTRVMGTYGYCAPDYVVSGKLTMKSD
+IYSFGVLLLELITGRRIYDASRPKPEQSLLTWSRPFLHDKRKFYRLADPALLGCYPSSAL
+NQLVVISIMCLQDQPHVRPIIADVVIGLNHVASQPYtPERPPvSMSSPAnSGSPQfVsTP
+SRRRGGRRTAQYA
+
+================================================================================

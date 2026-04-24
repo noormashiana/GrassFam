@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM013554
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             430.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11705:SF119
+Panther Family ID:               PTHR11705
+Modal Panther ID:                PTHR11705:SF119
+Modal Panther Description:       OS02G0119300 PROTEIN
+Modal Panther Family ID:         PTHR11705
+Modal Panther Fam Desc:          PROTEASE FAMILY M14 CARBOXYPEPTIDASE A,B
+Interpro Signature Accession:    cd06227; G3DSA:3.40.630.10:FF:000064; G3DSA:3.40.630.10; PTHR11705; PF00246; SM00631; SSF53187
+Interpro Signature Description:  M14-CPA-like; Carboxypeptidase A6; Zn peptidases; PROTEASE FAMILY M14 CARBOXYPEPTIDASE A,B; Zinc carboxypeptidase; zn_carb; Zn-dependent exopeptidases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: metallocarboxypeptidase A-like protein MCYG_01475
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: zinc carboxypeptidase
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: zinc carboxypeptidase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: mast cell carboxypeptidase A-like; mast cell carboxypeptidase A-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: metallocarboxypeptidase A-like protein ARB_03789%2C transcript variant X1
+  Gene Descriptions: metallocarboxypeptidase A-like protein ARB_03789
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC4328102
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: metallocarboxypeptidase A-like protein MCYG_01475; metallocarboxypeptidase A-like protein TRV_02598%2C transcript variant X3
+  Gene Descriptions: metallocarboxypeptidase A-like protein MCYG_01475; metallocarboxypeptidase A-like protein TRV_02598
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: carboxypeptidase A1-like; metallocarboxypeptidase A-like protein MCYG_01475%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: carboxypeptidase A6%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: metallocarboxypeptidase A-like protein TRV_02598%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: Zn-dependent exopeptidase superfamily protein
+  Gene Synonyms: GRMZM2G006069
+  Gene Descriptions: Zn-dependent exopeptidase superfamily protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 430 aa
+
+MAASasPPPLLRRLLALALALAvAAAGKIPASrTPISRDLYHSSDSLLrEIKALVARHSD
+KLSMDTIRASNKGYSAELFVVTFNHVKESVDNGSKVHILLSFGQHGRELITSEVALrLLY
+ILTEKRKIAGVDLSSFEKiLENLVIKVVPMENfNGRKRVEAGELCDRRNGRGVDLNRNWS
+VDWGKKEKDYDPYEENPGtAPFSEPEAQIMRELSKSFKPHIWVNVHSGMEALFMPYDHKN
+TTPNGASAHLMRSVLENLNHRHFQDSCLVGSGGGAVGYLAHGTTTDYMYDIAKVPMPFTF
+EIYGDEKASTDDCFKMFNPVDKTTFDRVINKWCMAFLILFEEGLRNLRDAQvVSQGaLDN
+WVPMGGDIVERNVaRKSgrErRKLEGLDLGMQELRTYFRLFMLSTFLLMFMFCtRISKNR
+NRDSGNqFDp
+
+
+BOP CONSENSUS:
+Length: 435 aa
+
+MAPSsPPPPLsRRLLALTLALAALVSSASAArKIPASVTPISRDLYHSSDSLLSEIKALV
+ARNPDRLTMDTVRASNKGYSAEMFVVTFNHAKETVhnGSKIKILLSFGQHGRELITSELA
+LSLLYILTEKRKIAGVDLSSFEKILEHLVIKVVPMENFNGRKRVEAGELCDRRNGRGVDL
+NRNWSVDWGKKEKDYNPFEEDPGTAPFSEPEAQIMQELSKSFKPHIWVNVHSGMEALFMP
+YDHKNTTPDGAPSHLMRSVLENLNHRHFQDSCLVGSGGGAVGYLAHGTTTDYLYDIAKVP
+MPFTFEIYGDEKASTDDCFKMFNPVDKtTFDRVINKWCMAFLILFEEGLRtLPDdQVVSQ
+GALDNWVPMGGEILERNmDrKSGgENrKLEGLDLGMQELKTYFRLFMLSTFLLMFMFCSR
+ISKNRsRESDEQStA
+
+
+PACMAD CONSENSUS:
+Length: 428 aa
+
+MAASPPPLLLLLLTLALALTVAAAGKISAPRTPISRDIYHSSDSLLREIKALVARHSDKL
+SMDTIRTSNKGYSAELFVVTFNHVKESVDNGSKVHILLSFGQHGRELITSEVALRLLYIL
+TEKRKIAGVDLSSFEKVLENLVIKVVPMENLNGRKRVEEGELCDRRNGRGVDLNRNWSVD
+WGKKEKDYDPYEENPGIAPFSEPEAQIMRELSRSFKPHIWVNVHSGMEALFMPYDHKNTT
+PNGASAHLMRSVLENLNHRHFQDSCLVGSGGGSVGYLAHGTTTDYMYDIAKVPMPFTFEI
+YGDEKASTDDCFKMFNPVDKTTFDRVINKWCMAFLILFEEGLRNLRDAQIVSQGTLDNWV
+PIGGDIVERNVARKSsRERRKLEGLDLGMQELRTYFRLFMLSTFLLMFMFCTRISKNRNR
+DSGNVFDP
+
+================================================================================

@@ -1,0 +1,125 @@
+================================================================================
+GrassFam ID: GFAM003322
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             520.0 aa
+Family Size (Extended Family Size): 17 (18) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48004:SF29
+Panther Family ID:               PTHR48004
+Modal Panther ID:                PTHR48004:SF29
+Modal Panther Description:       LEUCINE-RICH REPEAT (LRR) FAMILY PROTEIN
+Modal Panther Family ID:         PTHR48004
+Modal Panther Fam Desc:          OS01G0149700 PROTEIN
+Interpro Signature Accession:    G3DSA:3.80.10.10:FF:000095; G3DSA:3.80.10.10; PTHR27008; SSF52047
+Interpro Signature Description:  LRR receptor-like serine/threonine-protein kinase GSO1; Ribonuclease Inhibitor; OS04G0122200 PROTEIN; RNI-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: DNA damage-repair/toleration protein DRT100
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: LRR receptor-like serine/threonine-protein kinase FLS2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: LRR receptor-like serine/threonine-protein kinase FLS2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: LRR receptor-like serine/threonine-protein kinase FLS2; LRR receptor-like serine/threonine-protein kinase SIK1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: DNA damage-repair/toleration protein DRT100-like
+  Gene Descriptions: DNA damage-repair/toleration protein DRT100-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: DNA damage-repair/toleration protein DRT100
+  Gene Descriptions: DNA damage-repair/toleration protein DRT100
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: DNA damage-repair/toleration protein DRT100-like; LRR receptor-like serine/threonine-protein kinase FLS2
+  Gene Descriptions: DNA damage-repair/toleration protein DRT100-like; LRR receptor-like serine/threonine-protein kinase FLS2
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: DNA damage-repair/toleration protein DRT100-like; LRR receptor-like serine/threonine-protein kinase FLS2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: LRR receptor-like serine/threonine-protein kinase FLS2
+Msi
+  Gene count: 1
+  Modal chromosome: Msi12
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: DNA damage-repair/toleration protein DRT100
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 521 aa
+
+MQLSARLLRALaLLLVALLSrSAGHAAaGTGaGGDDDRPsPPCSPADRAALLGFKAGVtV
+DTTGILATWAGDDCCGAWEGVtCDAATGRVVALQLEAPPPksRrYMEGALSPSLGGLEFL
+EaLVIRDMGRIGGAIPaALSRLTRLrQLYLEGNMLAGGVPGSLgKMsSLQYLSLAGNRLE
+GQLPPELGAVsGLEQINLARNRLsGAVPPSYkNLSRLAYLDLSNNLLSGAVPgFlGQFKN
+LALLDLSNNSFSGEIPASLCtLRsLTDLSLSHNKLgGqIPPQmGSLRSLNSLAmDDNMLV
+GSIPaSLlGLQKLWYLNLSRNGLSGSLPTGIRNGLPSLVSMDLSHNHLTGGIDQFFRSLS
+tArsdkNhSttSQIVLPQKLEHLDLSKNrITGALPDFArGASLKWLDVSsNAIGGQIPSS
+ISKLSgLERLDISRNRVRGVIPASMAeMASLrWLDLSSNALVGRIPDNFTRLAGVRHASF
+RGNKLCGqIPQAkPFNLFPAAAYAHNLCLCGKPLPPCRKIS
+
+
+BOP CONSENSUS:
+Length: 443 aa
+
+MLRALLLLLATAALLSGHAAAGTGSGDKPTPPCSPADRAALLGFKAGITVDTTGILATWA
+GDDCCGGGWEGVACDAATGRVVSLRLESQPGRYMeGTlSPSLGGLEFLEsLVIRDMGRIG
+GAIPdaLSRLtRLQQLYLEGNALAGGVPGKVLSkMsSLRYLSLAGNRLEGpLPPELGsVR
+GLEQINLAGNRLTGgVPSSYgNLSSLAYLDLSnNLLSGvVPEFlGRFKSLALLDLSNNSF
+SGEmPASLggLRnLADLSLSHNKIaGRIPPQIGSLRSLSSLALDDNLLVGPIPKSLFGLQ
+KLWRLDLSKNKLTGALPDFAGGGSLKWLDVSRNAIGGQIPSSISKLhGLERLDISRNRVG
+GVIPATMAAMASLEWLDLSsNAIVGRIPDNFTRMAGVRHASFRGNKLCGrIPQApPFNRF
+PAAAYAHNLCLCGKPLPPCRKIS
+
+
+PACMAD CONSENSUS:
+Length: 521 aa
+
+MQLSARLLRVLAILLVALPSRSAGHAANsdAARGDDDRPSPPCSPADRAALLGFKAGVAA
+DTTGILATWAGGDCCGAWEGVTCDAATGRVVALQLEAPPPKsRHYMEGALSPSLGGLEFL
+EALVIRDMGRIGGAIPAALSRLTRLRQLYLEGNMLAGAIPGSLGKLGSLQYLSLAGNRLD
+GQLPPELGAVSGLEQINVARNRLSGAVPPSYKNLSRLAYLDLSNNLFSGAVPGFLGQFKN
+LALLDLSNNSFSGEIPASLCTLHSLTDLSLSHNKLGGQIPPQMGSLRSLNSLAMDGNMLV
+GSIPASLLGLQKLWYMNLSRNGLSGPLPTGIrNALPSLVSMDLSHNHLTGDIDQFFRSLS
+tAvSdkNhStkPSQIVLPQKLEHLDLSkNRITGALPDFARGAGLrWLDISSNAIGGQIPS
+SISKLSsLERLDISRNRVRGvIPASMAEMVRLrWLDLSSNALVGRIPDNFTRLTSVRHAS
+FRGNKLCGQIPQAKPFNLFRAAAYAHNLCLCGKPLPPCRKI
+
+================================================================================

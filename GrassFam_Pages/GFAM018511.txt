@@ -1,0 +1,125 @@
+================================================================================
+GrassFam ID: GFAM018511
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             363.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11947:SF24
+Panther Family ID:               PTHR11947
+Modal Panther ID:                PTHR11947:SF24
+Modal Panther Description:       PROTEIN-SERINE_THREONINE KINASE
+Modal Panther Family ID:         PTHR11947
+Modal Panther Fam Desc:          PYRUVATE DEHYDROGENASE KINASE
+Interpro Signature Accession:    cd16929; G3DSA:1.20.140.20:FF:000003; G3DSA:3.30.565.10:FF:000065; G3DSA:1.20.140.20; G3DSA:3.30.565.10; PTHR11947; PF10436; SSF55874; SSF69012
+Interpro Signature Description:  HATPase_PDK-like; [Pyruvate dehydrogenase (Acetyl-transferring)] kinase, mitochondrial; [Pyruvate dehydrogenase (Acetyl-transferring)] kinase mitochondrial; -; PYRUVATE DEHYDROGENASE KINASE; Mitochondrial branched-chain alpha-ketoacid dehydrogenase kinase; ATPase domain of HSP90 chaperone/DNA topoisomerase II/histidine kinase; alpha-ketoacid dehydrogenase kinase, N-terminal domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: pyruvate dehydrogenase (acetyl-transferring) kinase%2C mitochondrial
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: pyruvate dehydrogenase (acetyl-transferring) kinase%2C mitochondrial
+Tae
+  Gene count: 2
+  Modal chromosome: Tae04B
+  Gene Products: pyruvate dehydrogenase (acetyl-transferring) kinase%2C mitochondrial-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: pyruvate dehydrogenase (acetyl-transferring) kinase%2C mitochondrial-like
+  Gene Descriptions: pyruvate dehydrogenase (acetyl-transferring) kinase%2C mitochondrial-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: pyruvate dehydrogenase (acetyl-transferring) kinase%2C mitochondrial
+  Gene Descriptions: pyruvate dehydrogenase (acetyl-transferring) kinase%2C mitochondrial
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: pyruvate dehydrogenase (acetyl-transferring) kinase%2C mitochondrial-like
+  Gene Descriptions: pyruvate dehydrogenase (acetyl-transferring) kinase%2C mitochondrial-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi09K
+  Gene Products: pyruvate dehydrogenase (acetyl-transferring) kinase%2C mitochondrial-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: pyruvate dehydrogenase (acetyl-transferring) kinase%2C mitochondrial-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: pyruvate dehydrogenase (acetyl-transferring) kinase%2C mitochondrial
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: putative pyruvate dehydrogenase kinase family protein; pyruvate dehydrogenase (lipoamide) kinase 1
+  Gene Synonyms: GRMZM2G030139; GRMZM2G107196,PDK1,pdlk1
+  Gene Descriptions: putative pyruvate dehydrogenase kinase family protein; pyruvate dehydrogenase (lipoamide) kinase 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 363 aa
+
+MASEPVARAVAEEVARWGAMRQTGVSLRYMMEFGARPTERTLLLAAQFLHKELPIRIARR
+ALDLDSLPFGLStKPAILKVRDWYVDSFRDIRSFPEVRNqDDELAFTQMIKMIRVRHTNV
+VPTIALGVQQLKKDLGGsKAFPPGIdEIHQFLDRFYMSRIGIRMLIGQHVALHDPDPEPG
+VIGLINTKLSPMTVARIASEDARAICMREYGSAPDVDIYGDPDFTFPYVTPHLHLMMFEL
+VKNSLRAVQERYMNSDKHAPPVRIIVADGAEDVTIKISDEGGGIPRSGLSRIFTYLYSTA
+ENPPDLDGHNEGVTMAGYGYGIPISRLYARYFGGDLQIISMEGYGTDAYLHLSRLGDSEE
+PLP
+
+
+BOP CONSENSUS:
+Length: 363 aa
+
+MASEPVARAVAEEVARWGGMRQTGVSLRYMMEFGARPTERNLLLSAQFLHKELPIRIARR
+ALDLDSLPFGLStKPAVLKVRDWYLDSFRDIRYFPEVRNRDDELAFTQMIKMIRVRHTNV
+VPTMALGVQQLKKDLGGTKAFPsGIDEIHQFLDRFYMSRIGIRMLIGQHVALHDPDPEPG
+VIGLISTRLSPMLVARLASEDARAICMREYGSAPDVNIYGDPDFTFPYVTiHLHLMMFEL
+VKNSLRAVQERFMNSDKHAPPVRIIVADGAEDVTIKISDEGGGIPRSGLPRIFTYLYSTA
+EHPPDLDGHNEGVTMAGYGYGLPISRLYARYFGGDLQIISMEGYGTDAYLHLSRLGDSEE
+PLP
+
+
+PACMAD CONSENSUS:
+Length: 363 aa
+
+MASEPVARAVAEEVARWGAMRQTGVSLRYMMEFGARPTERTLLLAAQFLHKELPIRIARR
+ALDLESLPFGLSsKPAILKVRDWYVDSFRDIRSFPEVRNqEDELAFTQMIKMIRVRHTNV
+VPTIALGVQQLKKDLGGSKAFPPGIhEIHQFLDRFYMSRIGIRMLIGQHVALHDPDPEPG
+VIGLINTKMSPMTVARIASEDARAICMREYGSAPDVDIYGDPDFTFPYVTPHLHLMIFEL
+VKNSLRAVQERYMNSDKHAPPVRIIVADGAEDVTIKISDEGGGIPRSGLSRIFTYLYSTA
+ENPPDLDGHNEGVTMAGYGYGIPISRLYARYFGGDLQIISMEGYGTDAYLHLSRLGDSEE
+PLP
+
+================================================================================

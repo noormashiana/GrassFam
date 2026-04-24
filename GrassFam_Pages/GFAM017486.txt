@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM017486
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             558.0 aa
+Family Size (Extended Family Size): 20 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43051:SF1
+Panther Family ID:               PTHR43051
+Modal Panther ID:                PTHR43051:SF1
+Modal Panther Description:       POLYNUCLEOTIDE ADENYLYLTRANSFERASE FAMILY PROTEIN
+Modal Panther Family ID:         PTHR43051
+Modal Panther Fam Desc:          POLYNUCLEOTIDE ADENYLYLTRANSFERASE FAMILY PROTEIN
+Interpro Signature Accession:    cd05398; G3DSA:1.10.3090.10; G3DSA:3.30.460.10; PTHR43051; SSF81891; SSF81301
+Interpro Signature Description:  NT_ClassII-CCAase; -; Beta Polymerase, domain 2; POLYNUCLEOTIDE ADENYLYLTRANSFERASE FAMILY PROTEIN; Poly A polymerase C-terminal region-like; Nucleotidyltransferase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: poly(A) polymerase I
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: poly(A) polymerase I-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: poly(A) polymerase I
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04B
+  Gene Products: poly(A) polymerase I-like; poly(A) polymerase I-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: uncharacterized LOC127768699
+  Gene Descriptions: uncharacterized LOC127768699
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4331511
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau04
+  Gene Products: uncharacterized LOC133916982; uncharacterized LOC133916983
+  Gene Descriptions: uncharacterized LOC133916982; uncharacterized LOC133916983
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: poly(A) polymerase I-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: CCA-adding enzyme-like%2C transcript variant X2
+Msi
+  Gene count: 1
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: poly(A) polymerase I
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100502264
+  Gene Synonyms: GRMZM2G040887
+  Gene Descriptions: uncharacterized LOC100502264
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 557 aa
+
+MTtPRRRADLPSPSSPaPLLSRLRSAASsLLmRQYSTrKEGDGtGglRnGGSSSAPRPGF
+VDPSSWRyFDSRAVGIplGAIPRDAwAVLkkLKRKGFEAYLVGGCVRDLLLKRAPKDFDV
+ITTASLkQIKKNVFrRCmIVGkRFPICLvKMRGSvIEVSSFrTNgtyVnGSEnVdCsEEL
+NGYDeGDILRWKNSMRRDFTINSLFFNPMNYKIYDYVNGVRDMRKNKVCTVIPAHVSFkE
+DPARILRGLRIAARLGFQFSSETStAIRDLSSSIINIDKARLMMEMNYMLSYGAAESSVR
+LLRKYGLLDILLPFQAAYLSDQMKGKSSDRDLMLMKLLANLDKLlSADRPCHCSLWLALL
+AFHSALVNSPQDAQVIRAFAALLYFGTWESAIEFLkEDVGApVpFVPETLGPSrTKLDNL
+MEQTSHLASLVnSSVDTLTCLDALqQSLARyseASQFSGLVfVSnrERgRLLrIFeGLDS
+DLTSYDeRRGMHGIDYksLKDGhPAEVRFVLGKVIMDTMSDESPCeSTEDAAAtprPAAD
+lADGshPPLStLFhSGE
+
+
+BOP CONSENSUS:
+Length: 558 aa
+
+MTAVRRCTDLSSLPSPAPLLSRLSSAASRLLQMRKYGSRKEGGGGLRNGRSSSASRPGFI
+DPSSWKYFDSRAVGIPaGAIPRNCMTVLQMLKRKGFEAYLVGGCVRDLLLKRAPKDFDVI
+TTASLKQIKKhVFsRCFIVGKRFPICLVRMrGSlFEVSSFkTNtTQVKGNENVNCSEEtD
+GyDEGDILRWKDSLRRDFTVNSLFFNPFNhRVYDYVNGVkDLRKNKVCTVIPAHVSFKED
+PARILRGLRVAARLGFQFSSETSTAIRDLSPSIiDIDKtRLAMEMKYMLSYGAAESSIRL
+LRKYGLLDILLPFQAAYLSDQLKGKSSDRGLMLMNLLANLDKFFSADRPCHCSLWLALLA
+FHNALVNSPQDAQVIKAFAALMHFGTWDSAIEFLNEDVGAPVTYVPEALGPSGaKVDNLM
+EQTSHLASLVKSSVDTLTCLNTLKQSVaRYPGASQFSGLVFVSaREKGRVLGIFNGLDSD
+LTSYDkRRGMHGIDYKLLEDGVTAEVRFVLGKVIMDTMSaESPCASTDDAAALPRPAADV
+TDAdHrPLSTLFHSGESE
+
+
+PACMAD CONSENSUS:
+Length: 551 aa
+
+MTTPRRRADLSPSPSSSPsLLSRLRSAASSLLsRQYSTkKGGDGTGrRrkGGSSSAPRpL
+RPGFVDPSSWRHFDSRAVGINlDAIPKDAWAVLKKLRRkGFeAYLVGGCVRDLLLKRVPK
+DFDVITTASLqQIKKNIFRRCMIVGRRFPICLLKMRDSVIEVSSFRTVGKYgNRSEEVDC
+LEELNGYDDGDILRWKNSMRRDFTINGLFFNPMNYKIYDYVNGVRDMRKNKVCTVIPAHI
+SFMEDPARILRGLRIAARLGFQFSSETSNAIRDLSSSIINIDKARLMMEMNYMLSYGAAE
+PSVRLLRKYGLLDILLPFQAAYLSDQMKGrSSDRDLMLMKLLANLDRLLSADRPCHCSLW
+LALLVFHSALVISPQDTLVIRAFAALLYFGTWESTIEFLKEEVGAQVPFVPETLGPSQTK
+LDDLMEQTSHLASLVNSSVlTLTCSDALEQSLARFSEPPQFSGVVLASNNERsRLLrIFE
+GLDSDLTSYDERRGMHkIDYWSLKDGdPAEVRFVLGKVIMDTMSDKLPCESTEDAlaNLA
+DGSLPPLStLF
+
+================================================================================

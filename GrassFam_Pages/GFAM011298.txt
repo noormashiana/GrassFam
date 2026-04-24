@@ -1,0 +1,122 @@
+================================================================================
+GrassFam ID: GFAM011298
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             509.5 aa
+Family Size (Extended Family Size): 14 (14) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11510:SF15
+Panther Family ID:               PTHR11510
+Modal Panther ID:                PTHR11510:SF15
+Modal Panther Description:       INOSITOL-3-PHOSPHATE SYNTHASE 1
+Modal Panther Family ID:         PTHR11510
+Modal Panther Fam Desc:          MYO-INOSITOL-1 PHOSPHATE SYNTHASE
+Interpro Signature Accession:    G3DSA:3.30.360.10:FF:000055; G3DSA:3.40.50.720:FF:000107; G3DSA:3.40.50.720:FF:000069; G3DSA:3.40.50.720; PTHR11510; PIRSF015578; PF01658; PF07994; SSF51735; SSF55347
+Interpro Signature Description:  Putative myo-inositol-1-phosphate synthase; inositol-3-phosphate synthase; Inositol-3-phosphate synthase 1; -; MYO-INOSITOL-1 PHOSPHATE SYNTHASE; Myoinositol-ppht_synth; Myo-inositol-1-phosphate synthase; NAD(P)-binding Rossmann-fold domains; Glyceraldehyde-3-phosphate dehydrogenase-like, C-terminal domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: inositol-3-phosphate synthase 1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: inositol-3-phosphate synthase 1
+  Gene Descriptions: inositol-3-phosphate synthase 1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: inositol-3-phosphate synthase 1-like
+  Gene Descriptions: inositol-3-phosphate synthase 1-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau24
+  Gene Products: inositol-3-phosphate synthase 1
+  Gene Descriptions: inositol-3-phosphate synthase 1
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: inositol-3-phosphate synthase 1%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: inositol-3-phosphate synthase
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: Inositol-3-phosphate synthase isozyme 1; uncharacterized LOC100381529
+  Gene Synonyms: GRMZM2G177461; pco121900
+  Gene Descriptions: Inositol-3-phosphate synthase isozyme 1; uncharacterized LOC100381529
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 509 aa
+
+MFVEGFRVESPRVRYGDGEIESEYRYDTTEVVPPgnGGAGWVVRPKSVTYNFKTSTNVPK
+LGVMLVGWGGNNGTTLTAGVIANREGISWETKEKVHKANYFGSLTQASTIRVGSHNGEEV
+YAPFKSLVPMVNPNsIVFGGWDISNLNMADAMARAKVLDIhLQKQLRPYMESMVPLPGIF
+NPDFVAANQGARANNVIKGTKKEQVEQIKKDIREFKEKNKVDKVVVLWTANTERYSNVVA
+GLNDTMDNLLASLDKNEAEISPSTLYAIACVtEGVPFVNGSPQNTFVPGLIELAIKKNSV
+IGGDDFKSGQTKMKSVLVDFLVGAGIKPTSIASYNHLGNNDGMNLSAPQVFRSKEISKSS
+VVDDMVASNPILYkPGEHPDHVIVIKYIPYVGDSKRAMDEYTSEIFMGGKNTIVLHNTCE
+DSLLAAPIILDLVLLAELSTRIQLKAEGQDKFHSFHPVATILSYLSKAPLVPPGTPVVNA
+LAKQRAMLENILRACVGLAPENNMMLEHK
+
+
+BOP CONSENSUS:
+Length: 509 aa
+
+MFVEGFrVESPRVRYGAGEIESEYRYDTTEVVAPSPEGKGWVVRPKSVTYNFKTSTtVPK
+LGVMLVGWGGNNGTTLTAGVIANREGISWATKEKVHKANYFGSLTQASTIRVGSYNGEEI
+YAPFKSLVPMVNPNDIVFGGWDISSMNLADAMGRAKVLDIDLQKQLRsHMESMVPLPGIY
+NPDFIAANQGSRANNVIKGTKKEQVEQIIKDIREFKEKNKVDKVVVLWTANTERYSDVVV
+GLNDTMDNLLASLDKNEAEISPSTLYAIACVTEGVPFINGSPQNTFVPGLIELAIKKNSV
+IGGDDFKSGQTKMKSVLVDFLVGAGIKPTSIASYNHLGNNDGMNLSAPQTFRSKEISKSG
+VVDDMVSSNAILYnPGEHPDHVIVIKYVPYVGDSKRAMDEYTSEIFMGGKNTIVLHNTCE
+DSLLAAPIILDLVLLAELSTRIQLKAEGQDKFHSFHPVATILSYLSKAPLVPPGTPVVNA
+LAKQRAMLENILRACVGLAPENNMMLEHK
+
+
+PACMAD CONSENSUS:
+Length: 510 aa
+
+MFVESFRVESPRVRYGDGEIQSEYRYDTTEVVPPGNGGGAGWVVRPKSVTYNFKTSTNVP
+KLGVMLVGWGGNNGTTLTAGVIANREGISWETKEKVHKANYFGSLTQASTIRVGSHNGEE
+VYAPFKSLVPMVNPNSIVFGGWDISNLNMADAMARAKVLDIHLQKQLRPYMESMvPLPGI
+FNPDFVAANQGARANNiIKGTKKEQVEQIKKDIREFKEKNKVDKVVVLWTANTERYSNVV
+AGLNDTMDNLLASLDKNEAEISPSTLYAIACVfEGVPFVNGSPQNTFVPGLMELAIKKNS
+VIGGDDFKSGQTKMKSVLVDFLVGAGIKPTSIASYNHLGNNDGMNLSAPQVFRSKEISKS
+SVVDDMVASNPILYKPGEHPDHVIVIKYIPYVGDSKRAMDEYTSEIFMGGKNTIVLHNTC
+EDSLLAAPIILDLVLLAELSTRIQLKAEGQDKFHSFHPVATILSYLSKAPLVPPGTPVVN
+ALAKQRAMLENILRACIGLAPENNMMLEHK
+
+================================================================================

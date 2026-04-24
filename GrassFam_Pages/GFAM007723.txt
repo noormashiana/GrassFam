@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM007723
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             573.0 aa
+Family Size (Extended Family Size): 24 (27) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43435:SF8
+Panther Family ID:               PTHR43435
+Modal Panther ID:                PTHR43435:SF8
+Modal Panther Description:       CARBOHYDRATE KINASE FGGY C-TERMINAL DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR43435
+Modal Panther Fam Desc:          RIBULOKINASE
+Interpro Signature Accession:    cd07782; G3DSA:3.30.420.40:FF:000101; G3DSA:1.20.58.2240; G3DSA:3.30.420.40; TIGR01315; PTHR43435; PIRSF000538; PF02782; SSF53067
+Interpro Signature Description:  ASKHA_NBD_FGGY_D-RBK; FGGY carbohydrate kinase domain-containing protein; -; FGGY family pentulose kinase; RIBULOKINASE; GlpK; FGGY family of carbohydrate kinases, C-terminal domain; Actin-like ATPase domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi03
+  Gene Products: FGGY carbohydrate kinase domain-containing protein; FGGY carbohydrate kinase domain-containing protein%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: FGGY carbohydrate kinase domain-containing protein%2C transcript variant X1
+Ata
+  Gene count: 2
+  Modal chromosome: Ata06D
+  Gene Products: FGGY carbohydrate kinase domain-containing protein; FGGY carbohydrate kinase domain-containing protein%2C transcript variant X1
+Tae
+  Gene count: 5
+  Modal chromosome: Tae06B
+  Gene Products: FGGY carbohydrate kinase domain-containing protein-like; FGGY carbohydrate kinase domain-containing protein-like%2C transcript variant X1; FGGY carbohydrate kinase domain-containing protein-like%2C transcript variant X3; FGGY carbohydrate kinase domain-containing protein-like%2C transcript variant X4
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: uncharacterized LOC127762939
+  Gene Descriptions: uncharacterized LOC127762939
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC4328488
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau06
+  Gene Products: uncharacterized LOC133922559
+  Gene Descriptions: uncharacterized LOC133922559
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: FGGY carbohydrate kinase domain-containing protein-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: FGGY carbohydrate kinase domain-containing protein%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: FGGY carbohydrate kinase domain-containing protein%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: uncharacterized LOC100382878%2C transcript variant X2
+  Gene Synonyms: GRMZM5G848138,GRMZM6G828652
+  Gene Descriptions: uncharacterized LOC100382878
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 574 aa
+
+MSRGGAASVFLGVDVGTGSARAGLFDEKGKLLGSASSPIQIWKEKDCIEQSSTDIWHAVC
+AAVKSACSLANVAPEDVaGLGFAATCSLVAVDADGSPVSVSWSGDtRRNIIVWMDHRAVD
+QAERINArNSPVLQYCGGGVSPEMQAPKLLWVKENLQESWSMVCRWMDLSDWLAYRATGD
+DTRSLCTTVCKWTYLGHAHMEQWrESDSRDMEACGWDEVFWEEIGLGDLVEGNcAKIGRS
+VAFPGHPLGSGLTPTAAKELGLLPGTPVGTSLIDAHAGGVGVMESVPDAESKADlSDEEA
+ICHRMVLVCGTSTCHMAVSKNKLFIPGVWGPFWSAMIPEFWLTEGGQSATGALLDYIVEN
+HVAAPLLANhAASQSiSIYELLNKILLSMSHEQNsPFLSALTQDTHVLPDFHGNRSPVAD
+PKSKGVICGLTLDTSEKHLALLYLATIQGIAYGTRHIVEHCNAHGHKIDTLLACGGLAKN
+SLYIQEHADIiGCPIILPRENESVLLGAAVLGAVAAKKFpGVRDAMKALNAAGKVVnPSS
+DPRVKKYHDAKYQIFRSLYEQQLSHRSTMAQALQ
+
+
+BOP CONSENSUS:
+Length: 571 aa
+
+MSrGGVFLGVDVGTGSARAGLFDEKGKLLGSASSPIQIWKEKDCIEQSSTDIWHAVCAAV
+KSACSLANVAPEDVVGLGFAATCSLVAVDADGSPVSVSWsGDARRNIIVWMDHRAVDQAE
+RINARNSPVLQYCGGGVSPEMQAPKLLWVKENLQESWSMVCRWMDLSDWLAYRATGDDTR
+SLCTTVCKWTYLGHAHMEQWRESDSRDMEACGWDEVFWEEIGLGDLVEGNrAKIGRSVAF
+PGHPLGSGLTPTSAKELGLLPGTPVGTSLIDAHAGGVGVMESVPDAESKADmSDEEAICH
+RMVLVCGTSTCHMAVSKNKLFIPGVWGPFWSAMIPEFWLTEGGQSATGALLDYIVQNHAA
+APLLANHAASQSVSIYELLNKILLSMAHEQNmPFLSALSQDTHVLPDFHGNRSPVADPKS
+KGVICGLTLDTSEKHLALLYLATIQGIAYGTRHIVEHCNAHGHKIDTLLACGGLAKNSLY
+IQEHADIIGCPIILPRENESVLLGAAVLGAVAAKKFSGVRDAMKALNAAGKVVhPSSDPR
+VKKYHDAKYQIFRSLYEQQLSHRSTMAQALQ
+
+
+PACMAD CONSENSUS:
+Length: 574 aa
+
+MSRGSAASVFLGVDVGTGSARAGLFDEKGKLLGSASSPIQIWKEKDCIEQSSTDIWHAVC
+AAVKSACSLANVAPEDVAGLGFAATCSLVAVDADGSPVSVSWSGDTRRNIIVWMDHRAVN
+QAERINAtNSPVLQYCGGGVSPEMQAPKLLWVKENLQESWSMVCRWMDLSDWLAYRATGD
+DTRSLCTTVCKWTYLGHAHMEQWKESDSRDMEACGWDNVFWEEIGLGDLVEGNCAKIGRS
+VAFPGHPLGSGLTPTAAKELGLLPGTPVGTSLIDAHAGGVGVMESIPDAgSKAdLSDEEA
+ICHRMVLVCGTSTCHMAVSKNKLFIPGVWGPFWSAMVPEFWLTEGGQSATGALLDYIIEN
+HVAAPLLSNRAASQSISIYELLNKMLLSMSHEQNSPFLSALTQDTHVLPDFHGNRSPMAD
+PKSKGVIYGLTLDTSEKHLALLYLATIQGIAYGTRHIVEHCNAHGHKIDTLLACGGLAKN
+SVYIQEHADItGCPIILPRENESVLLGAAVLGAVAGKKFPGVRDAMKALNAAGKVVNPSS
+DPRVKKYHDAKYQIFRSLYEQQLSHRSTMAQALQ
+
+================================================================================

@@ -1,0 +1,137 @@
+================================================================================
+GrassFam ID: GFAM003023
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             594.0 aa
+Family Size (Extended Family Size): 30 (35) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11011:SF117
+Panther Family ID:               PTHR11011
+Modal Panther ID:                PTHR11011:SF117
+Modal Panther Description:       FATTY ACYL-COA REDUCTASE
+Modal Panther Family ID:         PTHR11011
+Modal Panther Fam Desc:          MALE STERILITY PROTEIN 2-RELATED
+Interpro Signature Accession:    cd05236; G3DSA:3.40.50.720; PTHR11011; PF07993; SSF51735
+Interpro Signature Description:  FAR-N_SDR_e; -; MALE STERILITY PROTEIN 2-RELATED; Male sterility protein; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: fatty acyl-CoA reductase 2%2C transcript variant X1
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu04H
+  Gene Products: fatty acyl-CoA reductase 2%2C chloroplastic-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata01D
+  Gene Products: fatty acyl-CoA reductase 2%2C chloroplastic-like
+Tae
+  Gene count: 5
+  Modal chromosome: Tae01B
+  Gene Products: fatty acyl-CoA reductase 2%2C chloroplastic-like; fatty acyl-CoA reductase 2%2C chloroplastic-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: fatty acyl-CoA reductase 2%2C chloroplastic-like
+  Gene Descriptions: fatty acyl-CoA reductase 2%2C chloroplastic-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: fatty acyl-CoA reductase 2
+  Gene Descriptions: fatty acyl-CoA reductase 2
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 3
+  Modal chromosome: Pau03
+  Gene Products: fatty acyl-CoA reductase 2%2C chloroplastic-like
+  Gene Descriptions: fatty acyl-CoA reductase 2%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: fatty acyl-CoA reductase 2%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: fatty acyl-CoA reductase 2-like
+Msi
+  Gene count: 4
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: fatty acyl-CoA reductase 2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: fatty acyl-CoA reductase 2%2C chloroplastic
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 596 aa
+
+MGSSCVNLSRAVARrPGFAAggGrGgHGRsGLLLPSsSSssRRHGndGGVACCsSSSsLG
+GSRPPSFPvHGgsSGpGSAspaDhAgGIGIAEFLGGKNFLITGGTGFLAKVLIEKILRTN
+PDVGKIYVLIKAKDSEAALrRLQNEVVDTELFKCLQEIHGKDYhSFIARKLVPVVGDVRE
+ANIGIAPELADEIAdQVDIIINSAANTTFDERYDVAMDINTVGPFRIMSFAQRFRRLKLF
+LQVSTAYVNGQRQGLVLEKPFRMGDTIAKELGSSDSSEQHKntVLDIEAEIKLAFDSRRH
+sDDSASFSQEMKDLGLERAKLHGWQDTYVFTKAMGEMVINSMRGEIPVVTIRPSVIESTW
+RDPFPGWMEGNRMMDPVVLYYGKGQLSGFLADPeGVLDVVPADMVVNATLASMAKHGGGA
+aGPGMHVYHVSSSTVNPLVFGDLSRFLFQHFTRcPYSDAAGQPIlVPPMRLFDTMEQFAS
+YVETDALLRSARAssssgERLSQRARELCAKSVEQTIHLGSIYQPYTFYGGRFDNGNTEA
+LfAAMSAaEKARFHFDVRSVDWTDYITNVHIPGLRKHVMKGRGVAAeNQLLASTSV
+
+
+BOP CONSENSUS:
+Length: 607 aa
+
+MGSSCVNLSRAVAAARRPGFAggGGaGGHGRSVVALSSSSSSRRRTAADGGVSCGIANGY
+LGGSRPPSLPVHGKSSGPGSAREAGDHDRADGLGIQEFLGGKNFLITGGTGFLAKVLIEK
+ILRTNPDVGKIYVLIKAKDSETALQRLQNEVVDTELFKRLQEIHGKDYHsFIAtKLVPVV
+GDVREANIGIAPELADEIAERVDIIVNSAANTTFDERYDVAMDINTVGPFRIMSFAHRFR
+RLKLFLQVSTAYVNGQRQGVVLEKPFRLGDTIGKGSAGSSDSSEQHKNAVLDIEAEIKLA
+FDSRRRADDDSASFSQEMKDLGLERAKLHGWQDTYVFTKAMGEMVINSMRGEIPVVTIRP
+SVIESTWRDPFPGWMEGNRMMDPVVLYYGKGQLSGFLADPAGVLDVVPADMVVNATLAtM
+AKHGRAAEGGMHVYHVASSTVNPLVFGDLSRFLFQHFTRSPYSDAAGQPIAVPPMRLFDT
+MEQFASYVETDALLRSARAGvPAGERLSQRLQELCAKSVEQTIHLGSIYQPYTFYTGRFD
+NGNTEgLMAEMSAEEKArFHFDVRSIDWTDYITNVHIPGLRKHVMKGRGIAAeSPPsSTV
+LAAASvV
+
+
+PACMAD CONSENSUS:
+Length: 588 aa
+
+MGSSCVNLSRAVLPGFGAArGhsYGRGLLLPLpSSsSRRHGNgAVACCSSSSSsSSRPsS
+SSFPAHdGLGGgSGPaDhAGGIGVAEFLGAKNFLITGGTGFLAKVLIEKILRTNPDVGKI
+YVLIKAKDSEAALRRLQNEVVDTELFKCLQEIHGkDYDSFIARKLVPVVGDVREANIGIA
+PELADEIADQVDVIINSAANTTFDERYDVAMDINTVGPFRIMSFAQRFRRLKLFLQVSTA
+YVNGQRQGLVLEKPFRMGDTIAKELGSSSSEgHKStVLDIEAEIKLAFySRRHSDDSASF
+AQEMKDLGLERAKLHGWQDTYVFTKAMGEMVINSMRGEIPVVTIRPSVIESTWRDPFPGW
+MEGNRMMDPVVLYYGKGQLSGFLADPDGVLDVVPADMVVNATLASMAKHGGGAAGPGMHV
+YHVSSSTVNPLVFGDLSRFLFQHFTRCPYSDAAGQPILVPPMRLFDTMEQFASYVETDAL
+LRSARSSSSSSpRLSQRARDLCAKSVEQTIHLGSIYQPYTFYGGRFDNGNTEALFAAMSA
+AErARFHFDVRSVDWTDYITNVHIPGLRKHVMKGRGVAANQLLASTSV
+
+================================================================================

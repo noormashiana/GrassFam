@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM018377
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             523.5 aa
+Family Size (Extended Family Size): 22 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31083:SF6
+Panther Family ID:               PTHR31083
+Modal Panther ID:                PTHR31083:SF6
+Modal Panther Description:       PROTEIN SOSEKI 3
+Modal Panther Family ID:         PTHR31083
+Modal Panther Fam Desc:          UPSTREAM OF FLC PROTEIN (DUF966)
+Interpro Signature Accession:    PTHR31083; PIRSF031043; PF06136
+Interpro Signature Description:  UPSTREAM OF FLC PROTEIN (DUF966); UCP031043; SOSEKI protein DIX-like domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: protein UPSTREAM OF FLC%2C transcript variant X3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: protein SOSEKI 3%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: protein SOSEKI 3%2C transcript variant X2
+Tae
+  Gene count: 4
+  Modal chromosome: Tae02B
+  Gene Products: protein SOSEKI 3-like; protein SOSEKI 3-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: protein SOSEKI 3%2C transcript variant X2
+  Gene Descriptions: protein SOSEKI 3
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: protein SOSEKI 3%2C transcript variant X1
+  Gene Descriptions: protein SOSEKI 3
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: protein SOSEKI 3-like%2C transcript variant X1; protein SOSEKI 3-like%2C transcript variant X2
+  Gene Descriptions: protein SOSEKI 3-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: protein SOSEKI 2-like%2C transcript variant X1; protein SOSEKI 2-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: protein UPSTREAM OF FLC
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: protein UPSTREAM OF FLC%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: protein UPSTREAM OF FLC%2C transcript variant X1; uncharacterized LOC103628016
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 520 aa
+
+MESRGRRPRSPERQRPAARKVPVVYYLTRSRHLEHPHFVEVPvaSPEGLYLRDVINHLNM
+VRGKGMAAMYSWSCKRSYKNGFVWHDLAEDDLVLPATDGEYVLKGSELLDQSSSGQFYHG
+SNGNQKQQSRLKEGARLPLPREASYSSSPPSVIVREAKPRRSPSVPSrDEDDSPSPCRdr
+SlETMSPESEPQRTqLSRSGSASPAEFRVYKPTGCMDAATQTDDLGRRSgRRAPEMHKKS
+LSTDHDAVVREITEYRQSHPRRSAELQGISRElLSQCATPLSIPSTRGKSESLESLIRAD
+NaTNSFRILEEDDIVVPTCPKLRPANVLMQLITCGSLSVKDHENIGLVqAYKPRFPNLKF
+PSPLISRTMMMGELDYLSENPRLMGMRLEDKEYFSGSLIETKmQRDVPAERYSALKRSSS
+YNAERGGETLDCARPDEDtTDTsSRSRCLPRTPILSSFLHPKSEtlKSPVSDCRRSSSAG
+QDSDLASGdGSKRFTDASvASAaRaDSFRKEEKLVKIEES
+
+
+BOP CONSENSUS:
+Length: 514 aa
+
+MESRGRRPRSPERQRPPARKVPVVYYLTRSRHLEHPHFVEVPASSSSEGLYLRDVIrHLN
+MVRGKGMASMYSWSCKRSYKNGFVWHDLAEDDLVLPATDGEYVLKGSELLDQPSSGQFYH
+GSNGNQKQQSRLKEGTRLPLSREASFSSSPPSVTVREAKPRRvPSVPSRDEDDSPSPCRG
+TSSETMSPESEPQRTVMSRpTPAEFRVFKPTGLMDAATQTDDLGRRSARRVPEMHKKSLS
+TDHDSVVREVTEYRQQSHPRRSAELQGISRDVMSQCATPLSMASTHGKSESLESLIRADN
+ASaNSFRILEEDDIVVPTCPKLRPANVLMQLITCGSLSVKDHDNIGLVGAYKPRFPNLKF
+PSPLISRSMMMGELDYLSENPRFIGTRlEDKEYFSGSIIETKTQRDVPAERHSVLKRSSS
+YNAERGGETLCDCARPDEEemVSRSRCLPRTPILSSFLHPKSEaQKSPVSDCRRSSSAGP
+DSIDGGSKRFTDASSRvESFRKENKEKLVKIEES
+
+
+PACMAD CONSENSUS:
+Length: 547 aa
+
+MESRGRRPRTPERQRPAARKVPVVYYLTRSRHLEHPHFVEVPVASPEGLYLRDVINHLNM
+VRGKGMAAMYSWSCKRSYKNGFVWHDLaEDDLVLPATDGEYVLKGSELVDQSsSGQFYPV
+SNGNQKQQSRLKEGARQPLPREHSYPSSPPSVIVREAKPRRSPSVPSQDEDDTPSPCRDR
+SLrTMSPeLEPQRNERTQLPaSGSASPAEFRVYKPTGCMDAATQTDDLGRRSGRRAPEmR
+KKSLSTDHDAVVREITEYRQSHPRRSADLQGISRELLSQCaTPLSIPSTRGKSESLESLI
+RADNaTNSFRILEEEDIVVPTCPKLKPTNVLMQLITCGSLSVKDHENvGIVQAYKPRFPN
+LKFPSPLISRTMMMGELDYLSENPRLMGMRLEEKEYFSGSLIETKMQRDVPAERYSALKR
+SSSYNAERgGETLDCTRPDEDTTDTSSRSRCLPRTPILSSFLHPKSDTLKSPVSDCRRSS
+SARQDCDLASGDGSRRFADASvASAARADSFRKEEKLVKIEERLSSGARVVIQYTVPCNE
+SDEGSER
+
+================================================================================

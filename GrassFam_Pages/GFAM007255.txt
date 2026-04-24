@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM007255
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             349.0 aa
+Family Size (Extended Family Size): 24 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR10896
+Modal Panther ID:                PTHR10896:SF26
+Modal Panther Description:       BETA-1,4-XYLOSYLTRANSFERASE IRX9-RELATED
+Modal Panther Family ID:         PTHR10896
+Modal Panther Fam Desc:          GALACTOSYLGALACTOSYLXYLOSYLPROTEIN 3-BETA-GLUCURONOSYLTRANSFERASE  BETA-1,3-GLUCURONYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:3.90.550.10:FF:000227; G3DSA:3.90.550.10; PTHR10896; PF03360; SSF53448
+Interpro Signature Description:  Glycosyltransferases; Spore Coat Polysaccharide Biosynthesis Protein SpsA; Chain A; GALACTOSYLGALACTOSYLXYLOSYLPROTEIN 3-BETA-GLUCURONOSYLTRANSFERASE  BETA-1,3-GLUCURONYLTRANSFERASE; Glycosyltransferase family 43; Nucleotide-diphospho-sugar transferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: probable glucuronosyltransferase Os07g0694400
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu02H
+  Gene Products: probable beta-1%2C4-xylosyltransferase IRX9
+Ata
+  Gene count: 2
+  Modal chromosome: Ata02D
+  Gene Products: probable beta-1%2C4-xylosyltransferase IRX9
+Tae
+  Gene count: 6
+  Modal chromosome: Tae02A
+  Gene Products: probable beta-1%2C4-xylosyltransferase IRX9; probable beta-1%2C4-xylosyltransferase IRX9%2C transcript variant X1; probable beta-1%2C4-xylosyltransferase IRX9%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: probable beta-1%2C4-xylosyltransferase IRX9
+  Gene Descriptions: probable beta-1%2C4-xylosyltransferase IRX9
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: probable glucuronosyltransferase Os07g0694400
+  Gene Synonyms: GT43C,IRX9,OsGT43C,OsIRX9
+  Gene Descriptions: probable glucuronosyltransferase Os07g0694400
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 1
+  Modal chromosome: Pau16
+  Gene Products: probable beta-1%2C4-xylosyltransferase IRX9
+  Gene Descriptions: probable beta-1%2C4-xylosyltransferase IRX9
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi02N
+  Gene Products: probable beta-1%2C4-xylosyltransferase IRX9%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: probable glucuronosyltransferase Os07g0694400
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: probable glucuronosyltransferase Os07g0694400
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: uncharacterized LOC100194354
+  Gene Synonyms: GRMZM2G076307
+  Gene Descriptions: uncharacterized LOC100194354
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 335 aa
+
+MASPKKAKpRaRRPLLLRRAMLHSSLCFLvGLLAGLAPSDWTdAASrAATAHVFRALHAV
+GAFNhTVLLLqQQQRQLqPsPppPalEPLRQPQLLVVVTATErSDPERRAAGLTRTAHAL
+RLVSPPVLWLVVEpAREApPTARLLRGTGVVYRHLTYpENFTsDgVGwEkERHHQRNVAL
+GHVEeHRLaGVVLFAGLGDVYDLRLFDQLRQIRTfGAWPVATVSErERRVtVEGPVCgGS
+PWAVTGWFStadgaPtVRARPPagtvDVhGFAFgSaLLWDPaRWDRFPvSEPDASQDSvK
+FVQRLAaEDYNKSRGMPdsDCSEIMVWRgDqtLAT
+
+
+BOP CONSENSUS:
+Length: 348 aa
+
+MASPKKAKPRARRPLLLRRAMLHSSLCFLvGLLAGLAPAfRWTHVASaAAtAHVfRALHA
+VDGAFNhTVLLLqQQQRQLQhGRVHVAVLPsPsPPPPALEPLRQPQLLLVVTATERSDPE
+RRAAGLTRAAHALRLVPPPVLWLVVEpAtEAPPTARLLRGAGVaYRHLTYPENFTADGVG
+vEKERHHQRNVALGHVEEHRLAGVVLFAGLGDVYDLRFFDQLRQIRTFGAWPVATVSERE
+RKATVEGPVCGGSPWAVTGWFSTAAgaPTVRARPPAGTVDVARFAFGSALLWDPhRWDRF
+PVSEPDASQDSVKFVQRLAAEEYNKSRGMPDrDCSEIMVWRGDQlVAT
+
+
+PACMAD CONSENSUS:
+Length: 352 aa
+
+MASPKHSHrhrAsArttKqRPLlLRRAMLHSCvCFLVGLLTGLAPSDWTDAASRAAVHAN
+AAATAQVFRAvRAMNhTAALLtLqHyQsyqQQqkQEqPPlDLVVVVTTTTTtTGLSERER
+RSAGLTRTAHALRLVSPPVVWLVVEAAREAgPTARLLRRTGVVYRHLTYgENFTSeAWEE
+ERHHQRNVALAHIEQHRLRGVVLFAGLADVYDvRLLEqLRrIRTvGAWPVATVWEQERRV
+AVEGPVCsTAGgsaTAAAWFSSSTSsTegAastsPTPPVttDDSVHGFAFASDLLWDPAR
+WDRFPTSEPDQSQDSIKFVQRLVVEDYNKTRPIPaYSNCSQIMVWRVDTTLL
+
+================================================================================

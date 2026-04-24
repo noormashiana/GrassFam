@@ -1,0 +1,125 @@
+================================================================================
+GrassFam ID: GFAM009273
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             369.0 aa
+Family Size (Extended Family Size): 18 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43286:SF1
+Panther Family ID:               PTHR43286
+Modal Panther ID:                PTHR43286:SF1
+Modal Panther Description:       ENDONUCLEASE III-LIKE PROTEIN 1
+Modal Panther Family ID:         PTHR43286
+Modal Panther Fam Desc:          ENDONUCLEASE III-LIKE PROTEIN 1
+Interpro Signature Accession:    cd00056; G3DSA:1.10.1670.10:FF:000003; G3DSA:1.10.340.30:FF:000005; G3DSA:1.10.340.30; G3DSA:1.10.1670.10; PTHR43286; SM00478; SSF48150
+Interpro Signature Description:  ENDO3c; Endonuclease III homolog; Endonuclease III-like protein 1; Hypothetical protein; domain 2; -; ENDONUCLEASE III-LIKE PROTEIN 1; endo3end; DNA-glycosylase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: endonuclease III homolog 1%2C chloroplastic%2C transcript variant X1
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: endonuclease III homolog 1%2C chloroplastic-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: endonuclease III homolog 1%2C chloroplastic%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: endonuclease III homolog 1%2C chloroplastic-like%2C transcript variant X1; endonuclease III homolog 1%2C chloroplastic-like%2C transcript variant X4
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: endonuclease III homolog 1%2C chloroplastic-like
+  Gene Descriptions: endonuclease III homolog 1%2C chloroplastic-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa11
+  Gene Products: endonuclease III homolog 1%2C chloroplastic%2C transcript variant X2
+  Gene Descriptions: endonuclease III homolog 1%2C chloroplastic
+Pau
+  Gene count: 1
+  Modal chromosome: Pau19
+  Gene Products: endonuclease III homolog 1%2C chloroplastic-like%2C transcript variant X1
+  Gene Descriptions: endonuclease III homolog 1%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi08K
+  Gene Products: endonuclease III homolog 1%2C chloroplastic-like%2C transcript variant X1; endonuclease III homolog 1%2C chloroplastic-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: endonuclease III homolog 1%2C chloroplastic-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi14
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: endonuclease III homolog 1%2C chloroplastic%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: endonuclease III homolog 1%2C chloroplastic%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 369 aa
+
+MPLALLLSRIrLsPAkMpsTRSasakRLlASsRAdlsPGVREVKRESSVSFDySKsEmtA
+SVKRKRVKRVLEVNGEHPKKQVGiVPDIEDFRYdKTKAlTSSSKAtsSsVRVEKKVRVSS
+VIKVgAPENWEAVLGGIKNMRLSGQAPVDTKGCEKAGSLLPPKERRFAVLISTMMSSQTK
+DEVTHAAVERLSENGLLDPDAIVRTDEATLANLIKPVGFYQRKAQFIKEASKICLERFGG
+DIPDSLNELLALRGVGPKMAHLVMSIAWKNTQGICVDTHVHRISNRLGWVFREGTKQKTT
+TPEQTRMSLEKWLPKDEWEPINPLLVGFGQTICTPLRPKCDmCGINNLCPSAFKESSSPN
+PKQKKTRSt
+
+
+BOP CONSENSUS:
+Length: 458 aa
+
+MPFrLLPHRIGLFSSISAMSSSRsASRLiRASRPELNETVREVKcEPGVSFDYSKSEMNS
+VRRKRLNRVLEVKEELPKKQVGIVPDIEDFRYVKTGAKTSVTAKRVPASSNKNSSPGVKE
+VKCESSVSFDYSKSEMNSVeRKRLNRVLEVkgEHPKKEVGiVPDIEDFRYVKTEAkTSVS
+TKRVPASSNKNSSPVRLEKKIRVSSVVKVEVAAPENWEAVLaGIKNIRLSGEAPVDTKGC
+EKAGSLLPPKERRFAVLISTMMSSQTKDEVTHAAVERLGENGLLDPDAIVRTDEATLANL
+IKPVGFYQRKAQFIKEASRICLERFGGDIPDTLTDLLALKGVGPKMAHLVMSIAWKNTQG
+ICVDTHVHRISNRLGWVFREGTKQKTTTPEQTRMSLEKWLPKDEWEPINPLLVGFGQTIC
+TPLRPKCGSCGINTICPSAFKEASSPNPKQKKRGLGpT
+
+
+PACMAD CONSENSUS:
+Length: 367 aa
+
+MpLALLLSRIRLSPAAMPSTRSASSsRLLVRADLNPVVREVKRESSVSFDiSKPESTASV
+KRKRVKRELEVNGEHPKKQVGIVPDIEDFRYeKTKAlTSSSKATaSSVKVEKKVRVSSVI
+KVGAPENWEAVLGGIKNMRLSGQAPVDTKGCEKAGSLLPPKERRFAVLISTMMSSQTKDE
+VTHAAVERLSENGLLDPDAIVRTDEATLANLIKPVGFYQRKAQFIKEASKICLERFGGDI
+PDSLNELLALRGVGPKMAHLVMSIAWKNTQGICVDTHVHRISNRLGWVFREGTKQKTTTP
+EQTRISLEKWLPKDEWEPINPLLVGFGQTICTPLRPKCDmCGINNLCPSAFKESSSPNPK
+QKKTRSP
+
+================================================================================

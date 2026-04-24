@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM014003
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             452.5 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12482:SF15
+Panther Family ID:               PTHR12482
+Modal Panther ID:                PTHR12482:SF15
+Modal Panther Description:       OS02G0787100 PROTEIN
+Modal Panther Family ID:         PTHR12482
+Modal Panther Fam Desc:          LIPASE ROG1-RELATED-RELATED
+Interpro Signature Accession:    G3DSA:3.40.50.1820:FF:000188; PTHR12482; PF05057
+Interpro Signature Description:  putative lipase ROG1 isoform X1; LIPASE ROG1-RELATED-RELATED; Putative serine esterase (DUF676)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: putative lipase C4A8.10
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: uncharacterized LOC123403023
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: putative lipase C4A8.10
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: putative lipase C4A8.10; putative lipase C4A8.10%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: putative lipase C4A8.10
+  Gene Descriptions: putative lipase C4A8.10
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: putative lipase C4A8.10
+  Gene Descriptions: putative lipase C4A8.10
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: putative lipase C4A8.10%2C transcript variant X1; putative lipase YDR444W
+  Gene Descriptions: putative lipase C4A8.10; putative lipase YDR444W
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi01N
+  Gene Products: putative lipase C4A8.10%2C transcript variant X2; uncharacterized LOC120657417; uncharacterized LOC120657419%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: putative lipase C4A8.10%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: uncharacterized LOC8081957
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: serine esterase family protein
+  Gene Synonyms: GRMZM2G008242
+  Gene Descriptions: serine esterase family protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 452 aa
+
+MPASSRLctSATCSLAASASsrSPPRRRRRlASlMGQSPSAPpGrGRSRSSSRWPqPGLR
+LDLGLLLGRKPRPGGERLDLANWMRCFLSqPLPQPTAEAEaEAEAEGRAAGsREEEEVGG
+EEADHLVVMVNGLYGSSADWKFAAEQFVKRLPGKVYVHRSQCNHSKLTYDGVDLMGERLA
+EEVRQVVQRRRNLRKISFVAHSLGGLVTRYAIGKLYEPStsEESSLDtDKhSDEQnIpgG
+GKIAGLEPINFITSATPHLGSRWNKQLPFLFGVPLLERTAAeTAHFIVGRTGKHLFLTDR
+DDGKPPLLVRMVEDCDDGKFMSALRSFKRRVAYANVTYDHIVGWRTSSIRRQHELPKLKL
+TANDEKYPHVINVDKGNSEDHQQEeSVEaSLaDSLEEeMIRGLTQVTWERVDVCFHKSWL
+RYNAHnNIQVRIHPvNSDGEDVIYHMIDNFLV
+
+
+BOP CONSENSUS:
+Length: 454 aa
+
+MPASSRLCAYATCSLAASPVPTPPSPPLRRRRRhRRLASSMGQStSSPsGgGRSRGDSRW
+PALRLDLGLPPGRKQRPgGERLDLGnRLRCALSRPSPQpTEVEIEAEEEGRDAGNRVEVE
+AGGAEADHLVVMVNGLYGSSADWKFAAEQFVKRLPGKVYVHRSECNHSKLTYDGVDIMGE
+RLAEEVHQVVQRKgNLRKISfVAHSLGGLISRYAIGRLYEESTSEEPCLNMEKHSDEEnI
+SrGGKIAGLEPMNFIASATPHLGSRWNKQLPFLFGVPLLEQTAAETAHLIVGRTGKHLFL
+SDRDDGKPPLLVRMVEDCDDGKFMSALRSFKRRVAYANITYDHIVGWSTSSIRRQHELPK
+LELTAnDEKYPHVIHVDTANSEGhQQEDSVeTSLTDSLEEEMIRGLTQVTWERVDVCFHE
+SRLKYNAHYNIQVRTPMNLEGEDVIYHMIDNFLV
+
+
+PACMAD CONSENSUS:
+Length: 451 aa
+
+MPASSRFYTSATCSLASASSRSPPRRRRAASLMGQSPSAPPGRSRSRSRSSSRWPqPGLG
+LDLGFLLGRKPRPGDERPDLANWMRCFLSQRLPPPTAEAETAdAEGKAAGSREEEEVGGE
+EADHLVVMVNGLYGSSADWKFAAEQFVKRLPGKVFVHRSQSNHSKLTYDGVDLMGERLAE
+EVRQVVQRRRNLRKISFVAHSLGGLVTRYAIGKLYEPAMnETSSLDTDKLSDEQKvPGAG
+KIAGLEPINFITSATPHLGSRWNKQLPFLFGVPLLERTAAGTAHFIVGRTGKHLFLTDRD
+DGKPPLLLRMVEDCDDGKFMSALRSFKRRVAYANVTYDHIVGWRTSSIRRQHELPKLKLT
+ANDEKYPHVINVDKGNSEDHQQEESVEDSLADSLEErMIRGLTQVtWERVDVCFHKSWLR
+YNAHNNIQVRIHPVNSDGEDVIYHMIDNFLV
+
+================================================================================

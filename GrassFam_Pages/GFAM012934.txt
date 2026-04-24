@@ -1,0 +1,137 @@
+================================================================================
+GrassFam ID: GFAM012934
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             524.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12705:SF0
+Panther Family ID:               PTHR12705
+Modal Panther ID:                PTHR12705:SF0
+Modal Panther Description:       ORIGIN RECOGNITION COMPLEX SUBUNIT 5
+Modal Panther Family ID:         PTHR12705
+Modal Panther Fam Desc:          ORIGIN RECOGNITION COMPLEX SUBUNIT 5
+Interpro Signature Accession:    G3DSA:3.40.50.300:FF:002111; PTHR12705; PF14630
+Interpro Signature Description:  Origin of replication complex subunit 1; ORIGIN RECOGNITION COMPLEX SUBUNIT 5; Origin recognition complex (ORC) subunit 5 C-terminus
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: origin of replication complex subunit 1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: origin of replication complex subunit 5
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: origin of replication complex subunit 5
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: origin of replication complex subunit 5-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: origin of replication complex subunit 5
+  Gene Descriptions: origin of replication complex subunit 5
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: origin of replication complex subunit 1-like
+  Gene Synonyms: ORC5,OsJ_12664,OsORC1
+  Gene Descriptions: origin of replication complex subunit 1-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau03
+  Gene Products: origin of replication complex subunit 5-like
+  Gene Descriptions: origin of replication complex subunit 5-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: origin of replication complex subunit 5-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: origin of replication complex subunit 1%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: origin of replication complex subunit 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: origin of replication complex subunit 5
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 527 aa
+
+MSQPVTPRRTTRSSAgAasDPASPTSPPKSRPKSSPRRQLLAAAAaPEEEGEnErSsiDA
+LLEALPGRRAQATDLLRLLAPAPALPLLLHGGAATGKTRALLLALRHlRPRPRRVAYAAL
+RSLPSPRALFASLLSQLSPpSSSSaSSRQRVPDKPSDFVAALRDALAGLvAQGEaVYLVF
+DNLEVVRSWDKGGQLLALLLRLHDLLRLPQVVLVYVSSATPDAYYSMTGSVEPNHIYFPD
+YTVDEVRDILMRGHPNPKLYSSFLSVALKPLFRVTRRVDELAAALEPLFRRYCEPLGDLK
+AVPDEGmKRRLFEHIQPHLAVALNETFSVPMRASVDECKDgSSGGKASvKRQFGSRDGLS
+TELEFHMSVSAKYLLLSAFLASRNPATLDAALFDSTGGSDNRkRKRKSSQASinMKDTMA
+EEMLMKGPGTFPLERLLAIFQCITSVSEDvLdDVECPDSMMNGSGMTGLMSDVLLQLSTL
+CNSNFLSKSRSCPLEGSARYRSNIDEDLALKVARSVsFPLSKYIYRR
+
+
+BOP CONSENSUS:
+Length: 517 aa
+
+MSQPvTPRRTTRsaAsAPDSPtSPPKSRPKSSHRRQLLAAAAgPnEGePLDALLeALPGR
+RAQATDLLRLLAPAPALPVLLHGGAATGKTRALLLALRHLRPSPRLVYAALRSLPSPRAL
+FASILSQLNALSSStSSRQRVPDKPSDFIAALRDALAGVVAQGElVYLVFDNLEVvRGWD
+KGGQLLSLLLRLHDLLRLPQVVLVYVSSATPDAYYTMTGSVEPNHVYFPDYTVDEARDIL
+MRGQSNPKLYSSFLGVVLKPLFRVTRRVDELAALLEPLFRRYCEPLGDLQAVPDEGMRRR
+LFEHLQPHLAVALNETFSVPMRASVeKCKDDSSGGKASVKRQFGGRDGLSSELEFHMSVS
+AKYLLLSAFLASRNPATLDAALFDSTGGSDtRNRKRKSSQASIDRKDTMAEEiLMKGPGT
+FPLERLLAIFQCITSVSEDVLDEVECPDSMMaGSGTNALMSDVLLQLSTLCNSNFLSKSR
+SCPLEGSARYRSNIDEDLALKVARSVGFPLSKYMYRR
+
+
+PACMAD CONSENSUS:
+Length: 527 aa
+
+MSQPVTPRRTTRSSAGSAsDPASPTSPSKSRPKSTPRRQLvPTAAAKEEEGEhERStIDA
+LLEALPGRRAQATDLLRLLAPAPALPLLLYGGAATGKTRALLLALRHVRPRPRRVAYAAL
+RSLPSPRALFASLLSQLSPPSSSSASSRQRVPDKPSDFVAALRDALAGLSAQGEAVYLVF
+DNLEVVRSWDKGGQLLALLLRLHDLLRLPQVVLVYVSSATPDAYYSMTGSVEPNHIYFPD
+YTVDEVRDILMRGHPNPKLYSSFLSVALKPLFRVTRRVDELvAALEPLFRRYCEPLGDLK
+AVPDESIKRRLFEHIQPHLAVALNETFSVPmRASVDECKDgSSGgKAStKRQFGSRDSLs
+TELEFHMSVSAKYLLLSAFLASRNPATLDAALFDSTGGSDNHKRKRKSSQASMNMKDTMV
+EEMLMKGPGTFPLERLLAIFQCITSVSEDALsDVECPDSMMNGSGMTGLMSDVLLQLSTL
+CNSNFLSKSRSCPLEGSARYRSNIDEDLALKVARSVSFPLSKYIYRR
+
+================================================================================

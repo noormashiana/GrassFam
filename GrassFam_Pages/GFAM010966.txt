@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM010966
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             475.0 aa
+Family Size (Extended Family Size): 23 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR21256:SF13
+Panther Family ID:               PTHR21256
+Modal Panther ID:                PTHR21256:SF13
+Modal Panther Description:       HISTIDINOL DEHYDROGENASE, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR21256
+Modal Panther Fam Desc:          HISTIDINOL DEHYDROGENASE  HDH
+Interpro Signature Accession:    cd06572; G3DSA:1.20.5.1300:FF:000002; G3DSA:3.40.50.1980:FF:000019; G3DSA:3.40.50.1980:FF:000011; G3DSA:1.20.5.1300; G3DSA:3.40.50.1980; TIGR00069; PTHR21256; PIRSF000099; PR00083; PF00815; SSF53720
+Interpro Signature Description:  Histidinol_dh; Histidinol dehydrogenase, chloroplastic; -; Nitrogenase molybdenum iron protein domain; histidinol dehydrogenase; HISTIDINOL DEHYDROGENASE  HDH; Histidinol dehydrogenase signature; Histidinol dehydrogenase; ALDH-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: histidinol dehydrogenase%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: histidinol dehydrogenase%2C chloroplastic%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: histidinol dehydrogenase%2C chloroplastic%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: histidinol dehydrogenase%2C chloroplastic%2C transcript variant X1; histidinol dehydrogenase%2C chloroplastic-like%2C transcript variant X1; histidinol dehydrogenase%2C chloroplastic-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: histidinol dehydrogenase%2C chloroplastic
+  Gene Descriptions: histidinol dehydrogenase%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: histidinol dehydrogenase%2C chloroplastic-like
+  Gene Synonyms: HDH,OsJ_01002,P0702F03.3
+  Gene Descriptions: histidinol dehydrogenase%2C chloroplastic-like
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN341
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: histidinol dehydrogenase%2C chloroplastic%2C transcript variant X1; histidinol dehydrogenase%2C chloroplastic-like%2C transcript variant X1
+  Gene Descriptions: histidinol dehydrogenase%2C chloroplastic; histidinol dehydrogenase%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: histidinol dehydrogenase%2C chloroplastic%2C transcript variant X1; histidinol dehydrogenase%2C chloroplastic-like%2C transcript variant X1
+Pha
+  Gene count: 2
+  Modal chromosome: Pha03
+  Gene Products: histidinol dehydrogenase%2C chloroplastic%2C transcript variant X1; histidinol dehydrogenase%2C chloroplastic-like%2C transcript variant X3
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: histidinol dehydrogenase%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100284964%2C transcript variant X2
+  Gene Synonyms: GRMZM2G058584,pco067414
+  Gene Descriptions: uncharacterized LOC100284964
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 477 aa
+
+MGSLRAPPPAPLVGstRVGFGSgLRLASsrVLKsRGLtvSCAMKSYRLSELSDAEVSGLK
+ARPRIDFSSIFGTVNPIVEDVRVRGDAAVKDYTEKFDKVTLDDVVVRVSDLPDAELDPAV
+KEAFDVAYDNIYAFHVSQKLPEKTVENMKGVRCKRITRCIGSVGLYVPGGTAVLPSTALM
+LAVPAQIAGCKTIVLATPPSRDGSICKEVLYCAKKAGVTHILKAGGAQAISAMAWGTASC
+PKVEKIFGPGNQYVTAAKMILQNSEAMVSIDMPAGPSEVLVIADKYANPVHVAADLLSQA
+EHGPDSQVVLVIAGDGVDLGAIEAEVSKQCnALPRGEFASKALSHSFTVFAKDMVEAISF
+SNlYAPEHLIINVKDAEQWEELIENAGSVFLGQWTPESVGDYASGTNHVLPTYGYARMYS
+GVSLNSFLKYITVQSLTEEGLRrLGPYVAKMAEVEGLEAHKRAVTLRLQEvEATVTV
+
+
+BOP CONSENSUS:
+Length: 475 aa
+
+MGSLRAPPQLAGGTSLGRGYRPCLASSGVPKSKVLSVSCAMKSYRLSDLSDAEVSGLKAR
+PRIDFTSIFSTVNPIVEDVRVRGDAAVKDYTEKFDKVTLDNAVVRVSDLPDAELDPAVKE
+AFDVAYDNIYAFHVSQKSPEKTVENMKGVRCKRITRCIGSVGLYVPGGTAVLPSTALMLA
+VPAQIAGCKTVVLATPPSRDGSICKEVLYCAKKAGVTHILKAGGAQAISAMAWGTASCPK
+VEKIFGPGNQYVTAAKMILQNSEAMVSIDMPAGPSEVLVIADKYANPVHVAADLLSQAEH
+GPDSQVVLVIAGDGVDLGAIEAEVSKQCDALPRGEFASKALGHSFTVFARDMVEALSFSN
+MYAPEHLIINVKDAEQWEELIENAGSVFLGQWTPESVGDYASGTNHVLPTYGYARMYSGV
+SLNSFLKYITVQSLTEEGLRRLGPYVAKMAEVEGLEAHKRAVTLRLQEIEATVTV
+
+
+PACMAD CONSENSUS:
+Length: 477 aa
+
+MGSLRAPPPAPLVGSARVlFGSGLRFASdRVLKPRGLTTSSAMKSYRLSELSDAEVSGLK
+ARPRIDFSSIFGTVNPIVEDVRVRGDAAVKDYTEKFDKVTLDDVVVRVSDLPDAELDPAV
+KEAFDVAYDNIYAFHVSQKLPEKTVENMKGVRCKRITRCIGSVGLYVPGGTAVLPSTALM
+LAVPAQIAGCKTIVLATPPSRDGSICKEVLYCAKKAGVTHILKAGGAQAISAMAWGTASC
+PKVEKIFGPGNQYVTAAKMILQNSEAMVSIDMPAGPSEVLVIADKYANPVHVAADLLSQA
+EHGPDSQVVLVIAGDGVDLGAIEAEVSKQCNALPRGEFASKALSHSFTVFAKDMVEAISF
+SNLYAPEHLIINVKDAEQWEELIENAGSVFLGQWTPESVGDYASGTNHVLPTYGYARMYS
+GVSLNSFLKYITVQSLTEEGLRKLGPYVAKMAEVEGLEAHKRAVTLRLQEVEATVTV
+
+================================================================================

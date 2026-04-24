@@ -1,0 +1,150 @@
+================================================================================
+GrassFam ID: GFAM018451
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             747.0 aa
+Family Size (Extended Family Size): 21 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13803:SF17
+Panther Family ID:               PTHR13803
+Modal Panther ID:                PTHR13803:SF17
+Modal Panther Description:       PROTEIN TRANSPORT PROTEIN SEC24
+Modal Panther Family ID:         PTHR13803
+Modal Panther Fam Desc:          SEC24-RELATED PROTEIN
+Interpro Signature Accession:    G3DSA:1.20.120.730; G3DSA:3.40.50.410; PTHR13803; SSF53300
+Interpro Signature Description:  Sec23/Sec24 helical domain; von Willebrand factor, type A domain; SEC24-RELATED PROTEIN; vWA-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: protein transport protein sec24
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: protein transport protein sec24%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: protein transport protein SEC24
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: protein transport protein SEC24-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: protein transport protein sec24
+  Gene Descriptions: protein transport protein sec24
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: protein transport protein SEC23 D
+  Gene Descriptions: protein transport protein SEC23 D
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau09
+  Gene Products: protein transport protein SEC23 D-like%2C transcript variant X1
+  Gene Descriptions: protein transport protein SEC23 D-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: protein transport protein sec24-like%2C transcript variant X1; uncharacterized protein C4.03c-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: protein transport protein sec24
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: protein transport protein sec24%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma06
+  Gene Products: sec23/sec24 transport family protein; uncharacterized LOC100384066
+  Gene Synonyms: GRMZM2G106140; GRMZM2G141735
+  Gene Descriptions: sec23/sec24 transport family protein; uncharacterized LOC100384066
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 747 aa
+
+MAVRATVSRFPVTpEALEsCAVQWGVAVTPFAAADERGQPPATGAGGDRVPRCEHCWAYF
+NSHCDLERWGWaCALCGTLNGFDDDAlRRFQRPeACPELNSSFVDLEIPVDEAEGGGDGV
+QARPVYVAAVDLACSEEFLELIKSALLAALEALIPGSLFGLMTFSHKIGLYDVQGPIPVV
+KNVFIPPDLEEDGLPVALEDAMPLLSFLAPVDTCKDRIAAALETLRPTSSWERGAASGQE
+eDTVLLGGRGFGTAMSALIDYLSSEYGSTFALARVFAFLSGAPDYGdGQLDTRRYGEQYA
+SKGVDADLALLPEQIPFYRDLAAVAVQAGVCVDIFAVTDEYTDLASLKFLSIESGGSLFL
+YANTDDSTLPQDIYRLLSRPYAFGCVLRLRTSSDFEPGNSYGHFFPDPQYENVQHIICCD
+SFATYAYDFDFtHnDGFSRHTDPAVVQIAFQYSVIEPVEETSGNGsQSSASYKFCLKRRL
+RIRTLQYRPArNISEIYDSVDPEvVLHILVHKVILESLDKGVREGRhQVHDWLALLAARY
+NqALRSDARTPESSIDIDFSQCPQLQMIPQLVFALLRSPLLRLHEEGIHPDYRIYLQCLF
+SALEPSSLAKAIYPVLISYSSPDKQAFPRHTLSRAALIMSESPIFLLDAFTNLIVYYSST
+ADPSLPFPPPHDCLLRTTINrLKQDRCITPKLTFIHGGqDDSTLFESYLIEEQDVDGSGF
+TTGSGFVSFRESVRNVAAEIIqEESGS
+
+
+BOP CONSENSUS:
+Length: 747 aa
+
+MAVRATVSRFPVTQgALDECGIQWGISVTPFAAADERGQPPATAgRGDRLPRCERCWAYF
+NTYCDVERWGWACALCGTLNGFDDDALRRFQRPEACPELNASFVDFEIPVDeADGAGDGV
+qARPVYVAAVDLACSEEFLELIKSALLAALEALIPGSLFGLMTFSHKIGLYDVQGPIPVV
+KNVFIPPDSEEDGLPVALEDAMPLLSFLAPVDTCKDRIAAALDTLRPTSSWERGAASGQE
+ADTVLLGGRGFGTAMSSLIDYLSSEYGSTFALARVFAFLSGAPDYGDGQLDTRRYGEQYA
+SKGEDADLALLPEQIPFYRDLAAVAVQAGVCVDIFAVTDEYTDLASLKFLSIESGGSLFL
+YANADDSTLPQDIYRLLSRPYAFGCVLRLRTSSDFEPGHSYGHFFPDPQYENVQHIICCD
+SFATYAYDFDFTHADGFSRHTEPAVVQIAFQYSVIEPVEvASGNGPQSYPSYRFCLKRRL
+RIRTLQYRPANNINEIYDSVDQEAVLHILVHKVILVSLENGVREGRnSVHDWLAILITRY
+NDALRSDPRTPESHIDIDFSQCPQLQMIPQFVFGLLRSPLLRLHEEGIHPDYRIYLQCLF
+SALEPSSLAKAIYPVLISYSSPNKQAFPRHTLSRAALTMSESPIFLLDAFTNLVVYYSST
+ADPSLPFPPPHDCLLRTTINALKQDRCITPKLtFVRGGQDDSSLFENYLIEEQDVDGSGY
+TSGNGFISFREGIRNEVAEILKEESGS
+
+
+PACMAD CONSENSUS:
+Length: 747 aa
+
+MAVRATVSRFPATPEALESCAVQWGVAVTPFAAADERGQPPTTGAGGDRVPRCEHCWAYL
+SSHCDLERWGWTCALCGTLNGFDDETERRFQRPDACPELNSSFVDLEIPVDEAEGGGDGV
+QARPVYVAAVDLACSEEFLELIKSALLAALEALIPGSLFGLMTFSHKIGLYDVQGPIPVV
+KNVFIPPDLEEDGLPVALEDAMPLLSFLAPVDTCKDRIAAALETLRPTSSWERGAASGQE
+EDTVLLGGRGFGTAMSALIEYLSSEYGSTFALARVFAFLSGAPDYGAGLLDTRRYGEQYA
+SKGVDADLALLPEQIPFYRDLAAVAVQSGVCIDIFAVTDEYTDLASLKFLSIESGGSLFL
+YANTDDSTLPQDIYRLLSRPYAFGCVLRLRTSSDFEPGNSYGHFFPDPQYENVQHIICCD
+SFATYAYDFEFAHNDGFSRHTDPAVVQIAFQYSVIEPVKETSGNGSQSSASYKFCLKRRL
+RIRTLQYRPARNISEIYDSVDPEVVLHILVHKVILESLDKGVREGRHQVHAWLSLLAARY
+NQALSSDVRTPLSSIDIDFSQCPQLQTIPQLVFALLRSPLLRLHEEGVHPDYRIYLQCLF
+SALEPSSLAKAIYPVLISYSSPDKQAFPRHTLSRAALIMSESPIFLLDTFTNLIVYYSST
+ADPSIPFPPPRDCLLRTTINRLKQDRCITPKLTFIHGGKDDSTLFESYLIEEQDVDGSGF
+TTGSGFVAFRESVRNVAGEIIQEEIGS
+
+================================================================================

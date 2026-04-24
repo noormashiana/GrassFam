@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM007907
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             599.0 aa
+Family Size (Extended Family Size): 21 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12558:SF10
+Panther Family ID:               PTHR12558
+Modal Panther ID:                PTHR12558:SF10
+Modal Panther Description:       CELL DIVISION CYCLE PROTEIN 23 HOMOLOG
+Modal Panther Family ID:         PTHR12558
+Modal Panther Fam Desc:          CELL DIVISION CYCLE 16,23,27
+Interpro Signature Accession:    G3DSA:1.25.40.10; PTHR12558; PF04049; SSF48452
+Interpro Signature Description:  Tetratricopeptide repeat domain; CELL DIVISION CYCLE 16,23,27; Anaphase promoting complex subunit 8 / Cdc23; TPR-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: anaphase-promoting complex subunit 8
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: anaphase-promoting complex subunit 8
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: anaphase-promoting complex subunit 8
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: anaphase-promoting complex subunit 8-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: anaphase-promoting complex subunit 8-like%2C transcript variant X1
+  Gene Descriptions: anaphase-promoting complex subunit 8-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: anaphase-promoting complex subunit 8
+  Gene Descriptions: anaphase-promoting complex subunit 8
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: anaphase-promoting complex subunit 8-like
+  Gene Descriptions: anaphase-promoting complex subunit 8-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: anaphase-promoting complex subunit 8-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: anaphase-promoting complex subunit 8%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: anaphase-promoting complex subunit 8
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: cell division cycle protein 23%2C transcript variant X1
+  Gene Synonyms: GRMZM2G170591
+  Gene Descriptions: cell division cycle protein 23
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 599 aa
+
+MASAKETYRAELRAAARQLGERCLYSAAKWAAELLVGVEPDAAPaPSAAMDTPSSSSAAS
+GGRLLHLHRSGGSSFRHRPRPGGGssSEAGTPLGGVSYVSTPIPDDDAFDaGGDKYLLAK
+TYFDCREYRRAAHVLQnQVGRKAVFLRCYALYMAGEKRKEEEMIELEGSLGKSNAVNQEL
+VALERELSTHRRTGSIDSFGLYLYGIVLRDKGCEGLARTvLVESVNSYPWNWSAWSELQS
+LCTSSDILNNLNLKNHWMKDFFLASAYLELKMHEEALKRYERLMGVFRCSGYIQAQIATV
+QYSMRDLDEAEMIFEELLRTDPFRVDSMDIYSNLLYAKESLTALSFLAHRVFLTDKYRPE
+SCCIIANYYSLKGQHEKSVLYFQRALKLNRKYLSAWTLMGHEFVELKNTPAAIDAYRRAV
+DINPRDYRAWYGLGQIYEMMGMPFYALYYFRKSSYLQPNDARLWIAMAQCYESDPLQMIE
+EAIKCYERAANSNDTEGIALHQLAKLHGMLGQSEEAAFYYKKDLERMEVEERQGQNFVEA
+LLFLAKHCKSIGRFEEAEHYCTRLLDYTGPEKETAKNiLQGLKRAQSGFPSMDIDHFAL
+
+
+BOP CONSENSUS:
+Length: 599 aa
+
+MASAKENYRVELRAAARQLGDRCLYSAAKWAAELLVGIEPDATPSQSAAMDTPSSSGAAP
+GGRLLHLHRSGGSSFRRRMRPGGGGGSEAGTPLGGVSYVSTPIPDDDAFDAGADKYLLAK
+TYFDCREYRRAAHVLRSQVGRKAVFLRCYALYMAGEKRKEEETIELEGSLGKSNVVNQEL
+VALERELSTHRRTGAIDSFGLYLYGIVLRDKGCEGLARTVLVESVNSYPWNWCAWLEIQS
+LCTSSDILNNLNLKNHWMKDFFIASAHLELKMHEEALKRYERLMGVFRCSDYIQAQIATV
+QYSMRDLDEADMIFEELLRTDPFRVDSMDIYSNLLYAKESLTALSFLAHRVFLTDKYRPE
+SCCIIANYYSLKGQHEKSVLYFQRALKLNRKYLSAWTLMGHEFVELKNTPAAIDAYRRAV
+DINPRDYRAWYGLGQIYEMMGMPFYALYYFRKSSHLQPNDARLWIAMAQCYESDPLQMIE
+EAIKCYERAANTNDTEGIALHQLAKLHSMLGQSEEAAFYYKKDLERMEVEERQGQNFVEA
+LLFLAKHCKSMGRFEEAEHYCTRLLDYTGPEKETAKSILQGLKRAQSGFPPMDIDHFAL
+
+
+PACMAD CONSENSUS:
+Length: 599 aa
+
+MASAKETYRAELRAAARQLGERCLYSAAKWAAELLVGVEpDAAPAPSAAMDSPSSSSAAS
+AGRLLHLHRSGGSSFRHRPRPGGGSSSEAGTPLGGVSYVSTPIPDDDAFDSGGDKYLLAK
+TYFDCREYRRAAHVLQNQVGRKAVFLRCYALYMAGEKRKEAEMIELEGSLGKSNAVNQEL
+VALERELSTHRRTGSIDSFGLYLYGIVLRDKGCEGLARTILVESVNSYPWNWSAWSELQS
+LCTSSDILNNLNLKNHWMKDFFLASAYLELKMHEEALKRYERLMGVFRCSGYIQAQIATV
+QYSMRDLDEAEMIFEELLRTDPFRVDSMDIYSNLLYAKESLTALSFLAHRVFLTDKYRPE
+SCCIIANYYSLKGQHEKSVLYFQRALKLNRKYLSAWTLMGHEYVELKNTPAAIDAYRRAV
+DINPRDFRAWYGLGQIYEMMGMPFYALYYFRKSSYLQPNDARLWIAMAQCYESDPLQMIE
+EAIKCYERAANSNDTEGIALHQLAKLHGMLGQSEEAAFYYKKDLERMEVEERQGQNFVEA
+LLFLAKHYKSIGRFEEAEHYCTRLLDYTGPEKETAKNMLQGIKRLQSGFPSMDIDHFAL
+
+================================================================================

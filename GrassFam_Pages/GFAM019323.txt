@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM019323
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             436.0 aa
+Family Size (Extended Family Size): 18 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11265
+Panther Family ID:               PTHR11265
+Modal Panther ID:                PTHR11265
+Modal Panther Description:       S-ADENOSYL-METHYLTRANSFERASE MRAW
+Modal Panther Family ID:         PTHR11265
+Modal Panther Fam Desc:          S-ADENOSYL-METHYLTRANSFERASE MRAW
+Interpro Signature Accession:    G3DSA:1.10.150.170:FF:000004; G3DSA:3.40.50.150:FF:000239; G3DSA:1.10.150.170; G3DSA:3.40.50.150; TIGR00006; PTHR11265; PF01795; SSF81799; SSF53335
+Interpro Signature Description:  Ribosomal RNA small subunit methyltransferase H; Putative methyltransferase TM0872, insert domain; Vaccinia Virus protein VP39; 16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH; S-ADENOSYL-METHYLTRANSFERASE MRAW; MraW methylase family; S-adenosyl-L-methionine-dependent methyltransferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: ribosomal RNA small subunit methyltransferase H
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: ribosomal RNA small subunit methyltransferase H
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: ribosomal RNA small subunit methyltransferase H
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: ribosomal RNA small subunit methyltransferase H-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: uncharacterized LOC127761780
+  Gene Descriptions: uncharacterized LOC127761780
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC4328239
+Pau
+  Gene count: 1
+  Modal chromosome: Pau05
+  Gene Products: uncharacterized LOC133918332
+  Gene Descriptions: uncharacterized LOC133918332
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi01K
+  Gene Products: ribosomal RNA small subunit methyltransferase H-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: ribosomal RNA small subunit methyltransferase H
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: ribosomal RNA small subunit methyltransferase H
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: probable methyltransferase-like protein 15
+  Gene Synonyms: GRMZM2G484344
+  Gene Descriptions: probable methyltransferase-like protein 15
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 434 aa
+
+MAaAARRLfSFHLRPApARPLAAAvAAPHRRGKHDAVSCKATGKTKAKAKAdkGgeRpQR
+RaLEEHLKRRTRSAAAFDADLYRRHSHsHHVPVLLGEVLAAFRRPLPLRSFVDCTLGAAG
+HSLAMMEAHPEMELYVGMDVDPSALEIGrrHIEAFLASREtNGGeEDALQGTLRAYTHVK
+NFKYIKqVLGSVDESLAVGSSGVDGILIDLGMSSMQVNRSDRGFSVLQDGPLDMRMDPKA
+TLtAEDILNSWPELEVGRILRDYGEESNWQSLQKRIVKARktGGLHSTGELVKLIQRtCT
+ISGGRQGWIKTATRVFQALRIAVNDELRTLEDALHSCFDCLATDGRLAVISFHSLEDRIV
+KQTFLELIHGDEADDDdDDLalaDIDDEDEPWFKQRVQGtNGTVLTKRPITPSQEEEKLN
+QRCRSAKLRVIQKA
+
+
+BOP CONSENSUS:
+Length: 434 aa
+
+MATAARRLVPFHLRPPgARPLAAVAAAPHSRKRDAVSCKSTGKTRAKnKAKDTTMWRPQR
+RELEEHLKRRTRSAGAFDPGLYRRHSHSHHVPVLLGEVLAAFRRPLPLRSFVDCTLGAAG
+HSLAMMEAHPEMELHVGMDVDPSALEIGQRHIEAFLASRATeEGGEDALQGTLRAYTHVK
+NFKYIKHVLGGVDESLADGSSGVDGILIDLGMSSMQVNRSDRGFSVLNDGPLDMRMDPKA
+TLTAEDILNSWPELEVGRILRDYGEESNWQSLQRRIVKERKTGGLHSTGELVKLIQRTCT
+ISGGRQGWIKTATRVFQALRIAVNDELQTLEDALHSCFDCLATDGRLAVISFHSLEDRIV
+KQTFLELIHGDEADDDDEDLACADIDDEDEPWFKQRVQGTNGTVLTKRPITPSQEEEKLN
+QRCRSAKLRVIQKA
+
+
+PACMAD CONSENSUS:
+Length: 445 aa
+
+MAAARRLFSFHLhLHPREPARPLAAGVAVATPHRRGKHDAVsCKATGKTKPKPKPKAKAg
+KGGERLQRRALEEHLKRRTRSAAAFDADLYGRHAHAHHVPVLLGEVLAAFRRPRPLRSFV
+DCTLGAAGHSLAMMEAHPEMELYIGMDVDPSALEIGRGHIEAFLAGREANGGEeDvLQGT
+LRAYTHVKNFKYIKQVLGSVDESLAVGSSGVDGILIDLGMSSMQVNRSNRGFSVLQDGPL
+DMRMDPKATLRAEDILNSWPELEVGRILRDYGEESNWQSLQKQIVKAReMGGLHSTGDLV
+KLIQRMCTISsGRQGWIKTATRVFQALRIAVNDELRVLEDSLHSCFDCLATGGRLAVISF
+HSLEDRIVKKTFLELIHGGEADDEEDDkDDLtLTDIvDEDEPWFgQRVQGRNGtVLTKRP
+ITPSQEEEKLNQRCRSAKLRVIQKa
+
+================================================================================

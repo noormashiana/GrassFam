@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM021115
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             488.0 aa
+Family Size (Extended Family Size): 25 (29) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR43389
+Modal Panther ID:                PTHR43389:SF18
+Modal Panther Description:       VACUOLAR PROTON PUMP SUBUNIT B
+Modal Panther Family ID:         PTHR43389
+Modal Panther Fam Desc:          V-TYPE PROTON ATPASE SUBUNIT B
+Interpro Signature Accession:    cd18118; cd01135; cd18112; G3DSA:3.40.50.12240:FF:000001; G3DSA:3.40.50.12240; TIGR01040; NF003235; PTHR43389; PIRSF039114; PF22919; PF00006; SSF52540
+Interpro Signature Description:  ATP-synt_V_A-type_beta_N; V_A-ATPase_B; ATP-synt_V_A-type_beta_C; V-type proton ATPase subunit B, brain; -; V-type ATPase subunit B; V-type ATP synthase subunit B; V-TYPE PROTON ATPASE SUBUNIT B; V-ATPsynth_beta/V-ATPase_B; C-terminal domain of V and A type ATP synthase; ATP synthase alpha/beta family, nucleotide-binding domain; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: V-type proton ATPase subunit B 2
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu03H
+  Gene Products: V-type proton ATPase subunit B 2%2C transcript variant X2; V-type proton ATPase subunit B 2-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata03D
+  Gene Products: V-type proton ATPase subunit B 2%2C transcript variant X1; V-type proton ATPase subunit B 2%2C transcript variant X2
+Tae
+  Gene count: 6
+  Modal chromosome: Tae03A
+  Gene Products: V-type proton ATPase subunit B 2%2C transcript variant X1; V-type proton ATPase subunit B 2-like; V-type proton ATPase subunit B 2-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: V-type proton ATPase subunit B 2-like%2C transcript variant X1
+  Gene Descriptions: V-type proton ATPase subunit B 2-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: V-type proton ATPase subunit B 2%2C transcript variant X1
+  Gene Descriptions: V-type proton ATPase subunit B 2
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau05
+  Gene Products: V-type proton ATPase subunit B 2
+  Gene Descriptions: V-type proton ATPase subunit B 2
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi01K
+  Gene Products: V-type proton ATPase subunit B 2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: V-type proton ATPase subunit B 2-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: V-type proton ATPase subunit B 2-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 488 aa
+
+MGVAKDnVEMEEGTLEIGMEYRTVSGVAGPLVILDKVKGPKYQEIVNIRLGDGTTRRGQV
+LEVDGEKAVVQVFEGTSGIDNKYTTVQFTGEVLKTPVSLDMLGRIFNGSGKPIDNGPPIL
+PEAYLDISGSSINPSERTYPEEMIQTGISTIDVMNSIARGQKIPLFSAAGLPHNEIAAQI
+CRQAGLVKRLEKSdnilEGGEEDNFAIVFAAMGVNMETAQFFKRDFEENGSMERVTLFLN
+LANDPTIERIITPRIALTTAEYLAYECGKHVLVILTDMSSYADALREVSAAREEVPGRRG
+YPGYMYTDLATIYERAGRIEGRKGSITQIPILTMPNDDITHPTPDLTGYITEGQIYIDRQ
+LHNRQIYPPINVLPSLSRLMKSAIGEGMTRRDHSDVSNQLYANYAIGKDVQAMKAVVGEE
+ALSSEDLLYLEFLDKFERKFVAQGAYDTRNIFQSLDLAWTLLRIFPRELLHRIPAKTLDQ
+FYSRDATH
+
+
+BOP CONSENSUS:
+Length: 488 aa
+
+MVVANGNVDMEEGTLEIGMEYRTVSGVAGPLVILDKVKGPKYQEIVNIRLGDGTTRRGQV
+LEVDGEKAVVQVFEGTSGIDNKYTTVQFTGEVLKTPVSLDMLGRIFNGSGKPIDNGPPIL
+PEAYLDISGSSINPSERTYPEEMIQTGISTIDVMNSIARGQKIPLFSAAGLPHNEIAAQI
+CRQAGLVKRLEKSDNiLEnaEEDNFAIVFAAMGVNMETAQFFKRDFEENGSMERVTLFLN
+LANDPTIERIITPRIALTTAEYLAYECGKHVLVILTDMSSYADALREVSAAREEVPGRRG
+YPGYMYTDLATIYERAGRIEGRKGSITQIPILTMPNDDITHPTPDLTGYITEGQIYIDRQ
+LHNRQIYPPINVLPSLSRLMKSAIGEGMTRRDHSDVSNQLYANYAIGKDVQAMKAVVGEE
+ALSSEDLLYLEFLDKFERKFVAQGAYDTRNIFQSLDLAWTLLRIFPRELLHRIPAKTLDQ
+FYSRDASH
+
+
+PACMAD CONSENSUS:
+Length: 488 aa
+
+MGLAKDGAEMEEGTLEIGMEYRTVSGVAGPLVILDKVKGPKYQEIVNIRLGDGTTRRGQV
+LEVDGEKAVVQVFEGTSGIDNKYTTVQFTGEVLKTPVSLDMLGRIFNGSGKPIDNGPPIL
+PEAYLDISGSSINPSERTYPEEMIQTGISTIDVMNSIARGQKIPLFSAAGLPHNEIAAQI
+CRQAGLVKRLENSGKHKEGGEEDNFAIVFAAMGVNMETAQFFKRDFEENGSMERVTLFLN
+LANDPTIERIITPRIALTTAEYLAYECGKHVLVILTDMSSYADALREVSAAREEVPGRRG
+YPGYMYTDLATIYERAGRIEGRKGSITQIPILTMPNDDITHPTPDLTGYITEGQIYIDRQ
+LHNRQIYPPINVLPSLSRLMKSAIGEGMTRRDHSDVSNQLYANYAIGKDVQAMKAVVGEE
+ALSSEDLLYLEFLDKFERKFVTQGAYDTRNIFQSLDLAWTLLRIFPRELLHRIPAKTLDQ
+YYSRDATH
+
+================================================================================

@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM003381
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             441.0 aa
+Family Size (Extended Family Size): 25 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10309:SF7
+Panther Family ID:               PTHR10309
+Modal Panther ID:                PTHR10309:SF7
+Modal Panther Description:       MANNOSE-6-PHOSPHATE ISOMERASE
+Modal Panther Family ID:         PTHR10309
+Modal Panther Fam Desc:          MANNOSE-6-PHOSPHATE ISOMERASE
+Interpro Signature Accession:    cd07011; G3DSA:2.60.120.10:FF:000044; G3DSA:2.60.120.10:FF:000469; G3DSA:1.10.441.10:FF:000001; G3DSA:1.10.441.10; G3DSA:2.60.120.10; TIGR00218; PTHR10309; PIRSF001480; PR00714; PF20511; SSF51182
+Interpro Signature Description:  cupin_PMI_type_I_N; Mannose-6-phosphate isomerase; Mannose-6-phosphate isomerase 1; Phosphomannose Isomerase, domain 2; Jelly Rolls; mannose-6-phosphate isomerase, class I; MANNOSE-6-PHOSPHATE ISOMERASE; PMI; Phosphomannose isomerase type I signature; Phosphomannose isomerase type I, catalytic domain; RmlC-like cupins
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: mannose-6-phosphate isomerase 1%2C transcript variant X3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: mannose-6-phosphate isomerase 1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: mannose-6-phosphate isomerase 1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: mannose-6-phosphate isomerase 1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl01
+  Gene Products: mannose-6-phosphate isomerase 1-like; mannose-6-phosphate isomerase 1-like%2C transcript variant X1
+  Gene Descriptions: mannose-6-phosphate isomerase 1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: mannose-6-phosphate isomerase 1%2C transcript variant X2
+  Gene Descriptions: mannose-6-phosphate isomerase 1
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: mannose-6-phosphate isomerase 1-like
+  Gene Descriptions: mannose-6-phosphate isomerase 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi05K
+  Gene Products: mannose-6-phosphate isomerase 1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: mannose-6-phosphate isomerase 1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: mannose-6-phosphate isomerase 1-like%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: uncharacterized LOC100272536; uncharacterized LOC100272600
+  Gene Synonyms: GRMZM2G438998; gpm141,GRMZM2G121066
+  Gene Descriptions: uncharacterized LOC100272536; uncharacterized LOC100272600
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 441 aa
+
+MEDPPppPpPEPEaAaASPPRDvEPsPpPprRLLRLRCAVQHYEWGRRGAASLVARLAdq
+pDPDPARPYAELWMGTHPSGPSTLLDDGeLLRDWLARNPDALGPAVAARWGGDLPFLFKV
+LSVAKALSIQAHPDKKLAEVLHALRPSTYKDdNHKPEMAIAITEFRALCGFAGIEELKDV
+LRTVPEVEGLVGHEDAGKLMsMKEYDGGNEVKSSLQSAFAKLMTASKDmVSEAvaKLIsR
+LNtESKIRTLTDKEQLVLSLERQYQEDVGVLAALFFNYVKLSPGEALYIGANEPHAYLSG
+ECIECMATSDNVVRAGLTPKYRDVQTLCSMLTYKQaFPEILRGVPVQPYVRRYTPPFDEF
+EVDCCLVPPGELVVISPVPGPSIFLVMTGEGEiQaDSMSDGEKAKEGDVFFVPAYTEVKL
+SACGPESMQLYRAGVNSRFFS
+
+
+BOP CONSENSUS:
+Length: 454 aa
+
+MGAPSSPAPsPPAPPEAPPDaasPEpPLLRLRCGVQHYEWGRRGAASLVARLSgAaDPDP
+ARPYAELWMGTHPAAPSAVLPGGEPLRdWLARNPAALGPAVAARWAGDLPFLFKVLSVAK
+PLSIQAHPDKgLAELLHAMRPATYRDANHKPEMAIAVTEFRALFGFAGIEELKDVIRTVP
+EVgGLIGHEDADKLMTVKEYHGGNDVKSSLQSAFAKLMTASKEAVSEAVNKLKGRLNDES
+KIRTLTEKEELVLSLERQYPEDVGVLAALLFNYVKLSPGEAIYIGANEPHAYLSGECIEC
+MATSDNVVRAGLTPKYRDVQTLCSMLTYKQIFPEILRGVPVQPYVRRYTPPTDEFEVDCC
+LLPPGEVVVMPPVPGPSIFLVMTGEGEVQADSMSDGEKAKEGDVFFVPAHTEVkLSASGH
+ASMQLYRAGVNSRaLYACNAAAAGKRSQLQNMAS
+
+
+PACMAD CONSENSUS:
+Length: 439 aa
+
+MEDPPpPPPPEPEPAASPrRDvEPSPPPPRRLLRLRCAVQHYEWGRRGAASLVARLADQD
+PDPARPYAELWMGTHPSGPSTLLDDGaLLRDWLARNPDALGPAVAARWGGDLPFLFKVLS
+VAKALSIQAHPDKKLAEVLHALRPSTYKDDNHKPEMAIAITEFRALCGFAGIEELKDVLR
+TVPEVEGLVGHEDAGKLMSMKEYDGGSEVKSSLQSAFAKLMTASKDMVSEAiAKLISRLN
+TESKIRTLTDKEQLVLSLERQYQEDVGVLAALFFNYVKLSPGEALYIGANEPHAYLSGEC
+IECMATSDNVVRAGLTPKYRDVQTLCSMLTYKQAFPEILRGVPVQPHVRRYTPPFDEFEV
+DCCLVPPGELVVISPVPGPSIFLVMTGEGElQlDSmSDGEKAKEGDVFFVPAYTEVKLSA
+CGPESMQLYRAGVNSRFFS
+
+================================================================================

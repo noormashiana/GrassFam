@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM020214
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             461.0 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43853:SF20
+Panther Family ID:               PTHR43853
+Modal Panther ID:                PTHR43853:SF20
+Modal Panther Description:       THIOLASE 2, PEROXISOMAL, PUTATIVE, EXPRESSED-RELATED
+Modal Panther Family ID:         PTHR43853
+Modal Panther Fam Desc:          3-KETOACYL-COA THIOLASE, PEROXISOMAL
+Interpro Signature Accession:    cd00751; G3DSA:3.40.47.10:FF:000032; G3DSA:3.40.47.10; TIGR01930; PTHR43853; PF02803; PF00108; SSF53901
+Interpro Signature Description:  thiolase; Peroxisomal 3-ketoacyl-CoA thiolase; -; acetyl-CoA C-acyltransferase; 3-KETOACYL-COA THIOLASE, PEROXISOMAL; Thiolase, C-terminal domain; Thiolase, N-terminal domain; Thiolase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: 3-ketoacyl-CoA thiolase 2%2C peroxisomal
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: 3-ketoacyl-CoA thiolase 2%2C peroxisomal-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: 3-ketoacyl-CoA thiolase 2%2C peroxisomal%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: 3-ketoacyl-CoA thiolase 2%2C peroxisomal-like; 3-ketoacyl-CoA thiolase 2%2C peroxisomal-like%2C transcript variant X1
+Ola
+  Gene count: 2
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: 3-ketoacyl-CoA thiolase 2%2C peroxisomal-like
+  Gene Descriptions: 3-ketoacyl-CoA thiolase 2%2C peroxisomal-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: 3-ketoacyl-CoA thiolase 2%2C peroxisomal
+  Gene Descriptions: 3-ketoacyl-CoA thiolase 2%2C peroxisomal
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau21
+  Gene Products: 3-ketoacyl-CoA thiolase 2%2C peroxisomal-like; 3-ketoacyl-CoA thiolase 2%2C peroxisomal-like%2C transcript variant X1
+  Gene Descriptions: 3-ketoacyl-CoA thiolase 2%2C peroxisomal-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: 3-ketoacyl-CoA thiolase 2%2C peroxisomal-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: 3-ketoacyl-CoA thiolase 2%2C peroxisomal-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: 3-ketoacyl-CoA thiolase 2%2C peroxisomal
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: uncharacterized LOC100274263
+  Gene Synonyms: GRMZM2G110201,pco082145
+  Gene Descriptions: uncharacterized LOC100274263
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 461 aa
+
+MEKAIDRQRILLRHLePAAGpSPAAPAISASACAAGDSAAYHRgACFADDVVIVAAYRTA
+ICKAKRGGFKDTfAEDLLVPVFKALVDKTKLNPSEVGDIVVGTVLAPGSQRAIECRMAAL
+YAGFPDTVPLKTVNRQCSSGLQAVADVAAAIKAGLYDIGIAAGLESMTVNKVsLDGQVNP
+KVELFSQARDCLLPMGLTSENVAhRFGITRLEQDQAAVESHRKAAAAAAAGKFKEEIVPV
+HTKIVDPKTGEEKEIVVSADDGIRanTSLAVLSKLKPAFSKDGTTTAGNASQVSDGAGAV
+LLMRRDVAMQKGLPILGVFRSFAAVGVDPAVMGVGPAVAIPAAVKAAGLQIDDIDLFEIN
+EAFASQYVYCCKKLELDPAKVNVNGGAIALGHPLGATGARCVSTLLNEMKRRGKDCRFGV
+ISMCIGSGMGAAAVFERGDAVDELTNARGIPSHNWLSKDAM
+
+
+BOP CONSENSUS:
+Length: 461 aa
+
+MEKALDRQRILLRHLEPAAGpsPAASAISASACAAGDSAAYHRGpCFADDVVIVAAYRTA
+ICKAKRGSFKDTLPEDLLVPVFKALVDKTKLNPSEVGDIVVGTVLAPGSQRAIECRMAAL
+YAGFPDTVPLKTVNRQCSSGLQAVADVAAAIKAGMYDIGIAAGLESMTVNKVnLvGKVNP
+KVELFAQARDCLLPMGLTSENVAQRFGITRMEQDQAAVESHRKAAAAVAAGKFKEEIVPV
+HTKIVDPKTGEEKEIVVSADDGIRSNTTLAVLSKLKPAFSKDGTTTAGNASQVSDGAGAV
+LLMRRDVATQKGLPILGIYRSFAAVGVDPAVMGVGPAVAIPAAVKAAGLQINDVDLFEIN
+EAFASQYVYCsKKLDLDPAKVNVNGGAIALGHPLGATGARCVSTLLNEMKRRGKDCRFGV
+ISMCIGSGMGAAAVFERGDAVDELTNARGvPSLNWLSKDtM
+
+
+PACMAD CONSENSUS:
+Length: 461 aa
+
+MEKAIDRQRVLLRHLDPAAApSPAPPAISASACAAGDSAAYHRRAAFADDVVIVAAYRTA
+ICKAKRGGFKDTFAEDLLVPVFKALVDKTKLNPSEVGDIVVGTVLAPGSQRAIECRMAAL
+YAGFPDTVPLKTVNRQCSSGLQAVADVAAAIKAGLYDIGIAAGLESMTVNKVsLDGQVNP
+KVELFSQARDCLLPMGLTSENVAHRFGITRLEQDQAAVESHRKAAAAAAAGKFKEEIVPV
+HTKIVDPKTGEEKEIVVSADDGIRADTSLAVLSKLKPAFSKDGSTTAGNASQVSDGAGAV
+LLMRRDVAMKKGLPILGVFRSFAAVGVDPAVMGIGPAVAIPAAVKAAGLQIDDIDLFEIN
+EAFASQYVYCCKKLELDPAKVNVNGGAIALGHPLGATGARCVSTLLNEMKRRGKDCRFGV
+ISMCIGSGMGAAAVFERGDGVDELTNARGIPSHNWLSKDAM
+
+================================================================================

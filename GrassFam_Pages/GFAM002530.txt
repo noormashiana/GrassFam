@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM002530
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             495.0 aa
+Family Size (Extended Family Size): 19 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11802:SF75
+Panther Family ID:               PTHR11802
+Modal Panther ID:                PTHR11802:SF75
+Modal Panther Description:       CARBOXYPEPTIDASE
+Modal Panther Family ID:         PTHR11802
+Modal Panther Fam Desc:          SERINE PROTEASE FAMILY S10 SERINE CARBOXYPEPTIDASE
+Interpro Signature Accession:    G3DSA:3.40.50.11320:FF:000002; G3DSA:3.40.50.12670:FF:000002; G3DSA:3.40.50.1820:FF:000030; G3DSA:3.40.50.11320; G3DSA:3.40.50.1820; PTHR11802; PR00724; PF00450; SSF53474
+Interpro Signature Description:  Carboxypeptidase; -; alpha/beta hydrolase; SERINE PROTEASE FAMILY S10 SERINE CARBOXYPEPTIDASE; Carboxypeptidase C serine protease (S10) family signature; Serine carboxypeptidase; alpha/beta-Hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: serine carboxypeptidase-like 27
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: serine carboxypeptidase 1-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: serine carboxypeptidase 1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: serine carboxypeptidase 1-like; serine carboxypeptidase 1-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: serine carboxypeptidase 1-like
+  Gene Descriptions: serine carboxypeptidase 1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: serine carboxypeptidase 1
+  Gene Descriptions: serine carboxypeptidase 1
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau04
+  Gene Products: serine carboxypeptidase 1-like%2C transcript variant X1
+  Gene Descriptions: serine carboxypeptidase 1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: serine carboxypeptidase 24%2C transcript variant X2
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: lysosomal protective protein%2C transcript variant X1; uncharacterized LOC100193473
+  Gene Synonyms: GRMZM2G035517; csu649(scp),GRMZM6G706391
+  Gene Descriptions: lysosomal protective protein; uncharacterized LOC100193473
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 493 aa
+
+MHTLPIKMKRGLLiLWSLFclSVANTATrNKAKqPLEFDQLKISRKYVQgKQDASpKNsT
+SPSVHRGSQDnQREqDKIiAMPGQmEEAEFDQYAGYVTVDAKAGRALFYYFVEAPQDPSn
+KPLVLWLNGGPGCSSFGAGAMLELGPFSVHSDNKTLYKKkHAWNTVANMLFVEIPAGVGY
+SYSNTTSDYYNTGDKRTTDDAYTFLVNWLEKFPEYRDRDFFITGESYAGHYIPELANLIv
+SNNRAtNATNVKLKGVAIGNADLdDNLTLRATFDYYWMHAMISGKTYRAIQakCGFNGTY
+TKDCqNAMNLAIQEKGNVDDYnIYAPICHDASNPSRSSDSVVFGDPCTNHYVSSYLNRPE
+VQRALHANTTGLnYPWMDCSQlVFDNWKDSPETMLPSIKKLISSGTRIWLYSGDMDAVCS
+VTSTQYALDILGLPIETSWRPWRVDNEVAGYVVGYKGLVFATVRGAGHMVPYYQPRRALA
+LFSSFLEGKLPPq
+
+
+BOP CONSENSUS:
+Length: 494 aa
+
+MHTLPIKMKRGLLVLWSLFCLsVANTATGNKPKHPLEFDQLEISRKYVPAKQHASASKSP
+SSSSVHGGSQDYQRERDKIRAMPGQMEEAEFtQYAGYVTVDANAGRALFYYFVEAPQDPS
+KKPLVLWLNGGPGCSSFGAGAMLELGPFSVHSDNKTLYKKKHAWNTVANMLFVEIPAGVG
+YSYSNTTSDYHNTGDKRTTDDAYTFLVNWLERFPEYRDRDFFITGESYAGHYVPELANLI
+ISNNRARNATNVKLKGVAIGNADLQYNLTLRATFDYFWMHAMISGKTYRTVQANCGFNGT
+YTKDCDNAMNLAIKEKGNVDDYNIYAPICRDASSPLRSSDSVVFGDPCTNHYVSSYLNRP
+EVQRALHANTTGLNYPWMDCSQLVFDNWKDSPETVLPSIKKLISSGTRVWLYSGDMDAVC
+SVTSTQYALDILDLPTETSWRPWRVDNEVAGYVVGYKGLVFATVKGAGHMVPYYQPRRAL
+ALFSSFLEGKLPPQ
+
+
+PACMAD CONSENSUS:
+Length: 493 aa
+
+MHTlPIKMKRGLLILWSLFYFSVANTDTRNQANQPLEFNQLKISRKYVQGKQDSTPKNGT
+SPSVHRGSTNNQREQDKIVSMPGQTGVAEFDQYAGYVTVDAKAGRALFYYFVEAPQDPSN
+KPLVLWLNGGPGCSSFGSGAMLELGPFSVRSDNKTLYKKRHAWNRVANMLFIEIPAGVGY
+SYSNTTSDYYNTGDQRTTDDAYTFLVTWLEKFPEYRDRDFFITGESYAGHYIPELANLIV
+SKNRATNVTSVKLKGVAIGNADLDDNLTLRASYDYYWMHAMISGKAYRAIKDKCGFNGTY
+TKDCLNAMNLAsQEKGNVDDYDIYAPTCHDASNPSKSSDSLVFGDPCTNHYVSSYLNRPE
+VQRALHANTTGLGYPWMDCSQHVFDNWKDSPETMLPSIKKLISSGTRIWLYSGDMDAVCS
+FISTQYVLDNLGLPIEASWRPWRVDNEVAGYVIGYKGLVFATVRGAGHMVPYYQPRRALA
+LFSSFLEGKLPPH
+
+================================================================================

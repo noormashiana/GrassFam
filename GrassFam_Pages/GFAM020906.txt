@@ -1,0 +1,126 @@
+================================================================================
+GrassFam ID: GFAM020906
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             329.0 aa
+Family Size (Extended Family Size): 18 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10589:SF30
+Panther Family ID:               PTHR10589
+Modal Panther ID:                PTHR10589:SF30
+Modal Panther Description:       UBIQUITIN CARBOXYL-TERMINAL HYDROLASE
+Modal Panther Family ID:         PTHR10589
+Modal Panther Fam Desc:          UBIQUITIN CARBOXYL-TERMINAL HYDROLASE
+Interpro Signature Accession:    cd09617; G3DSA:1.20.58.860:FF:000003; G3DSA:3.40.532.10:FF:000003; G3DSA:3.40.532.10; G3DSA:1.20.58.860; PTHR10589; PIRSF038120; PF01088; SSF54001
+Interpro Signature Description:  Peptidase_C12_UCH37_BAP1; Ubiquitin carboxyl-terminal hydrolase; -; UBIQUITIN CARBOXYL-TERMINAL HYDROLASE; Uch; Ubiquitin carboxyl-terminal hydrolase, family 1; Cysteine proteinases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: ubiquitin carboxyl-terminal hydrolase 2
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: ubiquitin carboxyl-terminal hydrolase 2-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: ubiquitin carboxyl-terminal hydrolase 2%2C transcript variant X2
+Tae
+  Gene count: 2
+  Modal chromosome: Tae06A
+  Gene Products: ubiquitin carboxyl-terminal hydrolase 2-like; ubiquitin carboxyl-terminal hydrolase 2-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: ubiquitin carboxyl-terminal hydrolase 2%2C transcript variant X1
+  Gene Descriptions: ubiquitin carboxyl-terminal hydrolase 2
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: ubiquitin carboxyl-terminal hydrolase 2%2C transcript variant X1
+  Gene Descriptions: ubiquitin carboxyl-terminal hydrolase 2
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau05
+  Gene Products: ubiquitin carboxyl-terminal hydrolase 2-like%2C transcript variant X1
+  Gene Descriptions: ubiquitin carboxyl-terminal hydrolase 2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: ubiquitin carboxyl-terminal hydrolase 2-like%2C transcript variant X1; ubiquitin carboxyl-terminal hydrolase 2-like%2C transcript variant X3
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: ubiquitin carboxyl-terminal hydrolase 2-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: ubiquitin carboxyl-terminal hydrolase 2-like%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: uncharacterized LOC100382000%2C transcript variant X1
+  Gene Synonyms: GRMZM2G108739,pco127746
+  Gene Descriptions: uncharacterized LOC100382000
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 328 aa
+
+MSWCTIESDPGVFTELIQqMQVKGVQVEELYSLDVDSLSqLRPVYGLIFLFKWmPGEKDE
+RPVVRDPNPNLFFArQVITNACATQAILSVLMNRPEIDIGPELSQLKEFTGAFtPDMKGL
+AIsNSESIRTAHNSFARPEPFISDEQRAATKDDDVYHFISYLPFEGVLYELDGLKEGPVN
+LGQCGGPDDLDWLRMVQPVIQERIERYSQSEIRFNLMAIIKNRKEVYTAELEELEKRREQ
+ILQEMNnTSATESLNnSLTEVISAIETVsEKIIMEEEKFKKWKTENIRRKHNYIPFLFNL
+LKMLAEKKQLKPLVEKAKQQKSSSPSTr
+
+
+BOP CONSENSUS:
+Length: 331 aa
+
+MSWCTIESDPGVFTELIQEMQVKGVQVEELYSLDVDSLSQLQPVYGLIFLFKWMPGGNDE
+RPVVSDPNPNLFFARQVITNACATQAILSILMNRPEIDIGPELSNLKEFTGAFAPDMKGL
+AINNSDSIRAAHNSFARPEPFVSDEQKAATKDDEVYHFISYLPFEGVLYELDGLKEGPIS
+LGQYSGGPeDLGWLQMVQPVIQERIERYSQSEIRFNLMAIIKNRKDVYTAELKELEKKRE
+QILQELNEATAAESLNSALAEVASAVETVGEKIiMEEEKFRKWKTENVRRKHNYIPFLFN
+LLKALAEKKQLTPLVEKARQQKAPStSTsAS
+
+
+PACMAD CONSENSUS:
+Length: 328 aa
+
+MSWCTIESDPGVFTELIQQMQVKGVQVEELYSLDVDSLSqLRPVYGLIFLFKWIPGEKDE
+RPVVRDPNPNLFFAHQVITNACATQAILSVLMNRPEIDIGPELSQLKEFTGAFTPDLKGL
+AISNSESIRTAHNSFARPEPFISDEQRAATKDDDVYHFISYLPFEGVLYELDGLKEGPVN
+LGQCGGaDDLDWLRMVQPVIQERIERYSQSEIRFNLMAIIKNRKEVYSAELEELEKRREQ
+ILQEMNnTSATESLNNSLTEVISAIETVTEKIIMEEEKFKKWKTENIRRKHNYIPFLFNL
+LKMLAEKQQLKPLVEKAKQQKSSSPSTR
+
+================================================================================

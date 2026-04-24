@@ -1,0 +1,141 @@
+================================================================================
+GrassFam ID: GFAM006437
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             561.0 aa
+Family Size (Extended Family Size): 23 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24356:SF337
+Panther Family ID:               PTHR24356
+Modal Panther ID:                PTHR24356:SF337
+Modal Panther Description:       AGC (CAMP-DEPENDENT, CGMP-DEPENDENT AND PROTEIN KINASE C) KINASE FAMILY PROTEIN
+Modal Panther Family ID:         PTHR24356
+Modal Panther Fam Desc:          SERINE/THREONINE-PROTEIN KINASE
+Interpro Signature Accession:    cd05599; G3DSA:1.10.510.10:FF:000042; G3DSA:3.30.200.20:FF:000102; G3DSA:1.10.510.10:FF:000106; G3DSA:1.10.510.10; G3DSA:3.30.200.20; PTHR22988; PF00069; SM00220; SSF56112
+Interpro Signature Description:  STKc_NDR_like; Non-specific serine/threonine protein kinase; Transferase(Phosphotransferase) domain 1; Phosphorylase Kinase; domain 1; MYOTONIC DYSTROPHY S/T KINASE-RELATED; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: serine/threonine-protein kinase tricorner
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: serine/threonine-protein kinase tricornered-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: serine/threonine-protein kinase tricornered
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: serine/threonine-protein kinase tricornered-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: uncharacterized LOC127752453
+  Gene Descriptions: uncharacterized LOC127752453
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: uncharacterized protein At1g03900%2C transcript variant X4
+  Gene Descriptions: uncharacterized protein At1g03900
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau21
+  Gene Products: uncharacterized LOC133903459; uncharacterized LOC133907716
+  Gene Descriptions: uncharacterized LOC133903459; uncharacterized LOC133907716
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi09K
+  Gene Products: serine/threonine-protein kinase tricornered-like; serine/threonine-protein kinase tricornered-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: serine/threonine-protein kinase tricorner-like%2C transcript variant X2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: serine/threonine-protein kinase tricorner
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: putative AGC protein kinase family protein
+  Gene Synonyms: GRMZM2G088245
+  Gene Descriptions: putative AGC protein kinase family protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 550 aa
+
+MDSARSWFTKLQTREKSIGKKKELPPNGKESgDDAPSSATKQRVAAAKQYIEKHYKEQMK
+HLQDRKERRCSLEKKLADANVSEEEQNNILKQFEKKETEYMRLQRHKMSVDDFDLLTMIG
+KGAFGEVRVCREKTTGNVYAMKKLKKSEMLRRGQVEHVRAERNLLAEVDHHCIVKLYCSF
+QDSEYLYLIMEYLPGGDMMTLLMRKDTLTEDEARFYVGETVLAIEAIHKHNYIHRDIKPD
+NLLLDKYGHLRLSDFGLCKPLDYSNFPDLNEKDVTPTKTSSaHGDGRQQSMPKRSQQEQL
+EHWQKNRRTLAYSTVGTPDYIAPEVLLKKGYGMECDWWSLGAIMYEMLVGYPPFYSDEPM
+TTCRKIVNWRTHLKFPEEARLTaDAKDLISKLLCNVDQRLGTKGAEEIKEHsWFSEVEWD
+KLYEIEAAYLPQVTDELDTQNFEKFEESSDnvQCSAKTGPWRKMLSSKDLNFVGYTYKNF
+ELVNDHEVPGMAELKKKEKAKRPSVKSLFDSPEGEEqqqaeqeDddsAEGSVRkPATEPE
+LTRSLSSPST
+
+
+BOP CONSENSUS:
+Length: 562 aa
+
+MDSARSWFNKLQTREKSIGKKKEMPPSGKEGTDEAPSSATKQRVAAAKQYIEKHYKEQMK
+HLQDRKERRYSFERKLADANVSEEEQNNILKQFEKKETEYMRLQRHKMSVEDFDLLTMIG
+KGAFGEVRVCREKTTGNVYAMKKLKKSEMLRRGQVEHVRAERNLLAEVDHHCIVKLYCSF
+QDSEFLYLIMEYLPGGDMMTLLMRKDTLTEDEARFYVGETVLAIEAIHRHNYIHRDIKPD
+NLLLDRYGHLRLSDFGLCKPLDYAAFPDLNEKDVTPNRTSSAHGDGRQQTTPKRTQQEQL
+EHWQKNRRTLAYSTVGTPDYIAPEVLLKKGYGMECDWWSLGAIMYEMLVGYPPFYSDEPM
+TTCRKIVNWRTHLKFPEEARLTTDAKDLISRLLCNVDQRLGTKGAEEIKEHIWFNEVDWE
+KLYETEAAYLPQVTDELDTQNFEKFEESSDHsQASSKTGPWRKMLSSKDLNFVGYTYKNF
+ELVNDDEVLEMAGLKKKEKAKRPSVKSLFDEPEGEEQQQAAGEDDDDGEGSVRNRKTEPE
+LTRSLSLPSPSADKPSLALPTD
+
+
+PACMAD CONSENSUS:
+Length: 554 aa
+
+MDSARSWFTKLQTREKSIGKKKELPPNGKESGDDAPSSATKQRVAAAKQYIEKHYKEQMK
+HLQDRKERRCSLEKKLADADVSEEEVHNILKQFEKKETEYMRLQRHKMSVDDFDLLTMIG
+KGAFGEVRVCREKTTGNVYAMKKLKKSEMLRRGQVEHVRAERNLLAEVDHHCIVKLYCSF
+QDSEYLYLIMEYLPGGDMMTLLMRKDTLTEDEARFYVGETVLAIEAIHKHNYIHRDIKPD
+NLLLDKYGHLRLSDFGLCKPLDYSNFPDLNEKDVTPTKSSStHGDGKQQSMPKRSQQEQL
+EHWQKNRRTLAYSTVGTPDYIAPEVLLKKGYGMECDWWSLGAIMYEMLVGYPPFYSDEPM
+TTCRKIVNWRTHLKFPEEARLTADAKDLISKLLCNVDQRLGTKGAEEIKEHSWFSELEWD
+KLYEIEAAYLPQVTDELDTQNFEKFEESSDSVQCSAKTGPWRKMLSSKDLNFVGYTYKNF
+ELVNDHDVPGMAELKKKEKAKRPSVKSLFDSPEGEEqngQEQqEQQrDeaAAEGSVRKPA
+aEPELTRSLSSaST
+
+================================================================================

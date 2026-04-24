@@ -1,0 +1,145 @@
+================================================================================
+GrassFam ID: GFAM007046
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             700.0 aa
+Family Size (Extended Family Size): 21 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR18934:SF136
+Panther Family ID:               PTHR18934
+Modal Panther ID:                PTHR18934:SF136
+Modal Panther Description:       ATP-DEPENDENT RNA HELICASE DHX35-RELATED
+Modal Panther Family ID:         PTHR18934
+Modal Panther Fam Desc:          ATP-DEPENDENT RNA HELICASE
+Interpro Signature Accession:    cd17980; cd18791; G3DSA:3.40.50.300:FF:001326; G3DSA:3.40.50.300:FF:000767; G3DSA:1.20.120.1080; G3DSA:3.40.50.300; PTHR18934; SM00847; SSF52540
+Interpro Signature Description:  DEXHc_DHX35; SF2_C_RHA; Putative ATP-dependent RNA helicase DHX35; -; ATP-DEPENDENT RNA HELICASE; ha2_5; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: probable pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH9
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: probable pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH9%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: probable pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH9
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: probable pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH9; probable pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH9%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: probable pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH9%2C transcript variant X1
+  Gene Descriptions: probable pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH9
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: probable pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH9%2C transcript variant X2
+  Gene Descriptions: probable pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH9
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN25
+Pau
+  Gene count: 1
+  Modal chromosome: Pau02
+  Gene Products: probable pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH9
+  Gene Descriptions: probable pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH9
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: probable pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH9; probable pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH9%2C transcript variant X9
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: probable pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH9%2C transcript variant X4
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: probable pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH9%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: ATP-dependent RNA helicase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 700 aa
+
+MSRFWRPGSEKPSAsLVDDEEGGVLFLPTSTSSSSSSGFGYASLERQRQRLPVYKYRKAI
+LYLVERHATTIVVGETGSGKSTQIPQYLKEAGWAEGGRLIGCTQPRRLAVQTVASRVAEE
+VGVKLGEEVGYTIRFEDQTNPGMTMIKFLTDGVLIREMMEDPLLTKYSVIMVDEAHERSI
+STDMLLGLLKKIQRRRPELRLIISSATIEARSMSTFFNIRRKNSLLgSADdLPNPEPAIL
+SVEGKGYTVEIHYVEEPVSDYLQAAVNTVLIIHEKEPPGDILVFLTGQDDIDAAVKLLNE
+EIQHLGRHYLDLLILPLYSGLPRGDQDLIFAPTSKGKRKVVISTNIAETSLTLEGVVYVV
+DSGFSKQKCYNPISDIESLVVAPISKASARQRAGRAGRVRPGKCFRLYTEEYYLNEMQSE
+GIPEMQRSNLVSCIIQLKALGIDNILGFDWPASPSPEAMIRALEVLFSLGILDEDAKLTV
+PIGFQVAEIPLDPMISKMILSANDFGCSDEILTIAAFLSVQSVWVSMRGVKKEFDEAKLR
+FAAAEGDHVTFLNIYKGFHQSGKSSQWCYKNFLNHQALKKVIEIRaQLVRVmKRFGIQLK
+SCDRDMQAVRKAIIAGSFANACHLEEYSQNGMYKTIRTSQEVYIHPSSVLFRVNPKWVVY
+QSLVSTDKHYMRNVIAIEPSWLTEAAPHFYQFRTPNPALH
+
+
+BOP CONSENSUS:
+Length: 701 aa
+
+MSRFWRPGSEKPSASLVDDEEGGVLFLPTNTSASSSSSGFGYASLERLRQRLPVYKYRKA
+ILYLVERHATTIVVGETGSGKSTQIPQYLKEAGWAEGGRLIGCTQPRRLAVQTVASRVAE
+EVGVKLGEEVGYTIRFEDETNPGMTMIKFLTDGVLIREMMEDPLLTKYSVIMIDEAHERS
+ISTDILLGLLKKIQRRRPELRLIISSATIEARSMSTFFSNRRKNSLLKSADGLPNPEPAI
+LSVEGRGYTVETHYVEEPVSDYLQAAVNTVLIIHEKEPPGDILVFLTGQDDIDAALKLLN
+DEIQHLGKHYFDLVILPLYSGLPRGDQDLIFAPTSKGKRKVVISTNIAETSLTLEGVVYV
+VDSGFSKQKCYNPISDLESLVVAPISKASARQRAGRAGRVRPGKCFRLYTEEYYLNEMQS
+DGIPEMQRSNLVSCIIQLKALGIDNILGFDWPASPSPEAMIRALEILFSLGILDEDAKLT
+VPIGFQVAEMPLDPMISKMILSANDFGCSDEILTIAAFLSVQSVWVSMRGVKKEFDEAKL
+RFAAAEGDHVTFLNIYKGFHQSGKSSQWCYKNFLNHQALKKVIEIRAQLVRVMKRFGIQL
+KSCDRDMQAVRKAIIAGSFANSCHLEEYGQNGMYKTIRTSQEVYIHPSSVLFRVNPKWVV
+YQSLVSTDKHYMRNVIAIEPSWLTEAAPHFYQFRTPNPAPH
+
+
+PACMAD CONSENSUS:
+Length: 700 aa
+
+MSRFWKPGSEKPSTLLVDDEEGGVVFLPSSTSSASSSGFGYASLERQRQRLPVYKYRKAI
+LYLVERHATTIVVGETGSGKSTQIPQYLKEAGWADGGRLIGCTQPRRLAVQTVASRVAEE
+VGVKLGEEVGYTIRFEDQTNPGMTMIKFLTDGVLIREMMEDPLLTKYSVIMVDEAHERSI
+STDMLLGLLKKIQRRRPELRLIISSATIEARSMSTFFNIRRKNSLLGSSDDLPSPEPAIL
+SVEGKGYTVEIHYVEEPVSDYLQAAVNTVLLIHEKEPPGDILVFLTGQDDIDAAVKLLNE
+EIQHLGRHYLDLLILPLYSGLPRGDQDLIFAPTSKGKRKVVLSTNIAETSLTLEGVVYVV
+DSGFSKQKCYNPISDIESLVVAPISKASARQRAGRAGRVRPGKCFRLYTEEYYLNEMQSE
+GIPEMQRSNLVSCIIQLKALGIDNILGFDWPASPSPEAMIRALEVLFSLGILDEDAKLTV
+PIGFQVAEIPLDPMISKMILSANDFGCSDEILTIASFLSVQSVWVSVRGVKKEFDEAKLR
+FAAAEGDHVTFLNIYKGFHQSGKSSQWCYKNFLNYQALKKVVDIRGQLLRIVKSFGIqLK
+SCDRDMQAVRKAIIAGSFANACHLEEYSQNGMYKTIRTSQEVYIHPSSVLFRVNPKWVVY
+QSLVSTDKHYMRNVIAIEPSWLTEAAPHFYQFRTPNPALH
+
+================================================================================

@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM001096
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             437.0 aa
+Family Size (Extended Family Size): 33 (35) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43447:SF38
+Panther Family ID:               PTHR43447
+Modal Panther ID:                PTHR43447:SF38
+Modal Panther Description:       ALPHA-AMYLASE ISOZYME 2A
+Modal Panther Family ID:         PTHR43447
+Modal Panther Fam Desc:          ALPHA-AMYLASE
+Interpro Signature Accession:    cd11314; G3DSA:2.60.40.1180; G3DSA:3.20.20.80; PTHR43447; PIRSF001028; SM00642; SM00810; SSF51445
+Interpro Signature Description:  AmyAc_arch_bac_plant_AmyA; -; Glycosidases; ALPHA-AMYLASE; Alpha-amylase_plant; aamy; alpha-amyl_c2; (Trans)glycosidases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: alpha-amylase type A isozyme
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu07H
+  Gene Products: alpha-amylase type A isozyme%2C transcript variant X2; alpha-amylase type A isozyme-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata07D
+  Gene Products: alpha-amylase type A isozyme
+Tae
+  Gene count: 7
+  Modal chromosome: Tae07D
+  Gene Products: alpha-amylase type A isozyme; alpha-amylase type A isozyme-like; alpha-amylase type A isozyme-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: alpha-amylase isozyme 2A-like
+  Gene Descriptions: alpha-amylase isozyme 2A-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: alpha-amylase isozyme 2A-like
+  Gene Synonyms: AMY1.5,amy2A,AMYC2,OJ1136_F03.12,OsJ_22644
+  Gene Descriptions: alpha-amylase isozyme 2A-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau05
+  Gene Products: alpha-amylase type A isozyme-like
+  Gene Descriptions: alpha-amylase type A isozyme-like
+Svi
+  Gene count: 3
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: alpha-amylase type A isozyme-like; alpha-amylase type A isozyme-like%2C transcript variant X1
+Pha
+  Gene count: 2
+  Modal chromosome: Pha04
+  Gene Products: alpha-amylase type A isozyme-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: alpha-amylase type A isozyme
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: Alpha-amylase 1
+  Gene Synonyms: GRMZM2G074781
+  Gene Descriptions: Alpha-amylase 1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 436 aa
+
+MGnRHLCCLSLLLLLLLGLASGHQVLFQGFNWESWKQSGGWYNmLMGKVDDIAAAGVTHV
+WLPPPSHSVSTQGYMPGRLYDLDASKYGTAAELKSLIAALHGKGVQAIADIVINHRCADY
+KDSRGIYCIFEGGTsDGRLDWGPHMICRDDTqYSDGTANLDTGADFAAAPDIDHLNDRVQ
+RELTEWLLWLKSDLGFDAWRLDFARGYSpEVAKVYIDGTaPSLAVAEIWDnMAyGGDGKP
+nYDQDAHRQALVDWVDKVGGAASAGMVFDFTTKGILNAAVEGELWRLIDPQGKAPGVIGW
+WPAKAVTFVDNHDTGSTQAMWPFPSDKVMQGYAYILTHPGNPCIFYDHFFDWGFKDEIAA
+LVAVRKRNGITPTSaLKILmHDGDAYVAEIDGKVvVKIGSRYDVGaVIPAGFvvaAHGND
+YAVWEKgAAAAtlQRS
+
+
+BOP CONSENSUS:
+Length: 437 aa
+
+MGKNGnLCCFSLLLLLLAGLASGHQVLFQGFNWESWKQSGGWYNMMMGKVDDIAAAGVTH
+VWLPPPSHSVSTQGYMPGRLYDIDASKYGNAAELKSLIgALHGKGVQAIADIVINHRCAD
+YKDSRGIYCIFEGGTSDGRLDWGPHMICRDDTtYSDGTANLDTGADFAAAPDIDHLNDRV
+QRELKEWLLWLKSDLGFDAWRLDFARGYSPEMAKVYIDGTSPSLAVAEVWDNMATGGDGK
+PNYDQDAHRQNLVNWVDKVGGAASAGMVFDFTTKGILNAAVEGELWRLIDPQGKAPGVMG
+WWPAKAVTFVDNHDTGSTQAMWPFPSDKVMQGYAYILTHPGIPCIFYDHFFnWGFKDEIA
+ALVAIRKRNGITATSALKILMHEGDAYVAEIDGKVVVKIGSRYDVGAVIPAGFVTSAHGN
+DYAVWEKtAAAATLQRS
+
+
+PACMAD CONSENSUS:
+Length: 433 aa
+
+MGNRHLCCLSTLLLLLGLASGQVLFQGFNWESWKQSGGWYNLLMGKVDDIAAAGVTHVWL
+PPPSHSVSTQGYMPGRLYDLDASKYGTAAELKSLIAAFHGKGVQAVADIVINHRCADYKD
+SRGIYCIFEGGTPDGRLDWGPHMICRDDTQYSDGTGNLDTGADFAAAPDIDHLNDRVQRE
+LTEWLLWLKSDLGFDAWRLDFARGYSAEVAKVYVDGTAPSFAVAEIWNnMAYGDDGKPEY
+DQDPHRQALVDWVDKVGGAASPATVFDFTTKGILNAAVEGELWRLIDpQGKAPGVIGWWP
+AKAVTFVDNHDTGSTQAMWPFPSDKVMQGYAYILTHPGNPCIFYDHFFDWGFKDEIAALV
+AVRKRNGITPTSELTILEHDGDAYVAEIDGKVIVKIGSRYDVGHLIPAGFEVAAHGNDYA
+VWEKGAsEeVTRA
+
+================================================================================

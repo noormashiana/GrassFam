@@ -1,0 +1,101 @@
+================================================================================
+GrassFam ID: GFAM000074
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             295.0 aa
+Family Size (Extended Family Size): 63 (89) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR12606
+Modal Panther ID:                PTHR12606:SF155
+Modal Panther Description:       OS04G0316900 PROTEIN
+Modal Panther Family ID:         PTHR12606
+Modal Panther Fam Desc:          SENTRIN/SUMO-SPECIFIC PROTEASE
+Interpro Signature Accession:    G3DSA:3.40.395.10; PTHR12606; SSF54001
+Interpro Signature Description:  Adenoviral Proteinase; Chain A; SENTRIN/SUMO-SPECIFIC PROTEASE; Cysteine proteinases
+
+
+REXdb Match:                     False
+REXdb Percentage:                1.59%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: uncharacterized LOC123448243
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: putative ubiquitin-like-specific protease 1B
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04D
+  Gene Products: putative ubiquitin-like-specific protease 1B; uncharacterized LOC123097134; uncharacterized LOC123144646
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 5
+  Modal chromosome: Pau01
+  Gene Products: putative ubiquitin-like-specific protease 1B; ubiquitin-like-specific protease ESD4; uncharacterized LOC133883706%2C transcript variant X1; uncharacterized LOC133888296; uncharacterized LOC133930374
+  Gene Descriptions: putative ubiquitin-like-specific protease 1B; ubiquitin-like-specific protease ESD4; uncharacterized LOC133883706; uncharacterized LOC133888296; uncharacterized LOC133930374
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: uncharacterized LOC120641511%2C transcript variant X1; uncharacterized LOC120671858
+Msi
+  Gene count: 2
+  Modal chromosome: Msi08
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: uncharacterized LOC8055923
+Zma
+  Gene count: 44
+  Modal chromosome: Zma02
+  Gene Products: probable ubiquitin-like-specific protease 2B; putative ubiquitin-like-specific protease 1B; putative ubiquitin-like-specific protease 1B%2C transcript variant X2; uncharacterized LOC100384275; uncharacterized LOC103625984; uncharacterized LOC103626115; uncharacterized LOC103631414; uncharacterized LOC103634920%2C transcript variant X1; uncharacterized LOC103639396%2C transcript variant X1; uncharacterized LOC103642026; uncharacterized LOC103642238; uncharacterized LOC103644817; uncharacterized LOC103645340; uncharacterized LOC103646063; uncharacterized LOC103646514; uncharacterized LOC103649222; uncharacterized LOC103649305%2C transcript variant X3; uncharacterized LOC103650582%2C transcript variant X1; uncharacterized LOC103653146; uncharacterized LOC103656021; uncharacterized LOC109940635; uncharacterized LOC109940961%2C transcript variant X2; uncharacterized LOC109941051; uncharacterized LOC109941422; uncharacterized LOC109941588; uncharacterized LOC109941633; uncharacterized LOC109943075; uncharacterized LOC109944326; uncharacterized LOC109944441; uncharacterized LOC109944951; uncharacterized LOC109945524; uncharacterized LOC109945967; uncharacterized LOC111590860; uncharacterized LOC118471975; uncharacterized LOC118472317; uncharacterized LOC118473033; uncharacterized LOC118473471; uncharacterized LOC118476234
+  Gene Descriptions: uncharacterized LOC100384275
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 371 aa
+
+MESLFVGLHNKPKKSVATAIVREDYICTQGDLALIDFIKEIPCEPRVEVVLIDDAFVERK
+WMECLFQPSAYLGDEVIDCYINLIKAQKHLKCRSGGRVHIENAFQFNFLKRDGDvEIKTE
+ELYPIKDMThICSAERRVLLYLDHDMVFIPINIRETHWYLAVIHARNMEIQVLDSLGTSQ
+DRKDLTDSIKGLQRQIDMISQRKELKDHRWPDLQVASWPLREIDMGYAKQTDSSSCGLFL
+LNYIEYWTGDELSDSFTQDDMSHFRKKMAAILLSSDLNKRRGCLLYKNEKEVDSGSPSDV
+EILENPTDSnKRKLLHVLDDSEDKRaPVKVSNDNDFLMVGLSTKDMPVTKADSIDVLCDY
+IMAIEDDTTLE
+
+
+BOP CONSENSUS:
+Length: 215 aa
+
+MVFLPINIRKCHWYLSVINAKKREIQVLDSLGVGMGRSDLTMTLQGLDKHLKIACDMPEF
+KRGDRWQDLDIMNWTVVDKFQEPIQTDSASCGLFMLNCMEYWTGDILSDNFTQEDMKEFR
+RKLAVILLETELNKLKGSPIYYRTDNEENVSDNEENVSDSDVEFLEDRKRKRQDSHDGAE
+DKSPLRNPIMAVDPQDLVDELCNHIMSINDATSLE
+
+
+PACMAD CONSENSUS:
+Length: 387 aa
+
+MESLFVGLHNKPKKSVATAIVREDYICTQGDLALIDFIKEIPCEPRVEVVLIDDAFVERK
+WMECLFQPSAYLGDEVIDCYINLIKAQKHLKCRSGGRVHIENAFQFNFLKRDGDvEIKTE
+ELYPIKDMThICSAERRVLLYLDHDMVFIPINIRETHWYLAVIHARNMEIQVLDSLGTSQ
+DRKDLTDSIKGLQRQIDMISQRKELKDHRWPDLQVASWPLREIDMGYAKQTDSSSCGLFL
+LNYIEYWTGDELSDSFTQDDMSHFRKKMAAILLSSDLNKRRGCLLYKNEKEVDSGSPSDV
+EILENPTDSNKRKLLHVLDDSVfPITQADLKRAPVKVSNDGCTNDFLMVGLSTKDMPVTK
+ADSIDVLCDYIMAIEDDTTLEVRSFNP
+
+================================================================================

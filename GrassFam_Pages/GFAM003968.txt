@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM003968
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             461.0 aa
+Family Size (Extended Family Size): 21 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48017:SF1
+Panther Family ID:               PTHR48017
+Modal Panther ID:                PTHR48017:SF1
+Modal Panther Description:       OS04G0470700 PROTEIN
+Modal Panther Family ID:         PTHR48017
+Modal Panther Fam Desc:          OS05G0424000 PROTEIN-RELATED
+Interpro Signature Accession:    G3DSA:1.20.1740.10:FF:000055; PTHR48017; PF01490
+Interpro Signature Description:  Amino acid permease 6; OS05G0424000 PROTEIN-RELATED; Transmembrane amino acid transporter protein
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: probable amino acid permease 7%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: probable amino acid permease 7%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: probable amino acid permease 7%2C transcript variant X2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: probable amino acid permease 7%2C transcript variant X1; probable amino acid permease 7%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: probable amino acid permease 7%2C transcript variant X1
+  Gene Descriptions: probable amino acid permease 7
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: probable amino acid permease 7%2C transcript variant X1
+  Gene Descriptions: probable amino acid permease 7
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 1
+  Modal chromosome: Pau07
+  Gene Products: probable amino acid permease 7%2C transcript variant X2
+  Gene Descriptions: probable amino acid permease 7
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: probable amino acid permease 7%2C transcript variant X1; probable amino acid permease 7%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: probable amino acid permease 7%2C transcript variant X2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: probable amino acid permease 7%2C transcript variant X2
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: AAP7; uncharacterized LOC100283931
+  Gene Synonyms: GRMZM2G155491; GRMZM2G173597,umc1272
+  Gene Descriptions: AAP7; uncharacterized LOC100283931
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 458 aa
+
+MAVHHSLEVlDGRCDDDGhPrRtGTAWTCAAHIITAVIGSGVLSLAWSVAQLGWVAGPAC
+MLCFALVTYVSAALLADCYRRgDPEKGPRNRSYMDAVRVYLGKKhTWACGSLQYvSLYGC
+GVAYTITTATSIRAILKANCYHaHGHDAPCsYdGSYYMLmFGGAQLLLSFIPDFHDMAWL
+SVVAAVMSFSYAFIGLGLGLAnTIaNGTIKGSITGVPMRTPVQKVWRVSQAIGDIAFAYP
+YSLILLEIQDTLKSPPAENKTMKKASIISILVTTFFYLCCGCFGYAAFGSDAPGNLLTGF
+GFYEPYWLIDFANACIILHLLGGYQVYSQPIFQFADRFFAERFPDSGFVNDFHTVKVPCL
+PPCRVNLLRVCFRTLYVASTTAVAvaFPYFNEVLALLGALNFWPLAIYFPVEMYFIQRNV
+PRWStRWVVLQtFSVVCLLVSAFALVGSIEGLISQKLG
+
+
+BOP CONSENSUS:
+Length: 458 aa
+
+MAVQHSLQVIDGRCDDDGSPPRTGTAWTCAAHIITAVIGSGVLSLAWSVAQLGWVAGPAC
+MLCFAlVTYVSASLLSDCYRChDpEKGPRNRSYMDAVRVYLGKKqTWACGSLQYLSLYGC
+GVAYTITTATSIRAILKANCYHAHGHDAPCSYDGSYYMLMFGGAQLLLSFIPDFHDMAWL
+SVVAAVMSFSYSFIGLGLGLANTISNGVIKGSITGVPMRTPVQKVWRVSQAIGDIAFAYP
+YSLILLEIQDTLKSPPAENKTMKKASIISILVTTFFYLCCGCFGYAAFGSDAPGNLLTGF
+GFYEPYWLIDFANACIILHLLGGYQVYSQPIYQFADRFFAERYPGSGFVNDFHTVKVPLL
+PPCRVNLLRVCFRTvYVASTTAVALFFPYFNEVLALLGALNFWPLAIYFPVEMYFIQRKV
+PRWSTRWVVLQGFStVCLLVSAFALVGSIQGVISQKLG
+
+
+PACMAD CONSENSUS:
+Length: 458 aa
+
+MAVHDSLEVLDGRCDDDGhPRRtGTAWTCAAHVITAVIGSGVLSLAWSVAQLGWVAGPAC
+MLCFALVTYVSAALLADCYRRGDPEKGPRNRSYmDAVRvYLGKKHTWACGSLQfVSLYGC
+GVAYTITTATSIRAILKANCYHeHGHDAPCsYGGSYYMLVFGAAQLLLSFIPDFHDMAWL
+SVVAAVMSFSYAFIGLGLGLATTIANGTIKGSITGVPMRTPvQKIWRVSQAIGDIAFAYP
+YSLILLEIQDTLKSPPAENKTMKRASMISILVTTFFYLCCGCFGYAAFGSDAPGNLLTGF
+GFYEPYWLIDFANACIILHLLGGYQVYSQPIFQFADRFFAERFPDSGFVNDFHTVRVPCL
+PPCRVNLLRVCFRTLYVASTTAVAVAFPYFNEVLALLGALNFWPLAIYFPVEMYFIQRNV
+PRWSARWVVLQTFSVVCLLVSAFALVGSIEGLITQKLG
+
+================================================================================

@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM006343
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             450.0 aa
+Family Size (Extended Family Size): 23 (27) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11066:SF65
+Panther Family ID:               PTHR11066
+Modal Panther ID:                PTHR11066:SF65
+Modal Panther Description:       ACYL-COA THIOESTERASE
+Modal Panther Family ID:         PTHR11066
+Modal Panther Fam Desc:          ACYL-COA THIOESTERASE
+Interpro Signature Accession:    cd03444; cd03445; G3DSA:2.40.160.210:FF:000003; G3DSA:2.60.120.10:FF:000109; G3DSA:2.40.160.210; PTHR11066; PF20789; SSF54637
+Interpro Signature Description:  Thioesterase_II_repeat1; Thioesterase_II_repeat2; Acyl-CoA thioesterase II; -; ACYL-COA THIOESTERASE; Acyl-CoA thioesterase C-terminal domain; Thioesterase/thiol ester dehydrase-isomerase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: acyl-CoA thioesterase 2%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: acyl-CoA thioesterase 2-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: acyl-CoA thioesterase 2%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: acyl-CoA thioesterase 2-like%2C transcript variant X1; acyl-CoA thioesterase 2-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: acyl-CoA hydrolase 2%2C transcript variant X1
+  Gene Descriptions: acyl-CoA hydrolase 2
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: acyl-CoA hydrolase 2%2C transcript variant X1
+  Gene Descriptions: acyl-CoA hydrolase 2
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: acyl-CoA hydrolase 2-like%2C transcript variant X1; acyl-CoA hydrolase 2-like%2C transcript variant X2
+  Gene Descriptions: acyl-CoA hydrolase 2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: acyl-CoA thioesterase 2-like%2C transcript variant X1; acyl-coenzyme A thioesterase 8-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: acyl-coenzyme A thioesterase 8%2C transcript variant X1
+Msi
+  Gene count: 3
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi06
+  Gene Products: acyl-CoA thioesterase 2; acyl-coenzyme A thioesterase 8%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: uncharacterized LOC100273486%2C transcript variant X1
+  Gene Synonyms: cl483_1,GRMZM2G344476
+  Gene Descriptions: uncharacterized LOC100273486
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 450 aa
+
+MDREEGKAAQSPPNLGAiLANLGpGCHWCAVTEFLGQVPLLQCLPGSSIRRIAEAVQVKh
+YEPGDYVAREGEPVDGLYIILDGQAEVSAPANTEEANRPDYVLNKYDYFGYGTNSSVHQV
+NVVALSKLTCFILPNQYGHLLQPKTIWNAEETPEsHSLLEQILHLEPLEVDIFRGFTLPE
+APTFRQVFGGQLIGQALAAASKTVDCLKMVHSLHAIFLVAGDNNmPIIYQVHRARDGSSF
+ATRKVEAKQKGLViFTLIASFQKEELGFEHQAAIMPDVPPPEQLLNLEEIRERRLTDPRF
+PMQYRNSAAKKKFVPWPIEMRFCEDSASQHKPSLNYWFRARGKLSDDQALHRCVVAYASD
+LLYSGVSLNPHREKGLKTYSLSLDHSIWFHKPVKADDWLLYVIESPSAHGGRGFVTGRMF
+NRQGELIMSLTQEALIRREKTRGqtPRPKL
+
+
+BOP CONSENSUS:
+Length: 450 aa
+
+MDREEGKAAqSLPnLGATLANsGDDSrWCAVTEFLGQVPLLQCLPGSSIRRIAEAVQVKH
+YEPGDYVAREGEPVDGLCIILDGQAEVSAPANTEEANRPDYVLNKYDYFGYGTNSSVHQV
+NVIAVTKLSCFVLPSQYGHLLQTKTIWNAEETPESHSLMEQILHLEKLEVDIFRGFTLPE
+APTFRQVFGGQLIGQALAAASKTVDCLKLVHSLHAIFLIAGDNNMPIIYQVHRERDGTSF
+ATRKVEAKQKGLVMFTLIVSFQKEELGFEHQAAIMPDVPPPEQLLNMEEIRERRLTDPRF
+PMQYRNSAAKKKFVPWPIEMRFCQDSKSQHEPSLHYWFRARGKLSDDPALHRCVVAYASD
+LLYSGVSLNPHRERGLKTYSLSLDHSMWFHKPVKADDWLLYVIDSPSAHGGRGFVTGRMF
+NRQGELIVSLTQEALIRRAKTPGQTPRPKL
+
+
+PACMAD CONSENSUS:
+Length: 449 aa
+
+MDREEGKAAQSPPNLGAILANLGPGCHWCAVTEFLGQVPLLQCLPGSSIRRIAEAVQVRr
+YEPGDYVAREGEPVDGLYIILDGQAEVSAPANAEEANRPDYVLNKYDYFGYGTNSSVHQV
+NVVALSKLTCFILPNQYGHLLQPKTIWNAEETPEHSLLEQILHLEPLEVDIFRGFTLPEA
+PTFRQVFGGQFIGQALAAASKTVDCLKMVHSLHAIFLVAGDNNlPIIYQVHRARDGSSFA
+TRKVEAKQKGLVvFTLIASFQKEEVGFEHQAAIMPDVPPPEQLLNLEEIRERRLTDPRFP
+tQYRNLAAKKKFTPWPIEMRFCEDSASQHKPSLNYWFRARGKLSDDQALHRCVVAYASDL
+LYSGVSLNPHREKGLKTYSLSLDHSIWFHKPVKADDWLLYVIESPSAHGGRGFVTGRMFN
+RQGELIMSLTQEALIRREKTRGPNPRPKL
+
+================================================================================

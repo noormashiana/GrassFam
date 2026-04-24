@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM010722
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             488.0 aa
+Family Size (Extended Family Size): 21 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43727:SF2
+Panther Family ID:               PTHR43727
+Modal Panther ID:                PTHR43727:SF2
+Modal Panther Description:       GROUP IV DECARBOXYLASE
+Modal Panther Family ID:         PTHR43727
+Modal Panther Fam Desc:          DIAMINOPIMELATE DECARBOXYLASE
+Interpro Signature Accession:    cd06828; G3DSA:3.20.20.10:FF:000003; G3DSA:2.40.37.10:FF:000003; G3DSA:3.20.20.10; G3DSA:2.40.37.10; TIGR01048; PTHR43727; PF02784; SSF51419; SSF50621
+Interpro Signature Description:  PLPDE_III_DapDC; Diaminopimelate decarboxylase; Alanine racemase; Lyase, Ornithine Decarboxylase; Chain A, domain 1; diaminopimelate decarboxylase; DIAMINOPIMELATE DECARBOXYLASE; Pyridoxal-dependent decarboxylase, pyridoxal binding domain; PLP-binding barrel; Alanine racemase C-terminal domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: probable diaminopimelate decarboxylase%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: probable diaminopimelate decarboxylase%2C chloroplastic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: probable diaminopimelate decarboxylase%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: probable diaminopimelate decarboxylase%2C chloroplastic
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: probable diaminopimelate decarboxylase%2C chloroplastic
+  Gene Descriptions: probable diaminopimelate decarboxylase%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: probable diaminopimelate decarboxylase%2C chloroplastic
+  Gene Synonyms: DAPDC,LYSA,OJ1008_E02.6
+  Gene Descriptions: probable diaminopimelate decarboxylase%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau06
+  Gene Products: probable diaminopimelate decarboxylase%2C chloroplastic
+  Gene Descriptions: probable diaminopimelate decarboxylase%2C chloroplastic
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: probable diaminopimelate decarboxylase%2C chloroplastic; probable diaminopimelate decarboxylase%2C chloroplastic%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: probable diaminopimelate decarboxylase%2C chloroplastic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi14
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: probable diaminopimelate decarboxylase%2C chloroplastic
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: Diaminopimelate decarboxylase 2 chloroplastic; diaminopimelate decarboxylase
+  Gene Synonyms: GRMZM2G020446; GRMZM2G090722
+  Gene Descriptions: Diaminopimelate decarboxylase 2 chloroplastic; diaminopimelate decarboxylase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 489 aa
+
+MAAANLLSRSLLPsLNPnPsSHPNRsSPAsVSlRRRHGRLaSVRASVSTASPSPPPQPAA
+AAggAPKHCFRRGADGYLYCEGVRVEDAMAAAERSPFYLYSKPQVVRNFAAYRdALQGLR
+SIVGYAVKANNNLPVLRLLRELGCGAVLVSGNELRLALRAGFDPTRCIFNGNGKTLEDLk
+LAAESGVFVNVDSEFDLENIVrAARVAGKKVPVLLRINPDVDPQVHPYVATGNKTSKFGI
+RNEKLQWFLDSIKSYSNDIKLVGVHCHLGSTITKVDIFRDAAVLMVNFVDEIRAQGFELE
+YLNIGGGLGIDYHHTDAVLPTPMDLINTVRELVLSRDLTLIIEPGRSLIANTCCFVNRVT
+GVKSNGTKNFIVVDGSMAELIRPSLYGAYQHIELVSPPSPGAEVATFDIVGPVCESADFL
+GKDRELPTPDKGAGLVVHDAGAYCMSMASTYNLKLRPPEYWVEEDGSIVKIRHGEkFDDY
+MKFFDGLPA
+
+
+BOP CONSENSUS:
+Length: 484 aa
+
+MAAANLLSRSLLPSLTPNPgSQPSRSRPASVSLRRRHGPAAPLRASLSTASPSTRVAMGE
+APKHCFQRGADGHLYCEGVRVEDAMAAAERTPFYLYSKPQVVRNFTAYDKALQGLRSIVG
+YAVKANNNLSVLQLLRGLGCGAVLVSGNELRLALRAGFDPTRCIFNGNGKTLEDLVLAAE
+SGVFVNIDSEFDLENIVTAARVAGKQVPVLLRINPDVDPQVHPYVATGNKTSKFGIRNEK
+LQWFLDSIKSYSNDIKLVGVHCHLGSTITKVDIFRDAANLMVNFVDEIRAQGFELEYLNI
+GGGLGIDYHHTGAVLPTPMDLINTVRELVLSRDLTLIIEPGRSLIANTCCFVNKVTGVKS
+NGTKNFIVVDGSMAELIRPSLYGAYQHIELVSPSPGAEVATFDIVGPVCESADFLGKDRE
+LPTPDKGAGLVVHDAGAYCMSMASTYNLKMRPAEYWVEDDGSIVKIRHGETFDDYMKFFD
+GLSA
+
+
+PACMAD CONSENSUS:
+Length: 489 aa
+
+MAAANLLSRSLLPTPNPSPSSHPNRRSPAVVSFPRRHGRLSSVRASVSTASPSPPPQPAA
+AAAGVPKHCFRRGADGYLYCEGVRVEDAMAAAERSPFYLYSKPQVLRNFAAYRDALQGLR
+SVVGYAVKANNNLPVLRVLRELGCGAVLVSGNELRLALQAGFDPTRCIFNGNGKTLEDLK
+LAAESGVFVNVDSEFDLENIVRAARATGKKVPVLLRINPDVDPQVHPYVATGNKTSKFGI
+RNEKLQWFLDSIKSYSNEIKLVGVHCHLGSTITKVDIFRDAAVLMVNYVDEIRAQGFKLE
+YLNIGGGLGIDYHHTDAVLPTPMDLINTVRELVLSRDLTLIIEPGRSLIANTCCFVNRVT
+GVKSNGTKNFIVVDGSMAELIRPSLYGAYQHIELVSPPTPGAEVATFDIVGPVCESADFL
+GKDRELPTPDEGAGLVVHDAGAYCMSMASTYNLKLRPPEYWVEEDGSIVKIRHEEKLDDY
+MKFFDGLPA
+
+================================================================================

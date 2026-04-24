@@ -1,0 +1,122 @@
+================================================================================
+GrassFam ID: GFAM017221
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             606.5 aa
+Family Size (Extended Family Size): 12 (12) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22573:SF59
+Panther Family ID:               PTHR22573
+Modal Panther ID:                PTHR22573:SF59
+Modal Panther Description:       PHOSPHOGLUCOMUTASE, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR22573
+Modal Panther Fam Desc:          PHOSPHOHEXOMUTASE FAMILY MEMBER
+Interpro Signature Accession:    cd03085; G3DSA:3.40.120.10:FF:000009; G3DSA:3.40.120.10:FF:000004; G3DSA:3.30.310.50:FF:000002; G3DSA:3.40.120.10:FF:000005; G3DSA:3.40.120.10; G3DSA:3.30.310.50; NF005737; PTHR22573; PF24947; PF02878; SSF55957; SSF53738
+Interpro Signature Description:  PGM1; Phosphoglucomutase, cytoplasmic 1; Phosphoglucomutase 5; -; alpha-D-glucose phosphate-specific phosphoglucomutase; PHOSPHOHEXOMUTASE FAMILY MEMBER; Phosphoglucomutase-1, C-terminal domain; Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain I; Phosphoglucomutase, C-terminal domain; Phosphoglucomutase, first 3 domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: phosphoglucomutase%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: phosphoglucomutase%2C chloroplastic
+  Gene Descriptions: phosphoglucomutase%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: phosphoglucomutase%2C chloroplastic
+  Gene Descriptions: phosphoglucomutase%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau21
+  Gene Products: phosphoglucomutase%2C chloroplastic
+  Gene Descriptions: phosphoglucomutase%2C chloroplastic
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: phosphoglucomutase%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: phosphoglucomutase%2C chloroplastic
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 606 aa
+
+MASHALRLCPLLSTARPTPPRAAAARqGasPALLVVRCSSAGTPSAAQALKIKSIPTKPV
+EGQKTGTSGLRKKVKVFQQENYLANWIQALFNSLPPEDYVGGTLVLGGDGRYFNKEAAQI
+IIKIAAGNGVGKILVGRNGLLSTPAVSAVIRKREANGGFIMSASHNPGGPDNDWGIKFNY
+SSGQPAPETITDQIYGNTLSISEIKTADIPDVDLSSLGVVSYGDFTVEVIDPVSDYLELM
+ENVFDFQLIKDLLSRPDFRFIFDAMHAVTGAYAGPIFVEKLGADPDCILNGVPLEDFGNG
+HPDPNLTYAKELVFTMFGThAPDFGAASDGDGDRNMILGKRFFVTPSDSVAIIAANAQAA
+IPYFQSGTKGLARSMPTSGALDRVAEKLNVPFFEVPTGWKFFGNLMDAGKLSICGEESFG
+TGSDHIREKDGIWAVLAWLSILAHRNKDKKVGERLVSVEDVAREHWATYGRNFFSRYDYE
+ECESeSANKMMEHLRDVIANSKPGEKYGNYTLQFADDFSYTDPVDGSTVSKQGLRFVFTD
+GSRIIFRLSGTGSAGATIRLYIEQFESDASKHsLDAQTALKPLIDLALSVSKLKDFTGRD
+KPTVIT
+
+
+BOP CONSENSUS:
+Length: 604 aa
+
+MASHALRLRPLLSTAARPAATPGGGARRVHRRHSLVVVRCSSSAAQALKIKSIPTKPVEG
+QKTGTSGLRKKVKVFQQENYLANWIQALFNSLPPEDYVGGTLVLGGDGRYFNKEAAQIIT
+KIAAGNGVGKILVGRNGLLSTPAVSAVIRKRQANGGFIMSASHNPGGPDNDWGIKFNYSS
+GQPAPETITDQIYGNTLSISEIKTADIPDVDLTSLGVVSYGDFTVEVIDPVLDYLELMEN
+VFDFQLIKGLLSRPDFRFVFDAMHAVTGAYAGPIFVEKLGADPDYILNGVPLEDFGNGHP
+DPNLTYAKELVFTMFGSRAPDFGAASDGDGDRNMILGRRFFVTPSDSVAIIAANAQAAIP
+YFQSGPKGLARSMPTSGALDRVAEKLNVPFFEVPTGWKFFGNLMDAGKLSICGEESFGTG
+SDHIREKDGIWAVLAWLSILAHRNKDKKVGERLVSVEDVAREHWATYGRNFFSRYDYEEC
+ESESANKMMEHLRDVIAKSKPGEKYGNYTLQFADDFSYTDPVDGSTVSKQGLRFVFTDGS
+RIIFRLSGTGSAGATIRLYIEQFESDASKHGLDAQIALKPLIDLALSVSKLKDFTGRDKP
+TVIT
+
+
+PACMAD CONSENSUS:
+Length: 608 aa
+
+MPTTHALRLCPLLSTIRSTPPRATAAARQGASPALLVARCSSAGTPSAAQALKINSIPTK
+PVEGQKTGTSGLRKKVKVFQQENYLANWIQALFNSLPPEDYVGATLVLGGDGRYFNKEAA
+QIIIKIAAGNGVQKIIVGRNGLLSTPAVSAVIRKREANGGFIMSASHNPGGPDNDWGIKF
+NYSSGQPAPETITDQIYGNTLSISEIKTAGIPDTDLSSVGVVSYGDFTIEVIDPVSDYLE
+LMENVFDFQLIKDLLSRPDFRFIFDAMHAVTGAYAGPIFVEKLGADPDCILNGVPLEDFG
+NGHPDPNLTYAKELVFTMFGTHAPDFGAASDGDGDRNMILGKRFFITPSDSVAIIAANAQ
+AAIPYFQFGTKGLARSMPTSGALDRVAKKLNVPFFEVPTGWKFFGNLMDAGKLSICGEES
+FGTGSDHIREKDGIWAVLAWLSILAHRNKDKKVGERLVSVEDIAMEHWKTYGRNFFSRYD
+YEECESqSANKMMDHLRDVIANSKPGEKYGDYTLQFADDFSYTDPVDGSTVSKQGLRFVF
+TDGSRIIFRLSGTGSAGATIRLYIEQFESDISKHSLDAQTALKPLIDLALSVSKLKDFTG
+RDKPTVIT
+
+================================================================================

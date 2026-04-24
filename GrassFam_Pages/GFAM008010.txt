@@ -1,0 +1,150 @@
+================================================================================
+GrassFam ID: GFAM008010
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             746.0 aa
+Family Size (Extended Family Size): 23 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43427:SF13
+Panther Family ID:               PTHR43427
+Modal Panther ID:                PTHR43427:SF13
+Modal Panther Description:       CHLORIDE CHANNEL PROTEIN
+Modal Panther Family ID:         PTHR43427
+Modal Panther Fam Desc:          CHLORIDE CHANNEL PROTEIN CLC-E
+Interpro Signature Accession:    cd00400; cd04592; G3DSA:3.10.580.10:FF:000031; G3DSA:1.10.3080.10:FF:000008; G3DSA:1.10.3080.10; PTHR43427; PR00762; PF00654; SSF81340
+Interpro Signature Description:  Voltage_gated_ClC; CBS_pair_voltage-gated_CLC_euk_bac; Chloride channel protein; Clc chloride channel; CHLORIDE CHANNEL PROTEIN CLC-E; Chloride channel signature; Voltage gated chloride channel
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: chloride channel protein CLC-f%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: chloride channel protein CLC-f
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: chloride channel protein CLC-f%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: chloride channel protein CLC-f-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl08
+  Gene Products: chloride channel protein CLC-f
+  Gene Descriptions: chloride channel protein CLC-f
+Osa
+  Gene count: 1
+  Modal chromosome: Osa08
+  Gene Products: chloride channel protein CLC-f%2C transcript variant X1
+  Gene Descriptions: chloride channel protein CLC-f
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN50
+Pau
+  Gene count: 2
+  Modal chromosome: Pau16
+  Gene Products: chloride channel protein CLC-f; chloride channel protein CLC-f-like
+  Gene Descriptions: chloride channel protein CLC-f; chloride channel protein CLC-f-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: chloride channel protein CLC-f-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: chloride channel protein CLC-f
+Msi
+  Gene count: 3
+  Modal chromosome: Msi13
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: chloride channel protein CLC-f
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100279218%2C transcript variant 1
+  Gene Synonyms: GRMZM2G113911
+  Gene Descriptions: uncharacterized LOC100279218
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 748 aa
+
+MAGSDLEPLRSGAAALPSSSDPDSPaTPRRSRVRELLRNLDRRLSNRSRGGHAEGGAAAg
+haGGEAGAPRRGEEDSDELGDGAPPEWALLLVGCLLGLATGICVAAFNRGVHVIHEWAWA
+GTPTEGAAWLRLQRLADTWHRILLIPVTGGVVVGMMHGLLEIFEQIKQSLSSQREGIDFM
+AAIFPTIKAIQAAITLGTGCSLGPEGPSVDIGKSCANGCAEMMENNRERRIALVAAGSAA
+GIASGFNAAVAGCFFAIETVLRPLRAENSPPFTTAMIILASVISSTVSNVLLGEKAAFIV
+PTYELKSAAELPLYLILGMLCGVVSVAFRQLVVWFTKTFDLIRKKFGLPAVVCPALGGLG
+AGLIALRYPGILYWGFTNVDEILHTGKSASAPGIWLLAQLAAAKVVATALCKGSGLVGGL
+YAPSLMIGAAVGAVFGGSAAELINSAIPGNTAVAHPQAYALVGMAATLASVCSVPLTSVL
+LLFELTKDYRILLPLMGAVGLAIWVPSVVNQSGSKDtFEATSPRHGYSSLLPPADRNETD
+WRRpDGDDVELAILDdDPYHYGSNNEEMLLDDLKVSQAMSKHFvKVTPTFTIKEATRLMQ
+EKQQSCVLVVDNEDFLEGIVTLGDIRRKGFEPSENSnSTGENSStLDaNSSLVSSCLTRG
+FQFHGNERGLVTCFPDTDLSTAKVLMEVKGIKQLPVVKRGAGRRNDGRRKVLGLLHYDSI
+GWCLREELERWKAIYQRENFQQpTVNGH
+
+
+BOP CONSENSUS:
+Length: 743 aa
+
+MAHSDLEPLRSGAAALPSSSDPDSPSTPRRNRVRELLRNLDRRLSSRGRHNHVDSGPASP
+TAAGEAGAPRREEESDELGDGAPPEWALLLVGCLLGLATGICVAAFNRGVHVIHEWAWAG
+TPTEGAAWLRLQRLADTWHRILLIPVTGGVVVGMMHGLLEIFEQIKLSMSSQREGIDFMS
+AIFPTIKAIQAAITLGTGCSLGPEGPSVDIGKSCAIGCAEMMENNRERRIALIAAGSAAG
+IASGFNAAVAGCFFAIETVLRPLRAENSPPFTTAMIILASVISSTVSNVLLGEKAAFIVP
+TYELKSAAELPLYLILGMLCGVVSVVFRQLVVWFTKTFDLIRKKFGLPAVVCPALGGLGA
+GLIALRYPGILYWGFTNVDEILHTGKSASAPGIWLLAQLAAAKVVATALCKGSGLVGGLY
+APSLMIGAAVGAVFGGSAAELINSAIPGNTAVAHPQAYALVGMAATLASVCSVPLTSVLL
+LFELTKDYRILLPLMGAVGLAIWVPSVVSHSSNKEMFEATSPRHGYSSLLPPADRSETDG
+RRPDGDDVELAILEDDLYHYGSNSEEMLLDELKVSRAMSKHFIKVTSTVTIKEATLLMHD
+KQQGCVLVVDNEDFLEGIVTVGDIRRRGFESSEDANSTGENSSvLDVNSSLVTSCLTRGF
+QYHGNERGLVTCFPDTDLSTAKVLMEVKGIKQLPVVKRGAGRRNDGRRKVLGLLHYESIG
+RCLREELERWKAIYQREFPAASS
+
+
+PACMAD CONSENSUS:
+Length: 749 aa
+
+MAGSDLEPLRaGAAALPSSSDPDSPATPRRSRVRDLLRNLDRRLSNRSRGGEGeGAAAAG
+HGGGEAGASPRRGEEDSDELGDGAPPEWALLLVGCLLGLATGICVAAFNRGVHVIHEWAW
+AGTPTEGAAWLRLQRLADTWHRILLIPVTGGVVVGMMHGLLEIFEQIKQSLSSQREGIDF
+MAAIFPTIKAIQAAITLGTGCSLGPEGPSVDIGKSCANGCAEMMENNRERRIALVAAGSA
+AGIASGFNAAVAGCFFAIETVLRPLRAENSPPFTTAMIILASVISSTVSNVLLGEKAAFI
+VPTYELKSAAELPLYLILGMLCGVVSVAFRQLVVWFTKTFDLIRKKFGLPAVVCPALGGL
+GAGLIALRYPGILYWGFTNVDEILHTGKSASAPGIWLLAQLAAAKVVATALCKGSGLVGG
+LYAPSLMIGAAVGAVFGGSAAELINSAIPGNTAVAHPQAYALVGMAATLASVCSVPLTSV
+LLLFELTKDYRILLPLMGAVGLAIWVPSVVNQSGSKDTFEATSPRHGYSSLLPPADRNET
+DWRRQDGDDVELAILDVDPYHYGSNNEEMLLDDLKVSQAMSKHYVKVTPTFTIKETTRLM
+QEKQQSCVLVVDNEDFLEGIVTLGDIRRKGFEPSENShSTqeNSSTLDANSSLVSSCLTR
+GFQFHGNERGLVTCFPDTDLSTAKVLMEVKGIKQLPVVKRGAGRRNDGRRKVLGLLHYDS
+IGWCLREELERWKAIYQRENFQQTTVNGH
+
+================================================================================

@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM014663
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             423.5 aa
+Family Size (Extended Family Size): 32 (32) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR15481:SF6
+Panther Family ID:               PTHR15481
+Modal Panther ID:                PTHR15481:SF6
+Modal Panther Description:       OS05G0105900 PROTEIN
+Modal Panther Family ID:         PTHR15481
+Modal Panther Fam Desc:          RIBONUCLEIC ACID BINDING PROTEIN S1
+Interpro Signature Accession:    cd12365; G3DSA:3.30.70.330:FF:000461; PTHR15481; SSF54928
+Interpro Signature Description:  RRM_RNPS1; Serine/arginine-rich splicing factor SR45; RIBONUCLEIC ACID BINDING PROTEIN S1; RNA-binding domain, RBD
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 3
+  Modal chromosome: Bdi02
+  Gene Products: serine/arginine-rich splicing factor SR45%2C transcript variant X1; serine/arginine-rich splicing factor SR45%2C transcript variant X2; uncharacterized LOC112269372
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu01H
+  Gene Products: serine/arginine-rich splicing factor SR45%2C transcript variant X1; serine/arginine-rich splicing factor SR45-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata01D
+  Gene Products: serine/arginine-rich splicing factor SR45; serine/arginine-rich splicing factor SR45%2C transcript variant X1
+Tae
+  Gene count: 6
+  Modal chromosome: Tae01A
+  Gene Products: serine/arginine-rich splicing factor SR45-like; serine/arginine-rich splicing factor SR45-like%2C transcript variant X1; serine/arginine-rich splicing factor SR45-like%2C transcript variant X2
+Ola
+  Gene count: 2
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl01
+  Gene Products: serine/arginine-rich splicing factor SR45-like%2C transcript variant X1
+  Gene Descriptions: serine/arginine-rich splicing factor SR45-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa01
+  Gene Products: serine/arginine-rich splicing factor SR45%2C transcript variant X1
+  Gene Descriptions: serine/arginine-rich splicing factor SR45
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: serine/arginine-rich splicing factor SR45-like; serine/arginine-rich splicing factor SR45-like%2C transcript variant X1
+  Gene Descriptions: serine/arginine-rich splicing factor SR45-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: serine/arginine-rich splicing factor SR45-like; serine/arginine-rich splicing factor SR45-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: serine/arginine-rich splicing factor SR45
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: serine/arginine-rich splicing factor SR45
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: uncharacterized LOC103636269; uncharacterized LOC103650711%2C transcript variant X1
+  Gene Synonyms: GRMZM2G060540,SR45_1; GRMZM2G133926,SR45_2
+  Gene Descriptions: uncharacterized LOC103636269; uncharacterized LOC103650711
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 424 aa
+
+MAKPRRGRSaSRSSSGSSSRSvSSGSvSSRSRSRSRSFSSSSSpSRSRSPPaAKRSSPGA
+RKGRSPSPPPKKGSPSrKgRSPSPPPKKASPPRKASPPPESvVLHVDHLSRNVNEAHLKE
+IFGNFGEVVNVELSMDRmVNLPRGYGYIEFKKRADAEKALLYMDGGQIDGNVVKLRFTLq
+PRQRAASPmKAPPPPPKRDAPQNDKGAsSAEKDAQQRPRESSPRRKPASPPRKRSPPNRR
+VESPRRPPDPSPRRRPDSPPIRRRPDPSPVRRGDTPPRRRPGSPVRRRSPSPPPRRHRSP
+MRPSPRRGRGSPSPRRRSPGPPRRRSPPPRRLRSPPRRPPPPRRhSRSPPRRPLRSRSRS
+ISPRRGRGPPLRRGRSDSSYSrSPSPPRKGPRRVSRSRSPRRPPRGRSISSDSRSSSSPS
+PRRR
+
+
+BOP CONSENSUS:
+Length: 413 aa
+
+MAKPRRGRSGsRSSsGRSPSRSASSGSSSRSRSRSRSlSSSSSpSRSRSPPaAKRSSPGA
+RRGRSPSPPlKKGSPSrKGRSPSPPPKKPSPPRKASPAPeSVVLHVDHLSRNVNEAHLKE
+IFGNYGEVVNVELSMDKfVNLPRGYGYVEFKKRADAEKALLYMDGGQIDGNVVKLKFTLA
+PRQrASSPpKALPPPPKRDvPqNDKVapsAEKDaQQRPREsSPRRKPaSsPRrRSPPnRR
+VESPRRRPDSPPIRRRpDPSPVRRGDTPSRRPGSPVRRRSPSPPPRRhRSPRRLSPRRgs
+gSPvRRRSPgPPRRrTPPRRmRSPPRRPPPPRRRSRSPPRRPiRSRSRSISPRRGRGPPL
+RRGRSsSSYSeSPTPPRRGPRRVSRSRSPrRPpRGRSgSSDSgSSSSPSPRRR
+
+
+PACMAD CONSENSUS:
+Length: 427 aa
+
+MAKPRRGRSASRSSSGSSSRSPSHSVSSGSVSSRSRSRSRSFSSSSSQSRSRSPPPAKRS
+SPGARKGRSPSPPPKKGSPSKKVRSPSPPPKKASPPRKASPPAESAVLCIDHLSRNVNEA
+HLKEIFGNFGEVVNVELSMDRLVNLPRGYGYIEFKKRADAEKALLYMDGGQIDGNVVKLR
+FTLQPRQRAASPMKAPPPPPKRDAPQNEKGASSAEKDAQQRPRESSPRRKPASPPRKRSP
+NRRVESPRRPPDPSPRRRPDSPPIRRRPDPSPVRRGDTPPRRRPLSPVRRRSPSPPPRRH
+RSPMRPSPRRGRGSPSPRRRSPGPLRRRSPPPRRLRSPPRRPPPPRRYSRSPPRRPLRSR
+SRSISPRRGRGPPLRRGRSDSSYSRSPSPPRKGPRRVSRSRSPRRPPRGRSISSDSRSSS
+SPSPRRR
+
+================================================================================

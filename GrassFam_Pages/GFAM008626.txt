@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM008626
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             376.0 aa
+Family Size (Extended Family Size): 40 (40) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11703:SF3
+Panther Family ID:               PTHR11703
+Modal Panther ID:                PTHR11703:SF3
+Modal Panther Description:       DEOXYHYPUSINE SYNTHASE
+Modal Panther Family ID:         PTHR11703
+Modal Panther Fam Desc:          DEOXYHYPUSINE SYNTHASE
+Interpro Signature Accession:    G3DSA:3.40.910.10:FF:000002; G3DSA:3.40.910.10; TIGR00321; PTHR11703; PF01916; SSF52467
+Interpro Signature Description:  Deoxyhypusine synthase; deoxyhypusine synthase; DEOXYHYPUSINE SYNTHASE; DHS-like NAD/FAD-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: deoxyhypusine synthase%2C transcript variant X1
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: deoxyhypusine synthase%2C transcript variant X1
+Ata
+  Gene count: 3
+  Modal chromosome: Ata05D
+  Gene Products: deoxyhypusine synthase; deoxyhypusine synthase%2C transcript variant X1
+Tae
+  Gene count: 9
+  Modal chromosome: Tae05A
+  Gene Products: deoxyhypusine synthase; deoxyhypusine synthase%2C transcript variant X1; deoxyhypusine synthase-like; deoxyhypusine synthase-like%2C transcript variant X1
+Ola
+  Gene count: 2
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl03
+  Gene Products: deoxyhypusine synthase-like; deoxyhypusine synthase-like%2C transcript variant X1
+  Gene Descriptions: deoxyhypusine synthase-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: deoxyhypusine synthase%2C transcript variant X1
+  Gene Descriptions: deoxyhypusine synthase
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau04
+  Gene Products: deoxyhypusine synthase%2C transcript variant X1
+  Gene Descriptions: deoxyhypusine synthase
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi09N
+  Gene Products: deoxyhypusine synthase-like; deoxyhypusine synthase-like%2C transcript variant X1; deoxyhypusine synthase-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: deoxyhypusine synthase
+Msi
+  Gene count: 6
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi01
+  Gene Products: deoxyhypusine synthase%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: deoxyhypusine synthase 1; deoxyhypusine synthase 2%2C transcript variant X1
+  Gene Synonyms: dhs1,GRMZM6G028994; dhs2,GRMZM2G703077
+  Gene Descriptions: deoxyhypusine synthase 1; deoxyhypusine synthase 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 376 aa
+
+MAGaGGgGgvRdvDALEGVRsIVLKPSESLDESRFTRIAGADFNDAGLGLdGLLGSLAST
+GFQASNLGDAIDVVNQMLDWRLSHEKPSEDCDEAELDPKYRESVKCKIFLGFTSNLVSSG
+IRDVIRFLVQHHMVDVIVTTAGGIEEDLIKCLAPTYRGDFSLPGALLRSKGLNRIGNLLV
+PNDNYCKFENWIMPLFDQMLLEQSTENVWTPSKVIARLGKEINDESSYLYWAYKNNIPVY
+CPALTDGSLGDMLFCHAVRNPGLIIDIVQDIRLMNGEAIHATPRKTGIIILGGGLPKHHI
+CNANMFRNGADYAVYINTAQEFDGSDSGAqPDEAVSWGKIKGSAKPVKVHCDATIAFPLL
+VAATFARKvHGaKSTN
+
+
+BOP CONSENSUS:
+Length: 376 aa
+
+MgGeGGsGGERstDaLEGVRAIVLKPSESLDESRFTKIAGADFNDAGLGLdGLLGSLAST
+GFQASNLGDAIDVVNQMLDWRLSHEKPSEDCDEAELDPKYRESVKCKIFLGFTSNLVSSG
+IRDVIRFLVQHHMVDVIVTTAGGIEEDLIKCLAPTYRGEFSLPGALLRSKGLNRIGNLLV
+PNDNYCKFENWIMPLFDQMLQEQSTENVWTPSKVIARLGKEINDESSYLYWAYKNNIPVY
+CPALTDGSLGDMLFCHAVRNPGLIIDIVQDIRLINGEAIHATPRKTGvIILGGGLPKHHI
+CNANMFRNGADYAVYINTAQEFDGSDSGAqPDEAVSWGKIKGSAKPVKVHCDATIAFPLL
+VAATFARRfHGANSTN
+
+
+PACMAD CONSENSUS:
+Length: 377 aa
+
+MAGAGGGGGVVRDVEALEGVRSIVLKPSESLDESRFTRIAGADFNDPGLGLEGLLASLAS
+TGFQASNLGDAIDVVNQMLDWRLSHEKPSEDCDEAELDPKYRESVKCKIFLGFTSNLVSS
+GIRDIIRFLAQHHMVDVIVTTAGGIEEDLIKCLAPTYRGDFSLPGALLRSKGLNRIGNLL
+VPNDNYCKFENWIMPLFDQMLLEQSTENVWTPSKVIARLGKEINDESSYLYWAYKNNIPV
+YCPALTDGSLGDMLFCHAVRNPGLIIDIVQDIRLMNGEAIHATPRKTGIIVLGGGLPKHH
+ICNANMFRNGADYAVYINTAQEFDGSDSGAQPDEAVSWGKIKGSAKPVKVHCDASIAFPL
+LVAATFARKVHGSKSTN
+
+================================================================================

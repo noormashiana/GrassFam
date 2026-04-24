@@ -1,0 +1,112 @@
+================================================================================
+GrassFam ID: GFAM005469
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             467.0 aa
+Family Size (Extended Family Size): 15 (16) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11088:SF82
+Panther Family ID:               PTHR11088
+Modal Panther ID:                PTHR11088:SF82
+Modal Panther Description:       TRNA DIMETHYLALLYLTRANSFERASE 2
+Modal Panther Family ID:         PTHR11088
+Modal Panther Fam Desc:          TRNA DIMETHYLALLYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:3.30.160.60:FF:002405; G3DSA:1.10.20.140:FF:000006; G3DSA:3.40.50.300; TIGR00174; PTHR11088; PIRSF039110; PF01715
+Interpro Signature Description:  tRNA dimethylallyltransferase; -; tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA; TRNA DIMETHYLALLYLTRANSFERASE; IPP_transferase; IPP transferase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: tRNA dimethylallyltransferase 2%2C transcript variant X3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: tRNA dimethylallyltransferase 2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: tRNA dimethylallyltransferase 2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: tRNA dimethylallyltransferase 2-like; tRNA dimethylallyltransferase 2-like%2C transcript variant X1; tRNA dimethylallyltransferase 2-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN8
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: tRNA dimethylallyltransferase 2%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: isopentenyl transferase IPT1
+  Gene Synonyms: GRMZM2G097258,IPT,IPT1
+  Gene Descriptions: isopentenyl transferase IPT1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 466 aa
+
+MAHLAApASPPPAPNPMSDAREEAAsSPPPSERGRGKVVVVMGATGAGKSRLAVDLAAHF
+AGVEVVSADSMQVYRGLDVLTNKVPLHEQNGVPHHLLSVIDPSVEFTCRDFRDHAVPIIQ
+DILDRGGLPVIVGGTNFYIQALVSPFLFDDMsEDMQGCTLSDhLDDIGLANDDEGSGYER
+LKEIDPVAAQRIHPNNHRKIKRYLELYATTGALPSDLFQGEAAKKWGRPSNSRFDCCFLW
+VDADLHVLDSYVNeRVDCMMDAGLLDEVCNIYDPDAVYTQGLRQAIGVREFDEFFRLYLT
+RKESDEiKAAtMLdlHDDKLKSLLDEAVSQLKANTRRLVRRQRRRLHRLNKDFGWNLHHI
+DATEAFqCTTGDSWHKKVVKPCVDvVKRFLSnDTTLASkDSSsDGGSTRlASRELWTQYV
+CEACDNRVLRGAHEWEQHKQGRGHRKRVQRLKQKSkrKSTSSEAev
+
+
+BOP CONSENSUS:
+Length: 466 aa
+
+MPHLAAPASPPPAPNLMSDAREAASSSPPSERGRRKAVVVVMGATGAGKSRLAVDLAGHF
+AGVEVVSADSMQVYRGLDVLTNKVSLHEQNGVPHHLLSIVDPSVEFTCRHFRDHALPIIE
+DILDRGGLPVIVGGTNFYIQALVSPFLFEDMSEDMQGCTLSDQLDDIGLATDgVGSGYEH
+LKEIDPIAAQRIHPNNHRKIKRYLELYATTGALPSDLFQGEAAEDKWGRPTSSRFDCCFL
+WVDAELHVLDNYVNERVDCMINAGLLDEVRNIYNPGAVYTQGLRQAIGVREFDEFFRLYF
+TKKEsDEIKAGMLDLHDDKLKSLLDEAVSQLKANTRRLVRRQRRRLHRLNKDFGWNLHHI
+DATEAFQCTTGDSWHVKVIKPCADTVRRFLSNDTTLASKDCSNDGGGTRLASRELWTQYV
+CEACDNRVLRGAHEWEQHKQGRGHRKRTQRLKRKSKIKSTSSEAEV
+
+
+PACMAD CONSENSUS:
+Length: 468 aa
+
+MAHPSAAAAAANPSPGaGEEGAAhSPPSPSQRGRGKVVIVMGATGAGKSRLAVDLAAHFA
+GVEVVSADSMQLYRGLDVLTNKVPLHEQNGVPHHLLSVIDPSVEFTCRDFRDHAVPIIQE
+ILDRGGLPVIVGGTNFYIQALVSPFLFDDMAEEMQDCTLRDHIDDIGLTNdDEGSGYERL
+KEIDPVAAQRIHPNDHRKIKRYLELYATTGtLPSDLFQGEAAKKWGRPSNSRFDCCFLWV
+DADLQVLDSYVNKRVDCMMDAGLLDEVCNIYDADAlYTQGLRQAIGVREFDEFFRLYLPR
+KESDEDStASLLgIHDDQLKSLLDEAVSQLKANTRRLVRRQRRRLHRLSKDFGWNLHRVD
+ATEAFCCATGDSWQKKVVEPCVDVVKRFLSDnSTvLPSTSASdGVVGSVRGsSRELWTQY
+VCEACDNRVLRGAHEWEQHRQGRGHRKRVQRLKQKSLRPWPSlSQDCs
+
+================================================================================

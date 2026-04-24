@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM006914
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             374.0 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46278:SF7
+Panther Family ID:               PTHR46278
+Modal Panther ID:                PTHR46278:SF7
+Modal Panther Description:       ASPARTATE-SEMIALDEHYDE DEHYDROGENASE
+Modal Panther Family ID:         PTHR46278
+Modal Panther Fam Desc:          DEHYDROGENASE, PUTATIVE-RELATED
+Interpro Signature Accession:    cd02316; cd18131; G3DSA:3.30.360.10; G3DSA:3.40.50.720; NF011456; TIGR01296; PTHR46278; PIRSF000148; PF01118; PF02774; SM00859; SSF51735; SSF55347
+Interpro Signature Description:  VcASADH2_like_N; ASADH_C_bac_euk_like; Dihydrodipicolinate Reductase; domain 2; -; aspartate-semialdehyde dehydrogenase; DEHYDROGENASE, PUTATIVE-RELATED; ASA_dh; Semialdehyde dehydrogenase, NAD binding domain; Semialdehyde dehydrogenase, dimerisation domain; Semialdhyde_dh_3; NAD(P)-binding Rossmann-fold domains; Glyceraldehyde-3-phosphate dehydrogenase-like, C-terminal domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: aspartate-semialdehyde dehydrogenase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: aspartate-semialdehyde dehydrogenase
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: aspartate-semialdehyde dehydrogenase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: aspartate-semialdehyde dehydrogenase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: uncharacterized LOC127765287
+  Gene Descriptions: uncharacterized LOC127765287
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4334188
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: uncharacterized LOC133911253%2C transcript variant X1; uncharacterized LOC133915391
+  Gene Descriptions: uncharacterized LOC133911253; uncharacterized LOC133915391
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: aspartate-semialdehyde dehydrogenase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: aspartate-semialdehyde dehydrogenase
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: aspartate-semialdehyde dehydrogenase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: aspartate-semialdehyde dehydrogenase
+  Gene Synonyms: cl345_1a,GRMZM2G076885
+  Gene Descriptions: aspartate-semialdehyde dehydrogenase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 374 aa
+
+MQAAAAVRHPHLLAPSPGRgRARRRPSTVRMALREDGPSVAIVGATGAVGQEFLRVITDR
+DFPYRSLRLLASERSAGKRLaFEDREYTVQDLAAPGAFDGVDIALFSAGGGVSRKYAPAA
+VASGAVVVDNSSAFRMDPEVPLVIPEVNPEAMANVRLGKGAIVANPNCSTIICLMAATPL
+HRHAKVLRMVVSTYQAASGAGAAAMEELKLQTQEVLEGKAPTCNIFSQQYAFNIFSHNAP
+VLENGYNEEEMKMVKETRKIWNDKDVKVTATCIRVPVMRAHAESVNLQFEKPLDEDTARE
+ILRAAPGVTIiDDRAANRFPTPLEVSDKDDVAVGRIRQDLSQDDNRGLDIFVCGDQIRKG
+AALNAVQIAEMLLK
+
+
+BOP CONSENSUS:
+Length: 374 aa
+
+MQAAAAVHRPHLLAASPLGGRASRRPSTVRMALREDGPSVAIVGATGAVGQEFLRVITAR
+DFPYRSLRLLASERSAGKRIdFEGReYTVQDLAAPGAFEGIDIALFSAGGGVSRAHAPAA
+VASGAVVVDNSSAYRMDPDVPLVIPEVNPEAMADVRLGKGAIVANPNCSTIICLMAVTPL
+HRHAKVKRMVVSTYQAASGAGAAAMEELKLQTQEVLEGKPPTCNIFSQQYAFNIFSHNAP
+IVENGYNEEEMKMVKETRKIWNDKDVRVTATCIRVPTMRAHAESVNLQFEKPLDEDTARE
+ILRAAPGVTISDDRAANRFPTPLEVSDKDDVSVGRIRQDLSQDDNRGLELFVCGDQIRKG
+AALNAVQIAEMLLK
+
+
+PACMAD CONSENSUS:
+Length: 374 aa
+
+MQAAAAVRHPHLLAPSPGRARHRRAPSTVRMALREDGPSVAIVGATGAVGQEFLRVITDR
+DFPYRSLRLLASERSAGKRLAFEDREYTVQDLAAPGAFDGVDIALFSAGGSVSRKYGPAA
+VASGAVVVDNSSAFRMDPEVPLVIPEVNPEAMANVRLGQGAIVANPNCSTIICLMAATPL
+HRHAKVLRMVVSTYQAASGAGAAAMEELKLQTQEVLEGKAPTCNIFKQQYAFNIFSHNAP
+VLENGYNEEEMKMVKETRKIWNDKDVKVTATCIRVPVMRAHAESVNLQFEKPLDEDTARE
+ILRAAPGVTIVDDRAANRFPTPLEVSDKDDVAVGRIRQDLSQDDNRGLDIFVCGDQIRKG
+AALNAVQIAEMLLK
+
+================================================================================

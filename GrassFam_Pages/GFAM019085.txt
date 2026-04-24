@@ -1,0 +1,145 @@
+================================================================================
+GrassFam ID: GFAM019085
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             689.0 aa
+Family Size (Extended Family Size): 22 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23315:SF274
+Panther Family ID:               PTHR23315
+Modal Panther ID:                PTHR23315:SF274
+Modal Panther Description:       RING-TYPE E3 UBIQUITIN TRANSFERASE
+Modal Panther Family ID:         PTHR23315
+Modal Panther Fam Desc:          U BOX DOMAIN-CONTAINING
+Interpro Signature Accession:    cd16664; G3DSA:3.30.40.10:FF:000354; G3DSA:1.25.10.10:FF:000317; G3DSA:3.30.40.10; G3DSA:1.25.10.10; PTHR23315; SM00504; SSF48371; SSF57850
+Interpro Signature Description:  RING-Ubox_PUB; RING-type E3 ubiquitin transferase; Zinc/RING finger domain, C3HC4 (zinc finger); -; U BOX DOMAIN-CONTAINING; Ubox_2; ARM repeat; RING/U-box
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: U-box domain-containing protein 16
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: U-box domain-containing protein 16-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: U-box domain-containing protein 16
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: U-box domain-containing protein 16-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: U-box domain-containing protein 16-like
+  Gene Descriptions: U-box domain-containing protein 16-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: U-box domain-containing protein 16
+  Gene Descriptions: U-box domain-containing protein 16
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: U-box domain-containing protein 16-like
+  Gene Descriptions: U-box domain-containing protein 16-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: U-box domain-containing protein 16-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: U-box domain-containing protein 16-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: U-box domain-containing protein 16
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: U-box domain-containing protein 16
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 689 aa
+
+MANPRtVvTSAPSPPGcsStSYASAFlPPPPSPSDGELLRSLHRLARDLSAAAETPAPFL
+RAALASISRRSKLLAAAFDDLlLCAAAAGDLPRSASLCLREVLLVLQRFKAlAADCAARS
+RMRLLLQSDEIEEEVRELHQDLATLLDLLPVVELGLAEDVmDLLALASRQCRRFAPAAeA
+EqALKARVLSLIQEIEREIVPERERLEEILEEVGINDPASCSDEIESLEREIGDRASERW
+TdAMIALVGLLRYAKCVLFSATPRPSDSKPDPEVDEeGEPPAPPPDFRCPISLDLMRDPV
+VVASGQTYDRESIdRWFdSGKSTCPKTGQVLANLELVPNKALKNLIsKWCRENGVAMEsc
+EASKSEPAQAVAANKAALEAARMTASFLVKKLSISFSPDAANRVVHEIRLLSKSGSDnRA
+FVGEAGAVPLLVPLLYSEDAGLQLNAVTALLNLSILEANKKRIMHAEGAVEAVAHIMSSG
+ATWRAKENAAAAVLSLASVHTYRRRLGRNlSVVEKLVHLVRTGPTSTKKDALAALLSLAG
+ERENVGKLVDAGVAEVALSAISEEETAAAVLAALAKRGGAEAIVgIDGAVARLVAEMRRG
+TEWARENATAALVLLCRRLGARAVTQVMAVPGVEWAIWELMGTGTERARRKAASLGRICR
+RWAAASAADGERGagCPAASVVPPAMMAS
+
+
+BOP CONSENSUS:
+Length: 682 aa
+
+MAKPRAVASAAPSTSYASAFLPPPPSPSDGDLLRSLHRLARDLSAADTPAPFLRAAFASV
+SRRARLLAAAFDDLLLCAAGEGDLPRSASLCLREVLLVLQRFKAVVADCAARSRTLLLLQ
+SDETDAELRDLHHDLATLLDLLPVVELGLADDVMDLLALASRQCRRCSSAAEPEPALKTT
+VLSLIEEIEREIVPERERLEEILEEVGINDPASCSDEIESLEREIGDRASERWTAAMIAL
+VGLLRYAKCVLFSATPRPSDSKADVDVEDDGESPAPPPDLRCPISLDLMRDPVVAASGQT
+YDRESIDRWFSSGKSTCPKTGQVLANLELVPNKSLKNLISKWCRENGVAMEVCEASKSEQ
+AQAVAANKAALEVARMTASFLVKKLSVSFSPDAANRVVHEIRLLSKSGSDNRAFVGEAGA
+VPMLVPLLYSEDAGLQLNAVTALLNLSILEANKKRIMHADGAVEAVTHIMSSGTTWRAKE
+NAAAAVLSLASVHTYRRRLGRNPSVVEKLVHLVRTGPTSTKKDALAALLSLAGERENVGK
+LVEAGVAEAALSAISDEETAAAVLAALAKRGGAEAIVsIDGAVARLVAEMRRGTEWARES
+ATAALVLLCRRLGARAVTQVMGVPGVEWAIWELMGTGTDRARRKAASLGRICRRWAAASA
+ADGERGAECPASSVVPPAMMAS
+
+
+PACMAD CONSENSUS:
+Length: 691 aa
+
+MANPRTVLTSAPSPPGCSSSSSSSAAEFMAPAPPSPSDGELLRSLHRLARDLSAAAETPA
+PFLRAALASITRRSKLLAAAFDDLVmCAAAGDLPRSASLCLREVLLVLQRFKALAADCAA
+RSRMRLLLQSDEIEEEVRELHQDLATLLDLLPVVELGLAEDVvDLLALASRQCRRFAPsA
+qAEQALKARVLSLIQEIEREIVPERERLEEILEEVGINDpASCSdEIESLEREIGDRASE
+RWTDAMIALVGLLRYAKCVLFSATPRPSDSKPDPEVDEEGEPPAPPPDFRCPITLDIMRE
+PVVVASGQTYDRESIaRWFDSGKSTCPKTGQVLTvLELVPNKALKNLIAKWCRENGVAME
+SSEASKSEPAQAVAANKAALEAARMTASFLVKKLSISFSPDAANRVVHEIRLLSKSGaDS
+RAFVGEAGAVPLLVPLLYSEDAGLQLNAVTALLNLSILEANKKRIMHAEGAVEAVAHIMS
+SGATWRAKENAAAAVLSLASVHTYRRRLGRNLSIVEKLVHLVRTGPTSTKKDALAALLSL
+AGERENVGKLVDAGVAQVALSAISEEETAAAVLAALAKRGGAEAIVGIDGAVARLVAEMR
+RGTEWARENATAALVLLCRRLGARAVTQVMAVPGVEWAIWELMGTGTERARRKAASLGRI
+CRRWAAASAADGERGNVCPAASVVPPAMMAS
+
+================================================================================

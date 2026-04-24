@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM002235
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             462.5 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43200:SF17
+Panther Family ID:               PTHR43200
+Modal Panther ID:                PTHR43200:SF17
+Modal Panther Description:       3'(2'),5'-BISPHOSPHATE NUCLEOTIDASE
+Modal Panther Family ID:         PTHR43200
+Modal Panther Fam Desc:          PHOSPHATASE
+Interpro Signature Accession:    cd01517; G3DSA:3.40.190.80:FF:000003; G3DSA:3.30.540.10:FF:000020; G3DSA:3.40.190.80; G3DSA:3.30.540.10; TIGR01330; PTHR43200; PF00459; SSF56655
+Interpro Signature Description:  PAP_phosphatase; PAP-specific phosphatase HAL2-like; -; 3'(2'),5'-bisphosphate nucleotidase; PHOSPHATASE; Inositol monophosphatase family; Carbohydrate phosphatase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: PAP-specific phosphatase HAL2-like
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: PAP-specific phosphatase HAL2-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: PAP-specific phosphatase HAL2-like
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: PAP-specific phosphatase HAL2-like; PAP-specific phosphatase HAL2-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: PAP-specific phosphatase HAL2-like
+  Gene Descriptions: PAP-specific phosphatase HAL2-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: 3'%2C5'-bisphosphate nucleotidase AHL
+  Gene Descriptions: 3'%2C5'-bisphosphate nucleotidase AHL
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau05
+  Gene Products: PAP-specific phosphatase HAL2-like
+  Gene Descriptions: PAP-specific phosphatase HAL2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi01K
+  Gene Products: PAP-specific phosphatase HAL2-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: PAP-specific phosphatase HAL2-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: PAP-specific phosphatase HAL2-like
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100285812%2C transcript variant X1
+  Gene Synonyms: GRMZM2G108364
+  Gene Descriptions: uncharacterized LOC100285812
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 458 aa
+
+MGSLRLSaWAAAASARGFPrspPEWrGRRRRGaPlaRpRCAPSSAPSPAsSLGAAGrLRV
+GTEHEWLWDCRGGGGGaRDYAREMEVAVRVVQVACTLCQRVQDSLLLPgPGSGSGRVHSK
+LDRSPVTVADWGVQAIVSWLLSDsFhDENVSIVAEEDDETLSSSDGAALLESVVaAVNGC
+LVEAPKYGLRSPEKELGAHDVLQAIRKCSSTGGPKGRFWVLDPVDGTLGFVRGDQYAIAL
+ALIEDGEVVLGVLGCPNYPMKKEWLNYHQRYYRLMSKVAPPPSGSWHKGCVMYAQKGCGQ
+AWMQPLVHDFGKLdWHNSREIQVSSISDPVSATFCEPVEKANSSHSFTAGLAHSVGLRNQ
+PLRVYSMVKYAAIARGDAEIFMKFARAGYKEKIWDHAAGVVIIQEAGGVVTDAGGRPLDF
+SRGVYLEGLDRGIIACSGALLHrRILdAVDASWNSSTL
+
+
+BOP CONSENSUS:
+Length: 465 aa
+
+MGGLRLSAWAAAPSPSAAARGFPRSPsDWRGrrGRgRRsRCAPSSPPSASPALSLGAAGR
+LRVGADREWLWDCRGGGLGGGGGKRDYAKEMEAAVRVVQVACTLCQRVQDSLLLADPGSG
+SGGVHSKLDRSPVTVADWGVQATVSWLLSDCFGDESVSIVAEEDDkTLSSSDGTALLESV
+VAAVNGCLVEAPKYGLRSPEKDLGAHDVLQAIRKCSSTGGPKGRFWVLDPVDGTLGFVRG
+DQYAIALALIEDGEVVLGVLGCPNYPMKKEWLNYHQRYYRLMSKVAPPTSGSWNKGCVMY
+AHKGCGQAWMQPLVHDFGMLSWHNSREVQVSSVSDPVSATFCEPVEKANSSHSFTAGLAH
+SVGLRNQPLRVYSMVKYAAIARGDAEIFMKFARAGYKEKIWDHAAGVVIIQEAGGVVTDA
+GGCPLDFSRGVYLEGLDRGIIACSGALLHrRILeAVDASWNSSTL
+
+
+PACMAD CONSENSUS:
+Length: 448 aa
+
+MGSLRLtGWASAAAAAPEWGVRRRRRCCRGVPLARPRCAPAsASSLGAGQLRVGTEHEWL
+WDCRGGGARDYAREMEVAVRVVQVACTLCQRVQDSLLRPGpDAGGRVHAKLDRSPVTVAD
+WGVQAIVSWLLSsSFHDENISIVAEEDDETLSSSDGAALLESVVEAVNGCLVEAPnYGLR
+SPEKELgAHDVIQAIRKCSSTGGPKGRFWVLDPVDGTLGFVRGDQYAIALALIEDGEVIL
+GVLGCPNYPMKKEWLNYHQKYYRLMSKVAPPPLGSWHKGCVMYAQKGCGQAWMQPLVHDF
+GKLDWHHPREIQVSSISDPvSATFCEPVEKANSSHSFTAGLAQSVGLRNQPLRVYSMVKY
+AAIARGDAEIFMKFARAGYKEKIWDHAAGVVIIQEAGGVVTDAGGRPLDFSRGVYLEGLD
+RGIIACSGALLHQRILDAVDASWNSSTL
+
+================================================================================

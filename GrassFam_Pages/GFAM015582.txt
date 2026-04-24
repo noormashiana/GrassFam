@@ -1,0 +1,115 @@
+================================================================================
+GrassFam ID: GFAM015582
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             584.5 aa
+Family Size (Extended Family Size): 10 (13) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48050:SF10
+Panther Family ID:               PTHR48050
+Modal Panther ID:                PTHR48050:SF10
+Modal Panther Description:       OS07G0419500 PROTEIN
+Modal Panther Family ID:         PTHR48050
+Modal Panther Fam Desc:          STEROL 3-BETA-GLUCOSYLTRANSFERASE
+Interpro Signature Accession:    cd03784; G3DSA:3.40.50.2000:FF:000030; G3DSA:3.40.50.2000:FF:000009; G3DSA:3.40.50.2000; PTHR48050; PF03033; SSF53756
+Interpro Signature Description:  GT1_Gtf-like; Sterol 3-beta-glucosyltransferase UGT80A2; Glycogen Phosphorylase B;; STEROL 3-BETA-GLUCOSYLTRANSFERASE; Glycosyltransferase family 28 N-terminal domain; UDP-Glycosyltransferase/glycogen phosphorylase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: sterol 3-beta-glucosyltransferase UGT80A2-like%2C transcript variant X1
+  Gene Descriptions: sterol 3-beta-glucosyltransferase UGT80A2-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: sterol 3-beta-glucosyltransferase UGT80A2%2C transcript variant X1
+  Gene Descriptions: sterol 3-beta-glucosyltransferase UGT80A2
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu04
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi02N
+  Gene Products: sterol 3-beta-glucosyltransferase UGT80A2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: sterol 3-beta-glucosyltransferase UGT80A2-like%2C transcript variant X1
+Msi
+  Gene count: 1
+  Modal chromosome: Msi04
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: sterol 3-beta-glucosyltransferase UGT80A2%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: sterol 3-beta-glucosyltransferase UGT80A2%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 582 aa
+
+MrEASgGAGAGAgdVGSSSVSNNCFPQDEGTSSSEMDNTECSETSSElSNSERTRPEeSK
+KaSSILDKKISIKKKLKLFSRMATLKDDGTVVVDIPTNlEAASLDLPSEDHHNVAFGGEP
+LDSSDLQHRPPMQIVMLIVGTRGDVQPFIAIGKRLQDYGHRVRLATHANFKDFVMTTGLE
+FYPLGGDPKILAGYMVKNKGFLPATPSEIPIQRKQIRDIIFSLLPACKDPDIDTGvSFSA
+DAIIANPAAYGHVHVAEALNIPIHIIFTMPWTPTCEFPHPFSRVKQPAGYRLSYQIVDSF
+VWLGIRDMINDLRKRKLKLRPVTYLSGTHAYSNDIPHAYIWSPYLVPKPKDWGPKIDVVG
+FCFLDLASNYEPPEPLLRWLGSGEKPIYIGFGSLPIPEPDKLTRIIVEALEITGQRGIIN
+KGWGGLGNLEESKEFVYVLDNVPHDWLFLQCKAVVHHGGAGTTAAGLKAACPTTIIPFFG
+DQFFWGSMVHARGLGAPPVPVEQLQLHSLVDAIKFMIDPKVKERAVELAKAIESEDGVDG
+AVKSFLKHLPQQRnSETtPTAPqSTFMqPLLLPVKRCFGIAS
+
+
+BOP CONSENSUS:
+Length: 587 aa
+
+MERPMRGASEGGGGGEGFvGASSVSNNISLPNEGtSPRGTDNAECSETSSDRSNSESIKP
+EESAMPSSIFDKKISIKKKLRLLSRMAILKDDGTVEVDIPTNAEAASLDLSSNDYCNEAF
+SGEPLASSDFQHRPPMQIVMLIVGTRGDVQPFIAIGKRLQIYGHRVRLATHANFKDFVVT
+AGLEFYPLGGDPKLLAGYMVKNKGFLPATPSEIPIQRKEIKEIIFSLLPACKDPDTDTGA
+PFNVDAIIANPAAYGHVHVAEALKVPIHIIFTMPWTPTCEFPHPFSRVKQPAGYRLSYQI
+VDSFVWLGIRDIINDLRKRKLKLRPVTYLSSAHAYSNDIPHAYIWSPYLVPKPKDWGPKI
+DVVGFCFLDLASNYKPPEPLLKWLESGEKPIYIGFGSLPIPEPDKLTRIIVEALEITGQR
+GIINKGWGGLGNLEEPKEFVYVIDNIPHDWLFLQCKAVVHHGGAGTTAASLKAACPTTIV
+PFFGDQFFWGNMVHARGLGAPPVPVEQLQLHLLVDAIKFMMDPKVKERAVELAKAIESED
+GVDGAVKAFLKHLPQPRSLEKPQPAPPSSTFMQPFLLPVKRCFGIAT
+
+
+PACMAD CONSENSUS:
+Length: 584 aa
+
+MKEASSSRVAGAGAEdVgSSSVSNNCFPQDEGTSSSEMDNTECSETSSEVSNSERTRPEg
+SKKASSvLDKKISIKKKLKLFSRMATLKDDGTVVVDIPTNLEAASLDLPSEDHHNVAFGG
+EPLDSSDLQHRPPMQIVMLIVGTRGDVQPFIAIGKRLQDYGHRVRLATHANFKDFVMTTG
+LEFYPLGGDPKILAGYMVKNKGFLPATPSEIPIQRKQIRDIIFSLLPACKDPDIDTGVSF
+SADAIIANPAAYGHVHVAEALNIPIHIIFTMPWTPTCEFPHPFSHVKQPAGYRLSYQIVD
+SFVWLGIRDMINDLRKRKLKLRPVTYLSGTHAYSNDIPHAYIWSPYLVPKPKDWGPKIDV
+VGFCFLDLASNYEPPEPLLRWLGSGDKPIYIGFGSLPIPEPDKLTRIIVEALEITGQRGI
+INKGWGGLGNLEESKEFVYVLDNVPHDWLFLQCKAVVHHGGAGTTAAGLKAACPTTIIPF
+FGDQFFWGSMVHARGLGAPPVPVEQLQLHSLVDAIKFMIDPKVKERAVELAKAIESEDGV
+DGAVKSFLKHLPQQRDSETtPTAPqSTFMhPLLLPVKRCFGIAS
+
+================================================================================

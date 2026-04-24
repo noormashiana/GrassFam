@@ -1,0 +1,127 @@
+================================================================================
+GrassFam ID: GFAM003038
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             435.0 aa
+Family Size (Extended Family Size): 23 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23023:SF299
+Panther Family ID:               PTHR23023
+Modal Panther ID:                PTHR23023:SF299
+Modal Panther Description:       FLAVIN-CONTAINING MONOOXYGENASE
+Modal Panther Family ID:         PTHR23023
+Modal Panther Fam Desc:          DIMETHYLANILINE MONOOXYGENASE
+Interpro Signature Accession:    G3DSA:3.50.50.60:FF:000099; G3DSA:3.50.50.60; PTHR23023; PIRSF000332; PF00743; SSF51905
+Interpro Signature Description:  Flavin-containing monooxygenase; -; DIMETHYLANILINE MONOOXYGENASE; FMO; Flavin-binding monooxygenase-like; FAD/NAD(P)-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi03
+  Gene Products: flavin-containing monooxygenase FMO GS-OX-like 2; flavin-containing monooxygenase FMO GS-OX-like 7
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Tae
+  Gene count: 1
+  Modal chromosome: Tae01A
+  Gene Products: flavin-containing monooxygenase FMO GS-OX-like 2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: flavin-containing monooxygenase FMO GS-OX-like 2%2C transcript variant X1
+  Gene Descriptions: flavin-containing monooxygenase FMO GS-OX-like 2
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: flavin-containing monooxygenase FMO GS-OX-like 2%2C transcript variant X1
+  Gene Descriptions: flavin-containing monooxygenase FMO GS-OX-like 2
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau21
+  Gene Products: flavin-containing monooxygenase FMO GS-OX-like 2
+  Gene Descriptions: flavin-containing monooxygenase FMO GS-OX-like 2
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi09N
+  Gene Products: flavin-containing monooxygenase FMO GS-OX-like 2; flavin-containing monooxygenase FMO GS-OX-like 2%2C transcript variant X1; flavin-containing monooxygenase FMO GS-OX-like 7
+Pha
+  Gene count: 2
+  Modal chromosome: Pha09
+  Gene Products: flavin-containing monooxygenase FMO GS-OX-like 2; flavin-containing monooxygenase FMO GS-OX5-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi01
+  Gene Products: flavin-containing monooxygenase FMO GS-OX-like 2; flavin-containing monooxygenase FMO GS-OX-like 2%2C transcript variant X3
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: Flavin-containing monooxygenase FMO GS-OX5%2C transcript variant X4; uncharacterized LOC100272892
+  Gene Synonyms: GRMZM2G423886; GRMZM2G425719
+  Gene Descriptions: Flavin-containing monooxygenase FMO GS-OX5; uncharacterized LOC100272892
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 433 aa
+
+MPRRAeVAVVGAGAAGLVAARELLREGHAVAVFEKSGRVGGTWAYDPRADADPLGRDPGA
+PGAVHGSLYASLRTNLPRELMGFSGFPLAGRVFAGDPRTFPGHREVLAFLDAFAEESGVA
+ARVRLRAEVLRVRPLGrGQGERWAVAWRGEDGEVAEEVFDAVVVCnGHCTVPLVPKIRGI
+DKWRGKQMHSHNYRtPEPFRDQSVVVVGLGASGIDIAREISHVAKEVHIAsRYSEDRLGK
+IELYqNvWMHaEIDCIQDDGQVRFAEGSaVAADTILYCTGYRYHFPFLDLDGLTVDDNRV
+GPLYKHVFPPKYAPNLSFVGLPyKTIIFQsLELESKWVAAVLSGRAaLPSEEdMmAAVrE
+dYRRMEEAGrPKRHTHaLWPeWVEYmNWLADQVGEPHLEaRRrEMYEKALRCIWSLDdGY
+RDRWEEEeegsgs
+
+
+BOP CONSENSUS:
+Length: 429 aa
+
+MPRPRAVAVVGAGAAGLVAARELLREGHAVTVFERSARVGGTWAYDPRsDPDPPGAAVHG
+SLYASLRTNLPRELMGFSGHsLAGRVFAGDPRTFPGHREVLAFLRAFAEESGVArRVRLR
+AEVVRVGPLlGRGERWSVAWRGEgGEVAVEVFDAVVVCNGHCTVPLVPKLRGIgNWQGKQ
+MHSHNYRiPEPFRDQIVVVVGLGASGVDIAREIShVAKEVHIASRytEHRLGKIDlYrNV
+WMHsEVDCIQDDGQVRFsEGsTVAADTILYCTGYRYHFPFLDLDGLTVDgNRVGPLYKHV
+FPPKYAPNLSFVGLPvKTIiFQSFELESrWVARvLSGRAALPseEGMLAAVrEHYRRMEE
+SGkPrRHTHVLMPeWVEYMDWLAEQVGEPrLEARRREIYERALRCIWSLDDGYRDRWEEE
+EegsGsIkF
+
+
+PACMAD CONSENSUS:
+Length: 435 aa
+
+MrRRAEVAVVGAGAAGLVAARELLREGHAVAVFEKSGRvGGTWAYDPRADADPLGRDPGA
+PGAVHGSLYASLRTNLPRELMGFSGFPLAGRVFAGDPRTFPGHREVLAFLDAFAEESGVA
+ARVRLRAEVLRVRPLGrGQGERWAVAWRGEDGEVAEEvFDAVVVCSGHCTVPLVPKIRGI
+DKWRGKQMHSHNYRTPEPFRDQSVVVVGLGASGIDIAREISHVAKEVHIAARYSEDRLGK
+IELYqNvWMHgEIDCIQDDGqVRFAEGSAVAADTILYCTGYRYHFPFLDLDGLTVDDNRV
+GPLYKHVFPPKYAPNLSFVGLPyKTIIFQaLELESKWVAAVLSGRAtLPSEEDMMAAVRE
+dYRRMEEAGRPKRHTHtLWPeWVEYLNWLADQVGEPHLEpRRsEMYEKALRCIWSLDEGY
+RDRWEEEeessgSpp
+
+================================================================================

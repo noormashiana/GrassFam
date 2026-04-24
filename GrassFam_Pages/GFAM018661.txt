@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM018661
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             394.5 aa
+Family Size (Extended Family Size): 20 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11516:SF38
+Panther Family ID:               PTHR11516
+Modal Panther ID:                PTHR11516:SF38
+Modal Panther Description:       PYRUVATE DEHYDROGENASE E1 COMPONENT SUBUNIT ALPHA-2, MITOCHONDRIAL
+Modal Panther Family ID:         PTHR11516
+Modal Panther Fam Desc:          PYRUVATE DEHYDROGENASE E1 COMPONENT, ALPHA SUBUNIT  BACTERIAL AND ORGANELLAR
+Interpro Signature Accession:    cd02000; G3DSA:3.40.50.970:FF:000013; G3DSA:3.40.50.970; TIGR03182; PTHR11516; PF00676; SSF52518
+Interpro Signature Description:  TPP_E1_PDC_ADC_BCADC; Pyruvate dehydrogenase E1 component subunit alpha; -; pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha; PYRUVATE DEHYDROGENASE E1 COMPONENT, ALPHA SUBUNIT  BACTERIAL AND ORGANELLAR; Dehydrogenase E1 component; Thiamin diphosphate-binding fold (THDP-binding)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: pyruvate dehydrogenase E1 component subunit alpha-2%2C mitochondrial
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: pyruvate dehydrogenase E1 component subunit alpha-2%2C mitochondrial
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: pyruvate dehydrogenase E1 component subunit alpha-2%2C mitochondrial
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: pyruvate dehydrogenase E1 component subunit alpha-2%2C mitochondrial; pyruvate dehydrogenase E1 component subunit alpha-2%2C mitochondrial-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: pyruvate dehydrogenase E1 component subunit alpha-2%2C mitochondrial
+  Gene Descriptions: pyruvate dehydrogenase E1 component subunit alpha-2%2C mitochondrial
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: pyruvate dehydrogenase E1 component subunit alpha-2%2C mitochondrial-like
+  Gene Synonyms: OJ1136_C11.8,PDHE1-A
+  Gene Descriptions: pyruvate dehydrogenase E1 component subunit alpha-2%2C mitochondrial-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau10
+  Gene Products: pyruvate dehydrogenase E1 component subunit alpha-2%2C mitochondrial
+  Gene Descriptions: pyruvate dehydrogenase E1 component subunit alpha-2%2C mitochondrial
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: pyruvate dehydrogenase E1 component subunit alpha-2%2C mitochondrial; pyruvate dehydrogenase E1 component subunit alpha-2%2C mitochondrial-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: pyruvate dehydrogenase E1 component subunit alpha-2%2C mitochondrial
+Msi
+  Gene count: 1
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: pyruvate dehydrogenase E1 component subunit alpha-2%2C mitochondrial%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: uncharacterized LOC100272256
+  Gene Synonyms: AY112355,GRMZM2G027627
+  Gene Descriptions: uncharacterized LOC100272256
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 395 aa
+
+MAAAILRRLtPttAAsqRvAPlLPPlLARGVSDSTDPlTVETSVPFKSHIVDPPSRevTT
+TARELLaFFRDMALMRRAEIAADSLYKAKLIRGFCHLYDGQEAVAVGMEAAITRADAIIT
+AYRDHCAYLARGGDLVAAFAELMGRRDGCSRGKGGSMHFYKKDANFFGGHGIVGAQVPLG
+CGIAFAQRYRKEGTVTFDLYGDGAANQGQLFEALNMAALWKLPVILVCENNHYGMGTAEW
+RASKSPAYYKRGDYVPGLKVDGMDVLAVKQACKFAKEHVLENGPIILEMDTYRYHGHSMS
+DPGSTYRTRDEIAGIRQERDPIERVRKLILAHDFATAQELKDMEKEIRKQVDTAIAKAKE
+SPMPDPSELFTNVYVNDCGLESFGVDRKVVRTVLP
+
+
+BOP CONSENSUS:
+Length: 393 aa
+
+MAAAILRRLsPAAAQRAAPLLPLTLARGVSDSTEPLTVETSVPFTSHIVDPPSReVsTTP
+RELAAfFRDMALMRRAEIAADSLYKAKLIRGFCHLYDGQEAVAVGMEAAITRRDAIITAY
+RDHCLYLARGGDLVAAFAELMGRVDGCSRGKGGSMHFYKKDANFYGGHGIVGAQVPLGCG
+LAFAQRYRKEGTVTFDLYGDGAANQGQLFEALNMAALWKLPVILVCENNHYGMGTAEWKA
+SKSPAYYKRGDYVPGLKVDGMDFLAVKQACKFAKEHVLENGPIILEMDTYRYHGHSMSDP
+GSTYRTRDEIAGIRQERDPIERVRKLLLTHDLATAQELKDMEKEIRKEVDTAIAKAKESP
+MPDTSELFKNVYVNDCGLESFGVDRKVVRTVLP
+
+
+PACMAD CONSENSUS:
+Length: 397 aa
+
+MAAAILRRLTPTaAASPRVAPLPlRLPLLARGVSDSTDAITVETSVPFKSHIVDPPSRsA
+TTSARELLSFFRDMSLMRRAEIAADSLYKAKLIRGFCHLYDGQEAVAVGMEAAITRADAI
+ITAYRDHCAYLARGGDLVAAFAELMGRRDGCSRGKGGSMHFYKRDANFFGGHGIVGAQVP
+LGCGIAFAQRYRKEGTVTFDLYGDGAANQGQLFEALNMAALWKLPVILVCENNHYGMGTA
+EWRASKSPAYYKRGDYVPGLKVDGMDVLAVKQACKFAKEHVLENGPIILEMDTYRYHGHS
+MSDPGSTYRTRDEIAGIRQERDPIERVRKLILAHDFATAQELKDMEKEIRKQVDAAIAKA
+KESPMPDPSELFTNVYVNDCGLESFGVDRKVVRTVLP
+
+================================================================================

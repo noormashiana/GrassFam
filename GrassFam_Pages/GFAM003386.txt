@@ -1,0 +1,112 @@
+================================================================================
+GrassFam ID: GFAM003386
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             317.5 aa
+Family Size (Extended Family Size): 56 (63) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Weak
+Panther Family ID:               PTHR46162
+Modal Panther ID:                PTHR46162:SF32
+Modal Panther Description:       MATH DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR46162
+Modal Panther Fam Desc:          TRAF-LIKE FAMILY PROTEIN
+Interpro Signature Accession:    cd00121; G3DSA:2.60.210.10; PTHR46162; PF22486; SSF49599
+Interpro Signature Description:  MATH; Apoptosis, Tumor Necrosis Factor Receptor Associated Protein 2; Chain A; TRAF-LIKE FAMILY PROTEIN; MATH domain; TRAF domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 3
+  Modal chromosome: Bdi03
+  Gene Products: probable inactive serine/threonine-protein kinase fnkC; uncharacterized LOC100841349
+Lpe
+  Gene count: 6
+  Modal chromosome: Lpe01
+Ata
+  Gene count: 3
+  Modal chromosome: Ata01D
+  Gene Products: MATH domain and coiled-coil domain-containing protein At2g42480-like; MATH domain and coiled-coil domain-containing protein At3g58210; uncharacterized LOC109785735
+Tae
+  Gene count: 6
+  Modal chromosome: Tae01B
+  Gene Products: probable inactive serine/threonine-protein kinase fnkC%2C transcript variant X1; ubiquitin C-terminal hydrolase 12-like%2C transcript variant X3; uncharacterized LOC123077895; uncharacterized LOC123077907; uncharacterized LOC123157073; uncharacterized LOC123166368%2C transcript variant X1
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 3
+  Modal chromosome: Pau24
+  Gene Products: uncharacterized LOC133902962; uncharacterized LOC133907053; uncharacterized LOC133907501
+  Gene Descriptions: uncharacterized LOC133902962; uncharacterized LOC133907053; uncharacterized LOC133907501
+Svi
+  Gene count: 3
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 9
+  Modal chromosome: Pvi09K
+  Gene Products: ubiquitin carboxyl-terminal hydrolase 15-like; ubiquitin carboxyl-terminal hydrolase 15-like%2C transcript variant X2; uncharacterized LOC120650764; uncharacterized LOC120650767; uncharacterized LOC120650768; uncharacterized LOC120687245; uncharacterized LOC120687515; uncharacterized LOC120693254
+Pha
+  Gene count: 3
+  Modal chromosome: Pha09
+  Gene Products: uncharacterized LOC112876386; uncharacterized LOC112876891; uncharacterized LOC112881217
+Msi
+  Gene count: 9
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 4
+  Modal chromosome: Sbi01
+  Gene Products: uncharacterized LOC110431776; uncharacterized LOC110435575; uncharacterized LOC8067413; uncharacterized LOC8080700
+Zma
+  Gene count: 3
+  Modal chromosome: Zma01
+  Gene Products: MATH domain containing protein%2C transcript variant X1; MATH domain containing protein%2C transcript variant X4; uncharacterized LOC100382861
+  Gene Synonyms: GRMZM2G042704; GRMZM2G085974; GRMZM2G134716
+  Gene Descriptions: MATH domain containing protein; uncharacterized LOC100382861
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 318 aa
+
+MGNSssrGGRSnqGqnqkSnVaPsSPeEQtTFKWrIDGFSSLLDKGeGWTySrVFEImGl
+nWYLKLNPRDrKSGDekEYVSLrLeLsqtSVKPDTVVEASFKFLIYDQSYGKHsEHqVSH
+sFQTASTSSGiSCMIPLeTLKEqSSGFLVnNSCVFGVEFIKVtTaKANttSETLFVQKtN
+iFSEakVYTWdIEDFFALKNPsYSPEFEiGGyKWyItMYPSGDkdGNhLSLYLhMKkpdd
+LpkDSAnLVElsLSIKDQETGKHrKlTGRCQFSnnapgWGWeKFISLEDFKDSSNGYLVK
+tKCCIEAeVAIvGSSKME
+
+
+BOP CONSENSUS:
+Length: 315 aa
+
+MGNSCVTSgrSNqGQsQksnGaQTTFKWRIDGFSSLLDKGeGWTnSSVFEIRGLNWYLkL
+NPRDTKSGDkNEYVSLrLvLsqaSVRSDTVVEATFKFLIYDQSYGKHHEQHQVSHNFQtT
+STsSGTSCMIPLATLKEqSSGFLVnNSCVFGVEFIKVVAAKgNDaSETLFVQKiNNICSD
+PQVYTWNIDDFFaLKNPStSPEFELCGHKWFITIYPSGsDKNGNYLSLYLtMKVpDTLHe
+NSAnLVElSIsIKDQETGKHrKlsGRCQFSKnstsWGWdKFISLEDFKDSSNGYLVKTKC
+CIEAQVAVIGSSKME
+
+
+PACMAD CONSENSUS:
+Length: 315 aa
+
+MGNSSSRGRSnpGqnqkskvAsSSPeEqtTFKWsIDGFSSLLDKGeGWTySrVFEIMGln
+WYLKLNPKDkKSGDdkEYVSLrLeLsksSVKPDTIVEASFKLLIYDQSYGKHsEHeVSHS
+FQTASTSSGiSCMIPLetLKeqSSGFlVnNSCVFGVEFIKVtTsKANTtSETLFVQKtNi
+FNEAKtYTWdIEDFFALKNpgYSPEFEvGGYKWyIsMYPSrDGNHLSLYLhMKKtNDLPk
+DSGnLVElTLSIKDQEtGNHrKgTGRCQFSnnapgWGWaKFISLEDFKDSSNGYLVKGKC
+CIEAeVAIVGSSKME
+
+================================================================================

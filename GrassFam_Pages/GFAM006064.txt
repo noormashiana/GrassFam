@@ -1,0 +1,134 @@
+================================================================================
+GrassFam ID: GFAM006064
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             420.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR42646:SF2
+Panther Family ID:               PTHR42646
+Modal Panther ID:                PTHR42646:SF2
+Modal Panther Description:       5'-3' EXONUCLEASE FAMILY PROTEIN
+Modal Panther Family ID:         PTHR42646
+Modal Panther Fam Desc:          FLAP ENDONUCLEASE XNI
+Interpro Signature Accession:    cd09898; cd09859; G3DSA:3.40.50.1010:FF:000028; G3DSA:1.10.150.20:FF:000003; G3DSA:3.40.50.1010; G3DSA:1.10.150.20; PTHR42646; PF02739; SM00475; SSF88723
+Interpro Signature Description:  H3TH_53EXO; PIN_53EXO; 5'-3' exonuclease family protein; DNA polymerase I; -; FLAP ENDONUCLEASE XNI; 5'-3' exonuclease, N-terminal resolvase-like domain; 53exo3; PIN domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: DNA polymerase I%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: DNA polymerase I%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: DNA polymerase I%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: DNA polymerase I-like%2C transcript variant X1; DNA polymerase I-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: uncharacterized LOC127767199%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127767199
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC4332131
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau03
+  Gene Products: uncharacterized LOC133911975%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133911975
+Svi
+  Gene count: 2
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: DNA polymerase I-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: DNA polymerase I%2C transcript variant X2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: flap endonuclease Xni%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: DNA polymerase I%2C transcript variant X1
+  Gene Synonyms: GRMZM2G097898
+  Gene Descriptions: DNA polymerase I
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 421 aa
+
+MACCCLRAAAAPRLLLFRAAARrLPLPLAVSRKGFSEQSVLPiTDSiESFQGPSVqNTPR
+IPLYDDSlPSGvstTLSNPtEnVApADPSKSRIMLVDGTSVMYRSYYKILAQLQHGQLEH
+ADGNGDWVLTIFKALSLLLDMLEFIPSHAAVVFDHDGVPYGHYTAMPSKECHMAKGMTFR
+HMLYPAYKSNRTPTPDTIVQGMQYLKASIKAMSIKVIEVPGVEADDVIGTLAVNSVSAGY
+KVRIVSPDKDFFQILSPSLRLLRIAPRGSGMVSFGVEDFVKRYGALKPSQFVDVVALSGD
+KADNIPGVEGIGDVNAVKLITKFGSLENLLKSVDEVEDERIKQALISQSEQAiLCKSLAT
+LRSDLPSYMVPFKTpDLVFQKPKDDGAKFIKLLRALEAYAEGSSADpIIRRAlYLWNKLk
+S
+
+
+BOP CONSENSUS:
+Length: 420 aa
+
+MACCCFRAAAVPRLLFRAAARRLQLPLAVSRKGFSgQSVLPVTDSIESFQGPSVDHAPRI
+PLYDDSLPSGVSTILTNPGENVAPADPSKSRIMLVDGTSVMYRSYYKILAQLQHGQLEHA
+DGNGDWVLTIFKALSLLLDMLEFLPSHVAVVFDHDGVPYGHYTAMPSKECHMAKGMTFRH
+MLYPAYKSNRTSTPDTIVQGMQYLKASIKAMSIKVIEVPGVEADDAIGTLAVNSVSAGYK
+VRVVSPDKDFFQILSPSLRLLRISPRGSGMVSFGVEDFVKRYGALKPSQFVDVVALSGDK
+ADNIPGVEGIGDVNAVKLITKFGSLENLLRSVDEVEDQRIKQALISQSEQALLCKSLAIL
+RCDLPSYMVPFKTPDLVFQKPKDDGAKFINLLRALEAYAEGSSADQIIRRALYLWNKLES
+
+
+PACMAD CONSENSUS:
+Length: 422 aa
+
+MACCFLRAAAAPRLLLYRTAASRQLPSPLTVLRKGFSEQSVLPITDSiESFQGPSVQNTP
+RIPLYDDSISSGILDTLSNPTEGVTRADPSKGRIMLVDGTSVMYRSYYKILAQLQHGQLE
+HADGNGDWVLTIFKALSLLLDMLEFIPSHAAVVFDHDGVPYGHYTAMPSKECHMAKGMTF
+RHMLYPAYKSNRTPTPDTVVQGMQYLKASIKAMSIKVIEVPGVEADDVIGTLAVNSVSAG
+YKVRIVSPDKDFFQILSPSLRLLRIAPRGSGMVSFGVEDFVKRYGALKPSQFVDVVALSG
+DKADNIPGVEGIGDVNAVKLITKFGSLENLLKSVDEVEDERIKQALISqSEQAILCKSLA
+TLRSDLPsYMVPFKTADLVFQKPQDDGTKFIKLLRALEAYAEGSSADPIIRRATYLWNKL
+KS
+
+================================================================================

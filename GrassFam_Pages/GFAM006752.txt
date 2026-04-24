@@ -1,0 +1,145 @@
+================================================================================
+GrassFam ID: GFAM006752
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             604.0 aa
+Family Size (Extended Family Size): 21 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11236:SF32
+Panther Family ID:               PTHR11236
+Modal Panther ID:                PTHR11236:SF32
+Modal Panther Description:       ANTHRANILATE SYNTHASE ALPHA SUBUNIT 2, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR11236
+Modal Panther Fam Desc:          AMINOBENZOATE/ANTHRANILATE SYNTHASE
+Interpro Signature Accession:    G3DSA:3.60.120.10:FF:000003; G3DSA:3.60.120.10; TIGR00564; PTHR11236; PF04715; PF00425; SSF56322
+Interpro Signature Description:  Anthranilate synthase component 1; Anthranilate synthase; anthranilate synthase component I; AMINOBENZOATE/ANTHRANILATE SYNTHASE; Anthranilate synthase component I, N terminal region; chorismate binding enzyme; ADC synthase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: anthranilate synthase alpha subunit 2%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: anthranilate synthase alpha subunit 2%2C chloroplastic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: anthranilate synthase alpha subunit 2%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: anthranilate synthase alpha subunit 2%2C chloroplastic; anthranilate synthase alpha subunit 2%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: anthranilate synthase alpha subunit 2%2C chloroplastic
+  Gene Descriptions: anthranilate synthase alpha subunit 2%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: anthranilate synthase alpha subunit 2%2C chloroplastic-like
+  Gene Synonyms: OASA2,OsASA2
+  Gene Descriptions: anthranilate synthase alpha subunit 2%2C chloroplastic-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau03
+  Gene Products: anthranilate synthase alpha subunit 2%2C chloroplastic
+  Gene Descriptions: anthranilate synthase alpha subunit 2%2C chloroplastic
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: anthranilate synthase alpha subunit 2%2C chloroplastic; anthranilate synthase alpha subunit 2%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: anthranilate synthase alpha subunit 2%2C chloroplastic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: anthranilate synthase alpha subunit 2%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC606722
+  Gene Synonyms: GRMZM2G161337,pco121713
+  Gene Descriptions: uncharacterized LOC606722
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 606 aa
+
+MESLAAaSVFSPSRLAAAPPAAAgApVRArAVAAGRRRsSRSGSSGvRCSAvtPqASaVI
+sRSAVAAKAAEEDRRRFFEAAARGSGKGNLVPMWECIVSDHLTPVLAYRCLVPEDNVDAP
+SFLFESVEQGPEGTTNVGRYSMVGAHPVMEIVAKEHKVTIMDHEKGQVTEQVVDDPMQVP
+RSMMEGWHPQQIDqLPESFSGGWVGFFSYDTVRYVEKKKLPFSGAPQDDRNLPDVHLGLY
+DDVLVFDNVEKKVYVIHWVNVDRHASTEEAYQDGRSRLnLLLSKVHNSNVPTLSPGFVKL
+HTRQFGTPLNKSTMTSDEYKNAVMQAKEHIMAGDIFQIVLSQRFERRTYANPFEVYRALR
+IVNPSPYMAYVQARGCVLVASSPEILTRVsKGKIINRPLAGTVRRGKTEKEDqMQEQQLL
+SDEKQCAEHIMLVDLGRNDVGKVSKPGSVKVEKLMNIERYSHVMHISSTVSGQLDDHLQS
+WDALRAALPVGTVSGAPKVKAMELIDeLEVTRRGPYSGGLGGISFDGDMQIALALRTIVF
+STAPSHNTMYSYKdADRRREWVAHLQAGAGIVADSSPDDEQRECENKAAALARAIDLAES
+AFVDKE
+
+
+BOP CONSENSUS:
+Length: 606 aa
+
+MESLAAATFSPSRLAAHPAPPAAAAAPvRARAVAAGGRRGSRRGSSGLRCSAGSASASPV
+INGSAAAKAEEEDRRRFFEAAARGSGKGNLVPMWECIVSDHLTPVLAYRCLVPEDDMDTP
+SFLFESVEQGlEGTTNVGRYSMVGAHPVMEVVAKENKVTIMDHEKGeVTEQVVDDPMQVP
+RSIMEGWHPQQIDQLPEAFSGGWVGFFSYDTVRYVEKKKIPFSGAPqDDRNLPDVHLGLY
+DDVLVFDNVEKKVYVIHWVSLDRHASTEeAYQDGRSRLKRLLSKVHNANVPKLSPGFVKL
+HTRQFGTPLNKSTMTSDEYKNAVMQAKEHILAGNIFQIVLSQRFERRTYATPFEVYRALR
+IVNPSPYMAYVQARGCILVASSPEILTKVeKGKVINRPLAGTTRRGKTEhEDKLQEEQLL
+SDQKQCAEHIMLVDLGRNDVGKVSKSGSVKVEKLMNIERYSHVMHISSTVSGELDDHLQS
+WDALRAALPVGTVSGAPKVKAMELIDQLEVTRRGPYSGGLGGISFDGDMLIALALRTIVF
+STAPSHNTMYSYKsSDRRREWVAHLQAGAGIVADSIPDDEQKECENKAAALARAIDLAES
+AFVDKE
+
+
+PACMAD CONSENSUS:
+Length: 601 aa
+
+MESLAATSVFSPSRVAvPAAGALVRAGTVVsARRRSSRSGGVRCSAVTPQASAVVSRSAV
+AAKAAEEDKRRFFEAAARGSGKGNLVPMWECIVSDHLTPVLAYRCLVPEDNVDAPSFLFE
+SVEQGPQGTTNVGRYSMVGAHPVMEIVAKEHKVTIMDHEKGQVTEQVVDDPMQVPRSMME
+GWHPQQIDELPESFSGGWVGFFSYDTVRYVEKKKLPFSGAPQDDRNLPDVHLGLYDDVLV
+FDNVEKKVYVIHWVNVDRHASVEEAYQDGRSRLNLLLSKVHNSNVPTLSPGFVKLHTRQF
+GTPLNKSTMTSDEYKNAVMQAKEHIMAGDIFQIVLSQRFERRTYANPFEVYRALRIVNPS
+PYMAYVQARGCVLVASSPEILTRVSKGKIINRPLAGTVRRGKTEKEDQMQEQQLLSDEKQ
+CAEHIMLVDLGRNDVGKVSKPGSVKVEKLMNIERYSHVMHISSTVSGQLDDHLQSWDALR
+AALPVGTVSGAPKVKAMELIDELEVTRRGPYSGGLGGISFDGDMQIALSLRTIVFSTAPS
+HNTMYSYKDADRRREWVAHLQAGAGIVADSSPDDEQRECENKAAALARAIDLAESAFVDK
+E
+
+================================================================================

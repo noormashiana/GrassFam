@@ -1,0 +1,119 @@
+================================================================================
+GrassFam ID: GFAM012721
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             633.0 aa
+Family Size (Extended Family Size): 15 (15) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR24058
+Modal Panther ID:                PTHR24058:SF118
+Modal Panther Description:       NON-SPECIFIC SERINE_THREONINE PROTEIN KINASE
+Modal Panther Family ID:         PTHR24058
+Modal Panther Fam Desc:          DUAL SPECIFICITY PROTEIN KINASE
+Interpro Signature Accession:    cd14135; G3DSA:1.10.510.10:FF:000078; G3DSA:3.30.200.20; G3DSA:1.10.510.10; PTHR24058; PF00069; SM00220; SSF56112
+Interpro Signature Description:  STKc_PRP4; Serine/threonine-protein kinase PRP4 homolog; Phosphorylase Kinase; domain 1; Transferase(Phosphotransferase) domain 1; DUAL SPECIFICITY PROTEIN KINASE; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: serine/threonine-protein kinase prp4-like%2C transcript variant X1
+Ata
+  Gene count: 2
+  Modal chromosome: Ata04D
+  Gene Products: serine/threonine-protein kinase prp4; serine/threonine-protein kinase prp4-like
+Tae
+  Gene count: 4
+  Modal chromosome: Tae04D
+  Gene Products: serine/threonine-protein kinase PRP4 homolog%2C transcript variant X1; serine/threonine-protein kinase prp4-like; serine/threonine-protein kinase prp4-like%2C transcript variant X2
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: serine/threonine-protein kinase prp4-like%2C transcript variant X1
+  Gene Descriptions: serine/threonine-protein kinase prp4-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC107278587
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: serine/threonine-protein kinase PRP4 homolog%2C transcript variant X6; serine/threonine-protein kinase prp4-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: serine/threonine-protein kinase prp4-like%2C transcript variant X1
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: serine/threonine-protein kinase prp4%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 629 aa
+
+MGSgEGPvSPRStSRRHRRPhGDDADEASSPKRQKRSHHRHHHRHGHGDRGDQEAGSRpR
+VSGArPGEGEVEDGEIVDDAaAAaRGPDADfGKAGSVFGGLAPAPGCDDKFDANkKCREA
+NHKRKRSEEIKEqScKEEDQgdFEhFAKQEEDDLKKTKEEARKRMDAILEKHRQRQFQKE
+QQgPVPChDstEVDRDAATTEVKDANSVTVIVNEKSYTvGKTPIQPNISINLGISGDQRT
+ACVSGfQEGIPMGeRSSDILCDDIFGvSPIrVQKLGNLdGMHvRKNsLrDNWDDEhGYYK
+YHLGEVLdGRYRITAGsGKGVFSTVVQAKDLKAGKNDPEEVAIKIICNeKERYKSGKREV
+SVLEKLSSADREDKRHCVRFISSFMYRDHLCLVLESLHMNLREVIKKFGRDIGLKLTAVR
+TYSKQLFIALKHLKDCSILHCDIKPDNILVNGSKNLLKLCDFGSALPAGiNeITPyLVSR
+FYRAPEIILGLPYDHsLDMWSVGCCLYELYTGKILFPGGTNNGMLWLHMELKGPFPKKML
+RKGAFTTQHFDQDLNFHATDENLmkKKvVNKLcMNvKPKGVGSKISSFPGEDPKMLSsFK
+DLLEKIFVLDPqKRLTVSQALSHPFITGK
+
+
+BOP CONSENSUS:
+Length: 634 aa
+
+MGSgEGPvSPRSTSRRHRRPhGDGADEASSPKRQKRSHHRHHHRGHGHGDRGDQEAGSRP
+RVSGARPGEGEVEDGEIVDDAAAAASRGPDADFGKAGSVFGGLAPAPGCDDKFDANKKCR
+EANHRKRSEEIKEQSCKEEDQsDFEHFAKQEEDDLKKTKEEARKRMDAILEKHRQRQFQK
+EHQGPVPfHDSTEVTSLDRDAATTEVKDANSVTVIVNEKSYTlGKTPPIQPNISINLGIS
+GDQRTACVSGFQEGIPMGdRSSDILCDDIFGVSPIRVQKLGNLDGMHVRKNSLRDNWDDE
+HGYYKYHLGEVLDGHYRITAGSGKGVFSTVVQAKDLKAGKNDPEEVAIKIICNEKERYKS
+GKREVSVLEKLSSADREDKRHCVRFISSFMYRDHLCLVLESLHMNLREVIKKFGRDIGLK
+LTAVRTYSKQLFIALKHLKDCSILHCDIKPDNILVNGSRNLLKLCDFGSALPAGINDITP
+ILVSRFYRAPEIILGLPYDHSLDMWSVGCCLYELYTGKILFPGGTNNGMLWLHMELKGPF
+PKKMLRKGAFTTQHFDQDLNFHATDENLMMKKAVNKLCMNVKPKGVGsKISSFPGEDPKM
+LSSFKDLLEKIFVLDPQKRLTVSQALSHPFITGK
+
+
+PACMAD CONSENSUS:
+Length: 565 aa
+
+MDREDARSGSSPKRHKRHHRHHqsrvEPGEALGAEGAAGAASLARGEGGEGAIArERGRV
+SAADAHRDSAPSSKPDsSAvYKRyPRSQRVKEENHKDKDLNDvKSREETEEKFEQlVsKL
+GGnArEKHKAEARKrADVTpKKYsEIQLQKQQlEIVrCSNNEGsvtGHGtSGNqKtmGVS
+GvGEGIPMSERSEDIFANDIFGESPvGAQELGkKRGFLIKENAHpDNWDDPGGYYTYRCG
+EVLHGRYEIMAGHGMGVFSNVVRAKDLKAGKGDSnEVAIKIIRNIPVMYKAGKQEISILE
+KLASADPKDRRHCVRFISSFMYRNHLCLIFESLHMNLRELLKKFGSDVGLKLTAVRTYSK
+QLFIALKHLKSCNVLHCDIKPDNVLVNEAKTKLKLCDFGSAMsAGMNEvTPYLVSRFYRA
+PEIILGLPYDHPLDMWSVGCSLFELYTGKVLFPGKTNNDMLRLHMESKGaLPKKMLRKGT
+FAmEHFDQDFNYFtEKDPVTKMTVKRHPVMNIKRQDlSSfVSSlPGEDPKMLSsFNDLLK
+RILVLDPEKRLKVEQALSHPFVSGK
+
+================================================================================

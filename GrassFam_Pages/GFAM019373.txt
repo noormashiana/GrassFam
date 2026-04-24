@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM019373
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             463.0 aa
+Family Size (Extended Family Size): 25 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12210:SF146
+Panther Family ID:               PTHR12210
+Modal Panther ID:                PTHR12210:SF146
+Modal Panther Description:       SCP1-LIKE SMALL PHOSPHATASE 4-RELATED
+Modal Panther Family ID:         PTHR12210
+Modal Panther Fam Desc:          DULLARD PROTEIN PHOSPHATASE
+Interpro Signature Accession:    cd07521; G3DSA:3.40.50.1000:FF:000015; G3DSA:3.40.50.1000; TIGR02251; PTHR12210; PF03031; SM00577; SSF56784
+Interpro Signature Description:  HAD_FCP1-like; CTD small phosphatase-like protein 2; -; dullard-like phosphatase domain; DULLARD PROTEIN PHOSPHATASE; NLI interacting factor-like phosphatase; forpap2; HAD-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: CTD small phosphatase-like protein 2%2C transcript variant X4
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: CTD small phosphatase-like protein 2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: CTD small phosphatase-like protein 2%2C transcript variant X7
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: CTD nuclear envelope phosphatase 1-like%2C transcript variant X1; CTD small phosphatase-like protein 2%2C transcript variant X3; probable phosphatase PSR2%2C transcript variant X1
+Ola
+  Gene count: 2
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: uncharacterized LOC127786367%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127786367
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC4326666
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau01
+  Gene Products: uncharacterized LOC133916312%2C transcript variant X3
+  Gene Descriptions: uncharacterized LOC133916312
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi03K
+  Gene Products: CTD small phosphatase-like protein 2%2C transcript variant X3; CTD small phosphatase-like protein 3%2C transcript variant X5; uncharacterized LOC120697723%2C transcript variant X2
+Pha
+  Gene count: 2
+  Modal chromosome: Pha03
+  Gene Products: CTD small phosphatase-like protein 3%2C transcript variant X1; uncharacterized LOC112883904%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: CTD small phosphatase-like protein 3%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: CTD-phosphatase-like protein%2C transcript variant X7; SCP1-like small phosphatase 4b%2C transcript variant X2
+  Gene Synonyms: GRMZM2G068690; GRMZM2G162347
+  Gene Descriptions: CTD-phosphatase-like protein; SCP1-like small phosphatase 4b
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 464 aa
+
+MNKMLSTDCLGTQELHTFCKTTEILEHSHsQEIAlDKTAVGSTLiSHQNVCCTAEVSGEN
+iEIMEISLLQDESDAatTSLLPLPLLSCGPRSMVPISVPSSSDLESILSPDPIYSDLQLK
+EINYNAtAMDESTEFLHLILSGNDEGYNTTtELQVWDVLDFYVSENFSAvQFDSLMGFTN
+EVSTSYHDCMNLVDMVERPVALLSLDDTeEPNNttDeVPVDHtTMDPDDTSLYLQTKPTD
+SETESSSASGDVVETEYLDEKLLSRGLPDLMDVDSPNRLrKSPVRTKHVTLVLDLDETLV
+HSTLDHCDNADFTLEVFFNMKNHTVYVRqRPHLKMFLEKVAQMFELVIFTASQRIYAEQL
+IDRLDPDGKLISRRIYRESCIFSDGCYTKDLTILGVDLAKVAIIDNTPQVFQLQVDNGIP
+IKSWFDDPSDQELVELLPFLESLVDAEDVRPIISKTFHDKlEQN
+
+
+BOP CONSENSUS:
+Length: 464 aa
+
+MNKMLSTDCLGTQELHTFhKTTEILEDSQSQEIAfDrTAVGSTLvsHQNVCSTAEVSGGN
+IGmAEVSLLHGESDTSATGLLPVSFLSCGPRSMVPISVPSSSGLETILTPNPMYSDvQLK
+EVNYNATAMDESTEFLQLILSGNDEGYNTTSELQVWDVLDFYFSESFSDVQFDSIMGFTS
+DVSTSSHDYMNIVDLVERPVALLSLNETEEPNNATNKAPVDHSTMDPDDTSLYLQMKPPD
+SETESTSASQDVIGTEYVDEKLHSRGLPDLMDVDSSNRLRKSPVRTKHVTLVLDLDETLV
+HSTLDHCDISDFSIQVFFNMKDHTVYVRQRPHLKMFLEKVAQMFELVIFTASQRIYAEQI
+IDRLDPDGKLISQRIYRESCIFSDGSYTKDLTILGVHLAKVAIIDNTPQVFQLQVDNGIP
+IKSWFDDPADQELVELLPFLETLVDAEDVRPLISKTFHGTvQQD
+
+
+PACMAD CONSENSUS:
+Length: 464 aa
+
+MNKMLSNDCLGTQELHTFCKTTETLEHSHPQEITLDKTAVGSTLISHQNVCCTAEVSGEN
+AEIMEISLLQDESDAATTSLLPLPLLSCGPRSMVPISVPSSSDLESILSPDPIYSDLQLK
+EINYNAAAMDESTEFLHLILSGNDEGYNTTTEFQVWDVLDFYVSENFSALQFDSLMGFTN
+EVSTSYNDCMNLVDMVERPVARLSLDDTPEPSNtSDEVPVDHTTmDPDETSLYLQTKPTD
+SETESSSAAGDVVETEYLDQKLLSRGLPDLMDVDSPNrLlKTPVRTKHVTLVLDLDETLV
+HSTLDHCDNADFTLEVFFNMKNHTVYVRKRPYLKMFLEKVAQMFELVIFTASQRIYAEQL
+IDRLDPDGKYISRRIYRESCiFSDGCYTKDLTILGIDLAKVAIVDNTPQVFQLQVDNGIP
+IKSWFDDPSDQELVELLPFLESLVDAEDVRPIISKTFHDKLEQN
+
+================================================================================

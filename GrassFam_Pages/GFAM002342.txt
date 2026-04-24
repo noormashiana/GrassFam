@@ -1,0 +1,118 @@
+================================================================================
+GrassFam ID: GFAM002342
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             430.5 aa
+Family Size (Extended Family Size): 16 (17) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48017:SF41
+Panther Family ID:               PTHR48017
+Modal Panther ID:                PTHR48017:SF41
+Modal Panther Description:       AMINO ACID TRANSPORTER PROTEIN-LIKE
+Modal Panther Family ID:         PTHR48017
+Modal Panther Fam Desc:          OS05G0424000 PROTEIN-RELATED
+Interpro Signature Accession:    PTHR22950; PF01490
+Interpro Signature Description:  AMINO ACID TRANSPORTER; Transmembrane amino acid transporter protein
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: amino acid transporter AVT1I
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: amino acid transporter AVT1I-like%2C transcript variant X1
+  Gene Descriptions: amino acid transporter AVT1I-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa01
+  Gene Products: amino acid transporter AVT1I
+  Gene Descriptions: amino acid transporter AVT1I
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau02
+  Gene Products: amino acid transporter AVT1I-like
+  Gene Descriptions: amino acid transporter AVT1I-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: amino acid transporter AVT1I-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: amino acid transporter AVT1I-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: vacuolar amino acid transporter 1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: vacuolar amino acid transporter
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 430 aa
+
+MAAqeSPLDEPLLvPGKDGGgdDvAnMEAQLLLPrDTGASFSRSCLNLSNVISGVGMLSV
+PYALAQGGWLSLALFAlVGAVCYYTGELIARCMRAGGDAVRSYPDIGQLAFGRPGRKAIG
+AVMYaELYLVAISFLILEGDNLDKLLPGTsVGLPGGYvLRGKQLFTLVAAVVILPTTWLR
+DLSVLAYVSAVGLVASVALTASLVWAGVAEHGFHAkGgNVFSLAGLPTSLSLYFVCFSGH
+GVFPTVYTSMRNKKDFTKVLLaSSVLCSLNYALTAVLGYLIYGDDVQSLVTLNLPSGKvY
+TRIAILTTLITPLAKYALVIQPITTgIEEKLSLAsqGgLTRAAISTAVLVSTVVAACTVP
+FFGYLMSFIGSSLNVTVAVLFPCLSYLrIYMPRGGVRRAEVAAIVGILVIGVCVAVVGTY
+TSLHQIvGTF
+
+
+BOP CONSENSUS:
+Length: 438 aa
+
+MAADKSPIDEALLHgKhEQALLHGKhEhvEQQLLpPTSGGSFCITGASFGRSCLNLSNVI
+SGIGMLSVPYALSQGGWLSLALFAMVGAICFYTGKLIDRCMRADRcVRSYPDIGYLAFGr
+YGRtAIGLVMYVELYLVAISFLILEGDNLDKLLPGTVVkILGYQVHGKQLFVLVAAAVIL
+PTTWLKNLSMLAYVSAVGLVSSVALTASLVWAGVAeKGFHMkGSSLLNLSGLPTALSLYF
+VCFAGHGVFPTVYSSMraKKDFPKVLLISSVLCSLNYAVTAVLGYLIYGEDVQAQVTLNL
+PTGKLYTRIAILTTLITPLAKYALVIQPVTtAIEEKLSvTDAErNRLTRVLTSTAVVfST
+VVLACTVPFFGYLMSFIGSSLNVTVAVLFPCLSYLKIYMPRGGVGRFEVAAIVGILVIGV
+CVAVVGTYTSLHQIIGTF
+
+
+PACMAD CONSENSUS:
+Length: 429 aa
+
+MAAqESPLDEPLLVPGKDGgDDAAnMEAQLLLrrDTGASFSRSCLNLSNVISGVGvLSVP
+YALAQGGWLSLALFAlVGAVCYYTGELIARCMRAGGDAVRSYPDIGQLAFGRPGRKAIGA
+VMYAELYLVAISFLILEGDNLDKLLPGTsVGLPGGYVLRGKQLFTLVAAVVILPTTWLRD
+LSVLAYVSAVGLVASAALTASLVWAGVAEHGFHArGGNVFSLAGLPTSLSLYFVCFSGHG
+VFPTVYTSMRNKkDFTKVLLASSVLCSLNYALTAVLGYMIYGDDVKSLVTLNLPSGKVYT
+RIAILTTLITPLAKYALVIQPITTGIEEKLSLAsQGgLTRAAISTAVLVSTVVAACTVPF
+FGYLMSFIGSSLNVTVAVLFPCLSYLRIYMPRGGVRRAEVAAIVGILVvGVCVAVVGTYT
+SLHQIVSTF
+
+================================================================================

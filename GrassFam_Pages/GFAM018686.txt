@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM018686
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             440.0 aa
+Family Size (Extended Family Size): 21 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22957:SF609
+Panther Family ID:               PTHR22957
+Modal Panther ID:                PTHR22957:SF609
+Modal Panther Description:       RAB-GTPASE-TBC DOMAIN-CONTAINING PROTEIN-RELATED
+Modal Panther Family ID:         PTHR22957
+Modal Panther Fam Desc:          TBC1 DOMAIN FAMILY MEMBER GTPASE-ACTIVATING PROTEIN
+Interpro Signature Accession:    G3DSA:1.10.8.270:FF:000028; G3DSA:1.10.472.80:FF:000041; G3DSA:1.10.472.80; G3DSA:1.10.8.270; PTHR22957; PF00566; SM00164; SSF47923
+Interpro Signature Description:  TBC domain containing protein; -; putative rabgap domain of human tbc1 domain family member 14 like domains; TBC1 DOMAIN FAMILY MEMBER GTPASE-ACTIVATING PROTEIN; Rab-GTPase-TBC domain; tbc_4; Ypt/Rab-GAP domain of gyp1p
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: GTPase-activating protein gyp1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: GTPase-activating protein gyp1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: GTPase-activating protein GYP1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: GTPase-activating protein GYP1-like; GTPase-activating protein gyp1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: GTPase-activating protein gyp1
+  Gene Descriptions: GTPase-activating protein gyp1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: GTPase-activating protein gyp1
+  Gene Descriptions: GTPase-activating protein gyp1
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau12
+  Gene Products: GTPase-activating protein gyp1-like; GTPase-activating protein gyp1-like%2C transcript variant X1
+  Gene Descriptions: GTPase-activating protein gyp1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: GTPase-activating protein gyp1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: GTPase-activating protein gyp1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: GTPase-activating protein gyp1%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: TBC1 domain family member 22A%2C transcript variant X1
+  Gene Synonyms: GRMZM2G142806
+  Gene Descriptions: TBC1 domain family member 22A
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 439 aa
+
+MGgGGGGGGSPNNTEWRFNQTLRNVQGMLKGRSFPGKVLLTRRSEPLSPPDYSPRfENDR
+DEDEqNEGSQEGEGQASGNTtDNASSKKSNsPSTSSsNSLPDAQGLVSGARATDSARIaK
+FTnELSRPAVILDKLRELSWSGVPPYMRPNIWRLLLGYAPPNKDRREGVLTRKRLEYVEC
+VSQYYDIPDSERSDEEITMLRQIAVDCPRTVPDVTFFQNPQIQKSLERILYTWAIRHPAS
+GYVQGINDLVTPFLVVFLSEHLEGNMDTWSMENLSlQDISNIEADCYWCLSKFLDGMQDH
+YTFAQPGIQRLVFRLKELVRRIDEPVSKHIEEQGLEFLQFAFRWFNCLLIREVPFHLVTR
+LWDTYLAEGDYLPDFLVYISASFLLTWSDKLQKLDFQEMVMFLQHLPTRTWAHHELEMVL
+SRAYMWHTMFKSSPSHLAS
+
+
+BOP CONSENSUS:
+Length: 440 aa
+
+MsSGGGGGGGSPNNSEWRFNQTLRNVQGMLKGRSFPGKVMLTRRSEPLSPPEYSPRSEND
+RYEYEQNEGSQEVEGQASGNTTDNISSKKSISPSTSSVNSLPDAQGLVSGARATDSARIT
+KFTNELSRPAVILDKLRELSWSGVPPYMRPNIWRLLLGYAPPNADRREGVLTRKRLEYVE
+CVSQYYDIPDTERSDEEITMLRQIAVDCPRTVPDVTFFQDPQIQKSLERILYTWAIRHPA
+SGYVQGINDLVTPFLIVFLSEHLEGNLDTWSMENLSLQDVSNIEADCYWCLSKFLDGMQD
+HYTFAQPGIQRLVFRLKELVHRIDEPLSKHIEEQGLEFLQFAFRWFNCLLIREVPFHLVT
+RLWDTYLAEGDYLPDFLVYISASFLLTWSEKLQKLDFQEMVMFLQHLPTRNWAHHELEMV
+LSRAYMWHTMFKSSPSHLAN
+
+
+PACMAD CONSENSUS:
+Length: 440 aa
+
+MSGVGGGGGGSPNNTEWRFNQTLRNVQGMLKGRSFPGKVLLTRRSEPLSPPDYSPRFESE
+HDEDERKEGSQEGEGQAPGNSFDSASAKKSNlLSTSSSNSLPDAQGLVSGARATDSARIA
+KFTtELSRPAVILDKLRELSWSGVPPYMRPNVWRLLLGYAPPNKDRREGVLTRKRLEYVE
+CVSQYYDIPDSERSDEEITMLRQIAVDCPRTVPDVTFFQNPQIQKSLERILYTWAIRHPA
+SGYVQGINDLVTPFLVVFLSEHLEGNMDTWSVDNLSAQDISNIEADCYWCLSKFLDGMQD
+HYTFAQPGIQRLVFRLKELVRRIDEPVSKHIEEQGLEFLQFAFRWFNCLLIREIPFHLVT
+RLWDTYLAEGDYLPDFLVYISASFLLTWSDKLQKLDFQEMVMFLQHLPTRTWAHHELEMV
+LSRAYMWHTMFKSSPSHLAS
+
+================================================================================

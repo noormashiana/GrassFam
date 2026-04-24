@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM007217
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             409.0 aa
+Family Size (Extended Family Size): 26 (31) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46408:SF10
+Panther Family ID:               PTHR46408
+Modal Panther ID:                PTHR46408:SF10
+Modal Panther Description:       BASIC LEUCINE ZIPPER 63
+Modal Panther Family ID:         PTHR46408
+Modal Panther Fam Desc:          BASIC LEUCINE ZIPPER 63
+Interpro Signature Accession:    PTHR46408; PF12498
+Interpro Signature Description:  BASIC LEUCINE ZIPPER 63; Basic leucine-zipper C terminal
+
+
+REXdb Match:                     False
+REXdb Percentage:                3.85%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: bZIP transcription factor RISBZ2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: bZIP transcription factor RISBZ2-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: bZIP transcription factor RISBZ2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: bZIP transcription factor RISBZ2-like; bZIP transcription factor RISBZ2-like%2C transcript variant X1
+Ola
+  Gene count: 2
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: bZIP transcription factor RISBZ2
+  Gene Descriptions: bZIP transcription factor RISBZ2
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: bZIP transcription factor RISBZ2-like
+  Gene Descriptions: bZIP transcription factor RISBZ2-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: bZIP transcription factor RISBZ2-like
+  Gene Descriptions: bZIP transcription factor RISBZ2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: bZIP transcription factor RISBZ2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: bZIP transcription factor RISBZ2-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: light-inducible protein CPRF2
+Zma
+  Gene count: 4
+  Modal chromosome: Zma01
+  Gene Products: bZIP transcription factor RISBZ2; bZIP transcription factor RISBZ2%2C transcript variant X4; opaque2 heterodimerizing protein 1; opaque2 heterodimerizing protein 2
+  Gene Synonyms: GRMZM2G007063,ohp2; GRMZM2G016150,ohp1,ohp1b
+  Gene Descriptions: opaque2 heterodimerizing protein 1; opaque2 heterodimerizing protein 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 408 aa
+
+MERVFSVEEIPNPYWAPPqPQpAAAGAVAAPGGGGGAGgAAGAMNRCPSEWYFQKFLEEA
+VLDSPgPvPGgGRGgGGVEAAEVKppGVAAAAAASSAVVDPVEYNAMLKQKLEKDLAAVA
+MWRASGAmPPERSAAGSSLPNADVSHiGplNPIGGNgvPVQNKLAGGPsGGSGPQLVQNA
+DiLVKQATSSSSREQSDDDDMEGEAETTGNANPVQQRLQRRKQSNRESARRSRSRKAAHL
+NELEAQVSQLRVENSSLLRRLADVNQKFNeAAVDNRVLKADVETLRAKVKMAEDSVKRVT
+GMNALFPAVSDMSSLSMPFNGSPSDSTSDAAVPIQDDPNSYFATPSEiGGNNGYMPEIAS
+SAQEDDDFVNgALAAGKMGRTASLQRVASLEHLQKRMCGGPASSGSTS
+
+
+BOP CONSENSUS:
+Length: 405 aa
+
+MERVFSVEEIPDPFWGQPSPRPAAAAGGPAAGGGGGEGAMNRCPSEWYFQKFLEEAVLDS
+PAADPSPMAGASGgGvGAAEVKQtAAAVAAApAATGAVVDPVEYNAMLKQKLEKDLAAVA
+MWRASGAMPPERFAASPSLPNADVQHIGTINPIGGNVVPVQNKLAGGASGvSGPHLVQNA
+DALVKQAASSSSREQSEDDDMEGEDEITGNGvPTDQRLRRRKQSNRESARRSRSRKAAHL
+NELEAQVSQLRVENSSLLRRLADVNQKYNGAAVDNRVLKADVETLRAKVKMAEDSVKRVT
+GMSALFPAGSDMSSLSMPFTGSPSEATSDAAVPDDLSNYFSTSEAGGNNGYMPEMASSAQ
+EDDNFLNGAMDTGKMGRPDSLHRVASLEHLQKRMCGGPASSGSTS
+
+
+PACMAD CONSENSUS:
+Length: 414 aa
+
+MERVFSVEEIPNPYWAPPQPQaAATGAVAAPGGGGGGGGGAGDAAGAMNRCPSEWYFQKF
+LEEAVLDSPGPVAGVGRGSVGGGVEAAESKPLGVAAAAAASSsVVDPVEYNAMLKQKLEK
+DLAAVAMWRASGAtPPERSAAGSSLPNVDVSHAGPLKPIGGNGIPVQNKLAGAPgGGSGP
+QVVQNADILVKQTTSSSSREQSDDDDMEGEAETTGNANPVQQRLQRRKQSNRESARRSRS
+RKAAHLNELEAQVAQLRVENSSLLRRLADVNQKFNEAAVDNRVLKADVETLRAKVKMAED
+SVKRVTGMNALFPAVSDMSSLSMPFNGSPSDSTSDAAVPIQDDPNSYFANPSEIGGNNGY
+MPDIASSAQEDDDFVNAALAAGKMGRTASLQRVASLEHLQKRMCGGPASSGSTS
+
+================================================================================

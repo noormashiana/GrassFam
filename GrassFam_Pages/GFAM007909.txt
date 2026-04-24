@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM007909
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             464.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR30314:SF30
+Panther Family ID:               PTHR30314
+Modal Panther ID:                PTHR30314:SF30
+Modal Panther Description:       CELL DIVISION FTSZ-LIKE PROTEIN
+Modal Panther Family ID:         PTHR30314
+Modal Panther Fam Desc:          CELL DIVISION PROTEIN FTSZ-RELATED
+Interpro Signature Accession:    cd02201; G3DSA:3.30.1330.20:FF:000007; G3DSA:3.40.50.1440:FF:000001; G3DSA:3.30.1330.20; G3DSA:3.40.50.1440; TIGR00065; PTHR30314; PR00423; PF12327; PF00091; SM00864; SM00865; SSF55307; SSF52490
+Interpro Signature Description:  FtsZ_type1; Cell division protein ftsZ, putative; Cell division protein FtsZ; -; Tubulin/FtsZ, GTPase domain; cell division protein FtsZ; CELL DIVISION PROTEIN FTSZ-RELATED; Cell division protein FtsZ signature; FtsZ family, C-terminal domain; Tubulin/FtsZ family, GTPase domain; Tubulin_4; Tubulin_C_4; Tubulin C-terminal domain-like; Tubulin nucleotide-binding domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: cell division protein FtsZ homolog 2-1%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: cell division protein FtsZ homolog 2-1%2C chloroplastic-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: cell division protein FtsZ homolog 2-1%2C chloroplastic%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: cell division protein FtsZ homolog 2-1%2C chloroplastic-like%2C transcript variant X1; cell division protein FtsZ homolog 2-1%2C chloroplastic-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: cell division protein FtsZ homolog 2-1%2C chloroplastic-like
+  Gene Descriptions: cell division protein FtsZ homolog 2-1%2C chloroplastic-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: cell division protein FtsZ homolog 2-1%2C chloroplastic
+  Gene Descriptions: cell division protein FtsZ homolog 2-1%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: cell division protein FtsZ homolog 2-1%2C chloroplastic-like%2C transcript variant X2; cell division protein FtsZ homolog 2-1%2C chloroplastic-like%2C transcript variant X6
+  Gene Descriptions: cell division protein FtsZ homolog 2-1%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: cell division protein FtsZ homolog 2-1%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: cell division protein FtsZ homolog 2-1%2C chloroplastic-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: cell division protein FtsZ homolog 2-1%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: cell division protein FtsZ homolog 2-1%2C chloroplastic
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 464 aa
+
+MATQLPCFTQLSPPSsgWgNEAGScKATSGRAlVRStRaLGHSHFRCCAsPRSANSFQKK
+DSFLDLHPEVSLLRGEKNvEVVnPrKGSSDGSpLEGLGVPPDRnDYNEAKIKVVGVGGGG
+SNAVNRMIESSMNGVEFWIVNTDVQAIRMSPVLPHNRLQIGQELTRGLGAGGNPDIGMNA
+AKESSESIQEALyGADMVFVTAGMGGGTGTGGAPVIAGIAKSMGILTVGIVTTPFSFEGR
+RRAVQAQEGIAALRNSVDTLIVIPNDKLLSAVSPNTPVTEAFNLADDILRQGIRGISDII
+TVPGLVNVDFADVRAIMQNAGSSLMGIGTATGKSRARDAALNAIQSPLLDIGIERATGIV
+WNITGGtDLTLFEVNAAAEIIYDLVDPNANLIFGAVIDPSLSGQVSITLIATGFKRQDEP
+EGRTSKGGQQMQGDNGRRPSSAEGSMVEIPEFLRRRGPSRFPRV
+
+
+BOP CONSENSUS:
+Length: 464 aa
+
+MATQLPCFTQLTPPSPGWRNEAGSLGAASGRALVRSVPFSGHSRFRCRATPRSANSFQKK
+DSFLDLHPEVSLLRGEQNDEVINPRKaSSdGSTLEGLGVPPSQDDYNAAKIKVVGVGGGG
+SNAVNRMIEYSMNGVEFWIVNTDVQAIRMSPVHSQNRLQIGQELTRGLGAGGNPDIGMNA
+AKESCESIEEALHGADMVFVTAGMGGGTGTGGAPVIAGIAKSMGILTVGIVTTPFSFEGR
+RRAVQAQEGIAALRNSVDTLIVIPNDKLLSAVSPNTPVTEAFNLADDILWQGIRGISDII
+TVPGLVNVDFADVRAIMQNAGSSLMGIGTATGKSRARDAALNAIQSPLLDIGIERATGIV
+WNITGGnDLTLFEVNAAAEVIYDLVDPNANLIFGSVIDPSLNGQVSITLIATGFKRQDEA
+EGRTAKGGQQMQGDNGRHPSSTGGSKVEIPEFLRRRGPSRFPRI
+
+
+PACMAD CONSENSUS:
+Length: 464 aa
+
+MATQLPCFTQLSPPSSSWGNEVGSCKATSGRAFVRSaRALGHCHFRCCASPRSANSFQKK
+DSFLDLHPEVSLLRGEKNVEVVDPmKGSSDGSPLEGLGVPPDRNDYNEAKIKVVGVGGGG
+SNAVNRMIESSMNGVEFWIVNTDVQAIRMSPVLPHNRLQIGQELTRGLGAGGNPDIGMNA
+AKESSESIQEALYGADMVFVTAGMGGGTGTGGAPVIAGIAKSMGILTVGIVTTPFSFEGR
+RRAVQAQEGIAALRNSVDTLIVIPNDKLLSAVSPNTPVTEAFNLADDILRQGIRGISDII
+TVPGLVNVDFADVRAIMQNAGSSLMGIGTATGKSRARDAALNAIQSPLLDIGIERATGIV
+WNITGGTDLTLFEVNAAAEIIYDLVDPNANLIFGAVIDPSLSGQVSITLIATGFKRQDEP
+EGRtSKGGQQIQGENGRRPSSAEGSMVEIPEFLRRRGPSRFPRV
+
+================================================================================

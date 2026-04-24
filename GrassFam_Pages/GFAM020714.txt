@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM020714
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             545.0 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31811:SF0
+Panther Family ID:               PTHR31811
+Modal Panther ID:                PTHR31811:SF0
+Modal Panther Description:       TRNA A64-2'-O-RIBOSYLPHOSPHATE TRANSFERASE
+Modal Panther Family ID:         PTHR31811
+Modal Panther Fam Desc:          TRNA A64-2'-O-RIBOSYLPHOSPHATE TRANSFERASE
+Interpro Signature Accession:    G3DSA:3.90.190.10:FF:000093; PTHR31811; PIRSF007747; PF17184; PF04179
+Interpro Signature Description:  Initiator tRNA phosphoribosyl transferase family protein; TRNA A64-2'-O-RIBOSYLPHOSPHATE TRANSFERASE; RIT1; Rit1 N-terminal domain; Rit1 DUSP-like domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: tRNA A64-2'-O-ribosylphosphate transferase%2C transcript variant X1; tRNA A64-2'-O-ribosylphosphate transferase-like
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: tRNA A64-2'-O-ribosylphosphate transferase%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: tRNA A64-2'-O-ribosylphosphate transferase%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: tRNA A64-2'-O-ribosylphosphate transferase-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: tRNA A64-2'-O-ribosylphosphate transferase%2C transcript variant X1
+  Gene Descriptions: tRNA A64-2'-O-ribosylphosphate transferase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: tRNA A64-2'-O-ribosylphosphate transferase%2C transcript variant X1
+  Gene Descriptions: tRNA A64-2'-O-ribosylphosphate transferase
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau08
+  Gene Products: tRNA A64-2'-O-ribosylphosphate transferase%2C transcript variant X1
+  Gene Descriptions: tRNA A64-2'-O-ribosylphosphate transferase
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi04N
+  Gene Products: tRNA A64-2'-O-ribosylphosphate transferase-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: tRNA A64-2'-O-ribosylphosphate transferase%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: tRNA A64-2'-O-ribosylphosphate transferase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: uncharacterized LOC103638586%2C transcript variant X4
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 548 aa
+
+AAAAAapEpAAAeegTLSIYKAARRIKRRESTLYNALRSVAEDAAFVAEIAALWPALPLV
+ANLRCGLWYAPPRslAATCYFKSTDGHAGNWSFSTARLNLHLALLAGERGGCIIVDSTRK
+GKRFPDSMSKTIPIWCCVLNRAIERHRLRAINkGSgVNSEvSAavlNGDAEknSgSSNWD
+SSVHLPVWVLeTEKNAIEGRIEEWTDQFESCGADIHSLALGLQKPLRPLWISQRTRIWLN
+EVPEHESWDFTPIILVSASASgAVATQRMSSEFSWHYIPGAGDDEESWARGLTPTLFWKH
+SYDLLDGGPDLCNQLVADIVEKDRVYRAQRGEHSPQITVKpLKCSSHDgpkcngDHTsIt
+qPMNSDPsTIsptDTQySNnGHlLFWIGTSNLAVSSTlQVADaLAgVDCILNCDSTSrLP
+SsSSENSYLELPIVGSKDDRFSLMKNLPKAVsFAKRNLIAGRKILvCCQNGEDISICVAL
+AIITRLFDDtGCFDcGnSFmKRDITKLEMRKRLVFICKYAVNARPSRGNLKQVYGFLCNE
+KEQLsCLT
+
+
+BOP CONSENSUS:
+Length: 546 aa
+
+MAAAAAsSEHAAEEGTLSIYKAARRIKRRESTLYNALRSVADDAAFVAEIAALWPALPLV
+ANLRCGLWYAQPRSLAATCYFKSTDGHAGNWgFSTARLNLHLALLAGERGGCIIVDSTRK
+GKRFPDSMSKTIPIWCCVLNRAIQRHRLRAINQGSGLNSEMSAVVpNGDAEEYSGSSNWD
+SSVHLPVWVLETEKNAIEGRIEEWTDLFESCGADIHSLALGLQKPLRPLWISQNTRIWLN
+EVPEHQLWDFTPIILVSASASGAVATQRTsSEFSWRYIPGAGDDEESWARGLTPTLFWKH
+SYDLLDGGPDLCNQLVADIVEKDRVYRAQRGEHSPQVTVKHLKCSSHGlPpYTGDHTIIT
+QPMNSNPSTIAPANTQYSNgGHVVFWIGTSNLAVaSTMQVADGLADMDCILNCDSTSRLP
+SSSSENSYLELPIVGSKDERFSLLKNLPKAVSFAKRNLIARRKMLLCCQNGEDISICVAL
+AIITRLFsDTGCFDCGESFMRRDITKLEMRKRLVFICKYAVNARPSRGNLRQVYGFLCNE
+KEQLPC
+
+
+PACMAD CONSENSUS:
+Length: 546 aa
+
+MAAAAPEPAAeVAPSATLSIYKAARRIKRRASTLYNALRSVAEDAAFVAEVAALWPALPL
+VANLRCGLWYAPPRAFAATCYFKSTDGHAGNWSFSTARLNLHLALLAGERGGCIIVDSTR
+RGKRFPDSMSKTIPIWCCVLNRAIERHRLRAIhKGgEVNyEVSSTmLNGDAENNScSSNW
+DSSVHLPVWVLGTEKNAIEGRIEEWTDQFESCGADIhSLAIgLQKPLRPLWISQRTRIWL
+NEVPElESWDFTPIILISASASDAVATQRMSSEFSWHYIPGAGDDEESWARGLTPTLFWK
+HSYDLLDAGPDHCNQLVADIVEKDRVYRAQRGEHSPQITaKPLKSlDgpKCNDDrTStMW
+PMNSDPCTSTTDAQCSNNGlLLFWIGTSNLAVSSTLQVADALVGVDCILNCDSTSKLPSN
+SSENSYLELSIVGSKDDRFSLMKNLPKAVDFAKRNLIAGRKILVCCQNGEDISICVALAI
+VTLLFDDNGCFDYGNSFVKRDITKLEMRKRLVFICKFAVNARPSRGNLKQVYGFLSNEKE
+RLSCLT
+
+================================================================================

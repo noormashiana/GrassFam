@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM007565
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             590.0 aa
+Family Size (Extended Family Size): 26 (30) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10857:SF130
+Panther Family ID:               PTHR10857
+Modal Panther ID:                PTHR10857:SF130
+Modal Panther Description:       C2 DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR10857
+Modal Panther Fam Desc:          COPINE
+Interpro Signature Accession:    cd04047; cd04048; cd01459; G3DSA:2.60.40.150:FF:000186; G3DSA:2.60.40.150:FF:000168; PTHR10857; PF07002
+Interpro Signature Description:  C2B_Copine; C2A_Copine; vWA_copine_like; Protein BONZAI 3; Protein BONZAI 1; COPINE; Copine
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: protein BONZAI 3%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu01H
+  Gene Products: protein BONZAI 3-like%2C transcript variant X1
+Ata
+  Gene count: 2
+  Modal chromosome: Ata01D
+  Gene Products: protein BONZAI 3%2C transcript variant X1
+Tae
+  Gene count: 8
+  Modal chromosome: Tae01A
+  Gene Products: protein BONZAI 3-like; protein BONZAI 3-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: protein BONZAI 3
+  Gene Descriptions: protein BONZAI 3
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: protein BONZAI 3%2C transcript variant X1
+  Gene Descriptions: protein BONZAI 3
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau11
+  Gene Products: protein BONZAI 3-like
+  Gene Descriptions: protein BONZAI 3-like
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi03N
+  Gene Products: protein BONZAI 3-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: protein BONZAI 3%2C transcript variant X1
+Msi
+  Gene count: 3
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: protein BONZAI 3
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: uncharacterized LOC100381409
+  Gene Synonyms: GRMZM2G176995,TIDP2917
+  Gene Descriptions: uncharacterized LOC100381409
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 589 aa
+
+MGGCFSGDVRGGMEAVGGGGgGaAaGGagqgQGGPNEAVDHFFQGrGLRGLYTPLELSFS
+ASKLRNMDALSKSDPMLVVYTKMDGRLEEIGRTEVILNSLEPLWITKAMINYQFEIVQPL
+VFRIYDVDTKYHNTPVKMLNLAQQDFLGEAFCNLSEIVTKFNHSLTLNLRNGSGHALQGT
+mTVHAEETASSRMAVEMTFHCLNLDNKDTFSKSDPFLRVSRLSESAVAIPICKTEVIkNN
+LNPVWRPITLTSQQYSSKDNPLLVECFDFDASGDHELIGALQTTIAQLENLYNSKAGANF
+YSHKGQKKLKGQLFLDKFQEKVQHTFLDYISSGFELNFMVAVDFTASNGDPRvPQSLHYI
+DPSGRPNSYQQAILGVSEVLQFYDnDRRFPAWGFGAKiPQGsVSHCFNLNAsTNDCEVVG
+VEGIMSAYSSTLYSVSLAGPTLFGPVINKAAEIASHSvQYGNNKYFVLLIITDGVITDiQ
+ETKDSIVRASDLPLSILIVGVGNADFTQMRILDADnGKRLESSTGRVATRDIVQFVPMRE
+VQGGQVTVVQSLLEELPGQFLEYMRTRGIKPRPPQHASAPPAYPPPPQL
+
+
+BOP CONSENSUS:
+Length: 591 aa
+
+MGGCFSGDVRGGMEAVGGGGtGAAAGgqGQGQGGPNEAVDHFFQGhGLRGLYTPLELSFS
+ASKLRNMDALSKSDPMLVVYTKMDGRLEEIGRTEVILNSLEPLWITKAMINYQFEIVQPL
+VFRIYDIDTKYHNTPVKMLNLAQQDFLGEAFCNLSEIVTKFNHSLTLNLRNGSGHALQGT
+VTVHAEETASSRMAVEMTFHCLNLDNKDTFSKSDPFLRVSRLSESAVAIPICKTEVIkNN
+LNPVWRPITLTSQQYSSKDDPLLVECFDFDASGNHELIGALQTTIAQLENLYNSKAGANF
+YSHKGQKKLKGQLFLDKFQEKVQHTFLDYISSGFELNFMVAVDFTASNGDPRtPQSLHYI
+DPSGRPNSYQQAILGVSEVLQFYDNDRRFPAWGFGAKIPQGSVSHCFNLNASTNDCEVVG
+VEGIMSAYSSTLYSVSLAGPTLFGPVINKAAEIASHSVQYGNNKYFVLLIITDGVITDeQ
+ETKDSIVRASDLPLSILIVGVGNADFTQMRILDADfGKRLESSTGRVATRDIVQFVPMRE
+VQAGGQVTVVQSLLEELPGQFLEYMRTRDIKPRPPQHASAPPAYPPPPPQL
+
+
+PACMAD CONSENSUS:
+Length: 592 aa
+
+MGGCFSVdGDVRGGMEAVGGGGGGRSqGGAAASAQQGGPNDAVDYFFQTRGLRGLYTPIE
+LSFSASKLRNMDAFSKSDPMLVVYTNIKGKLEEIGRTEVILNSLEPSWITKVTMSYQFEI
+VQPLIFRIYDVDTKYHNTPVKMLNLSQQDFLGEACCNLSEIVTKFNHSLTLNLRSDCGHG
+LHGTITVHAEESDSSRMAVEMTLRCLNLENKDVFSKSDPFLRISKLVETAGPIPICKTEV
+VPDNLNPVWRPITLTSQQYGSKDNPLLVECFDFNSSGDHELIGAFQTTITQLENLYTSKS
+GANFYSHKGQRKMKGQLFVDKLQETVQHTFLDYISSGFELNFMVAVDFTASNGDPRVPQS
+LHYIDPSGRPNSYQQAILGVGEVLQFYDTDRRFPAWGFGARTQGHVSHCFNLNTATNDCE
+VVGVEGIMSAYTSSLYSVSLAGPTMFGPVINKAAEIASQSLQYSNNKYFVLLIITDGVLT
+DIQETKDCIVRASDLPLSILIVGVGNADFKQMEILDADNGKRLESSTGRIATRDIVQFVP
+MREVQGGEISVVQSLLEELPGQFLQYMRTRGIKPQQQqaPGLASAPVYPPQQ
+
+================================================================================

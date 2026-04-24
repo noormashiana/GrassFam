@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM005246
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             707.0 aa
+Family Size (Extended Family Size): 18 (18) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11801:SF43
+Panther Family ID:               PTHR11801
+Modal Panther ID:                PTHR11801:SF43
+Modal Panther Description:       SIGNAL TRANSDUCER AND TRANSCRIPTION ACTIVATOR
+Modal Panther Family ID:         PTHR11801
+Modal Panther Fam Desc:          SIGNAL TRANSDUCER AND ACTIVATOR OF TRANSCRIPTION
+Interpro Signature Accession:    G3DSA:3.30.505.10:FF:000086; PTHR11801
+Interpro Signature Description:  SH2 domain protein B; SIGNAL TRANSDUCER AND ACTIVATOR OF TRANSCRIPTION
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: SH2 domain-containing protein A%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: SH2 domain-containing protein A-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: SH2 domain-containing protein B%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: SH2 domain-containing protein B-like%2C transcript variant X1
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: SH2 domain-containing protein A-like%2C transcript variant X1
+  Gene Descriptions: SH2 domain-containing protein A-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: SH2 domain-containing protein A%2C transcript variant 1
+  Gene Descriptions: SH2 domain-containing protein A
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau21
+  Gene Products: SH2 domain-containing protein A-like%2C transcript variant X1
+  Gene Descriptions: SH2 domain-containing protein A-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: SH2 domain-containing protein B-like; SH2 domain-containing protein B-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: SH2 domain-containing protein B-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: uncharacterized LOC8059855%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 705 aa
+
+MAAPAECGGsDGYRDLRDVRVELDPGkARGGGGGGFAVCFWLYLSsSARPSSVILHQITA
+GDGNKLPFLALGEGNKLLLFPLLRLHKEAPspsSSYPWTDTTNLSsVNECPLEKWFHIGC
+EVTENVMRLHIDGDLVAEAHLCSLSsEPDnQDDANQIsLVGNdgKlEGYVYNIEVSSVLG
+TIQEQYAKNPPFKLSIDYSCSDGIEEGDDGIWnIVGGKASCRRNFILEVVLTNAFGEPvK
+DkEIVASLVYADNGAVVEKSRDDSEPPLLItCEGLEYPAiSRPLPIIRGRALFKLKISQL
+SSKCDNKLFRIyFSTLHMRRYPFLEAYSKPIRCISRgRTsRPLGsGKRvSSATvDEIhLL
+NNGQGFvraGKVNGrshSHDQSSVvCLHPSKFlKiEGDGVETHKMVSQNKqARKMVVSKE
+AQsVMrTDStTSDyDSfDAGSSWSGSDgDEVETFSDAvIFRYCLDGTYERSKFLRGAApS
+vNkDDLvKLANQVSLYSGCSHHRNQILISKQLLrEGADTWSmISKNNERALWSSAVPEIm
+tKFMDIAHStNRGLSEQDLEVLRGIAGCGdDIGRDEFDRLWYWLYPVAVSLSKDKINkLW
+DCTaPrWIEGLITiEEAENALRSSRELLKkPGTFVLRFPTTRSWPHPDAGSLVVTYVGSD
+NSIHHRLLSLDsSDArAGNLQDLLLQEPELSQLGRVDRLPTAMRr
+
+
+BOP CONSENSUS:
+Length: 710 aa
+
+MAAPAEPGGIEGYLGLRDVRVELDLGKARGGGEGGAGAGGGFAVCFWLYLSGSARPSPVI
+LHQITAGDGNKLPFLALSEGNKLLLFPLLRLHKQAPSSSNSSPWTDTTYISAVNECPLEh
+WIHIGCEVTENVMRLHIDGDLVAEAHLCSLSSQPDNQDDAYQVCLLGNNgKVDGYVYNiQ
+VLSMLGTIQEQYAENPPSKLSIDYSCCDGIEEGDDGIWCIVGGKASCRRNFMLEVVLTNA
+FGEHmNKDTQIVASLVYADNGALVEKSRDDAEPPLLIACEGLEYPAESRPLPILRGRALF
+KLKISQLSSKCDNKLFRIYFSTLHtRKYPFLEASSKPIRCISRGRPSRPLGAAKRTSSAT
+VDEIHLlNNGQGLDRDGKANACSLSHDQSSVvCLHPSKFLKVEGDGtETHKMVSQQSKQA
+RKMVVEAQSVRTESTMSDSDSIDARSSWSGSDKDEVETFSDAMIFRYCLEGTYERSTFLK
+GAASSINVDDLITLANEVSLYSGCSHHRNQILISKQLLEEGAVTWSIISKNKERALWSSA
+VPEIMAKFMDIAHSTNRGLSEQDLEVLRGIAGCGDDLGRNEFDRLWYWLYPVAVSLSKDK
+INsLWGCTAPvWIEGLITTEEAENALRSSRELLKKPGTFVLRFPTTRSWPHPDAGSLVVT
+YVGSDNSIHHRLLSLDVSDARAGSLQDLLLQEPELLQLGRVDRLPTAMKY
+
+
+PACMAD CONSENSUS:
+Length: 710 aa
+
+MAAPESECGGSDGYRDLRGVRVELDPGTARVGGGGGFAVCFWLYLSSSARPSSVILHQIT
+AGDDNKLPFLALGEGNKLLLFPLMRLHREAPGPASSYPWTDTTNLSSTSECPLEKWFHIG
+CEVTENVMRLHVDGDLTAEAHLCSLSDEPDHQDDANQISLVGSDGKLEGYmYNIEVSSVL
+GTIQEQYAKNPPFKLSIDYSCSDGIEEGDDGIWNIVGGKASCRRNFILEVVLINAFGEPV
+KDKEVVASLVYADNGTVVEKSRDDSEPPLLITCEGLEYPAISRPLPIIRGRALFKLKISQ
+LSSKCDNKLFRIQFSTLHMRRYPFLEAYSKPIRCISRNRTIRPLGSGKRVSSATADETDL
+LNNGQGFVNADKVNGRLHSHGQSSVvClHTPMFPKIEGDGMAKVVETNKMVSQNKHARKM
+VVSKEAQNVMGTDSSTSNYDSFDSGSSWSGSDGDDVETFSDAVVFRYCLDSTYDRSKFLR
+GAAPTVNKDDLVKLADQVSLYSGCSHHRNQILMSKRLLREGADTWSMISKNNERALWSSA
+IPEIITKFMDIAHSVSRGLSEQDLEVLRGIAGCGEDIGRDEFDRLWYWLYPVAVSLSRDK
+IKKLWDCTtPRWIEGLITIEEAENALRSSKELLKEPGTFVLRFPTTRSWPHPDAGSLVVT
+YIGSDNSIHHRLLSLDSSDASAENLQDLLLQEPELSQLGRVDRLPTAIRR
+
+================================================================================

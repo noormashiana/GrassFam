@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM006172
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             412.0 aa
+Family Size (Extended Family Size): 17 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13604:SF0
+Panther Family ID:               PTHR13604
+Modal Panther ID:                PTHR13604:SF0
+Modal Panther Description:       ABASIC SITE PROCESSING PROTEIN HMCES
+Modal Panther Family ID:         PTHR13604
+Modal Panther Fam Desc:          DC12-RELATED
+Interpro Signature Accession:    G3DSA:3.90.1680.10; PTHR13604; PF02586; SSF143081
+Interpro Signature Description:  -; DC12-RELATED; SOS response associated peptidase (SRAP); BB1717-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: embryonic stem cell-specific 5-hydroxymethylcytosine-binding protein
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: abasic site processing protein HMCES%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: abasic site processing protein HMCES
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: abasic site processing protein HMCES-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola11
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: uncharacterized LOC127777751%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127777751
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC4341015
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 1
+  Modal chromosome: Pau19
+  Gene Products: uncharacterized LOC133900918%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC133900918
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi09K
+  Gene Products: abasic site processing protein HMCES-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: embryonic stem cell-specific 5-hydroxymethylcytosine-binding protein%2C transcript variant X1
+Msi
+  Gene count: 1
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: embryonic stem cell-specific 5-hydroxymethylcytosine-binding protein
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: uncharacterized LOC100277594%2C transcript variant X1
+  Gene Synonyms: GRMZM2G139882
+  Gene Descriptions: uncharacterized LOC100277594
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 416 aa
+
+MCGRARCTLSAAQAARAFGFPTTtAAAGgGGGDGGGDAPAVPTLqmDRFRPSYNVsPGAY
+LPVGTVRARPAGGDGGGGAEGeGPVIQCMKWGLVPSFTGKTEKPDHFRMFNARSESVKEK
+ASFRRLIPKNRCLVAVEGFYEWKKDGSKKQPYYIHFQDhRPLVFAALFDTWTNSEGETlH
+TFTILTTRASTSLKWLHDRMPVILGDkDSVNAWLNdASVKLEEITVPYEGaDLVWYPVTt
+AMGKTSFDGPECIKEVkiGPSEKPISkFFTKKSaAHDQSVKpEKtSqEfAETqAFRAAKe
+ECDESvENQpeKtnQQQsrEKQtTsStVKDEPVTLEPQVFyKAeSIKkEDtMLtDdTieK
+QDdFGiKRKIEDtEVeAEMKMEKSGRSPvqPvtKKEKGPKAASDGQASLLSYFAKK
+
+
+BOP CONSENSUS:
+Length: 414 aa
+
+MCGRARCTLSAAQAARAFGFPTTTSArplGGGGGDGGGDAPAVRTLQMDRFRPSYNVTPG
+AYLPVGTLRARAAGGEGGGGAEEQGPVIQCMKWGLVPSFSSKTDKPDHFRMFNARSESIK
+EKASFRRLIPKNRCLVAVEGFYEWKKDGSKKQPYYIHFQDERPLVFAALFDTWTNSEGET
+LHTFTILTTHVSTSLKWLHDRMPVILGDEDSVNAWLNNSSVKLEEITVPYEGTDLVWYPV
+TTAMGKTSFQGPDCIKEVKIGPSEKPISNFFTKKAAaPVKSEKASGEfAETQAFKTAKEE
+cDDDSGENPLNKTEQqHQAEKQdAStVVKDEPVTLDPQdFYKADEGIKKEDGMLPDDPVQ
+KRDPFsIKRKIEDAGVEAEMEMEKSGRSPVtPvRKKEKGPKDGQASLFSYFAKK
+
+
+PACMAD CONSENSUS:
+Length: 411 aa
+
+MCGRARCTLSPAQAARAFGFPTTSAnAGGGGDAPAVPTLHLDRFRPSYNVSPGAYLPVGT
+VRARPAGGDGGRGADGEGPVIQCMKWGLVPSFTGKTEKPDHFRMFNARSESVKEKASFRR
+LIPKNRCLVAVEGFYEWKKDGSKKQPYYIHFQDHRPLVFAALYDTWTNSEGEIiHTFTIL
+TTRASTSLKWLHDRMPVILGDKDSVNAWLNDASVKLEEITAPYEGADLVWYPVTSAMGKT
+SFDGPECIKEVHMGPSEKPISKFFTKKSTAHDQSGKPEKTSrELAETHAyRAAKVECDES
+VENQPEDVNQQQSrEKQTTnSTVKDEPVTLEPQVFgKPwSIKHEDTMTSTDATIeKQDDL
+GfKRKIKDTEVkAEMKMENSGWSPSQPTKKEKGvKAASDGQASLLSYFARK
+
+================================================================================

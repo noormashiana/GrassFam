@@ -1,0 +1,127 @@
+================================================================================
+GrassFam ID: GFAM011869
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             410.0 aa
+Family Size (Extended Family Size): 24 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR13890
+Modal Panther ID:                PTHR13890:SF34
+Modal Panther Description:       MAGNESIUM TRANSPORTER MRS2-E
+Modal Panther Family ID:         PTHR13890
+Modal Panther Fam Desc:          RNA SPLICING PROTEIN MRS2, MITOCHONDRIAL
+Interpro Signature Accession:    cd12823; G3DSA:2.40.128.330:FF:000001; G3DSA:1.20.58.340; PTHR13890
+Interpro Signature Description:  Mrs2_Mfm1p-like; Magnesium transporter MRS2-1; Magnesium transport protein CorA, transmembrane region; RNA SPLICING PROTEIN MRS2, MITOCHONDRIAL
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: magnesium transporter MRS2-E%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu03H
+  Gene Products: magnesium transporter MRS2-E-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: magnesium transporter MRS2-E%2C transcript variant X1
+Tae
+  Gene count: 6
+  Modal chromosome: Tae03A
+  Gene Products: magnesium transporter MRS2-E-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: magnesium transporter MRS2-E
+  Gene Descriptions: magnesium transporter MRS2-E
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: magnesium transporter MRS2-E-like
+  Gene Synonyms: MRS2-E,OsJ_04219,OsMGT1
+  Gene Descriptions: magnesium transporter MRS2-E-like
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: magnesium transporter MRS2-E-like; magnesium transporter MRS2-E-like%2C transcript variant X1
+  Gene Descriptions: magnesium transporter MRS2-E-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: magnesium transporter MRS2-E-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: magnesium transporter MRS2-E-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: magnesium transporter MRS2-E%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 414 aa
+
+MERRQPqiAPaPPVtRRKGAAASREWLVVPAAGEpRtgEFGKHRIMEMTGLPARDLRVLD
+PlLSYPSTILGRDRAVVVNLEHVKAIVTAAEVLVrDPSNPLLRPFLqeLHARLALPDASS
+TnPATDRsNETEQGDQGNvPtVALCRaGSAKIpPFEFKVLEVCLEHTCKCLESETLALEK
+EAYPALDELTSKVSTLNLEHVRQIKSRLVeLSGRVQKVRDEIEHLLDDDmDMSEMYLTRK
+LAFQGfnESLgrVDSNKhASpDHDeEKEEEDrDDETESgRESSAYVKPDVEELEMLLEAY
+FVQiDGTLNKLYHLREYVDDTEDYINIMLDEKQNQLLQMGVMLTTATVVVTAGIVVVSLF
+GMNIHIELMKDPETPEMARIKNMKFWETTWGTVAGCaAIYLLAIYAGKKSKILQ
+
+
+BOP CONSENSUS:
+Length: 408 aa
+
+MERRQPQiAPaPPVSRRKAAAAASQEWLVVPAAGEeRaGEFGRHRIMEMTGLPARDLRML
+DPLLSYPSTILGRDRAIVVNLEHVKAIVTAAEVLVRDPsNPRLRPFLQELHARLALPDAs
+TTNPATDDmELGGDQGNVPmPGSAKIqPFEFKVLEVCLEHTCKCMESETlALEKEAYPAL
+DKLTSKVSTLNLEHVRQIKSRLVELSGRVQKVRDDIEHLLDDDTDMSEMYLTRKLAFQGV
+NESSVkVDSNKHASPDHDDEKEEEDSGDDTESSHeSSAyVKPDVEELEMLLEAYFVQFDG
+TLNKLCHLRDYVDDTEDYINmMLDEKQNQLLQMGVMLTTATVVVTAGIVVVSLFGMNIHI
+ELMlDPETPEMARIKNMKFWETTWGTVAGCAAIYLLAIYAGKKSKYLQ
+
+
+PACMAD CONSENSUS:
+Length: 411 aa
+
+MERKQPPPpvPvTRRKGAAPSRKWLVVPAAGEPReAELGKHRIMEMTGLPTRDLRVLDPD
+LsSPSTILGRERAVVVNLEHVKAIVTAtEALVLDSSNPLLgPFLKDLHARLASPDVSSTS
+SATDRSNETDQGEGNGPTVALCRAGSVKILPFEFKVLEVCLEHTCKCLESETLALEKEAY
+PALDELTSKVSRLNLEHVRhIKNRLVALSGRVQKVRDELEHLLDDDMDMSEMYLTRKLTF
+QGFtETLGRVDSNKDASTDHDEEKEEEDRDDETETGRESSAYVKPDIEELEMLLEAYFVQ
+IDGTLNKLYNLREYVDDTEDYINIMLDEKQNQLLQMGVLLTTATVVVTAGIVVVSLFGMN
+IHIELMKDPETDEEARIKNmKFWETTCGTVAGCLAIYLLAIYAGKRSKILH
+
+================================================================================

@@ -1,0 +1,145 @@
+================================================================================
+GrassFam ID: GFAM021011
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             626.0 aa
+Family Size (Extended Family Size): 25 (30) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11952:SF9
+Panther Family ID:               PTHR11952
+Modal Panther ID:                PTHR11952:SF9
+Modal Panther Description:       UDP-SUGAR PYROPHOSPHORYLASE
+Modal Panther Family ID:         PTHR11952
+Modal Panther Fam Desc:          UDP- GLUCOSE PYROPHOSPHORYLASE
+Interpro Signature Accession:    cd06424; G3DSA:3.90.550.10:FF:000091; G3DSA:2.160.10.30:FF:000001; G3DSA:2.160.10.30; G3DSA:3.90.550.10; PTHR11952; SSF53448
+Interpro Signature Description:  UGGPase; UDP-sugar pyrophosphorylase; -; Spore Coat Polysaccharide Biosynthesis Protein SpsA; Chain A; UDP- GLUCOSE PYROPHOSPHORYLASE; Nucleotide-diphospho-sugar transferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: UDP-sugar pyrophosphorylase
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: UDP-sugar pyrophosphorylase
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: UDP-sugar pyrophosphorylase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: UDP-sugar pyrophosphorylase; UDP-sugar pyrophosphorylase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: UDP-sugar pyrophosphorylase
+  Gene Descriptions: UDP-sugar pyrophosphorylase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: UDP-sugar pyrophosphorylase-like
+  Gene Synonyms: OsJ_021664,P0596H10.4,USP
+  Gene Descriptions: UDP-sugar pyrophosphorylase-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau08
+  Gene Products: UDP-sugar pyrophosphorylase; UDP-sugar pyrophosphorylase-like
+  Gene Descriptions: UDP-sugar pyrophosphorylase; UDP-sugar pyrophosphorylase-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: UDP-sugar pyrophosphorylase; UDP-sugar pyrophosphorylase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: UDP-sugar pyrophosphorylase%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: UDP-sugar pyrophosphorylase
+Zma
+  Gene count: 3
+  Modal chromosome: Zma05
+  Gene Products: UDP-sugar pyrophosphorylase; uncharacterized LOC100285949
+  Gene Synonyms: GRMZM2G116586; GRMZM2G161493,TIDP2982
+  Gene Descriptions: UDP-sugar pyrophosphorylase; uncharacterized LOC100285949
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 629 aa
+
+MASGADAAAaGVAALGISGGgGEWAaACPPLRRNLqLLAPDEVELAKMLLNEGQmHLFEH
+WPEPGVDDDKKRgFFDQVRRLNSSYPGGLvSYIQNAKKLLADSKAGKNPYDGFTPSVPSG
+EVLTFGDDNFVSLEAAGVKEARNAAFVLVAGGLGERLGYKGIKVALPRETTTGKCFLQHY
+IESILALQEASCKMVEgGCHTKIPFVIMTSDDTNALTIKLLESNSYFGMEPSQVKILKQE
+KVACLADNDARLALDPNDKYKIQTKPHGHGDVHSLLYSSGLLEQWKStGRKWVLFFQDTN
+GLLFNAIPSALGVSATKGYNVNSLAVPRKAKEAIGGITKLTHVDGRTMVINVEYNQLDPL
+LRATGHPDGDANCETGYSPYPGNINQLILELGPYIEELKKTHGAISEFVNPKYTDSTKTA
+FKSSTRLECMMQDYPKTLPPSAKVGFTVMDTWLAYAPVKNNPEDAAKVPKGNPYHSATSG
+EMAIYRANSLILRKAGAQIADPVVDTFNGQEVEVWPRITWSPRWGLTFKDVKEKVHGNSS
+VSQRSALVINGRNIFLEGLSLDGTLIVNAVDEAEVKVTGHVENKGWTIQHVDYKDTSEKE
+EIRIRGFKFEKVEQLEVNYTEPGKHSLSA
+
+
+BOP CONSENSUS:
+Length: 628 aa
+
+MASGVHAAAEGVAALGISAGGGEWAEPCPALRRNLhLLSHDQVELAKMLLNEGQGHLFEH
+WPEPGVDDDKKKNFFDQVcRLNSSYPGGLASYIQNAKKLLADSKAGQNPYDGFTPSVPSG
+EVLTFGDDNFVSLEAAGVKEARNAAFVLVAGGLGERLGYKGIKVALPRETTTGKCFLQHY
+IESILALQEASCKMEGECHTKIPFVIMTSDDTNALTIKLLESNSYFGMEPSQVKILKQEK
+VACLADNDARLALDPNDKYKIQTKPHGHGDVHSLLYSSGLLEQWKSTGRKWVLFFQDTNG
+LLFNAIPSALGVSATKGYNVNSLAVPRKAKEAIGGITKLTHVDGRTMVINVEYNQLDPLL
+RATGHPDGDANCETGYSPYPGNINQLILELGPYIEELKKTHGAISEFVNPKYTDSTKTAF
+KSSTRLECMMQDYPKTLPPTAKVGFTVMDAWLAYAPVKNNPEDAAKVPKGNPFHSATSGE
+MAIYRANSLILRKAGAQISDPVvSTFNGQEVEVWPRITWSPRWGLTFKDVKrKVHGNSSV
+SQRSVLVINGrNIVIDGLSLDGALIVNSVDEAEVKVTGHVENKGWTIQHVDHKDTSEKEE
+TRIRGFKFEKVEQLEVNYTEPGKHCLSP
+
+
+PACMAD CONSENSUS:
+Length: 628 aa
+
+MASGADAAAAGVAALGISGDGEWAAACPPLRRNLQLLAPDEVELAKMLLNEGQmHLFEHW
+PEPGVDDDKKRGFFDQVRRLNSSYPGGLVSYIQNAKKLLADSKAGKNPYDGFTPSVPSGE
+VLTFGDDNFVSLEAAGVKEARNAAFVLVAGGLGERLGYKGIKVALPRETTTGKCFLQHYI
+ESILALQEASCKMVDDGCHTKIPFVIMTSDDTNALTIKLLESNSYFGMEPSQVKILKQEK
+VACLADNDARLALDPNDKYKIQTKPHGHGDVHSLLYSSGLLEQWKSEGRKWVLFFQDTNG
+LLFNAIPSALGVSATKGYNVNSLAVPRKAKEAIGGITKLTHVDGRTMVINVEYNQLDPLL
+RATGHPDGDANCETGYSPYPGNINQLILELGPYIEELKKTHGAISEFVNPKYTDSTKTAF
+KSSTRLECMMQDYPKTLPPSAKVGFTVMDTWLAYAPVKNNPEDAAKVPKGNPYHSATSGE
+MAIYRANSLILRKAGAQIADPVVDTFNGQEVEVWPRITWSPRWGLTFKsVKEKVHGNSSV
+SQRSALVINGRNIFLEGLSLDGTLIVNAVDEAEVKvTGHVQNKGWTIQHVDYKDTSEKEE
+IRIRGFKFEKVEQLEVNYTEPGKHSLSA
+
+================================================================================

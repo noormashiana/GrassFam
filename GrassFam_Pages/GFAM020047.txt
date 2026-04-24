@@ -1,0 +1,112 @@
+================================================================================
+GrassFam ID: GFAM020047
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             349.0 aa
+Family Size (Extended Family Size): 47 (48) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR11783
+Modal Panther ID:                PTHR11783:SF317
+Modal Panther Description:       SULFOTRANSFERASE
+Modal Panther Family ID:         PTHR11783
+Modal Panther Fam Desc:          SULFOTRANSFERASE  SULT
+Interpro Signature Accession:    G3DSA:3.40.50.300; PTHR11783; PF00685; SSF52540
+Interpro Signature Description:  -; SULFOTRANSFERASE  SULT; Sulfotransferase domain; P-loop containing nucleoside triphosphate hydrolases
+
+
+REXdb Match:                     False
+REXdb Percentage:                2.13%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi02
+  Gene Products: cytosolic sulfotransferase 13; cytosolic sulfotransferase 5
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 7
+  Modal chromosome: Hvu07H
+  Gene Products: cytosolic sulfotransferase 13-like; cytosolic sulfotransferase 16-like; cytosolic sulfotransferase 17-like; cytosolic sulfotransferase 17-like%2C transcript variant X2; cytosolic sulfotransferase 5-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata01D
+  Gene Products: cytosolic sulfotransferase 3-like; cytosolic sulfotransferase 5
+Tae
+  Gene count: 12
+  Modal chromosome: Tae07B
+  Gene Products: cytosolic sulfotransferase 10-like; cytosolic sulfotransferase 12-like; cytosolic sulfotransferase 12-like%2C transcript variant X1; cytosolic sulfotransferase 13-like; cytosolic sulfotransferase 16-like; cytosolic sulfotransferase 17-like; cytosolic sulfotransferase 5-like
+Ola
+  Gene count: 6
+  Modal chromosome: Ola11
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl11
+  Gene Products: cytosolic sulfotransferase 12-like%2C transcript variant X1; cytosolic sulfotransferase 5-like
+  Gene Descriptions: cytosolic sulfotransferase 12-like; cytosolic sulfotransferase 5-like
+Osa
+  Gene count: 4
+  Modal chromosome: Osa11
+  Gene Products: cytosolic sulfotransferase 10; cytosolic sulfotransferase 12; cytosolic sulfotransferase 5
+  Gene Descriptions: cytosolic sulfotransferase 10; cytosolic sulfotransferase 12; cytosolic sulfotransferase 5
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu02
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi05K
+  Gene Products: cytosolic sulfotransferase 5-like
+Msi
+  Gene count: 4
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 4
+  Modal chromosome: Sbi05
+  Gene Products: cytosolic sulfotransferase 10; cytosolic sulfotransferase 10-like; cytosolic sulfotransferase 5
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 345 aa
+
+mdegnraMAaSgDaDmAeLvIsSLPLETRCPPFPLRQYGGFWLPEpfLPGVaAaHARFEP
+RPSDVFLASFPKSGTTWLKALAFATLNRAdHPPsdpDHPLRRRNPHDCVeFLElpfALSp
+taGDVFAALPSPRVLATHLPYSLLPeRITAEGSGCRIVYICRDPKDALVSsWlFTKKtmA
+AAAAnAgngeePPPpPyTiEEAFELFCDGRCvgGPQWhHVlGYWEASRRRPEKVLFLRYE
+EMLRDPVgNVRKLAEFMGCAFSGEEEAAGVvrDIVELCSlDtLKNmEVNKsGtQnlvKNE
+SFFRKGVAGDWSNHMTPAMAARLDkIVEDALQGSGFTFaaaapsa
+
+
+BOP CONSENSUS:
+Length: 339 aa
+
+MasMAASgDdDmAELvIsSLPLETRCPPFPLRQYGGFWlPEpfLPGVaAArARFEPRPSD
+VFLASFPKSGTTWLKALAFATLNRAdHPPrglDHPLRRRNPHDCVeFLEtpfAlSptgDV
+FAALPSPRVLATHLPYSLLPeRITAEGSGCRIVYICRDPKDALVSsWlFTKKamAAAAAn
+AgNgeePPppfTiEEAFELFCDGRCpgGPQWhHVlGYWEASRRRPEKVLFLRYEEMLRDP
+VGNVRKLAEFMGCAFSGEEEAAGVvrDIVELCSlDtLKNMEVNKsGtQnyvKNESFFRKG
+VAGDWSNHMTPAMAARLDkIVEDALQGSGFTFaaaAEst
+
+
+PACMAD CONSENSUS:
+Length: 361 aa
+
+MTTTGPPTDDDPVEGrsswvAAnADMAKLIPSLPLETRCPPFLLRQLsGFWLPEMILPGV
+AAVHARFEPRPDDVFLASFPKSGTTWLKALAFATLNRArHPPSDPgHPLRLrSQHECVSF
+FELPLALAGDSRPPkEhVFAALPSPRVLATHLPYHLLPERVVAgSsGCRVVYVCRDPKDA
+LVSGWvFTKKTtATTAKAAAGEAPPPPPYPLEsAFELFCeGRCVGGPQWLHVLGYWEASR
+RRPDKVLFLQYEEMLRDPAtNVRRLAEFLsCPFSGEEEAAGTVGAVVELCSLGSLrGsKG
+NRSGTTiLsIDNGsFFRKGAAGDWRNHLSPEMAARLDqIVggALQGSGLTFGGAAnAsvS
+A
+
+================================================================================

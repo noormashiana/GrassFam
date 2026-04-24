@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM019298
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             435.5 aa
+Family Size (Extended Family Size): 22 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR22883:SF317
+Panther Family ID:               PTHR22883
+Modal Panther ID:                PTHR22883:SF317
+Modal Panther Description:       S-ACYLTRANSFERASE
+Modal Panther Family ID:         PTHR22883
+Modal Panther Fam Desc:          ZINC FINGER DHHC DOMAIN CONTAINING PROTEIN
+Interpro Signature Accession:    PTHR22883; PF01529
+Interpro Signature Description:  ZINC FINGER DHHC DOMAIN CONTAINING PROTEIN; DHHC palmitoyltransferase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: probable protein S-acyltransferase 6
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: probable protein S-acyltransferase 7
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: probable protein S-acyltransferase 7
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: probable protein S-acyltransferase 7
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl08
+  Gene Products: probable protein S-acyltransferase 7
+  Gene Descriptions: probable protein S-acyltransferase 7
+Osa
+  Gene count: 1
+  Modal chromosome: Osa08
+  Gene Products: probable protein S-acyltransferase 7
+  Gene Descriptions: probable protein S-acyltransferase 7
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN50
+Pau
+  Gene count: 2
+  Modal chromosome: Pau16
+  Gene Products: probable protein S-acyltransferase 7%2C transcript variant X3
+  Gene Descriptions: probable protein S-acyltransferase 7
+Svi
+  Gene count: 1
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: probable protein S-acyltransferase 7
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: probable protein S-acyltransferase 7
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: probable protein S-acyltransferase 7
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100274096; uncharacterized LOC100283500%2C transcript variant X1
+  Gene Synonyms: AY110290,GRMZM5G821611; GRMZM2G068657,IDP790
+  Gene Descriptions: uncharacterized LOC100274096; uncharacterized LOC100283500
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 440 aa
+
+MYVPpPSrGdGGrDAGEQPRVYQVWRGSNEFFLQGRFIFGPDVRSvFLTMFLIIAPVVvF
+CVFVARHLINDFPDsWGISVMVVVVVFTVYDLTLLLLTSGRDPGIIPRNTHPPEPESIDG
+sNDiGGQTPQQFRLPRTKEVvVNGISVRVKYCDTCMLYRPPRCSHCSICNNCVERFDHHC
+PWVGQCIGLRNYRFFYMFVFSTTLLCLYVFAFCWVYVIKIRDAEqLSIWKAMLKTPASIV
+LIIYCFLCVWFVGGLSVFHLYLMSTNQTTYENFRYRYDRRaNPYNRGILNNFLEIFCTAI
+PPSKNNFRARVTVEQGLQQTRSQSRGFMSPNMGKPVGDLEMGRKPVPWDEPRTAADIRDL
+EAGLGGMFDEKEGRvAHASPDLSRDELPAEfVEGRAGMHSRQSSWVqRaGTSESvEssAV
+QMApArEANGGNHVAtSGtr
+
+
+BOP CONSENSUS:
+Length: 440 aa
+
+MYVPRPSRSDGsRDAGEQPRVYQVWRGNNEFFLQGRFIFGPDARSIFLTMSLIvAPVVVF
+CVFVARHLINDFPDHCGISVMVVVVVFTVYDLTLLLLTSGRDPGIIPRNTHPPEPESIDG
+SNYIRGQTPQQLRLPRTKDVIVNGISVKVKYCDTCLLYRPPRCSHCSICNNCVERFDHHC
+PWVGQCIGQRNYRFFYMFVFSTTLICLYVFAFCWVYIIKIRDAEqLSIWRAMLKTPASIV
+LIIYCFLCVWFVGGLSVFHFYLMSTNQTTYENFRYRYDRRANPYNRGILNNILEIFCSSI
+PPSKNNFRARVTVEQGVQQARSSSRGFMSPNMGKPVGDLEMGRKPVPWDEPRTAADIGDL
+EVGLGGMLDEKEGRLTHASPDVSRDeLSpELVEGRAGMHSRrSSWDpRAGTSESVDSNSV
+QTAPAEEANGGGHVTTSGAH
+
+
+PACMAD CONSENSUS:
+Length: 434 aa
+
+MYVPPLPGGAAGEQPRVYQVWRGSNEFFLQGRFIFGPDVRSVFLTMFLIIAPVVtFCVFV
+ARHLMNDFPDSWGISVMVVAVVFTVYDLTLLLCTSGRDPGIIPRNTHPPEPESIDGINDt
+GGQTPQQFRLPRTKEVVVNGISVRVKYCDTCMLYRPPRCSHCSICNNCVERFDHHCPWVG
+QCIGLRNYRFFYMFVFSTTLLCLYVFAFCWVYVIKIRdAEQLSIWKALLKTPASIVLIIY
+CFLCVWFVGGLSVFHLYLMSTNQTTYENFRYRYDRRDNPYNRGILNNFLEIFCTAIPPSK
+NNFRARVTVEQGLQQTRSQSRGFMSPNMGKPIGDLEMGRKPVAWDEPRTAADIRDLEAGL
+GGMFDEKEGRIAHASPDLSRDELPAEFVEGRAGMHSRQSSWVQRaGDavEASAVQMAtAR
+taEgSNNVAwsGTR
+
+================================================================================

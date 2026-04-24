@@ -1,0 +1,117 @@
+================================================================================
+GrassFam ID: GFAM018015
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             500.0 aa
+Family Size (Extended Family Size): 21 (31) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR27006:SF614
+Panther Family ID:               PTHR27006
+Modal Panther ID:                PTHR27006:SF614
+Modal Panther Description:       PROTEIN KINASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR27006
+Modal Panther Fam Desc:          PROMASTIGOTE SURFACE ANTIGEN PROTEIN PSA
+Interpro Signature Accession:    cd21037; cd14066; G3DSA:1.10.510.10:FF:000384; G3DSA:3.30.200.20:FF:000466; G3DSA:1.20.930.20; G3DSA:3.30.200.20; G3DSA:1.10.510.10; PTHR27006; PF19584; PF00069; SM00220; SSF56112
+Interpro Signature Description:  MLKL_NTD; STKc_IRAK; G-type lectin S-receptor-like serine/threonine-protein kinase; Putative LRR receptor-like serine/threonine-protein kinase; -; Phosphorylase Kinase; domain 1; Transferase(Phosphotransferase) domain 1; PROMASTIGOTE SURFACE ANTIGEN PROTEIN PSA; MCAfunc domain; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: uncharacterized LOC100829732%2C transcript variant X2
+Tae
+  Gene count: 1
+  Modal chromosome: Tae06B
+  Gene Products: G-type lectin S-receptor-like serine/threonine-protein kinase B120%2C transcript variant X1
+Ogl
+  Gene count: 4
+  Modal chromosome: Ogl11
+  Gene Products: cysteine-rich receptor-like protein kinase 10; cysteine-rich receptor-like protein kinase 10%2C transcript variant X1; cysteine-rich receptor-like protein kinase 44
+  Gene Descriptions: cysteine-rich receptor-like protein kinase 10; cysteine-rich receptor-like protein kinase 44
+Ecu
+  Gene count: 3
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 1
+  Modal chromosome: Pau14
+  Gene Products: cysteine-rich receptor-like protein kinase 44
+  Gene Descriptions: cysteine-rich receptor-like protein kinase 44
+Svi
+  Gene count: 2
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi02N
+  Gene Products: cysteine-rich receptor-like protein kinase 10%2C transcript variant X1; cysteine-rich receptor-like protein kinase 25%2C transcript variant X1; receptor-like serine/threonine-protein kinase SD1-6
+Pha
+  Gene count: 3
+  Modal chromosome: Pha02
+  Gene Products: G-type lectin S-receptor-like serine/threonine-protein kinase RKS1%2C transcript variant X1; cysteine-rich receptor-like protein kinase 10; receptor-like serine/threonine-protein kinase SD1-6
+Msi
+  Gene count: 1
+  Modal chromosome: Msi10
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: cysteine-rich receptor-like protein kinase 15%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: cell number regulator 13-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 494 aa
+
+MDIAKLAGVDAVKLVvMIVQAAQTVRHNKKTCQQLVHHVQIIGDLLKKLQtSEMMQQPEI
+RNGLNeLEeILREAYMLVTSCQNNNYiYHLFMGgKQADQFRVLQNRInSCLQVFPLISHI
+DTTDRLDQILEIIRPPhSQAVreVPRLFtGCSScDtRTEVygeVKRrSLQlnCAgsLKFs
+LsQLVDATNNFSDgNqIGQGSFGCVYKGQLHDGLEVAVKRCFELPSSPNQLDVQDLEFQN
+EICFLTKLQHTNIVKLLGyCiQGrERILVYEYMsNGSLDtFIFGaRTrRLhLDWPTRSqI
+IKGVAEGLLYLHKHCGLHIIHGDLKPSNILLDSNMnPKISDFGLARtYSPGVDEEFADRI
+VGSIGFtAPECRERRLFSiKSDVYGFGALLLEIISGKRCFSLASGESDYGFLNKRAWhLW
+RAGRLIKFVDSPLGDESERmEILRCIQIALLCVEENPANRPTMQEVVLMLSCqdAALPtP
+QRPAYLRtEMvrtH
+
+
+BOP CONSENSUS:
+Length: 499 aa
+
+MDvAQPAGvDAVKLVvMIVQAAQTVRHNKKTCQQLVHRVQMIGDLLKKLQtSEKMRQPEI
+RSpLnVLEgILrEAYMLVKSCQNSSYvYQFLMGRKQADQFRVVQNRIDSYLLLFPLISHI
+DTADQLDQILNAIRPQtAEvVPRLLSGCStySATGCSSGDARIEVHCEVETISRQTGCTG
+SVKFYLSQLVDATESFSDGNQIGQGTFGCVYKGRLHDGLEVAVKRRFEVPSSRNQMDFQN
+LEFQNEICFLTKLQHTNVVKLLGYCIQGTERILVYEYMLNGSVDTFIFGARTRRLHLDWS
+TRSRIMKGVAEGLLYLHKHCGLHIVHGDLKPSNILLDSNMNPKISDFGLARRYSPGVDEE
+YADRILGSIGFIAPECRERRLFSTKSDVYGFGALVLEIISGKRCFSLvSGDDYGFLNKRA
+WyLWRTGRLIKLVDSPSvDELETREILRCIHIALLCVEENPANRPTMQEVVLMLSCQTAL
+LPKPRRPAYLRAEIVSTHP
+
+
+PACMAD CONSENSUS:
+Length: 493 aa
+
+MDIAKLAGVDAVKLVVMIVQAAQTVRHNKKTCQQLVHHVQIIGDLLKKLQtSEMMQQPET
+RNGLNeLEEILREAYMLVTSCQNNNYIYHLFMGkKQADQFRVLQNRiNSCLQVFPLISHI
+DTTDRLDQILEIIRPPHSQAVReVPRLFTGCSSCDTRTEVYGeVKRRSlQLNCAEaLKFS
+LtQLVDATNNFSDeNqIGQGSFGCVYKGQLHDGLEVAVKRCFDLPSSPNQLDVQDLEFQN
+EIcFLTKLQHTNIVKLLGDCmQGRERILVYEYMSNGSLDSFIFGmtSrrLHLDWPARSQI
+IKGVAEGLLYLHKHCGLHvIHGDLKPSNILLDSNMhPKISDFGLSRTYNPGVDEEFADRI
+VGSIGFTAPECRERRLFSIKSDVYGFGALLLEIISGhRCFSLASGESDHGFLNrRAWhLW
+RAGRLIKFVDSPLGDESERmEILRCIQIALLCVEENPANRPTMQEVVLMLSChdaALPmP
+QrPAYLRteMaRa
+
+================================================================================

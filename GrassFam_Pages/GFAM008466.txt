@@ -1,0 +1,131 @@
+================================================================================
+GrassFam ID: GFAM008466
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             486.0 aa
+Family Size (Extended Family Size): 33 (39) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24286:SF364
+Panther Family ID:               PTHR24286
+Modal Panther ID:                PTHR24286:SF364
+Modal Panther Description:       CYTOCHROME P450 FAMILY 718
+Modal Panther Family ID:         PTHR24286
+Modal Panther Fam Desc:          CYTOCHROME P450 26
+Interpro Signature Accession:    cd11043; G3DSA:1.10.630.10:FF:000022; G3DSA:1.10.630.10; PTHR24286; PF00067; SSF48264
+Interpro Signature Description:  CYP90-like; Taxadiene 5-alpha hydroxylase; Cytochrome P450; CYTOCHROME P450 26
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 3
+  Modal chromosome: Bdi01
+  Gene Products: cytochrome P450 716B1
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: cytochrome P450 716A1-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata02D
+  Gene Products: cytochrome P450 716B1%2C transcript variant X1; cytochrome P450 716B1-like
+Tae
+  Gene count: 1
+  Modal chromosome: Tae02D
+  Gene Products: cytochrome P450 716B1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: cytochrome P450 716A1-like
+  Gene Descriptions: cytochrome P450 716A1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: cytochrome P450 716A1
+  Gene Descriptions: cytochrome P450 716A1
+Ecu
+  Gene count: 8
+  Modal chromosome: EcuUN4
+Svi
+  Gene count: 2
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi08N
+  Gene Products: cytochrome P450 716A1-like; cytochrome P450 716B1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: cytochrome P450 716B1-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi05
+  Gene Products: cytochrome P450 716B1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: cytochrome P450 716A1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 486 aa
+
+MDAssatsvLAAAvAiLAAvvaSLPVLRLLfaSaGgkkrrkPLPPGSFGLPVVGQTLSLL
+RALRANTAEDWLRRwAAAYGPVSRLSLFGcPTAFLVGPSANKFlFtSaALTAKNSeSFSR
+MVGRRTIRDVVGDEHRRVRAMMVQFLKLDAVKRYVAsMDAEVRRHLDAeWRGRAtVAVMP
+SMKsLTFDVMCTVIFGLGRDaAVRRELSAEFQQLVRGIWAVPVNLPFTtFsRCLAASRRG
+RRAVAGVIeERRAKLERGESSPADDVvTHMLAEGLPDEEIIDNVMFLMVAAHDTTAALLT
+FLIRHLDANRDAYaKVVQEQEEIARSKAPGEALSWEDLGRMRYTWAAAMETLRLVPPVFS
+MLRKAVdDVEFGGYLIPKGWQVMyAmNMTHWDPAIFPEPGRFDPARFEsPSAIPPYsFVP
+FGGGARVCPGNEFARVETLVAVHYIVTRFRWKLAAGCDGSFSRFPLPYPSQGLLIDIEPI
+dtttts
+
+
+BOP CONSENSUS:
+Length: 485 aa
+
+MEMDASVLAALAAVILAsILLVLPhLRKQSsSQDrRRRQLPPGSFGLPVVGQTVGLLRAL
+RANTGEAWLRRWASeYGPVSRLSLFGvPTAFLVGPSANKFLFsSTALTAKtTtSFNSMVG
+RRNIRELvGDDHRRVRAMMVQFLKLDvVRSYVASMDDEVRHHLRAHWrGRATVAVMPSMK
+SLTFDIMCTVIFGLGRADHAAVRRELSAEFQQLVRGIWAIPVNLPFTTFGKCLAASRRGR
+RTVAaIIkEKRAKLERGeSSPSDDLMTHMLAEGLADEEIIDNVMFMMVAAHDTTAsLLTF
+LIRHLDGNRDAYgRVVAEQQEVARSKAPGEALSWDDLGKMKYTWSAAMETLRLVPPVFSn
+LKRAVEDVEFDGHLIPKGWQVMgAMNLTQWDPAIFPEPGRFEPARFESPIPPYSFVAFGG
+GARVCPGNEFARVETLVAMHYIVTGFKWKLADGCDGSFSRYPLPSPAQGLLIDIEPIDTT
+TTvAA
+
+
+PACMAD CONSENSUS:
+Length: 485 aa
+
+MDAssattmlAAAVAILAAvVASLPVLYRLLFAsAGgKktkKPLPPGSFGLPVVGQTLSL
+LRALRANTAEDWLRRrVAAYGPVSRLSLFGcPTAFLVGPSANKFiFTSaAlTtkNSESFS
+RMVGRRTIRDVVGDEHRRVRAMMmQFLRlDAVKRHVAaMDAEVRRHLDAEWRGRgAVAVM
+PSMKaLTFDVMSTVLFGLGRDaAVRRELSTEFQQLVRGIWAVPLNLPFTtFSRCLAASRR
+GRRAVAGVIQERRAKLERGESSPADDVVTHMLAEGLPDEEITDNVMFLMVAAHDTTAALI
+TFLLRHLDANKDAYdKVVQEQEEIARsKAPGEALSWEDLgRMRYTWAAAMETLRMVPPvF
+SMLRKTvdDVEYGGYLIPKGWQVMyAmNMTHWDPAIFPEPGRFDPARFEnPSAIPPFgFV
+PFGGGARVCPGNEFARVETLVAVHHIVTRFRWKLAAGCDGSFSRFPMPYPSQGLLIDIEP
+IqqtN
+
+================================================================================

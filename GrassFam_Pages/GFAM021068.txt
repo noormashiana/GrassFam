@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM021068
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             467.0 aa
+Family Size (Extended Family Size): 19 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43511:SF7
+Panther Family ID:               PTHR43511
+Modal Panther ID:                PTHR43511:SF7
+Modal Panther Description:       UTP--GLUCOSE-1-PHOSPHATE URIDYLYLTRANSFERASE 1
+Modal Panther Family ID:         PTHR43511
+Modal Panther Fam Desc:          FAMILY NOT NAMED
+Interpro Signature Accession:    cd00897; G3DSA:3.90.550.10:FF:000073; G3DSA:2.160.10.10:FF:000001; G3DSA:3.90.550.10; G3DSA:2.160.10.10; PTHR43511; PIRSF000806; PF01704; SSF53448
+Interpro Signature Description:  UGPase_euk; UTP--glucose-1-phosphate uridylyltransferase; Spore Coat Polysaccharide Biosynthesis Protein SpsA; Chain A; Hexapeptide repeat proteins; -; UDPGP; Nucleotide-diphospho-sugar transferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: UTP--glucose-1-phosphate uridylyltransferase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: UTP--glucose-1-phosphate uridylyltransferase-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: UTP--glucose-1-phosphate uridylyltransferase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: UTP--glucose-1-phosphate uridylyltransferase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: UTP--glucose-1-phosphate uridylyltransferase-like%2C transcript variant X1
+  Gene Descriptions: UTP--glucose-1-phosphate uridylyltransferase-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: UTP--glucose-1-phosphate uridylyltransferase
+  Gene Descriptions: UTP--glucose-1-phosphate uridylyltransferase
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau06
+  Gene Products: UTP--glucose-1-phosphate uridylyltransferase-like
+  Gene Descriptions: UTP--glucose-1-phosphate uridylyltransferase-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: UTP--glucose-1-phosphate uridylyltransferase-like; UTP--glucose-1-phosphate uridylyltransferase-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: UTP--glucose-1-phosphate uridylyltransferase-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: UTP--glucose-1-phosphate uridylyltransferase
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: uncharacterized LOC100382295
+  Gene Synonyms: GRMZM2G098370,si945020c09(283)
+  Gene Descriptions: uncharacterized LOC100382295
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 467 aa
+
+MADEKLAKLREAVAGLgQISDNEKSGFISLVSRYLSGDEEhIEWAKIHTPTDEVVVPYDT
+LEAPPEDLEATKKLLDKLAVLKLNGGLGTTMGCTGPKSVIEVRNGFTFLDLIVIQIESLN
+KKYGSNVPLLLMNSFNTHEDTLKIVEKYANSSIEIHTFNQSQYPRVVADEFLPWPSKGKT
+DKDGWYPPGHGDIFPSLMNSGKLDLLLSQGKEYVFIANSDNLGAIVDMKILNHLIHKQNE
+YCMEVTPKTLADVKGGTLISYEGRVQLLEIAQVPDAHVNEFKSIEKFKIFNTNNLWVNLK
+AIKRLVEADALKMEIIPNPKEVDGVKVLQLETAAGAAIRFFDHAIGINVPRSRFLPVKAT
+SDLQLVQSDLYTLVDGFVTRNSARTNPSNPSIELGPEFKKVGCFLGRFKSIPSIVELDSL
+KVSGDVWFGSGIVLKGKVTITAKPGVKLEIPDGAVIENKDINGPEDL
+
+
+BOP CONSENSUS:
+Length: 467 aa
+
+MADEKLAKLREAVAGLGQISDKEKSGFISLVSRYLSGNEEHIEWGKIHTPTDEVVVPYDT
+LAAPPEDLAATKALLDKLAVLKLNGGLGTTMGCTGPKSVIEVRNGFTFLDLIVVQIESLN
+KKYGSNVPLLLMNSFNTHDDTLKIVEKYANSNIQIHTFNQSQYPRVVADEFLPWPSKGKT
+DKDGWYPPGHGDIFPSLMNSGKLDLLLSQGKEYVFIANSDNLGAIVDMKILNHLIHKQNE
+YCMEVTPKTLADVKGGTLISYEGRVQLLEIAQVPDAHVNEFKSIEKFKIFNTNNLWVNLK
+AIKRLVEADALKMEIIPNPKEVEGVKVLQLETAAGAAIRFFDHAIGMNVPRSRFLPVKAT
+SDLQLVQSDLYTLVDGFVTRNsARTNPSNPSIELGPEFKKVGCFLGRFKSIPSIVELDSL
+KVSGDVWFGSGIVLKGKVTITAKPGVKLEIPDGKVIENKDINGPEDL
+
+
+PACMAD CONSENSUS:
+Length: 467 aa
+
+MADEKLAKLREAVAGLTQISENEKSGFLSLVARYLSGDEELIEWAKIHTPTDEVVVPYDT
+LESPPEDIEATKKLLDKLAVLKLNGGLGTTMGCTGPKSVIEVRNGFTFLDLIVIQIESLN
+KKYGSNVPLLLMNSFNTHEDTLKIVEKYANSSIEIHTFNQSQYPRVVADEFLPWPSKGKT
+DKDGWYPPGHGDIFPSLMNSGKLDLLLSQGKEYVFIANSDNLGAIVDMKILNHLIHKQNE
+YCMEVTPKTLADVKGGTLISYEGRVQLLEIAQVPDAHVNEFKSIEKFKIFNTNNLWVNLK
+AIKRLVEADALKMEIIPNPKEVDGVKVLQLETAAGAAIRFFDHAIGINVPRSRFLPVKAT
+SDLQLVQSDLYTLVDGFVTRNSARTNPSNPSIELGPEFKKVGCFLGRFKSIPSIVELDSL
+KVSGDVWFGSGIVLKGKVTITAKPGVKLEIPDGAVIENKDINGPEDL
+
+================================================================================

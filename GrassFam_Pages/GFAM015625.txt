@@ -1,0 +1,117 @@
+================================================================================
+GrassFam ID: GFAM015625
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             436.0 aa
+Family Size (Extended Family Size): 17 (60) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47967:SF68
+Panther Family ID:               PTHR47967
+Modal Panther ID:                PTHR47967:SF68
+Modal Panther Description:       OS07G0533000 PROTEIN
+Modal Panther Family ID:         PTHR47967
+Modal Panther Fam Desc:          OS07G0603500 PROTEIN-RELATED
+Interpro Signature Accession:    cd05476; G3DSA:2.40.70.10:FF:000033; G3DSA:2.40.70.10:FF:000051; G3DSA:2.40.70.10; PTHR47967; PF14543; PF14541; SSF50630
+Interpro Signature Description:  pepsin_A_like_plant; Aspartyl protease family protein; Putative aspartic protease; Acid Proteases; OS07G0603500 PROTEIN-RELATED; Xylanase inhibitor N-terminal; Xylanase inhibitor C-terminal; Acid proteases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: aspartic proteinase nepenthesin-1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: aspartic proteinase nepenthesin-1-like
+Tae
+  Gene count: 1
+  Modal chromosome: Tae02B
+  Gene Products: aspartic proteinase nepenthesin-1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 3
+  Modal chromosome: Ogl07
+  Gene Products: aspartic proteinase nepenthesin-1-like; aspartic proteinase nepenthesin-2-like
+  Gene Descriptions: aspartic proteinase nepenthesin-1-like; aspartic proteinase nepenthesin-2-like
+Osa
+  Gene count: 3
+  Modal chromosome: Osa07
+  Gene Products: aspartic proteinase nepenthesin-1; aspartic proteinase nepenthesin-2
+  Gene Descriptions: aspartic proteinase nepenthesin-1; aspartic proteinase nepenthesin-2
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi02N
+  Gene Products: aspartic proteinase nepenthesin-1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: aspartic proteinase nepenthesin-1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: aspartic proteinase nepenthesin-1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 437 aa
+
+MAstAAAlLTLALlIgLLPPITlAtDlHGFRATLTRiHQhPGNYSAAVRRDtHRLAFLSy
+AAAAGAaTTTtTsSsvsLQALVENGAGAYHMnLSIGTPPLTFPAIlDTGSDLiWTQCAPC
+TaCFAQPTPLYDPArSSTFSKLPCASPLCQaLPSpFRACNATGCVYDYRYgVGFTAGYLA
+TETLtVGDASFPGVAFGCSTANGGdMDsASGIVGLGRsPLSLVSQLGVGRFSYCLRSDAD
+AGASPILFGSLANVTGgnVQSTPLvrNPvaRRAPYYYVNLTGITVGATDLPVTsSTFGFT
+aaGAGGVIVDSGTTFTYLAeAGYAMVrQAFLSQTAGLLTRVSGAPFDFDLCFeAgGAGGg
+aVPVPRLVLRFAGGAEYAVPRRSYFDAVDEQGRVACLLVLPTrGVSVIGNVMQMDLHVLY
+DLDGGtFSFAPADCAsV
+
+
+BOP CONSENSUS:
+Length: 442 aa
+
+MASTAAAvLALvIvLLPPITLAnDlHGFRATLTRIHQLSPGKYSAAVRRDtHRLAFLSyA
+aAAGKTTTTnSsvslQALLENGAGAYNMNiSIGTPPLTFPVIlDTGSDLIWTQCAPCTeC
+FaQPAPlyQPAsSSTFSKLPCaSSLCQsLPSPFRTCNATGCVYdYrYGvGFTAGYLATET
+LTVGDAtFPgVAFGCSTENGVgDnsSGIVGLGRSPLSLVSQLGVGRFSYCLRSDSdAGAS
+PILFGSLAnVTGgNVQSTPFVrNPAVrRasYYYVNLTGITVGATDLPVTpSTFGFTrtGL
+gGGTIVDSGTTlTYLAKaGYAMVKQAFLSQTANrLTtVSGAPFDFDLCFkAtGgGGGdAV
+PVPsLVLRFAGGAEYAVPRRSYFdaVEvDSQGRVTVACLLVLPAtGDLSvSVIGNVMQMD
+LHvLYDLDGGmFSFAPADCAkV
+
+
+PACMAD CONSENSUS:
+Length: 433 aa
+
+MACKPVLLTLAAvvIGLLPPVTFATSPLGFRATLTRVHQYPGNYSAAARRDGRRLASLSN
+AAAGGArTSTTSSRGLLQALVENGAGAYHMTLSVGTPPLAFPAILDTGSDLTWTQCAPCT
+ACFAQPTPLYDPAASSTFSKLPCASPLCQALPSAFRACNATGCVYDYRYTVGFTAGYLAA
+DTLAlGDASFPGVAFGCSTANGGDMDGASGIVGLGRGALSLVSQLGVGRFSYCLRSDADA
+GASPILFGSLANVTGGrVQSTPLlQNPVARRAPYYYVNLTGITVGSTDLPVTSSTFGFTA
+AGAGGVIVDSGTTFTYLAEAGYAMVRQAFLSQTAGLLTVSGAQYDFDLCFAEAGAADVPV
+PRLVLRFAGGAEYAVPRRSYFDAVDERGSVACLLVLPTRGVSVIGNVMQMDLHVLYDLDG
+GTFSFAPADCASL
+
+================================================================================

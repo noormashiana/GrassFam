@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM017738
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             439.0 aa
+Family Size (Extended Family Size): 22 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31326:SF3
+Panther Family ID:               PTHR31326
+Modal Panther ID:                PTHR31326:SF3
+Modal Panther Description:       PROTEIN CLT3, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR31326
+Modal Panther Fam Desc:          PROTEIN CLT2, CHLOROPLASTIC
+Interpro Signature Accession:    PTHR31326; PF08627
+Interpro Signature Description:  PROTEIN CLT2, CHLOROPLASTIC; CRT-like, chloroquine-resistance transporter-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: protein CLT1%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: protein CLT1%2C chloroplastic-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: protein CLT1%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: protein CLT1%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: protein CLT1%2C chloroplastic-like%2C transcript variant X1
+  Gene Descriptions: protein CLT1%2C chloroplastic-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: protein CLT1%2C chloroplastic%2C transcript variant X1
+  Gene Descriptions: protein CLT1%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: protein CLT1%2C chloroplastic-like; protein CLT1%2C chloroplastic-like%2C transcript variant X1
+  Gene Descriptions: protein CLT1%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: protein CLT1%2C chloroplastic-like; protein CLT1%2C chloroplastic-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: protein CLT1%2C chloroplastic-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: protein CLT1%2C chloroplastic
+Zma
+  Gene count: 2
+  Modal chromosome: Zma03
+  Gene Products: protein CLT1%2C chloroplastic%2C transcript variant X1; uncharacterized LOC100272467
+  Gene Synonyms: ARGOS6,GRMZM2G162250
+  Gene Descriptions: uncharacterized LOC100272467
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 440 aa
+
+MmaPSPvTCRPSAARHPLLLRlPApRAAgaAALgLgLGLPRREAlVALRAHaRRIAAaPW
+AsArVWtSrsRGREaAARCAAAGQVAGSSAGVGRSAGMEVALAaAAVVAMGTGNRVLYKL
+ALVPLRqYPFFLAQFATFGYVVVYFSILYLRYQAGIVTDEMLSLPQKPFLAVGLLEALAA
+AAGMAAGAVLSGASIPILSQTYLVWQLLLSAIFLKRRYRINEITGCFLVTVGVIITVASG
+SGTGASLKSTGILWPLLMIISFFLQAADTVLKEIIFIDAAKKLKGGSVDLFVVNSYGSAY
+QALFMCLLLPFLSKLWGVPFHLLPTYIKDGAACFLNMGSLSSGCEGAPLLPLLFVLVNMG
+FNISLLHLLKISSAVVSSLASTFSVPLSIYAFTLPLPYIGVASTLPPGFVAGAAVLTAGL
+LLYSLPQAQHsGNSFHNkND
+
+
+BOP CONSENSUS:
+Length: 438 aa
+
+msSSSSSSRVSTARrPLRCLPAGRANGAAAAAvLGLPRREARVALRAHARRIEAAAWAeA
+GVAPWSRRSgRGkEAAAaCAAAGQVAGtSAGVGSRSVGMEVALATAAVVATGTGNRVLYK
+LALVPLRQYPFFLAQFATFGYVVVYFSILFLRYQAGhVTDEMLSLPQKPFILVGLLEALA
+AAAGMAAGAVLSGASIPILSQTYLVWQLLLSAIFLKRRYRvNEITGCFLVTVGVVITVAS
+GSGAGASLQSTGILWPLLMIISFFLQAADTVLKEIIFIDAAKNLKGGSVDLFVVNSYGSA
+YQAIFMCLLLPFLSKLWGIPFHLLPTYIRDGAACFLNMGSLSSGCEGAPLLPLLFVLVNM
+GFNISLLHLLKISSAVVSCLASTFSVPLSIYAFTLPLPYIGVASTLPPGFVAGAAVLIAG
+LLmYSLPQpqNCGeSrND
+
+
+PACMAD CONSENSUS:
+Length: 437 aa
+
+MMPPSPVTCRPSAARHPLLLRAPAPRvAGAAALGLGLpLPRREALVAaRpHvRwIAAEPW
+ASARVWtSRSRREDAARCAAAGQVAGSTGVGRSAGMEVALAAAAVVAMGTGNRVLYKLAL
+VPLREYPFFLAQFATFGYVVVYFSILYLRYQAGIVTDEMLSLPQKPFLAVGLLEAFGAAA
+GMAAGAVLSGASIPILSQTYLVWQLLLSAIFLKRRYRINEITGCFLVAVGVIITVASGSG
+TGASLKSTGILWPLLMIISFFLQAADTVLKEIIFIDASKKLKCGSVDLFVVNSYGSAYQA
+LFMCLLLPFLSKLWGVPFHLLPTYIKDGAACFLNMGSISGCEGAPLLPLLFVLVNMGFNI
+SLLHLLKISSAVVSSLASTFSVPLSIYAFTLPLPYIGVASSLPPGFVAGAAVLTAGLLLY
+SLPQAQHSGNSFHNKND
+
+================================================================================

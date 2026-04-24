@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM006708
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             561.0 aa
+Family Size (Extended Family Size): 22 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12558:SF36
+Panther Family ID:               PTHR12558
+Modal Panther ID:                PTHR12558:SF36
+Modal Panther Description:       ANAPHASE-PROMOTING COMPLEX SUBUNIT 7
+Modal Panther Family ID:         PTHR12558
+Modal Panther Fam Desc:          CELL DIVISION CYCLE 16,23,27
+Interpro Signature Accession:    G3DSA:1.25.40.10; PTHR12558; SSF48452
+Interpro Signature Description:  Tetratricopeptide repeat domain; CELL DIVISION CYCLE 16,23,27; TPR-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: anaphase-promoting complex subunit 7
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: anaphase-promoting complex subunit 7
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: anaphase-promoting complex subunit 7
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: anaphase-promoting complex subunit 7-like; anaphase-promoting complex subunit 7-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: anaphase-promoting complex subunit 7%2C transcript variant X1
+  Gene Descriptions: anaphase-promoting complex subunit 7
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: anaphase-promoting complex subunit 7
+  Gene Descriptions: anaphase-promoting complex subunit 7
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: anaphase-promoting complex subunit 7-like; anaphase-promoting complex subunit 7-like%2C transcript variant X2
+  Gene Descriptions: anaphase-promoting complex subunit 7-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi03K
+  Gene Products: anaphase-promoting complex subunit 7-like; anaphase-promoting complex subunit 7-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: anaphase-promoting complex subunit 7%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: anaphase-promoting complex subunit 7%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma10
+  Gene Products: anaphase-promoting complex subunit 7%2C transcript variant X2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 561 aa
+
+MEAARESMAALLDAGLFdSAQTLGCFLVSSAGASNEAGMSMKVESLVLHGDALYGEKEFR
+RALNAYKQAMQYSRSIPRQATSNtRSSVSTTGRSPSPNSSNLLPFNENEVKFKIALCHSA
+LcEHREALQEMEGIPSKVRTLKMNLMLGKLYRISRNNRaAAVCYKECLRQCPYVFEAITA
+LAEMGLSSKEFSLLFSQAPNRGGKpPGDFLDAQRWWNRYVEAQCCIASHDYKGGLDIYLE
+LMQRFPNNVHILLEIAKVEAIIGRNDEAIMNFEKARLIDPNIMTYMDEYAILLKsKSDYT
+KLNKLVHDMLHIDPARPETCVALAAMWERKDERKALTYAEKSLRVDDRHITGYIMKGNLH
+LSLNRPDLAVTDFRGAQELRADLRSYQGLVRAYLALSKCKDALFTAREAMKVMHQSAKAL
+KLVGDVHAISSSGREKARKFYESAIRLEPGFLGAALALADLHVAEGRNKEAVLLLERYLR
+QWADDSLHIKLAQVFAATNMLSDALSHYQSALRINPHNEAAKKGLERLEKQMKGVDPDAP
+EEDEENEADDIDGDQDDAELL
+
+
+BOP CONSENSUS:
+Length: 561 aa
+
+MEAARDSMAALLDAGLFDSAQTLGCFLVSSGGASNEASMSMKAESLVLHGDALYGEKEFR
+RALNAYKQAMQCSKSIPRQATSTTRISVSTTGRSPSPNSSNVMPFNENEVKSKIALCHSA
+LHEYREALQEMEGIPSKmRnLKMNLMLGKLYRISRNNRAAAICYKECLRQCPYVFEAIAA
+LAEMGLSSKEFSLLFSQAPNRGGKPPGDFLDAQRWWNRYVEAQCCIASHDYKGGLDIYLE
+LMQRFPNNVHILLEIAKVETIIGKNEEAIMNFEKARLIDPNIMTYMDEYAILLKLKSDYT
+KLNKLVHDMLHIDPARPETCIALAAFWERKDERKALTYAEKSLRVDDRHITGYIMKGNLH
+LSLNRPDLAVTDFRGAQELRADLRSYQGLVRAYLALSKCKDALFTAREAMKVMHQSAKAL
+KLVGDVHAISSSGREKARKFYESAIRLEPGFLGAALALADLHVAEGRNKEAVLLLERYLR
+QWADDSLHIKLAQVFAATSLLSDALSHYQSALRINPHNEAAKKGLERLEKQMKGVDPDAP
+EDEDENEADDVDGDQDDAELL
+
+
+PACMAD CONSENSUS:
+Length: 561 aa
+
+MEAARESMAALLDAGLFGSAQTLGCFLVSSAGASNDAGMSMKVESLVLHGDALYGEKEFR
+RALNAYKQAMQYSRSIPRQATSNtRSSVSATGRSPSPNSSNLLSFNENEVKFKIALCHSA
+LCEHREALQEMEGIPSKVRTLKMNLMLGKLYRISRNSRSAVVCYKECLRQCPYVFEAITA
+LAEMGLSAKEFSLLFSQAPNRGGKLPGDSVDAQRWWNRYVEAQCCIASHDYKGGLDIYLE
+LMQRFPNNVHILLEIAKVEAIIGRNDEAIMNFEKARLIDPNIMTYMDEYAILLKSKSDYI
+KLNKLVHDMLHIDPARPETCVALAAMWERKDERKALTYAEKSLRVDDRHITGYIMKGNLH
+LSLNRPDLAVTDFRGAQELRADLRSYQGLVRAYLALSKCKDALFTAREAMKVMHQSAKAL
+KLVGDVHAISSSGREKARKFYESAIRLEPGFLGAALALADLHVAEGRNKEAVMLLERYLR
+QWADDSLHIKLAQVFAATNMLSDALSHYQSALRINPQNEAAKKGLERLEKQMKGVDPDAP
+EEDEDNEADDIDADQDDAELL
+
+================================================================================

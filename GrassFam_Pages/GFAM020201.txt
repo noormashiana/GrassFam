@@ -1,0 +1,127 @@
+================================================================================
+GrassFam ID: GFAM020201
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             361.0 aa
+Family Size (Extended Family Size): 18 (19) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13622:SF8
+Panther Family ID:               PTHR13622
+Modal Panther ID:                PTHR13622:SF8
+Modal Panther Description:       THIAMIN PYROPHOSPHOKINASE 1
+Modal Panther Family ID:         PTHR13622
+Modal Panther Fam Desc:          THIAMIN PYROPHOSPHOKINASE
+Interpro Signature Accession:    cd03676; G3DSA:3.90.79.10:FF:000019; G3DSA:3.90.79.10; PTHR13622; PF15916
+Interpro Signature Description:  NUDIX_Tnr3_like; Thiamin pyrophosphokinase, putative; Nucleoside Triphosphate Pyrophosphohydrolase; THIAMIN PYROPHOSPHOKINASE; Domain of unknown function (DUF4743)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: nudix hydrolase 20%2C chloroplastic%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: nudix hydrolase 20%2C chloroplastic%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: nudix hydrolase 20%2C chloroplastic-like; nudix hydrolase 20%2C chloroplastic-like%2C transcript variant X1; nudix hydrolase 20%2C chloroplastic-like%2C transcript variant X7
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: nudix hydrolase 20%2C chloroplastic-like%2C transcript variant X1
+  Gene Descriptions: nudix hydrolase 20%2C chloroplastic-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: nudix hydrolase 20%2C chloroplastic%2C transcript variant X1
+  Gene Descriptions: nudix hydrolase 20%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau17
+  Gene Products: nudix hydrolase 20%2C chloroplastic-like
+  Gene Descriptions: nudix hydrolase 20%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: nudix hydrolase 20%2C chloroplastic-like; nudix hydrolase 20%2C chloroplastic-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: nudix hydrolase 20%2C chloroplastic-like%2C transcript variant X1
+Msi
+  Gene count: 1
+  Modal chromosome: Msi04
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: nudix hydrolase 20%2C chloroplastic%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: nudix hydrolase 24%2C transcript variant X1
+  Gene Synonyms: GRMZM2G031461
+  Gene Descriptions: nudix hydrolase 24
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 362 aa
+
+MAtIATSFAAaAAARRSSPAHLQLLtRRRLPFStAASSSaAPPAAAAGFGWADALRVAgD
+gGRGDESDLSGYFRKVDiCNRGMDKKGEFVEFlVEDQVVGYIHKGFtEHLRDFHDVFTIV
+SGNNGSNtVEHVTLHSSLRTPEDRThAIGdVIKsLGELIPGIRNELYPVTSSYGMPVYFS
+LERAAAPYFGIKAYGVHMNGYVEKdGQKFLWIGKRSDVKQTYPGMLDHLVAGGLPYGISC
+KENIIKECEEEAGIPRSISTNATSVGAISYMDIEGFRYKRDVLFCYDLkLPaDFVPNNED
+GEVDSFRLIPVPHAANIIRRTdFFKPNCNLVIIDFLFRHGYINPDsRGYLkLLQSLRSGD
+CS
+
+
+BOP CONSENSUS:
+Length: 365 aa
+
+MAAIATSFSAAAAVAVARRSSPAHLQLVARRRLPFCTAASSSsAPPAAAAGFGWADALRV
+ASDfGVGDESDLSGYFRKVDICNRGMDKKGEFVEFMVEDQVVGYIHKGFTEHLRDFhDVF
+TIVSGsNGnNSVEHVTLHSSLRTPEDRTIAIGDVIKGLGELIPGIRNELYPVTSSYGMPV
+YFSLERAAAPYFGIKAYGVHMNGYIEKhGEKSLWIGKRSDVKQTYPGMLDHLVAGGLPYG
+ISCKENIIKECEEEAGIPRSMSTNATSVGAISYMDInGFRYKRDVLFCYDLRLPvDFVPN
+NEDGEVDSFRLIPVPHAANIIRRTDFFKPNCNLVIIDFLFRHGYINPDCnGYLKLLtSLR
+SGDCS
+
+
+PACMAD CONSENSUS:
+Length: 356 aa
+
+MATIAAAAARWSSPARLQLLTRRRLPFSASFSSAAPPAAAAGFGWADALRVAGDGGRGDE
+SDLSGYFRKVDTCNRGMDKKGEFVKFLVEDQVVGYIHKGFIEHLRDFHDVFTIVSGNNGS
+NTVEHVSLHSSLRTPEDRTHAIGsVIKSLGEMIPGIRNELYPVTSSYGMPVYFSLERAAA
+PYFGIKAYGVHMNGYVEKDGQKFLWIGKRSDVKQTYPGMLDHLVAGGLPYGISCKENIIK
+ECEEEAGIPRSISTNATSVGAVSYMDIEGFRYKRDVLFCYDLKLPADFVPNNEDGEVDSF
+RLIPVPHAANIIRRTEFFKPNCNLVIIDFLFRHGYINPDSRGYLNLLQSLRSGDCS
+
+================================================================================

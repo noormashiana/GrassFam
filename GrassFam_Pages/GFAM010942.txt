@@ -1,0 +1,139 @@
+================================================================================
+GrassFam ID: GFAM010942
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             539.0 aa
+Family Size (Extended Family Size): 23 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR32116:SF20
+Panther Family ID:               PTHR32116
+Modal Panther ID:                PTHR32116:SF20
+Modal Panther Description:       HEXOSYLTRANSFERASE GAUT11
+Modal Panther Family ID:         PTHR32116
+Modal Panther Fam Desc:          GALACTURONOSYLTRANSFERASE 4-RELATED
+Interpro Signature Accession:    cd06429; G3DSA:3.90.550.10; PTHR32116; PF01501; SSF53448
+Interpro Signature Description:  GT8_like_1; Spore Coat Polysaccharide Biosynthesis Protein SpsA; Chain A; GALACTURONOSYLTRANSFERASE 4-RELATED; Glycosyl transferase family 8; Nucleotide-diphospho-sugar transferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: probable galacturonosyltransferase 11
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: hexosyltransferase GAUT11
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: hexosyltransferase GAUT11
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: hexosyltransferase GAUT11-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: hexosyltransferase GAUT11
+  Gene Descriptions: hexosyltransferase GAUT11
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: hexosyltransferase GAUT11
+  Gene Descriptions: hexosyltransferase GAUT11
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: hexosyltransferase GAUT11-like
+  Gene Descriptions: hexosyltransferase GAUT11-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: hexosyltransferase GAUT11-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: probable galacturonosyltransferase 11
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: probable galacturonosyltransferase 11
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100281481%2C transcript variant X1; uncharacterized LOC100285419%2C transcript variant X1
+  Gene Synonyms: cl9963_1,GRMZM2G078890
+  Gene Descriptions: uncharacterized LOC100281481; uncharacterized LOC100285419
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 540 aa
+
+MRGSDmRRRAPEyRRSSRRRLPGWIWWLLGIFLLVGLMLFVLHHNQKEQFRPPVVDkGSE
+IEEVPHEKVNFTEELLSSTSFARQLADQMTLAKAYVILAKEHGNLQLAWELSSQIRNCQR
+LLSEGAVSGRAITQEEAHPIISRLARLIYKAQDSHYDISTTIVTLKSHALALEERAKAAV
+VQSAEFGQLAAESFPKNLHCLTVKLTEEWLRNPKHRSRSEEHRNSTRLVDNNLYHFCIFS
+DNVLATSVVVNSTVSNANHPQQLVFHVVTDRIHFGAMSTWFLINDFKGCTVEVRCIDEFS
+WLNASSSPLVRQLSEMETQGYYYSAGSKNPEREIKFHNPKFVSLLNHLRFYIPQILPNLE
+KVVFLDDDVVVQKDLTQLFSIELHGNVIGAVETCLESFHRYHKYLNFSHPTISSKIDPHT
+CGWAFGMNIFDLIAWRKANATSLYHYWQEQNSDLLLWRTGTLPAGLLTFYGLMEPLDRRW
+HVLGLGYDVDIDDRLIESAAVVHYNGNMKPWLKLAIRRYKYIWERYVNFSHPYVRECMLH
+
+
+BOP CONSENSUS:
+Length: 539 aa
+
+MRGSEMRRRAPEYRRQSRRRLPGWIWWLVGIFLVVGLMLFVLHHNQKEQFRPPVINKGSE
+TEEVSHEKVNFTEELLSSTSFARQLADQMTLAKAYVILAKEHGNLQLAWELSSQIRNCQR
+LLSEGAVSGRAITQEEAHPIITRLARLIYKAQDSHYDISTTIVTLKSHALALEERAKAAV
+VQTAEFGQLAAESLPKNLHCLTVKLTEEWLQNPKLRSRSEEHRNSTRLVDNNLYHFCIFS
+DNVLATSVVVNSTVSNANHPQQLVFHVVTDRINFGAMSTWFLINDFKGCTVEVRCIDEFS
+WLNAASSPLVRRLSEMETKGFySGGSKTqEREIKFHNPKFVSLLNHLRFYIPQILPNLEK
+VVFLDDDVVVQKDLTQLFSIELHGNVIGAVETCLESFHRYHKYLNFSQPIISSKIDPHTC
+GWAFGMNIFDLIAWRKANATALYHYWQEQNADQLLWRTGTLPAGLLTFYGLMEPLDRRWH
+VLGLGYDVDIDDRLIESAAVVHYNGNMKPWLKLAIRRYKSIWERYVNFSHPYVRECMFH
+
+
+PACMAD CONSENSUS:
+Length: 546 aa
+
+MLRGTGHGGGDARRRALEHRRSSRRRLPGWIWWLLGIFLLVGLMLFVLHHNQKEQFRPPV
+VDNGSEIEEVPHEKVNFTEELLSSTSFARQLADQMTLAKAYVILAKEHGNLQLAWELSSQ
+IRNCQRLLSEGAVSGRAITQDEAHPIISRLARLIYKAQDSHYDISTTIVTLKSHALALEE
+RAKAAIVQSAEFGQLAAESFPKNLHCLTVKLTEEWLRNPKHRSRSEEQRNSTRLVDNNLY
+HFCIFSDNVLATSVVVNSTVSNANHPQQLVFHVVTDRIHFGAMSTWFLINDFKGCTVEVR
+CIDEFSWLNASSSPLVRQLSEVETQGYYYSAGSKNPEREIKFHNPKFVSLLNHLRFYIPQ
+ILPNLEKVVFLDDDVVVQKDLTQLFSIELHGNVIGAVETCLESFHRYHKYLNFSHPTISS
+KIDPHTCGWAFGMNIFDLIAWRKANATSLYHYWQEQNSDLLLWRTGTLPAGLLTFYGLME
+PLDRRWHVLGLGYDVDIDDRLIESAAVVHYNGNMKPWLKLAIRRYKYIWERYVNFSHPYV
+RECMLH
+
+================================================================================

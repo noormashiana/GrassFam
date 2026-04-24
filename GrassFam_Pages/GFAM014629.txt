@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM014629
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             392.5 aa
+Family Size (Extended Family Size): 22 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR13844:SF19
+Panther Family ID:               PTHR13844
+Modal Panther ID:                PTHR13844:SF19
+Modal Panther Description:       OS04G0665500 PROTEIN
+Modal Panther Family ID:         PTHR13844
+Modal Panther Fam Desc:          SWI/SNF-RELATED MATRIX-ASSOCIATED ACTIN-DEPENDENT REGULATOR OF CHROMATIN SUBFAMILY D
+Interpro Signature Accession:    cd10567; G3DSA:1.10.245.10; PTHR13844; PF02201; SM00151; SSF47592
+Interpro Signature Description:  SWIB-MDM2_like; SWIB/MDM2 domain; SWI/SNF-RELATED MATRIX-ASSOCIATED ACTIN-DEPENDENT REGULATOR OF CHROMATIN SUBFAMILY D; swib_2
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: uncharacterized LOC100831700
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: formin-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: formin-like protein 1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: formin-like protein 1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: uncharacterized LOC127770357
+  Gene Descriptions: uncharacterized LOC127770357
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4337317
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: uncharacterized LOC133887779; uncharacterized LOC133925186
+  Gene Descriptions: uncharacterized LOC133887779; uncharacterized LOC133925186
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi07K
+  Gene Products: forkhead box protein D2-like; uncharacterized LOC120642770
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: MHC class II regulatory factor RFX1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: uncharacterized LOC8082561
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: SWIB complex BAF60b domain-containing protein; uncharacterized LOC100193333%2C transcript variant X1
+  Gene Synonyms: BAF60.9,GRMZM2G124502,pco078093
+  Gene Descriptions: uncharacterized LOC100193333
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 395 aa
+
+MVSDQEIASCVESVLRGSAGGpGEASLAAVLQQAEAkLGVDLSHKAPFIRDQMDLFFGPR
+LQPQPPPKPQnAPPPQaavAPAaAvPQPQpQpQVLLQVQqQAPPQQMQQQQQLAALQPQL
+IFQTMPQLPAVVSGAtaPAVSAPPAVPAMAFYPPPPLAFRYTtGLGGAATGGTVSFQQPA
+PGVGGTASPTAAPQAAGDNKESASKRKRGGPGGLNKVCAISPELQTIVGETAMSRTQIVK
+QLWAYIRQNNLQDPDDKRKIICNDELRVVFGTDTTDMFKMNKLLAKHITPLDPKDQirEV
+KRMKAPTvAPQPmPpINQPSVVISDALAKFIGTeGTVPQDDALKYLWDYIKANQLEDVIn
+aSILCDSKLQELFGCESIPmSGLSEMLAHHFIKKT
+
+
+BOP CONSENSUS:
+Length: 401 aa
+
+MVSDQEIAsCVESLLRGALGGGAGEAASLAAVLQQAQArLGVDLSHKAPYIRDQMDLFFG
+PRLQPPPPPPPQnQnQNPPPLPASAPAPAPAMTQAMPQPQLPLEVQQQQQQMQQQQQQFA
+AIQPQFIFQTMPQLPPVVSGGAAAAVSAPPAVPAMAFYPPPPLAFRYTNALGGVATGGTV
+SFQQPAPGVGGITSPTAAPQAAGDNKESASKRKRGGPGGLNKVCAISPELQTVVGETAMS
+RTQIVKQLWAYIRQNNLQDPDDKRKIICNDELRIVFGTDSTDMFKMNKLLAKHITPLDPK
+DQPSEAKKFKAaNaAPQQMPTINQPYVVVSDALAKFLGVEGTVPHDDALKYLWDYIKANQ
+LEDPASASILCDSSLQELFGCESIPASGLSDLLAHHFIQRT
+
+
+PACMAD CONSENSUS:
+Length: 389 aa
+
+MVSDQEIASCVESVLRGSAGGPGEASLAAVLQQAEATLGVDLSHKAGFIRDQMDLFFGPR
+LQPQPPTKPQAAPPPPQAVATAAAVPQPQAQVLPQpQAPPPAQQMQPQQLAALQPQLIFQ
+TMPQLPAmATVPAVSSPPAVPAMAFYPPPPLAFRYTTGLAGAATGGTVSFQQPAPGVGGT
+AsPTAApQVAGDNKESASKRKRGGPGGLNKVCAISPELQTIVGETAMSRTQIVKQLWAYI
+RQNNLQDPDDKRKIICNDELRVVFETDTTDMFKMNKLLAKHITPLDPKDQIHEVKRMKAP
+TEaPQPGPPINQPSVVISDALAKFIGTDGTFPQDDALKYLWDYIKANQLEDVINgSILCD
+SKLQELFGCESIPMSGLSEMLGHHFIKKT
+
+================================================================================

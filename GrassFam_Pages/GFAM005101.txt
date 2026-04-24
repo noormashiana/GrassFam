@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM005101
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             407.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11079:SF162
+Panther Family ID:               PTHR11079
+Modal Panther ID:                PTHR11079:SF162
+Modal Panther Description:       RIBOFLAVIN BIOSYNTHESIS PROTEIN PYRD, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR11079
+Modal Panther Fam Desc:          CYTOSINE DEAMINASE FAMILY MEMBER
+Interpro Signature Accession:    cd01284; G3DSA:3.40.140.10:FF:000025; G3DSA:3.40.140.10; TIGR00326; SSF53927
+Interpro Signature Description:  Riboflavin_deaminase-reductase; Riboflavin biosynthesis protein RibD; Cytidine Deaminase, domain 2; bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD; Cytidine deaminase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: riboflavin biosynthesis protein PYRD%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: riboflavin biosynthesis protein PYRD%2C chloroplastic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: riboflavin biosynthesis protein PYRD%2C chloroplastic
+Tae
+  Gene count: 4
+  Modal chromosome: Tae05A
+  Gene Products: riboflavin biosynthesis protein PYRD%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: riboflavin biosynthesis protein PYRD%2C chloroplastic-like
+  Gene Descriptions: riboflavin biosynthesis protein PYRD%2C chloroplastic-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa03
+  Gene Products: riboflavin biosynthesis protein PYRD%2C chloroplastic
+  Gene Descriptions: riboflavin biosynthesis protein PYRD%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau03
+  Gene Products: riboflavin biosynthesis protein PYRD%2C chloroplastic-like
+  Gene Descriptions: riboflavin biosynthesis protein PYRD%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi09N
+  Gene Products: riboflavin biosynthesis protein PYRD%2C chloroplastic
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: riboflavin biosynthesis protein PYRD%2C chloroplastic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: riboflavin biosynthesis protein PYRD%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: riboflavin biosynthesis protein ribD%2C transcript variant X1
+  Gene Synonyms: GRMZM2G320099,PYRD
+  Gene Descriptions: riboflavin biosynthesis protein ribD
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 402 aa
+
+MASSLVSRPHLTPRPVrAASlASPCRARLAaGGGGRGLAAGVRCQAQAgDMDAHYMRRCV
+ELARKAAGHTSPNPMVGCVIVRDGRVVGEGFHPKAGQPHAEVFALRDAGDLAENATAYVS
+LEPCNHYGRTPPCTEALINAKVKEVVVGMTDPNPIVASKGIEKLRgAGIDVRVGVEEALC
+RRLNEAYIHRMLTGKAFATLRTTLSMNGIVINQIGsGADQPGGYYSQLmKEYDGVIISSD
+mAKmtTLPvSREAGAKQPLYIIIAQGEgSrLHIPFLsEEsASnAIVLADSPVTVEPAGVe
+VaVLDQMnLESILQLLAQRGLCSVLVDFREAGGsfASLLNdFQEDKLVQKVVVELLPVWl
+VSeGLSNLAFGGSQSFPLKNVEHKEVNGsvlLLEGLEGYLYV
+
+
+BOP CONSENSUS:
+Length: 394 aa
+
+MmsSSLvSRPRLAPRPApAAASPCRARLAVGgGRGLAAGVRCQAQAGDMDAHYMRRCVEL
+ARTAAGHTSPNPMVGCVIVRDGRVVGEGFHPKAGQPHAEVFALRDAGDLAENATAYVSLE
+PCNHYGRTPPCTEALIKAKVKEVVVGMTDPNPIVASKGIEKLRNAGIDVRVGVEEALCLR
+LNEAYIHRMLTGKAFATLRTTLSMNGIVINQIGSGADQPGGYYSQLAKEYDGVIISSDMA
+KATTLPISREAGAKQPLYIIIAQGEGSkLHIPFLDEESASNAIVLADSPVTVEPAGVSVS
+VLDQMNLESILQLLADRGLCSVLVDFRDAGGvLASLLsKFQEDKLVQKVVVELSPVWMVS
+PGPSDLAFGGSQSFPLKNVEHKEVNGTlLLEGYL
+
+
+PACMAD CONSENSUS:
+Length: 394 aa
+
+MASSLVSRPHLTQRPVRAATLASPsRARLAAGGLGGRGVRCQAQAAGDLDAHYMRRCVEL
+ARKAAGHTSPNPMVGCVIVRDGRVVGEGFHPKAGQPHAEVFALRDAGDLAENATAYVSLE
+PCNHYGRTPPCTEALINAKVKEVVVGMTDPNPIVASKGIEKLQGAGInVRVGVEEALCRK
+LNEAYIHRMLTGKAFATLRATLSMNGIVTNQIGKGADQSGGYYSQLMKEYDGVIISSDLA
+KMSTLPvSREAGANQPLYIIIAQGESSRLHIPSLSEEHASKAIVLADSPVTVEPAGVEVA
+VLRQIDLESILQLLAQRGLCSVLVDFREAGESFASLLNDFQEDKLVQKVVVEvLPVWLAS
+EGLSNLAFGGSQSFPLKNvEHREVNGSVLLEGYV
+
+================================================================================

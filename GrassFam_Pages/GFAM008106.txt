@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM008106
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             356.0 aa
+Family Size (Extended Family Size): 33 (35) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10231:SF71
+Panther Family ID:               PTHR10231
+Modal Panther ID:                PTHR10231:SF71
+Modal Panther Description:       CMP-SIALIC ACID TRANSPORTER 2
+Modal Panther Family ID:         PTHR10231
+Modal Panther Fam Desc:          NUCLEOTIDE-SUGAR TRANSMEMBRANE TRANSPORTER
+Interpro Signature Accession:    TIGR00803; PTHR10231; PIRSF005799; PF04142
+Interpro Signature Description:  solute carrier family 35 transporter; NUCLEOTIDE-SUGAR TRANSMEMBRANE TRANSPORTER; UDP-gal_transpt; Nucleotide-sugar transporter
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: CMP-sialic acid transporter 2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: CMP-sialic acid transporter 2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: CMP-sialic acid transporter 2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: CMP-sialic acid transporter 2; CMP-sialic acid transporter 2-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl07
+  Gene Products: CMP-sialic acid transporter 2
+  Gene Descriptions: CMP-sialic acid transporter 2
+Osa
+  Gene count: 1
+  Modal chromosome: Osa07
+  Gene Products: CMP-sialic acid transporter 2-like
+  Gene Synonyms: CSTLP2,OJ1699_E05.21,OsCSTLP2,OsJ_24829
+  Gene Descriptions: CMP-sialic acid transporter 2-like
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 3
+  Modal chromosome: Pau15
+  Gene Products: CMP-sialic acid transporter 2%2C transcript variant X1; CMP-sialic acid transporter 2-like%2C transcript variant X1
+  Gene Descriptions: CMP-sialic acid transporter 2; CMP-sialic acid transporter 2-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi02K
+  Gene Products: CMP-sialic acid transporter 2%2C transcript variant X1; CMP-sialic acid transporter 2-like%2C transcript variant X1; CMP-sialic acid transporter 2-like%2C transcript variant X2; CMP-sialic acid transporter 2-like%2C transcript variant X3
+Pha
+  Gene count: 2
+  Modal chromosome: Pha02
+  Gene Products: CMP-sialic acid transporter 2; CMP-sialic acid transporter 2-like%2C transcript variant X1
+Msi
+  Gene count: 4
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi02
+  Gene Products: CMP-sialic acid transporter 2; CMP-sialic acid transporter 2-like
+Zma
+  Gene count: 2
+  Modal chromosome: Zma07
+  Gene Products: CMP-sialic acid transporter 2; UDP-galactose translocator%2C transcript variant X1
+  Gene Descriptions: UDP-galactose translocator
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 356 aa
+
+MEYRRVKDQESYDDvSQKDIESLDGRSLSStnATSsLSTAGGpKGKnSWKLKSIVTLALT
+LLTSSQAILIVWSKRAGKYEYSVTTANFSVEALKCLLSLlALYRTWNSQGVTEDNRLTTS
+FDEVSVYPIPAvLYMVKNLLQYYIFAYVDAPAYQILKNLNIISTGVLYRIILKKKLSEIQ
+WAAFILLCAGCTTAQLNPSSDHVLQTPIQGWMMAIVMALLSGFAGVYTEAIIKKRPSRNI
+NVQNFWLYIFGMLFNLVAICVQDFDAVMNKGFFHGYSFITVLMILNHALSGIAVSMVMKY
+ADNIVKVYSTSVAMLLTAIVSVFLFGFHLSLAFFLGSTVVSVSVYLHSVGKPQQQK
+
+
+BOP CONSENSUS:
+Length: 356 aa
+
+MEYRRVKDQESYDAVSQKDIESPDGRSLSSTAATSPLGTAGGSKGKNSWKQKSIVTIALT
+LLTSSQAILIVWSKRAGKYEYSVTTANFSVEALKCLLSLLALYRTWNSQGVTEDNRLSTS
+FDEVSVYPIPAvLYMVKNLLQYYIFAYVDAPAYQILKNLNIISTGVLYRIILKKKLSEIQ
+WAAFILLCAGCTTAQLNPSSDHVLQTPIQGWMMAIVMALLSGFAGVYTEAIIKKRPSRNI
+NVQNFWLYIFGMLFNLVAICVQDFDAVMNKGFFHGYSFITLLMILNHALSGIAVSMVMKY
+ADNIVKVYSTSVAMLLTAIVSVFLFGFNLSLAFFLGSTVVSISVYLHSVGKPQQQK
+
+
+PACMAD CONSENSUS:
+Length: 356 aa
+
+MEYRRVKDQESDDlSQKDVESLsgRSLSSANatTSSLStAGGpKGKsSWKLKSVVTLALT
+LLTSSQAILIVWSKRAGKYEYSVTTANFSVEALKCLLSLaALyRTWNsQGVTEDNRLTTS
+FDEVSVYPIPAvLYMVKNLLQYYIFAYVDAPAYQILKNLNIISTGVLYRIILKKKLSEIQ
+WAAFILLCAGCTTAQLNPSSDHVLQTPIQGWMMAIVMALLSGFAGVYTEAIIKKRPSRNI
+NVQNFWLYIFGMlFNLVAICVQDFDAVMNKGFFHGYSFITVLMILNHALSGIAVSMVMKY
+ADNIVKVYSTSVAMLLTAvVSVFLFsFHLSLAFFLGSTVVSVSVYLHSVGKLQQQK
+
+================================================================================

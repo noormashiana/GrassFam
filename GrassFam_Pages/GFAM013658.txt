@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM013658
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             362.0 aa
+Family Size (Extended Family Size): 23 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45683:SF5
+Panther Family ID:               PTHR45683
+Modal Panther ID:                PTHR45683:SF5
+Modal Panther Description:       OS02G0225000 PROTEIN
+Modal Panther Family ID:         PTHR45683
+Modal Panther Fam Desc:          MITOCHONDRIAL NICOTINAMIDE ADENINE DINUCLEOTIDE TRANSPORTER 1-RELATED-RELATED
+Interpro Signature Accession:    G3DSA:1.50.40.10; PTHR45683; SSF103506
+Interpro Signature Description:  Mitochondrial carrier domain; MITOCHONDRIAL NICOTINAMIDE ADENINE DINUCLEOTIDE TRANSPORTER 1-RELATED-RELATED; Mitochondrial carrier
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: peroxisomal nicotinamide adenine dinucleotide carrier
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: peroxisomal nicotinamide adenine dinucleotide carrier-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata04D
+  Gene Products: peroxisomal nicotinamide adenine dinucleotide carrier; peroxisomal nicotinamide adenine dinucleotide carrier%2C transcript variant X1
+Tae
+  Gene count: 4
+  Modal chromosome: Tae04D
+  Gene Products: peroxisomal nicotinamide adenine dinucleotide carrier-like; peroxisomal nicotinamide adenine dinucleotide carrier-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl02
+  Gene Products: peroxisomal nicotinamide adenine dinucleotide carrier-like
+  Gene Descriptions: peroxisomal nicotinamide adenine dinucleotide carrier-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa02
+  Gene Products: peroxisomal nicotinamide adenine dinucleotide carrier
+  Gene Descriptions: peroxisomal nicotinamide adenine dinucleotide carrier
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: peroxisomal nicotinamide adenine dinucleotide carrier-like; peroxisomal nicotinamide adenine dinucleotide carrier-like%2C transcript variant X1
+  Gene Descriptions: peroxisomal nicotinamide adenine dinucleotide carrier-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: peroxisomal nicotinamide adenine dinucleotide carrier-like; peroxisomal nicotinamide adenine dinucleotide carrier-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: peroxisomal nicotinamide adenine dinucleotide carrier-like%2C transcript variant X1
+Msi
+  Gene count: 1
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: peroxisomal nicotinamide adenine dinucleotide carrier
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: Peroxisomal nicotinamide adenine dinucleotide carrier
+  Gene Synonyms: GRMZM2G013450
+  Gene Descriptions: Peroxisomal nicotinamide adenine dinucleotide carrier
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 362 aa
+
+MSSAVVNGLAGAGGGIIAQIITYPLQTVNTRQQTERSAKKKKAGSGAsDtSTLFQMLQLi
+QTEGWGGLYSGLKPSLIGTAASQGIYYYFYQLLKNKVEDVAAARGKKGLGDGTVGMFSWL
+GIAAVAGSINVLLTNPIWVLVTRMQTHTQAERKIlESKRELLLKEISRANSmEVSILKDR
+LaKLDSEKPRPYGTLQAIREVYRESGIRGFWKGLIPTLIMVCNPSIQFMIYETLAKRLqS
+KRSGKqLPKKNLTAMEVFLLGAIAKLGATVVTYPLLVVKSRLQAKQEIGRNVMSRYTGTI
+DAIIKMIRYEGLHGFYKGMGTKIVQSVFAASVLFMVKEELVKFVVLLVARSRTmLlTrSK
+KR
+
+
+BOP CONSENSUS:
+Length: 362 aa
+
+MSSAVVNGLAGAGGGIIAQIITYPLQTVNTRQQTERSAKKKKAGGGGSDASTLFQMLQLV
+QTEGWGGLYSGLKPSLIGTAASQGIYYYFYQLLKNKVEDVAAARGKKGLGDGTVGMFSWL
+VIAAVAGSINVLLTIPIWVLVTRMQTHTQAERKVIESKRELLLKEISRANSMDAHILKDR
+LAKLDSEKPRPYGTLQAIREVYRESGISGFWKGLIPTLIMVCNPSIQFMIYETLSKRLkS
+KRSGKRFPKKNITAMEVFLLGAIAKLGATLVTYPLLVVKSRLQAKQEIGRNAASRYTGTL
+DAILKMIRYEGLHGFYKGMGTKIVQSVFAASVLFMVKEELVKFVVLLVARSRTLLLTRSk
+KR
+
+
+PACMAD CONSENSUS:
+Length: 362 aa
+
+MSSAVVNGLAGAGGGIIAQIITYPLQTVNTRQQTERSAKKRKPGSGATDTSTLFQMLQLI
+QTEGWGGLYSGLKPSLIGTAASQGIYYYFYQILKNKVEDVAVARGKKGLGDGTVGMLSWL
+GIAAVAGSINVLLTNPIWVLVTRMQTHTQAERKILESKrELLLKEISRANSLEVSILKDR
+LVKLESEKPRPYGTLQAIQEVYHESGIRGFWKGLVPTLIMVCNPSIQFMIYETLAKRLQS
+KRSGKQLPKRNLTAMEVFLLGAIAKLGATVVTYPLLVVKSRLQAKQEIGRNVMSRYTGTI
+DAIIKMVRYEGLHGFYKGMGTKIVQSVFAASVLFMVKEELVKLAVLLVARSRTMLITTSK
+Kr
+
+================================================================================

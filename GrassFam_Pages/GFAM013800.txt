@@ -1,0 +1,127 @@
+================================================================================
+GrassFam ID: GFAM013800
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             299.0 aa
+Family Size (Extended Family Size): 40 (42) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47990:SF199
+Panther Family ID:               PTHR47990
+Modal Panther ID:                PTHR47990:SF199
+Modal Panther Description:       OS02G0592000 PROTEIN
+Modal Panther Family ID:         PTHR47990
+Modal Panther Fam Desc:          2-OXOGLUTARATE (2OG) AND FE(II)-DEPENDENT OXYGENASE SUPERFAMILY PROTEIN-RELATED
+Interpro Signature Accession:    G3DSA:2.60.120.330:FF:000017; G3DSA:2.60.120.330; PTHR47990; SSF51197
+Interpro Signature Description:  2-oxoglutarate-dependent dioxygenase DAO; -; 2-OXOGLUTARATE (2OG) AND FE(II)-DEPENDENT OXYGENASE SUPERFAMILY PROTEIN-RELATED; Clavaminate synthase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: 2-oxoglutarate-dependent dioxygenase DAO
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu01H
+  Gene Products: 2-oxoglutarate-dependent dioxygenase DAO-like; 2-oxoglutarate-dependent dioxygenase DAO-like%2C transcript variant X1
+Ata
+  Gene count: 2
+  Modal chromosome: Ata02D
+  Gene Products: 2-oxoglutarate-dependent dioxygenase DAO
+Tae
+  Gene count: 6
+  Modal chromosome: Tae02B
+  Gene Products: 2-oxoglutarate-dependent dioxygenase DAO-like; 2-oxoglutarate-dependent dioxygenase DAO-like%2C transcript variant X2
+Ola
+  Gene count: 2
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl02
+  Gene Products: 2-oxoglutarate-dependent dioxygenase DAO; 2-oxoglutarate-dependent dioxygenase DAO-like%2C transcript variant X1
+  Gene Descriptions: 2-oxoglutarate-dependent dioxygenase DAO; 2-oxoglutarate-dependent dioxygenase DAO-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa02
+  Gene Products: 2-oxoglutarate-dependent dioxygenase DAO; 2-oxoglutarate-dependent dioxygenase DAO-like
+  Gene Synonyms: DAO
+  Gene Descriptions: 2-oxoglutarate-dependent dioxygenase DAO; 2-oxoglutarate-dependent dioxygenase DAO-like
+Ecu
+  Gene count: 4
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 2
+  Modal chromosome: Pau07
+  Gene Products: 2-oxoglutarate-dependent dioxygenase DAO-like
+  Gene Descriptions: 2-oxoglutarate-dependent dioxygenase DAO-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi07N
+  Gene Products: 2-oxoglutarate-dependent dioxygenase DAO-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha07
+  Gene Products: 2-oxoglutarate-dependent dioxygenase DAO-like
+Msi
+  Gene count: 4
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi04
+  Gene Products: 2-oxoglutarate-dependent dioxygenase DAO
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100272363; uncharacterized LOC100283080
+  Gene Synonyms: GRMZM2G127232; cl5678_1,GRMZM2G121700
+  Gene Descriptions: uncharacterized LOC100272363; uncharacterized LOC100283080
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 298 aa
+
+MVEIPVIDLRLAGAAPEESARLRDACERLGCFRVsGHGVPagLQAEMKAAVRALFDLPDD
+AKRRNADVIpGSGYVAPSpANPLYEAFGLLDAAAPADVDAFCARLDAPPHvRETVKsYAE
+KMHeLIVDVAGKLAsSLGLEEHSFQDWPCQFRINRYNYTQDTVGSSGVQiHTDSGFLTVL
+QEDECVGGLEVLDPATGEFVPVDPVPGSFLVNIGDVGTAWSNGRLHNVKHRVQCVApVPR
+ISIAMFLLAPKDDRVsAPEAFVDAdHPRRFKaFNYDDYRRLRLSTGERAGEALARLAA
+
+
+BOP CONSENSUS:
+Length: 298 aa
+
+MVEIPVIDLRLAGAaPEESARLRDACERLGCFRVSGHGVPaALQAEMKAAVRALFDLPDD
+AKRRNADIIAGSGYVAPSPANPLYEAFGLlDAAsPADVDAFCARLDAPPHARETVKSYAE
+aMHELIVDVAGKVAASLGLEGHPFQDWPCQFRINRYNYTQDTVGSSGVQIHTDSGFLTVL
+QEDDCVGGLEVLDPATGEFVPVDPVPGSFLVNiGDVGTAWSNGRLHTVKHRVQCVAAVPR
+ISIAMFLLAPKDDRVCAPEAFVDAqHPRRFRaFNYDDYRRLRLSTGERAGEALARMAA
+
+
+PACMAD CONSENSUS:
+Length: 298 aa
+
+MAEIPVIDLRLAGAAPEESARLRAACERLGCFRVTGHGVPaGLLAEMKAAVRALFDLPDD
+AKRRNADVIPGSGYVAPSAANPLYEAFGLLDAAAPADVDAFCARLDAPPHVRETVKaYAE
+KMHDVIVDVAGkLASSLGLEEHSFQDWPCQFRINRYNYTQDTVGSSGVQTHTDSGFLTVL
+QEDECVGGLEVLDPATGEFVPVDPVAGSFLVNIGDVGTAWSNGRLHNVKHRVRCVAPVPR
+ISIAMFLLAPKDDRVSAPEAFVDADHPRRYKeFNYDDYRRLRLSTGERAGEALARLAA
+
+================================================================================

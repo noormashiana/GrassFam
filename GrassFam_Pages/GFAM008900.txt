@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM008900
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             471.0 aa
+Family Size (Extended Family Size): 23 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45188:SF2
+Panther Family ID:               PTHR45188
+Modal Panther ID:                PTHR45188:SF2
+Modal Panther Description:       DNAJ HOMOLOG SUBFAMILY C MEMBER 7
+Modal Panther Family ID:         PTHR45188
+Modal Panther Fam Desc:          DNAJ PROTEIN P58IPK HOMOLOG
+Interpro Signature Accession:    G3DSA:1.25.40.10:FF:000258; G3DSA:1.10.287.110:FF:000055; G3DSA:1.10.287.110; G3DSA:1.25.40.10; PTHR45188; SM00271; SSF48452; SSF46565
+Interpro Signature Description:  DnaJ domain containing protein; DnaJ subfamily C member 7; DnaJ domain; Tetratricopeptide repeat domain; DNAJ PROTEIN P58IPK HOMOLOG; dnaj_3; TPR-like; Chaperone J-domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: dnaJ protein P58IPK homolog A%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: dnaJ protein P58IPK homolog B
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: dnaJ protein P58IPK homolog B
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: dnaJ protein P58IPK homolog B-like; dnaJ protein P58IPK homolog B-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl01
+  Gene Products: dnaJ protein P58IPK homolog A%2C transcript variant X1; dnaJ protein P58IPK homolog B%2C transcript variant X1
+  Gene Descriptions: dnaJ protein P58IPK homolog A; dnaJ protein P58IPK homolog B
+Osa
+  Gene count: 2
+  Modal chromosome: Osa01
+  Gene Products: dnaJ protein P58IPK homolog A-like%2C transcript variant X1; dnaJ protein P58IPK homolog B-like
+  Gene Synonyms: DJC15,OsDjC15,OsP58B; DJC16,OJ1225_F07.10,OsDjC16,OsJ_05745,OsP58A,P58A
+  Gene Descriptions: dnaJ protein P58IPK homolog A-like; dnaJ protein P58IPK homolog B-like
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau01
+  Gene Products: dnaJ protein P58IPK homolog B%2C transcript variant X1
+  Gene Descriptions: dnaJ protein P58IPK homolog B
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: dnaJ protein P58IPK homolog B%2C transcript variant X1; dnaJ protein P58IPK homolog B-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: dnaJ protein P58IPK homolog B%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: SbiUN88
+  Gene Products: dnaJ protein P58IPK homolog B
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: dnaJ subfamily C member 7
+  Gene Synonyms: GRMZM2G341404
+  Gene Descriptions: dnaJ subfamily C member 7
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 464 aa
+
+MvRAWRtALPLLLIYSPLVfAQEGQDNDPSTLFkRASEMMNLRKYDGALGLLNAVLEVDP
+NHSEAYRQRASVLRHKCRYKEAESDYNKYLELKPGtASVEKELSQLLQAQNALQSAYGQF
+DSGDFSKVLEYINKIVLVFSPGCLKAKLLKAKALLALKDYSSVISETGFILKEDEDNLDA
+LLLRGRAYYYLADHDVASRHYQKGLRLDPEHSELKKAYFGLKNLLKKTKSAEDNAAKGKL
+RVSAEDYKAALAMDPDHTaYNVHLYLGLCKTLVKLGRGKEAISSCTEALnIDsELVDALT
+QRGEAKLLSEDWEGAVQDLKEAAQKSPQDMGIREALMRAEKQLKLSKRKDWYKILGISKT
+ASAAEIKRAYKKLALQWHPDKNVDNREEAENMFREIAAAYEVLGDEDKRVRYDRGEDLDE
+MNMGGGGGGFNPFGGGGQQYTFHfDGGFPGGGFPGGGGFQFNFG
+
+
+BOP CONSENSUS:
+Length: 467 aa
+
+MARPWRLlLPLLLLYSPIVfSQEvQDNDPSTLFKRASEMMSLRKYDGALGLLNAVLEVDP
+NHSEAYRQRASVLRHRCRYKEAESDYNKYLELKPGTASVEKELSQLLQAQNALESAYGQS
+DAGDFSKVLEYVNKIVLVFSPGCLKAKLLKAKALLALKDYSsVISETGFILKEDEDNLDA
+LLLRGRAYYYLADHDVANRHYQKGLRLDPEHSELKKAYFGLKKLLKKTKSAEDNAAKSKL
+RVAAEDYKAALAMDPDHTsYNVqLYLGLCKTLVKLGRGKEAISSCTEALSIDGELVDALt
+QRGEAKLLTEDWEGAVEDLKEAAQKSPQDMGIREALMKAERQLKLSKRKDWYKILGISKT
+ASAADIKRAYKRLALQWHPDKNVENREEAENMFREIAAAYEVLSDEDKRVRYDRGEDLDE
+MNMGGGGGGFNPFGGGGQQYTFHYDGGFhGGGGPGGGFPGGFQFNFG
+
+
+PACMAD CONSENSUS:
+Length: 472 aa
+
+MVRAWGRTALPPLLILCLLRLQYSPLVvAQEGQEKDPATLFARASEMMNLRKYDGALGLL
+NAVLEVDPNHSEAYRQRASVLRHKCRYKEAESDYNKYLELNPGSAsVEKELSQLLQAQNS
+LQSAYGQFDSGDFSKVLEYINKIVLVFSPGCLKAKLLKAKALLALKDYSSVISETGFILK
+EDEDNLDALLLRGRAYYYLADHDVASRHYQKGLRLDPEHSdLKKAYFGLKNLLKKTKSAE
+DNAAKGKLRVSAEDYKaALAMDPDHTAYNVHLYLGLCKTLVKLGRGKEAISSCTEALNID
+SELVDALTQRGEAKLLSEDWEGAVQDLKEAAQKSPQDMGIREALMRAEKQLKLSKRKDWY
+KILGISKTASAAEIKRAYKKLALQWHPDKNVDNREEAENMFREIAAAYEVLGDEDKRVRY
+DRGEDVDEMNMGGGGGGFNPFGGGGQQYTFHFDGGFPGGGFPGGGGFQFNFG
+
+================================================================================

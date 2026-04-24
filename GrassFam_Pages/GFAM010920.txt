@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM010920
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             395.0 aa
+Family Size (Extended Family Size): 23 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11214:SF307
+Panther Family ID:               PTHR11214
+Modal Panther ID:                PTHR11214:SF307
+Modal Panther Description:       HEXOSYLTRANSFERASE
+Modal Panther Family ID:         PTHR11214
+Modal Panther Fam Desc:          BETA-1,3-N-ACETYLGLUCOSAMINYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:3.90.550.50:FF:000002; PTHR11214; PF01762
+Interpro Signature Description:  Hexosyltransferase; BETA-1,3-N-ACETYLGLUCOSAMINYLTRANSFERASE; Galactosyltransferase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: probable beta-1%2C3-galactosyltransferase 5
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: beta-1%2C3-galactosyltransferase 7-like
+Ata
+  Gene count: 1
+  Modal chromosome: AtaUN162524
+  Gene Products: beta-1%2C3-galactosyltransferase 7
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: beta-1%2C3-galactosyltransferase 7-like
+Ola
+  Gene count: 3
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: beta-1%2C3-galactosyltransferase 7-like
+  Gene Descriptions: beta-1%2C3-galactosyltransferase 7-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: beta-1%2C3-galactosyltransferase 7
+  Gene Descriptions: beta-1%2C3-galactosyltransferase 7
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: beta-1%2C3-galactosyltransferase 7-like; beta-1%2C3-galactosyltransferase 7-like%2C transcript variant X1
+  Gene Descriptions: beta-1%2C3-galactosyltransferase 7-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: beta-1%2C3-galactosyltransferase 7-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: beta-1%2C3-galactosyltransferase 7-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: beta-1%2C3-galactosyltransferase 7
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: uncharacterized LOC100274035
+  Gene Synonyms: GRMZM2G133613,PYL11
+  Gene Descriptions: uncharacterized LOC100274035
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 395 aa
+
+MKPKNGAAAsERRLLSRRILLLCAfSFgLGMLFTDRFGSVPDLqSPVVVQRRRQERELQs
+LSEDFVAKPKPADDRDVMGEVsKTHEAIQYLDKSIATLQMELAAKRSsNELLGESAdGiS
+KQRKKAFVVIGINTAFSSRKRRDSVRETWMPQGEKLKKLEEEKGIVIRFTIGHSATSNNV
+LDKAIDAEDeIHHDFLRLDHVEGYHKLSAKTKIFFSTAVALWDADFYVKVDDDVHVNLGM
+LiTTLGRHKLKPRVYIGCMKSGPVLSDKNAKYHEPEFWKFGEDGNKYFRHATGQIYAISK
+DLATYISINQPILHKYANEDVSLGAWFIGLDVEHIDDRDMCCGTPPDCEWKAQAGNVCVA
+SFDWrCSGVCNPVERLKYVHSRCSEGDDAIWSASF
+
+
+BOP CONSENSUS:
+Length: 396 aa
+
+MKAKsGGAAAGERRPVLSRTILLLCACSFGLGMLFTDRFGAMPDLKSPVVAQRRRQEEEL
+QIVSEDFVAKTKPSDDRDVMGEVAKTHEAIQYLDKSIATLQMELAARRStHELLGSADGV
+RQERKKAFVVIGINTAFSSKKRRDSVRETWMPQGEKLKKLEEEKGVVIRFMIGHSPASNS
+ALDQAIDVEDAIHHDFLRLDHVEGYHKLSAKTKTFFSTAVASWDADFYVKVDDDVHVNLG
+MLLTTLGRHKLKPRVYIGCMKSGPVLSDKSSKYHEPEFWKFGEDGNKYFRHATGQIYAIS
+KDLATYISVNqPLLHKFANEDVSLGAWFIGLDVEHIDDRDMCCGTPPDCEWKAQAGNACV
+ASFDWRCSGVCNPVERLKDVHSRCGEGDDAIWSASF
+
+
+PACMAD CONSENSUS:
+Length: 392 aa
+
+MKPKNGAAASERRLLSRRILLLCFlSFFLGMLVTDRFGSVPSPVVVQRRwHDRELQSLSE
+DFVAKPKPAEDRDIMGEVSKTHEAIQYLEKSIDTLQMELAAKRSSNELHGESAGGISKQR
+KRAFVVIGINTAFSSRKRRDSVRETWMPQGEKLKKLEEEKGIIIRFTIGHSATSNNVLDK
+AIDAEDEIHHDFLRLDHVEGYHKLSAKTKIFFSTAVALWDADFYVKVDDDVHLNLGMLVA
+TLGRHKLKPRVYIGCMKSGPVLSDKNAKYHEPEFWKFGEDGNKYFRHATGQIYAISKDLA
+TYISINQPILHKYANEDVSLGAWFIGLDVEHIDDRDMCCGTPPDCEWKAQAGNVCVASFD
+WKCSGVCNPVERLKYVHSRCSEGEDAIWSASF
+
+================================================================================

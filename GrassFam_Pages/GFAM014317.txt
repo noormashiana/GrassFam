@@ -1,0 +1,118 @@
+================================================================================
+GrassFam ID: GFAM014317
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             339.5 aa
+Family Size (Extended Family Size): 18 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10996:SF284
+Panther Family ID:               PTHR10996
+Modal Panther ID:                PTHR10996:SF284
+Modal Panther Description:       OS04G0106400 PROTEIN
+Modal Panther Family ID:         PTHR10996
+Modal Panther Fam Desc:          2-HYDROXYACID DEHYDROGENASE-RELATED
+Interpro Signature Accession:    cd12156; G3DSA:3.40.50.720:FF:000213; G3DSA:3.40.50.720; PTHR10996; PF02826; SSF52283; SSF51735
+Interpro Signature Description:  HPPR; Putative 2-hydroxyacid dehydrogenase; -; 2-HYDROXYACID DEHYDROGENASE-RELATED; D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain; Formate/glycerate dehydrogenase catalytic domain-like; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi05
+  Gene Products: glyoxylate/hydroxypyruvate reductase HPR3; glyoxylate/hydroxypyruvate reductase HPR3%2C transcript variant X3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: glyoxylate/hydroxypyruvate reductase HPR3-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: glyoxylate/hydroxypyruvate reductase HPR3%2C transcript variant X2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae02A
+  Gene Products: glyoxylate/hydroxypyruvate reductase HPR3-like; glyoxylate/hydroxypyruvate reductase HPR3-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: glyoxylate/hydroxypyruvate reductase HPR3-like%2C transcript variant X2
+  Gene Descriptions: glyoxylate/hydroxypyruvate reductase HPR3-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: glyoxylate/hydroxypyruvate reductase HPR3
+  Gene Descriptions: glyoxylate/hydroxypyruvate reductase HPR3
+Ecu
+  Gene count: 2
+  Modal chromosome: EcuUN44
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi07K
+  Gene Products: glyoxylate/hydroxypyruvate reductase HPR3-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: glyoxylate/hydroxypyruvate reductase HPR3-like%2C transcript variant X2
+Msi
+  Gene count: 1
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: glyoxylate/hydroxypyruvate reductase HPR3%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 336 aa
+
+MASTVGAvAraPAtGGKPsVLLLRRaDDtLAAALRARFRVLsFYdSGAPLrAFLAAAAAa
+PDPPRAALVVAGGAIqVDAAFLDAAPSLRCVVTTgAGVDHIDLAECARRGVAVAGAGeiF
+SvDVADHAVGLLiDVLRRVSAADRYVRRGLWPARGDYPLGSKLSGKRVGIIGLGSIGsLI
+AKRLQAFGCVISYHSRRPKdSvSYrYFPDVinLAAESDVLIVACALNDqTRHIVNkeVLE
+ALGKDGVvVNIARGGNVDEAELIrALKeGrIAGAGLDVFEKEPhVPAELLSMDNVVLTAH
+EAVFTtESasDLsDLMIGNLEAFFsGKPLLTPVLpp
+
+
+BOP CONSENSUS:
+Length: 341 aa
+
+MASTVGAvAraPAtGGKPSVLLLRRANDrLAAALRARYRVhSFYDSGAPLlAFLAASAAA
+RpEPPRAAVVVGGGAIQVDAAFLDAAPcLRCVVTTAAGlDHIDLAECARRGVAVAGAGET
+FStDVADHAVGLLvDVLRRVSAADRFVRRGLWPARGDYPLGSKLSGKRVGIIGLGSIGSL
+IAKRLQAFGCTISYHSRRPKDSAvSYKYFPsVINLAlESDVLIVACALNDQTrHIVNKeV
+LEALGKDGVIVNIARGGNVDEAALIrALKGGgIAGAGLDVFEKEPeVPAELLSMDNVVLT
+AHEAVFTTESaSDLsDLMIGNLEAFFQGkPLLTPVLPnQVL
+
+
+PACMAD CONSENSUS:
+Length: 329 aa
+
+MAAAAAPAAKPGLLLLRRTDATFSAALRARFRVLDFYASGAPLRAFLAAAAAEPDPPRAA
+LVVAGGAVLVDAAFLDAVPSLRCVVTTGAGVDHVDLAgCARRGVAVAGAGKIFSVDVADH
+AVGLLIDVLRRVSAADRYVRAGLWPAQGDYPLTSKLSGKRVGIIGLGSIGwLIAKRLQAF
+GCVVSYHSRAPKASVPYRYFPDAHALAADSDALVVACALNDATRRIVGRRVLDALGPrGV
+VVNIARGGNVDEQELVAALREGRIAGAGLDVFENEPHVPPELReMDNVVLTAHEAVFTEE
+STADLRELMIGNLEAFFSGKPLLTPVpLP
+
+================================================================================

@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM007729
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             458.5 aa
+Family Size (Extended Family Size): 20 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43320:SF3
+Panther Family ID:               PTHR43320
+Modal Panther ID:                PTHR43320:SF3
+Modal Panther Description:       CARBOHYDRATE KINASE PFKB DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR43320
+Modal Panther Fam Desc:          SUGAR KINASE
+Interpro Signature Accession:    cd01168; G3DSA:3.40.1190.20:FF:000025; G3DSA:3.40.1190.20; PTHR43320; PF00294; SSF53613
+Interpro Signature Description:  adenosine_kinase; Putative sugar kinase slr0537; -; SUGAR KINASE; pfkB family carbohydrate kinase; Ribokinase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: uncharacterized sugar kinase slr0537
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: uncharacterized sugar kinase slr0537
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: uncharacterized sugar kinase slr0537
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: uncharacterized sugar kinase slr0537-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: uncharacterized LOC127785613
+  Gene Descriptions: uncharacterized LOC127785613
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4349470
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau21
+  Gene Products: uncharacterized LOC133903432
+  Gene Descriptions: uncharacterized LOC133903432
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: uncharacterized sugar kinase slr0537-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: uncharacterized sugar kinase slr0537
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: uncharacterized sugar kinase slr0537
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100273451
+  Gene Synonyms: GRMZM2G121128,pco116177
+  Gene Descriptions: uncharacterized LOC100273451
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 453 aa
+
+MALASTTPSRLIrRFsSSPLPPPPSsLpLAPRpGArssPRACSYHRFAVRWEGRPRALLG
+GFSDAGaSESDDEEEEDALRGGqrEgEcEDVVELAAAASGPERWDVLGLGQAMVDFSGMV
+DDEFLERLGIEKGTRKVVNHEERGRVLRAMDGCSYKAAAGGSLSNSLVALARLGSSRSaS
+YPELRIAMAGSVGSDPLGSFYRAKLRRANVHFLSKPVKDGTTGTVIVLTTPDAQRTMLAY
+QGTSSTLSYDSDLAsLVSKSNvLIVEGYLFELPHTIEAIKQACEDAHKNGALIAVTASDV
+SCIKRCYNDFWDIVGNYADILFANANEARAFCELPSTDSPMSAARYLSHSVPLVSVTDGM
+HGSYIGVKGEAIYIPPPpCIPVDTCGAGDAYASGILYGILRGASDLKGIGLLASRVAAVV
+VGQQGTRLRVQDADRLAESFAhHLDSLEFCSDV
+
+
+BOP CONSENSUS:
+Length: 462 aa
+
+MALASTTASRLISRRLAAPLPPPPSSSCAAPRGGARPGPRRFAVRWEGRPRALLGGFSDA
+DEDASDDEDEEDGPGALSGGPPRQEQeCEDVIELAAAAFSGPERWDVLGLGQAMVDFSGM
+VDDEFLERLGIEKGTRKVVNHEERGRVLRAMDGCTYKAAAGGSLSNSLVALARLGSSRAT
+SYPELRIAMAGSVGSDPLGSFYRQKLHRANVQFLSKPVKDGTTGTVIVLTTPDAQRTMLA
+YQGTSSTLAYDSDLAEIVSKSNLLIVEGYLFEFSHTIEAIKQACEDAKKNGALIAVSASD
+VSCIKRCHSDFWDIVGNYADILFANANEARAFCELTSEESTMSAARYLSHSIPLVSVTDG
+MHGSYIGVKGEAIYIPPPACIPVDTCGAGDAYASGILYGILRGASDLKGIGLLAAQVAAV
+VVGQQGTRLRVKDADRLAESFEFHLDNLEFCSDAGTDQVPNL
+
+
+PACMAD CONSENSUS:
+Length: 459 aa
+
+MALASATTAAATASSPSRLIRRFSSSPPPSSLLPLAPRRGAGSSPRACSYHRLVVRWmGR
+ARALLGGFSDAGASESDDEEEEDALRGGQREGEvEDAVELSAAAAGPERWDVLGLGQAMV
+DFSGMVDDEFLERLGIEKGTRKVVNHEERGRVLRAMDGCSYKAAAGGSLSNSLVALARLG
+SSRSAGYPELKIAMAGSVGSDPLGSFYRAKLRRANVHFLSKPVKDGTTGTVIVLTTPDAQ
+RTMLAYQGTSSTLSYDSDLAsLVSKSNVLIVEGYLFELPHTIEAIKQACEDAHKNGALIA
+VTASDVSCIKRCYNDFRDIVGNYADILFANANEARAFCELPSTDSPMSATRYLSHSVPLV
+SVTDGVHGSYIGVKGEAIYIPPPPCIPVDTCGAGDAYASGILYGILRGASDLKGIGLLAS
+RVAAVVVGQQGTRLRVQDADRLAESFAHHLDSLEFCSDV
+
+================================================================================

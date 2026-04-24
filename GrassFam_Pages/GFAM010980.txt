@@ -1,0 +1,124 @@
+================================================================================
+GrassFam ID: GFAM010980
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             443.5 aa
+Family Size (Extended Family Size): 20 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10625:SF11
+Panther Family ID:               PTHR10625
+Modal Panther ID:                PTHR10625:SF11
+Modal Panther Description:       HISTONE DEACETYLASE 14, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR10625
+Modal Panther Fam Desc:          HISTONE DEACETYLASE HDAC1-RELATED
+Interpro Signature Accession:    cd09992; G3DSA:3.40.800.20; PTHR10625; PF00850; SSF52768
+Interpro Signature Description:  HDAC_classII; Histone deacetylase domain; HISTONE DEACETYLASE HDAC1-RELATED; Arginase/deacetylase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: histone deacetylase 14%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: histone deacetylase 14%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: histone deacetylase 14%2C transcript variant X2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: histone deacetylase 14-like%2C transcript variant X1; histone deacetylase 14-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl12
+  Gene Products: histone deacetylase 10%2C chloroplastic
+  Gene Descriptions: histone deacetylase 10%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa12
+  Gene Products: histone deacetylase 10%2C chloroplastic-like%2C transcript variant X1
+  Gene Descriptions: histone deacetylase 10%2C chloroplastic-like
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu06
+Svi
+  Gene count: 1
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi03K
+  Gene Products: histone deacetylase 14-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: histone deacetylase 14%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: histone deacetylase 14%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 443 aa
+
+MEqLwiPSLPILGGRMLPLLRHYCVFGSHHPLTWRSlQTTGRKQNQNRsWSAQCSAShdG
+ASVSeknGAPKDLaLPDNLLRDARILYCTSPAMGHNKEAHPESNKRVPAIVDALEKLELT
+PKHRGSQVLEIQNFyPASLDDVARVHSRSYITGLEKAMSRASDEGLIFIEGTGPTYATqT
+TFQESLLSAGAGITLVDSVVAASKLGPNPPLGFALVRPPGHHAVPEGPMGFCVFGNIAVA
+ARYAQHQHGLKRVMIIDFDVHHGNGTCDAFYDDPDIFFLSTHQLGSYPGTGKINqVGQGs
+GEGTTLNLPLPGGSGDYAMRCAFDEVIAPSAQRFKPDIILVSAGYDAHALDPLAGLQFTT
+GTFYMLASSIKQLAkELCGGRCVFFLEGGYNLQSLSSSVADTFRAFLDEPSLAAQFDDPA
+MLYEEPTRKIKEAIEKAKHLHSL
+
+
+BOP CONSENSUS:
+Length: 443 aa
+
+MELLRIPSLPILGGRvFPLLRQYrVYGTHHPLTWSSLQTTGRKQNLNGGRsAQCAtSHNG
+ASVSHtNGAPKDSPLPDSLLRDARILYCASPAMGHNKEAHPESNKRVPAIVDALEKLELT
+PKHRGSQVLEIQNFYPASLDDVARVHSRTYITGLEKAMSRASDEGLIFIEGTGPTYATQT
+TFQESLLSAGAGITLVDSVVAASKLGPSPPLGFALVRPPGHHAVPEGPMGFCVFGNIAVA
+ARYAQHQHGLKRVMIIDFDVHHGNGTCDAFYDDPDIFFLSTHQLGSYPGTGKMNLIGQGS
+GEGTTLNLPLPGGSGDYSMRCAFDEVIAPSAQRFKPDIILVSAGYDAHALDPLAGLQFTT
+GTFYMLASSIKQLARELCGGRCVFFLEGGYNLQSLSSSVADTFRAFLDEPSLAAQFDDPA
+MLYEEPTRRIKEAIEKVRHLHSL
+
+
+PACMAD CONSENSUS:
+Length: 444 aa
+
+MEQLLAPSLPVLGGRMLPLLRHCCAFGSHHPLtWRSIFQTyGREQKQIRSWSAQCSANYD
+GASVSEKiNAPKKLALPDNSLLDARILYCTSPALGHNKEAHPESNKRVPAIVDALEKLEL
+SPKHRGSQVLEIQNFNPASLDDVARVHSRSYITGLEKAMSRASDEGLILIEGTGPTYATE
+TTFQESLLSAGAGITLVDSVVAASKLGPNPPLGFALVRPPGHHAVPQGPMGFCVFGNIAV
+AARYAQHQHGLKRVMIIDFDVHHGNGTSDAFYDDPDIFFLSTHQLGSYPGTGKInQVGQG
+DGEGTTLNLPLPGGAGDYAMRCAFDEVIAPSAQRFKPDIILVSAGYDAHALDPLAGLQFT
+TGTFYMLASSIKQLAKELCGGRCVFFLEGGYNLQTLSSSVADTFRAFLDEPSLAAQFDDP
+AMLFEEPTRKIKEAIEKAKGIHSL
+
+================================================================================

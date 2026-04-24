@@ -1,0 +1,122 @@
+================================================================================
+GrassFam ID: GFAM002311
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             455.5 aa
+Family Size (Extended Family Size): 14 (17) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31642:SF13
+Panther Family ID:               PTHR31642
+Modal Panther ID:                PTHR31642:SF13
+Modal Panther Description:       AGMATINE HYDROXYCINNAMOYLTRANSFERASE 1
+Modal Panther Family ID:         PTHR31642
+Modal Panther Fam Desc:          TRICHOTHECENE 3-O-ACETYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:3.30.559.10:FF:000008; G3DSA:3.30.559.10; PTHR31642; PF02458
+Interpro Signature Description:  Tryptamine hydroxycinnamoyl transferase; -; TRICHOTHECENE 3-O-ACETYLTRANSFERASE; Transferase family
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: agmatine hydroxycinnamoyltransferase 1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: agmatine coumaroyltransferase-2-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: agmatine hydroxycinnamoyltransferase 1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: putrescine hydroxycinnamoyltransferase-like
+  Gene Descriptions: putrescine hydroxycinnamoyltransferase-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: putrescine hydroxycinnamoyltransferase-like
+  Gene Descriptions: putrescine hydroxycinnamoyltransferase-like
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: putrescine hydroxycinnamoyltransferase 3-like
+  Gene Descriptions: putrescine hydroxycinnamoyltransferase 3-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: agmatine coumaroyltransferase-2-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: agmatine coumaroyltransferase-2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: agmatine coumaroyltransferase-2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 447 aa
+
+MKVKIESSKIVKPlYDgGVAPstgESVPLSVFDKVTYDvHIAVIYAFRPPNPPNAALEqG
+LARALAVYREWAGRLGDGPDGRPAVLLNDAGARLVEAtVDAPLAvSMPFKPSPELLRLHP
+SIDGGPVEELVQVQLTRFSCGSLVVGFTAHHrVADGQATGNFLVAWGLATRRLPVgPLPV
+CDRATRFqPRDPPLVEFPHReTEYyLPAKKRgadEdDDEEElGGvAHDKIKVHKVHFTKE
+FVARLKARASSGLPPSRRGYSTFESVVGHLWRAVTAARGLGAGETTKLRISVNGRTRMRP
+PVPRDYFGNmVLWAFPRcDAGDLVSRPVQHAAELIHRAVARVDDAYFRSFVDFASSGAVE
+AEGLAPTADESQVVLCPDLEVDSWLGINFYDLDFGGGCPFYFMPSYLPMEGTlFLVPSFL
+GDGSIEAYVSLFEnHLEEFKRICYNIA
+
+
+BOP CONSENSUS:
+Length: 452 aa
+
+MKVKIESSKIVKPLYDDGvAAPAgEWVPLSVFDKVTYgEHVAIIYAFRPPNPPNAAlELG
+LAKALAVYREWAGRLGvGPDGRRSVLLNDAGARFVEAtVDAPLAvSLPFRPSPEVrRLHP
+SiDGPvEELVQVQLTRFSCGSLVVGFAGHHQIADGQATANFLVAWGLATRRLPavPvPVC
+DRATRFvPRDPPLVEFPHREtEYKAPPPpAKiKvgvAgEDEDEDElGgAAAHDKVKVHKM
+HLSKEFVARLKARASSGLPPSRRGYTTFQSVVAHLWRAITAARGLGAGVTTKVRISVNGR
+tRMRPPVPRDYFGNLVLWAFPRCDAGELVSRPVGHAAELIHRAVAgVDDAYFRSFVDFAS
+SGAVEAEGLVPTADSgQvVLCPDLEVDsWLGINFyDLDFGGGCPFYFMPTYyPMEGSLFL
+VPSFLGDGSMEAYVsLFENHLEEFKKICYKIA
+
+
+PACMAD CONSENSUS:
+Length: 449 aa
+
+MKVKITSSKIVKPAYgGGVAPSTdESVPLNVFDRVTYDVHIAVIYAFRPPNPPNAALEQG
+LARALAVYREWAGRLGDGPDGRPAVLLNDAGARLVEAtVDAPLArSMPFKPSPELLRLHP
+SIDGGPVEELVQVQLTRFACGSLVVGFTAHHRVADGQATGNFLVAWGLATRRLPVGPLPV
+CDRATRFQPRDtPLVEFPHRGTEYYLPAKKRGgdEDDEEIGGVAHDKIKVHKVLFTKEFV
+ARLKARASSGLPPPTHhQRRGYSTFESVVGHLWRAVTAARGLGAGETTrLRISVNGRTRM
+RPPVPRtYFGNMVLWAFPRsDAGDLVSRPVQHAADLIHRAVSRVDDAYFRSFIDFASSGA
+VEAEGLAPTADESQVVLCPDLEVDSWLGINFYDLDFGGGCPFYFMPSYLPMEGTMFLLPS
+FLGDGGIEAYVSLFEGHLEEFKRICYNIA
+
+================================================================================

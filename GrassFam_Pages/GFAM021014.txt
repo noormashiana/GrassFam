@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM021014
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             478.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR43000:SF10
+Panther Family ID:               PTHR43000
+Modal Panther ID:                PTHR43000:SF10
+Modal Panther Description:       UDP-SULFOQUINOVOSE SYNTHASE, CHLOROPLASTIC
+Modal Panther Family ID:         PTHR43000
+Modal Panther Fam Desc:          DTDP-D-GLUCOSE 4,6-DEHYDRATASE-RELATED
+Interpro Signature Accession:    cd05255; G3DSA:3.40.50.720; G3DSA:3.90.25.10; PTHR43000; SSF51735
+Interpro Signature Description:  SQD1_like_SDR_e; -; DTDP-D-GLUCOSE 4,6-DEHYDRATASE-RELATED; NAD(P)-binding Rossmann-fold domains
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi02
+  Gene Products: UDP-sulfoquinovose synthase%2C chloroplastic%2C transcript variant X1; UDP-sulfoquinovose synthase%2C chloroplastic%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: UDP-sulfoquinovose synthase%2C chloroplastic%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: UDP-sulfoquinovose synthase%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: UDP-sulfoquinovose synthase%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: UDP-sulfoquinovose synthase%2C chloroplastic
+  Gene Descriptions: UDP-sulfoquinovose synthase%2C chloroplastic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: UDP-sulfoquinovose synthase%2C chloroplastic
+  Gene Descriptions: UDP-sulfoquinovose synthase%2C chloroplastic
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu07
+Pau
+  Gene count: 1
+  Modal chromosome: Pau11
+  Gene Products: UDP-sulfoquinovose synthase%2C chloroplastic-like
+  Gene Descriptions: UDP-sulfoquinovose synthase%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: UDP-sulfoquinovose synthase%2C chloroplastic-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: UDP-sulfoquinovose synthase%2C chloroplastic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: UDP-sulfoquinovose synthase%2C chloroplastic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma08
+  Gene Products: UDP-sulfoquinovose synthase
+  Gene Synonyms: GRMZM2G053322
+  Gene Descriptions: UDP-sulfoquinovose synthase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 478 aa
+
+MKMAHLVTNCSFSPSPAVKThSnSPsYChNViQLQNSKSSNLsLKSCSKRQKKsYVTCAS
+AAVQGQTQTPLTGSQQASGHSSSKPKKVMVIGGDGYCGWATALHLSNKGYEVAIVDNLVR
+RLFDHQLGLDSLTPIASIQNRIRRWKSLTGKTIQLFIGDICDFEFLSEAFKSFEPDAAVH
+FGEQRSAPYSMIDRSRAVYTQHNNVIGTLNVLFAIKEYSEECHLVKLGTMGEYGTPNIDI
+EEGFITITHNGRTDTLPYPKQASSFYHLSKVHDSHNIAFTCKAWGIRATDLNQGVVYGVR
+TDETAMHEELSNRFDYDGVFGTALNRFCVQAAVGHPLTVYGKGGQTRGYLDIRDTVQCVE
+LAIANPAKPGEFRVFNQFTEQFSVNELAKLVTAAGAKLGLDVQTKSVPNPRVEAEEHYYN
+AKHTKLIELGLVPHLLSDSLLDSLLNFAVQYKDRVDTAQIMPSVSWKKMGAKPRTVSV
+
+
+BOP CONSENSUS:
+Length: 478 aa
+
+MAHLVTNCSFSPSPAVKTHcNSPSYGHNvIRFQNSKSSTSSLNLKSCSKRSNKLYVTrAS
+AAVQGQTQTPLTGSQQASGHSSSKPKKVMVIGGDGYCGWATALHLSNKGYEVAIVDNLVR
+RLFDHQLGLDSLTPIASIQNRIRRWKSLTGKTIQLFIGDICDFEFLSEAFKSFEPDSAVH
+FGEQRSAPYSMIDRSRAVYTQHNNVIGTLNVLFAMKEFSEECHLVKLGTMGEYGTPNIDI
+EEGFLTITHNGRTDTLPYPKQASSFYHLSKVHDSHNIAFTCKAWGIRATDLNQGVVYGVR
+TDETAMHEELSNRLDYDGIFGTALNRFCVQAAVGHPLTVYGKGGQTRGYLDIRDTVQCVE
+LAIANPAKPGEFRVFNQFTEQFSVNELAKLVTAAGAKLGLEVQTKSVPNPRVEAEEHYYN
+AKHSKLSELGLVPHLLSDSLLDSLLNFAVQYKDRVDTAQIMPSVSWKKMGAKPKTVSV
+
+
+PACMAD CONSENSUS:
+Length: 478 aa
+
+MKMAHLITNCSFSaSPAVKTFSGSPnYCRNVGQLQNSKSSNLSLKSCSKRQKKSYVTCAS
+AAVQGQTQTPLTGSQQASGHSSSKPKKVMVIGGDGYCGWATALHLSNKGYEVAIVDNLVR
+RLFDHQLGLDSLTPITSIQNRVRRWKSLTGKTIQLFIGDICDFEFLSEAFKSFEPDAAVH
+FGEQRSAPYSMIDRSRAVYTQHNNVIGTLNVLFAIKEYSEECHLVKLGTMGEYGTPNIDI
+EEGFITITHNGRTDTLPYPKQASSFYHLSKVHDSHNIAFTCKAWGIRATDLNQGVVYGVR
+TDETAMHEELSNRFDYDGVFGTALNRFCVQAAVGHPLTVYGKGGQTRGYLDIRDTVQCVE
+LAIANPAKPGEFRVFNQFTEQFSVNELAKLVTAAGAKLGLDVQTKSVPNPRVEAEEHYYN
+AKHTKLIELGLVPHLLSDSLLDSLLNFAIQYKDRVDTAQIMPSVSWKKMGAKPRTVSV
+
+================================================================================

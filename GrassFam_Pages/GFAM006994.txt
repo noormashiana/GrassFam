@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM006994
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             423.0 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR23118:SF59
+Panther Family ID:               PTHR23118
+Modal Panther ID:                PTHR23118:SF59
+Modal Panther Description:       ATP-CITRATE SYNTHASE-RELATED
+Modal Panther Family ID:         PTHR23118
+Modal Panther Fam Desc:          ATP-CITRATE SYNTHASE
+Interpro Signature Accession:    G3DSA:3.30.470.110:FF:000002; G3DSA:3.30.470.20:FF:000127; G3DSA:3.40.50.261:FF:000008; G3DSA:3.30.470.110; G3DSA:3.40.50.261; PF16114; PF24948; SSF56059
+Interpro Signature Description:  ATP-citrate synthase alpha chain protein; ATP-citrate synthase alpha chain protein 3; -; ATP citrate lyase citrate-binding; ATP-citrate synthase ATP-grasp domain; Glutathione synthetase ATP-binding domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: ATP-citrate synthase alpha chain protein 2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: ATP-citrate synthase alpha chain protein 2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: ATP-citrate synthase alpha chain protein 2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: ATP-citrate synthase alpha chain protein 2; ATP-citrate synthase alpha chain protein 2-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola11
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl11
+  Gene Products: ATP-citrate synthase alpha chain protein 2
+  Gene Descriptions: ATP-citrate synthase alpha chain protein 2
+Osa
+  Gene count: 2
+  Modal chromosome: Osa11
+  Gene Products: ATP-citrate synthase alpha chain protein 2-like; ATP-citrate synthase subunit alpha chain protein 1-like
+  Gene Synonyms: ACLA-2
+  Gene Descriptions: ATP-citrate synthase alpha chain protein 2-like; ATP-citrate synthase subunit alpha chain protein 1-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu02
+Pau
+  Gene count: 1
+  Modal chromosome: Pau12
+  Gene Products: ATP-citrate synthase alpha chain protein 2
+  Gene Descriptions: ATP-citrate synthase alpha chain protein 2
+Svi
+  Gene count: 1
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi08K
+  Gene Products: ATP-citrate synthase alpha chain protein 2%2C transcript variant X1; ATP-citrate synthase alpha chain protein 2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha08
+  Gene Products: ATP-citrate synthase alpha chain protein 2-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi09
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: ATP-citrate synthase alpha chain protein 2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100273868
+  Gene Synonyms: cl718_1(752),GRMZM2G107082
+  Gene Descriptions: uncharacterized LOC100273868
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 423 aa
+
+MARKKIREYDSKRLLKEHLKRLAGIDLtILSAQITQSTDFAELVNQQPWLSTTKLVVKPD
+MLFGKRGKSGLVALNLDFaQVKEFVKERLGVEVEMGGCKAPITTFIVEPFVPHDQEYYLS
+IVSERLGSTISFSECGGIEIEENWDKVKTVFLPTEKPMTPDACAPLIATLPLEARGKIGD
+FIKGVFAVFQDLDFSFLEMNPFTMVNGEPYPLDMRGELDDTAAFKNFKKWGNIEFPLPFG
+RVLSSTESFIHELDEKTSASLKFTVLNPKGRIWTMVAGGGASVIYADTVGDLGYASELGN
+YAEYSGAPNEEEVLQYARVVLDCATADPDGRKRALLIGGGIANFTDVAATFNGIIRALRE
+KESKLKASRMHIYVRRGGPNYQTGLAKMRKLGAELGVPIEVYGPEATMTGICKQAIECIM
+AAA
+
+
+BOP CONSENSUS:
+Length: 423 aa
+
+MARKKIREYDSKRLLKEHLKRLAGIDLHILSAQVTQSTDFtELVNQHPWLSTTKLVVKPD
+MLFGKRGKSGLVALNLDIAQVKEFVKERLGVEVEMGGCKAPITTFIVEPFVPHDQEYYLS
+IVSERLGSTISFSECGGIEIEENWDKVKTVFLPTEKPMTPDACAPLIATLPLEARGKIGD
+FIKGVFAVFQDLDFSFIEMNPFTMVNGEPYPLDMRGELDDTASFKNFKKWGNlEFPLPFG
+RVLSSTESFIHELDDKTSASLKFTVLNPKGRIWTMVAGGGASVIYADTVGDLGYASELGN
+YAEYSGAPNEEEVLQYARVVLDCATADPDGRKRALLIGGGIANFTDVAATFSGIIRALRE
+KESKLKASRMHLYVRRGGPNYQTGLAKMRKLGAEIGVPIEVYGPEATMTGICKQAIECIM
+AAA
+
+
+PACMAD CONSENSUS:
+Length: 423 aa
+
+MARKKIREYDSKRLLKEHLKRLAGIDLTILSAQITQSTDFAELVSQQPWLSTTKLVVKPD
+MLFGKRGKSGLVALNLDFDQVKEFVKERLGVEVEMGGCKAPITTFIVEPFVPHDQEYYLS
+IVSERLGSTISFSECGGIEIEENWDKVKTIFLPTEKPMTPDACAPLIATLPLEARGKIGD
+FIKGVFAVFQDLDFSFLEMNPFTMVNGEPYPLDMRGELDDTAAFKNFKKWGaIEFPLPFG
+RVLSPTESFIHELDEKTSASLKFTVLNPKGRIWTMVAGGGASVIYADTVGDLGYASELGN
+YAEYSGAPNEEEVLHYARVVLDCATADPDGRKRALLIGGGIANFTDVAATFNGIIRALRE
+KESKLKASRMHIYVRRGGPNYQSGLAKMRKLGAELGVPIEVYGPEATMTGICKQAIECIM
+AAA
+
+================================================================================

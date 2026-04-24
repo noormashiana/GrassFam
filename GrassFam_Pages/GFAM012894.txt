@@ -1,0 +1,111 @@
+================================================================================
+GrassFam ID: GFAM012894
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             359.0 aa
+Family Size (Extended Family Size): 47 (52) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11746:SF226
+Panther Family ID:               PTHR11746
+Modal Panther ID:                PTHR11746:SF226
+Modal Panther Description:       O-METHYLTRANSFERASE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR11746
+Modal Panther Fam Desc:          O-METHYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:1.10.10.10:FF:000292; G3DSA:3.40.50.150:FF:000057; G3DSA:1.10.10.10; G3DSA:3.40.50.150; PTHR11746; PIRSF005739; PF00891; SSF53335; SSF46785
+Interpro Signature Description:  O-methyltransferase ZRP4; -; Vaccinia Virus protein VP39; O-METHYLTRANSFERASE; O-mtase; O-methyltransferase domain; S-adenosyl-L-methionine-dependent methyltransferases; Winged helix DNA-binding domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 5
+  Modal chromosome: Bdi02
+  Gene Products: acetylserotonin O-methyltransferase 1; acetylserotonin O-methyltransferase 1%2C transcript variant X1
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu01H
+  Gene Products: acetylserotonin O-methyltransferase 1-like
+Ata
+  Gene count: 9
+  Modal chromosome: Ata01D
+  Gene Products: 5-pentadecatrienyl resorcinol O-methyltransferase-like; O-methyltransferase ZRP4; acetylserotonin O-methyltransferase 1; acetylserotonin O-methyltransferase 1%2C transcript variant X1; acetylserotonin O-methyltransferase 1-like
+Tae
+  Gene count: 17
+  Modal chromosome: Tae01B
+  Gene Products: 5-pentadecatrienyl resorcinol O-methyltransferase-like%2C transcript variant X1; O-methyltransferase ZRP4-like; acetylserotonin O-methyltransferase 1-like; acetylserotonin O-methyltransferase 1-like%2C transcript variant X1
+Ola
+  Gene count: 2
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: acetylserotonin O-methyltransferase 1-like
+  Gene Descriptions: acetylserotonin O-methyltransferase 1-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa04
+  Gene Products: acetylserotonin O-methyltransferase 1-like; acetylserotonin O-methyltransferase 3-like
+  Gene Descriptions: acetylserotonin O-methyltransferase 1-like; acetylserotonin O-methyltransferase 3-like
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu02
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Msi
+  Gene count: 1
+  Modal chromosome: Msi09
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: O-methyltransferase BX7
+  Gene Synonyms: Bx7,IDP478,ZRP4
+  Gene Descriptions: O-methyltransferase BX7
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 359 aa
+
+MAPTQDKhSSQDLLQAQVDLWHHALGFVKSMALKCAMELQIPNTIQHHGGaMTPSELATK
+IGLHPSKLPRLRRLMRVLTVSGIFVVHEsASPDKEaVYGLTPTTRLLVSDEVKSNLFPIL
+SLMLDSTvIaPFFGMHSWFLDEHSTSLFKKAHGLnfWEMADQDdaYNQlINNAMVSDSNF
+LMDIILRECGDVFLGINSLIDVAGGHGGAARAIAkAFPQMKCTVLDLPHVVAEAPsDgHV
+SFISGDMFKYIPPADALFLKwVFHDWGDEDCVKILKkCKEAIPPRDAGGKVIIVDMVVGS
+GPnEIVTRETQVLYDLFIMcfEGIEREEFEWKKIFMEAGFSdYKIISVLGVRSVIELYP
+
+
+BOP CONSENSUS:
+Length: 359 aa
+
+MAPTQDKhSSQDLLQAQVDLWHHALGFVKSMALKCAMELQIPNTIQHHGGaMTPSELATK
+IGLHPSKLPRLRRLMRVLTVSGIFVVHEsASPDKEaVYGLTPTTRLLVSDEVKSNLFPIL
+SLMLDSTvIaPFFGMHSWFLDEHSTSLFKKAHGLnfWEMADQDdtYNQlINNAMVSDSNF
+LMDIILRECGDVFLGINSLIDVAGGHGGAARAIAkAFPQMKCTVLDLPHVVAEAPsDdHV
+SFISGDMFKYIPPADALFLKwVFHDWGDEDCVKILKkCKEAIPPRDAGGKVIIVDMVVGS
+GPnEIVTRETQVLYDLFIMcfEGIEREEFEWKKIFMEAGFSdYKIISVLGVRSVIELYP
+
+
+PACMAD CONSENSUS:
+Length: 256 aa
+
+MYHAVAQTSVSTFFDMHAWFADDRADISLCEMAHGKGLWEMIKTSAADNVVPCMVADTRL
+VMHVILRDCPGIFRGITSLVDVGGGYGSAAAAVATAFPHIKCTVLDLPQVVAMAPTDGQV
+SFVAGDFFEIIPQADAVFLKTILHDWNDEDCGKILRQCKKAIPPKHAGGKVIIIDMVVGS
+SPQDRSCQETQALTDLFIMSINGVEREEHEWRKIFLEAGFGDYKITPILGLRSIIEVYPR
+EDLDQNLSNSVLSSRL
+
+================================================================================

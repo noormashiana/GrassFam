@@ -1,0 +1,126 @@
+================================================================================
+GrassFam ID: GFAM000491
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             380.0 aa
+Family Size (Extended Family Size): 65 (78) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10177:SF563
+Panther Family ID:               PTHR10177
+Modal Panther ID:                PTHR10177:SF456
+Modal Panther Description:       OS02G0600266 PROTEIN
+Modal Panther Family ID:         PTHR10177
+Modal Panther Fam Desc:          CYCLINS
+Interpro Signature Accession:    G3DSA:1.10.472.10; PTHR10177; SSF47954
+Interpro Signature Description:  -; CYCLINS; Cyclin-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 3
+  Modal chromosome: Bdi03
+  Gene Products: cyclin-F2-2; cyclin-F2-2-like; putative cyclin-F2-1
+Lpe
+  Gene count: 4
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 5
+  Modal chromosome: Hvu06H
+  Gene Products: cyclin-F2-2-like; putative cyclin-F1-1
+Ata
+  Gene count: 5
+  Modal chromosome: Ata06D
+  Gene Products: cyclin-F2-2-like; putative cyclin-F1-1; putative cyclin-F2-1
+Tae
+  Gene count: 8
+  Modal chromosome: Tae06D
+  Gene Products: cyclin-F2-2-like; putative cyclin-F1-1; putative cyclin-F2-1
+Ola
+  Gene count: 3
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 5
+  Modal chromosome: Ogl02
+  Gene Products: cyclin-F2-2-like; putative cyclin-F1-3; putative cyclin-F1-4; putative cyclin-F2-1
+  Gene Descriptions: cyclin-F2-2-like; putative cyclin-F1-3; putative cyclin-F1-4; putative cyclin-F2-1
+Osa
+  Gene count: 6
+  Modal chromosome: Osa02
+  Gene Products: cyclin-F2-2-like; putative cyclin-F1-2; putative cyclin-F1-3; putative cyclin-F2-1
+  Gene Synonyms: CYCF2-2,CycF2%3B2,OJ1058_F07.10,OsJ_007220
+  Gene Descriptions: cyclin-F2-2-like; putative cyclin-F1-2; putative cyclin-F1-3; putative cyclin-F2-1
+Ecu
+  Gene count: 6
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 3
+  Modal chromosome: Pau05
+  Gene Products: putative cyclin-F2-1
+  Gene Descriptions: putative cyclin-F2-1
+Pvi
+  Gene count: 5
+  Modal chromosome: Pvi01N
+  Gene Products: putative cyclin-F1-1; putative cyclin-F1-2; putative cyclin-F2-1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: putative cyclin-F2-1
+Msi
+  Gene count: 7
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi04
+  Gene Products: cyclin-F2-2; putative cyclin-F2-1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: putative cyclin-F2-1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 355 aa
+
+MQyAMDPYAgAFARPPPPGFFgvgscarAAnrPARRPPPPGFFgIGscaRPAaDVPARRP
+PPPGFfgACRRVLPPAPCEvPmPPKFSKPaaPAPAPvscvaaaStKrqRLCpDYEDDIDA
+NLRlmEKnAeERPlPDYLkTVQQDRVSpstRASLVGWMDKFVRdHdLAdGTLHhAVAYVD
+RVLSVRALttdsgYELRLLGAAAVFVAAKYEDQrTVwKLkADeIAsYGeFAsgkEVLDME
+REMVeALGYQLGGPTAHTFVgHFTRYAeGEeklkIlpLAHRLADQSLLnYtCLriLPSVV
+AASAIFLARrTLNPpdVLAWNrELqELTGYncsDLtaCVlnMfsFSrSLICnPpS
+
+
+BOP CONSENSUS:
+Length: 355 aa
+
+MQyAMDPYAdAFARPPPPGFFgvgSgarAAdrpARRPPPPGFfGVGSCArPaADVPARRP
+PPPGFFGACRRVLPPaPcEvPvPPKFSKPAAPAPAPVScVaaaStKRQRLCPDYEDDIDA
+NLRlmEKNAEERPLPDYLkTVQQDRVSpSaRASLVGWMDKFVRdHDLADGTLHHAVAYVD
+RVLSVRALttdSgYELRLLGAAAvFVAAKYEDQrtVwKLkADqIAsYGEFAagKEVLDME
+REMVeALGYQLGGPTAHTFvgHFtRYAeGEdktKIlpLAtRLADQSLLNYtCLRILPSVV
+AASAIFLARrALNPPDVLAWNtELqELTGYNcsDLtaCVLnMffFSRSLICNPpS
+
+
+PACMAD CONSENSUS:
+Length: 394 aa
+
+MMHTNPFSFDLDtAPPYSTASSWSFSGGDMGRRTHPFSFGLDIAPPrDYvPAVGALPvPP
+AGFNPRPYGNPFADGySLtMDVPAPWDryYVQrGVEEPVSVSSAAPVCDGAGTLyDDNST
+rVPPKLCCPYDGYDEDIEATLRAQEDEAKPSPDYLETTQRGRMSQDTRATLVGWMKRFTQ
+CYGLAPGTLHRAVSYADRFLSVRPLADVGMHRLRLLGAVAVYAAAKYEDQGTVELLnAaE
+IAsYcrrcgGGFASSKQeVLDMERALLAALDYRLGRPTAYTFVEHFTRHYGQEElRLELR
+SCAHDFADMSLLHYSCLQHNPSAVAAAAMFLARLTLKPTYGQmtRWNRELKELTGYEPiK
+LkRCVEAIHSLIPHHGDGSYDDVDLFPMFYADPw
+
+================================================================================

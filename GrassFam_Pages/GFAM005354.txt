@@ -1,0 +1,110 @@
+================================================================================
+GrassFam ID: GFAM005354
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             574.0 aa
+Family Size (Extended Family Size): 15 (15) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31225:SF232
+Panther Family ID:               PTHR31225
+Modal Panther ID:                PTHR31225:SF232
+Modal Panther Description:       TERPENE SYNTHASE METAL-BINDING DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR31225
+Modal Panther Fam Desc:          OS04G0344100 PROTEIN-RELATED
+Interpro Signature Accession:    cd00684; G3DSA:1.10.600.10:FF:000007; G3DSA:1.50.10.130; G3DSA:1.10.600.10; PTHR31225; PF03936; PF01397; SFLDS00005; SFLDG01019; SSF48239; SSF48576
+Interpro Signature Description:  Terpene_cyclase_plant_C1; Isoprene synthase, chloroplastic; -; Farnesyl Diphosphate Synthase; OS04G0344100 PROTEIN-RELATED; Terpene synthase family, metal binding domain; Terpene synthase, N-terminal domain; Isoprenoid Synthase Type I; Terpene Cyclase Like 1 C Terminal Domain; Terpenoid cyclases/Protein prenyltransferases; Terpenoid synthases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: isoprene synthase%2C chloroplastic; tricyclene synthase EBOS%2C chloroplastic
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe01
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: alpha-terpineol synthase%2C chloroplastic-like
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: alpha-terpineol synthase%2C chloroplastic-like; geraniol synthase%2C chloroplastic-like; isoprene synthase%2C chloroplastic-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu04
+Pau
+  Gene count: 1
+  Modal chromosome: Pau14
+  Gene Products: alpha-terpineol synthase%2C chloroplastic-like
+  Gene Descriptions: alpha-terpineol synthase%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: terpene synthase 10-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi04
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: alpha-terpineol synthase%2C chloroplastic%2C transcript variant X1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 577 aa
+
+MASsVcSTeYrlPsAeLqRRSANYQPKTWDYDSICSMqqradhEpSKESSLQASLKQrVR
+RLLLEEEdELatRLRIiDQLQSLGVAYHFEEEIRnILMSMHVHDAHlQLKHDLSSTALLF
+RMLRghGIPASTDMLsAFrdEnGDfkAaNPKDIDGLVALYEASYLAFPGEAMLDeARAFA
+VkKLaqRMPsmsctmlllqlDLPLHWRAPRLQAmWSLKqHrYNdnknvsvDPsILQLAqV
+DFNLVQAVHRaELVEVTRWWKETGLGEKLPFARDRLVECFFCAACIAPEPrLAeCREVLA
+KvGSLIVHLDDIYDVYGTlDELaAFTDAIGSWDDDvaagaALPEYMKAMYSAIwsTStaA
+ADRVLekHGYDVLPLYKKAWHELCKAFLVEAkWQHeGhMPSFdEYLeNGWVTSTGPLLLL
+HALTMLgavqQQqqiDSWLRnhddGagGdivYPRLVELSStIFRLCNDCASHEAESERGD
+APSSIACcMAEgwcASEEqARAAVQDaIAETWKevNrEVvvssatGSmtaaanLCvNLAR
+iIqCIYQDGDGITSPTdSrKQLVKDLLFtPiDLDIHh
+
+
+BOP CONSENSUS:
+Length: 577 aa
+
+MASSAHATMYAERLPSAELQRRPANYQpKTWDYDSICSMQQQAQQDhEpSKESSLQASLK
+QkVRrLLLeEEEELATRLRIMDQLQSLGVAYHFEEEIRnILMSMHVHDAHLQLKHDLSST
+ALLFRMLRAHGIsASTDMLSAFRDENGDFKAANPKDIDGFVALYEASYLAFPGEAMLDEA
+RAFAVKKLEQLMPSMsisMGpasQERQgDLPLHWRVPRLQAIWSLKQHRYNDErnlSIDP
+SILQLAvVDFNLVQAVHGAELVEVTrWWKETGLGEKLPFARDRLVECFFCAACIAPEPrL
+AGCREVLAKVGSLIVHLDDVYDLYGTLDELAAFTDAVGsWDDDALstALPEYMKAMYSAI
+RSTSTEAADRVMKEqGYDVLPLYKKAWHELCKAFLVEAKWQHEGqMPSLEEYLENGWVTS
+TGPLLLLHAFTMLQQQEQiDSWLRNHDDGgDMVYPKLVELCSrIFRLCNDCATHEAESER
+GEaPSsItCrMGGGASKEEARgAVADAIAETWKEVNREVAtsSsTgSAAnrvCVNLARtI
+QCIYqDGDGITSPTDSRKrLVKDLLFTPiDLDICGAw
+
+
+PACMAD CONSENSUS:
+Length: 483 aa
+
+VVMHQqqtqLDLDLHSAALLFRMLRGLGIPASTDMLMSALREEGDKITDSDGLLAVYQAS
+YLAFPGETVLDQARAFAVGKLAGRDDDSDCTHLPPLPLQWTAPRLQAMWSLKgDDHNKsv
+AVDPAILQLAQLDFNLVQALHRRELAEVTRWWKESRLGEYSFARDRVVECFFCAACIAPE
+PHLAECREVLAKTsALIVHLDDIYDVHGTpDELqAFTDAIASWEHRDDDDSAVVMGMALP
+EYMKAMYSAIWtTSvTAADRVLEKHGYDMLPLYKKAWHELCKAFLVEAQWQQQGhrPSFA
+EYVsNGWVTSTGPLLLLHALPAAGAVPITQtQGDANNGAAAGIDYPRLVELSSTIFRLCN
+DCASHEAESERGDAPSSIACCMAEPWCAGEEQARAAVQGVIAETWKALNWEVVVAAASGS
+GGNDPCCSSSAETESMTtMANLCLNLARIIHCIYQDGDGITSPTHRMKQMVKDLLFNPIH
+HVL
+
+================================================================================

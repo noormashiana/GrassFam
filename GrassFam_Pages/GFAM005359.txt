@@ -1,0 +1,116 @@
+================================================================================
+GrassFam ID: GFAM005359
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             543.0 aa
+Family Size (Extended Family Size): 63 (112) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31391:SF48
+Panther Family ID:               PTHR31391
+Modal Panther ID:                PTHR31391:SF48
+Modal Panther Description:       TF-B3 DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR31391
+Modal Panther Fam Desc:          B3 DOMAIN-CONTAINING PROTEIN OS11G0197600-RELATED
+Interpro Signature Accession:    G3DSA:2.40.330.10; PTHR31391; SSF101936
+Interpro Signature Description:  -; B3 DOMAIN-CONTAINING PROTEIN OS11G0197600-RELATED; DNA-binding pseudobarrel domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                1.59%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 4
+  Modal chromosome: Bdi01
+  Gene Products: B3 domain-containing protein Os03g0619600%2C transcript variant X4; B3 domain-containing protein Os03g0620400; B3 domain-containing protein Os03g0620400%2C transcript variant X3
+Lpe
+  Gene count: 2
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 8
+  Modal chromosome: Hvu04H
+  Gene Products: B3 domain-containing protein Os03g0619600-like; B3 domain-containing protein Os03g0619600-like%2C transcript variant X2; B3 domain-containing protein Os03g0619600-like%2C transcript variant X5; B3 domain-containing protein Os03g0620400-like; B3 domain-containing protein Os03g0620400-like%2C transcript variant X1
+Ata
+  Gene count: 10
+  Modal chromosome: Ata03D
+  Gene Products: B3 domain-containing protein LOC_Os12g40080; B3 domain-containing protein Os03g0619600%2C transcript variant X1; B3 domain-containing protein Os03g0619600-like; B3 domain-containing protein Os03g0620400; B3 domain-containing protein Os03g0620400-like
+Tae
+  Gene count: 29
+  Modal chromosome: Tae03D
+  Gene Products: B3 domain-containing protein LOC_Os12g40080-like; B3 domain-containing protein LOC_Os12g40080-like%2C transcript variant X1; B3 domain-containing protein Os03g0619600-like; B3 domain-containing protein Os03g0619600-like%2C transcript variant X1; B3 domain-containing protein Os03g0619600-like%2C transcript variant X2; B3 domain-containing protein Os03g0619600-like%2C transcript variant X3; B3 domain-containing protein Os03g0620400-like; B3 domain-containing protein Os03g0620400-like%2C transcript variant X1; B3 domain-containing protein Os03g0620500-like; uncharacterized LOC123076568
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl03
+  Gene Products: B3 domain-containing protein Os03g0620400; B3 domain-containing protein Os03g0620500
+  Gene Descriptions: B3 domain-containing protein Os03g0620400; B3 domain-containing protein Os03g0620500
+Osa
+  Gene count: 2
+  Modal chromosome: Osa03
+  Gene Products: B3 domain-containing protein Os03g0620400-like; B3 domain-containing protein Os03g0620500-like
+  Gene Synonyms: OsJ_11757
+  Gene Descriptions: B3 domain-containing protein Os03g0620400-like; B3 domain-containing protein Os03g0620500-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: B3 domain-containing protein Os03g0620400-like
+Msi
+  Gene count: 4
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: B3 domain-containing protein Os03g0620400
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 524 aa
+
+MkkSCdCCKRYwdHLhGKMKCFvrrMsANsRHsMVIPerFvNhFGGKiSRTIELESPNGn
+VYdVgVTEhmNKTVLrsGWEAFVDAHhIeENDSLLFRHIgnSRFKVLVfDSsGCEKVvsC
+AGIksniNdQEpsTNSvDISsSSsDgnThSSgrkRsddCQSGSSSHrRKrAkkDAiSSpS
+EDSGEDSPsEHESSfslDDtlptPgrDYVLSrrsyLSgAQEEkVtrLlQdIQPEtPVFVA
+IMKkSNVkPrypsLVIPKdYAvAHFPheSQtvTLQRPGKSKKWHPrFyIRKDgcgHvLtG
+rWsdFVRDNhVqEGDICIFQPmKgtGrRFkftVHLLRessgasaGsgtgPKrTTdGrTrA
+KatpTlRVKKEPdDgcnHGrqkEsDDSdPsrPYmlSstArLTeEQekKVeekVgAIqSdv
+PIYVAVMNKSSVGVNGlYsLTFgrkYAAtYLPkGErTlTLqReGKSkaWhVeMrpRGgAr
+mLrgGWRsFArDNRLRvgDICLFQLMKNrrkLTMtVyIIRreec
+
+
+BOP CONSENSUS:
+Length: 516 aa
+
+MkkSCdCCKRYWtHLHGKVKCFvrrMdaNSRHsMVIPEkFvnhFGGKiSRTIELEsPNGN
+VYDVgVTErRNKTVLRSGWEAFVDANHIvENDSLMFRYrGnSRFkVLVFDSSGCEKVVSC
+AGIksnsNDQEpsTNStDISsSSSDgnThSSgskRSDdCQSGSSGHpRKrAKkDAiSSPS
+EDssgEDSPsEHESSfslDDtLqTPpGrDYVLSrrsyLSgAQEEKVtrLlQDIQaEtPvF
+VAIMKkSNVkPrypsLVIPKeYAvAHFPrESQTvTLQRPGKSKKWHPrFyIRKDGcGhvL
+tGsWvgFVRDNhVqEGDiCvFqPmkgtGrrFkfTVHLLResskhhagssTGGrTrAKAAs
+TlrVkKEpddgcNHGdtesaRPYmmSstArLTeeQekkVleKvrAIqSdvPIYVAVMNKS
+SVGvNglYsLTFgrkYAAtYLPkGeRtlVLQreGKskaWhvEMRpRsGgArrLrGGWrsF
+ArDNrLRvgDICLFQLMKNrrkLTMmVhIIRReecR
+
+
+PACMAD CONSENSUS:
+Length: 553 aa
+
+MdGQGSQVKKSCACCkRYMDHLrGKMTCFLMpMSANYRHSMTMPARFMNQFGGEISESID
+IESPDGSVYAVKGTKYMNKTLPQCGWKAFVDAHPIEENDSLLFQHIEKARFKVLIIDPDG
+CEKVFPCDGIRISSSNIQERDTDCVDVSDRSHDhADKSSRVRKRVSSCQRDCPSQRRKAA
+RITTTSASSSEESGFDDDPKTNAAPDYVLSCMSILSDEQEEQVDgLIKQIQPETTVFVAL
+MKPsNVKTRGPsLVIPHAYAAAHFPHKNQVVTLQRPGKSKKWHPRLNVRKDRSCHMLMGP
+WSHFVQDNHVQEGDICIFQPLKTAGVRFTLMVHLIHQSKVGTLLHDEKNGNSPSPAGGTS
+SSRGRTMRSKANDLKIVHStDGKAKAEVTPIARVKEEPADQGPSNSKGHWTDDESGDSGG
+PSEAGLYILSAHAHLADEQRKKVEDIVGSIQSQVPIYVAVMNKSSVAVTGTCVLYFGKQY
+TSKYLPHGEHTVTLVRNGKSsAWKVKMHAQMLSKGWRGFVRDNRLKLDDICLFQLTKDDI
+KMLTMTVYIIRHV
+
+================================================================================

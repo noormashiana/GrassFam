@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM003320
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             401.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR48009:SF4
+Panther Family ID:               PTHR48009
+Modal Panther ID:                PTHR48009:SF4
+Modal Panther Description:       LEUCINE-RICH REPEAT (LRR) FAMILY PROTEIN
+Modal Panther Family ID:         PTHR48009
+Modal Panther Fam Desc:          LEUCINE-RICH REPEAT (LRR) FAMILY PROTEIN
+Interpro Signature Accession:    G3DSA:3.80.10.10; PTHR48009; SSF52058
+Interpro Signature Description:  Ribonuclease Inhibitor; LEUCINE-RICH REPEAT (LRR) FAMILY PROTEIN; L domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: probable inactive leucine-rich repeat receptor kinase XIAO
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: LRR receptor-like serine/threonine-protein kinase SIK1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: LRR receptor-like serine/threonine-protein kinase ERL2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: LRR receptor-like serine/threonine-protein kinase ERL2; LRR receptor-like serine/threonine-protein kinase FLS2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: LRR receptor-like serine/threonine-protein kinase ERECTA%2C transcript variant X1
+  Gene Descriptions: LRR receptor-like serine/threonine-protein kinase ERECTA
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: LRR receptor-like serine/threonine-protein kinase ERL1%2C transcript variant X1
+  Gene Descriptions: LRR receptor-like serine/threonine-protein kinase ERL1
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: LRR receptor-like serine/threonine-protein kinase ER2; LRR receptor-like serine/threonine-protein kinase RGI1
+  Gene Descriptions: LRR receptor-like serine/threonine-protein kinase ER2; LRR receptor-like serine/threonine-protein kinase RGI1
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: LRR receptor-like serine/threonine-protein kinase ER1; LRR receptor-like serine/threonine-protein kinase ERECTA
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: LRR receptor-like serine/threonine-protein kinase ERECTA%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: probable LRR receptor-like serine/threonine-protein kinase IRK
+Zma
+  Gene count: 2
+  Modal chromosome: Zma06
+  Gene Products: Leucine-rich repeat (LRR) family protein; Leucine-rich repeat (LRR) family protein%2C transcript variant X1
+  Gene Synonyms: GRMZM2G099981; GRMZM2G176651
+  Gene Descriptions: Leucine-rich repeat (LRR) family protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 401 aa
+
+MAVtARLGAVVACVvLAAVAVAPRPAAGILDPVDFLALQAVRRSLDDMPGSAFFDGWDFT
+ADPCGFPGVFCDGnRVAALALGDPRAGSPGLTGRLDPALGRLSALTELSLVPGRVEGELP
+ASLASCSNLRFLAVSKNLLSGqIPDGfGALSNLRTLDVSFNQISGAIPPSIAALPSITNL
+ILCHNQLTGGIPSFPDSSPLLRLDLKHNALSGGVPtLPaGLQYLSLSANrLTGTVDsVLP
+RLTRLNFLDLSMNQLeGPIPASVFtLPLSVLQLQRNFFSGPVQPssDVTIPVVDLSYNRF
+WGQLSPLLAGVGQLYLNNNRFTGEVPSRLVQELVGSGGLQVLYLQHNFLTGIEISPSSSL
+PStVSLCLMYNCMVPPVYAPCPIKAGSQNTRPADQCPEWRG
+
+
+BOP CONSENSUS:
+Length: 393 aa
+
+MARLGAVVVVFLAAAVAAEGILDPVDFLALQAVRRSLDDMPGSAFFDAWDFTADPCGFPG
+VYCDGNRVSALALGDPRAGSPGLTGRLDPALGRMSALTELSLVPGRVQGELPASLASCSN
+LRFLAVSKNLLSGgIPDGIGALSNLRTLDVSFNQISGAIPPSIASLPSITNLILCHNQLT
+GGIPSFPDSSPLLRMDLKHNALSGGVPSLPGSLQYLSLAANRLTGNVDSVLPRLTRLNYL
+DLSMNQLQGPIPASVFTLPLSVLQLQRNFFSGLLQPTSDVTIPVVDLSYNRFWGPLSPLL
+AGVGQLYLNNNRFTGDVPSRLVQELVGTGGLQLLYLQHNFLTGIEISPSSSLPSGVSLCL
+MYNCMVPPVYAPCPIKAGTQNTRPADQCPEWRG
+
+
+PACMAD CONSENSUS:
+Length: 401 aa
+
+MAVTARLGAVVACVVLAAVAVAPRPAAGILDPVDFLALQAVRRSLDDMPGSAFFDGWDFT
+ADPCGFPGVFCDGDRVAALALGDPRAGSPGLTGRLDPALGRLSALTELSLVPGRVEGELP
+ASLASCSNLRFLAVSKNLLSGqIPDGFGALSNLRTLDVSFNQISGAIPPSIAALPSITNL
+ILCHNQLTGGVPSFPDSSPLLRLDLKHNALSGGVPTLPAGLQYLSLSANKLTGTVDQVLP
+RLTRLNFLDLSMNQLEGPIPASVFALPLSVLQLQRNFFAGPVQPSNDVTIPVVDLSYNRF
+WGQLSPLLAGVGQLYLNNNRFTGEVPARLVQELVGSGGLQVLYLQHNFLTGIEISPSSSL
+PSTVSLCLMYNCMVPPVYAPCPIKAGSQNTRPADQCPEWRG
+
+================================================================================

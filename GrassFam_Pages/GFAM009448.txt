@@ -1,0 +1,114 @@
+================================================================================
+GrassFam ID: GFAM009448
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             534.0 aa
+Family Size (Extended Family Size): 12 (12) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12542:SF113
+Panther Family ID:               PTHR12542
+Modal Panther ID:                PTHR12542:SF113
+Modal Panther Description:       EXOCYST SUBUNIT EXO70 FAMILY PROTEIN
+Modal Panther Family ID:         PTHR12542
+Modal Panther Fam Desc:          EXOCYST COMPLEX PROTEIN EXO70
+Interpro Signature Accession:    G3DSA:1.20.1280.170; PTHR12542; PF03081; SSF74788
+Interpro Signature Description:  Exocyst complex component Exo70; EXOCYST COMPLEX PROTEIN EXO70; Exo70 exocyst complex subunit C-terminal; Cullin repeat-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: exocyst complex component EXO70A1-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata02D
+  Gene Products: exocyst complex component EXO70A1%2C transcript variant X1
+Tae
+  Gene count: 2
+  Modal chromosome: Tae02A
+  Gene Products: exocyst complex component EXO70A1-like
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: exocyst complex component EXO70A1-like%2C transcript variant X1
+  Gene Descriptions: exocyst complex component EXO70A1-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa06
+  Gene Products: exocyst complex component EXO70A1-like; uncharacterized protein%2C transcript variant X1
+  Gene Descriptions: exocyst complex component EXO70A1-like; uncharacterized LOC4340672
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau08
+  Gene Products: exocyst complex component EXO70A1-like
+  Gene Descriptions: exocyst complex component EXO70A1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi04K
+  Gene Products: exocyst complex component EXO70A1-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 579 aa
+
+MAVQSPGTGDSQEeLRRRLEAAEEAVrRWgSRgAADtGGGSPELAAAVRELISLsSgGGs
+YGQRAKvALQvAMvHLEDEFRQVLISGTYFHPPDSLQESLHDsIALPmRSFSFSSIPNLE
+ALSISSFSTsPTDDSRTYCtGFSRDSVSMEKVHLYLIDPEASILLKEIAELMILAGHAPN
+LCHvYGETRHNtLMQCLsLLGVQIEqKSyNPAAATAEGGCSMQLDgkKvKlWIQALKViV
+GTVLPEERqACAQIFGCDsKVEEDCFARATTRCTqQLLAvGSmIANVKDQQYEKVPLLLQ
+MHEELaKLQPSIqvLLSGDAKdVISQeASMLLDKLGEEALsLLLEFLnlQsNhKPnEkTV
+LDGSILSLTQhVMGFvKLLAEYSDtlNLILpLevEeagEerTkSPWEsYVLtLLsRLQLK
+IEEKSESYKDERLRYIFLMNNAMYVLEgSrSSDLSMSLrDnWnheQLVlRVEQYATAYLR
+ASWTsALFqLKDtGvsfrrsnsLKKtFKNFNSAFGEISRVQTTWKVPNPQLRQHLRLIIL
+QQVlPAYRAYvGRyGCllSKYIKYTPDDIENHVLDLFEG
+
+
+BOP CONSENSUS:
+Length: 581 aa
+
+MISQPPITDDSIAEPGRRRLEAAEEAVRRWVSRGAAVEGSYGVSYSPGLAAAVKDLISLR
+SHGGLYKLALQSAMVHLEDDFRQVLISGTYLYPPDSLQESLYDSIAPPMRSFSFSSIPNL
+EDLSFSSFSTSPSGESRTYGTGYSRGSVCMEKVHMYLIDPEASILLKEIAELMILAGHAP
+NMCRAYGETRHNMLMQCLSLLGVQIEQKSYNNPAAATANGACSMQLYEKNQKMWIQALRV
+vVSTVLPEERqACAQIFGCDRKVEEDCFARATTRCTGQLLAVGSMMTNVKVNDQQYHKVP
+LLLQMHEELLKLQPSINVLrSGDAKGVISEQASMLLDKLGEEASSLLLEFLNVqSNlKPy
+QNIVLDGDILPLTQHVMGFIELLaEYSDTlNlILPVEvggvGtvTKSPWEsYVLtLLARL
+QLKvEEKAESYKDERLRYIFLMNNAMHVLKGsGSPDLSMSMGDDNvQQqVVRVEQYATAY
+LRASWTEALFQLSDHGVSYtvRSlwmtKsmKNFNSAFGEISRVQTTWKVPNPQLRQHLRL
+VILQQVlPAYRAfLGRyGLGSKYVKYTPDDIENHVLDLFEG
+
+
+PACMAD CONSENSUS:
+Length: 598 aa
+
+MAVRSSRTGDLEGSFTEQESRRRRLEAAEEAVvRWGSRVGSDTGGGSRELEAAVRELISL
+SSDGGSYGQRAKVALQTAMAHLEDEFRQVLISGTYFLPPGSLQESLHDNVVLPARSFSFS
+SFPNlEAqSISSFSTTPTDDSRTYCsGFSRDSVSMEKLYLYLIDPEASlLLKEIAELIIL
+AGHAPKLCHVYSETRqNtLMQCLYLLGVQIEPNVHSPAAATAEGGYsMqlDssKVKLWIq
+GLKIIVGTVLPEERrACAQIFGCDsMVEQDCFTRATTRCTqQLLAvGSAIAKVKkyhYEK
+VPLLLQMHEELAKvQPSLQDLLsGDAKDvISQEASMLLDKLGEASLgLLLEFLSLQLDSK
+PEEKTALDGSILSMTQFVMGFVKVLAEYSGSLNLILTLKEEEAAEGGKRTTISPWEQYVR
+RLLSHLQLRIVEKSESYKDERLRYIFLMNNAMYVLEYSRSSVLSMSLRDNWTHEQLVLRV
+EKYATAYLRATWSSALRYLKFTGQQFTQGKRGHNSLKETFKSFNSAFKEISRVQTTWKVP
+NPQLRQNLRIIILQQVVPAYRAYWKRHGCLVDAGRNSEKYIKYTPDDIVNIVLDLFEG
+
+================================================================================

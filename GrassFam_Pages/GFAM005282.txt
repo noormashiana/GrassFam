@@ -1,0 +1,128 @@
+================================================================================
+GrassFam ID: GFAM005282
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             650.0 aa
+Family Size (Extended Family Size): 16 (16) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11814:SF211
+Panther Family ID:               PTHR11814
+Modal Panther ID:                PTHR11814:SF211
+Modal Panther Description:       STAS DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR11814
+Modal Panther Fam Desc:          SULFATE TRANSPORTER
+Interpro Signature Accession:    cd07042; G3DSA:3.30.750.24:FF:000002; G3DSA:3.30.750.24; TIGR00815; PTHR11814; PF01740; PF00916
+Interpro Signature Description:  STAS_SulP_like_sulfate_transporter; Sulfate transporter 31; STAS domain; sulfate permease; SULFATE TRANSPORTER; Sulfate permease family
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: sulfate transporter 3.1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: sulfate transporter 3.1-like
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: sulfate transporter 3.1-like; sulfate transporter 3.2-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl10
+  Gene Products: sulfate transporter 3.1-like
+  Gene Descriptions: sulfate transporter 3.1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa10
+  Gene Products: sulfate transporter 3.1
+  Gene Descriptions: sulfate transporter 3.1
+Pau
+  Gene count: 2
+  Modal chromosome: Pau19
+  Gene Products: sulfate transporter 3.1-like
+  Gene Descriptions: sulfate transporter 3.1-like
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: sulfate transporter 3.2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: sulfate transporter 3.2-like
+Msi
+  Gene count: 1
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: sulfate transporter 3.2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 658 aa
+
+MVGMQQVVDVPaAPVAAaAPaRVPVPPpRPFLrTLGAnLKETFFPDDPFRAVAREpGGGR
+RALAALRYLFPCLEWLPSYSLGALRSDLVAGVTVASLAVPQGISYAKLADLPPIMGLYSS
+FVPALVYAVMGSSRDLAVGTTAVGSLLFAAMLGKEAPPAEnPELYAhLAFTATFFAGVFQ
+AGLGvLRLGFLVDFLSHAAIVGFMGGAATVVCLQQLKGLLGLqHFTTATDVVAVMRSVFS
+QTHQWRWQSlVLGCClLlFLLiTRFfSKRRPKfFWVSAAAPLASVIvGSVLVYLIHGENH
+GIQVIGnLKKGINPsSAKSLLLSSPHTMVALKTGIITGIIGLAEGIAVGRSFAMsKNYHV
+DGNKEMIAFGLMNIVGSCTSCYLTAGPFSRSAVNvNAGCKTAMSNAVMAVAVAvTLLFLT
+PLFHYTPLVVLSAIIISAMLGViDfpAAvRLWKVDKVDFCVCLGTYLGVVFGsIgIGLSI
+AVGISVLRILLFVARPRTTALGKMPNSTvYRRMDQYTMAesVPGVLVLRIDSPIYFANAS
+YLRERISRWIDeEEDRIKAtGEESLQCVVLDMGAVASIDTSGTKMiEDLKKSLDrRSIQI
+ALANPGSEVMRKLDKSKVLqLIGDEWIFLTVGEACDYAQlNCKIATvqhsVVSPDeMV
+
+
+BOP CONSENSUS:
+Length: 648 aa
+
+MVGMQVVDVPETAAAAPRVPVPPaRPFLrTLGANLKETFFPDDPFRAVAREdGrGRRALA
+ALRYLFPCLEWLPSYTLGALRSDLIAGVTVASLAVPQGISYAKLADLPPIMGLYSSFVPA
+LVYAVMGSSRDLAVGTTAVGSLLFAAlLGKEAPPAENPELYMHLAFTATFFAGVFQAGLG
+ILRLGFVVDFLSHAAIVGFMGGAATVVCLQQLKGLLGLQHFTTATDVVAVMRAVFSQTHq
+WRWESlVLGCCFLIFLLmTRFFSKRRPKFFWVSAAAPLASvIvGSVLVYLIHGQNHGIQV
+IGNLKKGINPsSAKSLILSPPHMMVALKTGIITGLIGLAEGIAVGRSFAMsKNYHVDGNK
+EMIAFGLMNIVGSCTSCYLTAGPFSRSAVNVNAGCKTAMSNAVMAVAVAvTLLFLTPLFH
+YTPLVVLSAIIISAMLGVIDFPAAVRLWKVDKLDFCVCLGAYLGVVLGNIgIGLSIAVGI
+SVLRILLFVARPRTTVLGKMPNSTmYRRMDQYTMAEsVPGVLVLqVDAPIYFANASYLRE
+RISRWIDEEEeRIKAtGEqSLQCVVLDMGAVASIDTSGTKLIEDLKKSLdrKSIQIALAN
+PGSEVMKKLDKSKVLglIgDEWIFQTVGEACDYALLNCKIAtvqHNIV
+
+
+PACMAD CONSENSUS:
+Length: 655 aa
+
+MVvvqQQIDVpvAPDGRRPpRVPVPPPRSFLsTVGAsLKETLFPDePFRAVAREPAGRgR
+ALAVLRYlFPCLEWLPSYSLAkLRSDVVSGVTVASLAVPQGISYARLAGLDPVVGLYSSF
+VPALVYtVLGSSReLAVGTMAVGSLLFASMLGPAAsPAeEPALYARLAFTATFFAGAFQA
+ALGVLRLGFLVDFLSHAAIVGFMGGAATVVCLQQLRGFLGLPHFTHATDLPAVMRSVFSQ
+tGQWhWQPFVLGCCLFLFLQITRYISKRrPKLFWVSAAAPLVSVILSTVLVYLIhGEKHG
+IQTIGSVKKGINPLSIKSLLLSSPHTWLAAKTGIITGIISLAEGSAVARSFAMAKNYHVD
+GNKEMIAFGAMNMAGSCTSCYLTAGPFSRSAVNRDAGCRTAASNAVMAVAVmATLLFLTP
+LFRHTPQVALSAIIASAMLGVVDLRAAARLARVDKVDFCVCLGTFLGVVFgSIDIGLVVA
+VGVLVLRILLsVARPRTTALGKVPGSTVYRRMDQYtMArGTPGVLVLRIDSPIYFANASY
+LRERIARWIDDEEDRIRAaGEESLRCVVLDMGAVASIDSSGTKMVEDLKKSLDKRSLQIA
+LANPGSEIMRKLDKSEVLQLIGDEWIFLTVAEACDYAQSNCKIGTQtVASPDEMV
+
+================================================================================

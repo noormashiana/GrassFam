@@ -1,0 +1,115 @@
+================================================================================
+GrassFam ID: GFAM015621
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK7
+Organeller, Te, Etc.:            None
+Median Peptide Size:             395.0 aa
+Family Size (Extended Family Size): 85 (89) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR11877
+Modal Panther ID:                PTHR11877:SF24
+Modal Panther Description:       OS07G0526400 PROTEIN
+Modal Panther Family ID:         PTHR11877
+Modal Panther Fam Desc:          HYDROXYMETHYLGLUTARYL-COA SYNTHASE
+Interpro Signature Accession:    cd00831; G3DSA:3.40.47.10:FF:000014; G3DSA:3.40.47.10:FF:000025; G3DSA:3.40.47.10; PTHR11877; PIRSF000451; PF00195; PF02797; SSF53901
+Interpro Signature Description:  CHS_like; Chalcone synthase 1; Chalcone synthase 2; -; HYDROXYMETHYLGLUTARYL-COA SYNTHASE; PKS_III; Chalcone and stilbene synthases, N-terminal domain; Chalcone and stilbene synthases, C-terminal domain; Thiolase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 5
+  Modal chromosome: Bdi01
+  Gene Products: bisdemethoxycurcumin synthase; bisdemethoxycurcumin synthase%2C transcript variant X1
+Lpe
+  Gene count: 7
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 5
+  Modal chromosome: Hvu07H
+  Gene Products: bisdemethoxycurcumin synthase-like; bisdemethoxycurcumin synthase-like%2C transcript variant X1; bisdemethoxycurcumin synthase-like%2C transcript variant X3
+Ata
+  Gene count: 6
+  Modal chromosome: Ata07D
+  Gene Products: bisdemethoxycurcumin synthase; bisdemethoxycurcumin synthase-like; bisdemethoxycurcumin synthase-like%2C transcript variant X2
+Tae
+  Gene count: 37
+  Modal chromosome: Tae02B
+  Gene Products: bisdemethoxycurcumin synthase-like; bisdemethoxycurcumin synthase-like%2C transcript variant X1; bisdemethoxycurcumin synthase-like%2C transcript variant X2
+Ola
+  Gene count: 4
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 3
+  Modal chromosome: Ogl07
+  Gene Products: bisdemethoxycurcumin synthase-like
+  Gene Descriptions: bisdemethoxycurcumin synthase-like
+Osa
+  Gene count: 3
+  Modal chromosome: Osa07
+  Gene Products: bisdemethoxycurcumin synthase-like
+  Gene Descriptions: bisdemethoxycurcumin synthase-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 12
+  Modal chromosome: Pvi02K
+  Gene Products: bisdemethoxycurcumin synthase-like; bisdemethoxycurcumin synthase-like%2C transcript variant X1; bisdemethoxycurcumin synthase-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: bisdemethoxycurcumin synthase-like
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: bisdemethoxycurcumin synthase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 397 aa
+
+MAstlsTVrEIRRAQRADGPAAVLAIGTANPaNCVSQEEYPDYYFRVTKSEHLTDLKdTF
+KklCrmTGtEKRFFHHTEELLnAHPeFLdRtsPSLDARLDIVAaAAPELAASAAAKAIAe
+WGRPATDITHLVVSTNSGAHAPGADLRLASLLGLRpdVCRTMLqLNGCSAGCAALRLAKD
+LAENNRGARVLVACVELTItaFRGPeEgDsfhTLIsQALFGDGAGAVIVGADAVhPvERP
+LFEMVSASQTvIPgTEHVLTMqLtEgGiDGhIsTeLPpLAAqniEqCLLDAFgPLgvmGG
+eveWNDLFWAVHPGSRGILDHIdsALRLEPGKLAASRTVlREYGNMLGATVIFVLDEqRR
+RMEEEGEgAEWGVMmGFGPGFTVETMVLHAttslkkn
+
+
+BOP CONSENSUS:
+Length: 396 aa
+
+MAsslsTVrEIRRaQRADGPAAVLAIGTANPpNCVSQEEYPDYYFRVTKSEHLTDLKdkF
+KklCqmTGTEKRFFHHTEELLdAHPeFLDRgkPSLDARLDIAAAAAPELAASAAAKAIAe
+WGRPATDITHLVVSTNSGAHAPGADLRLASLLGLRaSVcRTMLhLNGCSAGaAALRLAKD
+LAENNRGARVLVACVELTVvaFRGPeEaDyPHTLIsQAlFGDGAGAVIVGADAVhPVERP
+LFEMVSASQTvIPgTEHVLTMQLTEaGLDGhIfTRELpPLAAqnIEQCLlDAFgPLGimg
+vEWNDLFWAVHPGSRgILDHIDgALRLePGKLAASRTVLREYGNMLGATVIFVLDEQRRR
+MEEeGEGAEWGVMMGFGPGFTvETMVLHAttslkkn
+
+
+PACMAD CONSENSUS:
+Length: 394 aa
+
+MATTLATVREIRRAQRADGPAAMLsIGTANPANCVLQEEFPDYYFRVTNKEHLTDLKDTF
+KKLCRIAGLEKRFFHHTEQVLNsHPGLLQGTSSALDARLDvVAKAAPELAASAAAKAIAR
+WGRPATDITHLIVSTNSEARSPGADLGLATLLGLRPDVCRTVLQLNGCSAGCAALRLAKD
+LAENNRGARVLVVCVELTITTFRAPHEGDSFGTLIPQALFGDGAGAVIVGADAVqPAERP
+LFEMVSASQALIPGSEKQLNVRLGEvGIDIDISFNLPKFVAQNLERCLLDASGALALNGV
+EcKWNDLFWAVHPGSRGILDRVESALGLEPrKLAASRTVVkDYGNMLSATVIFVLEELRR
+RMDEEGDEAAEWGMMVGFGPGFTVETMVLHATKY
+
+================================================================================

@@ -1,0 +1,108 @@
+================================================================================
+GrassFam ID: GFAM010304
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK10
+Organeller, Te, Etc.:            None
+Median Peptide Size:             366.0 aa
+Family Size (Extended Family Size): 49 (51) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR11746
+Modal Panther ID:                PTHR11746:SF210
+Modal Panther Description:       GENOME ASSEMBLY, CHROMOSOME: II
+Modal Panther Family ID:         PTHR11746
+Modal Panther Fam Desc:          O-METHYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:3.40.50.150:FF:000057; G3DSA:1.10.10.10:FF:000292; G3DSA:3.40.50.150; G3DSA:1.10.10.10; PTHR11746; PIRSF005739; PF00891; SSF46785; SSF53335
+Interpro Signature Description:  O-methyltransferase ZRP4; Vaccinia Virus protein VP39; -; O-METHYLTRANSFERASE; O-mtase; O-methyltransferase domain; Winged helix DNA-binding domain; S-adenosyl-L-methionine-dependent methyltransferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: acetylserotonin O-methyltransferase 1
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: acetylserotonin O-methyltransferase 1-like
+Ata
+  Gene count: 6
+  Modal chromosome: Ata01D
+  Gene Products: acetylserotonin O-methyltransferase 1; acetylserotonin O-methyltransferase 1%2C transcript variant X2; acetylserotonin O-methyltransferase 1-like; acetylserotonin O-methyltransferase 3; acetylserotonin O-methyltransferase 3-like
+Tae
+  Gene count: 28
+  Modal chromosome: Tae01B
+  Gene Products: acetylserotonin O-methyltransferase 1-like; acetylserotonin O-methyltransferase 2-like; acetylserotonin O-methyltransferase 3-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 3
+  Modal chromosome: Ogl10
+  Gene Products: acetylserotonin O-methyltransferase 1; acetylserotonin O-methyltransferase 2; acetylserotonin O-methyltransferase 3
+  Gene Descriptions: acetylserotonin O-methyltransferase 1; acetylserotonin O-methyltransferase 2; acetylserotonin O-methyltransferase 3
+Osa
+  Gene count: 3
+  Modal chromosome: Osa10
+  Gene Products: acetylserotonin O-methyltransferase 1-like; acetylserotonin O-methyltransferase 2-like; acetylserotonin O-methyltransferase 3-like%2C transcript variant 1
+  Gene Synonyms: ASMT,ASMT1,OsASMT1; ASMT3,OsASMT3
+  Gene Descriptions: acetylserotonin O-methyltransferase 1-like; acetylserotonin O-methyltransferase 2-like; acetylserotonin O-methyltransferase 3-like
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: TRIBOA-glucoside O-methyltransferase BX7-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 366 aa
+
+MAshVQEDElaMSTDELLQAQLELYHHCfAFVKSmALrAATDLRIpDAIHRRGGAATLSD
+LAaeTGIHPTKLSHLRRLMRVLTtSGIFSVegkdsGDAvYKLTRVSRLLVgdGGEsRcnL
+SPMVrVfVNPvaVTALFSIrEWFTDErAAAmSLFEVAHGCTRWEMiAkDagDGgvFNAGM
+vADSRlvMEvLLkEcsGVFeGVSSLVDVGGgHGAAAAAIAKAFPHvKCTVLDLPHVVAGA
+PAndNVqFVAGDMFEYIPPADvVLLKWILHdWQDEDCVKILRRCKEAIPtRDAGGKVIII
+DmVVGSGgSQeiVSKEtQVLFDVFMMYiDGIEREEHEWrKIFfEAGFSDYKITPVlGiRS
+IIEVYP
+
+
+BOP CONSENSUS:
+Length: 367 aa
+
+MAshVQEDElaMSTDELLQAQLELYHHCfAFVKSmALrAATDLRIpDAIHRRGGAATLSD
+LAaETGIHPTKLSHLRRLMRVLTtSGIFSVevkasdGDAvYKLTRVSRLLVgdGGErcnL
+SPMVrVFVNPvaVTALFSIrEWFTDErAAAmSLFEVAHGCTRWEMiAkDagDGgvFNAGM
+vADSRlvMEiLLKEcsGVFeGVSSLVDVGGgHGAAAAAIAKAFPHVKCTVLDLPHVVAGA
+PAndNVqFVAGDMFEYIPPADvVLLKWILHdWQDEDCVKILRRCKEAIPtRDAGGKVIII
+DvVVGSGgssQEiVSKEtQVLFDVFMMYiDGIEREEHEWsKIFfEAGFSDYKITPVLGiR
+SIIEVYP
+
+
+PACMAD CONSENSUS:
+Length: 366 aa
+
+MAHAQVAHKDEQLTSTEEMLQAQLELYHHSFAFVKSMALRAAVQLGIPDAIHNRGGRATL
+SELAADTRLHRTKFPHLRRLMRALTVSGVFAAQERDDEATVYSLSRVSRLLVGGGGRGNL
+SPMVSALVNPVAVTALFSMREWLTDERAAAVSLFEVAHGCTRWEITGREDGDGDVLNAGM
+DADSRLVMDVLLRENGDVFESLSSLVDVGGAHGVVVSAVARAYPHIKCTVLDLPHVVAGA
+PNDGTVKFVAGDMFQHIPPADAVLLKWILHCWQDEDCIKILRRCKDAIPARDAGGKIIVI
+DMVVGSAESQENVSKETQALFDIFVMYVDGVERDEQQWRSIFMKAGFSDYKITPIHGFRS
+LIEVYP
+
+================================================================================

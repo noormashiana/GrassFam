@@ -1,0 +1,140 @@
+================================================================================
+GrassFam ID: GFAM019170
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             534.5 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR30603:SF25
+Panther Family ID:               PTHR30603
+Modal Panther ID:                PTHR30603:SF25
+Modal Panther Description:       RNA POLYMERASE SIGMA FACTOR
+Modal Panther Family ID:         PTHR30603
+Modal Panther Fam Desc:          RNA POLYMERASE SIGMA FACTOR RPO
+Interpro Signature Accession:    G3DSA:1.10.10.10; G3DSA:1.10.601.10; TIGR02937; PTHR30603; PIRSF000767; SSF88946; SSF88659
+Interpro Signature Description:  -; RNA Polymerase Primary Sigma Factor; sigma-70 family RNA polymerase sigma factor; RNA POLYMERASE SIGMA FACTOR RPO; Sigma_factor_SigC; Sigma2 domain of RNA polymerase sigma factors; Sigma3 and sigma4 domains of RNA polymerase sigma factors
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: RNA polymerase sigma factor sigB
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: RNA polymerase sigma factor sigB-like%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: RNA polymerase sigma factor sigB
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: RNA polymerase sigma factor sigB-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: RNA polymerase sigma factor sigB-like
+  Gene Descriptions: RNA polymerase sigma factor sigB-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: RNA polymerase sigma factor sigB
+  Gene Synonyms: OsSig2B
+  Gene Descriptions: RNA polymerase sigma factor sigB
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau04
+  Gene Products: RNA polymerase sigma factor sigB-like
+  Gene Descriptions: RNA polymerase sigma factor sigB-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: RNA polymerase sigma factor sigB-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: RNA polymerase sigma factor sigB-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: RNA polymerase sigma factor sigB
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: sigma-like factor2B
+  Gene Synonyms: GRMZM2G003182,GRMZM2G100086,GRMZM2G164084,sig2B,ZmSig2B
+  Gene Descriptions: sigma-like factor2B
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 532 aa
+
+MACLAPQFKWPPSTRAAVFREPGGGGCGGsRPGRVnCAvSSTAVVEAERlESLSvGAgPP
+PSPHrTLPGGFGEALLNqEAVVAAAAAEAVALARAAAEVAGEVARMAQTDHRPDvpdrhD
+tEDSFLAREVLRTEVGweSRyAGleLLEDaGFSSIFSDESEsDDDEQGarGVAVKSARQS
+ERRARRVRAAMKAAKSFSdRrPVtASSSRKKRLKGCRNPLGCFYKMTGRRLLTAKQEVEF
+SEGIQDLLKLEAIQKEVAHYNGGEPTFSQWAAAAGTDENTLRKRLNYGIYCKNmMVKSNV
+RLVISIAKEFEGPGMEFSDLIQEGMQGLIRGAEKFDASKGFRFSTYSHWWIKQAIRKSVL
+EQTQIIRLPAHMAEASSRVKECRRRLRRQLKRLPTNEEIALDTGMPiRRVEAAMSLPRYS
+VSLTSKVGCTDVTYQEIMPDTSAETAEEvLHRWLMKKDVDrALDSLSPRERqVIRYRFGM
+EGGRpRTLHDIGQLMGVSRERIRQIELGAFRKLRSKKKVQSLQHYLQPAESW
+
+
+BOP CONSENSUS:
+Length: 545 aa
+
+MSSCLAPQFKWPPSTRAAVPREPGGGGCAAGGSCRPGRVQCALSSAAVVEAERmESLAAG
+ARRLVYDGAVDPPPSDNTSLPGGFGEALLNQEAVVTAAAAEAVALARAAAEVAREVARMV
+QTDHRPDVGDSHDlVEDSYLTREVLRTEVRpGSRYADARLLDDAGFVSIFSDESESDDDE
+QGARGVAVKSARQPERRARRVRAAMKAAKSFSDRRPVTASSRKKRVKGCRNSLGCFYKMS
+GRRLLTAKQEVELSEGIQDLLKLEAIQKEVAHYNGGEPTFGQWAAAAGTDENTLRKRLSY
+GIYCKNMMVKSNVRLVISIAKEFEGPGTEFSDLIQEGIQGLIRGAEKFDASKGFRFSTYS
+HWWIKQAIRKSVLEQTQIIRLPAHMAEASSRVKECRRRLRRQLNRLPTNEEIASDTGMTA
+RRVEAAMCLPRYSVSLTGKVGCTDVTYQEITADKSTETAEETLHRWFMKKDVDKALDSLT
+PREREVIRYRFGMDDGRARTLHDIGQLMGVSRERIRQIEMAAFRKLRSKKKVTSLQHYLE
+PAESW
+
+
+PACMAD CONSENSUS:
+Length: 530 aa
+
+MAFLAPPQFKWPPSTRAAVFREPAGGAGSRPSRVNCSVSSTAVVDAErLECLSVGPPPSP
+HRTLPGgFGEALLNKEAMVAAAAAEAVALARAAAEVAGEVARMAQrDHRtDlPrRDDTED
+SFLAREVLRTEVGWEARRAGLELLEGEEFSSIFSDESEDDDDGEgtEGVVAVKSARRSER
+RARRVRAAMKAAKSFSsGKPVGASSSsKKRLKGCRNPLGCFYKMTGPRLLTAKQEVEFSE
+GIQDLLKLEAIQKELAQYNGGEPTFSQWAAAAGTDENTLRKRLNYGVYCKNRMVKSNVRL
+VISIAREHEGPGMEFSDLIQEGMQGLIRGAEKFDASKGFRFSTYSHWWIKQAIRKSVLEQ
+TQIIRLPAHMAEASSRVKECrRRLRRQLKRLPSNEEIALDTGMPIRRVEAAMSLPRYTVS
+LTSKVGCTDVTYQEIMPDTSAETAEEVLHRWLMKKDVDRALdSLSPREKQVMRYRFGIEG
+GRPRTLHDIGQLMGVSRERIRQIELGAFRKLRSKKRVQSLQHYLQPAESW
+
+================================================================================

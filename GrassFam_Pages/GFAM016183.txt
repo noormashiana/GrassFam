@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM016183
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             448.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24349:SF535
+Panther Family ID:               PTHR24349
+Modal Panther ID:                PTHR24349:SF535
+Modal Panther Description:       OS09G0466900 PROTEIN
+Modal Panther Family ID:         PTHR24349
+Modal Panther Fam Desc:          SERINE/THREONINE-PROTEIN KINASE
+Interpro Signature Accession:    cd05117; G3DSA:1.10.510.10:FF:000641; G3DSA:1.10.510.10; PTHR24349; PF00069; SM00220; SSF56112
+Interpro Signature Description:  STKc_CAMK; Serine/threonine-protein kinase PEPKR2; Transferase(Phosphotransferase) domain 1; SERINE/THREONINE-PROTEIN KINASE; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: serine/threonine-protein kinase PEPKR2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: serine/threonine-protein kinase PEPKR2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: serine/threonine-protein kinase PEPKR2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: serine/threonine-protein kinase PEPKR2-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: serine/threonine-protein kinase PEPKR2-like
+  Gene Descriptions: serine/threonine-protein kinase PEPKR2-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: serine/threonine-protein kinase PEPKR2
+  Gene Descriptions: serine/threonine-protein kinase PEPKR2
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: serine/threonine-protein kinase PEPKR2-like
+  Gene Descriptions: serine/threonine-protein kinase PEPKR2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: serine/threonine-protein kinase PEPKR2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: serine/threonine-protein kinase PEPKR2-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: serine/threonine-protein kinase PEPKR2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: uncharacterized LOC100217077%2C transcript variant X1
+  Gene Synonyms: GRMZM2G034065,pco089911
+  Gene Descriptions: uncharacterized LOC100217077
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 452 aa
+
+MESLPRKRKGARAACSLAGSLHDAsAARKRTCREPKPRPEKKKksPSaGDDAAtASgRGG
+VVMTAPPASGRAAPDSPGRGLKRKLGCIESATRMGRKKRLESEYELGaEIGQGKFGSVRI
+CRAKAGGEEFACKALPKNGEETVHREVEIMQHLSGHPGVVTLKAVFEDADKFYLVMELCs
+GGRLLDEmAREGKFSEQRAAIVIKDLMSVVKYCHEMGVVHRDIKPENILLTKAGKMKLAD
+FGLAARVTNGQKLSGVAGSPAYVAPEVLSGSYSEKVDIWGAGVLLHVLLLGSLPFQGGSL
+DAVFEAIKTVELDFnSGPWESISvLGRDLISRMLNRDVSSRITADEVLSHPWVLFYTECP
+LKAVTANLCVTNKIVAPrIPWDRIRSHCESSSSDSSSQRSEDQDECGIVDALTAAITHVR
+ISEPKRSRLCSPAIPIQQECSSNLKSNLCTAF
+
+
+BOP CONSENSUS:
+Length: 446 aa
+
+MESLPRKRKGARSLAGSLHDASADRKRTCRERKPRPDKKKKKPSSaGDDAASGRGGVVMT
+APPASGRAAPDSPGRGLKRKVGCIESATRIGRKKRLESEYELGDEIGQGKFGSVRICRAK
+AGGEEFACKALPKNGEETVHREVEIMQHLSGHPGVVTLKAVFEDADKFYLVMELCSGGRL
+LDEMARDGtFSEQRAALVIKDLMSVVKYCHEMGVIHRDIKPENILLTKTGKMKLADFGLA
+ARVTNGQKLSGVAGSPAYVAPEVLSGSYSEKVDIWGAGVLLHVLLLGSLPFQGGSLEAVF
+EAIKTVELDFNSGPWESMSVLGRDLISRMLDRDVSSRITADQVLCHPWVLFYTECTLKAV
+TPNVTNKIVAPKIPWDRIRSHCESSASDSSSQRSEDQDECGIVDALTAAITHVRISEPKR
+TRLCSPGIPIQQECSSNLKSNLCTAF
+
+
+PACMAD CONSENSUS:
+Length: 451 aa
+
+MDSLPRKRKGARAACSLAGSLHDAPAAARKRTCREPKPRPEKKKPSSaGGDAgASASARG
+GVVMTAPPASGRAAPDSPGRGLKRKLGCIESATRMGRKKRLDSEYELGAEIGQGKFGSVR
+ICRAKAGGEEFACKALPKNGEETVHREVEIMQHLSGHPGVVTLKAVFEDADKFYLVMELC
+GGGRLLDEIAREGKFSEQRAAIVIKDLMAVLKYCHEMGVVHRDIKPENILLTKAGKMKLA
+DFGLAARVTNGQKLSGVAGSPAYVAPEVLSGSYSEKVDIWGAGVLLHVLLLGSLPFQGGS
+LDAVFESIKTVELDFSSGPWESISGLGKDLIgrMLNRDVSSRMTADEVLSHPWVLFYTEC
+PLKVVTANLCVTNKIlAPRIPWDRLRSECESLSDSSQRSeDQDECGIVDALTAAITRVRI
+SEPKRSRLCSPAITIQQECSSNLKSNLCTAF
+
+================================================================================

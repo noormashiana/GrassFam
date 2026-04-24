@@ -1,0 +1,128 @@
+================================================================================
+GrassFam ID: GFAM016236
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK8
+Organeller, Te, Etc.:            None
+Median Peptide Size:             426.0 aa
+Family Size (Extended Family Size): 19 (26) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46798:SF19
+Panther Family ID:               PTHR46798
+Modal Panther ID:                PTHR46798:SF19
+Modal Panther Description:       OS09G0511500 PROTEIN
+Modal Panther Family ID:         PTHR46798
+Modal Panther Fam Desc:          OS09G0511500 PROTEIN
+Interpro Signature Accession:    PTHR46798
+Interpro Signature Description:  OS09G0511500 PROTEIN
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: E3 ubiquitin-protein ligase RFI2-like%2C transcript variant X1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: E3 ubiquitin-protein ligase RFI2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: E3 ubiquitin-protein ligase RFI2-like; E3 ubiquitin-protein ligase RFI2-like%2C transcript variant X1; E3 ubiquitin-protein ligase RFI2-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl08
+  Gene Products: E3 ubiquitin-protein ligase IPI1-like%2C transcript variant X2
+  Gene Descriptions: E3 ubiquitin-protein ligase IPI1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa08
+  Gene Products: E3 ubiquitin-protein ligase IPI1-like%2C transcript variant X1
+  Gene Descriptions: E3 ubiquitin-protein ligase IPI1-like
+Pau
+  Gene count: 1
+  Modal chromosome: Pau18
+  Gene Products: E3 ubiquitin-protein ligase IPI1-like%2C transcript variant X1
+  Gene Descriptions: E3 ubiquitin-protein ligase IPI1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi06
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi06K
+  Gene Products: E3 ubiquitin-protein ligase RFI2-like; E3 ubiquitin-protein ligase RFI2-like%2C transcript variant X1
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: E3 ubiquitin-protein ligase RFI2-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi07
+  Gene Products: uncharacterized LOC8060919%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: putative RING zinc finger domain superfamily protein; putative RING zinc finger domain superfamily protein%2C transcript variant X1
+  Gene Synonyms: GRMZM2G011473; GRMZM2G053027
+  Gene Descriptions: putative RING zinc finger domain superfamily protein
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 423 aa
+
+MDLERSPPAspAEAAGGAACSICLDPVLARGGGRSVAKLQCGHEFHLDCIGSAFNAKGAM
+QCPNCRKIEKGRWLYASGHRPSpDIDMGGWVTGEnYDITSDLPFGFQWCPFSGFTQLASV
+FEEREAEPTSYHTvGDHSSAASSSLVCPYLALRGFLHPVHVPSTSNSGAESTSFHRHsTG
+LEGHATPDLsNAQVFHATESRNHDSEHRYLSNLPVSGIPDHSMtPFGIGLPRYDTSSQQR
+SRSYAHHHPLIHRPTPRNGSNLVAPLGSVPAVVAETRGHGHGARGHMYQQSMHSSMQsSP
+FPPTTRRVRPRALTITSFIAAaSSAEVGGPHGFaAPGAVNRSvSDaEGISRPVDRPYaWG
+REGFAPFPWIPAEGESHWWGTFNPMQNHAHGSFTRRPAGERMPQSHPENGYQPVPPQRMP
+PFL
+
+
+BOP CONSENSUS:
+Length: 427 aa
+
+MDLERSPPPDHAAEAAGGGACSICLDPVAGGGRSVAKLQCGHEFHLDCIGSAFNAKGAMQ
+CPNCRKIEKGRWLYATGQRPSPDIDIGGWVTGETYDIASDLPFGFQWCPFNGFTQLASVF
+EEGEAEPPSYHTVADHSSAASSSLVCPYLSLRGFLHPVHVPLGSNSGAEGASFHRHPTSL
+EGHAAPDLGNTQAFHATEPRNLDSEHRYLSNLPVSGIPDHSVAPFGIGLPRYETSSQQRS
+RPYVHHHPLVHRPTPRNGSNLVAPLGSVPAVMGETRGHGHGARGHMYQHSMHsSMQsSPF
+PPTARRVRPRALTITSFIAAAAASSAEVGVPHGFAPPAAVNRSLPSDGEGVSRPPVDRPY
+AWGREGFGPFPWVPVDGEPHWWSTFNPMQNHTHGGFTRRPAPGERIPQSHPDNVYQPVPP
+QRMPPFL
+
+
+PACMAD CONSENSUS:
+Length: 425 aa
+
+MDLERSPPASPAEAAGGGGAACSICLDPVLARGGGRSVAKLQCGHEFHLDCIGSAFNAKG
+AMQCPNCRKIEKGRWLYASGHRPSADIDMGGWVTSDNYDITSELPFGFQWCPFSGFTQLA
+SVFEEREAEPTYHTTGDHSSAASSSLVCPYLALRGFLHPVHVPSTSNSGAESTSFHRHST
+GLEGHATPDLSNAQVFHATESRNHDSEHRHLSNLPVSGIPEYSMTPFGIGLPRYDSSSQQ
+RSRSYAHHHPLIHRPTPRSGSNLVAPLGSVPAVVAETRGHGHGARGHMYQQSMHSSVQSS
+PFPPTTRRVRPRALTITSFIAATSSAEIGGPHGFSAPGAVNRSVSDAEGISRPIDRPYtW
+GREGFAPFPWIPAEGESHWWGTFNPMQNHAHGSFTRRPAGERMPQSHPENGYQPVPPSQR
+MPPFL
+
+================================================================================

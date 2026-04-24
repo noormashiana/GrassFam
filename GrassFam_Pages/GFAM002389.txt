@@ -1,0 +1,120 @@
+================================================================================
+GrassFam ID: GFAM002389
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             623.0 aa
+Family Size (Extended Family Size): 19 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR43295
+Modal Panther ID:                PTHR43295:SF2
+Modal Panther Description:       ARGININE DECARBOXYLASE 2
+Modal Panther Family ID:         PTHR43295
+Modal Panther Fam Desc:          ARGININE DECARBOXYLASE
+Interpro Signature Accession:    cd06830; G3DSA:3.20.20.10:FF:000001; G3DSA:3.20.20.10; G3DSA:1.20.58.930; G3DSA:2.40.37.10; NF003763; TIGR01273; PTHR43295; PIRSF001336; PR01180; PF02784; SSF51419
+Interpro Signature Description:  PLPDE_III_ADC; Biosynthetic arginine decarboxylase; Alanine racemase; -; Lyase, Ornithine Decarboxylase; Chain A, domain 1; biosynthetic arginine decarboxylase; arginine decarboxylase; ARGININE DECARBOXYLASE; ARGDC; Arginine decarboxylase signature; Pyridoxal-dependent decarboxylase, pyridoxal binding domain; PLP-binding barrel
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu01H
+  Gene Products: arginine decarboxylase-like
+Ata
+  Gene count: 3
+  Modal chromosome: Ata01D
+  Gene Products: arginine decarboxylase; arginine decarboxylase%2C transcript variant X1
+Tae
+  Gene count: 7
+  Modal chromosome: Tae01B
+  Gene Products: arginine decarboxylase-like; arginine decarboxylase-like%2C transcript variant X1; arginine decarboxylase-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: arginine decarboxylase 2%2C transcript variant X1
+  Gene Descriptions: arginine decarboxylase 2
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: arginine decarboxylase 2-like%2C transcript variant 2
+  Gene Synonyms: ADC2,ARGDC2,OsADC2,OsJ_13525
+  Gene Descriptions: arginine decarboxylase 2-like
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: arginine decarboxylase 2-like
+  Gene Descriptions: arginine decarboxylase 2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100193626%2C transcript variant X1
+  Gene Synonyms: AY110562,GRMZM2G374302
+  Gene Descriptions: uncharacterized LOC100193626
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 615 aa
+
+MmAKNYGgLYNILGWGDPYFTVNteGHLCVKPHGRETkPGQEIDVlSVIqaAlATTTNDK
+kKKvQFPMILRFPDVLKHRLDSLHAAFhgAIkhTGYTSrYQGVFPVKVNQNKAIVQDlVr
+FGHrYSYGLEAGSKPELLIAMSCLTKAKPGAYLVCNGYKDADYVALALSARAMGLNAIIV
+LEMEEELDIVIEQSsKLGVEPVIGVRAKLLTKIPGHFGSTAGKHGKFGLLADKIYEVAkK
+LKgLnKLHWLKLLHFHVGSMIPTTDIVykAAsEAAGIYCtLVNkyGAegMTTLDCGGGLG
+VDYDGTRSGSSDMSVAYGLEEYASSIVQAVRLTCDyNGVPHPVLCTESGRAMVSHHSMII
+LEALSAIPEPKDDgDTPEQLhsKIQdLSSKqQPRALkGGaaAtdmySHAtDLKKHGIEMY
+KLAKKLSKRVaGDANTIYNYHMNLSVFSLVPDFWGIkQLFPMMPVSRLNEKPTrMGTLVD
+ITCDSDGKIEKFIGgAETLPLHPLDPElGGYYVAVLLSGAYQEALSCKHNLFGGPSLVRV
+esSGgdGGFdIaTVDLGPTTEELISTMRYDVKEDIsGVIEeRArEKGVWEMVGpLVtkGL
+TTMPYLvEYKvPkTa
+
+
+BOP CONSENSUS:
+Length: 610 aa
+
+MAAKNYGGLYNIlGWGdPYFTVNthGHLCVKpHGrETKPGQEIDVLSVIqAAdqKeKkvQ
+FPMILRFPDVLKHRLDSLHAAFhtAIkHTGYTsvYQGVFPVKVNQNKAIVQDlVrFGHrY
+SYGLEAGSKPELLIAMSCLTKAKPGAFLVCNGYKDAEYVALALSARAMGLNAIIVLEMEE
+ELDIVIEQSsKLGVEPVIGVRAKLLTKIPGHFGSTAGKHGKFGLLADRIYEVAKKLKGLN
+KLHWLKLLHFHVGSMIPTTDIVsKAAtEAAGIYCTLVNqYGAegMTTLDCGGGLGVDYDG
+TRSGSSDMSVAYGLEEYASSIVQAVRLTCDDNGVPHPVLCTESGRAMVSHHSMIILEALS
+AIPEPKDDeDTPEQLHsKIQhLSSKQqPrprAlMATDLQSHAtDIQKHGIEMYKLAKKLS
+KRVAGDANTIYNYHMNLSVFSLVPDFWGIKqLFPMMPVSRLNEkPTRMgTLIDLTCDSDG
+KIEKFIGNAETLPLHPLDPEsGGYYVAVLLSGAYQEALScKHNLFGGPSIVRVEnSLGGG
+gGGFiIATADLGPTTEELISTMRYDVKeDIrGVIEeRAREKGVWEMVGtlVhaGLTTMPY
+LVdYkvPrTA
+
+
+PACMAD CONSENSUS:
+Length: 611 aa
+
+MAKNYGELYNILGWGDPYFAVNAEGHLCAKPHGRETMPGQEIDVHSVIVKALATTTNDKS
+KVQFPMILRFPDVLKNRLDSLHAAFKGAIDSSGYTSRYQGVFPIKVNQNKTVVQDLVNFG
+YSESYGLEAGSKPELLIAMSCLTKAKPGAYLICNGYKDADYIALALSARAMGLNAIIVLE
+MEEELDIVIEQYNKLGIEPVIGVRAKLLTKIPGHFGSTAGKHGKFGLLAEKIYEVAEKLK
+KIGKLQWLKLLHFHVGSMIPTTEIVYNAASEAAGIYCDLVNKFGAEMTTLDCGGGLGVDY
+DGTRSGSSDMSVAYGLEQYASSIVQAVRLKCEYNGVLHPVLCTESGRAMVSHHSMIILEA
+LSAIPEPQEEDTSEQLLSKIQDLSSKQPRAAVRGGNGAAAMYSHAIDLKKHGIEMYKLGK
+KLSKRVVGDSSTIYNYHMNLSVFSLVPDFWGIGQLFPMMPVSRLNEKPTLMGTLVDITCD
+SDGKMEKFISGSETLPLHPLDPELGGYYVAALLSGAYQEALACKHNLFSGPTLVRVKSSG
+SDGGFDIVSVNLGPTTEEVISTMRYNVEEDISSVIEELAKKTEVWATVEPLMTKGLTTMP
+YLNEYKAPKTT
+
+================================================================================

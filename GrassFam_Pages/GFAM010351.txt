@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM010351
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             427.0 aa
+Family Size (Extended Family Size): 23 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR16127:SF13
+Panther Family ID:               PTHR16127
+Modal Panther ID:                PTHR16127:SF13
+Modal Panther Description:       GH01188P
+Modal Panther Family ID:         PTHR16127
+Modal Panther Fam Desc:          TAXILIN
+Interpro Signature Accession:    PTHR16127; PF09728
+Interpro Signature Description:  TAXILIN; Myosin-like coiled-coil protein
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: alpha-taxilin%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: beta-taxilin
+Ata
+  Gene count: 1
+  Modal chromosome: AtaUN162574
+  Gene Products: alpha-taxilin
+Tae
+  Gene count: 4
+  Modal chromosome: Tae02A
+  Gene Products: alpha-taxilin-like; beta-taxilin-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: uncharacterized LOC127766019%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127766019
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: beta-taxilin%2C transcript variant 1
+  Gene Descriptions: beta-taxilin
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau04
+  Gene Products: uncharacterized LOC133916338
+  Gene Descriptions: uncharacterized LOC133916338
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: beta-taxilin-like%2C transcript variant X1; beta-taxilin-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: alpha-taxilin
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: alpha-taxilin
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: alpha-taxilin%2C transcript variant X1; uncharacterized LOC100273322%2C transcript variant X1
+  Gene Synonyms: GRMZM2G015730; GRMZM2G107731
+  Gene Descriptions: alpha-taxilin; uncharacterized LOC100273322
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 424 aa
+
+MEGSPATRLPEADSLPDGFVESSsADQAsPvSSAPaAdDPpHPALgsDhpaATrpGGEET
+LGaPSlPAStAEDAAAAADALrSLSLaAAAEPERALGeQGPAgDiGDAKESLKEScvvEQ
+aESltnQKeSGEPKRKVVKRSKLEKDRELLELAQrYHKVVAERDAAIAVKEKLESLCREF
+QRQNKMLKEECQRVSTEGQNMRMELSDKFnNAIKdVSVKLEEQKNECIAQLEENNlLRSK
+LKDLADQYNITQQKYAHQLKEKMLELELADLKIQQHQEKAAQEHTQMQLYAEQVSQLMTT
+EKNLRLQLAADGERFQQFQDALSKSNEVFETYKQEMEKMVKvIKnLKKeNEFLKGKCENS
+DIALVKLIEERELtKKQIDKLKNQKEKLESLCRSLQAERKQsPSaSIPdApSnQEDVast
+SQsS
+
+
+BOP CONSENSUS:
+Length: 428 aa
+
+MEGSPATRLPEADALPDGFVESSSADQAQPVSSAPAsAAGDPLHPALGPDHEGAARADGE
+ETLGAPSTPADAADALRSLSMAAAASEPERAPEQQGPAADIGGAKDSMKESFVVEQsESL
+ANQKdSGEPKRKVVKRNSKLEKDRELLQLAQRYHGVVAERDAAIAVKEKLESLCREFQRQ
+NKMLKEECQRVSTEGQNFRMEMSDKFENAMKAVSVKLEEQKNECIAQFEENNSLRNKLKD
+LADQYNIIQQKYAHQLKEKTLELELADLKIQQHQAKAAQEHAQMVLYAEQVSQLVTTEKN
+LRVQLAADGEKFQQFQDALSKSNEVFETYKKEMEQMVKAIKDFRKQNEALKNKCENSDIA
+LVKLIEEREVMKKQLDKYKNQKDKLESLCRSLQAERKQSPSVSIPNDASNQEDVTSQkQS
+PSSSIPEV
+
+
+PACMAD CONSENSUS:
+Length: 428 aa
+
+MEGSPATRLPEADSLPDGFVESSGtDaASPPSSAPIaDDPPHVALDSDrPAATNPGGEET
+LGDPSLPASTVEDASSSAAAEALgTLSLdAAAEPERALGEHGPtGAARDAEESLKEsCAs
+EQvGSPTAQKQKgSGEPKRKVVKRSKLEKDRELFELAQQYHKVVAERDAAIAVKEKLESL
+CREFQRQNKMLKEECrRVSTEGQNMRMELSDKFNNAIKDVSVKLEEQKNECIAQLEENNm
+LRSKLKDLADQYNITQQKYAHQLKEKMLELELADLKLQQHQEKAAQEHTQMQLYAEQVSQ
+LMTTEKNLRLQLASDGERFQQFQDALSKSNEVFETYKQEMEKMISVIKNLKKENEFLKGK
+CENSDIALVKLIEERELTKKQIEKLKNQKEKLESLCRSLQAERKQGPSASIPDAPSSQED
+VAATSQeS
+
+================================================================================

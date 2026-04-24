@@ -1,0 +1,130 @@
+================================================================================
+GrassFam ID: GFAM010126
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             343.0 aa
+Family Size (Extended Family Size): 21 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11556:SF43
+Panther Family ID:               PTHR11556
+Modal Panther ID:                PTHR11556:SF43
+Modal Panther Description:       FRUCTOSE-BISPHOSPHATASE
+Modal Panther Family ID:         PTHR11556
+Modal Panther Fam Desc:          FRUCTOSE-1,6-BISPHOSPHATASE-RELATED
+Interpro Signature Accession:    cd00354; G3DSA:3.40.190.80:FF:000001; G3DSA:3.30.540.10:FF:000008; G3DSA:3.30.540.10; G3DSA:3.40.190.80; NF006779; NF006778; PTHR11556; PIRSF500210; PIRSF000904; PR00115; PF18913; PF00316; SSF56655
+Interpro Signature Description:  FBPase; Fructose-1,6-bisphosphatase class 1; Fructose-1,6-bisphosphatase, cytosolic; -; class 1 fructose-bisphosphatase; FRUCTOSE-1,6-BISPHOSPHATASE-RELATED; FBPtase; FBPtase_SBPase; Fructose-1,6-bisphosphatase signature; Fructose-1-6-bisphosphatase, C-terminal domain; Fructose-1-6-bisphosphatase, N-terminal domain; Carbohydrate phosphatase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: fructose-1%2C6-bisphosphatase%2C cytosolic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: fructose-1%2C6-bisphosphatase%2C cytosolic
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: fructose-1%2C6-bisphosphatase%2C cytosolic%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: fructose-1%2C6-bisphosphatase%2C cytosolic; fructose-1%2C6-bisphosphatase%2C cytosolic%2C transcript variant X1; fructose-1%2C6-bisphosphatase%2C cytosolic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola01
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: fructose-1%2C6-bisphosphatase%2C cytosolic
+  Gene Descriptions: fructose-1%2C6-bisphosphatase%2C cytosolic
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: fructose-1%2C6-bisphosphatase%2C cytosolic%2C transcript variant X1
+  Gene Synonyms: CFBP1,FBP1,FBPase,MOC2
+  Gene Descriptions: fructose-1%2C6-bisphosphatase%2C cytosolic
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 2
+  Modal chromosome: Pau01
+  Gene Products: fructose-1%2C6-bisphosphatase%2C cytosolic
+  Gene Descriptions: fructose-1%2C6-bisphosphatase%2C cytosolic
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: fructose-1%2C6-bisphosphatase%2C cytosolic; fructose-1%2C6-bisphosphatase%2C cytosolic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: fructose-1%2C6-bisphosphatase%2C cytosolic
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: fructose-1%2C6-bisphosphatase%2C cytosolic
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: uncharacterized LOC100273700
+  Gene Synonyms: GRMZM5G836250,pco073762
+  Gene Descriptions: uncharacterized LOC100273700
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 343 aa
+
+MDHAADAhRTDLMTITRHVLNEQSRNPESRGDFTILLSHIVLGCKFVASAVNKAGLAKLI
+GLAGETNVQGEEQKKLDVLSNEVFVKALVSSGRTCVLVSEEDEEATFVDPKLRGKYCVCF
+DPLDGSSNIDCGVSIGTIFGIYMIKDKDNVTLEDVLQPGKDMLAAGYCMYGSSCTLVLST
+GnGVNGFTLDPSLGEFILTHPDIKIPKKGKIYSVNEGNAKNWDtPTAKFVEKCKYPKDGS
+SPKSLRYIGSMVADVHRTLLYGGVFLYPADKKSPNGKLRVLYEVFPMSFLMEQAGGQSFT
+GKERALDLVPTKIHERSPIFLGSYDDVEEIKALYAEQAKsSSA
+
+
+BOP CONSENSUS:
+Length: 343 aa
+
+MDHAADTFRTDLMTITRHVLNEQSRHPESRGDLTILLSHIVLGCKFVASAVNKAGLAKLT
+GLAGETNVQGEEQKKLDVLSNEVFVNALVSSGRTCVLVSEEDEEATFVDPKLRGKYCVCF
+DPLDGSSNIDCGVSIGTIFGIYMIKNQDTVTLEEVLQPGKDMIAAGYCMYGSSCTLVLST
+GNGVNGFTLDPSLGEFIMTHPDIKIPPKGKIYSVNEGNAKNWDTPTAKYVEKCKYPTDGS
+SPKSLRYIGSMVADVHRTLLYGGIFLYPADKKSPNGKLRVMYEVFPMSFLMEQAGGQSFT
+GKGRSLDLIPTDIHERSPIFLGSSDDVEEIKALYAEEAKKAGS
+
+
+PACMAD CONSENSUS:
+Length: 343 aa
+
+MDHAADAHRTDLMTITRHVLNEQSRNPESRGDFTILLSHIVLGCKFVASAVNKAGLAKLI
+GLAGETNVQGEEQKKLDVLSNEVFVKALVSSGRTCVLVSEEDEEATFVDPALRGKYCVCF
+DPLDGSSNIDCGVSIGTIFGIYMIKDKDNVTLEDVLQPGKNMLAAGYCMYGSSCTLVLST
+GSGVNGFTLDPSLGEFILTHPDIKIPKKGKIYSVNEGNAKNWDaPVAKFVEKCKYPKDGS
+PPKSLRYIGSMVADVHRTLLYGGVFLYPADkKSPNGKLRVLYEVFPMSFLMEQAGGQSFT
+GKERALDLVPTKIHERSPIFLGSYDDVEEIKALYAEQAKSSSA
+
+================================================================================

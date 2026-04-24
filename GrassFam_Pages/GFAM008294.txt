@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM008294
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK5
+Organeller, Te, Etc.:            None
+Median Peptide Size:             424.0 aa
+Family Size (Extended Family Size): 21 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24056:SF554
+Panther Family ID:               PTHR24056
+Modal Panther ID:                PTHR24056:SF554
+Modal Panther Description:       CYCLIN-DEPENDENT KINASE D-1
+Modal Panther Family ID:         PTHR24056
+Modal Panther Fam Desc:          CELL DIVISION PROTEIN KINASE
+Interpro Signature Accession:    cd07841; G3DSA:1.10.510.10:FF:000097; G3DSA:3.30.200.20:FF:000289; G3DSA:3.30.200.20; G3DSA:1.10.510.10; PTHR24056; PF00069; SM00220; SSF56112
+Interpro Signature Description:  STKc_CDK7; Putative cyclin-dependent kinase 7; Cyclin-dependent kinase D-1; Phosphorylase Kinase; domain 1; Transferase(Phosphotransferase) domain 1; CELL DIVISION PROTEIN KINASE; Protein kinase domain; serkin_6; Protein kinase-like (PK-like)
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: cyclin-dependent kinase D-1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu01H
+  Gene Products: cyclin-dependent kinase D-1
+Ata
+  Gene count: 1
+  Modal chromosome: Ata01D
+  Gene Products: cyclin-dependent kinase D-1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae01A
+  Gene Products: cyclin-dependent kinase D-1; cyclin-dependent kinase D-1-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl05
+  Gene Products: cyclin-dependent kinase D-1
+  Gene Descriptions: cyclin-dependent kinase D-1
+Osa
+  Gene count: 1
+  Modal chromosome: Osa05
+  Gene Products: cyclin-dependent kinase D-1-like%2C transcript variant 1
+  Gene Synonyms: CAK-R2,CDKD-1,CDKD%3B1,OJ1764_D01.12,R2
+  Gene Descriptions: cyclin-dependent kinase D-1-like
+Pau
+  Gene count: 2
+  Modal chromosome: Pau09
+  Gene Products: cyclin-dependent kinase D-1; cyclin-dependent kinase D-1-like
+  Gene Descriptions: cyclin-dependent kinase D-1; cyclin-dependent kinase D-1-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: cyclin-dependent kinase D-1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: cyclin-dependent kinase D-1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi16
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi09
+  Gene Products: cyclin-dependent kinase D-1%2C transcript variant X1
+Zma
+  Gene count: 2
+  Modal chromosome: Zma06
+  Gene Products: Putative cyclin-dependent kinase family protein%2C transcript variant X1; uncharacterized LOC100272776
+  Gene Synonyms: GRMZM2G145879; GRMZM2G149286,pco075430a
+  Gene Descriptions: Putative cyclin-dependent kinase family protein; uncharacterized LOC100272776
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 424 aa
+
+MASGGGDDDAGvKRVADRYLKREVLGEGTYGVVFKAIDTKTGNTVAIKRIRLGKYKEGVN
+FTALREIKLLKELKDPNIIELIDAFPYKGNLHLVFEFMETDLEAVIRDRNIVLSPADTKS
+YIQMMLKGLAFCHKKWVLHRDMKPNNLLIGADGQLKLADFGLARIFGSPERNFTHQVFAR
+WYRAPELLFGTKQYGSAVDIWAAGCIFAELLLRRPFLQGSSDIDQLGKIFAAFGTPKSSQ
+WPDMVYLPDYVEYQFVSAPPLRSLFPMASDDALDLLSKMFTYDPKARITAQQALEHRYFS
+SVPAPTKPSQLPRPrrKGDSGNNKIPDLNLQDGPVVLSPPRKLRRVTAHEGMEgNMHRAD
+KaEEHPSGMRHtDDMSSQSSRIPMSVDVGAVFGTRPAPRPTLNSADKSRLKRKLDMDPEF
+GYAE
+
+
+BOP CONSENSUS:
+Length: 424 aa
+
+MASGGGDDAGEKRVTDRYLKREVLGEGTYGVVFKAIDTKTGETVAIKRIRLGKYKEGVNF
+TALREIKLLKELKDPNIIELIDAFPYKGNLHLVFEFMETDLEAVIRDRNIVLSPADIKSY
+IQMMLKGLAFCHKKWVLHRDMKPNNLLIGAEGQLKLGDFGLARIFGSPERNFTHQVFARW
+YRAPELLFGTKQYGSAVDVWAAGCIFAELLLRRPFLQGSSDIDQLGKIFAAFGTPKSSQW
+PDMVYLPDYVEYQFVSAPPLRSLFPMASDDALDLLSRMFTYDPKARITAQQALEHRYFSS
+VPAPTKPNLLPRPKLKGDSGNDKIPDLNLQGGPVVVSPPRKLRRVSAPDGMEiNAHRAEK
+AEEHPTTGMRRSEGMSSQSSRIPMSVDVGVVFGTRPAPRPTLNSADKSRLKRKLDMDPEF
+GYAE
+
+
+PACMAD CONSENSUS:
+Length: 427 aa
+
+MASAGNSGSGDDDAGGKLLADRYQKGEVLGEGTYGVVFKAIDTKTGNTVAVKRIRIGDKK
+EGVNFTALREIKLLKELKDPNIIELIDCFPYKENLHLVFEFMETDLEAVIKDKNIVLSPA
+DTKSYVQMMLKGLAFCHKKWVLHRDMKPNNLLIGADGQLKLADFGLARMFGSPGRNFTHQ
+VFARWYRAPELLFGSKQYGSGVDIWAAGCIFAELLTRRAFLQGSSDIDQLGKIFAALGTP
+KSSQWPDMVYLPDYVEYQYVAAPPLRTLFPMASDDALDLLSKMLTYDPKARITAQQALEH
+RYFSSLPAPTRPSQLPRPRRKGDSGNNKIPDLNLQDGPVVLSPPRKLRRVTAHEGMEGMH
+RADKVDEHPSGMRHTDDMSSQSSRIPMSVDVGAVFGTRPAPRPTLNSADKSRLKRKLDMD
+PEFGYAE
+
+================================================================================

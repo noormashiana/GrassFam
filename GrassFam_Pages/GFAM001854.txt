@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM001854
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK4
+Organeller, Te, Etc.:            None
+Median Peptide Size:             544.0 aa
+Family Size (Extended Family Size): 31 (33) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10682:SF26
+Panther Family ID:               PTHR10682
+Modal Panther ID:                PTHR10682:SF26
+Modal Panther Description:       POLY(A) POLYMERASE
+Modal Panther Family ID:         PTHR10682
+Modal Panther Fam Desc:          POLY A  POLYMERASE
+Interpro Signature Accession:    G3DSA:1.10.1410.10:FF:000001; G3DSA:3.30.460.10:FF:000002; G3DSA:3.30.70.590; G3DSA:1.10.1410.10; G3DSA:3.30.460.10; PTHR10682; PIRSF018425; PF20750; PF04928; SSF55003; SSF81631; SSF81301
+Interpro Signature Description:  Putative poly(A) polymerase gamma; Poly(A) polymerase alpha, putative; Poly(A) polymerase predicted RNA binding domain; -; Beta Polymerase, domain 2; POLY A  POLYMERASE; PolyA_polymerase; Poly(A) polymerase nucleotidyltransferase domain; Poly(A) polymerase central domain; PAP/Archaeal CCA-adding enzyme, C-terminal domain; PAP/OAS1 substrate-binding domain; Nucleotidyltransferase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi05
+  Gene Products: nuclear poly(A) polymerase 2
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu02H
+  Gene Products: nuclear poly(A) polymerase 4-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata02D
+  Gene Products: nuclear poly(A) polymerase 2-like; nuclear poly(A) polymerase 4-like
+Tae
+  Gene count: 15
+  Modal chromosome: Tae02B
+  Gene Products: nuclear poly(A) polymerase 2-like; nuclear poly(A) polymerase 4-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola04
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl04
+  Gene Products: nuclear poly(A) polymerase 2-like
+  Gene Descriptions: nuclear poly(A) polymerase 2-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa04
+  Gene Products: nuclear poly(A) polymerase 4
+  Gene Descriptions: nuclear poly(A) polymerase 4
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN30
+Pau
+  Gene count: 1
+  Modal chromosome: Pau13
+  Gene Products: nuclear poly(A) polymerase 4-like
+  Gene Descriptions: nuclear poly(A) polymerase 4-like
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi07N
+  Gene Products: nuclear poly(A) polymerase 2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha07
+  Gene Products: nuclear poly(A) polymerase 4-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi11
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi06
+  Gene Products: nuclear poly(A) polymerase 4
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: nuclear poly(A) polymerase 4
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 534 aa
+
+masPISLVGPTPADHESTaQLEKLLREAGLYESsEElAAREDVLRDLQGIVDRWVKRLTA
+QRGYPDGMAEqATALLlPFGSYRLGVHGRGSDIDALVVGPSYVDRDHDFFaVLGGVLAET
+EAVTELQPVPGAHVPVIKMRFRGVQVDLLYASVCLPVVPRDLDLRDRSVLRGLDlATARS
+LNGVRVADEILRLVPDAGAFRTTLRCVKHWAKARGVYSNVMGFLGGVGWAILVARVCQLY
+PNAAPSMLVPRFFKIFsQWKWPNPVMLRDIEHDDGGELaLgLPVWDPRRNPRDkSHLMPV
+ITPAYPCMNSCYNVSHATLRTITEQlQaGhgiCQEIlkAGGGGWDALFQPFqFFKAYKSY
+LQVDVKVAGGEeDLREWKGWVESRLRQLVaRVEMATAGMLLCHPNPkAYAAKPHDLrCTS
+SFFVGLSKPQqQQQQQQPQFDLRATTEEFKQEVYTYeFWRPGMELeVSHTRRKDLPSYVL
+eQILPagHLKRKRaDDdSSSPPLSSaSsdVKRvAAAGrtGSsPERKRCSSNIVV
+
+
+BOP CONSENSUS:
+Length: 543 aa
+
+MaSPISLVGPTPADHESSaQLEkLLREAGLYETSDELAAREDVLRDLQAIVDRWVKRVTA
+QRGFPDGMAEqATALLIPFGSYRLGVHGRGSDIDALVVGPSYIDRDHDFFAVLGGVLAET
+EAVTELQPVPrAHVPVIKMRFRGVQVDLLYASVCLPVVPRDLDLRDRSVFRGMDLASARS
+LNGVRVADELLRLVPDAGAFRTTLRCIKHWAKARGVYSNVMGFLGGVGWAILVARVCQLY
+PNAAPSMLVPRFFKIFAQWKWPNPVLLRDIEHDDGGELALRLPVWDPRRNPRDKSHLMPV
+ITPAYPCMNSCYNVSHATLRTITEQLQIGNGICQEILKAGGAGGWDALFQPFQFFKAYKS
+YLQVDVKVAGGEADLREWKGWVESRLRQLVnRVEMATAGMLLCHPNPKAYAAKPHDLHCT
+SSFFVGLSKPApQQQQQPQVPFDLRaTTEGFKQEVYTYEFWRPGMELEVSHTRRKDLPSY
+VLEQILPAGHLKRKRaAEdsSSPPLSSASGDVKRvAAAGGtGSSPERKRQCCSNILASVQ
+GVV
+
+
+PACMAD CONSENSUS:
+Length: 542 aa
+
+MASQPKQMFGEPISLVGPTPADLESTAELEKVLREAGMYESPEESAVREEVLRDLQGIVD
+RWVKQLTLQHGYPDAMVDEATALLVPFGSYRLGVHGRGSDIDVLVVGPSFVDRDQDFFVV
+LAGALAETEAVTHLQPVPGAHVPVMKMRFRGVQVDLVYASVNLPVVPRDLDLSDRSVLRG
+LDHVTARSMNGVRVADEILRLVPDAGAFRTTLRCVKLWAKARGVYSNVSGFLGGVAWAIL
+VARVCQLYPNAAPSMLVSRFFKVLSQWRWPTPVMLCDIEHDAELGLPVWDGRRNPRDRTH
+LMPVITPAYPCMNCTYNVSQATQRIIKEQIQAGHVACQEIAAgGGRGWGALFQPFPFFRT
+HKSYLQVDATVAGGEEELREWKGWVESRLRQLVAKVERDTFGELLCHQNPRAYDAEPRGL
+RCTSSFFVGLSTPQQQQQQPSPPQGQQPQFDLRATADEFLQDVYTYRFWRPGLELAVKHV
+RRKDLPPYVMQKIRGPNIHELKRKRsDDGSSSSSPLSSSSSPSSGDDDSvRRPSSRARLr
+Pt
+
+================================================================================

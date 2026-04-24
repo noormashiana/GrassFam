@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM016922
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             382.0 aa
+Family Size (Extended Family Size): 49 (62) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR12411:SF1015
+Panther Family ID:               PTHR12411
+Modal Panther ID:                PTHR12411:SF1015
+Modal Panther Description:       PEPTIDASE C1A PAPAIN C-TERMINAL DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR12411
+Modal Panther Fam Desc:          CYSTEINE PROTEASE FAMILY C1-RELATED
+Interpro Signature Accession:    cd02248; G3DSA:3.90.70.10:FF:000067; G3DSA:3.90.70.10; PTHR12411; PF00112; SM00645; SM00848; SSF54001
+Interpro Signature Description:  Peptidase_C1A; Senescence-specific cysteine protease; Cysteine proteinases; CYSTEINE PROTEASE FAMILY C1-RELATED; Papain family cysteine protease; pept_c1; Inhibitor_I29_2
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi04
+  Gene Products: ervatamin-B
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 11
+  Modal chromosome: Hvu06H
+  Gene Products: ervatamin-B-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata03D
+  Gene Products: ervatamin-B; ervatamin-B-like
+Tae
+  Gene count: 6
+  Modal chromosome: Tae03B
+  Gene Products: ervatamin-B-like
+Ola
+  Gene count: 6
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl04
+  Gene Products: ervatamin-B-like
+  Gene Descriptions: ervatamin-B-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa04
+  Gene Products: senescence-specific cysteine protease SAG12; senescence-specific cysteine protease SAG39
+  Gene Descriptions: senescence-specific cysteine protease SAG12; senescence-specific cysteine protease SAG39
+Ecu
+  Gene count: 4
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau20
+  Gene Products: ervatamin-B-like
+  Gene Descriptions: ervatamin-B-like
+Svi
+  Gene count: 5
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: ervatamin-B-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: ervatamin-B-like%2C transcript variant X2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: ervatamin-B
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: thiol protease SEN102
+  Gene Synonyms: GRMZM2G045706
+  Gene Descriptions: thiol protease SEN102
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 370 aa
+
+MASSSsKRSLPCLLLLLAVfllGCSSATArRrAgkgdsrmMeERFQRWKAEYNRSYATAE
+EERRRFRVYARNVRYIEATNAdAEAAGLTYELGETAYTDLTNDEFMAMYTAPpPpLsaDD
+DDDdmAVITTRAGPVDAgGgqlpVYvNLSAGAPASVDWRASGAVTPVKNQGRCGSCWAFS
+TVAVVEGIYQIRTGKLVSLSEQELVDCDTLDhGCDGGISYRALQWITSNGGITTEdDYPY
+TAktGaCDRAKLSHnAASISGLRRVATRSEASLANAVAmQPVAVSIEAGGaNFQHYRKGV
+YNGPCGTrLNHGVTVVGYGQEpgGGDrYWIVKNSWGEkWGDgGYIRMKKDVAGKPEGLCG
+IAIRPSFPLM
+
+
+BOP CONSENSUS:
+Length: 370 aa
+
+MASSFSKRSpCLLLLLAVfLHGSSATSRpATEDTDPMTLRtMEQRFRRWKAEHNRTYATP
+EEERHRLRVYARNVRYIEATNgDAGAGLTYELGETAYTDLTSDEFMAMYTSRAPPLSaDD
+DDApMMMITTRAGPVDAGGRRQQVYVNESAGAPASVDWRARGAVTEVKNQGQCGSCWAFS
+TVAVVEGIhQIQTGKLASLSEQELVDCDTLDHGCNGGVSYRALQWITSNGGITSqDDYPY
+TAKDDTCDTTKLSHHAASISGFQRVATRSELSLTNAVAMQPVAVSIEAGGANFQHYRNGV
+YNGPCGTRLNHGVTVVGYGEDEVTGESYWIVKNSWGEKWGDsGYLRMKKDIIDKPEGICG
+IAIRPSFPLM
+
+
+PACMAD CONSENSUS:
+Length: 379 aa
+
+MASSStKRsLPCVLLLLlAVfLHGCSSATAHryAGDggAsgddspMmERFQRWKAEYNKS
+YATAAEERRRFRVYARNVAYIEATNAEAEAAGLTYELGETAYTDLTNQEFMAMYTAPPPl
+QLpeDDDEDdvAVITTRAGPVDATGGAgsQLPVYvNLStGAPASVDWRASGAVTPVKNQG
+RCGSCWAFSTVAVVEGIYQIRTGKLVSLSEQELVDCDTLDdGCDGGISYRALRWITsNGG
+ITTEaDYPYTAtTGaCDRAKLSHNAVSIAGLRRVATRSEASLANAVAaQPVAVSIEAGGd
+NFQHYKKGVYNGPCGTKLNHGVTVVGYGQEPGGGDRYWIVKNSWGEgWGDGGYIKMRKDV
+AGKPEGLCGIAIRPSYPLM
+
+================================================================================

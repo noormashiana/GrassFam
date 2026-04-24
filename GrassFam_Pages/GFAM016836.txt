@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM016836
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             455.5 aa
+Family Size (Extended Family Size): 20 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR46128:SF347
+Panther Family ID:               PTHR46128
+Modal Panther ID:                PTHR46128:SF347
+Modal Panther Description:       PENTACOTRIPEPTIDE-REPEAT REGION OF PRORP DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR46128
+Modal Panther Fam Desc:          MITOCHONDRIAL GROUP I INTRON SPLICING FACTOR CCM1
+Interpro Signature Accession:    G3DSA:1.20.5.430:FF:000003; G3DSA:1.25.40.10; PTHR47447
+Interpro Signature Description:  Heat shock factor binding protein; Tetratricopeptide repeat domain; OS03G0856100 PROTEIN
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: heat shock factor-binding protein 1%2C transcript variant X4
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: heat shock factor-binding protein-like%2C transcript variant X3
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: heat shock factor-binding protein%2C transcript variant X2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: heat shock factor-binding protein-like%2C transcript variant X2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: pentatricopeptide repeat-containing protein At1g52640%2C mitochondrial-like
+  Gene Descriptions: pentatricopeptide repeat-containing protein At1g52640%2C mitochondrial-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: heat shock factor-binding protein%2C transcript variant X2
+  Gene Descriptions: heat shock factor-binding protein
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau17
+  Gene Products: pentatricopeptide repeat-containing protein At1g52640%2C mitochondrial-like
+  Gene Descriptions: pentatricopeptide repeat-containing protein At1g52640%2C mitochondrial-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: pentatricopeptide repeat-containing protein At1g52640%2C mitochondrial-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: pentatricopeptide repeat-containing protein At1g52640%2C mitochondrial-like%2C transcript variant X2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: pentatricopeptide repeat-containing protein At1g52640%2C mitochondrial%2C transcript variant X2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma02
+  Gene Products: empty pericarp 2%2C transcript variant 2
+  Gene Synonyms: emp2,GRMZM2G039155,hsbp1,Zmhsbp1
+  Gene Descriptions: empty pericarp 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 455 aa
+
+MQSAARSLAAAARRLpPRSPRPlLLRRLcSASPGQpDPrPDPGPGPDpDPqLVGALCRVL
+SDFRGPRHDLPAALRGFAPRLTPaAAAAVLRRCRNLPVPSLRFFLFAAaLPGFSHLPDSL
+LILANSLAGARLFPLLRSLLSDLPPSALSRDLFPLLFRAYSRAlLPDDAIRAFSSMAGFG
+FhPTLADlHSLLFALSHNGLVEHAEaFFRESaTQFDVSAKTYTILISGWAVVeKPENAQK
+LFDEMVERGVEPDVPAYNALIDALCRGGDVAlAQEQLKDMQrSRGLVPDAATYGPFLRAA
+CASKDARAALRVLDRMRmHDLTPNVFTYNAVIRLLCELGEIDEAYNILnEmaTRGEKPDV
+WSYNTLLNAHCKLKEaNMDSEPSSQNPTDMTAFVQNLLGQMQTRFESMSQNIVSKIDEMG
+TKIDELEQSVNDLKAEMGTEvPVKKPDEAKPADSA
+
+
+BOP CONSENSUS:
+Length: 453 aa
+
+MQAAARSLAApRRLAPRSpRPLPLPRLFTASPqDPsPDPGPGPDVDPGLVSTLSRVLSDF
+RGPRHDLPAALRGFAPRITPDAAAAVLRRCRHLPVPSLRFFLFAAGLPGFSHLPDSLLIL
+ANSLAGARLFPLLRSLLSDLPPAALSRGLFPRLFRAYSRALLPDDAIRAFSSMAGFGFHP
+TLADFHSLLFALSHNGLVNHAEvFFRESGTHFDVSAKTYTILISGWAVVEKPENAQKLFD
+EMVERGVEPDVPAYNALIDALCRGGDIARAQEHLKDMQQSRGLVPDAATYGPFLRAACAS
+KDARDALRVLDRMRMHDLTPNVFTYNAIIRLLCELGEIEEAYNILGEIITRGEKPDVWTY
+NTLLNAHCKKNEANMDSEPSSQNPTDMTAFVQNLLGQMQTRFESMSQNIVSKIDEMGTKI
+DELEQSVNDLKAEMGTTDVPVKKPDEAKPADSA
+
+
+PACMAD CONSENSUS:
+Length: 457 aa
+
+MQSAARLLAAAAPRRLPPRSPRALLLLRGLCSASPGQPDPRPDPGPgPDPDPQLVGALCR
+VLSDFRGPRHDLRAALhGFAPRLTPAAAAAVLRRCRNLPVPSLRFFLFAAAlPGFTHLPD
+SLLVLAGSLAGARLFPLLRSLLSDLPRSALSRDLFPLLFRAYARAGLPDDAIRAFSSMEG
+FGFPPTVADLHSLLFALSHNGLVEHAEAFFRESATQFDLSAKTYTILISGWAVVtKPENA
+RKLFDEMIERGVqPDVPAYNALIDALCRGGDVALAQEQLKDMQRSrGLVPDAATYGPFLR
+SACASKDARAALRVLDRMRARDLTPNVFTYNAVIRLLCELGEVDEAYNILNEMATrGEKP
+DVWSYNTLLNAHCKLKEvNMDSEPSSQNPtDMTAFVQNLLGQMQTRFESMSQNIVSKIDE
+MGTKIDELEQSINDLKAEMGTEMPAKKPDEAKPADSA
+
+================================================================================

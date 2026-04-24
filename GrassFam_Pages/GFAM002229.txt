@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM002229
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             520.5 aa
+Family Size (Extended Family Size): 20 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31561:SF101
+Panther Family ID:               PTHR31561
+Modal Panther ID:                PTHR31561:SF101
+Modal Panther Description:       3-KETOACYL-COA SYNTHASE
+Modal Panther Family ID:         PTHR31561
+Modal Panther Fam Desc:          3-KETOACYL-COA SYNTHASE
+Interpro Signature Accession:    cd00831; G3DSA:3.40.47.10:FF:000028; G3DSA:3.40.47.10; PTHR31561; PIRSF036417; PF08392; SSF53901
+Interpro Signature Description:  CHS_like; 3-ketoacyl-CoA synthase; -; 3-KETOACYL-COA SYNTHASE; Very_long_ch_3-ktacl-CoA_syn; FAE1/Type III polyketide synthase-like protein; Thiolase-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: 3-ketoacyl-CoA synthase 11
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: 3-ketoacyl-CoA synthase 11-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: 3-ketoacyl-CoA synthase 11
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06A
+  Gene Products: 3-ketoacyl-CoA synthase 11-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: 3-ketoacyl-CoA synthase 11-like
+  Gene Descriptions: 3-ketoacyl-CoA synthase 11-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: 3-ketoacyl-CoA synthase 11%2C transcript variant X2
+  Gene Descriptions: 3-ketoacyl-CoA synthase 11
+Pau
+  Gene count: 1
+  Modal chromosome: Pau05
+  Gene Products: 3-ketoacyl-CoA synthase 11-like
+  Gene Descriptions: 3-ketoacyl-CoA synthase 11-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: 3-ketoacyl-CoA synthase 11-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: 3-ketoacyl-CoA synthase 11-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi04
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: 3-ketoacyl-CoA synthase 11%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma05
+  Gene Products: fatty acid elongase
+  Gene Synonyms: GRMZM2G569948
+  Gene Descriptions: fatty acid elongase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 523 aa
+
+MENPAPPAnAAAaAGEtAsSPSPSRRLPDFQQSVRLKYVKLGYHYLITHGMYLLLTPLMV
+LVAVHLSTLSPRDVADLWAHLRLNLlSVvACSTLLVFLSTVYFLTRPRPVYLVDFACYKP
+GPERRCSRDTFMRCSRLTGnFTDASLEFQRKILERSGLGEDTYLPPAVtRVPPNPSMDeA
+RAEAREVMFGAVDELLAKTGVKPKDIGILVVNCSLFNPTPSLSAMVVNHYKLRGNIVSYN
+LGGMGCSAGLLSVDLAKDLLQVHPNSYALVISTENITLNWYSGNDRSKLVSNCLFRMGGA
+AVLLSNRRSDRRRSKYELVHTVRTHKGADDRCFGCVTQEEDGEGkVGVSLSRDLMAVAGD
+ALKTNITTLGPLVLPLSEQLLFMATLVAKKLLKMKKVKPYIPDFKLAFEHFCIHAGGRAV
+LDELESNLdLTDWHMEPSRMTLHRFGNTSSSSLWYELAYSEAKGRIRRRDRVWQIAFGSG
+FKCNSAVWRALRSVNPAEETNPWMDEIDRFPVDVPKVSKVSSd
+
+
+BOP CONSENSUS:
+Length: 524 aa
+
+MSMEDStpPAGAGAsAGERASSPSPSRRLPDFLQSVRLKYVKLGYHYLITHGMYLLLTPL
+IVLIAVHLSTLSPGDVADLWTHLRFNLLSVIACSTLLVFLSTVYFLTRPRSVYLVDFGCY
+KPGPERRCSRETFMRCSKLTGNFTEANLDFQRKILERSGLGEDTYIPPALVTVPPNPSMe
+LARQEAQVCMFGAIDNMLAKTGVKPKDIGILVVNCSLFNPTPSLSAMVVNHYKLRGNIVS
+YNLGGMGCSAGLLSIDLAKDLLQVHPNSYAMVVSTENITLNWYFGNNRSMLVSNCLFRMG
+CAAILLSNKRSDRRRSKYELVHTVRTHKGADDKCFSCVTQEEDDSGKVGVALSKDLMAVA
+GDALKTNITTLGPLVLPFSEQLLFMVTLVGKKLFKMKIKPYIPDFKLAFEHFCIHAGGRA
+VLDEIEKNMDLTDWHMEPSRMTLFRFGNTSSSSLWYELAYSEAKGRIRRRDRIWQIAFGS
+GFKCNSAVWKALRSVNPAKEQNNPWMDEIDTFPVvVPKVSKVvE
+
+
+PACMAD CONSENSUS:
+Length: 518 aa
+
+MDNPAPPTNAAAAtPPSPSRRLPDFQQSVRLKYVKLGYHYLISHGMYLLLTPLMVLVAVH
+LSTLSPRDVADLWAHLRLNLISVLACSTLLVFLgTAYFLTRPRPVYLVDFACYKPGPERR
+CTRDTFMRCSRLTGSFTDASLEFQRKILERSGLGEDTYLPPAVTRVPPNPSMDEARAEAR
+EVMFGAVDELLAKTGVKPKDIGVLVVNCSLFNPTPSLSAMVVNHYKLRGNVVSYNLGGMG
+CSAGLLSVDLAKDLLQTHPGSYALVISTENITLNWYSGNDRSKLVSNCLFRMGGAAVLLS
+NRRSDRRRAKYELVHTVRTHKGADDRCFGCVTQEEDGEGvVGVSLSRDLMAVAGDALKTN
+ITTLGPLVLPLSEQLLFMATLVAKKLLKMKKVKPYIPDFKLAFEHFCIHAGGRAVLDELE
+SNLALTDWHMEPSRMTLHRFGNTSSSSLWYELAYSEAKGRIRRRDRVWQIAFGSGFKCNS
+AVWRALRSVNPAEETNPWMDEIDRFPVDVPKVSKVSSd
+
+================================================================================

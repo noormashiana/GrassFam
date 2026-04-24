@@ -1,0 +1,133 @@
+================================================================================
+GrassFam ID: GFAM020722
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             422.0 aa
+Family Size (Extended Family Size): 19 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11142:SF10
+Panther Family ID:               PTHR11142
+Modal Panther ID:                PTHR11142:SF10
+Modal Panther Description:       TRNA PSEUDOURIDINE SYNTHASE
+Modal Panther Family ID:         PTHR11142
+Modal Panther Fam Desc:          PSEUDOURIDYLATE SYNTHASE
+Interpro Signature Accession:    G3DSA:3.30.70.580:FF:000027; G3DSA:3.30.70.660:FF:000019; G3DSA:3.30.70.580; PTHR11142; SSF55120
+Interpro Signature Description:  tRNA pseudouridine synthase; -; PSEUDOURIDYLATE SYNTHASE; Pseudouridine synthase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: tRNA pseudouridine synthase A%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: tRNA pseudouridine synthase A
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: tRNA pseudouridine synthase A%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: tRNA pseudouridine synthase A-like%2C transcript variant X1
+Ola
+  Gene count: 1
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: uncharacterized LOC127775955%2C transcript variant X1
+  Gene Descriptions: uncharacterized LOC127775955
+Osa
+  Gene count: 1
+  Modal chromosome: Osa06
+  Gene Products: uncharacterized protein
+  Gene Descriptions: uncharacterized LOC4341760
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 1
+  Modal chromosome: Pau10
+  Gene Products: uncharacterized LOC133883244
+  Gene Descriptions: uncharacterized LOC133883244
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi04K
+  Gene Products: tRNA pseudouridine synthase A-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: tRNA pseudouridine synthase A
+Msi
+  Gene count: 2
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi10
+  Gene Products: tRNA pseudouridine synthase A%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma06
+  Gene Products: pseudouridylate synthase
+  Gene Synonyms: GRMZM2G050765
+  Gene Descriptions: pseudouridylate synthase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 419 aa
+
+MLAKFRPLMATAAKAKAAPAVAfSTAAAERDEHvHYNHTDACHHLRWTAKESYEYMYARP
+WSRVVDFYAELVRTGAGAAGLAkLFGKDEKDYTLDTNGEnyLTSSEKQtsTkSSKDRGGR
+WERVTFKIVLSYHGGSFDGWQKQPGLNTVQGLVEKHLGQFVDERKAKQLEARSLPIEGCA
+tVAGRTDKGVTALQQVCSFYTWRKDVKSGDIKDAINEAAPDKLKPLHVSEVSREFHPNFS
+AKWRRYLYIFPLDEDAKLIsGEEQSSkILENPEhNIKPQSFDVAKVDKIIRQLEGKtLSY
+KMFARDTQASRSVGPPTECFMFHSRAAVAKLYSADENCKEGtrVMCVELVANRFLRKMVR
+VLVATAIREAAAGAgEDALLNLMEATCRRATAPPAPPEGLCLVDVGYEDFnKQRCFIVD
+
+
+BOP CONSENSUS:
+Length: 417 aa
+
+MLAKFRPLMATAPtTKAAPAVAFSTAAERDGYAQYNHTDACQHLRWTARESYEYMYARPW
+SRVVDFYAELVRTGAGAAGLAELFRKDEKDHTRDTNGEEPLTSSEKQMSVKSSKaRGGRW
+ERANFKIVLSYHGGSFDGWQKQPDLNTVQGLVEKHLGQFVDERKAKQLQERSLPIEGCAT
+VAGRTDKGVTALQQVCSFYTWRKDVQPsDIKDTINEAAPDKIKSLVVSEVSREFHPNFSA
+KWRRYLYIFPLDEDAKSISGDEQSStILENPEYNAPRSFDVAKVDKIIRQLEGKMLSYKI
+FARDTQASRSDGPATECFMFHSRAAVTKLYSADENCKEGTTVMCVELVANRFLRKMVRVL
+VATAIREAAAGADEDALLNLMEATCRRATAPPAPAEGLCLVDVGYEDFNEQRCFIVD
+
+
+PACMAD CONSENSUS:
+Length: 422 aa
+
+MLAKFRPLMATAAKARAPPAVAASTAAAAAAEREEHVHYKHTDACHHLRWTAKESYEYMY
+ARPWSRVVDFYAELVRAGAGAAGLAKLFGKDEKDYTLDTTGENYLTPSEKQTATISSKDR
+GGRWERVTFKIVLSYHGGSFDGWQKQPGLNTVQGLVEKHLGQFVDERKAKQLEARSLPIE
+GCAVVAGRTDKGVTALQQVCSFYTWRKDVKSGDIKDAINEAAPDKLKPLHVSEVsREFHP
+NFAAKWRRYMYIFPLDEDAKLILGEeQSSKILENSEHNIKPQSFDVAKVDEILRkLAGKT
+LSYKMFARDTQASRSVGPPTECFMFHSRAAVAKLYSANEDYKEGMrVMCVELVANRFLRK
+MVRVLVATAIREAAAGAGEDALLNLMEATDRRATAPPAPPEGLCLVDVGYEDFsKQRCFI
+VD
+
+================================================================================

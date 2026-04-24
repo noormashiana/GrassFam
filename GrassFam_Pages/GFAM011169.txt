@@ -1,0 +1,132 @@
+================================================================================
+GrassFam ID: GFAM011169
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK11
+Organeller, Te, Etc.:            None
+Median Peptide Size:             387.0 aa
+Family Size (Extended Family Size): 35 (36) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR42738:SF13
+Panther Family ID:               PTHR42738
+Modal Panther ID:                PTHR42738:SF13
+Modal Panther Description:       HYDROXYMETHYLGLUTARYL-COA LYASE
+Modal Panther Family ID:         PTHR42738
+Modal Panther Fam Desc:          HYDROXYMETHYLGLUTARYL-COA LYASE
+Interpro Signature Accession:    cd07938; G3DSA:3.20.20.70:FF:000038; G3DSA:3.20.20.70; NF004283; PTHR42738; PF00682; SSF51569
+Interpro Signature Description:  DRE_TIM_HMGL; Hydroxymethylglutaryl-CoA lyase, mitochondrial; Aldolase class I; hydroxymethylglutaryl-CoA lyase; HYDROXYMETHYLGLUTARYL-COA LYASE; HMGL-like; Aldolase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: hydroxymethylglutaryl-CoA lyase%2C mitochondrial
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: hydroxymethylglutaryl-CoA lyase%2C mitochondrial%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: hydroxymethylglutaryl-CoA lyase%2C mitochondrial%2C transcript variant X1
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: hydroxymethylglutaryl-CoA lyase%2C mitochondrial-like; hydroxymethylglutaryl-CoA lyase%2C mitochondrial-like%2C transcript variant X2
+Ola
+  Gene count: 2
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl11
+  Gene Products: hydroxymethylglutaryl-CoA lyase%2C mitochondrial-like%2C transcript variant X2; uncharacterized LOC127755088
+  Gene Descriptions: hydroxymethylglutaryl-CoA lyase%2C mitochondrial-like; uncharacterized LOC127755088
+Osa
+  Gene count: 2
+  Modal chromosome: Osa11
+  Gene Products: uncharacterized protein%2C transcript variant X1; uncharacterized protein%2C transcript variant X2
+  Gene Descriptions: uncharacterized LOC4349718; uncharacterized LOC4351434
+Ecu
+  Gene count: 7
+  Modal chromosome: Ecu06
+Pau
+  Gene count: 3
+  Modal chromosome: Pau19
+  Gene Products: hydroxymethylglutaryl-CoA lyase%2C mitochondrial-like%2C transcript variant X1; uncharacterized LOC133900776; uncharacterized LOC133906552
+  Gene Descriptions: hydroxymethylglutaryl-CoA lyase%2C mitochondrial-like; uncharacterized LOC133900776; uncharacterized LOC133906552
+Svi
+  Gene count: 2
+  Modal chromosome: Svi07
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi03K
+  Gene Products: hydroxymethylglutaryl-CoA lyase%2C mitochondrial-like; hydroxymethylglutaryl-CoA lyase%2C mitochondrial-like%2C transcript variant X1; hydroxymethylglutaryl-CoA lyase%2C mitochondrial-like%2C transcript variant X2
+Pha
+  Gene count: 2
+  Modal chromosome: Pha03
+  Gene Products: hydroxymethylglutaryl-CoA lyase%2C mitochondrial-like%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi10
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi05
+  Gene Products: hydroxymethylglutaryl-CoA lyase%2C mitochondrial
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100283677%2C transcript variant X1
+  Gene Synonyms: cl173_1a,GRMZM2G095141
+  Gene Descriptions: uncharacterized LOC100283677
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 386 aa
+
+MSSLEEPLGLGDLPKLSINRLGRFSSPSACRAtADDRsTgkYnnSCNGnnQmiFHsNSHs
+WHpQCRyADSSCDGVELRDLPRKVmWDLPRFVKIVEVGPRDGLQNEKnNVPTSVKIQLIH
+KLVAAGLSVVEATSFVSPKWVPQLADAKDVLkGIQQvPnVRFPVLTPNLRGFEAAVAAGA
+KEIAVFASASESFSKSNINCTIEESLVRYRDVTAAAKKHGLRIRGYVSCVIGCPVEGAIH
+PSKVAYVAKELYNMGCSEISLGDTIGVGTPGSVVAMLEAVMSFVPVDKIAVHFHDTYGQA
+LANILVSLQMGISIVDSSVSGLGGCPYAKGATGNVATEDVVYMLHGLGIETNVDLNKLME
+AGDYISKHLGRPLGSKTATALRKLTt
+
+
+BOP CONSENSUS:
+Length: 387 aa
+
+MSSLEEPLGLGDLPKLSINRLGRFCQSACRStADDRSTGNYTPSNGGNNQTLFHStSHSW
+HLQGQYTDSSCNGVDMEFRALPRKVSWDLPRFVKVVEVGPRDGLQNEKNIVPTSVKIELI
+HKLVASGLSVVEATSFVSPKWVPQLADAKDVLEGIQHAPDVRFPVLTPNLRGFEAAVAAG
+AKEVAVFASASESFSKSNINCTIEESLVRYRDVTSAAKKHGIRIRGYVSCVVGCPVEGAV
+HPSKVAYVAKELYDMGCsEISLGDTIGVGTPGRVVPMLEAVMSVVPVDKLAVHFHDTYGQ
+ALANILVSLQMGIgVVDSSVSGLGGCPYAKGATGNVATEDVVYMLHGLGIETNVDLGKLM
+DAGDYICKHLgRPSGSKTATALCKLTA
+
+
+PACMAD CONSENSUS:
+Length: 387 aa
+
+MSSLEEPLGLGDLPKLSINRLGRFSSPSAYRRAaADDrNTrKYNNSCNGStQMvFHGNSH
+lWHPQCRQADSSCDgVELRDLPRKVMWDLPRFVKIVEVGPRDGLQNEKGNVPTSVKIQLI
+HKLVAAGLSVVEATSFVSPKWVPQLADAKEVLKGIQQvPNVRYPVLTPNLRGFEAAVAAG
+AKEIAVFASASESFSKSNINCTIEESLVRYRDVTAAAKKHGLlIRGYVSCVIGCPVEGAI
+DPSKVAYVAKELYNMGCSEISLGDTIGVGTPGSVVAMLEAVMSFVPVDKIAVHFHDTYGQ
+ALANILVSLQMGISIVDSSVSGLGGCPYAKGATGNVATEDVVYMLHGLGIETNVDLNKLM
+EAGDYISKHLGRPLGSKTATALRKLTt
+
+================================================================================

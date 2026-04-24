@@ -1,0 +1,138 @@
+================================================================================
+GrassFam ID: GFAM003150
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             483.0 aa
+Family Size (Extended Family Size): 34 (39) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11926:SF863
+Panther Family ID:               PTHR11926
+Modal Panther ID:                PTHR11926:SF863
+Modal Panther Description:       GLYCOSYLTRANSFERASE
+Modal Panther Family ID:         PTHR11926
+Modal Panther Fam Desc:          GLUCOSYL/GLUCURONOSYL TRANSFERASES
+Interpro Signature Accession:    cd03784; G3DSA:3.40.50.2000:FF:000274; G3DSA:3.40.50.2000:FF:000078; G3DSA:3.40.50.2000; PTHR11926; SSF53756
+Interpro Signature Description:  GT1_Gtf-like; Glycosyltransferase; Glycogen Phosphorylase B;; GLUCOSYL/GLUCURONOSYL TRANSFERASES; UDP-Glycosyltransferase/glycogen phosphorylase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: putative UDP-glucose glucosyltransferase
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu03H
+  Gene Products: gallate 1-beta-glucosyltransferase 84A23-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata03D
+  Gene Products: gallate 1-beta-glucosyltransferase 84A23; gallate 1-beta-glucosyltransferase 84A24-like
+Tae
+  Gene count: 5
+  Modal chromosome: Tae03B
+  Gene Products: gallate 1-beta-glucosyltransferase 84A23-like; gallate 1-beta-glucosyltransferase 84A24-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: gallate 1-beta-glucosyltransferase 84A24-like
+  Gene Descriptions: gallate 1-beta-glucosyltransferase 84A24-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: gallate 1-beta-glucosyltransferase 84A24
+  Gene Descriptions: gallate 1-beta-glucosyltransferase 84A24
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN362
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: gallate 1-beta-glucosyltransferase 84A23-like; gallate 1-beta-glucosyltransferase-like
+  Gene Descriptions: gallate 1-beta-glucosyltransferase 84A23-like; gallate 1-beta-glucosyltransferase-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi01K
+  Gene Products: gallate 1-beta-glucosyltransferase-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha01
+  Gene Products: gallate 1-beta-glucosyltransferase-like
+Msi
+  Gene count: 3
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi03
+  Gene Products: cinnamate beta-D-glucosyltransferase; putative UDP-glucose glucosyltransferase
+Zma
+  Gene count: 3
+  Modal chromosome: Zma04
+  Gene Products: gallate 1-beta-glucosyltransferase; limonoid UDP-glucosyltransferase%2C transcript variant X2; uncharacterized LOC100281303
+  Gene Synonyms: GRMZM2G417945; gpm113b,GRMZM2G304712
+  Gene Descriptions: limonoid UDP-glucosyltransferase; uncharacterized LOC100281303
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 481 aa
+
+MGEEAAAaVTAAAtSAPPHLLLICFPGQGHVNPMLRLAKRiAAKGLLVTFSSTSsVGAKL
+aASSGVSAGGDGVPVGRGRIRFEFLDDhFDGpDLDDLMRHLETaGPPAFAeLLRRQAEAG
+RPVACVVGNPFlPWAvDVAADAGIPsAVLWVQSCAVFSLYYHHVHGLVEFPPEDDLDARF
+tLPGLPaLSVADVPSFLLPSNPYKLLtDAIlrQFRTIhKASWVFVNSFtELERDVVAALP
+GVTPRPPeLIPVGPLIELeGEEdgAVRGDLIKAADDCVGWLDAQAPRSVVYASvGSVVVL
+SAEEVAEMAHGLASTGRPFLWVVRPDTrpLLPEGFLDSVAGRGMVVPWSPQDRVLAHPST
+ACFLTHCGWNSTLETVAAGVPVVAFPQWGDQCTDAKFLVEELkMGVRLRAPLRRDAVREA
+VEAAVAGPdAgAMLANARaWSAAARaAVAPGGSSDRHVQAFVDEVaRRAcGarAaKvvva
+a
+
+
+BOP CONSENSUS:
+Length: 481 aa
+
+MGEEAAATVTAAATSsAPHLLLICFPGQGHVNPMLRLAKRFAAKGLLVTFSSTSDVGAKI
+TASSGVEAGGDGVPLGlGRIRFEFLDDHFDGnDLDDLMRHLETTGPPAFAELLRRQEEAG
+RPVACVVGNPFLPWAiDVAHDAGIPtAVLWVQSCAVFSLYYHHVHGLVEFPPEDDLDARV
+kLPGLPALSVADVPSFLLPSNPYKLLTEAILkQFRTIHKASWVFVNSFsELERDVVDALP
+GVSPPPPPLIPVGPLVELEEEAAVRGDMIKAADDCVGWLDAQAPRSVVYASLGSVVVLSA
+EELAEMAHGLASTGRPFLWVVRPDCSAMLPEGYLDSVAGRGMVVPWSPQDLVLAHPSTAC
+FLTHCGWNSTLETLAAGVPVVAFPQWGDQCTDAKYLVEEFKMGVRIGAPLRRDAVRDAVE
+dVVAGPDAGAMLENARAWSAAARTAVAAGGSSDRHVQAFVDEVVArvsGARADKDpVAAE
+Q
+
+
+PACMAD CONSENSUS:
+Length: 483 aa
+
+MGEEAAAvPvAAAAASAPPHLLLICFPGQGHVNPMLRLAKRIAAKGLLVTFSSvSsVGAK
+LAAAAGVSAGGDGVPVGRGRVRFEFLDDgDPGPDLDDLMRHLETaGPPAFAeLLRRQAEa
+GRPVACVVVNPFMPWAsDVAADAGIPSAVLWVQSCAVFSLYYHHVHGLVEFPPEDDpDAR
+FtLPGLPEMSVADVPSFLLPSNPYKLLADAIItQFRTIGRASWVLVNSFTELERDVvAAL
+PGVTPRPPELIPVGPLIELqGqeDDgAVRGDLIKAADDCVEWLDAQPPRSVVYASVGSVV
+VLSAEEVAEMAHGLASTGRPFLWVVRPDTRPLLPEGFLDSVAGRGmVVPWSPQDRVLAHP
+STACFLTHCGWNSTLETVAAGVPVVAFPQWGDQCTDAKFLVEELRMGVRLRAPLRREAVR
+EAVeAAVAGPeADAMLAsARRWSAAARAAVAPGGSSDAHVQAFVDEVARRACGGQAAkvv
+psa
+
+================================================================================

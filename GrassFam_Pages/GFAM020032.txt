@@ -1,0 +1,136 @@
+================================================================================
+GrassFam ID: GFAM020032
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             481.0 aa
+Family Size (Extended Family Size): 23 (27) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11055:SF65
+Panther Family ID:               PTHR11055
+Modal Panther ID:                PTHR11055:SF65
+Modal Panther Description:       SULFATE ADENYLYLTRANSFERASE
+Modal Panther Family ID:         PTHR11055
+Modal Panther Fam Desc:          BIFUNCTIONAL 3'-PHOSPHOADENOSINE 5'-PHOSPHOSULFATE SYNTHASE
+Interpro Signature Accession:    cd00517; G3DSA:3.10.400.10:FF:000002; G3DSA:3.40.50.620:FF:000006; G3DSA:3.10.400.10; G3DSA:3.40.50.620; TIGR00339; PTHR11055; PF14306; PF01747; SSF52374; SSF88697
+Interpro Signature Description:  ATPS; ATP sulfurylase 2; bifunctional 3'-phosphoadenosine 5'-phosphosulfate synthase 1; Sulfate adenylyltransferase; HUPs; sulfate adenylyltransferase; BIFUNCTIONAL 3'-PHOSPHOADENOSINE 5'-PHOSPHOSULFATE SYNTHASE; PUA-like domain; ATP-sulfurylase; Nucleotidylyl transferase; PUA domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: ATP sulfurylase 1%2C chloroplastic
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: ATP-sulfurylase 3%2C chloroplastic-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: ATP sulfurylase 4%2C chloroplastic
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: ATP sulfurylase 4%2C chloroplastic-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: ATP-sulfurylase 3%2C chloroplastic-like
+  Gene Descriptions: ATP-sulfurylase 3%2C chloroplastic-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: ATP-sulfurylase 3%2C chloroplastic
+  Gene Descriptions: ATP-sulfurylase 3%2C chloroplastic
+Ecu
+  Gene count: 2
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 2
+  Modal chromosome: Pau03
+  Gene Products: ATP-sulfurylase 3%2C chloroplastic-like
+  Gene Descriptions: ATP-sulfurylase 3%2C chloroplastic-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: ATP-sulfurylase 3%2C chloroplastic-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: ATP-sulfurylase 3%2C chloroplastic-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: ATP-sulfurylase 3%2C chloroplastic
+Zma
+  Gene count: 2
+  Modal chromosome: Zma01
+  Gene Products: ATP-sulfurylase 3%2C chloroplastic-like
+  Gene Synonyms: GRMZM2G051270; GRMZM2G149952
+  Gene Descriptions: ATP-sulfurylase 3%2C chloroplastic-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 480 aa
+
+MATQAAFlArFPQLAAQPGRDRAvvAPARVrVAaRvGSAGVKAGaAAaAAAaRGVRCRAS
+LIEPDGGRLVDLVAPEEGGRRAALRREAAALPHRVRLGRVDKEWLHVLSEGWASPLRGFM
+REhEFLQALHFNAIRGaDGRMVNMSVPIVLsLGDAQRRAIQADGATRVALVDaRDRPvAV
+LSDIEIYKHNKEERIARTWGTTAPGLPYVEEAITNAGDWLIGGDLEVIEPIKYNDGLDQY
+RLSPAQLREEFARRNADAVFAFQLRNPVHNGHALLMTDTRRRLLEMGYKNPVLLLHPLGG
+FTKADDVPLSWRMKQHEKVLEEGVLNPESTVVAIFPSPMHYAGPTEVQWHAKARINAGAN
+FYIVGRDPAGMSHPTEKRDLYDADHGKKVLSMAPGLERLNILPFKVAAYDTKQKKMDFFD
+PSRKDDFLFISGTKMRTLAKNRESPPDGFMCPGGWKVLVEYYDSLVPSEGSSKLREPVAA
+
+
+BOP CONSENSUS:
+Length: 472 aa
+
+MATQAAFAVRFPQLARPgRGqGQGQPAraRVAVRGGrAAAAAARGVRCRAGGLIEPDGGR
+LVELVAPEEGGRRAALRREAAALPHRVRLGRVDTEWLHVLSEGWASPLRGFMRETEFLQA
+LHFNAVRGgDGsLVNMSVPIVLALDDAQRRAIQASGATrVALVDAHDRPVAVLSDIEIYK
+HNKEERIARTWGTTARGLPYVEEAITNAGDWLIGGDLEVIEPIKYNDGLDQYRLSPAQLR
+EEFARRNADAVFAFQLRNPVHNGHALLMTDTRRRLLEMGYKNPVLLLHPLGGFTKADDVP
+LSVRMKQHEKVLEEGVLNPESTVVAIFPSPMHYAGPTEVQWHAKARINAGANFYIVGRDP
+AGMGHPTEKRDLYDADHGKKVLSMAPGLERLNILPFKVAAYDTKHNKMNFFDPSRKEDFL
+FISGTKMRSLAKNRESPPDGFMCPGGWKVLVEYYDSLAPPEGSSKLREAVAA
+
+
+PACMAD CONSENSUS:
+Length: 483 aa
+
+MATQAAFLAGFSQLAAQPGRDRAGAAPARVgVAAVGSAKVGGVKAGaAvAaAvARRGVRC
+RASLIEPDGGRLVDLVAPEEGGRRAALRREAAsLPHRLRLGRVDKEWVHVLSEGWASPLQ
+GFMREHEFLQALHFNAIRGeDGRMVNMSVPIVLSLGDAQRRAIQADGATRVALVDeRDRP
+IAVLSDIEIYKHNKEERIARTWGTTAPGLPYVEEAITNAGDWLIGGDLEVIEPIKYNDGL
+DQYRLSPAQLREEFARRNADAVFAFQLRNPVHNGHALLMTDTRKRLLEMGYKNPVLLLHP
+LGGFTKADDVPLSWRMKQHEKVLEEGVLNPESTVVAIFPSPMHYAGPTEVQWHAKARINA
+GANFYIVGRDPAGMSHPTEKRDLYDADHGKKVLSMAPGLERLNILPFKVAAYDTKQKKMD
+FFDPSRKDDFLFISGTKMRTLAKNRESPPDGFMCPGGWKVLVEYYDSLVPSEGSSKLREP
+VAA
+
+================================================================================

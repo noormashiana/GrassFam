@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM010181
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             460.0 aa
+Family Size (Extended Family Size): 24 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR24414:SF85
+Panther Family ID:               PTHR24414
+Modal Panther ID:                PTHR24414:SF85
+Modal Panther Description:       GALACTOSE OXIDASE_KELCH REPEAT PROTEIN
+Modal Panther Family ID:         PTHR24414
+Modal Panther Fam Desc:          F-BOX/KELCH-REPEAT PROTEIN SKIP4
+Interpro Signature Accession:    G3DSA:2.120.10.80; PTHR46344; SSF117281
+Interpro Signature Description:  -; OS02G0202900 PROTEIN; Kelch motif
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: F-box/kelch-repeat protein At1g22040
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu06H
+  Gene Products: F-box/kelch-repeat protein At1g22040-like%2C transcript variant X2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: F-box/kelch-repeat protein At1g22040-like
+Tae
+  Gene count: 1
+  Modal chromosome: Tae06B
+  Gene Products: F-box/kelch-repeat protein At1g22040-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola02
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl02
+  Gene Products: F-box/kelch-repeat protein At1g22040-like
+  Gene Descriptions: F-box/kelch-repeat protein At1g22040-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa02
+  Gene Products: F-box/kelch-repeat protein At1g22040%2C transcript variant X1
+  Gene Descriptions: F-box/kelch-repeat protein At1g22040
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 2
+  Modal chromosome: Pau06
+  Gene Products: F-box/kelch-repeat protein At1g22040-like; pentatricopeptide repeat-containing protein At2g13600-like
+  Gene Descriptions: F-box/kelch-repeat protein At1g22040-like; pentatricopeptide repeat-containing protein At2g13600-like
+Svi
+  Gene count: 2
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi01K
+  Gene Products: F-box/kelch-repeat protein At1g22040-like; pentatricopeptide repeat-containing protein At5g16860-like; pentatricopeptide repeat-containing protein At5g27110-like
+Pha
+  Gene count: 2
+  Modal chromosome: Pha01
+  Gene Products: F-box/kelch-repeat protein At1g22040-like%2C transcript variant X2; pentatricopeptide repeat-containing protein At5g27110-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: F-box/kelch-repeat protein At1g22040
+Zma
+  Gene count: 1
+  Modal chromosome: Zma04
+  Gene Products: uncharacterized LOC100281539%2C transcript variant X2
+  Gene Synonyms: cl34400_1a
+  Gene Descriptions: uncharacterized LOC100281539
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 460 aa
+
+MGSILSaAssTARSMDrHEtSGTdSNKRVKISTYEYGSNpRIIPTLPDELSFQILARLPR
+IHYLNLKMVSRAWKAAITSSELSQLRRELGVTEEWLYVLTKVEANKLDWYALDPLFQKWQ
+RLPPMPSFVNEEEStGRTqSSGFRMWNVVGSSIRIADFVRGWFWRRYGLDQMPFCGCSVG
+VADGCLYVlGGFSKAVALNCVWRYDPFLNLWQEVSPMMtGRAFSKAtLLnSKLYVVGGVS
+RGRNGLLPLRSGEVFDPKTGLWSELPEMPFAKAQVLPTAFLADVLKPIATGMASYKGKLY
+VPQSLYSWPFFFDIGGEIYDPELNSWSTMPDGLGDGWPARQAGTKLGVVVNDELYTLEPS
+SSLDSGQIKRYDSEEDTWVTIVPQVPVNDFTDAEAPYLLAGLHGRLHVITKaANNTLQVM
+QAVVQNNTgNnASEENVLWNTVASRNFGtAELVSCQVLDV
+
+
+BOP CONSENSUS:
+Length: 460 aa
+
+MGSYLStAsSNARSVDShEkSGSVSNKRAKITTYECGSYSRIIPTLPDELSFQILARLPR
+IYYLKmKLVSRTWKAAITSSELAQLRRELGLTEEWLYILTKVEANKLDCYALDPLFQKWQ
+RLPSMPSFVNEEESTGRTQSSgFRMWNVVGSSIRIADFFRGWFWRRYGLDQMPFCGCSVG
+VADGCLYVLGGFSKAVALNCVWRYNPCLNLWQEVNPMISGRAFSKASLLeSKLYVVGGVS
+RGRNGLLPLRSGEVFDPKTGLWSELPEMPFVKAQVLPTAFLADVLKPIATGMASYKGKLY
+VPQSLYSWPFFFDIGGEIYDSELNSWSTMPDGLGDGWPARQAGTKLGVVVNDELYTLEPS
+SSLDSGQIKRYDSEEDVWRTIVPQVPVHDFTDAESPYLLAGLHGKLHVITKEANNNLQVM
+QAVLQNNTENdASEENVLWNIVASKNFGAAELVSCQVLDV
+
+
+PACMAD CONSENSUS:
+Length: 459 aa
+
+MGSILSATSTTAKSMDRHETSGTDPNKRVKVSTYEYGSNPRIIPTLPDELSFQILARLPR
+IHYLNLKMVCRAWKAAITSHELSQLRRELGVSEEWLYVLTKVEANKLHWYALDPVFQKWQ
+RLPPMPSFVNEEESNRTGSSGFRMWNVVGSSIRIADFVRGWFWRRNGLDQMPFCGCSVGV
+ADGYLYVVGGFSKAVALNCVWRYDPFLNLWQEVSPMMTGRAFCKATFLNGKLYVVGGVSR
+GRNGLLPLRSAEVFDPKTGLWSELPEMPFAKAQVLPTAFLADVLKPIATGMAPYKGKLYV
+PQSLYSWPFFFDIGGEIYDPELNSWSTMPDGLGDGWPARQAGTKLGVVIDDKLYTLEPSS
+SLDSGQIKRYNSEEDTWVTItPQVPVNDFTDAEAPYLLAGLHGRLHVITKAANNTLQVMQ
+AVVQNNtDNrASEENVVWTTVASRNFGTAELVSCQVLDV
+
+================================================================================

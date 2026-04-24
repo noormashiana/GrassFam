@@ -1,0 +1,129 @@
+================================================================================
+GrassFam ID: GFAM011179
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK6
+Organeller, Te, Etc.:            None
+Median Peptide Size:             354.0 aa
+Family Size (Extended Family Size): 24 (25) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR11214:SF124
+Panther Family ID:               PTHR11214
+Modal Panther ID:                PTHR11214:SF124
+Modal Panther Description:       HYDROXYPROLINE O-GALACTOSYLTRANSFERASE HPGT3
+Modal Panther Family ID:         PTHR11214
+Modal Panther Fam Desc:          BETA-1,3-N-ACETYLGLUCOSAMINYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:3.90.550.50:FF:000023; PTHR11214; PF01762
+Interpro Signature Description:  Hexosyltransferase; BETA-1,3-N-ACETYLGLUCOSAMINYLTRANSFERASE; Galactosyltransferase
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: hydroxyproline O-galactosyltransferase HPGT3
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe07
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu07H
+  Gene Products: hydroxyproline O-galactosyltransferase HPGT3-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata07D
+  Gene Products: hydroxyproline O-galactosyltransferase HPGT3
+Tae
+  Gene count: 3
+  Modal chromosome: Tae07A
+  Gene Products: hydroxyproline O-galactosyltransferase HPGT3-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola08
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl06
+  Gene Products: hydroxyproline O-galactosyltransferase HPGT2-like
+  Gene Descriptions: hydroxyproline O-galactosyltransferase HPGT2-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa06
+  Gene Products: hydroxyproline O-galactosyltransferase HPGT3%2C transcript variant X2
+  Gene Descriptions: hydroxyproline O-galactosyltransferase HPGT3
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN335
+Pau
+  Gene count: 1
+  Modal chromosome: Pau10
+  Gene Products: hydroxyproline O-galactosyltransferase HPGT2-like
+  Gene Descriptions: hydroxyproline O-galactosyltransferase HPGT2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi04
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi04K
+  Gene Products: hydroxyproline O-galactosyltransferase HPGT2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha04
+  Gene Products: hydroxyproline O-galactosyltransferase HPGT2-like
+Msi
+  Gene count: 4
+  Modal chromosome: Msi18
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi10
+  Gene Products: hydroxyproline O-galactosyltransferase HPGT2; hydroxyproline O-galactosyltransferase HPGT2%2C transcript variant X1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma09
+  Gene Products: uncharacterized LOC100283552
+  Gene Synonyms: GRMZM2G000393
+  Gene Descriptions: uncharacterized LOC100283552
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 354 aa
+
+METLASAMRRENRRFKAPSSSSSAaAAlASGRVPLVMAFLSCLAWLYVAGRLWQDAQTRA
+ILSGLLEKSSGNLPKVLSVEDKLRNLGCkgIGRKIVEAEMDLTKAKSEGYLWGNRTAAvD
+SDKKQKLLAVIGVYTGFGSRLKRNTFRGSWMPRGDALKKLEEKGVVIRFVIGRSANRGDS
+LDRNIDDENRrTKDFLILESHEEAAEELPSKAKFFFSAAVEAWDAEFYVKVEDNINLDLA
+GLIEMLEGRRGSQGLYMGCMKSGvVVSEEGQQWYEPEWWKFGDSKTYFRHASGSLFILSN
+NLARYININSASLQSYAHDDISVGSWMMGLNATYVDDDRLCCsSSRQEKVCSNA
+
+
+BOP CONSENSUS:
+Length: 354 aa
+
+METLASAMRRENRRFKPPSSSSSSSAAASAGRVPLVMAFLSCLAWVYVAGRLWQDAQTRA
+VLSGLLEKSTGNLPKELSVDDKLRDLGCTGIGRKIAEAEMDLTKAKSEGYLWGNGTGGTg
+GSDRKKLLAVIGVYTGFGSRLKRNTFRGSWMPRGDALKKLEEKGVVIRFVIGRSPNRGDS
+LDRNINEENRKTNDFLILESHEEAAEELPSKVKFFFSAAIEAWDAEFYVKVDDNINLDLA
+GLIEMLEaRRGSQGLYMGCMKSGAVVSEEEQQWYEPEWWKFGDSRTYFRHASGSLFILSN
+NLARYININSASLQSYAHDDISVGSWMMGLNATYVDDDRLCCLSSVQEKVCSfG
+
+
+PACMAD CONSENSUS:
+Length: 353 aa
+
+METLASAMRRENRRSKAPSSSSAgAgLASGRVPLVMAFLSCLAWLYVAGRLWQDAQTRAI
+LSGLLEKnSGSVPKVLSVEDKLRNLGCKAIGRKIVEAEMDLTKAKSEGYLWGNRTAAVDS
+DKKQQLLAVIGVYTGFGSRLKRNVFRGSWMPRGDALKKLEEKGVVIRFVIGRSANRGDSL
+DRNIDDENRQTKDFLILESHEEAAEELPSKAKFFFSAAVETWDAEFYVKVEDNINLDLAG
+LIEMLEGRRGSQGLYMGCMKSGVVISEEGQQWYEPEWWKFGDSKTYFRHASGSLFILSKN
+LARYININSASLQSYAHDDISVGSWMMGLNATYVDDDRLCCSSSRQEKVCSNA
+
+================================================================================

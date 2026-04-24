@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM017464
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             433.0 aa
+Family Size (Extended Family Size): 22 (22) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR47640:SF16
+Panther Family ID:               PTHR47640
+Modal Panther ID:                PTHR47640:SF16
+Modal Panther Description:       POLYADENYLATE-BINDING PROTEIN RBP47C-RELATED
+Modal Panther Family ID:         PTHR47640
+Modal Panther Fam Desc:          TRNA SELENOCYSTEINE 1-ASSOCIATED PROTEIN 1-RELATED-RELATED
+Interpro Signature Accession:    cd12345; cd12344; G3DSA:3.30.70.330:FF:000103; G3DSA:3.30.70.330:FF:000395; G3DSA:3.30.70.330:FF:000144; G3DSA:3.30.70.330; PTHR47640; SSF54928
+Interpro Signature Description:  RRM2_SECp43_like; RRM1_SECp43_like; Polyadenylate-binding protein RBP47B; Polyadenylate-binding protein RBP47; -; TRNA SELENOCYSTEINE 1-ASSOCIATED PROTEIN 1-RELATED-RELATED; RNA-binding domain, RBD
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: polyadenylate-binding protein RBP47
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: polyadenylate-binding protein RBP47-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: polyadenylate-binding protein RBP47
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: polyadenylate-binding protein RBP47-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: polyadenylate-binding protein RBP47-like
+  Gene Descriptions: polyadenylate-binding protein RBP47-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: polyadenylate-binding protein RBP47%2C transcript variant X1
+  Gene Descriptions: polyadenylate-binding protein RBP47
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: polyadenylate-binding protein RBP47-like
+  Gene Descriptions: polyadenylate-binding protein RBP47-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: polyadenylate-binding protein RBP47-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: polyadenylate-binding protein RBP47-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: polyadenylate-binding protein RBP47-like
+Zma
+  Gene count: 2
+  Modal chromosome: Zma02
+  Gene Products: uncharacterized LOC100193409%2C transcript variant X1; uncharacterized LOC100278143
+  Gene Synonyms: GRMZM2G467907; cl773_2,GRMZM2G168163
+  Gene Descriptions: uncharacterized LOC100193409; uncharacterized LOC100278143
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 428 aa
+
+MQAAAANGGGDVQKPQQQPVVGAPPPPvAAVVPPHWVAMPFAPPGAAAMVMPHQMAPAPP
+QFAPHFVPFHAVAPPPPRAAPvaAVALGSPAPAQAGQEENKTIWVGDLHYWMDENYLHSC
+FGYTGEVVAIKVIRNKQTGQSEGYGFVEFYSHAAAEKVLEGFAGHIMPNTDQPFRLNWAS
+FSMGDRRSDVASDHSIFVGDLASDVNDATLLETFSSRYSSVKGAKVVIDANTGRSKGYGF
+VRFGDDSEKTHAMTEMNGVYCSTRPMRIGPATPRKSSGTSGSTGSSARSDGDLTNTTVFV
+GGLDPNVSEEDLRQTFSQYGEISSVKIPVGKQCGFVQFAQRKNAEDALQGLNGSTIGKQT
+VRLSWGRNPANKQLRSDNGNQWNNGMYYAASPFYNGYGYPAAPFPDPGMYAAPAYGAYPF
+YGNQQQVS
+
+
+BOP CONSENSUS:
+Length: 429 aa
+
+MQAAAAANGGGDVQKQQQQVGAAPPAVAALAPPPHWVAMPFAPPGAAAMVVPHQMAPAPP
+QFAPHFVPFHAVAPPPPPLQPRPAAVAMGSPAPAAQPGQEENKTIWVGDLHYWMDENYLH
+TCFGYTGEVVAIKVIRNKQTGQSEGYGFVEFYSHAAAEKVLDGFAGHIMPNTDQPFRINW
+ASFSMGDRRSDIASDHSIFVGDLASDVNDTALLETFSSRYSSVKGAKVVIDANTGRSKGY
+GFVRFGDDSEKTNAMTEMNGVYCSTRPMRIGPATPRKSSGTSGSTGSSARSDGDLTNTTV
+FVGGLDPNVSEDDLRQTFSQYGEISSVKIPVGKQCGFVQFLQRKNAEDALQGLNGSTIGK
+QTVRLSWGRNPANKQLRSDNGNQWNNGMYYAPSPFYNGYGYPAAPFPDPGMYAAAYGAYP
+FYGNQQQVS
+
+
+PACMAD CONSENSUS:
+Length: 435 aa
+
+MQAAAVNGGGDVQKPQQQPQPVVVGAPPPPPAAVVPPHWVAMPFAPPPGAAAMVMQPHQM
+APAPPQFAAAHFVPFHAVAPPPPRAAPVAAVALGSPAPHQAGQEENKTIWVGDLHYWMDE
+NYLHSCFGYTGEVVAIKVIRNKQTGQSEGYGFVEFYSHAAAEKVLEGFSGHIMPNTDQPF
+RLNWASFSMGDRRSDVASDHSIFVGDLASDVNDATLLETFSSRYSSVKGAKVVIDANTGR
+SKGYGFVRFGDDSEKTHAMTEMNGVYCSSRPMRIGPATPRKSSGTSGSNGSSARSDGGDL
+TNTTVFVGGLDPNVSEEDLRQTFSQYGEISSVKIPVGKQCGFVQFAQRKNAEDALQGLNG
+STIGKQTVRLSWGRNPANKQFRGDNGNQWNNGMYYAASPFYNGYGYPAAPFPDPGMYAAP
+AYGAYPFYGNQQQVS
+
+================================================================================

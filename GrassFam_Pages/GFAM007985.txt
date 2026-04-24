@@ -1,0 +1,126 @@
+================================================================================
+GrassFam ID: GFAM007985
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             576.0 aa
+Family Size (Extended Family Size): 15 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45633:SF30
+Panther Family ID:               PTHR45633
+Modal Panther ID:                PTHR45633:SF30
+Modal Panther Description:       CHAPERONIN
+Modal Panther Family ID:         PTHR45633
+Modal Panther Fam Desc:          60 KDA HEAT SHOCK PROTEIN, MITOCHONDRIAL
+Interpro Signature Accession:    cd03344; G3DSA:1.10.560.10:FF:000001; G3DSA:3.50.7.10:FF:000001; G3DSA:3.50.7.10; G3DSA:3.30.260.10; G3DSA:1.10.560.10; NF009488; NF009487; NF009489; NF000592; TIGR02348; PTHR45633; PR00298; PF00118; SSF52029; SSF48592
+Interpro Signature Description:  GroEL; 60 kDa chaperonin; -; chaperonin GroEL; 60 KDA HEAT SHOCK PROTEIN, MITOCHONDRIAL; 60kDa chaperonin signature; TCP-1/cpn60 chaperonin family; GroEL apical domain-like; GroEL equatorial domain-like
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: chaperonin CPN60-1%2C mitochondrial
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu04H
+  Gene Products: chaperonin CPN60-1%2C mitochondrial-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata04D
+  Gene Products: chaperonin CPN60-1%2C mitochondrial
+Tae
+  Gene count: 3
+  Modal chromosome: Tae04A
+  Gene Products: chaperonin CPN60-1%2C mitochondrial-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: chaperonin CPN60-1%2C mitochondrial-like
+  Gene Descriptions: chaperonin CPN60-1%2C mitochondrial-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: chaperonin CPN60-1%2C mitochondrial
+  Gene Descriptions: chaperonin CPN60-1%2C mitochondrial
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 1
+  Modal chromosome: Pvi09K
+  Gene Products: chaperonin CPN60-1%2C mitochondrial-like%2C transcript variant X2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: chaperonin CPN60-1%2C mitochondrial-like%2C transcript variant X1
+Msi
+  Gene count: 1
+  Modal chromosome: Msi01
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 576 aa
+
+MYRAAASLASKARQAGSSARQVGSRLAWSRNYAAKDIRFGVEARALMLRGVEELADAVKV
+TMGPKGRTVIIEQSFGAPKVTKDGVTVAKSIEFSDRVKNVGASLVKQVANATNDTAGDGT
+TCATVLTKAIFTEGCKSVAAGMNAMDLRRGISMAVDSVVTNLKGMARMINTSEEIAQVGT
+ISANGEREIGELIAKAMEKVGKEGVITIADGNTLYNELEVVEGMKLDRGYISPYFITNQK
+NQKCELDDPLILIHDKKVSNLrALVKVLEfALQKQRPLLIVAEDLESEALGTLILNKLRA
+GfKVCAVKAPGFGENRKSNLQDLAILTGGEVITEELGMNLENFEPqMLGTCKKVTVSKDD
+TVILDGAGDKKAIEERAEQLRSAIEQSTSDYDKEKIQERLAKLSGGVAVLKIGGASEAEV
+GEKKDRVTDALNATKAAVEEGIVPGGGVALLYASKDLDKLQTANFDQKIGVQIIQNALKT
+PVHTIATNAGVEGAVIVGKLLEQDNTDLGYDAAKGEYVDMVKAGIIDPLKVIRTALVDAA
+SVSSLMTTTEAIIVEIPKEEKAAPAMGGGGMGGMDF
+
+
+BOP CONSENSUS:
+Length: 576 aa
+
+MYRAAASLASKARQAGSSARQVGSRLAWSRNYAAKDIRFGVEARALMLKGVEELADAVKL
+TMGPKGRTVIIEQSFGAPKVTKDGVTVAKSIEFSDRVKNVGASLVKQVANATNDTAGDGT
+TCATVLTKAIFTEGCKSVAAGMNAMDLRRGISMAVDSVVTNLKGMARMINTSEEIAQVGT
+ISANGEREIGELIAKAMEKVGKEGVITIADGNTLYNELEVVEGMKLDRGYISPYFITNQK
+NQKCELDDPLILIHDKKVSNLRSLVKVLEFALQKQRPLLIVAEDLESEALGTLILNKLRG
+GFKVCAVKAPGFGENRKSNLQDLAILTGGEVITEELGMNLENFEPNMLGTCKKVTVSKDD
+TVILDGAGDKKAIEERAELLRSSIEQSTSDYDKEKIQERLAKLSGGVAVLKIGGASEAEV
+GEKKDRVTDALNATKAAVEEGIVPGGGVALLYASKDLDKLPTANFDQKIGVQIIQNALKT
+PVHTIATNAGVEGAVIVGKLLEQDNTDLGYDAAKGEYVDMVKAGIIDPLKVIRTALVDAA
+SVSSLMTTTEAIIVEIPKEEKAAPAMGGGGMGGMDF
+
+
+PACMAD CONSENSUS:
+Length: 558 aa
+
+MYRATVSLASKARRAGSSARQVGSRLAWSRNYAAKDIKFGVQARALMLRGVEELADAVKV
+TMGPKGRTVVIEQSFGAPKVTKDGVTVAKSIEFSDRVKNVGASLVKQVANATNDTAGDGT
+TCATVLTKAIFTEGCKSVAAGMNAMDLRRGIVMAVDAVVTNLKGMARMISTSEEIAQVGT
+ISANGEREIGELIAKAMEKVGKEGVITIADGNTLYNELEVVEGMKLDRGYISPYFITNQK
+NQKCELSEPLILIYNKKISNVQAKQKPLLIVAGDVQSEALGTLILNRLRAGVKVCAVKAP
+GFGETRKANLQDLAVLTGGEVITEELGMNLENFEPQMLGTCKKVTVSKDDTVILDGAGDK
+KAIEERAEQLRSAIEQSTSDYDKEKLQERLAKLSGGVAVLKIGGASETEVGEKKDRVTDA
+LNATKAAVEEGIVPGGGVALLYASKDLDKLQTANFDQKIGVQIIQNALKTPVQTIASNAG
+VEGAVIVGKLLEQENTDLGYDAAKGEYVDMVKAGIIDPLKVIRTALVDAASVSSLMTTTE
+SIIVETPKEESNAPPVGY
+
+================================================================================

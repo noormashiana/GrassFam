@@ -1,0 +1,145 @@
+================================================================================
+GrassFam ID: GFAM011680
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK3
+Organeller, Te, Etc.:            None
+Median Peptide Size:             611.0 aa
+Family Size (Extended Family Size): 20 (24) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45726:SF3
+Panther Family ID:               PTHR45726
+Modal Panther ID:                PTHR45726:SF3
+Modal Panther Description:       LEUKOTRIENE A-4 HYDROLASE
+Modal Panther Family ID:         PTHR45726
+Modal Panther Fam Desc:          LEUKOTRIENE A-4 HYDROLASE
+Interpro Signature Accession:    cd09599; G3DSA:1.10.390.10:FF:000003; G3DSA:3.30.2010.30:FF:000001; G3DSA:2.60.40.1730; G3DSA:1.10.390.10; G3DSA:1.25.40.320; G3DSA:3.30.2010.30; PTHR45726; PF01433; PF09127; SM01263; SSF55486; SSF48371; SSF63737
+Interpro Signature Description:  M1_LTA4H; Leukotriene A(4) hydrolase; tricorn interacting facor f3 domain; Neutral Protease Domain 2; -; LEUKOTRIENE A-4 HYDROLASE; Peptidase family M1 domain; Leukotriene A4 hydrolase, C-terminal; Leuk_A4_hydro_C_2; Metalloproteases ("zincins"), catalytic domain; ARM repeat; Leukotriene A4 hydrolase N-terminal domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi01
+  Gene Products: leukotriene A-4 hydrolase homolog
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe04
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: leucine aminopeptidase
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: leucine aminopeptidase
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: leucine aminopeptidase; leucine aminopeptidase-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola03
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl03
+  Gene Products: leucine aminopeptidase
+  Gene Descriptions: leucine aminopeptidase
+Osa
+  Gene count: 1
+  Modal chromosome: Osa03
+  Gene Products: Epoxide hydrolase
+  Gene Synonyms: LKHA4,OJ1754_E06.9,OsJ_13129
+  Gene Descriptions: Epoxide hydrolase
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu05
+Pau
+  Gene count: 1
+  Modal chromosome: Pau03
+  Gene Products: leucine aminopeptidase
+  Gene Descriptions: leucine aminopeptidase
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi09K
+  Gene Products: leucine aminopeptidase; leucine aminopeptidase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: leucine aminopeptidase
+Msi
+  Gene count: 2
+  Modal chromosome: Msi01
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi01
+  Gene Products: leukotriene A-4 hydrolase homolog
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC100382637
+  Gene Synonyms: GRMZM2G155580,pco135148
+  Gene Descriptions: uncharacterized LOC100382637
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 611 aa
+
+MAPVDPHSYTDGAHPVTSHAALAFYLDFAASTIHASALLTLSAPHSGDLLLDTRALAVHS
+ASTAaDPPePIPFSLAAaADPVLGTALTLTLPPDTTSFRLTFSTSPAASALQWLAPPQTA
+SGLPFVFSQCQSIHARSVFPCHDTPAARITFSLLLNVPaQLSAVAAARHVARRDPLPSDH
+RGACDDALWCAPGRIVEEFQMEQSVPPYLFAFAAGGIGSRDLGPRTRVYAEGGDKVLDEA
+AREFAGVEEMVKVGESLFGPYEWERFDLLVLPPSFPYGGMENPRMVFLTPTVIKGDAAGA
+QVVAHELAHSWTGNLITNKTNEDFWLNEGFTTYAERRIVEVVQGEERAALNMGIGWRGLN
+RMMERFKDNMEFTKLKPKMAGIDPDDVYSEVPYEKGFQFLWRIERQIGRPAFDEFLKKYI
+ATFKFQSIDTETFLEFLKANVPGIENQIDLhLWVEGTGIPPDAMEPDSATYKKICsLAAE
+FKSGKLPSEDEVADWSGQEWELYLENLPTDVEASQVTALDERYKLSESRDYEVKVAFLQL
+AIPTGCRCYFNEVEKCLKQVGRMKYLRPLYSSLAKCSGEEKMLAQRIFSEAQEFYHPIAR
+SVAESILSKHG
+
+
+BOP CONSENSUS:
+Length: 611 aa
+
+MAPVDPHSYTDGAHPVTAHAALAFYLDFAASTIHASALVTLSAPHTGDLLLDTRALAVHS
+AaTApdPPSPIPFSLAADADPVLGTALTLTLPPDTASFLLTFSTSPAASALQWLSPPQTA
+SGLPFVFSQCQSIHARSVFPCHDTPAARITYSLLLNVPAQLSAVAAARHVARRDPVPSDH
+RGACDDALWCAPGRIVEEFEMAQCVPPYLFAFAAGGIGSRDLGPRTRVYAEGGDTLLDDA
+AREFAGVEDMVKVGESLFGPYEWERFDLLVLPPSFPYGGMENPRMVFLTPTVIKGDAAGA
+QVVAHELAHSWTGNLITNKTNEDFWLNEGFTTYAERRIVEVVQGEERAALNSGIGWRGLN
+RMMERFKDNMEFTKLKPKMAGIDPDDVYSEVPYEKGFQFLWRIERQIGRPAFDEFLKKYI
+ATFKFQSIDTETFLEFLKANVPGIENQVDLHEWIEGTGIPPDAMEPESATYKKICvLAAE
+FKSGKIPSEEEVADWSGQEWELYLENLPTDVEASQVTALDERYKLSESRDYEVKVAFLQL
+AIPTGCRCYFNEVEKCLKQVGRMKYLRPLYSSLARCSGEEKMLAKRIFSEAQEFYHPIAR
+SVAESILLKHG
+
+
+PACMAD CONSENSUS:
+Length: 611 aa
+
+MAPVDPHSYTDGAHPVVSHAALAFYLDFAASTIHASALLTLSAPHSGDLLLDTRALAVHS
+ASTAADPPEPIPFSLAAAPDPVLGSALTLTLPPDTTSFRLTFSTSPAASALQWLAPPQTA
+SGQPFVFSQCQSIHARSIFPCHDTPAARITFSLLLNVPsQLSAVAAARHVARRDPLPSDH
+RGACDDELWCAPGRIVEEFQMEQSVPPYLFAFAAGGIGFRDLGPRTRVYAEGGDKVLDEA
+AREFAGVEEMVKVGEsLFGPYEWERFDLLVLPPSFPYGGMENPRMVFLTPTVIKGDAAGA
+QVVAHELAHSWTGNLITNKTNEDFWLNEGFTTYAERRIVEVVQGEERAALNMGIGWRGLN
+RMMERFKDNMEFTKLKPKMAGIDPDDVYSEVPYEKGFQFLWRIERQIGRPAFDEFLKKYI
+ATFKFQSIDTETFLEFLKTNVPGIENQIDLqLWVEGTGIPPDAMEPDSATYKKICSLAAE
+FKSGKLPSEDEVAdWSGQEWELYLENLPTDVEASQVTALDERYKLSESRDYEVKVAFLQL
+AIPTGCKCYFNEVEKCLKQVGRMKYLRPLYSSLAKCSSEEKMLAQRIFSEAQEFYHPIAR
+SVAESILSKHS
+
+================================================================================

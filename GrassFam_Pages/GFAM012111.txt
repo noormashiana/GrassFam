@@ -1,0 +1,144 @@
+================================================================================
+GrassFam ID: GFAM012111
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK9
+Organeller, Te, Etc.:            None
+Median Peptide Size:             614.0 aa
+Family Size (Extended Family Size): 21 (21) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR10108:SF1119
+Panther Family ID:               PTHR10108
+Modal Panther ID:                PTHR10108:SF1119
+Modal Panther Description:       METHYLTRANSFERASE PMT2-RELATED
+Modal Panther Family ID:         PTHR10108
+Modal Panther Fam Desc:          SAM-DEPENDENT METHYLTRANSFERASE
+Interpro Signature Accession:    G3DSA:3.40.50.150:FF:000122; PTHR10108; PF03141; SSF53335
+Interpro Signature Description:  probable methyltransferase PMT2; SAM-DEPENDENT METHYLTRANSFERASE; Putative S-adenosyl-L-methionine-dependent methyltransferase; S-adenosyl-L-methionine-dependent methyltransferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: probable methyltransferase PMT2%2C transcript variant X2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe05
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: probable methyltransferase PMT2
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: probable methyltransferase PMT2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: probable methyltransferase PMT2
+Ola
+  Gene count: 1
+  Modal chromosome: Ola09
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl09
+  Gene Products: probable methyltransferase PMT2%2C transcript variant X1
+  Gene Descriptions: probable methyltransferase PMT2
+Osa
+  Gene count: 1
+  Modal chromosome: Osa09
+  Gene Products: probable methyltransferase PMT2%2C transcript variant X2
+  Gene Descriptions: probable methyltransferase PMT2
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu03
+Pau
+  Gene count: 2
+  Modal chromosome: Pau17
+  Gene Products: probable methyltransferase PMT2
+  Gene Descriptions: probable methyltransferase PMT2
+Svi
+  Gene count: 1
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi02K
+  Gene Products: probable methyltransferase PMT2
+Pha
+  Gene count: 1
+  Modal chromosome: Pha02
+  Gene Products: probable methyltransferase PMT2%2C transcript variant X1
+Msi
+  Gene count: 2
+  Modal chromosome: Msi03
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: probable methyltransferase PMT2
+Zma
+  Gene count: 1
+  Modal chromosome: Zma07
+  Gene Products: Ankyrin protein kinase-like
+  Gene Synonyms: GRMZM2G114706
+  Gene Descriptions: Ankyrin protein kinase-like
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 614 aa
+
+MAVKASSaDNRTRSTVSLCIVIGMCCFFYILGAWQKSGFGKGDSIALEITKRTDCTILPN
+LSFDTHHSKqGSSSDLVSPVKKFKPCPDRYTDYTPCQDQNRAMKFPRENMNYRERHCPPQ
+KEKLHCLIPPPKGYVAPFPWPKSRDYVPFANCPYKSLTVEKAIQNWVQYEGNVFRFPGGG
+TQFPQGADKYIDQLASVIPIANGTVRTALDTGCGVASWGAYLLKRNVLAMSFAPRDSHEA
+QVQFALERGVPAVIGVLGTIKLPYPSRAFDMAHCSRCLIPWGANDGMYMMEVDRVLRPGG
+YWVLSGPPINWKVNYKGWQRTKKDLEAEQNRIEEIADLLCWEKVSEKGEMAIWRKRVNTE
+SCPSRQEESTVQMCESTNPDDVWYKKMKACVTPLPDVKDpSEVAGGAIKPFPsRLNAVPP
+RIANGLIPGVSSQAFQKDNKMWKKHVKAYSsVNKYLLTGRYRNIMDMNAGFGGFAAAIES
+PKSWVMNVVPTIAKMaTLGAVYERGLIGIYHDWCEAFSTYPRTYDLIHASGLFTLYKNKC
+SMEDILLEMDRILRPEGAVIMRDDVDVLTKVNsLArGMRWNTKLVDHEDGPLVREKILYA
+VKQYWVGGNQTAAA
+
+
+BOP CONSENSUS:
+Length: 614 aa
+
+MAVKGGPADNRTRSTVSICIVIGMCCFFYILGAWQKSGFGKGDSIALEITKRTDCTILPN
+LSFDTHHSKQGSSGDLVSPVKKFKPCPDRFTDYTPCQDQNRAMKFPRENMNYRERHCPPQ
+KEKLHCLVPPPKGYVAPFPWPKSRDYVPFANCPYKSLTVEKAIQNWVQYEGNVFRFPGGG
+TQFPQGADKYIDQLASVIPIANGTVRTALDTGCGVASWGAYLLKRNVLAMSFAPRDSHEA
+QVQFALERGVPAVIGVLGTIKLPYPSRAFDMAHCSRCLIPWGMNDGLYMMEVDRVLRPGG
+YWVLSGPPINWKANYKGWQRTKEDLEAEQNKIEEMAELLCWEKVSEKGETAIWRKRVNTE
+SCPSRLEESTVQMCESTNADDVWYKKMKACVTPLPDVENPSEVAGGAIKPFPSRLNAIPP
+RISNGLIPGVSSQAYQKDNKMWKKHVKAYSNVNKYLLTGRYRNIMDMNAGFGGFAAAIES
+PKSWVMNVVPTIAKIATLGAVYERGLIGIYHDWCEAFSTYPRTYDLIHASGLFTLYKNKC
+SMEDILLEMDRILRPEGAVIMRDDVDVLTKVNKLARGMRWNTKLVDHEDGPLVREKVLYA
+VKQYWVGGNQTAAS
+
+
+PACMAD CONSENSUS:
+Length: 615 aa
+
+MALKASSVDNRTRSTVSLCIVIGMCCFFYILGAWQKSGFGKGDSIALEITKRTDCTVLPN
+LSFDTHHSKAGSSSSDLVSPVKKFKPCPDRYTDYTPCQDQNRAMKFPRENMNYRERHCPP
+QKEKLHCLIPPPKGYVAPFPWPKSRDYVPFANCPYKSLTVEKAIQNWVQYEGNVFRFPGG
+GTQFPQGADKYIDQLASVIPIANGTVRTALDTGCGVASWGAYLLKRNVLAMSFAPRDSHE
+AQVQFALERGVPAVIGVLGTIKLPYPSRAFDMAHCSRCLIPWGANDGMYMMEVDRVLRPG
+GYWVLSGPPINWKVNYKGWQRTKKDLEAEQNRIEEIADLLCWEKVSEKGEMAIWRKRVNT
+ESCPSRQDESTVQMCESTNPDDVWYKKMKACVTPLPDVKDeSEVAGGAIKPFPgRLNAVP
+PRIANGLIPGVSSQAFQKDNKMWKKHVKAYSTVNKYLLTGRYRNIMDMNAGFGGFAAAIE
+SPKSWVMNVVPTIAKMPTLGAVYERGLIGIYHDWCEAFSTYPRTYDLIHASGLFTLYKNK
+CSMEDILLEMDRILRPEGAVIIRDDVDVLTKVNSLAqGMRWNTKMVDHEDGPLVREKILY
+AVKQYWVGGNQTAVA
+
+================================================================================

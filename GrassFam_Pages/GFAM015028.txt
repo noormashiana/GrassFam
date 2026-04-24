@@ -1,0 +1,140 @@
+================================================================================
+GrassFam ID: GFAM015028
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK1
+Organeller, Te, Etc.:            None
+Median Peptide Size:             621.0 aa
+Family Size (Extended Family Size): 19 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR32208:SF104
+Panther Family ID:               PTHR32208
+Modal Panther ID:                PTHR32208:SF104
+Modal Panther Description:       OS05G0559000 PROTEIN
+Modal Panther Family ID:         PTHR32208
+Modal Panther Fam Desc:          SECRETED PROTEIN-RELATED
+Interpro Signature Accession:    cd02851; G3DSA:2.130.10.80; G3DSA:2.60.40.10; PTHR32208; PF07250; PF09118; SSF50965
+Interpro Signature Description:  E_set_GO_C; -; Immunoglobulins; SECRETED PROTEIN-RELATED; Glyoxal oxidase N-terminus; Galactose oxidase-like, Early set domain; Galactose oxidase, central domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi02
+  Gene Products: aldehyde oxidase GLOX
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu03H
+  Gene Products: aldehyde oxidase GLOX-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata03D
+  Gene Products: aldehyde oxidase GLOX-like
+Tae
+  Gene count: 3
+  Modal chromosome: Tae03A
+  Gene Products: aldehyde oxidase GLOX-like
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl01
+  Gene Products: aldehyde oxidase GLOX1-like
+  Gene Descriptions: aldehyde oxidase GLOX1-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa01
+  Gene Products: aldehyde oxidase GLOX
+  Gene Descriptions: aldehyde oxidase GLOX
+Ecu
+  Gene count: 1
+  Modal chromosome: EcuUN8
+Pau
+  Gene count: 1
+  Modal chromosome: Pau01
+  Gene Products: aldehyde oxidase GLOX-like
+  Gene Descriptions: aldehyde oxidase GLOX-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi05
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi05K
+  Gene Products: aldehyde oxidase GLOX-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha05
+  Gene Products: aldehyde oxidase GLOX1-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi05
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi03
+  Gene Products: aldehyde oxidase GLOX1
+Zma
+  Gene count: 1
+  Modal chromosome: Zma03
+  Gene Products: Aldehyde oxidase GLOX1
+  Gene Synonyms: gpm3,GRMZM2G164674
+  Gene Descriptions: Aldehyde oxidase GLOX1
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 620 aa
+
+MGPLLRAAVLaAALLALAAVGEAHsvsDFLNIFKPRNEHDYFHNANQGQEEDVMPRASDQ
+QsLItAPVsqsGLMkVPpRSAPTaVAQDtVVLPVDNAAGFAGAWSiiSENAGVSAMHLVI
+MRHGKAIMFDTVTTGPSLmRLPKGNCRlDLRSkpPGAmDCsAHAVEFDYNTGAVRpLKIL
+TDTWCSSGAFDAEGNLVQTGGYFEGEKVVRYLSPCGNCDWREFPnSLAEGRWYGTQQVLP
+DGRFIVlGGRRAFSYEFVPAeGQsNAQAtPLqLLRDTTDDVENNLYPFVHLLPDGTLFIF
+ANDRSIVFDPRNGQVVRELPkLPGGGRNYPASGMSALLPLDLRRGDVLSPEVIVCGGAPK
+NAFKLGEtNtFPaALRDCARINPsKPGARWAiDQMPVGRVMGDlLILPTGDLLmLNGAAK
+GCSGWGFGRQPVLSPLLYSPRqpRGsRFRALAATtIPRMYHASSAVLPDATVLVAGSNTN
+SAYNFSGVDFPTEVRVERFTPPYLAPELAANRPeIDvASVPAdGMaYGAKFTFQFStPgq
+AVtEADmKVTMYAPPFTTHGYSMNQRLLVLsVTAFkPnGqRYtITVDAPsKPELAPPGYY
+LVYVlAKGVPSKAAWVKvHK
+
+
+BOP CONSENSUS:
+Length: 585 aa
+
+MRGIFSLTMAPLLRPGALAAALLALAVVGvAQGQQVGLLRVPNRSPPTKANmDRVVLPVD
+NAGGFAGlWNiLSENAGVSAMHLAVMRHGKAVMFDTTTTGPSLMqLPAGNCRPDPRSDPP
+GGMDCSAHAVEFDYNTGAVRPLKILTDTWCSSGAFDvDGMLVQTGGYFEGVKVVRrLNPQ
+GNADWvEFPNTLAEGRWYGTQQVLPDGRFIVVGGRRAFSYEFVPAAGQlNAQFTPLPLLR
+DTTDDVENNLYPFVHLLPEGTIFLFANDRSIVFDPQNGQVLRELPKLNGGARNYPASGMS
+ALLPLDLRRGERLSAEVIVCGGAPKEAFKLGEaNKFPHALRDCARINPSKPGARWAIDFM
+PVGRVMGDMLILPTGDLLLLNGAAQGCSGWvFARQPVLTPLLYSPRKRRGARFRALAASN
+IPRMYHSSSAVLPDATVLVAGGNTNSAYNFSGVDFPTEVRVERFTPPYLAPELvAtRPEI
+DlASVPANGVKYGdKLTFRFTSPGPAVtEADMKVTMYAPPFTTHGFSQNQRLLVLQVTAF
+KPEGNRYKITAqAPSKPTLAPPGYYMVFVLVKGVPSKAAWVKIHp
+
+
+PACMAD CONSENSUS:
+Length: 620 aa
+
+MGPLLRAAVLSAALLALAAVGEAHSvSDFLNIFKPRNEHDYFHNANQGQEEDVMPRASDQ
+QsLITAPVSrSGLMKVPpRSAPTAVAQDTVVLPVDNAAGFPGAWSMISENAGVSAMHMVI
+MRNDKAIMFDTVTTGPSLLRLPKGNCRLDLRSKEvGAqDCAAHAVEFDYATGGVRALKIL
+TDVWCSSGALDAEGNLVQTGGYFEGEKVVRYLSPCGNCDWREFPGSLAEGRWYGTQQILP
+DGRSIVLGGRRAFSYEFVPAEGQSNAQANPLQILRDTTDDVENNLYPFVHLLPDGTLFIF
+ANDRSVVFDPRNGQVVRELPVLPGGGRNYPASGMSALLPLDLRRGDVLSPEVIVCGGtPK
+NAFKLGETNtFNAALRDCARINPLKPDARWATDQMPVARTMGDLLILPTGDLLMLNGAAK
+GCSGWGFGRQPVLSPLLYSPRQPRGSRFRALAATTIPRMYHATSAVLPDATVLVAGSNTN
+SAYNFSGVDFPTEVRVERFTPPYLSPERAANRPvIDVATVPGDGMAYGAKFTFQFSTPvQ
+AVAEADvKVTMYAPPFTTHGYSMNQRLLVLSVTAFtANGQRYTITVDAPGKPELAPPGYY
+LLYVmAKGVPSKAAWVKVHK
+
+================================================================================

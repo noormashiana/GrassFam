@@ -1,0 +1,121 @@
+================================================================================
+GrassFam ID: GFAM004220
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             374.0 aa
+Family Size (Extended Family Size): 47 (52) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31009:SF85
+Panther Family ID:               PTHR31009
+Modal Panther ID:                PTHR31009:SF85
+Modal Panther Description:       OS06G0313320 PROTEIN
+Modal Panther Family ID:         PTHR31009
+Modal Panther Fam Desc:          S-ADENOSYL-L-METHIONINE:CARBOXYL METHYLTRANSFERASE FAMILY PROTEIN
+Interpro Signature Accession:    G3DSA:3.40.50.150:FF:000530; G3DSA:1.10.1200.270; G3DSA:3.40.50.150; PTHR31009; PF03492; SSF53335
+Interpro Signature Description:  Os11g0256900 protein; -; Vaccinia Virus protein VP39; S-ADENOSYL-L-METHIONINE:CARBOXYL METHYLTRANSFERASE FAMILY PROTEIN; SAM dependent carboxyl methyltransferase; S-adenosyl-L-methionine-dependent methyltransferases
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: anthranilate O-methyltransferase 2
+Lpe
+  Gene count: 3
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 3
+  Modal chromosome: Hvu07H
+  Gene Products: anthranilate O-methyltransferase 2-like
+Ata
+  Gene count: 4
+  Modal chromosome: Ata07D
+  Gene Products: anthranilate O-methyltransferase 2; anthranilate O-methyltransferase 2-like
+Tae
+  Gene count: 16
+  Modal chromosome: Tae07A
+  Gene Products: anthranilate O-methyltransferase 1-like; anthranilate O-methyltransferase 2-like; anthranilate O-methyltransferase 3-like; inactive anthranilate O-methyltransferase 1-like
+Ola
+  Gene count: 2
+  Modal chromosome: Ola06
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl06
+  Gene Products: anthranilate O-methyltransferase 2-like
+  Gene Descriptions: anthranilate O-methyltransferase 2-like
+Osa
+  Gene count: 2
+  Modal chromosome: Osa06
+  Gene Products: anthranilate O-methyltransferase 2; benzoate O-methyltransferase
+  Gene Descriptions: anthranilate O-methyltransferase 2; benzoate O-methyltransferase
+Ecu
+  Gene count: 5
+  Modal chromosome: Ecu03
+Svi
+  Gene count: 1
+  Modal chromosome: Svi09
+Pvi
+  Gene count: 3
+  Modal chromosome: Pvi01K
+  Gene Products: anthranilate O-methyltransferase 2-like; inactive anthranilate O-methyltransferase 1-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha09
+  Gene Products: anthranilate O-methyltransferase 2-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi02
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi02
+  Gene Products: anthranilate O-methyltransferase 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 375 aa
+
+MKVErgLRMATGDGENSYAaNSRLQEKAILETRPVLQKAIEEVYtSLSprrSTMVVADLG
+CSSGPNTLLVVSEVIGtIsdYtRksEeerrAVEVQFFLNDLPGNDFNLVFRSLEQLetLg
+gkEdeAatPPYYVAGLPGSfYTRLFPcQSVHLFHSSYSLMWRSKVPEELSSGTHLNEGNI
+YIGKTTPPaViKLFQEQFqKDFELFLTLRsKELVsGGRMvLTFLGRKSEEMLmHGDVgTM
+WELLAkALQSLVLKGRVEKEKLDSFNLPYYAPSVdEVKALInEskLFDIEHirLFESNWD
+PQDDSdsDVVLDCASSGaNVAkcIRAVlEPLIvdHFGEdIiDELFmVYASvVAKHLEKaK
+AKYPIIVVSLKKAmH
+
+
+BOP CONSENSUS:
+Length: 372 aa
+
+MKvEsgLHMATGDGENSYAANSRLQEKAILETRPVLqKAIEEVYtSLSaRrSTMVVADLG
+CSSGPNTLlvVSEVIGaISdYtRKsEEErRAVEvQFFLNDLPGNDFNLVFRSLEQLenLt
+gkeTPPYYVAGLPGSFYtRLFPsRSVHLFHSSYSLMWRSKVPEELSSGTHLNEGNIYIGK
+TTPPiVIKLFQEQFqkDFELFLTLRSkELVsGGRMlLTFLGRKSEEMLmHGDVSTMWELL
+AkSLQSLVLKGRVEKEKLDSFNLPYYAPSVkEVKALINEskLFDIEHvrLFESNWDPQDD
+sdsDdVVLDCASSGaNVAkCIRAVLEPLIvDHFGEdIIDELFvVYASvVAKHLEKAKAKY
+PIIVVSLKKAMH
+
+
+PACMAD CONSENSUS:
+Length: 382 aa
+
+MKVERDLRMATGDGANSYAsNSRLPmKALLKTkPVLQKAIQELYsSlLLhGtSTmVvADL
+GCSSGPNTLLVVSEVMSTLRayirEgTsmeDDrRrAvEVQFFLNDLPGNDFNLVFRSLEQ
+LQdLgAEtEdmAAApPCYVAGLPGSyYTRLFPCQSVHLFHSSySLMWRSKVPEDLSNGTH
+rNEeNIYIGKTTPPsVVkLFQEQFrKDFKLFLTLRYKELVSGGRMVLTFLGRKgEEMLMH
+GdVgSMfELLSkALQsLVQKGRVEKEKLNSFNLPYYAPSVsEVKALIKEqDLFsIEqIrL
+FESNWDPHDDSDSDVVLDCasSGeNIANKSIRAVMEPLIIEHFGEAILDELFMvFASIVA
+KHLEKlKAKYPVIVVSLKKAmH
+
+================================================================================

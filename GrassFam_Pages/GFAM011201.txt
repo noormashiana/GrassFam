@@ -1,0 +1,127 @@
+================================================================================
+GrassFam ID: GFAM011201
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             498.0 aa
+Family Size (Extended Family Size): 51 (61) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      Conflicted
+Panther Family ID:               PTHR47950
+Modal Panther ID:                PTHR47950:SF27
+Modal Panther Description:       IG-LIKE DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR47950
+Modal Panther Fam Desc:          CYTOCHROME P450, FAMILY 76, SUBFAMILY C, POLYPEPTIDE 5-RELATED
+Interpro Signature Accession:    cd11073; G3DSA:1.10.630.10:FF:000007; G3DSA:1.10.630.10; PTHR47950; PR00463; PF00067; SSF48264
+Interpro Signature Description:  CYP76-like; Cytochrome P450 76C4; Cytochrome P450; CYTOCHROME P450, FAMILY 76, SUBFAMILY C, POLYPEPTIDE 5-RELATED; E-class P450 group I signature
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe01
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu02H
+  Gene Products: cytochrome P450 76M5-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata01D
+  Gene Products: cytochrome P450 76C3; cytochrome P450 76T24
+Tae
+  Gene count: 4
+  Modal chromosome: Tae01A
+  Gene Products: cytochrome P450 76C3-like; cytochrome P450 76T24-like; geraniol 8-hydroxylase-like
+Ola
+  Gene count: 4
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 5
+  Modal chromosome: Ogl10
+  Gene Products: carnosic acid synthase-like; cytochrome P450 76C1-like; cytochrome P450 76C2-like; ferruginol synthase-like; geraniol 8-hydroxylase-like
+  Gene Descriptions: carnosic acid synthase-like; cytochrome P450 76C1-like; cytochrome P450 76C2-like; ferruginol synthase-like; geraniol 8-hydroxylase-like
+Osa
+  Gene count: 4
+  Modal chromosome: Osa10
+  Gene Products: carnosic acid synthase; cytochrome P450 76C1; ferruginol synthase; geraniol 8-hydroxylase
+  Gene Descriptions: carnosic acid synthase; cytochrome P450 76C1; ferruginol synthase; geraniol 8-hydroxylase
+Ecu
+  Gene count: 10
+  Modal chromosome: Ecu01
+Pau
+  Gene count: 1
+  Modal chromosome: Pau06
+  Gene Products: geraniol 8-hydroxylase-like
+  Gene Descriptions: geraniol 8-hydroxylase-like
+Svi
+  Gene count: 4
+  Modal chromosome: Svi08
+Pvi
+  Gene count: 5
+  Modal chromosome: Pvi01N
+  Gene Products: cytochrome P450 76C2-like; cytochrome P450 76T24-like; geraniol 8-hydroxylase-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha06
+  Gene Products: cytochrome P450 76C2-like
+Msi
+  Gene count: 7
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 2
+  Modal chromosome: Sbi05
+  Gene Products: cytochrome P450 76A1; geraniol 8-hydroxylase
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 494 aa
+
+MALSLVCAASLPLtLLtaYALQPLaDARRRLPPGPRPLPVIGNLLDIGDhPHRSFASLAD
+RHGPLMSVRLGtVpAVVATSPdAAREVLQrkNASLAARRGLDAWRVMGHDANSMIALPPR
+GKWRAlRqLcteeLfgPRRLAElRAVREEkARELARRVSaaGGAPVaVARaAFaAVAGVL
+WRSMFSEDLDPATVrELTDVAEEAVVvAGaPNVSDYFPALAAADLqGVRRRMeKLVAWlY
+GvIDrQIERRRrsRAdGEARrNDLLDVALDMEGEVqGEEGWVMNQesMRGMFMDLLvAGS
+GStsSTIEWAMAELLQNPrsMhKLQEELRnVLGTRTHvEESDIssLPYLQAVVKETLRLH
+PTVPiAtNkAEATVEIQGYnIPKGTTvYVNIWgICRrAKVWDDPnrFMPERFLgRdInFf
+GtdFELIPFGAGRRICLGLPLAerMLHLMLGSMLHrFDWTLPgDgGgaGVDMTEQFGLVL
+SMAvPLRAVAKKiL
+
+
+BOP CONSENSUS:
+Length: 494 aa
+
+MADLSLVCAASLPLTLLAAYALQPLADARRRLPPGPRPLPVLGNLLDIGEHPHRSFASLA
+DIHGPLMFVRLGTVPAVVATSPEAAREVLQKKNASLAARRGLDAWRVMDHDANSMVALPP
+RGKWRAFRQHSRAALLGPRPLDEHRAVREEEARELVRRVSAAGGAPVdVAREAFAAvVnV
+LCRGMFSEkLDPAVVSELTDVAEEAAVLSGlPNVSDFFPALAALDLQGIRRKArKLLgWL
+YtLIDEQIERRRLsRadGeARrNDLLDVLLDMDGEVqDEDGWVMNQESIRGLFMELLLGA
+TSvSTTIEWAMAELLQNPpsMhKLQEELRNVLGTRTwMEESDIssLPYLQAVVKETLRLH
+PPVPFATGlAEAAVEIqGYnVPKGTTALVNIWGICRnAKVWDEPNRFmPERFLHREIeFF
+GADFELIpFSAGRRICPGLQLSSkMVPLiLGSMLYHFDWTLPGEEDAAhVDMTEQFGLVL
+SMAVPLRVVPKKIL
+
+
+PACMAD CONSENSUS:
+Length: 478 aa
+
+MSLLmalLHyiLQPLvDARRRLPPGPRRLPVIGNLHNIGKDPHRAFAGLArRYGPLVSVR
+LGGVrAVVASSsDAAREILHRHNADLAGRGGMDAWHACGHHANSIIALPPRRKWRALRKL
+CTEELFTPRRLAELRAVREEKARELARAVSsvsDGSPVAVARAVFPAVAGVLWRSMFSED
+LDPATArELtDVVREAVVVAGAPNVSDYFPALAAADVLGVRRRMEKLVAWTYGVIDRQIE
+LRRRSRAAGEPRRNDLLDAALDMEGQVDGTEGWVMNQDAMRGMFMDLLVAGSGSTTSTIE
+WAMAELLQNPRtMkKVQEELrRVvGARRHVeESDIsnLPYLQAVVKETLRLHPTVPIGLN
+KAEATVEVQGYrIPKGTTVYVNIWAICRRAKVWDDPEERFvgRDVGFLGTsFELIPFGAG
+RRICLGLPLAERMLHLMLGSLLHRFQWTVPDDGIDMAERFGLVLSMATPLRAVAKKVL
+
+================================================================================

@@ -1,0 +1,113 @@
+================================================================================
+GrassFam ID: GFAM009807
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   None
+Organeller, Te, Etc.:            None
+Median Peptide Size:             492.5 aa
+Family Size (Extended Family Size): 30 (51) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR31639:SF69
+Panther Family ID:               PTHR31639
+Modal Panther ID:                PTHR31639:SF69
+Modal Panther Description:       F-BOX DOMAIN-CONTAINING PROTEIN
+Modal Panther Family ID:         PTHR31639
+Modal Panther Fam Desc:          F-BOX PROTEIN-LIKE
+Interpro Signature Accession:    PTHR34145; PF23622
+Interpro Signature Description:  OS02G0105600 PROTEIN; At1g61320/AtMIF1, LRR domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 2
+  Modal chromosome: Bdi01
+  Gene Products: uncharacterized LOC104581251%2C transcript variant X1; uncharacterized LOC104581829%2C transcript variant X1
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe02
+Hvu
+  Gene count: 2
+  Modal chromosome: Hvu06H
+  Gene Products: F-box protein At1g80960-like; F-box/FBD/LRR-repeat protein At1g13570-like
+Ata
+  Gene count: 2
+  Modal chromosome: Ata06D
+  Gene Products: probable FBD-associated F-box protein At1g32375%2C transcript variant X1; uncharacterized LOC120966681%2C transcript variant X2
+Tae
+  Gene count: 7
+  Modal chromosome: Tae06B
+  Gene Products: F-box protein At1g80960-like; F-box protein At5g03100-like%2C transcript variant X1; putative F-box/FBD/LRR-repeat protein At5g62970; putative F-box/LRR-repeat protein At4g15060; putative F-box/LRR-repeat protein At5g02930; uncharacterized LOC123135045
+Ola
+  Gene count: 1
+  Modal chromosome: Ola07
+Ecu
+  Gene count: 5
+  Modal chromosome: Ecu04
+Svi
+  Gene count: 2
+  Modal chromosome: Svi02
+Pvi
+  Gene count: 4
+  Modal chromosome: Pvi02K
+  Gene Products: F-box/LRR-repeat protein At3g03360-like%2C transcript variant X1; putative FBD-associated F-box protein At5g50270%2C transcript variant X1; uncharacterized LOC120659316%2C transcript variant X1; uncharacterized LOC120661652%2C transcript variant X2
+Msi
+  Gene count: 1
+  Modal chromosome: Msi04
+Sbi
+  Gene count: 3
+  Modal chromosome: Sbi02
+  Gene Products: F-box/FBD/LRR-repeat protein At1g13570; putative F-box/LRR-repeat protein At3g58880%2C transcript variant X2; putative FBD-associated F-box protein At5g56390
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 494 aa
+
+MdStSPPAPPpPpaTaDDCiPPKKrmcrhdveQpVQNhDwIStLPDDILIkILSLMTvRE
+AAMTgcLSTRWRHLWKNVDhLILDsyTFGMQelEnSnYHENPdLWNdeATKFVrKVNgvL
+rhHnGNgIKEFtVrFPLTSAHASeLDrWveFAAaAsTEkLfLdLsNKnkhGkgatqhaEP
+YnFPLkpFaDgRGCqLreLtLsnCSLeTaPANLSGFSYLksLsLaRVSVVDevVsNImSS
+CcALrsLvLqrCHQLIhLraSHArLviLeVyfCksLvSIsIHAekLesFsYkGHKVNIEY
+EcAPfLhmLhVyFVkknECPLDFIgaLPKLetLvLQFPspLQVSRvLQHsgRFAGLkeIV
+LcLLtSWKEsIsSVAYLLKAAPLVEyLgLeVygnLqpPteLnItWPEdcTlaRLhTIiIG
+GFSGEpELMELLyFLLRRSPALKtLvIDTHamepwgfRWkReKSEDdtRCrYARevAlTH
+LaPKVPSTVKFsIi
+
+
+BOP CONSENSUS:
+Length: 497 aa
+
+MDSltPPAPptPPnTEDDCFPpKKtmCtHDeEQhVQNCDWISTLPDDILIEILSLMTISE
+AAMTGFLSTRWRHLWKKVDHLILDSYTFGMQELEKSRYHENPLLWNDVATKFVrKVNGLL
+hSRYGNKIKEFtIRFPLTSAHASNLDHWIeFAAvASTEKLfLDLDNKCREGCtICvKSEP
+YnFLLGPFsNGRgCsLdELTLfNCSiGTMPANLSGFSYLKsLlLARVSIVDETVSNImSN
+CCALEsLVLQYCHQLIHLTASHARLQILvVqFCKSLvSvCIHADNLESFaYMGYKINIEC
+EhAqFLeMLHVYFVNKDDCPLDFISAFPKLPKLEFLVLQFPtcLQVyRVLQHasRFAGLT
+TIvLvLmKSWKEgIsSVAYLLKAAPLIEYFGLHGCsKLhQpTQLNITWPEDLILARLYTI
+IIgGFSGEFELMELvYFLLRsTPALdvFqIDTRAMEPWLaRsNEHKLQDdmRCRYAREMA
+ytHLvPKVPSTVKFhIt
+
+
+PACMAD CONSENSUS:
+Length: 491 aa
+
+MdStSPPPPPpdsADDCIPPkkrRTWCNaQQPvQNHDRISaLPDDILIKILSLMTVREAA
+VTdcLSTRWRHLWkNVDhLILDmHTFGMQVPeNSNynENPDfWNSEATKFVnKVNEVLrH
+HNGNGIKKFkVqFPLSSaHASELDRWVAFAAASGsetLnLiLsgyHGrvAtqhaEpYsFP
+LKHFaDLrGCqLRrLlLsmCSLEtVPANLSGFSYLdsLsLtrVsVVDsVVLNIMSSCrAL
+RhLyLqRCHQLINlRtSHAqLVvLEVynCksLiSISIHAEKLecFSYKGHKVDIeYECAP
+vLhkLhAlFvknNECPLDClGALPKLrtLtLQFPSrLQVSrvLQHsgRFAGLKEIVLCLL
+TSWKkSIrSVAYLLKAAPLVEtLrLEVYGNLqPPkKLKIrWPKNCTprRLrTIRIGGFSG
+EsELMeLLfFLLkRSPmLKTLvIDTHPryYvGFskWKREeSEDatRCyYARGVAlTHLAP
+kvPSTVKFsvM
+
+================================================================================

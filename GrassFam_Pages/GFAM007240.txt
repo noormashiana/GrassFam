@@ -1,0 +1,135 @@
+================================================================================
+GrassFam ID: GFAM007240
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK12
+Organeller, Te, Etc.:            None
+Median Peptide Size:             425.0 aa
+Family Size (Extended Family Size): 20 (20) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR45719:SF6
+Panther Family ID:               PTHR45719
+Modal Panther ID:                PTHR45719:SF6
+Modal Panther Description:       BETA-1-3-GALACTOSYL-O-GLYCOSYL-GLYCOPROTEIN, PUTATIVE, EXPRESSED-RELATED
+Modal Panther Family ID:         PTHR45719
+Modal Panther Fam Desc:          GLYCOSYLTRANSFERASE
+Interpro Signature Accession:    PTHR45719; PF02485
+Interpro Signature Description:  GLYCOSYLTRANSFERASE; Core-2/I-Branching enzyme
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi04
+  Gene Products: beta-glucuronosyltransferase GlcAT14B
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe03
+Hvu
+  Gene count: 1
+  Modal chromosome: Hvu05H
+  Gene Products: beta-glucuronosyltransferase GlcAT14A-like
+Ata
+  Gene count: 1
+  Modal chromosome: Ata05D
+  Gene Products: beta-glucuronosyltransferase GlcAT14B
+Tae
+  Gene count: 3
+  Modal chromosome: Tae05A
+  Gene Products: beta-glucuronosyltransferase GlcAT14B-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola10
+Ogl
+  Gene count: 1
+  Modal chromosome: Ogl12
+  Gene Products: beta-glucuronosyltransferase GlcAT14A-like
+  Gene Descriptions: beta-glucuronosyltransferase GlcAT14A-like
+Osa
+  Gene count: 1
+  Modal chromosome: Osa12
+  Gene Products: beta-glucuronosyltransferase GlcAT14A
+  Gene Descriptions: beta-glucuronosyltransferase GlcAT14A
+Ecu
+  Gene count: 1
+  Modal chromosome: Ecu06
+Pau
+  Gene count: 1
+  Modal chromosome: Pau22
+  Gene Products: beta-glucuronosyltransferase GlcAT14A-like
+  Gene Descriptions: beta-glucuronosyltransferase GlcAT14A-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi03
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi03K
+  Gene Products: beta-glucuronosyltransferase GlcAT14A-like; beta-glucuronosyltransferase GlcAT14B-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha03
+  Gene Products: beta-glucuronosyltransferase GlcAT14A-like
+Msi
+  Gene count: 2
+  Modal chromosome: Msi14
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi08
+  Gene Products: beta-glucuronosyltransferase GlcAT14A
+Zma
+  Gene count: 1
+  Modal chromosome: Zma01
+  Gene Products: uncharacterized LOC103641024
+  Gene Synonyms: GRMZM2G423472,GRMZM2G423476
+  Gene Descriptions: uncharacterized LOC103641024
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 424 aa
+
+MKPIvqSlhAAVDRRWLLPLAVGSALSLLLLVlLTTFPLPFPSSSSSPSPALFVEHKLAP
+TPPSsAAASLPRIAFLISGSAGDASALRRVLLALYHPRNRYILHLDAEAPDSDRRDLAAG
+LAAHPVIAAAGNVRVVeRANLVTYRGPTMVANTLHAAAAFLWGHAGAGGSDWDWFINLSA
+SDYPLVTQDDLIHVFSKLPRDLNFIDHTSNIGWKEFQRAKPVIIDPGLYMKKKADVFWIP
+QRRSVPTAFKLFTGSAWMALSRPFVEYCIWGWDNLPRTVLMYYSNFISSPEGYFHTVVCN
+AEEFKNTTVNHDLHYISWDNPPKQHPHYLTvEDLDRMVASDAPFARKFHADDPVLDKIDE
+EILSRGPDMPTPGGWCAGTRENGSDPCSVIGNTSLLQPGRGAVRLQRLvTSLLSEEKFHP
+RQCK
+
+
+BOP CONSENSUS:
+Length: 424 aa
+
+MKPIVVHAAAVDRRWLLPLAVGSALSLFLLVLLTTVPLPFFPSSSPSPTLFVEHKLAPTP
+PASRAAGSLPRIAYVISGSARDASALRRVLLALYHPRNLYVLHLDAEAPESDRRDLAAGL
+AAHPVIAAAGNVRVVERANLVTYRGPTMVASTLHAAAALLWGHSGAGGSDWDWFINLSAS
+DYPLVTQDDLIHVFSKLPRDLNFIDHTSNIGWKEFQRAKPVIIDPGLYMKKKADVFWIPQ
+RRSVPTAFKLFTGSAWMALSRSLVEYSIWGWDNLPRTVLMYYSNFISSPEGYFHTVVCNA
+EEFKNTTVNHDLHYISWDNPPKQHPHYLTMDDLDRMVASDAPFARKFHADEPVLDRIDAE
+LLSRRGPDMPTPGGWCAGTRDNGSDPCSVIGNTSFLQPGRGAVRLQRLVTSLLSEEKFHP
+RQCK
+
+
+PACMAD CONSENSUS:
+Length: 424 aa
+
+MKPLAQSLHAAVDRRWLLPLAVGSALSLLLLVALTTFPLPFPSSSSSsSSALFVEHKLAP
+TPPSPAgASLPRIAFLISGSAGDASALRRVLLALYHPRNRYILHLDAEAPDSDRRDLAAg
+LAsHPVIASAANVRVVDRANLITYRGPTMVANTLHAAAAFLWGHAGDGGSDWDWFINLSA
+SDYPLVTQDDLIHVFSKLPRDLNFIDHTSDIGWKEFQRAKPVIIDPGLYMKKKADVFWIP
+QRRSVPTAFKLFTGSAWMALSRPFVEYCIWGWDNLPRTVLMYYSNFISSPEGYFHTVVCN
+AEEFKNTTVNHDLHYISWDNPPKQHPHYLTVEDLDRMVASDAPFARKFHADDPVLDKIDE
+EILSRGvDMPTPGGWCAGTRENGSDPCSVIGDTSLLQPGRGAVRLQRLITSLLSEEKFHP
+RQCK
+
+================================================================================

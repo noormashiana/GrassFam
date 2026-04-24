@@ -1,0 +1,125 @@
+================================================================================
+GrassFam ID: GFAM002801
+================================================================================
+
+BASIC INFORMATION
+--------------------------------------------------------------------------------
+Ancestral Grass Chromosome ID:   AGK2
+Organeller, Te, Etc.:            None
+Median Peptide Size:             418.0 aa
+Family Size (Extended Family Size): 22 (23) members
+
+FUNCTIONAL ANNOTATIONS
+--------------------------------------------------------------------------------
+Panther ID:                      PTHR44372:SF3
+Panther Family ID:               PTHR44372
+Modal Panther ID:                PTHR44372:SF3
+Modal Panther Description:       ELONGATION FACTOR 1-GAMMA 3
+Modal Panther Family ID:         PTHR44372
+Modal Panther Fam Desc:          ELONGATION FACTOR 1-GAMMA 1-RELATED
+Interpro Signature Accession:    cd03181; cd03044; G3DSA:3.30.70.1010:FF:000001; G3DSA:3.40.30.10:FF:000148; G3DSA:1.20.1050.10:FF:000006; G3DSA:1.20.1050.10; G3DSA:3.30.70.1010; PTHR44372; PF00647; SFLDG00358; SFLDS00019; SM01183; SSF47616; SSF89942
+Interpro Signature Description:  GST_C_EF1Bgamma_like; GST_N_EF1Bgamma; Elongation factor 1-gamma 1; Elongation factor 1B gamma; Elongation factor 1 gamma; -; Translation elongation factor EF1B, gamma chain, conserved domain; ELONGATION FACTOR 1-GAMMA 1-RELATED; Elongation factor 1 gamma, conserved domain; Main (cytGST); Glutathione Transferase (cytosolic); EF1G_2; GST C-terminal domain-like; eEF1-gamma domain
+
+
+REXdb Match:                     False
+REXdb Percentage:                0.00%
+
+SPECIES DISTRIBUTION
+--------------------------------------------------------------------------------
+Bdi
+  Gene count: 1
+  Modal chromosome: Bdi03
+  Gene Products: elongation factor 1-gamma 2
+Lpe
+  Gene count: 1
+  Modal chromosome: Lpe06
+Ata
+  Gene count: 1
+  Modal chromosome: Ata06D
+  Gene Products: elongation factor 1-gamma 2%2C transcript variant X2
+Tae
+  Gene count: 3
+  Modal chromosome: Tae06B
+  Gene Products: elongation factor 1-gamma 2; elongation factor 1-gamma 2-like
+Ola
+  Gene count: 1
+  Modal chromosome: Ola05
+Ogl
+  Gene count: 2
+  Modal chromosome: Ogl02
+  Gene Products: elongation factor 1-gamma 1; elongation factor 1-gamma 2
+  Gene Descriptions: elongation factor 1-gamma 1; elongation factor 1-gamma 2
+Osa
+  Gene count: 2
+  Modal chromosome: Osa02
+  Gene Products: elongation factor 1-gamma 1-like; elongation factor 1-gamma 2-like
+  Gene Descriptions: elongation factor 1-gamma 1-like; elongation factor 1-gamma 2-like
+Pau
+  Gene count: 2
+  Modal chromosome: Pau05
+  Gene Products: elongation factor 1-gamma 2; elongation factor 1-gamma 2-like
+  Gene Descriptions: elongation factor 1-gamma 2; elongation factor 1-gamma 2-like
+Svi
+  Gene count: 1
+  Modal chromosome: Svi01
+Pvi
+  Gene count: 2
+  Modal chromosome: Pvi01K
+  Gene Products: elongation factor 1-gamma 2; elongation factor 1-gamma 2-like
+Pha
+  Gene count: 1
+  Modal chromosome: Pha01
+  Gene Products: elongation factor 1-gamma 2
+Msi
+  Gene count: 2
+  Modal chromosome: Msi07
+Sbi
+  Gene count: 1
+  Modal chromosome: Sbi04
+  Gene Products: elongation factor 1-gamma 2
+Zma
+  Gene count: 2
+  Modal chromosome: Zma04
+  Gene Products: elongation factor 1-gamma 2%2C transcript variant X1; putative elongation factor 1-gamma 2
+  Gene Synonyms: GRMZM2G029559; GRMZM2G134582,GRMZM2G320497
+  Gene Descriptions: elongation factor 1-gamma 2; putative elongation factor 1-gamma 2
+
+CONSENSUS SEQUENCES
+--------------------------------------------------------------------------------
+
+CONSENSUS:
+Length: 418 aa
+
+MALVLHAGSGNKNAFKALIAAEYSGVKVELVKDFQMGVSNKTPEFLKMNPIGKVPVLETP
+DGPVFESNAIARYVTRLKADNPLYGSSLIDYAHIEQWmDFAATEVDANIGKWLYPRmGFY
+PYAAVSEEtAIAALKRALGSLNTHLASNTYLVGHSVTLADIVMTCNLYLGFaRIMTKSFT
+SEFPHVERYFWTMVNQPNFKKViGDVKQAESVPPVQKKAAPAKEQKPKEAKKEAPKEAPK
+PKAvEKPEEEEEAPKPKPKNPLDLLPPSKMILDDWKRLYSNTKTNFREVAIKGFWDMYDP
+EGYSLWFCDYKYNDENTVSFVTMNKVGGFLQRMDLCRKYAFGKMLVIGSEPPFKVKGLWL
+FRGSEIPKFVMDEVYDMELYEWTKVDLSDEAQKERVNAMIEDQEPFEGEALLDAKCFK
+
+
+BOP CONSENSUS:
+Length: 418 aa
+
+MALVLHAGSGNKNAFKALIAAEYSGVKVELVKDFQMGVSNKTPEFLKMNPIGKVPVLETP
+DGPVFESNAIARYVARsKADNPLYGSSLIEYAHIEQWIDFSATEVDANIGKWLYPRLGFA
+PYVAVSEEAaIAALKRALGALNTHLASNTYLVGHSVTLADIVMTCNLYmGFARIMTKSFT
+SEFPHVERYFWTMVNQPNFKKVMGDVKQAESVPPVQKKAAAPKEQKPKEAKKEApKEAPK
+PKAVEKPEEEEEAPKPKPKNPLDLLPPSKMILDEWKRLYSNTKTNFREVAIKGFWDMYDP
+EGYSLWFCDYKYNEENTVSFVTMNKVGGFLQRMDLCRKYAFGKMLVIGSEPPFKVKGLWL
+FRGPEIPKFVMDEVYDMELYEWTKVDISDEAQKERVSAMIEDLEPFEGEALLDAKCFK
+
+
+PACMAD CONSENSUS:
+Length: 418 aa
+
+MALVLHAGSGNKNAFKTLIAAEYSGIKVELVKDFQMGVSNKTPEFLKMNPIGKVPVLETP
+DGPVFESNAIARYVTRLKADNPLYGSSLIDYAHIEQWMDFAATEVDANIGKWLYPRMGFY
+PYAAVSEETAIAALKRALGSLNTHLASNTFLVGHSVTLADIVLTCNLYLGFsRILTKSFT
+SEFPHVERYFWTMVNQPNFKKVIGDVKQAEAVPPVQKKAAPAKEQKPKEAKKEAPKEAPK
+PKAdEKPAEEEEAPKPKPKNPLDLLPPSKMILDDWKRLYSNTKTNFREVAIKGFWDMYDP
+EGYSLWFCDYKYNDENTVSFVTMNKVGGFLQRMDLCRKYAFGKMLVVGSEPPFKVKGLWL
+FRGSEIPKFVMDEVYDMELYEWTKVDLSDEAQKERVNAMIEDQEPFEGEALLDAKCFK
+
+================================================================================
