@@ -19,6 +19,6 @@ The files within this repo are organized broadly into three subdirectories: `sof
 
 - `software/`: This subdirectory contains pipeline scripts used in this work.
 
-- `GrassFam-data/`: This subdirectory contains the GrassFam HMM binaries, cluster information, multiple sequence alignments, consensus sequences, and more. 
+- `GrassFam-data/`: This subdirectory contains the GrassFam HMM binaries, cluster information, multiple sequence alignments, and more. This subdirectory also contains Supplementary Data File 2: fasta files of grass, BOP, and PACMAD consensus sequences. As well as, Supplementary Data File 3: GRASSFAM HMMS.
 
-- `Supplementary-data/`: This subdirectory contains large supplementary data, including data files used to create GrassFam not avaiable in other public databases.
+- `Supplementary-data/`: This subdirectory contains large supplementary data, including data files used to create GrassFam not avaiable in other public databases. This subdirectory also contains Supplementary Data File 1: master tsv of GrassFams, including panther and designation as TE, cp/mt, etc. As well as, Supplementary Data File 4: a csv file of candidate loci for “missing” non-TE GrassFams.
